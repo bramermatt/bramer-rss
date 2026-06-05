@@ -1,0 +1,2 @@
+{% extends 'base.html' %}
+{% block content %}<h1>Categories</h1><div class="grid">{% for category, count in rows %}<a class="category-tile" href="{{ url_for('main.articles', category=category) }}"><strong>{{ category }}</strong><span>{{ count }} articles</span></a>{% else %}<p>No categories yet.</p>{% endfor %}</div>{% endblock %}

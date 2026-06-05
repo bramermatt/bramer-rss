@@ -1,6 +1,7 @@
-__pycache__/
-*.py[cod]
-.pytest_cache/
 .venv/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+instance/*.sqlite
+instance/*.db
 .env
-public/
