@@ -29,9 +29,6 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Verify static generator entrypoint
-        run: python -c "import main; import bramer_briefing.generator"
-
       - name: Generate static briefing
         run: python main.py --output public
 

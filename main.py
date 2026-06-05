@@ -1,6 +1,6 @@
-#!/usr/bin/env python3
-"""Command-line entrypoint for Bramer Briefing static site generation."""
-from bramer_briefing.generator import main
+from bramer_briefing import create_app
+
+app = create_app()
 
 if __name__ == "__main__":
-    main()
+    app.run(debug=True)

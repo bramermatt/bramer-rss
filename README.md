@@ -1,137 +1,102 @@
 # Bramer Briefing
 
-Bramer Briefing is a static personal daily news website. It automatically builds a curated five-minute briefing from RSS feeds and publishes the latest `index.html` through GitHub Actions and GitHub Pages.
+Bramer Briefing is a local Flask web application that turns RSS feeds into a curated personal intelligence dashboard and five-minute digital newspaper for science teaching, Bible study, ministry, history, books, AI, and technology.
 
-There is no Flask, FastAPI, SQLite, authentication, database, user account system, or web server. The finished site is just static HTML and CSS.
-
-## What the site answers
-
-> If I only have five minutes today, what should I know?
-
-The briefing is designed for a high school science teacher, Bible teacher, preacher, lifelong reader, and technology enthusiast who follows science, space, AI, education, theology, biblical studies, church leadership, American history, books, and fantasy literature.
-
-## How it works
-
-Every day, GitHub Actions:
-
-1. Checks out the repository.
-2. Verifies the Python environment (the generator uses only the standard library).
-3. Reads RSS feeds from `config/feeds.yml`.
-4. Downloads and processes recent articles.
-5. Ranks the stories by relevance and importance.
-6. Generates `public/index.html` plus static assets.
-7. Deploys the generated site to GitHub Pages.
-
-After setup, you do not need to manually run scripts, manage a server, or maintain infrastructure.
-
-## Project structure
+## Project architecture
 
 ```text
-.github/workflows/pages.yml   # Daily GitHub Actions build and Pages deployment
-bramer_briefing/              # Python static-site generation package
-  generator.py                # Feed fetching, ranking, connection logic, HTML rendering
-  models.py                   # Small dataclasses used by the generator
-config/
-  feeds.yml                   # RSS feed configuration
-  books.yml                   # Book of the Day rotation data
-templates/
-  index.html                  # Main HTML template
-static/styles.css             # Mobile-first digital newspaper styling
-main.py                       # Entrypoint used by GitHub Actions
-requirements.txt              # Notes that no third-party runtime packages are required
-tests/                        # Lightweight generator tests
+bramer_briefing/
+  config/          YAML feed and book recommendation samples
+  feeds/           RSS loading, parsing, cleanup, and deduplication
+  scoring/         Relevance ranking rules and category weights
+  services/        Briefing generation, books, classroom/ministry connections
+  templates/       Jinja2 pages for the newspaper-style web UI
+  static/          Responsive light/dark CSS
+  models.py        SQLite/SQLAlchemy models
+  routes.py        Flask page and action routes
+  cli.py           Flask CLI commands
+main.py            Local app entrypoint
+tests/             Pytest unit tests
 ```
 
-## GitHub Pages setup
+## Database design
 
-1. Push this repository to GitHub.
-2. In GitHub, open **Settings → Pages**.
-3. Under **Build and deployment**, choose **GitHub Actions** as the source.
-4. Commit or manually run the workflow once from **Actions → Build and publish Bramer Briefing → Run workflow**.
-5. Visit the GitHub Pages URL shown by the workflow deployment.
+The app uses SQLite through SQLAlchemy. It creates these tables:
 
-The workflow also runs every day at 10:00 UTC and republishes the latest briefing automatically.
+- `Article`: title, source, URL, summary, publication date, category, relevance score, and creation timestamp.
+- `Briefing`: generated timestamp, estimated reading time, and top story.
+- `BriefingItem`: ordered article membership for each generated briefing.
+- `SavedArticle`: read-later records.
+- `UserPreference`: category weight settings used during scoring.
+- `BookRecommendation`: local book rotation with last recommendation tracking.
 
-## Feed configuration
+## Feed ingestion workflow
 
-Feeds live in `config/feeds.yml`. Add or remove feeds by editing category lists:
+1. Edit `bramer_briefing/config/feeds.yaml`.
+2. Run `flask --app main fetch-feeds` or use **Fetch Feeds & Generate Briefing** in the dashboard.
+3. The app downloads each RSS feed, handles failed/empty feeds gracefully, cleans HTML descriptions with BeautifulSoup, canonicalizes URLs, skips duplicate URLs, stores new articles, and rescans relevance scores.
 
-```yaml
-Science:
-  - name: ScienceDaily
-    url: https://www.sciencedaily.com/rss/all.xml
-AI:
-  - name: OpenAI News
-    url: https://openai.com/news/rss.xml
-```
+## Ranking workflow
 
-The included sample configuration covers ScienceDaily, Phys.org, NASA, The Planetary Society, OpenAI, Anthropic, Ars Technica AI, Edutopia, Education Week, The Gospel Coalition, 9Marks, Ligonier, Logos, Biblical Archaeology Society, Journal of the American Revolution, and Literary Hub.
+Ranking starts with the category weight from Settings. Positive terms such as `breakthrough`, `discovery`, `mission`, `archaeology`, `release`, and `teaching` raise the score. Negative terms such as `celebrity`, `sponsored`, `sale`, `rumor`, and clickbait phrases lower the score. Recent publication dates receive a small freshness boost, and similar titles can receive a multi-source boost.
 
-## Briefing sections
+## Installation
 
-The generated homepage includes:
-
-- Top Story
-- Science
-- Space
-- AI
-- Education
-- Theology
-- History
-- Books
-- Classroom Connections
-- Faith & Ministry Connections
-- Book of the Day
-- Feed status details when any feed fails
-
-Each story includes a headline, source, publication date, one-sentence summary, and link to the original article.
-
-## Book of the Day
-
-Book recommendations live in `config/books.yml`. The generator rotates among:
-
-- Theology
-- History
-- Science
-- Fantasy
-
-Add books by editing the appropriate category list.
-
-## Local preview, optional
-
-You do not need local commands after GitHub Pages is configured. If you want to preview locally before pushing, run:
+Requires Python 3.12+.
 
 ```bash
-python main.py --output public
+python -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
+flask --app main rebuild-db
 ```
 
-Then open `public/index.html` in a browser.
+## Running locally
 
-## Ranking model
-
-The ranking model is intentionally simple and transparent:
-
-- Category weights prioritize theology, biblical studies, science, physics, chemistry, space, education, history, AI, and ministry-relevant stories.
-- Positive keywords reward breakthroughs, discoveries, missions, launches, archaeology, teaching, ministry, and historical significance.
-- Negative keywords reduce low-information stories, clickbait, celebrity content, rumors, and marketing-heavy items.
-- Recent stories receive a freshness boost.
-- Similar titles receive a small multi-source boost.
-
-The scoring logic is in `bramer_briefing/generator.py` and can be tuned without changing the publishing workflow.
-
-## Troubleshooting: `ModuleNotFoundError: No module named 'flask'`
-
-This project does not use Flask. If GitHub Actions reports an error such as:
-
-```text
-from bramer_briefing import create_app
-ModuleNotFoundError: No module named 'flask'
+```bash
+flask --app main run --debug
 ```
 
-then the workflow is running an old commit or stale branch that still contains the previous Flask application. The current static entrypoint is `main.py`, and it imports only `bramer_briefing.generator.main`.
+Open <http://127.0.0.1:5000>.
 
-To fix it:
+## CLI commands
 
-1. Make sure the latest commit is pushed to the branch configured for GitHub Pages.
-2. Confirm `main.py` begins with `from bramer_briefing.generator import main`.
-3. Re-run **Actions → Build and publish Bramer Briefing → Run workflow**.
+```bash
+flask --app main fetch-feeds          # Download configured RSS feeds
+flask --app main refresh-articles     # Re-score articles after rule or preference changes
+flask --app main generate-briefing    # Create a new five-minute briefing
+flask --app main rebuild-db           # Recreate the local SQLite database
+python main.py                        # Run the development server
+```
+
+## Adding feeds
+
+Add feeds to `bramer_briefing/config/feeds.yaml` under any category:
+
+```yaml
+categories:
+  Physics:
+    - name: Example Physics Feed
+      url: https://example.com/rss.xml
+```
+
+Categories are configurable. New category names will appear in article search and category pages after feed ingestion.
+
+## Web pages
+
+- Dashboard
+- Today's Briefing
+- All Articles with search by title, source, and category
+- Categories
+- Saved Articles
+- Briefing History
+- Settings for category weighting
+
+## Recommended Version 2 features
+
+- LLM-generated article summaries and connection explanations.
+- Semantic search and personalized ranking.
+- Daily email delivery.
+- Text-to-speech and podcast generation.
+- Reading analytics and saved-reading notes.
+- Mobile-first progressive web app features.

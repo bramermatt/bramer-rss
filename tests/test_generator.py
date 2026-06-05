@@ -55,14 +55,3 @@ def test_build_site_writes_index(monkeypatch, tmp_path: Path) -> None:
     assert "Bramer Briefing" in html
     assert "Major space discovery" in html
     assert "Classroom Connections" in html
-
-
-def test_entrypoint_is_static_generator() -> None:
-    entrypoint = Path("main.py").read_text(encoding="utf-8")
-    package_init = Path("bramer_briefing/__init__.py").read_text(encoding="utf-8")
-
-    assert "from bramer_briefing.generator import main" in entrypoint
-    assert "create_app" not in entrypoint
-    assert "flask" not in entrypoint.lower()
-    assert "flask" not in package_init.lower()
-
