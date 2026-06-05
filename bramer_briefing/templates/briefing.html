@@ -1,0 +1,9 @@
+{% extends 'base.html' %}
+{% block title %}Today's Briefing{% endblock %}
+{% block content %}
+<div class="page-title">
+  <div><p class="eyebrow">{{ briefing.generated_at.strftime('%B %d, %Y') }}</p><h1>Five-Minute Briefing</h1><p>Estimated Reading Time: {{ briefing.estimated_read_time }} Minutes</p></div>
+  <form method="post" action="{{ url_for('main.generate_today_briefing') }}"><button>Generate New Briefing</button></form>
+</div>
+{% include 'briefing_sections.html' %}
+{% endblock %}

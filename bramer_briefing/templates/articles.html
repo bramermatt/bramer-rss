@@ -1,0 +1,10 @@
+{% extends 'base.html' %}
+{% block content %}
+<h1>All Articles</h1>
+<form class="filters" method="get">
+  <input name="q" value="{{ query }}" placeholder="Search title, source, or category">
+  <select name="category"><option value="">All categories</option>{% for category in categories %}<option value="{{ category }}" {% if category == selected_category %}selected{% endif %}>{{ category }}</option>{% endfor %}</select>
+  <button>Search</button>
+</form>
+<section class="article-list">{% for article in articles %}{% include '_article_card.html' %}{% else %}<p>No articles found.</p>{% endfor %}</section>
+{% endblock %}
