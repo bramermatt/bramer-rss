@@ -1,2 +1,0 @@
-{% extends 'base.html' %}
-{% block content %}<h1>Settings</h1><p>Adjust category weights used by the relevance ranking system.</p><form method="post" class="settings-grid">{% for pref in preferences %}<label>{{ pref.category }}<input type="number" name="{{ pref.category }}" value="{{ pref.weight }}" min="0" max="25"></label>{% endfor %}<button>Save Weights</button></form>{% endblock %}

@@ -1,8 +1,0 @@
-<article class="card">
-  <div class="meta"><span>{{ article.category }}</span><span>{{ article.source }}</span><span>Score {{ '%.1f'|format(article.relevance_score) }}</span></div>
-  <h3><a href="{{ article.url }}" target="_blank" rel="noopener">{{ article.title }}</a></h3>
-  <p>{{ article.summary }}</p>
-  <form method="post" action="{{ url_for('main.save_article', article_id=article.id) }}">
-    <button class="link-button" type="submit">Save for later</button>
-  </form>
-</article>

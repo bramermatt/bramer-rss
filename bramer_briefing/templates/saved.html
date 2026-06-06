@@ -1,2 +1,0 @@
-{% extends 'base.html' %}
-{% block content %}<h1>Saved Articles</h1>{% for saved_item in saved %}{% set article = saved_item.article %}{% include '_article_card.html' %}{% else %}<p>No saved articles yet.</p>{% endfor %}{% endblock %}
