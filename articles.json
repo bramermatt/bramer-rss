@@ -1,54 +1,102 @@
 {
-  "lastUpdated": "2026-06-07T01:02:26.554Z",
+  "lastUpdated": "2026-06-07T11:44:16.594Z",
   "articleCount": 39,
   "articles": [
     {
-      "category": "Science",
-      "title": "Black teachers improve outcomes for all students, but the profession remains largely white",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sat, 06 Jun 2026 20:30:03 EDT",
-      "summary": "Having Black teachers and other educators of color improves students' classroom experiences, research shows. They often serve as role models, set high academic expectations and teach material that connects to students' lives outside of schools.",
-      "url": "https://phys.org/news/2026-06-black-teachers-outcomes-students-largely.html"
-    },
-    {
-      "category": "Science",
-      "title": "Medieval pandemic left a hidden legacy in Europe's oldest trees",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sat, 06 Jun 2026 19:40:01 EDT",
-      "summary": "A new study published in the Proceedings of the National Academy of Sciences demonstrates how radiocarbon dating can reveal the maximum lifespan of Mediterranean hardwoods, uncovering hidden links between human history and long-term ecosystem dynamics. By analyzing mature and ancient oak trees across Italy, researchers found that a millennium of age is attainable from the Mediterranean coast to mountain environments.",
-      "url": "https://phys.org/news/2026-06-medieval-pandemic-left-hidden-legacy.html"
-    },
-    {
       "category": "AI",
-      "title": "Show HN: Ironwall, a safety-first native programming language and compiler",
-      "source": "Hacker News: Front Page",
-      "date": "Sat, 06 Jun 2026 23:21:20 +0000",
-      "summary": "Hi HN,\nI have been working on a new programming language and compiler.\nWebsite: https://ironwall-lang.dev\nGitHub: https://github.com/3WyUFvDOdCbBw7gOZHwcfgKF/ironwall\nWhy a new language is still needed:\nhttps://ironwall-lang.dev/en/motivation\nThe compiler is written in TypeScript at the moment, and work on a self-hosting compiler written in Ironwall is ongoing.\nI would be interested in feedback.\nThank you.\nComments URL: https://news.ycombinator.com/item?id=48430077\nPoints: 12\n# Comments: 3",
-      "url": "https://news.ycombinator.com/item?id=48430077"
-    },
-    {
-      "category": "AI",
-      "title": "Context Sculpting",
-      "source": "Hacker News: Front Page",
-      "date": "Sat, 06 Jun 2026 23:20:01 +0000",
-      "summary": "Article URL: https://perceptiontheory.bearblog.dev/context-sculpting/\nComments URL: https://news.ycombinator.com/item?id=48430070\nPoints: 8\n# Comments: 0",
-      "url": "https://perceptiontheory.bearblog.dev/context-sculpting/"
-    },
-    {
-      "category": "AI",
-      "title": "Show HN: Keybench – Scriptable, extensible performance tool for key value stores",
-      "source": "Hacker News: Front Page",
-      "date": "Sat, 06 Jun 2026 23:06:06 +0000",
-      "summary": "I've been working with storage engines for quite a while and really there was no similar tool to sysbench and or HammerDB for key-value storage engines.  Thus I introduce a POC called keybench.  I hope you check it out, and do give it a run to drive your favorite engine.\nCheers!\nComments URL: https://news.ycombinator.com/item?id=48429957\nPoints: 6\n# Comments: 0",
-      "url": "https://github.com/guycipher/keybench"
+      "title": "School shooting survivor sues AI gun detection firm after system failed to spot weapon",
+      "source": "Ars Technica - All content",
+      "date": "Sun, 07 Jun 2026 11:08:30 +0000",
+      "summary": "How accurate does an AI system need to be?",
+      "url": "https://arstechnica.com/tech-policy/2026/06/school-shooting-survivor-sues-ai-gun-detection-firm-after-system-failed-to-spot-weapon/"
     },
     {
       "category": "Science",
-      "title": "Q&A: Why are white-Black marriage rates so low?",
+      "title": "Autonomous AI screening flags unreliable Lyme test results, boosting sensitivity to 95.7%",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Sat, 06 Jun 2026 18:30:02 EDT",
-      "summary": "Americans rarely marry outside of their race or class in a nation where residential segregation is relatively common. It is a dynamic widely viewed as a contributing factor to income inequality and intergenerational social mobility.",
-      "url": "https://phys.org/news/2026-06-qa-white-black-marriage.html"
+      "date": "Sun, 07 Jun 2026 07:00:01 EDT",
+      "summary": "Computational point-of-care sensors can significantly improve access to diagnostics by enabling rapid patient testing outside centralized medical facilities. These tests rely on machine learning models to make diagnostic predictions, but such inference models are susceptible to hallucinations and may produce erroneous outcomes. As a result, their limited reliability has partially hindered the broader adoption of computational sensors in health care settings.",
+      "url": "https://phys.org/news/2026-06-autonomous-ai-screening-flags-unreliable.html"
+    },
+    {
+      "category": "Science",
+      "title": "First nonrepeating biological clock discovered in C. elegans guides growth",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sun, 07 Jun 2026 06:40:01 EDT",
+      "summary": "Imagine a train parked at the station. Passengers climb aboard and find their seats. Conductors move up and down the aisles, checking tickets. But there's a problem—the engineer's watch is broken. As a result, the doors never close, the whistle never sounds, and the train never starts. Something similar occurs in cells when developmental timing is disrupted. Rather than making people late for work, it can mean the difference between maturing into a healthy adult and never growing up at all.",
+      "url": "https://phys.org/news/2026-06-nonrepeating-biological-clock-elegans-growth.html"
+    },
+    {
+      "category": "AI",
+      "title": "Scientists ejected from diabetes conference for distributing journal reprints",
+      "source": "Hacker News: Front Page",
+      "date": "Sun, 07 Jun 2026 10:10:33 +0000",
+      "summary": "Article URL: https://arstechnica.com/science/2026/06/scientists-ejected-from-diabetes-conference-for-distributing-journal-reprints/\nComments URL: https://news.ycombinator.com/item?id=48433410\nPoints: 60\n# Comments: 26",
+      "url": "https://arstechnica.com/science/2026/06/scientists-ejected-from-diabetes-conference-for-distributing-journal-reprints/"
+    },
+    {
+      "category": "Science",
+      "title": " Kaleidoscopic meteorite could be a piece of a 'lost world' from the early solar system — Space photo of the week ",
+      "source": " Latest from Live Science ",
+      "date": "Sun, 07 Jun 2026 10:00:00 +0000",
+      "summary": "A rare meteorite found in the Sahara Desert may be evidence of a long-lost \"protoplanet\" that formed in the early solar system before being destroyed in a colossal collision, a new study suggests",
+      "url": "https://www.livescience.com/space/meteoroids/kaleidoscopic-meteorite-could-be-a-piece-of-a-lost-world-from-the-early-solar-system-space-photo-of-the-week"
+    },
+    {
+      "category": "Space",
+      "title": " Could meteor storms harm NASA's future moon missions? ",
+      "source": " Latest from Space.com ",
+      "date": "Sun, 07 Jun 2026 10:00:00 +0000",
+      "summary": "\"If a major meteor shower outburst or storm is forecast during a mission or crew activity, the mission would be delayed or the crew kept inside until the outburst or storm is over.\"",
+      "url": "https://www.space.com/space-exploration/human-spaceflight/could-meteor-storms-harm-nasas-future-moon-missions"
+    },
+    {
+      "category": "Science",
+      "title": "Hidden protein switch controls photosynthesis as light conditions change",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sun, 07 Jun 2026 05:50:01 EDT",
+      "summary": "Scientists have discovered a previously unknown regulatory mechanism in plant photosynthesis in the unicellular green alga Chlamydomonas reinhardtii. It helps plants adapt to changes in light conditions. The results, published in the journal Nature Plants, show how a crucial protein interaction at the interface between photosystems I and II controls the photosynthetic machinery.",
+      "url": "https://phys.org/news/2026-06-hidden-protein-photosynthesis-conditions.html"
+    },
+    {
+      "category": "AI",
+      "title": "Efficient and Training-Free Single-Image Diffusion Models",
+      "source": "Hacker News: Front Page",
+      "date": "Sun, 07 Jun 2026 09:43:45 +0000",
+      "summary": "Article URL: https://arxiv.org/abs/2606.04299\nComments URL: https://news.ycombinator.com/item?id=48433305\nPoints: 6\n# Comments: 0",
+      "url": "https://arxiv.org/abs/2606.04299"
+    },
+    {
+      "category": "Science",
+      "title": " What's the deepest cave in the world? ",
+      "source": " Latest from Live Science ",
+      "date": "Sun, 07 Jun 2026 09:00:00 +0000",
+      "summary": "There are two contenders for the world's deepest cave, and they're in the same mountain range.",
+      "url": "https://www.livescience.com/planet-earth/whats-the-deepest-cave-in-the-world"
+    },
+    {
+      "category": "Science",
+      "title": "Scientists finally complete Schrödinger’s 100-year-old color theory",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Sun, 07 Jun 2026 03:55:21 EDT",
+      "summary": "Researchers have finally resolved a key problem in a 100-year-old theory of color, showing that the qualities we perceive in colors are intrinsic to the mathematics of color space itself. The discovery sharpens our understanding of human vision and could lead to more precise color technologies and visualizations.",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260606015140.htm"
+    },
+    {
+      "category": "AI",
+      "title": "The 29th International Obfuscated C Code Contest (IOCCC) 2025 Winners",
+      "source": "Hacker News: Front Page",
+      "date": "Sun, 07 Jun 2026 05:47:54 +0000",
+      "summary": "Article URL: https://www.ioccc.org/2025/\nComments URL: https://news.ycombinator.com/item?id=48432199\nPoints: 201\n# Comments: 50",
+      "url": "https://www.ioccc.org/2025/"
+    },
+    {
+      "category": "Theology",
+      "title": "4 Ways to (Actually) Help a Sufferer",
+      "source": "The Gospel Coalition",
+      "date": "Sun, 07 Jun 2026 04:05:00 +0000",
+      "summary": "How to respond when someone shares his or her pain? Be present. Listen. Weep. Encourage.",
+      "url": "https://www.thegospelcoalition.org/article/ways-help-sufferer/"
     },
     {
       "category": "AI",
@@ -75,14 +123,6 @@
       "url": "https://www.space.com/entertainment/space-movies-shows/how-spider-noir-captured-the-multiverse-in-true-hue-full-color-and-authentic-black-and-white-interview"
     },
     {
-      "category": "Science",
-      "title": " Tump administration to remove 900 deep sea monitoring instruments that would have studied the collapsing Atlantic current ",
-      "source": " Latest from Live Science ",
-      "date": "Sat, 06 Jun 2026 14:00:00 +0000",
-      "summary": "The Ocean Observatories Initiative has been collecting data on physical, chemical, geological and biological conditions in the Atlantic and Pacific Oceans for the past decade",
-      "url": "https://www.livescience.com/planet-earth/rivers-oceans/tump-administration-to-remove-900-deep-sea-monitoring-instruments-that-would-have-studied-the-collapsing-atlantic-current"
-    },
-    {
       "category": "Space",
       "title": " Who is Lobo, the cigar-smoking alien bounty hunter in 'Supergirl'? ",
       "source": " Latest from Space.com ",
@@ -97,14 +137,6 @@
       "date": "Sat, 06 Jun 2026 09:24:27 EDT",
       "summary": "A lightweight new X-ray telescope could finally give scientists something they’ve never had before: a complete chemical map of the Moon. Researchers used detailed mission simulations to show that a compact telescope orbiting the Moon could identify key elements across the entire lunar surface, helping reveal how the Moon formed and evolved.",
       "url": "https://www.sciencedaily.com/releases/2026/06/260606075508.htm"
-    },
-    {
-      "category": "Space",
-      "title": " This Week In Space podcast: Episode 213 — Live From ISDC With Gerry Griffin ",
-      "source": " Latest from Space.com ",
-      "date": "Sat, 06 Jun 2026 13:15:37 +0000",
-      "summary": "On Episode 212 of This Week In Space, Rod Pyle and Tariq Malik are joined by Apollo legend Gerry Griffin live from the International Space Development Conference (ISDC) in McLean, Virginia.",
-      "url": "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-213-live-from-isdc-with-gerry-griffin"
     },
     {
       "category": "Science",
@@ -123,14 +155,6 @@
       "url": "https://arstechnica.com/science/2026/06/otzis-mummified-body-is-home-to-ancient-strains-of-yeast-and-bacteria/"
     },
     {
-      "category": "Science",
-      "title": " Science news this week: Ötzi the Iceman used to make sourdough, Italian teenagers discover Roman villa under school, Google plans to release 64 million mosquitos, and RIP to NASA's Maven probe ",
-      "source": " Latest from Live Science ",
-      "date": "Sat, 06 Jun 2026 11:00:00 +0000",
-      "summary": "June 6, 2026: Our weekly roundup of the latest science in the news, as well as a few fascinating articles to keep you entertained over the weekend",
-      "url": "https://www.livescience.com/space/science-news-this-week-otzi-the-iceman-used-to-make-sourdough-italian-teenagers-discover-roman-villa-under-school-google-plans-to-release-64-million-mosquitos-and-rip-to-nasas-maven-probe"
-    },
-    {
       "category": "Theology",
       "title": "Packing for TGCW26? Leave Room for Discounted Books.",
       "source": "The Gospel Coalition",
@@ -145,14 +169,6 @@
       "date": "Sat, 06 Jun 2026 04:00:00 +0000",
       "summary": "Calling is rarely a straight, predictable line. Here are six lessons I’ve learned from my zigzag journey.",
       "url": "https://www.thegospelcoalition.org/article/your-calling-zigzag/"
-    },
-    {
-      "category": "AI",
-      "title": "Baby botulism outbreak: FDA still doesn't know cause—or how to prevent it",
-      "source": "Ars Technica - All content",
-      "date": "Fri, 05 Jun 2026 22:36:21 +0000",
-      "summary": "In the end, the three companies involved all point the finger at each other.",
-      "url": "https://arstechnica.com/health/2026/06/baby-botulism-outbreak-fda-still-doesnt-know-cause-or-how-to-prevent-it/"
     },
     {
       "category": "Space",
@@ -185,22 +201,6 @@
       "date": "Fri, 05 Jun 2026 10:45:48 +0000",
       "summary": "A rare shell seal has been discovered at Tel Hadid in central Israel with religious imagery involving a moon standard, a worshiper, and a possible […]\nThe post Rare Shell Seal Shows Moon Imagery in Israel appeared first on Biblical Archaeology Society.",
       "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-israel/rare-shell-seal-shows-moon-imagery-in-israel/"
-    },
-    {
-      "category": "Science",
-      "title": "Giant fire tornadoes could clean up oil spills faster with less pollution",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Fri, 05 Jun 2026 02:34:20 EDT",
-      "summary": "Researchers have shown that controlled fire whirls can clean up oil spills faster and more cleanly than traditional burning methods. The spinning flames consumed up to 95% of the oil, cut soot emissions by 40%, and could help prevent spills from reaching sensitive marine habitats.",
-      "url": "https://www.sciencedaily.com/releases/2026/06/260605023420.htm"
-    },
-    {
-      "category": "Theology",
-      "title": "What Pastors Need to Recover About Mental Health",
-      "source": "The Gospel Coalition",
-      "date": "Fri, 05 Jun 2026 04:05:00 +0000",
-      "summary": "In ‘Seeking Sanctuary, Finding Shalom,’ John Swinton provides meaningful vocabulary to speak about spiritual aspects of mental health without discounting psychiatry and medical interventions.",
-      "url": "https://www.thegospelcoalition.org/reviews/seeking-sanctuary-finding-shalom/"
     },
     {
       "category": "History",
