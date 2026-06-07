@@ -1,3 +1,5 @@
+
+
 async function loadArticles() {
     const response = await fetch("articles.json");
     const data = await response.json();
@@ -114,6 +116,11 @@ Object.entries(categories).forEach(([category, items]) => {
     navLink.href = `#${id}`;
     navLink.textContent = category;
 
+    navLink.addEventListener("click", () => {
+        nav.classList.remove("open");
+        menuButton.classList.remove("open");
+    });
+
     nav.appendChild(navLink);
 
     const section = document.createElement("section");
@@ -123,6 +130,36 @@ Object.entries(categories).forEach(([category, items]) => {
     section.innerHTML = `
         <h2>${category}</h2>
     `;
+
+    const sections = document.querySelectorAll("section");
+    const navLinks = document.querySelectorAll("#nav a");
+
+    window.addEventListener("scroll", () => {
+
+        let current = "";
+
+        sections.forEach(section => {
+
+            const top = section.offsetTop - 120;
+
+            if (window.scrollY >= top) {
+                current = section.id;
+            }
+        });
+
+        navLinks.forEach(link => {
+
+            link.classList.remove("active");
+
+            if (link.getAttribute("href") === `#${current}`) {
+                link.classList.add("active");
+            }
+
+        });
+
+    });
+
+    
 
     items.forEach(article => {
 
@@ -154,3 +191,15 @@ Object.entries(categories).forEach(([category, items]) => {
 
 
 loadArticles();
+
+const menuButton = document.getElementById("menu-button");
+const nav = document.getElementById("nav");
+
+menuButton.addEventListener("click", () => {
+    nav.classList.toggle("open");
+    menuButton.classList.toggle("open");
+});
+
+const id = category
+    .toLowerCase()
+    .replace(/\s+/g, "-");

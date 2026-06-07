@@ -3,75 +3,99 @@ const fs = require("fs");
 
 const parser = new Parser();
 
-const FEEDS = [
-    {
-        category: "Science",
-        url: "https://phys.org/rss-feed/"
-    },
-    {
-        category: "Theology",
-        url: "https://www.thegospelcoalition.org/feed/"
-    },
-    {
-    category: "Space",
-    url: "https://www.nasa.gov/rss/dyn/breaking_news.rss"
-    },
-    {
-    category: "AI",
-    url: "https://openai.com/news/rss.xml"
-    },
-    {
-    category: "History",
-    url: "https://allthingsliberty.com/feed/"
-    }
-    
-];
+const FEEDS = {
+    Science: [
+        "https://phys.org/rss-feed/",
+        "https://www.sciencedaily.com/rss/top/science.xml",
+        "https://www.livescience.com/feeds/all"
+    ],
 
-async function updateFeeds() {
-    const articles = [];
+    Space: [
+        "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+        "https://www.space.com/feeds/all",
+        "https://www.planetary.org/rss.xml"
+    ],
 
-for (const feedInfo of FEEDS) {
+    AI: [
+        "https://openai.com/news/rss.xml",
+        "https://hnrss.org/frontpage",
+        "http://feeds.arstechnica.com/arstechnica/index"
+    ],
 
-    try {
+    Theology: [
+        "https://www.thegospelcoalition.org/feed/",
+        "https://www.9marks.org/feed/",
+        "https://www.ligonier.org/posts/rss"
+    ],
 
-        console.log(`Loading ${feedInfo.category}...`);
+    "Biblical Studies": [
+        "https://www.biblicalarchaeology.org/feed/"
+    ],
 
-        const feed = await parser.parseURL(feedInfo.url);
-
-        feed.items.slice(0, 5).forEach(item => {
-
-            articles.push({
-                category: feedInfo.category,
-                title: item.title,
-                source: feed.title,
-                date: item.pubDate,
-                summary: item.contentSnippet,
-                url: item.link
-            });
-
-        });
-
-        console.log(`✓ ${feedInfo.category}`);
-
-    } catch (err) {
-
-        console.error(
-            `✗ Failed: ${feedInfo.category}`,
-            err.message
-        );
-
-    }
-}
-
-const output = {
-    lastUpdated: new Date().toISOString(),
-    articles: articles
+    History: [
+        "https://allthingsliberty.com/feed/",
+        "https://www.historynet.com/feed/"
+    ]
 };
 
-fs.writeFileSync(
-    "articles.json",
-    JSON.stringify(output, null, 2)
-);
+async function updateFeeds() {
+
+    const articles = [];
+
+    for (const [category, urls] of Object.entries(FEEDS)) {
+
+        for (const url of urls) {
+
+            try {
+
+                console.log(`Loading ${category}: ${url}`);
+
+                const feed = await parser.parseURL(url);
+
+                feed.items.slice(0, 3).forEach(item => {
+
+                    articles.push({
+                        category,
+                        title: item.title || "",
+                        source: feed.title || category,
+                        date: item.pubDate || item.isoDate || "",
+                        summary:
+                            item.contentSnippet ||
+                            item.summary ||
+                            "",
+                        url: item.link || "#"
+                    });
+
+                });
+
+                console.log(`✓ ${feed.title}`);
+
+            } catch (err) {
+
+                console.error(`✗ Failed: ${url}`);
+                console.error(err.message);
+
+            }
+        }
+    }
+
+    articles.sort(
+        (a, b) =>
+            new Date(b.date) - new Date(a.date)
+    );
+
+    const output = {
+        lastUpdated: new Date().toISOString(),
+        articleCount: articles.length,
+        articles
+    };
+
+    fs.writeFileSync(
+        "articles.json",
+        JSON.stringify(output, null, 2)
+    );
+
+    console.log(`Saved ${articles.length} articles.`);
 }
 
 updateFeeds()

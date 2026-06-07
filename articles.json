@@ -1,6 +1,47 @@
 {
-  "lastUpdated": "2026-06-06T22:57:03.738Z",
+  "lastUpdated": "2026-06-07T01:02:26.554Z",
+  "articleCount": 39,
   "articles": [
+    {
+      "category": "Science",
+      "title": "Black teachers improve outcomes for all students, but the profession remains largely white",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sat, 06 Jun 2026 20:30:03 EDT",
+      "summary": "Having Black teachers and other educators of color improves students' classroom experiences, research shows. They often serve as role models, set high academic expectations and teach material that connects to students' lives outside of schools.",
+      "url": "https://phys.org/news/2026-06-black-teachers-outcomes-students-largely.html"
+    },
+    {
+      "category": "Science",
+      "title": "Medieval pandemic left a hidden legacy in Europe's oldest trees",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sat, 06 Jun 2026 19:40:01 EDT",
+      "summary": "A new study published in the Proceedings of the National Academy of Sciences demonstrates how radiocarbon dating can reveal the maximum lifespan of Mediterranean hardwoods, uncovering hidden links between human history and long-term ecosystem dynamics. By analyzing mature and ancient oak trees across Italy, researchers found that a millennium of age is attainable from the Mediterranean coast to mountain environments.",
+      "url": "https://phys.org/news/2026-06-medieval-pandemic-left-hidden-legacy.html"
+    },
+    {
+      "category": "AI",
+      "title": "Show HN: Ironwall, a safety-first native programming language and compiler",
+      "source": "Hacker News: Front Page",
+      "date": "Sat, 06 Jun 2026 23:21:20 +0000",
+      "summary": "Hi HN,\nI have been working on a new programming language and compiler.\nWebsite: https://ironwall-lang.dev\nGitHub: https://github.com/3WyUFvDOdCbBw7gOZHwcfgKF/ironwall\nWhy a new language is still needed:\nhttps://ironwall-lang.dev/en/motivation\nThe compiler is written in TypeScript at the moment, and work on a self-hosting compiler written in Ironwall is ongoing.\nI would be interested in feedback.\nThank you.\nComments URL: https://news.ycombinator.com/item?id=48430077\nPoints: 12\n# Comments: 3",
+      "url": "https://news.ycombinator.com/item?id=48430077"
+    },
+    {
+      "category": "AI",
+      "title": "Context Sculpting",
+      "source": "Hacker News: Front Page",
+      "date": "Sat, 06 Jun 2026 23:20:01 +0000",
+      "summary": "Article URL: https://perceptiontheory.bearblog.dev/context-sculpting/\nComments URL: https://news.ycombinator.com/item?id=48430070\nPoints: 8\n# Comments: 0",
+      "url": "https://perceptiontheory.bearblog.dev/context-sculpting/"
+    },
+    {
+      "category": "AI",
+      "title": "Show HN: Keybench – Scriptable, extensible performance tool for key value stores",
+      "source": "Hacker News: Front Page",
+      "date": "Sat, 06 Jun 2026 23:06:06 +0000",
+      "summary": "I've been working with storage engines for quite a while and really there was no similar tool to sysbench and or HammerDB for key-value storage engines.  Thus I introduce a POC called keybench.  I hope you check it out, and do give it a run to drive your favorite engine.\nCheers!\nComments URL: https://news.ycombinator.com/item?id=48429957\nPoints: 6\n# Comments: 0",
+      "url": "https://github.com/guycipher/keybench"
+    },
     {
       "category": "Science",
       "title": "Q&A: Why are white-Black marriage rates so low?",
@@ -10,36 +51,84 @@
       "url": "https://phys.org/news/2026-06-qa-white-black-marriage.html"
     },
     {
-      "category": "Science",
-      "title": "120,000-year-old European fallow deer—tracing the loss of genetic diversity",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sat, 06 Jun 2026 17:40:02 EDT",
-      "summary": "European fallow deer have faced a dramatic loss of genetic diversity since the last interglacial period. This was revealed by 120,000-year-old fossils from central Germany's Neumark-Nord site in Saxony-Anhalt, analyzed by researchers from the University of Potsdam, the MONREPOS Research Center and Museum in Neuwied, and Leiden University. Their results have been published in the journal iScience. Modern fallow deer thus represent just a fraction of their Ice Age ancestors' variety. The study highlights how climate and human actions substantially reshaped a once-diverse species and may help inform conservation action.",
-      "url": "https://phys.org/news/2026-06-year-european-fallow-deer-loss.html"
+      "category": "AI",
+      "title": "Scientists ejected from diabetes conference for distributing journal reprints",
+      "source": "Ars Technica - All content",
+      "date": "Sat, 06 Jun 2026 20:53:07 +0000",
+      "summary": "Those ousted included ADA journal editor-in-chief Steven Kahn and former ADA president Desmond Schatz",
+      "url": "https://arstechnica.com/science/2026/06/scientists-ejected-from-diabetes-conference-for-distributing-journal-reprints/"
     },
     {
       "category": "Science",
-      "title": "Ever seen a cave cricket? Australia now has three new species of these spindly, spider-like creatures",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sat, 06 Jun 2026 17:00:03 EDT",
-      "summary": "When you picture a cave, you probably think of an environment devoid of life. But for most caves on Earth, this couldn't be further from the truth.",
-      "url": "https://phys.org/news/2026-06-cave-cricket-australia-species-spindly.html"
+      "title": " Stupid hot: Heat waves cause cognitive changes in animals, making them more aggressive and unable to complete basic tasks ",
+      "source": " Latest from Live Science ",
+      "date": "Sat, 06 Jun 2026 17:00:00 +0000",
+      "summary": "As temperatures rise, some creatures pick fights while others struggle to learn. The consequences of these behavioral changes may ripple through ecosystems.",
+      "url": "https://www.livescience.com/animals/stupid-hot-heat-waves-cause-cognitive-changes-in-animals-making-them-more-aggressive-and-unable-to-complete-basic-tasks"
+    },
+    {
+      "category": "Space",
+      "title": " How 'Spider-Noir' captured the multiverse in True-Hue Full Color and Authentic Black & White (interview) ",
+      "source": " Latest from Space.com ",
+      "date": "Sat, 06 Jun 2026 15:00:00 +0000",
+      "summary": "'It was such a great playground to play in, and I hope that it opens up more projects like this for creatives to embrace and trust.'",
+      "url": "https://www.space.com/entertainment/space-movies-shows/how-spider-noir-captured-the-multiverse-in-true-hue-full-color-and-authentic-black-and-white-interview"
     },
     {
       "category": "Science",
-      "title": "Infrastructure for African mines destroying forests at 34 times the rate of the mines themselves",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sat, 06 Jun 2026 16:00:03 EDT",
-      "summary": "Industrial-scale mining in Africa to support global supply chains is leading to unprecedented deforestation across the continent, with 34 hectares of forest removed for every single hectare of active mine site.",
-      "url": "https://phys.org/news/2026-06-infrastructure-african-destroying-forests.html"
+      "title": " Tump administration to remove 900 deep sea monitoring instruments that would have studied the collapsing Atlantic current ",
+      "source": " Latest from Live Science ",
+      "date": "Sat, 06 Jun 2026 14:00:00 +0000",
+      "summary": "The Ocean Observatories Initiative has been collecting data on physical, chemical, geological and biological conditions in the Atlantic and Pacific Oceans for the past decade",
+      "url": "https://www.livescience.com/planet-earth/rivers-oceans/tump-administration-to-remove-900-deep-sea-monitoring-instruments-that-would-have-studied-the-collapsing-atlantic-current"
+    },
+    {
+      "category": "Space",
+      "title": " Who is Lobo, the cigar-smoking alien bounty hunter in 'Supergirl'? ",
+      "source": " Latest from Space.com ",
+      "date": "Sat, 06 Jun 2026 14:00:00 +0000",
+      "summary": "Jason Momoa will star as the psycho space biker this summer, but who exactly is Lobo?",
+      "url": "https://www.space.com/entertainment/who-is-lobo-the-cigar-smoking-alien-bounty-hunter-in-supergirl"
     },
     {
       "category": "Science",
-      "title": "AI-generated compounds hit specific cell types and outperform conventional screening",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sat, 06 Jun 2026 15:40:01 EDT",
-      "summary": "The classical drug discovery paradigm begins with a known molecular target: a protein whose modulation is expected to reverse the course of a disease. However, in many pathologies, such a target does not always exist or is not sufficiently characterized.",
-      "url": "https://phys.org/news/2026-06-ai-generated-compounds-specific-cell.html"
+      "title": "Tiny X-ray telescope could unlock the Moon's hidden chemistry",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Sat, 06 Jun 2026 09:24:27 EDT",
+      "summary": "A lightweight new X-ray telescope could finally give scientists something they’ve never had before: a complete chemical map of the Moon. Researchers used detailed mission simulations to show that a compact telescope orbiting the Moon could identify key elements across the entire lunar surface, helping reveal how the Moon formed and evolved.",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260606075508.htm"
+    },
+    {
+      "category": "Space",
+      "title": " This Week In Space podcast: Episode 213 — Live From ISDC With Gerry Griffin ",
+      "source": " Latest from Space.com ",
+      "date": "Sat, 06 Jun 2026 13:15:37 +0000",
+      "summary": "On Episode 212 of This Week In Space, Rod Pyle and Tariq Malik are joined by Apollo legend Gerry Griffin live from the International Space Development Conference (ISDC) in McLean, Virginia.",
+      "url": "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-213-live-from-isdc-with-gerry-griffin"
+    },
+    {
+      "category": "Science",
+      "title": "Scientists found a surprisingly simple way to create powerful quantum states",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Sat, 06 Jun 2026 09:02:19 EDT",
+      "summary": "A team at the University of Chicago has discovered a surprisingly simple way to create powerful quantum states that are normally difficult to produce. By making small adjustments to the energy levels of atoms inside an optical cavity, researchers can generate a wide variety of highly entangled states without adding complicated hardware.",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260606075510.htm"
+    },
+    {
+      "category": "AI",
+      "title": "Some ancient microbes frozen with Ötzi the Iceman are still growing",
+      "source": "Ars Technica - All content",
+      "date": "Sat, 06 Jun 2026 11:15:51 +0000",
+      "summary": "What’s the difference between a person, an artifact, and an ecosystem?",
+      "url": "https://arstechnica.com/science/2026/06/otzis-mummified-body-is-home-to-ancient-strains-of-yeast-and-bacteria/"
+    },
+    {
+      "category": "Science",
+      "title": " Science news this week: Ötzi the Iceman used to make sourdough, Italian teenagers discover Roman villa under school, Google plans to release 64 million mosquitos, and RIP to NASA's Maven probe ",
+      "source": " Latest from Live Science ",
+      "date": "Sat, 06 Jun 2026 11:00:00 +0000",
+      "summary": "June 6, 2026: Our weekly roundup of the latest science in the news, as well as a few fascinating articles to keep you entertained over the weekend",
+      "url": "https://www.livescience.com/space/science-news-this-week-otzi-the-iceman-used-to-make-sourdough-italian-teenagers-discover-roman-villa-under-school-google-plans-to-release-64-million-mosquitos-and-rip-to-nasas-maven-probe"
     },
     {
       "category": "Theology",
@@ -58,28 +147,12 @@
       "url": "https://www.thegospelcoalition.org/article/your-calling-zigzag/"
     },
     {
-      "category": "Theology",
-      "title": "What Pastors Need to Recover About Mental Health",
-      "source": "The Gospel Coalition",
-      "date": "Fri, 05 Jun 2026 04:05:00 +0000",
-      "summary": "In ‘Seeking Sanctuary, Finding Shalom,’ John Swinton provides meaningful vocabulary to speak about spiritual aspects of mental health without discounting psychiatry and medical interventions.",
-      "url": "https://www.thegospelcoalition.org/reviews/seeking-sanctuary-finding-shalom/"
-    },
-    {
-      "category": "Theology",
-      "title": "Let the Psalms Teach You to Pray (TGC Classic)",
-      "source": "The Gospel Coalition",
-      "date": "Fri, 05 Jun 2026 04:04:00 +0000",
-      "summary": "In this TGC Classic message recorded at TGCW16, Tim Keller explores the concept of friendship with God as taught in the psalms.",
-      "url": "https://www.thegospelcoalition.org/podcasts/tgc-podcast/let-psalms-teach-pray/"
-    },
-    {
-      "category": "Theology",
-      "title": "Christ’s Skin for Mine: Autoimmune Disease and the Christian Life",
-      "source": "The Gospel Coalition",
-      "date": "Fri, 05 Jun 2026 04:00:00 +0000",
-      "summary": "My autoimmune skin disease is painful, but it has deepened my love for Jesus and my understanding of the gospel.",
-      "url": "https://www.thegospelcoalition.org/article/skin-autoimmune-disease/"
+      "category": "AI",
+      "title": "Baby botulism outbreak: FDA still doesn't know cause—or how to prevent it",
+      "source": "Ars Technica - All content",
+      "date": "Fri, 05 Jun 2026 22:36:21 +0000",
+      "summary": "In the end, the three companies involved all point the finger at each other.",
+      "url": "https://arstechnica.com/health/2026/06/baby-botulism-outbreak-fda-still-doesnt-know-cause-or-how-to-prevent-it/"
     },
     {
       "category": "Space",
@@ -106,20 +179,36 @@
       "url": "https://science.nasa.gov/uncategorized/nasas-artemis-ii-moon-mission-research-continues-on-earth/"
     },
     {
-      "category": "Space",
-      "title": "NASA Concludes Antenna Mishap Investigation, Releases Report",
-      "source": "NASA",
-      "date": "Fri, 05 Jun 2026 17:00:00 +0000",
-      "summary": "NASA has completed the investigation into the damage sustained last year at its 70-meter radio-frequency antenna, known as the Deep Space Station 14 (DSS-14), at the Goldstone Deep Space Communications Complex near Barstow, California. The agency has classified the event as a Type A mishap based on the total cost of damages. The antenna will […]",
-      "url": "https://www.nasa.gov/directorates/somd/space-communications-navigation-program/nasa-concludes-antenna-mishap-investigation-releases-report/"
+      "category": "Biblical Studies",
+      "title": "Rare Shell Seal Shows Moon Imagery in Israel",
+      "source": "Biblical Archaeology Society",
+      "date": "Fri, 05 Jun 2026 10:45:48 +0000",
+      "summary": "A rare shell seal has been discovered at Tel Hadid in central Israel with religious imagery involving a moon standard, a worshiper, and a possible […]\nThe post Rare Shell Seal Shows Moon Imagery in Israel appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-israel/rare-shell-seal-shows-moon-imagery-in-israel/"
     },
     {
-      "category": "Space",
-      "title": "First Steps: America’s Grueling Second Spacewalk",
-      "source": "NASA",
-      "date": "Fri, 05 Jun 2026 15:47:27 +0000",
-      "summary": "One year after Gemini IV astronaut Edward H. White completed NASA’s first spacewalk the agency prepared for a demanding second excursion. Originally scheduled for Gemini VIII, the extravehicular activity (EVA) was reassigned to Gemini IX-A after that mission ended early, with Gene Cernan taking on the task. On June 5, 1966—the mission’s third day—Cernan exited […]",
-      "url": "https://www.nasa.gov/image-article/first-steps-americas-grueling-second-spacewalk/"
+      "category": "Science",
+      "title": "Giant fire tornadoes could clean up oil spills faster with less pollution",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Fri, 05 Jun 2026 02:34:20 EDT",
+      "summary": "Researchers have shown that controlled fire whirls can clean up oil spills faster and more cleanly than traditional burning methods. The spinning flames consumed up to 95% of the oil, cut soot emissions by 40%, and could help prevent spills from reaching sensitive marine habitats.",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260605023420.htm"
+    },
+    {
+      "category": "Theology",
+      "title": "What Pastors Need to Recover About Mental Health",
+      "source": "The Gospel Coalition",
+      "date": "Fri, 05 Jun 2026 04:05:00 +0000",
+      "summary": "In ‘Seeking Sanctuary, Finding Shalom,’ John Swinton provides meaningful vocabulary to speak about spiritual aspects of mental health without discounting psychiatry and medical interventions.",
+      "url": "https://www.thegospelcoalition.org/reviews/seeking-sanctuary-finding-shalom/"
+    },
+    {
+      "category": "History",
+      "title": "Colonel Smallwood Comes to Meeting",
+      "source": "Journal of the American Revolution",
+      "date": "Thu, 04 Jun 2026 14:37:41 +0000",
+      "summary": "William Penn founded the Province of Pennsylvania to be a haven for the Religious Society of Friends, “The People Called Quakers” as they described themselves. The new colony was intended as a “holy experiment,” an example to the world that people could govern themselves according to principles of truth, peace and harmony.[1] Friends’ dissenter religion […]\nThe post Colonel Smallwood Comes to Meeting appeared first on Journal of the American Revolution.",
+      "url": "https://allthingsliberty.com/2026/06/colonel-smallwood-comes-to-meeting/"
     },
     {
       "category": "AI",
@@ -128,6 +217,22 @@
       "date": "Thu, 04 Jun 2026 12:00:00 GMT",
       "summary": "Learn how Endava is using AI agents, ChatGPT Enterprise, and Codex to accelerate software delivery, automate workflows, and build an AI-native culture across the enterprise.",
       "url": "https://openai.com/index/endava-frontiers"
+    },
+    {
+      "category": "Biblical Studies",
+      "title": "The Dead Sea Scrolls and the New Testament",
+      "source": "Biblical Archaeology Society",
+      "date": "Thu, 04 Jun 2026 11:00:43 +0000",
+      "summary": "What do the Dead Sea Scrolls say about Jesus? What do they say about the world in which Jesus lived? In BAR, James C. VanderKam examines the overlap between the Dead Sea Scrolls and the New Testament.\nThe post The Dead Sea Scrolls and the New Testament appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/daily/biblical-artifacts/dead-sea-scrolls/the-dead-sea-scrolls-and-the-new-testament/"
+    },
+    {
+      "category": "Biblical Studies",
+      "title": "Minor Prophets in the Bible: Amos",
+      "source": "Biblical Archaeology Society",
+      "date": "Thu, 04 Jun 2026 11:00:22 +0000",
+      "summary": "Learn how to read the Book of Amos in context and how the prophet Amos’s message is relevant today.\nThe post Minor Prophets in the Bible: Amos appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/daily/people-cultures-in-the-bible/people-in-the-bible/minor-prophets-bible-amos/"
     },
     {
       "category": "AI",
@@ -144,30 +249,6 @@
       "date": "Thu, 04 Jun 2026 00:00:00 GMT",
       "summary": "An action plan for AI-powered biological resilience",
       "url": "https://openai.com/index/biodefense-in-the-intelligence-age"
-    },
-    {
-      "category": "AI",
-      "title": "Introducing new capabilities to GPT-Rosalind",
-      "source": "OpenAI News",
-      "date": "Wed, 03 Jun 2026 13:15:00 GMT",
-      "summary": "GPT-Rosalind advances life sciences research with enhanced biological reasoning, medicinal chemistry expertise, genomics analysis, and experimental workflow capabilities.",
-      "url": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind"
-    },
-    {
-      "category": "AI",
-      "title": "How Wasmer used Codex to build a Node.js runtime for the edge",
-      "source": "OpenAI News",
-      "date": "Wed, 03 Jun 2026 12:00:00 GMT",
-      "summary": "See how Wasmer used Codex with GPT-5.5 to build a Node.js runtime for the edge, accelerating development 10x to 20x and shipping in weeks instead of months.",
-      "url": "https://openai.com/index/wasmer"
-    },
-    {
-      "category": "History",
-      "title": "Colonel Smallwood Comes to Meeting",
-      "source": "Journal of the American Revolution",
-      "date": "Thu, 04 Jun 2026 14:37:41 +0000",
-      "summary": "William Penn founded the Province of Pennsylvania to be a haven for the Religious Society of Friends, “The People Called Quakers” as they described themselves. The new colony was intended as a “holy experiment,” an example to the world that people could govern themselves according to principles of truth, peace and harmony.[1] Friends’ dissenter religion […]\nThe post Colonel Smallwood Comes to Meeting appeared first on Journal of the American Revolution.",
-      "url": "https://allthingsliberty.com/2026/06/colonel-smallwood-comes-to-meeting/"
     },
     {
       "category": "History",
@@ -187,19 +268,51 @@
     },
     {
       "category": "History",
-      "title": "The Sound of Independence",
-      "source": "Journal of the American Revolution",
-      "date": "Wed, 27 May 2026 21:00:59 +0000",
-      "summary": "If one were to create a soundtrack for the day the Declaration of Independence was read in Philadelphia, what music would accompany the event? While “Yankee Doodle” might immediately come to mind, only two tunes, the “Liberty Song” sung to the British tune “Heart of Oak” printed in 1768, and the 1770 hymn “Chester” by […]\nThe post The Sound of Independence appeared first on Journal of the American Revolution.",
-      "url": "https://allthingsliberty.com/2026/05/the-sound-of-independence/"
+      "title": "Celebrating the Legacy of the Office of Strategic Services 82 Years On",
+      "source": "HistoryNet",
+      "date": "Fri, 21 Jun 2024 13:17:24 +0000",
+      "summary": "From the OSS to the CIA, how Wild Bill Donovan shaped the American intelligence community.",
+      "url": "https://historynet.com/celebrating-the-legacy-of-the-office-of-strategic-services-82-years-on/"
     },
     {
       "category": "History",
-      "title": "The Right Stuff: President Washington needed a General in 1792",
-      "source": "Journal of the American Revolution",
-      "date": "Mon, 25 May 2026 14:05:44 +0000",
-      "summary": "In early 1792, President George Washington was in search of a general. For the last six years, the United States had been battling Native American forces of the Western Confederacy in the modern state of Ohio, and the Americans were losing the war. Led by Little Turtle (Miami), Blue Jacket (Shawnee), and Buckongahelas (Lenape), Native […]\nThe post The Right Stuff: President Washington needed a General in 1792 appeared first on Journal of the American Revolution.",
-      "url": "https://allthingsliberty.com/2026/05/the-right-stuff-president-washington-needed-a-general-in-1792/"
+      "title": "Seminoles Taught American Soldiers a Thing or Two About Guerrilla Warfare",
+      "source": "HistoryNet",
+      "date": "Fri, 12 Apr 2024 12:24:00 +0000",
+      "summary": "During the 1835–42 Second Seminole War and as Army scouts out West, these warriors from the South proved formidable.",
+      "url": "https://historynet.com/seminole-warrior-vs-us-soldier-book-review-2/"
+    },
+    {
+      "category": "History",
+      "title": "This Patient Rider Spent Months Retracing the Pony Express on Horseback",
+      "source": "HistoryNet",
+      "date": "Thu, 11 Apr 2024 13:08:00 +0000",
+      "summary": ".image-13796819 {\n\tmax-height: 100%;\n\t--left: 40.91%;\n\t--top: 52.46%;\n\t} \n\tIn 2019 Will Grant embarked on a 142-day, 2,000-mile horseback journey from the Pony Express stables in St. Joseph, Mo., to trail’s end in Sacramento, Calif.",
+      "url": "https://historynet.com/pony-express-ride-will-grant/"
+    },
+    {
+      "category": "Theology",
+      "title": "Expanding Reach of the 9Marks Journal",
+      "source": "9Marks",
+      "date": "Tue, 28 Aug 2018 14:20:11 +0000",
+      "summary": "Published quarterly, the 9Marks Journal features articles from pastors and for pastors. It focuses on a single topic—like  preaching, pastoral burnout, church discipline, the Reformation—and seeks to provide enlightening and encouraging instruction. And by God’s grace, it appears our journal is gaining traction. We released our summer edition—“Pastoral Burnout: Its Causes & Cures”—on July 17. Since then, it’s received over 15,000 views […]\nThe post Expanding Reach of the 9Marks Journal appeared first on 9Marks.",
+      "url": "https://www.9marks.org/2018/08/expanding-reach-of-the-9marks-journal/?utm_source=rss&utm_medium=rss&utm_campaign=expanding-reach-of-the-9marks-journal"
+    },
+    {
+      "category": "Theology",
+      "title": "Building Healthy Churches in Sub-Saharan Africa",
+      "source": "9Marks",
+      "date": "Tue, 28 Aug 2018 14:15:43 +0000",
+      "summary": "All across the great continent of Africa, men and women are coming to Christ. That’s what the reports say—and that’s what our friends on the ground say, too. This is wonderful news, but it raises some questions: How will they grow? Who will shepherd them? What will protect the gospel and keep them from bad […]\nThe post Building Healthy Churches in Sub-Saharan Africa appeared first on 9Marks.",
+      "url": "https://www.9marks.org/2018/08/building-healthy-churches-in-sub-saharan-africa/?utm_source=rss&utm_medium=rss&utm_campaign=building-healthy-churches-in-sub-saharan-africa"
+    },
+    {
+      "category": "Theology",
+      "title": "International Director’s Summer in Europe | Stay tuned",
+      "source": "9Marks",
+      "date": "Sat, 28 Jul 2018 14:18:28 +0000",
+      "summary": "This summer, our international director Rick Denham spent time with various European partners. Over two months, he traveled to ten countries where he formed new relationships, strengthened old ones, and observed God’s work through many different churches, ministries, and publishers. Dozens of stories could be told, and we’ll try to share just a few of […]\nThe post International Director’s Summer in Europe | Stay tuned appeared first on 9Marks.",
+      "url": "https://www.9marks.org/2018/07/international-directors-summer-in-europe-2/?utm_source=rss&utm_medium=rss&utm_campaign=international-directors-summer-in-europe-2"
     }
   ]
 }
