@@ -1,54 +1,62 @@
 {
-  "lastUpdated": "2026-06-07T17:07:30.262Z",
-  "articleCount": 36,
+  "lastUpdated": "2026-06-07T22:57:33.899Z",
+  "articleCount": 39,
   "articles": [
     {
       "category": "Science",
-      "title": "Epigenetic changes can be inherited without changing DNA in animals",
+      "title": "'All-in-one' platform developed for multiple trait stacking in crops",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Sun, 07 Jun 2026 13:00:01 EDT",
-      "summary": "Typically, the information encoded in DNA allows organisms to develop, function, and pass traits across generations. Yet DNA alone does not explain how genes are switched on and off in different cells and environments. This regulation is partly controlled by other factors called epigenetics, such as DNA methylation, a chemical modification that can influence gene activity without changing the genetic code itself.",
-      "url": "https://phys.org/news/2026-06-epigenetic-inherited-dna-animals.html"
+      "date": "Sun, 07 Jun 2026 18:00:02 EDT",
+      "summary": "A major goal of modern crop breeding is to efficiently combine multiple desirable traits by \"stacking\" the favorable gene variants (alleles) that contribute to those traits in a single crop variety. However, current strategies are often time-consuming and inefficient.",
+      "url": "https://phys.org/news/2026-06-platform-multiple-trait-stacking-crops.html"
     },
     {
       "category": "AI",
-      "title": "Ripping a DVD, a federal crime in 1999, requires $22 and free software in 2026",
+      "title": "VibeOS: First ever AI-native operating system",
       "source": "Hacker News: Front Page",
-      "date": "Sun, 07 Jun 2026 16:48:25 +0000",
-      "summary": "Article URL: https://ringmast4r.substack.com/p/in-1999-this-was-a-federal-crime\nComments URL: https://news.ycombinator.com/item?id=48436542\nPoints: 4\n# Comments: 0",
-      "url": "https://ringmast4r.substack.com/p/in-1999-this-was-a-federal-crime"
-    },
-    {
-      "category": "AI",
-      "title": "The gamers taking on the industry to stop it switching off games",
-      "source": "Hacker News: Front Page",
-      "date": "Sun, 07 Jun 2026 16:16:54 +0000",
-      "summary": "Article URL: https://www.bbc.com/news/articles/c8e8e7g0r82o\nComments URL: https://news.ycombinator.com/item?id=48436246\nPoints: 13\n# Comments: 4",
-      "url": "https://www.bbc.com/news/articles/c8e8e7g0r82o"
+      "date": "Sun, 07 Jun 2026 21:29:21 +0000",
+      "summary": "Article URL: https://vibeos.sh/\nComments URL: https://news.ycombinator.com/item?id=48438754\nPoints: 7\n# Comments: 6",
+      "url": "https://vibeos.sh/"
     },
     {
       "category": "Science",
-      "title": "Disgust may contribute to improper waste disposal",
+      "title": "Could the Milky Way's missing mass be hiding in a swarm of interstellar comets?",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Sun, 07 Jun 2026 12:00:01 EDT",
-      "summary": "A common explanation for why waste management sometimes fails is that carelessness breeds more carelessness. Now, research from the University of Gothenburg shows that dirty waste disposal rooms can evoke feelings of disgust that increase the risk of people disposing of their waste incorrectly.",
-      "url": "https://phys.org/news/2026-06-disgust-contribute-improper-disposal.html"
-    },
-    {
-      "category": "Science",
-      "title": "Gold nanoparticles unlock vibrant structural colors across the visible spectrum",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sun, 07 Jun 2026 11:40:02 EDT",
-      "summary": "Colloidal photonic glasses offer an appealing way to produce vivid colors without any chemical dyes—but so far, a stubborn optical effect has long prevented them from generating a true red color. Now, Yuwon Jeon and colleagues at KU-KIST in Seoul have developed a new approach that overcomes this limitation, producing bright, stable colors spanning the full visible spectrum. The research has been published in Proceedings of the National Academy of Sciences.",
-      "url": "https://phys.org/news/2026-06-gold-nanoparticles-vibrant-visible-spectrum.html"
+      "date": "Sun, 07 Jun 2026 17:00:04 EDT",
+      "summary": "3I/ATLAS has caused quite a stir over the last year, inviting astronomers to update what they know about other solar systems as well as our own. However, this third interstellar visitor may have an unexpected impact on our understanding of dark matter. A new paper, available on the arXiv preprint server from researchers at the University of Hamburg, attempts to calculate the impact that the presence of large amounts of interstellar objects, or ISOs, would have on our calculation of dark matter in our galaxy.",
+      "url": "https://phys.org/news/2026-06-milky-mass-swarm-interstellar-comets.html"
     },
     {
       "category": "AI",
-      "title": "Vitamin D3 During Pregnancy and Cognitive Performance at 10 Years",
+      "title": "The architecture of the internet creates risks for democracy",
       "source": "Hacker News: Front Page",
-      "date": "Sun, 07 Jun 2026 15:08:10 +0000",
-      "summary": "Article URL: https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2849122\nComments URL: https://news.ycombinator.com/item?id=48435584\nPoints: 77\n# Comments: 35",
-      "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2849122"
+      "date": "Sun, 07 Jun 2026 20:28:19 +0000",
+      "summary": "Article URL: https://www.science.org/doi/10.1126/science.aei2409\nComments URL: https://news.ycombinator.com/item?id=48438212\nPoints: 67\n# Comments: 84",
+      "url": "https://www.science.org/doi/10.1126/science.aei2409"
+    },
+    {
+      "category": "AI",
+      "title": "Show HN: Nightwatch, The open-source, read-only AI SRE",
+      "source": "Hacker News: Front Page",
+      "date": "Sun, 07 Jun 2026 20:24:36 +0000",
+      "summary": "nightwatch is a local-first, read-only layer on top of your monitoring. it groups alert storm into incidents, flags noisy checks and has an agent that can investigate for you live systems. You can e.g. jump from the incident into the agent directly.\nthe reason for this weekend project is that we had a kubernetes upgrade that went wrong, and at some point a rollback wasn't possible anymore, so it had to be fixed live during the night while several problems came together. We run a lot of different systems, on-prem and several Kubernetes clusters, and in a situation like that you spend most of the time just figuring out what is actually broken and where.\nSo i thought that it would be pretty cool to have eyes in the dark in each system that can talk to your \"brain\".\nso the idea is to put a baby owl into each environment. Each owl runs where the systems live, keeps that environment's credentials local, and only dials outbound to a central brain, so there is no inbound hole into prod. It exposes a set of read-only skills, and the agent uses them to gather evidence and form a root-cause hypothesis, so the on-call engineer starts with a head start instead of from zero.\nread-only for now, i don't trust it near prod yet and honestly neither should you.\nllocal-first for easy self-hosting and to keep credentials on your side. the clustering and recommendations run fully offline with no llm at all. the agent needs a tool-calling llm, you can point it at a remote one, or self-host one (ollama etc.) if you want to stay fully offline.\nfor non selfhosters: before every remote llm call, nightwatch strips real secrets (unrestorable) and swaps identifiers like ips, hostnames and paths for reversible placeholders, so the model only sees masked data while real values are restored only in the proposed commands and tool calls\nWould love if you try it in your Systems\nComments URL: https://news.ycombinator.com/item?id=48438180\nPoints: 4\n# Comments: 2",
+      "url": "https://github.com/ninoxAI/nightwatch"
+    },
+    {
+      "category": "Science",
+      "title": "How gene swapping helped build the planet's decomposers",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sun, 07 Jun 2026 16:20:01 EDT",
+      "summary": "Decomposers are crucial for keeping Earth habitable, breaking down dead biomass and returning key nutrients, such as carbon, nitrogen and phosphorus, to the ecosystem. Most decomposers, including fungi, survive through osmotrophy—a means of feeding by absorbing dissolved nutrients rather than engulfing prey. But how this method of feeding repeatedly arose across the eukaryotic tree of life remains unclear.",
+      "url": "https://phys.org/news/2026-06-gene-swapping-planet-decomposers.html"
+    },
+    {
+      "category": "AI",
+      "title": "RIP Anthony Head: Our 10 favorite moments of Buffy's Giles",
+      "source": "Ars Technica - All content",
+      "date": "Sun, 07 Jun 2026 19:34:05 +0000",
+      "summary": "Head's true genius—and that of his character, Giles—lay in quietly filling in the gaps in every scene",
+      "url": "https://arstechnica.com/culture/2026/06/rip-anthony-head-our-10-favorite-moments-of-buffys-giles/"
     },
     {
       "category": "Science",
@@ -145,14 +153,6 @@
       "date": "Sat, 06 Jun 2026 09:02:19 EDT",
       "summary": "A team at the University of Chicago has discovered a surprisingly simple way to create powerful quantum states that are normally difficult to produce. By making small adjustments to the energy levels of atoms inside an optical cavity, researchers can generate a wide variety of highly entangled states without adding complicated hardware.",
       "url": "https://www.sciencedaily.com/releases/2026/06/260606075510.htm"
-    },
-    {
-      "category": "AI",
-      "title": "Some ancient microbes frozen with Ötzi the Iceman are still growing",
-      "source": "Ars Technica - All content",
-      "date": "Sat, 06 Jun 2026 11:15:51 +0000",
-      "summary": "What’s the difference between a person, an artifact, and an ecosystem?",
-      "url": "https://arstechnica.com/science/2026/06/otzis-mummified-body-is-home-to-ancient-strains-of-yeast-and-bacteria/"
     },
     {
       "category": "Theology",
@@ -289,6 +289,30 @@
       "date": "Thu, 11 Apr 2024 13:08:00 +0000",
       "summary": ".image-13796819 {\n\tmax-height: 100%;\n\t--left: 40.91%;\n\t--top: 52.46%;\n\t} \n\tIn 2019 Will Grant embarked on a 142-day, 2,000-mile horseback journey from the Pony Express stables in St. Joseph, Mo., to trail’s end in Sacramento, Calif.",
       "url": "https://historynet.com/pony-express-ride-will-grant/"
+    },
+    {
+      "category": "Theology",
+      "title": "Expanding Reach of the 9Marks Journal",
+      "source": "9Marks",
+      "date": "Tue, 28 Aug 2018 14:20:11 +0000",
+      "summary": "Published quarterly, the 9Marks Journal features articles from pastors and for pastors. It focuses on a single topic—like  preaching, pastoral burnout, church discipline, the Reformation—and seeks to provide enlightening and encouraging instruction. And by God’s grace, it appears our journal is gaining traction. We released our summer edition—“Pastoral Burnout: Its Causes & Cures”—on July 17. Since then, it’s received over 15,000 views […]\nThe post Expanding Reach of the 9Marks Journal appeared first on 9Marks.",
+      "url": "https://www.9marks.org/2018/08/expanding-reach-of-the-9marks-journal/?utm_source=rss&utm_medium=rss&utm_campaign=expanding-reach-of-the-9marks-journal"
+    },
+    {
+      "category": "Theology",
+      "title": "Building Healthy Churches in Sub-Saharan Africa",
+      "source": "9Marks",
+      "date": "Tue, 28 Aug 2018 14:15:43 +0000",
+      "summary": "All across the great continent of Africa, men and women are coming to Christ. That’s what the reports say—and that’s what our friends on the ground say, too. This is wonderful news, but it raises some questions: How will they grow? Who will shepherd them? What will protect the gospel and keep them from bad […]\nThe post Building Healthy Churches in Sub-Saharan Africa appeared first on 9Marks.",
+      "url": "https://www.9marks.org/2018/08/building-healthy-churches-in-sub-saharan-africa/?utm_source=rss&utm_medium=rss&utm_campaign=building-healthy-churches-in-sub-saharan-africa"
+    },
+    {
+      "category": "Theology",
+      "title": "International Director’s Summer in Europe | Stay tuned",
+      "source": "9Marks",
+      "date": "Sat, 28 Jul 2018 14:18:28 +0000",
+      "summary": "This summer, our international director Rick Denham spent time with various European partners. Over two months, he traveled to ten countries where he formed new relationships, strengthened old ones, and observed God’s work through many different churches, ministries, and publishers. Dozens of stories could be told, and we’ll try to share just a few of […]\nThe post International Director’s Summer in Europe | Stay tuned appeared first on 9Marks.",
+      "url": "https://www.9marks.org/2018/07/international-directors-summer-in-europe-2/?utm_source=rss&utm_medium=rss&utm_campaign=international-directors-summer-in-europe-2"
     }
   ]
 }
