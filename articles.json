@@ -1,54 +1,166 @@
 {
-  "lastUpdated": "2026-06-07T22:57:33.899Z",
+  "lastUpdated": "2026-06-08T12:04:35.024Z",
   "articleCount": 39,
   "articles": [
     {
       "category": "Science",
-      "title": "'All-in-one' platform developed for multiple trait stacking in crops",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sun, 07 Jun 2026 18:00:02 EDT",
-      "summary": "A major goal of modern crop breeding is to efficiently combine multiple desirable traits by \"stacking\" the favorable gene variants (alleles) that contribute to those traits in a single crop variety. However, current strategies are often time-consuming and inefficient.",
-      "url": "https://phys.org/news/2026-06-platform-multiple-trait-stacking-crops.html"
+      "title": " Doctors need to understand patients' lived experiences to treat them well — but medical schools may stop requiring that training ",
+      "source": " Latest from Live Science ",
+      "date": "Mon, 08 Jun 2026 12:00:00 +0000",
+      "summary": "The board that accredits medical schools is poised to take away requirements that doctors learn about factors, such as income, neighborhood, and culture, that can affect medical treatment approaches. These requirements are necessary to ensure the highest quality of care.",
+      "url": "https://www.livescience.com/health/doctors-need-to-understand-patients-lived-experiences-to-treat-them-well-but-medical-schools-may-stop-requiring-that-training/opinion"
     },
     {
-      "category": "AI",
-      "title": "VibeOS: First ever AI-native operating system",
-      "source": "Hacker News: Front Page",
-      "date": "Sun, 07 Jun 2026 21:29:21 +0000",
-      "summary": "Article URL: https://vibeos.sh/\nComments URL: https://news.ycombinator.com/item?id=48438754\nPoints: 7\n# Comments: 6",
-      "url": "https://vibeos.sh/"
+      "category": "Space",
+      "title": " 'It's very aesthetically pleasing.' Prada and Axiom just revealed the stylish cooling suit Artemis astronuats will wear under their spacesuit on the moon ",
+      "source": " Latest from Space.com ",
+      "date": "Mon, 08 Jun 2026 12:00:00 +0000",
+      "summary": "Prada (yes, that Prada) and Axiom Space are taking spacesuits up a notch with this liquid cooling ventilation garment.",
+      "url": "https://www.space.com/space-exploration/human-spaceflight/its-very-aesthetically-pleasing-prada-and-axiom-just-revealed-the-stylish-cooling-suit-artemis-astronuats-will-wear-under-their-spacesuit-on-the-moon"
     },
     {
-      "category": "Science",
-      "title": "Could the Milky Way's missing mass be hiding in a swarm of interstellar comets?",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sun, 07 Jun 2026 17:00:04 EDT",
-      "summary": "3I/ATLAS has caused quite a stir over the last year, inviting astronomers to update what they know about other solar systems as well as our own. However, this third interstellar visitor may have an unexpected impact on our understanding of dark matter. A new paper, available on the arXiv preprint server from researchers at the University of Hamburg, attempts to calculate the impact that the presence of large amounts of interstellar objects, or ISOs, would have on our calculation of dark matter in our galaxy.",
-      "url": "https://phys.org/news/2026-06-milky-mass-swarm-interstellar-comets.html"
-    },
-    {
-      "category": "AI",
-      "title": "The architecture of the internet creates risks for democracy",
-      "source": "Hacker News: Front Page",
-      "date": "Sun, 07 Jun 2026 20:28:19 +0000",
-      "summary": "Article URL: https://www.science.org/doi/10.1126/science.aei2409\nComments URL: https://news.ycombinator.com/item?id=48438212\nPoints: 67\n# Comments: 84",
-      "url": "https://www.science.org/doi/10.1126/science.aei2409"
-    },
-    {
-      "category": "AI",
-      "title": "Show HN: Nightwatch, The open-source, read-only AI SRE",
-      "source": "Hacker News: Front Page",
-      "date": "Sun, 07 Jun 2026 20:24:36 +0000",
-      "summary": "nightwatch is a local-first, read-only layer on top of your monitoring. it groups alert storm into incidents, flags noisy checks and has an agent that can investigate for you live systems. You can e.g. jump from the incident into the agent directly.\nthe reason for this weekend project is that we had a kubernetes upgrade that went wrong, and at some point a rollback wasn't possible anymore, so it had to be fixed live during the night while several problems came together. We run a lot of different systems, on-prem and several Kubernetes clusters, and in a situation like that you spend most of the time just figuring out what is actually broken and where.\nSo i thought that it would be pretty cool to have eyes in the dark in each system that can talk to your \"brain\".\nso the idea is to put a baby owl into each environment. Each owl runs where the systems live, keeps that environment's credentials local, and only dials outbound to a central brain, so there is no inbound hole into prod. It exposes a set of read-only skills, and the agent uses them to gather evidence and form a root-cause hypothesis, so the on-call engineer starts with a head start instead of from zero.\nread-only for now, i don't trust it near prod yet and honestly neither should you.\nllocal-first for easy self-hosting and to keep credentials on your side. the clustering and recommendations run fully offline with no llm at all. the agent needs a tool-calling llm, you can point it at a remote one, or self-host one (ollama etc.) if you want to stay fully offline.\nfor non selfhosters: before every remote llm call, nightwatch strips real secrets (unrestorable) and swaps identifiers like ips, hostnames and paths for reversible placeholders, so the model only sees masked data while real values are restored only in the proposed commands and tool calls\nWould love if you try it in your Systems\nComments URL: https://news.ycombinator.com/item?id=48438180\nPoints: 4\n# Comments: 2",
-      "url": "https://github.com/ninoxAI/nightwatch"
+      "category": "History",
+      "title": "Cocked and Boozy: An Intoxicating History of the American Revolution",
+      "source": "Journal of the American Revolution",
+      "date": "Mon, 08 Jun 2026 11:39:49 +0000",
+      "summary": "BOOK REVIEW: Cocked and Boozy: An Intoxicating History of the American Revolution by Brook Barbier (Chicago, IL: Chicago Review Press, 2026) “Muddled.” “Buzzey.” “Jolly.” “Cherry Merry.” “Swallow’d a Tavern Token.” “Cat.” These terms are all euphemisms that describe someone who is inebriated. All of these words come to us courtesy of the great Dr. Benjamin […]\nThe post Cocked and Boozy: An Intoxicating History of the American Revolution appeared first on Journal of the American Revolution.",
+      "url": "https://allthingsliberty.com/2026/06/cocked-and-boozy-an-intoxicating-history-of-the-american-revolution/"
     },
     {
       "category": "Science",
-      "title": "How gene swapping helped build the planet's decomposers",
+      "title": "Scientists discover the brain chemical that helps you break bad habits",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Mon, 08 Jun 2026 07:38:21 EDT",
+      "summary": "Scientists have uncovered a key brain signal that helps us break old habits and adapt when circumstances suddenly change. By watching mice navigate a virtual maze, researchers found that disappointment—when an expected reward failed to appear—triggered a surge of the neurotransmitter acetylcholine, making the animals more likely to try a new strategy. When acetylcholine was blocked, the mice became less flexible and were more likely to stick with outdated choices.",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260606075901.htm"
+    },
+    {
+      "category": "Science",
+      "title": "What is space-time? A mystery at the heart of reality",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Mon, 08 Jun 2026 07:28:01 EDT",
+      "summary": "What if our biggest idea about reality is built on a hidden misunderstanding? A new philosophical look at space-time challenges the popular view that the past, present, and future all exist together in a timeless \"block universe.\" The argument suggests that physicists may be blurring the difference between things that exist and things that merely occur, creating deep confusion about what space-time actually is.",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260606075858.htm"
+    },
+    {
+      "category": "Science",
+      "title": " This yeast-based 3D printed biomaterial could one day replace your wallpaper and drapes ",
+      "source": " Latest from Live Science ",
+      "date": "Mon, 08 Jun 2026 11:00:00 +0000",
+      "summary": "Researchers have made a new biomaterial that has a similar tensile strength as a fruit roll-up and could help reduce waste produced from indoor decor.",
+      "url": "https://www.livescience.com/chemistry/this-yeast-based-3d-printed-biomaterial-could-one-day-replace-your-wallpaper-and-drapes"
+    },
+    {
+      "category": "Space",
+      "title": " Rare daytime meteor shower peak this week — here's how to see (and even hear) them ",
+      "source": " Latest from Space.com ",
+      "date": "Mon, 08 Jun 2026 11:00:00 +0000",
+      "summary": "Most meteor showers are seen after dark, but the Arietids offer a rare chance to spot shooting stars in the dawn sky.",
+      "url": "https://www.space.com/stargazing/meteor-showers/rare-daytime-meteors-peak-this-week-heres-how-to-see-and-even-hear-them"
+    },
+    {
+      "category": "Science",
+      "title": "Scientists may have debunked one of humanity's oldest habits",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Mon, 08 Jun 2026 06:49:32 EDT",
+      "summary": "Ancient grooves on human teeth, once hailed as evidence of tooth-picking, may simply be the result of natural wear, according to a new study of wild primates. The research also revealed that a common modern dental defect appears to be uniquely human, hinting that today's lifestyles may be reshaping our teeth in unexpected ways.",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260606075855.htm"
+    },
+    {
+      "category": "Biblical Studies",
+      "title": "Was Edom Originally Nomadic?",
+      "source": "Biblical Archaeology Society",
+      "date": "Mon, 08 Jun 2026 10:45:24 +0000",
+      "summary": "A recent article by archaeologist Erez Ben-Yosef has reignited debates about nomadic societies, the kingdom of Edom, and, by implication, how the Bible has been […]\nThe post Was Edom Originally Nomadic? appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/daily/biblical-sites-places/biblical-archaeology-places/was-edom-originally-nomadic/"
+    },
+    {
+      "category": "Science",
+      "title": "Nickelate superconductors share a common electronic fingerprint",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Sun, 07 Jun 2026 16:20:01 EDT",
-      "summary": "Decomposers are crucial for keeping Earth habitable, breaking down dead biomass and returning key nutrients, such as carbon, nitrogen and phosphorus, to the ecosystem. Most decomposers, including fungi, survive through osmotrophy—a means of feeding by absorbing dissolved nutrients rather than engulfing prey. But how this method of feeding repeatedly arose across the eukaryotic tree of life remains unclear.",
-      "url": "https://phys.org/news/2026-06-gene-swapping-planet-decomposers.html"
+      "date": "Mon, 08 Jun 2026 06:20:01 EDT",
+      "summary": "Superconductors, materials that conduct electricity with zero electrical resistance at specific temperature ranges, have proved very promising for the development of quantum computers and other cutting-edge technologies. While most of these materials become superconducting at very low temperatures, others exhibit superconductivity at higher temperatures.",
+      "url": "https://phys.org/news/2026-06-nickelate-superconductors-common-electronic-fingerprint.html"
+    },
+    {
+      "category": "Science",
+      "title": " Roman bath clog: The world's oldest shower shoes were found at a fort along Hadrian's Wall ",
+      "source": " Latest from Live Science ",
+      "date": "Mon, 08 Jun 2026 10:00:00 +0000",
+      "summary": "The Romans were the first to wear clog-style footwear to the baths to protect their feet from the hot floor and to better navigate slippery surfaces.",
+      "url": "https://www.livescience.com/archaeology/romans/roman-bath-clog-the-worlds-oldest-shower-shoes-were-found-at-a-fort-along-hadrians-wall"
+    },
+    {
+      "category": "Space",
+      "title": " Is this the next Artemis crew? A look at the astronauts on NASA's shortlist ",
+      "source": " Latest from Space.com ",
+      "date": "Mon, 08 Jun 2026 10:00:00 +0000",
+      "summary": "On June 9, NASA will reveal the astronauts who will fly on the Artemis 3 docking mission in Earth orbit next year. Here's a look at the contenders.",
+      "url": "https://www.space.com/space-exploration/artemis/is-this-the-next-artemis-crew-a-look-at-the-astronauts-on-nasas-shortlist"
+    },
+    {
+      "category": "AI",
+      "title": "Replies to comments on my \"LLMs are eroding my career\" post",
+      "source": "Hacker News: Front Page",
+      "date": "Mon, 08 Jun 2026 09:52:03 +0000",
+      "summary": "Article URL: https://human-in-the-loop.bearblog.dev/replies-to-comments-on-my-llms-are-eroding-my-career-post/\nComments URL: https://news.ycombinator.com/item?id=48443258\nPoints: 62\n# Comments: 84",
+      "url": "https://human-in-the-loop.bearblog.dev/replies-to-comments-on-my-llms-are-eroding-my-career-post/"
+    },
+    {
+      "category": "Science",
+      "title": "A 7.8 magnitude quake in the Philippines kills at least 19, fells buildings and sets off a tsunami",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Mon, 08 Jun 2026 05:50:03 EDT",
+      "summary": "An offshore magnitude 7.8 earthquake rocked the southern Philippines Monday, killing at least 19 people, injuring more than 200 others mostly in damaged buildings and sending a 1-meter (3-foot) tsunami into nearby coasts.",
+      "url": "https://phys.org/news/2026-06-magnitude-quake-philippines-fells-tsunami.html"
+    },
+    {
+      "category": "AI",
+      "title": "Config Files That Run Code: Supply Chain Security Blindspot",
+      "source": "Hacker News: Front Page",
+      "date": "Mon, 08 Jun 2026 09:35:19 +0000",
+      "summary": "Article URL: https://safedep.io/config-files-that-run-code/\nComments URL: https://news.ycombinator.com/item?id=48443135\nPoints: 8\n# Comments: 0",
+      "url": "https://safedep.io/config-files-that-run-code/"
+    },
+    {
+      "category": "Science",
+      "title": "Superheated magma may explain why similar volcanoes erupt in very different ways",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Mon, 08 Jun 2026 05:00:05 EDT",
+      "summary": "Scientists have shed light on a thermal process in magma that may help explain why similar volcanic systems can produce very different eruptive behaviors.",
+      "url": "https://phys.org/news/2026-06-superheated-magma-similar-volcanoes-erupt.html"
+    },
+    {
+      "category": "AI",
+      "title": "The Cypherpunk Library",
+      "source": "Hacker News: Front Page",
+      "date": "Mon, 08 Jun 2026 08:32:52 +0000",
+      "summary": "Article URL: https://www.cypherpunkbooks.com\nComments URL: https://news.ycombinator.com/item?id=48442725\nPoints: 126\n# Comments: 23",
+      "url": "https://www.cypherpunkbooks.com"
+    },
+    {
+      "category": "Theology",
+      "title": "How to Preach the Gospel",
+      "source": "The Gospel Coalition",
+      "date": "Mon, 08 Jun 2026 04:04:49 +0000",
+      "summary": "Matt Smethurst and Ligon Duncan tackle one of the most important questions in pastoral ministry: How do you preach Christ from all of Scripture?",
+      "url": "https://www.thegospelcoalition.org/podcasts/everyday-pastor/how-preach-gospel/"
+    },
+    {
+      "category": "Theology",
+      "title": "What Christian Athletes Can (and Can’t) Do for the Church",
+      "source": "The Gospel Coalition",
+      "date": "Mon, 08 Jun 2026 04:02:00 +0000",
+      "summary": "The story we get in ‘Godball’ is too thin. It glosses over the quiet faithfulness and complexity of the Christian sports movement.",
+      "url": "https://www.thegospelcoalition.org/reviews/godball-athletes-christianity/"
+    },
+    {
+      "category": "Theology",
+      "title": "What a 6th-Century Monk Can Teach Exhausted Workers Today",
+      "source": "The Gospel Coalition",
+      "date": "Mon, 08 Jun 2026 04:00:00 +0000",
+      "summary": "What would a Benedictine workday look like today?",
+      "url": "https://www.thegospelcoalition.org/article/monk-exhausted-worker-today/"
     },
     {
       "category": "AI",
@@ -59,46 +171,6 @@
       "url": "https://arstechnica.com/culture/2026/06/rip-anthony-head-our-10-favorite-moments-of-buffys-giles/"
     },
     {
-      "category": "Science",
-      "title": " AI could consume up 3% of world's electricity the UN warns ",
-      "source": " Latest from Live Science ",
-      "date": "Sun, 07 Jun 2026 14:00:00 +0000",
-      "summary": "AI could soon use more water than we need to drink, UN report finds.",
-      "url": "https://www.livescience.com/technology/artificial-intelligence/ai-could-consume-up-3-percent-of-worlds-electricity-the-un-warns"
-    },
-    {
-      "category": "Space",
-      "title": " Trouble near the Milky Way: The Large Magellanic Cloud is ripping its smaller neighbor galaxy apart ",
-      "source": " Latest from Space.com ",
-      "date": "Sun, 07 Jun 2026 14:00:00 +0000",
-      "summary": "The Magellanic Clouds are a pair of dwarf galaxies passing the Milky Way probably for the first time, but as they move they have been interacting with each other for billions of years.",
-      "url": "https://www.space.com/astronomy/galaxies/trouble-near-the-milky-way-the-large-magellanic-cloud-is-ripping-its-smaller-neighbor-galaxy-apart"
-    },
-    {
-      "category": "Science",
-      "title": " 'Crystals' of space-time could be the origins of certain rare black holes, theoretical study hints ",
-      "source": " Latest from Live Science ",
-      "date": "Sun, 07 Jun 2026 13:00:00 +0000",
-      "summary": "By taking general relativity into higher dimensions, a trio of physicists has proven that a mathematical pattern of ripples in space-time geometry could give rise to naked singularities and microscopic black holes.",
-      "url": "https://www.livescience.com/space/black-holes/crystals-of-space-time-could-be-the-origins-of-certain-rare-black-holes-theoretical-study-hints"
-    },
-    {
-      "category": "Space",
-      "title": " 10 best Spanish beaches to see the total solar eclipse 2026 ",
-      "source": " Latest from Space.com ",
-      "date": "Sun, 07 Jun 2026 13:00:00 +0000",
-      "summary": "On Aug. 12, 2026, some of the best beaches in the world will play host to totality.",
-      "url": "https://www.space.com/stargazing/solar-eclipses/10-best-spanish-beaches-to-see-the-total-solar-eclipse-2026"
-    },
-    {
-      "category": "Space",
-      "title": " 'Rick and Morty' creators on their inspirations as season 9 tackles the multiverse, evolution, and a kung-fu fight in a Trader Joe's parking lot (interview) ",
-      "source": " Latest from Space.com ",
-      "date": "Sun, 07 Jun 2026 12:00:00 +0000",
-      "summary": "'This season in a lot of ways is a celebration and I think you can feel it in everything'",
-      "url": "https://www.space.com/entertainment/space-movies-shows/rick-and-morty-creators-on-their-inspirations-as-season-9-tackles-the-multiverse-evolution-and-a-kung-fu-fight-in-a-trader-joes-parking-lot-interview"
-    },
-    {
       "category": "AI",
       "title": "School shooting survivor sues AI gun detection firm after system failed to spot weapon",
       "source": "Ars Technica - All content",
@@ -107,68 +179,12 @@
       "url": "https://arstechnica.com/tech-policy/2026/06/school-shooting-survivor-sues-ai-gun-detection-firm-after-system-failed-to-spot-weapon/"
     },
     {
-      "category": "Science",
-      "title": " Kaleidoscopic meteorite could be a piece of a 'lost world' from the early solar system — Space photo of the week ",
-      "source": " Latest from Live Science ",
-      "date": "Sun, 07 Jun 2026 10:00:00 +0000",
-      "summary": "A rare meteorite found in the Sahara Desert may be evidence of a long-lost \"protoplanet\" that formed in the early solar system before being destroyed in a colossal collision, a new study suggests",
-      "url": "https://www.livescience.com/space/meteoroids/kaleidoscopic-meteorite-could-be-a-piece-of-a-lost-world-from-the-early-solar-system-space-photo-of-the-week"
-    },
-    {
-      "category": "Science",
-      "title": "Scientists finally complete Schrödinger’s 100-year-old color theory",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Sun, 07 Jun 2026 03:55:21 EDT",
-      "summary": "Researchers have finally resolved a key problem in a 100-year-old theory of color, showing that the qualities we perceive in colors are intrinsic to the mathematics of color space itself. The discovery sharpens our understanding of human vision and could lead to more precise color technologies and visualizations.",
-      "url": "https://www.sciencedaily.com/releases/2026/06/260606015140.htm"
-    },
-    {
-      "category": "Theology",
-      "title": "4 Ways to (Actually) Help a Sufferer",
-      "source": "The Gospel Coalition",
-      "date": "Sun, 07 Jun 2026 04:05:00 +0000",
-      "summary": "How to respond when someone shares his or her pain? Be present. Listen. Weep. Encourage.",
-      "url": "https://www.thegospelcoalition.org/article/ways-help-sufferer/"
-    },
-    {
       "category": "AI",
       "title": "Scientists ejected from diabetes conference for distributing journal reprints",
       "source": "Ars Technica - All content",
       "date": "Sat, 06 Jun 2026 20:53:07 +0000",
       "summary": "Those ousted included ADA journal editor-in-chief Steven Kahn and former ADA president Desmond Schatz",
       "url": "https://arstechnica.com/science/2026/06/scientists-ejected-from-diabetes-conference-for-distributing-journal-reprints/"
-    },
-    {
-      "category": "Science",
-      "title": "Tiny X-ray telescope could unlock the Moon's hidden chemistry",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Sat, 06 Jun 2026 09:24:27 EDT",
-      "summary": "A lightweight new X-ray telescope could finally give scientists something they’ve never had before: a complete chemical map of the Moon. Researchers used detailed mission simulations to show that a compact telescope orbiting the Moon could identify key elements across the entire lunar surface, helping reveal how the Moon formed and evolved.",
-      "url": "https://www.sciencedaily.com/releases/2026/06/260606075508.htm"
-    },
-    {
-      "category": "Science",
-      "title": "Scientists found a surprisingly simple way to create powerful quantum states",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Sat, 06 Jun 2026 09:02:19 EDT",
-      "summary": "A team at the University of Chicago has discovered a surprisingly simple way to create powerful quantum states that are normally difficult to produce. By making small adjustments to the energy levels of atoms inside an optical cavity, researchers can generate a wide variety of highly entangled states without adding complicated hardware.",
-      "url": "https://www.sciencedaily.com/releases/2026/06/260606075510.htm"
-    },
-    {
-      "category": "Theology",
-      "title": "Packing for TGCW26? Leave Room for Discounted Books.",
-      "source": "The Gospel Coalition",
-      "date": "Sat, 06 Jun 2026 04:02:00 +0000",
-      "summary": "Booklovers at TGC’s 2026 Women’s Conference should check out our bookstore for a wide range of books, many at deep discounts.",
-      "url": "https://www.thegospelcoalition.org/article/tgcw26-discounted-books/"
-    },
-    {
-      "category": "Theology",
-      "title": "Your Calling Is a Zigzag",
-      "source": "The Gospel Coalition",
-      "date": "Sat, 06 Jun 2026 04:00:00 +0000",
-      "summary": "Calling is rarely a straight, predictable line. Here are six lessons I’ve learned from my zigzag journey.",
-      "url": "https://www.thegospelcoalition.org/article/your-calling-zigzag/"
     },
     {
       "category": "Space",
@@ -227,14 +243,6 @@
       "url": "https://www.biblicalarchaeology.org/daily/biblical-artifacts/dead-sea-scrolls/the-dead-sea-scrolls-and-the-new-testament/"
     },
     {
-      "category": "Biblical Studies",
-      "title": "Minor Prophets in the Bible: Amos",
-      "source": "Biblical Archaeology Society",
-      "date": "Thu, 04 Jun 2026 11:00:22 +0000",
-      "summary": "Learn how to read the Book of Amos in context and how the prophet Amos’s message is relevant today.\nThe post Minor Prophets in the Bible: Amos appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/daily/people-cultures-in-the-bible/people-in-the-bible/minor-prophets-bible-amos/"
-    },
-    {
       "category": "AI",
       "title": "Dreaming: Better memory for a more helpful ChatGPT",
       "source": "OpenAI News",
@@ -257,14 +265,6 @@
       "date": "Tue, 02 Jun 2026 10:00:26 +0000",
       "summary": "Visitors to the Monmouth Battle Monument in Freehold, New Jersey, cannot help but be taken by its majesty. Its sheer size (ninety-four feet tall), its ornate design on top with Liberty Triumphant crowning its towering column which is also adorned with a cornice of flying eagles, and a base decorated with the coats of arms […]\nThe post Nathaniel Ramsey in the Point of Woods and on the Monmouth Battle Monument appeared first on Journal of the American Revolution.",
       "url": "https://allthingsliberty.com/2026/06/nathaniel-ramsey-in-the-point-of-woods-and-on-the-monmouth-battle-monument/"
-    },
-    {
-      "category": "History",
-      "title": "The Stamp Act and the American Revolution",
-      "source": "Journal of the American Revolution",
-      "date": "Sun, 31 May 2026 16:00:29 +0000",
-      "summary": "BOOK REVIEW: The Stamp Act and the American Revolution by Ken Shumate. (Yardley, PA: Westholme Publishing, 2025) $29.95 hardcover. The American Revolution as a process of separation from Great Britain started long before April 1775 as once-proud English colonists in North America struggled with their place in the early empire. The story of that struggle […]\nThe post The Stamp Act and the American Revolution appeared first on Journal of the American Revolution.",
-      "url": "https://allthingsliberty.com/2026/05/the-stamp-act-and-the-american-revolution/"
     },
     {
       "category": "History",
