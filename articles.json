@@ -1,86 +1,102 @@
 {
-  "lastUpdated": "2026-06-08T18:20:59.535Z",
-  "articleCount": 39,
+  "lastUpdated": "2026-06-08T23:09:05.969Z",
+  "articleCount": 36,
   "articles": [
     {
       "category": "Science",
-      "title": "Recovered wild maize gene boosts crop protein without yield loss",
+      "title": "Great mysteries of archaeology: An ancient Amazonian world revealed from the sky",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Mon, 08 Jun 2026 14:20:06 EDT",
-      "summary": "Maize (Zea mays L.) plays an important role in global food security. During 9,000 years of maize domestication and breeding, however, protein content was not a major breeding target. Consequently, many beneficial gene variants associated with higher protein content were gradually lost from cultivated maize. As a result, modern maize varieties often have low seed protein content, leading to a heavy reliance on imported soybean meal for livestock feed.",
-      "url": "https://phys.org/news/2026-06-recovered-wild-maize-gene-boosts.html"
+      "date": "Mon, 08 Jun 2026 19:00:04 EDT",
+      "summary": "From the air, you see it only through the constant jolt, tilt, and shudder of the low-flying Cessna aircraft. The landscape of the Llanos de Moxos, northern Bolivia, appears as a disconnected patchwork of open grassland savannahs, forest islands, and lakes.",
+      "url": "https://phys.org/news/2026-06-great-mysteries-archaeology-ancient-amazonian.html"
     },
     {
       "category": "Science",
-      "title": "What happens when the world's breadbaskets start failing simultaneously?",
+      "title": "'The Real Scoreline' reveals the nations facing climate penalties",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Mon, 08 Jun 2026 14:20:02 EDT",
-      "summary": "Agriculture today is a massive, globally interconnected industry. That interconnectivity has brought jobs and varied foods to people who might not otherwise be able to access them.",
-      "url": "https://phys.org/news/2026-06-world-breadbaskets-simultaneously.html"
+      "date": "Mon, 08 Jun 2026 19:00:03 EDT",
+      "summary": "As nations prepare to compete on the global stage this summer, researchers at the University of Reading have created a different kind of scoreboard that shows where each country really stands on climate change. The Real Scoreline compares countries using six climate indicators—including emissions, fossil fuel dependence, heat stress, projected warming and net-zero commitments—producing a single score out of a possible 99 that reveals how nations compare beyond the traditional scoreboard.",
+      "url": "https://phys.org/news/2026-06-real-scoreline-reveals-nations-climate.html"
     },
     {
       "category": "Science",
-      "title": "Tabletop experiment helps reconcile fundamental physics",
+      "title": "Cloud-tested quantum noise model predicts superconducting qubit errors with sevenfold better accuracy",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Mon, 08 Jun 2026 14:20:01 EDT",
-      "summary": "Assistant Professor Haocun Yu is something of a scientific diplomat. In a recent Physical Review Letters publication, she and her colleagues show how a tabletop experiment can bring together two bedrock physics theories that have never been fully reconciled.",
-      "url": "https://phys.org/news/2026-06-tabletop-fundamental-physics.html"
+      "date": "Mon, 08 Jun 2026 19:00:02 EDT",
+      "summary": "Researchers from the Johns Hopkins Applied Physics Laboratory (APL) in Laurel, Maryland, and Johns Hopkins University in Baltimore have developed a practical, comprehensive noise-modeling framework for a popular class of superconducting quantum processors. Their work, published in the journal PRX Quantum, offers a sevenfold improvement in predictive accuracy over existing approaches.",
+      "url": "https://phys.org/news/2026-06-cloud-quantum-noise-superconducting-qubit.html"
+    },
+    {
+      "category": "AI",
+      "title": "OpenAI Submits S-1 Draft to SEC",
+      "source": "Hacker News: Front Page",
+      "date": "Mon, 08 Jun 2026 21:22:43 +0000",
+      "summary": "Article URL: https://openai.com/index/openai-submits-confidential-s-1/\nComments URL: https://news.ycombinator.com/item?id=48452317\nPoints: 135\n# Comments: 63",
+      "url": "https://openai.com/index/openai-submits-confidential-s-1/"
+    },
+    {
+      "category": "AI",
+      "title": "macOS 27 requires Apple Silicon, as Apple draws down the Intel Mac era",
+      "source": "Ars Technica - All content",
+      "date": "Mon, 08 Jun 2026 21:03:56 +0000",
+      "summary": "You'll need an M1 or better to run the next release of macOS.",
+      "url": "https://arstechnica.com/gadgets/2026/06/macos-27-requires-apple-silicon-as-apple-draws-down-the-intel-mac-era/"
     },
     {
       "category": "Space",
-      "title": " 'Evolution' at 25: A perfect fusion of 'Ghostbusters' and 'Men in Black' that's become a sci-fi comedy classic ",
+      "title": " Scientists propose spraying chemicals into Earth's magnetic field to protect us from powerful solar storms ",
       "source": " Latest from Space.com ",
-      "date": "Mon, 08 Jun 2026 18:00:00 +0000",
-      "summary": "Pour out a bottle of Head & Shoulders for Ivan Reitman's Evolution on its 25-year anniversary.",
-      "url": "https://www.space.com/entertainment/space-movies-shows/evolution-at-25-a-perfect-fusion-of-ghostbusters-and-men-in-black-thats-become-a-sci-fi-comedy-classic"
+      "date": "Mon, 08 Jun 2026 21:00:00 +0000",
+      "summary": "Scientists have proposed a spacecraft-based system to actively strengthen Earth's magnetic shield and reduce the impact of powerful solar storms.",
+      "url": "https://www.space.com/astronomy/earth/scientists-propose-spraying-chemicals-into-earths-magnetic-field-to-protect-us-from-powerful-solar-storms"
     },
     {
       "category": "AI",
-      "title": "Full Reverse Engineering of the TI-84 Plus Operating System",
-      "source": "Hacker News: Front Page",
-      "date": "Mon, 08 Jun 2026 17:41:33 +0000",
-      "summary": "Article URL: https://siraben.github.io/ti84p-re/\nComments URL: https://news.ycombinator.com/item?id=48448493\nPoints: 18\n# Comments: 1",
-      "url": "https://siraben.github.io/ti84p-re/"
-    },
-    {
-      "category": "AI",
-      "title": "Thunderbird Littering My Home",
-      "source": "Hacker News: Front Page",
-      "date": "Mon, 08 Jun 2026 17:31:34 +0000",
-      "summary": "Article URL: https://thefoggiest.dev/2026/06/04/thunderbird-littering-my-home\nComments URL: https://news.ycombinator.com/item?id=48448357\nPoints: 6\n# Comments: 1",
-      "url": "https://thefoggiest.dev/2026/06/04/thunderbird-littering-my-home"
-    },
-    {
-      "category": "AI",
-      "title": "Man jailed for a month despite Flock showing he was 5 miles from crime scene",
+      "title": "iOS 27 and iPadOS 27 don't drop support for any iPhones—and just a few iPads",
       "source": "Ars Technica - All content",
-      "date": "Mon, 08 Jun 2026 17:20:30 +0000",
-      "summary": "Cop seemingly ignored Flock camera timestamp to justify arrests.",
-      "url": "https://arstechnica.com/tech-policy/2026/06/man-jailed-for-a-month-despite-flock-showing-he-was-5-miles-from-crime-scene/"
+      "date": "Mon, 08 Jun 2026 20:55:58 +0000",
+      "summary": "This promises to be a solid release for aging iPhones.",
+      "url": "https://arstechnica.com/gadgets/2026/06/ios-27-and-ipados-27-dont-drop-support-for-any-iphones-and-just-a-few-ipads/"
     },
     {
       "category": "AI",
-      "title": "Apple WWDC 2026 Livestream",
+      "title": "FrontierCode",
       "source": "Hacker News: Front Page",
-      "date": "Mon, 08 Jun 2026 17:14:24 +0000",
-      "summary": "Article URL: https://www.apple.com/apple-events/event-stream/\nComments URL: https://news.ycombinator.com/item?id=48448106\nPoints: 98\n# Comments: 107",
-      "url": "https://www.apple.com/apple-events/event-stream/"
+      "date": "Mon, 08 Jun 2026 20:45:03 +0000",
+      "summary": "Article URL: https://cognition.ai/blog/frontier-code\nComments URL: https://news.ycombinator.com/item?id=48451723\nPoints: 49\n# Comments: 12",
+      "url": "https://cognition.ai/blog/frontier-code"
+    },
+    {
+      "category": "AI",
+      "title": "Meta alleges NSO violated spyware injunction with new WhatsApp attacks",
+      "source": "Ars Technica - All content",
+      "date": "Mon, 08 Jun 2026 20:26:14 +0000",
+      "summary": "WhatsApp disrupted spear phishing attempts, asks court to hold NSO in contempt.",
+      "url": "https://arstechnica.com/tech-policy/2026/06/meta-alleges-nso-violated-spyware-injunction-with-new-whatsapp-attacks/"
     },
     {
       "category": "Space",
-      "title": " This former Paralympic athlete could become the 1st person with a physical disability to live in orbit ",
+      "title": " James Webb Space Telescope weighs 'sleeping giant' black hole from 10 billion light-years away — and it's 6 billion times our sun's mass ",
       "source": " Latest from Space.com ",
-      "date": "Mon, 08 Jun 2026 17:00:00 +0000",
-      "summary": "European Space Agency astronaut John McFall could be headed to the private Haven-1 space station as soon as 2027.",
-      "url": "https://www.space.com/space-exploration/human-spaceflight/this-former-paralympic-athlete-could-become-the-1st-person-with-a-physical-disability-to-live-in-orbit"
+      "date": "Mon, 08 Jun 2026 20:00:00 +0000",
+      "summary": "Using the James Webb Space Telescope, and with a little help from Einstein, astronomers have \"weighed\" a sleeping giant, a dormant supermassive black hole located a staggering 10 billion light-years away.",
+      "url": "https://www.space.com/astronomy/james-webb-space-telescope/james-webb-space-telescope-weighs-sleeping-giant-black-hole-from-10-billion-light-years-away-and-its-6-billion-times-our-suns-mass"
     },
     {
       "category": "AI",
-      "title": "F1 in Monaco: Finally, the cars were flat-out in qualifying",
-      "source": "Ars Technica - All content",
-      "date": "Mon, 08 Jun 2026 16:56:21 +0000",
-      "summary": "The cars are too big to race well, but the competition for pole position is thrilling.",
-      "url": "https://arstechnica.com/cars/2026/06/f1-in-monaco-finally-the-cars-were-flat-out-in-qualifying/"
+      "title": "I'm building a parallel internet, and it's called The Thinnernet",
+      "source": "Hacker News: Front Page",
+      "date": "Mon, 08 Jun 2026 19:45:04 +0000",
+      "summary": "Article URL: https://inavoyage.blogspot.com/2026/06/im-building-parallel-internet-and-its.html\nComments URL: https://news.ycombinator.com/item?id=48450694\nPoints: 37\n# Comments: 31",
+      "url": "https://inavoyage.blogspot.com/2026/06/im-building-parallel-internet-and-its.html"
+    },
+    {
+      "category": "Space",
+      "title": " Why do Venus and Jupiter meet up in the sky so often? It's a symptom of a solar system that supports life on Earth ",
+      "source": " Latest from Space.com ",
+      "date": "Mon, 08 Jun 2026 19:00:00 +0000",
+      "summary": "As it turns out, the conditions that set Venus and Jupiter up for their conjunctions in the sky are the same that are critical for life to survive on Earth.",
+      "url": "https://www.space.com/stargazing/why-do-venus-and-jupiter-meet-up-in-the-sky-so-often-its-a-symptom-of-a-solar-system-that-supports-life-on-earth"
     },
     {
       "category": "Science",
@@ -89,14 +105,6 @@
       "date": "Mon, 08 Jun 2026 16:54:23 +0000",
       "summary": "After domesticating potatoes 10,000 years ago, the ancient people of the Andes evolved to have more copies of a key gene involved in digesting starch.",
       "url": "https://www.livescience.com/archaeology/americas/thanks-to-natural-selection-indigenous-andeans-may-digest-potatoes-better-than-anyone-else-in-the-world-study-finds"
-    },
-    {
-      "category": "Space",
-      "title": " SpaceX just launched (and landed) a Falcon 9 rocket booster for the 35th time, a new record. Watch it fly in this video. ",
-      "source": " Latest from Space.com ",
-      "date": "Mon, 08 Jun 2026 16:30:00 +0000",
-      "summary": "A SpaceX Falcon 9 rocket carrying 29 Starlink satellites lifted off from the Cape Canaveral Space Force Station in Florida on Monday, June 8, 2026. The first stage booster flew for a record 35th time.",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-10-35-b1067-ccsfs-asog"
     },
     {
       "category": "Science",
@@ -116,27 +124,11 @@
     },
     {
       "category": "AI",
-      "title": "A Falcon 9 booster turns 5 years old—and just set a remarkable reuse record",
-      "source": "Ars Technica - All content",
-      "date": "Mon, 08 Jun 2026 16:05:30 +0000",
-      "summary": "We take the Falcon 9 rocket for granted. But we probably shouldn't.",
-      "url": "https://arstechnica.com/space/2026/06/a-falcon-9-booster-turns-five-years-old-and-just-set-a-remarkable-reuse-record/"
-    },
-    {
-      "category": "Space",
-      "title": "Supersonic!",
-      "source": "NASA",
-      "date": "Mon, 08 Jun 2026 15:28:10 +0000",
-      "summary": "On June 5, 2026, NASA’s experimental X-59 aircraft flew faster than the speed of sound for the first time, setting the stage for demonstrating its quiet supersonic capabilities later this year. NASA test pilot Jim “Clue” Less took off and landed at Edwards Air Force Base in California, reaching a top speed of approximately Mach 1.1 (713 mph). The flight lasted 81 minutes, with the team focusing on flying qualities at both […]",
-      "url": "https://www.nasa.gov/image-article/supersonic/"
-    },
-    {
-      "category": "Space",
-      "title": "NASA’s INCUS Satellites Progress Toward Launch",
-      "source": "NASA",
-      "date": "Mon, 08 Jun 2026 15:22:07 +0000",
-      "summary": "Description One of the three satellites that make up NASA’s INCUS (Investigation of Convective Updrafts) mission sits on a fixture at the facilities of Blue Canyon Technologies in Lafayette, Colorado. The satellite completed testing in preparation for launch in late May 2026. The mission will make the first space-based survey of the dynamics of tropical […]",
-      "url": "https://science.nasa.gov/photojournal/nasas-incus-satellites-progress-toward-launch/"
+      "title": "Confidential submission of draft S-1 to the SEC",
+      "source": "OpenAI News",
+      "date": "Mon, 08 Jun 2026 14:00:00 GMT",
+      "summary": "OpenAI confirms a confidential S-1 submission to the SEC and has not yet determined timing for further action.",
+      "url": "https://openai.com/index/openai-submits-confidential-s-1"
     },
     {
       "category": "History",
@@ -195,20 +187,20 @@
       "url": "https://www.thegospelcoalition.org/reviews/godball-athletes-christianity/"
     },
     {
-      "category": "Space",
-      "title": "Digging Back in Time in the UAE",
-      "source": "NASA",
-      "date": "Mon, 08 Jun 2026 04:01:00 +0000",
-      "summary": "Once below a shallow sea, Jabal al Fāyah now stands above the desert in the United Arab Emirates as a reminder of a watery past and early human survival.",
-      "url": "https://science.nasa.gov/earth/earth-observatory/digging-back-in-time-in-the-uae/"
-    },
-    {
       "category": "Theology",
       "title": "What a 6th-Century Monk Can Teach Exhausted Workers Today",
       "source": "The Gospel Coalition",
       "date": "Mon, 08 Jun 2026 04:00:00 +0000",
       "summary": "What would a Benedictine workday look like today?",
       "url": "https://www.thegospelcoalition.org/article/monk-exhausted-worker-today/"
+    },
+    {
+      "category": "AI",
+      "title": "Built to benefit everyone: our plan",
+      "source": "OpenAI News",
+      "date": "Mon, 08 Jun 2026 01:30:00 GMT",
+      "summary": "A vision for the future of AI, focusing on access, safety, and shared prosperity as OpenAI works to ensure AGI benefits everyone.",
+      "url": "https://openai.com/index/built-to-benefit-everyone-our-plan"
     },
     {
       "category": "AI",
@@ -235,28 +227,12 @@
       "url": "https://allthingsliberty.com/2026/06/colonel-smallwood-comes-to-meeting/"
     },
     {
-      "category": "AI",
-      "title": "How Endava is redesigning software delivery around AI agents",
-      "source": "OpenAI News",
-      "date": "Thu, 04 Jun 2026 12:00:00 GMT",
-      "summary": "Learn how Endava is using AI agents, ChatGPT Enterprise, and Codex to accelerate software delivery, automate workflows, and build an AI-native culture across the enterprise.",
-      "url": "https://openai.com/index/endava-frontiers"
-    },
-    {
       "category": "Biblical Studies",
       "title": "The Dead Sea Scrolls and the New Testament",
       "source": "Biblical Archaeology Society",
       "date": "Thu, 04 Jun 2026 11:00:43 +0000",
       "summary": "What do the Dead Sea Scrolls say about Jesus? What do they say about the world in which Jesus lived? In BAR, James C. VanderKam examines the overlap between the Dead Sea Scrolls and the New Testament.\nThe post The Dead Sea Scrolls and the New Testament appeared first on Biblical Archaeology Society.",
       "url": "https://www.biblicalarchaeology.org/daily/biblical-artifacts/dead-sea-scrolls/the-dead-sea-scrolls-and-the-new-testament/"
-    },
-    {
-      "category": "AI",
-      "title": "Dreaming: Better memory for a more helpful ChatGPT",
-      "source": "OpenAI News",
-      "date": "Thu, 04 Jun 2026 09:00:00 GMT",
-      "summary": "ChatGPT introduces a new memory system to better remember preferences, keeping context fresh and relevant across conversations.",
-      "url": "https://openai.com/index/chatgpt-memory-dreaming"
     },
     {
       "category": "History",
