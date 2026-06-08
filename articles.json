@@ -1,7 +1,63 @@
 {
-  "lastUpdated": "2026-06-08T12:04:35.024Z",
-  "articleCount": 39,
+  "lastUpdated": "2026-06-08T14:01:27.065Z",
+  "articleCount": 36,
   "articles": [
+    {
+      "category": "Science",
+      "title": "Alien signal claims face stricter verification under updated disclosure rules",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Mon, 08 Jun 2026 10:00:04 EDT",
+      "summary": "The IAA SETI Committee has updated rules for evaluating and revealing the detection of extraterrestrial intelligence.",
+      "url": "https://phys.org/news/2026-06-alien-stricter-verification-disclosure.html"
+    },
+    {
+      "category": "Science",
+      "title": "These horses are unaffected by petting in children's zoo, heart rate monitors reveal",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Mon, 08 Jun 2026 09:56:04 EDT",
+      "summary": "The horses at the Children's Zoo in Gothenburg don't mind being petted by children and adults. However, they do get stressed by the noise from an excavator. Researchers at the University of Gothenburg discovered this after fitting heart rate monitors to eight Gotland Russ horses. The research is published in the journal Zoo Biology.",
+      "url": "https://phys.org/news/2026-06-horses-unaffected-petting-children-zoo.html"
+    },
+    {
+      "category": "Science",
+      "title": "Experts issue climate warning ahead of expanded FIFA World Cup",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Mon, 08 Jun 2026 09:40:05 EDT",
+      "summary": "The 2026 FIFA Men's World Cup could become the \"most polluting ever,\" according to a new report examining football's relationship with climate change.",
+      "url": "https://phys.org/news/2026-06-experts-issue-climate-fifa-world.html"
+    },
+    {
+      "category": "AI",
+      "title": "Launch HN: Intuned (YC S22) – Build and run reliable browser automations as code",
+      "source": "Hacker News: Front Page",
+      "date": "Mon, 08 Jun 2026 13:35:27 +0000",
+      "summary": "Hey HN, we're Faisal and Ahmad from Intuned (https://intunedhq.com). We’re building a platform for building, deploying, and maintaining browser automations.\nCustomers primarily use the Intuned AI agent to automate websites that don't expose APIs. Common use-cases include scraping data, pulling reports, and submitting forms. As the website changes, our agent also helps automatically heal the automation.\nOn Intuned, browser automations are created by an AI agent and run as code. Our infra captures the context of every run, allowing our agent to debug and maintain the underlying code - to keep the automations working over time. This way, we’re able to offer the predictability, speed, and cost of code, without the painful parts of writing and maintaining it.\nHere’s a demo of building a scraper on Intuned: https://youtu.be/ruZP73bK4FU\nHere’s a demo of using AI to maintain a project: https://youtu.be/e4R4hLdHBro\nBackstory: we were accepted into YC for a completely different idea. During the batch, because of Faisal's background at UiPath, several batchmates asked us whether RPA tools could fill API gaps in their products by automating websites without APIs. When it was time to pivot, we went back to those founders to dig deeper. (RPA in this context is referring to using UI automation to do complete non-testing tasks)\nWe discovered that the actual hard problem in browser automation is maintenance. Websites change, selectors break, and failures can be painful to reproduce and fix. So in early 2024, we decided to take a crack at this problem with a handful of customers. It needed a fair number of iterations before we landed on our current code-first approach.\nHow it works: Intuned is infra + agent, deeply integrated.\nOn the infrastructure side, Intuned is a managed runtime for browser automation code. Projects are usually Playwright-based TypeScript or Python. Users can write them directly in our online IDE, or hand the work off to the agent. Either way, once deployed, the platform runs each project in its own isolated machine and handles auth/session reuse, scheduling, batch execution, concurrency, observability, and the other plumbing around running browser code.\nOn the agent side, it took us a few iterations to get to the current approach. Our initial attempts were rigid pipelines: collect requirements, inspect the site, generate code, then try to patch whatever broke. It looked reasonable on paper, but real websites are too messy for fixed paths. Late last year, we were planning to ship that version when stronger models landed and harnesses like Claude Code and Codex showed what a more open-ended coding agent could do. We built a prototype on the Claude Agent SDK, it felt much better than what we had, and we scrapped the release and decided to rebuild the agent.\nThe rebuild came down to three pieces around the SDK: an execution environment for running long agent sessions reliably, a CLI that exposes the platform to the agent so it operates Intuned the way engineers do, and a custom plugin (skills + MCP) built around what we've learned building browser automations.\nThe infra-agent integration is where the product gets more interesting. The runtime doesn't just run the automation; it captures the context needed to debug it when it fails: params, results, traces, logs. That enables features like Fix with AI, where you can open a failed run and have the agent investigate and prepare a fix.\nThe same integration powers a feature called self-healing. For configured projects, the platform detects failures, starts an agent session with the relevant context, and either proposes a fix for review or deploys it automatically. Demo: https://youtu.be/IVHIXw0lYMs\nWe recently also packaged the infra and agent as an API called Web Task API, here is a demo: https://youtu.be/1olRn3l95vw\nWe strongly believe that browser automations can and should be faster, cheaper and more predictable. Check us out at https://app.intuned.io/, we have a free tier with trial credits for your first few automations. Excited to hear your thoughts, questions, and feedback!\nComments URL: https://news.ycombinator.com/item?id=48445171\nPoints: 17\n# Comments: 1",
+      "url": "https://intunedhq.com"
+    },
+    {
+      "category": "AI",
+      "title": "The Butlerian Jihad Has Begun",
+      "source": "Hacker News: Front Page",
+      "date": "Mon, 08 Jun 2026 13:26:55 +0000",
+      "summary": "Article URL: https://syndekit.substack.com/p/the-butlerian-jihad-has-begun\nComments URL: https://news.ycombinator.com/item?id=48445075\nPoints: 5\n# Comments: 0",
+      "url": "https://syndekit.substack.com/p/the-butlerian-jihad-has-begun"
+    },
+    {
+      "category": "AI",
+      "title": "Zig by Example",
+      "source": "Hacker News: Front Page",
+      "date": "Mon, 08 Jun 2026 13:06:19 +0000",
+      "summary": "Article URL: https://github.com/boringcollege/zig-by-example\nComments URL: https://news.ycombinator.com/item?id=48444871\nPoints: 50\n# Comments: 6",
+      "url": "https://github.com/boringcollege/zig-by-example"
+    },
+    {
+      "category": "Space",
+      "title": " Incoming CME could spark impressive northern lights over the northern US tonight ",
+      "source": " Latest from Space.com ",
+      "date": "Mon, 08 Jun 2026 12:33:01 +0000",
+      "summary": "A coronal mass ejection is currently racing toward Earth and could trigger G2 to G3 geomagnetic storm conditions on June 8, potentially boosting aurora displays across northern latitudes.",
+      "url": "https://www.space.com/stargazing/auroras/incoming-cme-could-spark-impressive-northern-lights-over-the-northern-us-june-8"
+    },
     {
       "category": "Science",
       "title": " Doctors need to understand patients' lived experiences to treat them well — but medical schools may stop requiring that training ",
@@ -12,7 +68,7 @@
     },
     {
       "category": "Space",
-      "title": " 'It's very aesthetically pleasing.' Prada and Axiom just revealed the stylish cooling suit Artemis astronuats will wear under their spacesuit on the moon ",
+      "title": " 'It's very aesthetically pleasing.' Prada and Axiom just revealed the stylish cooling suit Artemis astronauts will wear under their spacesuits on the moon ",
       "source": " Latest from Space.com ",
       "date": "Mon, 08 Jun 2026 12:00:00 +0000",
       "summary": "Prada (yes, that Prada) and Axiom Space are taking spacesuits up a notch with this liquid cooling ventilation garment.",
@@ -41,6 +97,14 @@
       "date": "Mon, 08 Jun 2026 07:28:01 EDT",
       "summary": "What if our biggest idea about reality is built on a hidden misunderstanding? A new philosophical look at space-time challenges the popular view that the past, present, and future all exist together in a timeless \"block universe.\" The argument suggests that physicists may be blurring the difference between things that exist and things that merely occur, creating deep confusion about what space-time actually is.",
       "url": "https://www.sciencedaily.com/releases/2026/06/260606075858.htm"
+    },
+    {
+      "category": "AI",
+      "title": "The weather and climate science AI revolution isn’t revolutionary",
+      "source": "Ars Technica - All content",
+      "date": "Mon, 08 Jun 2026 11:00:58 +0000",
+      "summary": "Machine learning has its limits—how is it being used?",
+      "url": "https://arstechnica.com/science/2026/06/the-weather-and-climate-science-ai-revolution-isnt-revolutionary/"
     },
     {
       "category": "Science",
@@ -76,67 +140,11 @@
     },
     {
       "category": "Science",
-      "title": "Nickelate superconductors share a common electronic fingerprint",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Mon, 08 Jun 2026 06:20:01 EDT",
-      "summary": "Superconductors, materials that conduct electricity with zero electrical resistance at specific temperature ranges, have proved very promising for the development of quantum computers and other cutting-edge technologies. While most of these materials become superconducting at very low temperatures, others exhibit superconductivity at higher temperatures.",
-      "url": "https://phys.org/news/2026-06-nickelate-superconductors-common-electronic-fingerprint.html"
-    },
-    {
-      "category": "Science",
       "title": " Roman bath clog: The world's oldest shower shoes were found at a fort along Hadrian's Wall ",
       "source": " Latest from Live Science ",
       "date": "Mon, 08 Jun 2026 10:00:00 +0000",
       "summary": "The Romans were the first to wear clog-style footwear to the baths to protect their feet from the hot floor and to better navigate slippery surfaces.",
       "url": "https://www.livescience.com/archaeology/romans/roman-bath-clog-the-worlds-oldest-shower-shoes-were-found-at-a-fort-along-hadrians-wall"
-    },
-    {
-      "category": "Space",
-      "title": " Is this the next Artemis crew? A look at the astronauts on NASA's shortlist ",
-      "source": " Latest from Space.com ",
-      "date": "Mon, 08 Jun 2026 10:00:00 +0000",
-      "summary": "On June 9, NASA will reveal the astronauts who will fly on the Artemis 3 docking mission in Earth orbit next year. Here's a look at the contenders.",
-      "url": "https://www.space.com/space-exploration/artemis/is-this-the-next-artemis-crew-a-look-at-the-astronauts-on-nasas-shortlist"
-    },
-    {
-      "category": "AI",
-      "title": "Replies to comments on my \"LLMs are eroding my career\" post",
-      "source": "Hacker News: Front Page",
-      "date": "Mon, 08 Jun 2026 09:52:03 +0000",
-      "summary": "Article URL: https://human-in-the-loop.bearblog.dev/replies-to-comments-on-my-llms-are-eroding-my-career-post/\nComments URL: https://news.ycombinator.com/item?id=48443258\nPoints: 62\n# Comments: 84",
-      "url": "https://human-in-the-loop.bearblog.dev/replies-to-comments-on-my-llms-are-eroding-my-career-post/"
-    },
-    {
-      "category": "Science",
-      "title": "A 7.8 magnitude quake in the Philippines kills at least 19, fells buildings and sets off a tsunami",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Mon, 08 Jun 2026 05:50:03 EDT",
-      "summary": "An offshore magnitude 7.8 earthquake rocked the southern Philippines Monday, killing at least 19 people, injuring more than 200 others mostly in damaged buildings and sending a 1-meter (3-foot) tsunami into nearby coasts.",
-      "url": "https://phys.org/news/2026-06-magnitude-quake-philippines-fells-tsunami.html"
-    },
-    {
-      "category": "AI",
-      "title": "Config Files That Run Code: Supply Chain Security Blindspot",
-      "source": "Hacker News: Front Page",
-      "date": "Mon, 08 Jun 2026 09:35:19 +0000",
-      "summary": "Article URL: https://safedep.io/config-files-that-run-code/\nComments URL: https://news.ycombinator.com/item?id=48443135\nPoints: 8\n# Comments: 0",
-      "url": "https://safedep.io/config-files-that-run-code/"
-    },
-    {
-      "category": "Science",
-      "title": "Superheated magma may explain why similar volcanoes erupt in very different ways",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Mon, 08 Jun 2026 05:00:05 EDT",
-      "summary": "Scientists have shed light on a thermal process in magma that may help explain why similar volcanic systems can produce very different eruptive behaviors.",
-      "url": "https://phys.org/news/2026-06-superheated-magma-similar-volcanoes-erupt.html"
-    },
-    {
-      "category": "AI",
-      "title": "The Cypherpunk Library",
-      "source": "Hacker News: Front Page",
-      "date": "Mon, 08 Jun 2026 08:32:52 +0000",
-      "summary": "Article URL: https://www.cypherpunkbooks.com\nComments URL: https://news.ycombinator.com/item?id=48442725\nPoints: 126\n# Comments: 23",
-      "url": "https://www.cypherpunkbooks.com"
     },
     {
       "category": "Theology",
@@ -177,38 +185,6 @@
       "date": "Sun, 07 Jun 2026 11:08:30 +0000",
       "summary": "How accurate does an AI system need to be?",
       "url": "https://arstechnica.com/tech-policy/2026/06/school-shooting-survivor-sues-ai-gun-detection-firm-after-system-failed-to-spot-weapon/"
-    },
-    {
-      "category": "AI",
-      "title": "Scientists ejected from diabetes conference for distributing journal reprints",
-      "source": "Ars Technica - All content",
-      "date": "Sat, 06 Jun 2026 20:53:07 +0000",
-      "summary": "Those ousted included ADA journal editor-in-chief Steven Kahn and former ADA president Desmond Schatz",
-      "url": "https://arstechnica.com/science/2026/06/scientists-ejected-from-diabetes-conference-for-distributing-journal-reprints/"
-    },
-    {
-      "category": "Space",
-      "title": "NASA’s X-59 Aircraft Flies Supersonic for First Time",
-      "source": "NASA",
-      "date": "Fri, 05 Jun 2026 20:44:57 +0000",
-      "summary": "NASA’s experimental X-59 aircraft marked a major milestone Friday, June 5, when it flew faster than the speed of sound for the first time, setting the stage for demonstrating its quiet supersonic capabilities later this year.  NASA test pilot Jim “Clue” Less took off and landed at Edwards Air Force Base in California, reaching a top speed of approximately Mach 1.1 (713 mph) and altitude of 43,400 feet. The X-59’s flight began at 11:08 a.m. PDT and lasted 81 minutes, with the team focusing on flying qualities at both subsonic and then […]",
-      "url": "https://www.nasa.gov/aeronautics/x-59-first-supersonic-flight/"
-    },
-    {
-      "category": "Space",
-      "title": "NASA Announces Winners of 2026 University Innovation Competition ",
-      "source": "NASA",
-      "date": "Fri, 05 Jun 2026 20:17:11 +0000",
-      "summary": "NASA announced the Massachusetts Institute of Technology project, Exploration-Class Lunar Integrated Power SystEm, as the first place winner for the 2026 Revolutionary Aerospace Systems Concepts – Academic Linkage (RASC-AL) competition, which challenges students to bridge gaps in aerospace technology by innovating new system concepts and prototypes.  Another team from the same university won second place overall for their project, Mars Exploration Layered Infrastructure for Operations, Research, and Advancement, while Virginia Polytechnic Institute and State University took third place with the Mars […]",
-      "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-announces-winners-of-2026-university-innovation-competition/"
-    },
-    {
-      "category": "Space",
-      "title": "NASA’s Artemis II Moon Mission Research Continues on Earth",
-      "source": "NASA",
-      "date": "Fri, 05 Jun 2026 19:16:48 +0000",
-      "summary": "Since NASA’s Artemis II crew members safely splashed down in the Pacific Ocean on April 10 after their record-setting mission around the Moon, science teams have been busy collecting more data and combing through observations collected on the test flight. Results from these science investigations will help support safe human exploration of deep space and […]",
-      "url": "https://science.nasa.gov/uncategorized/nasas-artemis-ii-moon-mission-research-continues-on-earth/"
     },
     {
       "category": "Biblical Studies",
