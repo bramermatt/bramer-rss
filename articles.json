@@ -1,150 +1,134 @@
 {
-  "lastUpdated": "2026-06-09T17:55:36.889Z",
-  "articleCount": 39,
+  "lastUpdated": "2026-06-09T23:14:15.625Z",
+  "articleCount": 36,
   "articles": [
     {
       "category": "Science",
-      "title": "Satellite data reveal Southern Ocean vertical currents diving 3,000 feet below surface",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Tue, 09 Jun 2026 13:50:02 EDT",
-      "summary": "Ocean currents are not just horizontal motions that flow from side to side. There are also vertical currents that act like deep-sea elevators, pushing heat and carbon down into the deep, while bringing up vital nutrients and dissolved gases to the surface.",
-      "url": "https://phys.org/news/2026-06-satellite-reveal-southern-ocean-vertical.html"
-    },
-    {
-      "category": "Science",
-      "title": "Support for rural women entrepreneurs linked to economic growth",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Tue, 09 Jun 2026 13:40:05 EDT",
-      "summary": "Though rural women entrepreneurs make up only a small portion of the self-employed across the United States, new West Virginia University research shows they are crucial to overall economic success.",
-      "url": "https://phys.org/news/2026-06-rural-women-entrepreneurs-linked-economic.html"
-    },
-    {
-      "category": "Science",
-      "title": "MeerKAT reveals three electron acceleration sites in one solar flare",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Tue, 09 Jun 2026 13:40:01 EDT",
-      "summary": "Solar flares are the most explosive energy-release events in the solar corona, leading to intense particle acceleration, plasma heating and bulk plasma motions on short timescales. Core questions during solar flares remain unresolved, including how and where particle acceleration occurs, and how energized electrons propagate through coronal magnetic structures.",
-      "url": "https://phys.org/news/2026-06-meerkat-reveals-electron-sites-solar.html"
-    },
-    {
-      "category": "Science",
-      "title": " 2 giant 'super Earths' once orbited near Uranus and Neptune, messed up a bunch of moons, then vanished, new study hints ",
+      "title": " 2,000 years ago in Scotland, people removed a corpse's brain and fashioned the arm bones into tools ",
       "source": " Latest from Live Science ",
-      "date": "Tue, 09 Jun 2026 17:37:05 +0000",
-      "summary": "Our solar system may have hosted up to six giant planets in its first hundred million years, a new study suggests. The findings paint a more crowded picture of the early outer solar system than previously thought.",
-      "url": "https://www.livescience.com/space/planets/2-giant-super-earths-once-orbited-near-uranus-and-neptune-messed-up-a-bunch-of-moons-then-vanished-new-study-hints"
-    },
-    {
-      "category": "AI",
-      "title": "The LD_DEBUG environment variable (2012)",
-      "source": "Hacker News: Front Page",
-      "date": "Tue, 09 Jun 2026 17:29:05 +0000",
-      "summary": "Article URL: https://bnikolic.co.uk/blog/linux-ld-debug.html\nComments URL: https://news.ycombinator.com/item?id=48464330\nPoints: 3\n# Comments: 0",
-      "url": "https://bnikolic.co.uk/blog/linux-ld-debug.html"
-    },
-    {
-      "category": "AI",
-      "title": "What it feels like to work with Mythos",
-      "source": "Hacker News: Front Page",
-      "date": "Tue, 09 Jun 2026 17:17:21 +0000",
-      "summary": "Article URL: https://www.oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos\nComments URL: https://news.ycombinator.com/item?id=48464140\nPoints: 8\n# Comments: 1",
-      "url": "https://www.oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos"
-    },
-    {
-      "category": "AI",
-      "title": "Claude Mythos 5 / Fable 5",
-      "source": "Hacker News: Front Page",
-      "date": "Tue, 09 Jun 2026 17:10:39 +0000",
-      "summary": "Article URL: https://www.anthropic.com/claude/fable\nComments URL: https://news.ycombinator.com/item?id=48464023\nPoints: 16\n# Comments: 1",
-      "url": "https://www.anthropic.com/claude/fable"
-    },
-    {
-      "category": "Space",
-      "title": " NASA reveals Artemis 3 astronaut crew ",
-      "source": " Latest from Space.com ",
-      "date": "Tue, 09 Jun 2026 17:03:39 +0000",
-      "summary": "NASA named the astronauts who will launch on its Artemis 3 mission next year to test docking procedures in Earth orbit ahead of a planned moon landing in 2028.",
-      "url": "https://www.space.com/space-exploration/artemis/nasa-reveals-artemis-3-astronaut-crew"
+      "date": "Tue, 09 Jun 2026 23:01:00 +0000",
+      "summary": "A new analysis of 2,000-year-old skeletons found in northern Scotland has revealed an unusual funeral ritual involving the manipulation of dead bodies.",
+      "url": "https://www.livescience.com/archaeology/2-000-years-ago-in-scotland-people-removed-a-corpses-brain-and-fashioned-the-arm-bones-into-tools"
     },
     {
       "category": "Science",
-      "title": " China unveils first-of-its-kind 'dual-core' quantum computer — its makers say it improves stability and efficiency ",
-      "source": " Latest from Live Science ",
-      "date": "Tue, 09 Jun 2026 17:00:00 +0000",
-      "summary": "A new Chinese quantum computing system pairs two independent neutral-atom arrays in one processor, aiming to boost stability, efficiency and scalability.",
-      "url": "https://www.livescience.com/technology/quantum/china-unveils-world-first-dual-core-quantum-computer-its-makers-say-it-improves-stability-and-efficiency"
-    },
-    {
-      "category": "Space",
-      "title": " Don't miss the moon and Saturn put on a spectacular show before sunrise June 10 ",
-      "source": " Latest from Space.com ",
-      "date": "Tue, 09 Jun 2026 17:00:00 +0000",
-      "summary": "Set your alarm for June 10 as Saturn shines beside a bright crescent moon in the predawn sky.",
-      "url": "https://www.space.com/stargazing/dont-miss-the-moon-and-saturn-put-on-a-spectacular-show-before-sunrise-june-10"
-    },
-    {
-      "category": "AI",
-      "title": "One day after discovery, Meta pulls facial recognition code from its smart glasses",
-      "source": "Ars Technica - All content",
-      "date": "Tue, 09 Jun 2026 16:31:10 +0000",
-      "summary": "Meta won't say why or whether it's coming back.",
-      "url": "https://arstechnica.com/tech-policy/2026/06/one-day-after-discovery-meta-pulls-facial-recognition-code-from-its-smart-glasses/"
-    },
-    {
-      "category": "Space",
-      "title": "La NASA avanza hacia la misión Artemis III en 2027 y anuncia a su tripulación",
-      "source": "NASA",
-      "date": "Tue, 09 Jun 2026 16:19:35 +0000",
-      "summary": "Read this release in English here. La NASA dio el martes otro paso hacia una de las misiones tripuladas más complejas de la historia reciente al ofrecer nuevos detalles sobre Artemis III y anunciar a los cuatro miembros principales de la tripulación y a un suplente para este vuelo de prueba. En 2027, la misión […]",
-      "url": "https://www.nasa.gov/news-release/la-nasa-avanza-hacia-la-mision-artemis-iii-en-2027-y-anuncia-a-su-tripulacion/"
-    },
-    {
-      "category": "Space",
-      "title": "NASA Marches Toward Artemis III Mission in 2027, Names Crew Members",
-      "source": "NASA",
-      "date": "Tue, 09 Jun 2026 16:12:02 +0000",
-      "summary": "Taking another step toward one of the most complex human spaceflight missions in recent history, NASA on Tuesday provided new Artemis III details and announced the four prime crew members and a backup for the test flight. The mission will undertake a series of challenging tests in Earth orbit in 2027, essential for Artemis IV, the […]",
-      "url": "https://www.nasa.gov/news-release/nasa-marches-toward-artemis-iii-mission-in-2027-names-crew-members/"
+      "title": "Brain removal in Iron Age Scotland burial reveals far-reaching family ties",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Tue, 09 Jun 2026 19:00:05 EDT",
+      "summary": "It is difficult to identify funerary practices in Iron Age (c. 800 BC–AD 43) Britain, as human remains rarely survive. However, evidence is particularly prominent in north-west Scotland, because environmental conditions support the preservation of bone. To take advantage of this, a team of researchers from the U.K. and U.S. examined two individuals (one adult female and one juvenile male) buried in a low stone cairn at Loch Borralie in Sutherland, close to the north-west extremity of the Scottish mainland.",
+      "url": "https://phys.org/news/2026-06-brain-iron-age-scotland-burial.html"
     },
     {
       "category": "Science",
-      "title": " Artemis III crew revealed: NASA announces astronauts for 'one of history's most complex missions' ",
-      "source": " Latest from Live Science ",
-      "date": "Tue, 09 Jun 2026 16:10:53 +0000",
-      "summary": "NASA's Artemis III crew has been revealed. The astronauts will launch into low Earth orbit next year to test docking with commercial lunar landers being developed by SpaceX and Blue Origin.",
-      "url": "https://www.livescience.com/space/space-exploration/artemis-iii-crew-revealed-nasa-announces-astronauts-for-one-of-historys-most-complex-missions"
+      "title": "Why vague conservation targets are failing some vulnerable species",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Tue, 09 Jun 2026 19:00:04 EDT",
+      "summary": "A shift toward more precise, measurable conservation goals could hold the key to protecting vulnerable species, according to the findings of a new study looking at African elephants. Conservationists are often faced with difficult decisions about where to put their financial resources; invest where populations are largest or where declines are fastest? Or invest in multiple smaller sites to maintain a species' range?",
+      "url": "https://phys.org/news/2026-06-vague-vulnerable-species.html"
     },
     {
-      "category": "Space",
-      "title": "June 2026 Satellite Puzzler",
-      "source": "NASA",
-      "date": "Tue, 09 Jun 2026 15:51:12 +0000",
-      "summary": "Your challenge is to tell us the location of the satellite image and why it is interesting.",
-      "url": "https://science.nasa.gov/earth/earth-observatory/june-2026-satellite-puzzler/"
-    },
-    {
-      "category": "AI",
-      "title": "Drone boat picked up downed US Army helicopter pilots—a first for sea rescues",
-      "source": "Ars Technica - All content",
-      "date": "Tue, 09 Jun 2026 15:44:36 +0000",
-      "summary": "US Navy’s Task Force 59 achieved the drone rescue at sea near Strait of Hormuz.",
-      "url": "https://arstechnica.com/gadgets/2026/06/us-military-claims-first-drone-boat-rescue-of-downed-helicopter-crew/"
+      "category": "Science",
+      "title": "Adélie penguins use colony cues to switch foraging sites if their previous trip was unsuccessful",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Tue, 09 Jun 2026 19:00:03 EDT",
+      "summary": "Many animals live in groups. Among seabirds in particular, most species form colonies during the breeding season. Although coloniality entails costs, such as increased competition for food and disease transmission, its repeated evolution across animal lineages suggests that group living provides important benefits.",
+      "url": "https://phys.org/news/2026-06-adlie-penguins-colony-cues-foraging.html"
     },
     {
       "category": "AI",
-      "title": "High-severity vulnerability in Linux caused by a single errant character",
+      "title": "If Claude Fable stops helping you, you'll never know",
+      "source": "Hacker News: Front Page",
+      "date": "Tue, 09 Jun 2026 21:19:11 +0000",
+      "summary": "Article URL: https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html\nComments URL: https://news.ycombinator.com/item?id=48467896\nPoints: 198\n# Comments: 90",
+      "url": "https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html"
+    },
+    {
+      "category": "AI",
+      "title": "Exif Smuggling",
+      "source": "Hacker News: Front Page",
+      "date": "Tue, 09 Jun 2026 21:06:00 +0000",
+      "summary": "Article URL: https://github.com/signalblur/exifsmugglingpoc\nComments URL: https://news.ycombinator.com/item?id=48467759\nPoints: 32\n# Comments: 18",
+      "url": "https://github.com/signalblur/exifsmugglingpoc"
+    },
+    {
+      "category": "AI",
+      "title": "Starlink charges $10 monthly hardware fee in move away from one-time purchases",
       "source": "Ars Technica - All content",
-      "date": "Tue, 09 Jun 2026 15:12:43 +0000",
-      "summary": "Use-after-free bug can be exploited to evade sandbox defenses.",
-      "url": "https://arstechnica.com/security/2026/06/a-single-errant-character-in-the-linux-kernel-allows-attacker-to-gain-root/"
+      "date": "Tue, 09 Jun 2026 21:05:39 +0000",
+      "summary": "Starlink, SpaceX's top moneymaker, also raised service prices by $5 to $10.",
+      "url": "https://arstechnica.com/tech-policy/2026/06/starlink-takes-page-from-cable-firms-with-10-monthly-rental-fee-for-hardware/"
     },
     {
       "category": "Space",
-      "title": " 'This is actually taking a page out of the Communist Party playbook': New White House proposal could deny scientists funding based on their political opinions ",
+      "title": " These record-breaking black hole winds could create a category 79 hurricane on Earth ",
       "source": " Latest from Space.com ",
-      "date": "Tue, 09 Jun 2026 15:00:00 +0000",
-      "summary": "\"It replaces expertise with political appointees, globally decouples the U.S. and completely guts our scientific ecosystem.\"",
-      "url": "https://www.space.com/space-exploration/this-is-actually-taking-a-page-out-of-the-communist-party-playbook-new-white-house-proposal-could-deny-scientists-funding-based-on-their-political-opinions"
+      "date": "Tue, 09 Jun 2026 21:04:27 +0000",
+      "summary": "Astronomers have discovered a distant quasar powered by a feeding supermassive black hole blasting out winds at record-breaking speeds for such an outflow seen in ultraviolet light, traveling at 30% the speed of light.",
+      "url": "https://www.space.com/astronomy/black-holes/these-record-breaking-black-hole-winds-could-create-a-category-79-hurricane-on-earth"
+    },
+    {
+      "category": "AI",
+      "title": "Company Will Add Phone, AirPod, and Smartwatch Trackers to ALPRs",
+      "source": "Hacker News: Front Page",
+      "date": "Tue, 09 Jun 2026 21:01:40 +0000",
+      "summary": "Article URL: https://www.404media.co/this-company-will-add-phone-airpod-and-smartwatch-trackers-to-license-plate-readers/\nComments URL: https://news.ycombinator.com/item?id=48467712\nPoints: 50\n# Comments: 15",
+      "url": "https://www.404media.co/this-company-will-add-phone-airpod-and-smartwatch-trackers-to-license-plate-readers/"
+    },
+    {
+      "category": "AI",
+      "title": "Locked in heated rivalry with researcher, Microsoft fixes 0-day they disclosed",
+      "source": "Ars Technica - All content",
+      "date": "Tue, 09 Jun 2026 20:56:52 +0000",
+      "summary": "A separate zero-day also disclosed by Nightmare Eclipse appears to be patched as well.",
+      "url": "https://arstechnica.com/security/2026/06/locked-in-heated-rivalry-with-researcher-microsoft-fixes-0-day-they-disclosed/"
+    },
+    {
+      "category": "AI",
+      "title": "Three key vital signs make up the \"urban pulse\" of a city",
+      "source": "Ars Technica - All content",
+      "date": "Tue, 09 Jun 2026 20:35:22 +0000",
+      "summary": "Cities are dynamic, not static grids, and urbanization is a \"spiky,\" cyclical, and asynchronous process.",
+      "url": "https://arstechnica.com/science/2026/06/study-how-to-take-the-urban-pulse-of-a-city/"
+    },
+    {
+      "category": "Space",
+      "title": " Thruster breakthrough? New 2-in-1 propulsion system is about to get an in-space test ",
+      "source": " Latest from Space.com ",
+      "date": "Tue, 09 Jun 2026 20:00:00 +0000",
+      "summary": "A new propulsion system feeds the same \"monopropellant\" fuel into electrical and chemical thrusters, potentially saving on mass and complications for future missions to Mars.",
+      "url": "https://www.space.com/technology/thruster-breakthrough-new-2-in-1-propulsion-system-is-about-to-get-an-in-space-test"
+    },
+    {
+      "category": "Science",
+      "title": " 3 new Ebola vaccines are being fast-tracked amid the current outbreak — when could they be ready? ",
+      "source": " Latest from Live Science ",
+      "date": "Tue, 09 Jun 2026 19:18:00 +0000",
+      "summary": "The Bundibugyo virus driving the current Ebola outbreak has no approved vaccine, but researchers are leveraging decades of vaccine innovation in an effort to change that.",
+      "url": "https://www.livescience.com/health/medicine-drugs/3-new-ebola-vaccines-are-being-fast-tracked-amid-the-current-outbreak-when-could-they-be-ready"
+    },
+    {
+      "category": "Science",
+      "title": " What is PMOS (formerly PCOS)? What to know about the hormonal syndrome ",
+      "source": " Latest from Live Science ",
+      "date": "Tue, 09 Jun 2026 18:02:47 +0000",
+      "summary": "Learn about the hormonal disorder polyendocrine metabolic ovarian syndrome (PMOS), formerly called polycystic ovary syndrome (PCOS).",
+      "url": "https://www.livescience.com/health/reproductive-health/what-is-pmos-formerly-pcos-what-to-know-about-the-hormonal-syndrome"
+    },
+    {
+      "category": "Space",
+      "title": " Do galaxies have a 'kill switch' that makes them stop growing? ",
+      "source": " Latest from Space.com ",
+      "date": "Tue, 09 Jun 2026 18:00:00 +0000",
+      "summary": "Above a certain threshold, galaxies stop growing , no matter how much raw material they have on hand. The question is: what flips the switch?",
+      "url": "https://www.space.com/astronomy/galaxies/what-causes-galaxies-to-stop-growing"
+    },
+    {
+      "category": "AI",
+      "title": "How engineers at Nextdoor use Codex to build without limits",
+      "source": "OpenAI News",
+      "date": "Tue, 09 Jun 2026 12:00:00 GMT",
+      "summary": "How engineers at Nextdoor use Codex with GPT-5.5 to investigate hard-to-reproduce issues, build across platforms, and focus on product outcomes.",
+      "url": "https://openai.com/index/nextdoor"
     },
     {
       "category": "Biblical Studies",
@@ -169,6 +153,14 @@
       "date": "Tue, 09 Jun 2026 10:00:09 +0000",
       "summary": "After a British army surrendered at Yorktown in October 1781, it took weeks for news of the disaster to reach London, and several weeks more for the British to decide their next move. Gen. George Washington needed no such time to decide on his. He wasted not a moment on celebrations and formalities. The day […]\nThe post The Abandoned American Offensive After Yorktown: the Attack That Never Was appeared first on Journal of the American Revolution.",
       "url": "https://allthingsliberty.com/2026/06/the-abandoned-american-offensive-after-yorktown-the-attack-that-never-was/"
+    },
+    {
+      "category": "AI",
+      "title": "What Codex unlocks for Notion",
+      "source": "OpenAI News",
+      "date": "Tue, 09 Jun 2026 10:00:00 GMT",
+      "summary": "How Notion uses Codex to one-shot specs, build AI Voice Input for the web, and multiply engineering power across small teams.",
+      "url": "https://openai.com/index/notion"
     },
     {
       "category": "Theology",
@@ -241,22 +233,6 @@
       "date": "Mon, 08 Jun 2026 04:04:49 +0000",
       "summary": "Matt Smethurst and Ligon Duncan tackle one of the most important questions in pastoral ministry: How do you preach Christ from all of Scripture?",
       "url": "https://www.thegospelcoalition.org/podcasts/everyday-pastor/how-preach-gospel/"
-    },
-    {
-      "category": "AI",
-      "title": "Built to benefit everyone: our plan",
-      "source": "OpenAI News",
-      "date": "Mon, 08 Jun 2026 01:30:00 GMT",
-      "summary": "A vision for the future of AI, focusing on access, safety, and shared prosperity as OpenAI works to ensure AGI benefits everyone.",
-      "url": "https://openai.com/index/built-to-benefit-everyone-our-plan"
-    },
-    {
-      "category": "AI",
-      "title": "Introducing the OpenAI Economic Research Exchange",
-      "source": "OpenAI News",
-      "date": "Mon, 08 Jun 2026 00:00:00 GMT",
-      "summary": "OpenAI launches the Economic Research Exchange to study AI’s impact on jobs, productivity, and the economy. Applications are now open for selected research projects.",
-      "url": "https://openai.com/index/economic-research-exchange"
     },
     {
       "category": "History",
