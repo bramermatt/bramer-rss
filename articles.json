@@ -1,62 +1,166 @@
 {
-  "lastUpdated": "2026-06-09T12:31:59.499Z",
-  "articleCount": 36,
+  "lastUpdated": "2026-06-09T17:55:36.889Z",
+  "articleCount": 39,
   "articles": [
     {
+      "category": "Science",
+      "title": "Satellite data reveal Southern Ocean vertical currents diving 3,000 feet below surface",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Tue, 09 Jun 2026 13:50:02 EDT",
+      "summary": "Ocean currents are not just horizontal motions that flow from side to side. There are also vertical currents that act like deep-sea elevators, pushing heat and carbon down into the deep, while bringing up vital nutrients and dissolved gases to the surface.",
+      "url": "https://phys.org/news/2026-06-satellite-reveal-southern-ocean-vertical.html"
+    },
+    {
+      "category": "Science",
+      "title": "Support for rural women entrepreneurs linked to economic growth",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Tue, 09 Jun 2026 13:40:05 EDT",
+      "summary": "Though rural women entrepreneurs make up only a small portion of the self-employed across the United States, new West Virginia University research shows they are crucial to overall economic success.",
+      "url": "https://phys.org/news/2026-06-rural-women-entrepreneurs-linked-economic.html"
+    },
+    {
+      "category": "Science",
+      "title": "MeerKAT reveals three electron acceleration sites in one solar flare",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Tue, 09 Jun 2026 13:40:01 EDT",
+      "summary": "Solar flares are the most explosive energy-release events in the solar corona, leading to intense particle acceleration, plasma heating and bulk plasma motions on short timescales. Core questions during solar flares remain unresolved, including how and where particle acceleration occurs, and how energized electrons propagate through coronal magnetic structures.",
+      "url": "https://phys.org/news/2026-06-meerkat-reveals-electron-sites-solar.html"
+    },
+    {
+      "category": "Science",
+      "title": " 2 giant 'super Earths' once orbited near Uranus and Neptune, messed up a bunch of moons, then vanished, new study hints ",
+      "source": " Latest from Live Science ",
+      "date": "Tue, 09 Jun 2026 17:37:05 +0000",
+      "summary": "Our solar system may have hosted up to six giant planets in its first hundred million years, a new study suggests. The findings paint a more crowded picture of the early outer solar system than previously thought.",
+      "url": "https://www.livescience.com/space/planets/2-giant-super-earths-once-orbited-near-uranus-and-neptune-messed-up-a-bunch-of-moons-then-vanished-new-study-hints"
+    },
+    {
       "category": "AI",
-      "title": "Emerge Career (YC S22) Is Hiring a Founding Growth Marketer",
+      "title": "The LD_DEBUG environment variable (2012)",
       "source": "Hacker News: Front Page",
-      "date": "Tue, 09 Jun 2026 12:01:09 +0000",
-      "summary": "Article URL: https://www.ycombinator.com/companies/emerge-career/jobs/v0S1AEG-founding-growth-marketer\nComments URL: https://news.ycombinator.com/item?id=48459968\nPoints: 0\n# Comments: 0",
-      "url": "https://www.ycombinator.com/companies/emerge-career/jobs/v0S1AEG-founding-growth-marketer"
+      "date": "Tue, 09 Jun 2026 17:29:05 +0000",
+      "summary": "Article URL: https://bnikolic.co.uk/blog/linux-ld-debug.html\nComments URL: https://news.ycombinator.com/item?id=48464330\nPoints: 3\n# Comments: 0",
+      "url": "https://bnikolic.co.uk/blog/linux-ld-debug.html"
+    },
+    {
+      "category": "AI",
+      "title": "What it feels like to work with Mythos",
+      "source": "Hacker News: Front Page",
+      "date": "Tue, 09 Jun 2026 17:17:21 +0000",
+      "summary": "Article URL: https://www.oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos\nComments URL: https://news.ycombinator.com/item?id=48464140\nPoints: 8\n# Comments: 1",
+      "url": "https://www.oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos"
+    },
+    {
+      "category": "AI",
+      "title": "Claude Mythos 5 / Fable 5",
+      "source": "Hacker News: Front Page",
+      "date": "Tue, 09 Jun 2026 17:10:39 +0000",
+      "summary": "Article URL: https://www.anthropic.com/claude/fable\nComments URL: https://news.ycombinator.com/item?id=48464023\nPoints: 16\n# Comments: 1",
+      "url": "https://www.anthropic.com/claude/fable"
     },
     {
       "category": "Space",
-      "title": " Watch the Jupiter-Venus conjunction unfold live online today ",
+      "title": " NASA reveals Artemis 3 astronaut crew ",
       "source": " Latest from Space.com ",
-      "date": "Tue, 09 Jun 2026 12:00:00 +0000",
-      "summary": "The livestream begins at 3:30 p.m. (1930 GMT) on June 9.",
-      "url": "https://www.space.com/stargazing/watch-the-jupiter-venus-conjunction-unfold-live-online-june-9"
+      "date": "Tue, 09 Jun 2026 17:03:39 +0000",
+      "summary": "NASA named the astronauts who will launch on its Artemis 3 mission next year to test docking procedures in Earth orbit ahead of a planned moon landing in 2028.",
+      "url": "https://www.space.com/space-exploration/artemis/nasa-reveals-artemis-3-astronaut-crew"
     },
     {
       "category": "Science",
-      "title": "Quantum memory surpasses classical limits for storing unknown quantum operations",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Tue, 09 Jun 2026 07:40:02 EDT",
-      "summary": "Quantum memories, systems that store and retrieve information leveraging quantum mechanical effects, can outperform classical storage systems on some existing tasks. Yet these promising memories could also complete operations that are very difficult or impossible for classical systems, including the storage and retrieval of so-called isometry channels.",
-      "url": "https://phys.org/news/2026-06-quantum-memory-surpasses-classical-limits.html"
+      "title": " China unveils first-of-its-kind 'dual-core' quantum computer — its makers say it improves stability and efficiency ",
+      "source": " Latest from Live Science ",
+      "date": "Tue, 09 Jun 2026 17:00:00 +0000",
+      "summary": "A new Chinese quantum computing system pairs two independent neutral-atom arrays in one processor, aiming to boost stability, efficiency and scalability.",
+      "url": "https://www.livescience.com/technology/quantum/china-unveils-world-first-dual-core-quantum-computer-its-makers-say-it-improves-stability-and-efficiency"
     },
     {
-      "category": "Science",
-      "title": "Space telescopes are now overwhelmed by satellite trails",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Tue, 09 Jun 2026 07:20:02 EDT",
-      "summary": "Unfortunately, there's more bad news to report on the clear skies front. A new paper, available on the arXiv preprint server from researchers at NASA's Ames Research Center, reports that 73.3% of images the agency's new SPHEREx space telescope collected between May and September of last year were contaminated by at least one artificial satellite trail. And it's only going to get worse from here.",
-      "url": "https://phys.org/news/2026-06-space-telescopes-overwhelmed-satellite-trails.html"
-    },
-    {
-      "category": "Science",
-      "title": "Dogs uncover invasive pests that experts missed in real-world vineyard tests",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Tue, 09 Jun 2026 07:00:02 EDT",
-      "summary": "At a Maryland vineyard, Debi Persing guided her Boston terrier, Xephyr, slowly down a row of grapevines. Vineyard workers and scientists had already identified several invasive spotted lanternfly egg masses hidden among the vines. They believed they had found them all. Then Xephyr stopped at a vine they had marked clear. The little dog sat and pawed at the plant insistently.",
-      "url": "https://phys.org/news/2026-06-dogs-uncover-invasive-pests-experts.html"
+      "category": "Space",
+      "title": " Don't miss the moon and Saturn put on a spectacular show before sunrise June 10 ",
+      "source": " Latest from Space.com ",
+      "date": "Tue, 09 Jun 2026 17:00:00 +0000",
+      "summary": "Set your alarm for June 10 as Saturn shines beside a bright crescent moon in the predawn sky.",
+      "url": "https://www.space.com/stargazing/dont-miss-the-moon-and-saturn-put-on-a-spectacular-show-before-sunrise-june-10"
     },
     {
       "category": "AI",
-      "title": "Making Graphics Like it's 1993",
-      "source": "Hacker News: Front Page",
-      "date": "Tue, 09 Jun 2026 10:46:14 +0000",
-      "summary": "Article URL: https://staniks.github.io/articles/catlantean-3d-blog-1/\nComments URL: https://news.ycombinator.com/item?id=48459294\nPoints: 51\n# Comments: 8",
-      "url": "https://staniks.github.io/articles/catlantean-3d-blog-1/"
+      "title": "One day after discovery, Meta pulls facial recognition code from its smart glasses",
+      "source": "Ars Technica - All content",
+      "date": "Tue, 09 Jun 2026 16:31:10 +0000",
+      "summary": "Meta won't say why or whether it's coming back.",
+      "url": "https://arstechnica.com/tech-policy/2026/06/one-day-after-discovery-meta-pulls-facial-recognition-code-from-its-smart-glasses/"
+    },
+    {
+      "category": "Space",
+      "title": "La NASA avanza hacia la misión Artemis III en 2027 y anuncia a su tripulación",
+      "source": "NASA",
+      "date": "Tue, 09 Jun 2026 16:19:35 +0000",
+      "summary": "Read this release in English here. La NASA dio el martes otro paso hacia una de las misiones tripuladas más complejas de la historia reciente al ofrecer nuevos detalles sobre Artemis III y anunciar a los cuatro miembros principales de la tripulación y a un suplente para este vuelo de prueba. En 2027, la misión […]",
+      "url": "https://www.nasa.gov/news-release/la-nasa-avanza-hacia-la-mision-artemis-iii-en-2027-y-anuncia-a-su-tripulacion/"
+    },
+    {
+      "category": "Space",
+      "title": "NASA Marches Toward Artemis III Mission in 2027, Names Crew Members",
+      "source": "NASA",
+      "date": "Tue, 09 Jun 2026 16:12:02 +0000",
+      "summary": "Taking another step toward one of the most complex human spaceflight missions in recent history, NASA on Tuesday provided new Artemis III details and announced the four prime crew members and a backup for the test flight. The mission will undertake a series of challenging tests in Earth orbit in 2027, essential for Artemis IV, the […]",
+      "url": "https://www.nasa.gov/news-release/nasa-marches-toward-artemis-iii-mission-in-2027-names-crew-members/"
+    },
+    {
+      "category": "Science",
+      "title": " Artemis III crew revealed: NASA announces astronauts for 'one of history's most complex missions' ",
+      "source": " Latest from Live Science ",
+      "date": "Tue, 09 Jun 2026 16:10:53 +0000",
+      "summary": "NASA's Artemis III crew has been revealed. The astronauts will launch into low Earth orbit next year to test docking with commercial lunar landers being developed by SpaceX and Blue Origin.",
+      "url": "https://www.livescience.com/space/space-exploration/artemis-iii-crew-revealed-nasa-announces-astronauts-for-one-of-historys-most-complex-missions"
+    },
+    {
+      "category": "Space",
+      "title": "June 2026 Satellite Puzzler",
+      "source": "NASA",
+      "date": "Tue, 09 Jun 2026 15:51:12 +0000",
+      "summary": "Your challenge is to tell us the location of the satellite image and why it is interesting.",
+      "url": "https://science.nasa.gov/earth/earth-observatory/june-2026-satellite-puzzler/"
     },
     {
       "category": "AI",
-      "title": "The iPhone's Last Stand",
-      "source": "Hacker News: Front Page",
-      "date": "Tue, 09 Jun 2026 10:08:18 +0000",
-      "summary": "Article URL: https://stratechery.com/2026/the-iphones-last-stand/\nComments URL: https://news.ycombinator.com/item?id=48459001\nPoints: 36\n# Comments: 38",
-      "url": "https://stratechery.com/2026/the-iphones-last-stand/"
+      "title": "Drone boat picked up downed US Army helicopter pilots—a first for sea rescues",
+      "source": "Ars Technica - All content",
+      "date": "Tue, 09 Jun 2026 15:44:36 +0000",
+      "summary": "US Navy’s Task Force 59 achieved the drone rescue at sea near Strait of Hormuz.",
+      "url": "https://arstechnica.com/gadgets/2026/06/us-military-claims-first-drone-boat-rescue-of-downed-helicopter-crew/"
+    },
+    {
+      "category": "AI",
+      "title": "High-severity vulnerability in Linux caused by a single errant character",
+      "source": "Ars Technica - All content",
+      "date": "Tue, 09 Jun 2026 15:12:43 +0000",
+      "summary": "Use-after-free bug can be exploited to evade sandbox defenses.",
+      "url": "https://arstechnica.com/security/2026/06/a-single-errant-character-in-the-linux-kernel-allows-attacker-to-gain-root/"
+    },
+    {
+      "category": "Space",
+      "title": " 'This is actually taking a page out of the Communist Party playbook': New White House proposal could deny scientists funding based on their political opinions ",
+      "source": " Latest from Space.com ",
+      "date": "Tue, 09 Jun 2026 15:00:00 +0000",
+      "summary": "\"It replaces expertise with political appointees, globally decouples the U.S. and completely guts our scientific ecosystem.\"",
+      "url": "https://www.space.com/space-exploration/this-is-actually-taking-a-page-out-of-the-communist-party-playbook-new-white-house-proposal-could-deny-scientists-funding-based-on-their-political-opinions"
+    },
+    {
+      "category": "Biblical Studies",
+      "title": "Locating Zoar",
+      "source": "Biblical Archaeology Society",
+      "date": "Tue, 09 Jun 2026 11:00:08 +0000",
+      "summary": "Read Master’s College professor Bill Schlegel’s commentary on the location of Zoar along with Steven Collins’s response.\nThe post Locating Zoar appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/daily/archaeology-today/biblical-archaeology-topics/locating-zoar/"
+    },
+    {
+      "category": "Biblical Studies",
+      "title": "King David’s Palace and the Millo",
+      "source": "Biblical Archaeology Society",
+      "date": "Tue, 09 Jun 2026 11:00:05 +0000",
+      "summary": "In the study of Biblical archaeology, Biblical texts and archaeological finds must be examined critically and independently, but ultimately, they must be interpreted together. Such an approach can be applied to King David’s Palace and the Millo.\nThe post King David’s Palace and the Millo appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/daily/biblical-sites-places/jerusalem/king-davids-palace-and-the-millo/"
     },
     {
       "category": "History",
@@ -65,22 +169,6 @@
       "date": "Tue, 09 Jun 2026 10:00:09 +0000",
       "summary": "After a British army surrendered at Yorktown in October 1781, it took weeks for news of the disaster to reach London, and several weeks more for the British to decide their next move. Gen. George Washington needed no such time to decide on his. He wasted not a moment on celebrations and formalities. The day […]\nThe post The Abandoned American Offensive After Yorktown: the Attack That Never Was appeared first on Journal of the American Revolution.",
       "url": "https://allthingsliberty.com/2026/06/the-abandoned-american-offensive-after-yorktown-the-attack-that-never-was/"
-    },
-    {
-      "category": "Science",
-      "title": " Physicist Richard Feynman's forgotten notes on 'the restaurant problem' finally deciphered after 50 years ",
-      "source": " Latest from Live Science ",
-      "date": "Tue, 09 Jun 2026 10:00:00 +0000",
-      "summary": "Researchers cracked a 50-year-old math problem scribbled by Richard Feynman over lunch. The equations show that humans are better decision-makers than scientists once thought.",
-      "url": "https://www.livescience.com/physics-mathematics/physicist-richard-feynmans-forgotten-notes-on-the-restaurant-problem-finally-deciphered-after-50-years"
-    },
-    {
-      "category": "Science",
-      "title": " Doctors need to understand patients' lived experiences to treat them well — but medical schools may stop requiring that training ",
-      "source": " Latest from Live Science ",
-      "date": "Tue, 09 Jun 2026 08:41:45 +0000",
-      "summary": "The board that accredits medical schools is poised to take away requirements that doctors learn about factors, such as income, neighborhood, and culture, that can affect medical treatment approaches. These requirements are necessary to ensure the highest quality of care.",
-      "url": "https://www.livescience.com/health/doctors-need-to-understand-patients-lived-experiences-to-treat-them-well-but-medical-schools-may-stop-requiring-that-training-opinion"
     },
     {
       "category": "Theology",
@@ -107,60 +195,12 @@
       "url": "https://www.sciencedaily.com/releases/2026/06/260608040009.htm"
     },
     {
-      "category": "AI",
-      "title": "FCC lifts looming deadline for Amazon Leo satellite broadband constellation",
-      "source": "Ars Technica - All content",
-      "date": "Tue, 09 Jun 2026 00:59:40 +0000",
-      "summary": "The waiver \"serves the public interest by promoting a second large satellite broadband constellation.\"",
-      "url": "https://arstechnica.com/space/2026/06/fcc-lifts-looming-deadline-for-amazon-leo-satellite-broadband-constellation/"
-    },
-    {
       "category": "Science",
       "title": "Scientists found a new Alzheimer’s trigger and a drug that stops it",
       "source": "All Top News -- ScienceDaily",
       "date": "Mon, 08 Jun 2026 19:23:33 EDT",
       "summary": "Researchers have identified a new Alzheimer’s target and created an experimental compound that blocks a damaging process inside brain cells. In mice, the treatment slowed nerve cell loss, reduced Alzheimer’s-related changes, and even appeared to promote healthier aging.",
       "url": "https://www.sciencedaily.com/releases/2026/06/260608035959.htm"
-    },
-    {
-      "category": "AI",
-      "title": "Tests suggest Russian satellites can jam GPS on a continental scale",
-      "source": "Ars Technica - All content",
-      "date": "Mon, 08 Jun 2026 21:56:28 +0000",
-      "summary": "Mystery of GPS interference across Europe raises questions about Russian motives.",
-      "url": "https://arstechnica.com/space/2026/06/tests-suggest-russian-satellites-can-jam-gps-on-a-continental-scale/"
-    },
-    {
-      "category": "AI",
-      "title": "macOS 27 requires Apple Silicon, as Apple draws down the Intel Mac era",
-      "source": "Ars Technica - All content",
-      "date": "Mon, 08 Jun 2026 21:03:56 +0000",
-      "summary": "You'll need an M1 or better to run the next release of macOS.",
-      "url": "https://arstechnica.com/gadgets/2026/06/macos-27-requires-apple-silicon-as-apple-draws-down-the-intel-mac-era/"
-    },
-    {
-      "category": "Space",
-      "title": " Scientists propose spraying chemicals into Earth's magnetic field to protect us from powerful solar storms ",
-      "source": " Latest from Space.com ",
-      "date": "Mon, 08 Jun 2026 21:00:00 +0000",
-      "summary": "Scientists have proposed a spacecraft-based system to actively strengthen Earth's magnetic shield and reduce the impact of powerful solar storms.",
-      "url": "https://www.space.com/astronomy/earth/scientists-propose-spraying-chemicals-into-earths-magnetic-field-to-protect-us-from-powerful-solar-storms"
-    },
-    {
-      "category": "Space",
-      "title": " James Webb Space Telescope weighs 'sleeping giant' black hole from 10 billion light-years away — and it's 6 billion times our sun's mass ",
-      "source": " Latest from Space.com ",
-      "date": "Mon, 08 Jun 2026 20:00:00 +0000",
-      "summary": "Using the James Webb Space Telescope, and with a little help from Einstein, astronomers have \"weighed\" a sleeping giant, a dormant supermassive black hole located a staggering 10 billion light-years away.",
-      "url": "https://www.space.com/astronomy/james-webb-space-telescope/james-webb-space-telescope-weighs-sleeping-giant-black-hole-from-10-billion-light-years-away-and-its-6-billion-times-our-suns-mass"
-    },
-    {
-      "category": "Science",
-      "title": " Thanks to natural selection, Indigenous Andeans may digest potatoes better than anyone else in the world, study finds ",
-      "source": " Latest from Live Science ",
-      "date": "Mon, 08 Jun 2026 16:54:23 +0000",
-      "summary": "After domesticating potatoes 10,000 years ago, the ancient people of the Andes evolved to have more copies of a key gene involved in digesting starch.",
-      "url": "https://www.livescience.com/archaeology/americas/thanks-to-natural-selection-indigenous-andeans-may-digest-potatoes-better-than-anyone-else-in-the-world-study-finds"
     },
     {
       "category": "AI",
@@ -219,28 +259,12 @@
       "url": "https://openai.com/index/economic-research-exchange"
     },
     {
-      "category": "Biblical Studies",
-      "title": "Rare Shell Seal Shows Moon Imagery in Israel",
-      "source": "Biblical Archaeology Society",
-      "date": "Fri, 05 Jun 2026 10:45:48 +0000",
-      "summary": "A rare shell seal has been discovered at Tel Hadid in central Israel with religious imagery involving a moon standard, a worshiper, and a possible […]\nThe post Rare Shell Seal Shows Moon Imagery in Israel appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-israel/rare-shell-seal-shows-moon-imagery-in-israel/"
-    },
-    {
       "category": "History",
       "title": "Colonel Smallwood Comes to Meeting",
       "source": "Journal of the American Revolution",
       "date": "Thu, 04 Jun 2026 14:37:41 +0000",
       "summary": "William Penn founded the Province of Pennsylvania to be a haven for the Religious Society of Friends, “The People Called Quakers” as they described themselves. The new colony was intended as a “holy experiment,” an example to the world that people could govern themselves according to principles of truth, peace and harmony.[1] Friends’ dissenter religion […]\nThe post Colonel Smallwood Comes to Meeting appeared first on Journal of the American Revolution.",
       "url": "https://allthingsliberty.com/2026/06/colonel-smallwood-comes-to-meeting/"
-    },
-    {
-      "category": "Biblical Studies",
-      "title": "The Dead Sea Scrolls and the New Testament",
-      "source": "Biblical Archaeology Society",
-      "date": "Thu, 04 Jun 2026 11:00:43 +0000",
-      "summary": "What do the Dead Sea Scrolls say about Jesus? What do they say about the world in which Jesus lived? In BAR, James C. VanderKam examines the overlap between the Dead Sea Scrolls and the New Testament.\nThe post The Dead Sea Scrolls and the New Testament appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/daily/biblical-artifacts/dead-sea-scrolls/the-dead-sea-scrolls-and-the-new-testament/"
     },
     {
       "category": "History",
