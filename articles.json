@@ -1,142 +1,158 @@
 {
-  "lastUpdated": "2026-06-10T18:26:08.398Z",
-  "articleCount": 39,
+  "lastUpdated": "2026-06-10T23:20:33.293Z",
+  "articleCount": 36,
   "articles": [
     {
+      "category": "AI",
+      "title": "How an astrophysicist uses Codex to help simulate black holes",
+      "source": "OpenAI News",
+      "date": "Thu, 11 Jun 2026 00:00:00 GMT",
+      "summary": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.",
+      "url": "https://openai.com/index/using-codex-to-simulate-black-holes"
+    },
+    {
       "category": "Science",
-      "title": "'Atmospheric scrubbing' could reduce cooling effects of stratospheric aerosol injections",
+      "title": "P53's five-hour rhythm may let resonance target gene networks on command",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Wed, 10 Jun 2026 14:20:03 EDT",
-      "summary": "The quest to identify a new way to potentially counter one of the world's most widely discussed solar geoengineering proposals has taken a new, exciting turn—raising questions about how future climate interventions could be governed.",
-      "url": "https://phys.org/news/2026-06-atmospheric-cooling-effects-stratospheric-aerosol.html"
+      "date": "Wed, 10 Jun 2026 19:20:04 EDT",
+      "summary": "Can networks of genes be stimulated using resonance? Researchers at the Niels Bohr Institute are investigating whether the protein p53, which activates a range of different genes, can be induced to communicate with the body's cells \"on command.\" Perhaps resonance is the key to stimulating the body toward a new form of self-healing?",
+      "url": "https://phys.org/news/2026-06-p53-hour-rhythm-resonance-gene.html"
     },
     {
       "category": "Science",
-      "title": "DNA tetrahedrons unlock sharper cancer targeting with vitamin E tweak",
+      "title": "Study shows gains in preschoolers' executive function with additional teacher training",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Wed, 10 Jun 2026 14:20:02 EDT",
-      "summary": "Conventional cancer treatments, such as chemotherapy, often lack specificity and can damage both cancerous and healthy cells, leading to severe side effects. With this in mind, researchers at Indian Institute of Technology Gandhinagar (IITGN) have developed DNA nanostructures called tetrahedrons and modified them by attaching a vitamin E-derived molecule called alpha-tocopherol succinate (αT), which can disrupt vital functions inside cancer cells while acting protectively in healthy cells. By incorporating αT into the DNA tetrahedrons, the researchers significantly enhanced cellular uptake and improved anticancer efficacy, resulting in more selective and effective elimination of cancer cells.",
-      "url": "https://phys.org/news/2026-06-dna-tetrahedrons-sharper-cancer-vitamin.html"
+      "date": "Wed, 10 Jun 2026 19:20:03 EDT",
+      "summary": "Research shows that when preschool teachers participate in professional learning workshops and ongoing coaching with experienced early childhood educators, students improve their language and literacy skills, as well as their social-emotional development.",
+      "url": "https://phys.org/news/2026-06-gains-preschoolers-function-additional-teacher.html"
     },
     {
       "category": "Science",
-      "title": "More sustainable agriculture: Recycled fertilizers could be part of the solution",
+      "title": "New methods make tracking individual bird species during migration possible",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Wed, 10 Jun 2026 14:00:11 EDT",
-      "summary": "Researchers have uncovered new insights into how phosphorus from recycled materials moves through soil—offering guidance to support more sustainable fertilizer use. Phosphorus is an essential nutrient for plant growth, yet many soils lack enough of it to support strong crop yields. Farmers often rely on fertilizers made from mined phosphorus, a limited, nonrenewable resource.",
-      "url": "https://phys.org/news/2026-06-sustainable-agriculture-recycled-fertilizers-solution.html"
+      "date": "Wed, 10 Jun 2026 19:10:01 EDT",
+      "summary": "Researchers at Cornell Lab of Ornithology, University of Massachusetts and University of Illinois have developed breakthrough methods to track the migration of individual bird species by combining participatory science data with weather radar technology. This advancement addresses a long-standing limitation in migration monitoring: While radar can detect birds in flight, it cannot identify which species are migrating.",
+      "url": "https://phys.org/news/2026-06-methods-tracking-individual-bird-species.html"
     },
     {
       "category": "Science",
-      "title": " See the 'crawling,' ball-shaped robot that rolled around the moon during Japan's historic first landing ",
+      "title": " Scientists discover 5 million-year-old whale graveyard stretching for hundreds of miles in the Indian Ocean ",
       "source": " Latest from Live Science ",
-      "date": "Wed, 10 Jun 2026 18:00:00 +0000",
-      "summary": "A morphable moon robot operated for 100 minutes in 2024, allowing investigators to get images of an upside-down spacecraft on the lunar surface.",
-      "url": "https://www.livescience.com/space/space-exploration/see-the-crawling-ball-shaped-rover-that-rolled-around-the-moon-during-japans-historic-first-landing"
-    },
-    {
-      "category": "Space",
-      "title": " The asteroid that wiped out the dinosaurs may have created a vast underground habitat for life that lasted 8 million years ",
-      "source": " Latest from Space.com ",
-      "date": "Wed, 10 Jun 2026 18:00:00 +0000",
-      "summary": "The asteroid impact that triggered the extinction of the dinosaurs may also have created one of Earth's most enduring habitats for life.",
-      "url": "https://www.space.com/astronomy/asteroids/the-asteroid-that-wiped-out-the-dinosaurs-may-have-created-a-vast-underground-habitat-for-life-that-lasted-8-million-years"
+      "date": "Wed, 10 Jun 2026 22:38:59 +0000",
+      "summary": "Researchers have discovered a \"megasite\" of dead whales along with new species of marine life feasting on the corpses.",
+      "url": "https://www.livescience.com/animals/whales/scientists-discover-5-million-year-old-whale-graveyard-stretching-for-hundreds-of-miles-in-the-indian-ocean"
     },
     {
       "category": "AI",
-      "title": "The Dynamo and the Computer: The Modern Productivity Paradox (1989) [pdf]",
+      "title": "A Written Language for the Cherokee So Efficient It Was Thought to Be Magic",
       "source": "Hacker News: Front Page",
-      "date": "Wed, 10 Jun 2026 17:47:46 +0000",
-      "summary": "https://gwern.net/doc/economics/automation/1989-david.pdf\nComments URL: https://news.ycombinator.com/item?id=48479996\nPoints: 7\n# Comments: 0",
-      "url": "https://www.almendron.com/tribuna/wp-content/uploads/2018/03/the-dynamo-and-the-computer-an-historical-perspective-on-the-modern-productivity-paradox.pdf"
+      "date": "Wed, 10 Jun 2026 22:07:52 +0000",
+      "summary": "Article URL: https://www.smithsonianmag.com/innovation/man-created-written-language-cherokee-did-efficiently-elegantly-peers-thought-magic-180988850/\nComments URL: https://news.ycombinator.com/item?id=48483387\nPoints: 26\n# Comments: 15",
+      "url": "https://www.smithsonianmag.com/innovation/man-created-written-language-cherokee-did-efficiently-elegantly-peers-thought-magic-180988850/"
     },
     {
       "category": "AI",
-      "title": "Why SpaceX 2040 Revenue FCST $4.3T in highly unlikely",
+      "title": "Free financial literacy platform for kids – 90 lessons, no paywall",
       "source": "Hacker News: Front Page",
-      "date": "Wed, 10 Jun 2026 17:44:59 +0000",
-      "summary": "Article URL: https://www.matteast.io/spacex-escape-velocity.html\nComments URL: https://news.ycombinator.com/item?id=48479947\nPoints: 7\n# Comments: 0",
-      "url": "https://www.matteast.io/spacex-escape-velocity.html"
-    },
-    {
-      "category": "AI",
-      "title": "Providers, not insurers, are responsible for excess U.S. health care cost (2024)",
-      "source": "Hacker News: Front Page",
-      "date": "Wed, 10 Jun 2026 17:37:26 +0000",
-      "summary": "Article URL: https://www.noahpinion.blog/p/insurers-arent-the-main-villain-of\nComments URL: https://news.ycombinator.com/item?id=48479818\nPoints: 10\n# Comments: 5",
-      "url": "https://www.noahpinion.blog/p/insurers-arent-the-main-villain-of"
-    },
-    {
-      "category": "Space",
-      "title": " 'Doctor Who' Christmas Special is cancelled as Russell T. Davies departs the show: What does this mean for the future of Doctor Who? ",
-      "source": " Latest from Space.com ",
-      "date": "Wed, 10 Jun 2026 17:30:00 +0000",
-      "summary": "The Whos in Whoville won’t have a very merry Christmas this year.",
-      "url": "https://www.space.com/entertainment/space-movies-shows/doctor-who-christmas-special-is-cancelled-as-russell-t-davies-departs-the-show-what-does-this-mean-for-the-future-of-doctor-who"
+      "date": "Wed, 10 Jun 2026 22:04:29 +0000",
+      "summary": "Article URL: https://learnfinly.com\nComments URL: https://news.ycombinator.com/item?id=48483345\nPoints: 4\n# Comments: 0",
+      "url": "https://learnfinly.com"
     },
     {
       "category": "Science",
-      "title": " In a first, scientists translated an entire viral genome so a quantum computer could read and analyze it ",
+      "title": " Artificial turf contains 400 chemicals tied to cancer and hormone disruption. But is it unsafe? ",
       "source": " Latest from Live Science ",
-      "date": "Wed, 10 Jun 2026 17:20:00 +0000",
-      "summary": "Scientists have uploaded a viral genome to a quantum computer, marking an important step for the future of quantum-enabled advancements in biology.",
-      "url": "https://www.livescience.com/technology/quantum/in-a-first-scientists-translated-an-entire-viral-genome-so-a-quantum-computer-could-read-and-analyze-it"
+      "date": "Wed, 10 Jun 2026 21:19:11 +0000",
+      "summary": "A recent, 10-year study from California identified many known or suspected carcinogens in artificial turf. Does it pose a danger?",
+      "url": "https://www.livescience.com/health/artificial-turf-contains-400-chemicals-tied-to-cancer-and-hormone-disruption-but-is-it-unsafe"
     },
     {
       "category": "Space",
-      "title": "NASA Equips Astronauts, Industry with Robotic Intelligence ",
-      "source": "NASA",
-      "date": "Wed, 10 Jun 2026 17:00:02 +0000",
-      "summary": "As NASA plans long-term missions on the Moon, the agency could use robots to perform routine tasks, allowing crew members to dedicate more time to science and exploration. However, robotic motion control requires complex technology and advances in features like robotic decision-making and object recognition. These are the challenges a Boulder, Colorado-based robotics company is […]",
-      "url": "https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-equips-astronauts-industry-with-robotic-intelligence/"
-    },
-    {
-      "category": "Space",
-      "title": " Jupiter and Venus looked spectacular in this week's planetary conjunction. Here are our favorite photos ",
+      "title": " James Webb Space Telescope finds evidence the mysterious 'little red dots' are black hole stars ",
       "source": " Latest from Space.com ",
-      "date": "Wed, 10 Jun 2026 17:00:00 +0000",
-      "summary": "Venus and Jupiter passed close to one another, setting the stage for a captivating planetary photoshoot.",
-      "url": "https://www.space.com/stargazing/astrophotography/jupiter-and-venus-looked-spectacular-in-this-weeks-planetary-conjunction-here-are-our-favorite-photos"
-    },
-    {
-      "category": "Science",
-      "title": " 'Geminid Symphony' and 'Galactic Gandalf': See the breathtaking views of our home galaxy from the 2026 Milky Way Photographer of the Year contest ",
-      "source": " Latest from Live Science ",
-      "date": "Wed, 10 Jun 2026 16:20:47 +0000",
-      "summary": "Stunning views of the night sky abound in photographs worldwide submitted to this year's Milky Way Photographer of the Year contest.",
-      "url": "https://www.livescience.com/space/astronomy/geminid-symphony-and-galactic-gandalf-see-the-breathtaking-views-of-our-home-galaxy-from-the-2026-milky-way-photographer-of-the-year-contest"
-    },
-    {
-      "category": "Space",
-      "title": "Train Ride to NASA Kennedy for Artemis III Booster Segments",
-      "source": "NASA",
-      "date": "Wed, 10 Jun 2026 16:05:29 +0000",
-      "summary": "The final booster motor segments for NASA’s SLS (Space Launch System) rocket that will help propel Artemis III astronauts on their journey to space shipped from Northrop Grumman’s Railyard Shipping Facility in Corinne, Utah on June 2. The eight booster motor segments are on their way to NASA’s Kennedy Space Center in Florida where they […]",
-      "url": "https://www.nasa.gov/image-article/train-ride-to-nasa-kennedy-for-artemis-iii-booster-segments/"
-    },
-    {
-      "category": "Space",
-      "title": "NASA Webb Finds Strongest Evidence Yet for ‘Black Hole Stars’",
-      "source": "NASA",
-      "date": "Wed, 10 Jun 2026 14:00:00 +0000",
-      "summary": "The complex puzzle known as little red dots has become more complete since their initial discovery by NASA’s James Webb Space Telescope in 2022. Now a particular little red dot’s spectrum is helping connect many of the pieces. A team of astronomers led by Vasily Kokorev at the University of Texas at Austin identified the […]",
-      "url": "https://science.nasa.gov/missions/webb/nasa-webb-finds-strongest-evidence-yet-for-black-hole-stars/"
+      "date": "Wed, 10 Jun 2026 21:00:00 +0000",
+      "summary": "Astronomers using the James Webb Space Telescope may be close to solving the mystery of \"little red dots\" in the early universe.",
+      "url": "https://www.space.com/astronomy/black-holes/james-webb-space-telescope-finds-evidence-the-mysterious-little-red-dots-are-black-hole-stars"
     },
     {
       "category": "AI",
-      "title": "Racist comments targeting politicians tripled since Meta relaxed its rules",
+      "title": "What is it like to be a bat? (1974) [pdf]",
+      "source": "Hacker News: Front Page",
+      "date": "Wed, 10 Jun 2026 20:35:07 +0000",
+      "summary": "Article URL: https://www.sas.upenn.edu/~cavitch/pdf-library/Nagel_Bat.pdf\nComments URL: https://news.ycombinator.com/item?id=48482293\nPoints: 48\n# Comments: 41",
+      "url": "https://www.sas.upenn.edu/~cavitch/pdf-library/Nagel_Bat.pdf"
+    },
+    {
+      "category": "Science",
+      "title": " Scientists were excited about a blood test for many cancers — but it failed a big trial. Here's what to know. ",
+      "source": " Latest from Live Science ",
+      "date": "Wed, 10 Jun 2026 20:05:00 +0000",
+      "summary": "Emerging tests promise to screen for many cancers at once, but one just failed in a big trial. Will these diagnostics deliver on their promise someday?",
+      "url": "https://www.livescience.com/health/cancer/scientists-were-excited-about-a-blood-test-for-many-cancers-but-it-failed-a-big-trial-heres-what-to-know"
+    },
+    {
+      "category": "Space",
+      "title": " NASA chief defends all-male Artemis 3 astronaut crew amid backlash: 'I don't think anyone should be reading into this' ",
+      "source": " Latest from Space.com ",
+      "date": "Wed, 10 Jun 2026 20:00:00 +0000",
+      "summary": "The four astronauts named to the Artemis 3 crew are all male, but NASA officials emphasized they were selected based on their qualifications and experience.",
+      "url": "https://www.space.com/space-exploration/artemis/nasa-chief-defends-all-male-artemis-3-astronaut-crew-amid-backlash-i-dont-think-anyone-should-be-reading-into-this"
+    },
+    {
+      "category": "AI",
+      "title": "Access OpenAI models and Codex through your Oracle cloud commitment",
+      "source": "OpenAI News",
+      "date": "Wed, 10 Jun 2026 20:00:00 GMT",
+      "summary": "Access OpenAI models and Codex through Oracle Cloud, using existing commitments to build and deploy AI with enterprise security and governance.",
+      "url": "https://openai.com/index/openai-on-oracle-cloud"
+    },
+    {
+      "category": "AI",
+      "title": "Logitech’s foldable mouse is for people who refuse to carry a mouse with them",
       "source": "Ars Technica - All content",
-      "date": "Wed, 10 Jun 2026 13:31:37 +0000",
-      "summary": "Violent threats against lawmakers have also surged on Facebook.",
-      "url": "https://arstechnica.com/tech-policy/2026/06/racist-comments-targeting-politicians-tripled-since-meta-relaxed-its-rules/"
+      "date": "Wed, 10 Jun 2026 19:57:56 +0000",
+      "summary": "The Mobi Fold is an $80 Bluetooth mouse with a silicone-wrapped hinge.",
+      "url": "https://arstechnica.com/gadgets/2026/06/logitechs-mobi-fold-folds-for-travel-but-i-prefer-a-different-portable-mouse/"
     },
     {
       "category": "AI",
-      "title": "GM Energy introduces V2G support and new energy storage battery chemistry",
+      "title": "Google DeepMind releases DiffusionGemma, a model that runs local AI 4x faster",
       "source": "Ars Technica - All content",
-      "date": "Wed, 10 Jun 2026 13:13:33 +0000",
-      "summary": "There are more than a quarter of a million V2G-capable GM EVs on the roads already.",
-      "url": "https://arstechnica.com/cars/2026/06/gm-energy-introduces-v2g-support-and-new-energy-storage-battery-chemistry/"
+      "date": "Wed, 10 Jun 2026 19:29:21 +0000",
+      "summary": "Diffusion AI is most common in image generation, but it can make text outputs much faster.",
+      "url": "https://arstechnica.com/google/2026/06/googles-latest-diffusiongemma-open-ai-model-comes-with-a-4x-speed-boost/"
+    },
+    {
+      "category": "Space",
+      "title": " 'Voltron: Legendary Defender' turns 10 today, and we think this mecha robot reboot was just as good as 'Power Rangers' and 'Transformers' ",
+      "source": " Latest from Space.com ",
+      "date": "Wed, 10 Jun 2026 19:00:00 +0000",
+      "summary": "Voltron may sound like an ointment for back pain, but the reboot Legendary Defender demonstrates that there's more to the big stompy robots concept than meets the eye.",
+      "url": "https://www.space.com/entertainment/space-movies-shows/voltron-legendary-defender-turns-10-today-and-we-think-this-mecha-robot-reboot-was-just-as-good-as-power-rangers-and-transformers"
+    },
+    {
+      "category": "Theology",
+      "title": "‘Disclosure Day’ and Spielberg’s Judeo-Christian Alien Myths",
+      "source": "The Gospel Coalition",
+      "date": "Wed, 10 Jun 2026 17:50:00 +0000",
+      "summary": "Steven Spielberg’s latest sci-fi blockbuster finds biblical resonance in alien tropes.",
+      "url": "https://www.thegospelcoalition.org/article/disclosure-day-christian-movie-review/"
+    },
+    {
+      "category": "AI",
+      "title": "We managed to glean some interesting details about the Artemis III mission",
+      "source": "Ars Technica - All content",
+      "date": "Wed, 10 Jun 2026 17:31:13 +0000",
+      "summary": "\"I was on the phone with Blue Origin leadership that night, all the next day, all through the weekend.\"",
+      "url": "https://arstechnica.com/space/2026/06/we-managed-to-glean-some-interesting-details-about-the-artemis-iii-mission/"
+    },
+    {
+      "category": "AI",
+      "title": "PRC-linked influence operations are targeting AI debates in the US",
+      "source": "OpenAI News",
+      "date": "Wed, 10 Jun 2026 12:00:00 GMT",
+      "summary": "A new report from OpenAI details PRC-linked influence operations using AI to target U.S. tech debates, data center narratives, tariffs, and false claims  about ChatGPT.",
+      "url": "https://openai.com/index/prc-linked-influence-operations-ai-debates"
     },
     {
       "category": "Biblical Studies",
@@ -179,30 +195,6 @@
       "url": "https://www.thegospelcoalition.org/article/world-cup-2026/"
     },
     {
-      "category": "AI",
-      "title": "From data to decisions: how LSEG is scaling trusted AI",
-      "source": "OpenAI News",
-      "date": "Wed, 10 Jun 2026 00:00:00 GMT",
-      "summary": "See how LSEG uses OpenAI to scale trusted AI across its global business, accelerating insights, shrinking release cycles, and empowering 4,000 employees.",
-      "url": "https://openai.com/index/lseg"
-    },
-    {
-      "category": "AI",
-      "title": "Starlink charges $10 monthly hardware fee in move away from one-time purchases",
-      "source": "Ars Technica - All content",
-      "date": "Tue, 09 Jun 2026 21:05:39 +0000",
-      "summary": "Starlink, SpaceX's top moneymaker, also raised service prices by $5 to $10.",
-      "url": "https://arstechnica.com/tech-policy/2026/06/starlink-takes-page-from-cable-firms-with-10-monthly-rental-fee-for-hardware/"
-    },
-    {
-      "category": "AI",
-      "title": "How engineers at Nextdoor use Codex to build without limits",
-      "source": "OpenAI News",
-      "date": "Tue, 09 Jun 2026 12:00:00 GMT",
-      "summary": "How engineers at Nextdoor use Codex with GPT-5.5 to investigate hard-to-reproduce issues, build across platforms, and focus on product outcomes.",
-      "url": "https://openai.com/index/nextdoor"
-    },
-    {
       "category": "Biblical Studies",
       "title": "Locating Zoar",
       "source": "Biblical Archaeology Society",
@@ -227,28 +219,12 @@
       "url": "https://allthingsliberty.com/2026/06/the-abandoned-american-offensive-after-yorktown-the-attack-that-never-was/"
     },
     {
-      "category": "AI",
-      "title": "What Codex unlocks for Notion",
-      "source": "OpenAI News",
-      "date": "Tue, 09 Jun 2026 10:00:00 GMT",
-      "summary": "How Notion uses Codex to one-shot specs, build AI Voice Input for the web, and multiply engineering power across small teams.",
-      "url": "https://openai.com/index/notion"
-    },
-    {
       "category": "Theology",
       "title": "Books You Should Read This Summer",
       "source": "The Gospel Coalition",
       "date": "Tue, 09 Jun 2026 04:05:00 +0000",
       "summary": "Readers will want to separate the wheat from the tares before they invest their precious hours of summer freedom. Here are book recommendations from TGC’s editors.",
       "url": "https://www.thegospelcoalition.org/article/reading-summer-2026/"
-    },
-    {
-      "category": "Theology",
-      "title": "Staff Pastors, Don’t Underuse Your Lay Elders",
-      "source": "The Gospel Coalition",
-      "date": "Tue, 09 Jun 2026 04:00:00 +0000",
-      "summary": "Lay pastors can help lift what no lead staff pastor should attempt to lift alone.",
-      "url": "https://www.thegospelcoalition.org/article/dont-underuse-lay-elders/"
     },
     {
       "category": "History",
