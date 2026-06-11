@@ -1,7 +1,199 @@
 {
-  "lastUpdated": "2026-06-10T23:20:33.293Z",
-  "articleCount": 36,
+  "lastUpdated": "2026-06-11T13:54:05.671Z",
+  "articleCount": 39,
   "articles": [
+    {
+      "category": "Science",
+      "title": "Scientists built a battery-free device that turns sunlight into fuel",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Thu, 11 Jun 2026 09:44:58 EDT",
+      "summary": "Scientists have developed an artificial photosynthesis system that essentially regulates itself, eliminating the need for batteries used in many current designs. The key innovation is an electrolyzer that automatically adapts to changing sunlight by altering its electrical properties as it heats up. This keeps solar fuel production more stable while reducing cost and complexity.",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260611024601.htm"
+    },
+    {
+      "category": "Science",
+      "title": "Q&A: Expert offers insight on stopping the New World screwworm",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Thu, 11 Jun 2026 09:40:03 EDT",
+      "summary": "NC State University entomologist Maxwell Scott is among a handful of people worldwide with the most thorough understanding of the genetics and life cycle of the New World screwworm, a blowfly that lays its eggs in wounds or vulnerable spots in livestock, pets, wildlife and humans and feeds on their living tissue.",
+      "url": "https://phys.org/news/2026-06-qa-expert-insight-world-screwworm.html"
+    },
+    {
+      "category": "AI",
+      "title": "Workers are spending over 6 hours a week botsitting AI, fueling job frustration",
+      "source": "Hacker News: Front Page",
+      "date": "Thu, 11 Jun 2026 13:26:59 +0000",
+      "summary": "Article URL: https://www.businessinsider.com/botsitting-ai-hidden-human-labor-at-work-2026-6\nComments URL: https://news.ycombinator.com/item?id=48490057\nPoints: 9\n# Comments: 1",
+      "url": "https://www.businessinsider.com/botsitting-ai-hidden-human-labor-at-work-2026-6"
+    },
+    {
+      "category": "AI",
+      "title": "Alaskans will be flying blind after NSF decommissions ocean monitoring network",
+      "source": "Ars Technica - All content",
+      "date": "Thu, 11 Jun 2026 13:19:00 +0000",
+      "summary": "Alaska's multibillion-dollar fishing industry and vulnerable coastal communities at risk.",
+      "url": "https://arstechnica.com/science/2026/06/alaskans-will-be-flying-blind-after-nsf-decommissions-ocean-monitoring-network/"
+    },
+    {
+      "category": "AI",
+      "title": "More AI-generated code doesn't make your team faster. It might slow you",
+      "source": "Hacker News: Front Page",
+      "date": "Thu, 11 Jun 2026 13:06:08 +0000",
+      "summary": "Article URL: https://twitter.com/awscloud/status/2064449711155589396\nComments URL: https://news.ycombinator.com/item?id=48489835\nPoints: 19\n# Comments: 4",
+      "url": "https://twitter.com/awscloud/status/2064449711155589396"
+    },
+    {
+      "category": "Science",
+      "title": "AI set to reshape Indigenous Ranger education",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Thu, 11 Jun 2026 09:00:06 EDT",
+      "summary": "James Cook University senior leadership are ready to revolutionize the delivery of degree programs in remote communities, using AI to accelerate the integration of western and traditional knowledge systems. In their article published in The Australian Educational Researcher, JCU Vice Chancellor Professor Simon Biggs and Deputy Vice-Chancellor of Indigenous Education & Strategy Professor Martin Nakata argue that new AI-integrated models of learning will value traditional knowledge, use traditional languages and properly account for real-life work experience.",
+      "url": "https://phys.org/news/2026-06-ai-reshape-indigenous-ranger.html"
+    },
+    {
+      "category": "Science",
+      "title": "Would you return a favor? Scientists say it depends on the relationship",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Thu, 11 Jun 2026 09:00:01 EDT",
+      "summary": "When a friend buys you a cup of coffee, it's likely that next time, you'll return the gesture. This type of reciprocal generosity has been well-documented in behavioral economics studies. However, anthropologists and other social scientists have known for decades that in the context of relationships where one person has more power, status or influence, reciprocal generosity is usually not the norm.",
+      "url": "https://phys.org/news/2026-06-favor-scientists-relationship.html"
+    },
+    {
+      "category": "Space",
+      "title": " 'Aliens: Fireteam Elite 2' upgrades the sci-fi action shooter to the state-of-the-badass art ",
+      "source": " Latest from Space.com ",
+      "date": "Thu, 11 Jun 2026 13:00:00 +0000",
+      "summary": "We got tactical and stayed frosty for our preview of Aliens: Fireteam Elite 2, guided by game director Chris Cross.",
+      "url": "https://www.space.com/entertainment/space-games/aliens-fireteam-elite-2-upgrades-the-sci-fi-action-shooter-to-the-state-of-the-badass-art"
+    },
+    {
+      "category": "AI",
+      "title": "Core PPI up 9.6% annualized (0.8% MoM) in May",
+      "source": "Hacker News: Front Page",
+      "date": "Thu, 11 Jun 2026 12:51:43 +0000",
+      "summary": "Article URL: https://www.bls.gov/news.release/ppi.nr0.htm\nComments URL: https://news.ycombinator.com/item?id=48489655\nPoints: 20\n# Comments: 0",
+      "url": "https://www.bls.gov/news.release/ppi.nr0.htm"
+    },
+    {
+      "category": "AI",
+      "title": "The first complex cells had genes from a complex mix of species",
+      "source": "Ars Technica - All content",
+      "date": "Thu, 11 Jun 2026 12:44:12 +0000",
+      "summary": "Our ancestors' genomes were built through successive waves of gene transfers.",
+      "url": "https://arstechnica.com/science/2026/06/the-first-complex-cells-had-genes-from-a-complex-mix-of-species/"
+    },
+    {
+      "category": "Science",
+      "title": "Scientists discover a strange property in rice and turn it into a smart material",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Thu, 11 Jun 2026 08:29:52 EDT",
+      "summary": "Scientists discovered that rice behaves in a highly unusual way: it weakens under rapid compression but stays stronger when pressure is applied slowly. Using this effect, they engineered a new material that reacts differently to gentle movements and sudden impacts. The material can adapt its stiffness automatically, opening the door to safer soft robots and protective equipment that responds instantly to collisions.",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260611024621.htm"
+    },
+    {
+      "category": "History",
+      "title": "Ten Quotations Highlighting Alcohol’s Intoxicating Influence on the American Revolution",
+      "source": "Journal of the American Revolution",
+      "date": "Thu, 11 Jun 2026 12:03:06 +0000",
+      "summary": "The founding generation of the United States, both its leaders and ordinary folks, drank far more alcohol than we do today, tippling diverse offerings including wine, cider, beer, rum, and mixed drinks. This consumption had a profound influence on the American Revolution.[1] These ten quotations highlight the many ways that alcohol impacted the revolutionaries’ society, […]\nThe post Ten Quotations Highlighting Alcohol’s Intoxicating Influence on the American Revolution appeared first on Journal of the American Revolution.",
+      "url": "https://allthingsliberty.com/2026/06/ten-quotations-highlighting-alcohols-intoxicating-influence-on-the-american-revolution/"
+    },
+    {
+      "category": "Science",
+      "title": "NASA reveals Artemis III crew for one of the most complex space missions ever",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Thu, 11 Jun 2026 08:02:51 EDT",
+      "summary": "NASA has selected the Artemis III crew for a high-stakes 2027 mission designed to test the future of lunar exploration. Astronauts will launch aboard Orion and perform unprecedented docking operations with lunar landers being developed by both Blue Origin and SpaceX. The mission will require a remarkable sequence of heavy-lift rocket launches and complex in-space maneuvers, helping pave the way for future Moon landings and eventually crewed missions to Mars.",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260611024606.htm"
+    },
+    {
+      "category": "Space",
+      "title": " Why do stars appear different colors in the night sky? ",
+      "source": " Latest from Space.com ",
+      "date": "Thu, 11 Jun 2026 12:00:00 +0000",
+      "summary": "Discover why some stars shine blue, white, orange or red and what those colors tell us about the cosmos.",
+      "url": "https://www.space.com/stargazing/why-do-stars-appear-different-colors-in-the-night-sky"
+    },
+    {
+      "category": "History",
+      "title": "This Week of Dispatches: Gary Ecelbarger on Nathaniel Ramsay at the Battle of Monmouth",
+      "source": "Journal of the American Revolution",
+      "date": "Thu, 11 Jun 2026 11:39:30 +0000",
+      "summary": "On this week’s Dispatches, host Brady Crytzer interviews JAR contributor and historian Gary Ecelbarger on Maryland Continental officer Nathaniel Ramsay and his experience at “Point of Woods,” a turning point in the Battle of Monmouth. New episodes of Dispatches are available for free every Sunday evening(Eastern United States Time), first on iTunes, Stitcher, Google Play, […]\nThe post This Week of Dispatches: Gary Ecelbarger on Nathaniel Ramsay at the Battle of Monmouth appeared first on Journal of the American Revolution.",
+      "url": "https://allthingsliberty.com/2026/06/this-week-of-dispatches-gary-ecelbarger-on-nathaniel-ramsay-at-the-battle-of-monmouth/"
+    },
+    {
+      "category": "AI",
+      "title": "Several things I like about macOS 27 Golden Gate that have nothing to do with AI",
+      "source": "Ars Technica - All content",
+      "date": "Thu, 11 Jun 2026 11:00:32 +0000",
+      "summary": "AI aside, Golden Gate includes a bunch of subtle-but-helpful improvements.",
+      "url": "https://arstechnica.com/gadgets/2026/06/five-things-i-like-and-one-thing-i-still-want-in-the-macos-27-golden-gate-beta/"
+    },
+    {
+      "category": "Biblical Studies",
+      "title": "Judith: A Remarkable Heroine",
+      "source": "Biblical Archaeology Society",
+      "date": "Thu, 11 Jun 2026 11:00:24 +0000",
+      "summary": "The Book of Judith presents a truly remarkable heroine. Judith is introduced as a devout, shapely, beautiful and wealthy widow who exhibits characteristics equal to those of Israel’s finest warriors. \nThe post Judith: A Remarkable Heroine appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/daily/judith-a-remarkable-heroine/"
+    },
+    {
+      "category": "Biblical Studies",
+      "title": "The Siloam Pool: Where Jesus Healed the Blind Man",
+      "source": "Biblical Archaeology Society",
+      "date": "Thu, 11 Jun 2026 11:00:12 +0000",
+      "summary": "The Siloam Pool has long been considered a sacred Christian site, even if the correct identification of the site itself was uncertain. According to the Gospel of John, it was at the Siloam Pool where Jesus healed the blind man (John 9:1–11).\nThe post The Siloam Pool: Where Jesus Healed the Blind Man appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/daily/biblical-sites-places/biblical-archaeology-sites/the-siloam-pool-where-jesus-healed-the-blind-man/"
+    },
+    {
+      "category": "Science",
+      "title": " Complete skin of an adult horse found with 10th-century woman and newborn in rare Siberian burial ",
+      "source": " Latest from Live Science ",
+      "date": "Thu, 11 Jun 2026 11:00:00 +0000",
+      "summary": "Archaeologists found a rare medieval burial of a woman, newborn child and horse in southern Russia.",
+      "url": "https://www.livescience.com/archaeology/complete-skin-of-an-adult-horse-found-with-10th-century-woman-and-newborn-in-rare-siberian-burial"
+    },
+    {
+      "category": "Space",
+      "title": " Elon Musk wants to put 1 million AI satellites in space. Here's how SpaceX could do it ",
+      "source": " Latest from Space.com ",
+      "date": "Thu, 11 Jun 2026 10:00:00 +0000",
+      "summary": "SpaceX CEO Elon Musk outlined more details for his company’s planned data centers in space ahead of a widely anticipated IPO on Thursday (June 11) expected to make him a trillionaire.",
+      "url": "https://www.space.com/space-exploration/satellites/elon-musk-wants-to-put-1-million-ai-satellites-in-space-heres-how-spacex-could-do-it"
+    },
+    {
+      "category": "Theology",
+      "title": "On My Shelf: Life and Books with Joseph Sherrard",
+      "source": "The Gospel Coalition",
+      "date": "Thu, 11 Jun 2026 04:03:00 +0000",
+      "summary": "Joseph Sherrard talks about what’s on his bedside table, favorite fiction, favorite rereads, and more.",
+      "url": "https://www.thegospelcoalition.org/article/on-my-shelf-joseph-sherrard/"
+    },
+    {
+      "category": "Space",
+      "title": "Air Pollution’s Daily Pulse Over the Northeast",
+      "source": "NASA",
+      "date": "Thu, 11 Jun 2026 04:01:00 +0000",
+      "summary": "The TEMPO mission helped scientists track morning nitrogen dioxide that contributed to afternoon ozone along the New York–Washington corridor in May 2026.",
+      "url": "https://science.nasa.gov/earth/earth-observatory/air-pollutions-daily-pulse-over-the-northeast/"
+    },
+    {
+      "category": "Theology",
+      "title": "Why Hot Takes Are the Enemy of Conviction",
+      "source": "The Gospel Coalition",
+      "date": "Thu, 11 Jun 2026 04:00:00 +0000",
+      "summary": "We’re people whose attention has been trained, hour by hour, to believe that something more interesting is always happening somewhere else.",
+      "url": "https://www.thegospelcoalition.org/article/forgotten-how-stay-convicted/"
+    },
+    {
+      "category": "AI",
+      "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem ",
+      "source": "OpenAI News",
+      "date": "Thu, 11 Jun 2026 00:00:00 GMT",
+      "summary": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
+      "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem"
+    },
     {
       "category": "AI",
       "title": "How an astrophysicist uses Codex to help simulate black holes",
@@ -12,30 +204,6 @@
     },
     {
       "category": "Science",
-      "title": "P53's five-hour rhythm may let resonance target gene networks on command",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Wed, 10 Jun 2026 19:20:04 EDT",
-      "summary": "Can networks of genes be stimulated using resonance? Researchers at the Niels Bohr Institute are investigating whether the protein p53, which activates a range of different genes, can be induced to communicate with the body's cells \"on command.\" Perhaps resonance is the key to stimulating the body toward a new form of self-healing?",
-      "url": "https://phys.org/news/2026-06-p53-hour-rhythm-resonance-gene.html"
-    },
-    {
-      "category": "Science",
-      "title": "Study shows gains in preschoolers' executive function with additional teacher training",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Wed, 10 Jun 2026 19:20:03 EDT",
-      "summary": "Research shows that when preschool teachers participate in professional learning workshops and ongoing coaching with experienced early childhood educators, students improve their language and literacy skills, as well as their social-emotional development.",
-      "url": "https://phys.org/news/2026-06-gains-preschoolers-function-additional-teacher.html"
-    },
-    {
-      "category": "Science",
-      "title": "New methods make tracking individual bird species during migration possible",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Wed, 10 Jun 2026 19:10:01 EDT",
-      "summary": "Researchers at Cornell Lab of Ornithology, University of Massachusetts and University of Illinois have developed breakthrough methods to track the migration of individual bird species by combining participatory science data with weather radar technology. This advancement addresses a long-standing limitation in migration monitoring: While radar can detect birds in flight, it cannot identify which species are migrating.",
-      "url": "https://phys.org/news/2026-06-methods-tracking-individual-bird-species.html"
-    },
-    {
-      "category": "Science",
       "title": " Scientists discover 5 million-year-old whale graveyard stretching for hundreds of miles in the Indian Ocean ",
       "source": " Latest from Live Science ",
       "date": "Wed, 10 Jun 2026 22:38:59 +0000",
@@ -43,20 +211,12 @@
       "url": "https://www.livescience.com/animals/whales/scientists-discover-5-million-year-old-whale-graveyard-stretching-for-hundreds-of-miles-in-the-indian-ocean"
     },
     {
-      "category": "AI",
-      "title": "A Written Language for the Cherokee So Efficient It Was Thought to Be Magic",
-      "source": "Hacker News: Front Page",
-      "date": "Wed, 10 Jun 2026 22:07:52 +0000",
-      "summary": "Article URL: https://www.smithsonianmag.com/innovation/man-created-written-language-cherokee-did-efficiently-elegantly-peers-thought-magic-180988850/\nComments URL: https://news.ycombinator.com/item?id=48483387\nPoints: 26\n# Comments: 15",
-      "url": "https://www.smithsonianmag.com/innovation/man-created-written-language-cherokee-did-efficiently-elegantly-peers-thought-magic-180988850/"
-    },
-    {
-      "category": "AI",
-      "title": "Free financial literacy platform for kids – 90 lessons, no paywall",
-      "source": "Hacker News: Front Page",
-      "date": "Wed, 10 Jun 2026 22:04:29 +0000",
-      "summary": "Article URL: https://learnfinly.com\nComments URL: https://news.ycombinator.com/item?id=48483345\nPoints: 4\n# Comments: 0",
-      "url": "https://learnfinly.com"
+      "category": "Space",
+      "title": "Curiosity Blog: Sols 4913-4919: Planetary explorers, freewheeling to the Yardang unit!",
+      "source": "NASA",
+      "date": "Wed, 10 Jun 2026 21:23:02 +0000",
+      "summary": "Written by Catherine O’Connell-Cooper, APXS Strategic Planner and Payload Uplink/Downlink Lead, University of New Brunswick, Canada Earth planning day: Friday, June 5th, 2026 In a very broad sense, Curiosity has two modes of doing science – one centred around a defined science campaign (such as the recent boxwork campaign) and the other as we move […]",
+      "url": "https://science.nasa.gov/blog/curiosity-blog-sols-4913-4919-planetary-explorers-freewheeling-to-the-yardang-unit/"
     },
     {
       "category": "Science",
@@ -68,35 +228,11 @@
     },
     {
       "category": "Space",
-      "title": " James Webb Space Telescope finds evidence the mysterious 'little red dots' are black hole stars ",
-      "source": " Latest from Space.com ",
-      "date": "Wed, 10 Jun 2026 21:00:00 +0000",
-      "summary": "Astronomers using the James Webb Space Telescope may be close to solving the mystery of \"little red dots\" in the early universe.",
-      "url": "https://www.space.com/astronomy/black-holes/james-webb-space-telescope-finds-evidence-the-mysterious-little-red-dots-are-black-hole-stars"
-    },
-    {
-      "category": "AI",
-      "title": "What is it like to be a bat? (1974) [pdf]",
-      "source": "Hacker News: Front Page",
-      "date": "Wed, 10 Jun 2026 20:35:07 +0000",
-      "summary": "Article URL: https://www.sas.upenn.edu/~cavitch/pdf-library/Nagel_Bat.pdf\nComments URL: https://news.ycombinator.com/item?id=48482293\nPoints: 48\n# Comments: 41",
-      "url": "https://www.sas.upenn.edu/~cavitch/pdf-library/Nagel_Bat.pdf"
-    },
-    {
-      "category": "Science",
-      "title": " Scientists were excited about a blood test for many cancers — but it failed a big trial. Here's what to know. ",
-      "source": " Latest from Live Science ",
-      "date": "Wed, 10 Jun 2026 20:05:00 +0000",
-      "summary": "Emerging tests promise to screen for many cancers at once, but one just failed in a big trial. Will these diagnostics deliver on their promise someday?",
-      "url": "https://www.livescience.com/health/cancer/scientists-were-excited-about-a-blood-test-for-many-cancers-but-it-failed-a-big-trial-heres-what-to-know"
-    },
-    {
-      "category": "Space",
-      "title": " NASA chief defends all-male Artemis 3 astronaut crew amid backlash: 'I don't think anyone should be reading into this' ",
-      "source": " Latest from Space.com ",
-      "date": "Wed, 10 Jun 2026 20:00:00 +0000",
-      "summary": "The four astronauts named to the Artemis 3 crew are all male, but NASA officials emphasized they were selected based on their qualifications and experience.",
-      "url": "https://www.space.com/space-exploration/artemis/nasa-chief-defends-all-male-artemis-3-astronaut-crew-amid-backlash-i-dont-think-anyone-should-be-reading-into-this"
+      "title": "NASA Awards Contract for Construction Services in California",
+      "source": "NASA",
+      "date": "Wed, 10 Jun 2026 20:32:25 +0000",
+      "summary": "NASA has selected multiple small businesses for the Western Regional Multiple Award Construction Contract, which supports a broad range of facility enhancement, modernization, and sustainment work at NASA’s Armstrong Flight Research Center in Edwards, California, NASA’s Ames Research Center in California’s Silicon Valley, and other federal agencies in the region. The contract provides general construction, […]",
+      "url": "https://www.nasa.gov/news-release/nasa-awards-contract-for-construction-services-in-california/"
     },
     {
       "category": "AI",
@@ -107,52 +243,12 @@
       "url": "https://openai.com/index/openai-on-oracle-cloud"
     },
     {
-      "category": "AI",
-      "title": "Logitech’s foldable mouse is for people who refuse to carry a mouse with them",
-      "source": "Ars Technica - All content",
-      "date": "Wed, 10 Jun 2026 19:57:56 +0000",
-      "summary": "The Mobi Fold is an $80 Bluetooth mouse with a silicone-wrapped hinge.",
-      "url": "https://arstechnica.com/gadgets/2026/06/logitechs-mobi-fold-folds-for-travel-but-i-prefer-a-different-portable-mouse/"
-    },
-    {
-      "category": "AI",
-      "title": "Google DeepMind releases DiffusionGemma, a model that runs local AI 4x faster",
-      "source": "Ars Technica - All content",
-      "date": "Wed, 10 Jun 2026 19:29:21 +0000",
-      "summary": "Diffusion AI is most common in image generation, but it can make text outputs much faster.",
-      "url": "https://arstechnica.com/google/2026/06/googles-latest-diffusiongemma-open-ai-model-comes-with-a-4x-speed-boost/"
-    },
-    {
-      "category": "Space",
-      "title": " 'Voltron: Legendary Defender' turns 10 today, and we think this mecha robot reboot was just as good as 'Power Rangers' and 'Transformers' ",
-      "source": " Latest from Space.com ",
-      "date": "Wed, 10 Jun 2026 19:00:00 +0000",
-      "summary": "Voltron may sound like an ointment for back pain, but the reboot Legendary Defender demonstrates that there's more to the big stompy robots concept than meets the eye.",
-      "url": "https://www.space.com/entertainment/space-movies-shows/voltron-legendary-defender-turns-10-today-and-we-think-this-mecha-robot-reboot-was-just-as-good-as-power-rangers-and-transformers"
-    },
-    {
       "category": "Theology",
       "title": "‘Disclosure Day’ and Spielberg’s Judeo-Christian Alien Myths",
       "source": "The Gospel Coalition",
       "date": "Wed, 10 Jun 2026 17:50:00 +0000",
       "summary": "Steven Spielberg’s latest sci-fi blockbuster finds biblical resonance in alien tropes.",
       "url": "https://www.thegospelcoalition.org/article/disclosure-day-christian-movie-review/"
-    },
-    {
-      "category": "AI",
-      "title": "We managed to glean some interesting details about the Artemis III mission",
-      "source": "Ars Technica - All content",
-      "date": "Wed, 10 Jun 2026 17:31:13 +0000",
-      "summary": "\"I was on the phone with Blue Origin leadership that night, all the next day, all through the weekend.\"",
-      "url": "https://arstechnica.com/space/2026/06/we-managed-to-glean-some-interesting-details-about-the-artemis-iii-mission/"
-    },
-    {
-      "category": "AI",
-      "title": "PRC-linked influence operations are targeting AI debates in the US",
-      "source": "OpenAI News",
-      "date": "Wed, 10 Jun 2026 12:00:00 GMT",
-      "summary": "A new report from OpenAI details PRC-linked influence operations using AI to target U.S. tech debates, data center narratives, tariffs, and false claims  about ChatGPT.",
-      "url": "https://openai.com/index/prc-linked-influence-operations-ai-debates"
     },
     {
       "category": "Biblical Studies",
@@ -163,84 +259,12 @@
       "url": "https://www.biblicalarchaeology.org/daily/archaeology-today/cultural-heritage/the-dead-cities-of-christian-syria/"
     },
     {
-      "category": "Science",
-      "title": "Scientists mapped every neural connection in a fruit fly and found a surprise",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Wed, 10 Jun 2026 06:10:54 EDT",
-      "summary": "A groundbreaking new connectome maps every neural connection in an adult fruit fly’s central nervous system, creating an unprecedented view of how the brain and body work together. The findings suggest that complex behaviors emerge from distributed local circuits rather than a single central controller, offering new clues about intelligence, movement, and brain function.",
-      "url": "https://www.sciencedaily.com/releases/2026/06/260610003047.htm"
-    },
-    {
-      "category": "Science",
-      "title": "Popular joint supplement glucosamine linked to faster Alzheimer’s progression",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Wed, 10 Jun 2026 01:17:56 EDT",
-      "summary": "A major study suggests glucosamine, a popular supplement for joint pain, could be linked to faster progression from mild cognitive impairment to Alzheimer’s disease. Researchers found a 25% higher likelihood of developing dementia among glucosamine users and uncovered biological clues that may explain why.",
-      "url": "https://www.sciencedaily.com/releases/2026/06/260610003044.htm"
-    },
-    {
-      "category": "Science",
-      "title": "Earth's first animals barely evolved until sex changed everything",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Wed, 10 Jun 2026 00:56:30 EDT",
-      "summary": "Earth’s earliest animals may have held evolution back because they reproduced asexually, creating low-competition communities that changed very little over time. When environmental pressures pushed them toward sexual reproduction, biodiversity exploded and evolution accelerated dramatically.",
-      "url": "https://www.sciencedaily.com/releases/2026/06/260610003042.htm"
-    },
-    {
-      "category": "Theology",
-      "title": "Enjoy the World Cup—but Don’t Be Shaped by It",
-      "source": "The Gospel Coalition",
-      "date": "Wed, 10 Jun 2026 04:00:00 +0000",
-      "summary": "Few events reveal the power of sport—or the loyalties of our hearts—quite like the World Cup.",
-      "url": "https://www.thegospelcoalition.org/article/world-cup-2026/"
-    },
-    {
-      "category": "Biblical Studies",
-      "title": "Locating Zoar",
-      "source": "Biblical Archaeology Society",
-      "date": "Tue, 09 Jun 2026 11:00:08 +0000",
-      "summary": "Read Master’s College professor Bill Schlegel’s commentary on the location of Zoar along with Steven Collins’s response.\nThe post Locating Zoar appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/daily/archaeology-today/biblical-archaeology-topics/locating-zoar/"
-    },
-    {
-      "category": "Biblical Studies",
-      "title": "King David’s Palace and the Millo",
-      "source": "Biblical Archaeology Society",
-      "date": "Tue, 09 Jun 2026 11:00:05 +0000",
-      "summary": "In the study of Biblical archaeology, Biblical texts and archaeological finds must be examined critically and independently, but ultimately, they must be interpreted together. Such an approach can be applied to King David’s Palace and the Millo.\nThe post King David’s Palace and the Millo appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/daily/biblical-sites-places/jerusalem/king-davids-palace-and-the-millo/"
-    },
-    {
       "category": "History",
       "title": "The Abandoned American Offensive After Yorktown: the Attack That Never Was",
       "source": "Journal of the American Revolution",
       "date": "Tue, 09 Jun 2026 10:00:09 +0000",
       "summary": "After a British army surrendered at Yorktown in October 1781, it took weeks for news of the disaster to reach London, and several weeks more for the British to decide their next move. Gen. George Washington needed no such time to decide on his. He wasted not a moment on celebrations and formalities. The day […]\nThe post The Abandoned American Offensive After Yorktown: the Attack That Never Was appeared first on Journal of the American Revolution.",
       "url": "https://allthingsliberty.com/2026/06/the-abandoned-american-offensive-after-yorktown-the-attack-that-never-was/"
-    },
-    {
-      "category": "Theology",
-      "title": "Books You Should Read This Summer",
-      "source": "The Gospel Coalition",
-      "date": "Tue, 09 Jun 2026 04:05:00 +0000",
-      "summary": "Readers will want to separate the wheat from the tares before they invest their precious hours of summer freedom. Here are book recommendations from TGC’s editors.",
-      "url": "https://www.thegospelcoalition.org/article/reading-summer-2026/"
-    },
-    {
-      "category": "History",
-      "title": "Cocked and Boozy: An Intoxicating History of the American Revolution",
-      "source": "Journal of the American Revolution",
-      "date": "Mon, 08 Jun 2026 11:39:49 +0000",
-      "summary": "BOOK REVIEW: Cocked and Boozy: An Intoxicating History of the American Revolution by Brook Barbier (Chicago, IL: Chicago Review Press, 2026) “Muddled.” “Buzzey.” “Jolly.” “Cherry Merry.” “Swallow’d a Tavern Token.” “Cat.” These terms are all euphemisms that describe someone who is inebriated. All of these words come to us courtesy of the great Dr. Benjamin […]\nThe post Cocked and Boozy: An Intoxicating History of the American Revolution appeared first on Journal of the American Revolution.",
-      "url": "https://allthingsliberty.com/2026/06/cocked-and-boozy-an-intoxicating-history-of-the-american-revolution/"
-    },
-    {
-      "category": "History",
-      "title": "Colonel Smallwood Comes to Meeting",
-      "source": "Journal of the American Revolution",
-      "date": "Thu, 04 Jun 2026 14:37:41 +0000",
-      "summary": "William Penn founded the Province of Pennsylvania to be a haven for the Religious Society of Friends, “The People Called Quakers” as they described themselves. The new colony was intended as a “holy experiment,” an example to the world that people could govern themselves according to principles of truth, peace and harmony.[1] Friends’ dissenter religion […]\nThe post Colonel Smallwood Comes to Meeting appeared first on Journal of the American Revolution.",
-      "url": "https://allthingsliberty.com/2026/06/colonel-smallwood-comes-to-meeting/"
     },
     {
       "category": "History",
