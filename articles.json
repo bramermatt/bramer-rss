@@ -1,54 +1,150 @@
 {
-  "lastUpdated": "2026-06-12T12:50:46.561Z",
-  "articleCount": 36,
+  "lastUpdated": "2026-06-12T18:00:57.202Z",
+  "articleCount": 39,
   "articles": [
     {
       "category": "Science",
-      "title": "Antarctic surface melt could jump tenfold this century as warming spreads south",
+      "title": "Mountainous landscapes store far more carbon than previously thought, new research shows",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Fri, 12 Jun 2026 08:40:03 EDT",
-      "summary": "New research shows surface melting across Antarctica is set to intensify and spread dramatically over the 21st century, with melt increasing 10-fold and the affected area growing by more than 10% by 2100 if global temperatures continue to rise.",
-      "url": "https://phys.org/news/2026-06-antarctic-surface-tenfold-century-south.html"
+      "date": "Fri, 12 Jun 2026 14:00:03 EDT",
+      "summary": "Hilly and mountainous landscapes have a much greater ability to store carbon in the soil than previously thought, according to a new study co-led by scientists at the University of Oregon.",
+      "url": "https://phys.org/news/2026-06-mountainous-landscapes-carbon-previously-thought.html"
     },
     {
       "category": "Science",
-      "title": "Can the cataclysmic explosions of dying stars help unlock grand mysteries of the universe?",
+      "title": "Trees may store less carbon than expected in the future",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Fri, 12 Jun 2026 08:20:03 EDT",
-      "summary": "Once charted as a 'guest star' in ancient China, dreaded as a harbinger of ill omens in medieval Europe, and preserved in the narratives and artworks of Indigenous cultures, these cosmic spectacles are now known as core-collapse supernovae.",
-      "url": "https://phys.org/news/2026-06-cataclysmic-explosions-dying-stars-grand.html"
+      "date": "Fri, 12 Jun 2026 14:00:01 EDT",
+      "summary": "It's intuitive to think that if a tree is photosynthesizing, it's also growing. But that's not necessarily so—and a new study of oak trees, published in the journal Science Advances, found that even as they photosynthesize late into the year, their growth stops by midsummer.",
+      "url": "https://phys.org/news/2026-06-trees-carbon-future.html"
     },
     {
       "category": "Science",
-      "title": "'Puffy' super-Neptune emerges 383 light-years away with a density of just 0.4 g/cm³",
+      "title": "Supercomputer predicts 2026 World Cup results",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Fri, 12 Jun 2026 08:00:04 EDT",
-      "summary": "Using the Subaru Telescope, astronomers have conducted follow-up observations of a recently discovered exoplanet known as TOI-1883 b. Results of the new observations, published June 5 on the arXiv preprint server, indicate that TOI-1883 b is a low-density super-Neptune.",
-      "url": "https://phys.org/news/2026-06-puffy-super-neptune-emerges-years.html"
+      "date": "Fri, 12 Jun 2026 13:40:05 EDT",
+      "summary": "A model built by researchers from the University of Liverpool's Management School predicts an England-Spain FIFA World Cup 2026 final, with Spain the favorite to lift the trophy—a repeat of recent major tournament history. The supercomputer correctly predicted England's second-place finish at Euro 2024.",
+      "url": "https://phys.org/news/2026-06-supercomputer-world-cup-results.html"
     },
     {
       "category": "AI",
-      "title": "Maxproof",
+      "title": "$130 billion in data center projects blocked by protests so far this year",
+      "source": "Ars Technica - All content",
+      "date": "Fri, 12 Jun 2026 17:18:49 +0000",
+      "summary": "Winning fight against AI data centers gives people a \"taste of political power.\"",
+      "url": "https://arstechnica.com/tech-policy/2026/06/130-billion-in-data-center-projects-blocked-by-protests-so-far-this-year/"
+    },
+    {
+      "category": "AI",
+      "title": "Gauntlet AI will fly you to Austin, train you in AI, give $200k+ job",
       "source": "Hacker News: Front Page",
-      "date": "Fri, 12 Jun 2026 12:00:02 +0000",
-      "summary": "Article URL: https://arxiv.org/abs/2606.13473\nComments URL: https://news.ycombinator.com/item?id=48503014\nPoints: 16\n# Comments: 0",
-      "url": "https://arxiv.org/abs/2606.13473"
+      "date": "Fri, 12 Jun 2026 17:00:40 +0000",
+      "summary": "Article URL: https://apply.gauntletai.com/register/champions?utm_source=Third%20Party&utm_campaign=Hacker%20News&utm_medium=organic&utm_content=HN\nComments URL: https://news.ycombinator.com/item?id=48506575\nPoints: 0\n# Comments: 0",
+      "url": "https://apply.gauntletai.com/register/champions?utm_source=Third%20Party&utm_campaign=Hacker%20News&utm_medium=organic&utm_content=HN"
+    },
+    {
+      "category": "Science",
+      "title": " World's rarest great ape decimated by 4 days of extreme rain, with 7% of population lost to cyclone ",
+      "source": " Latest from Live Science ",
+      "date": "Fri, 12 Jun 2026 16:59:05 +0000",
+      "summary": "Around 58 of Indonesia's Tapanuli orangutans were crushed or buried alive by landslides brought on by the climate-change-fueled Cyclone Senyar.",
+      "url": "https://www.livescience.com/animals/primates/worlds-rarest-great-ape-decimated-by-4-days-of-extreme-rain-with-7-percent-of-population-lost-to-cyclone"
+    },
+    {
+      "category": "AI",
+      "title": "Launch HN: BitBoard (YC P25) – Analytics Workspace for Agents",
+      "source": "Hacker News: Front Page",
+      "date": "Fri, 12 Jun 2026 16:58:03 +0000",
+      "summary": "We’re Connor and Ambar from BitBoard (https://bitboard.work). BitBoard is an agentic analytics workspace. We give you the infrastructure and visualization layer to analyze data with AI.\nToday, we’re launching dashboards that you and your agents can work on together. You can connect your coding agent or AI chat to BitBoard and build live reporting. Here’s a demo: https://www.youtube.com/watch?v=HPl0K565a7c.\nAI tools treat data analysis as ephemeral, making it hard to report or collaborate. Legacy BI tools weren’t intended for AI users, so they bolt on chatbots and can’t offer meaningful control to your agents. Software can now make far more of a business legible than BI ever could, but neither legacy BI nor chat bots are built to handle it.\nOur original product was AI agents for administrative tasks in healthcare (https://news.ycombinator.com/item?id=44237769), but customers kept pulling us toward their data analysis problems: queries scattered across disparate sources, spreadsheets floating everywhere. We kept building tooling for addressing that, and at a certain point those tools were becoming our product.\nWe ran into several problems. Agents made bad inferences because they had no context on the business. They couldn't be trusted to make decisions because nothing checked their work. And anything one agent or one person figured out was invisible to everyone else. In BitBoard, humans and agents interact with the same data primitives but get tools designed for their own work.\nWe’re building dashboards to make the human reading experience better. These dashboards progressively use intelligence - starting from code or SQL queries and leading to full embedded apps. Humans and agents will need to agree on methods to interpret data, so we’re letting both contribute to canonical sources, entities, and measures (using your favorite semantic model or ours). Every answer comes with provenance, and the same call with the same parameters returns the same number.\nLooking ahead, these shared primitives let long-running agents operate inside a business, and we're building those agents too. An agent needs a measurable goal and a way to verify its work. BitBoard gives it both. The agent takes a problem like a metric drifting or a funnel leaking and figures out what to do next. Its work becomes datasets, dashboards, and traces that the team can observe and sign off on.\nTechnically, we’re building a collaboration engine with isomorphic updates for humans and AI, columnar analysis (we use DuckDB and Apache Arrow), grounding and verification infrastructure, and enabling long running tasks with agent containers and traces. For agentic work we’re big fans of applying LLM judgement to discover problems, and then generating deterministic software to automate them.\nTry it out at https://app.bitboard.work. (We require an email so we can set up your account).\nWe’re excited about how data analysis and science can change in the age of LLMs, and welcome all your thoughts!\nComments URL: https://news.ycombinator.com/item?id=48506545\nPoints: 8\n# Comments: 4",
+      "url": "https://bitboard.work/"
+    },
+    {
+      "category": "AI",
+      "title": "When it comes to total water use, AI data centers are a drop in the bucket",
+      "source": "Ars Technica - All content",
+      "date": "Fri, 12 Jun 2026 16:51:38 +0000",
+      "summary": "Even moderately sized data centers can have an outsized local impact.",
+      "url": "https://arstechnica.com/ai/2026/06/when-it-comes-to-total-water-use-ai-data-centers-are-a-drop-in-the-bucket/"
+    },
+    {
+      "category": "AI",
+      "title": "Looking Forward to Postgres 19: It's About Time",
+      "source": "Hacker News: Front Page",
+      "date": "Fri, 12 Jun 2026 16:44:47 +0000",
+      "summary": "Article URL: https://www.pgedge.com/blog/looking-forward-to-postgres-19-its-about-time\nComments URL: https://news.ycombinator.com/item?id=48506372\nPoints: 22\n# Comments: 1",
+      "url": "https://www.pgedge.com/blog/looking-forward-to-postgres-19-its-about-time"
+    },
+    {
+      "category": "AI",
+      "title": "Google sues Chinese cybercrime network that used Gemini to automate scams",
+      "source": "Ars Technica - All content",
+      "date": "Fri, 12 Jun 2026 16:34:36 +0000",
+      "summary": "The fraudsters allegedly targeted hundreds of thousands of people with Gemini-coded scams sites.",
+      "url": "https://arstechnica.com/google/2026/06/google-sues-chinese-cybercrime-network-that-used-gemini-to-automate-scams/"
+    },
+    {
+      "category": "Science",
+      "title": " 'I was really amazed': On the edge of the Milky Way, a dwarf galaxy is being ripped in half by its big sibling ",
+      "source": " Latest from Live Science ",
+      "date": "Fri, 12 Jun 2026 16:00:55 +0000",
+      "summary": "A new study shows that the Small Magellanic Cloud is being pulled apart by its larger sibling on the Milky Way's periphery, upending our understanding of our cosmic neighbor.",
+      "url": "https://www.livescience.com/space/astronomy/i-was-really-amazed-on-the-edge-of-the-milky-way-a-dwarf-galaxy-is-being-ripped-in-half-by-its-big-sibling"
     },
     {
       "category": "Space",
-      "title": " My quiet obsession with satellites — and how they're ruining everything ",
+      "title": " 'Disclosure Day' review: A close encounter with Spielberg's brilliance that doesn't quite make contact ",
       "source": " Latest from Space.com ",
-      "date": "Fri, 12 Jun 2026 12:00:00 +0000",
-      "summary": "From ruined photos to vanishing darkness, satellites are transforming the night sky — and not always for the better.",
-      "url": "https://www.space.com/stargazing/my-quiet-obsession-with-satellites-and-how-theyre-ruining-everything"
+      "date": "Fri, 12 Jun 2026 16:00:00 +0000",
+      "summary": "Sensational performances and stunning cinematography just about cover for a predictable plot with nothing much to say.",
+      "url": "https://www.space.com/entertainment/space-movies-shows/disclosure-day-review-a-close-encounter-with-spielbergs-brilliance-that-doesnt-quite-make-contact"
     },
     {
-      "category": "AI",
-      "title": "Cameras, sensors, and 3D body scans: All the tech helping eliminate blown calls",
-      "source": "Ars Technica - All content",
-      "date": "Fri, 12 Jun 2026 11:45:18 +0000",
-      "summary": "This World Cup, refs will use digital twins of each player to view plays from every angle.",
-      "url": "https://arstechnica.com/gadgets/2026/06/cameras-sensors-and-3d-body-scans-all-the-tech-helping-eliminate-blown-calls/"
+      "category": "Space",
+      "title": "NASA to Cover 34th SpaceX Resupply Mission Space Station Departure",
+      "source": "NASA",
+      "date": "Fri, 12 Jun 2026 15:32:54 +0000",
+      "summary": "NASA and its international partners are set to receive scientific research samples and hardware as a SpaceX Dragon spacecraft is scheduled to depart the International Space Station on Tuesday, June 16, for its return to Earth. Watch NASA’s live undocking coverage beginning at 11:45 a.m. EDT on NASA+, Amazon Prime, and the agency’s YouTube channel. […]",
+      "url": "https://www.nasa.gov/news-release/nasa-to-cover-34th-spacex-resupply-mission-space-station-departure/"
+    },
+    {
+      "category": "Space",
+      "title": " 'As terrible and harrowing as things were, people just had to get on with it': 'Star City's' Ruby Ashbourne Serkis and Adam Nagaitis on learning to love the Motherland in Apple TV's soviet space race spin-off (interview) ",
+      "source": " Latest from Space.com ",
+      "date": "Fri, 12 Jun 2026 15:00:00 +0000",
+      "summary": "'I think it’s a really interesting environment to delve into. Ultimately, it's a culture of survival.'",
+      "url": "https://www.space.com/entertainment/space-movies-shows/as-terrible-and-harrowing-as-things-were-people-just-had-to-get-on-with-it-star-citys-ruby-ashbourne-serkis-and-adam-nagaitis-on-learning-to-love-the-motherland-in-apple-tvs-soviet-space-race-spin-off-interview"
+    },
+    {
+      "category": "Space",
+      "title": " Satellite-boosting spacecraft inside air-launched rocket | Space photo of the day for June 12, 2026 ",
+      "source": " Latest from Space.com ",
+      "date": "Fri, 12 Jun 2026 14:00:00 +0000",
+      "summary": "A spacecraft was recently prepped for encapsulation inside of its rocket at one of NASA's launch facilities ahead of its launch to save another satellite.",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/satellite-boosting-spacecraft-inside-air-launched-rocket-space-photo-of-the-day-for-june-12-2026"
+    },
+    {
+      "category": "Space",
+      "title": "Black Eye Galaxy",
+      "source": "NASA",
+      "date": "Fri, 12 Jun 2026 13:59:55 +0000",
+      "summary": "This March 20, 2026, image of Messier 64, or the Black Eye Galaxy, is a composite view from NASA’s Hubble Space Telescope and James Webb Space Telescope. It shows Messier 64 captured at near- and mid-infrared wavelengths by Webb, while Hubble’s image shows the galaxy in ultraviolet, visible, and near-infrared light. Messier 64 is characterized […]",
+      "url": "https://www.nasa.gov/image-article/black-eye-galaxy/"
+    },
+    {
+      "category": "Science",
+      "title": "These tiny holes could change how the world cleans water",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Fri, 12 Jun 2026 09:13:19 EDT",
+      "summary": "A new nature-inspired membrane uses perfectly uniform one-nanometer pores to filter molecules with remarkable precision. The technology could transform industries such as pharmaceuticals and textiles by reducing energy consumption, improving water reuse, and delivering separation performance far beyond current filters.",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260612032049.htm"
+    },
+    {
+      "category": "Science",
+      "title": "Giant underground neutrino detector brings scientists closer to cracking the neutrino puzzle",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Fri, 12 Jun 2026 07:57:50 EDT",
+      "summary": "Deep beneath the ground in China, the massive JUNO neutrino observatory has delivered its first major scientific breakthrough, achieving one of the most precise measurements yet of how elusive neutrinos change as they travel. Using just 59 days of data, researchers sharply improved measurements of key neutrino properties, boosting confidence that JUNO can tackle one of particle physics' biggest mysteries: determining the true mass hierarchy of neutrinos.",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260612032026.htm"
     },
     {
       "category": "Space",
@@ -57,38 +153,6 @@
       "date": "Fri, 12 Jun 2026 11:34:50 +0000",
       "summary": "Looking somewhat like a swarm of bees returning to their hive, this NASA Hubble Space Telescope image features the galaxy cluster MACS0329-0211.",
       "url": "https://science.nasa.gov/missions/hubble/hubble-sees-swarm-of-galaxies/"
-    },
-    {
-      "category": "AI",
-      "title": "Ebola cases in DRC rise to 676 as Kenya protests erupt over US plans",
-      "source": "Ars Technica - All content",
-      "date": "Fri, 12 Jun 2026 11:30:23 +0000",
-      "summary": "Outbreak responses are still playing catch-up as US works to isolate itself.",
-      "url": "https://arstechnica.com/health/2026/06/ebola-cases-in-drc-rise-to-676-as-kenya-protests-erupt-over-us-plans/"
-    },
-    {
-      "category": "AI",
-      "title": "David Hockney, Who Restored the Human Form to Art, Dies at 88",
-      "source": "Hacker News: Front Page",
-      "date": "Fri, 12 Jun 2026 11:26:54 +0000",
-      "summary": "Article URL: https://www.nytimes.com/2026/06/12/arts/design/david-hockney-dead.html\nComments URL: https://news.ycombinator.com/item?id=48502730\nPoints: 36\n# Comments: 4",
-      "url": "https://www.nytimes.com/2026/06/12/arts/design/david-hockney-dead.html"
-    },
-    {
-      "category": "AI",
-      "title": "Pokémon Go players unwittingly contributed to tech with military drone uses",
-      "source": "Ars Technica - All content",
-      "date": "Fri, 12 Jun 2026 11:15:41 +0000",
-      "summary": "The repurposing of Pokémon Go data for AI training continues to draw scrutiny.",
-      "url": "https://arstechnica.com/ai/2026/06/pokemon-go-players-unwittingly-contributed-to-tech-with-military-drone-uses/"
-    },
-    {
-      "category": "AI",
-      "title": "Ryanair dark UX patterns summer 2026 refresher",
-      "source": "Hacker News: Front Page",
-      "date": "Fri, 12 Jun 2026 11:11:42 +0000",
-      "summary": "Article URL: https://blog.osull.com/2026/06/12/ryanair-dark-ux-patterns-summer-2026-refresher/\nComments URL: https://news.ycombinator.com/item?id=48502601\nPoints: 85\n# Comments: 56",
-      "url": "https://blog.osull.com/2026/06/12/ryanair-dark-ux-patterns-summer-2026-refresher/"
     },
     {
       "category": "Biblical Studies",
@@ -107,12 +171,20 @@
       "url": "https://www.livescience.com/health/heart-circulation/these-patients-hearts-stopped-a-dozen-times-a-day-an-innovative-procedure-has-transformed-their-lives"
     },
     {
-      "category": "Space",
-      "title": " SpaceX to go public with a mind-bogglingly historic IPO today. The space industry may never be the same. ",
-      "source": " Latest from Space.com ",
-      "date": "Fri, 12 Jun 2026 10:00:00 +0000",
-      "summary": "With the launch of SpaceX into the IPO frontier today, the space industry has its newest publicly traded juggernaut.",
-      "url": "https://www.space.com/space-exploration/private-spaceflight/spacex-to-go-public-with-a-mind-bogglingly-historic-ipo-today-the-space-industry-may-never-be-the-same"
+      "category": "AI",
+      "title": "New OpenAI Academy courses for the next era of work",
+      "source": "OpenAI News",
+      "date": "Fri, 12 Jun 2026 10:00:00 GMT",
+      "summary": "OpenAI introduces three Academy courses that help people build practical AI skills, create repeatable workflows, and apply agents in everyday work.",
+      "url": "https://openai.com/index/academy-courses-applying-ai-at-work"
+    },
+    {
+      "category": "Science",
+      "title": "The missing notebooks that solved a 55-million-year-old fossil mystery",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Fri, 12 Jun 2026 05:15:42 EDT",
+      "summary": "A spectacular fossil fish discovered on a remote cliff in New Zealand nearly 30 years ago has finally revealed its full story thanks to an unexpected discovery: the original collector’s long-lost field notebooks. The 1.2-meter fossil, preserved in stunning three-dimensional detail, belonged to an ancient tarpon-like predator that cruised New Zealand waters about 55 million years ago.",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260612032038.htm"
     },
     {
       "category": "Theology",
@@ -131,14 +203,6 @@
       "url": "https://www.thegospelcoalition.org/article/did-father-forsake-son/"
     },
     {
-      "category": "Space",
-      "title": "World Cup Fever in Guadalajara",
-      "source": "NASA",
-      "date": "Fri, 12 Jun 2026 04:01:00 +0000",
-      "summary": "The city’s metro area has pushed westward since it last hosted World Cup matches in 1986, expanding across a landscape shaped by ancient volcanoes.",
-      "url": "https://science.nasa.gov/earth/earth-observatory/world-cup-fever-in-guadalajara/"
-    },
-    {
       "category": "AI",
       "title": "How Preply combines AI and human tutors to personalize learning",
       "source": "OpenAI News",
@@ -147,68 +211,12 @@
       "url": "https://openai.com/index/preply"
     },
     {
-      "category": "Space",
-      "title": "NASA Award Boosts Space Technology Research Capabilities",
-      "source": "NASA",
-      "date": "Thu, 11 Jun 2026 21:14:44 +0000",
-      "summary": "NASA is introducing a new funding opportunity to accelerate academic research and technology development. The Minority University Research and Education Project Space Technology Artemis Research (M‑STAR) application window opened Thursday and will remain open through 11:59 p.m. EDT on Tuesday, Aug. 11. The research funded through this award supports the agency’s priorities for exploring the […]",
-      "url": "https://www.nasa.gov/learning-resources/stem-engagement-at-nasa/murep/nasa-award-boosts-space-technology-research-capabilities/"
-    },
-    {
-      "category": "Science",
-      "title": " Ancient squirrel poop from Arctic permafrost contains DNA from mammoths, bison, horses and big cats ",
-      "source": " Latest from Live Science ",
-      "date": "Thu, 11 Jun 2026 20:40:57 +0000",
-      "summary": "Prehistoric squirrel droppings were analyzed and found to contain genetic material of numerous ice-age beasts, plants, microbes and fungi.",
-      "url": "https://www.livescience.com/animals/ancient-squirrel-poop-from-arctic-permafrost-contains-dna-from-mammoths-bison-horses-and-big-cats"
-    },
-    {
-      "category": "Space",
-      "title": " SpaceX sends 24 Starlink satellites into orbit as market awaits IPO launch (video) ",
-      "source": " Latest from Space.com ",
-      "date": "Thu, 11 Jun 2026 20:00:00 +0000",
-      "summary": "Liftoff of the Falcon 9 was at 11:05 a.m. EDT on Thursday (June 11) as anticipation soared for SpaceX to debut on the NASDAQ.",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-17-44-b1071-vsfb-ocisly"
-    },
-    {
-      "category": "Science",
-      "title": " Earth's underground fungal network is so massive, it would span 10% of the Milky Way, map reveals ",
-      "source": " Latest from Live Science ",
-      "date": "Thu, 11 Jun 2026 18:46:12 +0000",
-      "summary": "The first global map of subterranean fungi networks reveals how massive its reach is worldwide.",
-      "url": "https://www.livescience.com/planet-earth/plants/earths-underground-fungal-network-is-so-massive-it-would-span-10-percent-of-the-milky-way-map-reveals"
-    },
-    {
-      "category": "Science",
-      "title": "Scientists built a battery-free device that turns sunlight into fuel",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Thu, 11 Jun 2026 09:44:58 EDT",
-      "summary": "Scientists have developed an artificial photosynthesis system that essentially regulates itself, eliminating the need for batteries used in many current designs. The key innovation is an electrolyzer that automatically adapts to changing sunlight by altering its electrical properties as it heats up. This keeps solar fuel production more stable while reducing cost and complexity.",
-      "url": "https://www.sciencedaily.com/releases/2026/06/260611024601.htm"
-    },
-    {
-      "category": "Science",
-      "title": "Scientists discover a strange property in rice and turn it into a smart material",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Thu, 11 Jun 2026 08:29:52 EDT",
-      "summary": "Scientists discovered that rice behaves in a highly unusual way: it weakens under rapid compression but stays stronger when pressure is applied slowly. Using this effect, they engineered a new material that reacts differently to gentle movements and sudden impacts. The material can adapt its stiffness automatically, opening the door to safer soft robots and protective equipment that responds instantly to collisions.",
-      "url": "https://www.sciencedaily.com/releases/2026/06/260611024621.htm"
-    },
-    {
       "category": "History",
       "title": "Ten Quotations Highlighting Alcohol’s Intoxicating Influence on the American Revolution",
       "source": "Journal of the American Revolution",
       "date": "Thu, 11 Jun 2026 12:03:06 +0000",
       "summary": "The founding generation of the United States, both its leaders and ordinary folks, drank far more alcohol than we do today, tippling diverse offerings including wine, cider, beer, rum, and mixed drinks. This consumption had a profound influence on the American Revolution.[1] These ten quotations highlight the many ways that alcohol impacted the revolutionaries’ society, […]\nThe post Ten Quotations Highlighting Alcohol’s Intoxicating Influence on the American Revolution appeared first on Journal of the American Revolution.",
       "url": "https://allthingsliberty.com/2026/06/ten-quotations-highlighting-alcohols-intoxicating-influence-on-the-american-revolution/"
-    },
-    {
-      "category": "Science",
-      "title": "NASA reveals Artemis III crew for one of the most complex space missions ever",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Thu, 11 Jun 2026 08:02:51 EDT",
-      "summary": "NASA has selected the Artemis III crew for a high-stakes 2027 mission designed to test the future of lunar exploration. Astronauts will launch aboard Orion and perform unprecedented docking operations with lunar landers being developed by both Blue Origin and SpaceX. The mission will require a remarkable sequence of heavy-lift rocket launches and complex in-space maneuvers, helping pave the way for future Moon landings and eventually crewed missions to Mars.",
-      "url": "https://www.sciencedaily.com/releases/2026/06/260611024606.htm"
     },
     {
       "category": "History",
@@ -244,19 +252,11 @@
     },
     {
       "category": "AI",
-      "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem ",
+      "title": "OpenAI to acquire Ona",
       "source": "OpenAI News",
       "date": "Thu, 11 Jun 2026 00:00:00 GMT",
-      "summary": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
-      "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem"
-    },
-    {
-      "category": "AI",
-      "title": "BBVA puts AI at the core of banking with OpenAI",
-      "source": "OpenAI News",
-      "date": "Thu, 11 Jun 2026 00:00:00 GMT",
-      "summary": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
-      "url": "https://openai.com/index/bbva"
+      "summary": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
+      "url": "https://openai.com/index/openai-to-acquire-ona"
     },
     {
       "category": "History",
@@ -289,6 +289,30 @@
       "date": "Thu, 11 Apr 2024 13:08:00 +0000",
       "summary": ".image-13796819 {\n\tmax-height: 100%;\n\t--left: 40.91%;\n\t--top: 52.46%;\n\t} \n\tIn 2019 Will Grant embarked on a 142-day, 2,000-mile horseback journey from the Pony Express stables in St. Joseph, Mo., to trail’s end in Sacramento, Calif.",
       "url": "https://historynet.com/pony-express-ride-will-grant/"
+    },
+    {
+      "category": "Theology",
+      "title": "Expanding Reach of the 9Marks Journal",
+      "source": "9Marks",
+      "date": "Tue, 28 Aug 2018 14:20:11 +0000",
+      "summary": "Published quarterly, the 9Marks Journal features articles from pastors and for pastors. It focuses on a single topic—like  preaching, pastoral burnout, church discipline, the Reformation—and seeks to provide enlightening and encouraging instruction. And by God’s grace, it appears our journal is gaining traction. We released our summer edition—“Pastoral Burnout: Its Causes & Cures”—on July 17. Since then, it’s received over 15,000 views […]\nThe post Expanding Reach of the 9Marks Journal appeared first on 9Marks.",
+      "url": "https://www.9marks.org/2018/08/expanding-reach-of-the-9marks-journal/?utm_source=rss&utm_medium=rss&utm_campaign=expanding-reach-of-the-9marks-journal"
+    },
+    {
+      "category": "Theology",
+      "title": "Building Healthy Churches in Sub-Saharan Africa",
+      "source": "9Marks",
+      "date": "Tue, 28 Aug 2018 14:15:43 +0000",
+      "summary": "All across the great continent of Africa, men and women are coming to Christ. That’s what the reports say—and that’s what our friends on the ground say, too. This is wonderful news, but it raises some questions: How will they grow? Who will shepherd them? What will protect the gospel and keep them from bad […]\nThe post Building Healthy Churches in Sub-Saharan Africa appeared first on 9Marks.",
+      "url": "https://www.9marks.org/2018/08/building-healthy-churches-in-sub-saharan-africa/?utm_source=rss&utm_medium=rss&utm_campaign=building-healthy-churches-in-sub-saharan-africa"
+    },
+    {
+      "category": "Theology",
+      "title": "International Director’s Summer in Europe | Stay tuned",
+      "source": "9Marks",
+      "date": "Sat, 28 Jul 2018 14:18:28 +0000",
+      "summary": "This summer, our international director Rick Denham spent time with various European partners. Over two months, he traveled to ten countries where he formed new relationships, strengthened old ones, and observed God’s work through many different churches, ministries, and publishers. Dozens of stories could be told, and we’ll try to share just a few of […]\nThe post International Director’s Summer in Europe | Stay tuned appeared first on 9Marks.",
+      "url": "https://www.9marks.org/2018/07/international-directors-summer-in-europe-2/?utm_source=rss&utm_medium=rss&utm_campaign=international-directors-summer-in-europe-2"
     }
   ]
 }
