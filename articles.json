@@ -1,46 +1,102 @@
 {
-  "lastUpdated": "2026-06-12T18:00:57.202Z",
+  "lastUpdated": "2026-06-12T23:10:19.199Z",
   "articleCount": 39,
   "articles": [
     {
       "category": "Science",
-      "title": "Mountainous landscapes store far more carbon than previously thought, new research shows",
+      "title": "Solar geoengineering could shield up to 75% of oceans from heat waves",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Fri, 12 Jun 2026 14:00:03 EDT",
-      "summary": "Hilly and mountainous landscapes have a much greater ability to store carbon in the soil than previously thought, according to a new study co-led by scientists at the University of Oregon.",
-      "url": "https://phys.org/news/2026-06-mountainous-landscapes-carbon-previously-thought.html"
-    },
-    {
-      "category": "Science",
-      "title": "Trees may store less carbon than expected in the future",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Fri, 12 Jun 2026 14:00:01 EDT",
-      "summary": "It's intuitive to think that if a tree is photosynthesizing, it's also growing. But that's not necessarily so—and a new study of oak trees, published in the journal Science Advances, found that even as they photosynthesize late into the year, their growth stops by midsummer.",
-      "url": "https://phys.org/news/2026-06-trees-carbon-future.html"
-    },
-    {
-      "category": "Science",
-      "title": "Supercomputer predicts 2026 World Cup results",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Fri, 12 Jun 2026 13:40:05 EDT",
-      "summary": "A model built by researchers from the University of Liverpool's Management School predicts an England-Spain FIFA World Cup 2026 final, with Spain the favorite to lift the trophy—a repeat of recent major tournament history. The supercomputer correctly predicted England's second-place finish at Euro 2024.",
-      "url": "https://phys.org/news/2026-06-supercomputer-world-cup-results.html"
+      "date": "Fri, 12 Jun 2026 18:40:01 EDT",
+      "summary": "Most people have experienced a heat wave on land. But heat waves can strike in the ocean too. And as the planet continues to warm, marine heat waves are growing longer and deadlier, hurting the seafood supply that billions of people worldwide rely on for their food and livelihoods.",
+      "url": "https://phys.org/news/2026-06-solar-geoengineering-shield-oceans.html"
     },
     {
       "category": "AI",
-      "title": "$130 billion in data center projects blocked by protests so far this year",
-      "source": "Ars Technica - All content",
-      "date": "Fri, 12 Jun 2026 17:18:49 +0000",
-      "summary": "Winning fight against AI data centers gives people a \"taste of political power.\"",
-      "url": "https://arstechnica.com/tech-policy/2026/06/130-billion-in-data-center-projects-blocked-by-protests-so-far-this-year/"
-    },
-    {
-      "category": "AI",
-      "title": "Gauntlet AI will fly you to Austin, train you in AI, give $200k+ job",
+      "title": "Twenty One Zero-Days in FFmpeg",
       "source": "Hacker News: Front Page",
-      "date": "Fri, 12 Jun 2026 17:00:40 +0000",
-      "summary": "Article URL: https://apply.gauntletai.com/register/champions?utm_source=Third%20Party&utm_campaign=Hacker%20News&utm_medium=organic&utm_content=HN\nComments URL: https://news.ycombinator.com/item?id=48506575\nPoints: 0\n# Comments: 0",
-      "url": "https://apply.gauntletai.com/register/champions?utm_source=Third%20Party&utm_campaign=Hacker%20News&utm_medium=organic&utm_content=HN"
+      "date": "Fri, 12 Jun 2026 22:13:29 +0000",
+      "summary": "Article URL: https://depthfirst.com/research/21-zero-days-in-ffmpeg\nComments URL: https://news.ycombinator.com/item?id=48510046\nPoints: 9\n# Comments: 2",
+      "url": "https://depthfirst.com/research/21-zero-days-in-ffmpeg"
+    },
+    {
+      "category": "AI",
+      "title": "Renault: Electric motors with no rare earths",
+      "source": "Hacker News: Front Page",
+      "date": "Fri, 12 Jun 2026 22:08:03 +0000",
+      "summary": "Article URL: https://www.renaultgroup.com/en/magazine/energy-and-powertrains/all-about-electric-motors-with-no-rare-earths/\nComments URL: https://news.ycombinator.com/item?id=48510010\nPoints: 8\n# Comments: 0",
+      "url": "https://www.renaultgroup.com/en/magazine/energy-and-powertrains/all-about-electric-motors-with-no-rare-earths/"
+    },
+    {
+      "category": "Space",
+      "title": " Ever have a scary HR meeting on your calendar? That's how the Artemis 3 crew found out their assignments ",
+      "source": " Latest from Space.com ",
+      "date": "Fri, 12 Jun 2026 22:00:00 +0000",
+      "summary": "NASA took an unconventional approach to informing the astronauts of Artemis 3 about their crew assignments.",
+      "url": "https://www.space.com/space-exploration/artemis/ever-have-a-scary-hr-meeting-on-your-calendar-thats-how-the-artemis-3-crew-found-out-their-assignments"
+    },
+    {
+      "category": "Science",
+      "title": "Gulf Stream shifted north during 12,900-year-old cold snap, first direct evidence shows",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Fri, 12 Jun 2026 16:40:01 EDT",
+      "summary": "During an abrupt global cold snap nearly 13,000 years ago, the Gulf Stream ocean current shifted farther north, temporarily disrupting eastern Canada's oceanic ecosystems, a process that could happen again as the climate changes, a new study by UCL researchers finds.",
+      "url": "https://phys.org/news/2026-06-gulf-stream-shifted-north-year.html"
+    },
+    {
+      "category": "AI",
+      "title": "Palantir loses legal challenge against Swiss investigative magazine",
+      "source": "Hacker News: Front Page",
+      "date": "Fri, 12 Jun 2026 20:39:36 +0000",
+      "summary": "Article URL: https://www.ft.com/content/7ffcace7-9dc0-4e7e-9912-895ac073f979\nComments URL: https://news.ycombinator.com/item?id=48509182\nPoints: 111\n# Comments: 20",
+      "url": "https://www.ft.com/content/7ffcace7-9dc0-4e7e-9912-895ac073f979"
+    },
+    {
+      "category": "Space",
+      "title": " SpaceX's stock wasn't the company's only launch today — It also put 29 Starlink satellites in orbit ",
+      "source": " Latest from Space.com ",
+      "date": "Fri, 12 Jun 2026 20:19:22 +0000",
+      "summary": "Liftoff of the Falcon 9 rocket occurred at 8:27 a.m. ET, just over an hour before SpaceX went public on the NASDAQ stock market.",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-10-54-b1080-ccsfs-asog"
+    },
+    {
+      "category": "Space",
+      "title": " Japan's H3 rocket bounces back from failure with successful return to flight launch carrying 6 satellites ",
+      "source": " Latest from Space.com ",
+      "date": "Fri, 12 Jun 2026 20:03:04 +0000",
+      "summary": "Japan successfully completed its first mission with its H3 rocket since a launch failure last year resulted in the loss of a payload.",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/japans-h3-rocket-bounces-back-from-failure-with-successful-return-to-flight-launch-carrying-6-satellites"
+    },
+    {
+      "category": "Science",
+      "title": "Jurassic viral gene may have helped apple snails start laying eggs on land",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Fri, 12 Jun 2026 15:40:01 EDT",
+      "summary": "Pomacea canaliculata, commonly known as the apple snail, is a pest commonly found in Hong Kong's wetlands and farmlands. It feeds on aquatic plants and produces toxic pink egg masses resembling miniature grapes that adhere to plants or stone bunds. It is listed by the International Union for Conservation of Nature (IUCN) among 100 of the World's Worst Invasive Alien Species.",
+      "url": "https://phys.org/news/2026-06-jurassic-viral-gene-apple-snails.html"
+    },
+    {
+      "category": "AI",
+      "title": "PeopleSoft 0-day affecting hundreds of organizations steals gigabytes of data",
+      "source": "Ars Technica - All content",
+      "date": "Fri, 12 Jun 2026 19:26:47 +0000",
+      "summary": "Vulnerability in the Oracle-owned PeopleSoft software is about as critical as they come.",
+      "url": "https://arstechnica.com/security/2026/06/peoplesoft-0-day-affecting-hundreds-of-organizations-steals-gigabytes-of-data/"
+    },
+    {
+      "category": "AI",
+      "title": "Controversial FISA spying law expires tonight. The spying will continue.",
+      "source": "Ars Technica - All content",
+      "date": "Fri, 12 Jun 2026 18:57:51 +0000",
+      "summary": "Section 702 of FISA to expire tonight, but certification lasts until March 2027.",
+      "url": "https://arstechnica.com/tech-policy/2026/06/controversial-fisa-spying-law-expires-tonight-the-spying-will-continue/"
+    },
+    {
+      "category": "AI",
+      "title": "Here's what Jeff Bezos' new startup Prometheus will do",
+      "source": "Ars Technica - All content",
+      "date": "Fri, 12 Jun 2026 18:45:40 +0000",
+      "summary": "It isn't the only startup tackling physical AI, but it's one of the best-funded.",
+      "url": "https://arstechnica.com/ai/2026/06/heres-what-jeff-bezos-new-startup-prometheus-will-do/"
     },
     {
       "category": "Science",
@@ -49,38 +105,6 @@
       "date": "Fri, 12 Jun 2026 16:59:05 +0000",
       "summary": "Around 58 of Indonesia's Tapanuli orangutans were crushed or buried alive by landslides brought on by the climate-change-fueled Cyclone Senyar.",
       "url": "https://www.livescience.com/animals/primates/worlds-rarest-great-ape-decimated-by-4-days-of-extreme-rain-with-7-percent-of-population-lost-to-cyclone"
-    },
-    {
-      "category": "AI",
-      "title": "Launch HN: BitBoard (YC P25) – Analytics Workspace for Agents",
-      "source": "Hacker News: Front Page",
-      "date": "Fri, 12 Jun 2026 16:58:03 +0000",
-      "summary": "We’re Connor and Ambar from BitBoard (https://bitboard.work). BitBoard is an agentic analytics workspace. We give you the infrastructure and visualization layer to analyze data with AI.\nToday, we’re launching dashboards that you and your agents can work on together. You can connect your coding agent or AI chat to BitBoard and build live reporting. Here’s a demo: https://www.youtube.com/watch?v=HPl0K565a7c.\nAI tools treat data analysis as ephemeral, making it hard to report or collaborate. Legacy BI tools weren’t intended for AI users, so they bolt on chatbots and can’t offer meaningful control to your agents. Software can now make far more of a business legible than BI ever could, but neither legacy BI nor chat bots are built to handle it.\nOur original product was AI agents for administrative tasks in healthcare (https://news.ycombinator.com/item?id=44237769), but customers kept pulling us toward their data analysis problems: queries scattered across disparate sources, spreadsheets floating everywhere. We kept building tooling for addressing that, and at a certain point those tools were becoming our product.\nWe ran into several problems. Agents made bad inferences because they had no context on the business. They couldn't be trusted to make decisions because nothing checked their work. And anything one agent or one person figured out was invisible to everyone else. In BitBoard, humans and agents interact with the same data primitives but get tools designed for their own work.\nWe’re building dashboards to make the human reading experience better. These dashboards progressively use intelligence - starting from code or SQL queries and leading to full embedded apps. Humans and agents will need to agree on methods to interpret data, so we’re letting both contribute to canonical sources, entities, and measures (using your favorite semantic model or ours). Every answer comes with provenance, and the same call with the same parameters returns the same number.\nLooking ahead, these shared primitives let long-running agents operate inside a business, and we're building those agents too. An agent needs a measurable goal and a way to verify its work. BitBoard gives it both. The agent takes a problem like a metric drifting or a funnel leaking and figures out what to do next. Its work becomes datasets, dashboards, and traces that the team can observe and sign off on.\nTechnically, we’re building a collaboration engine with isomorphic updates for humans and AI, columnar analysis (we use DuckDB and Apache Arrow), grounding and verification infrastructure, and enabling long running tasks with agent containers and traces. For agentic work we’re big fans of applying LLM judgement to discover problems, and then generating deterministic software to automate them.\nTry it out at https://app.bitboard.work. (We require an email so we can set up your account).\nWe’re excited about how data analysis and science can change in the age of LLMs, and welcome all your thoughts!\nComments URL: https://news.ycombinator.com/item?id=48506545\nPoints: 8\n# Comments: 4",
-      "url": "https://bitboard.work/"
-    },
-    {
-      "category": "AI",
-      "title": "When it comes to total water use, AI data centers are a drop in the bucket",
-      "source": "Ars Technica - All content",
-      "date": "Fri, 12 Jun 2026 16:51:38 +0000",
-      "summary": "Even moderately sized data centers can have an outsized local impact.",
-      "url": "https://arstechnica.com/ai/2026/06/when-it-comes-to-total-water-use-ai-data-centers-are-a-drop-in-the-bucket/"
-    },
-    {
-      "category": "AI",
-      "title": "Looking Forward to Postgres 19: It's About Time",
-      "source": "Hacker News: Front Page",
-      "date": "Fri, 12 Jun 2026 16:44:47 +0000",
-      "summary": "Article URL: https://www.pgedge.com/blog/looking-forward-to-postgres-19-its-about-time\nComments URL: https://news.ycombinator.com/item?id=48506372\nPoints: 22\n# Comments: 1",
-      "url": "https://www.pgedge.com/blog/looking-forward-to-postgres-19-its-about-time"
-    },
-    {
-      "category": "AI",
-      "title": "Google sues Chinese cybercrime network that used Gemini to automate scams",
-      "source": "Ars Technica - All content",
-      "date": "Fri, 12 Jun 2026 16:34:36 +0000",
-      "summary": "The fraudsters allegedly targeted hundreds of thousands of people with Gemini-coded scams sites.",
-      "url": "https://arstechnica.com/google/2026/06/google-sues-chinese-cybercrime-network-that-used-gemini-to-automate-scams/"
     },
     {
       "category": "Science",
@@ -92,35 +116,11 @@
     },
     {
       "category": "Space",
-      "title": " 'Disclosure Day' review: A close encounter with Spielberg's brilliance that doesn't quite make contact ",
-      "source": " Latest from Space.com ",
-      "date": "Fri, 12 Jun 2026 16:00:00 +0000",
-      "summary": "Sensational performances and stunning cinematography just about cover for a predictable plot with nothing much to say.",
-      "url": "https://www.space.com/entertainment/space-movies-shows/disclosure-day-review-a-close-encounter-with-spielbergs-brilliance-that-doesnt-quite-make-contact"
-    },
-    {
-      "category": "Space",
       "title": "NASA to Cover 34th SpaceX Resupply Mission Space Station Departure",
       "source": "NASA",
       "date": "Fri, 12 Jun 2026 15:32:54 +0000",
       "summary": "NASA and its international partners are set to receive scientific research samples and hardware as a SpaceX Dragon spacecraft is scheduled to depart the International Space Station on Tuesday, June 16, for its return to Earth. Watch NASA’s live undocking coverage beginning at 11:45 a.m. EDT on NASA+, Amazon Prime, and the agency’s YouTube channel. […]",
       "url": "https://www.nasa.gov/news-release/nasa-to-cover-34th-spacex-resupply-mission-space-station-departure/"
-    },
-    {
-      "category": "Space",
-      "title": " 'As terrible and harrowing as things were, people just had to get on with it': 'Star City's' Ruby Ashbourne Serkis and Adam Nagaitis on learning to love the Motherland in Apple TV's soviet space race spin-off (interview) ",
-      "source": " Latest from Space.com ",
-      "date": "Fri, 12 Jun 2026 15:00:00 +0000",
-      "summary": "'I think it’s a really interesting environment to delve into. Ultimately, it's a culture of survival.'",
-      "url": "https://www.space.com/entertainment/space-movies-shows/as-terrible-and-harrowing-as-things-were-people-just-had-to-get-on-with-it-star-citys-ruby-ashbourne-serkis-and-adam-nagaitis-on-learning-to-love-the-motherland-in-apple-tvs-soviet-space-race-spin-off-interview"
-    },
-    {
-      "category": "Space",
-      "title": " Satellite-boosting spacecraft inside air-launched rocket | Space photo of the day for June 12, 2026 ",
-      "source": " Latest from Space.com ",
-      "date": "Fri, 12 Jun 2026 14:00:00 +0000",
-      "summary": "A spacecraft was recently prepped for encapsulation inside of its rocket at one of NASA's launch facilities ahead of its launch to save another satellite.",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/satellite-boosting-spacecraft-inside-air-launched-rocket-space-photo-of-the-day-for-june-12-2026"
     },
     {
       "category": "Space",
@@ -252,11 +252,11 @@
     },
     {
       "category": "AI",
-      "title": "OpenAI to acquire Ona",
+      "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem ",
       "source": "OpenAI News",
       "date": "Thu, 11 Jun 2026 00:00:00 GMT",
-      "summary": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
-      "url": "https://openai.com/index/openai-to-acquire-ona"
+      "summary": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
+      "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem"
     },
     {
       "category": "History",
