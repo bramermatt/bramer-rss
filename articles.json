@@ -1,54 +1,158 @@
 {
-  "lastUpdated": "2026-06-11T23:16:23.880Z",
+  "lastUpdated": "2026-06-12T12:50:46.561Z",
   "articleCount": 36,
   "articles": [
     {
       "category": "Science",
-      "title": "Third-grade impulses linked to lower academic achievement and education into adulthood",
+      "title": "Antarctic surface melt could jump tenfold this century as warming spreads south",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Thu, 11 Jun 2026 19:00:03 EDT",
-      "summary": "Can your behavior in third grade predict outcomes in high school and beyond? A new study, published in Developmental Psychology, says yes.",
-      "url": "https://phys.org/news/2026-06-grade-impulses-linked-academic-adulthood.html"
+      "date": "Fri, 12 Jun 2026 08:40:03 EDT",
+      "summary": "New research shows surface melting across Antarctica is set to intensify and spread dramatically over the 21st century, with melt increasing 10-fold and the affected area growing by more than 10% by 2100 if global temperatures continue to rise.",
+      "url": "https://phys.org/news/2026-06-antarctic-surface-tenfold-century-south.html"
     },
     {
       "category": "Science",
-      "title": "Ancient DNA from Tuscan wells reveals origins of modern wine",
+      "title": "Can the cataclysmic explosions of dying stars help unlock grand mysteries of the universe?",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Thu, 11 Jun 2026 19:00:01 EDT",
-      "summary": "Scientists analyzing 2,000-year-old grape seeds from ancient wells in Tuscany have mapped the most extensive genetic history of ancient grapevines recovered from a single site.",
-      "url": "https://phys.org/news/2026-06-ancient-dna-tuscan-wells-reveals.html"
+      "date": "Fri, 12 Jun 2026 08:20:03 EDT",
+      "summary": "Once charted as a 'guest star' in ancient China, dreaded as a harbinger of ill omens in medieval Europe, and preserved in the narratives and artworks of Indigenous cultures, these cosmic spectacles are now known as core-collapse supernovae.",
+      "url": "https://phys.org/news/2026-06-cataclysmic-explosions-dying-stars-grand.html"
     },
     {
       "category": "Science",
-      "title": "Quantum friction causes light to slow down nanoworld movements",
+      "title": "'Puffy' super-Neptune emerges 383 light-years away with a density of just 0.4 g/cm³",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Thu, 11 Jun 2026 18:50:01 EDT",
-      "summary": "A research team in Bochum, Germany has unexpectedly found that light can slow down movements in the nanoworld. This is due to quantum friction, a phenomenon that has been poorly understood until now. The findings are published in the journal Nature.",
-      "url": "https://phys.org/news/2026-06-quantum-friction-nanoworld-movements.html"
+      "date": "Fri, 12 Jun 2026 08:00:04 EDT",
+      "summary": "Using the Subaru Telescope, astronomers have conducted follow-up observations of a recently discovered exoplanet known as TOI-1883 b. Results of the new observations, published June 5 on the arXiv preprint server, indicate that TOI-1883 b is a low-density super-Neptune.",
+      "url": "https://phys.org/news/2026-06-puffy-super-neptune-emerges-years.html"
     },
     {
       "category": "AI",
-      "title": "OpenAI Prepping for On-Prem Product?",
+      "title": "Maxproof",
       "source": "Hacker News: Front Page",
-      "date": "Thu, 11 Jun 2026 22:28:01 +0000",
-      "summary": "Article URL: https://ledger.somantix.ai/posts/open-ai-lays-groundwork-for-on-prem-product/\nComments URL: https://news.ycombinator.com/item?id=48497260\nPoints: 6\n# Comments: 1",
-      "url": "https://ledger.somantix.ai/posts/open-ai-lays-groundwork-for-on-prem-product/"
+      "date": "Fri, 12 Jun 2026 12:00:02 +0000",
+      "summary": "Article URL: https://arxiv.org/abs/2606.13473\nComments URL: https://news.ycombinator.com/item?id=48503014\nPoints: 16\n# Comments: 0",
+      "url": "https://arxiv.org/abs/2606.13473"
+    },
+    {
+      "category": "Space",
+      "title": " My quiet obsession with satellites — and how they're ruining everything ",
+      "source": " Latest from Space.com ",
+      "date": "Fri, 12 Jun 2026 12:00:00 +0000",
+      "summary": "From ruined photos to vanishing darkness, satellites are transforming the night sky — and not always for the better.",
+      "url": "https://www.space.com/stargazing/my-quiet-obsession-with-satellites-and-how-theyre-ruining-everything"
     },
     {
       "category": "AI",
-      "title": "The unreasonable effectiveness of simple HTML",
-      "source": "Hacker News: Front Page",
-      "date": "Thu, 11 Jun 2026 22:17:08 +0000",
-      "summary": "Article URL: https://shkspr.mobi/blog/2021/01/the-unreasonable-effectiveness-of-simple-html/\nComments URL: https://news.ycombinator.com/item?id=48497168\nPoints: 29\n# Comments: 5",
-      "url": "https://shkspr.mobi/blog/2021/01/the-unreasonable-effectiveness-of-simple-html/"
+      "title": "Cameras, sensors, and 3D body scans: All the tech helping eliminate blown calls",
+      "source": "Ars Technica - All content",
+      "date": "Fri, 12 Jun 2026 11:45:18 +0000",
+      "summary": "This World Cup, refs will use digital twins of each player to view plays from every angle.",
+      "url": "https://arstechnica.com/gadgets/2026/06/cameras-sensors-and-3d-body-scans-all-the-tech-helping-eliminate-blown-calls/"
+    },
+    {
+      "category": "Space",
+      "title": "Hubble Sees Swarm of Galaxies",
+      "source": "NASA",
+      "date": "Fri, 12 Jun 2026 11:34:50 +0000",
+      "summary": "Looking somewhat like a swarm of bees returning to their hive, this NASA Hubble Space Telescope image features the galaxy cluster MACS0329-0211.",
+      "url": "https://science.nasa.gov/missions/hubble/hubble-sees-swarm-of-galaxies/"
     },
     {
       "category": "AI",
-      "title": "Show HN: FablePool – pool money behind a prompt, and Fable builds it in public",
+      "title": "Ebola cases in DRC rise to 676 as Kenya protests erupt over US plans",
+      "source": "Ars Technica - All content",
+      "date": "Fri, 12 Jun 2026 11:30:23 +0000",
+      "summary": "Outbreak responses are still playing catch-up as US works to isolate itself.",
+      "url": "https://arstechnica.com/health/2026/06/ebola-cases-in-drc-rise-to-676-as-kenya-protests-erupt-over-us-plans/"
+    },
+    {
+      "category": "AI",
+      "title": "David Hockney, Who Restored the Human Form to Art, Dies at 88",
       "source": "Hacker News: Front Page",
-      "date": "Thu, 11 Jun 2026 21:17:30 +0000",
-      "summary": "Article URL: https://fablepool.com\nComments URL: https://news.ycombinator.com/item?id=48496539\nPoints: 116\n# Comments: 46",
-      "url": "https://fablepool.com"
+      "date": "Fri, 12 Jun 2026 11:26:54 +0000",
+      "summary": "Article URL: https://www.nytimes.com/2026/06/12/arts/design/david-hockney-dead.html\nComments URL: https://news.ycombinator.com/item?id=48502730\nPoints: 36\n# Comments: 4",
+      "url": "https://www.nytimes.com/2026/06/12/arts/design/david-hockney-dead.html"
+    },
+    {
+      "category": "AI",
+      "title": "Pokémon Go players unwittingly contributed to tech with military drone uses",
+      "source": "Ars Technica - All content",
+      "date": "Fri, 12 Jun 2026 11:15:41 +0000",
+      "summary": "The repurposing of Pokémon Go data for AI training continues to draw scrutiny.",
+      "url": "https://arstechnica.com/ai/2026/06/pokemon-go-players-unwittingly-contributed-to-tech-with-military-drone-uses/"
+    },
+    {
+      "category": "AI",
+      "title": "Ryanair dark UX patterns summer 2026 refresher",
+      "source": "Hacker News: Front Page",
+      "date": "Fri, 12 Jun 2026 11:11:42 +0000",
+      "summary": "Article URL: https://blog.osull.com/2026/06/12/ryanair-dark-ux-patterns-summer-2026-refresher/\nComments URL: https://news.ycombinator.com/item?id=48502601\nPoints: 85\n# Comments: 56",
+      "url": "https://blog.osull.com/2026/06/12/ryanair-dark-ux-patterns-summer-2026-refresher/"
+    },
+    {
+      "category": "Biblical Studies",
+      "title": "Did the Euphrates Originally Empty into the Mediterranean?",
+      "source": "Biblical Archaeology Society",
+      "date": "Fri, 12 Jun 2026 10:45:49 +0000",
+      "summary": "The Euphrates River was one of the great arteries of the ancient Near East. Flowing from modern-day Turkey through Syria and Iraq before joining the […]\nThe post Did the Euphrates Originally Empty into the Mediterranean? appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-near-eastern-world/did-the-euphrates-originally-empty-into-the-mediterranean/"
+    },
+    {
+      "category": "Science",
+      "title": " These patients' hearts stopped a dozen times a day. An innovative procedure has transformed their lives. ",
+      "source": " Latest from Live Science ",
+      "date": "Fri, 12 Jun 2026 10:00:00 +0000",
+      "summary": "People with a rare condition experience \"pauses\" in their heart beat that cause them to faint. A new procedure could change their lives, research suggests.",
+      "url": "https://www.livescience.com/health/heart-circulation/these-patients-hearts-stopped-a-dozen-times-a-day-an-innovative-procedure-has-transformed-their-lives"
+    },
+    {
+      "category": "Space",
+      "title": " SpaceX to go public with a mind-bogglingly historic IPO today. The space industry may never be the same. ",
+      "source": " Latest from Space.com ",
+      "date": "Fri, 12 Jun 2026 10:00:00 +0000",
+      "summary": "With the launch of SpaceX into the IPO frontier today, the space industry has its newest publicly traded juggernaut.",
+      "url": "https://www.space.com/space-exploration/private-spaceflight/spacex-to-go-public-with-a-mind-bogglingly-historic-ipo-today-the-space-industry-may-never-be-the-same"
+    },
+    {
+      "category": "Theology",
+      "title": "The Woman at the Well (TGC Classic)",
+      "source": "The Gospel Coalition",
+      "date": "Fri, 12 Jun 2026 04:04:00 +0000",
+      "summary": "In this TGC Classic message recorded at our 2019 National Conference, H. B. Charles preaches on the conversation between Jesus and the Samaritan woman in John 4.",
+      "url": "https://www.thegospelcoalition.org/podcasts/tgc-podcast/woman-well-classic/"
+    },
+    {
+      "category": "Theology",
+      "title": "Did the Father Really Forsake the Son?",
+      "source": "The Gospel Coalition",
+      "date": "Fri, 12 Jun 2026 04:02:00 +0000",
+      "summary": "Whatever happens to either Christ’s human or divine natures happens to the person.",
+      "url": "https://www.thegospelcoalition.org/article/did-father-forsake-son/"
+    },
+    {
+      "category": "Space",
+      "title": "World Cup Fever in Guadalajara",
+      "source": "NASA",
+      "date": "Fri, 12 Jun 2026 04:01:00 +0000",
+      "summary": "The city’s metro area has pushed westward since it last hosted World Cup matches in 1986, expanding across a landscape shaped by ancient volcanoes.",
+      "url": "https://science.nasa.gov/earth/earth-observatory/world-cup-fever-in-guadalajara/"
+    },
+    {
+      "category": "AI",
+      "title": "How Preply combines AI and human tutors to personalize learning",
+      "source": "OpenAI News",
+      "date": "Fri, 12 Jun 2026 00:00:00 GMT",
+      "summary": "Preply uses OpenAI to launch AI-generated lesson summaries, providing personalised feedback and language learning exercises.",
+      "url": "https://openai.com/index/preply"
+    },
+    {
+      "category": "Space",
+      "title": "NASA Award Boosts Space Technology Research Capabilities",
+      "source": "NASA",
+      "date": "Thu, 11 Jun 2026 21:14:44 +0000",
+      "summary": "NASA is introducing a new funding opportunity to accelerate academic research and technology development. The Minority University Research and Education Project Space Technology Artemis Research (M‑STAR) application window opened Thursday and will remain open through 11:59 p.m. EDT on Tuesday, Aug. 11. The research funded through this award supports the agency’s priorities for exploring the […]",
+      "url": "https://www.nasa.gov/learning-resources/stem-engagement-at-nasa/murep/nasa-award-boosts-space-technology-research-capabilities/"
     },
     {
       "category": "Science",
@@ -67,60 +171,12 @@
       "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-17-44-b1071-vsfb-ocisly"
     },
     {
-      "category": "AI",
-      "title": "Ted Cruz and Ron Wyden try to fight censorship with bipartisan JAWBONE Act",
-      "source": "Ars Technica - All content",
-      "date": "Thu, 11 Jun 2026 19:31:37 +0000",
-      "summary": "Cruz/Wyden bill would help Americans sue federal officials over censorship.",
-      "url": "https://arstechnica.com/tech-policy/2026/06/ted-cruz-and-ron-wyden-try-to-fight-censorship-with-bipartisan-jawbone-act/"
-    },
-    {
-      "category": "AI",
-      "title": "AcuRite admits new app falls short, delays old app’s May shutdown to fix problems",
-      "source": "Ars Technica - All content",
-      "date": "Thu, 11 Jun 2026 19:08:54 +0000",
-      "summary": "The old app \"still needs to be retired,\" AcuRite tells us.",
-      "url": "https://arstechnica.com/gadgets/2026/06/iot-gadget-firm-acurite-delays-forced-app-migration-due-to-new-apps-shortfalls/"
-    },
-    {
-      "category": "Space",
-      "title": " James Webb Space Telescope discovers 'galaxy-killing' wind that may explain why some early galaxies lived fast and died young ",
-      "source": " Latest from Space.com ",
-      "date": "Thu, 11 Jun 2026 19:00:00 +0000",
-      "summary": "A “galaxy-killing” wind driven by cosmic mergers may explain why many massive galaxies in the early universe stopped forming stars far earlier than expected, according to new JWST and ALMA observations.",
-      "url": "https://www.space.com/astronomy/galaxies/james-webb-space-telescope-discovers-galaxy-killing-wind-that-may-explain-why-some-early-galaxies-lived-fast-and-died-young"
-    },
-    {
       "category": "Science",
       "title": " Earth's underground fungal network is so massive, it would span 10% of the Milky Way, map reveals ",
       "source": " Latest from Live Science ",
       "date": "Thu, 11 Jun 2026 18:46:12 +0000",
       "summary": "The first global map of subterranean fungi networks reveals how massive its reach is worldwide.",
       "url": "https://www.livescience.com/planet-earth/plants/earths-underground-fungal-network-is-so-massive-it-would-span-10-percent-of-the-milky-way-map-reveals"
-    },
-    {
-      "category": "AI",
-      "title": "After nearly breaking, NASA's Deep Space Network \"worked well\" on Artemis II",
-      "source": "Ars Technica - All content",
-      "date": "Thu, 11 Jun 2026 18:34:01 +0000",
-      "summary": "\"Some missions are using more than what their paperwork would say.\"",
-      "url": "https://arstechnica.com/space/2026/06/after-nearly-breaking-nasas-deep-space-network-worked-well-on-artemis-ii/"
-    },
-    {
-      "category": "Science",
-      "title": " Century-old tuberculosis vaccine could help treat diabetes, trials hint. How? ",
-      "source": " Latest from Live Science ",
-      "date": "Thu, 11 Jun 2026 18:15:00 +0000",
-      "summary": "Repeated doses of a tuberculosis vaccine lowered insulin needs in patients with two forms of diabetes, new trial data show. But more research is needed to prove the benefit.",
-      "url": "https://www.livescience.com/health/medicine-drugs/century-old-tuberculosis-vaccine-could-help-treat-diabetes-trials-hint-how"
-    },
-    {
-      "category": "Space",
-      "title": " Don't miss this beautiful 3-planet parade after sunset on June 12 — it won't last long ",
-      "source": " Latest from Space.com ",
-      "date": "Thu, 11 Jun 2026 18:00:00 +0000",
-      "summary": "Mercury, Venus and Jupiter will form a striking 3-planet parade low above the western horizon after sunset on June 12, offering a brief but beautiful show.",
-      "url": "https://www.space.com/stargazing/a-beautiful-3-planet-parade-will-shine-after-sunset-on-june-12-but-youll-have-to-be-quick-to-catch-it"
     },
     {
       "category": "Science",
@@ -187,22 +243,6 @@
       "url": "https://www.thegospelcoalition.org/article/on-my-shelf-joseph-sherrard/"
     },
     {
-      "category": "Theology",
-      "title": "Why Hot Takes Are the Enemy of Conviction",
-      "source": "The Gospel Coalition",
-      "date": "Thu, 11 Jun 2026 04:00:00 +0000",
-      "summary": "We’re people whose attention has been trained, hour by hour, to believe that something more interesting is always happening somewhere else.",
-      "url": "https://www.thegospelcoalition.org/article/forgotten-how-stay-convicted/"
-    },
-    {
-      "category": "AI",
-      "title": "OpenAI to acquire Ona",
-      "source": "OpenAI News",
-      "date": "Thu, 11 Jun 2026 00:00:00 GMT",
-      "summary": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
-      "url": "https://openai.com/index/openai-to-acquire-ona"
-    },
-    {
       "category": "AI",
       "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem ",
       "source": "OpenAI News",
@@ -212,27 +252,11 @@
     },
     {
       "category": "AI",
-      "title": "How an astrophysicist uses Codex to help simulate black holes",
+      "title": "BBVA puts AI at the core of banking with OpenAI",
       "source": "OpenAI News",
       "date": "Thu, 11 Jun 2026 00:00:00 GMT",
-      "summary": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.",
-      "url": "https://openai.com/index/using-codex-to-simulate-black-holes"
-    },
-    {
-      "category": "Theology",
-      "title": "‘Disclosure Day’ and Spielberg’s Judeo-Christian Alien Myths",
-      "source": "The Gospel Coalition",
-      "date": "Wed, 10 Jun 2026 17:50:00 +0000",
-      "summary": "Steven Spielberg’s latest sci-fi blockbuster finds biblical resonance in alien tropes.",
-      "url": "https://www.thegospelcoalition.org/article/disclosure-day-christian-movie-review/"
-    },
-    {
-      "category": "Biblical Studies",
-      "title": "The Dead Cities of Christian Syria",
-      "source": "Biblical Archaeology Society",
-      "date": "Wed, 10 Jun 2026 10:45:27 +0000",
-      "summary": "“Nestled amid the hills and valleys of the rugged limestone highlands of the Aleppo Plateau in northwest Syria stand the remains of ancient towns and […]\nThe post The Dead Cities of Christian Syria appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/daily/archaeology-today/cultural-heritage/the-dead-cities-of-christian-syria/"
+      "summary": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
+      "url": "https://openai.com/index/bbva"
     },
     {
       "category": "History",
@@ -265,30 +289,6 @@
       "date": "Thu, 11 Apr 2024 13:08:00 +0000",
       "summary": ".image-13796819 {\n\tmax-height: 100%;\n\t--left: 40.91%;\n\t--top: 52.46%;\n\t} \n\tIn 2019 Will Grant embarked on a 142-day, 2,000-mile horseback journey from the Pony Express stables in St. Joseph, Mo., to trail’s end in Sacramento, Calif.",
       "url": "https://historynet.com/pony-express-ride-will-grant/"
-    },
-    {
-      "category": "Theology",
-      "title": "Expanding Reach of the 9Marks Journal",
-      "source": "9Marks",
-      "date": "Tue, 28 Aug 2018 14:20:11 +0000",
-      "summary": "Published quarterly, the 9Marks Journal features articles from pastors and for pastors. It focuses on a single topic—like  preaching, pastoral burnout, church discipline, the Reformation—and seeks to provide enlightening and encouraging instruction. And by God’s grace, it appears our journal is gaining traction. We released our summer edition—“Pastoral Burnout: Its Causes & Cures”—on July 17. Since then, it’s received over 15,000 views […]\nThe post Expanding Reach of the 9Marks Journal appeared first on 9Marks.",
-      "url": "https://www.9marks.org/2018/08/expanding-reach-of-the-9marks-journal/?utm_source=rss&utm_medium=rss&utm_campaign=expanding-reach-of-the-9marks-journal"
-    },
-    {
-      "category": "Theology",
-      "title": "Building Healthy Churches in Sub-Saharan Africa",
-      "source": "9Marks",
-      "date": "Tue, 28 Aug 2018 14:15:43 +0000",
-      "summary": "All across the great continent of Africa, men and women are coming to Christ. That’s what the reports say—and that’s what our friends on the ground say, too. This is wonderful news, but it raises some questions: How will they grow? Who will shepherd them? What will protect the gospel and keep them from bad […]\nThe post Building Healthy Churches in Sub-Saharan Africa appeared first on 9Marks.",
-      "url": "https://www.9marks.org/2018/08/building-healthy-churches-in-sub-saharan-africa/?utm_source=rss&utm_medium=rss&utm_campaign=building-healthy-churches-in-sub-saharan-africa"
-    },
-    {
-      "category": "Theology",
-      "title": "International Director’s Summer in Europe | Stay tuned",
-      "source": "9Marks",
-      "date": "Sat, 28 Jul 2018 14:18:28 +0000",
-      "summary": "This summer, our international director Rick Denham spent time with various European partners. Over two months, he traveled to ten countries where he formed new relationships, strengthened old ones, and observed God’s work through many different churches, ministries, and publishers. Dozens of stories could be told, and we’ll try to share just a few of […]\nThe post International Director’s Summer in Europe | Stay tuned appeared first on 9Marks.",
-      "url": "https://www.9marks.org/2018/07/international-directors-summer-in-europe-2/?utm_source=rss&utm_medium=rss&utm_campaign=international-directors-summer-in-europe-2"
     }
   ]
 }
