@@ -1,54 +1,62 @@
 {
-  "lastUpdated": "2026-06-13T17:15:17.961Z",
-  "articleCount": 36,
+  "lastUpdated": "2026-06-13T22:57:20.185Z",
+  "articleCount": 39,
   "articles": [
     {
       "category": "Science",
-      "title": "Fusion reactors could be monitored for covert plutonium production",
+      "title": "Ocean monitoring is in trouble: It's up to Europe and Asia to avoid losing sight of the world's deep‑sea ecosystems",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Sat, 13 Jun 2026 13:00:03 EDT",
-      "summary": "In the next few decades, many physicists are hopeful that nuclear fusion could become a realistic source of practically limitless energy. But before this can happen, it will be critical to ensure that reactors cannot be covertly misused to produce materials for nuclear weapons.",
-      "url": "https://phys.org/news/2026-06-fusion-reactors-covert-plutonium-production.html"
+      "date": "Sat, 13 Jun 2026 18:30:05 EDT",
+      "summary": "The world relies on a modest number of countries to keep watch over the ocean. That arrangement is starting to fail. Europe and Asia must now decide whether to let the system unravel, or to take it up together.",
+      "url": "https://phys.org/news/2026-06-ocean-europe-asia-sight-world.html"
     },
     {
       "category": "Science",
-      "title": "Supercomputer illuminates subatomic particle that helps hold matter together",
+      "title": "Could leaves help feed humanity after disaster?",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Sat, 13 Jun 2026 13:00:02 EDT",
-      "summary": "A team of researchers has leveraged a supercomputer at the U.S. Department of Energy's (DOE) Argonne National Laboratory to reveal the internal structure of a pion in unprecedented detail. The findings are published in the Journal of High Energy Physics.",
-      "url": "https://phys.org/news/2026-06-supercomputer-illuminates-subatomic-particle.html"
-    },
-    {
-      "category": "AI",
-      "title": "The adder at the heart of Intel's 8087 floating-point chip",
-      "source": "Hacker News: Front Page",
-      "date": "Sat, 13 Jun 2026 16:49:42 +0000",
-      "summary": "Article URL: https://www.righto.com/2026/06/intel-8087-adder-reverse-engineered.html\nComments URL: https://news.ycombinator.com/item?id=48519011\nPoints: 4\n# Comments: 1",
-      "url": "https://www.righto.com/2026/06/intel-8087-adder-reverse-engineered.html"
-    },
-    {
-      "category": "AI",
-      "title": "AI Coding at Home Without Going Broke",
-      "source": "Hacker News: Front Page",
-      "date": "Sat, 13 Jun 2026 16:45:03 +0000",
-      "summary": "Article URL: https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/\nComments URL: https://news.ycombinator.com/item?id=48518969\nPoints: 12\n# Comments: 3",
-      "url": "https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/"
+      "date": "Sat, 13 Jun 2026 17:00:04 EDT",
+      "summary": "UC researchers are investigating whether leaf protein and sugar extracted from plant fiber could help sustain people if major global shocks disrupt food production. Te Whare Wānanga o Waitaha | University of Canterbury (UC) Associate Professor David Denkenberger, who has spent more than a decade studying food resilience in extreme scenarios, says the work is part of a broader effort to identify practical ways to prevent mass starvation if global food systems are severely disrupted.",
+      "url": "https://phys.org/news/2026-06-humanity-disaster.html"
     },
     {
       "category": "Science",
-      "title": "As wildfires increase in the West, so does suppression spending",
+      "title": "Dogs and humans are more alike than we thought, study finds",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Sat, 13 Jun 2026 12:30:02 EDT",
-      "summary": "Hotter, drier conditions in the western United States have led to a rise in wildfire activity that has damaged or destroyed infrastructure, natural ecosystems and entire towns across the region. As fires grow larger and more destructive, the cost of managing them rises as well.",
-      "url": "https://phys.org/news/2026-06-wildfires-west-suppression.html"
+      "date": "Sat, 13 Jun 2026 17:00:02 EDT",
+      "summary": "The same biological signals that help predict lifespan in humans also appear in dogs, according to new research from the Dog Aging Project—a finding that could help scientists better understand aging in both species.",
+      "url": "https://phys.org/news/2026-06-dogs-humans-alike-thought.html"
     },
     {
       "category": "AI",
-      "title": "GLM 5.2 Is Out",
+      "title": "Police officer investigated for using AI to 'create evidence' in multiple cases",
       "source": "Hacker News: Front Page",
-      "date": "Sat, 13 Jun 2026 16:18:31 +0000",
-      "summary": "Article URL: https://digg.com/tech/ii9xibgn\nComments URL: https://news.ycombinator.com/item?id=48518684\nPoints: 20\n# Comments: 3",
-      "url": "https://digg.com/tech/ii9xibgn"
+      "date": "Sat, 13 Jun 2026 19:54:55 +0000",
+      "summary": "Article URL: https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661\nComments URL: https://news.ycombinator.com/item?id=48520807\nPoints: 115\n# Comments: 38",
+      "url": "https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661"
+    },
+    {
+      "category": "AI",
+      "title": "What Happens to an Economy When It's Too Hot to Work?",
+      "source": "Hacker News: Front Page",
+      "date": "Sat, 13 Jun 2026 18:35:15 +0000",
+      "summary": "Article URL: https://www.bloomberg.com/news/features/2026-06-12/india-s-extreme-heat-is-hurting-its-economy-and-workers\nComments URL: https://news.ycombinator.com/item?id=48520110\nPoints: 66\n# Comments: 24",
+      "url": "https://www.bloomberg.com/news/features/2026-06-12/india-s-extreme-heat-is-hurting-its-economy-and-workers"
+    },
+    {
+      "category": "AI",
+      "title": "Running DOS on Behringers DDX3216 with a DIY x86-Bios from Scratch",
+      "source": "Hacker News: Front Page",
+      "date": "Sat, 13 Jun 2026 18:32:22 +0000",
+      "summary": "Article URL: https://chrisdevblog.com/2026/06/08/running-dos-on-behringers-ddx3216-using-a-diy-x86-bios/\nComments URL: https://news.ycombinator.com/item?id=48520080\nPoints: 60\n# Comments: 10",
+      "url": "https://chrisdevblog.com/2026/06/08/running-dos-on-behringers-ddx3216-using-a-diy-x86-bios/"
+    },
+    {
+      "category": "AI",
+      "title": "Review: Disclosure Day is big on action, light on ideas",
+      "source": "Ars Technica - All content",
+      "date": "Sat, 13 Jun 2026 17:17:44 +0000",
+      "summary": "There's nothing new or surprising, but it's still an entertaining film from one of our greatest directors.",
+      "url": "https://arstechnica.com/culture/2026/06/review-disclosure-day-is-big-on-action-light-on-ideas/"
     },
     {
       "category": "Science",
@@ -145,14 +153,6 @@
       "date": "Sat, 13 Jun 2026 03:00:34 +0000",
       "summary": "Commerce dept. worries that a Fable 5 \"jailbreak\" could be a national security threat.",
       "url": "https://arstechnica.com/ai/2026/06/anthropic-shuts-down-fable-mythos-models-following-trump-admin-directive/"
-    },
-    {
-      "category": "AI",
-      "title": "SpaceX is now a public company valued for its AI potential, so what comes next?",
-      "source": "Ars Technica - All content",
-      "date": "Fri, 12 Jun 2026 22:20:06 +0000",
-      "summary": "As of today, SpaceX is owned by investors who will want to see it make money.",
-      "url": "https://arstechnica.com/space/2026/06/spacex-is-now-a-public-company-valued-for-its-ai-potential-so-what-comes-next/"
     },
     {
       "category": "Space",
@@ -289,6 +289,30 @@
       "date": "Thu, 11 Apr 2024 13:08:00 +0000",
       "summary": ".image-13796819 {\n\tmax-height: 100%;\n\t--left: 40.91%;\n\t--top: 52.46%;\n\t} \n\tIn 2019 Will Grant embarked on a 142-day, 2,000-mile horseback journey from the Pony Express stables in St. Joseph, Mo., to trail’s end in Sacramento, Calif.",
       "url": "https://historynet.com/pony-express-ride-will-grant/"
+    },
+    {
+      "category": "Theology",
+      "title": "Expanding Reach of the 9Marks Journal",
+      "source": "9Marks",
+      "date": "Tue, 28 Aug 2018 14:20:11 +0000",
+      "summary": "Published quarterly, the 9Marks Journal features articles from pastors and for pastors. It focuses on a single topic—like  preaching, pastoral burnout, church discipline, the Reformation—and seeks to provide enlightening and encouraging instruction. And by God’s grace, it appears our journal is gaining traction. We released our summer edition—“Pastoral Burnout: Its Causes & Cures”—on July 17. Since then, it’s received over 15,000 views […]\nThe post Expanding Reach of the 9Marks Journal appeared first on 9Marks.",
+      "url": "https://www.9marks.org/2018/08/expanding-reach-of-the-9marks-journal/?utm_source=rss&utm_medium=rss&utm_campaign=expanding-reach-of-the-9marks-journal"
+    },
+    {
+      "category": "Theology",
+      "title": "Building Healthy Churches in Sub-Saharan Africa",
+      "source": "9Marks",
+      "date": "Tue, 28 Aug 2018 14:15:43 +0000",
+      "summary": "All across the great continent of Africa, men and women are coming to Christ. That’s what the reports say—and that’s what our friends on the ground say, too. This is wonderful news, but it raises some questions: How will they grow? Who will shepherd them? What will protect the gospel and keep them from bad […]\nThe post Building Healthy Churches in Sub-Saharan Africa appeared first on 9Marks.",
+      "url": "https://www.9marks.org/2018/08/building-healthy-churches-in-sub-saharan-africa/?utm_source=rss&utm_medium=rss&utm_campaign=building-healthy-churches-in-sub-saharan-africa"
+    },
+    {
+      "category": "Theology",
+      "title": "International Director’s Summer in Europe | Stay tuned",
+      "source": "9Marks",
+      "date": "Sat, 28 Jul 2018 14:18:28 +0000",
+      "summary": "This summer, our international director Rick Denham spent time with various European partners. Over two months, he traveled to ten countries where he formed new relationships, strengthened old ones, and observed God’s work through many different churches, ministries, and publishers. Dozens of stories could be told, and we’ll try to share just a few of […]\nThe post International Director’s Summer in Europe | Stay tuned appeared first on 9Marks.",
+      "url": "https://www.9marks.org/2018/07/international-directors-summer-in-europe-2/?utm_source=rss&utm_medium=rss&utm_campaign=international-directors-summer-in-europe-2"
     }
   ]
 }
