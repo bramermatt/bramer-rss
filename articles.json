@@ -1,30 +1,102 @@
 {
-  "lastUpdated": "2026-06-12T23:10:19.199Z",
-  "articleCount": 39,
+  "lastUpdated": "2026-06-13T11:50:03.971Z",
+  "articleCount": 36,
   "articles": [
     {
       "category": "Science",
-      "title": "Solar geoengineering could shield up to 75% of oceans from heat waves",
+      "title": " Science news this week: El Niño arrives, the Artemis III crew are revealed, a 'cold blob' expands across the Atlantic, and a forgotten note from Richard Feynman gets deciphered ",
+      "source": " Latest from Live Science ",
+      "date": "Sat, 13 Jun 2026 11:00:00 +0000",
+      "summary": "June 13, 2026: Our weekly roundup of the latest science in the news, as well as a few fascinating articles to keep you entertained over the weekend",
+      "url": "https://www.livescience.com/planet-earth/science-news-this-week-el-nino-arrives-the-artemis-iii-crew-are-revealed-a-cold-blob-expands-across-the-atlantic-and-a-forgotten-note-from-richard-feynman-gets-deciphered"
+    },
+    {
+      "category": "Science",
+      "title": "AI sorts cell droplets into four shapes, uncovering drug effects in human cells",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Fri, 12 Jun 2026 18:40:01 EDT",
-      "summary": "Most people have experienced a heat wave on land. But heat waves can strike in the ocean too. And as the planet continues to warm, marine heat waves are growing longer and deadlier, hurting the seafood supply that billions of people worldwide rely on for their food and livelihoods.",
-      "url": "https://phys.org/news/2026-06-solar-geoengineering-shield-oceans.html"
+      "date": "Sat, 13 Jun 2026 06:20:01 EDT",
+      "summary": "Researchers at Princeton University have harnessed AI to understand how drugs affect the dynamics of vital structures within the cell, introducing a tool that can map the shape of these structures to functional outcomes and shed light on important markers of health.",
+      "url": "https://phys.org/news/2026-06-ai-cell-droplets-uncovering-drug.html"
+    },
+    {
+      "category": "Science",
+      "title": "SpaceX: Five key moments, from first launch to Starship megarocket",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sat, 13 Jun 2026 06:14:54 EDT",
+      "summary": "More than 20 years after its founding, SpaceX made history Friday with its record-high stock market debut, crowning a unique journey marked by dazzling successes but also catastrophic failures and unfulfilled promises.",
+      "url": "https://phys.org/news/2026-06-spacex-key-moments-starship-megarocket.html"
+    },
+    {
+      "category": "Space",
+      "title": " How Japanese scientists sent a real-life Transformer to the moon ",
+      "source": " Latest from Space.com ",
+      "date": "Sat, 13 Jun 2026 10:00:00 +0000",
+      "summary": "An autonomous rolling rover that was able to transform from a sphere into a robot successfully explored a small part of the moon in 2024.",
+      "url": "https://www.space.com/astronomy/moon/how-japanese-scientists-sent-a-real-life-transformer-to-the-moon"
     },
     {
       "category": "AI",
-      "title": "Twenty One Zero-Days in FFmpeg",
+      "title": "Show HN: Paca – Lightweight Jira alternative for human-AI collaboration",
       "source": "Hacker News: Front Page",
-      "date": "Fri, 12 Jun 2026 22:13:29 +0000",
-      "summary": "Article URL: https://depthfirst.com/research/21-zero-days-in-ffmpeg\nComments URL: https://news.ycombinator.com/item?id=48510046\nPoints: 9\n# Comments: 2",
-      "url": "https://depthfirst.com/research/21-zero-days-in-ffmpeg"
+      "date": "Sat, 13 Jun 2026 09:44:25 +0000",
+      "summary": "I built Paca out of pure passion—a free and lightweight Jira alternative written in Go where humans and AI agents work together as equal teammates to plan sprints and assign tasks to each other. It is fully customizable with custom views, fields, and a WASM-based plugin architecture. My team uses it daily for our own development, so it will be continuously maintained and completely free forever\nComments URL: https://news.ycombinator.com/item?id=48515385\nPoints: 27\n# Comments: 10",
+      "url": "https://github.com/Paca-AI/paca"
     },
     {
       "category": "AI",
-      "title": "Renault: Electric motors with no rare earths",
+      "title": "The Fable 5 Jailbreak Shows Why AI Guardrails Alone Are Not Enough",
       "source": "Hacker News: Front Page",
-      "date": "Fri, 12 Jun 2026 22:08:03 +0000",
-      "summary": "Article URL: https://www.renaultgroup.com/en/magazine/energy-and-powertrains/all-about-electric-motors-with-no-rare-earths/\nComments URL: https://news.ycombinator.com/item?id=48510010\nPoints: 8\n# Comments: 0",
-      "url": "https://www.renaultgroup.com/en/magazine/energy-and-powertrains/all-about-electric-motors-with-no-rare-earths/"
+      "date": "Sat, 13 Jun 2026 09:39:57 +0000",
+      "summary": "Article URL: https://www.agilehunt.com/blog/fable-5-jailbreak-ai-guardrails\nComments URL: https://news.ycombinator.com/item?id=48515344\nPoints: 3\n# Comments: 0",
+      "url": "https://www.agilehunt.com/blog/fable-5-jailbreak-ai-guardrails"
+    },
+    {
+      "category": "AI",
+      "title": "A low-carbon computing platform from your retired phones",
+      "source": "Hacker News: Front Page",
+      "date": "Sat, 13 Jun 2026 09:38:32 +0000",
+      "summary": "Article URL: https://research.google/blog/a-low-carbon-computing-platform-from-your-retired-phones/\nComments URL: https://news.ycombinator.com/item?id=48515336\nPoints: 16\n# Comments: 5",
+      "url": "https://research.google/blog/a-low-carbon-computing-platform-from-your-retired-phones/"
+    },
+    {
+      "category": "Science",
+      "title": " Has all the water on Earth been peed before? ",
+      "source": " Latest from Live Science ",
+      "date": "Sat, 13 Jun 2026 09:00:00 +0000",
+      "summary": "Water, water, everywhere … has all of it been peed out at least once?",
+      "url": "https://www.livescience.com/planet-earth/has-all-the-water-on-earth-been-peed-before"
+    },
+    {
+      "category": "Theology",
+      "title": "Do You See?: A Father Reflects on His Son’s Disability.",
+      "source": "The Gospel Coalition",
+      "date": "Sat, 13 Jun 2026 04:00:00 +0000",
+      "summary": "Having a child like mine brings you to a breaking point.",
+      "url": "https://www.thegospelcoalition.org/article/see-father-son-disability/"
+    },
+    {
+      "category": "AI",
+      "title": "Anthropic shuts down Fable, Mythos models following Trump admin directive",
+      "source": "Ars Technica - All content",
+      "date": "Sat, 13 Jun 2026 03:00:34 +0000",
+      "summary": "Commerce dept. worries that a Fable 5 \"jailbreak\" could be a national security threat.",
+      "url": "https://arstechnica.com/ai/2026/06/anthropic-shuts-down-fable-mythos-models-following-trump-admin-directive/"
+    },
+    {
+      "category": "Science",
+      "title": "Lab-grown canine muscle cells offer solution for early therapeutic testing",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Fri, 12 Jun 2026 22:40:01 EDT",
+      "summary": "Before testing new therapies in animals, researchers now have a more efficient starting point—lab-grown canine muscle cells that can help identify what works and what doesn't.",
+      "url": "https://phys.org/news/2026-06-lab-grown-canine-muscle-cells.html"
+    },
+    {
+      "category": "AI",
+      "title": "SpaceX is now a public company valued for its AI potential, so what comes next?",
+      "source": "Ars Technica - All content",
+      "date": "Fri, 12 Jun 2026 22:20:06 +0000",
+      "summary": "As of today, SpaceX is owned by investors who will want to see it make money.",
+      "url": "https://arstechnica.com/space/2026/06/spacex-is-now-a-public-company-valued-for-its-ai-potential-so-what-comes-next/"
     },
     {
       "category": "Space",
@@ -35,44 +107,12 @@
       "url": "https://www.space.com/space-exploration/artemis/ever-have-a-scary-hr-meeting-on-your-calendar-thats-how-the-artemis-3-crew-found-out-their-assignments"
     },
     {
-      "category": "Science",
-      "title": "Gulf Stream shifted north during 12,900-year-old cold snap, first direct evidence shows",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Fri, 12 Jun 2026 16:40:01 EDT",
-      "summary": "During an abrupt global cold snap nearly 13,000 years ago, the Gulf Stream ocean current shifted farther north, temporarily disrupting eastern Canada's oceanic ecosystems, a process that could happen again as the climate changes, a new study by UCL researchers finds.",
-      "url": "https://phys.org/news/2026-06-gulf-stream-shifted-north-year.html"
-    },
-    {
-      "category": "AI",
-      "title": "Palantir loses legal challenge against Swiss investigative magazine",
-      "source": "Hacker News: Front Page",
-      "date": "Fri, 12 Jun 2026 20:39:36 +0000",
-      "summary": "Article URL: https://www.ft.com/content/7ffcace7-9dc0-4e7e-9912-895ac073f979\nComments URL: https://news.ycombinator.com/item?id=48509182\nPoints: 111\n# Comments: 20",
-      "url": "https://www.ft.com/content/7ffcace7-9dc0-4e7e-9912-895ac073f979"
-    },
-    {
       "category": "Space",
       "title": " SpaceX's stock wasn't the company's only launch today — It also put 29 Starlink satellites in orbit ",
       "source": " Latest from Space.com ",
       "date": "Fri, 12 Jun 2026 20:19:22 +0000",
       "summary": "Liftoff of the Falcon 9 rocket occurred at 8:27 a.m. ET, just over an hour before SpaceX went public on the NASDAQ stock market.",
       "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-10-54-b1080-ccsfs-asog"
-    },
-    {
-      "category": "Space",
-      "title": " Japan's H3 rocket bounces back from failure with successful return to flight launch carrying 6 satellites ",
-      "source": " Latest from Space.com ",
-      "date": "Fri, 12 Jun 2026 20:03:04 +0000",
-      "summary": "Japan successfully completed its first mission with its H3 rocket since a launch failure last year resulted in the loss of a payload.",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/japans-h3-rocket-bounces-back-from-failure-with-successful-return-to-flight-launch-carrying-6-satellites"
-    },
-    {
-      "category": "Science",
-      "title": "Jurassic viral gene may have helped apple snails start laying eggs on land",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Fri, 12 Jun 2026 15:40:01 EDT",
-      "summary": "Pomacea canaliculata, commonly known as the apple snail, is a pest commonly found in Hong Kong's wetlands and farmlands. It feeds on aquatic plants and produces toxic pink egg masses resembling miniature grapes that adhere to plants or stone bunds. It is listed by the International Union for Conservation of Nature (IUCN) among 100 of the World's Worst Invasive Alien Species.",
-      "url": "https://phys.org/news/2026-06-jurassic-viral-gene-apple-snails.html"
     },
     {
       "category": "AI",
@@ -83,52 +123,12 @@
       "url": "https://arstechnica.com/security/2026/06/peoplesoft-0-day-affecting-hundreds-of-organizations-steals-gigabytes-of-data/"
     },
     {
-      "category": "AI",
-      "title": "Controversial FISA spying law expires tonight. The spying will continue.",
-      "source": "Ars Technica - All content",
-      "date": "Fri, 12 Jun 2026 18:57:51 +0000",
-      "summary": "Section 702 of FISA to expire tonight, but certification lasts until March 2027.",
-      "url": "https://arstechnica.com/tech-policy/2026/06/controversial-fisa-spying-law-expires-tonight-the-spying-will-continue/"
-    },
-    {
-      "category": "AI",
-      "title": "Here's what Jeff Bezos' new startup Prometheus will do",
-      "source": "Ars Technica - All content",
-      "date": "Fri, 12 Jun 2026 18:45:40 +0000",
-      "summary": "It isn't the only startup tackling physical AI, but it's one of the best-funded.",
-      "url": "https://arstechnica.com/ai/2026/06/heres-what-jeff-bezos-new-startup-prometheus-will-do/"
-    },
-    {
       "category": "Science",
       "title": " World's rarest great ape decimated by 4 days of extreme rain, with 7% of population lost to cyclone ",
       "source": " Latest from Live Science ",
       "date": "Fri, 12 Jun 2026 16:59:05 +0000",
       "summary": "Around 58 of Indonesia's Tapanuli orangutans were crushed or buried alive by landslides brought on by the climate-change-fueled Cyclone Senyar.",
       "url": "https://www.livescience.com/animals/primates/worlds-rarest-great-ape-decimated-by-4-days-of-extreme-rain-with-7-percent-of-population-lost-to-cyclone"
-    },
-    {
-      "category": "Science",
-      "title": " 'I was really amazed': On the edge of the Milky Way, a dwarf galaxy is being ripped in half by its big sibling ",
-      "source": " Latest from Live Science ",
-      "date": "Fri, 12 Jun 2026 16:00:55 +0000",
-      "summary": "A new study shows that the Small Magellanic Cloud is being pulled apart by its larger sibling on the Milky Way's periphery, upending our understanding of our cosmic neighbor.",
-      "url": "https://www.livescience.com/space/astronomy/i-was-really-amazed-on-the-edge-of-the-milky-way-a-dwarf-galaxy-is-being-ripped-in-half-by-its-big-sibling"
-    },
-    {
-      "category": "Space",
-      "title": "NASA to Cover 34th SpaceX Resupply Mission Space Station Departure",
-      "source": "NASA",
-      "date": "Fri, 12 Jun 2026 15:32:54 +0000",
-      "summary": "NASA and its international partners are set to receive scientific research samples and hardware as a SpaceX Dragon spacecraft is scheduled to depart the International Space Station on Tuesday, June 16, for its return to Earth. Watch NASA’s live undocking coverage beginning at 11:45 a.m. EDT on NASA+, Amazon Prime, and the agency’s YouTube channel. […]",
-      "url": "https://www.nasa.gov/news-release/nasa-to-cover-34th-spacex-resupply-mission-space-station-departure/"
-    },
-    {
-      "category": "Space",
-      "title": "Black Eye Galaxy",
-      "source": "NASA",
-      "date": "Fri, 12 Jun 2026 13:59:55 +0000",
-      "summary": "This March 20, 2026, image of Messier 64, or the Black Eye Galaxy, is a composite view from NASA’s Hubble Space Telescope and James Webb Space Telescope. It shows Messier 64 captured at near- and mid-infrared wavelengths by Webb, while Hubble’s image shows the galaxy in ultraviolet, visible, and near-infrared light. Messier 64 is characterized […]",
-      "url": "https://www.nasa.gov/image-article/black-eye-galaxy/"
     },
     {
       "category": "Science",
@@ -147,28 +147,12 @@
       "url": "https://www.sciencedaily.com/releases/2026/06/260612032026.htm"
     },
     {
-      "category": "Space",
-      "title": "Hubble Sees Swarm of Galaxies",
-      "source": "NASA",
-      "date": "Fri, 12 Jun 2026 11:34:50 +0000",
-      "summary": "Looking somewhat like a swarm of bees returning to their hive, this NASA Hubble Space Telescope image features the galaxy cluster MACS0329-0211.",
-      "url": "https://science.nasa.gov/missions/hubble/hubble-sees-swarm-of-galaxies/"
-    },
-    {
       "category": "Biblical Studies",
       "title": "Did the Euphrates Originally Empty into the Mediterranean?",
       "source": "Biblical Archaeology Society",
       "date": "Fri, 12 Jun 2026 10:45:49 +0000",
       "summary": "The Euphrates River was one of the great arteries of the ancient Near East. Flowing from modern-day Turkey through Syria and Iraq before joining the […]\nThe post Did the Euphrates Originally Empty into the Mediterranean? appeared first on Biblical Archaeology Society.",
       "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-near-eastern-world/did-the-euphrates-originally-empty-into-the-mediterranean/"
-    },
-    {
-      "category": "Science",
-      "title": " These patients' hearts stopped a dozen times a day. An innovative procedure has transformed their lives. ",
-      "source": " Latest from Live Science ",
-      "date": "Fri, 12 Jun 2026 10:00:00 +0000",
-      "summary": "People with a rare condition experience \"pauses\" in their heart beat that cause them to faint. A new procedure could change their lives, research suggests.",
-      "url": "https://www.livescience.com/health/heart-circulation/these-patients-hearts-stopped-a-dozen-times-a-day-an-innovative-procedure-has-transformed-their-lives"
     },
     {
       "category": "AI",
@@ -241,14 +225,6 @@
       "date": "Thu, 11 Jun 2026 11:00:12 +0000",
       "summary": "The Siloam Pool has long been considered a sacred Christian site, even if the correct identification of the site itself was uncertain. According to the Gospel of John, it was at the Siloam Pool where Jesus healed the blind man (John 9:1–11).\nThe post The Siloam Pool: Where Jesus Healed the Blind Man appeared first on Biblical Archaeology Society.",
       "url": "https://www.biblicalarchaeology.org/daily/biblical-sites-places/biblical-archaeology-sites/the-siloam-pool-where-jesus-healed-the-blind-man/"
-    },
-    {
-      "category": "Theology",
-      "title": "On My Shelf: Life and Books with Joseph Sherrard",
-      "source": "The Gospel Coalition",
-      "date": "Thu, 11 Jun 2026 04:03:00 +0000",
-      "summary": "Joseph Sherrard talks about what’s on his bedside table, favorite fiction, favorite rereads, and more.",
-      "url": "https://www.thegospelcoalition.org/article/on-my-shelf-joseph-sherrard/"
     },
     {
       "category": "AI",
