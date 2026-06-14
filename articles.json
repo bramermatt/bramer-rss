@@ -1,38 +1,110 @@
 {
-  "lastUpdated": "2026-06-14T11:50:47.037Z",
+  "lastUpdated": "2026-06-14T17:13:01.018Z",
   "articleCount": 39,
   "articles": [
     {
       "category": "Science",
-      "title": "Is 'gender gating' the secret to success in online dating?",
+      "title": "A 5.3-million‑year‑old whale graveyard has been found on the floor of the Indian Ocean",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Sun, 14 Jun 2026 07:45:14 EDT",
-      "summary": "Digital matching platforms—from professional networking to ride-sharing and accommodation services—add value by bringing supply and demand into balance. But deep-seated asymmetries can prove difficult to expunge, causing platforms' functionality and productivity to suffer. This imbalance is common for many dual-matching platforms, including online dating services where men vastly outnumber women.",
-      "url": "https://phys.org/news/2026-06-gender-gating-secret-success-online.html"
+      "date": "Sun, 14 Jun 2026 13:00:01 EDT",
+      "summary": "When a whale dies, a very special natural phenomenon can come alive. The carcass might float at the surface for some time, attracting sharks and other predators. As it becomes weathered, it may start to sink, falling through the water until it eventually settles on the seafloor, where deep-sea scavengers feast upon it.",
+      "url": "https://phys.org/news/2026-06-millionyearold-whale-graveyard-floor-indian.html"
     },
     {
       "category": "Science",
-      "title": " Artemis II crew captures rare double auroras on the dark side of Earth as they zoom toward the moon — Space photo of the week ",
+      "title": "Burned as waste for years, this overlooked plant material is poised to reshape how nylon gets made",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sun, 14 Jun 2026 12:40:01 EDT",
+      "summary": "Most people have seen nylon listed as a material on their clothing tags, but nylon is used in an array of other products, too, including automotive parts, wire insulation and medical supplies. Unfortunately, one of the building blocks of nylon, adipic acid, is produced from petroleum-derived benzene through energy-intensive processes and has a rather high carbon footprint. However, there may be a better way to produce this ubiquitous polymer.",
+      "url": "https://phys.org/news/2026-06-years-overlooked-material-poised-reshape.html"
+    },
+    {
+      "category": "AI",
+      "title": "Swiss voters reject proposal to cap population at ten million",
+      "source": "Hacker News: Front Page",
+      "date": "Sun, 14 Jun 2026 16:28:54 +0000",
+      "summary": "Article URL: https://www.swissinfo.ch/eng/swiss-politics/swiss-voters-reject-proposal-to-cap-population-at-ten-million/91548146\nComments URL: https://news.ycombinator.com/item?id=48529149\nPoints: 28\n# Comments: 2",
+      "url": "https://www.swissinfo.ch/eng/swiss-politics/swiss-voters-reject-proposal-to-cap-population-at-ten-million/91548146"
+    },
+    {
+      "category": "AI",
+      "title": "Did a medieval flying monk spot Halley's comet, twice? It's complicated",
+      "source": "Ars Technica - All content",
+      "date": "Sun, 14 Jun 2026 16:02:53 +0000",
+      "summary": "University of Leicester historian thinks Eilmer of Malmesbury saw two different comets: in 1018 and 1066",
+      "url": "https://arstechnica.com/science/2026/06/did-a-medieval-flying-monk-spot-halleys-comet-twice-its-complicated/"
+    },
+    {
+      "category": "AI",
+      "title": "Linux 7.1",
+      "source": "Hacker News: Front Page",
+      "date": "Sun, 14 Jun 2026 16:01:30 +0000",
+      "summary": "Article URL: https://lore.kernel.org/lkml/CAHk-=wi4BF4bMhZNZ1tqs+FFV4OuZRe3ZqdWB+LxRLmRweUzQw@mail.gmail.com/T/#u\nComments URL: https://news.ycombinator.com/item?id=48528729\nPoints: 25\n# Comments: 0",
+      "url": "https://lore.kernel.org/lkml/CAHk-=wi4BF4bMhZNZ1tqs+FFV4OuZRe3ZqdWB+LxRLmRweUzQw@mail.gmail.com/T/#u"
+    },
+    {
+      "category": "Science",
+      "title": "Researchers publish first complete connectome of fruit fly brain and 'spinal cord'",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sun, 14 Jun 2026 12:00:05 EDT",
+      "summary": "In a first, a large, international team led by multiple labs at Harvard Medical School and Princeton University has published a complete wiring diagram of all the connections between neurons in the central nervous system of an adult fruit fly.",
+      "url": "https://phys.org/news/2026-06-publish-connectome-fruit-fly-brain.html"
+    },
+    {
+      "category": "AI",
+      "title": "Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
+      "source": "Hacker News: Front Page",
+      "date": "Sun, 14 Jun 2026 15:37:31 +0000",
+      "summary": "Article URL: https://github.com/nex-agi/Nex-N2/issues/4\nComments URL: https://news.ycombinator.com/item?id=48528371\nPoints: 44\n# Comments: 22",
+      "url": "https://github.com/nex-agi/Nex-N2/issues/4"
+    },
+    {
+      "category": "Science",
+      "title": " Bow-Wow, Ding-Dong, Pooh-Pooh: Expert explains early theories of how human language evolved — and their silly names ",
       "source": " Latest from Live Science ",
-      "date": "Sun, 14 Jun 2026 10:00:00 +0000",
-      "summary": "The four astronauts on NASA’s Artemis II mission captured more than they bargained for when they photographed the nightside of Earth, right after starting their historic journey to the moon.",
-      "url": "https://www.livescience.com/space/space-exploration/artemis-ii-crew-captures-rare-double-auroras-on-the-dark-side-of-earth-as-they-zoom-toward-the-moon-space-photo-of-the-week"
+      "date": "Sun, 14 Jun 2026 15:00:00 +0000",
+      "summary": "There are many theories as to how human language first evolved. But none completely explains why it happened.",
+      "url": "https://www.livescience.com/archaeology/bow-wow-ding-dong-pooh-pooh-expert-explains-early-theories-of-how-human-language-evolved-and-their-silly-names"
     },
     {
       "category": "Space",
-      "title": " 'We were astonished': Millions of exoplanets could be born near active supermassive black holes ",
+      "title": " Catch Mercury shining at its best on June 15 before it slips back into the sun's glare ",
       "source": " Latest from Space.com ",
-      "date": "Sun, 14 Jun 2026 10:00:00 +0000",
-      "summary": "\"We were totally amazed when we noticed this mass and size range of planet formation.\"",
-      "url": "https://www.space.com/astronomy/exoplanets/we-were-astonished-millions-of-exoplanets-could-be-born-near-active-supermassive-black-holes"
+      "date": "Sun, 14 Jun 2026 15:00:00 +0000",
+      "summary": "Mercury will appear farthest from the sun in its current evening apparition on June 15.",
+      "url": "https://www.space.com/stargazing/catch-mercury-shining-at-its-best-on-june-15-before-it-slips-back-into-the-suns-glare"
+    },
+    {
+      "category": "Space",
+      "title": " How Jules Verne predicted the Artemis 2 mission to the moon almost 160 years ago ",
+      "source": " Latest from Space.com ",
+      "date": "Sun, 14 Jun 2026 14:00:00 +0000",
+      "summary": "Written in the 1860s, Jules Verne’s novels \"From the Earth to the Moon\" and \"All Around the Moon\" were highly speculative fiction in their time, but tell a tale that now seems remarkably familiar: three astronauts in a conical capsule on a free-return trajectory around the moon.",
+      "url": "https://www.space.com/entertainment/how-jules-verne-predicted-the-artemis-2-mission-to-the-moon-almost-160-years-ago"
     },
     {
       "category": "Science",
-      "title": " Do you really have to wash rice before you cook it? ",
+      "title": " Famous child mummies in Andes may belong to kids who were sacrificed to 'ritually anchor' the Inca's presence as their empire expanded ",
       "source": " Latest from Live Science ",
-      "date": "Sun, 14 Jun 2026 09:00:00 +0000",
-      "summary": "Rice is eaten by more than half of the world's population daily. Should everyone be washing it before it's cooked?",
-      "url": "https://www.livescience.com/health/food-drink/do-you-really-have-to-wash-rice-before-you-cook-it"
+      "date": "Sun, 14 Jun 2026 13:00:00 +0000",
+      "summary": "An analysis of corn, cassava and coca plants discovered with sacrificed Inca children reveals they died during the reign of one of the last Inca emperors.",
+      "url": "https://www.livescience.com/archaeology/americas/famous-child-mummies-in-andes-may-belong-to-kids-who-were-sacrificed-to-ritually-anchor-the-incas-presence-as-their-empire-expanded"
+    },
+    {
+      "category": "Space",
+      "title": " New moon of June 2026 brings stunning views of Mercury, Venus and Jupiter ",
+      "source": " Latest from Space.com ",
+      "date": "Sun, 14 Jun 2026 13:00:00 +0000",
+      "summary": "The nights surrounding the new moon on June 14 are the perfect time to hunt for planets and sparkling constellations in the late spring sky.",
+      "url": "https://www.space.com/stargazing/new-moon-of-june-2026-brings-stunning-views-of-mercury-venus-and-jupiter"
+    },
+    {
+      "category": "Science",
+      "title": " Neuroscientists are searching for the 'cellular substrate of loneliness' ",
+      "source": " Latest from Live Science ",
+      "date": "Sun, 14 Jun 2026 12:00:00 +0000",
+      "summary": "Neuroscientists are discovering that spending time with others may be a basic biological necessity, like need for food or water.",
+      "url": "https://www.livescience.com/health/neuroscience/neuroscientists-are-searching-for-the-cellular-substrate-of-loneliness"
     },
     {
       "category": "Science",
@@ -41,30 +113,6 @@
       "date": "Sun, 14 Jun 2026 04:08:31 EDT",
       "summary": "What if some black holes aren’t black holes at all? A new theoretical study suggests that when a massive star collapses, it might not form a singularity hidden behind an event horizon. Instead, the collapse could trigger the birth of a tiny new universe inside the dying star. Driven by dark energy, this miniature cosmos would expand and push back against gravity, preventing complete collapse and creating an exotic object known as a gravastar.",
       "url": "https://www.sciencedaily.com/releases/2026/06/260614011846.htm"
-    },
-    {
-      "category": "AI",
-      "title": "Don't trust large context windows",
-      "source": "Hacker News: Front Page",
-      "date": "Sun, 14 Jun 2026 06:07:09 +0000",
-      "summary": "Article URL: https://garrit.xyz/posts/2026-05-06-dont-trust-large-context-windows\nComments URL: https://news.ycombinator.com/item?id=48524620\nPoints: 127\n# Comments: 91",
-      "url": "https://garrit.xyz/posts/2026-05-06-dont-trust-large-context-windows"
-    },
-    {
-      "category": "AI",
-      "title": "Tribblix: The retro Illumos distribution",
-      "source": "Hacker News: Front Page",
-      "date": "Sun, 14 Jun 2026 05:23:12 +0000",
-      "summary": "Article URL: http://tribblix.org/\nComments URL: https://news.ycombinator.com/item?id=48524434\nPoints: 47\n# Comments: 16",
-      "url": "http://tribblix.org/"
-    },
-    {
-      "category": "AI",
-      "title": "Phoenix LiveView 1.2",
-      "source": "Hacker News: Front Page",
-      "date": "Sun, 14 Jun 2026 04:53:51 +0000",
-      "summary": "Article URL: https://phoenixframework.org/blog/phoenix-liveview-1-2-released\nComments URL: https://news.ycombinator.com/item?id=48524293\nPoints: 135\n# Comments: 37",
-      "url": "https://phoenixframework.org/blog/phoenix-liveview-1-2-released"
     },
     {
       "category": "Science",
@@ -84,27 +132,11 @@
     },
     {
       "category": "Science",
-      "title": "Unique chromium beam experiment unlocks cosmic ray origins and galactic chemistry",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sat, 13 Jun 2026 23:20:01 EDT",
-      "summary": "When a star dies, it generates an explosion of elemental nuclei and hurls them into space. Those elements, called cosmic rays, travel at nearly the speed of light, and eventually some of them encounter manmade detectors. Recording how many of each of these elements show up helps scientists better understand cosmic processes—but despite incredible research advances over the last century, uncertainty around how these elements transform as they travel across the light-years has left fundamental questions about our galaxy's composition unanswered.",
-      "url": "https://phys.org/news/2026-06-unique-chromium-cosmic-ray-galactic.html"
-    },
-    {
-      "category": "Science",
       "title": "Why middle age is becoming a breaking point in the U.S.",
       "source": "All Top News -- ScienceDaily",
       "date": "Sat, 13 Jun 2026 22:24:12 EDT",
       "summary": "A new international study finds that middle-aged Americans are lonelier, more depressed, and experiencing worse memory and health than earlier generations. Researchers say growing financial strain, weaker social supports, and chronic stress may explain why the U.S. is falling behind other wealthy nations.",
       "url": "https://www.sciencedaily.com/releases/2026/06/260613215430.htm"
-    },
-    {
-      "category": "Science",
-      "title": "South African telescope detects record‑breaking signal from the early universe",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sat, 13 Jun 2026 20:30:01 EDT",
-      "summary": "Astronomers using the MeerKAT radio telescope in South Africa have discovered the most distant hydroxyl megamaser ever detected, opening a new radio astronomy frontier. A hydroxyl megamaser is a natural space laser, and this one is located in a violently merging galaxy more than 8 billion light-years away.",
-      "url": "https://phys.org/news/2026-06-south-african-telescope-recordbreaking-early.html"
     },
     {
       "category": "AI",
@@ -113,30 +145,6 @@
       "date": "Sat, 13 Jun 2026 17:17:44 +0000",
       "summary": "There's nothing new or surprising, but it's still an entertaining film from one of our greatest directors.",
       "url": "https://arstechnica.com/culture/2026/06/review-disclosure-day-is-big-on-action-light-on-ideas/"
-    },
-    {
-      "category": "Space",
-      "title": " Millions could see a rare sunset during the total solar eclipse on Aug. 12, 2026. Here's where to look ",
-      "source": " Latest from Space.com ",
-      "date": "Sat, 13 Jun 2026 14:00:00 +0000",
-      "summary": "Plan now to be in the right place at the right time for an unforgettable show.",
-      "url": "https://www.space.com/stargazing/solar-eclipses/millions-could-see-a-rare-sunset-during-the-total-solar-eclipse-on-aug-12-2026-heres-where-to-look"
-    },
-    {
-      "category": "Space",
-      "title": " This Week In Space podcast: Episode 214 — Moon Man ",
-      "source": " Latest from Space.com ",
-      "date": "Sat, 13 Jun 2026 13:52:51 +0000",
-      "summary": "On Episode 214 of This Week In Space, Rod Pyle and Tariq Malik talk with former NASA Administrator Jim Bridenstine about his past and the space agency's future.",
-      "url": "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-214-moon-man"
-    },
-    {
-      "category": "Science",
-      "title": " NASA's experimental X-59 jet breaks sound barrier for 1st time in step toward 'quiet supersonic' technology ",
-      "source": " Latest from Live Science ",
-      "date": "Sat, 13 Jun 2026 13:00:00 +0000",
-      "summary": "NASA and Lockheed Martin's experimental X-59 aircraft has broken the sound barrier, achieving a speed of Mach 1.1. The feat could set the stage for \"quiet\" supersonic flight.",
-      "url": "https://www.livescience.com/space/space-exploration/nasas-experimental-x-59-jet-breaks-sound-barrier-for-1st-time-in-step-toward-quiet-supersonic-technology"
     },
     {
       "category": "AI",
@@ -153,14 +161,6 @@
       "date": "Sat, 13 Jun 2026 04:00:00 +0000",
       "summary": "Having a child like mine brings you to a breaking point.",
       "url": "https://www.thegospelcoalition.org/article/see-father-son-disability/"
-    },
-    {
-      "category": "AI",
-      "title": "Anthropic shuts down Fable, Mythos models following Trump admin directive",
-      "source": "Ars Technica - All content",
-      "date": "Sat, 13 Jun 2026 03:00:34 +0000",
-      "summary": "Commerce dept. worries that a Fable 5 \"jailbreak\" could be a national security threat.",
-      "url": "https://arstechnica.com/ai/2026/06/anthropic-shuts-down-fable-mythos-models-following-trump-admin-directive/"
     },
     {
       "category": "Space",
