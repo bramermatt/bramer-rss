@@ -1,30 +1,54 @@
 {
-  "lastUpdated": "2026-06-14T17:13:01.018Z",
+  "lastUpdated": "2026-06-14T23:01:35.741Z",
   "articleCount": 39,
   "articles": [
     {
       "category": "Science",
-      "title": "A 5.3-million‑year‑old whale graveyard has been found on the floor of the Indian Ocean",
+      "title": "How the invention of glassblowing changed everyday life in ancient Rome",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Sun, 14 Jun 2026 13:00:01 EDT",
-      "summary": "When a whale dies, a very special natural phenomenon can come alive. The carcass might float at the surface for some time, attracting sharks and other predators. As it becomes weathered, it may start to sink, falling through the water until it eventually settles on the seafloor, where deep-sea scavengers feast upon it.",
-      "url": "https://phys.org/news/2026-06-millionyearold-whale-graveyard-floor-indian.html"
-    },
-    {
-      "category": "Science",
-      "title": "Burned as waste for years, this overlooked plant material is poised to reshape how nylon gets made",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sun, 14 Jun 2026 12:40:01 EDT",
-      "summary": "Most people have seen nylon listed as a material on their clothing tags, but nylon is used in an array of other products, too, including automotive parts, wire insulation and medical supplies. Unfortunately, one of the building blocks of nylon, adipic acid, is produced from petroleum-derived benzene through energy-intensive processes and has a rather high carbon footprint. However, there may be a better way to produce this ubiquitous polymer.",
-      "url": "https://phys.org/news/2026-06-years-overlooked-material-poised-reshape.html"
+      "date": "Sun, 14 Jun 2026 18:30:01 EDT",
+      "summary": "We see glass objects every day and often don't think much about them. Mass-produced glass has become so cheap we barely think about the things it allows us to do.",
+      "url": "https://phys.org/news/2026-06-glassblowing-everyday-life-ancient-rome.html"
     },
     {
       "category": "AI",
-      "title": "Swiss voters reject proposal to cap population at ten million",
+      "title": "Did Anthropic Ask for This?",
       "source": "Hacker News: Front Page",
-      "date": "Sun, 14 Jun 2026 16:28:54 +0000",
-      "summary": "Article URL: https://www.swissinfo.ch/eng/swiss-politics/swiss-voters-reject-proposal-to-cap-population-at-ten-million/91548146\nComments URL: https://news.ycombinator.com/item?id=48529149\nPoints: 28\n# Comments: 2",
-      "url": "https://www.swissinfo.ch/eng/swiss-politics/swiss-voters-reject-proposal-to-cap-population-at-ten-million/91548146"
+      "date": "Sun, 14 Jun 2026 22:23:05 +0000",
+      "summary": "Article URL: https://www.verysane.ai/p/did-anthropic-ask-for-this\nComments URL: https://news.ycombinator.com/item?id=48533504\nPoints: 31\n# Comments: 4",
+      "url": "https://www.verysane.ai/p/did-anthropic-ask-for-this"
+    },
+    {
+      "category": "AI",
+      "title": "Why Is Claude Turning into an a**Hole?",
+      "source": "Hacker News: Front Page",
+      "date": "Sun, 14 Jun 2026 22:04:01 +0000",
+      "summary": "Article URL: https://bramcohen.com/p/why-is-claude-turning-into-an-asshole\nComments URL: https://news.ycombinator.com/item?id=48533308\nPoints: 71\n# Comments: 75",
+      "url": "https://bramcohen.com/p/why-is-claude-turning-into-an-asshole"
+    },
+    {
+      "category": "Science",
+      "title": "When less is more: Scaling law explains why ultrathin materials get stronger as they get thinner",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sun, 14 Jun 2026 18:00:01 EDT",
+      "summary": "One of the most fascinating aspects of physics is that nature often behaves in ways that seem completely counterintuitive.  A good example comes from ultrathin materials. If I take a sheet of material and make it thinner and thinner, most people would expect it to become weaker. After all, there is less material left to bear a load.",
+      "url": "https://phys.org/news/2026-06-scaling-law-ultrathin-materials-stronger.html"
+    },
+    {
+      "category": "AI",
+      "title": "Windows 11 users are tired of MS account requirements creeping into everything",
+      "source": "Hacker News: Front Page",
+      "date": "Sun, 14 Jun 2026 21:42:12 +0000",
+      "summary": "Article URL: https://www.windowscentral.com/microsoft/windows-11/windows-11-users-are-tired-of-microsoft-account-requirements-and-workarounds\nComments URL: https://news.ycombinator.com/item?id=48533101\nPoints: 18\n# Comments: 1",
+      "url": "https://www.windowscentral.com/microsoft/windows-11/windows-11-users-are-tired-of-microsoft-account-requirements-and-workarounds"
+    },
+    {
+      "category": "Science",
+      "title": "New tool to help build more reliable DNA nanostructures",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sun, 14 Jun 2026 17:00:05 EDT",
+      "summary": "Scaffolded DNA and RNA origami is a technique that allows scientists to build tiny, highly precise two- and three-dimensional objects. Because these nanostructures can interact naturally with biological systems, they could have important future uses in health care and agritech.",
+      "url": "https://phys.org/news/2026-06-tool-reliable-dna-nanostructures.html"
     },
     {
       "category": "AI",
@@ -33,30 +57,6 @@
       "date": "Sun, 14 Jun 2026 16:02:53 +0000",
       "summary": "University of Leicester historian thinks Eilmer of Malmesbury saw two different comets: in 1018 and 1066",
       "url": "https://arstechnica.com/science/2026/06/did-a-medieval-flying-monk-spot-halleys-comet-twice-its-complicated/"
-    },
-    {
-      "category": "AI",
-      "title": "Linux 7.1",
-      "source": "Hacker News: Front Page",
-      "date": "Sun, 14 Jun 2026 16:01:30 +0000",
-      "summary": "Article URL: https://lore.kernel.org/lkml/CAHk-=wi4BF4bMhZNZ1tqs+FFV4OuZRe3ZqdWB+LxRLmRweUzQw@mail.gmail.com/T/#u\nComments URL: https://news.ycombinator.com/item?id=48528729\nPoints: 25\n# Comments: 0",
-      "url": "https://lore.kernel.org/lkml/CAHk-=wi4BF4bMhZNZ1tqs+FFV4OuZRe3ZqdWB+LxRLmRweUzQw@mail.gmail.com/T/#u"
-    },
-    {
-      "category": "Science",
-      "title": "Researchers publish first complete connectome of fruit fly brain and 'spinal cord'",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sun, 14 Jun 2026 12:00:05 EDT",
-      "summary": "In a first, a large, international team led by multiple labs at Harvard Medical School and Princeton University has published a complete wiring diagram of all the connections between neurons in the central nervous system of an adult fruit fly.",
-      "url": "https://phys.org/news/2026-06-publish-connectome-fruit-fly-brain.html"
-    },
-    {
-      "category": "AI",
-      "title": "Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
-      "source": "Hacker News: Front Page",
-      "date": "Sun, 14 Jun 2026 15:37:31 +0000",
-      "summary": "Article URL: https://github.com/nex-agi/Nex-N2/issues/4\nComments URL: https://news.ycombinator.com/item?id=48528371\nPoints: 44\n# Comments: 22",
-      "url": "https://github.com/nex-agi/Nex-N2/issues/4"
     },
     {
       "category": "Science",
