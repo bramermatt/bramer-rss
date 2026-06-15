@@ -1,7 +1,95 @@
 {
-  "lastUpdated": "2026-06-15T19:40:10.206Z",
+  "lastUpdated": "2026-06-15T23:29:46.752Z",
   "articleCount": 39,
   "articles": [
+    {
+      "category": "Science",
+      "title": "Bacteria reveal 'glue' protein that fastens antibiotic-resistant outer membrane to cell wall",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Mon, 15 Jun 2026 19:20:04 EDT",
+      "summary": "Researchers at the University of Notre Dame and collaborators have discovered a key process in how the outer membrane of gram-negative bacteria attaches to the cell wall, advancing the understanding of how these bacteria frequently develop resistance to antibiotics.",
+      "url": "https://phys.org/news/2026-06-bacteria-reveal-protein-antibiotic-resistant.html"
+    },
+    {
+      "category": "Science",
+      "title": "Climate compensation isn't always enough for landowners",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Mon, 15 Jun 2026 19:20:01 EDT",
+      "summary": "At first glance, it looks like a simple calculation. The state offers compensation. The climate demands action. Low-lying soils must be restored as wetlands. Yet landowners hesitate. According to anthropologist and Ph.D. student Kasper Krabbe from the Department of Agroecology at Aarhus University, that is exactly where the misunderstanding begins.",
+      "url": "https://phys.org/news/2026-06-climate-compensation-isnt-landowners.html"
+    },
+    {
+      "category": "Science",
+      "title": "What early modern literature can teach us about neurodivergence",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Mon, 15 Jun 2026 19:00:10 EDT",
+      "summary": "Does it seem as though more people are coming out as neurodivergent these days?",
+      "url": "https://phys.org/news/2026-06-early-modern-literature-neurodivergence.html"
+    },
+    {
+      "category": "AI",
+      "title": "Banned Book Library in a Wi-Fi Smart Light Bulb",
+      "source": "Hacker News: Front Page",
+      "date": "Mon, 15 Jun 2026 22:37:55 +0000",
+      "summary": "Article URL: https://www.richardosgood.com/posts/banned-book-library/\nComments URL: https://news.ycombinator.com/item?id=48547985\nPoints: 31\n# Comments: 3",
+      "url": "https://www.richardosgood.com/posts/banned-book-library/"
+    },
+    {
+      "category": "History",
+      "title": "The Nation’s First Acre: Fort Billingsport and the Birth of Federal Land Acquisition",
+      "source": "Journal of the American Revolution",
+      "date": "Mon, 15 Jun 2026 22:00:49 +0000",
+      "summary": "On June 25, 1776, nine days before the Continental Congress would adopt the Declaration of Independence, the Pennsylvania Council of Safety passed a resolution authorizing a committee to “purchase the whole or part of a Plantation at Billingsport on which said Fortifications are to be erected at the Expense of Congress.”[1] Ten days later, on […]\nThe post The Nation’s First Acre: Fort Billingsport and the Birth of Federal Land Acquisition appeared first on Journal of the American Revolution.",
+      "url": "https://allthingsliberty.com/2026/06/the-nations-first-acre-fort-billingsport-and-the-birth-of-federal-land-acquisition/"
+    },
+    {
+      "category": "AI",
+      "title": "San Francisco Weighs PG&E Takeover Amid Soaring Utility Costs",
+      "source": "Hacker News: Front Page",
+      "date": "Mon, 15 Jun 2026 22:00:44 +0000",
+      "summary": "Article URL: https://www.kqed.org/news/12081882/san-francisco-has-been-trying-to-leave-pge-for-100-years-will-this-time-be-different\nComments URL: https://news.ycombinator.com/item?id=48547608\nPoints: 27\n# Comments: 13",
+      "url": "https://www.kqed.org/news/12081882/san-francisco-has-been-trying-to-leave-pge-for-100-years-will-this-time-be-different"
+    },
+    {
+      "category": "AI",
+      "title": "Why I Email Complete Strangers",
+      "source": "Hacker News: Front Page",
+      "date": "Mon, 15 Jun 2026 21:57:10 +0000",
+      "summary": "Article URL: https://www.goodinternetmagazine.com/why-i-email-complete-strangers/\nComments URL: https://news.ycombinator.com/item?id=48547566\nPoints: 38\n# Comments: 15",
+      "url": "https://www.goodinternetmagazine.com/why-i-email-complete-strangers/"
+    },
+    {
+      "category": "Science",
+      "title": " Lavish Roman villa discovered outside Rome's walls may have been frequented by Hadrian and Marcus Aurelius ",
+      "source": " Latest from Live Science ",
+      "date": "Mon, 15 Jun 2026 21:36:48 +0000",
+      "summary": "The villa, which came to light because it was illegally excavated, was found in an area frequented two millennia ago by the emperors Hadrian, Antoninus Pius and Marcus Aurelius.",
+      "url": "https://www.livescience.com/archaeology/romans/lavish-roman-villa-discovered-outside-romes-walls-may-have-been-frequented-by-hadrian-and-marcus-aurelius"
+    },
+    {
+      "category": "AI",
+      "title": "Heart protection from COVID shots remains amid updates, study finds",
+      "source": "Ars Technica - All content",
+      "date": "Mon, 15 Jun 2026 21:04:26 +0000",
+      "summary": "Despite continued benefits, anti-vaccine rhetoric has driven down vaccination.",
+      "url": "https://arstechnica.com/health/2026/06/covid-vaccines-still-protect-against-heart-problems-large-study-finds/"
+    },
+    {
+      "category": "AI",
+      "title": "UK to ban social media for kids under 16, may impose overnight curfews",
+      "source": "Ars Technica - All content",
+      "date": "Mon, 15 Jun 2026 20:14:04 +0000",
+      "summary": "Critics say bans push kids to riskier alternatives and can be beaten with VPNs.",
+      "url": "https://arstechnica.com/tech-policy/2026/06/uk-to-ban-social-media-for-kids-under-16-may-impose-overnight-curfews/"
+    },
+    {
+      "category": "Space",
+      "title": " Astrobotic unveils Griffin-1 lunar lander for NASA Moon Base mission ",
+      "source": " Latest from Space.com ",
+      "date": "Mon, 15 Jun 2026 20:00:00 +0000",
+      "summary": "Astrobotic unveiled its next lander headed to the moon: Griffin-1, which will carry one of the heaviest payloads ever delivered to the lunar surface.",
+      "url": "https://www.space.com/space-exploration/astrobotic-unveils-griffin-1-lunar-lander-for-nasa-moon-base-mission"
+    },
     {
       "category": "Space",
       "title": " SpaceX sends 24 Starlink satellites to orbit on 1st launch as a public company (video) ",
@@ -19,36 +107,12 @@
       "url": "https://www.livescience.com/planet-earth/atacama-deserts-center-dried-out-20-million-years-earlier-than-previously-thought-before-the-andes-formed"
     },
     {
-      "category": "Science",
-      "title": "A waltz over evolutionary timescales: Why it's so hard for animals to invent a new mating dance",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Mon, 15 Jun 2026 15:20:05 EDT",
-      "summary": "\"Love makes fools of all of us,\" wrote 19th-century novelist William Makepeace Thackeray. A moment spent watching the pigeons at your local park suggests he was right: males with puffed-up, shimmering necks hop, pirouette, coo, and bow to capture the attention of unimpressed females.",
-      "url": "https://phys.org/news/2026-06-waltz-evolutionary-timescales-hard-animals.html"
-    },
-    {
-      "category": "Science",
-      "title": "Do shark culls keep people safe in the ocean? Here's what the science says",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Mon, 15 Jun 2026 15:20:02 EDT",
-      "summary": "A young mother remains in hospital after being bitten by a shark at Coogee Beach in Sydney on Saturday morning. Leah Stewart, 35, was swimming about 30 meters (33 yards) offshore when the shark—believed to be a 3- to 4-meter (10- to 13-foot) great white shark—struck.",
-      "url": "https://phys.org/news/2026-06-shark-culls-people-safe-ocean.html"
-    },
-    {
       "category": "AI",
       "title": "Chipmaker Nvidia seeks to raise over $25B in first bond deal since 2021",
       "source": "Ars Technica - All content",
       "date": "Mon, 15 Jun 2026 19:07:02 +0000",
       "summary": "Debt sale set to test investor appetite for further exposure to AI sector amid a deluge of borrowing.",
       "url": "https://arstechnica.com/ai/2026/06/chipmaker-nvidia-seeks-to-raise-over-25b-in-first-bond-deal-since-2021/"
-    },
-    {
-      "category": "Science",
-      "title": "Redefined conformity model beats averaging in five real-world tests of opinion dynamics",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Mon, 15 Jun 2026 15:00:09 EDT",
-      "summary": "Imagine you poll your friends on how many minutes per pound to roast a turkey. Five respond with 15 minutes; one answers 33 minutes. The most popular model of conformity, the French-Harary-DeGroot model (or more commonly, DeGroot model), assumes that you would carefully weigh all six recommendations, calculating a cooking time of 18 minutes per pound. But under a model of conformity previously published by SFI Complexity Postdoctoral Fellow Kaleda Denton and colleagues, you would disregard the outlier and move ahead with 15.",
-      "url": "https://phys.org/news/2026-06-redefined-conformity-averaging-real-world.html"
     },
     {
       "category": "Space",
@@ -59,14 +123,6 @@
       "url": "https://www.space.com/entertainment/space-games/these-are-the-7-best-sci-fi-games-i-saw-at-summer-game-fest-2026"
     },
     {
-      "category": "AI",
-      "title": "A Chinese rocket breaks apart dangerously close to the Starlink constellation",
-      "source": "Ars Technica - All content",
-      "date": "Mon, 15 Jun 2026 18:55:41 +0000",
-      "summary": "The rocket's breakup likely generated 100 to 150 new pieces of space junk.",
-      "url": "https://arstechnica.com/space/2026/06/a-chinese-rocket-breaks-apart-dangerously-close-to-the-starlink-constellation/"
-    },
-    {
       "category": "Space",
       "title": "NASA’s Chandra Finds Unexpected Fireworks in Aftermath of Stellar Explosions",
       "source": "NASA",
@@ -75,44 +131,12 @@
       "url": "https://science.nasa.gov/missions/chandra/nasas-chandra-finds-unexpected-fireworks-in-aftermath-of-stellar-explosions/"
     },
     {
-      "category": "AI",
-      "title": "The Alaska Server",
-      "source": "Hacker News: Front Page",
-      "date": "Mon, 15 Jun 2026 18:37:27 +0000",
-      "summary": "Article URL: https://serialport.org/blog/the-alaska-server/\nComments URL: https://news.ycombinator.com/item?id=48545293\nPoints: 7\n# Comments: 1",
-      "url": "https://serialport.org/blog/the-alaska-server/"
-    },
-    {
-      "category": "AI",
-      "title": "Around 200 Stanford students walk out as Google CEO takes stage",
-      "source": "Hacker News: Front Page",
-      "date": "Mon, 15 Jun 2026 18:34:14 +0000",
-      "summary": "Article URL: https://www.sfgate.com/tech/article/sundar-pichai-stanford-commencement-22304888.php\nComments URL: https://news.ycombinator.com/item?id=48545260\nPoints: 48\n# Comments: 3",
-      "url": "https://www.sfgate.com/tech/article/sundar-pichai-stanford-commencement-22304888.php"
-    },
-    {
-      "category": "AI",
-      "title": "Fox’s $22B Roku acquisition aims to expand its reach into smart TVs, advertising",
-      "source": "Ars Technica - All content",
-      "date": "Mon, 15 Jun 2026 18:29:47 +0000",
-      "summary": "Fox plans to take over Roku's streaming hardware, OS, and FAST services.",
-      "url": "https://arstechnica.com/gadgets/2026/06/foxs-22b-roku-acquisition-aims-to-expand-its-reach-into-smart-tvs-advertising/"
-    },
-    {
       "category": "Space",
       "title": "NASA Astronauts to Answer Questions from New Jersey Students",
       "source": "NASA",
       "date": "Mon, 15 Jun 2026 18:06:18 +0000",
       "summary": "Students in New Jersey will hear from NASA astronauts Chris Williams and Jessica Meir as they answer prerecorded STEM questions while aboard the International Space Station. The Earth-to-space call will begin at 12:05 p.m. EDT, Thursday, June 18, and will stream live on the agency’s Learn With NASA YouTube channel. This event is hosted by Newton Public Schools […]",
       "url": "https://www.nasa.gov/learning-resources/for-colleges-universities/nasa-stem-projects/in-flight-education-downlinks/nasa-astronauts-to-answer-questions-from-new-jersey-students/"
-    },
-    {
-      "category": "AI",
-      "title": "Game Engine White Papers Commander Keen",
-      "source": "Hacker News: Front Page",
-      "date": "Mon, 15 Jun 2026 17:52:39 +0000",
-      "summary": "Article URL: https://forgottenbytes.net/commander_keen.html\nComments URL: https://news.ycombinator.com/item?id=48544781\nPoints: 46\n# Comments: 8",
-      "url": "https://forgottenbytes.net/commander_keen.html"
     },
     {
       "category": "Space",
@@ -129,22 +153,6 @@
       "date": "Mon, 15 Jun 2026 17:10:49 +0000",
       "summary": "A man went to hospital complaining about weakness in his left leg, and subsequent brain scans revealed his abnormally small brain.",
       "url": "https://www.livescience.com/health/diagnostic-dilemma-brain-scans-following-a-mans-hospital-visit-for-leg-weakness-revealed-a-surprising-finding"
-    },
-    {
-      "category": "Science",
-      "title": " 'Melted in a pot somewhere': Vikings used Islamic silver coins to make their early pennies, study finds ",
-      "source": " Latest from Live Science ",
-      "date": "Mon, 15 Jun 2026 17:07:07 +0000",
-      "summary": "The silver in a Viking Age hoard found in Denmark was from melted-down coins from the faraway Islamic world, a new study finds.",
-      "url": "https://www.livescience.com/archaeology/vikings/melted-in-a-pot-somewhere-vikings-used-islamic-silver-coins-to-make-their-early-pennies-study-finds"
-    },
-    {
-      "category": "Space",
-      "title": " 'Everybody came with their A-game': Oscar-winning sound editor Andy Nelson talks reuniting with Spielberg & John Williams for 'Disclosure Day' ",
-      "source": " Latest from Space.com ",
-      "date": "Mon, 15 Jun 2026 17:00:00 +0000",
-      "summary": "'The truth is, everybody came with their A-game. Because the script called for it. Steven definitely calls for it.'",
-      "url": "https://www.space.com/entertainment/space-movies-shows/oscar-winning-sound-editor-andy-nelson-talks-reuniting-with-spielberg-and-john-williams-for-disclosure-day"
     },
     {
       "category": "Science",
@@ -257,14 +265,6 @@
       "date": "Thu, 11 Jun 2026 11:39:30 +0000",
       "summary": "On this week’s Dispatches, host Brady Crytzer interviews JAR contributor and historian Gary Ecelbarger on Maryland Continental officer Nathaniel Ramsay and his experience at “Point of Woods,” a turning point in the Battle of Monmouth. New episodes of Dispatches are available for free every Sunday evening(Eastern United States Time), first on iTunes, Stitcher, Google Play, […]\nThe post This Week of Dispatches: Gary Ecelbarger on Nathaniel Ramsay at the Battle of Monmouth appeared first on Journal of the American Revolution.",
       "url": "https://allthingsliberty.com/2026/06/this-week-of-dispatches-gary-ecelbarger-on-nathaniel-ramsay-at-the-battle-of-monmouth/"
-    },
-    {
-      "category": "History",
-      "title": "The Abandoned American Offensive After Yorktown: the Attack That Never Was",
-      "source": "Journal of the American Revolution",
-      "date": "Tue, 09 Jun 2026 10:00:09 +0000",
-      "summary": "After a British army surrendered at Yorktown in October 1781, it took weeks for news of the disaster to reach London, and several weeks more for the British to decide their next move. Gen. George Washington needed no such time to decide on his. He wasted not a moment on celebrations and formalities. The day […]\nThe post The Abandoned American Offensive After Yorktown: the Attack That Never Was appeared first on Journal of the American Revolution.",
-      "url": "https://allthingsliberty.com/2026/06/the-abandoned-american-offensive-after-yorktown-the-attack-that-never-was/"
     },
     {
       "category": "History",
