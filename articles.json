@@ -1,54 +1,190 @@
 {
-  "lastUpdated": "2026-06-14T23:01:35.741Z",
+  "lastUpdated": "2026-06-15T15:39:10.624Z",
   "articleCount": 39,
   "articles": [
     {
       "category": "Science",
-      "title": "How the invention of glassblowing changed everyday life in ancient Rome",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sun, 14 Jun 2026 18:30:01 EDT",
-      "summary": "We see glass objects every day and often don't think much about them. Mass-produced glass has become so cheap we barely think about the things it allows us to do.",
-      "url": "https://phys.org/news/2026-06-glassblowing-everyday-life-ancient-rome.html"
-    },
-    {
-      "category": "AI",
-      "title": "Did Anthropic Ask for This?",
-      "source": "Hacker News: Front Page",
-      "date": "Sun, 14 Jun 2026 22:23:05 +0000",
-      "summary": "Article URL: https://www.verysane.ai/p/did-anthropic-ask-for-this\nComments URL: https://news.ycombinator.com/item?id=48533504\nPoints: 31\n# Comments: 4",
-      "url": "https://www.verysane.ai/p/did-anthropic-ask-for-this"
-    },
-    {
-      "category": "AI",
-      "title": "Why Is Claude Turning into an a**Hole?",
-      "source": "Hacker News: Front Page",
-      "date": "Sun, 14 Jun 2026 22:04:01 +0000",
-      "summary": "Article URL: https://bramcohen.com/p/why-is-claude-turning-into-an-asshole\nComments URL: https://news.ycombinator.com/item?id=48533308\nPoints: 71\n# Comments: 75",
-      "url": "https://bramcohen.com/p/why-is-claude-turning-into-an-asshole"
+      "title": " 'They are trying to tame nature': China is building the world's biggest dam in an earthquake-prone region of Tibet ",
+      "source": " Latest from Live Science ",
+      "date": "Mon, 15 Jun 2026 15:30:00 +0000",
+      "summary": "China is building a dam system that will generate more hydroelectric power than the U.S. generates yearly. But the project comes with huge risks for people downstream.",
+      "url": "https://www.livescience.com/planet-earth/they-are-trying-to-tame-nature-china-is-building-the-worlds-biggest-dam-in-an-earthquake-prone-region-of-tibet"
     },
     {
       "category": "Science",
-      "title": "When less is more: Scaling law explains why ultrathin materials get stronger as they get thinner",
+      "title": "Wind patterns play surprising role in tropical rainfall trends",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Sun, 14 Jun 2026 18:00:01 EDT",
-      "summary": "One of the most fascinating aspects of physics is that nature often behaves in ways that seem completely counterintuitive.  A good example comes from ultrathin materials. If I take a sheet of material and make it thinner and thinner, most people would expect it to become weaker. After all, there is less material left to bear a load.",
-      "url": "https://phys.org/news/2026-06-scaling-law-ultrathin-materials-stronger.html"
-    },
-    {
-      "category": "AI",
-      "title": "Windows 11 users are tired of MS account requirements creeping into everything",
-      "source": "Hacker News: Front Page",
-      "date": "Sun, 14 Jun 2026 21:42:12 +0000",
-      "summary": "Article URL: https://www.windowscentral.com/microsoft/windows-11/windows-11-users-are-tired-of-microsoft-account-requirements-and-workarounds\nComments URL: https://news.ycombinator.com/item?id=48533101\nPoints: 18\n# Comments: 1",
-      "url": "https://www.windowscentral.com/microsoft/windows-11/windows-11-users-are-tired-of-microsoft-account-requirements-and-workarounds"
+      "date": "Mon, 15 Jun 2026 11:20:10 EDT",
+      "summary": "Changes in wind patterns play the leading role in influencing often devastating tropical rainfall changes, rather than simply the warming atmosphere holding more moisture, according to new research.",
+      "url": "https://phys.org/news/2026-06-patterns-play-role-tropical-rainfall.html"
     },
     {
       "category": "Science",
-      "title": "New tool to help build more reliable DNA nanostructures",
+      "title": "Balancing stability and reactivity: A new palladium precatalyst for high-performance catalysis",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Sun, 14 Jun 2026 17:00:05 EDT",
-      "summary": "Scaffolded DNA and RNA origami is a technique that allows scientists to build tiny, highly precise two- and three-dimensional objects. Because these nanostructures can interact naturally with biological systems, they could have important future uses in health care and agritech.",
-      "url": "https://phys.org/news/2026-06-tool-reliable-dna-nanostructures.html"
+      "date": "Mon, 15 Jun 2026 11:20:05 EDT",
+      "summary": "Researchers at University of Tsukuba have developed a new palladium (Pd) precatalyst that combines exceptional stability with high catalytic performance. This precatalyst can be stored for extended periods under ambient conditions and suppresses undesirable side reactions during activation, highlighting its potential for the efficient synthesis of organic materials and pharmaceuticals. The work is published in the journal Inorganic Chemistry Frontiers.",
+      "url": "https://phys.org/news/2026-06-stability-reactivity-palladium-precatalyst-high.html"
+    },
+    {
+      "category": "AI",
+      "title": "Iroh 1.0",
+      "source": "Hacker News: Front Page",
+      "date": "Mon, 15 Jun 2026 15:13:06 +0000",
+      "summary": "Article URL: https://www.iroh.computer/blog/v1\nComments URL: https://news.ycombinator.com/item?id=48542480\nPoints: 39\n# Comments: 9",
+      "url": "https://www.iroh.computer/blog/v1"
+    },
+    {
+      "category": "Space",
+      "title": "NASA Astronaut Anil Menon Available for Prelaunch Virtual Interviews",
+      "source": "NASA",
+      "date": "Mon, 15 Jun 2026 15:02:04 +0000",
+      "summary": "NASA astronaut Anil Menon will be available for limited media interviews beginning at 9 a.m. EDT Monday, June 22, to discuss his upcoming mission to the International Space Station as part of Expeditions 74/75. The virtual interviews will take place from the Gagarin Cosmonaut Training Center in Star City, Russia, and will stream live on […]",
+      "url": "https://www.nasa.gov/news-release/nasa-astronaut-anil-menon-available-for-prelaunch-virtual-interviews/"
+    },
+    {
+      "category": "Science",
+      "title": "ALMA makes first direct detection of star-forming gas in early galaxies",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Mon, 15 Jun 2026 11:00:12 EDT",
+      "summary": "In the early universe, the first galaxies began to take shape roughly a million years after the Big Bang. Within these young systems, stars formed from vast reservoirs of cold gas, gradually building the structures we see in the cosmos today. Understanding this star-forming gas is key to explaining how galaxies grew, but directly tracing its neutral component has remained challenging, especially at great distances.",
+      "url": "https://phys.org/news/2026-06-alma-star-gas-early-galaxies.html"
+    },
+    {
+      "category": "Space",
+      "title": " Live from the moon! How lasers connected us all to NASA's Artemis 2 astronauts on their epic lunar trip ",
+      "source": " Latest from Space.com ",
+      "date": "Mon, 15 Jun 2026 15:00:00 +0000",
+      "summary": "A laser system, previously tested on board the International Space Station, helped to stream video directly from the Artemis 2 mission on its way around the moon.",
+      "url": "https://www.space.com/astronomy/moon/live-from-the-moon-how-lasers-connected-us-all-to-nasas-artemis-2-astronauts-on-their-epic-lunar-trip"
+    },
+    {
+      "category": "AI",
+      "title": "Fox Is Buying Roku",
+      "source": "Hacker News: Front Page",
+      "date": "Mon, 15 Jun 2026 14:55:50 +0000",
+      "summary": "Article URL: https://www.fastcompany.com/91559558/fox-corp-buying-roku-stock-prices-fall-on-tv-streaming-merger\nComments URL: https://news.ycombinator.com/item?id=48542209\nPoints: 22\n# Comments: 1",
+      "url": "https://www.fastcompany.com/91559558/fox-corp-buying-roku-stock-prices-fall-on-tv-streaming-merger"
+    },
+    {
+      "category": "AI",
+      "title": "Hetzner increased dedicated server prices 3-4x",
+      "source": "Hacker News: Front Page",
+      "date": "Mon, 15 Jun 2026 14:44:02 +0000",
+      "summary": "A few months after raising prices ~30%, Hetzner has increased bare metal pricing again, this time by 3-4x:\nAX102: €124 -> €454\nAX162 (256GB): €244 -> €844\nComments URL: https://news.ycombinator.com/item?id=48542064\nPoints: 111\n# Comments: 51",
+      "url": "https://news.ycombinator.com/item?id=48542064"
+    },
+    {
+      "category": "Space",
+      "title": "San Francisco’s Patchwork Streets",
+      "source": "NASA",
+      "date": "Mon, 15 Jun 2026 14:30:31 +0000",
+      "summary": "An astronaut aboard the International Space Station took this picture of downtown San Francisco and nearby communities on May 27, 2026. The image captures two of the region’s iconic bridges. The Golden Gate Bridge connects the northern San Francisco Peninsula with Marin County to the north, while the San Francisco-Oakland Bay Bridge spans the bay toward […]",
+      "url": "https://www.nasa.gov/image-article/san-franciscos-patchwork-streets/"
+    },
+    {
+      "category": "Space",
+      "title": "Experience the Launch of NASA’s Roman Space Telescope ",
+      "source": "NASA",
+      "date": "Mon, 15 Jun 2026 14:28:36 +0000",
+      "summary": "Are you ready for a new view of the universe? The Nancy Grace Roman Space Telescope will reveal distant worlds, dark energy, and the structure of the cosmos, and we want you to be a part of it!   Digital creators and social media users are invited to register to our NASA Social for the Nancy […]",
+      "url": "https://www.nasa.gov/social-media/nasa-socials-program/experience-the-launch-of-nasas-roman-space-telescope/"
+    },
+    {
+      "category": "Space",
+      "title": " Hubble spies a swarm of stars in a strange, irregular galaxy | Space photo of the day for 15, 2026 ",
+      "source": " Latest from Space.com ",
+      "date": "Mon, 15 Jun 2026 14:00:00 +0000",
+      "summary": "This faint galaxy is hard to look away from.",
+      "url": "https://www.space.com/astronomy/hubble-space-telescope/hubble-spies-a-swarm-of-stars-in-a-strange-irregular-galaxy-space-photo-of-the-day-for-15-2026"
+    },
+    {
+      "category": "AI",
+      "title": "Russia appears set to finally address long-term, serious space station cracks",
+      "source": "Ars Technica - All content",
+      "date": "Mon, 15 Jun 2026 13:54:02 +0000",
+      "summary": "This has been a persistent, behind-the-scenes dispute between NASA and Roscosmos.",
+      "url": "https://arstechnica.com/space/2026/06/russia-appears-set-to-finally-address-long-term-serious-space-station-cracks/"
+    },
+    {
+      "category": "Space",
+      "title": " Scientists find strange changes on sun hours before a powerful X9 solar flare: 'I was not expecting what I found' ",
+      "source": " Latest from Space.com ",
+      "date": "Mon, 15 Jun 2026 13:00:00 +0000",
+      "summary": "These results could benefit space weather forecasts.",
+      "url": "https://www.space.com/astronomy/sun/scientists-find-strange-changes-on-sun-hours-before-a-powerful-x9-solar-flare-i-was-not-expecting-what-i-found"
+    },
+    {
+      "category": "Science",
+      "title": " Hundreds of hidden earthquakes discovered beneath Antarctica — and they're happening in a very odd location ",
+      "source": " Latest from Live Science ",
+      "date": "Mon, 15 Jun 2026 12:00:00 +0000",
+      "summary": "Antarctica was long thought to be seismically calm, but new technology makes it possible to detect unexpected types of earthquakes beneath the ice.",
+      "url": "https://www.livescience.com/planet-earth/antarctica/hundreds-of-hidden-earthquakes-discovered-beneath-antarctica-and-theyre-happening-in-a-very-odd-location"
+    },
+    {
+      "category": "Science",
+      "title": "This strange material can become strong or fall apart in seconds",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Mon, 15 Jun 2026 07:54:43 EDT",
+      "summary": "Scientists have found that staple-shaped particles can tangle together to create a material that is both strong and flexible. Unlike conventional materials, these particles can be locked into a sturdy structure or rapidly unraveled using vibrations. The unusual behavior could open the door to recyclable buildings, reconfigurable structures, and even futuristic robotic technologies.",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260615033849.htm"
+    },
+    {
+      "category": "Science",
+      "title": " An ancient piece of the moon found in Africa hints at a long-ago collision that turned the lunar surface molten ",
+      "source": " Latest from Live Science ",
+      "date": "Mon, 15 Jun 2026 11:00:00 +0000",
+      "summary": "A meteorite shows evidence that an ancient crash on the moon 3.5 billion years ago was so powerful, it turned the surface molten.",
+      "url": "https://www.livescience.com/space/astronomy/an-ancient-piece-of-the-moon-found-in-africa-hints-at-a-long-ago-collision-that-turned-the-lunar-surface-molten"
+    },
+    {
+      "category": "Biblical Studies",
+      "title": "Synagogues Jesus and Mary Magdalene Knew",
+      "source": "Biblical Archaeology Society",
+      "date": "Mon, 15 Jun 2026 10:45:20 +0000",
+      "summary": "In 2009, archaeologists uncovered a first-century synagogue at the town of Migdal on the shores of the Sea of Galilee. Its stone benches still lined […]\nThe post Synagogues Jesus and Mary Magdalene Knew appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/daily/people-cultures-in-the-bible/jesus-historical-jesus/synagogues-jesus-and-mary-magdalene-knew/"
+    },
+    {
+      "category": "Biblical Studies",
+      "title": "King Taharqa of the Kingdom of Cush",
+      "source": "Biblical Archaeology Society",
+      "date": "Mon, 15 Jun 2026 10:00:26 +0000",
+      "summary": "As the mighty Assyrian army of King Sennacherib was getting ready to attack Judah at the close of the eighth century BC, the Judahite King […]\nThe post King Taharqa of the Kingdom of Cush appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-egypt/king-taharqa-of-the-kingdom-of-cush/"
+    },
+    {
+      "category": "Science",
+      "title": "Scientists turned red lettuce green and something surprising happened",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Mon, 15 Jun 2026 04:57:07 EDT",
+      "summary": "Researchers used genome editing to block the production of red pigments in lettuce, causing other beneficial plant compounds to build up instead. The lettuce continued to grow normally, pointing toward a new way to create crops with customized nutritional profiles.",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260614011854.htm"
+    },
+    {
+      "category": "Theology",
+      "title": "How I Think About AI in My Medical Practice",
+      "source": "The Gospel Coalition",
+      "date": "Mon, 15 Jun 2026 04:00:00 +0000",
+      "summary": "All wisdom to use this technology must be found in the theological principles that flow out of the pages of God’s living Word.",
+      "url": "https://www.thegospelcoalition.org/article/ai-medical-practice/"
+    },
+    {
+      "category": "Science",
+      "title": "Honey bees have their own personal flight paths and fly them with stunning precision",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Sun, 14 Jun 2026 17:25:28 EDT",
+      "summary": "Researchers tracked honey bees in the wild using a drone-based system and found that each bee follows its own highly consistent flight path. Some repeated their routes so precisely that they flew only centimeters from where they had flown before. Landmarks like trees helped keep them on track, while uniform areas such as cornfields led to more variation.",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260614011857.htm"
+    },
+    {
+      "category": "AI",
+      "title": "Introducing the OpenAI Partner Network",
+      "source": "OpenAI News",
+      "date": "Sun, 14 Jun 2026 17:00:00 GMT",
+      "summary": "OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoption, deployment, and transformation.",
+      "url": "https://openai.com/index/introducing-openai-partner-network"
     },
     {
       "category": "AI",
@@ -59,68 +195,12 @@
       "url": "https://arstechnica.com/science/2026/06/did-a-medieval-flying-monk-spot-halleys-comet-twice-its-complicated/"
     },
     {
-      "category": "Science",
-      "title": " Bow-Wow, Ding-Dong, Pooh-Pooh: Expert explains early theories of how human language evolved — and their silly names ",
-      "source": " Latest from Live Science ",
-      "date": "Sun, 14 Jun 2026 15:00:00 +0000",
-      "summary": "There are many theories as to how human language first evolved. But none completely explains why it happened.",
-      "url": "https://www.livescience.com/archaeology/bow-wow-ding-dong-pooh-pooh-expert-explains-early-theories-of-how-human-language-evolved-and-their-silly-names"
-    },
-    {
-      "category": "Space",
-      "title": " Catch Mercury shining at its best on June 15 before it slips back into the sun's glare ",
-      "source": " Latest from Space.com ",
-      "date": "Sun, 14 Jun 2026 15:00:00 +0000",
-      "summary": "Mercury will appear farthest from the sun in its current evening apparition on June 15.",
-      "url": "https://www.space.com/stargazing/catch-mercury-shining-at-its-best-on-june-15-before-it-slips-back-into-the-suns-glare"
-    },
-    {
-      "category": "Space",
-      "title": " How Jules Verne predicted the Artemis 2 mission to the moon almost 160 years ago ",
-      "source": " Latest from Space.com ",
-      "date": "Sun, 14 Jun 2026 14:00:00 +0000",
-      "summary": "Written in the 1860s, Jules Verne’s novels \"From the Earth to the Moon\" and \"All Around the Moon\" were highly speculative fiction in their time, but tell a tale that now seems remarkably familiar: three astronauts in a conical capsule on a free-return trajectory around the moon.",
-      "url": "https://www.space.com/entertainment/how-jules-verne-predicted-the-artemis-2-mission-to-the-moon-almost-160-years-ago"
-    },
-    {
-      "category": "Science",
-      "title": " Famous child mummies in Andes may belong to kids who were sacrificed to 'ritually anchor' the Inca's presence as their empire expanded ",
-      "source": " Latest from Live Science ",
-      "date": "Sun, 14 Jun 2026 13:00:00 +0000",
-      "summary": "An analysis of corn, cassava and coca plants discovered with sacrificed Inca children reveals they died during the reign of one of the last Inca emperors.",
-      "url": "https://www.livescience.com/archaeology/americas/famous-child-mummies-in-andes-may-belong-to-kids-who-were-sacrificed-to-ritually-anchor-the-incas-presence-as-their-empire-expanded"
-    },
-    {
-      "category": "Space",
-      "title": " New moon of June 2026 brings stunning views of Mercury, Venus and Jupiter ",
-      "source": " Latest from Space.com ",
-      "date": "Sun, 14 Jun 2026 13:00:00 +0000",
-      "summary": "The nights surrounding the new moon on June 14 are the perfect time to hunt for planets and sparkling constellations in the late spring sky.",
-      "url": "https://www.space.com/stargazing/new-moon-of-june-2026-brings-stunning-views-of-mercury-venus-and-jupiter"
-    },
-    {
-      "category": "Science",
-      "title": " Neuroscientists are searching for the 'cellular substrate of loneliness' ",
-      "source": " Latest from Live Science ",
-      "date": "Sun, 14 Jun 2026 12:00:00 +0000",
-      "summary": "Neuroscientists are discovering that spending time with others may be a basic biological necessity, like need for food or water.",
-      "url": "https://www.livescience.com/health/neuroscience/neuroscientists-are-searching-for-the-cellular-substrate-of-loneliness"
-    },
-    {
-      "category": "Science",
-      "title": "A dying star could create a new universe instead of a black hole",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Sun, 14 Jun 2026 04:08:31 EDT",
-      "summary": "What if some black holes aren’t black holes at all? A new theoretical study suggests that when a massive star collapses, it might not form a singularity hidden behind an event horizon. Instead, the collapse could trigger the birth of a tiny new universe inside the dying star. Driven by dark energy, this miniature cosmos would expand and push back against gravity, preventing complete collapse and creating an exotic object known as a gravastar.",
-      "url": "https://www.sciencedaily.com/releases/2026/06/260614011846.htm"
-    },
-    {
-      "category": "Science",
-      "title": "Yellowstone wolves may not have reshaped the national park after all",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Sun, 14 Jun 2026 00:27:09 EDT",
-      "summary": "One of the most celebrated claims about Yellowstone’s wolves is facing a major challenge. Scientists say the study behind the famous trophic cascade story relied on flawed methods that overstated the ecological impact of wolf recovery. Their reanalysis found no evidence for a dramatic, park-wide surge in willow growth. Instead, the effects appear smaller and vary from place to place.",
-      "url": "https://www.sciencedaily.com/releases/2026/06/260613215510.htm"
+      "category": "Biblical Studies",
+      "title": "The House of Peter: The Home of Jesus in Capernaum?",
+      "source": "Biblical Archaeology Society",
+      "date": "Sun, 14 Jun 2026 11:00:55 +0000",
+      "summary": "Italian excavators working in Capernaum may have uncovered the remnants of the humble house of Peter that Jesus called home while in Capernaum. \nThe post The House of Peter: The Home of Jesus in Capernaum? appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/daily/biblical-sites-places/biblical-archaeology-sites/the-house-of-peter-the-home-of-jesus-in-capernaum/"
     },
     {
       "category": "Theology",
@@ -131,28 +211,12 @@
       "url": "https://www.thegospelcoalition.org/article/my-generation-nostalgia/"
     },
     {
-      "category": "Science",
-      "title": "Why middle age is becoming a breaking point in the U.S.",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Sat, 13 Jun 2026 22:24:12 EDT",
-      "summary": "A new international study finds that middle-aged Americans are lonelier, more depressed, and experiencing worse memory and health than earlier generations. Researchers say growing financial strain, weaker social supports, and chronic stress may explain why the U.S. is falling behind other wealthy nations.",
-      "url": "https://www.sciencedaily.com/releases/2026/06/260613215430.htm"
-    },
-    {
       "category": "AI",
       "title": "Review: Disclosure Day is big on action, light on ideas",
       "source": "Ars Technica - All content",
       "date": "Sat, 13 Jun 2026 17:17:44 +0000",
       "summary": "There's nothing new or surprising, but it's still an entertaining film from one of our greatest directors.",
       "url": "https://arstechnica.com/culture/2026/06/review-disclosure-day-is-big-on-action-light-on-ideas/"
-    },
-    {
-      "category": "AI",
-      "title": "Threads of underground fungal networks are long enough to reach beyond the Solar System",
-      "source": "Ars Technica - All content",
-      "date": "Sat, 13 Jun 2026 11:18:42 +0000",
-      "summary": "Researchers have quantified the length and mass of arbuscular mycorrhizal fungal networks globally.",
-      "url": "https://arstechnica.com/science/2026/06/threads-of-underground-fungal-networks-are-long-enough-to-reach-beyond-the-solar-system/"
     },
     {
       "category": "Theology",
@@ -163,52 +227,12 @@
       "url": "https://www.thegospelcoalition.org/article/see-father-son-disability/"
     },
     {
-      "category": "Space",
-      "title": "NASA to Cover 34th SpaceX Resupply Mission Space Station Departure",
-      "source": "NASA",
-      "date": "Fri, 12 Jun 2026 15:32:54 +0000",
-      "summary": "NASA and its international partners are set to receive scientific research samples and hardware as a SpaceX Dragon spacecraft is scheduled to depart the International Space Station on Tuesday, June 16, for its return to Earth. Watch NASA’s live undocking coverage beginning at 11:45 a.m. EDT on NASA+, Amazon Prime, and the agency’s YouTube channel. […]",
-      "url": "https://www.nasa.gov/news-release/nasa-to-cover-34th-spacex-resupply-mission-space-station-departure/"
-    },
-    {
-      "category": "Space",
-      "title": "Black Eye Galaxy",
-      "source": "NASA",
-      "date": "Fri, 12 Jun 2026 13:59:55 +0000",
-      "summary": "This March 20, 2026, image of Messier 64, or the Black Eye Galaxy, is a composite view from NASA’s Hubble Space Telescope and James Webb Space Telescope. It shows Messier 64 captured at near- and mid-infrared wavelengths by Webb, while Hubble’s image shows the galaxy in ultraviolet, visible, and near-infrared light. Messier 64 is characterized […]",
-      "url": "https://www.nasa.gov/image-article/black-eye-galaxy/"
-    },
-    {
-      "category": "Space",
-      "title": "Hubble Sees Swarm of Galaxies",
-      "source": "NASA",
-      "date": "Fri, 12 Jun 2026 11:34:50 +0000",
-      "summary": "Looking somewhat like a swarm of bees returning to their hive, this NASA Hubble Space Telescope image features the galaxy cluster MACS0329-0211.",
-      "url": "https://science.nasa.gov/missions/hubble/hubble-sees-swarm-of-galaxies/"
-    },
-    {
-      "category": "Biblical Studies",
-      "title": "Did the Euphrates Originally Empty into the Mediterranean?",
-      "source": "Biblical Archaeology Society",
-      "date": "Fri, 12 Jun 2026 10:45:49 +0000",
-      "summary": "The Euphrates River was one of the great arteries of the ancient Near East. Flowing from modern-day Turkey through Syria and Iraq before joining the […]\nThe post Did the Euphrates Originally Empty into the Mediterranean? appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-near-eastern-world/did-the-euphrates-originally-empty-into-the-mediterranean/"
-    },
-    {
       "category": "AI",
       "title": "New OpenAI Academy courses for the next era of work",
       "source": "OpenAI News",
       "date": "Fri, 12 Jun 2026 10:00:00 GMT",
       "summary": "OpenAI introduces three Academy courses that help people build practical AI skills, create repeatable workflows, and apply agents in everyday work.",
       "url": "https://openai.com/index/academy-courses-applying-ai-at-work"
-    },
-    {
-      "category": "Theology",
-      "title": "The Woman at the Well (TGC Classic)",
-      "source": "The Gospel Coalition",
-      "date": "Fri, 12 Jun 2026 04:04:00 +0000",
-      "summary": "In this TGC Classic message recorded at our 2019 National Conference, H. B. Charles preaches on the conversation between Jesus and the Samaritan woman in John 4.",
-      "url": "https://www.thegospelcoalition.org/podcasts/tgc-podcast/woman-well-classic/"
     },
     {
       "category": "AI",
@@ -233,30 +257,6 @@
       "date": "Thu, 11 Jun 2026 11:39:30 +0000",
       "summary": "On this week’s Dispatches, host Brady Crytzer interviews JAR contributor and historian Gary Ecelbarger on Maryland Continental officer Nathaniel Ramsay and his experience at “Point of Woods,” a turning point in the Battle of Monmouth. New episodes of Dispatches are available for free every Sunday evening(Eastern United States Time), first on iTunes, Stitcher, Google Play, […]\nThe post This Week of Dispatches: Gary Ecelbarger on Nathaniel Ramsay at the Battle of Monmouth appeared first on Journal of the American Revolution.",
       "url": "https://allthingsliberty.com/2026/06/this-week-of-dispatches-gary-ecelbarger-on-nathaniel-ramsay-at-the-battle-of-monmouth/"
-    },
-    {
-      "category": "Biblical Studies",
-      "title": "Judith: A Remarkable Heroine",
-      "source": "Biblical Archaeology Society",
-      "date": "Thu, 11 Jun 2026 11:00:24 +0000",
-      "summary": "The Book of Judith presents a truly remarkable heroine. Judith is introduced as a devout, shapely, beautiful and wealthy widow who exhibits characteristics equal to those of Israel’s finest warriors. \nThe post Judith: A Remarkable Heroine appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/daily/judith-a-remarkable-heroine/"
-    },
-    {
-      "category": "Biblical Studies",
-      "title": "The Siloam Pool: Where Jesus Healed the Blind Man",
-      "source": "Biblical Archaeology Society",
-      "date": "Thu, 11 Jun 2026 11:00:12 +0000",
-      "summary": "The Siloam Pool has long been considered a sacred Christian site, even if the correct identification of the site itself was uncertain. According to the Gospel of John, it was at the Siloam Pool where Jesus healed the blind man (John 9:1–11).\nThe post The Siloam Pool: Where Jesus Healed the Blind Man appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/daily/biblical-sites-places/biblical-archaeology-sites/the-siloam-pool-where-jesus-healed-the-blind-man/"
-    },
-    {
-      "category": "AI",
-      "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem ",
-      "source": "OpenAI News",
-      "date": "Thu, 11 Jun 2026 00:00:00 GMT",
-      "summary": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
-      "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem"
     },
     {
       "category": "History",
