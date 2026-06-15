@@ -1,126 +1,150 @@
 {
-  "lastUpdated": "2026-06-15T15:39:10.624Z",
+  "lastUpdated": "2026-06-15T19:40:10.206Z",
   "articleCount": 39,
   "articles": [
     {
+      "category": "Space",
+      "title": " SpaceX sends 24 Starlink satellites to orbit on 1st launch as a public company (video) ",
+      "source": " Latest from Space.com ",
+      "date": "Mon, 15 Jun 2026 19:27:41 +0000",
+      "summary": "A SpaceX Falcon 9 rocket carrying 24 Starlink satellites lifted off from Vandenberg Space Force Base in California on Monday, June 15, 2026.",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-17-54-b1093-vsfb-ocisly"
+    },
+    {
       "category": "Science",
-      "title": " 'They are trying to tame nature': China is building the world's biggest dam in an earthquake-prone region of Tibet ",
+      "title": " Atacama Desert’s center dried out 20 million years earlier than previously thought — before the Andes formed ",
       "source": " Latest from Live Science ",
-      "date": "Mon, 15 Jun 2026 15:30:00 +0000",
-      "summary": "China is building a dam system that will generate more hydroelectric power than the U.S. generates yearly. But the project comes with huge risks for people downstream.",
-      "url": "https://www.livescience.com/planet-earth/they-are-trying-to-tame-nature-china-is-building-the-worlds-biggest-dam-in-an-earthquake-prone-region-of-tibet"
+      "date": "Mon, 15 Jun 2026 19:26:54 +0000",
+      "summary": "Chile's Atacama Desert, which gets less than 5 millimeters (0.2 inches) of rainfall each year, started to form more than 40 million years ago ‪—‬ 20 million years before the Andes.",
+      "url": "https://www.livescience.com/planet-earth/atacama-deserts-center-dried-out-20-million-years-earlier-than-previously-thought-before-the-andes-formed"
     },
     {
       "category": "Science",
-      "title": "Wind patterns play surprising role in tropical rainfall trends",
+      "title": "A waltz over evolutionary timescales: Why it's so hard for animals to invent a new mating dance",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Mon, 15 Jun 2026 11:20:10 EDT",
-      "summary": "Changes in wind patterns play the leading role in influencing often devastating tropical rainfall changes, rather than simply the warming atmosphere holding more moisture, according to new research.",
-      "url": "https://phys.org/news/2026-06-patterns-play-role-tropical-rainfall.html"
+      "date": "Mon, 15 Jun 2026 15:20:05 EDT",
+      "summary": "\"Love makes fools of all of us,\" wrote 19th-century novelist William Makepeace Thackeray. A moment spent watching the pigeons at your local park suggests he was right: males with puffed-up, shimmering necks hop, pirouette, coo, and bow to capture the attention of unimpressed females.",
+      "url": "https://phys.org/news/2026-06-waltz-evolutionary-timescales-hard-animals.html"
     },
     {
       "category": "Science",
-      "title": "Balancing stability and reactivity: A new palladium precatalyst for high-performance catalysis",
+      "title": "Do shark culls keep people safe in the ocean? Here's what the science says",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Mon, 15 Jun 2026 11:20:05 EDT",
-      "summary": "Researchers at University of Tsukuba have developed a new palladium (Pd) precatalyst that combines exceptional stability with high catalytic performance. This precatalyst can be stored for extended periods under ambient conditions and suppresses undesirable side reactions during activation, highlighting its potential for the efficient synthesis of organic materials and pharmaceuticals. The work is published in the journal Inorganic Chemistry Frontiers.",
-      "url": "https://phys.org/news/2026-06-stability-reactivity-palladium-precatalyst-high.html"
+      "date": "Mon, 15 Jun 2026 15:20:02 EDT",
+      "summary": "A young mother remains in hospital after being bitten by a shark at Coogee Beach in Sydney on Saturday morning. Leah Stewart, 35, was swimming about 30 meters (33 yards) offshore when the shark—believed to be a 3- to 4-meter (10- to 13-foot) great white shark—struck.",
+      "url": "https://phys.org/news/2026-06-shark-culls-people-safe-ocean.html"
     },
     {
       "category": "AI",
-      "title": "Iroh 1.0",
-      "source": "Hacker News: Front Page",
-      "date": "Mon, 15 Jun 2026 15:13:06 +0000",
-      "summary": "Article URL: https://www.iroh.computer/blog/v1\nComments URL: https://news.ycombinator.com/item?id=48542480\nPoints: 39\n# Comments: 9",
-      "url": "https://www.iroh.computer/blog/v1"
-    },
-    {
-      "category": "Space",
-      "title": "NASA Astronaut Anil Menon Available for Prelaunch Virtual Interviews",
-      "source": "NASA",
-      "date": "Mon, 15 Jun 2026 15:02:04 +0000",
-      "summary": "NASA astronaut Anil Menon will be available for limited media interviews beginning at 9 a.m. EDT Monday, June 22, to discuss his upcoming mission to the International Space Station as part of Expeditions 74/75. The virtual interviews will take place from the Gagarin Cosmonaut Training Center in Star City, Russia, and will stream live on […]",
-      "url": "https://www.nasa.gov/news-release/nasa-astronaut-anil-menon-available-for-prelaunch-virtual-interviews/"
-    },
-    {
-      "category": "Science",
-      "title": "ALMA makes first direct detection of star-forming gas in early galaxies",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Mon, 15 Jun 2026 11:00:12 EDT",
-      "summary": "In the early universe, the first galaxies began to take shape roughly a million years after the Big Bang. Within these young systems, stars formed from vast reservoirs of cold gas, gradually building the structures we see in the cosmos today. Understanding this star-forming gas is key to explaining how galaxies grew, but directly tracing its neutral component has remained challenging, especially at great distances.",
-      "url": "https://phys.org/news/2026-06-alma-star-gas-early-galaxies.html"
-    },
-    {
-      "category": "Space",
-      "title": " Live from the moon! How lasers connected us all to NASA's Artemis 2 astronauts on their epic lunar trip ",
-      "source": " Latest from Space.com ",
-      "date": "Mon, 15 Jun 2026 15:00:00 +0000",
-      "summary": "A laser system, previously tested on board the International Space Station, helped to stream video directly from the Artemis 2 mission on its way around the moon.",
-      "url": "https://www.space.com/astronomy/moon/live-from-the-moon-how-lasers-connected-us-all-to-nasas-artemis-2-astronauts-on-their-epic-lunar-trip"
-    },
-    {
-      "category": "AI",
-      "title": "Fox Is Buying Roku",
-      "source": "Hacker News: Front Page",
-      "date": "Mon, 15 Jun 2026 14:55:50 +0000",
-      "summary": "Article URL: https://www.fastcompany.com/91559558/fox-corp-buying-roku-stock-prices-fall-on-tv-streaming-merger\nComments URL: https://news.ycombinator.com/item?id=48542209\nPoints: 22\n# Comments: 1",
-      "url": "https://www.fastcompany.com/91559558/fox-corp-buying-roku-stock-prices-fall-on-tv-streaming-merger"
-    },
-    {
-      "category": "AI",
-      "title": "Hetzner increased dedicated server prices 3-4x",
-      "source": "Hacker News: Front Page",
-      "date": "Mon, 15 Jun 2026 14:44:02 +0000",
-      "summary": "A few months after raising prices ~30%, Hetzner has increased bare metal pricing again, this time by 3-4x:\nAX102: €124 -> €454\nAX162 (256GB): €244 -> €844\nComments URL: https://news.ycombinator.com/item?id=48542064\nPoints: 111\n# Comments: 51",
-      "url": "https://news.ycombinator.com/item?id=48542064"
-    },
-    {
-      "category": "Space",
-      "title": "San Francisco’s Patchwork Streets",
-      "source": "NASA",
-      "date": "Mon, 15 Jun 2026 14:30:31 +0000",
-      "summary": "An astronaut aboard the International Space Station took this picture of downtown San Francisco and nearby communities on May 27, 2026. The image captures two of the region’s iconic bridges. The Golden Gate Bridge connects the northern San Francisco Peninsula with Marin County to the north, while the San Francisco-Oakland Bay Bridge spans the bay toward […]",
-      "url": "https://www.nasa.gov/image-article/san-franciscos-patchwork-streets/"
-    },
-    {
-      "category": "Space",
-      "title": "Experience the Launch of NASA’s Roman Space Telescope ",
-      "source": "NASA",
-      "date": "Mon, 15 Jun 2026 14:28:36 +0000",
-      "summary": "Are you ready for a new view of the universe? The Nancy Grace Roman Space Telescope will reveal distant worlds, dark energy, and the structure of the cosmos, and we want you to be a part of it!   Digital creators and social media users are invited to register to our NASA Social for the Nancy […]",
-      "url": "https://www.nasa.gov/social-media/nasa-socials-program/experience-the-launch-of-nasas-roman-space-telescope/"
-    },
-    {
-      "category": "Space",
-      "title": " Hubble spies a swarm of stars in a strange, irregular galaxy | Space photo of the day for 15, 2026 ",
-      "source": " Latest from Space.com ",
-      "date": "Mon, 15 Jun 2026 14:00:00 +0000",
-      "summary": "This faint galaxy is hard to look away from.",
-      "url": "https://www.space.com/astronomy/hubble-space-telescope/hubble-spies-a-swarm-of-stars-in-a-strange-irregular-galaxy-space-photo-of-the-day-for-15-2026"
-    },
-    {
-      "category": "AI",
-      "title": "Russia appears set to finally address long-term, serious space station cracks",
+      "title": "Chipmaker Nvidia seeks to raise over $25B in first bond deal since 2021",
       "source": "Ars Technica - All content",
-      "date": "Mon, 15 Jun 2026 13:54:02 +0000",
-      "summary": "This has been a persistent, behind-the-scenes dispute between NASA and Roscosmos.",
-      "url": "https://arstechnica.com/space/2026/06/russia-appears-set-to-finally-address-long-term-serious-space-station-cracks/"
-    },
-    {
-      "category": "Space",
-      "title": " Scientists find strange changes on sun hours before a powerful X9 solar flare: 'I was not expecting what I found' ",
-      "source": " Latest from Space.com ",
-      "date": "Mon, 15 Jun 2026 13:00:00 +0000",
-      "summary": "These results could benefit space weather forecasts.",
-      "url": "https://www.space.com/astronomy/sun/scientists-find-strange-changes-on-sun-hours-before-a-powerful-x9-solar-flare-i-was-not-expecting-what-i-found"
+      "date": "Mon, 15 Jun 2026 19:07:02 +0000",
+      "summary": "Debt sale set to test investor appetite for further exposure to AI sector amid a deluge of borrowing.",
+      "url": "https://arstechnica.com/ai/2026/06/chipmaker-nvidia-seeks-to-raise-over-25b-in-first-bond-deal-since-2021/"
     },
     {
       "category": "Science",
-      "title": " Hundreds of hidden earthquakes discovered beneath Antarctica — and they're happening in a very odd location ",
+      "title": "Redefined conformity model beats averaging in five real-world tests of opinion dynamics",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Mon, 15 Jun 2026 15:00:09 EDT",
+      "summary": "Imagine you poll your friends on how many minutes per pound to roast a turkey. Five respond with 15 minutes; one answers 33 minutes. The most popular model of conformity, the French-Harary-DeGroot model (or more commonly, DeGroot model), assumes that you would carefully weigh all six recommendations, calculating a cooking time of 18 minutes per pound. But under a model of conformity previously published by SFI Complexity Postdoctoral Fellow Kaleda Denton and colleagues, you would disregard the outlier and move ahead with 15.",
+      "url": "https://phys.org/news/2026-06-redefined-conformity-averaging-real-world.html"
+    },
+    {
+      "category": "Space",
+      "title": " These are the 7 best sci-fi games I saw at Summer Game Fest 2026 ",
+      "source": " Latest from Space.com ",
+      "date": "Mon, 15 Jun 2026 19:00:00 +0000",
+      "summary": "This is where the fun begins.",
+      "url": "https://www.space.com/entertainment/space-games/these-are-the-7-best-sci-fi-games-i-saw-at-summer-game-fest-2026"
+    },
+    {
+      "category": "AI",
+      "title": "A Chinese rocket breaks apart dangerously close to the Starlink constellation",
+      "source": "Ars Technica - All content",
+      "date": "Mon, 15 Jun 2026 18:55:41 +0000",
+      "summary": "The rocket's breakup likely generated 100 to 150 new pieces of space junk.",
+      "url": "https://arstechnica.com/space/2026/06/a-chinese-rocket-breaks-apart-dangerously-close-to-the-starlink-constellation/"
+    },
+    {
+      "category": "Space",
+      "title": "NASA’s Chandra Finds Unexpected Fireworks in Aftermath of Stellar Explosions",
+      "source": "NASA",
+      "date": "Mon, 15 Jun 2026 18:45:40 +0000",
+      "summary": "The aftermath of a supernova, a stellar explosion, is usually a slowly fading cloud of hot gas. So when astronomers pointed NASA’s Chandra X-ray Observatory at the nearby galaxy Messier 83 (M83), they did not expect to find a population of supernova remnants, or the debris from these explosions, showing dramatic changes in their brightness. […]",
+      "url": "https://science.nasa.gov/missions/chandra/nasas-chandra-finds-unexpected-fireworks-in-aftermath-of-stellar-explosions/"
+    },
+    {
+      "category": "AI",
+      "title": "The Alaska Server",
+      "source": "Hacker News: Front Page",
+      "date": "Mon, 15 Jun 2026 18:37:27 +0000",
+      "summary": "Article URL: https://serialport.org/blog/the-alaska-server/\nComments URL: https://news.ycombinator.com/item?id=48545293\nPoints: 7\n# Comments: 1",
+      "url": "https://serialport.org/blog/the-alaska-server/"
+    },
+    {
+      "category": "AI",
+      "title": "Around 200 Stanford students walk out as Google CEO takes stage",
+      "source": "Hacker News: Front Page",
+      "date": "Mon, 15 Jun 2026 18:34:14 +0000",
+      "summary": "Article URL: https://www.sfgate.com/tech/article/sundar-pichai-stanford-commencement-22304888.php\nComments URL: https://news.ycombinator.com/item?id=48545260\nPoints: 48\n# Comments: 3",
+      "url": "https://www.sfgate.com/tech/article/sundar-pichai-stanford-commencement-22304888.php"
+    },
+    {
+      "category": "AI",
+      "title": "Fox’s $22B Roku acquisition aims to expand its reach into smart TVs, advertising",
+      "source": "Ars Technica - All content",
+      "date": "Mon, 15 Jun 2026 18:29:47 +0000",
+      "summary": "Fox plans to take over Roku's streaming hardware, OS, and FAST services.",
+      "url": "https://arstechnica.com/gadgets/2026/06/foxs-22b-roku-acquisition-aims-to-expand-its-reach-into-smart-tvs-advertising/"
+    },
+    {
+      "category": "Space",
+      "title": "NASA Astronauts to Answer Questions from New Jersey Students",
+      "source": "NASA",
+      "date": "Mon, 15 Jun 2026 18:06:18 +0000",
+      "summary": "Students in New Jersey will hear from NASA astronauts Chris Williams and Jessica Meir as they answer prerecorded STEM questions while aboard the International Space Station. The Earth-to-space call will begin at 12:05 p.m. EDT, Thursday, June 18, and will stream live on the agency’s Learn With NASA YouTube channel. This event is hosted by Newton Public Schools […]",
+      "url": "https://www.nasa.gov/learning-resources/for-colleges-universities/nasa-stem-projects/in-flight-education-downlinks/nasa-astronauts-to-answer-questions-from-new-jersey-students/"
+    },
+    {
+      "category": "AI",
+      "title": "Game Engine White Papers Commander Keen",
+      "source": "Hacker News: Front Page",
+      "date": "Mon, 15 Jun 2026 17:52:39 +0000",
+      "summary": "Article URL: https://forgottenbytes.net/commander_keen.html\nComments URL: https://news.ycombinator.com/item?id=48544781\nPoints: 46\n# Comments: 8",
+      "url": "https://forgottenbytes.net/commander_keen.html"
+    },
+    {
+      "category": "Space",
+      "title": "NASA’s SpaceX CRS-34 Dragon Returns Packed with Space Station Science",
+      "source": "NASA",
+      "date": "Mon, 15 Jun 2026 17:30:00 +0000",
+      "summary": "Scientists await a big splash in the Pacific Ocean as one of the most research-packed Dragon spacecraft to date returns, completing the 34th SpaceX commercial resupply mission to the International Space Station for NASA. Biological and materials samples, along with tested hardware, are heading back to research teams on Earth for further analysis, advancing NASA’s […]",
+      "url": "https://www.nasa.gov/missions/station/iss-research/nasas-spacex-crs-34-dragon-returns-packed-with-space-station-science/"
+    },
+    {
+      "category": "Science",
+      "title": " Diagnostic dilemma: Brain scans following a man's hospital visit for leg weakness revealed a surprising finding ",
       "source": " Latest from Live Science ",
-      "date": "Mon, 15 Jun 2026 12:00:00 +0000",
-      "summary": "Antarctica was long thought to be seismically calm, but new technology makes it possible to detect unexpected types of earthquakes beneath the ice.",
-      "url": "https://www.livescience.com/planet-earth/antarctica/hundreds-of-hidden-earthquakes-discovered-beneath-antarctica-and-theyre-happening-in-a-very-odd-location"
+      "date": "Mon, 15 Jun 2026 17:10:49 +0000",
+      "summary": "A man went to hospital complaining about weakness in his left leg, and subsequent brain scans revealed his abnormally small brain.",
+      "url": "https://www.livescience.com/health/diagnostic-dilemma-brain-scans-following-a-mans-hospital-visit-for-leg-weakness-revealed-a-surprising-finding"
+    },
+    {
+      "category": "Science",
+      "title": " 'Melted in a pot somewhere': Vikings used Islamic silver coins to make their early pennies, study finds ",
+      "source": " Latest from Live Science ",
+      "date": "Mon, 15 Jun 2026 17:07:07 +0000",
+      "summary": "The silver in a Viking Age hoard found in Denmark was from melted-down coins from the faraway Islamic world, a new study finds.",
+      "url": "https://www.livescience.com/archaeology/vikings/melted-in-a-pot-somewhere-vikings-used-islamic-silver-coins-to-make-their-early-pennies-study-finds"
+    },
+    {
+      "category": "Space",
+      "title": " 'Everybody came with their A-game': Oscar-winning sound editor Andy Nelson talks reuniting with Spielberg & John Williams for 'Disclosure Day' ",
+      "source": " Latest from Space.com ",
+      "date": "Mon, 15 Jun 2026 17:00:00 +0000",
+      "summary": "'The truth is, everybody came with their A-game. Because the script called for it. Steven definitely calls for it.'",
+      "url": "https://www.space.com/entertainment/space-movies-shows/oscar-winning-sound-editor-andy-nelson-talks-reuniting-with-spielberg-and-john-williams-for-disclosure-day"
     },
     {
       "category": "Science",
@@ -129,14 +153,6 @@
       "date": "Mon, 15 Jun 2026 07:54:43 EDT",
       "summary": "Scientists have found that staple-shaped particles can tangle together to create a material that is both strong and flexible. Unlike conventional materials, these particles can be locked into a sturdy structure or rapidly unraveled using vibrations. The unusual behavior could open the door to recyclable buildings, reconfigurable structures, and even futuristic robotic technologies.",
       "url": "https://www.sciencedaily.com/releases/2026/06/260615033849.htm"
-    },
-    {
-      "category": "Science",
-      "title": " An ancient piece of the moon found in Africa hints at a long-ago collision that turned the lunar surface molten ",
-      "source": " Latest from Live Science ",
-      "date": "Mon, 15 Jun 2026 11:00:00 +0000",
-      "summary": "A meteorite shows evidence that an ancient crash on the moon 3.5 billion years ago was so powerful, it turned the surface molten.",
-      "url": "https://www.livescience.com/space/astronomy/an-ancient-piece-of-the-moon-found-in-africa-hints-at-a-long-ago-collision-that-turned-the-lunar-surface-molten"
     },
     {
       "category": "Biblical Studies",
@@ -187,14 +203,6 @@
       "url": "https://openai.com/index/introducing-openai-partner-network"
     },
     {
-      "category": "AI",
-      "title": "Did a medieval flying monk spot Halley's comet, twice? It's complicated",
-      "source": "Ars Technica - All content",
-      "date": "Sun, 14 Jun 2026 16:02:53 +0000",
-      "summary": "University of Leicester historian thinks Eilmer of Malmesbury saw two different comets: in 1018 and 1066",
-      "url": "https://arstechnica.com/science/2026/06/did-a-medieval-flying-monk-spot-halleys-comet-twice-its-complicated/"
-    },
-    {
       "category": "Biblical Studies",
       "title": "The House of Peter: The Home of Jesus in Capernaum?",
       "source": "Biblical Archaeology Society",
@@ -209,14 +217,6 @@
       "date": "Sun, 14 Jun 2026 04:00:00 +0000",
       "summary": "New things and old things were never meant to bear the weight of our longing. God designed us to find our ultimate joy in what’s eternal—God himself.",
       "url": "https://www.thegospelcoalition.org/article/my-generation-nostalgia/"
-    },
-    {
-      "category": "AI",
-      "title": "Review: Disclosure Day is big on action, light on ideas",
-      "source": "Ars Technica - All content",
-      "date": "Sat, 13 Jun 2026 17:17:44 +0000",
-      "summary": "There's nothing new or surprising, but it's still an entertaining film from one of our greatest directors.",
-      "url": "https://arstechnica.com/culture/2026/06/review-disclosure-day-is-big-on-action-light-on-ideas/"
     },
     {
       "category": "Theology",
