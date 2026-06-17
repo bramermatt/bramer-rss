@@ -1,86 +1,158 @@
 {
-  "lastUpdated": "2026-06-16T23:18:59.382Z",
+  "lastUpdated": "2026-06-17T13:37:53.867Z",
   "articleCount": 39,
   "articles": [
     {
       "category": "Science",
-      "title": "Santa Cruz trail study reveals how mountain lions and outdoor recreation can safely share spaces",
+      "title": "Dark matter cannot be ruled out as cause of gamma ray glow at the Milky Way's center, machine learning shows",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Tue, 16 Jun 2026 19:10:03 EDT",
-      "summary": "California's iconic Santa Cruz Mountains are an outdoor recreation wonderland. With a world-class network of hiking, mountain biking and equestrian trails, they draw millions of visitors each year from neighboring Santa Cruz, Santa Clara, San Francisco and San Mateo counties.",
-      "url": "https://phys.org/news/2026-06-santa-cruz-trail-reveals-mountain.html"
+      "date": "Wed, 17 Jun 2026 09:20:01 EDT",
+      "summary": "An international research collaboration between the University of Vienna and Lawrence Berkeley National Laboratory in the United States has used machine learning to re-examine one of the most debated signals in astrophysics. The so-called Galactic Center Excess (GCE), a faint, roughly spherical glow of gamma rays at the center of the Milky Way, has fascinated physicists for more than a decade. The new results suggest that an explanation in terms of dark matter cannot currently be ruled out. The results have now been published in the journal Physical Review Letters.",
+      "url": "https://phys.org/news/2026-06-dark-gamma-ray-milky-center.html"
+    },
+    {
+      "category": "AI",
+      "title": "Want your images back? Sure... That'll be $5!",
+      "source": "Hacker News: Front Page",
+      "date": "Wed, 17 Jun 2026 13:05:03 +0000",
+      "summary": "Article URL: https://www.lutr.dev/want-your-images-back-sure-that-ll-be-5-dollars\nComments URL: https://news.ycombinator.com/item?id=48569954\nPoints: 54\n# Comments: 17",
+      "url": "https://www.lutr.dev/want-your-images-back-sure-that-ll-be-5-dollars"
     },
     {
       "category": "Science",
-      "title": "Quantum hyperdimensional computing can work 500 times faster than other methods",
+      "title": "How evolution can make cells smaller without slowing down their growth",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Tue, 16 Jun 2026 19:00:03 EDT",
-      "summary": "Cleveland Clinic researchers are unlocking quantum computing's full potential through the creation of a new computing paradigm inspired by the human brain. Fabio Cumbo, Ph.D., research associate in the lab of Daniel Blankenberg, Ph.D., associate staff, Computational Life Sciences, is developing the model, called quantum hyperdimensional computing (QHDC).",
-      "url": "https://phys.org/news/2026-06-quantum-hyperdimensional-faster-methods.html"
+      "date": "Wed, 17 Jun 2026 09:00:09 EDT",
+      "summary": "A new study led by Marco Fumasoni, principal investigator at Fundação GIMM, shows that evolution can substantially reduce cell size without significantly compromising cells' ability to grow. The work, carried out in yeast in collaboration with researchers at Cornell University, is published in Proceedings of the National Academy of Sciences.",
+      "url": "https://phys.org/news/2026-06-evolution-cells-smaller-growth.html"
     },
     {
       "category": "Science",
-      "title": "New national publication gives teachers guidance on AI in the classroom",
+      "title": "UK rivers face rising risk of climate 'whiplash'",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Tue, 16 Jun 2026 19:00:01 EDT",
-      "summary": "With artificial intelligence tools available on every phone, laptop and tablet, higher education has struggled to implement consistent recommendations for how and when AI can be used. A new national guide seeks to change that.",
-      "url": "https://phys.org/news/2026-06-national-teachers-guidance-ai-classroom.html"
+      "date": "Wed, 17 Jun 2026 09:00:01 EDT",
+      "summary": "Climate change could push UK rivers to dangerous extremes and bring more frequent rapid swings between wet and dry conditions—a phenomenon known as hydroclimatic whiplash—according to research led by the University of East Anglia (UEA). Researchers analyzed almost 700 river catchments across the UK to project how river flows may change at 2° C and 4° C of global warming. The results reveal stark regional contrasts and growing challenges for communities and water managers trying to plan for flood and drought risk, particularly in areas that will increasingly experience both.",
+      "url": "https://phys.org/news/2026-06-uk-rivers-climate-whiplash.html"
     },
     {
       "category": "AI",
-      "title": "Among the large new rockets Amazon was counting on, only Europe has delivered",
+      "title": "Sixty percent of US consumers say 'AI' in brand messaging is a turnoff",
       "source": "Hacker News: Front Page",
-      "date": "Tue, 16 Jun 2026 22:51:23 +0000",
-      "summary": "Article URL: https://arstechnica.com/space/2026/06/amid-launch-bottleneck-amazon-has-hundreds-of-satellites-waiting-to-fly/\nComments URL: https://news.ycombinator.com/item?id=48563364\nPoints: 6\n# Comments: 0",
-      "url": "https://arstechnica.com/space/2026/06/amid-launch-bottleneck-amazon-has-hundreds-of-satellites-waiting-to-fly/"
+      "date": "Wed, 17 Jun 2026 12:11:27 +0000",
+      "summary": "Article URL: https://wpvip.com/future-of-the-web-2026/\nComments URL: https://news.ycombinator.com/item?id=48569278\nPoints: 248\n# Comments: 136",
+      "url": "https://wpvip.com/future-of-the-web-2026/"
     },
     {
       "category": "AI",
-      "title": "The UK's Teen Social Media Ban Is Political Theater, Not Child Safety Policy",
+      "title": "MicroUI – A tiny, portable, immediate-mode UI library written in ANSI C",
       "source": "Hacker News: Front Page",
-      "date": "Tue, 16 Jun 2026 22:15:55 +0000",
-      "summary": "Article URL: https://www.techdirt.com/2026/06/16/the-uks-teen-social-media-ban-is-political-theater-not-child-safety-policy/\nComments URL: https://news.ycombinator.com/item?id=48562957\nPoints: 29\n# Comments: 13",
-      "url": "https://www.techdirt.com/2026/06/16/the-uks-teen-social-media-ban-is-political-theater-not-child-safety-policy/"
+      "date": "Wed, 17 Jun 2026 12:04:28 +0000",
+      "summary": "Article URL: https://github.com/rxi/microui\nComments URL: https://news.ycombinator.com/item?id=48569205\nPoints: 25\n# Comments: 9",
+      "url": "https://github.com/rxi/microui"
     },
     {
       "category": "AI",
-      "title": "Cockroaches scurry around with thousands of pieces of bacterial genomes",
+      "title": "Native NACS ports, infotainment upgrade for MY27 Porsche Taycan",
       "source": "Ars Technica - All content",
-      "date": "Tue, 16 Jun 2026 21:54:41 +0000",
-      "summary": "Transferring genes across species doesn't just happen in microbes.",
-      "url": "https://arstechnica.com/science/2026/06/cockroaches-scurry-around-with-thousands-of-pieces-of-bacterial-genomes/"
+      "date": "Wed, 17 Jun 2026 12:00:45 +0000",
+      "summary": "The bigger battery is standard and there are now simulated \"E-Shifts.\"",
+      "url": "https://arstechnica.com/cars/2026/06/native-nacs-ports-infotainment-upgrade-for-my27-porsche-taycan/"
+    },
+    {
+      "category": "Space",
+      "title": " Was life delivered to Earth by asteroids with a helping hand from Jupiter? ",
+      "source": " Latest from Space.com ",
+      "date": "Wed, 17 Jun 2026 12:00:00 +0000",
+      "summary": "Earth may have gotten some of the key ingredients for life from asteroids in the inner solar system, but not without assistance from Jupiter.",
+      "url": "https://www.space.com/space-exploration/search-for-life/was-life-delivered-to-earth-by-asteroids-with-a-helping-hand-from-jupiter"
+    },
+    {
+      "category": "AI",
+      "title": "Windows and Linux users: The deadline to update Secure Boot keys is near",
+      "source": "Ars Technica - All content",
+      "date": "Wed, 17 Jun 2026 11:15:17 +0000",
+      "summary": "What you need to know about the expiration of keys securing your machine's boot sequence.",
+      "url": "https://arstechnica.com/security/2026/06/windows-and-linux-users-the-deadline-to-update-secure-boot-keys-is-near/"
+    },
+    {
+      "category": "Biblical Studies",
+      "title": "Teasing the Temple in the Dead Sea Scrolls",
+      "source": "Biblical Archaeology Society",
+      "date": "Wed, 17 Jun 2026 10:45:38 +0000",
+      "summary": "Comfort, comfort my people! –Isaiah 40:1 When Cyrus and the Persians brought an end to the Babylonian Exile and decreed that communities exiled by the […]\nThe post Teasing the Temple in the Dead Sea Scrolls appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/daily/biblical-artifacts/dead-sea-scrolls/teasing-the-temple-in-the-dead-sea-scrolls/"
+    },
+    {
+      "category": "Science",
+      "title": " Diagnostic dilemma: Viral infection caused woman not to recognize her own father ",
+      "source": " Latest from Live Science ",
+      "date": "Wed, 17 Jun 2026 10:00:00 +0000",
+      "summary": "A woman could no longer recognize her father's face and had trouble holding the details of faces in her mind's eye.",
+      "url": "https://www.livescience.com/health/viruses-infections-disease/diagnostic-dilemma-viral-infection-caused-woman-not-to-recognize-her-own-father"
+    },
+    {
+      "category": "Space",
+      "title": " 'Best. Mars. Mission. Ever.' Scientists hail MAVEN's legacy as NASA retires Red Planet orbiter ",
+      "source": " Latest from Space.com ",
+      "date": "Wed, 17 Jun 2026 10:00:00 +0000",
+      "summary": "NASA's MAVEN Mars mission ended after 11 years, having revealed how the planet lost its atmosphere and served as a key communications relay for surface missions.",
+      "url": "https://www.space.com/astronomy/mars/best-mars-mission-ever-scientists-hail-mavens-legacy-as-nasa-retires-red-planet-orbiter"
+    },
+    {
+      "category": "Space",
+      "title": " Stream Season 3 of Silo in safety, anywhere, with 70% off 24 months of ProtonVPN Plus ",
+      "source": " Latest from Space.com ",
+      "date": "Wed, 17 Jun 2026 09:06:17 +0000",
+      "summary": "Can't wait for Season 3 of Silo? Watch this post-apocalyptic smash wherever you are and stay safe online with this superb ProtonVPN deal.",
+      "url": "https://www.space.com/technology/stream-season-3-of-silo-in-safety-anywhere-with-70-percent-off-24-months-of-protonvpn-plus"
+    },
+    {
+      "category": "Theology",
+      "title": "‘Masters of the Universe’ and the Longing for Sincerity",
+      "source": "The Gospel Coalition",
+      "date": "Wed, 17 Jun 2026 04:03:00 +0000",
+      "summary": "‘Absurdity with earnestness’ could be the tagline of metamodern storytelling. ‘Masters of the Universe’ exemplifies this.",
+      "url": "https://www.thegospelcoalition.org/article/masters-universe-christian-movie-review/"
+    },
+    {
+      "category": "Theology",
+      "title": "The Exciting Christian Life of John C. Lennox",
+      "source": "The Gospel Coalition",
+      "date": "Wed, 17 Jun 2026 04:02:00 +0000",
+      "summary": "John Lennox provides plenty of evidence that the Christian life isn’t boring.",
+      "url": "https://www.thegospelcoalition.org/reviews/my-story-lennox-interview/"
+    },
+    {
+      "category": "Space",
+      "title": "Low Water at San Carlos Reservoir",
+      "source": "NASA",
+      "date": "Wed, 17 Jun 2026 04:01:00 +0000",
+      "summary": "Drought and water releases drained the Arizona reservoir to levels that have led to widespread fish deaths.",
+      "url": "https://science.nasa.gov/earth/earth-observatory/low-water-at-san-carlos-reservoir/"
+    },
+    {
+      "category": "Theology",
+      "title": "The Body Keeps the Score. But the Mind and Heart Do Too.",
+      "source": "The Gospel Coalition",
+      "date": "Wed, 17 Jun 2026 04:00:00 +0000",
+      "summary": "A new study suggests that Van der Kolk’s body-focused view doesn’t capture the complexity of the human experience with trauma.",
+      "url": "https://www.thegospelcoalition.org/article/body-keeps-score-mind-heart/"
+    },
+    {
+      "category": "AI",
+      "title": "Trump admin tries to block Clean Air Act lawsuit over xAI's gas turbines",
+      "source": "Ars Technica - All content",
+      "date": "Tue, 16 Jun 2026 22:22:44 +0000",
+      "summary": "NAACP lawsuit says xAI uses gas turbines without permits for Grok data center.",
+      "url": "https://arstechnica.com/tech-policy/2026/06/trump-admin-helps-xai-fight-pollution-lawsuit-says-military-needs-grok-for-war/"
     },
     {
       "category": "Space",
       "title": "NASA’s Webb Catches Exoplanet Getting Roasted",
       "source": "NASA",
       "date": "Tue, 16 Jun 2026 21:15:00 +0000",
-      "summary": "One well-done gas giant, coming right up! That’s the latest from researchers analyzing NASA’s James Webb Space Telescope’s observations of HD 80606 b, an exoplanet four times the mass of Jupiter with an extremely elliptical orbit that sweeps close by its Sun-like star. The research team is presenting their study and preliminary findings Tuesday at […]",
+      "summary": "That’s the latest from researchers analyzing NASA’s James Webb Space Telescope’s observations of HD 80606 b, an exoplanet four times the mass of Jupiter with an extremely elliptical orbit that sweeps close by its Sun-like star.",
       "url": "https://science.nasa.gov/missions/webb/nasas-webb-catches-exoplanet-getting-roasted/"
-    },
-    {
-      "category": "AI",
-      "title": "Among the large new rockets Amazon was counting on, only Europe has delivered",
-      "source": "Ars Technica - All content",
-      "date": "Tue, 16 Jun 2026 21:14:08 +0000",
-      "summary": "\"As for Arianespace, they have definitely stepped up.\"",
-      "url": "https://arstechnica.com/space/2026/06/amid-launch-bottleneck-amazon-has-hundreds-of-satellites-waiting-to-fly/"
-    },
-    {
-      "category": "AI",
-      "title": "Anthropic \"pauses\" token-based billing for its Claude Agent SDK",
-      "source": "Ars Technica - All content",
-      "date": "Tue, 16 Jun 2026 21:00:35 +0000",
-      "summary": "Move originally planned for Monday would have heavily increased power users' costs.",
-      "url": "https://arstechnica.com/ai/2026/06/anthropic-pauses-token-based-billing-for-its-claude-agent-sdk/"
-    },
-    {
-      "category": "Space",
-      "title": " NASA X-ray spacecraft catches jet erupting from 1st supermassive black hole imaged by humanity ",
-      "source": " Latest from Space.com ",
-      "date": "Tue, 16 Jun 2026 21:00:00 +0000",
-      "summary": "\"We could already see changes in the jet, but never with this level of detail in X-rays.\"",
-      "url": "https://www.space.com/astronomy/black-holes/nasa-x-ray-spacecraft-catches-jet-erupting-from-1st-supermassive-black-hole-imaged-by-humanity"
     },
     {
       "category": "Space",
@@ -89,14 +161,6 @@
       "date": "Tue, 16 Jun 2026 20:41:29 +0000",
       "summary": "Description NASA astronaut Jessica Meir inspects optical fibers while installing hardware updates to the agency’s Cold Atom Lab, or CAL, aboard the International Space Station on May 8, 2026. About the size of a minifridge and operated from Earth, CAL chills atoms to temperatures below minus 459 degrees Fahrenheit (minus 273.15 degrees Celsius), so close […]",
       "url": "https://science.nasa.gov/photojournal/astronaut-jessica-meir-assists-with-hardware-updates-for-nasas-cold-atom-lab/"
-    },
-    {
-      "category": "AI",
-      "title": "GrapheneOS has been ported to Android 17 and official releases are coming soon",
-      "source": "Hacker News: Front Page",
-      "date": "Tue, 16 Jun 2026 20:34:35 +0000",
-      "summary": "Article URL: https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon\nComments URL: https://news.ycombinator.com/item?id=48561654\nPoints: 198\n# Comments: 80",
-      "url": "https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon"
     },
     {
       "category": "Science",
@@ -111,40 +175,8 @@
       "title": " How to see Venus vanish behind the moon during the day Wednesday — without any special equipment ",
       "source": " Latest from Live Science ",
       "date": "Tue, 16 Jun 2026 20:18:33 +0000",
-      "summary": "On Wednesday (June 17), the moon will pass between Earth and Venus, causing the hellish planet to temporarily disappear from the daytime sky. Here's what it will look like, exactly when it is happening, and how you can safely view this skywatching spectacle.",
+      "summary": "On Wednesday (June 17), the moon will pass between Earth and Venus, causing the hellish planet to temporarily disappear from the daytime sky. Here's what it will look like, exactly when it is happening and how you can safely view this skywatching spectacle.",
       "url": "https://www.livescience.com/space/astronomy/how-to-see-venus-vanish-behind-the-moon-during-the-day-wednesday-without-any-special-equipment"
-    },
-    {
-      "category": "Space",
-      "title": " Watch European rocket launch record-breaking mission for Amazon on June 17 ",
-      "source": " Latest from Space.com ",
-      "date": "Tue, 16 Jun 2026 20:01:58 +0000",
-      "summary": "An Ariane 6 heavy-lift rocket will  launch a record-breaking load to orbit early on Wednesday morning (June 17), and you can watch the action live.",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/ariane-6-rocket-record-breaking-launch-amazon-leo-le-03"
-    },
-    {
-      "category": "Space",
-      "title": " How to see the moon hide Venus in a rare daytime sky show on June 17 ",
-      "source": " Latest from Space.com ",
-      "date": "Tue, 16 Jun 2026 18:00:00 +0000",
-      "summary": "A rare daytime occultation will see a thin crescent moon pass directly in front of dazzling Venus on June 17.",
-      "url": "https://www.space.com/stargazing/how-to-see-the-moon-hide-venus-in-a-rare-daytime-sky-show-on-june-17"
-    },
-    {
-      "category": "Space",
-      "title": "NASA Webb, Hubble Reveal History of Relic of Milky Way’s Formation",
-      "source": "NASA",
-      "date": "Tue, 16 Jun 2026 17:15:00 +0000",
-      "summary": "Researchers using two of humanity’s most powerful observatories — NASA’s James Webb and Hubble Space Telescopes — have definitively shown that Terzan 5 is not a globular star cluster as it was once classified, offering new insight into how galaxies like our own form and evolve over time. A globular star cluster typically has only […]",
-      "url": "https://science.nasa.gov/missions/webb/nasa-webb-hubble-reveal-history-of-relic-of-milky-ways-formation/"
-    },
-    {
-      "category": "Science",
-      "title": " A Texas-size chunk of winter sea ice is missing from Antarctica — and it's probably not coming back ",
-      "source": " Latest from Live Science ",
-      "date": "Tue, 16 Jun 2026 16:39:38 +0000",
-      "summary": "An area of ice nearly the size of Texas has failed to form over the Bellingshausen Sea, off western Antarctica, as researchers investigate the links between sea ice loss and global warming.",
-      "url": "https://www.livescience.com/planet-earth/antarctica/a-texas-size-chunk-of-winter-sea-ice-is-missing-from-antarctica-and-its-probably-not-coming-back"
     },
     {
       "category": "Biblical Studies",
@@ -179,22 +211,6 @@
       "url": "https://www.sciencedaily.com/releases/2026/06/260615033851.htm"
     },
     {
-      "category": "Theology",
-      "title": "New Resources Help You See God by Connecting Scripture (with Benjamin Gladd)",
-      "source": "The Gospel Coalition",
-      "date": "Tue, 16 Jun 2026 04:04:59 +0000",
-      "summary": "Benjamin Gladd explains how connections between the Old and New Testaments reveal the Bible’s overarching story of redemption.",
-      "url": "https://www.thegospelcoalition.org/podcasts/gospelbound/see-god-connecting-scripture-gladd/"
-    },
-    {
-      "category": "Theology",
-      "title": "Don’t Just Settle for Youth Ministry. Embrace It.",
-      "source": "The Gospel Coalition",
-      "date": "Tue, 16 Jun 2026 04:00:00 +0000",
-      "summary": "If we want students to leave youth ministry with theological depth, we must recognize that solid theology isn’t microwaved; it’s cultivated.",
-      "url": "https://www.thegospelcoalition.org/article/dont-settle-youth-ministry-embrace/"
-    },
-    {
       "category": "AI",
       "title": "Predicting model behavior before release by simulating deployment",
       "source": "OpenAI News",
@@ -217,22 +233,6 @@
       "date": "Mon, 15 Jun 2026 07:54:43 EDT",
       "summary": "Scientists have found that staple-shaped particles can tangle together to create a material that is both strong and flexible. Unlike conventional materials, these particles can be locked into a sturdy structure or rapidly unraveled using vibrations. The unusual behavior could open the door to recyclable buildings, reconfigurable structures, and even futuristic robotic technologies.",
       "url": "https://www.sciencedaily.com/releases/2026/06/260615033849.htm"
-    },
-    {
-      "category": "Biblical Studies",
-      "title": "Synagogues Jesus and Mary Magdalene Knew",
-      "source": "Biblical Archaeology Society",
-      "date": "Mon, 15 Jun 2026 10:45:20 +0000",
-      "summary": "In 2009, archaeologists uncovered a first-century synagogue at the town of Migdal on the shores of the Sea of Galilee. Its stone benches still lined […]\nThe post Synagogues Jesus and Mary Magdalene Knew appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/daily/people-cultures-in-the-bible/jesus-historical-jesus/synagogues-jesus-and-mary-magdalene-knew/"
-    },
-    {
-      "category": "Theology",
-      "title": "How I Think About AI in My Medical Practice",
-      "source": "The Gospel Coalition",
-      "date": "Mon, 15 Jun 2026 04:00:00 +0000",
-      "summary": "All wisdom to use this technology must be found in the theological principles that flow out of the pages of God’s living Word.",
-      "url": "https://www.thegospelcoalition.org/article/ai-medical-practice/"
     },
     {
       "category": "AI",
