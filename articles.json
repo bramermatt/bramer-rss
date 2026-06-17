@@ -1,78 +1,134 @@
 {
-  "lastUpdated": "2026-06-17T13:37:53.867Z",
-  "articleCount": 39,
+  "lastUpdated": "2026-06-17T18:11:05.496Z",
+  "articleCount": 36,
   "articles": [
     {
       "category": "Science",
-      "title": "Dark matter cannot be ruled out as cause of gamma ray glow at the Milky Way's center, machine learning shows",
+      "title": "'Alexa, tell me a joke': How talking to AI impacts young children's development",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Wed, 17 Jun 2026 09:20:01 EDT",
-      "summary": "An international research collaboration between the University of Vienna and Lawrence Berkeley National Laboratory in the United States has used machine learning to re-examine one of the most debated signals in astrophysics. The so-called Galactic Center Excess (GCE), a faint, roughly spherical glow of gamma rays at the center of the Milky Way, has fascinated physicists for more than a decade. The new results suggest that an explanation in terms of dark matter cannot currently be ruled out. The results have now been published in the journal Physical Review Letters.",
-      "url": "https://phys.org/news/2026-06-dark-gamma-ray-milky-center.html"
-    },
-    {
-      "category": "AI",
-      "title": "Want your images back? Sure... That'll be $5!",
-      "source": "Hacker News: Front Page",
-      "date": "Wed, 17 Jun 2026 13:05:03 +0000",
-      "summary": "Article URL: https://www.lutr.dev/want-your-images-back-sure-that-ll-be-5-dollars\nComments URL: https://news.ycombinator.com/item?id=48569954\nPoints: 54\n# Comments: 17",
-      "url": "https://www.lutr.dev/want-your-images-back-sure-that-ll-be-5-dollars"
+      "date": "Wed, 17 Jun 2026 14:00:05 EDT",
+      "summary": "Children are innately curious, and throughout any given day they come up with all manner of questions: Why don't fish have hair? Why do flowers wilt so quickly? Their need to understand the world—and develop their language skills and ideas—makes them tireless conversationalists.",
+      "url": "https://phys.org/news/2026-06-alexa-ai-impacts-young-children.html"
     },
     {
       "category": "Science",
-      "title": "How evolution can make cells smaller without slowing down their growth",
+      "title": "Fungi help lock carbon into Arctic fjord sediments",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Wed, 17 Jun 2026 09:00:09 EDT",
-      "summary": "A new study led by Marco Fumasoni, principal investigator at Fundação GIMM, shows that evolution can substantially reduce cell size without significantly compromising cells' ability to grow. The work, carried out in yeast in collaboration with researchers at Cornell University, is published in Proceedings of the National Academy of Sciences.",
-      "url": "https://phys.org/news/2026-06-evolution-cells-smaller-growth.html"
-    },
-    {
-      "category": "Science",
-      "title": "UK rivers face rising risk of climate 'whiplash'",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Wed, 17 Jun 2026 09:00:01 EDT",
-      "summary": "Climate change could push UK rivers to dangerous extremes and bring more frequent rapid swings between wet and dry conditions—a phenomenon known as hydroclimatic whiplash—according to research led by the University of East Anglia (UEA). Researchers analyzed almost 700 river catchments across the UK to project how river flows may change at 2° C and 4° C of global warming. The results reveal stark regional contrasts and growing challenges for communities and water managers trying to plan for flood and drought risk, particularly in areas that will increasingly experience both.",
-      "url": "https://phys.org/news/2026-06-uk-rivers-climate-whiplash.html"
-    },
-    {
-      "category": "AI",
-      "title": "Sixty percent of US consumers say 'AI' in brand messaging is a turnoff",
-      "source": "Hacker News: Front Page",
-      "date": "Wed, 17 Jun 2026 12:11:27 +0000",
-      "summary": "Article URL: https://wpvip.com/future-of-the-web-2026/\nComments URL: https://news.ycombinator.com/item?id=48569278\nPoints: 248\n# Comments: 136",
-      "url": "https://wpvip.com/future-of-the-web-2026/"
-    },
-    {
-      "category": "AI",
-      "title": "MicroUI – A tiny, portable, immediate-mode UI library written in ANSI C",
-      "source": "Hacker News: Front Page",
-      "date": "Wed, 17 Jun 2026 12:04:28 +0000",
-      "summary": "Article URL: https://github.com/rxi/microui\nComments URL: https://news.ycombinator.com/item?id=48569205\nPoints: 25\n# Comments: 9",
-      "url": "https://github.com/rxi/microui"
-    },
-    {
-      "category": "AI",
-      "title": "Native NACS ports, infotainment upgrade for MY27 Porsche Taycan",
-      "source": "Ars Technica - All content",
-      "date": "Wed, 17 Jun 2026 12:00:45 +0000",
-      "summary": "The bigger battery is standard and there are now simulated \"E-Shifts.\"",
-      "url": "https://arstechnica.com/cars/2026/06/native-nacs-ports-infotainment-upgrade-for-my27-porsche-taycan/"
+      "date": "Wed, 17 Jun 2026 14:00:01 EDT",
+      "summary": "Arctic fjords are among the most efficient natural systems for absorbing and storing carbon long term. However, as the Arctic is warming about four times faster than the global average, fjord ecosystems are changing rapidly. Against this backdrop, understanding the biological processes that regulate carbon storage is becoming increasingly important. Yet the microbial mechanisms that control whether carbon is stored in sediments or returned to the environment are still not fully understood.",
+      "url": "https://phys.org/news/2026-06-fungi-carbon-arctic-fjord-sediments.html"
     },
     {
       "category": "Space",
-      "title": " Was life delivered to Earth by asteroids with a helping hand from Jupiter? ",
+      "title": " 'Warframe''s new Constellations update puts the focus back among the stars (interview) ",
       "source": " Latest from Space.com ",
-      "date": "Wed, 17 Jun 2026 12:00:00 +0000",
-      "summary": "Earth may have gotten some of the key ingredients for life from asteroids in the inner solar system, but not without assistance from Jupiter.",
-      "url": "https://www.space.com/space-exploration/search-for-life/was-life-delivered-to-earth-by-asteroids-with-a-helping-hand-from-jupiter"
+      "date": "Wed, 17 Jun 2026 18:00:00 +0000",
+      "summary": "With its latest major update, Digital Extremes makes space for old mechanics and new ideas in the cosmos.",
+      "url": "https://www.space.com/entertainment/space-games/warframes-new-constellations-update-puts-the-focus-back-among-the-stars"
+    },
+    {
+      "category": "Science",
+      "title": " 'A mixture from zero to infinity': Physicists split apart a photon — and ended up with an improbable swarm of particles ",
+      "source": " Latest from Live Science ",
+      "date": "Wed, 17 Jun 2026 17:50:15 +0000",
+      "summary": "Physicists have found that splitting a photon would lead to a complex state that may change the way we think of particles.",
+      "url": "https://www.livescience.com/physics-mathematics/particle-physics/a-mixture-from-zero-to-infinity-physicists-split-apart-a-photon-and-ended-up-with-an-improbable-swarm-of-particles"
+    },
+    {
+      "category": "Science",
+      "title": " Oldest known plague victims found in a 5,500-year-old burial ground in Siberia — and many of them were children ",
+      "source": " Latest from Live Science ",
+      "date": "Wed, 17 Jun 2026 17:43:56 +0000",
+      "summary": "The oldest known evidence of the plague killing people has been found in Siberia, and it carried a gene that may have made it particularly deadly for children.",
+      "url": "https://www.livescience.com/archaeology/oldest-known-plague-victims-found-in-a-5-500-year-old-burial-ground-in-siberia-and-many-of-them-were-children"
+    },
+    {
+      "category": "Science",
+      "title": "Swiss lake symbiosis reveals unexpected role in nitrogen cycling",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Wed, 17 Jun 2026 13:40:08 EDT",
+      "summary": "A publication led by researchers from the Max Planck Institute for Marine Microbiology in Bremen, Germany, shows that microscopic partnerships between ciliates and bacteria play a role in the nitrogen cycle of lakes. The study, published in The ISME Journal, investigates what determines the ecological niche of the remarkable symbiosis, and how strongly the host depends on its microbial partners.",
+      "url": "https://phys.org/news/2026-06-swiss-lake-symbiosis-reveals-unexpected.html"
+    },
+    {
+      "category": "Science",
+      "title": " A secretive Chinese probe has just arrived at one of Earth's 'quasi-moons' and will soon attempt a first-of-its-kind landing ",
+      "source": " Latest from Live Science ",
+      "date": "Wed, 17 Jun 2026 16:37:16 +0000",
+      "summary": "China's Tianwen-2 mission has arrived at the quasi-moon Kamo'oalewa, which orbits the sun alongside Earth. The secretive probe will scoop up samples from our temporary companion to help uncover its mysterious origin, experts say.",
+      "url": "https://www.livescience.com/space/space-exploration/a-secretive-chinese-probe-has-just-arrived-at-one-of-earths-quasi-moons-and-will-soon-attempt-a-first-of-its-kind-landing"
+    },
+    {
+      "category": "Space",
+      "title": " The 10 best sci-fi TV shows of the 2000s ",
+      "source": " Latest from Space.com ",
+      "date": "Wed, 17 Jun 2026 16:00:00 +0000",
+      "summary": "From 'Battlestar Galactica' and 'Lost,' to 'Fringe' and 'Invader Zim,' this all-star roster of sci-fi programming will have you revisiting all these sensational series.",
+      "url": "https://www.space.com/entertainment/space-movies-shows/the-10-best-sci-fi-tv-shows-of-the-2000s"
     },
     {
       "category": "AI",
-      "title": "Windows and Linux users: The deadline to update Secure Boot keys is near",
+      "title": "Ten months later, the $100 Google Home Speaker is finally available for preorder",
       "source": "Ars Technica - All content",
-      "date": "Wed, 17 Jun 2026 11:15:17 +0000",
-      "summary": "What you need to know about the expiration of keys securing your machine's boot sequence.",
-      "url": "https://arstechnica.com/security/2026/06/windows-and-linux-users-the-deadline-to-update-secure-boot-keys-is-near/"
+      "date": "Wed, 17 Jun 2026 15:57:14 +0000",
+      "summary": "Google's new smart speaker is more about Gemini than audio quality.",
+      "url": "https://arstechnica.com/google/2026/06/the-gemini-powered-google-home-speaker-arrives-on-june-25-for-100/"
+    },
+    {
+      "category": "AI",
+      "title": "Towers once planned for California shuttle launches leveled for SpaceX rockets",
+      "source": "Ars Technica - All content",
+      "date": "Wed, 17 Jun 2026 15:47:09 +0000",
+      "summary": "\"Space Launch Complex-6 represents six decades of American innovation.\"",
+      "url": "https://arstechnica.com/space/2026/06/towers-once-planned-for-california-shuttle-launches-leveled-for-spacex-rockets/"
+    },
+    {
+      "category": "AI",
+      "title": "\"Truly evil\" FDA rejection of gene therapy overturned after Trump official ousted",
+      "source": "Ars Technica - All content",
+      "date": "Wed, 17 Jun 2026 15:12:31 +0000",
+      "summary": "Gene therapy company UniQure had another FDA meeting after Vinay Prasad's exit.",
+      "url": "https://arstechnica.com/health/2026/06/truly-evil-fda-rejection-of-gene-therapy-overturned-after-trump-official-ousted/"
+    },
+    {
+      "category": "Space",
+      "title": "Hubble Sees Swarm of Galaxies",
+      "source": "NASA",
+      "date": "Wed, 17 Jun 2026 14:56:13 +0000",
+      "summary": "Looking somewhat like a swarm of bees returning to their hive, this NASA Hubble Space Telescope image released on June 12, 2026, features the galaxy cluster MACS0329-0211. Galaxy clusters like MACS0329-0211 are important signposts in the story of how the structure of the universe evolved, and are the ultimate telescopic lenses, placing gravitationally lensed galaxies from the […]",
+      "url": "https://www.nasa.gov/image-article/hubble-sees-swarm-of-galaxies/"
+    },
+    {
+      "category": "Science",
+      "title": "Humans may have hidden regenerative powers",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Wed, 17 Jun 2026 10:25:31 EDT",
+      "summary": "Scientists have taken a surprising step toward unlocking regeneration in mammals, showing that the ability to rebuild complex body parts may not be lost after all—it may simply be switched off. Using a two-stage treatment, researchers redirected the body’s normal healing response away from scar formation and toward regrowth, successfully restoring bone, joints, ligaments, and tendons after amputation in animal studies.",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260617032207.htm"
+    },
+    {
+      "category": "Space",
+      "title": " A volcanic eruption seen from space | Space photo of the day for June 17, 2026 ",
+      "source": " Latest from Space.com ",
+      "date": "Wed, 17 Jun 2026 14:00:00 +0000",
+      "summary": "Hawaii's Kīlauea volcano shot out lava for the 49th time that we know of.",
+      "url": "https://www.space.com/astronomy/earth/a-volcanic-eruption-seen-from-space-space-photo-of-the-day-for-june-17-2026"
+    },
+    {
+      "category": "Science",
+      "title": "Scientists discover spider that disguises itself as a parasitic fungus",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Wed, 17 Jun 2026 08:19:43 EDT",
+      "summary": "Scientists have discovered a new Amazonian spider with an astonishing disguise: it looks like a parasitic fungus. The species, Taczanowskia waska, mimics both the appearance and behavior of the fungus, helping it stay hidden from predators and potentially catch prey more easily.",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260617032201.htm"
+    },
+    {
+      "category": "Science",
+      "title": "On the brink of extinction, the vaquita gets a digital lifeline",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Wed, 17 Jun 2026 08:01:37 EDT",
+      "summary": "Scientists have digitally preserved the world’s most endangered marine mammal by creating highly detailed 3D models of a vaquita skeleton using advanced imaging technology. The virtual archive provides an unprecedented look at the species and could help inspire conservation efforts before the tiny porpoise disappears forever.",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260616102223.htm"
     },
     {
       "category": "Biblical Studies",
@@ -83,28 +139,12 @@
       "url": "https://www.biblicalarchaeology.org/daily/biblical-artifacts/dead-sea-scrolls/teasing-the-temple-in-the-dead-sea-scrolls/"
     },
     {
-      "category": "Science",
-      "title": " Diagnostic dilemma: Viral infection caused woman not to recognize her own father ",
-      "source": " Latest from Live Science ",
-      "date": "Wed, 17 Jun 2026 10:00:00 +0000",
-      "summary": "A woman could no longer recognize her father's face and had trouble holding the details of faces in her mind's eye.",
-      "url": "https://www.livescience.com/health/viruses-infections-disease/diagnostic-dilemma-viral-infection-caused-woman-not-to-recognize-her-own-father"
-    },
-    {
-      "category": "Space",
-      "title": " 'Best. Mars. Mission. Ever.' Scientists hail MAVEN's legacy as NASA retires Red Planet orbiter ",
-      "source": " Latest from Space.com ",
-      "date": "Wed, 17 Jun 2026 10:00:00 +0000",
-      "summary": "NASA's MAVEN Mars mission ended after 11 years, having revealed how the planet lost its atmosphere and served as a key communications relay for surface missions.",
-      "url": "https://www.space.com/astronomy/mars/best-mars-mission-ever-scientists-hail-mavens-legacy-as-nasa-retires-red-planet-orbiter"
-    },
-    {
-      "category": "Space",
-      "title": " Stream Season 3 of Silo in safety, anywhere, with 70% off 24 months of ProtonVPN Plus ",
-      "source": " Latest from Space.com ",
-      "date": "Wed, 17 Jun 2026 09:06:17 +0000",
-      "summary": "Can't wait for Season 3 of Silo? Watch this post-apocalyptic smash wherever you are and stay safe online with this superb ProtonVPN deal.",
-      "url": "https://www.space.com/technology/stream-season-3-of-silo-in-safety-anywhere-with-70-percent-off-24-months-of-protonvpn-plus"
+      "category": "AI",
+      "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
+      "source": "OpenAI News",
+      "date": "Wed, 17 Jun 2026 10:00:00 GMT",
+      "summary": "OpenAI and Molecule.one show how a near-autonomous AI chemist using GPT-5.4 improved a key drug-making reaction, advancing medicinal chemistry research.",
+      "url": "https://openai.com/index/ai-chemist-improves-reaction"
     },
     {
       "category": "Theology",
@@ -139,44 +179,12 @@
       "url": "https://www.thegospelcoalition.org/article/body-keeps-score-mind-heart/"
     },
     {
-      "category": "AI",
-      "title": "Trump admin tries to block Clean Air Act lawsuit over xAI's gas turbines",
-      "source": "Ars Technica - All content",
-      "date": "Tue, 16 Jun 2026 22:22:44 +0000",
-      "summary": "NAACP lawsuit says xAI uses gas turbines without permits for Grok data center.",
-      "url": "https://arstechnica.com/tech-policy/2026/06/trump-admin-helps-xai-fight-pollution-lawsuit-says-military-needs-grok-for-war/"
-    },
-    {
       "category": "Space",
       "title": "NASA’s Webb Catches Exoplanet Getting Roasted",
       "source": "NASA",
       "date": "Tue, 16 Jun 2026 21:15:00 +0000",
       "summary": "That’s the latest from researchers analyzing NASA’s James Webb Space Telescope’s observations of HD 80606 b, an exoplanet four times the mass of Jupiter with an extremely elliptical orbit that sweeps close by its Sun-like star.",
       "url": "https://science.nasa.gov/missions/webb/nasas-webb-catches-exoplanet-getting-roasted/"
-    },
-    {
-      "category": "Space",
-      "title": "Astronaut Jessica Meir Assists With Hardware Updates for NASA’s Cold Atom Lab",
-      "source": "NASA",
-      "date": "Tue, 16 Jun 2026 20:41:29 +0000",
-      "summary": "Description NASA astronaut Jessica Meir inspects optical fibers while installing hardware updates to the agency’s Cold Atom Lab, or CAL, aboard the International Space Station on May 8, 2026. About the size of a minifridge and operated from Earth, CAL chills atoms to temperatures below minus 459 degrees Fahrenheit (minus 273.15 degrees Celsius), so close […]",
-      "url": "https://science.nasa.gov/photojournal/astronaut-jessica-meir-assists-with-hardware-updates-for-nasas-cold-atom-lab/"
-    },
-    {
-      "category": "Science",
-      "title": " 5,000-year-old burial of man with battered skull found in kiln in Germany — and he may have been a human sacrifice ",
-      "source": " Latest from Live Science ",
-      "date": "Tue, 16 Jun 2026 20:28:27 +0000",
-      "summary": "An injured man from the Corded Ware culture was buried in a pit previously used as a kiln, and he may have been sacrificed.",
-      "url": "https://www.livescience.com/archaeology/5-000-year-old-burial-of-man-with-battered-skull-found-in-kiln-in-germany-and-he-may-have-been-a-human-sacrifice"
-    },
-    {
-      "category": "Science",
-      "title": " How to see Venus vanish behind the moon during the day Wednesday — without any special equipment ",
-      "source": " Latest from Live Science ",
-      "date": "Tue, 16 Jun 2026 20:18:33 +0000",
-      "summary": "On Wednesday (June 17), the moon will pass between Earth and Venus, causing the hellish planet to temporarily disappear from the daytime sky. Here's what it will look like, exactly when it is happening and how you can safely view this skywatching spectacle.",
-      "url": "https://www.livescience.com/space/astronomy/how-to-see-venus-vanish-behind-the-moon-during-the-day-wednesday-without-any-special-equipment"
     },
     {
       "category": "Biblical Studies",
@@ -195,22 +203,6 @@
       "url": "https://www.biblicalarchaeology.org/daily/biblical-sites-places/jerusalem/hezekiahs-tunnel-reexamined/"
     },
     {
-      "category": "Science",
-      "title": "Scientists just found a hidden weakness in forever chemicals",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Tue, 16 Jun 2026 06:30:56 EDT",
-      "summary": "Researchers discovered that hydrogen radicals generated by intense UV light can break down stubborn PFAS “forever chemicals” without added chemicals. The breakthrough reveals a key mechanism that could lead to greener and more effective technologies for permanently destroying these pollutants.",
-      "url": "https://www.sciencedaily.com/releases/2026/06/260615033846.htm"
-    },
-    {
-      "category": "Science",
-      "title": "Alien messages may have reached Earth without us realizing it",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Tue, 16 Jun 2026 04:11:57 EDT",
-      "summary": "A new SETI study suggests we may be overlooking alien signals not because they aren't there, but because their own stars are scrambling them before they escape into space. Turbulent plasma and powerful stellar storms can spread an ultra-narrow radio transmission across a wider range of frequencies, making it much harder for traditional searches to spot. The effect could be especially important around M-dwarf stars, the most common stars in the Milky Way.",
-      "url": "https://www.sciencedaily.com/releases/2026/06/260615033851.htm"
-    },
-    {
       "category": "AI",
       "title": "Predicting model behavior before release by simulating deployment",
       "source": "OpenAI News",
@@ -227,28 +219,12 @@
       "url": "https://allthingsliberty.com/2026/06/the-nations-first-acre-fort-billingsport-and-the-birth-of-federal-land-acquisition/"
     },
     {
-      "category": "Science",
-      "title": "This strange material can become strong or fall apart in seconds",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Mon, 15 Jun 2026 07:54:43 EDT",
-      "summary": "Scientists have found that staple-shaped particles can tangle together to create a material that is both strong and flexible. Unlike conventional materials, these particles can be locked into a sturdy structure or rapidly unraveled using vibrations. The unusual behavior could open the door to recyclable buildings, reconfigurable structures, and even futuristic robotic technologies.",
-      "url": "https://www.sciencedaily.com/releases/2026/06/260615033849.htm"
-    },
-    {
       "category": "AI",
       "title": "Introducing the OpenAI Partner Network",
       "source": "OpenAI News",
       "date": "Sun, 14 Jun 2026 17:00:00 GMT",
       "summary": "OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoption, deployment, and transformation.",
       "url": "https://openai.com/index/introducing-openai-partner-network"
-    },
-    {
-      "category": "AI",
-      "title": "New OpenAI Academy courses for the next era of work",
-      "source": "OpenAI News",
-      "date": "Fri, 12 Jun 2026 10:00:00 GMT",
-      "summary": "OpenAI introduces three Academy courses that help people build practical AI skills, create repeatable workflows, and apply agents in everyday work.",
-      "url": "https://openai.com/index/academy-courses-applying-ai-at-work"
     },
     {
       "category": "History",
