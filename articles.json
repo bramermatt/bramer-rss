@@ -1,46 +1,102 @@
 {
-  "lastUpdated": "2026-06-18T18:23:16.053Z",
-  "articleCount": 39,
+  "lastUpdated": "2026-06-18T23:29:50.408Z",
+  "articleCount": 36,
   "articles": [
     {
       "category": "Science",
-      "title": "Did Neanderthals use rhinoceros teeth as tools?",
+      "title": "Corrected microbial family tree offers statistically sound model for how earliest life forms evolved",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Thu, 18 Jun 2026 14:20:06 EDT",
-      "summary": "The RINO project was born from the discovery of unusual marks on rhinoceros teeth recovered from the prehistoric Payre site in France's Rhône Valley. The study of fossil rhinoceros teeth from this Middle Paleolithic site, dating to around 250,000–130,000 years ago, provides unprecedented evidence that Neanderthals used them as tools.",
-      "url": "https://phys.org/news/2026-06-neanderthals-rhinoceros-teeth-tools.html"
+      "date": "Thu, 18 Jun 2026 19:20:03 EDT",
+      "summary": "In this era of Big Data, the prevailing wisdom is that more information leads to better answers. However, a new Canadian study shows that in the hunt for life's ancient ancestors, more data can actually lead to less truth. Published in the Proceedings of the National Academy of Sciences, the research by UdeM associate professor of computer science Miklós Csűrös reveals that standard methods for reconstructing the genomes of ancient microbes are being overwhelmed by an explosion of information.",
+      "url": "https://phys.org/news/2026-06-microbial-family-tree-statistically-earliest.html"
     },
     {
       "category": "Science",
-      "title": "Mars life search gets boost as rover test distinguishes mirrored biosignature molecules",
+      "title": "Diamond-based particle detector captures one-picosecond electron bursts for high-rate beam diagnostics",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Thu, 18 Jun 2026 14:20:05 EDT",
-      "summary": "Billions of years ago, environmental conditions on Mars were significantly more hospitable than they are today. Our neighboring planet was likely warm, humid and surrounded by a dense atmosphere. Whether simple microorganisms could have evolved at that time remains an open question.",
-      "url": "https://phys.org/news/2026-06-mars-life-boost-rover-distinguishes.html"
-    },
-    {
-      "category": "Space",
-      "title": "NASA Testing Advanced Capabilities for Moon, Mars Rovers",
-      "source": "NASA",
-      "date": "Thu, 18 Jun 2026 18:19:21 +0000",
-      "summary": "On a bleak stretch of the Colorado Desert in Southern California, a compact four-wheeled rover recently trundled about 16 miles (26 kilometers) with minimal intervention from the team of engineers trailing it. Called ERNEST (Exploration Rover for Navigating Extreme Sloped Terrain), this prototype is being used by NASA to advance both robotic autonomy and the […]",
-      "url": "https://www.nasa.gov/solar-system/moon/nasa-testing-advanced-capabilities-for-moon-mars-rovers/"
+      "date": "Thu, 18 Jun 2026 19:00:02 EDT",
+      "summary": "Physicists at UC Santa Cruz and other institutes across California and New Mexico have developed a detection system that will allow next-generation particle accelerators to better reveal fundamental biological and chemical processes, as well as advance critical areas such as materials science and energy research.",
+      "url": "https://phys.org/news/2026-06-diamond-based-particle-detector-captures.html"
     },
     {
       "category": "Science",
-      "title": "Nanoplastics: New method provides clearer picture of the risks",
+      "title": "Canada's national parks can do better at limiting landscape fragmentation, study suggests",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Thu, 18 Jun 2026 14:07:34 EDT",
-      "summary": "Micro- and nanoplastics are now popping up everywhere: in seawater, snow, food and even in our bodies. The very smallest particles, in particular, are difficult to measure, meaning we still know too little about their spread and associated risks. UvA chemist Maria Hayder and her colleagues have developed a new measurement method that maps nanoplastics in water and the environment much more accurately. On Wednesday, June 24, she will defend her Ph.D. dissertation on this research at the University of Amsterdam.",
-      "url": "https://phys.org/news/2026-06-nanoplastics-method-clearer-picture.html"
+      "date": "Thu, 18 Jun 2026 19:00:01 EDT",
+      "summary": "According to a Concordia-led study, Canada's national parks may still be struggling to protect landscapes from fragmentation as effectively as intended. The paper is published in the journal Environmental Monitoring and Assessment.",
+      "url": "https://phys.org/news/2026-06-canada-national-limiting-landscape-fragmentation.html"
+    },
+    {
+      "category": "AI",
+      "title": "FDA advisors unanimously vote to approve Moderna's mRNA after agency drama",
+      "source": "Ars Technica - All content",
+      "date": "Thu, 18 Jun 2026 22:08:59 +0000",
+      "summary": "In February, a Trump official refused to review the vaccine.",
+      "url": "https://arstechnica.com/health/2026/06/fda-advisors-unanimously-vote-to-approve-modernas-mrna-after-agency-drama/"
+    },
+    {
+      "category": "AI",
+      "title": "Zero-Touch OAuth for MCP",
+      "source": "Hacker News: Front Page",
+      "date": "Thu, 18 Jun 2026 21:54:10 +0000",
+      "summary": "Article URL: https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/\nComments URL: https://news.ycombinator.com/item?id=48592163\nPoints: 20\n# Comments: 2",
+      "url": "https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/"
+    },
+    {
+      "category": "AI",
+      "title": "As China looms, Taiwan makes more drones for defense and the US military",
+      "source": "Ars Technica - All content",
+      "date": "Thu, 18 Jun 2026 21:21:26 +0000",
+      "summary": "Taiwan's drone spending plans for defense could also boost business overseas.",
+      "url": "https://arstechnica.com/ai/2026/06/as-china-looms-taiwan-makes-more-drones-for-defense-and-the-us-military/"
+    },
+    {
+      "category": "AI",
+      "title": "Everything Is BOM: Bill of Materials Encyclopedia",
+      "source": "Hacker News: Front Page",
+      "date": "Thu, 18 Jun 2026 21:03:31 +0000",
+      "summary": "Article URL: https://bomwiki.com/\nComments URL: https://news.ycombinator.com/item?id=48591562\nPoints: 47\n# Comments: 14",
+      "url": "https://bomwiki.com/"
     },
     {
       "category": "Space",
-      "title": "NASA’s Lucy Reveals Wobbling, Peanut-Shaped Asteroid",
-      "source": "NASA",
-      "date": "Thu, 18 Jun 2026 18:04:41 +0000",
-      "summary": "Even small asteroids lead complex lives. During its flyby of the asteroid Donaldjohanson last year, NASA’s Lucy spacecraft revealed the asteroid to be a wobbly, peanut-shaped body that has undergone a lot of activity in its relatively short history. Formed as fragments coalesced after a violent collision 155 million years ago, the asteroid was transformed by the […]",
-      "url": "https://science.nasa.gov/missions/nasas-lucy-reveals-wobbling-peanut-shaped-asteroid/"
+      "title": " Scientists trace high-energy ghost particle to the 'Shadow Blaster' galaxy ",
+      "source": " Latest from Space.com ",
+      "date": "Thu, 18 Jun 2026 21:00:00 +0000",
+      "summary": "\"If confirmed, Shadow Blaster would be the first-ever individual dusty star-forming galaxy directly linked to a high-energy neutrino event.\"",
+      "url": "https://www.space.com/science/particle-physics/scientists-trace-high-energy-ghost-particle-to-the-shadow-blaster-galaxy"
+    },
+    {
+      "category": "AI",
+      "title": "NASA asks Northrop Grumman to stop working on lunar HALO module",
+      "source": "Ars Technica - All content",
+      "date": "Thu, 18 Jun 2026 20:49:55 +0000",
+      "summary": "\"We are reassigning most affected employees across existing opportunities and programs.\"",
+      "url": "https://arstechnica.com/space/2026/06/nasas-1-1-billion-gateway-habitation-module-is-unlikely-to-be-used-for-something-else/"
+    },
+    {
+      "category": "AI",
+      "title": "Show HN: Are You in the Weights?",
+      "source": "Hacker News: Front Page",
+      "date": "Thu, 18 Jun 2026 20:49:03 +0000",
+      "summary": "With more traffic moving off-web and into LLMs, I got curious about what traces we leave \"in the weights\". My design partner and I built a site in the past few weeks that checks recognition across frontier and small models. It queries many of them in parallel, clusters the responses, and tells you how strongly they recognize you. Happy to answer any questions here!\nComments URL: https://news.ycombinator.com/item?id=48591348\nPoints: 118\n# Comments: 84",
+      "url": "https://www.intheweights.com/"
+    },
+    {
+      "category": "Science",
+      "title": " Denisovan DNA influences the immune systems of modern Oceanians — but researchers aren't sure why ",
+      "source": " Latest from Live Science ",
+      "date": "Thu, 18 Jun 2026 20:13:56 +0000",
+      "summary": "Genes inherited from the now-extinct Denisovans are actively playing a role in the immune system of some people from Oceania.",
+      "url": "https://www.livescience.com/archaeology/human-evolution/denisovan-dna-influences-the-immune-systems-of-modern-oceanians-but-researchers-arent-sure-why"
+    },
+    {
+      "category": "Space",
+      "title": " James Webb Space Telescope finds a salty surprise on famous 'Pink Planet' ",
+      "source": " Latest from Space.com ",
+      "date": "Thu, 18 Jun 2026 20:00:00 +0000",
+      "summary": "Using the James Webb Space Telescope, astronomers have discovered that one of the coldest exoplanets ever discovered, the so-called Pink Planet, harbors a salty surprise.",
+      "url": "https://www.space.com/astronomy/exoplanets/james-webb-space-telescope-finds-a-salty-surprise-on-famous-pink-planet"
     },
     {
       "category": "Science",
@@ -60,51 +116,11 @@
     },
     {
       "category": "AI",
-      "title": "The Token Compression Illusion: Why I'm Skeptical of RTK",
-      "source": "Hacker News: Front Page",
-      "date": "Thu, 18 Jun 2026 17:37:00 +0000",
-      "summary": "Article URL: https://mroczek.dev/articles/the-token-compression-illusion-why-im-skeptical-of-rtk/\nComments URL: https://news.ycombinator.com/item?id=48588755\nPoints: 6\n# Comments: 17",
-      "url": "https://mroczek.dev/articles/the-token-compression-illusion-why-im-skeptical-of-rtk/"
-    },
-    {
-      "category": "AI",
-      "title": "Migrating from GNU Stow to Chezmoi",
-      "source": "Hacker News: Front Page",
-      "date": "Thu, 18 Jun 2026 17:09:53 +0000",
-      "summary": "Article URL: https://rednafi.com/misc/chezmoi/\nComments URL: https://news.ycombinator.com/item?id=48588413\nPoints: 17\n# Comments: 7",
-      "url": "https://rednafi.com/misc/chezmoi/"
-    },
-    {
-      "category": "Space",
-      "title": " Watch SpaceX launch new batch of US spy satellites from California early on June 19 ",
-      "source": " Latest from Space.com ",
-      "date": "Thu, 18 Jun 2026 17:00:00 +0000",
-      "summary": "SpaceX will launch the latest batch of spy satellites for the U.S. government early Friday morning (June 19), and you can watch the action live.",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-spy-satellite-launch-nrol-179-nro"
-    },
-    {
-      "category": "AI",
-      "title": "The founder of Craigslist has given away half a billion dollars",
-      "source": "Hacker News: Front Page",
-      "date": "Thu, 18 Jun 2026 16:55:25 +0000",
-      "summary": "Article URL: https://www.independent.co.uk/us/money/craigslist-multimillionaire-craig-newmark-b2980681.html\nComments URL: https://news.ycombinator.com/item?id=48588216\nPoints: 74\n# Comments: 22",
-      "url": "https://www.independent.co.uk/us/money/craigslist-multimillionaire-craig-newmark-b2980681.html"
-    },
-    {
-      "category": "Space",
-      "title": " You can get my favorite image-stabilized binoculars for their cheapest ever price in this incredible anti-Prime Day deal ",
-      "source": " Latest from Space.com ",
-      "date": "Thu, 18 Jun 2026 16:26:02 +0000",
-      "summary": "The Fujinon Techno-Stabi TS-L 1640 image-stabilized binoculars are perfect for steady stargazing with 16x magnification, 40mm objective lenses and strong image stabilization, on sale for $1,125 at Walmart.",
-      "url": "https://www.space.com/stargazing/skywatching-kit/fujinon-techno-stabi-1640-binoculars-at-their-cheapest-ever-price-in-this-incredible-anti-prime-day-deal"
-    },
-    {
-      "category": "Space",
-      "title": "Stages of Star Formation",
-      "source": "NASA",
-      "date": "Thu, 18 Jun 2026 16:13:13 +0000",
-      "summary": "This image, captured by NASA’s James Webb Space Telescope and released on June 5, 2026, shows just a small portion of one of the Orion Molecular Clouds, a long and massive filament of cold gas and dust beyond the Orion Nebula. Every stage of star formation — from the youngest stellar embryos to protoplanetary discs […]",
-      "url": "https://www.nasa.gov/image-article/stages-of-star-formation/"
+      "title": "New usage analytics and updated spend controls for enterprises",
+      "source": "OpenAI News",
+      "date": "Thu, 18 Jun 2026 17:00:00 GMT",
+      "summary": "OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage costs and scale AI with confidence.",
+      "url": "https://openai.com/index/chatgpt-enterprise-spend-controls"
     },
     {
       "category": "Science",
@@ -113,30 +129,6 @@
       "date": "Thu, 18 Jun 2026 15:22:38 +0000",
       "summary": "Live Science spoke with Kaveh Madani, the lead investigator of a United Nations report examining AI's environmental footprint, about this technology's staggering energy use and what users can do to limit their impact.",
       "url": "https://www.livescience.com/planet-earth/is-it-really-necessary-to-generate-another-image-un-scientist-explains-how-everyday-people-can-limit-ais-environmental-impact"
-    },
-    {
-      "category": "AI",
-      "title": "Hunter-gatherers in Siberia died of a plague outbreak 5,500 years ago",
-      "source": "Ars Technica - All content",
-      "date": "Thu, 18 Jun 2026 15:04:40 +0000",
-      "summary": "We can't blame the Neolithic Transition for the plague anymore.",
-      "url": "https://arstechnica.com/science/2026/06/hunter-gatherers-in-siberia-died-of-a-plague-outbreak-5500-years-ago/"
-    },
-    {
-      "category": "AI",
-      "title": "The first long-duration resident of the ISS, a cosmonaut, has died",
-      "source": "Ars Technica - All content",
-      "date": "Thu, 18 Jun 2026 14:34:36 +0000",
-      "summary": "Two expeditions, two spacewalks, 322 days in space.",
-      "url": "https://arstechnica.com/space/2026/06/cosmonaut-aleksandr-samokutyaev-56-is-first-former-iss-crew-member-to-die/"
-    },
-    {
-      "category": "Science",
-      "title": " Rainforest quiz: Can you sort Earth's largest rainforests from biggest to smallest? ",
-      "source": " Latest from Live Science ",
-      "date": "Thu, 18 Jun 2026 14:29:34 +0000",
-      "summary": "From the sprawling Amazon to the lesser-known tropical forests, see if you can correctly rank these rainforests by their total area.",
-      "url": "https://www.livescience.com/planet-earth/rainforest-quiz-can-you-sort-earths-largest-rainforests-from-biggest-to-smallest"
     },
     {
       "category": "Science",
@@ -187,14 +179,6 @@
       "url": "https://openai.com/index/diagnose-rare-childhood-diseases"
     },
     {
-      "category": "AI",
-      "title": "Hulk, Punisher join Peter Parker in Spider-Man: Brand New Day trailer",
-      "source": "Ars Technica - All content",
-      "date": "Thu, 18 Jun 2026 06:37:59 +0000",
-      "summary": "Peter Parker to Bruce Banner: \"I didn't know you could get that big.\"",
-      "url": "https://arstechnica.com/culture/2026/06/hulk-punisher-join-peter-parker-in-spider-man-brand-new-day-trailer/"
-    },
-    {
       "category": "Theology",
       "title": "Surrender and Vocation in the Life of Lilias Trotter",
       "source": "The Gospel Coalition",
@@ -233,14 +217,6 @@
       "date": "Wed, 17 Jun 2026 10:45:38 +0000",
       "summary": "Comfort, comfort my people! –Isaiah 40:1 When Cyrus and the Persians brought an end to the Babylonian Exile and decreed that communities exiled by the […]\nThe post Teasing the Temple in the Dead Sea Scrolls appeared first on Biblical Archaeology Society.",
       "url": "https://www.biblicalarchaeology.org/daily/biblical-artifacts/dead-sea-scrolls/teasing-the-temple-in-the-dead-sea-scrolls/"
-    },
-    {
-      "category": "AI",
-      "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
-      "source": "OpenAI News",
-      "date": "Wed, 17 Jun 2026 10:00:00 GMT",
-      "summary": "OpenAI and Molecule.one show how a near-autonomous AI chemist using GPT-5.4 improved a key drug-making reaction, advancing medicinal chemistry research.",
-      "url": "https://openai.com/index/ai-chemist-improves-reaction"
     },
     {
       "category": "Theology",
