@@ -1,38 +1,102 @@
 {
-  "lastUpdated": "2026-06-19T22:47:34.371Z",
+  "lastUpdated": "2026-06-20T11:52:13.862Z",
   "articleCount": 39,
   "articles": [
     {
-      "category": "AI",
-      "title": "The UK's New Under-16 Social Media Ban Will Cause More Harm Than It Prevents",
-      "source": "Hacker News: Front Page",
-      "date": "Fri, 19 Jun 2026 21:58:22 +0000",
-      "summary": "Article URL: https://www.eff.org/deeplinks/2026/06/uks-new-under-16-social-media-ban-will-cause-more-harm-it-prevents\nComments URL: https://news.ycombinator.com/item?id=48603761\nPoints: 33\n# Comments: 24",
-      "url": "https://www.eff.org/deeplinks/2026/06/uks-new-under-16-social-media-ban-will-cause-more-harm-it-prevents"
-    },
-    {
-      "category": "AI",
-      "title": "Zenzizenzizenzic",
-      "source": "Hacker News: Front Page",
-      "date": "Fri, 19 Jun 2026 21:49:44 +0000",
-      "summary": "Article URL: https://en.wikipedia.org/wiki/Zenzizenzizenzic\nComments URL: https://news.ycombinator.com/item?id=48603664\nPoints: 17\n# Comments: 10",
-      "url": "https://en.wikipedia.org/wiki/Zenzizenzizenzic"
+      "category": "Science",
+      "title": " Science news this week: Goblin shark filmed for first time, California close to a major quake, physicists split photon, and inside China's plans to 'tame nature' ",
+      "source": " Latest from Live Science ",
+      "date": "Sat, 20 Jun 2026 11:00:00 +0000",
+      "summary": "June 20, 2026: Our weekly roundup of the latest science in the news, as well as a few fascinating articles to keep you entertained over the weekend.",
+      "url": "https://www.livescience.com/animals/science-news-this-week-goblin-shark-filmed-for-first-time-california-close-to-a-major-quake-physicists-split-photon-and-inside-chinas-plans-to-tame-nature"
     },
     {
       "category": "Science",
-      "title": "From birds to fish, how extreme heat causes wildlife to suffer",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Fri, 19 Jun 2026 17:40:01 EDT",
-      "summary": "Like humans, wildlife is increasingly vulnerable as climate change fuels longer and more intense heat waves, disrupting feeding and breeding and, in extreme cases, proving fatal.",
-      "url": "https://phys.org/news/2026-06-birds-fish-extreme-wildlife.html"
+      "title": " Diagnostic dilemma: A fish stabs a man through the throat and the base of the skull ",
+      "source": " Latest from Live Science ",
+      "date": "Sat, 20 Jun 2026 10:00:00 +0000",
+      "summary": "While on a fishing trip, a man sustained an unusual injury from a marlin.",
+      "url": "https://www.livescience.com/health/diagnostic-dilemma-a-fish-stabs-a-man-through-the-throat-and-the-base-of-the-skull"
+    },
+    {
+      "category": "Space",
+      "title": " Late, great singer-songwriter Elliott Smith finds immortality as an asteroid ",
+      "source": " Latest from Space.com ",
+      "date": "Sat, 20 Jun 2026 10:00:00 +0000",
+      "summary": "An asteroid has been named after Smith, who died in 2003 at the age of 34.",
+      "url": "https://www.space.com/astronomy/asteroids/late-great-singer-songwriter-elliott-smith-finds-immortality-as-an-asteroid"
+    },
+    {
+      "category": "Space",
+      "title": " Do we need a lunar building code to build moon bases safely? ",
+      "source": " Latest from Space.com ",
+      "date": "Sat, 20 Jun 2026 10:00:00 +0000",
+      "summary": "As NASA pushes to build a sustained human presence on the moon, one expert says what's needed is a lunar building code.",
+      "url": "https://www.space.com/space-exploration/artemis/do-we-need-a-lunar-building-code-to-build-moon-bases-safely"
     },
     {
       "category": "Science",
-      "title": "Europe swelters as more heat records set to tumble",
+      "title": " Why does it take our eyes so long to adjust to the dark? ",
+      "source": " Latest from Live Science ",
+      "date": "Sat, 20 Jun 2026 09:00:00 +0000",
+      "summary": "Here's why it's so hard to see when we enter a dark room.",
+      "url": "https://www.livescience.com/health/why-does-it-take-our-eyes-so-long-to-adjust-to-the-dark"
+    },
+    {
+      "category": "Science",
+      "title": "Belgian Nobel laureate Francois Englert dies aged 93",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Fri, 19 Jun 2026 17:00:01 EDT",
-      "summary": "Much of Western Europe was sweltering in a grueling heat wave on Friday, with the mercury expected to continue rising in the coming days, likely shattering yet more temperature records.",
-      "url": "https://phys.org/news/2026-06-europe-swelters.html"
+      "date": "Sat, 20 Jun 2026 03:10:01 EDT",
+      "summary": "Belgian scientist Francois Englert, a particle physics specialist who won the Nobel Prize in 2013 for his work on the Higgs boson, has died at 93.",
+      "url": "https://phys.org/news/2026-06-belgian-nobel-laureate-francois-englert.html"
+    },
+    {
+      "category": "Science",
+      "title": "Australia detects first case of contagious H5 bird flu",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sat, 20 Jun 2026 02:55:27 EDT",
+      "summary": "Scientists have detected the H5 strain of bird flu in Australia for the first time, the country's agriculture minister said Saturday, meaning the highly contagious variant has now spread to every continent.",
+      "url": "https://phys.org/news/2026-06-australia-case-contagious-h5-bird.html"
+    },
+    {
+      "category": "AI",
+      "title": "I Stored a Website in a Favicon",
+      "source": "Hacker News: Front Page",
+      "date": "Sat, 20 Jun 2026 05:33:59 +0000",
+      "summary": "Article URL: https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/\nComments URL: https://news.ycombinator.com/item?id=48606619\nPoints: 162\n# Comments: 63",
+      "url": "https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/"
+    },
+    {
+      "category": "AI",
+      "title": "Satellite reveals immense scale of GPS signal tampering",
+      "source": "Hacker News: Front Page",
+      "date": "Sat, 20 Jun 2026 04:07:03 +0000",
+      "summary": "Article URL: https://www.space.com/space-exploration/satellites/its-quite-a-bit-more-than-we-expected-satellite-reveals-immense-scale-of-gps-signal-tampering\nComments URL: https://news.ycombinator.com/item?id=48606271\nPoints: 98\n# Comments: 47",
+      "url": "https://www.space.com/space-exploration/satellites/its-quite-a-bit-more-than-we-expected-satellite-reveals-immense-scale-of-gps-signal-tampering"
+    },
+    {
+      "category": "Theology",
+      "title": "The Good and Bad of Retrieval Theology",
+      "source": "The Gospel Coalition",
+      "date": "Sat, 20 Jun 2026 04:02:00 +0000",
+      "summary": "By elevating Thomas to almost canonical status, well-intentioned retrieval theologians may well have opened a floodgate that won’t be shut before many have abandoned Protestantism.",
+      "url": "https://www.thegospelcoalition.org/article/good-bad-retrieval-theology/"
+    },
+    {
+      "category": "AI",
+      "title": "Where to Find the Colors Your Screen Can't Show You",
+      "source": "Hacker News: Front Page",
+      "date": "Sat, 20 Jun 2026 03:36:49 +0000",
+      "summary": "Article URL: https://moultano.wordpress.com/2026/06/19/where-to-find-the-colors-your-screen-cant-show-you/\nComments URL: https://news.ycombinator.com/item?id=48606140\nPoints: 162\n# Comments: 37",
+      "url": "https://moultano.wordpress.com/2026/06/19/where-to-find-the-colors-your-screen-cant-show-you/"
+    },
+    {
+      "category": "Science",
+      "title": "Nanobubbles for algae cleanup: Q&A with researcher Wen Zhang",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Fri, 19 Jun 2026 23:00:02 EDT",
+      "summary": "One of the most powerful environmental cleaning technologies in recent years is too small to see with the naked eye. Nanobubbles—tiny gaseous bubbles with diameters of around 100 nanometers—can clean up a range of harmful pollutants in water, from oil spills to algae.",
+      "url": "https://phys.org/news/2026-06-nanobubbles-algae-cleanup-qa-wen.html"
     },
     {
       "category": "Space",
@@ -41,46 +105,6 @@
       "date": "Fri, 19 Jun 2026 21:00:00 +0000",
       "summary": "A California-based company will design, build and launch a spacecraft for NASA's Aeolus mission to orbit around Mars, where the probe will be the first to provide daily measurements of the planet's global environment.",
       "url": "https://www.space.com/space-exploration/missions/a-private-company-will-build-and-launch-nasas-next-mars-orbiter-in-2028-and-its-not-spacex"
-    },
-    {
-      "category": "Science",
-      "title": "Competition from Chinese imports is causing CO₂ emissions to rise globally, research reveals",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Fri, 19 Jun 2026 16:40:01 EDT",
-      "summary": "Danish companies emit less CO₂ when they relocate certain tasks abroad. At the same time, emissions rise correspondingly in those countries. However, global emissions increase when companies are under pressure from cheap imports from China. This is shown by new research from the University of Copenhagen.",
-      "url": "https://phys.org/news/2026-06-competition-chinese-imports-emissions-globally.html"
-    },
-    {
-      "category": "AI",
-      "title": "Surprising Economics of Load-Balanced Systems",
-      "source": "Hacker News: Front Page",
-      "date": "Fri, 19 Jun 2026 20:30:59 +0000",
-      "summary": "Article URL: https://brooker.co.za/blog/2020/08/06/erlang.html\nComments URL: https://news.ycombinator.com/item?id=48602918\nPoints: 8\n# Comments: 0",
-      "url": "https://brooker.co.za/blog/2020/08/06/erlang.html"
-    },
-    {
-      "category": "Space",
-      "title": " 'This is not like life that we’ve experienced' 'Star City' cast on struggling to relate to the brutality of Soviet existence in Apple TV's For All Mankind' spin-off ",
-      "source": " Latest from Space.com ",
-      "date": "Fri, 19 Jun 2026 20:00:00 +0000",
-      "summary": "\"I don’t have a relatable thing. This is not like life that we’ve experienced.\"",
-      "url": "https://www.space.com/entertainment/space-movies-shows/this-is-not-like-life-that-weve-experienced-star-city-cast-on-struggling-to-relate-to-the-brutality-of-soviet-existence-in-apple-tvs-for-all-mankind-spin-off"
-    },
-    {
-      "category": "Space",
-      "title": " The most unpredictable meteor shower of the year peaks next week. Here's what to expect ",
-      "source": " Latest from Space.com ",
-      "date": "Fri, 19 Jun 2026 18:00:00 +0000",
-      "summary": "The June Bootids usually produce just a handful of meteors, but this notoriously unpredictable shower has a history of surprise outbursts.",
-      "url": "https://www.space.com/stargazing/meteor-showers/the-most-unpredictable-meteor-shower-of-the-year-peaks-next-week-heres-what-to-expect"
-    },
-    {
-      "category": "Science",
-      "title": " Watch bison herd defend a newborn calf from wolf attack in a primeval Polish forest ",
-      "source": " Latest from Live Science ",
-      "date": "Fri, 19 Jun 2026 15:57:19 +0000",
-      "summary": "Researchers have captured first-of-its-kind footage of a wolf attack on European bison in the Bialowieza Primeval Forest. The recording shifts our understanding of predator-prey interactions in this region.",
-      "url": "https://www.livescience.com/animals/land-mammals/watch-bison-herd-defend-a-newborn-calf-from-wolf-attack-in-a-primeval-polish-forest"
     },
     {
       "category": "AI",
@@ -123,28 +147,12 @@
       "url": "https://arstechnica.com/science/2026/06/as-global-warming-threatens-corals-scientists-search-for-reefs-that-can-take-the-heat/"
     },
     {
-      "category": "Science",
-      "title": " Estrogen levels in both the male and female brain may shape memory's resilience in face of stress ",
-      "source": " Latest from Live Science ",
-      "date": "Fri, 19 Jun 2026 10:49:00 +0000",
-      "summary": "Traumatic experiences can cause memory problems, and estrogen may be a key factor that shapes the brain's resilience against such stressors, a mouse study finds.",
-      "url": "https://www.livescience.com/health/neuroscience/estrogen-levels-in-both-the-male-and-female-brain-may-shape-memorys-resilience-in-face-of-stress"
-    },
-    {
       "category": "Biblical Studies",
       "title": "Statues of Mysterious Classical Figures Found Near Caesarea",
       "source": "Biblical Archaeology Society",
       "date": "Fri, 19 Jun 2026 10:45:37 +0000",
       "summary": "A spectacular discovery has emerged near the town of Binyamina along the coast of Israel. Archaeologists uncovered two marble statues, known as protomes, depicting the […]\nThe post Statues of Mysterious Classical Figures Found Near Caesarea appeared first on Biblical Archaeology Society.",
       "url": "https://www.biblicalarchaeology.org/daily/biblical-artifacts/artifacts-and-the-bible/statues-of-mysterious-classical-figures-found-near-caesarea/"
-    },
-    {
-      "category": "Science",
-      "title": " 'A completely different story': 300 million-year-old fossils reveal the first vertebrate land dwellers weren't what we thought, researchers claim ",
-      "source": " Latest from Live Science ",
-      "date": "Fri, 19 Jun 2026 10:26:37 +0000",
-      "summary": "Our ancient four-legged ancestors didn't have an amphibian-like life cycle when they began walking on land, according to a new study of rare fossils found near Chicago.",
-      "url": "https://www.livescience.com/animals/extinct-species/a-completely-different-story-300-million-year-old-fossils-reveal-the-first-vertebrate-land-dwellers-werent-what-we-thought-researchers-claim"
     },
     {
       "category": "Biblical Studies",
@@ -169,14 +177,6 @@
       "date": "Fri, 19 Jun 2026 04:05:00 +0000",
       "summary": "John Piper, Don Carson, Kathleen Nielson, and Tim and Kathy Keller discuss how they came to be complementarians.",
       "url": "https://www.thegospelcoalition.org/podcasts/tgc-podcast/conversation-complementarianism-tgc-classic/"
-    },
-    {
-      "category": "Theology",
-      "title": "‘The Promised Land’ Is Exodus in the Style of ‘The Office’",
-      "source": "The Gospel Coalition",
-      "date": "Fri, 19 Jun 2026 04:02:00 +0000",
-      "summary": "I didn’t expect ‘The Promised Land’ to be good, and I didn’t expect it to be funny. It turned out to be both.",
-      "url": "https://www.thegospelcoalition.org/article/promised-land-review/"
     },
     {
       "category": "Space",
