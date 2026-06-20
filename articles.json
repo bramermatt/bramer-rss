@@ -1,7 +1,95 @@
 {
-  "lastUpdated": "2026-06-20T11:52:13.862Z",
-  "articleCount": 39,
+  "lastUpdated": "2026-06-20T17:18:26.942Z",
+  "articleCount": 36,
   "articles": [
+    {
+      "category": "Science",
+      "title": "Ancient Mongolian cemetery reveals power and status mattered more than blood ties",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sat, 20 Jun 2026 13:00:01 EDT",
+      "summary": "On the edge of the Mongolian steppe, overlooking where two rivers meet, lies an ancient cemetery. Buried within are two families, traced through ancient DNA across six generations, surrounded by dozens of \"strangers.\" The obvious assumption is that this was a family cemetery. But a recent study used machine learning and a technique borrowed from evolutionary biology to reveal that what really mattered was wealth, status and political power, not blood.",
+      "url": "https://phys.org/news/2026-06-ancient-mongolian-cemetery-reveals-power.html"
+    },
+    {
+      "category": "Science",
+      "title": "How much clothing is too much? The math behind having a sustainable wardrobe",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sat, 20 Jun 2026 12:30:02 EDT",
+      "summary": "Most people suspect they own too many clothes, but they aren't sure exactly what the \"right amount\" is. Recent wardrobe studies, in which researchers literally peek inside people's closets, show the scale of the problem is far greater than most of us imagine.",
+      "url": "https://phys.org/news/2026-06-math-sustainable-wardrobe.html"
+    },
+    {
+      "category": "Science",
+      "title": "Faster aptamer screening finds synthetic alternatives to antibodies in days instead of months",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sat, 20 Jun 2026 12:00:01 EDT",
+      "summary": "Aptamers are short DNA or RNA strands that can recognize and bind to a specific target molecule with high precision. Similar to antibodies, they can be used to detect these molecules or modulate their activity. Unlike antibodies, they are much more stable, can be produced synthetically and can be chemically modified to achieve the desired properties. As a result, they can offer capabilities that cannot be achieved with antibodies.",
+      "url": "https://phys.org/news/2026-06-faster-aptamer-screening-synthetic-alternatives.html"
+    },
+    {
+      "category": "AI",
+      "title": "Big Tech is stoking unrest in the UK. Why?",
+      "source": "Hacker News: Front Page",
+      "date": "Sat, 20 Jun 2026 15:42:35 +0000",
+      "summary": "Article URL: https://www.ft.com/content/0f3e33d2-0b9e-481d-a911-245d8cc01a9c\nComments URL: https://news.ycombinator.com/item?id=48610055\nPoints: 40\n# Comments: 23",
+      "url": "https://www.ft.com/content/0f3e33d2-0b9e-481d-a911-245d8cc01a9c"
+    },
+    {
+      "category": "Space",
+      "title": " This Week In Space podcast: Episode 215 — Disclosure Day ",
+      "source": " Latest from Space.com ",
+      "date": "Sat, 20 Jun 2026 15:16:59 +0000",
+      "summary": "On Episode 215 of This Week In Space, Rod Pyle and guest co-host Susan Karlin talk with bestselling sci-fi/sci-fact author Dr. David Brin.",
+      "url": "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-215-disclosure-day"
+    },
+    {
+      "category": "AI",
+      "title": "DOS Game \"F-15 Strike Eagle II\" reversing project needs DOS test pilots",
+      "source": "Hacker News: Front Page",
+      "date": "Sat, 20 Jun 2026 15:10:03 +0000",
+      "summary": "Article URL: https://neuviemeporte.github.io/f15-se2/2026/06/20/needyou.html\nComments URL: https://news.ycombinator.com/item?id=48609766\nPoints: 62\n# Comments: 13",
+      "url": "https://neuviemeporte.github.io/f15-se2/2026/06/20/needyou.html"
+    },
+    {
+      "category": "AI",
+      "title": "Cargo-Geiger",
+      "source": "Hacker News: Front Page",
+      "date": "Sat, 20 Jun 2026 14:52:59 +0000",
+      "summary": "Article URL: https://github.com/geiger-rs/cargo-geiger\nComments URL: https://news.ycombinator.com/item?id=48609645\nPoints: 16\n# Comments: 3",
+      "url": "https://github.com/geiger-rs/cargo-geiger"
+    },
+    {
+      "category": "Science",
+      "title": " Outdoor cats can be exposed to dangerous germs — here's how to protect you and your pets, according to more than 400 studies ",
+      "source": " Latest from Live Science ",
+      "date": "Sat, 20 Jun 2026 14:00:00 +0000",
+      "summary": "Ecologists and a veterinarian looked at more than 400 studies to see how to stop cats from bringing home unwelcome pathogens.",
+      "url": "https://www.livescience.com/animals/cats/outdoor-cats-can-be-exposed-to-dangerous-germs-heres-how-to-protect-you-and-your-pets-according-to-more-than-400-studies"
+    },
+    {
+      "category": "Space",
+      "title": " Supermassive black holes may be surrounded by dark matter clusters, new 'echo map' technique suggests ",
+      "source": " Latest from Space.com ",
+      "date": "Sat, 20 Jun 2026 14:00:00 +0000",
+      "summary": "A technique called echo mapping suggests supermassive black holes, like that at the heart of the Milky Way, are surrounded by clusters of dark matter.",
+      "url": "https://www.space.com/astronomy/dark-universe/supermassive-black-holes-may-be-surrounded-by-dark-matter-clusters-new-echo-map-technique-suggests"
+    },
+    {
+      "category": "Science",
+      "title": "This DNA repair gene went rogue and exposed a cancer weakness",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Sat, 20 Jun 2026 08:27:35 EDT",
+      "summary": "Scientists have discovered that a gene normally considered a DNA-protecting \"good guy\" can become dangerous when cells make too much of it. The gene, EXO1, acts like molecular scissors that help repair DNA, but when overproduced it starts cutting DNA it shouldn't, creating damage linked to cancer.",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260619101349.htm"
+    },
+    {
+      "category": "AI",
+      "title": "The UK will scan asylum-seekers’ faces for age checks—despite knowing the tech is flawed",
+      "source": "Ars Technica - All content",
+      "date": "Sat, 20 Jun 2026 11:15:09 +0000",
+      "summary": "Tests of age-verification technology show the risks of life-altering errors.",
+      "url": "https://arstechnica.com/tech-policy/2026/06/the-uk-will-scan-asylum-seekers-faces-for-age-checks-despite-knowing-the-tech-is-flawed/"
+    },
     {
       "category": "Science",
       "title": " Science news this week: Goblin shark filmed for first time, California close to a major quake, physicists split photon, and inside China's plans to 'tame nature' ",
@@ -20,14 +108,6 @@
     },
     {
       "category": "Space",
-      "title": " Late, great singer-songwriter Elliott Smith finds immortality as an asteroid ",
-      "source": " Latest from Space.com ",
-      "date": "Sat, 20 Jun 2026 10:00:00 +0000",
-      "summary": "An asteroid has been named after Smith, who died in 2003 at the age of 34.",
-      "url": "https://www.space.com/astronomy/asteroids/late-great-singer-songwriter-elliott-smith-finds-immortality-as-an-asteroid"
-    },
-    {
-      "category": "Space",
       "title": " Do we need a lunar building code to build moon bases safely? ",
       "source": " Latest from Space.com ",
       "date": "Sat, 20 Jun 2026 10:00:00 +0000",
@@ -36,43 +116,11 @@
     },
     {
       "category": "Science",
-      "title": " Why does it take our eyes so long to adjust to the dark? ",
-      "source": " Latest from Live Science ",
-      "date": "Sat, 20 Jun 2026 09:00:00 +0000",
-      "summary": "Here's why it's so hard to see when we enter a dark room.",
-      "url": "https://www.livescience.com/health/why-does-it-take-our-eyes-so-long-to-adjust-to-the-dark"
-    },
-    {
-      "category": "Science",
-      "title": "Belgian Nobel laureate Francois Englert dies aged 93",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sat, 20 Jun 2026 03:10:01 EDT",
-      "summary": "Belgian scientist Francois Englert, a particle physics specialist who won the Nobel Prize in 2013 for his work on the Higgs boson, has died at 93.",
-      "url": "https://phys.org/news/2026-06-belgian-nobel-laureate-francois-englert.html"
-    },
-    {
-      "category": "Science",
-      "title": "Australia detects first case of contagious H5 bird flu",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sat, 20 Jun 2026 02:55:27 EDT",
-      "summary": "Scientists have detected the H5 strain of bird flu in Australia for the first time, the country's agriculture minister said Saturday, meaning the highly contagious variant has now spread to every continent.",
-      "url": "https://phys.org/news/2026-06-australia-case-contagious-h5-bird.html"
-    },
-    {
-      "category": "AI",
-      "title": "I Stored a Website in a Favicon",
-      "source": "Hacker News: Front Page",
-      "date": "Sat, 20 Jun 2026 05:33:59 +0000",
-      "summary": "Article URL: https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/\nComments URL: https://news.ycombinator.com/item?id=48606619\nPoints: 162\n# Comments: 63",
-      "url": "https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/"
-    },
-    {
-      "category": "AI",
-      "title": "Satellite reveals immense scale of GPS signal tampering",
-      "source": "Hacker News: Front Page",
-      "date": "Sat, 20 Jun 2026 04:07:03 +0000",
-      "summary": "Article URL: https://www.space.com/space-exploration/satellites/its-quite-a-bit-more-than-we-expected-satellite-reveals-immense-scale-of-gps-signal-tampering\nComments URL: https://news.ycombinator.com/item?id=48606271\nPoints: 98\n# Comments: 47",
-      "url": "https://www.space.com/space-exploration/satellites/its-quite-a-bit-more-than-we-expected-satellite-reveals-immense-scale-of-gps-signal-tampering"
+      "title": "The secret language behind animal cooperation",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Sat, 20 Jun 2026 01:23:46 EDT",
+      "summary": "Animals from different species often rely on surprisingly sophisticated communication to work together, whether finding food, cleaning parasites, or gaining protection. New research suggests these interspecies “conversations” are flexible, evolved, and far more important to life in nature than scientists once realized.",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260619101328.htm"
     },
     {
       "category": "Theology",
@@ -84,43 +132,11 @@
     },
     {
       "category": "AI",
-      "title": "Where to Find the Colors Your Screen Can't Show You",
-      "source": "Hacker News: Front Page",
-      "date": "Sat, 20 Jun 2026 03:36:49 +0000",
-      "summary": "Article URL: https://moultano.wordpress.com/2026/06/19/where-to-find-the-colors-your-screen-cant-show-you/\nComments URL: https://news.ycombinator.com/item?id=48606140\nPoints: 162\n# Comments: 37",
-      "url": "https://moultano.wordpress.com/2026/06/19/where-to-find-the-colors-your-screen-cant-show-you/"
-    },
-    {
-      "category": "Science",
-      "title": "Nanobubbles for algae cleanup: Q&A with researcher Wen Zhang",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Fri, 19 Jun 2026 23:00:02 EDT",
-      "summary": "One of the most powerful environmental cleaning technologies in recent years is too small to see with the naked eye. Nanobubbles—tiny gaseous bubbles with diameters of around 100 nanometers—can clean up a range of harmful pollutants in water, from oil spills to algae.",
-      "url": "https://phys.org/news/2026-06-nanobubbles-algae-cleanup-qa-wen.html"
-    },
-    {
-      "category": "Space",
-      "title": " A private company will build and launch NASA's next Mars orbiter in 2028 — and it's not SpaceX ",
-      "source": " Latest from Space.com ",
-      "date": "Fri, 19 Jun 2026 21:00:00 +0000",
-      "summary": "A California-based company will design, build and launch a spacecraft for NASA's Aeolus mission to orbit around Mars, where the probe will be the first to provide daily measurements of the planet's global environment.",
-      "url": "https://www.space.com/space-exploration/missions/a-private-company-will-build-and-launch-nasas-next-mars-orbiter-in-2028-and-its-not-spacex"
-    },
-    {
-      "category": "AI",
       "title": "Rocket Report: Rebuild begins at Blue Origin launch pad; Relativity targets Mars",
       "source": "Ars Technica - All content",
       "date": "Fri, 19 Jun 2026 13:36:53 +0000",
       "summary": "A French launch startup is scrapping the name of its rocket, apparently due to a trademark issue.",
       "url": "https://arstechnica.com/space/2026/06/rocket-report-rebuild-begins-at-blue-origin-launch-pad-relativity-targets-mars/"
-    },
-    {
-      "category": "Science",
-      "title": "Scientists expected a black hole but found a neutrino factory powered by stars",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Fri, 19 Jun 2026 09:21:45 EDT",
-      "summary": "A distant galaxy nicknamed Shadow Blaster may have revealed a surprising source of cosmic neutrinos: extreme star formation instead of a supermassive black hole. The discovery suggests that hidden, dust-filled starburst galaxies could account for a significant fraction of the Universe’s high-energy neutrinos.",
-      "url": "https://www.sciencedaily.com/releases/2026/06/260619020510.htm"
     },
     {
       "category": "Theology",
@@ -129,14 +145,6 @@
       "date": "Fri, 19 Jun 2026 13:00:00 +0000",
       "summary": "The Bible pumped the antigospel institution of slavery so full of Christ until it burst.",
       "url": "https://www.thegospelcoalition.org/article/bible-juneteenth-cookout/"
-    },
-    {
-      "category": "Science",
-      "title": "Researchers found a Wordle strategy that wins 99% of the time",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Fri, 19 Jun 2026 08:50:45 EDT",
-      "summary": "Researchers developed a Wordle-solving strategy that succeeds 99% of the time by focusing on information gain rather than likely answers. The method uses Shannon entropy to identify guesses that reveal the most about the hidden word. Each guess is designed to slash uncertainty and narrow the possibilities faster. The result significantly outperformed more traditional Wordle tactics.",
-      "url": "https://www.sciencedaily.com/releases/2026/06/260619020508.htm"
     },
     {
       "category": "AI",
@@ -177,38 +185,6 @@
       "date": "Fri, 19 Jun 2026 04:05:00 +0000",
       "summary": "John Piper, Don Carson, Kathleen Nielson, and Tim and Kathy Keller discuss how they came to be complementarians.",
       "url": "https://www.thegospelcoalition.org/podcasts/tgc-podcast/conversation-complementarianism-tgc-classic/"
-    },
-    {
-      "category": "Space",
-      "title": "Tropical Storm Arthur",
-      "source": "NASA",
-      "date": "Fri, 19 Jun 2026 04:00:00 +0000",
-      "summary": "The first named storm of the 2026 Atlantic hurricane season brought intense rainfall and the threat of flash flooding to the U.S. Gulf Coast.",
-      "url": "https://science.nasa.gov/earth/earth-observatory/tropical-storm-arthur/"
-    },
-    {
-      "category": "Space",
-      "title": "Curiosity Blog, Sols 4920-4926: Surveying the Bands",
-      "source": "NASA",
-      "date": "Fri, 19 Jun 2026 00:50:58 +0000",
-      "summary": "Written by William Farrand, Senior Research Scientist, Space Science Institute Earth planning date: Friday, June 12, 2026 Rather than going from stage to stage at a music festival to hear different bands playing different varieties of music, Curiosity has been ascending up Mount Sharp through physical bands of exposed rocks with textural and tonal differences. […]",
-      "url": "https://science.nasa.gov/blog/curiosity-blog-sols-4920-4926-surveying-the-bands/"
-    },
-    {
-      "category": "AI",
-      "title": "A bold satellite rescue mission came together in record time, but will it work?",
-      "source": "Ars Technica - All content",
-      "date": "Fri, 19 Jun 2026 00:39:30 +0000",
-      "summary": "\"I consider this a success already, just from the fact that we're even going to try this.\"",
-      "url": "https://arstechnica.com/space/2026/06/a-bold-satellite-rescue-mission-came-together-in-record-time-but-will-it-work/"
-    },
-    {
-      "category": "Space",
-      "title": "NASA Mission to Study Space Weather Impacts of Earth’s Atmosphere",
-      "source": "NASA",
-      "date": "Thu, 18 Jun 2026 21:33:07 +0000",
-      "summary": "NASA selected a mission concept to research how space weather and dynamics within Earth’s atmosphere influence the space environment and help improve prediction capabilities for impacts on crucial technology, such as GPS and low Earth orbit satellites, as well as astronauts in space. The DAPHNE (Dynamic Atmosphere-Ionosphere Explorer) mission will enter Phase B of development, […]",
-      "url": "https://www.nasa.gov/news-release/nasa-mission-to-study-space-weather-impacts-of-earths-atmosphere/"
     },
     {
       "category": "AI",
