@@ -1,38 +1,62 @@
 {
-  "lastUpdated": "2026-06-20T17:18:26.942Z",
+  "lastUpdated": "2026-06-20T23:00:30.364Z",
   "articleCount": 36,
   "articles": [
     {
-      "category": "Science",
-      "title": "Ancient Mongolian cemetery reveals power and status mattered more than blood ties",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sat, 20 Jun 2026 13:00:01 EDT",
-      "summary": "On the edge of the Mongolian steppe, overlooking where two rivers meet, lies an ancient cemetery. Buried within are two families, traced through ancient DNA across six generations, surrounded by dozens of \"strangers.\" The obvious assumption is that this was a family cemetery. But a recent study used machine learning and a technique borrowed from evolutionary biology to reveal that what really mattered was wealth, status and political power, not blood.",
-      "url": "https://phys.org/news/2026-06-ancient-mongolian-cemetery-reveals-power.html"
+      "category": "AI",
+      "title": "Pre-2022 Books",
+      "source": "Hacker News: Front Page",
+      "date": "Sat, 20 Jun 2026 22:36:23 +0000",
+      "summary": "Article URL: https://notes.lorenzogravina.com/musings/pre-2022-books\nComments URL: https://news.ycombinator.com/item?id=48613631\nPoints: 3\n# Comments: 0",
+      "url": "https://notes.lorenzogravina.com/musings/pre-2022-books"
     },
     {
       "category": "Science",
-      "title": "How much clothing is too much? The math behind having a sustainable wardrobe",
+      "title": "Bat rays employ a chemical cue to warn others of danger",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Sat, 20 Jun 2026 12:30:02 EDT",
-      "summary": "Most people suspect they own too many clothes, but they aren't sure exactly what the \"right amount\" is. Recent wardrobe studies, in which researchers literally peek inside people's closets, show the scale of the problem is far greater than most of us imagine.",
-      "url": "https://phys.org/news/2026-06-math-sustainable-wardrobe.html"
-    },
-    {
-      "category": "Science",
-      "title": "Faster aptamer screening finds synthetic alternatives to antibodies in days instead of months",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sat, 20 Jun 2026 12:00:01 EDT",
-      "summary": "Aptamers are short DNA or RNA strands that can recognize and bind to a specific target molecule with high precision. Similar to antibodies, they can be used to detect these molecules or modulate their activity. Unlike antibodies, they are much more stable, can be produced synthetically and can be chemically modified to achieve the desired properties. As a result, they can offer capabilities that cannot be achieved with antibodies.",
-      "url": "https://phys.org/news/2026-06-faster-aptamer-screening-synthetic-alternatives.html"
+      "date": "Sat, 20 Jun 2026 18:30:03 EDT",
+      "summary": "Frightened bat rays produce a chemical cue to warn other rays of danger, a well-known anti-predator strategy for bony fish that has not been documented in cartilaginous fish until now. Oregon State University researchers found the behavior of bat rays changed when they received water flow from a tank where another bat ray was frightened by a mock predator, suggesting that a chemical disturbance cue was passed from one tank to the other.",
+      "url": "https://phys.org/news/2026-06-rays-employ-chemical-cue-danger.html"
     },
     {
       "category": "AI",
-      "title": "Big Tech is stoking unrest in the UK. Why?",
+      "title": "Tesla allegedly in autopilot mode crashes into Texas house, woman killed",
       "source": "Hacker News: Front Page",
-      "date": "Sat, 20 Jun 2026 15:42:35 +0000",
-      "summary": "Article URL: https://www.ft.com/content/0f3e33d2-0b9e-481d-a911-245d8cc01a9c\nComments URL: https://news.ycombinator.com/item?id=48610055\nPoints: 40\n# Comments: 23",
-      "url": "https://www.ft.com/content/0f3e33d2-0b9e-481d-a911-245d8cc01a9c"
+      "date": "Sat, 20 Jun 2026 22:14:15 +0000",
+      "summary": "Article URL: https://abcnews.com/US/tesla-allegedly-autopilot-mode-crashes-texas-house-woman/story?id=134062374\nComments URL: https://news.ycombinator.com/item?id=48613481\nPoints: 18\n# Comments: 3",
+      "url": "https://abcnews.com/US/tesla-allegedly-autopilot-mode-crashes-texas-house-woman/story?id=134062374"
+    },
+    {
+      "category": "AI",
+      "title": "Systemd 261 released with systemd-sysinstall, IMDSD, and storagectl",
+      "source": "Hacker News: Front Page",
+      "date": "Sat, 20 Jun 2026 21:50:42 +0000",
+      "summary": "Article URL: https://www.phoronix.com/news/systemd-261\nComments URL: https://news.ycombinator.com/item?id=48613328\nPoints: 16\n# Comments: 1",
+      "url": "https://www.phoronix.com/news/systemd-261"
+    },
+    {
+      "category": "Science",
+      "title": "Sonic booms from meteors can release the energy of hundreds of tons of TNT. Here's how they work",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sat, 20 Jun 2026 17:30:01 EDT",
+      "summary": "As humans, we live out our lives on a planet that is constantly sweeping through a cosmic ocean littered with ancient debris from the formation of the solar system. For the most part, our world glides silently through space, shielded by Earth's thin atmosphere.",
+      "url": "https://phys.org/news/2026-06-sonic-booms-meteors-energy-hundreds.html"
+    },
+    {
+      "category": "Science",
+      "title": "Crane pair dances follow hidden rules, with performances revealing partner-driven timing",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sat, 20 Jun 2026 17:00:02 EDT",
+      "summary": "Animal pairs engage in mutual signaling by simultaneously performing a diverse repertoire of behaviors. A famous example is the sophisticated dance (mutual displays) performed by bird pairs.",
+      "url": "https://phys.org/news/2026-06-crane-pair-hidden-revealing-partner.html"
+    },
+    {
+      "category": "Science",
+      "title": " 'You kill the bacteria and heal the wound at the same time': Emerging nanotech could be the future of wound healing ",
+      "source": " Latest from Live Science ",
+      "date": "Sat, 20 Jun 2026 18:00:00 +0000",
+      "summary": "Slow-healing lesions — common in diabetics and burn victims — can lead to lingering infections that resist antibiotic treatment. A new approach using light-activated therapies may offer a solution.",
+      "url": "https://www.livescience.com/health/you-kill-the-bacteria-and-heal-the-wound-at-the-same-time-emerging-nanotech-could-be-the-future-of-wound-healing"
     },
     {
       "category": "Space",
@@ -41,22 +65,6 @@
       "date": "Sat, 20 Jun 2026 15:16:59 +0000",
       "summary": "On Episode 215 of This Week In Space, Rod Pyle and guest co-host Susan Karlin talk with bestselling sci-fi/sci-fact author Dr. David Brin.",
       "url": "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-215-disclosure-day"
-    },
-    {
-      "category": "AI",
-      "title": "DOS Game \"F-15 Strike Eagle II\" reversing project needs DOS test pilots",
-      "source": "Hacker News: Front Page",
-      "date": "Sat, 20 Jun 2026 15:10:03 +0000",
-      "summary": "Article URL: https://neuviemeporte.github.io/f15-se2/2026/06/20/needyou.html\nComments URL: https://news.ycombinator.com/item?id=48609766\nPoints: 62\n# Comments: 13",
-      "url": "https://neuviemeporte.github.io/f15-se2/2026/06/20/needyou.html"
-    },
-    {
-      "category": "AI",
-      "title": "Cargo-Geiger",
-      "source": "Hacker News: Front Page",
-      "date": "Sat, 20 Jun 2026 14:52:59 +0000",
-      "summary": "Article URL: https://github.com/geiger-rs/cargo-geiger\nComments URL: https://news.ycombinator.com/item?id=48609645\nPoints: 16\n# Comments: 3",
-      "url": "https://github.com/geiger-rs/cargo-geiger"
     },
     {
       "category": "Science",
@@ -97,14 +105,6 @@
       "date": "Sat, 20 Jun 2026 11:00:00 +0000",
       "summary": "June 20, 2026: Our weekly roundup of the latest science in the news, as well as a few fascinating articles to keep you entertained over the weekend.",
       "url": "https://www.livescience.com/animals/science-news-this-week-goblin-shark-filmed-for-first-time-california-close-to-a-major-quake-physicists-split-photon-and-inside-chinas-plans-to-tame-nature"
-    },
-    {
-      "category": "Science",
-      "title": " Diagnostic dilemma: A fish stabs a man through the throat and the base of the skull ",
-      "source": " Latest from Live Science ",
-      "date": "Sat, 20 Jun 2026 10:00:00 +0000",
-      "summary": "While on a fishing trip, a man sustained an unusual injury from a marlin.",
-      "url": "https://www.livescience.com/health/diagnostic-dilemma-a-fish-stabs-a-man-through-the-throat-and-the-base-of-the-skull"
     },
     {
       "category": "Space",
