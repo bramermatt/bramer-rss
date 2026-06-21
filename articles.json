@@ -1,54 +1,78 @@
 {
-  "lastUpdated": "2026-06-21T17:21:36.195Z",
-  "articleCount": 39,
+  "lastUpdated": "2026-06-21T23:04:19.000Z",
+  "articleCount": 36,
   "articles": [
     {
       "category": "Science",
-      "title": "Well-known planetary nebula's ear-like lobes rewrite its evolutionary timeline",
+      "title": "El Niño is underway, satellite observations show",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Sun, 21 Jun 2026 13:20:01 EDT",
-      "summary": "Using the Multi Unit Spectroscopic Explorer (MUSE) and the Manchester Echelle Spectrograph (MES), astronomers from Turkey and Mexico have investigated a planetary nebula discovered two centuries ago, known as NGC 6563. Results of the observations, published June 15 in a special issue of Galaxies journal, yield important insights into the morphology and kinematics of this nebula.",
-      "url": "https://phys.org/news/2026-06-planetary-nebula-ear-lobes-rewrite.html"
+      "date": "Sun, 21 Jun 2026 19:00:01 EDT",
+      "summary": "El Niño, characterized by warmer-than-normal water temperatures in parts of the equatorial Pacific, made its return in June 2026. Observations of sea surface height from the Sentinel-6 Michael Freilich satellite that month indicated that the 2026 event was continuing to strengthen.",
+      "url": "https://phys.org/news/2026-06-el-nio-underway-satellite.html"
     },
     {
       "category": "AI",
-      "title": "Wildcard (YC W25) Is Hiring a Founding Applied ML Engineer",
-      "source": "Hacker News: Front Page",
-      "date": "Sun, 21 Jun 2026 17:00:28 +0000",
-      "summary": "Article URL: https://www.ycombinator.com/companies/wildcard/jobs/SEmo4di-founding-applied-ml-engineer\nComments URL: https://news.ycombinator.com/item?id=48620504\nPoints: 0\n# Comments: 0",
-      "url": "https://www.ycombinator.com/companies/wildcard/jobs/SEmo4di-founding-applied-ml-engineer"
-    },
-    {
-      "category": "AI",
-      "title": "Tell HN: Happy Fathers Day to all the fathers, uncles, anyone in that role!",
-      "source": "Hacker News: Front Page",
-      "date": "Sun, 21 Jun 2026 17:00:26 +0000",
-      "summary": "My shortened story: due to factors in Soviet controlled Poland, my uncle played my dad role.\nHe took me to a quarry to fire Estes-style rocket cars, and all that.. he also managed to steal a Milicja (police) siren from work, and put it on the back of my banana style bike. As an EE, he made it actually function.\nThanks to all the hackers that made us who we are.\nComments URL: https://news.ycombinator.com/item?id=48620502\nPoints: 30\n# Comments: 3",
-      "url": "https://news.ycombinator.com/item?id=48620502"
+      "title": "Samsung Electronics brings ChatGPT and Codex to employees",
+      "source": "OpenAI News",
+      "date": "Sun, 21 Jun 2026 23:00:00 GMT",
+      "summary": "Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI’s largest enterprise AI rollouts.",
+      "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment"
     },
     {
       "category": "Science",
-      "title": "NASA testing advanced capabilities for moon, Mars rovers",
+      "title": "Quantum mechanics theory may work without imaginary numbers, new analysis suggests",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Sun, 21 Jun 2026 13:00:01 EDT",
-      "summary": "On a bleak stretch of the Colorado Desert in Southern California, a compact four-wheeled rover recently trundled 16 miles (26 kilometers) with minimal intervention from the team of engineers trailing it. Called ERNEST (Exploration Rover for Navigating Extreme Sloped Terrain), this prototype is being used by NASA to advance both robotic autonomy and the ability to traverse challenging landscapes.",
-      "url": "https://phys.org/news/2026-06-nasa-advanced-capabilities-moon-mars-1.html"
-    },
-    {
-      "category": "AI",
-      "title": "The Minimum Viable Unit of Saleable Software",
-      "source": "Hacker News: Front Page",
-      "date": "Sun, 21 Jun 2026 16:41:21 +0000",
-      "summary": "Article URL: https://brandur.org/minimum-viable-unit\nComments URL: https://news.ycombinator.com/item?id=48620342\nPoints: 6\n# Comments: 0",
-      "url": "https://brandur.org/minimum-viable-unit"
+      "date": "Sun, 21 Jun 2026 18:20:01 EDT",
+      "summary": "Physicists from Heinrich Heine University Düsseldorf (HHU) have examined a fundamental property of quantum mechanics in collaboration with the German Aerospace Center (DLR). In an article published in the journal Physical Review Letters, they show that this theory does not necessarily need to be formulated with imaginary numbers—real numbers can, in fact, also be used.",
+      "url": "https://phys.org/news/2026-06-quantum-mechanics-theory-imaginary-analysis.html"
     },
     {
       "category": "Science",
-      "title": "Stress gives bees sharper vision and faster reactions, researchers discover",
+      "title": "If you're feeling down, maybe don't pet your cat, new study suggests",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Sun, 21 Jun 2026 12:00:03 EDT",
-      "summary": "Bumblebees see the world differently under stress, processing visual information more sharply and making quicker decisions, new research from Newcastle University reveals.",
-      "url": "https://phys.org/news/2026-06-stress-bees-sharper-vision-faster.html"
+      "date": "Sun, 21 Jun 2026 18:00:01 EDT",
+      "summary": "You come home after a stressful day and reach out to your cat for a bit of comfort. It hisses. Maybe takes a swipe. Or simply flicks its tail and saunters off without so much as a meow. A dog, by contrast, greets you as though they've just won the lottery.",
+      "url": "https://phys.org/news/2026-06-youre-dont-pet-cat.html"
+    },
+    {
+      "category": "AI",
+      "title": "Rent collections are down in New York – and no one's sure why",
+      "source": "Hacker News: Front Page",
+      "date": "Sun, 21 Jun 2026 21:54:34 +0000",
+      "summary": "Article URL: https://www.politico.com/news/2026/06/21/rent-collections-are-down-in-new-york-and-no-ones-sure-why-00966982\nComments URL: https://news.ycombinator.com/item?id=48622987\nPoints: 17\n# Comments: 9",
+      "url": "https://www.politico.com/news/2026/06/21/rent-collections-are-down-in-new-york-and-no-ones-sure-why-00966982"
+    },
+    {
+      "category": "AI",
+      "title": "Did my old job only exist because of fraud?",
+      "source": "Hacker News: Front Page",
+      "date": "Sun, 21 Jun 2026 21:40:53 +0000",
+      "summary": "Article URL: https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/\nComments URL: https://news.ycombinator.com/item?id=48622867\nPoints: 52\n# Comments: 6",
+      "url": "https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/"
+    },
+    {
+      "category": "AI",
+      "title": "FDA advisors unanimously vote to approve Moderna's mRNA after agency drama",
+      "source": "Hacker News: Front Page",
+      "date": "Sun, 21 Jun 2026 21:30:25 +0000",
+      "summary": "Article URL: https://arstechnica.com/health/2026/06/fda-advisors-unanimously-vote-to-approve-modernas-mrna-after-agency-drama/\nComments URL: https://news.ycombinator.com/item?id=48622788\nPoints: 45\n# Comments: 22",
+      "url": "https://arstechnica.com/health/2026/06/fda-advisors-unanimously-vote-to-approve-modernas-mrna-after-agency-drama/"
+    },
+    {
+      "category": "Space",
+      "title": " SpaceX Falcon 9 rocket launches 24 Starlink satellites into low Earth orbit from California ",
+      "source": " Latest from Space.com ",
+      "date": "Sun, 21 Jun 2026 18:38:10 +0000",
+      "summary": "A SpaceX Falcon 9 rocket carrying 24 Starlink satellites lifted off from Vandenberg Space Force Base in California on Sunday, June 21, 2026.",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-17-28-b1063-vsfb-ocisly"
+    },
+    {
+      "category": "AI",
+      "title": "Trump admin’s coal investments assist plants with repeated violations",
+      "source": "Ars Technica - All content",
+      "date": "Sun, 21 Jun 2026 17:49:35 +0000",
+      "summary": "At least three coal plants have been repeatedly cited for violating environmental regulations.",
+      "url": "https://arstechnica.com/science/2026/06/trump-admins-coal-investments-assist-plants-with-repeated-violations/"
     },
     {
       "category": "Science",
@@ -123,14 +147,6 @@
       "url": "https://www.thegospelcoalition.org/article/kids-faith-simpler/"
     },
     {
-      "category": "Space",
-      "title": " This Week In Space podcast: Episode 215 — Disclosure Day ",
-      "source": " Latest from Space.com ",
-      "date": "Sat, 20 Jun 2026 15:16:59 +0000",
-      "summary": "On Episode 215 of This Week In Space, Rod Pyle and guest co-host Susan Karlin talk with bestselling sci-fi/sci-fact author Dr. David Brin.",
-      "url": "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-215-disclosure-day"
-    },
-    {
       "category": "Science",
       "title": "This DNA repair gene went rogue and exposed a cancer weakness",
       "source": "All Top News -- ScienceDaily",
@@ -153,14 +169,6 @@
       "date": "Sat, 20 Jun 2026 04:02:00 +0000",
       "summary": "By elevating Thomas to almost canonical status, well-intentioned retrieval theologians may well have opened a floodgate that won’t be shut before many have abandoned Protestantism.",
       "url": "https://www.thegospelcoalition.org/article/good-bad-retrieval-theology/"
-    },
-    {
-      "category": "AI",
-      "title": "Rocket Report: Rebuild begins at Blue Origin launch pad; Relativity targets Mars",
-      "source": "Ars Technica - All content",
-      "date": "Fri, 19 Jun 2026 13:36:53 +0000",
-      "summary": "A French launch startup is scrapping the name of its rocket, apparently due to a trademark issue.",
-      "url": "https://arstechnica.com/space/2026/06/rocket-report-rebuild-begins-at-blue-origin-launch-pad-relativity-targets-mars/"
     },
     {
       "category": "Theology",
@@ -187,30 +195,6 @@
       "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-israel/exploring-the-land-of-the-philistines/"
     },
     {
-      "category": "Space",
-      "title": "Tropical Storm Arthur",
-      "source": "NASA",
-      "date": "Fri, 19 Jun 2026 04:00:00 +0000",
-      "summary": "The first named storm of the 2026 Atlantic hurricane season brought intense rainfall and the threat of flash flooding to the U.S. Gulf Coast.",
-      "url": "https://science.nasa.gov/earth/earth-observatory/tropical-storm-arthur/"
-    },
-    {
-      "category": "Space",
-      "title": "Curiosity Blog, Sols 4920-4926: Surveying the Bands",
-      "source": "NASA",
-      "date": "Fri, 19 Jun 2026 00:50:58 +0000",
-      "summary": "Written by William Farrand, Senior Research Scientist, Space Science Institute Earth planning date: Friday, June 12, 2026 Rather than going from stage to stage at a music festival to hear different bands playing different varieties of music, Curiosity has been ascending up Mount Sharp through physical bands of exposed rocks with textural and tonal differences. […]",
-      "url": "https://science.nasa.gov/blog/curiosity-blog-sols-4920-4926-surveying-the-bands/"
-    },
-    {
-      "category": "Space",
-      "title": "NASA Mission to Study Space Weather Impacts of Earth’s Atmosphere",
-      "source": "NASA",
-      "date": "Thu, 18 Jun 2026 21:33:07 +0000",
-      "summary": "NASA selected a mission concept to research how space weather and dynamics within Earth’s atmosphere influence the space environment and help improve prediction capabilities for impacts on crucial technology, such as GPS and low Earth orbit satellites, as well as astronauts in space. The DAPHNE (Dynamic Atmosphere-Ionosphere Explorer) mission will enter Phase B of development, […]",
-      "url": "https://www.nasa.gov/news-release/nasa-mission-to-study-space-weather-impacts-of-earths-atmosphere/"
-    },
-    {
       "category": "AI",
       "title": "New usage analytics and updated spend controls for enterprises",
       "source": "OpenAI News",
@@ -233,14 +217,6 @@
       "date": "Thu, 18 Jun 2026 11:00:00 GMT",
       "summary": "Learn how GPT-5.5 Instant improves ChatGPT’s health and wellness responses with stronger reasoning, better context, clearer communication, and physician-informed evaluations.",
       "url": "https://openai.com/index/improving-health-intelligence-in-chatgpt"
-    },
-    {
-      "category": "AI",
-      "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
-      "source": "OpenAI News",
-      "date": "Thu, 18 Jun 2026 08:00:00 GMT",
-      "summary": "Researchers used an OpenAI reasoning model to help diagnose rare diseases, identifying 18 new diagnoses in previously unsolved cases.",
-      "url": "https://openai.com/index/diagnose-rare-childhood-diseases"
     },
     {
       "category": "History",
