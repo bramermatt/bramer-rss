@@ -1,14 +1,94 @@
 {
-  "lastUpdated": "2026-06-20T23:00:30.364Z",
-  "articleCount": 36,
+  "lastUpdated": "2026-06-21T12:07:40.442Z",
+  "articleCount": 39,
   "articles": [
     {
+      "category": "Space",
+      "title": " A mysterious gamma-ray stream comes from the Milky Way's center. Could dark matter have something to do with it? ",
+      "source": " Latest from Space.com ",
+      "date": "Sun, 21 Jun 2026 12:00:00 +0000",
+      "summary": "New research has failed to rule out self-annihilating dark matter as the source of a hotly debated gamma-ray emission known as the Galactic Center Excess radiating from the heart of the Milky Way.",
+      "url": "https://www.space.com/astronomy/dark-universe/a-mysterious-gamma-ray-stream-comes-from-the-milky-ways-center-could-dark-matter-have-something-to-do-with-it"
+    },
+    {
       "category": "AI",
-      "title": "Pre-2022 Books",
+      "title": "Review: Widow's Bay is a boldly original take on comedic horror",
+      "source": "Ars Technica - All content",
+      "date": "Sun, 21 Jun 2026 10:00:11 +0000",
+      "summary": "An eminently binge-able series that honors classic horror tropes while reinventing them in surprising ways",
+      "url": "https://arstechnica.com/culture/2026/06/review-widows-bay-is-a-boldly-original-take-on-comedic-horror/"
+    },
+    {
+      "category": "Science",
+      "title": " James Webb telescope finds a cosmic cloud of creation buried in the Sword of Orion — Space photo of the week ",
+      "source": " Latest from Live Science ",
+      "date": "Sun, 21 Jun 2026 10:00:00 +0000",
+      "summary": "A new James Webb telescope snap shows off the glowing gas, sculpted jets and newborn stars lurking within the giant cosmic cloud OMC-2, located in the Sword of Orion.",
+      "url": "https://www.livescience.com/space/astronomy/james-webb-telescope-finds-a-cosmic-cloud-of-creation-buried-in-the-sword-of-orion-space-photo-of-the-week"
+    },
+    {
+      "category": "Space",
+      "title": " Happy Summer Solstice! Today marks the longest day of the year for the Northern Hemisphere ",
+      "source": " Latest from Space.com ",
+      "date": "Sun, 21 Jun 2026 10:00:00 +0000",
+      "summary": "The summer solstice marks the longest day and the start of astronomical summer.",
+      "url": "https://www.space.com/stargazing/happy-summer-solstice-today-marks-the-longest-day-of-the-year-for-the-northern-hemisphere"
+    },
+    {
+      "category": "AI",
+      "title": "CTOs Agree: Cognitive Debt Is the New Technical Debt",
       "source": "Hacker News: Front Page",
-      "date": "Sat, 20 Jun 2026 22:36:23 +0000",
-      "summary": "Article URL: https://notes.lorenzogravina.com/musings/pre-2022-books\nComments URL: https://news.ycombinator.com/item?id=48613631\nPoints: 3\n# Comments: 0",
-      "url": "https://notes.lorenzogravina.com/musings/pre-2022-books"
+      "date": "Sun, 21 Jun 2026 09:53:57 +0000",
+      "summary": "Article URL: https://shiftmag.dev/ctos-agree-cognitive-debt-is-the-new-technical-debt-10229/\nComments URL: https://news.ycombinator.com/item?id=48617323\nPoints: 38\n# Comments: 29",
+      "url": "https://shiftmag.dev/ctos-agree-cognitive-debt-is-the-new-technical-debt-10229/"
+    },
+    {
+      "category": "Science",
+      "title": " What will the Amazon rainforest look like in 100 years? ",
+      "source": " Latest from Live Science ",
+      "date": "Sun, 21 Jun 2026 09:00:00 +0000",
+      "summary": "The health of the Amazon rainforest is key to the global climate, but many dangers threaten to make it unrecognizable in the future.",
+      "url": "https://www.livescience.com/planet-earth/what-will-the-amazon-rainforest-look-like-in-100-years"
+    },
+    {
+      "category": "AI",
+      "title": "Google Hits 50% IPv6",
+      "source": "Hacker News: Front Page",
+      "date": "Sun, 21 Jun 2026 08:21:22 +0000",
+      "summary": "Article URL: https://blog.apnic.net/2026/04/28/google-hits-50-ipv6/\nComments URL: https://news.ycombinator.com/item?id=48616800\nPoints: 167\n# Comments: 160",
+      "url": "https://blog.apnic.net/2026/04/28/google-hits-50-ipv6/"
+    },
+    {
+      "category": "AI",
+      "title": "A 3D voxel game engine written in APL",
+      "source": "Hacker News: Front Page",
+      "date": "Sun, 21 Jun 2026 08:04:54 +0000",
+      "summary": "Article URL: https://github.com/namgyaaal/avoxelgame\nComments URL: https://news.ycombinator.com/item?id=48616713\nPoints: 67\n# Comments: 7",
+      "url": "https://github.com/namgyaaal/avoxelgame"
+    },
+    {
+      "category": "Science",
+      "title": "Scientists discover neurons must break their DNA to build the brain",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Sun, 21 Jun 2026 02:30:35 EDT",
+      "summary": "As newborn neurons make their way through the developing brain, they must squeeze through incredibly tight spaces to reach their final destinations. Researchers discovered that this physical journey routinely causes some of the most severe forms of DNA damage—double-strand breaks—yet the young brain has evolved an impressive ability to repair the damage almost immediately.",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260620100422.htm"
+    },
+    {
+      "category": "Theology",
+      "title": "Raising Kids in the Faith Is Simpler Than You May Think",
+      "source": "The Gospel Coalition",
+      "date": "Sun, 21 Jun 2026 04:00:00 +0000",
+      "summary": "The strongest predictor of a child’s adult religiosity is how religious the parents were during the upbringing.",
+      "url": "https://www.thegospelcoalition.org/article/kids-faith-simpler/"
+    },
+    {
+      "category": "Science",
+      "title": "Climate change boosts soybean production but worsens bean quality",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sat, 20 Jun 2026 20:00:02 EDT",
+      "summary": "A study published by Food Research International analyzed the triple effect of climate change on soybean quality—increased carbon dioxide (CO₂), high temperatures and drought. Using predictive modeling powered by artificial intelligence (AI) and based on experimentally verified data, the study assessed how these pressures would affect the beans. It concluded that the seeds would change their composition, producing 50% more beans but of lower nutritional quality.",
+      "url": "https://phys.org/news/2026-06-climate-boosts-soybean-production-worsens.html"
     },
     {
       "category": "Science",
@@ -19,36 +99,12 @@
       "url": "https://phys.org/news/2026-06-rays-employ-chemical-cue-danger.html"
     },
     {
-      "category": "AI",
-      "title": "Tesla allegedly in autopilot mode crashes into Texas house, woman killed",
-      "source": "Hacker News: Front Page",
-      "date": "Sat, 20 Jun 2026 22:14:15 +0000",
-      "summary": "Article URL: https://abcnews.com/US/tesla-allegedly-autopilot-mode-crashes-texas-house-woman/story?id=134062374\nComments URL: https://news.ycombinator.com/item?id=48613481\nPoints: 18\n# Comments: 3",
-      "url": "https://abcnews.com/US/tesla-allegedly-autopilot-mode-crashes-texas-house-woman/story?id=134062374"
-    },
-    {
-      "category": "AI",
-      "title": "Systemd 261 released with systemd-sysinstall, IMDSD, and storagectl",
-      "source": "Hacker News: Front Page",
-      "date": "Sat, 20 Jun 2026 21:50:42 +0000",
-      "summary": "Article URL: https://www.phoronix.com/news/systemd-261\nComments URL: https://news.ycombinator.com/item?id=48613328\nPoints: 16\n# Comments: 1",
-      "url": "https://www.phoronix.com/news/systemd-261"
-    },
-    {
       "category": "Science",
       "title": "Sonic booms from meteors can release the energy of hundreds of tons of TNT. Here's how they work",
       "source": "Phys.org - latest science and technology news stories",
       "date": "Sat, 20 Jun 2026 17:30:01 EDT",
       "summary": "As humans, we live out our lives on a planet that is constantly sweeping through a cosmic ocean littered with ancient debris from the formation of the solar system. For the most part, our world glides silently through space, shielded by Earth's thin atmosphere.",
       "url": "https://phys.org/news/2026-06-sonic-booms-meteors-energy-hundreds.html"
-    },
-    {
-      "category": "Science",
-      "title": "Crane pair dances follow hidden rules, with performances revealing partner-driven timing",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sat, 20 Jun 2026 17:00:02 EDT",
-      "summary": "Animal pairs engage in mutual signaling by simultaneously performing a diverse repertoire of behaviors. A famous example is the sophisticated dance (mutual displays) performed by bird pairs.",
-      "url": "https://phys.org/news/2026-06-crane-pair-hidden-revealing-partner.html"
     },
     {
       "category": "Science",
@@ -68,22 +124,6 @@
     },
     {
       "category": "Science",
-      "title": " Outdoor cats can be exposed to dangerous germs — here's how to protect you and your pets, according to more than 400 studies ",
-      "source": " Latest from Live Science ",
-      "date": "Sat, 20 Jun 2026 14:00:00 +0000",
-      "summary": "Ecologists and a veterinarian looked at more than 400 studies to see how to stop cats from bringing home unwelcome pathogens.",
-      "url": "https://www.livescience.com/animals/cats/outdoor-cats-can-be-exposed-to-dangerous-germs-heres-how-to-protect-you-and-your-pets-according-to-more-than-400-studies"
-    },
-    {
-      "category": "Space",
-      "title": " Supermassive black holes may be surrounded by dark matter clusters, new 'echo map' technique suggests ",
-      "source": " Latest from Space.com ",
-      "date": "Sat, 20 Jun 2026 14:00:00 +0000",
-      "summary": "A technique called echo mapping suggests supermassive black holes, like that at the heart of the Milky Way, are surrounded by clusters of dark matter.",
-      "url": "https://www.space.com/astronomy/dark-universe/supermassive-black-holes-may-be-surrounded-by-dark-matter-clusters-new-echo-map-technique-suggests"
-    },
-    {
-      "category": "Science",
       "title": "This DNA repair gene went rogue and exposed a cancer weakness",
       "source": "All Top News -- ScienceDaily",
       "date": "Sat, 20 Jun 2026 08:27:35 EDT",
@@ -97,22 +137,6 @@
       "date": "Sat, 20 Jun 2026 11:15:09 +0000",
       "summary": "Tests of age-verification technology show the risks of life-altering errors.",
       "url": "https://arstechnica.com/tech-policy/2026/06/the-uk-will-scan-asylum-seekers-faces-for-age-checks-despite-knowing-the-tech-is-flawed/"
-    },
-    {
-      "category": "Science",
-      "title": " Science news this week: Goblin shark filmed for first time, California close to a major quake, physicists split photon, and inside China's plans to 'tame nature' ",
-      "source": " Latest from Live Science ",
-      "date": "Sat, 20 Jun 2026 11:00:00 +0000",
-      "summary": "June 20, 2026: Our weekly roundup of the latest science in the news, as well as a few fascinating articles to keep you entertained over the weekend.",
-      "url": "https://www.livescience.com/animals/science-news-this-week-goblin-shark-filmed-for-first-time-california-close-to-a-major-quake-physicists-split-photon-and-inside-chinas-plans-to-tame-nature"
-    },
-    {
-      "category": "Space",
-      "title": " Do we need a lunar building code to build moon bases safely? ",
-      "source": " Latest from Space.com ",
-      "date": "Sat, 20 Jun 2026 10:00:00 +0000",
-      "summary": "As NASA pushes to build a sustained human presence on the moon, one expert says what's needed is a lunar building code.",
-      "url": "https://www.space.com/space-exploration/artemis/do-we-need-a-lunar-building-code-to-build-moon-bases-safely"
     },
     {
       "category": "Science",
@@ -147,14 +171,6 @@
       "url": "https://www.thegospelcoalition.org/article/bible-juneteenth-cookout/"
     },
     {
-      "category": "AI",
-      "title": "As global warming threatens corals, scientists search for reefs that can take the heat",
-      "source": "Ars Technica - All content",
-      "date": "Fri, 19 Jun 2026 11:15:11 +0000",
-      "summary": "Researchers say these coral strongholds may help repopulate more degraded reefs.",
-      "url": "https://arstechnica.com/science/2026/06/as-global-warming-threatens-corals-scientists-search-for-reefs-that-can-take-the-heat/"
-    },
-    {
       "category": "Biblical Studies",
       "title": "Statues of Mysterious Classical Figures Found Near Caesarea",
       "source": "Biblical Archaeology Society",
@@ -171,20 +187,28 @@
       "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-israel/exploring-the-land-of-the-philistines/"
     },
     {
-      "category": "Science",
-      "title": "Einstein’s “biggest blunder” may finally have an explanation",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Fri, 19 Jun 2026 05:43:07 EDT",
-      "summary": "Scientists have uncovered a surprising connection between quantum gravity and an exotic quantum state of matter that could explain why the universe isn’t expanding wildly fast. The study suggests that the very shape of space-time may protect the cosmological constant from disruptive quantum effects.",
-      "url": "https://www.sciencedaily.com/releases/2026/06/260619020516.htm"
+      "category": "Space",
+      "title": "Tropical Storm Arthur",
+      "source": "NASA",
+      "date": "Fri, 19 Jun 2026 04:00:00 +0000",
+      "summary": "The first named storm of the 2026 Atlantic hurricane season brought intense rainfall and the threat of flash flooding to the U.S. Gulf Coast.",
+      "url": "https://science.nasa.gov/earth/earth-observatory/tropical-storm-arthur/"
     },
     {
-      "category": "Theology",
-      "title": "A Conversation About Complementarianism (TGC Classic)",
-      "source": "The Gospel Coalition",
-      "date": "Fri, 19 Jun 2026 04:05:00 +0000",
-      "summary": "John Piper, Don Carson, Kathleen Nielson, and Tim and Kathy Keller discuss how they came to be complementarians.",
-      "url": "https://www.thegospelcoalition.org/podcasts/tgc-podcast/conversation-complementarianism-tgc-classic/"
+      "category": "Space",
+      "title": "Curiosity Blog, Sols 4920-4926: Surveying the Bands",
+      "source": "NASA",
+      "date": "Fri, 19 Jun 2026 00:50:58 +0000",
+      "summary": "Written by William Farrand, Senior Research Scientist, Space Science Institute Earth planning date: Friday, June 12, 2026 Rather than going from stage to stage at a music festival to hear different bands playing different varieties of music, Curiosity has been ascending up Mount Sharp through physical bands of exposed rocks with textural and tonal differences. […]",
+      "url": "https://science.nasa.gov/blog/curiosity-blog-sols-4920-4926-surveying-the-bands/"
+    },
+    {
+      "category": "Space",
+      "title": "NASA Mission to Study Space Weather Impacts of Earth’s Atmosphere",
+      "source": "NASA",
+      "date": "Thu, 18 Jun 2026 21:33:07 +0000",
+      "summary": "NASA selected a mission concept to research how space weather and dynamics within Earth’s atmosphere influence the space environment and help improve prediction capabilities for impacts on crucial technology, such as GPS and low Earth orbit satellites, as well as astronauts in space. The DAPHNE (Dynamic Atmosphere-Ionosphere Explorer) mission will enter Phase B of development, […]",
+      "url": "https://www.nasa.gov/news-release/nasa-mission-to-study-space-weather-impacts-of-earths-atmosphere/"
     },
     {
       "category": "AI",
