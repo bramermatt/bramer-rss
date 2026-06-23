@@ -1,54 +1,126 @@
 {
-  "lastUpdated": "2026-06-23T17:46:28.555Z",
-  "articleCount": 39,
+  "lastUpdated": "2026-06-23T23:02:44.088Z",
+  "articleCount": 36,
   "articles": [
     {
       "category": "Science",
-      "title": "India monsoon sweeps north but brings less rain than usual",
+      "title": "Animals are often moved to make way for infrastructure, but we don't know what happens to them next",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Tue, 23 Jun 2026 13:42:01 EDT",
-      "summary": "Long-awaited monsoon rains arrived in India's financial capital, Mumbai, on Tuesday, cooling weeks of blazing heat despite persistent fears of water shortages, with total rainfall so far staying below the long-term average.",
-      "url": "https://phys.org/news/2026-06-india-monsoon-north-usual.html"
+      "date": "Tue, 23 Jun 2026 19:00:08 EDT",
+      "summary": "When major infrastructure projects are built in rural areas, wildlife is often displaced and moved out of the way. This is called mitigation translocation, and it is a globally recognized method for moving animals. However, not everyone applies it the same way, or at all.",
+      "url": "https://phys.org/news/2026-06-animals-infrastructure-dont.html"
     },
     {
       "category": "Science",
-      "title": "Happy Asteroid Day! Prize-winning plan focuses on space infrastructure",
+      "title": "Self-driving chemistry lab discovers catalysts that can switch products on demand",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Tue, 23 Jun 2026 13:40:10 EDT",
-      "summary": "For decades, astronomers and policymakers have been working on plans to protect our planet from killer asteroids. But now there's a new realm to protect: the thousands of satellites we're putting in orbit.",
-      "url": "https://phys.org/news/2026-06-happy-asteroid-day-prize-focuses.html"
+      "date": "Tue, 23 Jun 2026 18:50:01 EDT",
+      "summary": "Researchers have developed a self-driving chemistry lab that can autonomously search through hundreds of catalyst recipes and reaction conditions to identify faster, more selective and more programmable ways to make important industrial chemicals. The work could accelerate catalyst discovery for industries ranging from pharmaceuticals and plastics to fuels and specialty chemicals.",
+      "url": "https://phys.org/news/2026-06-chemistry-lab-catalysts-products-demand.html"
     },
     {
       "category": "Science",
-      "title": "Sawdust, cellulose binders and beeswax combine into eco-friendly foam",
+      "title": "Heat wave sparks health warnings across Europe",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Tue, 23 Jun 2026 13:40:07 EDT",
-      "summary": "Polystyrene—common in packing peanuts and box inserts—is manufactured from fossil fuels. To develop a sustainable alternative, researchers reporting in ACS Applied Polymer Materials tested an unconventional starting material: sawdust. Their prototype foams incorporated cellulose binders and other additives to form rigid or flexible materials, and some versions matched polystyrene's strength and impact resistance. A simple beeswax coating made them water-resistant, producing biobased foams with potential for packaging and building materials.",
-      "url": "https://phys.org/news/2026-06-sawdust-cellulose-binders-beeswax-combine.html"
-    },
-    {
-      "category": "Space",
-      "title": " This might be your last chance to pick up a retired Lego Star Wars set before it flies off forever, and it's under $100 on Amazon for Prime Day ",
-      "source": " Latest from Space.com ",
-      "date": "Tue, 23 Jun 2026 17:30:00 +0000",
-      "summary": "This Lego Star Wars Coruscant Guard Gunship it's less than $100 for Prime Day, the cheapest it's ever been. But as a retired set, this could be your last chance to pick it up.",
-      "url": "https://www.space.com/entertainment/space-toys-lego/this-might-be-your-last-chance-to-pick-up-a-retired-lego-star-wars-set-before-it-flies-off-forever-and-its-under-100-dollars-on-amazon-for-prime-day"
+      "date": "Tue, 23 Jun 2026 18:40:03 EDT",
+      "summary": "Workers sweated in choking heat and pupils stayed home Tuesday as an early-summer heat wave smothered much of Europe, with France suffering its hottest day on record.",
+      "url": "https://phys.org/news/2026-06-health-europe.html"
     },
     {
       "category": "AI",
-      "title": "Claude Tag",
+      "title": "California AB 2047 makes 3d printers off-limits to students, educators, business",
       "source": "Hacker News: Front Page",
-      "date": "Tue, 23 Jun 2026 17:09:18 +0000",
-      "summary": "Article URL: https://www.anthropic.com/news/introducing-claude-tag\nComments URL: https://news.ycombinator.com/item?id=48648039\nPoints: 21\n# Comments: 2",
-      "url": "https://www.anthropic.com/news/introducing-claude-tag"
+      "date": "Tue, 23 Jun 2026 22:12:18 +0000",
+      "summary": "Article URL: https://www.the3dprintingnerd.com/ab2047\nComments URL: https://news.ycombinator.com/item?id=48652184\nPoints: 79\n# Comments: 15",
+      "url": "https://www.the3dprintingnerd.com/ab2047"
+    },
+    {
+      "category": "AI",
+      "title": "US's climate.gov site, taken down by Trump, relaunched by nonprofit",
+      "source": "Ars Technica - All content",
+      "date": "Tue, 23 Jun 2026 22:07:56 +0000",
+      "summary": "Climate.us has now restored everything taken down by the government.",
+      "url": "https://arstechnica.com/science/2026/06/uss-climate-gov-site-taken-down-by-trump-relaunched-by-nonprofit/"
+    },
+    {
+      "category": "Science",
+      "title": " 'Unequivocal evidence' of the age of Earth's oldest impact crater turns out to be off by half a billion years ",
+      "source": " Latest from Live Science ",
+      "date": "Tue, 23 Jun 2026 22:00:00 +0000",
+      "summary": "A new study updates the age of Earth's oldest known meteorite impact crater, the North Pole Dome crater, which scientists previously claimed was 3.47 billion years old.",
+      "url": "https://www.livescience.com/planet-earth/geology/unequivocal-evidence-of-the-age-of-earths-oldest-impact-crater-turns-out-to-be-off-by-half-a-billion-years"
+    },
+    {
+      "category": "AI",
+      "title": "United Wizards of the Coast recognized by NLRB",
+      "source": "Hacker News: Front Page",
+      "date": "Tue, 23 Jun 2026 21:57:32 +0000",
+      "summary": "Article URL: https://unitedwizardsofthecoast.com/news/2026-06-23-we-have-a-union\nComments URL: https://news.ycombinator.com/item?id=48652028\nPoints: 55\n# Comments: 12",
+      "url": "https://unitedwizardsofthecoast.com/news/2026-06-23-we-have-a-union"
+    },
+    {
+      "category": "AI",
+      "title": "ATProto Permissioned Data Proposal Draft",
+      "source": "Hacker News: Front Page",
+      "date": "Tue, 23 Jun 2026 21:29:20 +0000",
+      "summary": "Article URL: https://github.com/bluesky-social/proposals/pull/94\nComments URL: https://news.ycombinator.com/item?id=48651727\nPoints: 8\n# Comments: 1",
+      "url": "https://github.com/bluesky-social/proposals/pull/94"
+    },
+    {
+      "category": "Science",
+      "title": " Drug-induced 'brain freeze' may help protect the brain after a stroke, early study suggests ",
+      "source": " Latest from Live Science ",
+      "date": "Tue, 23 Jun 2026 21:10:00 +0000",
+      "summary": "By tamping down metabolism, a new experimental treatment that induces a hypothermia-like state may slow stroke-associated brain injury, scientists report.",
+      "url": "https://www.livescience.com/health/medicine-drugs/drug-induced-brain-freeze-may-help-protect-the-brain-after-a-stroke-early-study-suggests"
     },
     {
       "category": "Space",
-      "title": " A 'new' star could finally appear in the night sky this week, thanks to a once-in-a-lifetime explosion ",
+      "title": " What is Starfall? A look at SpaceX's mysterious new return capsule ",
       "source": " Latest from Space.com ",
-      "date": "Tue, 23 Jun 2026 17:00:00 +0000",
-      "summary": "The \"Blaze Star\" T. Coronae Borealis could brighten dramatically this week to shine with the brilliance of the North Star Polaris. Here's where to look.",
-      "url": "https://www.space.com/stargazing/a-new-star-could-finally-appear-in-the-night-sky-this-week-thanks-to-a-once-in-a-lifetime-explosion"
+      "date": "Tue, 23 Jun 2026 21:00:00 +0000",
+      "summary": "SpaceX just launched its Starfall return capsule for the first time. What does the company plan to do with the new vehicle?",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/what-is-starfall-a-look-at-spacexs-mysterious-new-return-capsule"
+    },
+    {
+      "category": "AI",
+      "title": "Odd police video shows drone removing knife from motionless suspect",
+      "source": "Ars Technica - All content",
+      "date": "Tue, 23 Jun 2026 20:43:42 +0000",
+      "summary": "Promo video comes as more US police departments fly drones as first responders.",
+      "url": "https://arstechnica.com/gadgets/2026/06/police-tout-using-drone-to-disarm-incapacitated-person-in-nationwide-first/"
+    },
+    {
+      "category": "AI",
+      "title": "Oracle’s 21,000 layoffs help drive its debt-fueled AI investments",
+      "source": "Ars Technica - All content",
+      "date": "Tue, 23 Jun 2026 20:17:38 +0000",
+      "summary": "Oracle is spending billions on data center infrastructure to support AI.",
+      "url": "https://arstechnica.com/ai/2026/06/oracles-21000-layoffs-help-drive-its-debt-fueled-ai-investments/"
+    },
+    {
+      "category": "Space",
+      "title": " Space.com just launched an app! Get your inside scoop on space exploration ",
+      "source": " Latest from Space.com ",
+      "date": "Tue, 23 Jun 2026 20:04:52 +0000",
+      "summary": "Our new Space.com app takes you out of this world, every day, for the latest space mission news,  astronomical discoveries, night sky guides and more.",
+      "url": "https://www.space.com/space-exploration/space-com-just-launched-an-app-get-your-inside-scoop-on-space-exploration"
+    },
+    {
+      "category": "Space",
+      "title": " These anti-Prime deals are giving Amazon a good run for their money ",
+      "source": " Latest from Space.com ",
+      "date": "Tue, 23 Jun 2026 19:00:00 +0000",
+      "summary": "Check out these hot anti-Prime Day deals on skywatching gear from the likes of Walmart, Adorama and BH Photo & Video.",
+      "url": "https://www.space.com/stargazing/skywatching-kit/these-anti-prime-deals-are-giving-amazon-a-good-run-for-their-money"
+    },
+    {
+      "category": "Science",
+      "title": " NASA satellite captures wave of warm water hundreds of miles long that signals a devastatingly strong El Niño ",
+      "source": " Latest from Live Science ",
+      "date": "Tue, 23 Jun 2026 17:53:20 +0000",
+      "summary": "This year's El Niño is on track to be among the strongest ever recorded.",
+      "url": "https://www.livescience.com/planet-earth/nasa-satellite-captures-wave-of-warm-water-hundreds-of-miles-long-that-signals-a-devastatingly-strong-el-nino"
     },
     {
       "category": "AI",
@@ -59,100 +131,20 @@
       "url": "https://openai.com/index/gpt-5-immunology-mystery"
     },
     {
-      "category": "AI",
-      "title": "San Diego Photologs from the 1970s",
-      "source": "Hacker News: Front Page",
-      "date": "Tue, 23 Jun 2026 16:55:26 +0000",
-      "summary": "Article URL: https://www.beautifulpublicdata.com/san-diego-photologs-from-the-1970s/\nComments URL: https://news.ycombinator.com/item?id=48647823\nPoints: 14\n# Comments: 0",
-      "url": "https://www.beautifulpublicdata.com/san-diego-photologs-from-the-1970s/"
-    },
-    {
-      "category": "AI",
-      "title": "F3",
-      "source": "Hacker News: Front Page",
-      "date": "Tue, 23 Jun 2026 16:53:32 +0000",
-      "summary": "Article URL: https://github.com/future-file-format/f3\nComments URL: https://news.ycombinator.com/item?id=48647799\nPoints: 88\n# Comments: 20",
-      "url": "https://github.com/future-file-format/f3"
-    },
-    {
-      "category": "Space",
-      "title": " China's space plane appears to have released a mystery object in orbit ",
-      "source": " Latest from Space.com ",
-      "date": "Tue, 23 Jun 2026 16:52:28 +0000",
-      "summary": "China's Shenlong space plane appears to have released a mystery object while in orbit, according to a private space surveillance firm.",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/chinas-space-plane-appears-to-have-released-a-mystery-object-in-orbit"
-    },
-    {
-      "category": "Space",
-      "title": "2026 ALA Hyperwall Schedule",
-      "source": "NASA",
-      "date": "Tue, 23 Jun 2026 16:23:22 +0000",
-      "summary": "American Library Association (ALA) Annual Conference, June 25-29, 2026 Join NASA in the Exhibit Hall (Booth #2243) for Hyperwall Storytelling by NASA experts. Full Hyperwall Agenda below. FRIDAY, JUNE 26 SATURDAY, JUNE 27 SUNDAY, JUNE 28 MONDAY, JUNE 29",
-      "url": "https://science.nasa.gov/earth/2026-ala-hyperwall-schedule/"
-    },
-    {
-      "category": "AI",
-      "title": "Trump may be mystery patient in odd case of 79yo getting experimental obesity drug",
-      "source": "Ars Technica - All content",
-      "date": "Tue, 23 Jun 2026 16:16:54 +0000",
-      "summary": "Public notice of a single \"compassionate use\" case is odd in every way.",
-      "url": "https://arstechnica.com/health/2026/06/trump-may-be-mystery-patient-in-odd-case-of-79yo-getting-experimental-obesity-drug/"
-    },
-    {
-      "category": "Science",
-      "title": " Something in space may be changing alien signals before they can reach Earth. Scientists have a solution. ",
-      "source": " Latest from Live Science ",
-      "date": "Tue, 23 Jun 2026 16:00:11 +0000",
-      "summary": "New research suggests that alien radio signals may be transformed by plasma from their home stars — and scientists on Earth could be overlooking prime evidence of alien intelligence.",
-      "url": "https://www.livescience.com/space/extraterrestrial-life/something-in-space-may-be-changing-alien-signals-before-they-can-reach-earth-scientists-have-a-solution"
-    },
-    {
-      "category": "Space",
-      "title": "This is How NASA Flight Tests New Technology",
-      "source": "NASA",
-      "date": "Tue, 23 Jun 2026 16:00:00 +0000",
-      "summary": "Flight tests are a big part of how NASA turns breakthrough ideas into reality. From flying humans faster than the speed of sound to proving designs that helped shape the space shuttle, flight testing transforms bold concepts into safer, more efficient technologies that benefit the public. “Flight tests are a way to safely and effectively […]",
-      "url": "https://www.nasa.gov/centers-and-facilities/armstrong/this-is-how-nasa-flight-tests-new-technology/"
-    },
-    {
-      "category": "Space",
-      "title": "Hanging in the Balance",
-      "source": "NASA",
-      "date": "Tue, 23 Jun 2026 15:43:54 +0000",
-      "summary": "The Moon appears half-illuminated in this photo captured by the Artemis II crew on flight day 6. The terminator – the difference between light and darkness – provides a stark contrast and even greater perspective of the Moon’s rocky, uneven, and otherworldly surface features. The near side, which is what we can see from Earth, […]",
-      "url": "https://www.nasa.gov/image-article/hanging-in-the-balance/"
-    },
-    {
-      "category": "Science",
-      "title": " 'If there's any country that will do it, it's China': Why is China diverting some of the world's mightiest rivers thousands of miles? ",
-      "source": " Latest from Live Science ",
-      "date": "Tue, 23 Jun 2026 15:00:00 +0000",
-      "summary": "People in China's northern megacities have 74 times less fresh water than the average American — so the Chinese government has built the world's largest water diversion project, with the most ambitious and dangerous route still to come.",
-      "url": "https://www.livescience.com/planet-earth/if-theres-any-country-that-will-do-it-its-china-why-is-china-diverting-some-of-the-worlds-mightiest-rivers-thousands-of-miles"
-    },
-    {
-      "category": "AI",
-      "title": "Everyone pays the price as patent holders on seeds stifle innovation",
-      "source": "Ars Technica - All content",
-      "date": "Tue, 23 Jun 2026 13:59:25 +0000",
-      "summary": "The US is one of a handful of countries that allow patents on plant varieties.",
-      "url": "https://arstechnica.com/tech-policy/2026/06/everyone-pays-the-price-as-patent-holders-on-seeds-stifle-innovation/"
-    },
-    {
-      "category": "AI",
-      "title": "Sony releases trailer for Taika Waititi's Klara and the Sun",
-      "source": "Ars Technica - All content",
-      "date": "Tue, 23 Jun 2026 13:55:14 +0000",
-      "summary": "Tonally, the trailer gives strong vibes akin to the director's 2016 feature Hunt for the Wilderpeople.",
-      "url": "https://arstechnica.com/culture/2026/06/taika-waititi-brings-more-dramatic-tone-to-klara-and-the-sun-trailer/"
-    },
-    {
       "category": "Theology",
       "title": "Planting a Church",
       "source": "The Gospel Coalition",
       "date": "Tue, 23 Jun 2026 13:15:16 +0000",
       "summary": "Matt Smethurst and Ligon Duncan discuss the joys, challenges, and realities of church planting.",
       "url": "https://www.thegospelcoalition.org/podcasts/everyday-pastor/planting-a-church/"
+    },
+    {
+      "category": "AI",
+      "title": "Helping build shared standards for advanced AI",
+      "source": "OpenAI News",
+      "date": "Tue, 23 Jun 2026 13:00:00 GMT",
+      "summary": "OpenAI helps build shared standards for advanced AI, supporting evaluation frameworks, safety practices, and global cooperation through the Appia Foundation.",
+      "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai"
     },
     {
       "category": "Biblical Studies",
@@ -169,14 +161,6 @@
       "date": "Tue, 23 Jun 2026 11:00:42 +0000",
       "summary": "The Gospels, the first four books of the New Testament, tell the story of the life of Jesus. Yet only one—the Gospel of John—claims to be an eyewitness account, the testimony of the unnamed “disciple whom Jesus loved.”\nThe post Gospel of John Commentary: Who Wrote the Gospel of John and How Historical Is It? appeared first on Biblical Archaeology Society.",
       "url": "https://www.biblicalarchaeology.org/daily/biblical-topics/new-testament/gospel-of-john-commentary-who-wrote-the-gospel-of-john/"
-    },
-    {
-      "category": "Science",
-      "title": " 9 of the best technology conspiracy theories ",
-      "source": " Latest from Live Science ",
-      "date": "Tue, 23 Jun 2026 09:30:00 +0000",
-      "summary": "From covert government surveillance to wireless signals transmitting viruses, tech-centric conspiracy theories have been propagating wildly in recent years. Most of them are completely unfounded — but not all.",
-      "url": "https://www.livescience.com/technology/the-best-technology-conspiracy-theories"
     },
     {
       "category": "Science",
@@ -233,14 +217,6 @@
       "date": "Mon, 22 Jun 2026 06:30:08 EDT",
       "summary": "Scientists discovered that Heliconius butterflies have evolved an extraordinary lifespan, living several times longer than closely related species. Even more surprising, some show little sign of physical decline as they age. Their unusual pollen-feeding lifestyle may play a role, but the research suggests deeper evolutionary changes are also helping them stay healthy for longer.",
       "url": "https://www.sciencedaily.com/releases/2026/06/260622014302.htm"
-    },
-    {
-      "category": "AI",
-      "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
-      "source": "OpenAI News",
-      "date": "Mon, 22 Jun 2026 10:00:00 GMT",
-      "summary": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
-      "url": "https://openai.com/index/patch-the-planet"
     },
     {
       "category": "Theology",
