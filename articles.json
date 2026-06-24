@@ -1,38 +1,142 @@
 {
-  "lastUpdated": "2026-06-23T23:02:44.088Z",
-  "articleCount": 36,
+  "lastUpdated": "2026-06-24T12:14:56.101Z",
+  "articleCount": 39,
   "articles": [
     {
-      "category": "Science",
-      "title": "Animals are often moved to make way for infrastructure, but we don't know what happens to them next",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Tue, 23 Jun 2026 19:00:08 EDT",
-      "summary": "When major infrastructure projects are built in rural areas, wildlife is often displaced and moved out of the way. This is called mitigation translocation, and it is a globally recognized method for moving animals. However, not everyone applies it the same way, or at all.",
-      "url": "https://phys.org/news/2026-06-animals-infrastructure-dont.html"
-    },
-    {
-      "category": "Science",
-      "title": "Self-driving chemistry lab discovers catalysts that can switch products on demand",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Tue, 23 Jun 2026 18:50:01 EDT",
-      "summary": "Researchers have developed a self-driving chemistry lab that can autonomously search through hundreds of catalyst recipes and reaction conditions to identify faster, more selective and more programmable ways to make important industrial chemicals. The work could accelerate catalyst discovery for industries ranging from pharmaceuticals and plastics to fuels and specialty chemicals.",
-      "url": "https://phys.org/news/2026-06-chemistry-lab-catalysts-products-demand.html"
-    },
-    {
-      "category": "Science",
-      "title": "Heat wave sparks health warnings across Europe",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Tue, 23 Jun 2026 18:40:03 EDT",
-      "summary": "Workers sweated in choking heat and pupils stayed home Tuesday as an early-summer heat wave smothered much of Europe, with France suffering its hottest day on record.",
-      "url": "https://phys.org/news/2026-06-health-europe.html"
+      "category": "Space",
+      "title": " 'Everybody wanted to be the first': Apollo astronauts were more competitive, Artemis 2 pilot says ",
+      "source": " Latest from Space.com ",
+      "date": "Wed, 24 Jun 2026 12:00:00 +0000",
+      "summary": "NASA's Artemis moon program differs from Apollo in many ways, including the attitudes of its astronauts.",
+      "url": "https://www.space.com/space-exploration/artemis/everybody-wanted-to-be-the-first-apollo-astronauts-were-more-competitive-artemis-2-pilot-says"
     },
     {
       "category": "AI",
-      "title": "California AB 2047 makes 3d printers off-limits to students, educators, business",
+      "title": "A deadly fungus that can infect cats and people is spreading",
       "source": "Hacker News: Front Page",
-      "date": "Tue, 23 Jun 2026 22:12:18 +0000",
-      "summary": "Article URL: https://www.the3dprintingnerd.com/ab2047\nComments URL: https://news.ycombinator.com/item?id=48652184\nPoints: 79\n# Comments: 15",
-      "url": "https://www.the3dprintingnerd.com/ab2047"
+      "date": "Wed, 24 Jun 2026 11:31:20 +0000",
+      "summary": "Article URL: https://www.sciencenews.org/article/deadly-fungus-cats-people-spreading\nComments URL: https://news.ycombinator.com/item?id=48658186\nPoints: 30\n# Comments: 6",
+      "url": "https://www.sciencenews.org/article/deadly-fungus-cats-people-spreading"
+    },
+    {
+      "category": "Science",
+      "title": "Buyer beware: Your sustainable shopping choices may not be as green as they look",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Wed, 24 Jun 2026 07:00:01 EDT",
+      "summary": "New research reveals that many \"green\" claims are almost impossible to verify, often masking the full truth. University of Technology (UTS) professor of marketing Natalina Zlatevska said shoppers often rely on the labels as a shortcut when making quick decisions in supermarkets.",
+      "url": "https://phys.org/news/2026-06-buyer-beware-sustainable-choices-green.html"
+    },
+    {
+      "category": "AI",
+      "title": "Too many R packages: CRAN is inundated with submissions",
+      "source": "Hacker News: Front Page",
+      "date": "Wed, 24 Jun 2026 10:59:59 +0000",
+      "summary": "Article URL: https://rworks.dev/posts/too-many-R-packages/\nComments URL: https://news.ycombinator.com/item?id=48657940\nPoints: 6\n# Comments: 0",
+      "url": "https://rworks.dev/posts/too-many-R-packages/"
+    },
+    {
+      "category": "Biblical Studies",
+      "title": "Roman Dill Sauce",
+      "source": "Biblical Archaeology Society",
+      "date": "Wed, 24 Jun 2026 10:45:56 +0000",
+      "summary": "Summer has finally arrived, and for many of us the preceding months have been long and cold. As you spend time outside with family and […]\nThe post Roman Dill Sauce appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/daily-life-and-practice/bar-test-kitchen/roman-dill-sauce/"
+    },
+    {
+      "category": "Science",
+      "title": "Oldest example of preserved tube feet reveals clues about the lives of 452-million-year-old sea lilies",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Wed, 24 Jun 2026 06:40:01 EDT",
+      "summary": "Echinoderms, such as starfish, sea urchins and sea lilies, use small, flexible, tubular projections called \"tube feet\" for locomotion, feeding, respiration and sensory perception. Crinoids, a subgroup of echinoderms, are known to have a long fossil record, but these fossils usually preserve only hard skeletal parts, since soft tissues like tube feet are far more difficult to preserve. But researchers recently made a surprising and rare discovery of preserved crinoid tube feet. Their new study, published in the journal Royal Society Open Science, reports that these tube feet are the oldest known specimens, preserved for around 452 million years.",
+      "url": "https://phys.org/news/2026-06-oldest-tube-feet-reveals-clues.html"
+    },
+    {
+      "category": "Biblical Studies",
+      "title": "Identifying Biblical Authors with Statistical Analysis",
+      "source": "Biblical Archaeology Society",
+      "date": "Wed, 24 Jun 2026 10:00:33 +0000",
+      "summary": "The Hebrew Bible is the product of centuries of oral and written transmission, combining numerous sources and multiple redactions. Although this has been a long-recognized […]\nThe post Identifying Biblical Authors with Statistical Analysis appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/daily/biblical-topics/bible-interpretation/identifying-biblical-authors-with-statistical-analysis/"
+    },
+    {
+      "category": "Science",
+      "title": " 60 million stars: Euclid space telescope snaps the largest-ever close-up photo of the Milky Way's crowded heart ",
+      "source": " Latest from Live Science ",
+      "date": "Wed, 24 Jun 2026 10:00:00 +0000",
+      "summary": "Planet hunters and stargazers will both benefit from the Euclid space telescope's newest  image, which was released after 26 hours of deep-space observations.",
+      "url": "https://www.livescience.com/space/astronomy/60-million-stars-euclid-space-telescope-snaps-the-largest-ever-close-up-photo-of-the-milky-ways-crowded-heart"
+    },
+    {
+      "category": "Science",
+      "title": " Diagnostic dilemma: After taking a medicine for years, a man suddenly had weird changes in his taste that made food disgusting ",
+      "source": " Latest from Live Science ",
+      "date": "Wed, 24 Jun 2026 10:00:00 +0000",
+      "summary": "A man found that many different foods suddenly tasted terrible to him, and the phenomenon turned out to be a rare side effect of his medication.",
+      "url": "https://www.livescience.com/health/medicine-drugs/diagnostic-dilemma-after-taking-a-medicine-for-years-a-man-suddenly-had-weird-changes-in-his-taste-that-made-food-disgusting"
+    },
+    {
+      "category": "Space",
+      "title": " Hubble Space Telescope images galaxy scientists thought was impossible to find ",
+      "source": " Latest from Space.com ",
+      "date": "Wed, 24 Jun 2026 10:00:00 +0000",
+      "summary": "A faraway galaxy has been caught blowing away the cosmic fog of hydrogen that filled the universe once upon a time.",
+      "url": "https://www.space.com/astronomy/hubble-space-telescope/hubble-space-telescope-images-galaxy-scientists-thought-was-impossible-to-find"
+    },
+    {
+      "category": "AI",
+      "title": "We're making Bunny DNS free: because a faster internet won't build itself",
+      "source": "Hacker News: Front Page",
+      "date": "Wed, 24 Jun 2026 08:50:41 +0000",
+      "summary": "Article URL: https://bunny.net/blog/were-making-bunny-dns-free/\nComments URL: https://news.ycombinator.com/item?id=48657030\nPoints: 277\n# Comments: 89",
+      "url": "https://bunny.net/blog/were-making-bunny-dns-free/"
+    },
+    {
+      "category": "Science",
+      "title": "Heat waves threaten health of both young and old",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Wed, 24 Jun 2026 04:40:05 EDT",
+      "summary": "A brutal heat wave blanketing much of Europe has prompted reminders that extreme heat poses a particular threat to the health of children and the elderly.",
+      "url": "https://phys.org/news/2026-06-threaten-health-young.html"
+    },
+    {
+      "category": "Space",
+      "title": "Curiosity Blog, Sols 4927–4933: Let’s Drive to That Smooth Area",
+      "source": "NASA",
+      "date": "Wed, 24 Jun 2026 04:34:37 +0000",
+      "summary": "By Susanne P. Schwenzer, Professor of Planetary Mineralogy at The Open University, UK Earth planning date: Thursday, June 18, 2026 In the area Curiosity is currently exploring, the science team has mapped several areas with different-looking surface texture on the orbital images. If you wanted to have a look yourself at what there is to […]",
+      "url": "https://science.nasa.gov/blog/curiosity-blog-sols-4927-4933-lets-drive-to-that-smooth-area/"
+    },
+    {
+      "category": "Theology",
+      "title": "We Need a Better Anthropology. We Need the Gospel More.",
+      "source": "The Gospel Coalition",
+      "date": "Wed, 24 Jun 2026 04:02:00 +0000",
+      "summary": "‘Humanity Matters’ offers an encouraging emphasis on recovering a robust biblical anthropology.",
+      "url": "https://www.thegospelcoalition.org/reviews/humanity-matters-reenchanting/"
+    },
+    {
+      "category": "Space",
+      "title": "Playing the Moon Game ",
+      "source": "NASA",
+      "date": "Wed, 24 Jun 2026 04:01:00 +0000",
+      "summary": "Apollo astronauts previewed their roles as lunar field geologists in Alaska’s Valley of Ten Thousand Smokes.",
+      "url": "https://science.nasa.gov/earth/earth-observatory/playing-the-moon-game/"
+    },
+    {
+      "category": "Theology",
+      "title": "What Jesus Actually Meant by ‘Judge Not’",
+      "source": "The Gospel Coalition",
+      "date": "Wed, 24 Jun 2026 04:00:00 +0000",
+      "summary": "When ‘judge not’ is used to shut down moral conversation, it’s asserting we don’t have the right to correct each other’s views. But we need to be deeply concerned with one another.",
+      "url": "https://www.thegospelcoalition.org/article/jesus-meant-judge-not/"
+    },
+    {
+      "category": "AI",
+      "title": "White House drastically shortens deadline for dropping quantum-vulnerable crypto",
+      "source": "Ars Technica - All content",
+      "date": "Tue, 23 Jun 2026 22:30:57 +0000",
+      "summary": "Order warns of national security risks if post-quantum cryptography isn't adopted in time.",
+      "url": "https://arstechnica.com/information-technology/2026/06/executive-order-bumps-up-deadline-to-move-off-quantum-vulnerable-crypto/"
     },
     {
       "category": "AI",
@@ -44,35 +148,19 @@
     },
     {
       "category": "Science",
-      "title": " 'Unequivocal evidence' of the age of Earth's oldest impact crater turns out to be off by half a billion years ",
+      "title": " 'Unequivocal evidence' of Earth's oldest impact crater turns out to be off by half a billion years ",
       "source": " Latest from Live Science ",
       "date": "Tue, 23 Jun 2026 22:00:00 +0000",
       "summary": "A new study updates the age of Earth's oldest known meteorite impact crater, the North Pole Dome crater, which scientists previously claimed was 3.47 billion years old.",
       "url": "https://www.livescience.com/planet-earth/geology/unequivocal-evidence-of-the-age-of-earths-oldest-impact-crater-turns-out-to-be-off-by-half-a-billion-years"
     },
     {
-      "category": "AI",
-      "title": "United Wizards of the Coast recognized by NLRB",
-      "source": "Hacker News: Front Page",
-      "date": "Tue, 23 Jun 2026 21:57:32 +0000",
-      "summary": "Article URL: https://unitedwizardsofthecoast.com/news/2026-06-23-we-have-a-union\nComments URL: https://news.ycombinator.com/item?id=48652028\nPoints: 55\n# Comments: 12",
-      "url": "https://unitedwizardsofthecoast.com/news/2026-06-23-we-have-a-union"
-    },
-    {
-      "category": "AI",
-      "title": "ATProto Permissioned Data Proposal Draft",
-      "source": "Hacker News: Front Page",
-      "date": "Tue, 23 Jun 2026 21:29:20 +0000",
-      "summary": "Article URL: https://github.com/bluesky-social/proposals/pull/94\nComments URL: https://news.ycombinator.com/item?id=48651727\nPoints: 8\n# Comments: 1",
-      "url": "https://github.com/bluesky-social/proposals/pull/94"
-    },
-    {
-      "category": "Science",
-      "title": " Drug-induced 'brain freeze' may help protect the brain after a stroke, early study suggests ",
-      "source": " Latest from Live Science ",
-      "date": "Tue, 23 Jun 2026 21:10:00 +0000",
-      "summary": "By tamping down metabolism, a new experimental treatment that induces a hypothermia-like state may slow stroke-associated brain injury, scientists report.",
-      "url": "https://www.livescience.com/health/medicine-drugs/drug-induced-brain-freeze-may-help-protect-the-brain-after-a-stroke-early-study-suggests"
+      "category": "Space",
+      "title": "NASA Names Sean Gallagher as Chief Information Officer",
+      "source": "NASA",
+      "date": "Tue, 23 Jun 2026 21:32:03 +0000",
+      "summary": "NASA has selected Sean Gallagher as the agency’s chief information officer (CIO). In this role, he is responsible for the agency’s entire portfolio of Information Technology products and services. Gallagher has been serving in an acting capacity since January and his permanent role is effective immediately. “Sean Gallagher’s leadership has been instrumental in strengthening NASA’s […]",
+      "url": "https://www.nasa.gov/news-release/nasa-names-sean-gallagher-as-chief-information-officer/"
     },
     {
       "category": "Space",
@@ -89,38 +177,6 @@
       "date": "Tue, 23 Jun 2026 20:43:42 +0000",
       "summary": "Promo video comes as more US police departments fly drones as first responders.",
       "url": "https://arstechnica.com/gadgets/2026/06/police-tout-using-drone-to-disarm-incapacitated-person-in-nationwide-first/"
-    },
-    {
-      "category": "AI",
-      "title": "Oracle’s 21,000 layoffs help drive its debt-fueled AI investments",
-      "source": "Ars Technica - All content",
-      "date": "Tue, 23 Jun 2026 20:17:38 +0000",
-      "summary": "Oracle is spending billions on data center infrastructure to support AI.",
-      "url": "https://arstechnica.com/ai/2026/06/oracles-21000-layoffs-help-drive-its-debt-fueled-ai-investments/"
-    },
-    {
-      "category": "Space",
-      "title": " Space.com just launched an app! Get your inside scoop on space exploration ",
-      "source": " Latest from Space.com ",
-      "date": "Tue, 23 Jun 2026 20:04:52 +0000",
-      "summary": "Our new Space.com app takes you out of this world, every day, for the latest space mission news,  astronomical discoveries, night sky guides and more.",
-      "url": "https://www.space.com/space-exploration/space-com-just-launched-an-app-get-your-inside-scoop-on-space-exploration"
-    },
-    {
-      "category": "Space",
-      "title": " These anti-Prime deals are giving Amazon a good run for their money ",
-      "source": " Latest from Space.com ",
-      "date": "Tue, 23 Jun 2026 19:00:00 +0000",
-      "summary": "Check out these hot anti-Prime Day deals on skywatching gear from the likes of Walmart, Adorama and BH Photo & Video.",
-      "url": "https://www.space.com/stargazing/skywatching-kit/these-anti-prime-deals-are-giving-amazon-a-good-run-for-their-money"
-    },
-    {
-      "category": "Science",
-      "title": " NASA satellite captures wave of warm water hundreds of miles long that signals a devastatingly strong El Niño ",
-      "source": " Latest from Live Science ",
-      "date": "Tue, 23 Jun 2026 17:53:20 +0000",
-      "summary": "This year's El Niño is on track to be among the strongest ever recorded.",
-      "url": "https://www.livescience.com/planet-earth/nasa-satellite-captures-wave-of-warm-water-hundreds-of-miles-long-that-signals-a-devastatingly-strong-el-nino"
     },
     {
       "category": "AI",
@@ -155,14 +211,6 @@
       "url": "https://www.biblicalarchaeology.org/daily/biblical-topics/bible-interpretation/how-the-serpent-in-the-garden-became-satan/"
     },
     {
-      "category": "Biblical Studies",
-      "title": "Gospel of John Commentary: Who Wrote the Gospel of John and How Historical Is It?",
-      "source": "Biblical Archaeology Society",
-      "date": "Tue, 23 Jun 2026 11:00:42 +0000",
-      "summary": "The Gospels, the first four books of the New Testament, tell the story of the life of Jesus. Yet only one—the Gospel of John—claims to be an eyewitness account, the testimony of the unnamed “disciple whom Jesus loved.”\nThe post Gospel of John Commentary: Who Wrote the Gospel of John and How Historical Is It? appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/daily/biblical-topics/new-testament/gospel-of-john-commentary-who-wrote-the-gospel-of-john/"
-    },
-    {
       "category": "Science",
       "title": "Scientists open a million-year-old time capsule hidden beneath New Zealand",
       "source": "All Top News -- ScienceDaily",
@@ -177,14 +225,6 @@
       "date": "Tue, 23 Jun 2026 00:45:34 EDT",
       "summary": "NASA’s upgraded Cold Atom Lab is turning the International Space Station into a frontier for quantum research, creating ultra-cold matter that behaves in astonishing ways. The experiments could unlock new discoveries about the universe while paving the way for powerful future technologies in space and on Earth.",
       "url": "https://www.sciencedaily.com/releases/2026/06/260622091507.htm"
-    },
-    {
-      "category": "Theology",
-      "title": "What Is a Christian? One Who Belongs.",
-      "source": "The Gospel Coalition",
-      "date": "Tue, 23 Jun 2026 04:00:00 +0000",
-      "summary": "Whatever fear you carry, whatever burden weighs you down, name it, and then remind yourself, ’I am his. Body and soul. Life and death.’",
-      "url": "https://www.thegospelcoalition.org/article/what-christian-means-matters/"
     },
     {
       "category": "AI",
@@ -203,12 +243,12 @@
       "url": "https://allthingsliberty.com/2026/06/the-tobacco-raid-of-1779/"
     },
     {
-      "category": "Biblical Studies",
-      "title": "Nursing a Hangover in the Biblical World",
-      "source": "Biblical Archaeology Society",
-      "date": "Mon, 22 Jun 2026 10:45:24 +0000",
-      "summary": "“Hair of the dog” is a saying that originally related to the remedy for a rabid dog bite, which involved putting some of that dog’s […]\nThe post Nursing a Hangover in the Biblical World appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/nursing-hangover-in-biblical-world/"
+      "category": "Theology",
+      "title": "Pastor’s Job Description: Four Essential Responsibilities of a Shepherd",
+      "source": "9Marks",
+      "date": "Mon, 22 Jun 2026 17:15:45 +0000",
+      "summary": "Pastor, you have the privilege and responsibility to lead the flock, and the primary way you lead is through the public ministry of the Word.\nThe post Pastor’s Job Description: Four Essential Responsibilities of a Shepherd appeared first on 9Marks.",
+      "url": "https://www.9marks.org/article/pastors-job-description-four-essential-responsibilities-of-a-shepherd/?utm_source=rss&utm_medium=rss&utm_campaign=pastors-job-description-four-essential-responsibilities-of-a-shepherd"
     },
     {
       "category": "Science",
@@ -220,11 +260,11 @@
     },
     {
       "category": "Theology",
-      "title": "On My Shelf: Life and Books with Kevin Burrell",
-      "source": "The Gospel Coalition",
-      "date": "Mon, 22 Jun 2026 04:02:00 +0000",
-      "summary": "Kevin Burrell talks about what’s on his bedside table, favorite fiction, favorite rereads, and more.",
-      "url": "https://www.thegospelcoalition.org/article/on-my-shelf-kevin-burrell/"
+      "title": "Relating to Family Members Under Church Discipline",
+      "source": "9Marks",
+      "date": "Thu, 18 Jun 2026 20:23:43 +0000",
+      "summary": "Christians must continue to fulfill their God-given family responsibilities while also honoring (as best as possible) the divinely intended consequences of church discipline.\nThe post Relating to Family Members Under Church Discipline appeared first on 9Marks.",
+      "url": "https://www.9marks.org/article/relating-to-family-members-under-church-discipline/?utm_source=rss&utm_medium=rss&utm_campaign=relating-to-family-members-under-church-discipline"
     },
     {
       "category": "History",
@@ -241,6 +281,14 @@
       "date": "Mon, 15 Jun 2026 22:00:49 +0000",
       "summary": "On June 25, 1776, nine days before the Continental Congress would adopt the Declaration of Independence, the Pennsylvania Council of Safety passed a resolution authorizing a committee to “purchase the whole or part of a Plantation at Billingsport on which said Fortifications are to be erected at the Expense of Congress.”[1] Ten days later, on […]\nThe post The Nation’s First Acre: Fort Billingsport and the Birth of Federal Land Acquisition appeared first on Journal of the American Revolution.",
       "url": "https://allthingsliberty.com/2026/06/the-nations-first-acre-fort-billingsport-and-the-birth-of-federal-land-acquisition/"
+    },
+    {
+      "category": "Theology",
+      "title": "Pastoral Discouragement Is Normal: Wisdom from Charles Spurgeon",
+      "source": "9Marks",
+      "date": "Mon, 15 Jun 2026 20:03:20 +0000",
+      "summary": "When you read his letters and listen to his sermons, you realize that Spurgeon was often deeply discouraged.\nThe post Pastoral Discouragement Is Normal: Wisdom from Charles Spurgeon appeared first on 9Marks.",
+      "url": "https://www.9marks.org/article/pastoral-discouragement-is-normal-wisdom-from-charles-spurgeon/?utm_source=rss&utm_medium=rss&utm_campaign=pastoral-discouragement-is-normal-wisdom-from-charles-spurgeon"
     },
     {
       "category": "History",
@@ -265,30 +313,6 @@
       "date": "Thu, 11 Apr 2024 13:08:00 +0000",
       "summary": ".image-13796819 {\n\tmax-height: 100%;\n\t--left: 40.91%;\n\t--top: 52.46%;\n\t} \n\tIn 2019 Will Grant embarked on a 142-day, 2,000-mile horseback journey from the Pony Express stables in St. Joseph, Mo., to trail’s end in Sacramento, Calif.",
       "url": "https://historynet.com/pony-express-ride-will-grant/"
-    },
-    {
-      "category": "Theology",
-      "title": "Expanding Reach of the 9Marks Journal",
-      "source": "9Marks",
-      "date": "Tue, 28 Aug 2018 14:20:11 +0000",
-      "summary": "Published quarterly, the 9Marks Journal features articles from pastors and for pastors. It focuses on a single topic—like  preaching, pastoral burnout, church discipline, the Reformation—and seeks to provide enlightening and encouraging instruction. And by God’s grace, it appears our journal is gaining traction. We released our summer edition—“Pastoral Burnout: Its Causes & Cures”—on July 17. Since then, it’s received over 15,000 views […]\nThe post Expanding Reach of the 9Marks Journal appeared first on 9Marks.",
-      "url": "https://www.9marks.org/2018/08/expanding-reach-of-the-9marks-journal/?utm_source=rss&utm_medium=rss&utm_campaign=expanding-reach-of-the-9marks-journal"
-    },
-    {
-      "category": "Theology",
-      "title": "Building Healthy Churches in Sub-Saharan Africa",
-      "source": "9Marks",
-      "date": "Tue, 28 Aug 2018 14:15:43 +0000",
-      "summary": "All across the great continent of Africa, men and women are coming to Christ. That’s what the reports say—and that’s what our friends on the ground say, too. This is wonderful news, but it raises some questions: How will they grow? Who will shepherd them? What will protect the gospel and keep them from bad […]\nThe post Building Healthy Churches in Sub-Saharan Africa appeared first on 9Marks.",
-      "url": "https://www.9marks.org/2018/08/building-healthy-churches-in-sub-saharan-africa/?utm_source=rss&utm_medium=rss&utm_campaign=building-healthy-churches-in-sub-saharan-africa"
-    },
-    {
-      "category": "Theology",
-      "title": "International Director’s Summer in Europe | Stay tuned",
-      "source": "9Marks",
-      "date": "Sat, 28 Jul 2018 14:18:28 +0000",
-      "summary": "This summer, our international director Rick Denham spent time with various European partners. Over two months, he traveled to ten countries where he formed new relationships, strengthened old ones, and observed God’s work through many different churches, ministries, and publishers. Dozens of stories could be told, and we’ll try to share just a few of […]\nThe post International Director’s Summer in Europe | Stay tuned appeared first on 9Marks.",
-      "url": "https://www.9marks.org/2018/07/international-directors-summer-in-europe-2/?utm_source=rss&utm_medium=rss&utm_campaign=international-directors-summer-in-europe-2"
     }
   ]
 }
