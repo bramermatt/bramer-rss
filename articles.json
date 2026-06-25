@@ -1,38 +1,126 @@
 {
-  "lastUpdated": "2026-06-25T18:05:00.749Z",
+  "lastUpdated": "2026-06-25T23:10:52.258Z",
   "articleCount": 39,
   "articles": [
     {
       "category": "Science",
-      "title": "Fossils upend catastrophist narrative that flowering plants flourished only after dinosaur extinction",
+      "title": "Social media messages may help counter youth loneliness epidemic by encouraging real-world connection",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Thu, 25 Jun 2026 14:00:11 EDT",
-      "summary": "A unique cache of plant fossils from volcanic deposits in New Mexico contradicts the common narrative that flowering plants were minor players in Earth's forests until dinosaurs disappeared 66 million years ago.",
-      "url": "https://phys.org/news/2026-06-fossils-upend-catastrophist-narrative-flourished.html"
+      "date": "Thu, 25 Jun 2026 19:00:06 EDT",
+      "summary": "Loneliness among young adults has reached what the U.S. surgeon general has called an \"epidemic,\" with recent estimates suggesting that roughly half of U.S. adults report feeling lonely, and rates are particularly high among people ages 18–29. A new study from the University of North Carolina at Chapel Hill, appearing in the  Journal of Adolescent Health, explores how social media itself can be used to address the problem.",
+      "url": "https://phys.org/news/2026-06-social-media-messages-counter-youth.html"
     },
     {
       "category": "Science",
-      "title": "Europe is battling a record‑breaking heat wave. What's making it so severe?",
+      "title": "Why old nuclear-site concrete could become a tool for trapping strontium-90",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Thu, 25 Jun 2026 14:00:04 EDT",
-      "summary": "Sweltering temperatures are shattering records across Europe as the continent battles a deadly heat wave. On Tuesday and Wednesday, France endured its hottest days in history, with western regions reaching highs between 39°C and 43°C (102°F and 109°F). Wednesday was the United Kingdom's warmest June day on record, with the mercury climbing to 36.1°C (97°F). And according to early data, Spain, Germany, Austria, the Netherlands and Switzerland have all broken June temperature records at several sites. And the event is not over yet.",
-      "url": "https://phys.org/news/2026-06-europe-recordbreaking-severe.html"
+      "date": "Thu, 25 Jun 2026 19:00:01 EDT",
+      "summary": "Crushed concrete from legacy nuclear facilities could play a far greater role in safely managing radioactive land than previously understood. Research published in ACS ES&T Water and conducted by scientists from the University of Manchester, United Kingdom National Nuclear Laboratory and Clemson University has examined how crushed concrete interacts with strontium-90, a mobile radioactive contaminant found at nuclear legacy sites such as Sellafield and Hanford.",
+      "url": "https://phys.org/news/2026-06-nuclear-site-concrete-tool-strontium.html"
     },
     {
       "category": "Science",
-      "title": "Antibiotics trigger bacterial teamwork, boosting survival through shared proteins",
+      "title": "Hidden molecular code in tosyl groups directs pillararene formation and assembly, study finds",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Thu, 25 Jun 2026 14:00:01 EDT",
-      "summary": "When bacteria are under antibiotic attack, it is not \"every man for himself.\" Researchers at Baylor College of Medicine and colleagues from collaborating institutions have discovered that bacterial populations work as a team to survive antibiotics. The study, published in the journal Science, reveals that bacteria pool their resources, helping quiescent or dormant cells survive. The findings help explain why some bacteria are hard to eliminate and suggest potential future approaches to improve antibiotic effectiveness.",
-      "url": "https://phys.org/news/2026-06-antibiotics-trigger-bacterial-teamwork-boosting.html"
+      "date": "Thu, 25 Jun 2026 18:40:03 EDT",
+      "summary": "A research team at Mahidol University, Thailand, has discovered that tosyl groups, long regarded as routine synthetic handles, can actively guide the formation and behavior of pillararenes—a class of pillar-shaped macrocyclic molecules widely used in supramolecular chemistry. Their findings, published in the Journal of the American Chemical Society, reveal that these groups can act as a hidden \"instruction code\" that influences the organization of molecular components before bond formation and enables temperature-triggered switching accompanied by visible color changes.",
+      "url": "https://phys.org/news/2026-06-hidden-molecular-code-tosyl-groups.html"
+    },
+    {
+      "category": "AI",
+      "title": "The 'papers, please' era of the internet will decimate your privacy",
+      "source": "Hacker News: Front Page",
+      "date": "Thu, 25 Jun 2026 21:44:55 +0000",
+      "summary": "Article URL: https://expression.fire.org/p/the-papers-please-era-of-the-internet\nComments URL: https://news.ycombinator.com/item?id=48679608\nPoints: 125\n# Comments: 37",
+      "url": "https://expression.fire.org/p/the-papers-please-era-of-the-internet"
     },
     {
       "category": "Space",
-      "title": " James Webb Space Telescope catches 6 galaxies merging into one of the largest galaxies in the universe ",
+      "title": "Expedition 73 Crew Reflects on Science, Teamwork, and Life in Orbit ",
+      "source": "NASA",
+      "date": "Thu, 25 Jun 2026 21:30:32 +0000",
+      "summary": "On June 16, astronauts and cosmonauts gathered at Space Center Houston to share stories from their missions aboard the International Space Station and recognize the teamwork and people on the ground that made their missions possible.  The Expedition 73 Welcome Home Ceremony brought together members of NASA’s SpaceX Crew-10, Soyuz MS-27, and NASA’s SpaceX Crew-11 missions. […]",
+      "url": "https://www.nasa.gov/centers-and-facilities/johnson/expedition-73-crew-reflects-on-science-teamwork-and-life-in-orbit/"
+    },
+    {
+      "category": "AI",
+      "title": "Migrating from Proxmox to NixOS and Incus",
+      "source": "Hacker News: Front Page",
+      "date": "Thu, 25 Jun 2026 21:22:59 +0000",
+      "summary": "Article URL: https://www.nijho.lt/post/proxmox-to-nixos/\nComments URL: https://news.ycombinator.com/item?id=48679385\nPoints: 21\n# Comments: 4",
+      "url": "https://www.nijho.lt/post/proxmox-to-nixos/"
+    },
+    {
+      "category": "Space",
+      "title": "NASA, US Small Business Administration to Announce Partnership",
+      "source": "NASA",
+      "date": "Thu, 25 Jun 2026 21:10:38 +0000",
+      "summary": "NASA and the U.S. Small Business Administration will sign a memorandum of agreement during a ceremony at 1 p.m. EDT, Monday, June 29, at NASA Headquarters in Washington. The agreement will create a new interagency initiative that directly responds to President Donald J. Trump’s National Space Policy and supports the growth of the American space […]",
+      "url": "https://www.nasa.gov/news-release/nasa-us-small-business-administration-to-announce-partnership/"
+    },
+    {
+      "category": "Space",
+      "title": "NASA Welcomes Botswana as 68th Artemis Accords Signatory  ",
+      "source": "NASA",
+      "date": "Thu, 25 Jun 2026 21:09:42 +0000",
+      "summary": "The Republic of Botswana signed the Artemis Accords Thursday during a ceremony hosted by NASA at the agency’s headquarters in Washington, becoming the sixth African nation to join a growing community of nations committed to the peaceful, transparent, and responsible exploration of space. “It is my privilege to welcome Botswana as the newest signatory of the Artemis Accords,” said NASA Deputy […]",
+      "url": "https://www.nasa.gov/organizations/oiir/nasa-welcomes-botswana-as-68th-artemis-accords-signatory/"
+    },
+    {
+      "category": "Space",
+      "title": " Two 'super-puff' cotton candy exoplanets are the lightest gas giants ever discovered ",
       "source": " Latest from Space.com ",
-      "date": "Thu, 25 Jun 2026 18:00:00 +0000",
-      "summary": "A supermassive black hole is also coming together at the heart of this galaxy maelstrom.",
-      "url": "https://www.space.com/astronomy/james-webb-space-telescope/james-webb-space-telescope-catches-6-galaxies-merging-into-one-of-the-largest-galaxies-in-the-universe"
+      "date": "Thu, 25 Jun 2026 21:00:00 +0000",
+      "summary": "Astronomers have discovered two \"super-puff\" exoplanets orbiting the same star that have densities lower than cotton candy, making them the lightest worlds ever seen.",
+      "url": "https://www.space.com/astronomy/exoplanets/two-super-puff-cotton-candy-exoplanets-are-the-lightest-gas-giants-ever-discovered"
+    },
+    {
+      "category": "AI",
+      "title": "Un-0: Generating Images with Coupled Oscillators",
+      "source": "Hacker News: Front Page",
+      "date": "Thu, 25 Jun 2026 20:50:02 +0000",
+      "summary": "Article URL: https://unconv.ai/blog/introducing-un-0-generating-images-with-coupled-oscillators/\nComments URL: https://news.ycombinator.com/item?id=48679007\nPoints: 70\n# Comments: 7",
+      "url": "https://unconv.ai/blog/introducing-un-0-generating-images-with-coupled-oscillators/"
+    },
+    {
+      "category": "AI",
+      "title": "Microsoft adds another year to Windows 10 extended update program",
+      "source": "Ars Technica - All content",
+      "date": "Thu, 25 Jun 2026 20:24:09 +0000",
+      "summary": "About a quarter of PCs are still running Microsoft's previous operating system.",
+      "url": "https://arstechnica.com/gadgets/2026/06/microsoft-adds-another-year-to-windows-10-extended-update-program/"
+    },
+    {
+      "category": "AI",
+      "title": "FCC may kill $2B program that connects schools and libraries to Internet",
+      "source": "Ars Technica - All content",
+      "date": "Thu, 25 Jun 2026 20:01:08 +0000",
+      "summary": "Carr cites screen time concerns, is accused of trying to be \"the nation’s parent.\"",
+      "url": "https://arstechnica.com/tech-policy/2026/06/fcc-may-kill-2b-program-that-connects-schools-and-libraries-to-internet/"
+    },
+    {
+      "category": "AI",
+      "title": "Notion killing Skiff-influenced email app since most users use AI agents instead",
+      "source": "Ars Technica - All content",
+      "date": "Thu, 25 Jun 2026 19:04:57 +0000",
+      "summary": "Notion is \"going all in on using agents to run your inbox.\"",
+      "url": "https://arstechnica.com/gadgets/2026/06/notion-killing-skiff-influenced-email-app-since-most-users-use-ai-agents-instead/"
+    },
+    {
+      "category": "Space",
+      "title": " Modern sci-fi movie posters usually suck, but Supergirl shows that it doesn't have to be that way ",
+      "source": " Latest from Space.com ",
+      "date": "Thu, 25 Jun 2026 19:00:00 +0000",
+      "summary": "What's with all the boring montages of Jedi and superheroes? It's time to resurrect a lost art.",
+      "url": "https://www.space.com/entertainment/space-movies-shows/modern-sci-fi-movie-posters-usually-suck-but-supergirl-shows-that-it-doesnt-have-to-be-that-way"
+    },
+    {
+      "category": "Space",
+      "title": " This Prime Day, save nearly $700 on 'a camera of epic proportions' ",
+      "source": " Latest from Space.com ",
+      "date": "Thu, 25 Jun 2026 18:11:43 +0000",
+      "summary": "A powerhouse of a mirrorless camera, the Canon EOS R5 has never been cheaper but with Prime Day half-over, you'll have to be fast.",
+      "url": "https://www.space.com/stargazing/skywatching-kit/this-prime-day-save-nearly-usd700-on-a-camera-of-epic-proportions"
     },
     {
       "category": "Science",
@@ -41,78 +129,6 @@
       "date": "Thu, 25 Jun 2026 17:04:46 +0000",
       "summary": "Some Neanderthals living in northwestern Europe after 52,500 years ago were surprisingly diverse, suggesting that they didn't all go extinct due to inbreeding.",
       "url": "https://www.livescience.com/archaeology/neanderthals/some-of-the-last-surviving-neanderthals-were-remarkably-diverse-suggesting-inbreeding-didnt-doom-them"
-    },
-    {
-      "category": "Space",
-      "title": " I got a sneak peek at space shuttle Endeavour's new home in California, and it's breathtaking (photos) ",
-      "source": " Latest from Space.com ",
-      "date": "Thu, 25 Jun 2026 17:00:00 +0000",
-      "summary": "The spectacular new Air & Space Center, which is more than three decades in the making, will open on Nov. 13.",
-      "url": "https://www.space.com/space-exploration/human-spaceflight/i-got-a-sneak-peek-at-space-shuttle-endeavours-new-home-and-its-breathtaking"
-    },
-    {
-      "category": "AI",
-      "title": "Besimple AI (YC P25) Is Hiring",
-      "source": "Hacker News: Front Page",
-      "date": "Thu, 25 Jun 2026 17:00:00 +0000",
-      "summary": "Article URL: https://www.ycombinator.com/companies/besimple-ai/jobs/yWfhhOR-strategic-projects-lead-audio-data\nComments URL: https://news.ycombinator.com/item?id=48676256\nPoints: 0\n# Comments: 0",
-      "url": "https://www.ycombinator.com/companies/besimple-ai/jobs/yWfhhOR-strategic-projects-lead-audio-data"
-    },
-    {
-      "category": "Space",
-      "title": "Millions of Stars in Cigar Galaxy",
-      "source": "NASA",
-      "date": "Thu, 25 Jun 2026 16:24:23 +0000",
-      "summary": "NASA’s James Webb Space Telescope recently observed edge-on starburst galaxy Messier 82 (M82), nicknamed the Cigar Galaxy. Webb’s new view of M82, added to archival data from NASA’s Hubble Space Telescope, gives us a more complete picture of this starburst galaxy. Because Webb can see infrared light, it is able to peer through clouds of […]",
-      "url": "https://www.nasa.gov/image-article/millions-of-stars-in-cigar-galaxy/"
-    },
-    {
-      "category": "AI",
-      "title": "Deno 2.9",
-      "source": "Hacker News: Front Page",
-      "date": "Thu, 25 Jun 2026 16:22:55 +0000",
-      "summary": "Article URL: https://deno.com/blog/v2.9\nComments URL: https://news.ycombinator.com/item?id=48675717\nPoints: 96\n# Comments: 34",
-      "url": "https://deno.com/blog/v2.9"
-    },
-    {
-      "category": "AI",
-      "title": "European Commission lines up Amazon and Microsoft for cloud gatekeeper status",
-      "source": "Hacker News: Front Page",
-      "date": "Thu, 25 Jun 2026 16:22:45 +0000",
-      "summary": "Article URL: https://www.theregister.com/legal/2026/06/25/european-commission-lines-up-amazon-and-microsoft-for-cloud-gatekeeper-status/5262127\nComments URL: https://news.ycombinator.com/item?id=48675710\nPoints: 25\n# Comments: 3",
-      "url": "https://www.theregister.com/legal/2026/06/25/european-commission-lines-up-amazon-and-microsoft-for-cloud-gatekeeper-status/5262127"
-    },
-    {
-      "category": "Space",
-      "title": " Hosting a solar eclipse viewing party? Get money off solar eclipse multipacks this Prime Day ",
-      "source": " Latest from Space.com ",
-      "date": "Thu, 25 Jun 2026 16:18:03 +0000",
-      "summary": "Grab some solar eclipse glasses so you and a big group can enjoy one of the most impressive natural wonders in safety. Multipacks are available from Galaxium, Helioclipse and Rainbow Symphony.",
-      "url": "https://www.space.com/stargazing/skywatching-kit/hosting-a-solar-eclipse-viewing-party-get-money-off-solar-eclipse-multipacks-this-prime-day"
-    },
-    {
-      "category": "AI",
-      "title": "Feds deny Polestar authorization to sell cars in US from model year 2027",
-      "source": "Ars Technica - All content",
-      "date": "Thu, 25 Jun 2026 14:40:23 +0000",
-      "summary": "Unlike with Volvo, there will be no authorization for Polestar to sell its cars here.",
-      "url": "https://arstechnica.com/cars/2026/06/feds-deny-polestar-authorization-to-sell-cars-in-us-from-model-year-2027/"
-    },
-    {
-      "category": "AI",
-      "title": "Apple ratchets up prices, blames the cost of memory",
-      "source": "Ars Technica - All content",
-      "date": "Thu, 25 Jun 2026 14:14:37 +0000",
-      "summary": "Some Macs are hundreds of dollars more expensive today than yesterday.",
-      "url": "https://arstechnica.com/apple/2026/06/apple-ratchets-up-prices-blames-the-cost-of-memory/"
-    },
-    {
-      "category": "AI",
-      "title": "The \"sad inevitability\" of Europe's heat wave",
-      "source": "Ars Technica - All content",
-      "date": "Thu, 25 Jun 2026 13:54:46 +0000",
-      "summary": "Europeans are baking under their second heat wave of the summer.",
-      "url": "https://arstechnica.com/science/2026/06/the-sad-inevitability-of-europes-heat-wave/"
     },
     {
       "category": "Science",
@@ -171,14 +187,6 @@
       "url": "https://www.thegospelcoalition.org/podcasts/deep-dish/passing-faith-next-generation/"
     },
     {
-      "category": "Space",
-      "title": "A Turquoise Tint for the Black Sea",
-      "source": "NASA",
-      "date": "Thu, 25 Jun 2026 04:00:00 +0000",
-      "summary": "Phytoplankton added a milky blue hue to the waters of the Black Sea and nearby waterways in spring and summer 2026.",
-      "url": "https://science.nasa.gov/earth/earth-observatory/a-turquoise-tint-for-the-black-sea/"
-    },
-    {
       "category": "Theology",
       "title": "Who Should Be Admitted to the Lord’s Supper? 4 Views",
       "source": "The Gospel Coalition",
@@ -193,14 +201,6 @@
       "date": "Thu, 25 Jun 2026 02:00:00 GMT",
       "summary": "A new OpenAI research paper shows how AI agents are transforming work, enabling longer, more complex tasks and expanding productivity across roles.",
       "url": "https://openai.com/index/how-agents-are-transforming-work"
-    },
-    {
-      "category": "Space",
-      "title": "NASA’s TESS Mission Reveals the “Puffiest” Planets Ever Found",
-      "source": "NASA",
-      "date": "Thu, 25 Jun 2026 01:04:16 +0000",
-      "summary": "NASA has revealed two new “super-puff” planets, giant worlds so light that their density is comparable to cotton candy. Scientists calculate that these Jupiter-sized planets are the “puffiest” worlds ever found.",
-      "url": "https://science.nasa.gov/missions/tess/nasas-tess-mission-reveals-the-puffiest-planets-ever-found/"
     },
     {
       "category": "History",
