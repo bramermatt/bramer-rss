@@ -1,46 +1,158 @@
 {
-  "lastUpdated": "2026-06-26T12:07:12.365Z",
+  "lastUpdated": "2026-06-26T17:41:50.398Z",
   "articleCount": 39,
   "articles": [
     {
       "category": "Science",
-      "title": "Flooding rains, ocean gains: How a huge Murray flood gave the sea a feast",
+      "title": "Three ways climate action can be more inclusive for 1.3 billion disabled people",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Fri, 26 Jun 2026 08:00:01 EDT",
-      "summary": "For decades, the rivers of the Murray-Darling Basin have been heavily regulated by dams and irrigation networks. As a result, the volume of water entering the ocean is about 60% smaller than 100 years ago. But nature broke through during massive floods over the summer of 2022–23, when heavy rains filled the basin's waterways.",
-      "url": "https://phys.org/news/2026-06-ocean-gains-huge-murray-gave.html"
-    },
-    {
-      "category": "Space",
-      "title": " NASA is paying $30 million for a 1st-of-its-kind rescue mission to the aging Swift telescope before it falls from space. Is it worth it? ",
-      "source": " Latest from Space.com ",
-      "date": "Fri, 26 Jun 2026 12:00:00 +0000",
-      "summary": "NASA's daring Swift Boost mission launches June 27 to save the nearly 22-year-old Swift observatory , which is being dragged out of space by Earth's atmosphere.",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/nasa-is-paying-usd30-million-for-a-1st-of-its-kind-rescue-mission-to-the-aging-swift-telescope-before-it-falls-from-space-is-it-worth-it"
+      "date": "Fri, 26 Jun 2026 13:40:02 EDT",
+      "summary": "Imagine a global political summit that shapes the future of our planet, where one of the most populous countries in the world does not have a voice. This may seem unlikely, but currently 1.3 billion disabled people (nearly the population of China) do not have formal representation at policy talks held by the UN's climate change body.",
+      "url": "https://phys.org/news/2026-06-ways-climate-action-inclusive-billion.html"
     },
     {
       "category": "Science",
-      "title": "First Nations women in fire: A vital opportunity to boost the workforce and increase community safety",
+      "title": "Novel crystal strategy delivers near-perfect zero thermal expansion from 11 K to 893 K",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Fri, 26 Jun 2026 07:40:06 EDT",
-      "summary": "A groundbreaking report has revealed that supporting First Nations women in fire and land management is a critical, yet untapped, strategy for protecting Australian communities from escalating climate disasters.",
-      "url": "https://phys.org/news/2026-06-nations-women-vital-opportunity-boost.html"
-    },
-    {
-      "category": "Science",
-      "title": "Metal hydride molecule trapped with laser light opens path to ultracold hydrogen",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Fri, 26 Jun 2026 07:40:01 EDT",
-      "summary": "Controlling and trapping molecules, units of a substance consisting of two or more chemically bound atoms, with laser light is significantly more challenging than trapping individual atoms. This is because molecules exhibit more complex vibrational and rotational dynamics that make them more difficult to cool and trap.",
-      "url": "https://phys.org/news/2026-06-metal-hydride-molecule-laser-path.html"
+      "date": "Fri, 26 Jun 2026 13:40:01 EDT",
+      "summary": "Almost every material expands when heated. Well-known examples include railroad tracks and concrete roadways, which feature visible expansion gaps to accommodate this effect. However, thermal expansion poses a far more acute challenge for extremely precise technologies, such as lasers and semiconductor manufacturing equipment, where even minute dimensional changes can compromise precision.",
+      "url": "https://phys.org/news/2026-06-crystal-strategy-thermal-expansion.html"
     },
     {
       "category": "AI",
-      "title": "Rocket Report: China may soon attempt booster landing; Rocket Lab does rapid response",
+      "title": "'Cost Me the Election': Data Centers Trigger Voter Backlash",
+      "source": "Hacker News: Front Page",
+      "date": "Fri, 26 Jun 2026 17:24:21 +0000",
+      "summary": "Article URL: https://www.newsweek.com/cost-me-the-election-data-centers-trigger-voter-backlash-12118327\nComments URL: https://news.ycombinator.com/item?id=48689275\nPoints: 6\n# Comments: 1",
+      "url": "https://www.newsweek.com/cost-me-the-election-data-centers-trigger-voter-backlash-12118327"
+    },
+    {
+      "category": "Science",
+      "title": "How NASA taught four astronauts to read the moon",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Fri, 26 Jun 2026 13:20:05 EDT",
+      "summary": "How do you teach someone to look at the moon? Not glance at it, the way we all have on a clear night, but truly read it, the way a geologist reads a hillside. That was the challenge NASA set itself before Artemis II, because when Reid Wiseman, Victor Glover, Christina Koch and Jeremy Hansen swung around the far side of the moon this April, the first humans to make the journey in more than 50 years, their most valuable scientific instrument was not a camera or a sensor. It was the trained human eye.",
+      "url": "https://phys.org/news/2026-06-nasa-taught-astronauts-moon.html"
+    },
+    {
+      "category": "AI",
+      "title": "Previewing GPT‑5.6 Sol: a next-generation model",
+      "source": "Hacker News: Front Page",
+      "date": "Fri, 26 Jun 2026 17:06:55 +0000",
+      "summary": "Article URL: https://openai.com/index/previewing-gpt-5-6-sol/\nComments URL: https://news.ycombinator.com/item?id=48689028\nPoints: 121\n# Comments: 123",
+      "url": "https://openai.com/index/previewing-gpt-5-6-sol/"
+    },
+    {
+      "category": "Space",
+      "title": " Moore's law tells us that the price of technology should go down over time, so why is stargazing gear getting more expensive? ",
+      "source": " Latest from Space.com ",
+      "date": "Fri, 26 Jun 2026 17:05:21 +0000",
+      "summary": "With the prices of the newest smart telescope and image-stabilized binocular models running into the thousands, older models should be cheaper, but we are seeing a range of different factors at play affecting prices from the top to the bottom.",
+      "url": "https://www.space.com/stargazing/skywatching-kit/moores-law-tells-us-that-the-price-of-technology-should-go-down-over-time-so-why-is-stargazing-gear-getting-more-expensive"
+    },
+    {
+      "category": "AI",
+      "title": "Liva AI (YC S25) Is Hiring",
+      "source": "Hacker News: Front Page",
+      "date": "Fri, 26 Jun 2026 17:00:43 +0000",
+      "summary": "Article URL: https://www.ycombinator.com/companies/liva-ai/jobs/gvtc3Ep-founding-operations-lead\nComments URL: https://news.ycombinator.com/item?id=48688961\nPoints: 0\n# Comments: 0",
+      "url": "https://www.ycombinator.com/companies/liva-ai/jobs/gvtc3Ep-founding-operations-lead"
+    },
+    {
+      "category": "AI",
+      "title": "Ars Live: What's the latest in the aftermath of the New Glenn catastrophe?",
       "source": "Ars Technica - All content",
-      "date": "Fri, 26 Jun 2026 11:00:59 +0000",
-      "summary": "Is SpaceX planning to end its Transporter program?",
-      "url": "https://arstechnica.com/space/2026/06/rocket-report-china-may-soon-attempt-booster-landing-rocket-lab-does-rapid-response/"
+      "date": "Fri, 26 Jun 2026 16:24:59 +0000",
+      "summary": "Join us on the livestream at 1 pm ET and ask questions about the aftermath of New Glenn",
+      "url": "https://arstechnica.com/space/2026/06/ars-live-whats-the-latest-in-the-aftermath-of-the-new-glenn-catastrophe/"
+    },
+    {
+      "category": "Space",
+      "title": " Beam me up to 4K: Your ultimate sci-fi collection for less than $25 on Prime Day ",
+      "source": " Latest from Space.com ",
+      "date": "Fri, 26 Jun 2026 16:23:58 +0000",
+      "summary": "Amazon is practically giving the Fire TV Stick 4K Plus away for Prime Day. Grab one while it's at half price, or upgrade for just $10 more. Last chance today!",
+      "url": "https://www.space.com/stargazing/skywatching-kit/beam-me-up-to-4k-your-ultimate-sci-fi-collection-for-less-than-25-dollars"
+    },
+    {
+      "category": "Science",
+      "title": " Ancient empires quiz: Can you match these lands to the historical powers that ruled them? ",
+      "source": " Latest from Live Science ",
+      "date": "Fri, 26 Jun 2026 16:23:33 +0000",
+      "summary": "From the Andes to the steppes of Central Asia, great empires have waxed and waned. Can you match each territory to the culture that once ruled it?",
+      "url": "https://www.livescience.com/archaeology/ancient-empires-quiz-can-you-match-these-lands-to-the-historical-powers-that-ruled-them"
+    },
+    {
+      "category": "Science",
+      "title": " China's top-secret 'dragon' space plane just released another unidentified object over Earth ",
+      "source": " Latest from Live Science ",
+      "date": "Fri, 26 Jun 2026 16:15:42 +0000",
+      "summary": "The Shenlong, or \"divine dragon,\" space plane just deployed a mysterious payload above our planet. The top-secret spacecraft, which has never been properly photographed, has now released at least nine objects in low Earth orbit.",
+      "url": "https://www.livescience.com/space/space-exploration/chinas-top-secret-dragon-space-plane-just-released-another-unidentified-object-over-earth"
+    },
+    {
+      "category": "Theology",
+      "title": "To What Shall We Compare God’s Love?",
+      "source": "9Marks",
+      "date": "Fri, 26 Jun 2026 16:03:21 +0000",
+      "summary": "We should be careful about elevating certain analogies of God’s love over others.\nThe post To What Shall We Compare God’s Love? appeared first on 9Marks.",
+      "url": "https://www.9marks.org/review/to-what-shall-we-compare-gods-love/?utm_source=rss&utm_medium=rss&utm_campaign=to-what-shall-we-compare-gods-love"
+    },
+    {
+      "category": "Science",
+      "title": " AI companies don't want to be legally responsible for their chatbots. US courts should make them. ",
+      "source": " Latest from Live Science ",
+      "date": "Fri, 26 Jun 2026 16:02:23 +0000",
+      "summary": "AI-generated text and chatbots increasingly cause real-world harms. The companies that make them need to be held accountable for those harms.",
+      "url": "https://www.livescience.com/technology/artificial-intelligence/technology/artificial-intelligence/free-speech-in-the-age-of-ai-opinion"
+    },
+    {
+      "category": "Space",
+      "title": " Watch out for the giant scorpion hiding in the summer sky ",
+      "source": " Latest from Space.com ",
+      "date": "Fri, 26 Jun 2026 16:00:00 +0000",
+      "summary": "Scorpius is one of the few constellations that actually resembles its namesake — and this summer is the perfect time to find it.",
+      "url": "https://www.space.com/stargazing/constellations/watch-out-for-the-giant-scorpion-hiding-in-the-summer-sky"
+    },
+    {
+      "category": "Space",
+      "title": "NASA Identifies More Than 40 Space Technologies for Collaboration",
+      "source": "NASA",
+      "date": "Fri, 26 Jun 2026 15:37:58 +0000",
+      "summary": "NASA selected 41 proposals from 37 companies to advance technologies in support of the agency’s goals to establish a long-term presence on the Moon and enable human exploration of Mars. These American companies, picked from NASA’s 2025 Announcement of Collaboration Opportunity (ACO), will mature technologies creating solutions for space transportation, planetary surface operations, and lunar […]",
+      "url": "https://www.nasa.gov/news-release/nasa-identifies-more-than-40-space-technologies-for-collaboration/"
+    },
+    {
+      "category": "Space",
+      "title": "Euclid Sees Heart of Milky Way",
+      "source": "NASA",
+      "date": "Fri, 26 Jun 2026 15:21:18 +0000",
+      "summary": "Euclid, an ESA (European Space Agency) mission with NASA contributions, took a new look at the heart of our Milky Way galaxy, seen in this image released on June 24, 2026. This observation overlaps with a region scientists will observe with NASA’s Nancy Grace Roman Space Telescope, launching later this summer. This sneak peek gives […]",
+      "url": "https://www.nasa.gov/image-article/euclid-sees-heart-of-milky-way/"
+    },
+    {
+      "category": "AI",
+      "title": "VW may close four factories to adapt to the future, report says",
+      "source": "Ars Technica - All content",
+      "date": "Fri, 26 Jun 2026 15:10:03 +0000",
+      "summary": "With falling sales in the US and especially China, VW Group wants to restructure.",
+      "url": "https://arstechnica.com/cars/2026/06/vw-may-close-four-factories-to-adapt-to-the-future-report-says/"
+    },
+    {
+      "category": "AI",
+      "title": "Feedbacks upon feedbacks: Rock weathering and the climate",
+      "source": "Ars Technica - All content",
+      "date": "Fri, 26 Jun 2026 14:41:18 +0000",
+      "summary": "Rock weathering may release or draw down carbon dioxide—it depends on the rock.",
+      "url": "https://arstechnica.com/science/2026/06/feedbacks-upon-feedbacks-rock-weathering-and-the-climate/"
+    },
+    {
+      "category": "Space",
+      "title": "Bringing Signals to NASA",
+      "source": "NASA",
+      "date": "Fri, 26 Jun 2026 14:28:57 +0000",
+      "summary": "Growing up on the central California coast, watching rocket launches with his father was part of Eric Fernandez’s childhood routine. Fernandez had posters of rockets on the wall, but despite being fascinated by them, he never imagined one day this would be his career. Because both of his grandparents had served at Vandenberg Air Force […]",
+      "url": "https://www.nasa.gov/centers-and-facilities/kennedy/bringing-signals-to-nasa/"
     },
     {
       "category": "Biblical Studies",
@@ -51,44 +163,20 @@
       "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/time-capsule-cave-discovered-in-israel/"
     },
     {
-      "category": "Space",
-      "title": " June's Strawberry Moon is unlike any other full moon. Here's why ",
-      "source": " Latest from Space.com ",
-      "date": "Fri, 26 Jun 2026 10:00:00 +0000",
-      "summary": "Think all full moons look the same? June's Strawberry Moon rises and sets at extreme points, tracing an unusually low path across the Northern Hemisphere sky.",
-      "url": "https://www.space.com/stargazing/junes-strawberry-moon-is-unlike-any-other-full-moon-heres-why"
-    },
-    {
-      "category": "Science",
-      "title": " Water shortages could prevent the US from mining more lithium, deepening reliance on foreign imports ",
-      "source": " Latest from Live Science ",
-      "date": "Fri, 26 Jun 2026 09:49:25 +0000",
-      "summary": "Most proposed lithium mines in the U.S. overlap with drought-prone regions — including in Nevada, Arizona and California — and there may not be enough water to support them.",
-      "url": "https://www.livescience.com/planet-earth/climate-change/water-shortages-could-prevent-the-us-from-mining-more-lithium-deepening-reliance-on-foreign-imports"
-    },
-    {
-      "category": "Science",
-      "title": " New chip harnesses quantum computing's biggest weakness — and tries to turn it into a strength ",
-      "source": " Latest from Live Science ",
-      "date": "Fri, 26 Jun 2026 09:00:00 +0000",
-      "summary": "A new quantum computing chip turns destructive noise into a programmable feature, helping scientists study signal loss and error correction to build more effective systems in the future.",
-      "url": "https://www.livescience.com/technology/quantum/new-chip-harnesses-quantum-computings-biggest-weakness-and-tries-to-turn-it-into-a-strength"
+      "category": "Biblical Studies",
+      "title": "The Land of Lot",
+      "source": "Biblical Archaeology Society",
+      "date": "Fri, 26 Jun 2026 10:00:59 +0000",
+      "summary": "Most travelers to Jordan have visited the famous Nabatean city of Petra or the dune-swept, otherworldly landscape of Wadi Rum, both UNESCO World Heritage sites. […]\nThe post The Land of Lot appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/daily/biblical-sites-places/biblical-archaeology-sites/the-land-of-lot/"
     },
     {
       "category": "AI",
-      "title": "We All Depend on Open Source. We Will Defend It Together",
-      "source": "Hacker News: Front Page",
-      "date": "Fri, 26 Jun 2026 05:40:36 +0000",
-      "summary": "Article URL: https://akrites.org/letter/\nComments URL: https://news.ycombinator.com/item?id=48682737\nPoints: 222\n# Comments: 113",
-      "url": "https://akrites.org/letter/"
-    },
-    {
-      "category": "Space",
-      "title": " Watch live: Rocket Lab launching 'Ten Owl of Ten' mission for Synspective today ",
-      "source": " Latest from Space.com ",
-      "date": "Fri, 26 Jun 2026 05:07:08 +0000",
-      "summary": "Rocket Lab is poised to launch the \"Ten Owl of Ten\" mission from New Zealand today (June 26), adding to Japanese company Synspective's imaging constellation. Watch it live here.",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-ten-owl-of-ten-mission-for-synspective-launch"
+      "title": "Previewing GPT-5.6 Sol: a next-generation model",
+      "source": "OpenAI News",
+      "date": "Fri, 26 Jun 2026 10:00:00 GMT",
+      "summary": "OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack.",
+      "url": "https://openai.com/index/previewing-gpt-5-6-sol"
     },
     {
       "category": "Theology",
@@ -107,14 +195,6 @@
       "url": "https://www.thegospelcoalition.org/reviews/authentic-masculinity/"
     },
     {
-      "category": "Space",
-      "title": "The Battle for Sullivan’s Island",
-      "source": "NASA",
-      "date": "Fri, 26 Jun 2026 04:00:00 +0000",
-      "summary": "Marshy, sandy terrain and an impassable inlet helped colonial forces repel British forces during a pivotal battle on the barrier island near Charleston, South Carolina, on June 28, 1776.",
-      "url": "https://science.nasa.gov/earth/earth-observatory/the-battle-for-sullivans-island/"
-    },
-    {
       "category": "Theology",
       "title": "‘The Stone Still Preaches’: How Trinity Church Reclaimed One of Aberdeen’s Granite Witnesses",
       "source": "The Gospel Coalition",
@@ -123,76 +203,12 @@
       "url": "https://www.thegospelcoalition.org/article/stone-still-preaches/"
     },
     {
-      "category": "AI",
-      "title": "Libre Barcode Project",
-      "source": "Hacker News: Front Page",
-      "date": "Fri, 26 Jun 2026 03:12:42 +0000",
-      "summary": "Article URL: https://graphicore.github.io/librebarcode/\nComments URL: https://news.ycombinator.com/item?id=48681949\nPoints: 181\n# Comments: 28",
-      "url": "https://graphicore.github.io/librebarcode/"
-    },
-    {
-      "category": "AI",
-      "title": "What happened after 2k people tried to hack my AI assistant",
-      "source": "Hacker News: Front Page",
-      "date": "Fri, 26 Jun 2026 02:29:23 +0000",
-      "summary": "Article URL: https://www.fernandoi.cl/posts/hackmyclaw/\nComments URL: https://news.ycombinator.com/item?id=48681687\nPoints: 203\n# Comments: 73",
-      "url": "https://www.fernandoi.cl/posts/hackmyclaw/"
-    },
-    {
-      "category": "Space",
-      "title": "Expedition 73 Crew Reflects on Science, Teamwork, and Life in Orbit ",
-      "source": "NASA",
-      "date": "Thu, 25 Jun 2026 21:30:32 +0000",
-      "summary": "On June 16, astronauts and cosmonauts gathered at Space Center Houston to share stories from their missions aboard the International Space Station and recognize the teamwork and people on the ground that made their missions possible.  The Expedition 73 Welcome Home Ceremony brought together members of NASA’s SpaceX Crew-10, Soyuz MS-27, and NASA’s SpaceX Crew-11 missions. […]",
-      "url": "https://www.nasa.gov/centers-and-facilities/johnson/expedition-73-crew-reflects-on-science-teamwork-and-life-in-orbit/"
-    },
-    {
-      "category": "Space",
-      "title": "NASA, US Small Business Administration to Announce Partnership",
-      "source": "NASA",
-      "date": "Thu, 25 Jun 2026 21:10:38 +0000",
-      "summary": "NASA and the U.S. Small Business Administration will sign a memorandum of agreement during a ceremony at 1 p.m. EDT, Monday, June 29, at NASA Headquarters in Washington. The agreement will create a new interagency initiative that directly responds to President Donald J. Trump’s National Space Policy and supports the growth of the American space […]",
-      "url": "https://www.nasa.gov/news-release/nasa-us-small-business-administration-to-announce-partnership/"
-    },
-    {
-      "category": "AI",
-      "title": "Microsoft adds another year to Windows 10 extended update program",
-      "source": "Ars Technica - All content",
-      "date": "Thu, 25 Jun 2026 20:24:09 +0000",
-      "summary": "About a quarter of PCs are still running Microsoft's previous operating system.",
-      "url": "https://arstechnica.com/gadgets/2026/06/microsoft-adds-another-year-to-windows-10-extended-update-program/"
-    },
-    {
-      "category": "AI",
-      "title": "FCC may kill $2B program that connects schools and libraries to Internet",
-      "source": "Ars Technica - All content",
-      "date": "Thu, 25 Jun 2026 20:01:08 +0000",
-      "summary": "Carr cites screen time concerns, is accused of trying to be \"the nation’s parent.\"",
-      "url": "https://arstechnica.com/tech-policy/2026/06/fcc-may-kill-2b-program-that-connects-schools-and-libraries-to-internet/"
-    },
-    {
-      "category": "Science",
-      "title": " Some of the last surviving Neanderthals were remarkably diverse ‪—‬ suggesting inbreeding didn't doom them ",
-      "source": " Latest from Live Science ",
-      "date": "Thu, 25 Jun 2026 17:04:46 +0000",
-      "summary": "Some Neanderthals living in northwestern Europe after 52,500 years ago were surprisingly diverse, suggesting that they didn't all go extinct due to inbreeding.",
-      "url": "https://www.livescience.com/archaeology/neanderthals/some-of-the-last-surviving-neanderthals-were-remarkably-diverse-suggesting-inbreeding-didnt-doom-them"
-    },
-    {
       "category": "Biblical Studies",
       "title": "How December 25 Became Christmas",
       "source": "Biblical Archaeology Society",
       "date": "Thu, 25 Jun 2026 11:00:18 +0000",
       "summary": "Theological scholar Andrew McGowan examines how December 25 came to be associated with the birthday of Jesus and became Christmas, a holiday celebrated by Christians around the world.\nThe post How December 25 Became Christmas appeared first on Biblical Archaeology Society.",
       "url": "https://www.biblicalarchaeology.org/daily/people-cultures-in-the-bible/jesus-historical-jesus/how-december-25-became-christmas/"
-    },
-    {
-      "category": "Biblical Studies",
-      "title": "Why Did the Magi Bring Gold, Frankincense and Myrrh?",
-      "source": "Biblical Archaeology Society",
-      "date": "Thu, 25 Jun 2026 11:00:15 +0000",
-      "summary": "Were the gifts of the magi meant to save Jesus from the pain of arthritis? It’s possible, according to researchers at Cardiff University in Wales who have been studying the medical uses of frankincense.\nThe post Why Did the Magi Bring Gold, Frankincense and Myrrh? appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/daily/people-cultures-in-the-bible/jesus-historical-jesus/why-did-the-magi-bring-gold-frankincense-and-myrrh/"
     },
     {
       "category": "Science",
@@ -259,14 +275,6 @@
       "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip"
     },
     {
-      "category": "AI",
-      "title": "Helping build shared standards for advanced AI",
-      "source": "OpenAI News",
-      "date": "Tue, 23 Jun 2026 13:00:00 GMT",
-      "summary": "OpenAI helps build shared standards for advanced AI, supporting evaluation frameworks, safety practices, and global cooperation through the Appia Foundation.",
-      "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai"
-    },
-    {
       "category": "History",
       "title": "The Tobacco Raid of 1779",
       "source": "Journal of the American Revolution",
@@ -281,14 +289,6 @@
       "date": "Mon, 22 Jun 2026 17:15:45 +0000",
       "summary": "Pastor, you have the privilege and responsibility to lead the flock, and the primary way you lead is through the public ministry of the Word.\nThe post Pastor’s Job Description: Four Essential Responsibilities of a Shepherd appeared first on 9Marks.",
       "url": "https://www.9marks.org/article/pastors-job-description-four-essential-responsibilities-of-a-shepherd/?utm_source=rss&utm_medium=rss&utm_campaign=pastors-job-description-four-essential-responsibilities-of-a-shepherd"
-    },
-    {
-      "category": "Theology",
-      "title": "Relating to Family Members Under Church Discipline",
-      "source": "9Marks",
-      "date": "Thu, 18 Jun 2026 20:23:43 +0000",
-      "summary": "Christians must continue to fulfill their God-given family responsibilities while also honoring (as best as possible) the divinely intended consequences of church discipline.\nThe post Relating to Family Members Under Church Discipline appeared first on 9Marks.",
-      "url": "https://www.9marks.org/article/relating-to-family-members-under-church-discipline/?utm_source=rss&utm_medium=rss&utm_campaign=relating-to-family-members-under-church-discipline"
     },
     {
       "category": "History",
