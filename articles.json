@@ -1,30 +1,102 @@
 {
-  "lastUpdated": "2026-06-26T23:00:20.706Z",
+  "lastUpdated": "2026-06-27T11:23:01.445Z",
   "articleCount": 39,
   "articles": [
     {
       "category": "Science",
-      "title": "Proactive employees with high emotional intelligence do a better job, study finds",
+      "title": "Farmers fear drought as Italy's longest river runs dry",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Fri, 26 Jun 2026 18:20:03 EDT",
-      "summary": "In many organizations, large hierarchical gaps exist within work teams, raising the question of how frontline employees can strive for upward mobility in their careers. A recent study by the Department of Psychology at Lingnan University finds that employees who proactively seek opportunities, are willing to learn and, at the same time, have higher emotional intelligence carry out their jobs far better and are more engaged.",
-      "url": "https://phys.org/news/2026-06-proactive-employees-high-emotional-intelligence.html"
+      "date": "Sat, 27 Jun 2026 07:20:03 EDT",
+      "summary": "Seawater is seeping into Italy's longest river as the waterway starts to run dry in the heat wave, hitting a farming heartland that produces the milk for Parmesan cheese.",
+      "url": "https://phys.org/news/2026-06-farmers-drought-italy-longest-river.html"
     },
     {
       "category": "Science",
-      "title": "Coal pollution reaches one of Earth's most remote mountain regions",
+      "title": "Germany sees hottest temperature on record of 41.3C: Weather service",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Fri, 26 Jun 2026 18:00:01 EDT",
-      "summary": "The Himalayas are often seen as one of Earth's great natural barriers, separating the heavily populated and industrialized regions of South Asia from the remote Tibetan Plateau. But new research, published in Geophysical Research Letters, suggests that this mountain range is not an impenetrable wall for air pollution.",
-      "url": "https://phys.org/news/2026-06-coal-pollution-earth-remote-mountain.html"
+      "date": "Sat, 27 Jun 2026 07:20:01 EDT",
+      "summary": "Germany saw its highest temperature ever recorded Friday at 41.3°C (106.3°F), according to preliminary weather service data, as the country braces for the possibility of even higher temperatures over the weekend.",
+      "url": "https://phys.org/news/2026-06-germany-hottest-temperature-413c-weather.html"
+    },
+    {
+      "category": "Science",
+      "title": "A large, harmless asteroid will zip past Earth this weekend",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sat, 27 Jun 2026 07:01:35 EDT",
+      "summary": "A large asteroid will zip past Earth this weekend, but don't worry: It poses no danger.",
+      "url": "https://phys.org/news/2026-06-large-harmless-asteroid-earth-weekend.html"
+    },
+    {
+      "category": "Science",
+      "title": " Science news this week: Life on Mars, weird water and a curious human cousin ",
+      "source": " Latest from Live Science ",
+      "date": "Sat, 27 Jun 2026 11:00:00 +0000",
+      "summary": "June 27, 2026: Our weekly roundup of the latest science in the news, as well as a few fascinating articles to keep you entertained over the weekend.",
+      "url": "https://www.livescience.com/space/science-news-this-week-life-on-mars-weird-water-and-a-curious-human-cousin"
     },
     {
       "category": "AI",
-      "title": "The open source DOCX editor submitted to HN a few weeks ago has been deleted",
+      "title": "Fintech Engineering Handbook",
       "source": "Hacker News: Front Page",
-      "date": "Fri, 26 Jun 2026 21:54:59 +0000",
-      "summary": "The github repo under eigenpal is gone. The web site at docx-editor is 503. No idea what's going on.\nComments URL: https://news.ycombinator.com/item?id=48692474\nPoints: 22\n# Comments: 18",
-      "url": "https://news.ycombinator.com/item?id=48692474"
+      "date": "Sat, 27 Jun 2026 10:28:53 +0000",
+      "summary": "Article URL: https://w.pitula.me/fintech-engineering-handbook/\nComments URL: https://news.ycombinator.com/item?id=48696982\nPoints: 41\n# Comments: 5",
+      "url": "https://w.pitula.me/fintech-engineering-handbook/"
+    },
+    {
+      "category": "Science",
+      "title": " AI images are more convincing than ever — infiltrating journals and undermining trust in science ",
+      "source": " Latest from Live Science ",
+      "date": "Sat, 27 Jun 2026 10:00:00 +0000",
+      "summary": "Thanks to AI, one of the key pillars of scientific evidence — stunning imagery that often defies belief — is crumbling.",
+      "url": "https://www.livescience.com/technology/artificial-intelligence/ai-images-are-more-convincing-than-ever-infiltrating-journals-and-undermining-trust-in-science"
+    },
+    {
+      "category": "Space",
+      "title": " Strange glowing 'bow-and-arrow' structure may be a giant cosmic shock wave created by a supersonic galaxy collision ",
+      "source": " Latest from Space.com ",
+      "date": "Sat, 27 Jun 2026 10:00:00 +0000",
+      "summary": "A bizarre \"bow-and-arrow\" radio galaxy nearly 1.8 million light-years across could reveal how galaxy clusters sculpt some of the universe's largest structures.",
+      "url": "https://www.space.com/astronomy/galaxies/strange-glowing-bow-and-arrow-structure-may-be-a-giant-cosmic-shock-wave-created-by-a-supersonic-galaxy-collision"
+    },
+    {
+      "category": "AI",
+      "title": "DeepSeek open-sources inference optimizations with 60–85% faster generation [pdf]",
+      "source": "Hacker News: Front Page",
+      "date": "Sat, 27 Jun 2026 09:18:52 +0000",
+      "summary": "Article URL: https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf\nComments URL: https://news.ycombinator.com/item?id=48696585\nPoints: 275\n# Comments: 60",
+      "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf"
+    },
+    {
+      "category": "AI",
+      "title": "Beer CSS – Build material design in record time",
+      "source": "Hacker News: Front Page",
+      "date": "Sat, 27 Jun 2026 09:06:11 +0000",
+      "summary": "Article URL: https://www.beercss.com\nComments URL: https://news.ycombinator.com/item?id=48696510\nPoints: 24\n# Comments: 2",
+      "url": "https://www.beercss.com"
+    },
+    {
+      "category": "Science",
+      "title": " How did the Romans build such straight roads? ",
+      "source": " Latest from Live Science ",
+      "date": "Sat, 27 Jun 2026 09:00:00 +0000",
+      "summary": "The Romans have a reputation for building straight roads — but how did they do it?",
+      "url": "https://www.livescience.com/archaeology/romans/how-did-the-romans-build-such-straight-roads"
+    },
+    {
+      "category": "Theology",
+      "title": "The Hidden Cost of Avoiding Theology",
+      "source": "The Gospel Coalition",
+      "date": "Sat, 27 Jun 2026 04:00:00 +0000",
+      "summary": "A generation that minimizes certain doctrines raises a generation that no longer knows those doctrines.",
+      "url": "https://www.thegospelcoalition.org/article/cost-avoiding-theology/"
+    },
+    {
+      "category": "AI",
+      "title": "South Korea plans to train entire military as \"drone warriors\"",
+      "source": "Ars Technica - All content",
+      "date": "Fri, 26 Jun 2026 22:19:05 +0000",
+      "summary": "Half-million strong military will train on drones as “universal combat tool.”",
+      "url": "https://arstechnica.com/ai/2026/06/south-korea-plans-to-train-entire-military-as-drone-warriors/"
     },
     {
       "category": "AI",
@@ -33,30 +105,6 @@
       "date": "Fri, 26 Jun 2026 21:43:57 +0000",
       "summary": "His doctors went looking for cancer, then they saw the worms' heads.",
       "url": "https://arstechnica.com/health/2026/06/doctors-suspected-man-had-brain-cancer-he-actually-had-worms/"
-    },
-    {
-      "category": "Science",
-      "title": "Why Ho Chi Minh City's pollution sources may have been misread for years",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Fri, 26 Jun 2026 17:40:02 EDT",
-      "summary": "Biomass burning, including the combustion of wood, charcoal and agricultural residues, is a major source of PM2.5, a fine particulate matter that degrades air quality and poses risks to human health. Much of this pollution is tracked by looking at levels of levoglucosan, a chemical that is formed when cellulose in plants is burned, from biomass combustion such as residential fuel use, cooking and open burning.",
-      "url": "https://phys.org/news/2026-06-ho-chi-minh-city-pollution.html"
-    },
-    {
-      "category": "AI",
-      "title": "The Nationwide Backlash Against Cameras Watching Your Car",
-      "source": "Hacker News: Front Page",
-      "date": "Fri, 26 Jun 2026 21:23:56 +0000",
-      "summary": "Article URL: https://www.wsj.com/us-news/the-nationwide-backlash-against-cameras-watching-your-car-401a656a\nComments URL: https://news.ycombinator.com/item?id=48692157\nPoints: 9\n# Comments: 1",
-      "url": "https://www.wsj.com/us-news/the-nationwide-backlash-against-cameras-watching-your-car-401a656a"
-    },
-    {
-      "category": "AI",
-      "title": "The National Parks Were Reportedly Told to Stay Silent on Deaths",
-      "source": "Hacker News: Front Page",
-      "date": "Fri, 26 Jun 2026 21:19:20 +0000",
-      "summary": "Article URL: https://www.outsideonline.com/outdoor-adventure/environment/nps-internal-memo-deaths/?link_source=ta_first_comment&taid=6a3dae4f4d2dce00016deef8&utm_content=trueanthem&utm_medium=social&utm_source=facebook\nComments URL: https://news.ycombinator.com/item?id=48692098\nPoints: 39\n# Comments: 6",
-      "url": "https://www.outsideonline.com/outdoor-adventure/environment/nps-internal-memo-deaths/?link_source=ta_first_comment&taid=6a3dae4f4d2dce00016deef8&utm_content=trueanthem&utm_medium=social&utm_source=facebook"
     },
     {
       "category": "AI",
@@ -73,14 +121,6 @@
       "date": "Fri, 26 Jun 2026 21:00:00 +0000",
       "summary": "The loudest crash of gravitational waves ever heard provides an intriguing way of studying event horizons, the boundaries at which nothing can escape the grip of these cosmic titans.",
       "url": "https://www.space.com/astronomy/black-holes/black-holes-point-of-no-escape-studied-with-the-loudest-gravitational-waves-ever-heard"
-    },
-    {
-      "category": "AI",
-      "title": "Russian citizens told \"switch to Android\" after Apple blocks key Russian apps",
-      "source": "Ars Technica - All content",
-      "date": "Fri, 26 Jun 2026 20:58:02 +0000",
-      "summary": "Russian government lashes out at Apple's \"bizarre\" decisions.",
-      "url": "https://arstechnica.com/gadgets/2026/06/russian-citizens-told-switch-to-android-after-apple-blocks-key-russian-apps/"
     },
     {
       "category": "Space",
@@ -100,27 +140,11 @@
     },
     {
       "category": "Space",
-      "title": " SpaceX's next Starship breathes fire for 1st time in prelaunch test (video) ",
-      "source": " Latest from Space.com ",
-      "date": "Fri, 26 Jun 2026 19:00:00 +0000",
-      "summary": "About a month has passed since the first launch of SpaceX's \"Version 3\" Starship rocket, and the spaceflight company has already begun testing on its next such vehicle.",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacexs-next-starship-breathes-fire-for-1st-time-in-prelaunch-test-video"
-    },
-    {
-      "category": "Space",
       "title": "NASA Tests New Refuel Device for Future In-Space Refueling Missions",
       "source": "NASA",
       "date": "Fri, 26 Jun 2026 18:44:07 +0000",
       "summary": "For NASA’s next generation of deep space exploration missions, spacecraft may need to refuel in Earth orbit before pushing farther into the solar system. Similar to how a gas pump needs a nozzle to fit your fuel tank, future spacecraft could require a special device in order to fill up prior to departure, known as […]",
       "url": "https://www.nasa.gov/directorates/stmd/tech-demo-missions-program/cryogenic-fluid-management-cfm/nasa-tests-new-refuel-device-for-future-in-space-refueling-missions/"
-    },
-    {
-      "category": "Science",
-      "title": " 'It sounds so impossible': Student studying fungus that makes users hallucinate tiny people may be on the verge of a scientific breakthrough ",
-      "source": " Latest from Live Science ",
-      "date": "Fri, 26 Jun 2026 18:26:56 +0000",
-      "summary": "Live Science spoke with Colin Domnauer, a PhD student in ethnobiology whose unraveling of a mushroom mystery could reveal a new hallucinogenic compound.",
-      "url": "https://www.livescience.com/chemistry/it-sounds-so-impossible-student-studying-fungus-that-makes-users-hallucinate-tiny-people-may-be-on-the-verge-of-a-scientific-breakthrough"
     },
     {
       "category": "Space",
@@ -129,22 +153,6 @@
       "date": "Fri, 26 Jun 2026 17:16:22 +0000",
       "summary": "A mission to raise the orbit of NASA’s Swift observatory is poised for launch June 30.",
       "url": "https://science.nasa.gov/missions/swift/swift-boost-mission/partners-nasa-ready-for-june-launch-of-swift-boost-mission/"
-    },
-    {
-      "category": "Science",
-      "title": " Ancient empires quiz: Can you match these lands to the historical powers that ruled them? ",
-      "source": " Latest from Live Science ",
-      "date": "Fri, 26 Jun 2026 16:23:33 +0000",
-      "summary": "From the Andes to the steppes of Central Asia, great empires have waxed and waned. Can you match each territory to the culture that once ruled it?",
-      "url": "https://www.livescience.com/archaeology/ancient-empires-quiz-can-you-match-these-lands-to-the-historical-powers-that-ruled-them"
-    },
-    {
-      "category": "Science",
-      "title": " China's top-secret 'dragon' space plane just released another unidentified object over Earth ",
-      "source": " Latest from Live Science ",
-      "date": "Fri, 26 Jun 2026 16:15:42 +0000",
-      "summary": "The Shenlong, or \"divine dragon,\" space plane just deployed a mysterious payload above our planet. The top-secret spacecraft, which has never been properly photographed, has now released at least nine objects in low Earth orbit.",
-      "url": "https://www.livescience.com/space/space-exploration/chinas-top-secret-dragon-space-plane-just-released-another-unidentified-object-over-earth"
     },
     {
       "category": "Theology",
@@ -193,14 +201,6 @@
       "date": "Fri, 26 Jun 2026 04:02:00 +0000",
       "summary": "In a culture that doesn’t seem to understand what makes masculinity different from femininity, ‘Authentic Masculinity’ offers a clear and compelling explanation.",
       "url": "https://www.thegospelcoalition.org/reviews/authentic-masculinity/"
-    },
-    {
-      "category": "Theology",
-      "title": "‘The Stone Still Preaches’: How Trinity Church Reclaimed One of Aberdeen’s Granite Witnesses",
-      "source": "The Gospel Coalition",
-      "date": "Fri, 26 Jun 2026 04:00:00 +0000",
-      "summary": "Sometimes, a building is more than a pile of stones. It’s an Ebenezer.",
-      "url": "https://www.thegospelcoalition.org/article/stone-still-preaches/"
     },
     {
       "category": "Science",
