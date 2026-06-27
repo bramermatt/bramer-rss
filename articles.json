@@ -1,30 +1,102 @@
 {
-  "lastUpdated": "2026-06-27T11:23:01.445Z",
+  "lastUpdated": "2026-06-27T17:01:26.694Z",
   "articleCount": 39,
   "articles": [
     {
       "category": "Science",
-      "title": "Farmers fear drought as Italy's longest river runs dry",
+      "title": "Laser-based 3D imaging system enables precise detection and quantification of methane leakage",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Sat, 27 Jun 2026 07:20:03 EDT",
-      "summary": "Seawater is seeping into Italy's longest river as the waterway starts to run dry in the heat wave, hitting a farming heartland that produces the milk for Parmesan cheese.",
-      "url": "https://phys.org/news/2026-06-farmers-drought-italy-longest-river.html"
+      "date": "Sat, 27 Jun 2026 13:00:01 EDT",
+      "summary": "A research team led by Prof. Zhang Zhirong from the Hefei Institutes of Physical Science of the Chinese Academy of Sciences has developed a high-performance laser-based three-dimensional methane gas cloud imaging telemetry system that enabled visualization of microleakages, accurate location of leakage sources and quantitative retrieval of emission rates.",
+      "url": "https://phys.org/news/2026-06-laser-based-3d-imaging-enables.html"
     },
     {
       "category": "Science",
-      "title": "Germany sees hottest temperature on record of 41.3C: Weather service",
+      "title": "New millisecond pulsar discovered with the Murchison Widefield Array",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Sat, 27 Jun 2026 07:20:01 EDT",
-      "summary": "Germany saw its highest temperature ever recorded Friday at 41.3°C (106.3°F), according to preliminary weather service data, as the country braces for the possibility of even higher temperatures over the weekend.",
-      "url": "https://phys.org/news/2026-06-germany-hottest-temperature-413c-weather.html"
+      "date": "Sat, 27 Jun 2026 12:40:01 EDT",
+      "summary": "Using the Murchison Widefield Array (MWA), astronomers have discovered a new millisecond pulsar as part of the ongoing Southern-sky MWA Rapid Two-metre (SMART) survey. The discovery is reported in a research paper published June 17 on the arXiv preprint server. The work has also been accepted for publication in The Astrophysical Journal Letters.",
+      "url": "https://phys.org/news/2026-06-millisecond-pulsar-murchison-widefield-array.html"
+    },
+    {
+      "category": "AI",
+      "title": "Doctors suspected man had brain cancer. He had worms",
+      "source": "Hacker News: Front Page",
+      "date": "Sat, 27 Jun 2026 16:31:58 +0000",
+      "summary": "Article URL: https://arstechnica.com/health/2026/06/doctors-suspected-man-had-brain-cancer-he-actually-had-worms/\nComments URL: https://news.ycombinator.com/item?id=48699617\nPoints: 7\n# Comments: 0",
+      "url": "https://arstechnica.com/health/2026/06/doctors-suspected-man-had-brain-cancer-he-actually-had-worms/"
     },
     {
       "category": "Science",
-      "title": "A large, harmless asteroid will zip past Earth this weekend",
+      "title": "New workflow transforms nonfunctional protein scaffolds into active enzymes",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Sat, 27 Jun 2026 07:01:35 EDT",
-      "summary": "A large asteroid will zip past Earth this weekend, but don't worry: It poses no danger.",
-      "url": "https://phys.org/news/2026-06-large-harmless-asteroid-earth-weekend.html"
+      "date": "Sat, 27 Jun 2026 12:00:01 EDT",
+      "summary": "Enzymes are regarded as the key to sustainable chemistry. Despite major advances in protein design, creating artificial enzymes from scratch has so far remained a grand challenge. A research team at the University of Bayreuth, in collaboration with scientists from the University of Ottawa, has now demonstrated how nonfunctional protein scaffolds can be transformed into highly active enzymes. The researchers report their findings in Nature Chemical Biology.",
+      "url": "https://phys.org/news/2026-06-workflow-nonfunctional-protein-scaffolds-enzymes.html"
+    },
+    {
+      "category": "Science",
+      "title": " Climate change is driving capuchin monkey mothers to abandon their infants ",
+      "source": " Latest from Live Science ",
+      "date": "Sat, 27 Jun 2026 15:30:00 +0000",
+      "summary": "Large groups have their pros and cons. But a changing climate may push them off balance.",
+      "url": "https://www.livescience.com/animals/climate-change-is-driving-capuchin-monkey-mothers-to-abandon-their-infants"
+    },
+    {
+      "category": "Space",
+      "title": " This Week In Space podcast: Episode 216 — Dark Matter Intelligence ",
+      "source": " Latest from Space.com ",
+      "date": "Sat, 27 Jun 2026 15:10:46 +0000",
+      "summary": "On Episode 216 of This Week In Space, Rod Pyle and Tariq Malik talk with physicist Dr. Daniel Whiteson about other intelligences is beyond our scope.",
+      "url": "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-216-dark-matter-intelligence"
+    },
+    {
+      "category": "AI",
+      "title": "Zuckerberg's Increasingly Bizarre War on Whistleblowers",
+      "source": "Hacker News: Front Page",
+      "date": "Sat, 27 Jun 2026 14:38:05 +0000",
+      "summary": "Article URL: https://pluralistic.net/2026/06/27/zuckerstreisand-2/\nComments URL: https://news.ycombinator.com/item?id=48698684\nPoints: 201\n# Comments: 77",
+      "url": "https://pluralistic.net/2026/06/27/zuckerstreisand-2/"
+    },
+    {
+      "category": "AI",
+      "title": "Anonymous GitHub account mass-dropping undisclosed 0-days",
+      "source": "Hacker News: Front Page",
+      "date": "Sat, 27 Jun 2026 14:31:00 +0000",
+      "summary": "Article URL: https://github.com/bikini/exploitarium\nComments URL: https://news.ycombinator.com/item?id=48698617\nPoints: 139\n# Comments: 54",
+      "url": "https://github.com/bikini/exploitarium"
+    },
+    {
+      "category": "Science",
+      "title": " 'The Romans were probably never going to go away': In new 'Almost History' podcast, listen to how history might have played out if Carthage had defeated the Roman Republic ",
+      "source": " Latest from Live Science ",
+      "date": "Sat, 27 Jun 2026 14:00:00 +0000",
+      "summary": "A new podcast from All About History magazine dives into an alternate reality of what may have happened during the famous battles between Carthage and Rome.",
+      "url": "https://www.livescience.com/archaeology/romans/the-romans-were-probably-never-going-to-go-away-in-new-almost-history-podcast-listen-to-how-history-might-have-played-out-if-carthage-had-defeated-the-roman-republic"
+    },
+    {
+      "category": "Space",
+      "title": " SpaceCamp at 40: A wish-fulfillment fantasy brought down to earth by NASA's real-life disaster ",
+      "source": " Latest from Space.com ",
+      "date": "Sat, 27 Jun 2026 14:00:00 +0000",
+      "summary": "After the Challenger tragedy, nobody wanted to see a film about five kids on an adventure in space.",
+      "url": "https://www.space.com/entertainment/space-movies-shows/spacecamp-at-40-a-wish-fulfillment-fantasy-brought-down-to-earth-by-nasas-real-life-disaster"
+    },
+    {
+      "category": "Space",
+      "title": " Blue Origin plans to fly New Glenn rocket again this year despite massive rocket explosion (video) ",
+      "source": " Latest from Space.com ",
+      "date": "Sat, 27 Jun 2026 13:00:00 +0000",
+      "summary": "After its rocket explosion, Blue Origin wants to complete repairs and put another New Glenn on the launch pad before the end of 2026, according to CEO Dave Limp. That's very ambitious.",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/blue-origin-working-around-the-clock-to-repair-damaged-launch-pad-after-new-glenn-rocket-explosion-video"
+    },
+    {
+      "category": "AI",
+      "title": "Apple and Audi alumni have made a luxe EV based on the moon buggy",
+      "source": "Ars Technica - All content",
+      "date": "Sat, 27 Jun 2026 11:07:05 +0000",
+      "summary": "The Amble One is a street-legal $25,000 electric buggy designed for luxury resorts.",
+      "url": "https://arstechnica.com/cars/2026/06/apple-and-audi-alumni-have-made-a-luxe-ev-based-on-the-moon-buggy/"
     },
     {
       "category": "Science",
@@ -33,54 +105,6 @@
       "date": "Sat, 27 Jun 2026 11:00:00 +0000",
       "summary": "June 27, 2026: Our weekly roundup of the latest science in the news, as well as a few fascinating articles to keep you entertained over the weekend.",
       "url": "https://www.livescience.com/space/science-news-this-week-life-on-mars-weird-water-and-a-curious-human-cousin"
-    },
-    {
-      "category": "AI",
-      "title": "Fintech Engineering Handbook",
-      "source": "Hacker News: Front Page",
-      "date": "Sat, 27 Jun 2026 10:28:53 +0000",
-      "summary": "Article URL: https://w.pitula.me/fintech-engineering-handbook/\nComments URL: https://news.ycombinator.com/item?id=48696982\nPoints: 41\n# Comments: 5",
-      "url": "https://w.pitula.me/fintech-engineering-handbook/"
-    },
-    {
-      "category": "Science",
-      "title": " AI images are more convincing than ever — infiltrating journals and undermining trust in science ",
-      "source": " Latest from Live Science ",
-      "date": "Sat, 27 Jun 2026 10:00:00 +0000",
-      "summary": "Thanks to AI, one of the key pillars of scientific evidence — stunning imagery that often defies belief — is crumbling.",
-      "url": "https://www.livescience.com/technology/artificial-intelligence/ai-images-are-more-convincing-than-ever-infiltrating-journals-and-undermining-trust-in-science"
-    },
-    {
-      "category": "Space",
-      "title": " Strange glowing 'bow-and-arrow' structure may be a giant cosmic shock wave created by a supersonic galaxy collision ",
-      "source": " Latest from Space.com ",
-      "date": "Sat, 27 Jun 2026 10:00:00 +0000",
-      "summary": "A bizarre \"bow-and-arrow\" radio galaxy nearly 1.8 million light-years across could reveal how galaxy clusters sculpt some of the universe's largest structures.",
-      "url": "https://www.space.com/astronomy/galaxies/strange-glowing-bow-and-arrow-structure-may-be-a-giant-cosmic-shock-wave-created-by-a-supersonic-galaxy-collision"
-    },
-    {
-      "category": "AI",
-      "title": "DeepSeek open-sources inference optimizations with 60–85% faster generation [pdf]",
-      "source": "Hacker News: Front Page",
-      "date": "Sat, 27 Jun 2026 09:18:52 +0000",
-      "summary": "Article URL: https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf\nComments URL: https://news.ycombinator.com/item?id=48696585\nPoints: 275\n# Comments: 60",
-      "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf"
-    },
-    {
-      "category": "AI",
-      "title": "Beer CSS – Build material design in record time",
-      "source": "Hacker News: Front Page",
-      "date": "Sat, 27 Jun 2026 09:06:11 +0000",
-      "summary": "Article URL: https://www.beercss.com\nComments URL: https://news.ycombinator.com/item?id=48696510\nPoints: 24\n# Comments: 2",
-      "url": "https://www.beercss.com"
-    },
-    {
-      "category": "Science",
-      "title": " How did the Romans build such straight roads? ",
-      "source": " Latest from Live Science ",
-      "date": "Sat, 27 Jun 2026 09:00:00 +0000",
-      "summary": "The Romans have a reputation for building straight roads — but how did they do it?",
-      "url": "https://www.livescience.com/archaeology/romans/how-did-the-romans-build-such-straight-roads"
     },
     {
       "category": "Theology",
@@ -105,30 +129,6 @@
       "date": "Fri, 26 Jun 2026 21:43:57 +0000",
       "summary": "His doctors went looking for cancer, then they saw the worms' heads.",
       "url": "https://arstechnica.com/health/2026/06/doctors-suspected-man-had-brain-cancer-he-actually-had-worms/"
-    },
-    {
-      "category": "AI",
-      "title": "Streaming services’ obnoxiously loud ads become illegal on July 1 in California",
-      "source": "Ars Technica - All content",
-      "date": "Fri, 26 Jun 2026 21:12:07 +0000",
-      "summary": "Illinois passed a similar law, giving services more incentive to make ads less booming.",
-      "url": "https://arstechnica.com/gadgets/2026/06/streaming-services-obnoxiously-loud-ads-become-illegal-on-july-1-in-california/"
-    },
-    {
-      "category": "Space",
-      "title": " Black hole's 'point of no escape' studied with the loudest gravitational waves ever heard ",
-      "source": " Latest from Space.com ",
-      "date": "Fri, 26 Jun 2026 21:00:00 +0000",
-      "summary": "The loudest crash of gravitational waves ever heard provides an intriguing way of studying event horizons, the boundaries at which nothing can escape the grip of these cosmic titans.",
-      "url": "https://www.space.com/astronomy/black-holes/black-holes-point-of-no-escape-studied-with-the-loudest-gravitational-waves-ever-heard"
-    },
-    {
-      "category": "Space",
-      "title": " 'Exodus: The Helium Sea' author Peter F. Hamilton talks universe crafting and finishing the story in this second prequel novel for sci-fi RPG 'Exodus' (exclusive) ",
-      "source": " Latest from Space.com ",
-      "date": "Fri, 26 Jun 2026 20:00:00 +0000",
-      "summary": "\"You can literally have sailing ships in space.\"",
-      "url": "https://www.space.com/entertainment/space-books/exodus-the-helium-sea-author-peter-f-hamilton-talks-universe-crafting-and-finishing-the-story-in-this-second-prequel-novel-for-sci-fi-rpg-exodus-exclusive"
     },
     {
       "category": "Space",
