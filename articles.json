@@ -1,38 +1,62 @@
 {
-  "lastUpdated": "2026-06-27T17:01:26.694Z",
+  "lastUpdated": "2026-06-27T22:57:17.005Z",
   "articleCount": 39,
   "articles": [
     {
-      "category": "Science",
-      "title": "Laser-based 3D imaging system enables precise detection and quantification of methane leakage",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sat, 27 Jun 2026 13:00:01 EDT",
-      "summary": "A research team led by Prof. Zhang Zhirong from the Hefei Institutes of Physical Science of the Chinese Academy of Sciences has developed a high-performance laser-based three-dimensional methane gas cloud imaging telemetry system that enabled visualization of microleakages, accurate location of leakage sources and quantitative retrieval of emission rates.",
-      "url": "https://phys.org/news/2026-06-laser-based-3d-imaging-enables.html"
-    },
-    {
-      "category": "Science",
-      "title": "New millisecond pulsar discovered with the Murchison Widefield Array",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sat, 27 Jun 2026 12:40:01 EDT",
-      "summary": "Using the Murchison Widefield Array (MWA), astronomers have discovered a new millisecond pulsar as part of the ongoing Southern-sky MWA Rapid Two-metre (SMART) survey. The discovery is reported in a research paper published June 17 on the arXiv preprint server. The work has also been accepted for publication in The Astrophysical Journal Letters.",
-      "url": "https://phys.org/news/2026-06-millisecond-pulsar-murchison-widefield-array.html"
+      "category": "AI",
+      "title": "Michigan spent $1.8B and only created 602 jobs",
+      "source": "Hacker News: Front Page",
+      "date": "Sat, 27 Jun 2026 21:44:57 +0000",
+      "summary": "Article URL: https://www.msn.com/en-us/money/general/michigan-spent-1-8-billion-and-only-created-602-jobs/ar-AA26Cusu\nComments URL: https://news.ycombinator.com/item?id=48702060\nPoints: 29\n# Comments: 6",
+      "url": "https://www.msn.com/en-us/money/general/michigan-spent-1-8-billion-and-only-created-602-jobs/ar-AA26Cusu"
     },
     {
       "category": "AI",
-      "title": "Doctors suspected man had brain cancer. He had worms",
+      "title": "GLP-1 drugs led to weight loss and reversed depression-like behavior in mice",
       "source": "Hacker News: Front Page",
-      "date": "Sat, 27 Jun 2026 16:31:58 +0000",
-      "summary": "Article URL: https://arstechnica.com/health/2026/06/doctors-suspected-man-had-brain-cancer-he-actually-had-worms/\nComments URL: https://news.ycombinator.com/item?id=48699617\nPoints: 7\n# Comments: 0",
-      "url": "https://arstechnica.com/health/2026/06/doctors-suspected-man-had-brain-cancer-he-actually-had-worms/"
+      "date": "Sat, 27 Jun 2026 21:34:06 +0000",
+      "summary": "Article URL: https://www.psychologytoday.com/au/blog/mood-by-microbe/202606/what-ozempic-does-to-the-gut-brain-axis\nComments URL: https://news.ycombinator.com/item?id=48701984\nPoints: 31\n# Comments: 15",
+      "url": "https://www.psychologytoday.com/au/blog/mood-by-microbe/202606/what-ozempic-does-to-the-gut-brain-axis"
     },
     {
       "category": "Science",
-      "title": "New workflow transforms nonfunctional protein scaffolds into active enzymes",
+      "title": "When the rapid adaptation of sales channels pays off",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Sat, 27 Jun 2026 12:00:01 EDT",
-      "summary": "Enzymes are regarded as the key to sustainable chemistry. Despite major advances in protein design, creating artificial enzymes from scratch has so far remained a grand challenge. A research team at the University of Bayreuth, in collaboration with scientists from the University of Ottawa, has now demonstrated how nonfunctional protein scaffolds can be transformed into highly active enzymes. The researchers report their findings in Nature Chemical Biology.",
-      "url": "https://phys.org/news/2026-06-workflow-nonfunctional-protein-scaffolds-enzymes.html"
+      "date": "Sat, 27 Jun 2026 17:30:01 EDT",
+      "summary": "Greater agility in the sales system—that is, a company's ability to rapidly adapt its sales channels to changing market conditions—is associated with higher operating profit, but only under certain conditions. That is the result of an observational, survey-based study involving 356 predominantly European companies carried out by retail and marketing experts from the University of Cologne, the École des hautes études commerciales Paris (HEC Paris), the University of Mannheim and the University of Manchester.",
+      "url": "https://phys.org/news/2026-06-rapid-sales-channels-pays.html"
+    },
+    {
+      "category": "AI",
+      "title": "'Careless People' author claims Meta surveilled her for 12mos to enforce silence",
+      "source": "Hacker News: Front Page",
+      "date": "Sat, 27 Jun 2026 21:14:19 +0000",
+      "summary": "Article URL: https://fortune.com/2026/06/26/meta-wynn-williams-surveillance-gag-order-lawsuit-2026/\nComments URL: https://news.ycombinator.com/item?id=48701822\nPoints: 111\n# Comments: 33",
+      "url": "https://fortune.com/2026/06/26/meta-wynn-williams-surveillance-gag-order-lawsuit-2026/"
+    },
+    {
+      "category": "Science",
+      "title": "Peptide alternative to antibiotics could combat antimicrobial resistance crisis",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sat, 27 Jun 2026 17:00:03 EDT",
+      "summary": "A University of Alberta research team has designed a promising alternative for treating antimicrobial-resistant infections, a pressing global health issue. In a paper recently published in Cell Biomaterials, the team describes preclinical testing results for its human-derived peptide treatment, D-GK17. The peptide is stable and nontoxic to humans and is synthesized to attack the surfaces of bacterial or fungal cells that create biofilms, a sticky matrix that is often impenetrable to antibiotic treatments.",
+      "url": "https://phys.org/news/2026-06-peptide-alternative-antibiotics-combat-antimicrobial.html"
+    },
+    {
+      "category": "Science",
+      "title": "Burned-home soils showed uneven lead, arsenic contamination after Los Angeles wildfires",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sat, 27 Jun 2026 16:00:05 EDT",
+      "summary": "A chemical analysis of residential soils and ash around California homes burned by the Eaton and Palisades wildfires in early 2025 revealed wide variation in contamination by potentially harmful elements, including lead, according to a study published in Environmental Science and Technology Letters on May 12. The researchers made their findings available to the Los Angeles Public Health Department over the course of the study.",
+      "url": "https://phys.org/news/2026-06-home-soils-uneven-arsenic-contamination.html"
+    },
+    {
+      "category": "Space",
+      "title": " 'Logan's Run' at 50: Remembering this disco-age sci-fi classic on its golden anniversary ",
+      "source": " Latest from Space.com ",
+      "date": "Sat, 27 Jun 2026 18:00:00 +0000",
+      "summary": "Check your life-clock crystal and make sure it’s not blinking red!",
+      "url": "https://www.space.com/entertainment/space-movies-shows/logans-run-at-50-remembering-this-disco-age-sci-fi-classic-on-its-golden-anniversary"
     },
     {
       "category": "Science",
@@ -51,22 +75,6 @@
       "url": "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-216-dark-matter-intelligence"
     },
     {
-      "category": "AI",
-      "title": "Zuckerberg's Increasingly Bizarre War on Whistleblowers",
-      "source": "Hacker News: Front Page",
-      "date": "Sat, 27 Jun 2026 14:38:05 +0000",
-      "summary": "Article URL: https://pluralistic.net/2026/06/27/zuckerstreisand-2/\nComments URL: https://news.ycombinator.com/item?id=48698684\nPoints: 201\n# Comments: 77",
-      "url": "https://pluralistic.net/2026/06/27/zuckerstreisand-2/"
-    },
-    {
-      "category": "AI",
-      "title": "Anonymous GitHub account mass-dropping undisclosed 0-days",
-      "source": "Hacker News: Front Page",
-      "date": "Sat, 27 Jun 2026 14:31:00 +0000",
-      "summary": "Article URL: https://github.com/bikini/exploitarium\nComments URL: https://news.ycombinator.com/item?id=48698617\nPoints: 139\n# Comments: 54",
-      "url": "https://github.com/bikini/exploitarium"
-    },
-    {
       "category": "Science",
       "title": " 'The Romans were probably never going to go away': In new 'Almost History' podcast, listen to how history might have played out if Carthage had defeated the Roman Republic ",
       "source": " Latest from Live Science ",
@@ -81,14 +89,6 @@
       "date": "Sat, 27 Jun 2026 14:00:00 +0000",
       "summary": "After the Challenger tragedy, nobody wanted to see a film about five kids on an adventure in space.",
       "url": "https://www.space.com/entertainment/space-movies-shows/spacecamp-at-40-a-wish-fulfillment-fantasy-brought-down-to-earth-by-nasas-real-life-disaster"
-    },
-    {
-      "category": "Space",
-      "title": " Blue Origin plans to fly New Glenn rocket again this year despite massive rocket explosion (video) ",
-      "source": " Latest from Space.com ",
-      "date": "Sat, 27 Jun 2026 13:00:00 +0000",
-      "summary": "After its rocket explosion, Blue Origin wants to complete repairs and put another New Glenn on the launch pad before the end of 2026, according to CEO Dave Limp. That's very ambitious.",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/blue-origin-working-around-the-clock-to-repair-damaged-launch-pad-after-new-glenn-rocket-explosion-video"
     },
     {
       "category": "AI",
@@ -113,6 +113,14 @@
       "date": "Sat, 27 Jun 2026 04:00:00 +0000",
       "summary": "A generation that minimizes certain doctrines raises a generation that no longer knows those doctrines.",
       "url": "https://www.thegospelcoalition.org/article/cost-avoiding-theology/"
+    },
+    {
+      "category": "Science",
+      "title": "Astronomers found two rare super puff planets lighter than cotton candy",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Fri, 26 Jun 2026 21:09:31 EDT",
+      "summary": "Two newly confirmed \"super-puff\" planets are so diffuse that they are less dense than cotton candy, despite being about the size of Jupiter. Their rare orbital relationship and enormous, lightweight atmospheres could provide valuable clues about how some of the strangest planets in the galaxy come to exist.",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260626124659.htm"
     },
     {
       "category": "AI",
@@ -201,14 +209,6 @@
       "date": "Fri, 26 Jun 2026 04:02:00 +0000",
       "summary": "In a culture that doesn’t seem to understand what makes masculinity different from femininity, ‘Authentic Masculinity’ offers a clear and compelling explanation.",
       "url": "https://www.thegospelcoalition.org/reviews/authentic-masculinity/"
-    },
-    {
-      "category": "Science",
-      "title": "Earth may have been seeding Venus with life for billions of years",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Thu, 25 Jun 2026 23:22:17 EDT",
-      "summary": "A new study suggests Earth may have been sending tiny hitchhikers to Venus for billions of years. Researchers found that asteroid impacts could launch microbes into space, where some might survive the journey and end up suspended in Venus' clouds. If future missions detect life there, there's a surprising chance it didn't originate on Venus at all—it may have come from Earth.",
-      "url": "https://www.sciencedaily.com/releases/2026/06/260625014805.htm"
     },
     {
       "category": "Science",
