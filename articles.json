@@ -1,50 +1,66 @@
 {
-  "lastUpdated": "2026-06-28T17:01:25.139Z",
+  "lastUpdated": "2026-06-28T22:57:54.876Z",
   "articleCount": 36,
   "articles": [
     {
-      "category": "Science",
-      "title": "Ancient algal defenses against UV may have helped plants conquer land",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sun, 28 Jun 2026 13:00:01 EDT",
-      "summary": "A new study sheds light on how the ancestors of modern land plants survived one of the most challenging aspects of life outside water: exposure to harmful ultraviolet (UV) radiation. By examining a microscopic alga closely related to the earliest land plants, researchers have uncovered a sophisticated and dynamic system for coping with sunburn—one that likely helped plants colonize land more than 500 million years ago. The results are published in Current Biology.",
-      "url": "https://phys.org/news/2026-06-ancient-algal-defenses-uv-conquer.html"
-    },
-    {
       "category": "AI",
-      "title": "I used Claude Code to get a second opinion on my MRI",
+      "title": "Knowledge Distillation of Black-Box Large Language Models",
       "source": "Hacker News: Front Page",
-      "date": "Sun, 28 Jun 2026 16:35:19 +0000",
-      "summary": "Article URL: https://antoine.fi/mri-analysis-using-claude-code-opus\nComments URL: https://news.ycombinator.com/item?id=48708941\nPoints: 19\n# Comments: 15",
-      "url": "https://antoine.fi/mri-analysis-using-claude-code-opus"
+      "date": "Sun, 28 Jun 2026 22:32:04 +0000",
+      "summary": "Article URL: https://arxiv.org/abs/2401.07013\nComments URL: https://news.ycombinator.com/item?id=48712420\nPoints: 4\n# Comments: 0",
+      "url": "https://arxiv.org/abs/2401.07013"
     },
     {
       "category": "Science",
-      "title": "Better unemployment welfare could curb rise of populism",
+      "title": "Bird flu is deadly for backyard chickens—and even cats. A vet expert explains",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Sun, 28 Jun 2026 12:30:02 EDT",
-      "summary": "The study, by researchers Chase Foster (King's College London) and Jeffry Frieden (Columbia University), analyzed 134 national elections in 16 countries between 1990 and 2021, alongside data from 11 waves of the European Social Survey. The research is published in the journal European Union Politics.",
-      "url": "https://phys.org/news/2026-06-unemployment-welfare-curb-populism.html"
+      "date": "Sun, 28 Jun 2026 18:30:01 EDT",
+      "summary": "The deadly H5N1 strain of bird flu has been found in seabirds in two Australian states.",
+      "url": "https://phys.org/news/2026-06-bird-flu-deadly-backyard-chickens.html"
+    },
+    {
+      "category": "Science",
+      "title": "The solar gravitational lens could map white dwarfs and black holes",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sun, 28 Jun 2026 17:00:21 EDT",
+      "summary": "It feels like every few months we get to report on another academic paper singing the praises of the Solar Gravitational Lens (SGL). Partly, this is due to Dr. Slava Turyshev's astounding productivity in pumping out academic articles, but partly because such a groundbreaking mission has lots of positive aspects—as well as challenges that need to be addressed. A new paper, posted to the arXiv preprint server from Dr. Turyshev, stresses an often overlooked feature of the SGL: how useful it can be for imaging things other than faraway exoplanets.",
+      "url": "https://phys.org/news/2026-06-solar-gravitational-lens-white-dwarfs.html"
+    },
+    {
+      "category": "Science",
+      "title": "Europe swelters as heat wave moves east",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sun, 28 Jun 2026 16:19:35 EDT",
+      "summary": "Europe's deadly heat wave pushed east Sunday, with hundreds of millions still sweltering across the continent despite fleeting relief from overnight storms, notably in France and Belgium.",
+      "url": "https://phys.org/news/2026-06-europe-swelters-east.html"
     },
     {
       "category": "AI",
-      "title": "Daisugi the Japanese Technique of Trees Out of Trees, Making Exact Straight Wood",
+      "title": "Show HN: Bash4LLM+ – A lightweight, dependency-free Bash wrapper for LLM APIs",
       "source": "Hacker News: Front Page",
-      "date": "Sun, 28 Jun 2026 16:28:50 +0000",
-      "summary": "Article URL: https://www.openculture.com/2020/10/daisugi.html\nComments URL: https://news.ycombinator.com/item?id=48708859\nPoints: 21\n# Comments: 6",
-      "url": "https://www.openculture.com/2020/10/daisugi.html"
+      "date": "Sun, 28 Jun 2026 19:43:10 +0000",
+      "summary": "Bash4LLM is a single-file Bash wrapper for interacting with LLMs from the terminal.  I created it because I wanted something simple that worked without installing Python, Node, or any other runtime.\nIt uses only Bash, curl, and jq. You can send prompts, start a small chat, process files line by line, stream output, and save session metadata in JSON format.\nI tried to make it safe and predictable: no use of the system /tmp, no use of eval. Groq is supported by default, and other providers can be added with dedicated Bash scripts in the extras/providers/ folder.\nExample:\n  echo \"explains the command: ls -l\" | ./bash4llm\n\n\nComments URL: https://news.ycombinator.com/item?id=48710827\nPoints: 18\n# Comments: 10",
+      "url": "https://github.com/kamaludu/bash4llm/"
     },
     {
       "category": "AI",
-      "title": "Tokenmaxxing is dead, long live Tokenmaxxing",
+      "title": "Show HN: NanoEuler – GPT-2 scale model in pure C/CUDA from scratch",
       "source": "Hacker News: Front Page",
-      "date": "Sun, 28 Jun 2026 16:24:10 +0000",
-      "summary": "Article URL: https://12gramsofcarbon.com/p/agentics-tech-things-tokenmaxxing\nComments URL: https://news.ycombinator.com/item?id=48708795\nPoints: 5\n# Comments: 1",
-      "url": "https://12gramsofcarbon.com/p/agentics-tech-things-tokenmaxxing"
+      "date": "Sun, 28 Jun 2026 19:38:14 +0000",
+      "summary": "Hi everyone,\nI started working on nanoeuler after the ban of anthropic's fable because my ambition and dream is to work in the AI   field in anthropic. The two interesting reasons that led me to create nanoeuler were (1) interfacing with llm does not mean understanding how they are composed and (2), working on llm with a very low-level layer to understand the correlation between parameters and data and growth of the model and how the GPU works and how some layers can be optimized.\nSo I started working on it with a research aspect by making nanoeuler grow more and more but doing one step after another starting from Shakespeare.txt and understanding what a text generation model understands at 23 million parameters. For example, nanoeuler at that number had understood that Name: started a line and wrote that line with sense.\nI wrote everything in CUDA because I wanted to not use any intermediary between the model in training and inference and what it had to do. Then the use of SFT and much more, even if in small ways, were really useful to understand the various step to make an llm like a chatbot.Any feedback, help, or suggestions are absolutely welcome!\nComments URL: https://news.ycombinator.com/item?id=48710778\nPoints: 27\n# Comments: 7",
+      "url": "https://github.com/JustVugg/nanoeuler"
+    },
+    {
+      "category": "AI",
+      "title": "Why did this journal retract two 1940s papers by Max Planck?",
+      "source": "Ars Technica - All content",
+      "date": "Sun, 28 Jun 2026 18:49:21 +0000",
+      "summary": "Clicking on the links now reveals blank pages and empty PDFs. \"Intellectually, it’s not acceptable.”",
+      "url": "https://arstechnica.com/science/2026/06/why-did-this-journal-retract-two-1940s-papers-by-max-planck/"
     },
     {
       "category": "Space",
-      "title": " SpaceX sends 24 Starlink satellites into Earth orbit on Falcon 9 launch from California ",
+      "title": " SpaceX sends 24 Starlink satellites into Earth orbit on Falcon 9 launch from California (video) ",
       "source": " Latest from Space.com ",
       "date": "Sun, 28 Jun 2026 16:21:56 +0000",
       "summary": "A SpaceX Falcon 9 rocket carrying 24 Starlink satellites lifted off from Vandenberg Space Force Base in California on Sunday, June 28, 2026.",
@@ -57,14 +73,6 @@
       "date": "Sun, 28 Jun 2026 16:15:00 +0000",
       "summary": "Around 40% of people around the world are avoiding the news. Here's why, according to a psychologist.",
       "url": "https://www.livescience.com/human-behavior/psychology/our-brains-arent-wired-to-handle-this-much-bad-news-but-looking-away-is-not-the-fix-expert-says"
-    },
-    {
-      "category": "Science",
-      "title": "Australia boosts shark-spotting drone coverage at Sydney beaches",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sun, 28 Jun 2026 11:40:04 EDT",
-      "summary": "Australia will expand shark-spotting drone coverage year-round at beaches across Sydney and beyond from July 1, authorities said Sunday, following a rise in attacks and sightings.",
-      "url": "https://phys.org/news/2026-06-australia-boosts-shark-drone-coverage.html"
     },
     {
       "category": "Space",
@@ -147,20 +155,28 @@
       "url": "https://arstechnica.com/ai/2026/06/south-korea-plans-to-train-entire-military-as-drone-warriors/"
     },
     {
-      "category": "AI",
-      "title": "Doctors suspected man had brain cancer. He actually had worms.",
-      "source": "Ars Technica - All content",
-      "date": "Fri, 26 Jun 2026 21:43:57 +0000",
-      "summary": "His doctors went looking for cancer, then they saw the worms' heads.",
-      "url": "https://arstechnica.com/health/2026/06/doctors-suspected-man-had-brain-cancer-he-actually-had-worms/"
+      "category": "Space",
+      "title": "NASA Announces Winners for 2026 Human Lander Challenge",
+      "source": "NASA",
+      "date": "Fri, 26 Jun 2026 19:44:48 +0000",
+      "summary": "NASA has announced the top student-developed solutions for environmental control and life support systems in future crewed lunar landers from participants in the 2026 Human Lander Challenge. The announcement marks the culmination of months of research by university teams working to advance technologies supporting the agency’s Artemis program that will return American astronauts to the […]",
+      "url": "https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/nasa-announces-winners-for-2026-human-lander-challenge/"
     },
     {
-      "category": "Theology",
-      "title": "To What Shall We Compare God’s Love?",
-      "source": "9Marks",
-      "date": "Fri, 26 Jun 2026 16:03:21 +0000",
-      "summary": "We should be careful about elevating certain analogies of God’s love over others.\nThe post To What Shall We Compare God’s Love? appeared first on 9Marks.",
-      "url": "https://www.9marks.org/review/to-what-shall-we-compare-gods-love/?utm_source=rss&utm_medium=rss&utm_campaign=to-what-shall-we-compare-gods-love"
+      "category": "Space",
+      "title": "NASA Tests New Refuel Device for Future In-Space Refueling Missions",
+      "source": "NASA",
+      "date": "Fri, 26 Jun 2026 18:44:07 +0000",
+      "summary": "For NASA’s next generation of deep space exploration missions, spacecraft may need to refuel in Earth orbit before pushing farther into the solar system. Similar to how a gas pump needs a nozzle to fit your fuel tank, future spacecraft could require a special device in order to fill up prior to departure, known as […]",
+      "url": "https://www.nasa.gov/directorates/stmd/tech-demo-missions-program/cryogenic-fluid-management-cfm/nasa-tests-new-refuel-device-for-future-in-space-refueling-missions/"
+    },
+    {
+      "category": "Space",
+      "title": "Partners, NASA Ready for June Launch of Swift Boost Mission",
+      "source": "NASA",
+      "date": "Fri, 26 Jun 2026 17:16:22 +0000",
+      "summary": "A mission to raise the orbit of NASA’s Swift observatory is poised for launch June 30.",
+      "url": "https://science.nasa.gov/missions/swift/swift-boost-mission/partners-nasa-ready-for-june-launch-of-swift-boost-mission/"
     },
     {
       "category": "Biblical Studies",
@@ -227,14 +243,6 @@
       "url": "https://allthingsliberty.com/2026/06/the-final-cruise-of-the-continental-navy-frigate-hague/"
     },
     {
-      "category": "Theology",
-      "title": "The Art of Dying a Slow Death Well: Long-Suffering in Pastoral Ministry",
-      "source": "9Marks",
-      "date": "Wed, 24 Jun 2026 19:09:10 +0000",
-      "summary": "In my experience, the temptation to bail out of ministry hasn’t come from one major trial that seemed impossible to overcome. Instead, it’s been the feeling of death by a thousand cuts that threatens my joy in this work.\nThe post The Art of Dying a Slow Death Well: Long-Suffering in Pastoral Ministry appeared first on 9Marks.",
-      "url": "https://www.9marks.org/article/the-art-of-dying-a-slow-death-well-long-suffering-in-pastoral-ministry/?utm_source=rss&utm_medium=rss&utm_campaign=the-art-of-dying-a-slow-death-well-long-suffering-in-pastoral-ministry"
-    },
-    {
       "category": "History",
       "title": "This Week on Dispatches: Brooke Barbier on Drinking and the American Revolution",
       "source": "Journal of the American Revolution",
@@ -257,14 +265,6 @@
       "date": "Mon, 22 Jun 2026 22:00:02 +0000",
       "summary": "In 1779, the war between Britain and its thirteen rebel colonies in America was in its fifth year without any prospect of resolution. Although the British had had several opportunities to defeat Gen. George Washingtons’ Continental Army, they were unable to deliver the decisive blow. Even worse, the American victory over Gen. John Burgoyne’s army […]\nThe post The Tobacco Raid of 1779 appeared first on Journal of the American Revolution.",
       "url": "https://allthingsliberty.com/2026/06/the-tobacco-raid-of-1779/"
-    },
-    {
-      "category": "Theology",
-      "title": "Pastor’s Job Description: Four Essential Responsibilities of a Shepherd",
-      "source": "9Marks",
-      "date": "Mon, 22 Jun 2026 17:15:45 +0000",
-      "summary": "Pastor, you have the privilege and responsibility to lead the flock, and the primary way you lead is through the public ministry of the Word.\nThe post Pastor’s Job Description: Four Essential Responsibilities of a Shepherd appeared first on 9Marks.",
-      "url": "https://www.9marks.org/article/pastors-job-description-four-essential-responsibilities-of-a-shepherd/?utm_source=rss&utm_medium=rss&utm_campaign=pastors-job-description-four-essential-responsibilities-of-a-shepherd"
     },
     {
       "category": "History",
