@@ -1,78 +1,134 @@
 {
-  "lastUpdated": "2026-06-29T13:59:52.256Z",
-  "articleCount": 36,
+  "lastUpdated": "2026-06-29T18:04:26.256Z",
+  "articleCount": 39,
   "articles": [
     {
       "category": "Science",
-      "title": "DNA databases unite to create a fully open resource for transposable element research",
+      "title": "Spiders benefit from seemingly monotonous forests",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Mon, 29 Jun 2026 09:40:07 EDT",
-      "summary": "For more than three decades, researchers studying genomes have relied on foundational resources such as Repbase and, more recently, Dfam to identify and classify transposable elements—the mobile DNA sequences that shape genome structure, evolution and function. Now, Dfam and Repbase are coming together under a single, fully open framework.",
-      "url": "https://phys.org/news/2026-06-dna-databases-fully-resource-transposable.html"
+      "date": "Mon, 29 Jun 2026 14:00:06 EDT",
+      "summary": "In ecology, the principle holds that the more diverse and heterogeneous a habitat is, the more different species it supports. To promote species diversity in forests, clearings are therefore created for nature conservation purposes, or deadwood is deliberately left in place. For many species, such as birds, bats and beetles, this structural diversity is indeed beneficial.",
+      "url": "https://phys.org/news/2026-06-spiders-benefit-seemingly-monotonous-forests.html"
     },
     {
       "category": "Science",
-      "title": "Nanopore technology identifies proteins molecule by molecule",
+      "title": "Heat is destroying Australia's underwater forests. Seaweed biobanks could help save them",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Mon, 29 Jun 2026 09:40:06 EDT",
-      "summary": "Proteins are responsible for most functions in the human body. However, their analysis, which is essential for understanding diseases, developing drugs and discovering new biomarkers, remains highly complex. Using a technology called \"nanopore detection,\" a team at the University of Geneva (UNIGE) has developed a rapid and efficient method for identifying proteins, molecule by molecule. These findings, published in the Journal of the American Chemical Society, pave the way for faster diagnostics.",
-      "url": "https://phys.org/news/2026-06-nanopore-technology-proteins-molecule.html"
+      "date": "Mon, 29 Jun 2026 14:00:01 EDT",
+      "summary": "Australia's Great Southern Reef is built not by coral but by seaweed. The seaweed forests on these rocky reefs stretch more than 8,000 kilometers (5,000 miles) around southern Australia.",
+      "url": "https://phys.org/news/2026-06-destroying-australia-underwater-forests-seaweed.html"
+    },
+    {
+      "category": "Space",
+      "title": " NASA to launch rescue mission June 30 to save Swift space telescope from burning up in Earth's atmosphere ",
+      "source": " Latest from Space.com ",
+      "date": "Mon, 29 Jun 2026 18:00:00 +0000",
+      "summary": "Northrop Grumman will launch a rocket from an airplane to save NASA's SWIFT space telescope from falling out of orbit.",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/nasa-to-launch-ambitious-mission-to-save-a-space-telescope-from-burning-up-in-earths-atmosphere"
+    },
+    {
+      "category": "Science",
+      "title": "Nova V612 Scuti's light curve becomes audio, revealing how stellar shocks evolved",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Mon, 29 Jun 2026 13:40:04 EDT",
+      "summary": "Researchers in the Department of Physics & Astronomy at Texas Tech University recently used audio to represent the spectacular explosion of a star in deep space while also delving into the data to better understand how the phenomenon unfolded.",
+      "url": "https://phys.org/news/2026-06-nova-v612-scuti-audio-revealing.html"
     },
     {
       "category": "AI",
-      "title": "Instagram is incorporating users' photos in ads for Mera Glasses",
+      "title": "Ornith-1.0: self-improving open-source models for agentic coding",
       "source": "Hacker News: Front Page",
-      "date": "Mon, 29 Jun 2026 13:26:35 +0000",
-      "summary": "Article URL: https://twitter.com/i/status/2071277885646868536\nComments URL: https://news.ycombinator.com/item?id=48719027\nPoints: 22\n# Comments: 0",
-      "url": "https://twitter.com/i/status/2071277885646868536"
+      "date": "Mon, 29 Jun 2026 17:16:17 +0000",
+      "summary": "Article URL: https://github.com/deepreinforce-ai/Ornith-1\nComments URL: https://news.ycombinator.com/item?id=48722052\nPoints: 3\n# Comments: 0",
+      "url": "https://github.com/deepreinforce-ai/Ornith-1"
     },
     {
       "category": "AI",
-      "title": "Comcast is splitting its media and broadband properties",
+      "title": "Qwen 3.6 27B is the sweet spot for local development",
+      "source": "Hacker News: Front Page",
+      "date": "Mon, 29 Jun 2026 17:05:16 +0000",
+      "summary": "Article URL: https://quesma.com/blog/qwen-36-is-awesome/\nComments URL: https://news.ycombinator.com/item?id=48721903\nPoints: 117\n# Comments: 68",
+      "url": "https://quesma.com/blog/qwen-36-is-awesome/"
+    },
+    {
+      "category": "Space",
+      "title": " This star's light has been crossing space since the American Revolution. Here's how to find it ",
+      "source": " Latest from Space.com ",
+      "date": "Mon, 29 Jun 2026 17:00:00 +0000",
+      "summary": "This star's light left its surface around the same time that the U.S. was founded.",
+      "url": "https://www.space.com/stargazing/this-stars-light-has-been-crossing-space-since-the-american-revolution-heres-how-to-find-it"
+    },
+    {
+      "category": "AI",
+      "title": "The Radiation Exposure Lie",
+      "source": "Hacker News: Front Page",
+      "date": "Mon, 29 Jun 2026 16:27:27 +0000",
+      "summary": "Article URL: https://worksinprogress.co/issue/how-to-lie-about-radiation/\nComments URL: https://news.ycombinator.com/item?id=48721308\nPoints: 6\n# Comments: 0",
+      "url": "https://worksinprogress.co/issue/how-to-lie-about-radiation/"
+    },
+    {
+      "category": "AI",
+      "title": "F1 in Austria: Starts off exciting, then goes the opposite way",
       "source": "Ars Technica - All content",
-      "date": "Mon, 29 Jun 2026 13:25:41 +0000",
-      "summary": "NBCUniversal and Sky will be spun off into separate companies.",
-      "url": "https://arstechnica.com/tech-policy/2026/06/comcast-is-splitting-its-media-and-broadband-properties/"
+      "date": "Mon, 29 Jun 2026 16:04:52 +0000",
+      "summary": "A heatwave, engine upgrades, plus power levels for the next two seasons.",
+      "url": "https://arstechnica.com/cars/2026/06/f1-in-austria-starts-off-exciting-then-does-the-opposite/"
     },
     {
       "category": "AI",
-      "title": "Building Principia for Windows XP",
-      "source": "Hacker News: Front Page",
-      "date": "Mon, 29 Jun 2026 13:23:19 +0000",
-      "summary": "Article URL: https://voxelmanip.se/2026/06/28/building-principia-for-windows-xp/\nComments URL: https://news.ycombinator.com/item?id=48718995\nPoints: 10\n# Comments: 1",
-      "url": "https://voxelmanip.se/2026/06/28/building-principia-for-windows-xp/"
+      "title": "Wildwood featurette lifts the veil on building its stop-motion world",
+      "source": "Ars Technica - All content",
+      "date": "Mon, 29 Jun 2026 15:43:50 +0000",
+      "summary": "Director Travis Knight is also the creative mind behind 2016's Oscar-nominated Kubo and the Two Strings.",
+      "url": "https://arstechnica.com/culture/2026/06/wildwood-featurette-lifts-the-veil-on-building-its-stop-motion-world/"
     },
     {
       "category": "AI",
-      "title": "Studio Canal Movies purchased on PlayStation Store removed without refund",
-      "source": "Hacker News: Front Page",
-      "date": "Mon, 29 Jun 2026 13:20:14 +0000",
-      "summary": "Article URL: https://www.playstation.com/en-gb/legal/psvideocontent/\nComments URL: https://news.ycombinator.com/item?id=48718967\nPoints: 7\n# Comments: 1",
-      "url": "https://www.playstation.com/en-gb/legal/psvideocontent/"
+      "title": "In a bold move, Rocket Lab acquires Iridium Communications",
+      "source": "Ars Technica - All content",
+      "date": "Mon, 29 Jun 2026 15:33:54 +0000",
+      "summary": "\"We believe this will be one of the most transformative deals in the space industry.\"",
+      "url": "https://arstechnica.com/space/2026/06/in-a-bold-move-rocket-lab-acquires-iridium-communications/"
+    },
+    {
+      "category": "Space",
+      "title": "NASA Astronaut Chris Williams Preps for Spacewalk",
+      "source": "NASA",
+      "date": "Mon, 29 Jun 2026 15:18:43 +0000",
+      "summary": "Flight engineer Sophie Adenot of ESA (European Space Agency) helps flight engineer Chris Williams of NASA as he tries on his spacesuit on June 23, 2026, testing its comfort and mobility as well as its communications and life support systems inside the International Space Station’s Quest airlock. Williams will go on a spacewalk on June […]",
+      "url": "https://www.nasa.gov/image-article/nasa-astronaut-chris-williams-preps-for-spacewalk/"
+    },
+    {
+      "category": "Space",
+      "title": "Mapping Earth’s Observations, featuring Betsy Ford",
+      "source": "NASA",
+      "date": "Mon, 29 Jun 2026 15:16:44 +0000",
+      "summary": "NASA’s Earth-observing satellites track an enormous range of phenomena: how aerosols move through the atmosphere, how moisture descends through soil, how land-cover shifts over decades. It’s some of the most consequential data NASA produces, informing science, policy, agriculture, and climate research around the world. As NASA’s Earth Science Division (ESD) manages this vast portfolio, they […]",
+      "url": "https://www.nasa.gov/general/mapping-earths-observations-featuring-betsy-ford/"
     },
     {
       "category": "Science",
-      "title": "Why nanoscale droplets don't coalesce and microscale droplets do",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Mon, 29 Jun 2026 09:00:04 EDT",
-      "summary": "Olive oil and water do not naturally mix. Water molecules are polar, having a net electric dipole moment due to the bend angle of about 104.5° between the two oxygen-hydrogen bonds. Olive oil is nonpolar due to its long hydrocarbon chains, which makes it hydrophobic and insoluble in water. Mixtures of the two are called emulsions, and emulsifiers exist that can stabilize them into a thicker temporary or permanent mixture. Cooks use such a technique to make vinaigrette, a salad dressing consisting primarily of oil and vinegar with emulsifiers such as mustard, honey or mayonnaise.",
-      "url": "https://phys.org/news/2026-06-nanoscale-droplets-dont-coalesce-microscale.html"
+      "title": " Chinese supercomputer leapfrogs best US machines to be ranked world’s fastest ",
+      "source": " Latest from Live Science ",
+      "date": "Mon, 29 Jun 2026 15:00:00 +0000",
+      "summary": "China's Line Shine supercomputer is the most powerful in the world and the first the country has hosted since 2017.",
+      "url": "https://www.livescience.com/technology/computing/chinese-supercomputer-line-shine-leapfrogs-best-us-machines-to-be-ranked-worlds-fastest"
     },
     {
       "category": "Space",
-      "title": " How NASA's 'America 250' celebrations are reaching from the sky to the moon ",
+      "title": " Light pollution may be erasing millions of dollars in value at US dark-sky parks ",
       "source": " Latest from Space.com ",
-      "date": "Mon, 29 Jun 2026 13:00:00 +0000",
-      "summary": "NASA has big plans for July 4 — the 250th anniversary of the ratification of the Declaration of Independence — which involves both aircraft and spacecraft.",
-      "url": "https://www.space.com/space-exploration/how-nasas-america-250-celebrations-are-reaching-from-the-sky-to-the-moon"
+      "date": "Mon, 29 Jun 2026 15:00:00 +0000",
+      "summary": "Researchers combined satellite data and visitor surveys at dark-sky parks to quantify the economic value of dark skies amid rising light pollution.",
+      "url": "https://www.space.com/astronomy/earth/light-pollution-may-be-erasing-millions-of-dollars-in-value-at-us-dark-sky-parks"
     },
     {
       "category": "Space",
-      "title": " The James Webb Space Telescope peered into one of the universe's oldest galaxy clusters, and scientists can't explain what they saw ",
-      "source": " Latest from Space.com ",
-      "date": "Mon, 29 Jun 2026 12:00:00 +0000",
-      "summary": "Using the James Webb Space Telescope, astronomers have spotted a massive and densely packed galaxy cluster at \"cosmic noon\" before such structures were thought to be possible.",
-      "url": "https://www.space.com/astronomy/galaxies/the-james-webb-space-telescope-peered-into-one-of-the-universes-oldest-galaxy-clusters-and-scientists-cant-explain-what-they-saw"
+      "title": "NextSTEP-3 A: Lunar Enabling Technology",
+      "source": "NASA",
+      "date": "Mon, 29 Jun 2026 14:56:54 +0000",
+      "summary": "Solicitation Number: 80GRC026R0008 May 19, 2026 – Synopsis issued June 29, 2026 – Draft BAA and Appendix A Issued | News Release   NASA issued a draft Broad Agency Announcement under NextSTEP‑3, Appendix A, on June 29, 2026, to advance concepts that accelerate the technological readiness of critical systems for lunar surface and cislunar architecture.  This solicitation seeks to close key technology gaps and […]",
+      "url": "https://www.nasa.gov/directorates/stmd/nextstep-3-a-lunar-enabling-technology/"
     },
     {
       "category": "Biblical Studies",
@@ -83,12 +139,12 @@
       "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-israel/did-king-ahab-worship-yahweh/"
     },
     {
-      "category": "AI",
-      "title": "NASA's X-59 \"frankenjet\" tests supersonic flight without the sonic boom",
-      "source": "Ars Technica - All content",
-      "date": "Mon, 29 Jun 2026 10:30:36 +0000",
-      "summary": "NASA’s quiet supersonic flight tests could eventually go on a national tour.",
-      "url": "https://arstechnica.com/gadgets/2026/06/nasas-x-59-frankenjet-tests-supersonic-flight-without-the-sonic-boom/"
+      "category": "Biblical Studies",
+      "title": "The Mediterranean’s Master Traders",
+      "source": "Biblical Archaeology Society",
+      "date": "Mon, 29 Jun 2026 10:00:12 +0000",
+      "summary": "The Phoenicians were the maritime traders par excellence during the Iron Age. By the late ninth century BCE, they had ventured from their home cities […]\nThe post The Mediterranean’s Master Traders appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/the-mediterraneans-master-traders/"
     },
     {
       "category": "Science",
@@ -99,19 +155,11 @@
       "url": "https://www.livescience.com/archaeology/sleep-and-death-cista-handle-a-2-400-year-old-sculpture-depicting-gods-carrying-away-zeus-son-during-the-trojan-war"
     },
     {
-      "category": "Space",
-      "title": " The Strawberry Moon rises tonight. Here's what to expect from June's full moon ",
-      "source": " Latest from Space.com ",
-      "date": "Mon, 29 Jun 2026 10:00:00 +0000",
-      "summary": "Don't miss June's full Strawberry Moon rise tonight (June 29), marking the first full moon of summer with a golden glow and an eye-catching moon illusion.",
-      "url": "https://www.space.com/stargazing/the-strawberry-moon-rises-june-29-here-is-what-to-expect-from-june-full-moon"
-    },
-    {
       "category": "Science",
-      "title": " Strawberry moon 2026: Tonight's full moon is the lowest, and one of the smallest 'micromoons' all year ",
+      "title": " Strawberry Moon 2026: Tonight's full moon is the lowest, and one of the smallest 'micromoons' all year ",
       "source": " Latest from Live Science ",
       "date": "Mon, 29 Jun 2026 09:30:00 +0000",
-      "summary": "June's full Strawberry moon will be the lowest-hanging and one of the smallest full moons of 2026. It will be at its fullest on Monday night, June 29.",
+      "summary": "June's full Strawberry Moon will be the lowest-hanging and one of the smallest full moons of 2026. It will be at its fullest on Monday night, June 29.",
       "url": "https://www.livescience.com/space/astronomy/strawberry-moon-2026-tonights-full-moon-is-the-lowest-and-one-of-the-smallest-micromoons-all-year"
     },
     {
@@ -148,14 +196,6 @@
     },
     {
       "category": "AI",
-      "title": "Why did this journal retract two 1940s papers by Max Planck?",
-      "source": "Ars Technica - All content",
-      "date": "Sun, 28 Jun 2026 18:49:21 +0000",
-      "summary": "Clicking on the links now reveals blank pages and empty PDFs. \"Intellectually, it’s not acceptable.”",
-      "url": "https://arstechnica.com/science/2026/06/why-did-this-journal-retract-two-1940s-papers-by-max-planck/"
-    },
-    {
-      "category": "AI",
       "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
       "source": "OpenAI News",
       "date": "Sun, 28 Jun 2026 17:00:00 GMT",
@@ -163,12 +203,12 @@
       "url": "https://openai.com/index/hp-frontier-partnership"
     },
     {
-      "category": "Science",
-      "title": " Our brains aren't wired to handle this much bad news. But 'looking away is not the fix,' expert says. ",
-      "source": " Latest from Live Science ",
-      "date": "Sun, 28 Jun 2026 16:15:00 +0000",
-      "summary": "Around 40% of people around the world are avoiding the news. Here's why, according to a psychologist.",
-      "url": "https://www.livescience.com/human-behavior/psychology/our-brains-arent-wired-to-handle-this-much-bad-news-but-looking-away-is-not-the-fix-expert-says"
+      "category": "Biblical Studies",
+      "title": "The Apostle Peter in Rome",
+      "source": "Biblical Archaeology Society",
+      "date": "Sun, 28 Jun 2026 11:00:09 +0000",
+      "summary": "Brown University Religious Studies professor Nicola Denzey Lewis answers frequently asked questions about the apostle Peter. Denzey Lewis appears in the CNN series Finding Jesus: Faith, Fact, Forgery, which aims to investigate artifacts that shed light on the world in which Jesus lived.\nThe post The Apostle Peter in Rome appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-rome/the-apostle-peter-in-rome/"
     },
     {
       "category": "Theology",
@@ -193,22 +233,6 @@
       "date": "Fri, 26 Jun 2026 16:03:21 +0000",
       "summary": "We should be careful about elevating certain analogies of God’s love over others.\nThe post To What Shall We Compare God’s Love? appeared first on 9Marks.",
       "url": "https://www.9marks.org/review/to-what-shall-we-compare-gods-love/?utm_source=rss&utm_medium=rss&utm_campaign=to-what-shall-we-compare-gods-love"
-    },
-    {
-      "category": "Biblical Studies",
-      "title": "“Time Capsule” Cave Discovered in Israel",
-      "source": "Biblical Archaeology Society",
-      "date": "Fri, 26 Jun 2026 10:45:04 +0000",
-      "summary": "Archaeologists have uncovered a prehistoric cave in Fureidis, Israel (south of Haifa), dating between 400,000 and 250,000 years ago. The archaeologists describe the cave as […]\nThe post “Time Capsule” Cave Discovered in Israel appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/time-capsule-cave-discovered-in-israel/"
-    },
-    {
-      "category": "Biblical Studies",
-      "title": "The Land of Lot",
-      "source": "Biblical Archaeology Society",
-      "date": "Fri, 26 Jun 2026 10:00:59 +0000",
-      "summary": "Most travelers to Jordan have visited the famous Nabatean city of Petra or the dune-swept, otherworldly landscape of Wadi Rum, both UNESCO World Heritage sites. […]\nThe post The Land of Lot appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/daily/biblical-sites-places/biblical-archaeology-sites/the-land-of-lot/"
     },
     {
       "category": "AI",
