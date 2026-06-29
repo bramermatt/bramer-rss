@@ -1,54 +1,150 @@
 {
-  "lastUpdated": "2026-06-28T22:57:54.876Z",
+  "lastUpdated": "2026-06-29T13:59:52.256Z",
   "articleCount": 36,
   "articles": [
     {
-      "category": "AI",
-      "title": "Knowledge Distillation of Black-Box Large Language Models",
-      "source": "Hacker News: Front Page",
-      "date": "Sun, 28 Jun 2026 22:32:04 +0000",
-      "summary": "Article URL: https://arxiv.org/abs/2401.07013\nComments URL: https://news.ycombinator.com/item?id=48712420\nPoints: 4\n# Comments: 0",
-      "url": "https://arxiv.org/abs/2401.07013"
+      "category": "Science",
+      "title": "DNA databases unite to create a fully open resource for transposable element research",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Mon, 29 Jun 2026 09:40:07 EDT",
+      "summary": "For more than three decades, researchers studying genomes have relied on foundational resources such as Repbase and, more recently, Dfam to identify and classify transposable elements—the mobile DNA sequences that shape genome structure, evolution and function. Now, Dfam and Repbase are coming together under a single, fully open framework.",
+      "url": "https://phys.org/news/2026-06-dna-databases-fully-resource-transposable.html"
     },
     {
       "category": "Science",
-      "title": "Bird flu is deadly for backyard chickens—and even cats. A vet expert explains",
+      "title": "Nanopore technology identifies proteins molecule by molecule",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Sun, 28 Jun 2026 18:30:01 EDT",
-      "summary": "The deadly H5N1 strain of bird flu has been found in seabirds in two Australian states.",
-      "url": "https://phys.org/news/2026-06-bird-flu-deadly-backyard-chickens.html"
-    },
-    {
-      "category": "Science",
-      "title": "The solar gravitational lens could map white dwarfs and black holes",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sun, 28 Jun 2026 17:00:21 EDT",
-      "summary": "It feels like every few months we get to report on another academic paper singing the praises of the Solar Gravitational Lens (SGL). Partly, this is due to Dr. Slava Turyshev's astounding productivity in pumping out academic articles, but partly because such a groundbreaking mission has lots of positive aspects—as well as challenges that need to be addressed. A new paper, posted to the arXiv preprint server from Dr. Turyshev, stresses an often overlooked feature of the SGL: how useful it can be for imaging things other than faraway exoplanets.",
-      "url": "https://phys.org/news/2026-06-solar-gravitational-lens-white-dwarfs.html"
-    },
-    {
-      "category": "Science",
-      "title": "Europe swelters as heat wave moves east",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sun, 28 Jun 2026 16:19:35 EDT",
-      "summary": "Europe's deadly heat wave pushed east Sunday, with hundreds of millions still sweltering across the continent despite fleeting relief from overnight storms, notably in France and Belgium.",
-      "url": "https://phys.org/news/2026-06-europe-swelters-east.html"
+      "date": "Mon, 29 Jun 2026 09:40:06 EDT",
+      "summary": "Proteins are responsible for most functions in the human body. However, their analysis, which is essential for understanding diseases, developing drugs and discovering new biomarkers, remains highly complex. Using a technology called \"nanopore detection,\" a team at the University of Geneva (UNIGE) has developed a rapid and efficient method for identifying proteins, molecule by molecule. These findings, published in the Journal of the American Chemical Society, pave the way for faster diagnostics.",
+      "url": "https://phys.org/news/2026-06-nanopore-technology-proteins-molecule.html"
     },
     {
       "category": "AI",
-      "title": "Show HN: Bash4LLM+ – A lightweight, dependency-free Bash wrapper for LLM APIs",
+      "title": "Instagram is incorporating users' photos in ads for Mera Glasses",
       "source": "Hacker News: Front Page",
-      "date": "Sun, 28 Jun 2026 19:43:10 +0000",
-      "summary": "Bash4LLM is a single-file Bash wrapper for interacting with LLMs from the terminal.  I created it because I wanted something simple that worked without installing Python, Node, or any other runtime.\nIt uses only Bash, curl, and jq. You can send prompts, start a small chat, process files line by line, stream output, and save session metadata in JSON format.\nI tried to make it safe and predictable: no use of the system /tmp, no use of eval. Groq is supported by default, and other providers can be added with dedicated Bash scripts in the extras/providers/ folder.\nExample:\n  echo \"explains the command: ls -l\" | ./bash4llm\n\n\nComments URL: https://news.ycombinator.com/item?id=48710827\nPoints: 18\n# Comments: 10",
-      "url": "https://github.com/kamaludu/bash4llm/"
+      "date": "Mon, 29 Jun 2026 13:26:35 +0000",
+      "summary": "Article URL: https://twitter.com/i/status/2071277885646868536\nComments URL: https://news.ycombinator.com/item?id=48719027\nPoints: 22\n# Comments: 0",
+      "url": "https://twitter.com/i/status/2071277885646868536"
     },
     {
       "category": "AI",
-      "title": "Show HN: NanoEuler – GPT-2 scale model in pure C/CUDA from scratch",
+      "title": "Comcast is splitting its media and broadband properties",
+      "source": "Ars Technica - All content",
+      "date": "Mon, 29 Jun 2026 13:25:41 +0000",
+      "summary": "NBCUniversal and Sky will be spun off into separate companies.",
+      "url": "https://arstechnica.com/tech-policy/2026/06/comcast-is-splitting-its-media-and-broadband-properties/"
+    },
+    {
+      "category": "AI",
+      "title": "Building Principia for Windows XP",
       "source": "Hacker News: Front Page",
-      "date": "Sun, 28 Jun 2026 19:38:14 +0000",
-      "summary": "Hi everyone,\nI started working on nanoeuler after the ban of anthropic's fable because my ambition and dream is to work in the AI   field in anthropic. The two interesting reasons that led me to create nanoeuler were (1) interfacing with llm does not mean understanding how they are composed and (2), working on llm with a very low-level layer to understand the correlation between parameters and data and growth of the model and how the GPU works and how some layers can be optimized.\nSo I started working on it with a research aspect by making nanoeuler grow more and more but doing one step after another starting from Shakespeare.txt and understanding what a text generation model understands at 23 million parameters. For example, nanoeuler at that number had understood that Name: started a line and wrote that line with sense.\nI wrote everything in CUDA because I wanted to not use any intermediary between the model in training and inference and what it had to do. Then the use of SFT and much more, even if in small ways, were really useful to understand the various step to make an llm like a chatbot.Any feedback, help, or suggestions are absolutely welcome!\nComments URL: https://news.ycombinator.com/item?id=48710778\nPoints: 27\n# Comments: 7",
-      "url": "https://github.com/JustVugg/nanoeuler"
+      "date": "Mon, 29 Jun 2026 13:23:19 +0000",
+      "summary": "Article URL: https://voxelmanip.se/2026/06/28/building-principia-for-windows-xp/\nComments URL: https://news.ycombinator.com/item?id=48718995\nPoints: 10\n# Comments: 1",
+      "url": "https://voxelmanip.se/2026/06/28/building-principia-for-windows-xp/"
+    },
+    {
+      "category": "AI",
+      "title": "Studio Canal Movies purchased on PlayStation Store removed without refund",
+      "source": "Hacker News: Front Page",
+      "date": "Mon, 29 Jun 2026 13:20:14 +0000",
+      "summary": "Article URL: https://www.playstation.com/en-gb/legal/psvideocontent/\nComments URL: https://news.ycombinator.com/item?id=48718967\nPoints: 7\n# Comments: 1",
+      "url": "https://www.playstation.com/en-gb/legal/psvideocontent/"
+    },
+    {
+      "category": "Science",
+      "title": "Why nanoscale droplets don't coalesce and microscale droplets do",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Mon, 29 Jun 2026 09:00:04 EDT",
+      "summary": "Olive oil and water do not naturally mix. Water molecules are polar, having a net electric dipole moment due to the bend angle of about 104.5° between the two oxygen-hydrogen bonds. Olive oil is nonpolar due to its long hydrocarbon chains, which makes it hydrophobic and insoluble in water. Mixtures of the two are called emulsions, and emulsifiers exist that can stabilize them into a thicker temporary or permanent mixture. Cooks use such a technique to make vinaigrette, a salad dressing consisting primarily of oil and vinegar with emulsifiers such as mustard, honey or mayonnaise.",
+      "url": "https://phys.org/news/2026-06-nanoscale-droplets-dont-coalesce-microscale.html"
+    },
+    {
+      "category": "Space",
+      "title": " How NASA's 'America 250' celebrations are reaching from the sky to the moon ",
+      "source": " Latest from Space.com ",
+      "date": "Mon, 29 Jun 2026 13:00:00 +0000",
+      "summary": "NASA has big plans for July 4 — the 250th anniversary of the ratification of the Declaration of Independence — which involves both aircraft and spacecraft.",
+      "url": "https://www.space.com/space-exploration/how-nasas-america-250-celebrations-are-reaching-from-the-sky-to-the-moon"
+    },
+    {
+      "category": "Space",
+      "title": " The James Webb Space Telescope peered into one of the universe's oldest galaxy clusters, and scientists can't explain what they saw ",
+      "source": " Latest from Space.com ",
+      "date": "Mon, 29 Jun 2026 12:00:00 +0000",
+      "summary": "Using the James Webb Space Telescope, astronomers have spotted a massive and densely packed galaxy cluster at \"cosmic noon\" before such structures were thought to be possible.",
+      "url": "https://www.space.com/astronomy/galaxies/the-james-webb-space-telescope-peered-into-one-of-the-universes-oldest-galaxy-clusters-and-scientists-cant-explain-what-they-saw"
+    },
+    {
+      "category": "Biblical Studies",
+      "title": "Did King Ahab Worship Yahweh?",
+      "source": "Biblical Archaeology Society",
+      "date": "Mon, 29 Jun 2026 10:45:33 +0000",
+      "summary": "How many temples existed in ancient Israel? Most people think the answer is simple: one. According to the Bible, Jerusalem (in the Southern Kingdom of […]\nThe post Did King Ahab Worship Yahweh? appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-israel/did-king-ahab-worship-yahweh/"
+    },
+    {
+      "category": "AI",
+      "title": "NASA's X-59 \"frankenjet\" tests supersonic flight without the sonic boom",
+      "source": "Ars Technica - All content",
+      "date": "Mon, 29 Jun 2026 10:30:36 +0000",
+      "summary": "NASA’s quiet supersonic flight tests could eventually go on a national tour.",
+      "url": "https://arstechnica.com/gadgets/2026/06/nasas-x-59-frankenjet-tests-supersonic-flight-without-the-sonic-boom/"
+    },
+    {
+      "category": "Science",
+      "title": " Sleep and Death cista handle: A 2,400-year-old sculpture depicting gods carrying away Zeus' son during the Trojan War ",
+      "source": " Latest from Live Science ",
+      "date": "Mon, 29 Jun 2026 10:00:00 +0000",
+      "summary": "A small, bronze sculpture depicting a death scene in the Trojan War once graced an Etruscan box.",
+      "url": "https://www.livescience.com/archaeology/sleep-and-death-cista-handle-a-2-400-year-old-sculpture-depicting-gods-carrying-away-zeus-son-during-the-trojan-war"
+    },
+    {
+      "category": "Space",
+      "title": " The Strawberry Moon rises tonight. Here's what to expect from June's full moon ",
+      "source": " Latest from Space.com ",
+      "date": "Mon, 29 Jun 2026 10:00:00 +0000",
+      "summary": "Don't miss June's full Strawberry Moon rise tonight (June 29), marking the first full moon of summer with a golden glow and an eye-catching moon illusion.",
+      "url": "https://www.space.com/stargazing/the-strawberry-moon-rises-june-29-here-is-what-to-expect-from-june-full-moon"
+    },
+    {
+      "category": "Science",
+      "title": " Strawberry moon 2026: Tonight's full moon is the lowest, and one of the smallest 'micromoons' all year ",
+      "source": " Latest from Live Science ",
+      "date": "Mon, 29 Jun 2026 09:30:00 +0000",
+      "summary": "June's full Strawberry moon will be the lowest-hanging and one of the smallest full moons of 2026. It will be at its fullest on Monday night, June 29.",
+      "url": "https://www.livescience.com/space/astronomy/strawberry-moon-2026-tonights-full-moon-is-the-lowest-and-one-of-the-smallest-micromoons-all-year"
+    },
+    {
+      "category": "AI",
+      "title": "Mapping Europe’s AI Workforce Opportunity",
+      "source": "OpenAI News",
+      "date": "Mon, 29 Jun 2026 07:00:00 GMT",
+      "summary": "A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow changes.",
+      "url": "https://openai.com/index/mapping-ai-jobs-transition-eu"
+    },
+    {
+      "category": "Theology",
+      "title": "What Do I Owe My Aging Parents?",
+      "source": "The Gospel Coalition",
+      "date": "Mon, 29 Jun 2026 04:02:00 +0000",
+      "summary": "‘Honoring Dependent Parents’ should become a standard resource for Christians learning to care for the parents who can no longer take care of themselves.",
+      "url": "https://www.thegospelcoalition.org/reviews/honoring-dependent-parents/"
+    },
+    {
+      "category": "Theology",
+      "title": "When You Wonder: ‘What Did I Do to Deserve This?’",
+      "source": "The Gospel Coalition",
+      "date": "Mon, 29 Jun 2026 04:00:00 +0000",
+      "summary": "Our sin isn’t the only cause of our suffering.",
+      "url": "https://www.thegospelcoalition.org/article/wonder-do-deserve-this/"
+    },
+    {
+      "category": "Science",
+      "title": "These tiny soil microbes could rescue crops from salty farmland",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Sun, 28 Jun 2026 21:21:44 EDT",
+      "summary": "Researchers have discovered that beneficial soil bacteria give plants an unexpected survival advantage in salty soils. Instead of helping plants keep salt out, the microbes stimulate the production of lignin, a natural compound that strengthens roots and makes plants more resilient. Greenhouse and field tests showed healthier plants and higher yields in salty conditions. The findings could lead to bio-based treatments that help farmers grow crops on land once considered too salty for agriculture.",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260626124703.htm"
     },
     {
       "category": "AI",
@@ -59,12 +155,12 @@
       "url": "https://arstechnica.com/science/2026/06/why-did-this-journal-retract-two-1940s-papers-by-max-planck/"
     },
     {
-      "category": "Space",
-      "title": " SpaceX sends 24 Starlink satellites into Earth orbit on Falcon 9 launch from California (video) ",
-      "source": " Latest from Space.com ",
-      "date": "Sun, 28 Jun 2026 16:21:56 +0000",
-      "summary": "A SpaceX Falcon 9 rocket carrying 24 Starlink satellites lifted off from Vandenberg Space Force Base in California on Sunday, June 28, 2026.",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-17-40-b1088-vsfb-ocisly"
+      "category": "AI",
+      "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
+      "source": "OpenAI News",
+      "date": "Sun, 28 Jun 2026 17:00:00 GMT",
+      "summary": "HP Inc. scales its OpenAI Frontier partnership to deploy AI across customer experiences, software development, and enterprise operations.",
+      "url": "https://openai.com/index/hp-frontier-partnership"
     },
     {
       "category": "Science",
@@ -75,68 +171,12 @@
       "url": "https://www.livescience.com/human-behavior/psychology/our-brains-arent-wired-to-handle-this-much-bad-news-but-looking-away-is-not-the-fix-expert-says"
     },
     {
-      "category": "Space",
-      "title": " 'Superman Returns' at 20: Is it a sequel? Is it a reboot? Two decades on, we're still not sure ",
-      "source": " Latest from Space.com ",
-      "date": "Sun, 28 Jun 2026 15:00:00 +0000",
-      "summary": "Brandon Routh's only outing in the cape is more than just a love letter to Richard Donner's classic original movie.",
-      "url": "https://www.space.com/entertainment/space-movies-shows/superman-returns-at-20-is-it-a-sequel-is-it-a-reboot-two-decades-on-were-still-not-sure"
-    },
-    {
-      "category": "Science",
-      "title": " 'The fate of Earth depends on a delicate balance': Our planet may survive the death of the sun after all, new models hint ",
-      "source": " Latest from Live Science ",
-      "date": "Sun, 28 Jun 2026 14:00:00 +0000",
-      "summary": "When the sun dies, it will become hundreds of times its current size and engulf the innermost planets. Earth may escape this infernal fate, according to state-of-the-art stellar evolution models.",
-      "url": "https://www.livescience.com/space/the-sun/the-fate-of-earth-depends-on-a-delicate-balance-our-planet-may-survive-the-death-of-the-sun-after-all-new-models-hint"
-    },
-    {
-      "category": "Space",
-      "title": " Japanese probe set for super-close flyby on July 5: 'We're going to discover another beast to put in the zoo of asteroids' ",
-      "source": " Latest from Space.com ",
-      "date": "Sun, 28 Jun 2026 14:00:00 +0000",
-      "summary": "Having already delivered samples of the asteroid Ryugu to Earth, Hayabusa2 will soon attempt one of the closest, riskiest space-rock flybys in spaceflight history.",
-      "url": "https://www.space.com/astronomy/asteroids/japanese-probe-set-for-super-close-flyby-on-july-5-were-going-to-discover-another-beast-to-put-in-the-zoo-of-asteroids"
-    },
-    {
-      "category": "Science",
-      "title": " Computer scientists are rushing to tame tame AI's voracious appetite for energy ",
-      "source": " Latest from Live Science ",
-      "date": "Sun, 28 Jun 2026 13:10:00 +0000",
-      "summary": "Scientists are exploring new algorithms, hardware and computing methods to lower AI's power demands. Strategic siting of datacenters and other steps to increase green energy use are also key.",
-      "url": "https://www.livescience.com/technology/artificial-intelligence/computer-scientists-are-rushing-to-tame-tame-ais-voracious-appetite-for-energy"
-    },
-    {
-      "category": "Science",
-      "title": "Hawaii is turning ocean plastic and fishing nets into roads",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Sun, 28 Jun 2026 02:53:54 EDT",
-      "summary": "Hawaii researchers are giving old fishing nets and recycled plastic a second life by mixing them into asphalt roads. Early tests found these roads didn't release more plastic particles than standard pavement, with tire wear overwhelming any plastic signal from the recycled material. If future studies confirm the roads are durable, the technology could help tackle both marine pollution and overflowing landfills.",
-      "url": "https://www.sciencedaily.com/releases/2026/06/260625014830.htm"
-    },
-    {
       "category": "Theology",
       "title": "Lessons from the New Testament’s Most Overlooked Missionary",
       "source": "The Gospel Coalition",
       "date": "Sun, 28 Jun 2026 04:00:00 +0000",
       "summary": "Like the fictitious Forrest Gump, Barnabas stands in the background of many major biblical events. He’s playing an essential role.",
       "url": "https://www.thegospelcoalition.org/article/most-overlooked-missionary/"
-    },
-    {
-      "category": "AI",
-      "title": "Apple and Audi alumni have made a luxe EV based on the moon buggy",
-      "source": "Ars Technica - All content",
-      "date": "Sat, 27 Jun 2026 11:07:05 +0000",
-      "summary": "The Amble One is a street-legal $25,000 electric buggy designed for luxury resorts.",
-      "url": "https://arstechnica.com/cars/2026/06/apple-and-audi-alumni-have-made-a-luxe-ev-based-on-the-moon-buggy/"
-    },
-    {
-      "category": "Theology",
-      "title": "The Hidden Cost of Avoiding Theology",
-      "source": "The Gospel Coalition",
-      "date": "Sat, 27 Jun 2026 04:00:00 +0000",
-      "summary": "A generation that minimizes certain doctrines raises a generation that no longer knows those doctrines.",
-      "url": "https://www.thegospelcoalition.org/article/cost-avoiding-theology/"
     },
     {
       "category": "Science",
@@ -147,36 +187,12 @@
       "url": "https://www.sciencedaily.com/releases/2026/06/260626124659.htm"
     },
     {
-      "category": "AI",
-      "title": "South Korea plans to train entire military as \"drone warriors\"",
-      "source": "Ars Technica - All content",
-      "date": "Fri, 26 Jun 2026 22:19:05 +0000",
-      "summary": "Half-million strong military will train on drones as “universal combat tool.”",
-      "url": "https://arstechnica.com/ai/2026/06/south-korea-plans-to-train-entire-military-as-drone-warriors/"
-    },
-    {
-      "category": "Space",
-      "title": "NASA Announces Winners for 2026 Human Lander Challenge",
-      "source": "NASA",
-      "date": "Fri, 26 Jun 2026 19:44:48 +0000",
-      "summary": "NASA has announced the top student-developed solutions for environmental control and life support systems in future crewed lunar landers from participants in the 2026 Human Lander Challenge. The announcement marks the culmination of months of research by university teams working to advance technologies supporting the agency’s Artemis program that will return American astronauts to the […]",
-      "url": "https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/nasa-announces-winners-for-2026-human-lander-challenge/"
-    },
-    {
-      "category": "Space",
-      "title": "NASA Tests New Refuel Device for Future In-Space Refueling Missions",
-      "source": "NASA",
-      "date": "Fri, 26 Jun 2026 18:44:07 +0000",
-      "summary": "For NASA’s next generation of deep space exploration missions, spacecraft may need to refuel in Earth orbit before pushing farther into the solar system. Similar to how a gas pump needs a nozzle to fit your fuel tank, future spacecraft could require a special device in order to fill up prior to departure, known as […]",
-      "url": "https://www.nasa.gov/directorates/stmd/tech-demo-missions-program/cryogenic-fluid-management-cfm/nasa-tests-new-refuel-device-for-future-in-space-refueling-missions/"
-    },
-    {
-      "category": "Space",
-      "title": "Partners, NASA Ready for June Launch of Swift Boost Mission",
-      "source": "NASA",
-      "date": "Fri, 26 Jun 2026 17:16:22 +0000",
-      "summary": "A mission to raise the orbit of NASA’s Swift observatory is poised for launch June 30.",
-      "url": "https://science.nasa.gov/missions/swift/swift-boost-mission/partners-nasa-ready-for-june-launch-of-swift-boost-mission/"
+      "category": "Theology",
+      "title": "To What Shall We Compare God’s Love?",
+      "source": "9Marks",
+      "date": "Fri, 26 Jun 2026 16:03:21 +0000",
+      "summary": "We should be careful about elevating certain analogies of God’s love over others.\nThe post To What Shall We Compare God’s Love? appeared first on 9Marks.",
+      "url": "https://www.9marks.org/review/to-what-shall-we-compare-gods-love/?utm_source=rss&utm_medium=rss&utm_campaign=to-what-shall-we-compare-gods-love"
     },
     {
       "category": "Biblical Studies",
@@ -203,36 +219,12 @@
       "url": "https://openai.com/index/previewing-gpt-5-6-sol"
     },
     {
-      "category": "Theology",
-      "title": "How Does Jesus Fulfill the Law? (TGC Classic)",
-      "source": "The Gospel Coalition",
-      "date": "Fri, 26 Jun 2026 04:05:00 +0000",
-      "summary": "Listen to Don Carson explain how Jesus fulfills the law, according to the New Testament.",
-      "url": "https://www.thegospelcoalition.org/podcasts/tgc-podcast/how-jesus-fulfill-law/"
-    },
-    {
       "category": "Science",
       "title": "Einstein Probe may have caught a black hole tearing apart a white dwarf for the first time",
       "source": "All Top News -- ScienceDaily",
       "date": "Thu, 25 Jun 2026 21:05:03 EDT",
       "summary": "Astronomers may have witnessed one of the rarest and most dramatic cosmic events ever seen: a long-sought intermediate-mass black hole ripping apart a dense white dwarf star and devouring it. The Einstein Probe space telescope caught the explosion in its earliest moments, revealing an unusual sequence of intense X-ray flashes unlike anything seen in a typical gamma-ray burst.",
       "url": "https://www.sciencedaily.com/releases/2026/06/260625060222.htm"
-    },
-    {
-      "category": "Biblical Studies",
-      "title": "How December 25 Became Christmas",
-      "source": "Biblical Archaeology Society",
-      "date": "Thu, 25 Jun 2026 11:00:18 +0000",
-      "summary": "Theological scholar Andrew McGowan examines how December 25 came to be associated with the birthday of Jesus and became Christmas, a holiday celebrated by Christians around the world.\nThe post How December 25 Became Christmas appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/daily/people-cultures-in-the-bible/jesus-historical-jesus/how-december-25-became-christmas/"
-    },
-    {
-      "category": "AI",
-      "title": "How agents are transforming work",
-      "source": "OpenAI News",
-      "date": "Thu, 25 Jun 2026 02:00:00 GMT",
-      "summary": "A new OpenAI research paper shows how AI agents are transforming work, enabling longer, more complex tasks and expanding productivity across roles.",
-      "url": "https://openai.com/index/how-agents-are-transforming-work"
     },
     {
       "category": "History",
@@ -243,6 +235,14 @@
       "url": "https://allthingsliberty.com/2026/06/the-final-cruise-of-the-continental-navy-frigate-hague/"
     },
     {
+      "category": "Theology",
+      "title": "The Art of Dying a Slow Death Well: Long-Suffering in Pastoral Ministry",
+      "source": "9Marks",
+      "date": "Wed, 24 Jun 2026 19:09:10 +0000",
+      "summary": "In my experience, the temptation to bail out of ministry hasn’t come from one major trial that seemed impossible to overcome. Instead, it’s been the feeling of death by a thousand cuts that threatens my joy in this work.\nThe post The Art of Dying a Slow Death Well: Long-Suffering in Pastoral Ministry appeared first on 9Marks.",
+      "url": "https://www.9marks.org/article/the-art-of-dying-a-slow-death-well-long-suffering-in-pastoral-ministry/?utm_source=rss&utm_medium=rss&utm_campaign=the-art-of-dying-a-slow-death-well-long-suffering-in-pastoral-ministry"
+    },
+    {
       "category": "History",
       "title": "This Week on Dispatches: Brooke Barbier on Drinking and the American Revolution",
       "source": "Journal of the American Revolution",
@@ -251,20 +251,20 @@
       "url": "https://allthingsliberty.com/2026/06/this-week-on-dispatches-brooke-barbier-on-drinking-and-the-american-revolution/"
     },
     {
-      "category": "AI",
-      "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
-      "source": "OpenAI News",
-      "date": "Wed, 24 Jun 2026 06:00:00 GMT",
-      "summary": "OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems.",
-      "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip"
-    },
-    {
       "category": "History",
       "title": "The Tobacco Raid of 1779",
       "source": "Journal of the American Revolution",
       "date": "Mon, 22 Jun 2026 22:00:02 +0000",
       "summary": "In 1779, the war between Britain and its thirteen rebel colonies in America was in its fifth year without any prospect of resolution. Although the British had had several opportunities to defeat Gen. George Washingtons’ Continental Army, they were unable to deliver the decisive blow. Even worse, the American victory over Gen. John Burgoyne’s army […]\nThe post The Tobacco Raid of 1779 appeared first on Journal of the American Revolution.",
       "url": "https://allthingsliberty.com/2026/06/the-tobacco-raid-of-1779/"
+    },
+    {
+      "category": "Theology",
+      "title": "Pastor’s Job Description: Four Essential Responsibilities of a Shepherd",
+      "source": "9Marks",
+      "date": "Mon, 22 Jun 2026 17:15:45 +0000",
+      "summary": "Pastor, you have the privilege and responsibility to lead the flock, and the primary way you lead is through the public ministry of the Word.\nThe post Pastor’s Job Description: Four Essential Responsibilities of a Shepherd appeared first on 9Marks.",
+      "url": "https://www.9marks.org/article/pastors-job-description-four-essential-responsibilities-of-a-shepherd/?utm_source=rss&utm_medium=rss&utm_campaign=pastors-job-description-four-essential-responsibilities-of-a-shepherd"
     },
     {
       "category": "History",
