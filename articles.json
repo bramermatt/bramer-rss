@@ -1,94 +1,142 @@
 {
-  "lastUpdated": "2026-06-29T18:04:26.256Z",
+  "lastUpdated": "2026-06-29T22:49:42.072Z",
   "articleCount": 39,
   "articles": [
     {
       "category": "Science",
-      "title": "Spiders benefit from seemingly monotonous forests",
+      "title": "Breakthrough for aquaculture: Oral vaccine protects fish from fatal nervous necrosis virus",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Mon, 29 Jun 2026 14:00:06 EDT",
-      "summary": "In ecology, the principle holds that the more diverse and heterogeneous a habitat is, the more different species it supports. To promote species diversity in forests, clearings are therefore created for nature conservation purposes, or deadwood is deliberately left in place. For many species, such as birds, bats and beetles, this structural diversity is indeed beneficial.",
-      "url": "https://phys.org/news/2026-06-spiders-benefit-seemingly-monotonous-forests.html"
+      "date": "Mon, 29 Jun 2026 18:40:05 EDT",
+      "summary": "Disease management is a significant aspect of aquaculture, a vital industry and major food source. One of the most serious threats is a disease caused by the nervous necrosis virus (NNV), which can wipe out large populations of farmed fish and cause major economic losses in the aquaculture industry.",
+      "url": "https://phys.org/news/2026-06-breakthrough-aquaculture-oral-vaccine-fish.html"
     },
     {
       "category": "Science",
-      "title": "Heat is destroying Australia's underwater forests. Seaweed biobanks could help save them",
+      "title": "Graphene can hold multiple states of superconductivity, a new study finds",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Mon, 29 Jun 2026 14:00:01 EDT",
-      "summary": "Australia's Great Southern Reef is built not by coral but by seaweed. The seaweed forests on these rocky reefs stretch more than 8,000 kilometers (5,000 miles) around southern Australia.",
-      "url": "https://phys.org/news/2026-06-destroying-australia-underwater-forests-seaweed.html"
-    },
-    {
-      "category": "Space",
-      "title": " NASA to launch rescue mission June 30 to save Swift space telescope from burning up in Earth's atmosphere ",
-      "source": " Latest from Space.com ",
-      "date": "Mon, 29 Jun 2026 18:00:00 +0000",
-      "summary": "Northrop Grumman will launch a rocket from an airplane to save NASA's SWIFT space telescope from falling out of orbit.",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/nasa-to-launch-ambitious-mission-to-save-a-space-telescope-from-burning-up-in-earths-atmosphere"
+      "date": "Mon, 29 Jun 2026 18:40:01 EDT",
+      "summary": "The ordinary graphite in pencil lead is proving to be surprisingly multifaceted at the microscale. In a study published in the journal Nature, MIT researchers report that a certain microscopic structure found in natural graphite can host multiple superconducting states. Superconductivity is an electronic state of matter in which electrons pair up and glide through a material with zero resistance.",
+      "url": "https://phys.org/news/2026-06-graphene-multiple-states-superconductivity.html"
     },
     {
       "category": "Science",
-      "title": "Nova V612 Scuti's light curve becomes audio, revealing how stellar shocks evolved",
+      "title": "Faster tests reveal six fluoropolymer microplastics, including four rarely tracked types",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Mon, 29 Jun 2026 13:40:04 EDT",
-      "summary": "Researchers in the Department of Physics & Astronomy at Texas Tech University recently used audio to represent the spectacular explosion of a star in deep space while also delving into the data to better understand how the phenomenon unfolded.",
-      "url": "https://phys.org/news/2026-06-nova-v612-scuti-audio-revealing.html"
-    },
-    {
-      "category": "AI",
-      "title": "Ornith-1.0: self-improving open-source models for agentic coding",
-      "source": "Hacker News: Front Page",
-      "date": "Mon, 29 Jun 2026 17:16:17 +0000",
-      "summary": "Article URL: https://github.com/deepreinforce-ai/Ornith-1\nComments URL: https://news.ycombinator.com/item?id=48722052\nPoints: 3\n# Comments: 0",
-      "url": "https://github.com/deepreinforce-ai/Ornith-1"
-    },
-    {
-      "category": "AI",
-      "title": "Qwen 3.6 27B is the sweet spot for local development",
-      "source": "Hacker News: Front Page",
-      "date": "Mon, 29 Jun 2026 17:05:16 +0000",
-      "summary": "Article URL: https://quesma.com/blog/qwen-36-is-awesome/\nComments URL: https://news.ycombinator.com/item?id=48721903\nPoints: 117\n# Comments: 68",
-      "url": "https://quesma.com/blog/qwen-36-is-awesome/"
+      "date": "Mon, 29 Jun 2026 18:30:01 EDT",
+      "summary": "Scientists around the world have been searching food, water and other environmental media for microplastics and for per- and polyfluoroalkyl substances (PFAS). But microfluoroplastics (MFPs), the intersection between these two fields, have received much less attention.",
+      "url": "https://phys.org/news/2026-06-faster-reveal-fluoropolymer-microplastics-rarely.html"
     },
     {
       "category": "Space",
-      "title": " This star's light has been crossing space since the American Revolution. Here's how to find it ",
+      "title": " 'The start of a new era': Rocket Lab buying satellite-communications company Iridium for $8 billion ",
       "source": " Latest from Space.com ",
-      "date": "Mon, 29 Jun 2026 17:00:00 +0000",
-      "summary": "This star's light left its surface around the same time that the U.S. was founded.",
-      "url": "https://www.space.com/stargazing/this-stars-light-has-been-crossing-space-since-the-american-revolution-heres-how-to-find-it"
+      "date": "Mon, 29 Jun 2026 22:00:00 +0000",
+      "summary": "California-based launch company Rocket Lab has inked a landmark $8 billion deal to acquire long-time satellite communications giant Iridium.",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/the-start-of-a-new-era-rocket-lab-buying-satellite-communications-company-iridium-for-usd8-billion"
     },
     {
       "category": "AI",
-      "title": "The Radiation Exposure Lie",
+      "title": "Is It Out Yet?",
       "source": "Hacker News: Front Page",
-      "date": "Mon, 29 Jun 2026 16:27:27 +0000",
-      "summary": "Article URL: https://worksinprogress.co/issue/how-to-lie-about-radiation/\nComments URL: https://news.ycombinator.com/item?id=48721308\nPoints: 6\n# Comments: 0",
-      "url": "https://worksinprogress.co/issue/how-to-lie-about-radiation/"
+      "date": "Mon, 29 Jun 2026 21:18:46 +0000",
+      "summary": "Article URL: https://outyet.ai\nComments URL: https://news.ycombinator.com/item?id=48725397\nPoints: 16\n# Comments: 6",
+      "url": "https://outyet.ai"
+    },
+    {
+      "category": "Science",
+      "title": " 2,000-year-old scrolls buried by Mount Vesuvius eruption finally deciphered with help from AI ",
+      "source": " Latest from Live Science ",
+      "date": "Mon, 29 Jun 2026 21:14:58 +0000",
+      "summary": "Experts have unraveled substantial new text from two carbonized Herculaneum scrolls, including what may be a previously unknown work by a Stoic philosopher.",
+      "url": "https://www.livescience.com/archaeology/2-000-year-old-scrolls-buried-by-mount-vesuvius-eruption-finally-deciphered-with-help-from-ai"
     },
     {
       "category": "AI",
-      "title": "F1 in Austria: Starts off exciting, then goes the opposite way",
+      "title": "South Korea to spend $1T on more memory chip production and humanoid robots",
       "source": "Ars Technica - All content",
-      "date": "Mon, 29 Jun 2026 16:04:52 +0000",
-      "summary": "A heatwave, engine upgrades, plus power levels for the next two seasons.",
-      "url": "https://arstechnica.com/cars/2026/06/f1-in-austria-starts-off-exciting-then-does-the-opposite/"
+      "date": "Mon, 29 Jun 2026 21:09:43 +0000",
+      "summary": "South Korea targets physical AI lead and commercial humanoid robots by 2028.",
+      "url": "https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/"
+    },
+    {
+      "category": "Space",
+      "title": " It's been 25 years since'A.I. Artificial Intelligence', and we think this was Spielberg at the top of his sci-fi game ",
+      "source": " Latest from Space.com ",
+      "date": "Mon, 29 Jun 2026 21:00:00 +0000",
+      "summary": "Two cinematic geniuses united to create one of Hollywood’s most arresting android movies",
+      "url": "https://www.space.com/entertainment/space-movies-shows/its-been-25-years-since-a-i-artificial-intelligence-and-we-think-this-was-spielberg-at-the-top-of-his-sci-fi-game"
+    },
+    {
+      "category": "Space",
+      "title": "NASA, SBA Announce New Initiative to Scale American Space Economy ",
+      "source": "NASA",
+      "date": "Mon, 29 Jun 2026 20:39:57 +0000",
+      "summary": "NASA and the U.S. Small Business Administration (SBA) launched the SBIC-NASA Initiative on Monday to increase investment in American manufacturers of industrial components and providers of technologies critical to space exploration to support a sustained presence on the Moon and Mars.  Under the Memorandum of Agreement, NASA will identify technology priorities and connect businesses to funding opportunities […]",
+      "url": "https://www.nasa.gov/news-release/nasa-sba-announce-new-initiative-to-scale-american-space-economy/"
+    },
+    {
+      "category": "Space",
+      "title": "NASA’s Newest Wind Tunnel Builds on Legacy of Innovation",
+      "source": "NASA",
+      "date": "Mon, 29 Jun 2026 20:38:23 +0000",
+      "summary": "For more than 100 years, wind tunnels at NASA’s Langley Research Center in Hampton, Virginia, have helped shape the future of flight.   Now, two of NASA’s longest-serving facilities — the 12-Foot Low-Speed Tunnel and the 20-Foot Vertical Spin Tunnel — will pass the torch to the Flight Dynamics Research Facility (FDRF), the first major NASA wind tunnel built in more than 40 years.   “The FDRF […]",
+      "url": "https://www.nasa.gov/centers-and-facilities/langley/nasas-newest-wind-tunnel-builds-on-legacy-of-innovation/"
     },
     {
       "category": "AI",
-      "title": "Wildwood featurette lifts the veil on building its stop-motion world",
+      "title": "US renewable boom passes key milestone in April",
       "source": "Ars Technica - All content",
-      "date": "Mon, 29 Jun 2026 15:43:50 +0000",
-      "summary": "Director Travis Knight is also the creative mind behind 2016's Oscar-nominated Kubo and the Two Strings.",
-      "url": "https://arstechnica.com/culture/2026/06/wildwood-featurette-lifts-the-veil-on-building-its-stop-motion-world/"
+      "date": "Mon, 29 Jun 2026 20:12:30 +0000",
+      "summary": "Small-scale solar helped renewables nearly triple coal generation on the US grid.",
+      "url": "https://arstechnica.com/science/2026/06/solar-outproduced-coal-in-april-but-not-on-the-grid/"
     },
     {
       "category": "AI",
-      "title": "In a bold move, Rocket Lab acquires Iridium Communications",
+      "title": "Supreme Court ruling guts government’s use of geofence warrants",
       "source": "Ars Technica - All content",
-      "date": "Mon, 29 Jun 2026 15:33:54 +0000",
-      "summary": "\"We believe this will be one of the most transformative deals in the space industry.\"",
-      "url": "https://arstechnica.com/space/2026/06/in-a-bold-move-rocket-lab-acquires-iridium-communications/"
+      "date": "Mon, 29 Jun 2026 20:04:04 +0000",
+      "summary": "SCOTUS falls short of deeming geofence warrants unconstitutional, though.",
+      "url": "https://arstechnica.com/tech-policy/2026/06/supreme-court-ruling-guts-governments-use-of-geofence-warrants/"
+    },
+    {
+      "category": "Space",
+      "title": " Watch 2 NASA astronauts fix ISS' huge robotic arm during June 30 spacewalk ",
+      "source": " Latest from Space.com ",
+      "date": "Mon, 29 Jun 2026 20:00:00 +0000",
+      "summary": "NASA astronauts Chris Williams and Jessica Meir will fix the International Space Station's Canadarm2 during a spacewalk on Tuesday (June 30), and you can watch the action live.",
+      "url": "https://www.space.com/space-exploration/international-space-station/watch-2-nasa-astronauts-fix-iss-huge-robotic-arm-during-june-30-spacewalk"
+    },
+    {
+      "category": "AI",
+      "title": ".self: A new top-level domain designed to support self-hosting",
+      "source": "Hacker News: Front Page",
+      "date": "Mon, 29 Jun 2026 19:49:28 +0000",
+      "summary": "Article URL: https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/\nComments URL: https://news.ycombinator.com/item?id=48724230\nPoints: 178\n# Comments: 106",
+      "url": "https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/"
+    },
+    {
+      "category": "AI",
+      "title": "JumpServer: Open-Source Privileged Access Management",
+      "source": "Hacker News: Front Page",
+      "date": "Mon, 29 Jun 2026 19:06:17 +0000",
+      "summary": "Article URL: https://github.com/jumpserver/jumpserver\nComments URL: https://news.ycombinator.com/item?id=48723677\nPoints: 38\n# Comments: 10",
+      "url": "https://github.com/jumpserver/jumpserver"
+    },
+    {
+      "category": "Theology",
+      "title": "I Was Fired for My Preaching",
+      "source": "9Marks",
+      "date": "Mon, 29 Jun 2026 18:30:37 +0000",
+      "summary": "Over time and through many tears, he brought me to the point where I could honestly say that if I never pastored another church or preached another sermon, Christ is enough. \nThe post I Was Fired for My Preaching appeared first on 9Marks.",
+      "url": "https://www.9marks.org/article/i-was-fired-for-my-preaching/?utm_source=rss&utm_medium=rss&utm_campaign=i-was-fired-for-my-preaching"
+    },
+    {
+      "category": "Science",
+      "title": " Japan's bold experiment to curb antibiotic misuse has been a huge success. Could it work in the US? ",
+      "source": " Latest from Live Science ",
+      "date": "Mon, 29 Jun 2026 18:10:00 +0000",
+      "summary": "A unique policy in Japan encourages doctors to improve their antibiotic use and thus reduce their contribution to antibiotic resistance. Should the U.S. be taking notes?",
+      "url": "https://www.livescience.com/health/medicine-drugs/japans-bold-experiment-to-curb-antibiotic-misuse-has-been-a-huge-success-could-it-work-in-the-us"
     },
     {
       "category": "Space",
@@ -99,36 +147,12 @@
       "url": "https://www.nasa.gov/image-article/nasa-astronaut-chris-williams-preps-for-spacewalk/"
     },
     {
-      "category": "Space",
-      "title": "Mapping Earth’s Observations, featuring Betsy Ford",
-      "source": "NASA",
-      "date": "Mon, 29 Jun 2026 15:16:44 +0000",
-      "summary": "NASA’s Earth-observing satellites track an enormous range of phenomena: how aerosols move through the atmosphere, how moisture descends through soil, how land-cover shifts over decades. It’s some of the most consequential data NASA produces, informing science, policy, agriculture, and climate research around the world. As NASA’s Earth Science Division (ESD) manages this vast portfolio, they […]",
-      "url": "https://www.nasa.gov/general/mapping-earths-observations-featuring-betsy-ford/"
-    },
-    {
       "category": "Science",
       "title": " Chinese supercomputer leapfrogs best US machines to be ranked world’s fastest ",
       "source": " Latest from Live Science ",
       "date": "Mon, 29 Jun 2026 15:00:00 +0000",
       "summary": "China's Line Shine supercomputer is the most powerful in the world and the first the country has hosted since 2017.",
       "url": "https://www.livescience.com/technology/computing/chinese-supercomputer-line-shine-leapfrogs-best-us-machines-to-be-ranked-worlds-fastest"
-    },
-    {
-      "category": "Space",
-      "title": " Light pollution may be erasing millions of dollars in value at US dark-sky parks ",
-      "source": " Latest from Space.com ",
-      "date": "Mon, 29 Jun 2026 15:00:00 +0000",
-      "summary": "Researchers combined satellite data and visitor surveys at dark-sky parks to quantify the economic value of dark skies amid rising light pollution.",
-      "url": "https://www.space.com/astronomy/earth/light-pollution-may-be-erasing-millions-of-dollars-in-value-at-us-dark-sky-parks"
-    },
-    {
-      "category": "Space",
-      "title": "NextSTEP-3 A: Lunar Enabling Technology",
-      "source": "NASA",
-      "date": "Mon, 29 Jun 2026 14:56:54 +0000",
-      "summary": "Solicitation Number: 80GRC026R0008 May 19, 2026 – Synopsis issued June 29, 2026 – Draft BAA and Appendix A Issued | News Release   NASA issued a draft Broad Agency Announcement under NextSTEP‑3, Appendix A, on June 29, 2026, to advance concepts that accelerate the technological readiness of critical systems for lunar surface and cislunar architecture.  This solicitation seeks to close key technology gaps and […]",
-      "url": "https://www.nasa.gov/directorates/stmd/nextstep-3-a-lunar-enabling-technology/"
     },
     {
       "category": "Biblical Studies",
@@ -145,22 +169,6 @@
       "date": "Mon, 29 Jun 2026 10:00:12 +0000",
       "summary": "The Phoenicians were the maritime traders par excellence during the Iron Age. By the late ninth century BCE, they had ventured from their home cities […]\nThe post The Mediterranean’s Master Traders appeared first on Biblical Archaeology Society.",
       "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/the-mediterraneans-master-traders/"
-    },
-    {
-      "category": "Science",
-      "title": " Sleep and Death cista handle: A 2,400-year-old sculpture depicting gods carrying away Zeus' son during the Trojan War ",
-      "source": " Latest from Live Science ",
-      "date": "Mon, 29 Jun 2026 10:00:00 +0000",
-      "summary": "A small, bronze sculpture depicting a death scene in the Trojan War once graced an Etruscan box.",
-      "url": "https://www.livescience.com/archaeology/sleep-and-death-cista-handle-a-2-400-year-old-sculpture-depicting-gods-carrying-away-zeus-son-during-the-trojan-war"
-    },
-    {
-      "category": "Science",
-      "title": " Strawberry Moon 2026: Tonight's full moon is the lowest, and one of the smallest 'micromoons' all year ",
-      "source": " Latest from Live Science ",
-      "date": "Mon, 29 Jun 2026 09:30:00 +0000",
-      "summary": "June's full Strawberry Moon will be the lowest-hanging and one of the smallest full moons of 2026. It will be at its fullest on Monday night, June 29.",
-      "url": "https://www.livescience.com/space/astronomy/strawberry-moon-2026-tonights-full-moon-is-the-lowest-and-one-of-the-smallest-micromoons-all-year"
     },
     {
       "category": "AI",
@@ -281,14 +289,6 @@
       "date": "Mon, 22 Jun 2026 22:00:02 +0000",
       "summary": "In 1779, the war between Britain and its thirteen rebel colonies in America was in its fifth year without any prospect of resolution. Although the British had had several opportunities to defeat Gen. George Washingtons’ Continental Army, they were unable to deliver the decisive blow. Even worse, the American victory over Gen. John Burgoyne’s army […]\nThe post The Tobacco Raid of 1779 appeared first on Journal of the American Revolution.",
       "url": "https://allthingsliberty.com/2026/06/the-tobacco-raid-of-1779/"
-    },
-    {
-      "category": "Theology",
-      "title": "Pastor’s Job Description: Four Essential Responsibilities of a Shepherd",
-      "source": "9Marks",
-      "date": "Mon, 22 Jun 2026 17:15:45 +0000",
-      "summary": "Pastor, you have the privilege and responsibility to lead the flock, and the primary way you lead is through the public ministry of the Word.\nThe post Pastor’s Job Description: Four Essential Responsibilities of a Shepherd appeared first on 9Marks.",
-      "url": "https://www.9marks.org/article/pastors-job-description-four-essential-responsibilities-of-a-shepherd/?utm_source=rss&utm_medium=rss&utm_campaign=pastors-job-description-four-essential-responsibilities-of-a-shepherd"
     },
     {
       "category": "History",
