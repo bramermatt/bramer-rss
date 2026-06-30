@@ -1,70 +1,150 @@
 {
-  "lastUpdated": "2026-06-30T12:05:27.579Z",
+  "lastUpdated": "2026-06-30T17:47:51.340Z",
   "articleCount": 39,
   "articles": [
     {
       "category": "Science",
-      "title": "Study investigates stress, coping among adult siblings of individuals with intellectual and developmental disabilities",
+      "title": "A cataclysmic collision in space provides new clues on astronomy's biggest stalemate",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Tue, 30 Jun 2026 08:00:01 EDT",
-      "summary": "Assistant professor of practice, psychology and human development, and VKC member Jessika Boles, Ph.D., and colleagues have published results of a research study detailing the complex lived experiences of adult siblings of individuals with intellectual and developmental disabilities (IDD) in the journal Research in Developmental Disabilities.",
-      "url": "https://phys.org/news/2026-06-stress-coping-adult-siblings-individuals.html"
-    },
-    {
-      "category": "Space",
-      "title": " NASA will announce moon base news today: Watch it live ",
-      "source": " Latest from Space.com ",
-      "date": "Tue, 30 Jun 2026 12:00:00 +0000",
-      "summary": "NASA will provide an update about its moon base plans this afternoon, and you can watch it live.",
-      "url": "https://www.space.com/astronomy/moon/nasa-will-announce-moon-base-news-today-watch-it-live"
+      "date": "Tue, 30 Jun 2026 13:40:07 EDT",
+      "summary": "Second only to black holes, neutron stars—incredibly dense star remnants—are the densest objects in the universe. When neutron stars collide, they create ripples in the fabric of space and time that we can detect on Earth.",
+      "url": "https://phys.org/news/2026-06-cataclysmic-collision-space-clues-astronomy.html"
     },
     {
       "category": "Science",
-      "title": "How guaranteed income can support working families facing economic hardship",
+      "title": "Overconfident people struggle more to separate real headlines from false ones, study finds",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Tue, 30 Jun 2026 07:40:04 EDT",
-      "summary": "An innovative partnership between George Mason University, Fairfax County and the United Way is shedding light on how guaranteed income can support working families facing economic hardship.",
-      "url": "https://phys.org/news/2026-06-income-families-economic-hardship.html"
+      "date": "Tue, 30 Jun 2026 13:40:04 EDT",
+      "summary": "Confidence in specific judgments can predict resistance to misinformation, but a general tendency toward overconfidence might predict susceptibility to believing false claims.",
+      "url": "https://phys.org/news/2026-06-overconfident-people-struggle-real-headlines.html"
+    },
+    {
+      "category": "AI",
+      "title": "I built a mmWave material classification radar",
+      "source": "Hacker News: Front Page",
+      "date": "Tue, 30 Jun 2026 17:29:36 +0000",
+      "summary": "Article URL: https://gauthier-lechevalier.com/radar\nComments URL: https://news.ycombinator.com/item?id=48736137\nPoints: 3\n# Comments: 0",
+      "url": "https://gauthier-lechevalier.com/radar"
     },
     {
       "category": "Science",
-      "title": "The blueprint to reducing Lismore floods by up to 2 meters",
+      "title": "Spatially explicit population model can improve pesticide risk assessments in agricultural landscapes",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Tue, 30 Jun 2026 07:20:01 EDT",
-      "summary": "CSIRO hydrologist Dr. Jai Vaze has lost count of how many times over the past four years he has been asked if he can flood-proof the Northern Rivers region of New South Wales.",
-      "url": "https://phys.org/news/2026-06-blueprint-lismore-meters.html"
+      "date": "Tue, 30 Jun 2026 13:20:11 EDT",
+      "summary": "A team of international scientists and risk assessment experts has developed a foundational blueprint for an innovative population model designed to improve environmental safety testing for agricultural pesticides. The tool, named APODEMUS (A POpulation Dynamical spatially Explicit Model of the wood moUSe), was recently published as a \"Formal Model\"—a new article type—in the Agricultural and Environmental Modelling journal.",
+      "url": "https://phys.org/news/2026-06-spatially-explicit-population-pesticide-agricultural.html"
     },
     {
       "category": "AI",
-      "title": "Should every baby's DNA be sequenced?",
+      "title": "Claude Science",
       "source": "Hacker News: Front Page",
-      "date": "Tue, 30 Jun 2026 11:03:30 +0000",
-      "summary": "Article URL: https://www.economist.com/science-and-technology/2026/06/29/should-every-babys-dna-be-sequenced\nComments URL: https://news.ycombinator.com/item?id=48730922\nPoints: 12\n# Comments: 24",
-      "url": "https://www.economist.com/science-and-technology/2026/06/29/should-every-babys-dna-be-sequenced"
+      "date": "Tue, 30 Jun 2026 17:07:41 +0000",
+      "summary": "Article URL: https://claude.com/product/claude-science\nComments URL: https://news.ycombinator.com/item?id=48735770\nPoints: 44\n# Comments: 22",
+      "url": "https://claude.com/product/claude-science"
     },
     {
       "category": "AI",
-      "title": "Sony erases digital content from libraries; reminded we don't own what we buy",
+      "title": "Supreme Court takes sledgehammer to federal regulatory structure",
       "source": "Hacker News: Front Page",
-      "date": "Tue, 30 Jun 2026 11:02:10 +0000",
-      "summary": "Article URL: https://arstechnica.com/gadgets/2026/06/sony-erases-digital-content-from-libraries-were-reminded-we-dont-own-what-we-buy/\nComments URL: https://news.ycombinator.com/item?id=48730904\nPoints: 60\n# Comments: 16",
-      "url": "https://arstechnica.com/gadgets/2026/06/sony-erases-digital-content-from-libraries-were-reminded-we-dont-own-what-we-buy/"
-    },
-    {
-      "category": "AI",
-      "title": "Parse, Don't Validate – In a Language That Doesn't Want You To",
-      "source": "Hacker News: Front Page",
-      "date": "Tue, 30 Jun 2026 10:48:23 +0000",
-      "summary": "Article URL: https://cekrem.github.io/posts/parse-dont-validate-typescript/\nComments URL: https://news.ycombinator.com/item?id=48730818\nPoints: 13\n# Comments: 4",
-      "url": "https://cekrem.github.io/posts/parse-dont-validate-typescript/"
+      "date": "Tue, 30 Jun 2026 17:05:58 +0000",
+      "summary": "Article URL: https://www.npr.org/2026/06/29/nx-s1-5875161/supreme-court-takes-sledgehammer-to-much-of-federal-governments-regulatory-structure\nComments URL: https://news.ycombinator.com/item?id=48735748\nPoints: 6\n# Comments: 0",
+      "url": "https://www.npr.org/2026/06/29/nx-s1-5875161/supreme-court-takes-sledgehammer-to-much-of-federal-governments-regulatory-structure"
     },
     {
       "category": "Space",
-      "title": " June's Strawberry Moon serves up a low-hanging treat for skywatchers worldwide. Here are our favorite photos ",
+      "title": " 'Star Fox' is an eye-catching reimagining of a timeless sci-fi classic, but we've been here before ",
       "source": " Latest from Space.com ",
-      "date": "Tue, 30 Jun 2026 10:08:52 +0000",
-      "summary": "The June full moon rose low across the sky, treating stargazers worldwide to a stunning celestial display and we've got the photos to prove it.",
-      "url": "https://www.space.com/stargazing/junes-strawberry-moon-serves-up-a-low-hanging-treat-for-skywatchers-worldwide-here-are-our-favorite-photos"
+      "date": "Tue, 30 Jun 2026 17:00:00 +0000",
+      "summary": "Nintendo and Velan Studios' high-fidelity remake of Star Fox 64 for Switch 2 is an arcade-y blast from the past without major deviations.",
+      "url": "https://www.space.com/entertainment/space-games/star-fox-is-an-eye-catching-reimagining-of-a-timeless-sci-fi-classic-but-weve-been-here-before"
+    },
+    {
+      "category": "Science",
+      "title": " 500-year-old freeze-dried potato snacks discovered in Inca storage room in Peru ",
+      "source": " Latest from Live Science ",
+      "date": "Tue, 30 Jun 2026 16:23:36 +0000",
+      "summary": "In a rare find, archaeologists in Peru have discovered freeze-dried potatoes that the Inca carried hundreds of miles from the Andes so their people would not starve.",
+      "url": "https://www.livescience.com/archaeology/500-year-old-freeze-dried-potato-snacks-discovered-in-inca-storage-room-in-peru"
+    },
+    {
+      "category": "Science",
+      "title": " 66 billion trees have been planted in China's Great Green Wall — and they appear to be growing faster than natural forests ",
+      "source": " Latest from Live Science ",
+      "date": "Tue, 30 Jun 2026 16:08:26 +0000",
+      "summary": "A study of China's planted and natural forests reveals age, species mix, and CO2 sensitivity all contribute to how fast trees sprout leaves.",
+      "url": "https://www.livescience.com/planet-earth/plants/trees-in-chinas-great-green-wall-appear-to-grow-faster-than-natural-forests-study-finds"
+    },
+    {
+      "category": "Space",
+      "title": "A Most “Pleasantly Situated” Estate",
+      "source": "NASA",
+      "date": "Tue, 30 Jun 2026 16:00:00 +0000",
+      "summary": "The farms and gardens of Mount Vernon played a central role in the life of America’s first president.",
+      "url": "https://science.nasa.gov/earth/earth-observatory/a-most-pleasantly-situated-estate-153949/"
+    },
+    {
+      "category": "Space",
+      "title": " Rubin Observatory begins filming the 'greatest cosmic movie ever' beginning a new era of astronomy ",
+      "source": " Latest from Space.com ",
+      "date": "Tue, 30 Jun 2026 16:00:00 +0000",
+      "summary": "\"With the launch of the ten-year Legacy Survey of Space and Time, the Rubin Observatory is opening a new window on the universe.\"",
+      "url": "https://www.space.com/astronomy/rubin-observatory-begins-filming-the-greatest-cosmic-movie-ever-beginning-a-new-era-of-astronomy"
+    },
+    {
+      "category": "Space",
+      "title": "Starry Chandelier Cluster",
+      "source": "NASA",
+      "date": "Tue, 30 Jun 2026 15:02:59 +0000",
+      "summary": "This image released on June 26, 2026, features the globular cluster NGC 6723, sometimes called the Chandelier Cluster. Like its namesake, it sparkles with countless lights. However, each ‘lightbulb’ in this chandelier is an individual star 27,000 light-years away in the constellation Sagittarius (the Archer). Globular clusters like NGC 6723 contain some of the oldest […]",
+      "url": "https://www.nasa.gov/image-article/starry-chandelier-cluster/"
+    },
+    {
+      "category": "Space",
+      "title": " America 250: How has telescope technology evolved since the dawn of the U.S.? ",
+      "source": " Latest from Space.com ",
+      "date": "Tue, 30 Jun 2026 15:00:00 +0000",
+      "summary": "Optical telescopes have come a long way in the past two-and-a-half centuries — from the homemade telescope of William Herschel to the orbiting Hubble Space Telescope.",
+      "url": "https://www.space.com/technology/america-250-how-has-telescope-technology-evolved-since-the-dawn-of-the-u-s"
+    },
+    {
+      "category": "AI",
+      "title": "Florida bans local governments from pursuing net-zero emissions goals",
+      "source": "Ars Technica - All content",
+      "date": "Tue, 30 Jun 2026 13:40:16 +0000",
+      "summary": "Gov. Ron DeSantis calls it a crackdown on \"radical climate policies.\"",
+      "url": "https://arstechnica.com/science/2026/06/florida-bans-local-governments-from-pursuing-net-zero-emissions-goals/"
+    },
+    {
+      "category": "AI",
+      "title": "Ars Live, today: The latest on the aftermath of the New Glenn catastrophe",
+      "source": "Ars Technica - All content",
+      "date": "Tue, 30 Jun 2026 13:15:59 +0000",
+      "summary": "Join us on the livestream at 1 pm ET and ask questions about the aftermath of New Glenn.",
+      "url": "https://arstechnica.com/space/2026/06/ars-live-whats-the-latest-in-the-aftermath-of-the-new-glenn-catastrophe/"
+    },
+    {
+      "category": "Science",
+      "title": " Scientists figured out how to shrink huge ultrafast lasers so they fit on a tiny chip ‪‪—‬ the 'holy grail' of the field ",
+      "source": " Latest from Live Science ",
+      "date": "Tue, 30 Jun 2026 12:17:00 +0000",
+      "summary": "Scientists have managed to get ultrafast lasers running on tiny chips, paving the way for miniature-but-powerful diagnostic devices.",
+      "url": "https://www.livescience.com/technology/electronics/scientists-figured-out-how-to-shrink-huge-ultrafast-lasers-so-they-fit-on-a-tiny-chip-the-holy-grail-of-the-field"
+    },
+    {
+      "category": "Biblical Studies",
+      "title": "Who Was Jesus’ Biological Father?",
+      "source": "Biblical Archaeology Society",
+      "date": "Tue, 30 Jun 2026 11:00:45 +0000",
+      "summary": "Was Joseph Jesus’ biological father? If not, who was Jesus’ biological father? Andrew Lincoln examines what early Christians thought about conception and explains how views about this subject have changed over time.\nThe post Who Was Jesus’ Biological Father? appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/daily/biblical-topics/bible-interpretation/who-was-jesus-biological-father/"
+    },
+    {
+      "category": "Biblical Studies",
+      "title": "Herod’s Death, Jesus’ Birth and a Lunar Eclipse",
+      "source": "Biblical Archaeology Society",
+      "date": "Tue, 30 Jun 2026 11:00:41 +0000",
+      "summary": "Read letters published in the Q&C section of BAR debating the dates of Herod’s death, Jesus’ birth and to which lunar eclipse Josephus was referring.\nThe post Herod’s Death, Jesus’ Birth and a Lunar Eclipse appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/daily/people-cultures-in-the-bible/jesus-historical-jesus/herods-death-jesus-birth-and-a-lunar-eclipse/"
     },
     {
       "category": "Space",
@@ -83,20 +163,20 @@
       "url": "https://allthingsliberty.com/2026/06/declarations-before-the-declaration-of-independence/"
     },
     {
+      "category": "AI",
+      "title": "How ChatGPT adoption has expanded",
+      "source": "OpenAI News",
+      "date": "Tue, 30 Jun 2026 09:00:00 GMT",
+      "summary": "New OpenAI Signals data shows how ChatGPT adoption is growing globally, with users increasing usage, exploring more capabilities, and driving growth across regions and languages.",
+      "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded"
+    },
+    {
       "category": "Science",
       "title": "Scientists may have finally found how Alzheimer's spreads through the brain",
       "source": "All Top News -- ScienceDaily",
       "date": "Tue, 30 Jun 2026 03:21:06 EDT",
       "summary": "A common brain protein may be giving Alzheimer’s disease an unexpected way to spread, carrying toxic Tau proteins from damaged neurons into healthy ones. By blocking these harmful protein packages before they reach new cells, researchers believe it may one day be possible to slow the disease's relentless progression.",
       "url": "https://www.sciencedaily.com/releases/2026/06/260630020521.htm"
-    },
-    {
-      "category": "Science",
-      "title": " Shadowy tendrils of ancient lava have scarred a dark volcano next to a 'skull' in the Sahara — Earth from space ",
-      "source": " Latest from Live Science ",
-      "date": "Tue, 30 Jun 2026 07:00:00 +0000",
-      "summary": "A 2019 astronaut photo shows off ancient lava flows that once oozed down the jet-black slopes of the Toussidé volcano in northwestern Chad. An intriguing volcanic \"skull\" also lurks in the aerial image.",
-      "url": "https://www.livescience.com/planet-earth/volcanoes/shadowy-tendrils-of-ancient-lava-have-scarred-a-dark-volcano-next-to-a-skull-in-the-sahara-earth-from-space"
     },
     {
       "category": "Science",
@@ -123,12 +203,20 @@
       "url": "https://www.thegospelcoalition.org/article/local-coalition-pastors/"
     },
     {
-      "category": "Space",
-      "title": "Northwest Earth and Space Science Pathways Project Celebrates Student Innovation Through ROADS from Earth to Venus National Challenge",
-      "source": "NASA",
-      "date": "Mon, 29 Jun 2026 22:05:58 +0000",
-      "summary": "The Northwest Earth and Space Science Pathways (NESSP) project recently concluded its 2025–2026 ROADS (Rover Observation And Discoveries in Space) from Earth to Venus National Challenge, a NASA Science Activation program student challenge that engaged more than 500 students on 120 teams from eight states in authentic science and engineering experiences inspired by Venus exploration. […]",
-      "url": "https://science.nasa.gov/learning-resources/science-activation/northwest-earth-and-space-science-pathways-project-celebrates-student-innovation-through-roads-from-earth-to-venus-national-challenge/"
+      "category": "AI",
+      "title": "Introducing GeneBench-Pro",
+      "source": "OpenAI News",
+      "date": "Tue, 30 Jun 2026 00:00:00 GMT",
+      "summary": "Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets.",
+      "url": "https://openai.com/index/introducing-genebench-pro"
+    },
+    {
+      "category": "AI",
+      "title": "Core dump epidemiology: fixing an 18-year-old bug",
+      "source": "OpenAI News",
+      "date": "Tue, 30 Jun 2026 00:00:00 GMT",
+      "summary": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
+      "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug"
     },
     {
       "category": "AI",
@@ -139,46 +227,6 @@
       "url": "https://arstechnica.com/information-technology/2026/06/us-offers-10-million-for-info-on-group-behind-signal-and-whatsapp-hacking-spree/"
     },
     {
-      "category": "Space",
-      "title": " 'The start of a new era': Rocket Lab buying satellite-communications company Iridium for $8 billion ",
-      "source": " Latest from Space.com ",
-      "date": "Mon, 29 Jun 2026 22:00:00 +0000",
-      "summary": "California-based launch company Rocket Lab has inked a landmark $8 billion deal to acquire long-time satellite communications giant Iridium.",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/the-start-of-a-new-era-rocket-lab-buying-satellite-communications-company-iridium-for-usd8-billion"
-    },
-    {
-      "category": "Science",
-      "title": " 2,000-year-old scrolls buried by Mount Vesuvius eruption finally deciphered with help from AI ",
-      "source": " Latest from Live Science ",
-      "date": "Mon, 29 Jun 2026 21:14:58 +0000",
-      "summary": "Experts have unraveled substantial new text from two carbonized Herculaneum scrolls, including what may be a previously unknown work by a Stoic philosopher.",
-      "url": "https://www.livescience.com/archaeology/2-000-year-old-scrolls-buried-by-mount-vesuvius-eruption-finally-deciphered-with-help-from-ai"
-    },
-    {
-      "category": "AI",
-      "title": "South Korea to spend $1T on more memory chip production and humanoid robots",
-      "source": "Ars Technica - All content",
-      "date": "Mon, 29 Jun 2026 21:09:43 +0000",
-      "summary": "South Korea targets physical AI lead and commercial humanoid robots by 2028.",
-      "url": "https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/"
-    },
-    {
-      "category": "Space",
-      "title": "NASA, SBA Announce New Initiative to Scale American Space Economy ",
-      "source": "NASA",
-      "date": "Mon, 29 Jun 2026 20:39:57 +0000",
-      "summary": "NASA and the U.S. Small Business Administration (SBA) launched the SBIC-NASA Initiative on Monday to increase investment in American manufacturers of industrial components and providers of technologies critical to space exploration to support a sustained presence on the Moon and Mars.  Under the Memorandum of Agreement, NASA will identify technology priorities and connect businesses to funding opportunities […]",
-      "url": "https://www.nasa.gov/news-release/nasa-sba-announce-new-initiative-to-scale-american-space-economy/"
-    },
-    {
-      "category": "AI",
-      "title": "US renewable boom passes key milestone in April",
-      "source": "Ars Technica - All content",
-      "date": "Mon, 29 Jun 2026 20:12:30 +0000",
-      "summary": "Small-scale solar helped renewables hit nearly triple coal's generation in the US.",
-      "url": "https://arstechnica.com/science/2026/06/solar-outproduced-coal-in-april-but-not-on-the-grid/"
-    },
-    {
       "category": "Theology",
       "title": "I Was Fired for My Preaching",
       "source": "9Marks",
@@ -187,36 +235,12 @@
       "url": "https://www.9marks.org/article/i-was-fired-for-my-preaching/?utm_source=rss&utm_medium=rss&utm_campaign=i-was-fired-for-my-preaching"
     },
     {
-      "category": "Science",
-      "title": " Japan's bold experiment to curb antibiotic misuse has been a huge success. Could it work in the US? ",
-      "source": " Latest from Live Science ",
-      "date": "Mon, 29 Jun 2026 18:10:00 +0000",
-      "summary": "A unique policy in Japan encourages doctors to improve their antibiotic use and thus reduce their contribution to antibiotic resistance. Should the U.S. be taking notes?",
-      "url": "https://www.livescience.com/health/medicine-drugs/japans-bold-experiment-to-curb-antibiotic-misuse-has-been-a-huge-success-could-it-work-in-the-us"
-    },
-    {
       "category": "Biblical Studies",
       "title": "Did King Ahab Worship Yahweh?",
       "source": "Biblical Archaeology Society",
       "date": "Mon, 29 Jun 2026 10:45:33 +0000",
       "summary": "How many temples existed in ancient Israel? Most people think the answer is simple: one. According to the Bible, Jerusalem (in the Southern Kingdom of […]\nThe post Did King Ahab Worship Yahweh? appeared first on Biblical Archaeology Society.",
       "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-israel/did-king-ahab-worship-yahweh/"
-    },
-    {
-      "category": "Biblical Studies",
-      "title": "The Mediterranean’s Master Traders",
-      "source": "Biblical Archaeology Society",
-      "date": "Mon, 29 Jun 2026 10:00:12 +0000",
-      "summary": "The Phoenicians were the maritime traders par excellence during the Iron Age. By the late ninth century BCE, they had ventured from their home cities […]\nThe post The Mediterranean’s Master Traders appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/the-mediterraneans-master-traders/"
-    },
-    {
-      "category": "AI",
-      "title": "Mapping Europe’s AI Workforce Opportunity",
-      "source": "OpenAI News",
-      "date": "Mon, 29 Jun 2026 07:00:00 GMT",
-      "summary": "A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow changes.",
-      "url": "https://openai.com/index/mapping-ai-jobs-transition-eu"
     },
     {
       "category": "Theology",
@@ -235,36 +259,12 @@
       "url": "https://www.sciencedaily.com/releases/2026/06/260626124703.htm"
     },
     {
-      "category": "AI",
-      "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
-      "source": "OpenAI News",
-      "date": "Sun, 28 Jun 2026 17:00:00 GMT",
-      "summary": "HP Inc. scales its OpenAI Frontier partnership to deploy AI across customer experiences, software development, and enterprise operations.",
-      "url": "https://openai.com/index/hp-frontier-partnership"
-    },
-    {
-      "category": "Biblical Studies",
-      "title": "The Apostle Peter in Rome",
-      "source": "Biblical Archaeology Society",
-      "date": "Sun, 28 Jun 2026 11:00:09 +0000",
-      "summary": "Brown University Religious Studies professor Nicola Denzey Lewis answers frequently asked questions about the apostle Peter. Denzey Lewis appears in the CNN series Finding Jesus: Faith, Fact, Forgery, which aims to investigate artifacts that shed light on the world in which Jesus lived.\nThe post The Apostle Peter in Rome appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-rome/the-apostle-peter-in-rome/"
-    },
-    {
       "category": "Theology",
       "title": "To What Shall We Compare God’s Love?",
       "source": "9Marks",
       "date": "Fri, 26 Jun 2026 16:03:21 +0000",
       "summary": "We should be careful about elevating certain analogies of God’s love over others.\nThe post To What Shall We Compare God’s Love? appeared first on 9Marks.",
       "url": "https://www.9marks.org/review/to-what-shall-we-compare-gods-love/?utm_source=rss&utm_medium=rss&utm_campaign=to-what-shall-we-compare-gods-love"
-    },
-    {
-      "category": "AI",
-      "title": "Previewing GPT-5.6 Sol: a next-generation model",
-      "source": "OpenAI News",
-      "date": "Fri, 26 Jun 2026 10:00:00 GMT",
-      "summary": "OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack.",
-      "url": "https://openai.com/index/previewing-gpt-5-6-sol"
     },
     {
       "category": "History",
