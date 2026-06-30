@@ -1,62 +1,134 @@
 {
-  "lastUpdated": "2026-06-30T17:47:51.340Z",
+  "lastUpdated": "2026-06-30T23:04:26.603Z",
   "articleCount": 39,
   "articles": [
     {
       "category": "Science",
-      "title": "A cataclysmic collision in space provides new clues on astronomy's biggest stalemate",
+      "title": "Grasslands could lose four times more carbon uptake under future drought conditions",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Tue, 30 Jun 2026 13:40:07 EDT",
-      "summary": "Second only to black holes, neutron stars—incredibly dense star remnants—are the densest objects in the universe. When neutron stars collide, they create ripples in the fabric of space and time that we can detect on Earth.",
-      "url": "https://phys.org/news/2026-06-cataclysmic-collision-space-clues-astronomy.html"
+      "date": "Tue, 30 Jun 2026 19:00:06 EDT",
+      "summary": "The effects of individual climate factors on ecosystems are usually considered in isolation. However, in reality, they occur simultaneously and influence each other. Increasing CO2 concentrations in the atmosphere contribute to climate warming, which in turn fosters more frequent and intense drought periods. A study from Innsbruck shows that the consequences of drought on grasslands in a future climate will be more severe than previously assumed. The work of a team led by Maud Tissink and Michael Bahn from the Department of Ecology has been published in Science Advances.",
+      "url": "https://phys.org/news/2026-06-grasslands-carbon-uptake-future-drought.html"
     },
     {
       "category": "Science",
-      "title": "Overconfident people struggle more to separate real headlines from false ones, study finds",
+      "title": "Shark‑spotting drones are about reassurance—not full protection",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Tue, 30 Jun 2026 13:40:04 EDT",
-      "summary": "Confidence in specific judgments can predict resistance to misinformation, but a general tendency toward overconfidence might predict susceptibility to believing false claims.",
-      "url": "https://phys.org/news/2026-06-overconfident-people-struggle-real-headlines.html"
-    },
-    {
-      "category": "AI",
-      "title": "I built a mmWave material classification radar",
-      "source": "Hacker News: Front Page",
-      "date": "Tue, 30 Jun 2026 17:29:36 +0000",
-      "summary": "Article URL: https://gauthier-lechevalier.com/radar\nComments URL: https://news.ycombinator.com/item?id=48736137\nPoints: 3\n# Comments: 0",
-      "url": "https://gauthier-lechevalier.com/radar"
+      "date": "Tue, 30 Jun 2026 19:00:03 EDT",
+      "summary": "Sharks are front of mind for many Sydneysiders and coastal New South Wales residents. In January, a teenager died amid a spate of attacks in and around Sydney. This month, a woman was bitten by a large great white while swimming close to shore and between the flags at Coogee Beach.",
+      "url": "https://phys.org/news/2026-06-sharkspotting-drones-reassurance-full.html"
     },
     {
       "category": "Science",
-      "title": "Spatially explicit population model can improve pesticide risk assessments in agricultural landscapes",
+      "title": "Loss of DNA protector gene exposes vulnerabilities in cancerous cells",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Tue, 30 Jun 2026 13:20:11 EDT",
-      "summary": "A team of international scientists and risk assessment experts has developed a foundational blueprint for an innovative population model designed to improve environmental safety testing for agricultural pesticides. The tool, named APODEMUS (A POpulation Dynamical spatially Explicit Model of the wood moUSe), was recently published as a \"Formal Model\"—a new article type—in the Agricultural and Environmental Modelling journal.",
-      "url": "https://phys.org/news/2026-06-spatially-explicit-population-pesticide-agricultural.html"
+      "date": "Tue, 30 Jun 2026 18:40:03 EDT",
+      "summary": "Every time a cell copies its DNA, parts of the genome are exposed and vulnerable to damage or errors. Molecular biologist Simon Boulton is interested in how cells spot and repair damage to their DNA, and what happens if this process fails or if key genes are mutated.",
+      "url": "https://phys.org/news/2026-06-loss-dna-protector-gene-exposes.html"
     },
     {
       "category": "AI",
-      "title": "Claude Science",
+      "title": "Hatari – Online Atari ST/STE/TT/Falcon Emulator",
       "source": "Hacker News: Front Page",
-      "date": "Tue, 30 Jun 2026 17:07:41 +0000",
-      "summary": "Article URL: https://claude.com/product/claude-science\nComments URL: https://news.ycombinator.com/item?id=48735770\nPoints: 44\n# Comments: 22",
-      "url": "https://claude.com/product/claude-science"
+      "date": "Tue, 30 Jun 2026 22:34:23 +0000",
+      "summary": "Article URL: https://hatari.frama.io/hatari/online/hatari.html\nComments URL: https://news.ycombinator.com/item?id=48740135\nPoints: 5\n# Comments: 0",
+      "url": "https://hatari.frama.io/hatari/online/hatari.html"
     },
     {
       "category": "AI",
-      "title": "Supreme Court takes sledgehammer to federal regulatory structure",
+      "title": "June research roundup: 6 cool science stories we almost missed",
+      "source": "Ars Technica - All content",
+      "date": "Tue, 30 Jun 2026 22:11:10 +0000",
+      "summary": "Also, the science of poop's distinctive shape, boron buckyballs, and the secret to a soccer feint.",
+      "url": "https://arstechnica.com/science/2026/06/june-research-roundup-6-cool-science-stories-we-almost-missed/"
+    },
+    {
+      "category": "AI",
+      "title": "TabFM: A zero-shot foundation model for tabular data",
       "source": "Hacker News: Front Page",
-      "date": "Tue, 30 Jun 2026 17:05:58 +0000",
-      "summary": "Article URL: https://www.npr.org/2026/06/29/nx-s1-5875161/supreme-court-takes-sledgehammer-to-much-of-federal-governments-regulatory-structure\nComments URL: https://news.ycombinator.com/item?id=48735748\nPoints: 6\n# Comments: 0",
-      "url": "https://www.npr.org/2026/06/29/nx-s1-5875161/supreme-court-takes-sledgehammer-to-much-of-federal-governments-regulatory-structure"
+      "date": "Tue, 30 Jun 2026 22:08:38 +0000",
+      "summary": "Article URL: https://research.google/blog/introducing-tabfm-a-zero-shot-foundation-model-for-tabular-data/\nComments URL: https://news.ycombinator.com/item?id=48739919\nPoints: 13\n# Comments: 2",
+      "url": "https://research.google/blog/introducing-tabfm-a-zero-shot-foundation-model-for-tabular-data/"
+    },
+    {
+      "category": "AI",
+      "title": "Reddit will require you to log in to use old.reddit.com",
+      "source": "Ars Technica - All content",
+      "date": "Tue, 30 Jun 2026 21:46:35 +0000",
+      "summary": "Logged-out Old Reddit access is “significant source of abusive scraping.\"",
+      "url": "https://arstechnica.com/gadgets/2026/06/reddit-will-require-you-to-log-in-to-use-old-reddit-com/"
+    },
+    {
+      "category": "AI",
+      "title": "Understanding lattice risks: Many differences between marketing and reality",
+      "source": "Hacker News: Front Page",
+      "date": "Tue, 30 Jun 2026 21:29:15 +0000",
+      "summary": "Article URL: https://blog.cr.yp.to/20260630-risk.html\nComments URL: https://news.ycombinator.com/item?id=48739467\nPoints: 9\n# Comments: 0",
+      "url": "https://blog.cr.yp.to/20260630-risk.html"
     },
     {
       "category": "Space",
-      "title": " 'Star Fox' is an eye-catching reimagining of a timeless sci-fi classic, but we've been here before ",
+      "title": " 'PROMISE' me the moon? NASA wants to send spare nuclear-powered Mars rover to the lunar surface ",
       "source": " Latest from Space.com ",
-      "date": "Tue, 30 Jun 2026 17:00:00 +0000",
-      "summary": "Nintendo and Velan Studios' high-fidelity remake of Star Fox 64 for Switch 2 is an arcade-y blast from the past without major deviations.",
-      "url": "https://www.space.com/entertainment/space-games/star-fox-is-an-eye-catching-reimagining-of-a-timeless-sci-fi-classic-but-weve-been-here-before"
+      "date": "Tue, 30 Jun 2026 21:25:26 +0000",
+      "summary": "NASA has announced new lunar landing contracts for its Artemis Moon Base program, as well as a potential new moon rover mission named PROMISE.",
+      "url": "https://www.space.com/astronomy/moon/promise-me-the-moon-nasa-wants-to-send-spare-nuclear-powered-mars-rover-to-the-lunar-surface"
+    },
+    {
+      "category": "AI",
+      "title": "Amazon blames piracy apps with malware for killing new Fire Stick sideloading",
+      "source": "Ars Technica - All content",
+      "date": "Tue, 30 Jun 2026 21:04:53 +0000",
+      "summary": "New Fire Stick OS helps Amazon block third-party homepage launchers, ad blockers.",
+      "url": "https://arstechnica.com/gadgets/2026/06/exec-blames-malware-threat-for-amazon-blocking-sideloading-on-new-fire-sticks/"
+    },
+    {
+      "category": "Space",
+      "title": " Watch Rocket Lab launch Japanese Earth-observing radar satellite from New Zealand tonight ",
+      "source": " Latest from Space.com ",
+      "date": "Tue, 30 Jun 2026 21:01:30 +0000",
+      "summary": "Rocket Lab will launch its eighth mission for the Japanese Earth-imaging company iQPS tonight (June 30), and you can watch the action live.",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-launch-iqps-radar-satellite-grain-goddess-provides"
+    },
+    {
+      "category": "Space",
+      "title": " Blue Origin starts rebuilding launch pad damaged by New Glenn rocket explosion — and it will look very different when it's done ",
+      "source": " Latest from Space.com ",
+      "date": "Tue, 30 Jun 2026 21:00:00 +0000",
+      "summary": "Blue Origin has started rebuilding the launch pad damaged by the explosion of its New Glenn rocket last month, but the company is working from a very different blueprint this time around.",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/blue-origin-starts-rebuilding-launch-pad-damaged-by-new-glenn-rocket-explosion-and-it-will-look-very-different-when-its-done"
+    },
+    {
+      "category": "Space",
+      "title": "NASA’s Chandra Reveals ‘Red, White, Blue’ Universe for US 250th",
+      "source": "NASA",
+      "date": "Tue, 30 Jun 2026 19:54:29 +0000",
+      "summary": "In celebration of the 250th birthday of the United States, NASA has unveiled four cosmic images from its Chandra X-ray Observatory rendered in red, white, and blue that represent the wonders of the universe the agency explores. The images are accompanied by a trio of new sonifications – a technique that translates astronomical data into […]",
+      "url": "https://science.nasa.gov/missions/chandra/nasas-chandra-reveals-red-white-blue-universe-for-us-250th/"
+    },
+    {
+      "category": "Space",
+      "title": "A Day of Flight Testing at NASA Armstrong",
+      "source": "NASA",
+      "date": "Tue, 30 Jun 2026 19:27:13 +0000",
+      "summary": "Flight testing is a team sport. For nearly 80 years, teams at NASA’s Armstrong Flight Research Center in Edwards, California, have used flight testing to push the limits of aerodynamics and advance aviation. Earlier this year, NASA’s Crossflow Attenuated Natural Laminar Flow (CATNLF) initiative tested a wing concept that would maximize the smooth flow of […]",
+      "url": "https://www.nasa.gov/centers-and-facilities/armstrong/a-day-of-flight-testing-at-nasa-armstrong/"
+    },
+    {
+      "category": "Space",
+      "title": "La NASA adjudica nuevas misiones científicas para Base Lunar y adelanta nuevas oportunidades",
+      "source": "NASA",
+      "date": "Tue, 30 Jun 2026 19:04:43 +0000",
+      "summary": "Read this news release in English here. Nota del editor: Este comunicado se actualizó el 30 de junio de 2026 para aclarar la versión de desarrollo de ingeniería del rover PROMISE.La NASA anunció el martes la selección de tres empresas para llevar a cabo cuatro nuevas misiones a la Luna a finales de 2028 como […]",
+      "url": "https://www.nasa.gov/news-release/la-nasa-adjudica-nuevas-misiones-cientificas-para-base-lunar-y-adelanta-nuevas-oportunidades/"
+    },
+    {
+      "category": "Science",
+      "title": " CERN shuts down Large Hadron Collider until 2030, upgrading the atom smasher to its most powerful form yet ",
+      "source": " Latest from Live Science ",
+      "date": "Tue, 30 Jun 2026 17:50:29 +0000",
+      "summary": "The Large Hadron Collider, the world’s largest atom smasher, has shut down for a planned four-year upgrade that will make it 10 times more sensitive than its initial version.",
+      "url": "https://www.livescience.com/physics-mathematics/particle-physics/cern-shuts-down-large-hadron-collider-until-2030-upgrading-the-atom-smasher-to-its-most-powerful-form-yet"
     },
     {
       "category": "Science",
@@ -75,62 +147,6 @@
       "url": "https://www.livescience.com/planet-earth/plants/trees-in-chinas-great-green-wall-appear-to-grow-faster-than-natural-forests-study-finds"
     },
     {
-      "category": "Space",
-      "title": "A Most “Pleasantly Situated” Estate",
-      "source": "NASA",
-      "date": "Tue, 30 Jun 2026 16:00:00 +0000",
-      "summary": "The farms and gardens of Mount Vernon played a central role in the life of America’s first president.",
-      "url": "https://science.nasa.gov/earth/earth-observatory/a-most-pleasantly-situated-estate-153949/"
-    },
-    {
-      "category": "Space",
-      "title": " Rubin Observatory begins filming the 'greatest cosmic movie ever' beginning a new era of astronomy ",
-      "source": " Latest from Space.com ",
-      "date": "Tue, 30 Jun 2026 16:00:00 +0000",
-      "summary": "\"With the launch of the ten-year Legacy Survey of Space and Time, the Rubin Observatory is opening a new window on the universe.\"",
-      "url": "https://www.space.com/astronomy/rubin-observatory-begins-filming-the-greatest-cosmic-movie-ever-beginning-a-new-era-of-astronomy"
-    },
-    {
-      "category": "Space",
-      "title": "Starry Chandelier Cluster",
-      "source": "NASA",
-      "date": "Tue, 30 Jun 2026 15:02:59 +0000",
-      "summary": "This image released on June 26, 2026, features the globular cluster NGC 6723, sometimes called the Chandelier Cluster. Like its namesake, it sparkles with countless lights. However, each ‘lightbulb’ in this chandelier is an individual star 27,000 light-years away in the constellation Sagittarius (the Archer). Globular clusters like NGC 6723 contain some of the oldest […]",
-      "url": "https://www.nasa.gov/image-article/starry-chandelier-cluster/"
-    },
-    {
-      "category": "Space",
-      "title": " America 250: How has telescope technology evolved since the dawn of the U.S.? ",
-      "source": " Latest from Space.com ",
-      "date": "Tue, 30 Jun 2026 15:00:00 +0000",
-      "summary": "Optical telescopes have come a long way in the past two-and-a-half centuries — from the homemade telescope of William Herschel to the orbiting Hubble Space Telescope.",
-      "url": "https://www.space.com/technology/america-250-how-has-telescope-technology-evolved-since-the-dawn-of-the-u-s"
-    },
-    {
-      "category": "AI",
-      "title": "Florida bans local governments from pursuing net-zero emissions goals",
-      "source": "Ars Technica - All content",
-      "date": "Tue, 30 Jun 2026 13:40:16 +0000",
-      "summary": "Gov. Ron DeSantis calls it a crackdown on \"radical climate policies.\"",
-      "url": "https://arstechnica.com/science/2026/06/florida-bans-local-governments-from-pursuing-net-zero-emissions-goals/"
-    },
-    {
-      "category": "AI",
-      "title": "Ars Live, today: The latest on the aftermath of the New Glenn catastrophe",
-      "source": "Ars Technica - All content",
-      "date": "Tue, 30 Jun 2026 13:15:59 +0000",
-      "summary": "Join us on the livestream at 1 pm ET and ask questions about the aftermath of New Glenn.",
-      "url": "https://arstechnica.com/space/2026/06/ars-live-whats-the-latest-in-the-aftermath-of-the-new-glenn-catastrophe/"
-    },
-    {
-      "category": "Science",
-      "title": " Scientists figured out how to shrink huge ultrafast lasers so they fit on a tiny chip ‪‪—‬ the 'holy grail' of the field ",
-      "source": " Latest from Live Science ",
-      "date": "Tue, 30 Jun 2026 12:17:00 +0000",
-      "summary": "Scientists have managed to get ultrafast lasers running on tiny chips, paving the way for miniature-but-powerful diagnostic devices.",
-      "url": "https://www.livescience.com/technology/electronics/scientists-figured-out-how-to-shrink-huge-ultrafast-lasers-so-they-fit-on-a-tiny-chip-the-holy-grail-of-the-field"
-    },
-    {
       "category": "Biblical Studies",
       "title": "Who Was Jesus’ Biological Father?",
       "source": "Biblical Archaeology Society",
@@ -145,14 +161,6 @@
       "date": "Tue, 30 Jun 2026 11:00:41 +0000",
       "summary": "Read letters published in the Q&C section of BAR debating the dates of Herod’s death, Jesus’ birth and to which lunar eclipse Josephus was referring.\nThe post Herod’s Death, Jesus’ Birth and a Lunar Eclipse appeared first on Biblical Archaeology Society.",
       "url": "https://www.biblicalarchaeology.org/daily/people-cultures-in-the-bible/jesus-historical-jesus/herods-death-jesus-birth-and-a-lunar-eclipse/"
-    },
-    {
-      "category": "Space",
-      "title": "Ames Science Stars of the Month July 2026",
-      "source": "NASA",
-      "date": "Tue, 30 Jun 2026 09:12:44 +0000",
-      "summary": "NASA Ames Science Stars of the Month: July 2026 The NASA Ames Science Directorate recognizes the outstanding contributions of (pictured left to right) Sungshin Choi, Yi-Chun Chen, Emma Yates, Eduardo Bendek. Their commitment to the NASA mission represents the entrepreneurial spirit, technical expertise, and collaborative disposition needed to explore this world and beyond. Space Biosciences […]",
-      "url": "https://www.nasa.gov/general/ames-stars-of-the-month-july-2026/"
     },
     {
       "category": "History",
@@ -217,14 +225,6 @@
       "date": "Tue, 30 Jun 2026 00:00:00 GMT",
       "summary": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
       "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug"
-    },
-    {
-      "category": "AI",
-      "title": "US offers $10 million for info on group behind Signal and WhatsApp hacking spree",
-      "source": "Ars Technica - All content",
-      "date": "Mon, 29 Jun 2026 22:05:33 +0000",
-      "summary": "Operation by two Russia-state groups has been ongoing since at least March.",
-      "url": "https://arstechnica.com/information-technology/2026/06/us-offers-10-million-for-info-on-group-behind-signal-and-whatsapp-hacking-spree/"
     },
     {
       "category": "Theology",
