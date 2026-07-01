@@ -1,46 +1,118 @@
 {
-  "lastUpdated": "2026-07-01T17:47:58.653Z",
+  "lastUpdated": "2026-07-01T23:06:02.045Z",
   "articleCount": 39,
   "articles": [
     {
       "category": "Science",
-      "title": "Can AI plan for heat emergencies better than simple rules? It depends",
+      "title": "Hidden for decades, hospital superbug built resistance in waves, peaking in the mid‑2000s",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Wed, 01 Jul 2026 13:40:10 EDT",
-      "summary": "The thermometer reads 95°F (35°C) in Brooklyn, and vulnerable individuals need information to take appropriate action. New York City officials must gather facts quickly to provide updates on cooling centers, power outages and other details that could save lives. Are these details best gleaned from simple, low-complexity methods or AI-based tools?",
-      "url": "https://phys.org/news/2026-07-ai-emergencies-simple.html"
+      "date": "Wed, 01 Jul 2026 19:00:03 EDT",
+      "summary": "Decades-old hospital samples have helped University of East Anglia (UEA) researchers uncover how a deadly antibiotic-resistant \"superbug\" quietly tightened its grip across the globe. It lurked in hospital corridors for decades, largely unnoticed by the wider public.",
+      "url": "https://phys.org/news/2026-07-hidden-decades-hospital-superbug-built.html"
     },
     {
       "category": "Science",
-      "title": "Meditation and speaking in tongues: The surprising similarities between two spiritual practices",
+      "title": "Over the past 15 years, Brazil has seen a more than 200% increase in non-native mollusk species",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Wed, 01 Jul 2026 13:40:08 EDT",
-      "summary": "Do the world's religions and contemplative traditions send people to the same place—compassion, bliss, awe, a sense of God, awareness or the universe?",
-      "url": "https://phys.org/news/2026-07-meditation-tongues-similarities-spiritual.html"
-    },
-    {
-      "category": "Science",
-      "title": "Single-atom catalyst turns lignin into valuable chemicals with near-complete conversion",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Wed, 01 Jul 2026 13:40:07 EDT",
-      "summary": "Researchers at The University of Manchester and Hebei University of Technology have identified how a new class of catalyst can break down lignin into useful chemical building blocks, offering a more sustainable route to replace fossil-based materials.",
-      "url": "https://phys.org/news/2026-07-atom-catalyst-lignin-valuable-chemicals.html"
-    },
-    {
-      "category": "Space",
-      "title": " The growing number of satellites in orbit could soon make telescopes obsolete. 'For astronomy, this would obviously be catastrophic' ",
-      "source": " Latest from Space.com ",
-      "date": "Wed, 01 Jul 2026 16:56:49 +0000",
-      "summary": "If the number of satellites in Earth's orbit exceeds 100,000, humanity may lose its ability to study the universe from the planet's surface. Some companies want to put millions into space.",
-      "url": "https://www.space.com/astronomy/the-growing-number-of-satellites-in-orbit-could-soon-make-telescopes-obsolete-for-astronomy-this-would-obviously-be-catastrophic"
+      "date": "Wed, 01 Jul 2026 19:00:01 EDT",
+      "summary": "A study published in the journal Biological Invasions indicates that Brazil currently has at least 82 non-native mollusk species, in addition to 13 whose origin cannot be determined. This represents a 215% increase compared with 2011, when 26 species were reported.",
+      "url": "https://phys.org/news/2026-07-years-brazil-native-mollusk-species.html"
     },
     {
       "category": "AI",
-      "title": "Show HN: Pglayers – PostgreSQL extensions as stackable Docker layers",
+      "title": "US feds are actively hiring \"person who decides which models to ban\"",
       "source": "Hacker News: Front Page",
-      "date": "Wed, 01 Jul 2026 16:50:02 +0000",
-      "summary": "Article URL: https://github.com/pglayers/pglayers\nComments URL: https://news.ycombinator.com/item?id=48749752\nPoints: 6\n# Comments: 0",
-      "url": "https://github.com/pglayers/pglayers"
+      "date": "Wed, 01 Jul 2026 22:45:41 +0000",
+      "summary": "Article URL: https://www.usajobs.gov/job/856265200\nComments URL: https://news.ycombinator.com/item?id=48754128\nPoints: 30\n# Comments: 18",
+      "url": "https://www.usajobs.gov/job/856265200"
+    },
+    {
+      "category": "Science",
+      "title": "Cosmic dust could play key role in cracking long-standing mystery of solar corona heating",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Wed, 01 Jul 2026 18:40:05 EDT",
+      "summary": "A researcher at The University of Alabama in Huntsville (UAH), a part of The University of Alabama System, has published a new study in The Astrophysical Journal suggesting that tiny charged dust grains near the sun may significantly influence how energy moves through the solar corona, the outer atmosphere of the sun. The discovery potentially rewrites how scientists understand why the corona is millions of degrees hotter than the surface of the sun itself.",
+      "url": "https://phys.org/news/2026-07-cosmic-play-key-role-mystery.html"
+    },
+    {
+      "category": "AI",
+      "title": "The Underhanded C Contest",
+      "source": "Hacker News: Front Page",
+      "date": "Wed, 01 Jul 2026 22:39:15 +0000",
+      "summary": "Article URL: https://underhanded-c.org/\nComments URL: https://news.ycombinator.com/item?id=48754080\nPoints: 5\n# Comments: 2",
+      "url": "https://underhanded-c.org/"
+    },
+    {
+      "category": "AI",
+      "title": "ZCode – Harness for GLM-5.2",
+      "source": "Hacker News: Front Page",
+      "date": "Wed, 01 Jul 2026 22:03:36 +0000",
+      "summary": "Article URL: https://zcode.z.ai/en\nComments URL: https://news.ycombinator.com/item?id=48753715\nPoints: 81\n# Comments: 169",
+      "url": "https://zcode.z.ai/en"
+    },
+    {
+      "category": "Space",
+      "title": " Steven Spielberg sci-fi movies ranked, worst to best ",
+      "source": " Latest from Space.com ",
+      "date": "Wed, 01 Jul 2026 22:00:00 +0000",
+      "summary": "Disclosure Day has arrived in cinemas, and it's got us nostalgic for all Steven Spielberg's best directorial sci-fi movies to date.",
+      "url": "https://www.space.com/entertainment/space-movies-shows/steven-spielberg-sci-fi-movies-ranked-worst-to-best"
+    },
+    {
+      "category": "AI",
+      "title": "T-Mobile moving tens of thousands of virtual machines off VMware amid lawsuit",
+      "source": "Ars Technica - All content",
+      "date": "Wed, 01 Jul 2026 21:21:21 +0000",
+      "summary": "T-Mobile wants Broadcom to keep supporting its VMware perpetual licenses.",
+      "url": "https://arstechnica.com/information-technology/2026/07/t-mobile-moving-tens-of-thousands-of-virtual-machines-off-vmware-amid-lawsuit/"
+    },
+    {
+      "category": "Science",
+      "title": " Ancient-DNA analysis solves 500-year-old mystery of what killed 2 Medici brothers ",
+      "source": " Latest from Live Science ",
+      "date": "Wed, 01 Jul 2026 20:50:26 +0000",
+      "summary": "An ancient-DNA analysis of the bones of two members of the Renaissance Medici family has confirmed they had malaria when they died.",
+      "url": "https://www.livescience.com/archaeology/ancient-dna-analysis-solves-500-year-old-mystery-of-what-killed-2-medici-brothers"
+    },
+    {
+      "category": "Space",
+      "title": "NASA’s Chandra Examines Milky Way at Arms’ Length",
+      "source": "NASA",
+      "date": "Wed, 01 Jul 2026 20:17:20 +0000",
+      "summary": "A new result using NASA’s Chandra X-ray Observatory shows that the outer spiral arms in the Milky Way galaxy may reach wider than previously thought. This finding may lead astronomers to adjust their understanding of our home galaxy’s structure. A team of astronomers made this discovery by making precise measurements of distances to dust clouds […]",
+      "url": "https://science.nasa.gov/missions/chandra/nasas-chandra-examines-milky-way-at-arms-length/"
+    },
+    {
+      "category": "Space",
+      "title": " Watch Atlas V rocket launch 29 Amazon Leo broadband satellites early on July 2 ",
+      "source": " Latest from Space.com ",
+      "date": "Wed, 01 Jul 2026 20:00:00 +0000",
+      "summary": "A United Launch Alliance Atlas V rocket will launch 29 Amazon Leo internet satellites to orbit from Florida early Thursday morning (July 2), and you can watch it live.",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/ula-atlas-v-amazon-leo-8-internet-satellite-launch"
+    },
+    {
+      "category": "AI",
+      "title": "NASA chief praises progress Blue Origin is making after launch failure",
+      "source": "Ars Technica - All content",
+      "date": "Wed, 01 Jul 2026 19:57:36 +0000",
+      "summary": "\"We've got time into 2027 before we're getting nervous.\"",
+      "url": "https://arstechnica.com/space/2026/07/nasa-chief-praises-progress-blue-origin-is-making-after-launch-failure/"
+    },
+    {
+      "category": "AI",
+      "title": "US home battery installations hit record high on rising electricity costs",
+      "source": "Ars Technica - All content",
+      "date": "Wed, 01 Jul 2026 19:11:15 +0000",
+      "summary": "Record home battery installations unlock options for grids—and AI data centers.",
+      "url": "https://arstechnica.com/science/2026/07/us-home-battery-installations-hit-record-high-in-early-2026/"
+    },
+    {
+      "category": "Space",
+      "title": " 'Rocket's Red Glare': How NASA's Artemis 2 moon mission celebrated America's 250th birthday ",
+      "source": " Latest from Space.com ",
+      "date": "Wed, 01 Jul 2026 19:00:00 +0000",
+      "summary": "NASA joined in the semiquincentennial celebrations this year by painting \"America 250\" on the rocket that launched the Artemis 2 astronauts around the moon.",
+      "url": "https://www.space.com/space-exploration/artemis/rockets-red-glare-how-nasas-artemis-2-moon-mission-celebrated-americas-250th-birthday"
     },
     {
       "category": "Science",
@@ -51,52 +123,12 @@
       "url": "https://www.livescience.com/animals/dinosaurs/antarcticas-first-dinosaur-fossil-belonged-to-a-group-of-the-largest-animals-ever"
     },
     {
-      "category": "AI",
-      "title": "Reduce GVisor Cold Starts with GPU Snapshotting",
-      "source": "Hacker News: Front Page",
-      "date": "Wed, 01 Jul 2026 16:19:47 +0000",
-      "summary": "Article URL: https://cerebrium.ai/blog/reducing-gpu-cold-starts-with-memory-snapshots-restoring-cuda-workloads-in-second\nComments URL: https://news.ycombinator.com/item?id=48749313\nPoints: 27\n# Comments: 7",
-      "url": "https://cerebrium.ai/blog/reducing-gpu-cold-starts-with-memory-snapshots-restoring-cuda-workloads-in-second"
-    },
-    {
       "category": "Space",
       "title": "NASA Seeks Volunteers for New Yearlong Simulated Moon, Mars Mission",
       "source": "NASA",
       "date": "Wed, 01 Jul 2026 16:15:14 +0000",
       "summary": "NASA is recruiting research participants for the agency’s next simulated deep space mission. Beginning no earlier than August 2027, research volunteers will spend one year living and working in interplanetary environments at the agency’s Johnson Space Center in Houston, operating under isolated conditions expected during crewed missions to the Moon or Red Planet. Insights from this […]",
       "url": "https://www.nasa.gov/humans-in-space/nasa-seeks-volunteers-for-new-yearlong-simulated-moon-mars-mission/"
-    },
-    {
-      "category": "AI",
-      "title": "NASA inspector general suggests Boeing's Starliner will now be a decade late",
-      "source": "Ars Technica - All content",
-      "date": "Wed, 01 Jul 2026 16:11:39 +0000",
-      "summary": "Starliner's certification may be delayed to 2027, 10 years later than Boeing's original schedule.",
-      "url": "https://arstechnica.com/space/2026/07/nasa-inspector-general-suggests-boeings-starliner-will-now-be-a-decade-late/"
-    },
-    {
-      "category": "Space",
-      "title": " July's planetary lineup is changing — and Venus is the last one standing ",
-      "source": " Latest from Space.com ",
-      "date": "Wed, 01 Jul 2026 16:00:00 +0000",
-      "summary": "Venus dominates the evening sky while Saturn, Mars and Uranus put on a show for early risers.",
-      "url": "https://www.space.com/stargazing/julys-planetary-lineup-is-changing-and-venus-is-the-last-one-standing"
-    },
-    {
-      "category": "AI",
-      "title": "Solid and Clean Code never felt solid or clean to me",
-      "source": "Hacker News: Front Page",
-      "date": "Wed, 01 Jul 2026 15:57:51 +0000",
-      "summary": "Article URL: https://devz.cl/posts/solid-never-felt-solid/\nComments URL: https://news.ycombinator.com/item?id=48748951\nPoints: 17\n# Comments: 14",
-      "url": "https://devz.cl/posts/solid-never-felt-solid/"
-    },
-    {
-      "category": "AI",
-      "title": "A space history mystery: What happened to the Viking arm used 50 years ago?",
-      "source": "Ars Technica - All content",
-      "date": "Wed, 01 Jul 2026 15:20:34 +0000",
-      "summary": "A timely tale about a 50-year-old robotic arm...",
-      "url": "https://arstechnica.com/space/2026/07/50-years-on-will-the-mars-lander-arm-that-opened-the-air-and-space-raise-its-hand/"
     },
     {
       "category": "Space",
@@ -107,44 +139,12 @@
       "url": "https://www.nasa.gov/image-article/link-spacecraft-set-for-mission-to-boost-nasas-swift-observatory/"
     },
     {
-      "category": "Space",
-      "title": "NASA’s Webb Studies How Planet Survived Death of its Star",
-      "source": "NASA",
-      "date": "Wed, 01 Jul 2026 15:00:00 +0000",
-      "summary": "NASA’s James Webb Space Telescope is giving us new insight into the far-future of solar systems like our own, as the agency continues to reveal the secrets of the universe and our place in it. Billions of years ago, a Sun-like star nearing the end of its life swelled tremendously in size to become a […]",
-      "url": "https://science.nasa.gov/missions/webb/nasas-webb-studies-how-planet-survived-death-of-its-star/"
-    },
-    {
-      "category": "Space",
-      "title": " NASA will send a soccer ball to the moon —if the US wins the World Cup ",
-      "source": " Latest from Space.com ",
-      "date": "Wed, 01 Jul 2026 15:00:00 +0000",
-      "summary": "NASA will send a soccer ball to the moon if the United States wins the FIFA World Cup, agency chief Jared Isaacman said on Tuesday (June 30).",
-      "url": "https://www.space.com/astronomy/moon/nasa-will-send-a-soccer-ball-to-the-moon-if-the-us-wins-the-world-cup"
-    },
-    {
       "category": "Science",
       "title": " Scientists propose launching a giant 'airbag' into space to protect us from solar superstorms ‪— and experts say it's 'quite feasible' ",
       "source": " Latest from Live Science ",
       "date": "Wed, 01 Jul 2026 14:13:57 +0000",
       "summary": "A new study suggests creating a satellite constellation, dubbed StormWall, that could reduce the impacts of the worst solar storms by more than 50%. The novel plan, which involves dumping gas into the magnetosphere, could be the only way to directly protect ourselves from dangerous space weather, experts say.",
       "url": "https://www.livescience.com/space/space-exploration/scientists-propose-launching-a-giant-airbag-into-space-to-protect-us-from-solar-superstorms-and-experts-say-its-quite-feasible"
-    },
-    {
-      "category": "Science",
-      "title": " Study suggests life on Earth has around 1.8 billion years left — but the biosphere might evolve to survive even longer ",
-      "source": " Latest from Live Science ",
-      "date": "Wed, 01 Jul 2026 13:55:14 +0000",
-      "summary": "Using complex climate models, researchers have pinned down the point at which life will no longer be able to survive on Earth.",
-      "url": "https://www.livescience.com/planet-earth/study-suggests-life-on-earth-has-around-1-8-billion-years-left"
-    },
-    {
-      "category": "AI",
-      "title": "UK likely to intervene in Paramount takeover of Warner Bros. Discovery",
-      "source": "Ars Technica - All content",
-      "date": "Wed, 01 Jul 2026 13:24:39 +0000",
-      "summary": "The acquisition was approved without concessions by the Department of Justice in June.",
-      "url": "https://arstechnica.com/tech-policy/2026/07/uk-likely-to-intervene-in-paramount-takeover-of-warner-bros-discovery/"
     },
     {
       "category": "Biblical Studies",
@@ -177,6 +177,14 @@
       "date": "Wed, 01 Jul 2026 04:00:00 +0000",
       "summary": "There are several good reasons to think Jude did not believe that 1 Enoch is Scripture.",
       "url": "https://www.thegospelcoalition.org/article/enoch-why-jude-quote/"
+    },
+    {
+      "category": "Science",
+      "title": "Scientists discover a completely different way to fight viruses",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Tue, 30 Jun 2026 16:18:00 EDT",
+      "summary": "Researchers have uncovered an unexpected antiviral defense system in sea anemones that works very differently from the one humans use. The discovery suggests evolution developed multiple ways to combat viruses, challenging long-held ideas about how animal immune systems evolved.",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260630020534.htm"
     },
     {
       "category": "Biblical Studies",
@@ -228,19 +236,19 @@
     },
     {
       "category": "AI",
+      "title": "Inside Genebench-Pro",
+      "source": "OpenAI News",
+      "date": "Tue, 30 Jun 2026 00:00:00 GMT",
+      "summary": "",
+      "url": "https://openai.com/index/genebench-pro/case-studies"
+    },
+    {
+      "category": "AI",
       "title": "Introducing GeneBench-Pro",
       "source": "OpenAI News",
       "date": "Tue, 30 Jun 2026 00:00:00 GMT",
       "summary": "Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets.",
       "url": "https://openai.com/index/introducing-genebench-pro"
-    },
-    {
-      "category": "AI",
-      "title": "Core dump epidemiology: fixing an 18-year-old bug",
-      "source": "OpenAI News",
-      "date": "Tue, 30 Jun 2026 00:00:00 GMT",
-      "summary": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
-      "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug"
     },
     {
       "category": "Theology",
@@ -249,14 +257,6 @@
       "date": "Mon, 29 Jun 2026 18:30:37 +0000",
       "summary": "Over time and through many tears, he brought me to the point where I could honestly say that if I never pastored another church or preached another sermon, Christ is enough. \nThe post I Was Fired for My Preaching appeared first on 9Marks.",
       "url": "https://www.9marks.org/article/i-was-fired-for-my-preaching/?utm_source=rss&utm_medium=rss&utm_campaign=i-was-fired-for-my-preaching"
-    },
-    {
-      "category": "Science",
-      "title": "These tiny soil microbes could rescue crops from salty farmland",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Sun, 28 Jun 2026 21:21:44 EDT",
-      "summary": "Researchers have discovered that beneficial soil bacteria give plants an unexpected survival advantage in salty soils. Instead of helping plants keep salt out, the microbes stimulate the production of lignin, a natural compound that strengthens roots and makes plants more resilient. Greenhouse and field tests showed healthier plants and higher yields in salty conditions. The findings could lead to bio-based treatments that help farmers grow crops on land once considered too salty for agriculture.",
-      "url": "https://www.sciencedaily.com/releases/2026/06/260626124703.htm"
     },
     {
       "category": "Theology",
