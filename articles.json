@@ -1,70 +1,166 @@
 {
-  "lastUpdated": "2026-07-02T12:04:52.169Z",
+  "lastUpdated": "2026-07-02T17:38:13.324Z",
   "articleCount": 39,
   "articles": [
     {
-      "category": "Space",
-      "title": " July full moon 2026: When, where and how to see the Buck Moon ",
-      "source": " Latest from Space.com ",
-      "date": "Thu, 02 Jul 2026 12:00:00 +0000",
-      "summary": "Your guide to July's full Buck Moon, from peak times to skywatching highlights.",
-      "url": "https://www.space.com/stargazing/july-full-moon-2026-when-where-and-how-to-see-the-buck-moon"
-    },
-    {
-      "category": "AI",
-      "title": "Vite+ Beta",
-      "source": "Hacker News: Front Page",
-      "date": "Thu, 02 Jul 2026 11:30:01 +0000",
-      "summary": "Article URL: https://voidzero.dev/posts/announcing-vite-plus-beta\nComments URL: https://news.ycombinator.com/item?id=48759761\nPoints: 4\n# Comments: 0",
-      "url": "https://voidzero.dev/posts/announcing-vite-plus-beta"
-    },
-    {
-      "category": "AI",
-      "title": "OpenAI: In early talks to give 5% stake to US Government",
-      "source": "Hacker News: Front Page",
-      "date": "Thu, 02 Jul 2026 11:16:31 +0000",
-      "summary": "Article URL: https://www.theguardian.com/technology/2026/jul/02/openai-stake-us-government-ai-sam-altman\nComments URL: https://news.ycombinator.com/item?id=48759623\nPoints: 12\n# Comments: 8",
-      "url": "https://www.theguardian.com/technology/2026/jul/02/openai-stake-us-government-ai-sam-altman"
-    },
-    {
       "category": "Science",
-      "title": "Temporary protective status workers play critical role in state economy, view US as home, research suggests",
+      "title": "MOF thin films reveal hidden dense packing, challenging decades of porous assumptions",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Thu, 02 Jul 2026 07:00:05 EDT",
-      "summary": "Immigrant workers protected by a key humanitarian status make significant contributions to New York state's economy and communities, according to new Cornell University research.",
-      "url": "https://phys.org/news/2026-07-temporary-status-workers-play-critical.html"
-    },
-    {
-      "category": "AI",
-      "title": "Editorial: It's time to step up and have your say for science",
-      "source": "Ars Technica - All content",
-      "date": "Thu, 02 Jul 2026 10:00:27 +0000",
-      "summary": "Your comments on a dangerous rule putting politicals in charge of science can matter.",
-      "url": "https://arstechnica.com/science/2026/07/editorial-the-most-important-thing-you-can-do-to-protect-science/"
-    },
-    {
-      "category": "Space",
-      "title": " In 1776, the moon was a clock, a calendar and a streetlight — and it was 31 feet closer to Earth ",
-      "source": " Latest from Space.com ",
-      "date": "Thu, 02 Jul 2026 10:00:00 +0000",
-      "summary": "The moon over America's first Independence Day was about 31 feet closer to Earth than it is today. Here's how colonists used it as a clock, calendar and streetlight — and what astronomers knew about it.",
-      "url": "https://www.space.com/astronomy/moon/in-1776-the-moon-was-a-clock-a-calendar-and-a-streetlight-and-it-was-31-feet-closer-to-earth"
-    },
-    {
-      "category": "Space",
-      "title": " Sun fires off 10 solar flares in 24 hours as multiple Earth-bound CMEs raise northern lights hopes for July 4 weekend ",
-      "source": " Latest from Space.com ",
-      "date": "Thu, 02 Jul 2026 09:53:00 +0000",
-      "summary": "Multiple CMEs are heading toward Earth, with G1-G2 geomagnetic storm conditions possible as the holiday weekend begins.",
-      "url": "https://www.space.com/stargazing/auroras/sun-fires-off-10-solar-flares-in-24-hours-as-multiple-earth-bound-cmes-raise-northern-lights-hopes-for-july-4-weekend"
+      "date": "Thu, 02 Jul 2026 13:20:05 EDT",
+      "summary": "Due to their high porosity, metal-organic frameworks (MOFs) are regarded as promising materials for innovative applications, which is why the Nobel Prize in Chemistry was awarded in 2025 for their discovery. They are used, for example, to store gases, to capture CO2 and for the targeted delivery of medicines.",
+      "url": "https://phys.org/news/2026-07-mof-thin-reveal-hidden-dense.html"
     },
     {
       "category": "Science",
-      "title": " NASA mission to rescue a falling space telescope before it crashes to Earth delayed once again ",
+      "title": "Space startup to launch India's first private orbital rocket",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Thu, 02 Jul 2026 13:20:04 EDT",
+      "summary": "Indian startup Skyroot Aerospace said Thursday it would hold the maiden test flight of the country's first privately developed orbital-class rocket in the coming weeks.",
+      "url": "https://phys.org/news/2026-07-space-startup-india-private-orbital.html"
+    },
+    {
+      "category": "Science",
+      "title": "El Niño is shaping up for a hot summer—could recycled water be part of the solution?",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Thu, 02 Jul 2026 13:20:02 EDT",
+      "summary": "With El Niño officially declared for summer 2026, Dr. Laura Fernandez and researchers at Macquarie University are testing the use of recycled water to irrigate trees, helping cool Western Sydney.",
+      "url": "https://phys.org/news/2026-07-el-nio-hot-summer-recycled.html"
+    },
+    {
+      "category": "Science",
+      "title": " 'Uncharted territory': Record high ocean temperatures confirmed for June as El Niño strengthens its grip ",
       "source": " Latest from Live Science ",
-      "date": "Thu, 02 Jul 2026 09:18:37 +0000",
-      "summary": "NASA's Swift Observatory is slated to enter Earth's atmosphere later this year, but the Katalyst Space spacecraft aims to boost it higher this summer — if NASA can iron out some launch difficulties.",
-      "url": "https://www.livescience.com/space/astronomy/nasa-launches-bold-mission-to-rescue-a-falling-space-telescope-before-it-crashes-to-earth"
+      "date": "Thu, 02 Jul 2026 17:06:33 +0000",
+      "summary": "Global sea surface temperatures reached record highs for June as a newly declared El Niño hits the Pacific Ocean, prompting concerns over extreme weather, flooding, sea level rise and stress to global ocean ecosystems.",
+      "url": "https://www.livescience.com/planet-earth/climate-change/uncharted-territory-record-high-ocean-temperatures-confirmed-for-june-as-el-nino-strengthens-its-grip"
+    },
+    {
+      "category": "AI",
+      "title": "Ars Live recap: When are the big rockets NASA desperately needs going to be ready?",
+      "source": "Ars Technica - All content",
+      "date": "Thu, 02 Jul 2026 16:46:47 +0000",
+      "summary": "I have not seen anyone put out a date for a new rocket, and actually hit it.",
+      "url": "https://arstechnica.com/space/2026/07/ars-live-recap-when-are-the-big-rockets-nasa-desperately-needs-going-to-be-ready/"
+    },
+    {
+      "category": "AI",
+      "title": "Show HN: QUALITY.md – open format/specification, agent skill, and CLI",
+      "source": "Hacker News: Front Page",
+      "date": "Thu, 02 Jul 2026 16:36:12 +0000",
+      "summary": "Hello all, I created QUALITY.md to help build a holistic quality evaluation process for my projects. Turns out it's also ideal for loop engineering. I'm hoping this provides a valuable contribution to the conversation around quality and craft and having AI help us in the effort. I hope to shift the mindset from a reactive/review/repair mindset to a proactive care mindset.\nGive it a go. I look forward to your thoughts/comments/feedback!\nWebsite: https://getquality.md\nGitHub: https://github.com/qualitymd/quality.md\nComments URL: https://news.ycombinator.com/item?id=48763963\nPoints: 13\n# Comments: 6",
+      "url": "https://getquality.md"
+    },
+    {
+      "category": "AI",
+      "title": "Plex debuts 5-year membership pass for $250",
+      "source": "Ars Technica - All content",
+      "date": "Thu, 02 Jul 2026 16:35:59 +0000",
+      "summary": "Plex is pushing customers to newer features and more frequent payments.",
+      "url": "https://arstechnica.com/gadgets/2026/07/250-used-to-get-you-a-lifetime-plex-pass-now-you-get-a-five-year-subscription/"
+    },
+    {
+      "category": "AI",
+      "title": "Africa CDC confirms Marburg case in Uganda as Ebola outbreak rages",
+      "source": "Ars Technica - All content",
+      "date": "Thu, 02 Jul 2026 16:30:37 +0000",
+      "summary": "Early reports indicate there may be another case, but spread is thought to be localized.",
+      "url": "https://arstechnica.com/health/2026/07/africa-cdc-confirms-marburg-case-in-uganda-as-ebola-outbreak-rages/"
+    },
+    {
+      "category": "AI",
+      "title": "Former Microsoft dev built a 2.5KB Notepad clone",
+      "source": "Hacker News: Front Page",
+      "date": "Thu, 02 Jul 2026 16:29:27 +0000",
+      "summary": "Article URL: https://theguptalog.blogspot.com/2026/07/former-microsoft-dev-built-25kb-notepad.html\nComments URL: https://news.ycombinator.com/item?id=48763868\nPoints: 18\n# Comments: 12",
+      "url": "https://theguptalog.blogspot.com/2026/07/former-microsoft-dev-built-25kb-notepad.html"
+    },
+    {
+      "category": "Space",
+      "title": " Astronomers discover a potentially habitable planet just 25 light-years away. 'This one is exciting' ",
+      "source": " Latest from Space.com ",
+      "date": "Thu, 02 Jul 2026 16:00:00 +0000",
+      "summary": "Astronomers discovered a planet 25 light-years away that orbits within the habitable zone of its star that could potentially support liquid water and possibly life.",
+      "url": "https://www.space.com/astronomy/exoplanets/astronomers-discover-a-potentially-habitable-planet-just-25-light-years-away-this-one-is-exciting"
+    },
+    {
+      "category": "AI",
+      "title": "Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory",
+      "source": "Hacker News: Front Page",
+      "date": "Thu, 02 Jul 2026 15:25:16 +0000",
+      "summary": "Article URL: https://mathstodon.xyz/@iblech/116769502749142438\nComments URL: https://news.ycombinator.com/item?id=48763035\nPoints: 167\n# Comments: 77",
+      "url": "https://mathstodon.xyz/@iblech/116769502749142438"
+    },
+    {
+      "category": "Science",
+      "title": " James Webb telescope may have discovered a mysterious, never-before-seen substance on Pluto and Titan ",
+      "source": " Latest from Live Science ",
+      "date": "Thu, 02 Jul 2026 15:13:40 +0000",
+      "summary": "A new study has identified a very specific wavelength of light missing from both Pluto and Saturn's largest moon, Titan. The surprising signal suggests that these worlds harbor an unknown molecule that has not yet been seen anywhere in the solar system or beyond.",
+      "url": "https://www.livescience.com/space/astronomy/james-webb-telescope-may-have-discovered-a-mysterious-never-before-seen-substance-on-pluto-and-titan"
+    },
+    {
+      "category": "Space",
+      "title": " How to invade planet Earth: An alien's guide to bringing the human race to its knees ",
+      "source": " Latest from Space.com ",
+      "date": "Thu, 02 Jul 2026 15:00:00 +0000",
+      "summary": "From \"Independence Day\" to \"Invasion of the Body Snatchers\", movies and TV shows are packed with advice for anyone aspiring to conquer this unassuming blue dot.",
+      "url": "https://www.space.com/entertainment/space-movies-shows/how-to-invade-planet-earth-an-aliens-guide-to-bringing-the-human-race-to-its-knees"
+    },
+    {
+      "category": "Space",
+      "title": "Good Morning, Earth!",
+      "source": "NASA",
+      "date": "Thu, 02 Jul 2026 14:41:24 +0000",
+      "summary": "NASA astronaut Chris Williams took this photo of an orbital sunrise from the International Space Station on June 26, 2026. In 24 hours, the space station makes 16 orbits of Earth, traveling through 16 sunrises and sunsets. Learn more about the orbiting laboratory. Image credit: NASA/Chris Williams",
+      "url": "https://www.nasa.gov/image-article/good-morning-earth/"
+    },
+    {
+      "category": "Science",
+      "title": " Ancient ring discovered underground in Scotland could be a Stonehenge-like monument ",
+      "source": " Latest from Live Science ",
+      "date": "Thu, 02 Jul 2026 14:34:19 +0000",
+      "summary": "A hidden ring of stones or timbers detected beneath peat at Machrie Moor could represent a previously unknown Neolithic or Bronze Age monument.",
+      "url": "https://www.livescience.com/archaeology/ancient-ring-discovered-underground-in-scotland-could-be-a-stonehenge-like-monument"
+    },
+    {
+      "category": "Theology",
+      "title": "Is This Young Person Ready to Be Baptized? Clarifying Questions and Considerations for Churches",
+      "source": "9Marks",
+      "date": "Thu, 02 Jul 2026 14:20:38 +0000",
+      "summary": "Jesus isn’t like the credit card company that sets up shop on a college campus trying to get students to sign on the dotted line without reading the fine print. No, Jesus forces potential converts to stare at the fine print before signing on.\nThe post Is This Young Person Ready to Be Baptized? Clarifying Questions and Considerations for Churches appeared first on 9Marks.",
+      "url": "https://www.9marks.org/article/is-this-young-person-ready-to-be-baptized-clarifying-questions-and-considerations-for-churches/?utm_source=rss&utm_medium=rss&utm_campaign=is-this-young-person-ready-to-be-baptized-clarifying-questions-and-considerations-for-churches"
+    },
+    {
+      "category": "Space",
+      "title": "NASA’s Webb Reveals Stars Sparking to Life in Cosmic Celebration",
+      "source": "NASA",
+      "date": "Thu, 02 Jul 2026 14:00:00 +0000",
+      "summary": "NASA’s James Webb Space Telescope has captured the infrared light of numerous features that previously were impossible to see beyond the thick dust of the FS Tau star system. In addition to myriad background galaxies that burst into view like fireworks for the United States’ 250th anniversary celebrations, this image flickers with a number of […]",
+      "url": "https://science.nasa.gov/missions/webb/nasas-webb-reveals-stars-sparking-to-life-in-cosmic-celebration/"
+    },
+    {
+      "category": "Space",
+      "title": " 'Flying saucer' arrives at NASA for Artemis 3 moon mission in time for World UFO Day | Space photo of the day for July 2, 2026 ",
+      "source": " Latest from Space.com ",
+      "date": "Thu, 02 Jul 2026 14:00:00 +0000",
+      "summary": "Just in time for UFO Day.",
+      "url": "https://www.space.com/space-exploration/human-spaceflight/flying-saucer-arrives-at-nasa-for-artemis-3-moon-mission-space-photo-of-the-day-for-july-2-2026"
+    },
+    {
+      "category": "Biblical Studies",
+      "title": "The Sayings of Jesus in the Gospel of Thomas",
+      "source": "Biblical Archaeology Society",
+      "date": "Thu, 02 Jul 2026 11:00:11 +0000",
+      "summary": "New Testament scholar Simon Gathercole examines what the sayings of Jesus in the Gospel of Thomas reveal about the early Christian world in which they were written. \nThe post The Sayings of Jesus in the Gospel of Thomas appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/daily/biblical-topics/bible-versions-and-translations/the-sayings-of-jesus-in-the-gospel-of-thomas/"
+    },
+    {
+      "category": "Biblical Studies",
+      "title": "The Gospel of Thomas’s 114 Sayings of Jesus",
+      "source": "Biblical Archaeology Society",
+      "date": "Thu, 02 Jul 2026 11:00:09 +0000",
+      "summary": "Read the 114 sayings of Jesus from the Gospel of Thomas as translated by Stephen J. Patterson and James M. Robinson.\nThe post The Gospel of Thomas’s 114 Sayings of Jesus appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/daily/biblical-topics/bible-versions-and-translations/the-gospel-of-thomas-114-sayings-of-jesus/"
     },
     {
       "category": "History",
@@ -73,30 +169,6 @@
       "date": "Thu, 02 Jul 2026 09:00:28 +0000",
       "summary": "The scribe of the Declaration of Independence—and perhaps the first man to read it in public—was born on March 28, 1736 in Haddonfield, New Jersey. His family moved to Philadelphia eight years later. At the age of thirteen, Timothy Matlack began an apprenticeship under a prosperous Quaker merchant named John Reynell. Looking forward to a […]\nThe post Timothy Matlack, Scribe of the Declaration of Independence appeared first on Journal of the American Revolution.",
       "url": "https://allthingsliberty.com/2026/07/timothy-matlack-scribe-of-the-declaration-of-independence/"
-    },
-    {
-      "category": "Science",
-      "title": "New biosensor reveals rare lipid gathers in membrane hotspots during cell stress",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Thu, 02 Jul 2026 05:00:04 EDT",
-      "summary": "Inside every cell are lipid molecules that make up cellular membranes, helping organelles communicate and respond to stress. Researchers have struggled to observe lipids in action because current detection tools lack sufficient sensitivity and selectivity, hindering advances in understanding lipids.",
-      "url": "https://phys.org/news/2026-06-biosensor-reveals-rare-lipid-membrane.html"
-    },
-    {
-      "category": "Science",
-      "title": "'Gus' the T. rex presented in New York ahead of auction",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Thu, 02 Jul 2026 04:40:02 EDT",
-      "summary": "One of the world's most complete Tyrannosaurus rex skeletons, nicknamed \"Gus,\" was showcased Wednesday at Sotheby's auction house in New York ahead of its sale later this month.",
-      "url": "https://phys.org/news/2026-07-gus-rex-york-auction.html"
-    },
-    {
-      "category": "AI",
-      "title": "Google loses fight over record $4.7B EU antitrust fine",
-      "source": "Hacker News: Front Page",
-      "date": "Thu, 02 Jul 2026 08:34:13 +0000",
-      "summary": "Article URL: https://www.cnbc.com/2026/07/02/alphabet-google-android-eu-antitrust-fine-4-1-billion-euro-appeal.html\nComments URL: https://news.ycombinator.com/item?id=48758309\nPoints: 127\n# Comments: 118",
-      "url": "https://www.cnbc.com/2026/07/02/alphabet-google-android-eu-antitrust-fine-4-1-billion-euro-appeal.html"
     },
     {
       "category": "Theology",
@@ -123,68 +195,12 @@
       "url": "https://science.nasa.gov/solar-system/whats-up-july-2026-skywatching-tips-from-nasa/"
     },
     {
-      "category": "AI",
-      "title": "T-Mobile moving tens of thousands of virtual machines off VMware amid lawsuit",
-      "source": "Ars Technica - All content",
-      "date": "Wed, 01 Jul 2026 21:21:21 +0000",
-      "summary": "T-Mobile wants Broadcom to keep supporting its VMware perpetual licenses.",
-      "url": "https://arstechnica.com/information-technology/2026/07/t-mobile-moving-tens-of-thousands-of-virtual-machines-off-vmware-amid-lawsuit/"
-    },
-    {
-      "category": "Science",
-      "title": " Ancient-DNA analysis solves 500-year-old mystery of what killed 2 Medici brothers ",
-      "source": " Latest from Live Science ",
-      "date": "Wed, 01 Jul 2026 20:50:26 +0000",
-      "summary": "An ancient-DNA analysis of the bones of two members of the Renaissance Medici family has confirmed they had malaria when they died.",
-      "url": "https://www.livescience.com/archaeology/ancient-dna-analysis-solves-500-year-old-mystery-of-what-killed-2-medici-brothers"
-    },
-    {
-      "category": "Space",
-      "title": "NASA’s Chandra Examines Milky Way at Arms’ Length",
-      "source": "NASA",
-      "date": "Wed, 01 Jul 2026 20:17:20 +0000",
-      "summary": "A new result using NASA’s Chandra X-ray Observatory shows that the outer spiral arms in the Milky Way galaxy may reach wider than previously thought. This finding may lead astronomers to adjust their understanding of our home galaxy’s structure. A team of astronomers made this discovery by making precise measurements of distances to dust clouds […]",
-      "url": "https://science.nasa.gov/missions/chandra/nasas-chandra-examines-milky-way-at-arms-length/"
-    },
-    {
-      "category": "AI",
-      "title": "NASA chief praises progress Blue Origin is making after launch failure",
-      "source": "Ars Technica - All content",
-      "date": "Wed, 01 Jul 2026 19:57:36 +0000",
-      "summary": "\"We've got time into 2027 before we're getting nervous.\"",
-      "url": "https://arstechnica.com/space/2026/07/nasa-chief-praises-progress-blue-origin-is-making-after-launch-failure/"
-    },
-    {
-      "category": "Science",
-      "title": " Antarctica's first dinosaur fossil belonged to a group of the largest land animals ever ",
-      "source": " Latest from Live Science ",
-      "date": "Wed, 01 Jul 2026 16:45:38 +0000",
-      "summary": "Researchers have identified the first-ever dinosaur fossil discovered on Antarctica, revealing it belonged to a titanosaur.",
-      "url": "https://www.livescience.com/animals/dinosaurs/antarcticas-first-dinosaur-fossil-belonged-to-a-group-of-the-largest-animals-ever"
-    },
-    {
-      "category": "Space",
-      "title": "NASA Seeks Volunteers for New Yearlong Simulated Moon, Mars Mission",
-      "source": "NASA",
-      "date": "Wed, 01 Jul 2026 16:15:14 +0000",
-      "summary": "NASA is recruiting research participants for the agency’s next simulated deep space mission. Beginning no earlier than August 2027, research volunteers will spend one year living and working in interplanetary environments at the agency’s Johnson Space Center in Houston, operating under isolated conditions expected during crewed missions to the Moon or Red Planet. Insights from this […]",
-      "url": "https://www.nasa.gov/humans-in-space/nasa-seeks-volunteers-for-new-yearlong-simulated-moon-mars-mission/"
-    },
-    {
       "category": "Biblical Studies",
       "title": "The Question of Mary’s Perpetual Virginity",
       "source": "Biblical Archaeology Society",
       "date": "Wed, 01 Jul 2026 10:45:36 +0000",
       "summary": "In the Summer 2026 issue of Biblical Archaeology Review, New Testament scholar Helen Bond asks a provocative question: “Was Mary a Second Wife?” Replete with […]\nThe post The Question of Mary’s Perpetual Virginity appeared first on Biblical Archaeology Society.",
       "url": "https://www.biblicalarchaeology.org/daily/biblical-topics/bible-interpretation/question-of-marys-perpetual-virginity/"
-    },
-    {
-      "category": "Biblical Studies",
-      "title": "Rebuilding the Lighthouse of Alexandria",
-      "source": "Biblical Archaeology Society",
-      "date": "Wed, 01 Jul 2026 10:00:56 +0000",
-      "summary": "The Lighthouse of Alexandria stood as one of the tallest manmade structures in the world for a millennium and a half, until it went out […]\nThe post Rebuilding the Lighthouse of Alexandria appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-egypt/rebuilding-the-lighthouse-of-alexandria/"
     },
     {
       "category": "Theology",
@@ -201,14 +217,6 @@
       "date": "Tue, 30 Jun 2026 16:18:00 EDT",
       "summary": "Researchers have uncovered an unexpected antiviral defense system in sea anemones that works very differently from the one humans use. The discovery suggests evolution developed multiple ways to combat viruses, challenging long-held ideas about how animal immune systems evolved.",
       "url": "https://www.sciencedaily.com/releases/2026/06/260630020534.htm"
-    },
-    {
-      "category": "Biblical Studies",
-      "title": "Who Was Jesus’ Biological Father?",
-      "source": "Biblical Archaeology Society",
-      "date": "Tue, 30 Jun 2026 11:00:45 +0000",
-      "summary": "Was Joseph Jesus’ biological father? If not, who was Jesus’ biological father? Andrew Lincoln examines what early Christians thought about conception and explains how views about this subject have changed over time.\nThe post Who Was Jesus’ Biological Father? appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/daily/biblical-topics/bible-interpretation/who-was-jesus-biological-father/"
     },
     {
       "category": "History",
@@ -281,14 +289,6 @@
       "date": "Wed, 24 Jun 2026 22:00:26 +0000",
       "summary": "Recently returned from imprisonment in England, respected Capt. John Manley succeeded Samuel Nicholson in command of the Continental Navy frigate formerly known as Deane and recently renamed Hague on September 16, 1782. All of the vessel’s principal officers returned to service under Captain Manley including: 1st Lt. Benjamin Page, 2nd Lt. Arthur Dillaway, Sailing Master […]\nThe post The Final Cruise of the Continental Navy frigate Hague appeared first on Journal of the American Revolution.",
       "url": "https://allthingsliberty.com/2026/06/the-final-cruise-of-the-continental-navy-frigate-hague/"
-    },
-    {
-      "category": "Theology",
-      "title": "The Art of Dying a Slow Death Well: Long-Suffering in Pastoral Ministry",
-      "source": "9Marks",
-      "date": "Wed, 24 Jun 2026 19:09:10 +0000",
-      "summary": "In my experience, the temptation to bail out of ministry hasn’t come from one major trial that seemed impossible to overcome. Instead, it’s been the feeling of death by a thousand cuts that threatens my joy in this work.\nThe post The Art of Dying a Slow Death Well: Long-Suffering in Pastoral Ministry appeared first on 9Marks.",
-      "url": "https://www.9marks.org/article/the-art-of-dying-a-slow-death-well-long-suffering-in-pastoral-ministry/?utm_source=rss&utm_medium=rss&utm_campaign=the-art-of-dying-a-slow-death-well-long-suffering-in-pastoral-ministry"
     },
     {
       "category": "History",
