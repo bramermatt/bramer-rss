@@ -1,78 +1,94 @@
 {
-  "lastUpdated": "2026-07-03T17:16:34.114Z",
+  "lastUpdated": "2026-07-03T22:56:37.381Z",
   "articleCount": 39,
   "articles": [
     {
       "category": "Science",
-      "title": "Colony connections determine ant wound care: Transitional workers treat injured nestmates",
+      "title": "Plug-and-play single-photon source can work at room temperature",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Fri, 03 Jul 2026 13:00:01 EDT",
-      "summary": "Patients in hospitals generally trust the nursing staff. After all, they have undergone training and, in some cases, have several years of professional experience. In the case of carpenter ants, it is not nursing expertise that determines who cares for the patients.",
-      "url": "https://phys.org/news/2026-07-colony-ant-wound-transitional-workers.html"
+      "date": "Fri, 03 Jul 2026 18:40:01 EDT",
+      "summary": "The Korea Research Institute of Standards and Science (KRISS) has developed a room-temperature single-photon source built into a compact 19-inch rack-mounted device that operates without cryogenic cooling. Designed as a plug-and-play system that works as soon as it is powered on, the device moves quantum light source technology beyond the laboratory and closer to practical, onsite use.",
+      "url": "https://phys.org/news/2026-07-play-photon-source-room-temperature.html"
     },
     {
-      "category": "Space",
-      "title": " 'Independence Day' at 30: Roland Emmerich & Dean Devlin talk blowing up the White House and crafting a true sci-fi classic (interview) ",
-      "source": " Latest from Space.com ",
-      "date": "Fri, 03 Jul 2026 17:00:00 +0000",
-      "summary": "'Welcome to Earth… Now that's what I call a close encounter!'",
-      "url": "https://www.space.com/entertainment/space-movies-shows/independence-day-at-30-roland-emmerich-and-dean-devlin-talk-blowing-up-the-white-house-and-crafting-a-true-sci-fi-classic-interview"
+      "category": "AI",
+      "title": "Coding without AI: a revolutionary new way to work",
+      "source": "Hacker News: Front Page",
+      "date": "Fri, 03 Jul 2026 22:26:47 +0000",
+      "summary": "Article URL: https://isaaclyman.com/blog/posts/coding-without-ai/\nComments URL: https://news.ycombinator.com/item?id=48780754\nPoints: 10\n# Comments: 1",
+      "url": "https://isaaclyman.com/blog/posts/coding-without-ai/"
     },
     {
       "category": "Science",
-      "title": "If we force online platforms to control harmful content, where does that leave sex ed?",
+      "title": "How generative AI and physics can help design new antibiotics",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Fri, 03 Jul 2026 12:20:04 EDT",
-      "summary": "Most of us have attended sex ed classes in school. If we're lucky, we'll learn about consent and how to roll a condom onto a banana. But the classroom rarely goes into the specifics of sexual health and well-being—including what to do when a condom breaks.",
-      "url": "https://phys.org/news/2026-07-online-platforms-content-sex-ed.html"
+      "date": "Fri, 03 Jul 2026 18:00:01 EDT",
+      "summary": "By 2050, scientists estimate that antibiotic-resistant infections will be associated with more than 8 million deaths around the world every year.",
+      "url": "https://phys.org/news/2026-07-generative-ai-physics-antibiotics.html"
+    },
+    {
+      "category": "AI",
+      "title": "Goodbye, Forever, Probably",
+      "source": "Hacker News: Front Page",
+      "date": "Fri, 03 Jul 2026 21:42:19 +0000",
+      "summary": "Article URL: https://whitep4nth3r.com/blog/goodbye-forever-probably/\nComments URL: https://news.ycombinator.com/item?id=48780352\nPoints: 34\n# Comments: 14",
+      "url": "https://whitep4nth3r.com/blog/goodbye-forever-probably/"
+    },
+    {
+      "category": "AI",
+      "title": "Software, from First Principles",
+      "source": "Hacker News: Front Page",
+      "date": "Fri, 03 Jul 2026 21:28:55 +0000",
+      "summary": "Article URL: https://fazamhd.com/mental-models/software/\nComments URL: https://news.ycombinator.com/item?id=48780224\nPoints: 5\n# Comments: 0",
+      "url": "https://fazamhd.com/mental-models/software/"
     },
     {
       "category": "Science",
-      "title": "Ultrafast scanning tunneling microscopy reaches the quantum mechanical space-time limit for the first time",
+      "title": "Megalodon's legendary life revealed by fossil rediscovery",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Fri, 03 Jul 2026 12:00:06 EDT",
-      "summary": "Werner Heisenberg's famous uncertainty principle describes one of the most intriguing features of quantum physics: certain pairs of physical quantities describing a particle, such as position and momentum, cannot simultaneously be determined with arbitrary precision—not because of imprecise measuring instruments, but because nature forbids it. Between position and time, however, there is no Heisenberg uncertainty principle.",
-      "url": "https://phys.org/news/2026-07-ultrafast-scanning-tunneling-microscopy-quantum.html"
+      "date": "Fri, 03 Jul 2026 17:20:02 EDT",
+      "summary": "Museums are supposed to be havens for the collective cultural and scientific heritage of the planet, but specimens sometimes go missing.",
+      "url": "https://phys.org/news/2026-07-megalodon-legendary-life-revealed-fossil.html"
     },
     {
       "category": "Space",
-      "title": " 1 private spacecraft intercepts another on Space Force's groundbreaking 'Victus Haze' mission ",
+      "title": " How to find Uranus this week, the hardest planet I've ever tried to see ",
       "source": " Latest from Space.com ",
-      "date": "Fri, 03 Jul 2026 16:00:00 +0000",
-      "summary": "A U.S. Space Force mission pitting two satellites against each other has completed the organization's first tactical intercept of an orbital target.",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/1-private-spacecraft-intercepts-another-on-space-forces-groundbreaking-victus-haze-mission"
+      "date": "Fri, 03 Jul 2026 21:00:00 +0000",
+      "summary": "Get your eyes on the seventh planet, and you can graduate as a skywatcher — and there's a perfect way to cheat this week as Mars glides by Uranus.",
+      "url": "https://www.space.com/stargazing/how-to-find-uranus-this-week-the-hardest-planet-ive-ever-tried-to-see"
     },
     {
       "category": "Space",
-      "title": " Celebrate 250 years of America with the Estes Liberty Star model rocket ",
+      "title": " As 'Terminator 2: Judgment Day' turns 35, it's time to accept the truth: Terminator shouldn't be back ",
       "source": " Latest from Space.com ",
-      "date": "Fri, 03 Jul 2026 16:00:00 +0000",
-      "summary": "Model rocket staple Estes has designed a limited edition model rocket decked out in red, white and blue for the 250th anniversary of Independence Day. Suitable for display or launch.",
-      "url": "https://www.space.com/stargazing/skywatching-kit/celebrate-250-years-of-america-with-the-estes-liberty-star-model-rocket"
+      "date": "Fri, 03 Jul 2026 20:00:00 +0000",
+      "summary": "The future has been written, and it's a dark fate for the Terminator franchise.",
+      "url": "https://www.space.com/entertainment/space-movies-shows/as-terminator-2-judgment-day-turns-35-its-time-to-accept-the-truth-terminator-shouldnt-be-back"
     },
     {
-      "category": "AI",
-      "title": "The Life and Times of Maxis, Part 1: SimEverything",
-      "source": "Hacker News: Front Page",
-      "date": "Fri, 03 Jul 2026 15:56:02 +0000",
-      "summary": "Article URL: https://www.filfre.net/2026/07/the-life-and-times-of-maxis-part-1-simeverything/\nComments URL: https://news.ycombinator.com/item?id=48776525\nPoints: 19\n# Comments: 0",
-      "url": "https://www.filfre.net/2026/07/the-life-and-times-of-maxis-part-1-simeverything/"
+      "category": "Science",
+      "title": " Diminutive species 'the Hobbit' did not hunt or control fire, deepening the mystery of its ancestry, dwarf elephant bones reveal ",
+      "source": " Latest from Live Science ",
+      "date": "Fri, 03 Jul 2026 18:00:00 +0000",
+      "summary": "The extinct human species Homo floresiensis was a scavenger, not a hunter, an analysis of fossil animal bones reveals.",
+      "url": "https://www.livescience.com/archaeology/human-evolution/diminutive-species-the-hobbit-did-not-hunt-or-control-fire-deepening-the-mystery-of-its-ancestry-dwarf-elephant-bones-reveal"
     },
     {
-      "category": "AI",
-      "title": "Markets are competitive if and only if P = NP",
-      "source": "Hacker News: Front Page",
-      "date": "Fri, 03 Jul 2026 15:41:44 +0000",
-      "summary": "Article URL: https://arxiv.org/abs/2602.20415\nComments URL: https://news.ycombinator.com/item?id=48776345\nPoints: 130\n# Comments: 80",
-      "url": "https://arxiv.org/abs/2602.20415"
+      "category": "Science",
+      "title": " Elite families ruled nomadic Scythian society 2,500 years ago, DNA analysis reveals ",
+      "source": " Latest from Live Science ",
+      "date": "Fri, 03 Jul 2026 18:00:00 +0000",
+      "summary": "Nomads of the Eurasian steppe were ruled by elite dynastic families, including women, a large-scale genetic analysis reveals.",
+      "url": "https://www.livescience.com/archaeology/elite-families-ruled-nomadic-scythian-society-2-500-years-ago-dna-analysis-reveals"
     },
     {
-      "category": "AI",
-      "title": "Claude, please stop trying to memorize random crap",
-      "source": "Hacker News: Front Page",
-      "date": "Fri, 03 Jul 2026 15:32:51 +0000",
-      "summary": "Article URL: https://12gramsofcarbon.com/p/agentics-memorizing-session-transcripts\nComments URL: https://news.ycombinator.com/item?id=48776232\nPoints: 29\n# Comments: 3",
-      "url": "https://12gramsofcarbon.com/p/agentics-memorizing-session-transcripts"
+      "category": "Space",
+      "title": " Could humans someday explore Saturn's moon Titan, or will humanoid robots do it for us? ",
+      "source": " Latest from Space.com ",
+      "date": "Fri, 03 Jul 2026 18:00:00 +0000",
+      "summary": "Could humans ever set foot on Titan, or will AI-powered humanoid robots make the voyage instead?",
+      "url": "https://www.space.com/space-exploration/could-humans-someday-explore-saturns-moon-titan-or-will-humanoid-robots-do-it-for-us"
     },
     {
       "category": "Space",
@@ -131,14 +147,6 @@
       "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-egypt/imagining-joseph-in-egypt/"
     },
     {
-      "category": "Science",
-      "title": " 'It's more than a hope, it's a guarantee': The Vera C. Rubin Observatory's 10-year movie of the universe is about to 'blow our minds,' chief scientist Tony Tyson says ",
-      "source": " Latest from Live Science ",
-      "date": "Fri, 03 Jul 2026 10:00:00 +0000",
-      "summary": "The Vera C. Rubin Observatory has officially begun its Legacy Survey of Space and Time, a 10-year mission to map the entire southern sky many times over. Chief Scientist Tony Tyson tells us why the survey could be remembered 100 years from now, if bright corporate satellites don't ruin the view.",
-      "url": "https://www.livescience.com/space/astronomy/its-more-than-a-hope-its-a-guarantee-the-vera-c-rubin-observatorys-10-year-movie-of-the-universe-is-about-to-blow-our-minds-chief-scientist-tony-tyson-says"
-    },
-    {
       "category": "Theology",
       "title": "Prioritize Your Soul in a Post-Truth World (TGC Classic)",
       "source": "The Gospel Coalition",
@@ -153,14 +161,6 @@
       "date": "Fri, 03 Jul 2026 04:00:00 +0000",
       "summary": "We should love our country as dual citizens—strangers and exiles on earth, citizens of heaven.",
       "url": "https://www.thegospelcoalition.org/article/blessed-nation-god-peoples-good/"
-    },
-    {
-      "category": "Science",
-      "title": " Hubble telescope spots 'impossible' light from a galaxy that shouldn't have been visible ",
-      "source": " Latest from Live Science ",
-      "date": "Thu, 02 Jul 2026 19:05:18 +0000",
-      "summary": "Researchers say the surprising discovery of the faraway galaxy MXDFz4.4 could help explain how the cosmos went from opaque to transparent billions of years ago.",
-      "url": "https://www.livescience.com/space/astronomy/hubble-telescope-spots-impossible-light-from-a-galaxy-that-shouldnt-have-been-visible"
     },
     {
       "category": "Space",
