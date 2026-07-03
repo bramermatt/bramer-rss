@@ -1,78 +1,110 @@
 {
-  "lastUpdated": "2026-07-02T22:58:27.412Z",
-  "articleCount": 39,
+  "lastUpdated": "2026-07-03T12:03:18.601Z",
+  "articleCount": 36,
   "articles": [
     {
       "category": "Science",
-      "title": "More Canadian than the beaver? Scientists discover a western toad found only in Canada",
+      "title": "Could this asteroid be a piece of the moon? A Chinese spacecraft is about to find out",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Thu, 02 Jul 2026 18:50:01 EDT",
-      "summary": "The beaver and moose may be enduring symbols of Canadian wildlife, but neither is uniquely Canadian from a genetic perspective. But a team of researchers from the University of Ottawa has now discovered something rare: a genetically distinct and exclusively Canadian population of western toad (Anaxyrus boreas). This discovery highlights the country's unique biodiversity and has important implications for conservation and wildlife management.",
-      "url": "https://phys.org/news/2026-07-canadian-beaver-scientists-western-toad.html"
-    },
-    {
-      "category": "Science",
-      "title": "Migration is dropping, but public concern is climbing. Why?",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Thu, 02 Jul 2026 18:40:05 EDT",
-      "summary": "Net overseas migration is declining. It peaked in 2023, and as of mid-2026 it has dropped by 45%.",
-      "url": "https://phys.org/news/2026-07-migration-climbing.html"
-    },
-    {
-      "category": "Science",
-      "title": "Ecological factors, not social behavior, explain brain size in cephalopods",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Thu, 02 Jul 2026 18:40:03 EDT",
-      "summary": "Octopuses, squid and cuttlefish may have evolved large brains because of the challenges posed by their environments rather than the demands of social life, according to a new study published in iScience today.",
-      "url": "https://phys.org/news/2026-07-ecological-factors-social-behavior-brain.html"
+      "date": "Fri, 03 Jul 2026 08:00:08 EDT",
+      "summary": "The moon is not the only natural object traveling through space alongside Earth. Several small asteroids travel around the sun in near lockstep with our planet. And just like Earth, these space rocks also take a year to complete a full orbit. Today, we know of eight such \"quasi-moons\" or quasi-satellites.",
+      "url": "https://phys.org/news/2026-07-asteroid-piece-moon-chinese-spacecraft.html"
     },
     {
       "category": "Space",
-      "title": " SpaceX Falcon 9 rocket launches 24 Starlink satellites from California ",
+      "title": " Want to see Uranus? July 4 could be your best chance in decades ",
+      "source": " Latest from Space.com ",
+      "date": "Fri, 03 Jul 2026 12:00:00 +0000",
+      "summary": "The Red Planet and Uranus will appear close together before dawn on Independence Day morning.",
+      "url": "https://www.space.com/stargazing/want-to-see-uranus-july-4-could-be-your-best-chance-in-decades"
+    },
+    {
+      "category": "Science",
+      "title": "Projected 'super typhoon' heads for US Pacific islands",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Fri, 03 Jul 2026 07:48:10 EDT",
+      "summary": "Residents of Guam and the Northern Marianas boarded up windows and stocked up Friday as a monster weather system forecast to become a \"super typhoon\" approached the U.S. Pacific territories.",
+      "url": "https://phys.org/news/2026-07-super-typhoon-pacific-islands.html"
+    },
+    {
+      "category": "Science",
+      "title": "France deaths rose by 30% during heatwave",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Fri, 03 Jul 2026 07:47:22 EDT",
+      "summary": "France endured a rise of nearly 30% in the number of deaths recorded during the week starting June 22, the peak of a record-breaking heat wave that battered the country, the public health authority said Friday.",
+      "url": "https://phys.org/news/2026-07-france-deaths-rose-heatwave.html"
+    },
+    {
+      "category": "AI",
+      "title": "Gun Mistakes in Fiction Writing: Handgun Edition",
+      "source": "Hacker News: Front Page",
+      "date": "Fri, 03 Jul 2026 11:14:54 +0000",
+      "summary": "Article URL: https://www.swiftsilentdeadly.com/blog/gun-mistakes-in-fiction-writing-handgun-edition\nComments URL: https://news.ycombinator.com/item?id=48773652\nPoints: 22\n# Comments: 7",
+      "url": "https://www.swiftsilentdeadly.com/blog/gun-mistakes-in-fiction-writing-handgun-edition"
+    },
+    {
+      "category": "Biblical Studies",
+      "title": "Imagining Joseph in Egypt",
+      "source": "Biblical Archaeology Society",
+      "date": "Fri, 03 Jul 2026 10:45:51 +0000",
+      "summary": "Editor’s Note: The following article contains photos of human remains. A press release from Egypt’s Ministry of Tourism and Antiquities announced multiple discoveries from Tell […]\nThe post Imagining Joseph in Egypt appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-egypt/imagining-joseph-in-egypt/"
+    },
+    {
+      "category": "Science",
+      "title": " 'It's more than a hope, it's a guarantee': The Vera C. Rubin Observatory's 10-year movie of the universe is about to 'blow our minds,' chief scientist Tony Tyson says ",
+      "source": " Latest from Live Science ",
+      "date": "Fri, 03 Jul 2026 10:00:00 +0000",
+      "summary": "The Vera C. Rubin Observatory has officially begun its Legacy Survey of Space and Time, a 10-year mission to map the entire southern sky many times over. Chief Scientist Tony Tyson tells us why the survey could be remembered 100 years from now, if bright corporate satellites don't ruin the view.",
+      "url": "https://www.livescience.com/space/astronomy/its-more-than-a-hope-its-a-guarantee-the-vera-c-rubin-observatorys-10-year-movie-of-the-universe-is-about-to-blow-our-minds-chief-scientist-tony-tyson-says"
+    },
+    {
+      "category": "Space",
+      "title": " America at 500: Where will we be in space in 2276? ",
+      "source": " Latest from Space.com ",
+      "date": "Fri, 03 Jul 2026 10:00:00 +0000",
+      "summary": "When the U.S. was born, humanity was still seven years away from balloon-borne flight. Where might we be another 250 years from now, should the nation be fortunate enough to survive that long?",
+      "url": "https://www.space.com/space-exploration/america-at-500-where-will-we-be-in-space-in-2276"
+    },
+    {
+      "category": "AI",
+      "title": "Commodore 64 Basic for PostgreSQL",
+      "source": "Hacker News: Front Page",
+      "date": "Fri, 03 Jul 2026 09:08:14 +0000",
+      "summary": "Article URL: https://thombrown.blogspot.com/2026/07/load-plcbmbasic81-commodore-64-basic.html\nComments URL: https://news.ycombinator.com/item?id=48772717\nPoints: 11\n# Comments: 4",
+      "url": "https://thombrown.blogspot.com/2026/07/load-plcbmbasic81-commodore-64-basic.html"
+    },
+    {
+      "category": "AI",
+      "title": "Wordgard: The new in-browser rich-text editor from the creator of ProseMirror",
+      "source": "Hacker News: Front Page",
+      "date": "Fri, 03 Jul 2026 08:50:47 +0000",
+      "summary": "Article URL: https://wordgard.net/\nComments URL: https://news.ycombinator.com/item?id=48772573\nPoints: 40\n# Comments: 11",
+      "url": "https://wordgard.net/"
+    },
+    {
+      "category": "Theology",
+      "title": "Prioritize Your Soul in a Post-Truth World (TGC Classic)",
+      "source": "The Gospel Coalition",
+      "date": "Fri, 03 Jul 2026 04:04:00 +0000",
+      "summary": "Brett McCracken teaches on how to become wise in a world that offers too much information, too quickly.",
+      "url": "https://www.thegospelcoalition.org/podcasts/tgc-podcast/prioritize-soul-post-truth-world-classic/"
+    },
+    {
+      "category": "Theology",
+      "title": "‘Blessed Is the Nation’: God Is His People’s Good",
+      "source": "The Gospel Coalition",
+      "date": "Fri, 03 Jul 2026 04:00:00 +0000",
+      "summary": "We should love our country as dual citizens—strangers and exiles on earth, citizens of heaven.",
+      "url": "https://www.thegospelcoalition.org/article/blessed-nation-god-peoples-good/"
+    },
+    {
+      "category": "Space",
+      "title": " SpaceX Falcon 9 rocket launches 24 Starlink satellites from California (video) ",
       "source": " Latest from Space.com ",
       "date": "Thu, 02 Jul 2026 22:32:50 +0000",
       "summary": "A SpaceX Falcon 9 rocket carrying 24 Starlink satellites launched from Vandenberg Space Force Base in California on Wednesday, July 1, 2026.",
       "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-17-46-b1100-vsfb-ocisly"
-    },
-    {
-      "category": "Space",
-      "title": " SpaceX fires up all 6 of Starship's engines ahead of 13th test flight (video) ",
-      "source": " Latest from Space.com ",
-      "date": "Thu, 02 Jul 2026 22:00:00 +0000",
-      "summary": "SpaceX completed a Starship engine test at its Starbase facility recently, igniting all six of the vehicle's engines for a full minute.",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-fires-up-all-6-of-starships-engines-ahead-of-13th-test-flight-video"
-    },
-    {
-      "category": "AI",
-      "title": "U.S. Officials Believed Israel Was Plotting to Kill Iranian Negotiators",
-      "source": "Hacker News: Front Page",
-      "date": "Thu, 02 Jul 2026 21:59:10 +0000",
-      "summary": "Article URL: https://www.nytimes.com/2026/07/02/us/politics/israel-iran-negotiators-plot.html\nComments URL: https://news.ycombinator.com/item?id=48767914\nPoints: 33\n# Comments: 9",
-      "url": "https://www.nytimes.com/2026/07/02/us/politics/israel-iran-negotiators-plot.html"
-    },
-    {
-      "category": "AI",
-      "title": "Simple, beautiful Emacs modeline: modusregel",
-      "source": "Hacker News: Front Page",
-      "date": "Thu, 02 Jul 2026 21:50:11 +0000",
-      "summary": "Article URL: https://codeberg.org/jjba23/modusregel\nComments URL: https://news.ycombinator.com/item?id=48767834\nPoints: 6\n# Comments: 0",
-      "url": "https://codeberg.org/jjba23/modusregel"
-    },
-    {
-      "category": "AI",
-      "title": "Virginia bans sale of geolocation data",
-      "source": "Hacker News: Front Page",
-      "date": "Thu, 02 Jul 2026 21:03:45 +0000",
-      "summary": "Article URL: https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data\nComments URL: https://news.ycombinator.com/item?id=48767347\nPoints: 226\n# Comments: 36",
-      "url": "https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data"
-    },
-    {
-      "category": "Space",
-      "title": " 'Silo' season 3: Release date & how to watch Apple TV's sensational post-apocalyptic saga ",
-      "source": " Latest from Space.com ",
-      "date": "Thu, 02 Jul 2026 21:00:00 +0000",
-      "summary": "Say so long to the sunshine as we plunge back into the deep mysteries of Silo 18.",
-      "url": "https://www.space.com/entertainment/space-movies-shows/silo-season-3-release-date-and-how-to-watch-apple-tvs-sensational-post-apocalyptic-saga"
     },
     {
       "category": "AI",
@@ -99,28 +131,12 @@
       "url": "https://www.livescience.com/health/viruses-infections-disease/the-hantavirus-outbreak-is-over-who-declares"
     },
     {
-      "category": "Space",
-      "title": "NASA’s Artemis II Breaks Agency Streaming Record",
-      "source": "NASA",
-      "date": "Thu, 02 Jul 2026 18:02:21 +0000",
-      "summary": "NASA’s live coverage of the Artemis II mission mission drew unprecedented public interest – including more than 149.4 million views of the launch, lunar flyby, splashdown on NASA-owned platforms, including the 24/7 streams covering the mission and the Orion spacecraft views – demonstrating strong, sustained global engagement throughout the mission.  Around the Clock Live Broadcast NASA’s Artemis II Crew Launches to the Moon broadcast set unprecedented viewership records across the agency’s […]",
-      "url": "https://www.nasa.gov/general/nasas-artemis-ii-breaks-agency-streaming-record/"
-    },
-    {
       "category": "AI",
       "title": "FAA proposal: Supersonic airliners can fly over US cities if they’re quiet",
       "source": "Ars Technica - All content",
       "date": "Thu, 02 Jul 2026 17:29:37 +0000",
       "summary": "New US rules would legalize quiet supersonic flights without the sonic boom.",
       "url": "https://arstechnica.com/gadgets/2026/07/faa-proposal-supersonic-airliners-can-fly-over-us-cities-if-theyre-quiet/"
-    },
-    {
-      "category": "Science",
-      "title": " 'Uncharted territory': Record high ocean temperatures confirmed for June as El Niño strengthens its grip ",
-      "source": " Latest from Live Science ",
-      "date": "Thu, 02 Jul 2026 17:06:33 +0000",
-      "summary": "Global sea surface temperatures reached record highs for June as a newly declared El Niño hits the Pacific Ocean, prompting concerns over extreme weather, flooding, sea level rise and stress to global ocean ecosystems.",
-      "url": "https://www.livescience.com/planet-earth/climate-change/uncharted-territory-record-high-ocean-temperatures-confirmed-for-june-as-el-nino-strengthens-its-grip"
     },
     {
       "category": "AI",
@@ -131,28 +147,12 @@
       "url": "https://arstechnica.com/space/2026/07/ars-live-recap-when-are-the-big-rockets-nasa-desperately-needs-going-to-be-ready/"
     },
     {
-      "category": "Space",
-      "title": "Good Morning, Earth!",
-      "source": "NASA",
-      "date": "Thu, 02 Jul 2026 14:41:24 +0000",
-      "summary": "NASA astronaut Chris Williams took this photo of an orbital sunrise from the International Space Station on June 26, 2026. In 24 hours, the space station makes 16 orbits of Earth, traveling through 16 sunrises and sunsets. Learn more about the orbiting laboratory. Image credit: NASA/Chris Williams",
-      "url": "https://www.nasa.gov/image-article/good-morning-earth/"
-    },
-    {
       "category": "Theology",
       "title": "Is This Young Person Ready to Be Baptized? Clarifying Questions and Considerations for Churches",
       "source": "9Marks",
       "date": "Thu, 02 Jul 2026 14:20:38 +0000",
       "summary": "Jesus isn’t like the credit card company that sets up shop on a college campus trying to get students to sign on the dotted line without reading the fine print. No, Jesus forces potential converts to stare at the fine print before signing on.\nThe post Is This Young Person Ready to Be Baptized? Clarifying Questions and Considerations for Churches appeared first on 9Marks.",
       "url": "https://www.9marks.org/article/is-this-young-person-ready-to-be-baptized-clarifying-questions-and-considerations-for-churches/?utm_source=rss&utm_medium=rss&utm_campaign=is-this-young-person-ready-to-be-baptized-clarifying-questions-and-considerations-for-churches"
-    },
-    {
-      "category": "Space",
-      "title": "NASA’s Webb Reveals Stars Sparking to Life in Cosmic Celebration",
-      "source": "NASA",
-      "date": "Thu, 02 Jul 2026 14:00:00 +0000",
-      "summary": "NASA’s James Webb Space Telescope has captured the infrared light of numerous features that previously were impossible to see beyond the thick dust of the FS Tau star system. In addition to myriad background galaxies that burst into view like fireworks for the United States’ 250th anniversary celebrations, this image flickers with a number of […]",
-      "url": "https://science.nasa.gov/missions/webb/nasas-webb-reveals-stars-sparking-to-life-in-cosmic-celebration/"
     },
     {
       "category": "Biblical Studies",
@@ -185,30 +185,6 @@
       "date": "Thu, 02 Jul 2026 04:02:00 +0000",
       "summary": "‘40 Questions About Mormonism’ is the clearest general introduction to Latter-day Saint history and doctrine available for evangelical readers.",
       "url": "https://www.thegospelcoalition.org/reviews/40-questions-mormonism/"
-    },
-    {
-      "category": "Theology",
-      "title": "‘Young Washington’ Marks America 250 with Founding Father Origin Story",
-      "source": "The Gospel Coalition",
-      "date": "Thu, 02 Jul 2026 04:00:00 +0000",
-      "summary": "‘Young Washington’ isn’t a masterpiece, but it depicts the origins of America’s first president in an informative and inspiring way.",
-      "url": "https://www.thegospelcoalition.org/article/young-washington-review/"
-    },
-    {
-      "category": "Biblical Studies",
-      "title": "The Question of Mary’s Perpetual Virginity",
-      "source": "Biblical Archaeology Society",
-      "date": "Wed, 01 Jul 2026 10:45:36 +0000",
-      "summary": "In the Summer 2026 issue of Biblical Archaeology Review, New Testament scholar Helen Bond asks a provocative question: “Was Mary a Second Wife?” Replete with […]\nThe post The Question of Mary’s Perpetual Virginity appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/daily/biblical-topics/bible-interpretation/question-of-marys-perpetual-virginity/"
-    },
-    {
-      "category": "Theology",
-      "title": "The FAQs: SCOTUS Says States May Reserve Women’s Sports for Biological Females",
-      "source": "The Gospel Coalition",
-      "date": "Wed, 01 Jul 2026 04:03:00 +0000",
-      "summary": "A legal framework that acknowledges sex differences—particularly in a domain like athletics, where physical realities are unavoidable—reflects a recognition of reality and how God has made us.",
-      "url": "https://www.thegospelcoalition.org/article/faqs-scotus-womens-sports/"
     },
     {
       "category": "Science",
