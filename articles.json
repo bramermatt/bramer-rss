@@ -1,7 +1,103 @@
 {
-  "lastUpdated": "2026-07-04T11:20:11.621Z",
-  "articleCount": 39,
+  "lastUpdated": "2026-07-04T16:56:19.818Z",
+  "articleCount": 36,
   "articles": [
+    {
+      "category": "Space",
+      "title": " This Week In Space podcast: Episode 217 — America in Space ",
+      "source": " Latest from Space.com ",
+      "date": "Sat, 04 Jul 2026 16:26:21 +0000",
+      "summary": "On Episode 217 of This Week In Space, Rod Pyle and Tariq Malik discuss the progression of American space efforts.",
+      "url": "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-217-america-in-space"
+    },
+    {
+      "category": "AI",
+      "title": "The End of North America",
+      "source": "Hacker News: Front Page",
+      "date": "Sat, 04 Jul 2026 16:16:07 +0000",
+      "summary": "Article URL: https://paulkrugman.substack.com/p/the-end-of-north-america-157\nComments URL: https://news.ycombinator.com/item?id=48786500\nPoints: 5\n# Comments: 0",
+      "url": "https://paulkrugman.substack.com/p/the-end-of-north-america-157"
+    },
+    {
+      "category": "AI",
+      "title": "Curveball",
+      "source": "Hacker News: Front Page",
+      "date": "Sat, 04 Jul 2026 16:15:48 +0000",
+      "summary": "Article URL: https://mightyburger.net/projects/curveball/\nComments URL: https://news.ycombinator.com/item?id=48786495\nPoints: 4\n# Comments: 0",
+      "url": "https://mightyburger.net/projects/curveball/"
+    },
+    {
+      "category": "Science",
+      "title": "A rare dinosaur fossil from Antarctica is found tucked away in a drawer",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sat, 04 Jul 2026 12:00:01 EDT",
+      "summary": "Scientists have stumbled on a rare dinosaur fossil from Antarctica, tucked away for decades in a drawer.",
+      "url": "https://phys.org/news/2026-06-rare-dinosaur-fossil-antarctica-tucked.html"
+    },
+    {
+      "category": "Science",
+      "title": "Bacterial protein reveals a hidden rule for controlling calcium",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sat, 04 Jul 2026 11:20:01 EDT",
+      "summary": "A small change in acidity can transform the world around us. A squeeze of lemon changes the taste of food. Vinegar preserves vegetables. Stomach acid helps break down a meal. These familiar effects come from protons—tiny charged particles that can reshape chemical interactions.",
+      "url": "https://phys.org/news/2026-07-bacterial-protein-reveals-hidden-calcium.html"
+    },
+    {
+      "category": "AI",
+      "title": "Windows CE Dreamcast Community Edition (wince-dc)",
+      "source": "Hacker News: Front Page",
+      "date": "Sat, 04 Jul 2026 14:52:25 +0000",
+      "summary": "Article URL: https://github.com/maximqaxd/wince-dc\nComments URL: https://news.ycombinator.com/item?id=48785840\nPoints: 18\n# Comments: 0",
+      "url": "https://github.com/maximqaxd/wince-dc"
+    },
+    {
+      "category": "Science",
+      "title": "Rising seas make once-rare coastal floods 12 times more likely",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sat, 04 Jul 2026 10:30:01 EDT",
+      "summary": "Extreme floods that once swamped coastal communities only rarely are becoming far more common as climate change caused by humans pushes sea levels higher, according to new research published Wednesday. Experts say the findings are crucial for making plans about floods and coastal infrastructure as the planet warms.",
+      "url": "https://phys.org/news/2026-06-seas-rare-coastal.html"
+    },
+    {
+      "category": "Science",
+      "title": " The US is hooked on unregulated peptides. But are they effective, or even safe? ",
+      "source": " Latest from Live Science ",
+      "date": "Sat, 04 Jul 2026 14:00:00 +0000",
+      "summary": "The world of peptides has exploded in wellness circles, but the benefits of injecting these gray-market molecules rest on little clinical evidence.",
+      "url": "https://www.livescience.com/health/medicine-drugs/the-us-is-hooked-on-unregulated-peptides-but-are-they-effective-or-even-safe"
+    },
+    {
+      "category": "Space",
+      "title": " Human flight was still 7 years away in 1776. Now, we're headed back to the moon ",
+      "source": " Latest from Space.com ",
+      "date": "Sat, 04 Jul 2026 14:00:00 +0000",
+      "summary": "Humanity made some halting steps toward flight over the centuries, but our species was still firmly rooted on the ground when the United States of America was born on July 4, 1776.",
+      "url": "https://www.space.com/astronomy/moon/human-flight-was-still-7-years-away-in-1776-now-were-headed-back-to-the-moon"
+    },
+    {
+      "category": "Space",
+      "title": " What did the night sky look like on the 1st Independence Day 250 years ago? ",
+      "source": " Latest from Space.com ",
+      "date": "Sat, 04 Jul 2026 12:00:00 +0000",
+      "summary": "As the U.S. celebrates its 250th birthday, here's what Benjamin Franklin and other colonists would have seen when they looked up on July 4, 1776.",
+      "url": "https://www.space.com/stargazing/what-did-the-night-sky-look-like-on-the-1st-independence-day-250-years-ago"
+    },
+    {
+      "category": "AI",
+      "title": "When the ability to smell goes away",
+      "source": "Ars Technica - All content",
+      "date": "Sat, 04 Jul 2026 11:04:31 +0000",
+      "summary": "Disturbances in this critical sense are often linked to problems with brain health.",
+      "url": "https://arstechnica.com/science/2026/07/when-the-ability-to-smell-goes-away/"
+    },
+    {
+      "category": "AI",
+      "title": "A martian rock has lots of carbon on it, and it's not clear why",
+      "source": "Ars Technica - All content",
+      "date": "Sat, 04 Jul 2026 11:00:41 +0000",
+      "summary": "Biology could explain the find, but there are other potential explanations.",
+      "url": "https://arstechnica.com/science/2026/07/a-martian-rock-has-lots-of-carbon-on-it-and-its-not-clear-why/"
+    },
     {
       "category": "Science",
       "title": " Science news this week: James Webb telescope finds a never-before-seen substance, China's 'Great Green Wall' grows faster than natural trees, and a Medici murder mystery is solved ",
@@ -17,70 +113,6 @@
       "date": "Sat, 04 Jul 2026 11:00:00 +0000",
       "summary": "A recently discovered \"super Earth\" located around 25 light-years from our planet is not as massive as previously thought, raising the chances that it has the conditions to support life.",
       "url": "https://www.livescience.com/space/exoplanets/alien-life-on-nearby-super-earth-much-likelier-than-we-thought-study-claims"
-    },
-    {
-      "category": "Space",
-      "title": " 30 years on, \"Independence Day\" still proves the versatility of the original \"The War of the Worlds\" ",
-      "source": " Latest from Space.com ",
-      "date": "Sat, 04 Jul 2026 11:00:00 +0000",
-      "summary": "\"Independence Day\" isn't technically \"The War of the Worlds\" but it's still one of the most successful adaptations of HG Wells' genre-defining novel.",
-      "url": "https://www.space.com/entertainment/space-movies-shows/30-years-on-independence-day-still-proves-the-versatility-of-the-original-the-war-of-the-worlds"
-    },
-    {
-      "category": "Science",
-      "title": "El Nino set to be 'strong', UN warns",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sat, 04 Jul 2026 06:00:01 EDT",
-      "summary": "El Nino is here and will quickly develop into a strong event between July and September, fueling the likelihood of extreme weather, the United Nations' climate agency warned Friday.",
-      "url": "https://phys.org/news/2026-07-el-nino-strong.html"
-    },
-    {
-      "category": "AI",
-      "title": "Astrophysicists Puzzle over Webb's New Universe",
-      "source": "Hacker News: Front Page",
-      "date": "Sat, 04 Jul 2026 09:08:09 +0000",
-      "summary": "Article URL: https://www.quantamagazine.org/astrophysicists-puzzle-over-webbs-new-universe-20260702/\nComments URL: https://news.ycombinator.com/item?id=48783948\nPoints: 30\n# Comments: 6",
-      "url": "https://www.quantamagazine.org/astrophysicists-puzzle-over-webbs-new-universe-20260702/"
-    },
-    {
-      "category": "Science",
-      "title": " Are CAPTCHAs obsolete in the age of AI? ",
-      "source": " Latest from Live Science ",
-      "date": "Sat, 04 Jul 2026 09:00:00 +0000",
-      "summary": "How are CAPTCHAs being threatened by AI?",
-      "url": "https://www.livescience.com/technology/are-captchas-obsolete-in-the-age-of-ai"
-    },
-    {
-      "category": "Science",
-      "title": "One for the history books: What we know about the European heat wave",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sat, 04 Jul 2026 04:10:01 EDT",
-      "summary": "Europe is still taking stock of a powerful heat wave in late June, but experts are already confident it ranks among the worst ever recorded—even rivaling a freak 2003 episode.",
-      "url": "https://phys.org/news/2026-07-history-european.html"
-    },
-    {
-      "category": "Science",
-      "title": "Scientists find yeast in ancient Iceman's guts—and make bread",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sat, 04 Jul 2026 04:00:01 EDT",
-      "summary": "Yeast has been growing in the guts of a frozen mummy called Oetzi the Iceman for thousands of years, scientists have discovered, telling AFP they used it to make a tasty sourdough bread.",
-      "url": "https://phys.org/news/2026-06-scientists-yeast-ancient-iceman-guts.html"
-    },
-    {
-      "category": "AI",
-      "title": "Unearthing the Reality of \"Zombie Energy Systems\" in Africa's Energy Transition",
-      "source": "Hacker News: Front Page",
-      "date": "Sat, 04 Jul 2026 07:53:12 +0000",
-      "summary": "Article URL: https://www.catf.us/resource/unearthing-reality-zombie-energy-systems-africas-energy-transition/\nComments URL: https://news.ycombinator.com/item?id=48783512\nPoints: 8\n# Comments: 1",
-      "url": "https://www.catf.us/resource/unearthing-reality-zombie-energy-systems-africas-energy-transition/"
-    },
-    {
-      "category": "AI",
-      "title": "The bottleneck might be the air in the room",
-      "source": "Hacker News: Front Page",
-      "date": "Sat, 04 Jul 2026 06:32:28 +0000",
-      "summary": "Article URL: https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/\nComments URL: https://news.ycombinator.com/item?id=48783117\nPoints: 310\n# Comments: 181",
-      "url": "https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/"
     },
     {
       "category": "Theology",
@@ -99,60 +131,12 @@
       "url": "https://www.thegospelcoalition.org/article/prayer-america-250/"
     },
     {
-      "category": "Space",
-      "title": " How to find Uranus this week, the hardest planet I've ever tried to see ",
-      "source": " Latest from Space.com ",
-      "date": "Fri, 03 Jul 2026 21:00:00 +0000",
-      "summary": "Get your eyes on the seventh planet, and you can graduate as a skywatcher — and there's a perfect way to cheat this week as Mars glides by Uranus.",
-      "url": "https://www.space.com/stargazing/how-to-find-uranus-this-week-the-hardest-planet-ive-ever-tried-to-see"
-    },
-    {
-      "category": "Space",
-      "title": " As 'Terminator 2: Judgment Day' turns 35, it's time to accept the truth: Terminator shouldn't be back ",
-      "source": " Latest from Space.com ",
-      "date": "Fri, 03 Jul 2026 20:00:00 +0000",
-      "summary": "The future has been written, and it's a dark fate for the Terminator franchise.",
-      "url": "https://www.space.com/entertainment/space-movies-shows/as-terminator-2-judgment-day-turns-35-its-time-to-accept-the-truth-terminator-shouldnt-be-back"
-    },
-    {
-      "category": "Space",
-      "title": "NASA’s Hubble Captures Crimson Cloud Sparkling with White, Blue Stars",
-      "source": "NASA",
-      "date": "Fri, 03 Jul 2026 15:01:17 +0000",
-      "summary": "Blue and white stars shine brightly against crimson gas in this image from NASA’s Hubble Space Telescope.",
-      "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-captures-crimson-cloud-sparkling-with-white-blue-stars/"
-    },
-    {
       "category": "AI",
       "title": "Rocket Report: Indian startup nears first launch; SpaceX's millenary milestone",
       "source": "Ars Technica - All content",
       "date": "Fri, 03 Jul 2026 13:55:35 +0000",
       "summary": "NASA awarded Rocket Lab deals for three dedicated launches using the company's Electron rocket.",
       "url": "https://arstechnica.com/space/2026/07/rocket-report-indian-startup-nears-first-launch-spacexs-millenary-milestone/"
-    },
-    {
-      "category": "Space",
-      "title": "NASA’s Hubble Spots Star-Spangled Cosmic Scene",
-      "source": "NASA",
-      "date": "Fri, 03 Jul 2026 12:42:03 +0000",
-      "summary": "More than 500,000 stars blaze red, white, and blue in this NASA Hubble image of the globular cluster Messier 3 (M3).",
-      "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-spots-star-spangled-cosmic-scene/"
-    },
-    {
-      "category": "AI",
-      "title": "Inside the Luddite festival harnessing Gen Z’s rage against Big Tech",
-      "source": "Ars Technica - All content",
-      "date": "Fri, 03 Jul 2026 12:00:36 +0000",
-      "summary": "New York City’s Summer of Ludd festival is teaching people how to live offline.",
-      "url": "https://arstechnica.com/culture/2026/07/inside-the-luddite-festival-harnessing-gen-zs-rage-against-big-tech/"
-    },
-    {
-      "category": "AI",
-      "title": "Despite the darkness, I still see signs of hope in America",
-      "source": "Ars Technica - All content",
-      "date": "Fri, 03 Jul 2026 11:30:22 +0000",
-      "summary": "It's difficult to pinpoint the moment in my life where America started to lose the plot.",
-      "url": "https://arstechnica.com/culture/2026/07/at-250-years-there-are-still-reasons-for-hope-in-america/"
     },
     {
       "category": "Biblical Studies",
@@ -169,14 +153,6 @@
       "date": "Fri, 03 Jul 2026 04:04:00 +0000",
       "summary": "Brett McCracken teaches on how to become wise in a world that offers too much information, too quickly.",
       "url": "https://www.thegospelcoalition.org/podcasts/tgc-podcast/prioritize-soul-post-truth-world-classic/"
-    },
-    {
-      "category": "Space",
-      "title": "NASA’s Artemis II Breaks Agency Streaming Record",
-      "source": "NASA",
-      "date": "Thu, 02 Jul 2026 18:02:21 +0000",
-      "summary": "NASA’s live coverage of the Artemis II mission mission drew unprecedented public interest – including more than 149.4 million views of the launch, lunar flyby, splashdown on NASA-owned platforms, including the 24/7 streams covering the mission and the Orion spacecraft views – demonstrating strong, sustained global engagement throughout the mission.  Around the Clock Live Broadcast NASA’s Artemis II Crew Launches to the Moon broadcast set unprecedented viewership records across the agency’s […]",
-      "url": "https://www.nasa.gov/general/nasas-artemis-ii-breaks-agency-streaming-record/"
     },
     {
       "category": "Theology",
