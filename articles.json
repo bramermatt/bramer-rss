@@ -1,54 +1,102 @@
 {
-  "lastUpdated": "2026-07-03T22:56:37.381Z",
+  "lastUpdated": "2026-07-04T11:20:11.621Z",
   "articleCount": 39,
   "articles": [
     {
       "category": "Science",
-      "title": "Plug-and-play single-photon source can work at room temperature",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Fri, 03 Jul 2026 18:40:01 EDT",
-      "summary": "The Korea Research Institute of Standards and Science (KRISS) has developed a room-temperature single-photon source built into a compact 19-inch rack-mounted device that operates without cryogenic cooling. Designed as a plug-and-play system that works as soon as it is powered on, the device moves quantum light source technology beyond the laboratory and closer to practical, onsite use.",
-      "url": "https://phys.org/news/2026-07-play-photon-source-room-temperature.html"
-    },
-    {
-      "category": "AI",
-      "title": "Coding without AI: a revolutionary new way to work",
-      "source": "Hacker News: Front Page",
-      "date": "Fri, 03 Jul 2026 22:26:47 +0000",
-      "summary": "Article URL: https://isaaclyman.com/blog/posts/coding-without-ai/\nComments URL: https://news.ycombinator.com/item?id=48780754\nPoints: 10\n# Comments: 1",
-      "url": "https://isaaclyman.com/blog/posts/coding-without-ai/"
+      "title": " Science news this week: James Webb telescope finds a never-before-seen substance, China's 'Great Green Wall' grows faster than natural trees, and a Medici murder mystery is solved ",
+      "source": " Latest from Live Science ",
+      "date": "Sat, 04 Jul 2026 11:00:00 +0000",
+      "summary": "July 4, 2026: Our weekly roundup of the latest science in the news, as well as a few fascinating articles to keep you entertained over the weekend.",
+      "url": "https://www.livescience.com/space/science-news-this-week-james-webb-telescope-finds-a-never-before-seen-substance-chinas-great-green-wall-grows-faster-than-natural-trees-and-a-medici-murder-mystery-is-solved"
     },
     {
       "category": "Science",
-      "title": "How generative AI and physics can help design new antibiotics",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Fri, 03 Jul 2026 18:00:01 EDT",
-      "summary": "By 2050, scientists estimate that antibiotic-resistant infections will be associated with more than 8 million deaths around the world every year.",
-      "url": "https://phys.org/news/2026-07-generative-ai-physics-antibiotics.html"
+      "title": " Alien life on nearby 'super Earth' much likelier than we thought, study claims ",
+      "source": " Latest from Live Science ",
+      "date": "Sat, 04 Jul 2026 11:00:00 +0000",
+      "summary": "A recently discovered \"super Earth\" located around 25 light-years from our planet is not as massive as previously thought, raising the chances that it has the conditions to support life.",
+      "url": "https://www.livescience.com/space/exoplanets/alien-life-on-nearby-super-earth-much-likelier-than-we-thought-study-claims"
     },
     {
-      "category": "AI",
-      "title": "Goodbye, Forever, Probably",
-      "source": "Hacker News: Front Page",
-      "date": "Fri, 03 Jul 2026 21:42:19 +0000",
-      "summary": "Article URL: https://whitep4nth3r.com/blog/goodbye-forever-probably/\nComments URL: https://news.ycombinator.com/item?id=48780352\nPoints: 34\n# Comments: 14",
-      "url": "https://whitep4nth3r.com/blog/goodbye-forever-probably/"
-    },
-    {
-      "category": "AI",
-      "title": "Software, from First Principles",
-      "source": "Hacker News: Front Page",
-      "date": "Fri, 03 Jul 2026 21:28:55 +0000",
-      "summary": "Article URL: https://fazamhd.com/mental-models/software/\nComments URL: https://news.ycombinator.com/item?id=48780224\nPoints: 5\n# Comments: 0",
-      "url": "https://fazamhd.com/mental-models/software/"
+      "category": "Space",
+      "title": " 30 years on, \"Independence Day\" still proves the versatility of the original \"The War of the Worlds\" ",
+      "source": " Latest from Space.com ",
+      "date": "Sat, 04 Jul 2026 11:00:00 +0000",
+      "summary": "\"Independence Day\" isn't technically \"The War of the Worlds\" but it's still one of the most successful adaptations of HG Wells' genre-defining novel.",
+      "url": "https://www.space.com/entertainment/space-movies-shows/30-years-on-independence-day-still-proves-the-versatility-of-the-original-the-war-of-the-worlds"
     },
     {
       "category": "Science",
-      "title": "Megalodon's legendary life revealed by fossil rediscovery",
+      "title": "El Nino set to be 'strong', UN warns",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Fri, 03 Jul 2026 17:20:02 EDT",
-      "summary": "Museums are supposed to be havens for the collective cultural and scientific heritage of the planet, but specimens sometimes go missing.",
-      "url": "https://phys.org/news/2026-07-megalodon-legendary-life-revealed-fossil.html"
+      "date": "Sat, 04 Jul 2026 06:00:01 EDT",
+      "summary": "El Nino is here and will quickly develop into a strong event between July and September, fueling the likelihood of extreme weather, the United Nations' climate agency warned Friday.",
+      "url": "https://phys.org/news/2026-07-el-nino-strong.html"
+    },
+    {
+      "category": "AI",
+      "title": "Astrophysicists Puzzle over Webb's New Universe",
+      "source": "Hacker News: Front Page",
+      "date": "Sat, 04 Jul 2026 09:08:09 +0000",
+      "summary": "Article URL: https://www.quantamagazine.org/astrophysicists-puzzle-over-webbs-new-universe-20260702/\nComments URL: https://news.ycombinator.com/item?id=48783948\nPoints: 30\n# Comments: 6",
+      "url": "https://www.quantamagazine.org/astrophysicists-puzzle-over-webbs-new-universe-20260702/"
+    },
+    {
+      "category": "Science",
+      "title": " Are CAPTCHAs obsolete in the age of AI? ",
+      "source": " Latest from Live Science ",
+      "date": "Sat, 04 Jul 2026 09:00:00 +0000",
+      "summary": "How are CAPTCHAs being threatened by AI?",
+      "url": "https://www.livescience.com/technology/are-captchas-obsolete-in-the-age-of-ai"
+    },
+    {
+      "category": "Science",
+      "title": "One for the history books: What we know about the European heat wave",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sat, 04 Jul 2026 04:10:01 EDT",
+      "summary": "Europe is still taking stock of a powerful heat wave in late June, but experts are already confident it ranks among the worst ever recorded—even rivaling a freak 2003 episode.",
+      "url": "https://phys.org/news/2026-07-history-european.html"
+    },
+    {
+      "category": "Science",
+      "title": "Scientists find yeast in ancient Iceman's guts—and make bread",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sat, 04 Jul 2026 04:00:01 EDT",
+      "summary": "Yeast has been growing in the guts of a frozen mummy called Oetzi the Iceman for thousands of years, scientists have discovered, telling AFP they used it to make a tasty sourdough bread.",
+      "url": "https://phys.org/news/2026-06-scientists-yeast-ancient-iceman-guts.html"
+    },
+    {
+      "category": "AI",
+      "title": "Unearthing the Reality of \"Zombie Energy Systems\" in Africa's Energy Transition",
+      "source": "Hacker News: Front Page",
+      "date": "Sat, 04 Jul 2026 07:53:12 +0000",
+      "summary": "Article URL: https://www.catf.us/resource/unearthing-reality-zombie-energy-systems-africas-energy-transition/\nComments URL: https://news.ycombinator.com/item?id=48783512\nPoints: 8\n# Comments: 1",
+      "url": "https://www.catf.us/resource/unearthing-reality-zombie-energy-systems-africas-energy-transition/"
+    },
+    {
+      "category": "AI",
+      "title": "The bottleneck might be the air in the room",
+      "source": "Hacker News: Front Page",
+      "date": "Sat, 04 Jul 2026 06:32:28 +0000",
+      "summary": "Article URL: https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/\nComments URL: https://news.ycombinator.com/item?id=48783117\nPoints: 310\n# Comments: 181",
+      "url": "https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/"
+    },
+    {
+      "category": "Theology",
+      "title": "Why (and How) to Avoid Spicy Books",
+      "source": "The Gospel Coalition",
+      "date": "Sat, 04 Jul 2026 04:02:00 +0000",
+      "summary": "Explicit content doesn’t lose its danger when it’s printed on paper instead of paraded across a screen.",
+      "url": "https://www.thegospelcoalition.org/article/avoid-spicy-books/"
+    },
+    {
+      "category": "Theology",
+      "title": "A Prayer for America250",
+      "source": "The Gospel Coalition",
+      "date": "Sat, 04 Jul 2026 04:00:08 +0000",
+      "summary": "Let’s thank God for freedom and celebrate an imperfect yet good nation.",
+      "url": "https://www.thegospelcoalition.org/article/prayer-america-250/"
     },
     {
       "category": "Space",
@@ -67,44 +115,12 @@
       "url": "https://www.space.com/entertainment/space-movies-shows/as-terminator-2-judgment-day-turns-35-its-time-to-accept-the-truth-terminator-shouldnt-be-back"
     },
     {
-      "category": "Science",
-      "title": " Diminutive species 'the Hobbit' did not hunt or control fire, deepening the mystery of its ancestry, dwarf elephant bones reveal ",
-      "source": " Latest from Live Science ",
-      "date": "Fri, 03 Jul 2026 18:00:00 +0000",
-      "summary": "The extinct human species Homo floresiensis was a scavenger, not a hunter, an analysis of fossil animal bones reveals.",
-      "url": "https://www.livescience.com/archaeology/human-evolution/diminutive-species-the-hobbit-did-not-hunt-or-control-fire-deepening-the-mystery-of-its-ancestry-dwarf-elephant-bones-reveal"
-    },
-    {
-      "category": "Science",
-      "title": " Elite families ruled nomadic Scythian society 2,500 years ago, DNA analysis reveals ",
-      "source": " Latest from Live Science ",
-      "date": "Fri, 03 Jul 2026 18:00:00 +0000",
-      "summary": "Nomads of the Eurasian steppe were ruled by elite dynastic families, including women, a large-scale genetic analysis reveals.",
-      "url": "https://www.livescience.com/archaeology/elite-families-ruled-nomadic-scythian-society-2-500-years-ago-dna-analysis-reveals"
-    },
-    {
-      "category": "Space",
-      "title": " Could humans someday explore Saturn's moon Titan, or will humanoid robots do it for us? ",
-      "source": " Latest from Space.com ",
-      "date": "Fri, 03 Jul 2026 18:00:00 +0000",
-      "summary": "Could humans ever set foot on Titan, or will AI-powered humanoid robots make the voyage instead?",
-      "url": "https://www.space.com/space-exploration/could-humans-someday-explore-saturns-moon-titan-or-will-humanoid-robots-do-it-for-us"
-    },
-    {
       "category": "Space",
       "title": "NASA’s Hubble Captures Crimson Cloud Sparkling with White, Blue Stars",
       "source": "NASA",
       "date": "Fri, 03 Jul 2026 15:01:17 +0000",
       "summary": "Blue and white stars shine brightly against crimson gas in this image from NASA’s Hubble Space Telescope.",
       "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-captures-crimson-cloud-sparkling-with-white-blue-stars/"
-    },
-    {
-      "category": "Science",
-      "title": " 'Machine-gun sun' could bring auroras to more than a dozen states this Independence Day weekend ",
-      "source": " Latest from Live Science ",
-      "date": "Fri, 03 Jul 2026 14:56:51 +0000",
-      "summary": "The sun launched 10 M-class solar flares over 24 hours, and more could be on the way. Auroras are likely in some US states as a result.",
-      "url": "https://www.livescience.com/space/the-sun/machine-gun-sun-could-bring-auroras-to-more-than-a-dozen-states-this-independence-day-weekend"
     },
     {
       "category": "AI",
@@ -155,14 +171,6 @@
       "url": "https://www.thegospelcoalition.org/podcasts/tgc-podcast/prioritize-soul-post-truth-world-classic/"
     },
     {
-      "category": "Theology",
-      "title": "‘Blessed Is the Nation’: God Is His People’s Good",
-      "source": "The Gospel Coalition",
-      "date": "Fri, 03 Jul 2026 04:00:00 +0000",
-      "summary": "We should love our country as dual citizens—strangers and exiles on earth, citizens of heaven.",
-      "url": "https://www.thegospelcoalition.org/article/blessed-nation-god-peoples-good/"
-    },
-    {
       "category": "Space",
       "title": "NASA’s Artemis II Breaks Agency Streaming Record",
       "source": "NASA",
@@ -201,14 +209,6 @@
       "date": "Thu, 02 Jul 2026 09:00:28 +0000",
       "summary": "The scribe of the Declaration of Independence—and perhaps the first man to read it in public—was born on March 28, 1736 in Haddonfield, New Jersey. His family moved to Philadelphia eight years later. At the age of thirteen, Timothy Matlack began an apprenticeship under a prosperous Quaker merchant named John Reynell. Looking forward to a […]\nThe post Timothy Matlack, Scribe of the Declaration of Independence appeared first on Journal of the American Revolution.",
       "url": "https://allthingsliberty.com/2026/07/timothy-matlack-scribe-of-the-declaration-of-independence/"
-    },
-    {
-      "category": "Theology",
-      "title": "Why Mormonism and Christianity Are Not the Same",
-      "source": "The Gospel Coalition",
-      "date": "Thu, 02 Jul 2026 04:02:00 +0000",
-      "summary": "‘40 Questions About Mormonism’ is the clearest general introduction to Latter-day Saint history and doctrine available for evangelical readers.",
-      "url": "https://www.thegospelcoalition.org/reviews/40-questions-mormonism/"
     },
     {
       "category": "Science",
