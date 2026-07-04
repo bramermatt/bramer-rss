@@ -1,7 +1,71 @@
 {
-  "lastUpdated": "2026-07-04T16:56:19.818Z",
+  "lastUpdated": "2026-07-04T22:51:15.113Z",
   "articleCount": 36,
   "articles": [
+    {
+      "category": "Science",
+      "title": "Planned 1.7 million satellites 'devastating' for astronomy: Study",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sat, 04 Jul 2026 18:20:01 EDT",
+      "summary": "The 1.7 million satellites that companies are aiming to launch into Earth's orbit in the coming years will have \"devastating consequences for astronomy,\" new research warned Wednesday.",
+      "url": "https://phys.org/news/2026-07-million-satellites-devastating-astronomy.html"
+    },
+    {
+      "category": "AI",
+      "title": "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
+      "source": "Hacker News: Front Page",
+      "date": "Sat, 04 Jul 2026 21:51:09 +0000",
+      "summary": "Article URL: https://github.com/openai/codex/issues/30364\nComments URL: https://news.ycombinator.com/item?id=48789428\nPoints: 41\n# Comments: 4",
+      "url": "https://github.com/openai/codex/issues/30364"
+    },
+    {
+      "category": "Science",
+      "title": "When companies face hostile takeover threats, they turn to ESG, and the whole community benefits",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sat, 04 Jul 2026 17:00:01 EDT",
+      "summary": "When a company faces the prospect of a hostile takeover, its board may reach for traditional anti-takeover defenses. \"Poison pills,\" for instance, allow existing shareholders to buy additional shares at a discount, diluting a would-be acquirer's stake and making the target more expensive to absorb.",
+      "url": "https://phys.org/news/2026-06-companies-hostile-takeover-threats-esg.html"
+    },
+    {
+      "category": "AI",
+      "title": "Protocol Prying: Vulnerability Research in AirDrop and Quick Share",
+      "source": "Hacker News: Front Page",
+      "date": "Sat, 04 Jul 2026 20:38:39 +0000",
+      "summary": "Article URL: https://arxiv.org/abs/2606.26967\nComments URL: https://news.ycombinator.com/item?id=48788849\nPoints: 5\n# Comments: 0",
+      "url": "https://arxiv.org/abs/2606.26967"
+    },
+    {
+      "category": "AI",
+      "title": "Better Models: Worse Tools",
+      "source": "Hacker News: Front Page",
+      "date": "Sat, 04 Jul 2026 20:16:22 +0000",
+      "summary": "Article URL: https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/\nComments URL: https://news.ycombinator.com/item?id=48788599\nPoints: 44\n# Comments: 13",
+      "url": "https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/"
+    },
+    {
+      "category": "Science",
+      "title": "Optical writing of antiferromagnets points toward new storage devices and energy efficient information systems",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sat, 04 Jul 2026 16:00:03 EDT",
+      "summary": "A German-Japanese research team involving the University of Augsburg has made a significant breakthrough in the use of antiferromagnets. For the first time, the team has succeeded in writing magnetic information using only ultrashort laser pulses—without the need for electric currents or magnetic fields.",
+      "url": "https://phys.org/news/2026-07-optical-antiferromagnets-storage-devices-energy.html"
+    },
+    {
+      "category": "Space",
+      "title": " America 250: From 1776 to the moon and beyond (A Space.com series) ",
+      "source": " Latest from Space.com ",
+      "date": "Sat, 04 Jul 2026 18:18:45 +0000",
+      "summary": "As the United States celebrates its 250th birthday, our Space.com team took a look back at American advances in space since 1776, and where we might be headed.",
+      "url": "https://www.space.com/space-exploration/america-250-from-1776-to-the-moon-and-beyond-a-space-com-series"
+    },
+    {
+      "category": "AI",
+      "title": "Review: Supergirl is not the disaster its low box office suggests",
+      "source": "Ars Technica - All content",
+      "date": "Sat, 04 Jul 2026 16:49:14 +0000",
+      "summary": "It’s a pretty good movie, but it needed to be a great movie to thrive in an oversaturated superhero market.",
+      "url": "https://arstechnica.com/culture/2026/07/review-supergirl-is-not-the-disaster-its-low-box-office-suggests/"
+    },
     {
       "category": "Space",
       "title": " This Week In Space podcast: Episode 217 — America in Space ",
@@ -9,54 +73,6 @@
       "date": "Sat, 04 Jul 2026 16:26:21 +0000",
       "summary": "On Episode 217 of This Week In Space, Rod Pyle and Tariq Malik discuss the progression of American space efforts.",
       "url": "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-217-america-in-space"
-    },
-    {
-      "category": "AI",
-      "title": "The End of North America",
-      "source": "Hacker News: Front Page",
-      "date": "Sat, 04 Jul 2026 16:16:07 +0000",
-      "summary": "Article URL: https://paulkrugman.substack.com/p/the-end-of-north-america-157\nComments URL: https://news.ycombinator.com/item?id=48786500\nPoints: 5\n# Comments: 0",
-      "url": "https://paulkrugman.substack.com/p/the-end-of-north-america-157"
-    },
-    {
-      "category": "AI",
-      "title": "Curveball",
-      "source": "Hacker News: Front Page",
-      "date": "Sat, 04 Jul 2026 16:15:48 +0000",
-      "summary": "Article URL: https://mightyburger.net/projects/curveball/\nComments URL: https://news.ycombinator.com/item?id=48786495\nPoints: 4\n# Comments: 0",
-      "url": "https://mightyburger.net/projects/curveball/"
-    },
-    {
-      "category": "Science",
-      "title": "A rare dinosaur fossil from Antarctica is found tucked away in a drawer",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sat, 04 Jul 2026 12:00:01 EDT",
-      "summary": "Scientists have stumbled on a rare dinosaur fossil from Antarctica, tucked away for decades in a drawer.",
-      "url": "https://phys.org/news/2026-06-rare-dinosaur-fossil-antarctica-tucked.html"
-    },
-    {
-      "category": "Science",
-      "title": "Bacterial protein reveals a hidden rule for controlling calcium",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sat, 04 Jul 2026 11:20:01 EDT",
-      "summary": "A small change in acidity can transform the world around us. A squeeze of lemon changes the taste of food. Vinegar preserves vegetables. Stomach acid helps break down a meal. These familiar effects come from protons—tiny charged particles that can reshape chemical interactions.",
-      "url": "https://phys.org/news/2026-07-bacterial-protein-reveals-hidden-calcium.html"
-    },
-    {
-      "category": "AI",
-      "title": "Windows CE Dreamcast Community Edition (wince-dc)",
-      "source": "Hacker News: Front Page",
-      "date": "Sat, 04 Jul 2026 14:52:25 +0000",
-      "summary": "Article URL: https://github.com/maximqaxd/wince-dc\nComments URL: https://news.ycombinator.com/item?id=48785840\nPoints: 18\n# Comments: 0",
-      "url": "https://github.com/maximqaxd/wince-dc"
-    },
-    {
-      "category": "Science",
-      "title": "Rising seas make once-rare coastal floods 12 times more likely",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sat, 04 Jul 2026 10:30:01 EDT",
-      "summary": "Extreme floods that once swamped coastal communities only rarely are becoming far more common as climate change caused by humans pushes sea levels higher, according to new research published Wednesday. Experts say the findings are crucial for making plans about floods and coastal infrastructure as the planet warms.",
-      "url": "https://phys.org/news/2026-06-seas-rare-coastal.html"
     },
     {
       "category": "Science",
@@ -73,14 +89,6 @@
       "date": "Sat, 04 Jul 2026 14:00:00 +0000",
       "summary": "Humanity made some halting steps toward flight over the centuries, but our species was still firmly rooted on the ground when the United States of America was born on July 4, 1776.",
       "url": "https://www.space.com/astronomy/moon/human-flight-was-still-7-years-away-in-1776-now-were-headed-back-to-the-moon"
-    },
-    {
-      "category": "Space",
-      "title": " What did the night sky look like on the 1st Independence Day 250 years ago? ",
-      "source": " Latest from Space.com ",
-      "date": "Sat, 04 Jul 2026 12:00:00 +0000",
-      "summary": "As the U.S. celebrates its 250th birthday, here's what Benjamin Franklin and other colonists would have seen when they looked up on July 4, 1776.",
-      "url": "https://www.space.com/stargazing/what-did-the-night-sky-look-like-on-the-1st-independence-day-250-years-ago"
     },
     {
       "category": "AI",
@@ -129,14 +137,6 @@
       "date": "Sat, 04 Jul 2026 04:00:08 +0000",
       "summary": "Let’s thank God for freedom and celebrate an imperfect yet good nation.",
       "url": "https://www.thegospelcoalition.org/article/prayer-america-250/"
-    },
-    {
-      "category": "AI",
-      "title": "Rocket Report: Indian startup nears first launch; SpaceX's millenary milestone",
-      "source": "Ars Technica - All content",
-      "date": "Fri, 03 Jul 2026 13:55:35 +0000",
-      "summary": "NASA awarded Rocket Lab deals for three dedicated launches using the company's Electron rocket.",
-      "url": "https://arstechnica.com/space/2026/07/rocket-report-indian-startup-nears-first-launch-spacexs-millenary-milestone/"
     },
     {
       "category": "Biblical Studies",
