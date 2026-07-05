@@ -1,54 +1,126 @@
 {
-  "lastUpdated": "2026-07-04T22:51:15.113Z",
+  "lastUpdated": "2026-07-05T11:24:49.463Z",
   "articleCount": 36,
   "articles": [
     {
-      "category": "Science",
-      "title": "Planned 1.7 million satellites 'devastating' for astronomy: Study",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sat, 04 Jul 2026 18:20:01 EDT",
-      "summary": "The 1.7 million satellites that companies are aiming to launch into Earth's orbit in the coming years will have \"devastating consequences for astronomy,\" new research warned Wednesday.",
-      "url": "https://phys.org/news/2026-07-million-satellites-devastating-astronomy.html"
-    },
-    {
       "category": "AI",
-      "title": "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
-      "source": "Hacker News: Front Page",
-      "date": "Sat, 04 Jul 2026 21:51:09 +0000",
-      "summary": "Article URL: https://github.com/openai/codex/issues/30364\nComments URL: https://news.ycombinator.com/item?id=48789428\nPoints: 41\n# Comments: 4",
-      "url": "https://github.com/openai/codex/issues/30364"
+      "title": "Chemical accidents rise as Trump administration proposes weakening safety rules",
+      "source": "Ars Technica - All content",
+      "date": "Sun, 05 Jul 2026 11:05:22 +0000",
+      "summary": "Chemicals from accidents that injured or killed people increased by nearly 50 percent in recent years.",
+      "url": "https://arstechnica.com/science/2026/07/chemical-accidents-rise-as-trump-administration-proposes-weakening-safety-rules/"
     },
     {
       "category": "Science",
-      "title": "When companies face hostile takeover threats, they turn to ESG, and the whole community benefits",
+      "title": "Spain data on 5.5 million convictions challenges immigration-crime link",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Sat, 04 Jul 2026 17:00:01 EDT",
-      "summary": "When a company faces the prospect of a hostile takeover, its board may reach for traditional anti-takeover defenses. \"Poison pills,\" for instance, allow existing shareholders to buy additional shares at a discount, diluting a would-be acquirer's stake and making the target more expensive to absorb.",
-      "url": "https://phys.org/news/2026-06-companies-hostile-takeover-threats-esg.html"
+      "date": "Sun, 05 Jul 2026 07:00:01 EDT",
+      "summary": "When analyzing crime, the foreign population typically shows higher rates than the native population. However, crime statistics change significantly when comparing groups of the same age and gender. A detailed data analysis conducted in a study by the Universidad Carlos III de Madrid (UC3M) demonstrates that the apparent crime gap between the foreign and native populations is primarily due to the fact that the immigrant profile tends to concentrate more young men—the demographic sector with the highest crime rates in any society.",
+      "url": "https://phys.org/news/2026-07-spain-million-convictions-immigration-crime.html"
     },
     {
       "category": "AI",
-      "title": "Protocol Prying: Vulnerability Research in AirDrop and Quick Share",
+      "title": "Returning to Zig after losing trust in Rust's governance",
       "source": "Hacker News: Front Page",
-      "date": "Sat, 04 Jul 2026 20:38:39 +0000",
-      "summary": "Article URL: https://arxiv.org/abs/2606.26967\nComments URL: https://news.ycombinator.com/item?id=48788849\nPoints: 5\n# Comments: 0",
-      "url": "https://arxiv.org/abs/2606.26967"
+      "date": "Sun, 05 Jul 2026 10:56:44 +0000",
+      "summary": "Article URL: https://gracefulliberty.com/articles/return-to-zig/\nComments URL: https://news.ycombinator.com/item?id=48793102\nPoints: 5\n# Comments: 1",
+      "url": "https://gracefulliberty.com/articles/return-to-zig/"
     },
     {
       "category": "AI",
-      "title": "Better Models: Worse Tools",
+      "title": "The missing 500 million: Cosmic bombardment melted Earth's first crust",
+      "source": "Ars Technica - All content",
+      "date": "Sun, 05 Jul 2026 10:55:02 +0000",
+      "summary": "The heat of the Hadean may have come from impacts as well as the interior.",
+      "url": "https://arstechnica.com/science/2026/07/the-missing-500-million-cosmic-bombardment-melted-earths-first-crust/"
+    },
+    {
+      "category": "AI",
+      "title": "Pi square is nearly 10",
       "source": "Hacker News: Front Page",
-      "date": "Sat, 04 Jul 2026 20:16:22 +0000",
-      "summary": "Article URL: https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/\nComments URL: https://news.ycombinator.com/item?id=48788599\nPoints: 44\n# Comments: 13",
-      "url": "https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/"
+      "date": "Sun, 05 Jul 2026 10:50:53 +0000",
+      "summary": "Article URL: https://mihai.page/pi-square-is-10/\nComments URL: https://news.ycombinator.com/item?id=48793073\nPoints: 3\n# Comments: 0",
+      "url": "https://mihai.page/pi-square-is-10/"
+    },
+    {
+      "category": "AI",
+      "title": "Ford rehires human engineers after AI fails to match quality checks",
+      "source": "Hacker News: Front Page",
+      "date": "Sun, 05 Jul 2026 10:42:59 +0000",
+      "summary": "Article URL: https://www.bbc.com/news/articles/cgrkd41n2v9o\nComments URL: https://news.ycombinator.com/item?id=48793020\nPoints: 8\n# Comments: 0",
+      "url": "https://www.bbc.com/news/articles/cgrkd41n2v9o"
     },
     {
       "category": "Science",
-      "title": "Optical writing of antiferromagnets points toward new storage devices and energy efficient information systems",
+      "title": "Controlling magnetic chirality could help memory pack in more data",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Sat, 04 Jul 2026 16:00:03 EDT",
-      "summary": "A German-Japanese research team involving the University of Augsburg has made a significant breakthrough in the use of antiferromagnets. For the first time, the team has succeeded in writing magnetic information using only ultrashort laser pulses—without the need for electric currents or magnetic fields.",
-      "url": "https://phys.org/news/2026-07-optical-antiferromagnets-storage-devices-energy.html"
+      "date": "Sun, 05 Jul 2026 06:40:02 EDT",
+      "summary": "Magnetic storage devices, like a computer's hard disk drive, utilize magnets to represent binary data. However, as these devices are downsized, stray magnetic fields generated by individual magnetic components can interact with neighboring elements to cause operational malfunctions, limiting how much data we can densely pack into memory devices.",
+      "url": "https://phys.org/news/2026-07-magnetic-chirality-memory.html"
+    },
+    {
+      "category": "Science",
+      "title": " NASA celebrates America's 250th birthday with red, white and blue snaps of the cosmos — Space photo of the week ",
+      "source": " Latest from Live Science ",
+      "date": "Sun, 05 Jul 2026 10:00:00 +0000",
+      "summary": "NASA's Chandra X-ray Observatory celebrates the 4th of July with a dazzling array of red, white and blue space phenomena.",
+      "url": "https://www.livescience.com/space/astronomy/nasa-celebrates-americas-250th-birthday-with-red-white-and-blue-snaps-of-the-cosmos-space-photo-of-the-week"
+    },
+    {
+      "category": "Space",
+      "title": " 10 best Spanish cities to see the total solar eclipse 2026 ",
+      "source": " Latest from Space.com ",
+      "date": "Sun, 05 Jul 2026 10:00:00 +0000",
+      "summary": "From A Coruña and Bilbao to Madrid and Zaragoza, here's where to see the total solar eclipse on Aug. 12, 2026, in some of Spain's biggest cities.",
+      "url": "https://www.space.com/stargazing/solar-eclipses/10-best-spanish-cities-to-see-the-total-solar-eclipse-2026"
+    },
+    {
+      "category": "Science",
+      "title": " Has there ever been a period in human history without war? ",
+      "source": " Latest from Live Science ",
+      "date": "Sun, 05 Jul 2026 09:00:00 +0000",
+      "summary": "Humans have fought countless wars over the millennia. Has there ever been a time when we weren't fighting?",
+      "url": "https://www.livescience.com/archaeology/has-there-ever-been-a-period-in-human-history-without-war"
+    },
+    {
+      "category": "Science",
+      "title": "'Very dangerous' super typhoon nears US Pacific islands",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sun, 05 Jul 2026 04:55:51 EDT",
+      "summary": "People in Guam and the Northern Marianas moved to emergency evacuation centers and made last-minute preparations on Sunday, hours before a \"super typhoon\" was projected to bulldoze through the U.S. Pacific territories.",
+      "url": "https://phys.org/news/2026-07-dangerous-super-typhoon-nears-pacific.html"
+    },
+    {
+      "category": "Science",
+      "title": "NASA's Hubble spots a stellar sparkler for the Fourth of July",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Sun, 05 Jul 2026 00:10:58 EDT",
+      "summary": "NASA's Hubble Space Telescope has captured a spectacular red, white, and blue view of one of the Milky Way's oldest star clusters to celebrate the nation's 250th anniversary. Hidden within the ancient cluster are clues to how exploding stars helped transform the young universe into one capable of forming planets and, eventually, life.",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260704232642.htm"
+    },
+    {
+      "category": "Science",
+      "title": "NASA's Hubble captures a crimson stellar nursery sparkling with blue and white stars",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Sun, 05 Jul 2026 00:03:07 EDT",
+      "summary": "Hubble has captured a spectacular view of LH 95, where about 2,500 young stars are still on their journey to becoming full-fledged stars. Scientists discovered these growing stars can keep pulling in gas and dust for millions of years, extending an important stage of stellar development. The region also contains multiple generations of stars living side by side, offering fresh clues about how star formation unfolds over time.",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260704232639.htm"
+    },
+    {
+      "category": "Theology",
+      "title": "Bible-Belt Christianity Is a Harder Mission Field than Secularism",
+      "source": "The Gospel Coalition",
+      "date": "Sun, 05 Jul 2026 04:00:00 +0000",
+      "summary": "The difference between London and Nashville is not the difference between a hard place and an easy one. Both cities are post-Christian; they are simply post-Christian in opposite directions.",
+      "url": "https://www.thegospelcoalition.org/article/bible-belt-mission-field/"
+    },
+    {
+      "category": "Science",
+      "title": "NASA's Hubble captures a star-spangled sea of 500,000 stars",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Sat, 04 Jul 2026 23:39:18 EDT",
+      "summary": "Celebrating the United States' 250th anniversary, NASA released a stunning Hubble portrait of Messier 3, an ancient globular cluster with more than 500,000 stars. The remarkable cluster is helping scientists unravel the Milky Way's past thanks to its rare stars and possible origins in a long ago cosmic merger.",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260704232634.htm"
     },
     {
       "category": "Space",
@@ -83,46 +155,6 @@
       "url": "https://www.livescience.com/health/medicine-drugs/the-us-is-hooked-on-unregulated-peptides-but-are-they-effective-or-even-safe"
     },
     {
-      "category": "Space",
-      "title": " Human flight was still 7 years away in 1776. Now, we're headed back to the moon ",
-      "source": " Latest from Space.com ",
-      "date": "Sat, 04 Jul 2026 14:00:00 +0000",
-      "summary": "Humanity made some halting steps toward flight over the centuries, but our species was still firmly rooted on the ground when the United States of America was born on July 4, 1776.",
-      "url": "https://www.space.com/astronomy/moon/human-flight-was-still-7-years-away-in-1776-now-were-headed-back-to-the-moon"
-    },
-    {
-      "category": "AI",
-      "title": "When the ability to smell goes away",
-      "source": "Ars Technica - All content",
-      "date": "Sat, 04 Jul 2026 11:04:31 +0000",
-      "summary": "Disturbances in this critical sense are often linked to problems with brain health.",
-      "url": "https://arstechnica.com/science/2026/07/when-the-ability-to-smell-goes-away/"
-    },
-    {
-      "category": "AI",
-      "title": "A martian rock has lots of carbon on it, and it's not clear why",
-      "source": "Ars Technica - All content",
-      "date": "Sat, 04 Jul 2026 11:00:41 +0000",
-      "summary": "Biology could explain the find, but there are other potential explanations.",
-      "url": "https://arstechnica.com/science/2026/07/a-martian-rock-has-lots-of-carbon-on-it-and-its-not-clear-why/"
-    },
-    {
-      "category": "Science",
-      "title": " Science news this week: James Webb telescope finds a never-before-seen substance, China's 'Great Green Wall' grows faster than natural trees, and a Medici murder mystery is solved ",
-      "source": " Latest from Live Science ",
-      "date": "Sat, 04 Jul 2026 11:00:00 +0000",
-      "summary": "July 4, 2026: Our weekly roundup of the latest science in the news, as well as a few fascinating articles to keep you entertained over the weekend.",
-      "url": "https://www.livescience.com/space/science-news-this-week-james-webb-telescope-finds-a-never-before-seen-substance-chinas-great-green-wall-grows-faster-than-natural-trees-and-a-medici-murder-mystery-is-solved"
-    },
-    {
-      "category": "Science",
-      "title": " Alien life on nearby 'super Earth' much likelier than we thought, study claims ",
-      "source": " Latest from Live Science ",
-      "date": "Sat, 04 Jul 2026 11:00:00 +0000",
-      "summary": "A recently discovered \"super Earth\" located around 25 light-years from our planet is not as massive as previously thought, raising the chances that it has the conditions to support life.",
-      "url": "https://www.livescience.com/space/exoplanets/alien-life-on-nearby-super-earth-much-likelier-than-we-thought-study-claims"
-    },
-    {
       "category": "Theology",
       "title": "Why (and How) to Avoid Spicy Books",
       "source": "The Gospel Coalition",
@@ -145,14 +177,6 @@
       "date": "Fri, 03 Jul 2026 10:45:51 +0000",
       "summary": "Editor’s Note: The following article contains photos of human remains. A press release from Egypt’s Ministry of Tourism and Antiquities announced multiple discoveries from Tell […]\nThe post Imagining Joseph in Egypt appeared first on Biblical Archaeology Society.",
       "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-egypt/imagining-joseph-in-egypt/"
-    },
-    {
-      "category": "Theology",
-      "title": "Prioritize Your Soul in a Post-Truth World (TGC Classic)",
-      "source": "The Gospel Coalition",
-      "date": "Fri, 03 Jul 2026 04:04:00 +0000",
-      "summary": "Brett McCracken teaches on how to become wise in a world that offers too much information, too quickly.",
-      "url": "https://www.thegospelcoalition.org/podcasts/tgc-podcast/prioritize-soul-post-truth-world-classic/"
     },
     {
       "category": "Theology",
@@ -187,14 +211,6 @@
       "url": "https://allthingsliberty.com/2026/07/timothy-matlack-scribe-of-the-declaration-of-independence/"
     },
     {
-      "category": "Science",
-      "title": "Scientists discover a completely different way to fight viruses",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Tue, 30 Jun 2026 16:18:00 EDT",
-      "summary": "Researchers have uncovered an unexpected antiviral defense system in sea anemones that works very differently from the one humans use. The discovery suggests evolution developed multiple ways to combat viruses, challenging long-held ideas about how animal immune systems evolved.",
-      "url": "https://www.sciencedaily.com/releases/2026/06/260630020534.htm"
-    },
-    {
       "category": "History",
       "title": "Declarations Before THE Declaration of Independence",
       "source": "Journal of the American Revolution",
@@ -209,22 +225,6 @@
       "date": "Tue, 30 Jun 2026 09:00:00 GMT",
       "summary": "New OpenAI Signals data shows how ChatGPT adoption is growing globally, with users increasing usage, exploring more capabilities, and driving growth across regions and languages.",
       "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded"
-    },
-    {
-      "category": "Science",
-      "title": "Scientists may have finally found how Alzheimer's spreads through the brain",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Tue, 30 Jun 2026 03:21:06 EDT",
-      "summary": "A common brain protein may be giving Alzheimer’s disease an unexpected way to spread, carrying toxic Tau proteins from damaged neurons into healthy ones. By blocking these harmful protein packages before they reach new cells, researchers believe it may one day be possible to slow the disease's relentless progression.",
-      "url": "https://www.sciencedaily.com/releases/2026/06/260630020521.htm"
-    },
-    {
-      "category": "Science",
-      "title": "Scientists say creatine may help fight depression",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Tue, 30 Jun 2026 02:28:57 EDT",
-      "summary": "Creatine is best known as a muscle-building supplement, but scientists are now investigating whether it could also help treat depression by boosting the brain's energy supply. A new review examined five randomized clinical trials involving 238 participants and found mixed results. Two studies, both involving women with major depressive disorder, reported that adding creatine to standard treatment improved symptoms, while three others found no meaningful benefit.",
-      "url": "https://www.sciencedaily.com/releases/2026/06/260630020231.htm"
     },
     {
       "category": "AI",
