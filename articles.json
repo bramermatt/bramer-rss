@@ -1,7 +1,79 @@
 {
-  "lastUpdated": "2026-07-05T11:24:49.463Z",
+  "lastUpdated": "2026-07-05T16:59:51.304Z",
   "articleCount": 36,
   "articles": [
+    {
+      "category": "AI",
+      "title": "The Plight of the Martian Farmer",
+      "source": "Hacker News: Front Page",
+      "date": "Sun, 05 Jul 2026 16:04:23 +0000",
+      "summary": "Article URL: https://mceglowski.substack.com/p/the-plight-of-the-martian-farmer\nComments URL: https://news.ycombinator.com/item?id=48795303\nPoints: 13\n# Comments: 3",
+      "url": "https://mceglowski.substack.com/p/the-plight-of-the-martian-farmer"
+    },
+    {
+      "category": "Science",
+      "title": "A nearby black hole as a window into the early universe",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sun, 05 Jul 2026 12:00:01 EDT",
+      "summary": "An international team led by Stefanie Komossa from the Max Planck Institute for Radio Astronomy (MPIfR) in Bonn has studied a galaxy that has been shining exceptionally brightly in the radio regime for more than eight years. Although it is only 1.8 billion light-years away from us, the central black hole in the galaxy exhibits properties typical of the early universe. New observations and archival data suggest that, for several years now, more matter has been falling into the black hole, triggering a high-energy particle jet. The discovery enables researchers to better understand the formation of jets and the growth of black holes in the early universe.",
+      "url": "https://phys.org/news/2026-07-nearby-black-hole-window-early.html"
+    },
+    {
+      "category": "AI",
+      "title": "Autonomous flying umbrella follows and shields users from rain and sunlight",
+      "source": "Hacker News: Front Page",
+      "date": "Sun, 05 Jul 2026 15:49:18 +0000",
+      "summary": "Article URL: https://www.designboom.com/technology/autonomous-flying-umbrella-follows-users-rain-sunlight-i-build-stuff-01-13-2026/\nComments URL: https://news.ycombinator.com/item?id=48795174\nPoints: 16\n# Comments: 6",
+      "url": "https://www.designboom.com/technology/autonomous-flying-umbrella-follows-users-rain-sunlight-i-build-stuff-01-13-2026/"
+    },
+    {
+      "category": "Science",
+      "title": "Laughter may date back 15 million years, shared by humans and great apes",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sun, 05 Jul 2026 11:20:01 EDT",
+      "summary": "Humans and great apes have been giggling in similar ways since branching off the evolutionary tree, a new study suggests.",
+      "url": "https://phys.org/news/2026-06-humans-great-apes-similar-giggles.html"
+    },
+    {
+      "category": "AI",
+      "title": "Why DMARC's new \"NP\" tag can fail with DNSSEC",
+      "source": "Hacker News: Front Page",
+      "date": "Sun, 05 Jul 2026 15:00:21 +0000",
+      "summary": "Article URL: https://dmarcwise.io/blog/dmarc-np-incompatibility-with-dnssec\nComments URL: https://news.ycombinator.com/item?id=48794788\nPoints: 5\n# Comments: 0",
+      "url": "https://dmarcwise.io/blog/dmarc-np-incompatibility-with-dnssec"
+    },
+    {
+      "category": "Science",
+      "title": "Japan space probe skims asteroid in test for planetary defense",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sun, 05 Jul 2026 10:30:12 EDT",
+      "summary": "A Japanese space probe performed a flyby of a near-Earth asteroid on Sunday in a test mission for technology that could help protect the planet from space rocks.",
+      "url": "https://phys.org/news/2026-07-japan-space-probe-skims-asteroid.html"
+    },
+    {
+      "category": "Space",
+      "title": " NASA tests advanced new Mars rover prototype in the California desert (video) ",
+      "source": " Latest from Space.com ",
+      "date": "Sun, 05 Jul 2026 14:00:00 +0000",
+      "summary": "A new rover prototype is teaching NASA scientists how to design robots that can think for themselves and navigate terrain that would leave old rovers stuck in the lunar or Martian dust.",
+      "url": "https://www.space.com/space-exploration/nasa-tests-advanced-new-mars-rover-prototype-in-the-california-desert-video"
+    },
+    {
+      "category": "Science",
+      "title": " Superintelligent AI in space could explain the Fermi Paradox ",
+      "source": " Latest from Live Science ",
+      "date": "Sun, 05 Jul 2026 12:00:00 +0000",
+      "summary": "Why haven't we found evidence of advanced aliens? It could be that they've outsourced cosmic exploration to superintelligent AI, a new paper suggests.",
+      "url": "https://www.livescience.com/space/cosmology/superintelligent-ai-in-space-could-explain-the-fermi-paradox"
+    },
+    {
+      "category": "Space",
+      "title": " He-Man and beyond: 20 sci-fi cartoons (some iconic, some weird) that transported '80s and '90s kids to strange new worlds ",
+      "source": " Latest from Space.com ",
+      "date": "Sun, 05 Jul 2026 12:00:00 +0000",
+      "summary": "They had the power! Saturday morning cartoons introduced many kids to science fiction... and toys, lots and lots of toys",
+      "url": "https://www.space.com/entertainment/space-movies-shows/he-man-and-beyond-20-sci-fi-cartoons-some-iconic-some-weird-that-transported-80s-and-90s-kids-to-strange-new-worlds"
+    },
     {
       "category": "AI",
       "title": "Chemical accidents rise as Trump administration proposes weakening safety rules",
@@ -11,52 +83,12 @@
       "url": "https://arstechnica.com/science/2026/07/chemical-accidents-rise-as-trump-administration-proposes-weakening-safety-rules/"
     },
     {
-      "category": "Science",
-      "title": "Spain data on 5.5 million convictions challenges immigration-crime link",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sun, 05 Jul 2026 07:00:01 EDT",
-      "summary": "When analyzing crime, the foreign population typically shows higher rates than the native population. However, crime statistics change significantly when comparing groups of the same age and gender. A detailed data analysis conducted in a study by the Universidad Carlos III de Madrid (UC3M) demonstrates that the apparent crime gap between the foreign and native populations is primarily due to the fact that the immigrant profile tends to concentrate more young men—the demographic sector with the highest crime rates in any society.",
-      "url": "https://phys.org/news/2026-07-spain-million-convictions-immigration-crime.html"
-    },
-    {
-      "category": "AI",
-      "title": "Returning to Zig after losing trust in Rust's governance",
-      "source": "Hacker News: Front Page",
-      "date": "Sun, 05 Jul 2026 10:56:44 +0000",
-      "summary": "Article URL: https://gracefulliberty.com/articles/return-to-zig/\nComments URL: https://news.ycombinator.com/item?id=48793102\nPoints: 5\n# Comments: 1",
-      "url": "https://gracefulliberty.com/articles/return-to-zig/"
-    },
-    {
       "category": "AI",
       "title": "The missing 500 million: Cosmic bombardment melted Earth's first crust",
       "source": "Ars Technica - All content",
       "date": "Sun, 05 Jul 2026 10:55:02 +0000",
       "summary": "The heat of the Hadean may have come from impacts as well as the interior.",
       "url": "https://arstechnica.com/science/2026/07/the-missing-500-million-cosmic-bombardment-melted-earths-first-crust/"
-    },
-    {
-      "category": "AI",
-      "title": "Pi square is nearly 10",
-      "source": "Hacker News: Front Page",
-      "date": "Sun, 05 Jul 2026 10:50:53 +0000",
-      "summary": "Article URL: https://mihai.page/pi-square-is-10/\nComments URL: https://news.ycombinator.com/item?id=48793073\nPoints: 3\n# Comments: 0",
-      "url": "https://mihai.page/pi-square-is-10/"
-    },
-    {
-      "category": "AI",
-      "title": "Ford rehires human engineers after AI fails to match quality checks",
-      "source": "Hacker News: Front Page",
-      "date": "Sun, 05 Jul 2026 10:42:59 +0000",
-      "summary": "Article URL: https://www.bbc.com/news/articles/cgrkd41n2v9o\nComments URL: https://news.ycombinator.com/item?id=48793020\nPoints: 8\n# Comments: 0",
-      "url": "https://www.bbc.com/news/articles/cgrkd41n2v9o"
-    },
-    {
-      "category": "Science",
-      "title": "Controlling magnetic chirality could help memory pack in more data",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sun, 05 Jul 2026 06:40:02 EDT",
-      "summary": "Magnetic storage devices, like a computer's hard disk drive, utilize magnets to represent binary data. However, as these devices are downsized, stray magnetic fields generated by individual magnetic components can interact with neighboring elements to cause operational malfunctions, limiting how much data we can densely pack into memory devices.",
-      "url": "https://phys.org/news/2026-07-magnetic-chirality-memory.html"
     },
     {
       "category": "Science",
@@ -81,14 +113,6 @@
       "date": "Sun, 05 Jul 2026 09:00:00 +0000",
       "summary": "Humans have fought countless wars over the millennia. Has there ever been a time when we weren't fighting?",
       "url": "https://www.livescience.com/archaeology/has-there-ever-been-a-period-in-human-history-without-war"
-    },
-    {
-      "category": "Science",
-      "title": "'Very dangerous' super typhoon nears US Pacific islands",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sun, 05 Jul 2026 04:55:51 EDT",
-      "summary": "People in Guam and the Northern Marianas moved to emergency evacuation centers and made last-minute preparations on Sunday, hours before a \"super typhoon\" was projected to bulldoze through the U.S. Pacific territories.",
-      "url": "https://phys.org/news/2026-07-dangerous-super-typhoon-nears-pacific.html"
     },
     {
       "category": "Science",
@@ -123,36 +147,12 @@
       "url": "https://www.sciencedaily.com/releases/2026/07/260704232634.htm"
     },
     {
-      "category": "Space",
-      "title": " America 250: From 1776 to the moon and beyond (A Space.com series) ",
-      "source": " Latest from Space.com ",
-      "date": "Sat, 04 Jul 2026 18:18:45 +0000",
-      "summary": "As the United States celebrates its 250th birthday, our Space.com team took a look back at American advances in space since 1776, and where we might be headed.",
-      "url": "https://www.space.com/space-exploration/america-250-from-1776-to-the-moon-and-beyond-a-space-com-series"
-    },
-    {
       "category": "AI",
       "title": "Review: Supergirl is not the disaster its low box office suggests",
       "source": "Ars Technica - All content",
       "date": "Sat, 04 Jul 2026 16:49:14 +0000",
       "summary": "It’s a pretty good movie, but it needed to be a great movie to thrive in an oversaturated superhero market.",
       "url": "https://arstechnica.com/culture/2026/07/review-supergirl-is-not-the-disaster-its-low-box-office-suggests/"
-    },
-    {
-      "category": "Space",
-      "title": " This Week In Space podcast: Episode 217 — America in Space ",
-      "source": " Latest from Space.com ",
-      "date": "Sat, 04 Jul 2026 16:26:21 +0000",
-      "summary": "On Episode 217 of This Week In Space, Rod Pyle and Tariq Malik discuss the progression of American space efforts.",
-      "url": "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-217-america-in-space"
-    },
-    {
-      "category": "Science",
-      "title": " The US is hooked on unregulated peptides. But are they effective, or even safe? ",
-      "source": " Latest from Live Science ",
-      "date": "Sat, 04 Jul 2026 14:00:00 +0000",
-      "summary": "The world of peptides has exploded in wellness circles, but the benefits of injecting these gray-market molecules rest on little clinical evidence.",
-      "url": "https://www.livescience.com/health/medicine-drugs/the-us-is-hooked-on-unregulated-peptides-but-are-they-effective-or-even-safe"
     },
     {
       "category": "Theology",
