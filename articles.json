@@ -1,54 +1,54 @@
 {
-  "lastUpdated": "2026-07-05T16:59:51.304Z",
+  "lastUpdated": "2026-07-05T22:55:57.707Z",
   "articleCount": 36,
   "articles": [
     {
       "category": "AI",
-      "title": "The Plight of the Martian Farmer",
+      "title": "DNSGlobe – Rust TUI to watch DNS propagate around the world",
       "source": "Hacker News: Front Page",
-      "date": "Sun, 05 Jul 2026 16:04:23 +0000",
-      "summary": "Article URL: https://mceglowski.substack.com/p/the-plight-of-the-martian-farmer\nComments URL: https://news.ycombinator.com/item?id=48795303\nPoints: 13\n# Comments: 3",
-      "url": "https://mceglowski.substack.com/p/the-plight-of-the-martian-farmer"
-    },
-    {
-      "category": "Science",
-      "title": "A nearby black hole as a window into the early universe",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sun, 05 Jul 2026 12:00:01 EDT",
-      "summary": "An international team led by Stefanie Komossa from the Max Planck Institute for Radio Astronomy (MPIfR) in Bonn has studied a galaxy that has been shining exceptionally brightly in the radio regime for more than eight years. Although it is only 1.8 billion light-years away from us, the central black hole in the galaxy exhibits properties typical of the early universe. New observations and archival data suggest that, for several years now, more matter has been falling into the black hole, triggering a high-energy particle jet. The discovery enables researchers to better understand the formation of jets and the growth of black holes in the early universe.",
-      "url": "https://phys.org/news/2026-07-nearby-black-hole-window-early.html"
+      "date": "Sun, 05 Jul 2026 21:55:53 +0000",
+      "summary": "Article URL: https://github.com/514-labs/dnsglobe\nComments URL: https://news.ycombinator.com/item?id=48798313\nPoints: 8\n# Comments: 2",
+      "url": "https://github.com/514-labs/dnsglobe"
     },
     {
       "category": "AI",
-      "title": "Autonomous flying umbrella follows and shields users from rain and sunlight",
+      "title": "CoCom regulations and GPS receivers for balloons and cubesats",
       "source": "Hacker News: Front Page",
-      "date": "Sun, 05 Jul 2026 15:49:18 +0000",
-      "summary": "Article URL: https://www.designboom.com/technology/autonomous-flying-umbrella-follows-users-rain-sunlight-i-build-stuff-01-13-2026/\nComments URL: https://news.ycombinator.com/item?id=48795174\nPoints: 16\n# Comments: 6",
-      "url": "https://www.designboom.com/technology/autonomous-flying-umbrella-follows-users-rain-sunlight-i-build-stuff-01-13-2026/"
-    },
-    {
-      "category": "Science",
-      "title": "Laughter may date back 15 million years, shared by humans and great apes",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sun, 05 Jul 2026 11:20:01 EDT",
-      "summary": "Humans and great apes have been giggling in similar ways since branching off the evolutionary tree, a new study suggests.",
-      "url": "https://phys.org/news/2026-06-humans-great-apes-similar-giggles.html"
+      "date": "Sun, 05 Jul 2026 21:39:05 +0000",
+      "summary": "Article URL: https://space.stackexchange.com/questions/14687/current-situation-with-cocom-regulations-and-gps-receivers-for-balloons-and-cube\nComments URL: https://news.ycombinator.com/item?id=48798210\nPoints: 8\n# Comments: 0",
+      "url": "https://space.stackexchange.com/questions/14687/current-situation-with-cocom-regulations-and-gps-receivers-for-balloons-and-cube"
     },
     {
       "category": "AI",
-      "title": "Why DMARC's new \"NP\" tag can fail with DNSSEC",
+      "title": "Had an idea for a Rust editor with simple Vim mode for learning",
       "source": "Hacker News: Front Page",
-      "date": "Sun, 05 Jul 2026 15:00:21 +0000",
-      "summary": "Article URL: https://dmarcwise.io/blog/dmarc-np-incompatibility-with-dnssec\nComments URL: https://news.ycombinator.com/item?id=48794788\nPoints: 5\n# Comments: 0",
-      "url": "https://dmarcwise.io/blog/dmarc-np-incompatibility-with-dnssec"
+      "date": "Sun, 05 Jul 2026 21:36:28 +0000",
+      "summary": "Article URL: https://github.com/electronicsleep/rust-vim\nComments URL: https://news.ycombinator.com/item?id=48798187\nPoints: 4\n# Comments: 1",
+      "url": "https://github.com/electronicsleep/rust-vim"
     },
     {
       "category": "Science",
-      "title": "Japan space probe skims asteroid in test for planetary defense",
+      "title": "An island of calm at the violent heart of the galaxy",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Sun, 05 Jul 2026 10:30:12 EDT",
-      "summary": "A Japanese space probe performed a flyby of a near-Earth asteroid on Sunday in a test mission for technology that could help protect the planet from space rocks.",
-      "url": "https://phys.org/news/2026-07-japan-space-probe-skims-asteroid.html"
+      "date": "Sun, 05 Jul 2026 17:30:01 EDT",
+      "summary": "Where would you go to watch a star being born? Probably not the heart of the Milky Way, which is about the most violent neighborhood our galaxy has to offer, a maelstrom of gas churning so fast and so chaotically that you would think nothing could ever settle there long enough to collapse into a star. And yet stars do form in that turmoil, and astronomers have just begun to work out how by finding an unexpected pocket of calm in the chaos.",
+      "url": "https://phys.org/news/2026-06-island-calm-violent-heart-galaxy.html"
+    },
+    {
+      "category": "Science",
+      "title": "Rats show empathy, according to model",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sun, 05 Jul 2026 16:00:03 EDT",
+      "summary": "A rat first frees a cagemate rat and then shares food with it. Is this animal just as empathetic as humans? In an American study from 2011, researchers observed that rats first freed their fellow rats from a cage and then shared food with them instead of leaving them in the cage and eating alone; this means they showed empathy. But do they have the same capacity for empathy as we humans, or do we differ in that regard?",
+      "url": "https://phys.org/news/2026-07-rats-empathy.html"
+    },
+    {
+      "category": "Science",
+      "title": "Spring songbirds may help pollinate UK trees, with pollen on 89% of studied birds",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sun, 05 Jul 2026 16:00:01 EDT",
+      "summary": "The warblers—those harbingers of spring in the U.K.—have an unappreciated talent of a different sort. Common U.K. birds, including chiffchaffs and blackcaps, are playing a real role in the pollination of plants, according to new research in the Journal of Ecology.",
+      "url": "https://phys.org/news/2026-07-songbirds-pollinate-uk-trees-pollen.html"
     },
     {
       "category": "Space",
