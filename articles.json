@@ -1,78 +1,142 @@
 {
-  "lastUpdated": "2026-07-05T22:55:57.707Z",
+  "lastUpdated": "2026-07-06T13:39:27.298Z",
   "articleCount": 36,
   "articles": [
     {
-      "category": "AI",
-      "title": "DNSGlobe – Rust TUI to watch DNS propagate around the world",
-      "source": "Hacker News: Front Page",
-      "date": "Sun, 05 Jul 2026 21:55:53 +0000",
-      "summary": "Article URL: https://github.com/514-labs/dnsglobe\nComments URL: https://news.ycombinator.com/item?id=48798313\nPoints: 8\n# Comments: 2",
-      "url": "https://github.com/514-labs/dnsglobe"
-    },
-    {
-      "category": "AI",
-      "title": "CoCom regulations and GPS receivers for balloons and cubesats",
-      "source": "Hacker News: Front Page",
-      "date": "Sun, 05 Jul 2026 21:39:05 +0000",
-      "summary": "Article URL: https://space.stackexchange.com/questions/14687/current-situation-with-cocom-regulations-and-gps-receivers-for-balloons-and-cube\nComments URL: https://news.ycombinator.com/item?id=48798210\nPoints: 8\n# Comments: 0",
-      "url": "https://space.stackexchange.com/questions/14687/current-situation-with-cocom-regulations-and-gps-receivers-for-balloons-and-cube"
+      "category": "Science",
+      "title": "Scientists observe water's behavior in a single molecular layer",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Mon, 06 Jul 2026 09:20:03 EDT",
+      "summary": "New research has revealed that water behaves differently when confined to spaces just one molecule thick. For the first time, scientists have directly measured the vibrational signatures of truly two-dimensional water. In a study published in Nature Communications, researchers used ultrathin channels only a few angstroms high to trap water in isolated layers and probe how its hydrogen-bonding network changes under extreme confinement.",
+      "url": "https://phys.org/news/2026-07-scientists-behavior-molecular-layer.html"
     },
     {
       "category": "AI",
-      "title": "Had an idea for a Rust editor with simple Vim mode for learning",
+      "title": "Workers Cache",
       "source": "Hacker News: Front Page",
-      "date": "Sun, 05 Jul 2026 21:36:28 +0000",
-      "summary": "Article URL: https://github.com/electronicsleep/rust-vim\nComments URL: https://news.ycombinator.com/item?id=48798187\nPoints: 4\n# Comments: 1",
-      "url": "https://github.com/electronicsleep/rust-vim"
+      "date": "Mon, 06 Jul 2026 13:02:51 +0000",
+      "summary": "Article URL: https://blog.cloudflare.com/workers-cache/\nComments URL: https://news.ycombinator.com/item?id=48804014\nPoints: 17\n# Comments: 0",
+      "url": "https://blog.cloudflare.com/workers-cache/"
     },
     {
       "category": "Science",
-      "title": "An island of calm at the violent heart of the galaxy",
+      "title": "Chemists capture structure of the elusive borylnitrene trapped in a crystal using X-ray",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Sun, 05 Jul 2026 17:30:01 EDT",
-      "summary": "Where would you go to watch a star being born? Probably not the heart of the Milky Way, which is about the most violent neighborhood our galaxy has to offer, a maelstrom of gas churning so fast and so chaotically that you would think nothing could ever settle there long enough to collapse into a star. And yet stars do form in that turmoil, and astronomers have just begun to work out how by finding an unexpected pocket of calm in the chaos.",
-      "url": "https://phys.org/news/2026-06-island-calm-violent-heart-galaxy.html"
+      "date": "Mon, 06 Jul 2026 09:00:10 EDT",
+      "summary": "Nitrenes are the ghosts of synthetic chemistry, formed in an instant and gone just as quickly, rearranging into something entirely different. These highly reactive intermediates are widely used in synthesis, yet remain notoriously difficult to study because they rapidly transform into more stable structures through a process called 1,2-migration.",
+      "url": "https://phys.org/news/2026-07-chemists-capture-elusive-borylnitrene-crystal.html"
     },
     {
       "category": "Science",
-      "title": "Rats show empathy, according to model",
+      "title": "Atomic-level engineering of Cu nanoclusters improves conversion of CO₂ to fuel",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Sun, 05 Jul 2026 16:00:03 EDT",
-      "summary": "A rat first frees a cagemate rat and then shares food with it. Is this animal just as empathetic as humans? In an American study from 2011, researchers observed that rats first freed their fellow rats from a cage and then shared food with them instead of leaving them in the cage and eating alone; this means they showed empathy. But do they have the same capacity for empathy as we humans, or do we differ in that regard?",
-      "url": "https://phys.org/news/2026-07-rats-empathy.html"
-    },
-    {
-      "category": "Science",
-      "title": "Spring songbirds may help pollinate UK trees, with pollen on 89% of studied birds",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sun, 05 Jul 2026 16:00:01 EDT",
-      "summary": "The warblers—those harbingers of spring in the U.K.—have an unappreciated talent of a different sort. Common U.K. birds, including chiffchaffs and blackcaps, are playing a real role in the pollination of plants, according to new research in the Journal of Ecology.",
-      "url": "https://phys.org/news/2026-07-songbirds-pollinate-uk-trees-pollen.html"
+      "date": "Mon, 06 Jul 2026 09:00:02 EDT",
+      "summary": "Researchers at Tohoku University have discovered a promising strategy that converts harmful carbon dioxide into valuable fuels and chemicals by precisely altering nanoclusters made of copper.",
+      "url": "https://phys.org/news/2026-07-atomic-cu-nanoclusters-conversion-fuel.html"
     },
     {
       "category": "Space",
-      "title": " NASA tests advanced new Mars rover prototype in the California desert (video) ",
+      "title": " NASA will have to find a way to service its new alien-hunting space telescope ",
       "source": " Latest from Space.com ",
-      "date": "Sun, 05 Jul 2026 14:00:00 +0000",
-      "summary": "A new rover prototype is teaching NASA scientists how to design robots that can think for themselves and navigate terrain that would leave old rovers stuck in the lunar or Martian dust.",
-      "url": "https://www.space.com/space-exploration/nasa-tests-advanced-new-mars-rover-prototype-in-the-california-desert-video"
+      "date": "Mon, 06 Jul 2026 13:00:00 +0000",
+      "summary": "We could see robots working on NASA's Habitable Worlds Observatory out in space.",
+      "url": "https://www.space.com/space-exploration/nasa-will-have-to-find-a-way-to-service-its-new-alien-hunting-space-telescope"
+    },
+    {
+      "category": "AI",
+      "title": "The AI Marketing Backlash: Why 'AI-First' Brands Are Starting to Fall Flat",
+      "source": "Hacker News: Front Page",
+      "date": "Mon, 06 Jul 2026 12:33:09 +0000",
+      "summary": "Article URL: https://www.breef.com/breefingroom/articles/the-ai-marketing-backlash-why-ai-first-brands-are-starting-to-fall-flat\nComments URL: https://news.ycombinator.com/item?id=48803711\nPoints: 8\n# Comments: 0",
+      "url": "https://www.breef.com/breefingroom/articles/the-ai-marketing-backlash-why-ai-first-brands-are-starting-to-fall-flat"
+    },
+    {
+      "category": "Space",
+      "title": " Astronomers discover radio signals coming from rare 'Blue Eye Pulsar' after decades of silence ",
+      "source": " Latest from Space.com ",
+      "date": "Mon, 06 Jul 2026 12:00:00 +0000",
+      "summary": "Astronomers have detected radio signals coming from a long-dead neutron star known as the 'Blue Eye Pulsar' after searching for decades.",
+      "url": "https://www.space.com/astronomy/stars/astronomers-discover-radio-signals-coming-from-rare-blue-eye-pulsar-after-decades-of-silence"
+    },
+    {
+      "category": "AI",
+      "title": "Road to Elm 1.0",
+      "source": "Hacker News: Front Page",
+      "date": "Mon, 06 Jul 2026 11:47:37 +0000",
+      "summary": "Article URL: https://elm-lang.org/news/faster-builds\nComments URL: https://news.ycombinator.com/item?id=48803364\nPoints: 90\n# Comments: 39",
+      "url": "https://elm-lang.org/news/faster-builds"
+    },
+    {
+      "category": "AI",
+      "title": "Bentley teases its first EV, the Torcal",
+      "source": "Ars Technica - All content",
+      "date": "Mon, 06 Jul 2026 11:30:38 +0000",
+      "summary": "The new model will be officially unveiled in late September.",
+      "url": "https://arstechnica.com/cars/2026/07/bentley-teases-its-first-ev-the-torcal/"
+    },
+    {
+      "category": "AI",
+      "title": "The Czinger 21C might be the wildest car we drive all year",
+      "source": "Ars Technica - All content",
+      "date": "Mon, 06 Jul 2026 11:00:14 +0000",
+      "summary": "This hybrid V8 has organic-looking 3D-printed components and shatters lap records.",
+      "url": "https://arstechnica.com/cars/2026/07/the-czinger-21c-might-be-the-wildest-car-we-drive-all-year/"
+    },
+    {
+      "category": "Biblical Studies",
+      "title": "How Rabbis Became Experts",
+      "source": "Biblical Archaeology Society",
+      "date": "Mon, 06 Jul 2026 10:45:27 +0000",
+      "summary": "How Rabbis Became Experts Social Circles and Donor Networks in Jewish Late Antiquity By Krista N. Dalton (Princeton: Princeton Univ. Press, 2025), 264 pp.; $39.95 […]\nThe post How Rabbis Became Experts appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/reviews/how-rabbis-became-experts/"
     },
     {
       "category": "Science",
-      "title": " Superintelligent AI in space could explain the Fermi Paradox ",
+      "title": " James Webb telescope's largest-ever map of the universe unmasks hidden corners ",
       "source": " Latest from Live Science ",
-      "date": "Sun, 05 Jul 2026 12:00:00 +0000",
-      "summary": "Why haven't we found evidence of advanced aliens? It could be that they've outsourced cosmic exploration to superintelligent AI, a new paper suggests.",
-      "url": "https://www.livescience.com/space/cosmology/superintelligent-ai-in-space-could-explain-the-fermi-paradox"
+      "date": "Mon, 06 Jul 2026 10:08:25 +0000",
+      "summary": "Using the James Webb Space Telescope, astronomers have created the most detailed map of the cosmic web ever.",
+      "url": "https://www.livescience.com/space/astronomy/james-webb-telescopes-largest-ever-map-of-the-universe-unmasks-hidden-corners-of-the-universe"
+    },
+    {
+      "category": "Science",
+      "title": " The Stargazer: A 5,000-year-old marble statuette of a Stone Age woman looking skyward ",
+      "source": " Latest from Live Science ",
+      "date": "Mon, 06 Jul 2026 10:00:00 +0000",
+      "summary": "Only a handful of these small, sleek, marble figurines carved by enigmatic Stone Age people are known to exist.",
+      "url": "https://www.livescience.com/archaeology/the-stargazer-a-5-000-year-old-marble-statuette-of-a-stone-age-woman-looking-skyward"
     },
     {
       "category": "Space",
-      "title": " He-Man and beyond: 20 sci-fi cartoons (some iconic, some weird) that transported '80s and '90s kids to strange new worlds ",
+      "title": " 'Once-in-a-millennium' asteroid flyby will be visible to much of the world in 2029 ",
       "source": " Latest from Space.com ",
-      "date": "Sun, 05 Jul 2026 12:00:00 +0000",
-      "summary": "They had the power! Saturday morning cartoons introduced many kids to science fiction... and toys, lots and lots of toys",
-      "url": "https://www.space.com/entertainment/space-movies-shows/he-man-and-beyond-20-sci-fi-cartoons-some-iconic-some-weird-that-transported-80s-and-90s-kids-to-strange-new-worlds"
+      "date": "Mon, 06 Jul 2026 10:00:00 +0000",
+      "summary": "Ninety percent of the world's population could glimpse asteroid Apophis during its once-in-a-millennium close approach to Earth in 2029.",
+      "url": "https://www.space.com/astronomy/asteroids/once-in-a-millennium-asteroid-flyby-will-be-visible-to-much-of-the-world-in-2029"
+    },
+    {
+      "category": "Science",
+      "title": " First experiment to thicken Arctic ice with seawater shows promise — but there’s a big catch ",
+      "source": " Latest from Live Science ",
+      "date": "Mon, 06 Jul 2026 09:45:52 +0000",
+      "summary": "Researchers recently performed the first scientific test of sea ice thickening in the field, but there remains a big question mark over how scalable this method is.",
+      "url": "https://www.livescience.com/planet-earth/arctic/first-experiment-to-thicken-arctic-ice-with-seawater-shows-promise-but-theres-a-big-catch"
+    },
+    {
+      "category": "Theology",
+      "title": "Introducing ‘Silicon Spiritualities’",
+      "source": "The Gospel Coalition",
+      "date": "Mon, 06 Jul 2026 04:02:00 +0000",
+      "summary": "Join Christopher Watkin as he and guests explore the deeper questions artificial intelligence raises about work, worship, truth, power, and what it means to be human.",
+      "url": "https://www.thegospelcoalition.org/podcasts/silicon-spiritualities/introducing-silicon-spiritualities/"
+    },
+    {
+      "category": "Theology",
+      "title": "The Key to Happiness Is Self-Forgetfulness",
+      "source": "The Gospel Coalition",
+      "date": "Mon, 06 Jul 2026 04:02:00 +0000",
+      "summary": "The counterintuitive truth in our quest for happiness is that the more we forget ourselves,  the happier we’ll be.",
+      "url": "https://www.thegospelcoalition.org/article/key-happiness-self-forgetfulness/"
     },
     {
       "category": "AI",
@@ -81,38 +145,6 @@
       "date": "Sun, 05 Jul 2026 11:05:22 +0000",
       "summary": "Chemicals from accidents that injured or killed people increased by nearly 50 percent in recent years.",
       "url": "https://arstechnica.com/science/2026/07/chemical-accidents-rise-as-trump-administration-proposes-weakening-safety-rules/"
-    },
-    {
-      "category": "AI",
-      "title": "The missing 500 million: Cosmic bombardment melted Earth's first crust",
-      "source": "Ars Technica - All content",
-      "date": "Sun, 05 Jul 2026 10:55:02 +0000",
-      "summary": "The heat of the Hadean may have come from impacts as well as the interior.",
-      "url": "https://arstechnica.com/science/2026/07/the-missing-500-million-cosmic-bombardment-melted-earths-first-crust/"
-    },
-    {
-      "category": "Science",
-      "title": " NASA celebrates America's 250th birthday with red, white and blue snaps of the cosmos — Space photo of the week ",
-      "source": " Latest from Live Science ",
-      "date": "Sun, 05 Jul 2026 10:00:00 +0000",
-      "summary": "NASA's Chandra X-ray Observatory celebrates the 4th of July with a dazzling array of red, white and blue space phenomena.",
-      "url": "https://www.livescience.com/space/astronomy/nasa-celebrates-americas-250th-birthday-with-red-white-and-blue-snaps-of-the-cosmos-space-photo-of-the-week"
-    },
-    {
-      "category": "Space",
-      "title": " 10 best Spanish cities to see the total solar eclipse 2026 ",
-      "source": " Latest from Space.com ",
-      "date": "Sun, 05 Jul 2026 10:00:00 +0000",
-      "summary": "From A Coruña and Bilbao to Madrid and Zaragoza, here's where to see the total solar eclipse on Aug. 12, 2026, in some of Spain's biggest cities.",
-      "url": "https://www.space.com/stargazing/solar-eclipses/10-best-spanish-cities-to-see-the-total-solar-eclipse-2026"
-    },
-    {
-      "category": "Science",
-      "title": " Has there ever been a period in human history without war? ",
-      "source": " Latest from Live Science ",
-      "date": "Sun, 05 Jul 2026 09:00:00 +0000",
-      "summary": "Humans have fought countless wars over the millennia. Has there ever been a time when we weren't fighting?",
-      "url": "https://www.livescience.com/archaeology/has-there-ever-been-a-period-in-human-history-without-war"
     },
     {
       "category": "Science",
@@ -147,30 +179,6 @@
       "url": "https://www.sciencedaily.com/releases/2026/07/260704232634.htm"
     },
     {
-      "category": "AI",
-      "title": "Review: Supergirl is not the disaster its low box office suggests",
-      "source": "Ars Technica - All content",
-      "date": "Sat, 04 Jul 2026 16:49:14 +0000",
-      "summary": "It’s a pretty good movie, but it needed to be a great movie to thrive in an oversaturated superhero market.",
-      "url": "https://arstechnica.com/culture/2026/07/review-supergirl-is-not-the-disaster-its-low-box-office-suggests/"
-    },
-    {
-      "category": "Theology",
-      "title": "Why (and How) to Avoid Spicy Books",
-      "source": "The Gospel Coalition",
-      "date": "Sat, 04 Jul 2026 04:02:00 +0000",
-      "summary": "Explicit content doesn’t lose its danger when it’s printed on paper instead of paraded across a screen.",
-      "url": "https://www.thegospelcoalition.org/article/avoid-spicy-books/"
-    },
-    {
-      "category": "Theology",
-      "title": "A Prayer for America250",
-      "source": "The Gospel Coalition",
-      "date": "Sat, 04 Jul 2026 04:00:08 +0000",
-      "summary": "Let’s thank God for freedom and celebrate an imperfect yet good nation.",
-      "url": "https://www.thegospelcoalition.org/article/prayer-america-250/"
-    },
-    {
       "category": "Biblical Studies",
       "title": "Imagining Joseph in Egypt",
       "source": "Biblical Archaeology Society",
@@ -193,14 +201,6 @@
       "date": "Thu, 02 Jul 2026 11:00:11 +0000",
       "summary": "New Testament scholar Simon Gathercole examines what the sayings of Jesus in the Gospel of Thomas reveal about the early Christian world in which they were written. \nThe post The Sayings of Jesus in the Gospel of Thomas appeared first on Biblical Archaeology Society.",
       "url": "https://www.biblicalarchaeology.org/daily/biblical-topics/bible-versions-and-translations/the-sayings-of-jesus-in-the-gospel-of-thomas/"
-    },
-    {
-      "category": "Biblical Studies",
-      "title": "The Gospel of Thomas’s 114 Sayings of Jesus",
-      "source": "Biblical Archaeology Society",
-      "date": "Thu, 02 Jul 2026 11:00:09 +0000",
-      "summary": "Read the 114 sayings of Jesus from the Gospel of Thomas as translated by Stephen J. Patterson and James M. Robinson.\nThe post The Gospel of Thomas’s 114 Sayings of Jesus appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/daily/biblical-topics/bible-versions-and-translations/the-gospel-of-thomas-114-sayings-of-jesus/"
     },
     {
       "category": "History",
