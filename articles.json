@@ -1,86 +1,142 @@
 {
-  "lastUpdated": "2026-07-06T13:39:27.298Z",
-  "articleCount": 36,
+  "lastUpdated": "2026-07-06T18:06:15.396Z",
+  "articleCount": 39,
   "articles": [
     {
       "category": "Science",
-      "title": "Scientists observe water's behavior in a single molecular layer",
+      "title": "School-based program to reduce loneliness and improve help-seeking among adolescents",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Mon, 06 Jul 2026 09:20:03 EDT",
-      "summary": "New research has revealed that water behaves differently when confined to spaces just one molecule thick. For the first time, scientists have directly measured the vibrational signatures of truly two-dimensional water. In a study published in Nature Communications, researchers used ultrathin channels only a few angstroms high to trap water in isolated layers and probe how its hydrogen-bonding network changes under extreme confinement.",
-      "url": "https://phys.org/news/2026-07-scientists-behavior-molecular-layer.html"
-    },
-    {
-      "category": "AI",
-      "title": "Workers Cache",
-      "source": "Hacker News: Front Page",
-      "date": "Mon, 06 Jul 2026 13:02:51 +0000",
-      "summary": "Article URL: https://blog.cloudflare.com/workers-cache/\nComments URL: https://news.ycombinator.com/item?id=48804014\nPoints: 17\n# Comments: 0",
-      "url": "https://blog.cloudflare.com/workers-cache/"
+      "date": "Mon, 06 Jul 2026 14:00:09 EDT",
+      "summary": "Adolescents experiencing social isolation or loneliness are at increased risk of developing mental health problems, highlighting the need for preventive interventions before these challenges worsen. However, relatively few psychoeducational programs specifically address isolation and loneliness among adolescents, with most existing interventions focusing on individualized support.",
+      "url": "https://phys.org/news/2026-07-school-based-loneliness-adolescents.html"
     },
     {
       "category": "Science",
-      "title": "Chemists capture structure of the elusive borylnitrene trapped in a crystal using X-ray",
+      "title": "Four new groups of indigenous cacao varieties discovered in Peru",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Mon, 06 Jul 2026 09:00:10 EDT",
-      "summary": "Nitrenes are the ghosts of synthetic chemistry, formed in an instant and gone just as quickly, rearranging into something entirely different. These highly reactive intermediates are widely used in synthesis, yet remain notoriously difficult to study because they rapidly transform into more stable structures through a process called 1,2-migration.",
-      "url": "https://phys.org/news/2026-07-chemists-capture-elusive-borylnitrene-crystal.html"
+      "date": "Mon, 06 Jul 2026 14:00:05 EDT",
+      "summary": "A new genetic analysis of hundreds of cacao trees representing traditional Amazonian varieties grown on farms across Peru has revealed four previously unidentified, genetically distinct groups. Lambert Motilal, with colleagues from the Cocoa Research Center, The University of the West Indies, and Martha S. Calderon and Danilo E. Bustamante, with their colleagues from the Universidad Nacional Toribio Rodríguez de Mendoza, partnered to explore Peru's untapped cacao diversity.",
+      "url": "https://phys.org/news/2026-07-groups-indigenous-cacao-varieties-peru.html"
+    },
+    {
+      "category": "Space",
+      "title": " Black holes buried in mysterious 'little red dot' galaxies could blast cosmic ghosts at Earth ",
+      "source": " Latest from Space.com ",
+      "date": "Mon, 06 Jul 2026 18:00:00 +0000",
+      "summary": "Mysterious \"little red dots\" discovered in the early universe by the James Webb Space Telescope could harbor buried black holes that fire high-energy neutrinos through the cosmos.",
+      "url": "https://www.space.com/astronomy/black-holes/black-holes-buried-in-mysterious-little-red-dot-galaxies-could-blast-cosmic-ghosts-at-earth"
     },
     {
       "category": "Science",
-      "title": "Atomic-level engineering of Cu nanoclusters improves conversion of CO₂ to fuel",
+      "title": "Unexpected discovery yields new graphene oxide production method",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Mon, 06 Jul 2026 09:00:02 EDT",
-      "summary": "Researchers at Tohoku University have discovered a promising strategy that converts harmful carbon dioxide into valuable fuels and chemicals by precisely altering nanoclusters made of copper.",
-      "url": "https://phys.org/news/2026-07-atomic-cu-nanoclusters-conversion-fuel.html"
+      "date": "Mon, 06 Jul 2026 13:40:07 EDT",
+      "summary": "Researchers in the Texas A&M University J. Mike Walker '66 Department of Mechanical Engineering have developed a new method for producing graphene oxide, a high-value carbon nanomaterial used in batteries, electronics and advanced manufacturing.",
+      "url": "https://phys.org/news/2026-07-unexpected-discovery-yields-graphene-oxide.html"
+    },
+    {
+      "category": "AI",
+      "title": "Big Tech Has Suddenly Flipped on the AI Jobs Wipeout Scenario",
+      "source": "Hacker News: Front Page",
+      "date": "Mon, 06 Jul 2026 17:16:41 +0000",
+      "summary": "Article URL: https://www.wsj.com/tech/ai/ai-workers-tech-ceos-job-losses-afc71e15\nComments URL: https://news.ycombinator.com/item?id=48807651\nPoints: 13\n# Comments: 2",
+      "url": "https://www.wsj.com/tech/ai/ai-workers-tech-ceos-job-losses-afc71e15"
+    },
+    {
+      "category": "AI",
+      "title": "Katalyst's satellite rescue mission is now in pursuit of NASA's Swift",
+      "source": "Ars Technica - All content",
+      "date": "Mon, 06 Jul 2026 17:14:09 +0000",
+      "summary": "It will take several weeks for the Link spacecraft to rendezvous with NASA's Swift observatory.",
+      "url": "https://arstechnica.com/science/2026/07/katalysts-satellite-rescue-mission-is-now-in-pursuit-of-nasas-swift/"
+    },
+    {
+      "category": "AI",
+      "title": "The Supreme Court Just Lit a Fuse Under Flock's License Plate Camera Empire",
+      "source": "Hacker News: Front Page",
+      "date": "Mon, 06 Jul 2026 16:58:51 +0000",
+      "summary": "Article URL: https://www.yahoo.com/news/politics/articles/supreme-court-just-lit-fuse-130900307.html\nComments URL: https://news.ycombinator.com/item?id=48807383\nPoints: 34\n# Comments: 4",
+      "url": "https://www.yahoo.com/news/politics/articles/supreme-court-just-lit-fuse-130900307.html"
+    },
+    {
+      "category": "AI",
+      "title": "OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files",
+      "source": "Hacker News: Front Page",
+      "date": "Mon, 06 Jul 2026 16:47:44 +0000",
+      "summary": "Article URL: https://github.com/iOfficeAI/OfficeCLI\nComments URL: https://news.ycombinator.com/item?id=48807225\nPoints: 16\n# Comments: 1",
+      "url": "https://github.com/iOfficeAI/OfficeCLI"
+    },
+    {
+      "category": "AI",
+      "title": "Secret Claude tracker shocks users after Anthropic’s anti-surveillance stance",
+      "source": "Ars Technica - All content",
+      "date": "Mon, 06 Jul 2026 16:44:18 +0000",
+      "summary": "Anthropic accused of spying on users; engineer says “experiment” is over.",
+      "url": "https://arstechnica.com/tech-policy/2026/07/anthropic-outed-for-claude-tracker-that-secretly-monitored-chinese-users/"
+    },
+    {
+      "category": "Theology",
+      "title": "Old Testament Theology with Mary Hannah",
+      "source": "The Gospel Coalition",
+      "date": "Mon, 06 Jul 2026 16:32:23 +0000",
+      "summary": "Matt Harmon and Ben Gladd talk with Mary Hannah about Old Testament theology, biblical theology in the local church, Christ-centered interpretation, moral application, and how ordinary Christians can grow in seeing the beauty of Christ across Scripture.",
+      "url": "https://www.thegospelcoalition.org/podcasts/carson-center/old-testament-theology-with-mary-hannah/"
     },
     {
       "category": "Space",
-      "title": " NASA will have to find a way to service its new alien-hunting space telescope ",
+      "title": " Unidentified metal spheres found on Australian beach are 'debris from a foreign rocket body', space agency says ",
       "source": " Latest from Space.com ",
-      "date": "Mon, 06 Jul 2026 13:00:00 +0000",
-      "summary": "We could see robots working on NASA's Habitable Worlds Observatory out in space.",
-      "url": "https://www.space.com/space-exploration/nasa-will-have-to-find-a-way-to-service-its-new-alien-hunting-space-telescope"
+      "date": "Mon, 06 Jul 2026 16:30:00 +0000",
+      "summary": "The Australian Space Agency is warning residents of Queensland to be on the lookout after metallic-looking spheres, possibly space debris, appeared on a beach.",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/unidentified-metal-spheres-found-on-australian-beach-are-debris-from-a-foreign-rocket-body-space-agency-says"
+    },
+    {
+      "category": "Science",
+      "title": " Diagnostic dilemma: Huge mass in woman's stomach was likely caused by Ozempic-style drug — and dissolved with diet soda ",
+      "source": " Latest from Live Science ",
+      "date": "Mon, 06 Jul 2026 16:10:00 +0000",
+      "summary": "A woman's abdominal discomfort turned out to be caused by a build up of food in her stomach. And the treatment involved diet soda.",
+      "url": "https://www.livescience.com/health/diagnostic-dilemma-huge-mass-in-womans-stomach-was-likely-caused-by-ozempic-style-drug-and-dissolved-with-diet-soda"
     },
     {
       "category": "AI",
-      "title": "The AI Marketing Backlash: Why 'AI-First' Brands Are Starting to Fall Flat",
-      "source": "Hacker News: Front Page",
-      "date": "Mon, 06 Jul 2026 12:33:09 +0000",
-      "summary": "Article URL: https://www.breef.com/breefingroom/articles/the-ai-marketing-backlash-why-ai-first-brands-are-starting-to-fall-flat\nComments URL: https://news.ycombinator.com/item?id=48803711\nPoints: 8\n# Comments: 0",
-      "url": "https://www.breef.com/breefingroom/articles/the-ai-marketing-backlash-why-ai-first-brands-are-starting-to-fall-flat"
+      "title": "The incredible shrinking Xbox: Five studios, 3,200 employees let go",
+      "source": "Ars Technica - All content",
+      "date": "Mon, 06 Jul 2026 16:01:54 +0000",
+      "summary": "Move affects ~20% of the gaming division, which will refocus on its biggest franchises.",
+      "url": "https://arstechnica.com/gaming/2026/07/the-incredible-shrinking-xbox-five-studios-3200-employees-let-go/"
     },
     {
       "category": "Space",
-      "title": " Astronomers discover radio signals coming from rare 'Blue Eye Pulsar' after decades of silence ",
+      "title": " 'Acceleration without fuel:' Revolutionary superconducting thruster harnesses Earth's magnetic field in 1st orbital test ",
       "source": " Latest from Space.com ",
-      "date": "Mon, 06 Jul 2026 12:00:00 +0000",
-      "summary": "Astronomers have detected radio signals coming from a long-dead neutron star known as the 'Blue Eye Pulsar' after searching for decades.",
-      "url": "https://www.space.com/astronomy/stars/astronomers-discover-radio-signals-coming-from-rare-blue-eye-pulsar-after-decades-of-silence"
+      "date": "Mon, 06 Jul 2026 16:00:00 +0000",
+      "summary": "A novel space thruster using superconducting magnets completed its first orbital tests. The technology could in the future propel spacecraft using just the power of the sun.",
+      "url": "https://www.space.com/technology/acceleration-without-fuel-revolutionary-superconducting-thruster-harnesses-earths-magnetic-field-in-1st-orbital-test"
     },
     {
-      "category": "AI",
-      "title": "Road to Elm 1.0",
-      "source": "Hacker News: Front Page",
-      "date": "Mon, 06 Jul 2026 11:47:37 +0000",
-      "summary": "Article URL: https://elm-lang.org/news/faster-builds\nComments URL: https://news.ycombinator.com/item?id=48803364\nPoints: 90\n# Comments: 39",
-      "url": "https://elm-lang.org/news/faster-builds"
+      "category": "Space",
+      "title": "NASA Seeks Industry Input on Second Phase of Commercial Space Stations",
+      "source": "NASA",
+      "date": "Mon, 06 Jul 2026 15:33:00 +0000",
+      "summary": "On Monday, NASA released a draft Request for Proposals (RFP) seeking feedback from American companies on the next phase of its commercial space stations strategy, aimed at ensuring a seamless transition of activities in low Earth orbit from the International Space Station.  “NASA’s review reflects what we’ve been hearing from industry throughout this process. Industry […]",
+      "url": "https://www.nasa.gov/humans-in-space/commercial-space/nasa-seeks-industry-input-on-second-phase-of-commercial-space-stations/"
     },
     {
-      "category": "AI",
-      "title": "Bentley teases its first EV, the Torcal",
-      "source": "Ars Technica - All content",
-      "date": "Mon, 06 Jul 2026 11:30:38 +0000",
-      "summary": "The new model will be officially unveiled in late September.",
-      "url": "https://arstechnica.com/cars/2026/07/bentley-teases-its-first-ev-the-torcal/"
+      "category": "Space",
+      "title": "NASA’s CAPSTONE Completes Extended Mission Testing Lunar Technologies",
+      "source": "NASA",
+      "date": "Mon, 06 Jul 2026 15:00:54 +0000",
+      "summary": "As NASA prepares for a sustained human presence on the Moon, missions will increasingly require spacecraft that can navigate and communicate without a direct connection to Earth. NASA’s Cislunar Autonomous Positioning System Technology Operations and Navigation Experiment, or CAPSTONE, validated and advanced these capabilities. Designed to test and validate technologies in lunar orbit, CAPSTONE launched […]",
+      "url": "https://www.nasa.gov/technology/space-comms/nasas-capstone-completes-extended-mission-testing-lunar-technologies/"
     },
     {
-      "category": "AI",
-      "title": "The Czinger 21C might be the wildest car we drive all year",
-      "source": "Ars Technica - All content",
-      "date": "Mon, 06 Jul 2026 11:00:14 +0000",
-      "summary": "This hybrid V8 has organic-looking 3D-printed components and shatters lap records.",
-      "url": "https://arstechnica.com/cars/2026/07/the-czinger-21c-might-be-the-wildest-car-we-drive-all-year/"
+      "category": "Space",
+      "title": "NASA Webb Uncovers Unusual Galaxy Shaped by Cosmic Collision",
+      "source": "NASA",
+      "date": "Mon, 06 Jul 2026 14:00:00 +0000",
+      "summary": "In new images from NASA’s James Webb Space Telescope to celebrate its fourth science anniversary, a familiar galaxy transforms into something far richer, and far more complex, than ever seen before. Webb’s unprecedented sensitivity across near- and mid-infrared wavelengths cuts through the thick lanes of dust that obscure Centaurus A’s center in visible light, showing […]",
+      "url": "https://science.nasa.gov/missions/webb/nasa-webb-uncovers-unusual-galaxy-shaped-by-cosmic-collision/"
     },
     {
       "category": "Biblical Studies",
@@ -99,36 +155,20 @@
       "url": "https://www.livescience.com/space/astronomy/james-webb-telescopes-largest-ever-map-of-the-universe-unmasks-hidden-corners-of-the-universe"
     },
     {
+      "category": "Biblical Studies",
+      "title": "Exploring Jesus’s Hometown",
+      "source": "Biblical Archaeology Society",
+      "date": "Mon, 06 Jul 2026 10:00:40 +0000",
+      "summary": "In the early first century CE, Jesus’s hometown of Nazareth was a Galilean village like most others. With a population probably numbering only in the […]\nThe post Exploring Jesus’s Hometown appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/daily/biblical-sites-places/exploring-jesuss-hometown/"
+    },
+    {
       "category": "Science",
       "title": " The Stargazer: A 5,000-year-old marble statuette of a Stone Age woman looking skyward ",
       "source": " Latest from Live Science ",
       "date": "Mon, 06 Jul 2026 10:00:00 +0000",
       "summary": "Only a handful of these small, sleek, marble figurines carved by enigmatic Stone Age people are known to exist.",
       "url": "https://www.livescience.com/archaeology/the-stargazer-a-5-000-year-old-marble-statuette-of-a-stone-age-woman-looking-skyward"
-    },
-    {
-      "category": "Space",
-      "title": " 'Once-in-a-millennium' asteroid flyby will be visible to much of the world in 2029 ",
-      "source": " Latest from Space.com ",
-      "date": "Mon, 06 Jul 2026 10:00:00 +0000",
-      "summary": "Ninety percent of the world's population could glimpse asteroid Apophis during its once-in-a-millennium close approach to Earth in 2029.",
-      "url": "https://www.space.com/astronomy/asteroids/once-in-a-millennium-asteroid-flyby-will-be-visible-to-much-of-the-world-in-2029"
-    },
-    {
-      "category": "Science",
-      "title": " First experiment to thicken Arctic ice with seawater shows promise — but there’s a big catch ",
-      "source": " Latest from Live Science ",
-      "date": "Mon, 06 Jul 2026 09:45:52 +0000",
-      "summary": "Researchers recently performed the first scientific test of sea ice thickening in the field, but there remains a big question mark over how scalable this method is.",
-      "url": "https://www.livescience.com/planet-earth/arctic/first-experiment-to-thicken-arctic-ice-with-seawater-shows-promise-but-theres-a-big-catch"
-    },
-    {
-      "category": "Theology",
-      "title": "Introducing ‘Silicon Spiritualities’",
-      "source": "The Gospel Coalition",
-      "date": "Mon, 06 Jul 2026 04:02:00 +0000",
-      "summary": "Join Christopher Watkin as he and guests explore the deeper questions artificial intelligence raises about work, worship, truth, power, and what it means to be human.",
-      "url": "https://www.thegospelcoalition.org/podcasts/silicon-spiritualities/introducing-silicon-spiritualities/"
     },
     {
       "category": "Theology",
@@ -139,12 +179,20 @@
       "url": "https://www.thegospelcoalition.org/article/key-happiness-self-forgetfulness/"
     },
     {
-      "category": "AI",
-      "title": "Chemical accidents rise as Trump administration proposes weakening safety rules",
-      "source": "Ars Technica - All content",
-      "date": "Sun, 05 Jul 2026 11:05:22 +0000",
-      "summary": "Chemicals from accidents that injured or killed people increased by nearly 50 percent in recent years.",
-      "url": "https://arstechnica.com/science/2026/07/chemical-accidents-rise-as-trump-administration-proposes-weakening-safety-rules/"
+      "category": "Theology",
+      "title": "Introducing ‘Silicon Spiritualities’",
+      "source": "The Gospel Coalition",
+      "date": "Mon, 06 Jul 2026 04:02:00 +0000",
+      "summary": "Join Christopher Watkin as he and guests explore the deeper questions artificial intelligence raises about work, worship, truth, power, and what it means to be human.",
+      "url": "https://www.thegospelcoalition.org/podcasts/silicon-spiritualities/introducing-silicon-spiritualities/"
+    },
+    {
+      "category": "Biblical Studies",
+      "title": "Dating the Oldest New Testament Christian Manuscripts",
+      "source": "Biblical Archaeology Society",
+      "date": "Sun, 05 Jul 2026 11:00:13 +0000",
+      "summary": "The New Testament that we read today in many different translations is not based on one single manuscript of the original Greek text. Why? There […]\nThe post Dating the Oldest New Testament Christian Manuscripts appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/daily/biblical-topics/new-testament/dating-the-oldest-new-testament-christian-manuscripts/"
     },
     {
       "category": "Science",
@@ -163,14 +211,6 @@
       "url": "https://www.sciencedaily.com/releases/2026/07/260704232639.htm"
     },
     {
-      "category": "Theology",
-      "title": "Bible-Belt Christianity Is a Harder Mission Field than Secularism",
-      "source": "The Gospel Coalition",
-      "date": "Sun, 05 Jul 2026 04:00:00 +0000",
-      "summary": "The difference between London and Nashville is not the difference between a hard place and an easy one. Both cities are post-Christian; they are simply post-Christian in opposite directions.",
-      "url": "https://www.thegospelcoalition.org/article/bible-belt-mission-field/"
-    },
-    {
       "category": "Science",
       "title": "NASA's Hubble captures a star-spangled sea of 500,000 stars",
       "source": "All Top News -- ScienceDaily",
@@ -179,28 +219,12 @@
       "url": "https://www.sciencedaily.com/releases/2026/07/260704232634.htm"
     },
     {
-      "category": "Biblical Studies",
-      "title": "Imagining Joseph in Egypt",
-      "source": "Biblical Archaeology Society",
-      "date": "Fri, 03 Jul 2026 10:45:51 +0000",
-      "summary": "Editor’s Note: The following article contains photos of human remains. A press release from Egypt’s Ministry of Tourism and Antiquities announced multiple discoveries from Tell […]\nThe post Imagining Joseph in Egypt appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-egypt/imagining-joseph-in-egypt/"
-    },
-    {
       "category": "Theology",
       "title": "Is This Young Person Ready to Be Baptized? Clarifying Questions and Considerations for Churches",
       "source": "9Marks",
       "date": "Thu, 02 Jul 2026 14:20:38 +0000",
       "summary": "Jesus isn’t like the credit card company that sets up shop on a college campus trying to get students to sign on the dotted line without reading the fine print. No, Jesus forces potential converts to stare at the fine print before signing on.\nThe post Is This Young Person Ready to Be Baptized? Clarifying Questions and Considerations for Churches appeared first on 9Marks.",
       "url": "https://www.9marks.org/article/is-this-young-person-ready-to-be-baptized-clarifying-questions-and-considerations-for-churches/?utm_source=rss&utm_medium=rss&utm_campaign=is-this-young-person-ready-to-be-baptized-clarifying-questions-and-considerations-for-churches"
-    },
-    {
-      "category": "Biblical Studies",
-      "title": "The Sayings of Jesus in the Gospel of Thomas",
-      "source": "Biblical Archaeology Society",
-      "date": "Thu, 02 Jul 2026 11:00:11 +0000",
-      "summary": "New Testament scholar Simon Gathercole examines what the sayings of Jesus in the Gospel of Thomas reveal about the early Christian world in which they were written. \nThe post The Sayings of Jesus in the Gospel of Thomas appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/daily/biblical-topics/bible-versions-and-translations/the-sayings-of-jesus-in-the-gospel-of-thomas/"
     },
     {
       "category": "History",
