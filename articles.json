@@ -1,78 +1,150 @@
 {
-  "lastUpdated": "2026-07-06T18:06:15.396Z",
+  "lastUpdated": "2026-07-06T22:59:54.160Z",
   "articleCount": 39,
   "articles": [
     {
       "category": "Science",
-      "title": "School-based program to reduce loneliness and improve help-seeking among adolescents",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Mon, 06 Jul 2026 14:00:09 EDT",
-      "summary": "Adolescents experiencing social isolation or loneliness are at increased risk of developing mental health problems, highlighting the need for preventive interventions before these challenges worsen. However, relatively few psychoeducational programs specifically address isolation and loneliness among adolescents, with most existing interventions focusing on individualized support.",
-      "url": "https://phys.org/news/2026-07-school-based-loneliness-adolescents.html"
+      "title": " Scientists just created the most lifelike cell ever made in a lab — here's what it could accomplish ",
+      "source": " Latest from Live Science ",
+      "date": "Mon, 06 Jul 2026 22:45:00 +0000",
+      "summary": "SpudCell is a new cell-like platform that can feed, grow and divide like a normal cell — but it's not yet a perfect re-creation of the real thing.",
+      "url": "https://www.livescience.com/health/scientists-just-created-the-most-lifelike-cell-ever-made-in-a-lab-heres-what-it-could-accomplish"
     },
     {
       "category": "Science",
-      "title": "Four new groups of indigenous cacao varieties discovered in Peru",
+      "title": "Heat waves: Expert tips on redesigning UK homes to cope with hotter temperatures",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Mon, 06 Jul 2026 14:00:05 EDT",
-      "summary": "A new genetic analysis of hundreds of cacao trees representing traditional Amazonian varieties grown on farms across Peru has revealed four previously unidentified, genetically distinct groups. Lambert Motilal, with colleagues from the Cocoa Research Center, The University of the West Indies, and Martha S. Calderon and Danilo E. Bustamante, with their colleagues from the Universidad Nacional Toribio Rodríguez de Mendoza, partnered to explore Peru's untapped cacao diversity.",
-      "url": "https://phys.org/news/2026-07-groups-indigenous-cacao-varieties-peru.html"
+      "date": "Mon, 06 Jul 2026 18:40:03 EDT",
+      "summary": "As the UK prepares for the third heat wave of 2026, most people will be hoping to keep cool at home. Building regulations to protect homes from overheating were introduced in 2022. These require all new homes to be checked at the design stage to see if they might be at risk of overheating. If the overheating risk is high, the architect has to make changes to the design.",
+      "url": "https://phys.org/news/2026-07-expert-redesigning-uk-homes-cope.html"
+    },
+    {
+      "category": "Science",
+      "title": " Neanderthals and modern humans may have shared culture 59,000 years ago in Turkey, study finds ",
+      "source": " Latest from Live Science ",
+      "date": "Mon, 06 Jul 2026 22:25:04 +0000",
+      "summary": "Fossils, stone tools and seashells in Turkey show that Neanderthals and the Homo sapiens who moved in later had the same hunting strategies and symbolic traditions even without overlapping at the site, suggesting they may have shared information.",
+      "url": "https://www.livescience.com/archaeology/neanderthals/modern-humans-and-neanderthals-may-have-shared-long-term-cultural-continuity"
+    },
+    {
+      "category": "Science",
+      "title": "Climate change means an earlier spring, which can be disorienting and threatening for migrating birds",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Mon, 06 Jul 2026 18:20:01 EDT",
+      "summary": "Spring migration has taken flight, but with rising temperatures and shifting seasons, birds are adjusting when and how they migrate to keep up with a rapidly warming climate. Morgan Tingley, a professor of ecology and evolutionary biology at the University of California, Los Angeles, studies the effects of climate change on birds.",
+      "url": "https://phys.org/news/2026-07-climate-earlier-disorienting-threatening-migrating.html"
+    },
+    {
+      "category": "AI",
+      "title": "How little exercise can you get away with?",
+      "source": "Hacker News: Front Page",
+      "date": "Mon, 06 Jul 2026 22:09:36 +0000",
+      "summary": "Article URL: https://www.economist.com/science-and-technology/2026/07/03/how-little-exercise-can-you-get-away-with\nComments URL: https://news.ycombinator.com/item?id=48811147\nPoints: 25\n# Comments: 8",
+      "url": "https://www.economist.com/science-and-technology/2026/07/03/how-little-exercise-can-you-get-away-with"
+    },
+    {
+      "category": "AI",
+      "title": "Full Writeup of the Windows GDID",
+      "source": "Hacker News: Front Page",
+      "date": "Mon, 06 Jul 2026 22:02:24 +0000",
+      "summary": "Article URL: https://github.com/SmtimesIWndr/gdid-reversal\nComments URL: https://news.ycombinator.com/item?id=48811081\nPoints: 8\n# Comments: 3",
+      "url": "https://github.com/SmtimesIWndr/gdid-reversal"
+    },
+    {
+      "category": "History",
+      "title": "Two Short Notes on The Federalist no. 9 and no. 62",
+      "source": "Journal of the American Revolution",
+      "date": "Mon, 06 Jul 2026 22:00:11 +0000",
+      "summary": "In the eighteenth century, standards for decent citations, quotes, references and also for translations were less clear than they are for us, and certainly less strict. This is instantiated by The Federalist (Papers), the eighty-five essays that were published by Alexander Hamilton, James Madison and John Jay under the joint pen name of “Publius.” These […]\nThe post Two Short Notes on The Federalist no. 9 and no. 62 appeared first on Journal of the American Revolution.",
+      "url": "https://allthingsliberty.com/2026/07/two-short-notes-on-the-federalist-no-9-and-no-62/"
+    },
+    {
+      "category": "Science",
+      "title": "'Outed' by the algorithm—how social media is revealing queer identity ahead of self-disclosure",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Mon, 06 Jul 2026 18:00:03 EDT",
+      "summary": "Social media algorithms are increasingly revealing users' sexual orientation or gender identity before they have consciously come out to themselves or others, according to new research. The new study published in Gender, Place & Culture coins the term \"algorithmic outing\"—when digital platforms infer and surface a user's LGBTQ+ identity through personalized content and recommendations based on engagement signals such as liking a video, following a creator or lingering on certain posts.",
+      "url": "https://phys.org/news/2026-07-outed-algorithm-social-media-revealing.html"
     },
     {
       "category": "Space",
-      "title": " Black holes buried in mysterious 'little red dot' galaxies could blast cosmic ghosts at Earth ",
+      "title": " Even astronauts in space saw America 250 fireworks on the Fourth of July. See their ISS view of Los Angeles (video) ",
       "source": " Latest from Space.com ",
-      "date": "Mon, 06 Jul 2026 18:00:00 +0000",
-      "summary": "Mysterious \"little red dots\" discovered in the early universe by the James Webb Space Telescope could harbor buried black holes that fire high-energy neutrinos through the cosmos.",
-      "url": "https://www.space.com/astronomy/black-holes/black-holes-buried-in-mysterious-little-red-dot-galaxies-could-blast-cosmic-ghosts-at-earth"
+      "date": "Mon, 06 Jul 2026 22:00:00 +0000",
+      "summary": "The U.S. just celebrated its 250th birthday, and the Americans living off the planet had a great view of some of the parties down below.",
+      "url": "https://www.space.com/space-exploration/international-space-station/even-astronauts-in-space-saw-america-250-fireworks-on-the-fourth-of-july-see-their-iss-view-of-los-angeles-video"
+    },
+    {
+      "category": "AI",
+      "title": "Titan's Resources and Their Utilization",
+      "source": "Hacker News: Front Page",
+      "date": "Mon, 06 Jul 2026 21:39:04 +0000",
+      "summary": "Article URL: https://arxiv.org/abs/2606.06608\nComments URL: https://news.ycombinator.com/item?id=48810841\nPoints: 7\n# Comments: 3",
+      "url": "https://arxiv.org/abs/2606.06608"
     },
     {
       "category": "Science",
-      "title": "Unexpected discovery yields new graphene oxide production method",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Mon, 06 Jul 2026 13:40:07 EDT",
-      "summary": "Researchers in the Texas A&M University J. Mike Walker '66 Department of Mechanical Engineering have developed a new method for producing graphene oxide, a high-value carbon nanomaterial used in batteries, electronics and advanced manufacturing.",
-      "url": "https://phys.org/news/2026-07-unexpected-discovery-yields-graphene-oxide.html"
+      "title": " Heart issues tied to 'microdamage' in the brain might raise risk of memory loss, study hints ",
+      "source": " Latest from Live Science ",
+      "date": "Mon, 06 Jul 2026 21:20:00 +0000",
+      "summary": "When the heart's pumping function gets weaker, areas of the brain linked to memory show early signs of damage, a study finds.",
+      "url": "https://www.livescience.com/health/heart-circulation/heart-issues-tied-to-microdamage-in-the-brain-might-raise-risk-of-memory-loss-study-hints"
     },
     {
       "category": "AI",
-      "title": "Big Tech Has Suddenly Flipped on the AI Jobs Wipeout Scenario",
-      "source": "Hacker News: Front Page",
-      "date": "Mon, 06 Jul 2026 17:16:41 +0000",
-      "summary": "Article URL: https://www.wsj.com/tech/ai/ai-workers-tech-ceos-job-losses-afc71e15\nComments URL: https://news.ycombinator.com/item?id=48807651\nPoints: 13\n# Comments: 2",
-      "url": "https://www.wsj.com/tech/ai/ai-workers-tech-ceos-job-losses-afc71e15"
-    },
-    {
-      "category": "AI",
-      "title": "Katalyst's satellite rescue mission is now in pursuit of NASA's Swift",
+      "title": "FCC to end Biden-era rule that forces ISPs to list all their fees",
       "source": "Ars Technica - All content",
-      "date": "Mon, 06 Jul 2026 17:14:09 +0000",
-      "summary": "It will take several weeks for the Link spacecraft to rendezvous with NASA's Swift observatory.",
-      "url": "https://arstechnica.com/science/2026/07/katalysts-satellite-rescue-mission-is-now-in-pursuit-of-nasas-swift/"
+      "date": "Mon, 06 Jul 2026 21:13:37 +0000",
+      "summary": "FCC to let ISPs stop listing all passthrough fees, give single \"up to\" price.",
+      "url": "https://arstechnica.com/tech-policy/2026/07/fcc-to-end-biden-era-rule-that-forces-isps-to-list-all-their-fees/"
+    },
+    {
+      "category": "Space",
+      "title": " Watch SpaceX Falcon 9 rocket launch 81 satellites early on July 7 ",
+      "source": " Latest from Space.com ",
+      "date": "Mon, 06 Jul 2026 21:00:00 +0000",
+      "summary": "A SpaceX Falcon 9 rocket will launch 81 payloads to orbit from California early Tuesday morning (July 7), and you can watch the action live.",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-transporter-17-rideshare-launch-81-satellites"
     },
     {
       "category": "AI",
-      "title": "The Supreme Court Just Lit a Fuse Under Flock's License Plate Camera Empire",
-      "source": "Hacker News: Front Page",
-      "date": "Mon, 06 Jul 2026 16:58:51 +0000",
-      "summary": "Article URL: https://www.yahoo.com/news/politics/articles/supreme-court-just-lit-fuse-130900307.html\nComments URL: https://news.ycombinator.com/item?id=48807383\nPoints: 34\n# Comments: 4",
-      "url": "https://www.yahoo.com/news/politics/articles/supreme-court-just-lit-fuse-130900307.html"
-    },
-    {
-      "category": "AI",
-      "title": "OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files",
-      "source": "Hacker News: Front Page",
-      "date": "Mon, 06 Jul 2026 16:47:44 +0000",
-      "summary": "Article URL: https://github.com/iOfficeAI/OfficeCLI\nComments URL: https://news.ycombinator.com/item?id=48807225\nPoints: 16\n# Comments: 1",
-      "url": "https://github.com/iOfficeAI/OfficeCLI"
-    },
-    {
-      "category": "AI",
-      "title": "Secret Claude tracker shocks users after Anthropic’s anti-surveillance stance",
+      "title": "Kremlin suspected of flying drones over Europe using Russian shadow fleet",
       "source": "Ars Technica - All content",
-      "date": "Mon, 06 Jul 2026 16:44:18 +0000",
-      "summary": "Anthropic accused of spying on users; engineer says “experiment” is over.",
-      "url": "https://arstechnica.com/tech-policy/2026/07/anthropic-outed-for-claude-tracker-that-secretly-monitored-chinese-users/"
+      "date": "Mon, 06 Jul 2026 20:52:42 +0000",
+      "summary": "Drone intruders that possibly flew from Russian ships showed Europe isn’t ready.",
+      "url": "https://arstechnica.com/gadgets/2026/07/kremlin-suspected-of-flying-drones-over-europe-using-russian-shadow-fleet/"
+    },
+    {
+      "category": "Theology",
+      "title": "Setting Realistic Expectations for Your Wife’s Ministry in the Church",
+      "source": "9Marks",
+      "date": "Mon, 06 Jul 2026 20:23:30 +0000",
+      "summary": "Christ’s expectations of a pastor’s wife are identical to his will for every other woman in the assembly.\nThe post Setting Realistic Expectations for Your Wife’s Ministry in the Church appeared first on 9Marks.",
+      "url": "https://www.9marks.org/article/setting-realistic-expectations-for-your-wifes-ministry-in-the-church/?utm_source=rss&utm_medium=rss&utm_campaign=setting-realistic-expectations-for-your-wifes-ministry-in-the-church"
+    },
+    {
+      "category": "Space",
+      "title": " More clues surface about the origins of interstellar comet 3I/ATLAS ",
+      "source": " Latest from Space.com ",
+      "date": "Mon, 06 Jul 2026 20:16:15 +0000",
+      "summary": "Observations of the fast-moving interstellar comet with the Very Large Telescope in Chile support similar observations made by the JWST.",
+      "url": "https://www.space.com/astronomy/comets/more-clues-surface-about-the-origins-of-interstellar-comet-3i-atlas"
+    },
+    {
+      "category": "AI",
+      "title": "What is the oldest American object ever launched into space?",
+      "source": "Ars Technica - All content",
+      "date": "Mon, 06 Jul 2026 19:57:56 +0000",
+      "summary": "From a Revolutionary War flag to the Statue of Liberty...",
+      "url": "https://arstechnica.com/space/2026/07/whats-the-oldest-americana-flown-in-space/"
+    },
+    {
+      "category": "Space",
+      "title": "NASA Takes Flight For America’s 250th",
+      "source": "NASA",
+      "date": "Mon, 06 Jul 2026 18:38:20 +0000",
+      "summary": "NASA Administrator Jared Isaacman leads a flyover featuring his personally owned Northrop F-5 Tiger during the Great American State Fair on July 4, 2026, on the National Mall in Washington, D.C. For 250 years, America has pushed the boundaries of what’s possible. From the earliest days of exploration, to the first steps on the Moon […]",
+      "url": "https://www.nasa.gov/image-article/nasa-takes-flight-for-americas-250th/"
     },
     {
       "category": "Theology",
@@ -81,38 +153,6 @@
       "date": "Mon, 06 Jul 2026 16:32:23 +0000",
       "summary": "Matt Harmon and Ben Gladd talk with Mary Hannah about Old Testament theology, biblical theology in the local church, Christ-centered interpretation, moral application, and how ordinary Christians can grow in seeing the beauty of Christ across Scripture.",
       "url": "https://www.thegospelcoalition.org/podcasts/carson-center/old-testament-theology-with-mary-hannah/"
-    },
-    {
-      "category": "Space",
-      "title": " Unidentified metal spheres found on Australian beach are 'debris from a foreign rocket body', space agency says ",
-      "source": " Latest from Space.com ",
-      "date": "Mon, 06 Jul 2026 16:30:00 +0000",
-      "summary": "The Australian Space Agency is warning residents of Queensland to be on the lookout after metallic-looking spheres, possibly space debris, appeared on a beach.",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/unidentified-metal-spheres-found-on-australian-beach-are-debris-from-a-foreign-rocket-body-space-agency-says"
-    },
-    {
-      "category": "Science",
-      "title": " Diagnostic dilemma: Huge mass in woman's stomach was likely caused by Ozempic-style drug — and dissolved with diet soda ",
-      "source": " Latest from Live Science ",
-      "date": "Mon, 06 Jul 2026 16:10:00 +0000",
-      "summary": "A woman's abdominal discomfort turned out to be caused by a build up of food in her stomach. And the treatment involved diet soda.",
-      "url": "https://www.livescience.com/health/diagnostic-dilemma-huge-mass-in-womans-stomach-was-likely-caused-by-ozempic-style-drug-and-dissolved-with-diet-soda"
-    },
-    {
-      "category": "AI",
-      "title": "The incredible shrinking Xbox: Five studios, 3,200 employees let go",
-      "source": "Ars Technica - All content",
-      "date": "Mon, 06 Jul 2026 16:01:54 +0000",
-      "summary": "Move affects ~20% of the gaming division, which will refocus on its biggest franchises.",
-      "url": "https://arstechnica.com/gaming/2026/07/the-incredible-shrinking-xbox-five-studios-3200-employees-let-go/"
-    },
-    {
-      "category": "Space",
-      "title": " 'Acceleration without fuel:' Revolutionary superconducting thruster harnesses Earth's magnetic field in 1st orbital test ",
-      "source": " Latest from Space.com ",
-      "date": "Mon, 06 Jul 2026 16:00:00 +0000",
-      "summary": "A novel space thruster using superconducting magnets completed its first orbital tests. The technology could in the future propel spacecraft using just the power of the sun.",
-      "url": "https://www.space.com/technology/acceleration-without-fuel-revolutionary-superconducting-thruster-harnesses-earths-magnetic-field-in-1st-orbital-test"
     },
     {
       "category": "Space",
@@ -131,14 +171,6 @@
       "url": "https://www.nasa.gov/technology/space-comms/nasas-capstone-completes-extended-mission-testing-lunar-technologies/"
     },
     {
-      "category": "Space",
-      "title": "NASA Webb Uncovers Unusual Galaxy Shaped by Cosmic Collision",
-      "source": "NASA",
-      "date": "Mon, 06 Jul 2026 14:00:00 +0000",
-      "summary": "In new images from NASA’s James Webb Space Telescope to celebrate its fourth science anniversary, a familiar galaxy transforms into something far richer, and far more complex, than ever seen before. Webb’s unprecedented sensitivity across near- and mid-infrared wavelengths cuts through the thick lanes of dust that obscure Centaurus A’s center in visible light, showing […]",
-      "url": "https://science.nasa.gov/missions/webb/nasa-webb-uncovers-unusual-galaxy-shaped-by-cosmic-collision/"
-    },
-    {
       "category": "Biblical Studies",
       "title": "How Rabbis Became Experts",
       "source": "Biblical Archaeology Society",
@@ -147,28 +179,12 @@
       "url": "https://www.biblicalarchaeology.org/reviews/how-rabbis-became-experts/"
     },
     {
-      "category": "Science",
-      "title": " James Webb telescope's largest-ever map of the universe unmasks hidden corners ",
-      "source": " Latest from Live Science ",
-      "date": "Mon, 06 Jul 2026 10:08:25 +0000",
-      "summary": "Using the James Webb Space Telescope, astronomers have created the most detailed map of the cosmic web ever.",
-      "url": "https://www.livescience.com/space/astronomy/james-webb-telescopes-largest-ever-map-of-the-universe-unmasks-hidden-corners-of-the-universe"
-    },
-    {
       "category": "Biblical Studies",
       "title": "Exploring Jesus’s Hometown",
       "source": "Biblical Archaeology Society",
       "date": "Mon, 06 Jul 2026 10:00:40 +0000",
       "summary": "In the early first century CE, Jesus’s hometown of Nazareth was a Galilean village like most others. With a population probably numbering only in the […]\nThe post Exploring Jesus’s Hometown appeared first on Biblical Archaeology Society.",
       "url": "https://www.biblicalarchaeology.org/daily/biblical-sites-places/exploring-jesuss-hometown/"
-    },
-    {
-      "category": "Science",
-      "title": " The Stargazer: A 5,000-year-old marble statuette of a Stone Age woman looking skyward ",
-      "source": " Latest from Live Science ",
-      "date": "Mon, 06 Jul 2026 10:00:00 +0000",
-      "summary": "Only a handful of these small, sleek, marble figurines carved by enigmatic Stone Age people are known to exist.",
-      "url": "https://www.livescience.com/archaeology/the-stargazer-a-5-000-year-old-marble-statuette-of-a-stone-age-woman-looking-skyward"
     },
     {
       "category": "Theology",
@@ -273,22 +289,6 @@
       "date": "Mon, 29 Jun 2026 18:30:37 +0000",
       "summary": "Over time and through many tears, he brought me to the point where I could honestly say that if I never pastored another church or preached another sermon, Christ is enough. \nThe post I Was Fired for My Preaching appeared first on 9Marks.",
       "url": "https://www.9marks.org/article/i-was-fired-for-my-preaching/?utm_source=rss&utm_medium=rss&utm_campaign=i-was-fired-for-my-preaching"
-    },
-    {
-      "category": "Theology",
-      "title": "To What Shall We Compare God’s Love?",
-      "source": "9Marks",
-      "date": "Fri, 26 Jun 2026 16:03:21 +0000",
-      "summary": "We should be careful about elevating certain analogies of God’s love over others.\nThe post To What Shall We Compare God’s Love? appeared first on 9Marks.",
-      "url": "https://www.9marks.org/review/to-what-shall-we-compare-gods-love/?utm_source=rss&utm_medium=rss&utm_campaign=to-what-shall-we-compare-gods-love"
-    },
-    {
-      "category": "History",
-      "title": "The Final Cruise of the Continental Navy frigate Hague",
-      "source": "Journal of the American Revolution",
-      "date": "Wed, 24 Jun 2026 22:00:26 +0000",
-      "summary": "Recently returned from imprisonment in England, respected Capt. John Manley succeeded Samuel Nicholson in command of the Continental Navy frigate formerly known as Deane and recently renamed Hague on September 16, 1782. All of the vessel’s principal officers returned to service under Captain Manley including: 1st Lt. Benjamin Page, 2nd Lt. Arthur Dillaway, Sailing Master […]\nThe post The Final Cruise of the Continental Navy frigate Hague appeared first on Journal of the American Revolution.",
-      "url": "https://allthingsliberty.com/2026/06/the-final-cruise-of-the-continental-navy-frigate-hague/"
     },
     {
       "category": "History",
