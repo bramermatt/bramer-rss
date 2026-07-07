@@ -1,7 +1,119 @@
 {
-  "lastUpdated": "2026-07-07T17:53:22.723Z",
+  "lastUpdated": "2026-07-07T22:53:57.830Z",
   "articleCount": 39,
   "articles": [
+    {
+      "category": "Science",
+      "title": "Unique fossil record of marine mollusks helps scientists predict extinction risk—before it's too late",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Tue, 07 Jul 2026 18:40:01 EDT",
+      "summary": "Scientists are increasingly worried we may be witnessing the start of the \"sixth mass extinction\"—the first to be caused by human activities.",
+      "url": "https://phys.org/news/2026-07-unique-fossil-marine-mollusks-scientists.html"
+    },
+    {
+      "category": "Science",
+      "title": "Fungi communicate with one another in the presence of metal pollution in forests",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Tue, 07 Jul 2026 18:20:02 EDT",
+      "summary": "VUB researcher Maarten Ottaway investigated how trees and their invisible underground allies—the fungi—respond to soil pollution. His Ph.D. sheds new light on an age-old partnership that is crucial for healthy forests, and on how that partnership holds up under the pressure of metal pollution.",
+      "url": "https://phys.org/news/2026-07-fungi-communicate-presence-metal-pollution.html"
+    },
+    {
+      "category": "Science",
+      "title": "When managing your money, take a chatbot's 'confidence' with a grain of salt",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Tue, 07 Jul 2026 18:00:04 EDT",
+      "summary": "Consider the following scenario. Suzy is 63, recently retired and trying to decide when to start receiving Social Security and how to manage her retirement savings to minimize the tax hit.",
+      "url": "https://phys.org/news/2026-07-money-chatbot-confidence-grain-salt.html"
+    },
+    {
+      "category": "AI",
+      "title": "Data centers’ energy demand threatens Trump’s “Made in America” plan",
+      "source": "Ars Technica - All content",
+      "date": "Tue, 07 Jul 2026 21:03:07 +0000",
+      "summary": "Squeeze on Rust Belt electricity bills threatens Trump’s manufacturing plan.",
+      "url": "https://arstechnica.com/tech-policy/2026/07/us-manufacturers-energy-costs-soar-because-of-ai-data-center-demand/"
+    },
+    {
+      "category": "Space",
+      "title": " James Webb Space Telescope celebrates its 4th birthday with stunning image of a galaxy crash site ",
+      "source": " Latest from Space.com ",
+      "date": "Tue, 07 Jul 2026 21:00:00 +0000",
+      "summary": "To celebrate the fourth birthday of the James Webb Space Telescope, NASA has released a stunning image of the strangely shaped galaxy Centaurus A, the site of a cosmic collision 2 billion years ago.",
+      "url": "https://www.space.com/astronomy/james-webb-space-telescope/james-webb-space-telescope-celebrates-its-4th-birthday-with-stunning-image-of-a-galaxy-crash-site"
+    },
+    {
+      "category": "AI",
+      "title": "Every new car sold in the European Union must include a driver monitoring camera",
+      "source": "Hacker News: Front Page",
+      "date": "Tue, 07 Jul 2026 20:50:46 +0000",
+      "summary": "Article URL: https://allaboutcookies.org/eu-mandatory-distracted-driver-system\nComments URL: https://news.ycombinator.com/item?id=48823557\nPoints: 297\n# Comments: 358",
+      "url": "https://allaboutcookies.org/eu-mandatory-distracted-driver-system"
+    },
+    {
+      "category": "AI",
+      "title": "Surprisingly large number of people may have marker for tick-linked meat allergy",
+      "source": "Ars Technica - All content",
+      "date": "Tue, 07 Jul 2026 20:32:39 +0000",
+      "summary": "There's still a slew of questions about why some people develop alpha-gal syndrome.",
+      "url": "https://arstechnica.com/health/2026/07/surprisingly-large-number-of-people-may-have-marker-for-tick-linked-meat-allergy/"
+    },
+    {
+      "category": "AI",
+      "title": "SCOTUS lets Texas enforce app store law that Big Tech calls \"censorship regime\"",
+      "source": "Ars Technica - All content",
+      "date": "Tue, 07 Jul 2026 20:18:24 +0000",
+      "summary": "Texas win at 5th Circuit left in place as attempts to overturn age law continue.",
+      "url": "https://arstechnica.com/tech-policy/2026/07/supreme-court-lets-texas-enforce-age-verification-law-on-app-stores/"
+    },
+    {
+      "category": "Science",
+      "title": " 'One of the oldest gravestones of a free Black person in America' discovered in Boston ",
+      "source": " Latest from Live Science ",
+      "date": "Tue, 07 Jul 2026 20:14:19 +0000",
+      "summary": "Experts have identified the gravestone of Boston, a free Black man who died in 1729.",
+      "url": "https://www.livescience.com/archaeology/americas/one-of-the-oldest-gravestones-of-a-free-black-person-in-america-discovered-in-boston"
+    },
+    {
+      "category": "Space",
+      "title": " Our Milky Way galaxy might be larger than we thought   ",
+      "source": " Latest from Space.com ",
+      "date": "Tue, 07 Jul 2026 20:00:00 +0000",
+      "summary": "Astronomers used cosmic explosions to find that we may be wrong about our own galaxy.",
+      "url": "https://www.space.com/science/astrophysics/our-milky-way-galaxy-might-be-larger-than-we-thought"
+    },
+    {
+      "category": "Space",
+      "title": " 'Project Hail Mary' is finally streaming Amazon Prime Video, and we can't wait to watch it again ",
+      "source": " Latest from Space.com ",
+      "date": "Tue, 07 Jul 2026 19:00:00 +0000",
+      "summary": "'Project Hail Mary' blasted off onto Prime Video starting on July 3.",
+      "url": "https://www.space.com/entertainment/project-hail-mary-is-finally-streaming-amazon-prime-video-and-we-cant-wait-to-watch-it-again"
+    },
+    {
+      "category": "AI",
+      "title": "Show HN: Davit, a Apple Containers UI",
+      "source": "Hacker News: Front Page",
+      "date": "Tue, 07 Jul 2026 18:44:29 +0000",
+      "summary": "Mostly vibe-coded Apple Containers front-end that I'd like to use myself. But if others want to use it, here's the source code.\nComments URL: https://news.ycombinator.com/item?id=48821848\nPoints: 123\n# Comments: 26",
+      "url": "https://davit.app"
+    },
+    {
+      "category": "AI",
+      "title": "AI Meets Cryptography 1: What AI Found in Cloudflare's Circl",
+      "source": "Hacker News: Front Page",
+      "date": "Tue, 07 Jul 2026 18:36:35 +0000",
+      "summary": "Article URL: https://blog.zksecurity.xyz/posts/circl-bugs/\nComments URL: https://news.ycombinator.com/item?id=48821749\nPoints: 59\n# Comments: 9",
+      "url": "https://blog.zksecurity.xyz/posts/circl-bugs/"
+    },
+    {
+      "category": "Space",
+      "title": "NASA Transfers ‘Hundred Acre Wood’ to Patuxent Research Refuge",
+      "source": "NASA",
+      "date": "Tue, 07 Jul 2026 18:00:00 +0000",
+      "summary": "NASA ceremonially transferred ownership of about 105 acres of wooded land at its Goddard Space Flight Center’s Greenbelt, Maryland, campus Tuesday to the adjoining Patuxent Research Refuge, managed by the U.S. Fish and Wildlife Service. The property, formerly known as NASA Goddard’s Area 400, is now part of the largest block of unfragmented forest between […]",
+      "url": "https://www.nasa.gov/centers-and-facilities/goddard/nasa-transfers-hundred-acre-wood-to-patuxent-research-refuge/"
+    },
     {
       "category": "Science",
       "title": " 6,000-year-old broken ribs discovered in Syria may be one of the oldest known cases of child abuse in the world ",
@@ -11,60 +123,12 @@
       "url": "https://www.livescience.com/archaeology/middle-east/6-000-year-old-broken-ribs-in-an-infant-may-be-the-oldest-known-case-of-child-abuse-in-the-world"
     },
     {
-      "category": "Science",
-      "title": "Rare color shifting discovered in iconic Australian frog",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Tue, 07 Jul 2026 13:40:10 EDT",
-      "summary": "University of Newcastle researchers have documented one of the clearest examples of iridescence ever recorded in an amphibian, revealing that the endangered green and golden bell frog (Ranoidea aurea) possesses intricate color-shifting skin previously unseen in the species.",
-      "url": "https://phys.org/news/2026-07-rare-shifting-iconic-australian-frog.html"
-    },
-    {
-      "category": "Science",
-      "title": "Parasites deliver long-chain omega-3 fatty acids to aquatic systems, feeding endangered fish",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Tue, 07 Jul 2026 13:40:07 EDT",
-      "summary": "Wormlike parasites cause crickets to jump into streams, where the fatty insects nourish endangered fish. Ayano Medo and Takuya Sato sought to characterize the flow of eicosapentaenoic acid (EPA)—a nutritious long-chain omega-3 fatty acid—through aquatic and terrestrial ecosystems. Their work is published in PNAS Nexus.",
-      "url": "https://phys.org/news/2026-07-parasites-chain-omega-fatty-acids.html"
-    },
-    {
-      "category": "Science",
-      "title": "Measuring iron in motion at Earth-core conditions",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Tue, 07 Jul 2026 13:30:03 EDT",
-      "summary": "It was a journey to the center of the Earth, if only for the briefest of moments. But rather than tunneling thousands of miles from Earth's surface, researchers from Lawrence Livermore National Laboratory (LLNL) and several universities used the National Ignition Facility (NIF) to recreate the extreme temperature and pressure conditions of Earth's inner core. This enabled the first-ever simultaneous measurement of iron's dynamic strength at relevant temperatures and pressures.",
-      "url": "https://phys.org/news/2026-07-iron-motion-earth-core-conditions.html"
-    },
-    {
       "category": "Space",
-      "title": " How public–private partnerships can turn Mars into an economic frontier (Op-Ed) ",
-      "source": " Latest from Space.com ",
-      "date": "Tue, 07 Jul 2026 17:00:00 +0000",
-      "summary": "No single agency — not even NASA — can develop all the technologies and systems needed for sustained Mars settlement.",
-      "url": "https://www.space.com/space-exploration/how-public-private-partnerships-can-turn-mars-into-an-economic-frontier-op-ed"
-    },
-    {
-      "category": "AI",
-      "title": "Mapping homes you can buy from the US government for <$100k",
-      "source": "Hacker News: Front Page",
-      "date": "Tue, 07 Jul 2026 16:42:41 +0000",
-      "summary": "Article URL: https://govauctions.app/research/cheapest-homes-in-america\nComments URL: https://news.ycombinator.com/item?id=48820274\nPoints: 54\n# Comments: 50",
-      "url": "https://govauctions.app/research/cheapest-homes-in-america"
-    },
-    {
-      "category": "AI",
-      "title": "Reducing Doom Loops with Final Token Preference Optimization",
-      "source": "Hacker News: Front Page",
-      "date": "Tue, 07 Jul 2026 16:31:19 +0000",
-      "summary": "Article URL: https://www.liquid.ai/blog/antidoom\nComments URL: https://news.ycombinator.com/item?id=48820127\nPoints: 10\n# Comments: 1",
-      "url": "https://www.liquid.ai/blog/antidoom"
-    },
-    {
-      "category": "AI",
-      "title": "Jim's TrueType QR Code Font",
-      "source": "Hacker News: Front Page",
-      "date": "Tue, 07 Jul 2026 16:30:42 +0000",
-      "summary": "Article URL: https://github.com/jimparis/qr-font\nComments URL: https://news.ycombinator.com/item?id=48820119\nPoints: 17\n# Comments: 1",
-      "url": "https://github.com/jimparis/qr-font"
+      "title": "NASA’s New Horizons Spacecraft Wakes from Hibernation in Good Health",
+      "source": "NASA",
+      "date": "Tue, 07 Jul 2026 17:48:49 +0000",
+      "summary": "Following its longest hibernation period ever of nearly a year, NASA’s New Horizons spacecraft has emerged in good health and is ready to begin transmitting science data gathered in the distant Kuiper Belt far beyond Pluto. On June 23, flight controllers at the Johns Hopkins Applied Physics Laboratory (APL) in Laurel, Maryland, confirmed New Horizons, […]",
+      "url": "https://science.nasa.gov/missions/new-horizons/nasas-new-horizons-spacecraft-wakes-from-hibernation-in-good-health/"
     },
     {
       "category": "Science",
@@ -83,68 +147,12 @@
       "url": "https://www.nasa.gov/image-article/artemis-ii-crew-and-apollo-14-moon-tree/"
     },
     {
-      "category": "Space",
-      "title": " China releases 1st photo of Earth's elusive 'quasi-moon' Kamo'oalewa ",
-      "source": " Latest from Space.com ",
-      "date": "Tue, 07 Jul 2026 16:00:00 +0000",
-      "summary": "China's Tianwen-2 probe beamed home a photo of its target, asteroid 2016HO3, also known as quasi-moon Kamo'oalewa.",
-      "url": "https://www.space.com/space-exploration/asteroid-comet-missions/china-releases-1st-photo-of-earths-elusive-quasi-moon-kamooalewa"
-    },
-    {
-      "category": "Space",
-      "title": "July 2026 Satellite Puzzler",
-      "source": "NASA",
-      "date": "Tue, 07 Jul 2026 15:48:16 +0000",
-      "summary": "Your challenge is to tell us the location of the satellite image and why it is interesting.",
-      "url": "https://science.nasa.gov/earth/earth-observatory/july-2026-satellite-puzzler/"
-    },
-    {
-      "category": "Science",
-      "title": " 2,500-year-old tomb of a 'warrior prince' with chariot and helmet discovered on Italy's Adriatic coast ",
-      "source": " Latest from Live Science ",
-      "date": "Tue, 07 Jul 2026 15:37:59 +0000",
-      "summary": "Archaeologists have excavated a royal burial ground of the Piceni, a mysterious pre-Roman civilization in Italy that is not well-known historically.",
-      "url": "https://www.livescience.com/archaeology/2-500-year-old-tomb-of-a-warrior-prince-with-chariot-and-helmet-discovered-on-italys-adriatic-coast"
-    },
-    {
-      "category": "Space",
-      "title": " 'That's going to come back and bite us': Former NASA chief questions Artemis moon lander plans ",
-      "source": " Latest from Space.com ",
-      "date": "Tue, 07 Jul 2026 15:00:00 +0000",
-      "summary": "Former NASA Administrator Jim Bridenstine questions the designs for NASA's commercial moon landers for its Artemis program.",
-      "url": "https://www.space.com/space-exploration/artemis/thats-going-to-come-back-and-bite-us-former-nasa-chief-questions-artemis-moon-lander-plans"
-    },
-    {
-      "category": "AI",
-      "title": "New virus catalog reveals which pathogens pose the greatest threat",
-      "source": "Ars Technica - All content",
-      "date": "Tue, 07 Jul 2026 13:15:49 +0000",
-      "summary": "The data can help predict what a future pandemic virus might look like.",
-      "url": "https://arstechnica.com/health/2026/07/new-virus-catalog-reveals-which-pathogens-pose-the-greatest-threat/"
-    },
-    {
-      "category": "AI",
-      "title": "ULA's last six Atlas Vs can't launch anything besides Boeing's Starliner",
-      "source": "Ars Technica - All content",
-      "date": "Tue, 07 Jul 2026 11:15:15 +0000",
-      "summary": "Amazon says it has enough satellites in orbit to begin initial broadband service at mid-latitudes later this year.",
-      "url": "https://arstechnica.com/space/2026/07/after-a-stellar-career-ulas-atlas-v-rocket-last-act-is-waiting-on-starliner/"
-    },
-    {
       "category": "Biblical Studies",
       "title": "Judah’s Pledge to Tamar",
       "source": "Biblical Archaeology Society",
       "date": "Tue, 07 Jul 2026 11:00:43 +0000",
       "summary": "Genesis 38 recounts the saga of Judah and Tamar. Er, Judah’s oldest son, marries Tamar, but he dies, leaving her a childless widow. Er’s brother […]\nThe post Judah’s Pledge to Tamar appeared first on Biblical Archaeology Society.",
       "url": "https://www.biblicalarchaeology.org/daily/judahs-pledge-to-tamar/"
-    },
-    {
-      "category": "AI",
-      "title": "How AI could enable autonomous robot workers in workplaces—and maybe homes",
-      "source": "Ars Technica - All content",
-      "date": "Tue, 07 Jul 2026 11:00:18 +0000",
-      "summary": "Top robotics researchers and founders explain how robot autonomy is evolving.",
-      "url": "https://arstechnica.com/features/2026/07/robot-workers-rising-how-ai-may-drive-general-purpose-autonomy-in-robotics/"
     },
     {
       "category": "Biblical Studies",
@@ -163,20 +171,20 @@
       "url": "https://www.thegospelcoalition.org/reviews/in-good-faith/"
     },
     {
-      "category": "Space",
-      "title": "The World Cup From 250 Miles Up",
-      "source": "NASA",
-      "date": "Tue, 07 Jul 2026 04:00:00 +0000",
-      "summary": "Over the years, astronauts aboard the International Space Station have photographed several of the cities hosting the 2026 FIFA World Cup.",
-      "url": "https://science.nasa.gov/earth/earth-observatory/the-world-cup-from-250-miles-up/"
-    },
-    {
       "category": "Theology",
       "title": "Where to Find the Best Preaching",
       "source": "The Gospel Coalition",
       "date": "Tue, 07 Jul 2026 04:00:00 +0000",
       "summary": "When you’re seeking to be fed spiritually, you should make receiving nourishment from your shepherds’ hands your priority.",
       "url": "https://www.thegospelcoalition.org/article/find-best-preaching/"
+    },
+    {
+      "category": "AI",
+      "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
+      "source": "OpenAI News",
+      "date": "Tue, 07 Jul 2026 00:00:00 GMT",
+      "summary": "See how Australian Payments Plus uses ChatGPT Enterprise and Codex to move faster through payments complexity. AP+ saves time, improves quality, and keeps human judgment central.",
+      "url": "https://openai.com/index/australian-payments-plus"
     },
     {
       "category": "History",
@@ -273,14 +281,6 @@
       "date": "Tue, 30 Jun 2026 00:00:00 GMT",
       "summary": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
       "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug"
-    },
-    {
-      "category": "AI",
-      "title": "Introducing GeneBench-Pro",
-      "source": "OpenAI News",
-      "date": "Tue, 30 Jun 2026 00:00:00 GMT",
-      "summary": "Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets.",
-      "url": "https://openai.com/index/introducing-genebench-pro"
     },
     {
       "category": "Theology",
