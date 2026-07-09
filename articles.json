@@ -1,142 +1,166 @@
 {
-  "lastUpdated": "2026-07-09T17:49:29.557Z",
+  "lastUpdated": "2026-07-09T23:04:35.067Z",
   "articleCount": 39,
   "articles": [
     {
       "category": "Science",
-      "title": "UK sets record for number of days over 34°C",
+      "title": "AI reveals hidden San Andreas Fault movements",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Thu, 09 Jul 2026 13:47:19 EDT",
-      "summary": "The UK on Thursday experienced its eighth day in 2026 with the mercury climbing above 34°C (94°F), the Met Office said, breaking the previous record by one day.",
-      "url": "https://phys.org/news/2026-07-uk-days-34c.html"
+      "date": "Thu, 09 Jul 2026 19:00:05 EDT",
+      "summary": "When people think about geological faults, they usually think about earthquakes. Yet faults do not move only during earthquakes. Sometimes they slip silently, without generating noticeable shaking, releasing stress over hours or days through slow fault movements that remain largely hidden from conventional monitoring systems.",
+      "url": "https://phys.org/news/2026-07-ai-reveals-hidden-san-andreas.html"
     },
     {
       "category": "Science",
-      "title": "Fast charging can cause irreversible lithium migration in solid-state batteries",
+      "title": "Water worries: The dangers of dehydration in pets",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Thu, 09 Jul 2026 13:40:07 EDT",
-      "summary": "Solid-state batteries are often viewed as a promising path toward safer and more powerful energy storage. However, one key question has remained difficult to answer: How does lithium actually move inside the solid materials during charging and discharging? Unlike liquid batteries, where ions can move more freely, solid-state batteries depend on lithium passing through dense solid particles and across complex interfaces. This makes their internal behavior hard to observe and even harder to control.",
-      "url": "https://phys.org/news/2026-07-fast-irreversible-lithium-migration-solid.html"
+      "date": "Thu, 09 Jul 2026 18:40:04 EDT",
+      "summary": "The summer heat can be unrelenting, sending pets who usually run straight to their owners after being outside in search of their water bowls instead. Rehydrating after playtime is important, so if a pet does not have proper access—or a desire to seek out—water, the owner must step in before the companion's health is at risk.",
+      "url": "https://phys.org/news/2026-07-dangers-dehydration-pets.html"
+    },
+    {
+      "category": "AI",
+      "title": "Flores Hobbits' eating habits offer clues about their evolutionary past",
+      "source": "Ars Technica - All content",
+      "date": "Thu, 09 Jul 2026 22:29:10 +0000",
+      "summary": "If Homo floresiensis wasn't a fire-using hunter, its origins could be different than we thought.",
+      "url": "https://arstechnica.com/science/2026/07/flores-hobbits-scavenged-komodo-dragons-elephant-kills-study-suggests/"
     },
     {
       "category": "Science",
-      "title": "The hidden benefits of privacy regulation",
+      "title": "Carbon–bismuth bonds reveal that relativity blurs the textbook line between sigma and pi bonds",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Thu, 09 Jul 2026 13:40:01 EDT",
-      "summary": "The digital era is characterized by near-frictionless conversion of data into dollars—absent regulatory intervention, that is. Privacy laws such as the European Union's General Data Protection Regulation (GDPR) restrict corporations' use of personal information. Nonetheless, Steven Maex, assistant professor of accounting at the Costello College of Business at George Mason University and a Unanet Corporate Partner Faculty Fellow, says that \"privacy regulations such as GDPR can also spur firms to make improvements that will have wider consequences, including some potential benefits.\"",
-      "url": "https://phys.org/news/2026-07-hidden-benefits-privacy.html"
+      "date": "Thu, 09 Jul 2026 18:20:07 EDT",
+      "summary": "Brown University chemists have provided direct evidence that upends the textbook explanation of how triple chemical bonds work in heavy elements. In a study published in Science, the researchers show evidence that when atomic nuclei are sufficiently heavy, the principles described in Einstein's theory of relativity change the structure of triple bonds—blurring the lines between the two separate types of bonds involved in textbook triple bonding.",
+      "url": "https://phys.org/news/2026-07-carbonbismuth-bonds-reveal-blurs-textbook.html"
     },
     {
       "category": "AI",
-      "title": "How should group chats work in decentralized systems?",
+      "title": "Why American ambulance rides are so expensive",
       "source": "Hacker News: Front Page",
-      "date": "Thu, 09 Jul 2026 17:15:47 +0000",
-      "summary": "Article URL: https://marindedic.com/groups/\nComments URL: https://news.ycombinator.com/item?id=48849258\nPoints: 3\n# Comments: 0",
-      "url": "https://marindedic.com/groups/"
-    },
-    {
-      "category": "AI",
-      "title": "GPT-5.6",
-      "source": "Hacker News: Front Page",
-      "date": "Thu, 09 Jul 2026 17:04:14 +0000",
-      "summary": "Article URL: https://openai.com/index/gpt-5-6/\nComments URL: https://news.ycombinator.com/item?id=48849066\nPoints: 241\n# Comments: 139",
-      "url": "https://openai.com/index/gpt-5-6/"
-    },
-    {
-      "category": "AI",
-      "title": "ChatGPT Work",
-      "source": "Hacker News: Front Page",
-      "date": "Thu, 09 Jul 2026 17:03:53 +0000",
-      "summary": "Article URL: https://openai.com/index/chatgpt-for-your-most-ambitious-work/\nComments URL: https://news.ycombinator.com/item?id=48849059\nPoints: 55\n# Comments: 9",
-      "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work/"
+      "date": "Thu, 09 Jul 2026 22:15:56 +0000",
+      "summary": "Article URL: https://davidoks.blog/p/why-american-ambulance-rides-are\nComments URL: https://news.ycombinator.com/item?id=48853091\nPoints: 8\n# Comments: 1",
+      "url": "https://davidoks.blog/p/why-american-ambulance-rides-are"
     },
     {
       "category": "Space",
-      "title": " 'Silo' season 3 showrunner Graham Yost explains the time jumps and turning half of the show into a political thriller (interview) ",
-      "source": " Latest from Space.com ",
-      "date": "Thu, 09 Jul 2026 17:00:00 +0000",
-      "summary": "'We're harkening back to 'Three Days of The Condor,' 'The Parallax View,' and things like that of the '70s.'",
-      "url": "https://www.space.com/entertainment/space-movies-shows/silo-season-3-showrunner-graham-yost-explains-the-time-jumps-and-turning-half-of-the-show-into-a-political-thriller-interview"
-    },
-    {
-      "category": "Science",
-      "title": " 'Astronomers have to revise estimates': The Milky Way may be larger, heavier and more lopsided than we realized ",
-      "source": " Latest from Live Science ",
-      "date": "Thu, 09 Jul 2026 16:55:21 +0000",
-      "summary": "New measurements suggest that two of the Milky Way's spiral arms are around 10% farther away from Earth than we thought. The findings may require experts to revise estimates of the total size of our home galaxy.",
-      "url": "https://www.livescience.com/space/astronomy/astronomers-have-to-revise-estimates-the-milky-way-may-be-larger-heavier-and-more-lopsided-than-we-realized"
-    },
-    {
-      "category": "Science",
-      "title": " Scientists build tiny 'diving suit' for cockroaches, turning them into search-and rescue cyborgs ",
-      "source": " Latest from Live Science ",
-      "date": "Thu, 09 Jul 2026 16:33:59 +0000",
-      "summary": "Researchers in Singapore and Japan have built a waterproof shell for cyborg cockroaches that could be deployed in disaster zones to investigate flooded areas.",
-      "url": "https://www.livescience.com/technology/robotics/scientists-build-tiny-diving-suit-for-cockroaches-turning-them-into-search-and-rescue-cyborgs"
-    },
-    {
-      "category": "Space",
-      "title": "Curiosity Sees Martian Sulfur Up Close",
+      "title": "NASA Sets Coverage for Astronaut Anil Menon Launch to Space Station",
       "source": "NASA",
-      "date": "Thu, 09 Jul 2026 16:33:50 +0000",
-      "summary": "This close-up view shows fragments of sulfur crystals — the first ever seen on the Red Planet. The crystals were found after NASA’s Curiosity Mars rover happened to drive over a rock and crush it on May 30, 2024. Several days later, Curiosity used a camera on the end of its robotic arm to take […]",
-      "url": "https://www.nasa.gov/image-article/curiosity-sees-martian-sulfur-up-close/"
+      "date": "Thu, 09 Jul 2026 22:09:27 +0000",
+      "summary": "NASA astronaut Anil Menon will launch aboard the Roscosmos Soyuz MS-29 spacecraft to the International Space Station on Tuesday, July 14, accompanied by cosmonauts Pyotr Dubrov and Anna Kikina, where they will join the Expedition 74 crew advancing scientific research. Menon, Dubrov, and Kikina will lift off at 10:47 a.m. EDT (7:47 p.m. Baikonur time) […]",
+      "url": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-astronaut-anil-menon-launch-to-space-station/"
+    },
+    {
+      "category": "Space",
+      "title": " Wally Funk, trailblazing pilot and astronaut, passes away at 87 ",
+      "source": " Latest from Space.com ",
+      "date": "Thu, 09 Jul 2026 22:00:00 +0000",
+      "summary": "Wally Funk, who flew to space at 82 after a lifetime of flying and fighting for women in aviation and aerospace, has passed away at age 87.",
+      "url": "https://www.space.com/space-exploration/human-spaceflight/wally-funk-trailblazing-pilot-and-astronaut-passes-away-at-87"
+    },
+    {
+      "category": "AI",
+      "title": "Michigan's explosive outbreak of diarrheal parasite jumps to over 1,200 cases",
+      "source": "Ars Technica - All content",
+      "date": "Thu, 09 Jul 2026 21:56:44 +0000",
+      "summary": "In neighboring Ohio, cases have reportedly reached over 500.",
+      "url": "https://arstechnica.com/health/2026/07/michigans-explosive-outbreak-of-diarrheal-parasite-jumps-to-over-1200-cases/"
     },
     {
       "category": "Science",
-      "title": " Quantum computing wielded to create extremely rare material critical to nuclear fusion ",
+      "title": " Malaria had nearly been eliminated around a giant dam in the Amazon — but then it came roaring back. Experts just discovered why. ",
       "source": " Latest from Live Science ",
-      "date": "Thu, 09 Jul 2026 16:00:00 +0000",
-      "summary": "Nuclear fusion inches closer after scientists combine supercomputing, AI and quantum computing to blueprint a way to create more tritium.",
-      "url": "https://www.livescience.com/technology/quantum/quantum-computing-wielded-to-create-extremely-rare-material-critical-to-nuclear-fusion"
+      "date": "Thu, 09 Jul 2026 21:47:21 +0000",
+      "summary": "A 15-year study suggests that long-term malaria control may depend as much on protecting environments as it does on sustaining public health programs.",
+      "url": "https://www.livescience.com/health/viruses-infections-disease/malaria-had-nearly-been-eliminated-around-a-giant-dam-in-the-amazon-but-then-it-came-roaring-back-experts-just-discovered-why"
+    },
+    {
+      "category": "AI",
+      "title": "OpenAI wants its new tool to do your work for you and with you",
+      "source": "Ars Technica - All content",
+      "date": "Thu, 09 Jul 2026 21:25:55 +0000",
+      "summary": "Rebranded Codex promises independent workflows that can run \"for hours if needed.\"",
+      "url": "https://arstechnica.com/ai/2026/07/openai-wants-its-new-tool-to-do-your-work-for-you-and-with-you/"
+    },
+    {
+      "category": "Science",
+      "title": " Dirty 'button' unearthed by metal detectorist turns out to be a rare 900-year-old coin from Norway's last Viking king, Magnus Barefoot ",
+      "source": " Latest from Live Science ",
+      "date": "Thu, 09 Jul 2026 21:19:16 +0000",
+      "summary": "A rare coin from the reign of Magnus Barefoot — sometimes called Norway's last Viking king, was mistaken for a button before researchers realized it was the first of its kind found on Norwegian soil.",
+      "url": "https://www.livescience.com/archaeology/vikings/dirty-button-unearthed-by-metal-detectorist-turns-out-to-be-a-rare-900-year-old-coin-from-norways-last-viking-king-magnus-barefoot"
+    },
+    {
+      "category": "AI",
+      "title": "Show HN: Rubiks Cube Solver",
+      "source": "Hacker News: Front Page",
+      "date": "Thu, 09 Jul 2026 21:09:05 +0000",
+      "summary": "Speedcube is an open-source platform for speedcubers featuring a Rubik's Cube solver, competition timer, algorithm library, and AI-assisted cube recognition directly in the browser.\nBuilt with React, TypeScript, Rust, and Python, the project aims to become an all-in-one platform for cubers—from beginners to competitive solvers.\nhttp://github.com/williamisnotdefined/rubiks-cube-solver/\nComments URL: https://news.ycombinator.com/item?id=48852403\nPoints: 9\n# Comments: 0",
+      "url": "https://speedcube.com.br/"
     },
     {
       "category": "Space",
-      "title": "NASA Scientists Take to Air and Space to Study Arctic Sea Ice",
+      "title": " Scientists have discovered the oldest quasar ever seen, and it shines with the light of a trillion suns ",
+      "source": " Latest from Space.com ",
+      "date": "Thu, 09 Jul 2026 21:00:00 +0000",
+      "summary": "Using the ESA's Euclid space telescope, astronomers have discovered a treasure trove of black hole-powered quasars in the early universe, including the most ancient and distant ever seen.",
+      "url": "https://www.space.com/astronomy/black-holes/scientists-have-discovered-the-oldest-quasar-ever-seen-and-it-shines-with-the-light-of-a-trillion-suns"
+    },
+    {
+      "category": "Space",
+      "title": "NASA Space Telescope Maps Magnetic Fields of ‘Lighthouse’ Pulsar",
       "source": "NASA",
-      "date": "Thu, 09 Jul 2026 15:42:58 +0000",
-      "summary": "This month, engineers at NASA’s Jet Propulsion Laboratory in Southern California are testing a spacecraft sensor that will help measure how quickly Arctic sea ice is disappearing. And while that instrument won’t launch for another year, scientists started preparing for its use during a recent field campaign in the Canadian wilderness. Researchers spent two weeks […]",
-      "url": "https://www.nasa.gov/missions/airborne-science/nasa-scientists-take-to-air-and-space-to-study-arctic-sea-ice/"
+      "date": "Thu, 09 Jul 2026 20:08:35 +0000",
+      "summary": "For the first time, scientists have used NASA’s IXPE (Imaging X-ray Polarimetry Explorer) to directly measure the magnetic fields of PSR J1101−6101, a pulsar located within what is often referred to as the Lighthouse Nebula. The results provide new insight into the structure of some of the most extreme objects in the cosmos, as NASA […]",
+      "url": "https://science.nasa.gov/missions/ixpe/nasa-space-telescope-maps-magnetic-fields-of-lighthouse-pulsar/"
     },
     {
-      "category": "AI",
-      "title": "Surprised doctors find 10-inch worm in man's groin during elective surgery",
-      "source": "Ars Technica - All content",
-      "date": "Thu, 09 Jul 2026 15:33:41 +0000",
-      "summary": "Oddly, it wasn't the first time this had happened to the man.",
-      "url": "https://arstechnica.com/health/2026/07/surprised-doctors-find-10-inch-worm-in-mans-groin-during-elective-surgery/"
-    },
-    {
-      "category": "Space",
-      "title": " Could evidence of life on Mars be hiding in clay? Europe wants to send a rover to check ",
-      "source": " Latest from Space.com ",
-      "date": "Thu, 09 Jul 2026 15:00:00 +0000",
-      "summary": "ESA's Rosalind Franklin rover will investigate possible signs of life in Martian clay.",
-      "url": "https://www.space.com/space-exploration/search-for-life/could-evidence-of-life-on-mars-be-hiding-in-clay-europe-wants-to-send-a-rover-to-check"
-    },
-    {
-      "category": "AI",
-      "title": "Conspiracies and regrets abound in Dune: Part Three trailer",
-      "source": "Ars Technica - All content",
-      "date": "Thu, 09 Jul 2026 14:45:44 +0000",
-      "summary": "\"You promised me that you would never take power in your name.\"",
-      "url": "https://arstechnica.com/culture/2026/07/conspiracies-and-regrets-abound-in-dune-part-three-trailer/"
-    },
-    {
-      "category": "AI",
-      "title": "Ruf debuts new flat-eight engine at Goodwood",
-      "source": "Ars Technica - All content",
-      "date": "Thu, 09 Jul 2026 14:32:48 +0000",
-      "summary": "The 4.8 L eight-cylinder generates more than 1,000 hp and 1,000 Nm, Ruf says.",
-      "url": "https://arstechnica.com/cars/2026/07/ruf-debuts-new-flat-eight-engine-at-goodwood/"
+      "category": "Science",
+      "title": " '800 seconds for a sick visit': Some factors driving antibiotic resistance have nothing to do with biology, says medical sociologist Julia Szymczak ",
+      "source": " Latest from Live Science ",
+      "date": "Thu, 09 Jul 2026 19:50:00 +0000",
+      "summary": "Doctors' decisions around antibiotics aren't as logical as you might assume; they can be skewed by emotional and social factors, a medical sociologist explains.",
+      "url": "https://www.livescience.com/health/medicine-drugs/800-seconds-for-a-sick-visit-some-factors-driving-antibiotic-resistance-have-nothing-to-do-with-biology-says-medical-sociologist-julia-szymczak"
     },
     {
       "category": "Space",
-      "title": " Take a trip to the turquoise waters of the Bahamas (from space) | Space photo of the day for July 9, 2026 ",
+      "title": " SpaceX wants to launch 100,000 Starlink satellites to orbit ",
       "source": " Latest from Space.com ",
-      "date": "Thu, 09 Jul 2026 14:00:00 +0000",
-      "summary": "Can you hear the waves?",
-      "url": "https://www.space.com/astronomy/earth/take-a-trip-to-the-turquoise-waters-of-the-bahamas-from-space-space-photo-of-the-day-for-july-9-2026"
+      "date": "Thu, 09 Jul 2026 19:28:45 +0000",
+      "summary": "SpaceX has applied for approval to operate a 100,000-member megaconstellation of next-gen Starlink satellites in Earth orbit. And each of the new spacecraft will weigh about 4,400 pounds.",
+      "url": "https://www.space.com/space-exploration/satellites/spacex-wants-to-launch-100-000-starlink-satellites-to-orbit"
+    },
+    {
+      "category": "Theology",
+      "title": "How Should Christians Think about the Law of Moses?",
+      "source": "9Marks",
+      "date": "Thu, 09 Jul 2026 19:15:27 +0000",
+      "summary": "Jesus fulfilled the law, and at the same time, he ushered in something completely new in the New Covenant.\nThe post How Should Christians Think about the Law of Moses? appeared first on 9Marks.",
+      "url": "https://www.9marks.org/review/how-should-christians-think-about-the-law-of-moses/?utm_source=rss&utm_medium=rss&utm_campaign=how-should-christians-think-about-the-law-of-moses"
+    },
+    {
+      "category": "AI",
+      "title": "GLM 5.2 is nearly as accurate as a human book keeper",
+      "source": "Hacker News: Front Page",
+      "date": "Thu, 09 Jul 2026 18:29:41 +0000",
+      "summary": "Article URL: https://toot-books.pages.dev/blog/glm-5-2-vat-benchmark\nComments URL: https://news.ycombinator.com/item?id=48850414\nPoints: 160\n# Comments: 96",
+      "url": "https://toot-books.pages.dev/blog/glm-5-2-vat-benchmark"
+    },
+    {
+      "category": "Space",
+      "title": "Principal Investigator and Quality Assessment Reports Evaluate Umbra Synthetic Aperture Radar Data",
+      "source": "NASA",
+      "date": "Thu, 09 Jul 2026 18:14:21 +0000",
+      "summary": "The reports add to the growing documentation on commercial data’s contributions to Earth science research and applications.",
+      "url": "https://science.nasa.gov/science-research/earth-science/principal-investigator-and-quality-assessment-reports-evaluate-umbra-synthetic-aperture-radar-data/"
+    },
+    {
+      "category": "AI",
+      "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
+      "source": "OpenAI News",
+      "date": "Thu, 09 Jul 2026 13:00:00 GMT",
+      "summary": "Learn how GPT-5.6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork for faster, higher-quality work.",
+      "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot"
     },
     {
       "category": "Biblical Studies",
@@ -153,14 +177,6 @@
       "date": "Thu, 09 Jul 2026 11:00:04 +0000",
       "summary": "The Bible describes a “balm” of Gilead that is counted among “the choice fruits of the land” (Genesis 43:11). Renowned for its medicinal and aromatic […]\nThe post Searching for the Balm of Gilead appeared first on Biblical Archaeology Society.",
       "url": "https://www.biblicalarchaeology.org/daily/biblical-topics/hebrew-bible/searching-for-the-balm-of-gilead/"
-    },
-    {
-      "category": "AI",
-      "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
-      "source": "OpenAI News",
-      "date": "Thu, 09 Jul 2026 10:00:00 GMT",
-      "summary": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.",
-      "url": "https://openai.com/index/gpt-5-6"
     },
     {
       "category": "AI",
@@ -219,14 +235,6 @@
       "url": "https://www.thegospelcoalition.org/article/little-house-prairie-christian-review/"
     },
     {
-      "category": "Space",
-      "title": "Super Typhoon Bavi",
-      "source": "NASA",
-      "date": "Thu, 09 Jul 2026 04:01:00 +0000",
-      "summary": "The third category 5 tropical cyclone of 2026 crossed the U.S. Northern Mariana Islands and Guam before continuing toward Asia.",
-      "url": "https://science.nasa.gov/earth/earth-observatory/super-typhoon-bavi/"
-    },
-    {
       "category": "Theology",
       "title": "How to Guard Your Women’s Ministry Against False Teaching",
       "source": "The Gospel Coalition",
@@ -281,14 +289,6 @@
       "date": "Thu, 02 Jul 2026 14:20:38 +0000",
       "summary": "Jesus isn’t like the credit card company that sets up shop on a college campus trying to get students to sign on the dotted line without reading the fine print. No, Jesus forces potential converts to stare at the fine print before signing on.\nThe post Is This Young Person Ready to Be Baptized? Clarifying Questions and Considerations for Churches appeared first on 9Marks.",
       "url": "https://www.9marks.org/article/is-this-young-person-ready-to-be-baptized-clarifying-questions-and-considerations-for-churches/?utm_source=rss&utm_medium=rss&utm_campaign=is-this-young-person-ready-to-be-baptized-clarifying-questions-and-considerations-for-churches"
-    },
-    {
-      "category": "Theology",
-      "title": "I Was Fired for My Preaching",
-      "source": "9Marks",
-      "date": "Mon, 29 Jun 2026 18:30:37 +0000",
-      "summary": "Over time and through many tears, he brought me to the point where I could honestly say that if I never pastored another church or preached another sermon, Christ is enough. \nThe post I Was Fired for My Preaching appeared first on 9Marks.",
-      "url": "https://www.9marks.org/article/i-was-fired-for-my-preaching/?utm_source=rss&utm_medium=rss&utm_campaign=i-was-fired-for-my-preaching"
     },
     {
       "category": "History",
