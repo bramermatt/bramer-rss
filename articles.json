@@ -1,46 +1,166 @@
 {
-  "lastUpdated": "2026-07-09T23:04:35.067Z",
+  "lastUpdated": "2026-07-10T12:21:06.466Z",
   "articleCount": 39,
   "articles": [
     {
       "category": "Science",
-      "title": "AI reveals hidden San Andreas Fault movements",
+      "title": "Bacteria turn dissolved uranium into stable compound in 130 days, study finds",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Thu, 09 Jul 2026 19:00:05 EDT",
-      "summary": "When people think about geological faults, they usually think about earthquakes. Yet faults do not move only during earthquakes. Sometimes they slip silently, without generating noticeable shaking, releasing stress over hours or days through slow fault movements that remain largely hidden from conventional monitoring systems.",
-      "url": "https://phys.org/news/2026-07-ai-reveals-hidden-san-andreas.html"
+      "date": "Fri, 10 Jul 2026 08:20:10 EDT",
+      "summary": "Researchers at the Helmholtz-Zentrum Dresden-Rossendorf (HZDR), together with Wismut GmbH and scientists from the University of Granada in Spain, have demonstrated for the first time that bacteria can convert uranium dissolved in water into a stable chemical compound when they have access to glycerol as a food source.",
+      "url": "https://phys.org/news/2026-07-bacteria-dissolved-uranium-stable-compound.html"
     },
     {
       "category": "Science",
-      "title": "Water worries: The dangers of dehydration in pets",
+      "title": "Peering into materials down to the nanoscale in the COCOON lab",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Thu, 09 Jul 2026 18:40:04 EDT",
-      "summary": "The summer heat can be unrelenting, sending pets who usually run straight to their owners after being outside in search of their water bowls instead. Rehydrating after playtime is important, so if a pet does not have proper access—or a desire to seek out—water, the owner must step in before the companion's health is at risk.",
-      "url": "https://phys.org/news/2026-07-dangers-dehydration-pets.html"
+      "date": "Fri, 10 Jul 2026 08:20:04 EDT",
+      "summary": "A new Tufts University imaging facility is doing something that most microscopy centers in the world cannot: allowing scientists to examine a butterfly wing, a living tissue or a microchip and reveal its physical structure, molecular chemistry and elemental composition across every scale, from the macroscale down to the nanoscale—all in one imaging session.",
+      "url": "https://phys.org/news/2026-07-peering-materials-nanoscale-cocoon-lab.html"
     },
     {
       "category": "AI",
-      "title": "Flores Hobbits' eating habits offer clues about their evolutionary past",
-      "source": "Ars Technica - All content",
-      "date": "Thu, 09 Jul 2026 22:29:10 +0000",
-      "summary": "If Homo floresiensis wasn't a fire-using hunter, its origins could be different than we thought.",
-      "url": "https://arstechnica.com/science/2026/07/flores-hobbits-scavenged-komodo-dragons-elephant-kills-study-suggests/"
-    },
-    {
-      "category": "Science",
-      "title": "Carbon–bismuth bonds reveal that relativity blurs the textbook line between sigma and pi bonds",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Thu, 09 Jul 2026 18:20:07 EDT",
-      "summary": "Brown University chemists have provided direct evidence that upends the textbook explanation of how triple chemical bonds work in heavy elements. In a study published in Science, the researchers show evidence that when atomic nuclei are sufficiently heavy, the principles described in Einstein's theory of relativity change the structure of triple bonds—blurring the lines between the two separate types of bonds involved in textbook triple bonding.",
-      "url": "https://phys.org/news/2026-07-carbonbismuth-bonds-reveal-blurs-textbook.html"
-    },
-    {
-      "category": "AI",
-      "title": "Why American ambulance rides are so expensive",
+      "title": "Laylo (YC S20) Is Hiring a Head of Finance",
       "source": "Hacker News: Front Page",
-      "date": "Thu, 09 Jul 2026 22:15:56 +0000",
-      "summary": "Article URL: https://davidoks.blog/p/why-american-ambulance-rides-are\nComments URL: https://news.ycombinator.com/item?id=48853091\nPoints: 8\n# Comments: 1",
-      "url": "https://davidoks.blog/p/why-american-ambulance-rides-are"
+      "date": "Fri, 10 Jul 2026 12:00:36 +0000",
+      "summary": "Article URL: https://www.ycombinator.com/companies/laylo/jobs/qce41D2-head-of-finance\nComments URL: https://news.ycombinator.com/item?id=48858745\nPoints: 0\n# Comments: 0",
+      "url": "https://www.ycombinator.com/companies/laylo/jobs/qce41D2-head-of-finance"
+    },
+    {
+      "category": "Science",
+      "title": "Assessing lab animals with AI",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Fri, 10 Jul 2026 08:00:05 EDT",
+      "summary": "Rutgers Office for Research (OfR) leaders collaborated with researchers around the world to develop an artificial intelligence (AI) program that has the potential to revolutionize lab research.",
+      "url": "https://phys.org/news/2026-07-lab-animals-ai.html"
+    },
+    {
+      "category": "Science",
+      "title": " Canon EOS R6 III review: A wildlife wonder ",
+      "source": " Latest from Live Science ",
+      "date": "Fri, 10 Jul 2026 12:00:00 +0000",
+      "summary": "Canon's newest release is a triumph for wildlife photographers who want a reliable, fast camera capable of producing beautiful images without having to go pro.",
+      "url": "https://www.livescience.com/products/optics/canon-eos-r6-iii-review-a-wildlife-wonder"
+    },
+    {
+      "category": "Space",
+      "title": " Supreme Court ruling on mail-in ballots ensures astronauts can vote from space  — or anywhere else ",
+      "source": " Latest from Space.com ",
+      "date": "Fri, 10 Jul 2026 12:00:00 +0000",
+      "summary": "A new ruling by the U.S. Supreme Court protecting voter rights could extend to astronauts living and working in space and training internationally.",
+      "url": "https://www.space.com/space-exploration/human-spaceflight/supreme-court-ruling-on-mail-in-ballots-ensures-astronauts-can-vote-from-space-or-anywhere-else"
+    },
+    {
+      "category": "AI",
+      "title": "Wally Funk, last of Mercury 13 and oldest woman in space, dies at 87",
+      "source": "Ars Technica - All content",
+      "date": "Fri, 10 Jul 2026 11:30:29 +0000",
+      "summary": "\"I have been waiting a long time to finally get up there...\"",
+      "url": "https://arstechnica.com/space/2026/07/wally-funk-last-of-mercury-13-and-oldest-woman-in-space-dies-at-87/"
+    },
+    {
+      "category": "AI",
+      "title": "Is an air-conditioning revolution coming to Europe?",
+      "source": "Ars Technica - All content",
+      "date": "Fri, 10 Jul 2026 11:10:08 +0000",
+      "summary": "The AC culture wars may be solved by advances in environmentally friendly technology.",
+      "url": "https://arstechnica.com/science/2026/07/is-an-air-conditioning-revolution-coming-to-europe/"
+    },
+    {
+      "category": "AI",
+      "title": "Rocket Report: \"Panic\" over Transporter availability; Isar to launch from Canada",
+      "source": "Ars Technica - All content",
+      "date": "Fri, 10 Jul 2026 11:00:43 +0000",
+      "summary": "\"We are delighted to actively help shape the ramp-up of the Ariane 6.\"",
+      "url": "https://arstechnica.com/space/2026/07/rocket-report-panic-over-transporter-availability-isar-to-launch-from-canada/"
+    },
+    {
+      "category": "AI",
+      "title": "EU Commission: addictive design Instagram and Facebook in breach of the DSA",
+      "source": "Hacker News: Front Page",
+      "date": "Fri, 10 Jul 2026 11:00:15 +0000",
+      "summary": "Article URL: https://ec.europa.eu/commission/presscorner/home/en\nComments URL: https://news.ycombinator.com/item?id=48858292\nPoints: 28\n# Comments: 14",
+      "url": "https://ec.europa.eu/commission/presscorner/home/en"
+    },
+    {
+      "category": "Biblical Studies",
+      "title": "Colossae: A Biblical City of the Classical World",
+      "source": "Biblical Archaeology Society",
+      "date": "Fri, 10 Jul 2026 10:45:26 +0000",
+      "summary": "Colossae is an ancient city in the Lycus Valley of western Turkey, near the modern town of Honaz and the ancient cities of Laodicea and […]\nThe post Colossae: A Biblical City of the Classical World appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/daily/archaeology-today/colossae-a-biblical-city-of-classical-world/"
+    },
+    {
+      "category": "AI",
+      "title": "Good Tools Are Invisible",
+      "source": "Hacker News: Front Page",
+      "date": "Fri, 10 Jul 2026 10:32:41 +0000",
+      "summary": "Article URL: https://www.gingerbill.org/article/2026/07/10/good-tools-are-invisible/\nComments URL: https://news.ycombinator.com/item?id=48858121\nPoints: 6\n# Comments: 0",
+      "url": "https://www.gingerbill.org/article/2026/07/10/good-tools-are-invisible/"
+    },
+    {
+      "category": "Space",
+      "title": " Astronomers may have heard the 1st 'whispers' of ghost particles created by supernova explosions ",
+      "source": " Latest from Space.com ",
+      "date": "Fri, 10 Jul 2026 10:00:00 +0000",
+      "summary": "The universe is haunted by \"cosmic ghosts\" called neutrinos, which seem to be the \"whispers\" of stars that died in supernova explosions over the course of billions of years.",
+      "url": "https://www.space.com/astronomy/stars/cosmic-ghost-neutrinos-may-be-the-whispers-of-stars-that-died-in-supernova-explosions"
+    },
+    {
+      "category": "Space",
+      "title": " Don't miss out on 'The Ark' Season 3 — get a year-long Peacock TV deal for just over $9 a month ",
+      "source": " Latest from Space.com ",
+      "date": "Fri, 10 Jul 2026 09:17:09 +0000",
+      "summary": "Watch SYFY's outer space saga 'The Ark' on Peacock TV and all the best sci-fi content at a bargain price.",
+      "url": "https://www.space.com/technology/dont-miss-out-on-the-ark-season-3-get-a-year-long-peacock-tv-deal-for-just-over-9-dollars-a-month"
+    },
+    {
+      "category": "AI",
+      "title": "How Deutsche Telekom is rewiring telecommunications with AI",
+      "source": "OpenAI News",
+      "date": "Fri, 10 Jul 2026 07:00:00 GMT",
+      "summary": "How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice.",
+      "url": "https://openai.com/index/deutsche-telekom"
+    },
+    {
+      "category": "Theology",
+      "title": "Did Jesus Preach the Gospel? (TGC Classic)",
+      "source": "The Gospel Coalition",
+      "date": "Fri, 10 Jul 2026 04:04:00 +0000",
+      "summary": "Did Jesus and Paul preach the same gospel?",
+      "url": "https://www.thegospelcoalition.org/podcasts/tgc-podcast/did-jesus-preach-gospel-classic/"
+    },
+    {
+      "category": "Theology",
+      "title": "Editor’s Picks: New Bible Study Curricula",
+      "source": "The Gospel Coalition",
+      "date": "Fri, 10 Jul 2026 04:02:00 +0000",
+      "summary": "Ten recently published Bible study curricula for individuals or small groups.",
+      "url": "https://www.thegospelcoalition.org/reviews/editors-picks-curricula-summer-2026/"
+    },
+    {
+      "category": "Space",
+      "title": "Where Venezuela’s Earthquakes Shifted the Ground",
+      "source": "NASA",
+      "date": "Fri, 10 Jul 2026 04:00:00 +0000",
+      "summary": "Radar data from the NISAR satellite show that La Guaira and nearby areas experienced significant ground displacement from the June 2026 temblors.",
+      "url": "https://science.nasa.gov/earth/earth-observatory/where-venezuelas-earthquakes-shifted-the-ground/"
+    },
+    {
+      "category": "Theology",
+      "title": "We Need a Thicker View of God’s Love",
+      "source": "The Gospel Coalition",
+      "date": "Fri, 10 Jul 2026 04:00:00 +0000",
+      "summary": "All Christians would do well to have a much thicker account of the Christian life than we currently do.",
+      "url": "https://www.thegospelcoalition.org/article/thicker-view-gods-love/"
+    },
+    {
+      "category": "Science",
+      "title": "Physicists created a tiny universe where time emerged without a clock",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Thu, 09 Jul 2026 19:46:43 EDT",
+      "summary": "What if time doesn't actually exist until something changes? Scientists at the University of Birmingham created a tiny \"mini universe\" using 24,000 ultracold atoms and showed that the flow of time can emerge naturally from changes inside a quantum system, without relying on any external clock.",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260709160632.htm"
     },
     {
       "category": "Space",
@@ -51,22 +171,6 @@
       "url": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-astronaut-anil-menon-launch-to-space-station/"
     },
     {
-      "category": "Space",
-      "title": " Wally Funk, trailblazing pilot and astronaut, passes away at 87 ",
-      "source": " Latest from Space.com ",
-      "date": "Thu, 09 Jul 2026 22:00:00 +0000",
-      "summary": "Wally Funk, who flew to space at 82 after a lifetime of flying and fighting for women in aviation and aerospace, has passed away at age 87.",
-      "url": "https://www.space.com/space-exploration/human-spaceflight/wally-funk-trailblazing-pilot-and-astronaut-passes-away-at-87"
-    },
-    {
-      "category": "AI",
-      "title": "Michigan's explosive outbreak of diarrheal parasite jumps to over 1,200 cases",
-      "source": "Ars Technica - All content",
-      "date": "Thu, 09 Jul 2026 21:56:44 +0000",
-      "summary": "In neighboring Ohio, cases have reportedly reached over 500.",
-      "url": "https://arstechnica.com/health/2026/07/michigans-explosive-outbreak-of-diarrheal-parasite-jumps-to-over-1200-cases/"
-    },
-    {
       "category": "Science",
       "title": " Malaria had nearly been eliminated around a giant dam in the Amazon — but then it came roaring back. Experts just discovered why. ",
       "source": " Latest from Live Science ",
@@ -75,12 +179,12 @@
       "url": "https://www.livescience.com/health/viruses-infections-disease/malaria-had-nearly-been-eliminated-around-a-giant-dam-in-the-amazon-but-then-it-came-roaring-back-experts-just-discovered-why"
     },
     {
-      "category": "AI",
-      "title": "OpenAI wants its new tool to do your work for you and with you",
-      "source": "Ars Technica - All content",
-      "date": "Thu, 09 Jul 2026 21:25:55 +0000",
-      "summary": "Rebranded Codex promises independent workflows that can run \"for hours if needed.\"",
-      "url": "https://arstechnica.com/ai/2026/07/openai-wants-its-new-tool-to-do-your-work-for-you-and-with-you/"
+      "category": "Science",
+      "title": "This alien planet never has sunrise or sunset. It may support life",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Thu, 09 Jul 2026 17:27:22 EDT",
+      "summary": "A planet with one side permanently roasting and the other frozen in endless darkness might still have a chance of supporting life. Researchers found that heat inside a tidally locked exoplanet could circulate in a stable, continuous loop, helping moderate temperatures in certain regions. Their laboratory model suggests these worlds may be more hospitable than previously thought, despite their extreme surface conditions.",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260709160657.htm"
     },
     {
       "category": "Science",
@@ -91,20 +195,12 @@
       "url": "https://www.livescience.com/archaeology/vikings/dirty-button-unearthed-by-metal-detectorist-turns-out-to-be-a-rare-900-year-old-coin-from-norways-last-viking-king-magnus-barefoot"
     },
     {
-      "category": "AI",
-      "title": "Show HN: Rubiks Cube Solver",
-      "source": "Hacker News: Front Page",
-      "date": "Thu, 09 Jul 2026 21:09:05 +0000",
-      "summary": "Speedcube is an open-source platform for speedcubers featuring a Rubik's Cube solver, competition timer, algorithm library, and AI-assisted cube recognition directly in the browser.\nBuilt with React, TypeScript, Rust, and Python, the project aims to become an all-in-one platform for cubers—from beginners to competitive solvers.\nhttp://github.com/williamisnotdefined/rubiks-cube-solver/\nComments URL: https://news.ycombinator.com/item?id=48852403\nPoints: 9\n# Comments: 0",
-      "url": "https://speedcube.com.br/"
-    },
-    {
-      "category": "Space",
-      "title": " Scientists have discovered the oldest quasar ever seen, and it shines with the light of a trillion suns ",
-      "source": " Latest from Space.com ",
-      "date": "Thu, 09 Jul 2026 21:00:00 +0000",
-      "summary": "Using the ESA's Euclid space telescope, astronomers have discovered a treasure trove of black hole-powered quasars in the early universe, including the most ancient and distant ever seen.",
-      "url": "https://www.space.com/astronomy/black-holes/scientists-have-discovered-the-oldest-quasar-ever-seen-and-it-shines-with-the-light-of-a-trillion-suns"
+      "category": "Science",
+      "title": "Hawaii's famous “happy-face” spider has a surprising relative",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Thu, 09 Jul 2026 16:56:57 EDT",
+      "summary": "A newly discovered Happy-Face spider in the Himalayas closely resembles Hawaii's iconic species but evolved independently, according to DNA evidence. Its mysterious smile-like markings, many color forms, and unexpected link to ginger plants have scientists eager to learn how the two distant species are connected.",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260709160627.htm"
     },
     {
       "category": "Space",
@@ -115,44 +211,12 @@
       "url": "https://science.nasa.gov/missions/ixpe/nasa-space-telescope-maps-magnetic-fields-of-lighthouse-pulsar/"
     },
     {
-      "category": "Science",
-      "title": " '800 seconds for a sick visit': Some factors driving antibiotic resistance have nothing to do with biology, says medical sociologist Julia Szymczak ",
-      "source": " Latest from Live Science ",
-      "date": "Thu, 09 Jul 2026 19:50:00 +0000",
-      "summary": "Doctors' decisions around antibiotics aren't as logical as you might assume; they can be skewed by emotional and social factors, a medical sociologist explains.",
-      "url": "https://www.livescience.com/health/medicine-drugs/800-seconds-for-a-sick-visit-some-factors-driving-antibiotic-resistance-have-nothing-to-do-with-biology-says-medical-sociologist-julia-szymczak"
-    },
-    {
-      "category": "Space",
-      "title": " SpaceX wants to launch 100,000 Starlink satellites to orbit ",
-      "source": " Latest from Space.com ",
-      "date": "Thu, 09 Jul 2026 19:28:45 +0000",
-      "summary": "SpaceX has applied for approval to operate a 100,000-member megaconstellation of next-gen Starlink satellites in Earth orbit. And each of the new spacecraft will weigh about 4,400 pounds.",
-      "url": "https://www.space.com/space-exploration/satellites/spacex-wants-to-launch-100-000-starlink-satellites-to-orbit"
-    },
-    {
       "category": "Theology",
       "title": "How Should Christians Think about the Law of Moses?",
       "source": "9Marks",
       "date": "Thu, 09 Jul 2026 19:15:27 +0000",
       "summary": "Jesus fulfilled the law, and at the same time, he ushered in something completely new in the New Covenant.\nThe post How Should Christians Think about the Law of Moses? appeared first on 9Marks.",
       "url": "https://www.9marks.org/review/how-should-christians-think-about-the-law-of-moses/?utm_source=rss&utm_medium=rss&utm_campaign=how-should-christians-think-about-the-law-of-moses"
-    },
-    {
-      "category": "AI",
-      "title": "GLM 5.2 is nearly as accurate as a human book keeper",
-      "source": "Hacker News: Front Page",
-      "date": "Thu, 09 Jul 2026 18:29:41 +0000",
-      "summary": "Article URL: https://toot-books.pages.dev/blog/glm-5-2-vat-benchmark\nComments URL: https://news.ycombinator.com/item?id=48850414\nPoints: 160\n# Comments: 96",
-      "url": "https://toot-books.pages.dev/blog/glm-5-2-vat-benchmark"
-    },
-    {
-      "category": "Space",
-      "title": "Principal Investigator and Quality Assessment Reports Evaluate Umbra Synthetic Aperture Radar Data",
-      "source": "NASA",
-      "date": "Thu, 09 Jul 2026 18:14:21 +0000",
-      "summary": "The reports add to the growing documentation on commercial data’s contributions to Earth science research and applications.",
-      "url": "https://science.nasa.gov/science-research/earth-science/principal-investigator-and-quality-assessment-reports-evaluate-umbra-synthetic-aperture-radar-data/"
     },
     {
       "category": "AI",
@@ -180,19 +244,11 @@
     },
     {
       "category": "AI",
-      "title": "ChatGPT is now a partner for your most ambitious work",
+      "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
       "source": "OpenAI News",
       "date": "Thu, 09 Jul 2026 10:00:00 GMT",
-      "summary": "ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work.",
-      "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work"
-    },
-    {
-      "category": "AI",
-      "title": "GPT-5.5 Bio Bug Bounty",
-      "source": "OpenAI News",
-      "date": "Thu, 09 Jul 2026 10:00:00 GMT",
-      "summary": "Details about the OpenAI Bio Bounty program",
-      "url": "https://openai.com/index/bio-bug-bounty"
+      "summary": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.",
+      "url": "https://openai.com/index/gpt-5-6"
     },
     {
       "category": "History",
@@ -201,62 +257,6 @@
       "date": "Thu, 09 Jul 2026 09:00:50 +0000",
       "summary": "The beginning of American Revolution was also the beginning of the golden age of counterfeiting paper money. The British Currency Act of 1764 so restricted the circulation of currency that this crime largely disappeared, as colonists listed the lack of liquid capital among their grievances. The Continental Congress and the states, however, needed to pay […]\nThe post Counterfeiting with Thomas Davis in the New United States: Another American Revolution appeared first on Journal of the American Revolution.",
       "url": "https://allthingsliberty.com/2026/07/counterfeiting-with-thomas-davis-in-the-new-united-states-another-american-revolution/"
-    },
-    {
-      "category": "Science",
-      "title": "Trees keep absorbing carbon long after they stop growing",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Thu, 09 Jul 2026 02:28:44 EDT",
-      "summary": "Oak trees keep absorbing carbon dioxide long after their annual growth has ended, revealing that photosynthesis and wood production are not as closely linked as scientists once believed. The finding could reshape forecasts of how much carbon forests will be able to store in a warmer future.",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260708022210.htm"
-    },
-    {
-      "category": "Science",
-      "title": "A vitamin A discovery is changing what scientists know about vision",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Thu, 09 Jul 2026 01:15:15 EDT",
-      "summary": "A surprising discovery is reshaping scientists' understanding of how humans develop sharp central vision before birth. Instead of blue cone cells migrating away from the retina's center, the study found they transform into red and green cones under the influence of vitamin A-related signals and thyroid hormones. The findings could improve lab-grown retinal tissue and lay the groundwork for future cell therapies to restore vision lost to age-related eye diseases.",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260708022214.htm"
-    },
-    {
-      "category": "Theology",
-      "title": "Self-Care vs. Self-Sacrifice",
-      "source": "The Gospel Coalition",
-      "date": "Thu, 09 Jul 2026 04:04:58 +0000",
-      "summary": "Courtney and Melissa discuss how to apply biblical discernment to the question of when to prioritize wise self-care and when to put aside your needs for the sake of others.",
-      "url": "https://www.thegospelcoalition.org/podcasts/deep-dish/self-care-self-sacrifice/"
-    },
-    {
-      "category": "Theology",
-      "title": "Netflix ‘Little House on the Prairie’ Celebrates Family on the Frontier",
-      "source": "The Gospel Coalition",
-      "date": "Thu, 09 Jul 2026 04:02:00 +0000",
-      "summary": "The new ‘Little House’ is a refreshing offering that celebrates family, community, and the resilient frontier spirit of America.",
-      "url": "https://www.thegospelcoalition.org/article/little-house-prairie-christian-review/"
-    },
-    {
-      "category": "Theology",
-      "title": "How to Guard Your Women’s Ministry Against False Teaching",
-      "source": "The Gospel Coalition",
-      "date": "Thu, 09 Jul 2026 04:00:00 +0000",
-      "summary": "Teaching sound doctrine equips women to recognize unsound teaching when they encounter it.",
-      "url": "https://www.thegospelcoalition.org/article/womens-ministry-false-teaching/"
-    },
-    {
-      "category": "Science",
-      "title": "Rare goblin shark filmed alive for the first time in the deep sea",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Wed, 08 Jul 2026 19:00:05 EDT",
-      "summary": "For the first time, researchers have filmed the elusive goblin shark alive in the deep ocean where it naturally lives. The remarkable sightings greatly expand the shark's known range and depth, showing that this 125-million-year-old \"living fossil\" still has plenty of secrets left to reveal.",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260708022208.htm"
-    },
-    {
-      "category": "Biblical Studies",
-      "title": "“Canceled” Standing Stone Discovered in Judah",
-      "source": "Biblical Archaeology Society",
-      "date": "Wed, 08 Jul 2026 10:45:18 +0000",
-      "summary": "Long before photos, journals, or smartphones, people preserved life’s defining moments in stone. In the Bible, the Israelite erected massebot—standing stones—to commemorate encounters with God, […]\nThe post “Canceled” Standing Stone Discovered in Judah appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-israel/canceled-standing-stone-discovered-in-judah/"
     },
     {
       "category": "History",
