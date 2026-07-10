@@ -1,38 +1,134 @@
 {
-  "lastUpdated": "2026-07-10T12:21:06.466Z",
+  "lastUpdated": "2026-07-10T17:42:35.051Z",
   "articleCount": 39,
   "articles": [
     {
       "category": "Science",
-      "title": "Bacteria turn dissolved uranium into stable compound in 130 days, study finds",
+      "title": "Physical laws explain why most flies evolved similar flight, with mosquitoes as outliers",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Fri, 10 Jul 2026 08:20:10 EDT",
-      "summary": "Researchers at the Helmholtz-Zentrum Dresden-Rossendorf (HZDR), together with Wismut GmbH and scientists from the University of Granada in Spain, have demonstrated for the first time that bacteria can convert uranium dissolved in water into a stable chemical compound when they have access to glycerol as a food source.",
-      "url": "https://phys.org/news/2026-07-bacteria-dissolved-uranium-stable-compound.html"
+      "date": "Fri, 10 Jul 2026 13:40:09 EDT",
+      "summary": "A new study in PLOS Biology of 133 species of flies, mosquitoes and their relatives shows that most species fly in surprisingly similar ways. Physical and aerodynamic laws shape the evolution of their flight behavior more strongly than previously thought. Mosquitoes prove to be a striking exception.",
+      "url": "https://phys.org/news/2026-07-physical-laws-flies-evolved-similar.html"
     },
     {
       "category": "Science",
-      "title": "Peering into materials down to the nanoscale in the COCOON lab",
+      "title": "Does multitasking ability really differ by sex? Not in the way you'd think",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Fri, 10 Jul 2026 08:20:04 EDT",
-      "summary": "A new Tufts University imaging facility is doing something that most microscopy centers in the world cannot: allowing scientists to examine a butterfly wing, a living tissue or a microchip and reveal its physical structure, molecular chemistry and elemental composition across every scale, from the macroscale down to the nanoscale—all in one imaging session.",
-      "url": "https://phys.org/news/2026-07-peering-materials-nanoscale-cocoon-lab.html"
+      "date": "Fri, 10 Jul 2026 13:40:08 EDT",
+      "summary": "Research simulates real-life multitasking performance to assess potential differences between men and women. When coordinating five different tasks, men ignored the conversational task more than twice as often as women, while showing similar performance to women in all other tasks.",
+      "url": "https://phys.org/news/2026-07-multitasking-ability-differ-sex-youd.html"
+    },
+    {
+      "category": "Science",
+      "title": "Brazil deforestation hits new low in Amazon",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Fri, 10 Jul 2026 13:40:02 EDT",
+      "summary": "Deforestation in the Brazilian Amazon fell to its lowest level in a decade in the first half of the year, according to official figures released Friday.",
+      "url": "https://phys.org/news/2026-07-brazil-deforestation-amazon.html"
     },
     {
       "category": "AI",
-      "title": "Laylo (YC S20) Is Hiring a Head of Finance",
+      "title": "You're Not a Better Engineer Because You Type Git Commands by Hand",
       "source": "Hacker News: Front Page",
-      "date": "Fri, 10 Jul 2026 12:00:36 +0000",
-      "summary": "Article URL: https://www.ycombinator.com/companies/laylo/jobs/qce41D2-head-of-finance\nComments URL: https://news.ycombinator.com/item?id=48858745\nPoints: 0\n# Comments: 0",
-      "url": "https://www.ycombinator.com/companies/laylo/jobs/qce41D2-head-of-finance"
+      "date": "Fri, 10 Jul 2026 17:01:25 +0000",
+      "summary": "Article URL: https://www.minid.net/2026/7/10/ai-works-for-me\nComments URL: https://news.ycombinator.com/item?id=48862506\nPoints: 4\n# Comments: 0",
+      "url": "https://www.minid.net/2026/7/10/ai-works-for-me"
+    },
+    {
+      "category": "AI",
+      "title": "Anyone else get a vague GitHub shakedown notice?",
+      "source": "Hacker News: Front Page",
+      "date": "Fri, 10 Jul 2026 16:57:35 +0000",
+      "summary": "Article URL: https://lists.osgeo.org/pipermail/qgis-developer/2026-July/068430.html\nComments URL: https://news.ycombinator.com/item?id=48862467\nPoints: 3\n# Comments: 1",
+      "url": "https://lists.osgeo.org/pipermail/qgis-developer/2026-July/068430.html"
+    },
+    {
+      "category": "AI",
+      "title": "The tech of 'Terminator 2' – an oral history (2017)",
+      "source": "Hacker News: Front Page",
+      "date": "Fri, 10 Jul 2026 16:48:41 +0000",
+      "summary": "Article URL: https://vfxblog.com/2017/08/23/the-tech-of-terminator-2-an-oral-history/\nComments URL: https://news.ycombinator.com/item?id=48862365\nPoints: 14\n# Comments: 2",
+      "url": "https://vfxblog.com/2017/08/23/the-tech-of-terminator-2-an-oral-history/"
     },
     {
       "category": "Science",
-      "title": "Assessing lab animals with AI",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Fri, 10 Jul 2026 08:00:05 EDT",
-      "summary": "Rutgers Office for Research (OfR) leaders collaborated with researchers around the world to develop an artificial intelligence (AI) program that has the potential to revolutionize lab research.",
-      "url": "https://phys.org/news/2026-07-lab-animals-ai.html"
+      "title": " NASA is creating a fifth state of matter on the ISS, thanks to an upgrade to a mini-fridge-sized quantum lab ",
+      "source": " Latest from Live Science ",
+      "date": "Fri, 10 Jul 2026 16:37:31 +0000",
+      "summary": "A new set of upgrades to the International Space Station’s Cold Atom Laboratory is allowing NASA to probe quantum mechanics at the coldest possible temperatures while in zero gravity.",
+      "url": "https://www.livescience.com/physics-mathematics/quantum-physics/nasa-is-creating-a-fifth-state-of-matter-on-the-iss-thanks-to-an-upgrade-to-a-mini-fridge-sized-quantum-lab"
+    },
+    {
+      "category": "Space",
+      "title": "NASA Photographer Captures Images from F-18 Over Washington",
+      "source": "NASA",
+      "date": "Fri, 10 Jul 2026 16:36:14 +0000",
+      "summary": "NASA flight photographers capture history from a perspective few ever experience, getting a rare bird’s-eye view of the agency’s missions in action. Their photos document key NASA research and give the public a front-row seat to the work happening behind the scenes. Jim Ross, a photographer at NASA’s Armstrong Flight Research Center in Edwards, California, […]",
+      "url": "https://www.nasa.gov/image-article/nasa-photographer-captures-images-from-f-18-over-washington/"
+    },
+    {
+      "category": "Space",
+      "title": " SpaceX ignites all 33 powerful engines on Starship booster ahead of Flight 13 launch ",
+      "source": " Latest from Space.com ",
+      "date": "Fri, 10 Jul 2026 16:13:48 +0000",
+      "summary": "SpaceX completed an engine test of the next Super Heavy booster slated to launch Starship's next mission, which could lift off as soon as next week.",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-ignites-all-33-powerful-engines-on-starship-booster-test-ahead-of-flight-13-test-launch"
+    },
+    {
+      "category": "Space",
+      "title": " These rare glowing 'space clouds' are summer's best-kept skywatching secret ",
+      "source": " Latest from Space.com ",
+      "date": "Fri, 10 Jul 2026 16:03:53 +0000",
+      "summary": "Now is the time to look for noctilucent clouds — shimmering ice clouds that glow near the edge of space.",
+      "url": "https://www.space.com/stargazing/these-rare-glowing-space-clouds-are-summers-best-kept-skywatching-secret"
+    },
+    {
+      "category": "AI",
+      "title": "Disable auto-play and infinite scroll or risk massive fines, EU tells Meta",
+      "source": "Ars Technica - All content",
+      "date": "Fri, 10 Jul 2026 15:46:18 +0000",
+      "summary": "Digital Services Act may force Meta to make big changes on its platforms.",
+      "url": "https://arstechnica.com/tech-policy/2026/07/disable-auto-play-and-infinite-scroll-or-risk-massive-fines-eu-tells-meta/"
+    },
+    {
+      "category": "AI",
+      "title": "NASA sure seems to be asking an awful lot of private space stations",
+      "source": "Ars Technica - All content",
+      "date": "Fri, 10 Jul 2026 15:15:58 +0000",
+      "summary": "\"Industry finally knows what NASA is asking of them.\"",
+      "url": "https://arstechnica.com/space/2026/07/nasa-finally-releases-a-critical-planning-document-for-private-space-stations/"
+    },
+    {
+      "category": "Space",
+      "title": "Waxing Gibbous Moon",
+      "source": "NASA",
+      "date": "Fri, 10 Jul 2026 15:08:59 +0000",
+      "summary": "The waxing gibbous moon is nestled in the darkness of space in this June 26, 2026, image from the International Space Station. The space station was 264 miles above the Indian Ocean southeast of Madagascar at the time. The waxing gibbous phase comes before the full moon phase. During this time, the Moon appears brighter […]",
+      "url": "https://www.nasa.gov/image-article/waxing-gibbous-moon-6/"
+    },
+    {
+      "category": "Space",
+      "title": " SpaceX launch creates colorful 'jellyfish' in the night sky | Space photo of the day for July 10, 2026 ",
+      "source": " Latest from Space.com ",
+      "date": "Fri, 10 Jul 2026 14:00:00 +0000",
+      "summary": "I promise it's not an alien.",
+      "url": "https://www.space.com/space-exploration/spacex-launch-creates-colorful-jellyfish-in-the-night-sky-space-photo-of-the-day-for-july-10-2026"
+    },
+    {
+      "category": "AI",
+      "title": "Volkswagen Group tells its board how to fix it, unions disagree",
+      "source": "Ars Technica - All content",
+      "date": "Fri, 10 Jul 2026 13:51:10 +0000",
+      "summary": "VW's plan calls for half as many models but didn't mention closures or job cuts.",
+      "url": "https://arstechnica.com/cars/2026/07/vw-group-and-unions-disagree-on-plan-to-streamline-the-automaker/"
+    },
+    {
+      "category": "Science",
+      "title": " New sodium metal battery design charges in just 4 minutes and retains its capacity for years ",
+      "source": " Latest from Live Science ",
+      "date": "Fri, 10 Jul 2026 13:00:00 +0000",
+      "summary": "Chinese researchers say they have overcome one of the trickiest problems of battery chemistry by developing a special gel.",
+      "url": "https://www.livescience.com/technology/engineering/new-sodium-metal-battery-design-charges-in-just-4-minutes-and-retains-its-capacity-for-years"
     },
     {
       "category": "Science",
@@ -43,44 +139,12 @@
       "url": "https://www.livescience.com/products/optics/canon-eos-r6-iii-review-a-wildlife-wonder"
     },
     {
-      "category": "Space",
-      "title": " Supreme Court ruling on mail-in ballots ensures astronauts can vote from space  — or anywhere else ",
-      "source": " Latest from Space.com ",
-      "date": "Fri, 10 Jul 2026 12:00:00 +0000",
-      "summary": "A new ruling by the U.S. Supreme Court protecting voter rights could extend to astronauts living and working in space and training internationally.",
-      "url": "https://www.space.com/space-exploration/human-spaceflight/supreme-court-ruling-on-mail-in-ballots-ensures-astronauts-can-vote-from-space-or-anywhere-else"
-    },
-    {
-      "category": "AI",
-      "title": "Wally Funk, last of Mercury 13 and oldest woman in space, dies at 87",
-      "source": "Ars Technica - All content",
-      "date": "Fri, 10 Jul 2026 11:30:29 +0000",
-      "summary": "\"I have been waiting a long time to finally get up there...\"",
-      "url": "https://arstechnica.com/space/2026/07/wally-funk-last-of-mercury-13-and-oldest-woman-in-space-dies-at-87/"
-    },
-    {
-      "category": "AI",
-      "title": "Is an air-conditioning revolution coming to Europe?",
-      "source": "Ars Technica - All content",
-      "date": "Fri, 10 Jul 2026 11:10:08 +0000",
-      "summary": "The AC culture wars may be solved by advances in environmentally friendly technology.",
-      "url": "https://arstechnica.com/science/2026/07/is-an-air-conditioning-revolution-coming-to-europe/"
-    },
-    {
-      "category": "AI",
-      "title": "Rocket Report: \"Panic\" over Transporter availability; Isar to launch from Canada",
-      "source": "Ars Technica - All content",
-      "date": "Fri, 10 Jul 2026 11:00:43 +0000",
-      "summary": "\"We are delighted to actively help shape the ramp-up of the Ariane 6.\"",
-      "url": "https://arstechnica.com/space/2026/07/rocket-report-panic-over-transporter-availability-isar-to-launch-from-canada/"
-    },
-    {
-      "category": "AI",
-      "title": "EU Commission: addictive design Instagram and Facebook in breach of the DSA",
-      "source": "Hacker News: Front Page",
-      "date": "Fri, 10 Jul 2026 11:00:15 +0000",
-      "summary": "Article URL: https://ec.europa.eu/commission/presscorner/home/en\nComments URL: https://news.ycombinator.com/item?id=48858292\nPoints: 28\n# Comments: 14",
-      "url": "https://ec.europa.eu/commission/presscorner/home/en"
+      "category": "Science",
+      "title": "Europe's most active volcano may have a secret origin",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Fri, 10 Jul 2026 07:16:59 EDT",
+      "summary": "Mount Etna has long puzzled geologists because it doesn't fit any of the three classic ways volcanoes are thought to form. A new study suggests it may instead be fueled by ancient pockets of magma that are pushed upward through cracks created by shifting tectonic plates. If confirmed, Etna could belong to a rare fourth category of volcano, revealing that much larger volcanoes can form through processes previously associated only with small submarine eruptions.",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260709160653.htm"
     },
     {
       "category": "Biblical Studies",
@@ -91,28 +155,12 @@
       "url": "https://www.biblicalarchaeology.org/daily/archaeology-today/colossae-a-biblical-city-of-classical-world/"
     },
     {
-      "category": "AI",
-      "title": "Good Tools Are Invisible",
-      "source": "Hacker News: Front Page",
-      "date": "Fri, 10 Jul 2026 10:32:41 +0000",
-      "summary": "Article URL: https://www.gingerbill.org/article/2026/07/10/good-tools-are-invisible/\nComments URL: https://news.ycombinator.com/item?id=48858121\nPoints: 6\n# Comments: 0",
-      "url": "https://www.gingerbill.org/article/2026/07/10/good-tools-are-invisible/"
-    },
-    {
-      "category": "Space",
-      "title": " Astronomers may have heard the 1st 'whispers' of ghost particles created by supernova explosions ",
-      "source": " Latest from Space.com ",
-      "date": "Fri, 10 Jul 2026 10:00:00 +0000",
-      "summary": "The universe is haunted by \"cosmic ghosts\" called neutrinos, which seem to be the \"whispers\" of stars that died in supernova explosions over the course of billions of years.",
-      "url": "https://www.space.com/astronomy/stars/cosmic-ghost-neutrinos-may-be-the-whispers-of-stars-that-died-in-supernova-explosions"
-    },
-    {
-      "category": "Space",
-      "title": " Don't miss out on 'The Ark' Season 3 — get a year-long Peacock TV deal for just over $9 a month ",
-      "source": " Latest from Space.com ",
-      "date": "Fri, 10 Jul 2026 09:17:09 +0000",
-      "summary": "Watch SYFY's outer space saga 'The Ark' on Peacock TV and all the best sci-fi content at a bargain price.",
-      "url": "https://www.space.com/technology/dont-miss-out-on-the-ark-season-3-get-a-year-long-peacock-tv-deal-for-just-over-9-dollars-a-month"
+      "category": "Biblical Studies",
+      "title": "Two-Thousand-Year-Old Shipwreck Discovered Off Turkish Coast",
+      "source": "Biblical Archaeology Society",
+      "date": "Fri, 10 Jul 2026 10:00:18 +0000",
+      "summary": "Off the southwestern coast of Turkey, archaeologists made a stunning discovery: a 2,000-year-old shipwreck with its cargo still packed neatly where it had been stored […]\nThe post Two-Thousand-Year-Old Shipwreck Discovered Off Turkish Coast appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/daily/archaeology-today/two-thousand-year-old-shipwreck-discovered-off-turkish-coast/"
     },
     {
       "category": "AI",
@@ -121,6 +169,14 @@
       "date": "Fri, 10 Jul 2026 07:00:00 GMT",
       "summary": "How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice.",
       "url": "https://openai.com/index/deutsche-telekom"
+    },
+    {
+      "category": "Science",
+      "title": "The galaxy’s coldest “stars” may actually be alien megastructures",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Fri, 10 Jul 2026 02:04:44 EDT",
+      "summary": "Scientists have identified new clues that could help astronomers spot one of the most famous hypothetical alien megastructures: a Dyson sphere. The study finds that red dwarfs and white dwarfs are the most promising stars to examine, since advanced civilizations could potentially build energy-harvesting swarms around them more easily. These objects would stand out by glowing in infrared light instead of visible light, lacking the dusty signatures of ordinary stars, and possibly flickering in unusual ways.",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260710003524.htm"
     },
     {
       "category": "Theology",
@@ -156,59 +212,11 @@
     },
     {
       "category": "Science",
-      "title": "Physicists created a tiny universe where time emerged without a clock",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Thu, 09 Jul 2026 19:46:43 EDT",
-      "summary": "What if time doesn't actually exist until something changes? Scientists at the University of Birmingham created a tiny \"mini universe\" using 24,000 ultracold atoms and showed that the flow of time can emerge naturally from changes inside a quantum system, without relying on any external clock.",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260709160632.htm"
-    },
-    {
-      "category": "Space",
-      "title": "NASA Sets Coverage for Astronaut Anil Menon Launch to Space Station",
-      "source": "NASA",
-      "date": "Thu, 09 Jul 2026 22:09:27 +0000",
-      "summary": "NASA astronaut Anil Menon will launch aboard the Roscosmos Soyuz MS-29 spacecraft to the International Space Station on Tuesday, July 14, accompanied by cosmonauts Pyotr Dubrov and Anna Kikina, where they will join the Expedition 74 crew advancing scientific research. Menon, Dubrov, and Kikina will lift off at 10:47 a.m. EDT (7:47 p.m. Baikonur time) […]",
-      "url": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-astronaut-anil-menon-launch-to-space-station/"
-    },
-    {
-      "category": "Science",
-      "title": " Malaria had nearly been eliminated around a giant dam in the Amazon — but then it came roaring back. Experts just discovered why. ",
-      "source": " Latest from Live Science ",
-      "date": "Thu, 09 Jul 2026 21:47:21 +0000",
-      "summary": "A 15-year study suggests that long-term malaria control may depend as much on protecting environments as it does on sustaining public health programs.",
-      "url": "https://www.livescience.com/health/viruses-infections-disease/malaria-had-nearly-been-eliminated-around-a-giant-dam-in-the-amazon-but-then-it-came-roaring-back-experts-just-discovered-why"
-    },
-    {
-      "category": "Science",
       "title": "This alien planet never has sunrise or sunset. It may support life",
       "source": "All Top News -- ScienceDaily",
       "date": "Thu, 09 Jul 2026 17:27:22 EDT",
       "summary": "A planet with one side permanently roasting and the other frozen in endless darkness might still have a chance of supporting life. Researchers found that heat inside a tidally locked exoplanet could circulate in a stable, continuous loop, helping moderate temperatures in certain regions. Their laboratory model suggests these worlds may be more hospitable than previously thought, despite their extreme surface conditions.",
       "url": "https://www.sciencedaily.com/releases/2026/07/260709160657.htm"
-    },
-    {
-      "category": "Science",
-      "title": " Dirty 'button' unearthed by metal detectorist turns out to be a rare 900-year-old coin from Norway's last Viking king, Magnus Barefoot ",
-      "source": " Latest from Live Science ",
-      "date": "Thu, 09 Jul 2026 21:19:16 +0000",
-      "summary": "A rare coin from the reign of Magnus Barefoot — sometimes called Norway's last Viking king, was mistaken for a button before researchers realized it was the first of its kind found on Norwegian soil.",
-      "url": "https://www.livescience.com/archaeology/vikings/dirty-button-unearthed-by-metal-detectorist-turns-out-to-be-a-rare-900-year-old-coin-from-norways-last-viking-king-magnus-barefoot"
-    },
-    {
-      "category": "Science",
-      "title": "Hawaii's famous “happy-face” spider has a surprising relative",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Thu, 09 Jul 2026 16:56:57 EDT",
-      "summary": "A newly discovered Happy-Face spider in the Himalayas closely resembles Hawaii's iconic species but evolved independently, according to DNA evidence. Its mysterious smile-like markings, many color forms, and unexpected link to ginger plants have scientists eager to learn how the two distant species are connected.",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260709160627.htm"
-    },
-    {
-      "category": "Space",
-      "title": "NASA Space Telescope Maps Magnetic Fields of ‘Lighthouse’ Pulsar",
-      "source": "NASA",
-      "date": "Thu, 09 Jul 2026 20:08:35 +0000",
-      "summary": "For the first time, scientists have used NASA’s IXPE (Imaging X-ray Polarimetry Explorer) to directly measure the magnetic fields of PSR J1101−6101, a pulsar located within what is often referred to as the Lighthouse Nebula. The results provide new insight into the structure of some of the most extreme objects in the cosmos, as NASA […]",
-      "url": "https://science.nasa.gov/missions/ixpe/nasa-space-telescope-maps-magnetic-fields-of-lighthouse-pulsar/"
     },
     {
       "category": "Theology",
@@ -233,14 +241,6 @@
       "date": "Thu, 09 Jul 2026 11:00:27 +0000",
       "summary": "More than 200 Biblical texts written in Hebrew were discovered among the Dead Sea Scrolls. How do these ancient Biblical texts compare with the Masoretic Text and the Greek Septuagint in scholars’ search for the most authoritative text of the Hebrew Bible?\nThe post The “Original” Bible and the Dead Sea Scrolls appeared first on Biblical Archaeology Society.",
       "url": "https://www.biblicalarchaeology.org/daily/biblical-topics/bible-versions-and-translations/the-original-bible-and-the-dead-sea-scrolls/"
-    },
-    {
-      "category": "Biblical Studies",
-      "title": "Searching for the Balm of Gilead",
-      "source": "Biblical Archaeology Society",
-      "date": "Thu, 09 Jul 2026 11:00:04 +0000",
-      "summary": "The Bible describes a “balm” of Gilead that is counted among “the choice fruits of the land” (Genesis 43:11). Renowned for its medicinal and aromatic […]\nThe post Searching for the Balm of Gilead appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/daily/biblical-topics/hebrew-bible/searching-for-the-balm-of-gilead/"
     },
     {
       "category": "AI",
