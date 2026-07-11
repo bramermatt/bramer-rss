@@ -1,22 +1,110 @@
 {
-  "lastUpdated": "2026-07-10T22:54:17.659Z",
-  "articleCount": 36,
+  "lastUpdated": "2026-07-11T10:57:40.600Z",
+  "articleCount": 39,
   "articles": [
     {
+      "category": "Science",
+      "title": " Diagnostic dilemma: An 83-year-old man went to the hospital because of very itchy skin. It turned out he had a rare form of syphilis. ",
+      "source": " Latest from Live Science ",
+      "date": "Sat, 11 Jul 2026 10:00:00 +0000",
+      "summary": "A man went to the emergency room after being in and out of hospitals for a month, and doctors found a surprising explanation for his illness.",
+      "url": "https://www.livescience.com/health/viruses-infections-disease/diagnostic-dilemma-an-83-year-old-man-went-to-the-hospital-because-of-very-itchy-skin-it-turned-out-he-had-a-rare-form-of-syphilis"
+    },
+    {
+      "category": "Space",
+      "title": " White House appoints Harvard astronomer Avi Loeb to lead new UFO study group ",
+      "source": " Latest from Space.com ",
+      "date": "Sat, 11 Jul 2026 10:00:00 +0000",
+      "summary": "Harvard astrophysicist Avi Loeb has been appointed as the head of a new White House group to study UFOs, or unidentified anomalous phenomena, as they're now known.",
+      "url": "https://www.space.com/space-exploration/search-for-life/white-house-appoints-harvard-astronomer-avi-loeb-to-lead-new-ufo-study-group"
+    },
+    {
       "category": "AI",
-      "title": "Einstein's relativity rules chemical bonds in heavy elements, new research shows",
+      "title": "A font that humans can read but AI cannot",
       "source": "Hacker News: Front Page",
-      "date": "Fri, 10 Jul 2026 22:30:44 +0000",
-      "summary": "Article URL: https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity\nComments URL: https://news.ycombinator.com/item?id=48866134\nPoints: 4\n# Comments: 1",
-      "url": "https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity"
+      "date": "Sat, 11 Jul 2026 09:36:53 +0000",
+      "summary": "Article URL: https://www.mixfont.com/ghost-font\nComments URL: https://news.ycombinator.com/item?id=48870381\nPoints: 35\n# Comments: 22",
+      "url": "https://www.mixfont.com/ghost-font"
+    },
+    {
+      "category": "AI",
+      "title": "Almost $1B Later, the US Still Can't Make a Medical Glove",
+      "source": "Hacker News: Front Page",
+      "date": "Sat, 11 Jul 2026 09:16:10 +0000",
+      "summary": "Article URL: https://www.bloomberg.com/news/features/2026-07-07/why-it-s-so-difficult-to-produce-100-american-made-medical-gloves\nComments URL: https://news.ycombinator.com/item?id=48870258\nPoints: 31\n# Comments: 19",
+      "url": "https://www.bloomberg.com/news/features/2026-07-07/why-it-s-so-difficult-to-produce-100-american-made-medical-gloves"
     },
     {
       "category": "Science",
-      "title": "New sensors capture warning signs before fish deaths in Lake Victoria",
+      "title": " Does fast charging damage your battery more than regular charging? ",
+      "source": " Latest from Live Science ",
+      "date": "Sat, 11 Jul 2026 09:00:00 +0000",
+      "summary": "From phones to electric vehicles, some batteries take an hour to charge, while others can take up to half a day.",
+      "url": "https://www.livescience.com/technology/does-fast-charging-damage-your-battery-more-than-regular-charging"
+    },
+    {
+      "category": "Science",
+      "title": "Drought threatens irrigation in northern Italy",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Fri, 10 Jul 2026 18:20:01 EDT",
-      "summary": "Researchers from King's College London recorded the warning signs of a major low-oxygen event in Lake Victoria just hours before fish deaths were reported by local communities, demonstrating why earlier warning systems are urgently needed.",
-      "url": "https://phys.org/news/2026-07-sensors-capture-fish-deaths-lake.html"
+      "date": "Sat, 11 Jul 2026 04:20:01 EDT",
+      "summary": "Water reserves are being depleted rapidly in northern Italy, threatening farming as the region's main river dries up, local officials warned Friday.",
+      "url": "https://phys.org/news/2026-07-drought-threatens-irrigation-northern-italy.html"
+    },
+    {
+      "category": "Science",
+      "title": "Brutal heat wave forecast for western US this weekend",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sat, 11 Jul 2026 04:00:03 EDT",
+      "summary": "A \"widespread and significant\" heat wave is predicted to bring oppressive temperatures to drought-hit western U.S. states over the weekend, with all-time records at risk of falling, the National Weather Service said Friday.",
+      "url": "https://phys.org/news/2026-07-brutal-western-weekend.html"
+    },
+    {
+      "category": "Science",
+      "title": "Thousands shelter in Taiwan as typhoon lashes Japan islands",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sat, 11 Jul 2026 03:40:01 EDT",
+      "summary": "More than 14,000 people in Taiwan have fled their homes, and many shops remain closed, as a typhoon pounding Japan's remote southwestern islands swept toward China on Saturday.",
+      "url": "https://phys.org/news/2026-07-thousands-taiwan-typhoon-lashes-japan.html"
+    },
+    {
+      "category": "AI",
+      "title": "The vintage beauty of Soviet control rooms (2018)",
+      "source": "Hacker News: Front Page",
+      "date": "Sat, 11 Jul 2026 05:19:41 +0000",
+      "summary": "Article URL: https://designyoutrust.com/2018/01/vintage-beauty-soviet-control-rooms/\nComments URL: https://news.ycombinator.com/item?id=48868996\nPoints: 111\n# Comments: 36",
+      "url": "https://designyoutrust.com/2018/01/vintage-beauty-soviet-control-rooms/"
+    },
+    {
+      "category": "Space",
+      "title": " SpaceX Falcon 9 rocket launches for 35th time, hauls Starlink satellites to orbit (video) ",
+      "source": " Latest from Space.com ",
+      "date": "Sat, 11 Jul 2026 04:02:20 +0000",
+      "summary": "A SpaceX Falcon 9 rocket flew for the 35th time tonight (July 10), carrying 29 Starlink satellites to low Earth orbit.",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-rocket-35th-mission-starlink-launch"
+    },
+    {
+      "category": "Theology",
+      "title": "Recapitulation: What It Is and Why It Will Help You Endure",
+      "source": "The Gospel Coalition",
+      "date": "Sat, 11 Jul 2026 04:00:00 +0000",
+      "summary": "Our daily repetitions matter. ‘Agains’ are an invitation to remember what God has done and what God will do.",
+      "url": "https://www.thegospelcoalition.org/article/recapitulation-what-and-why/"
+    },
+    {
+      "category": "AI",
+      "title": "Quantum error correction can constantly recalibrate a processor",
+      "source": "Ars Technica - All content",
+      "date": "Fri, 10 Jul 2026 23:02:30 +0000",
+      "summary": "Reinforcement learning uses error information to adjust control algorithms.",
+      "url": "https://arstechnica.com/science/2026/07/quantum-error-correction-can-constantly-recalibrate-a-processor/"
+    },
+    {
+      "category": "AI",
+      "title": "Increased drone surveillance of illegal July 4th fireworks led to $100K fine",
+      "source": "Ars Technica - All content",
+      "date": "Fri, 10 Jul 2026 22:37:22 +0000",
+      "summary": "More police and firefighters use drones to catch and deter illegal fireworks.",
+      "url": "https://arstechnica.com/gadgets/2026/07/on-americas-250th-more-cities-used-drone-surveillance-to-spot-illegal-fireworks/"
     },
     {
       "category": "AI",
@@ -27,30 +115,6 @@
       "url": "https://arstechnica.com/space/2026/07/china-recovered-its-first-reusable-rocket-and-showed-a-new-way-to-do-it/"
     },
     {
-      "category": "Science",
-      "title": "Dark energy flips its sign, but the Hubble tension refuses to budge",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Fri, 10 Jul 2026 17:40:01 EDT",
-      "summary": "For nearly a century, astronomers have known that the universe is expanding. In the late 1990s, two independent teams, the Supernova Cosmology Project, led by Saul Perlmutter, and the High-Z Supernova Search Team, led by Brian Schmidt and Adam Riess, discovered something strange: The expansion is speeding up. The finding earned them the 2011 Nobel Prize in Physics. The leading explanation for this acceleration is \"dark energy,\" a mysterious force usually modeled as a constant called Lambda, pushing space apart. Combined with cold dark matter, this gives us the LCDM model, the standard picture of the cosmos for the past 25 years.",
-      "url": "https://phys.org/news/2026-07-dark-energy-flips-hubble-tension.html"
-    },
-    {
-      "category": "AI",
-      "title": "Moss (YC F25) Is Hiring",
-      "source": "Hacker News: Front Page",
-      "date": "Fri, 10 Jul 2026 21:11:18 +0000",
-      "summary": "Article URL: https://www.ycombinator.com/companies/moss/jobs/52LnqLQ-software-engineer-sdk\nComments URL: https://news.ycombinator.com/item?id=48865332\nPoints: 0\n# Comments: 0",
-      "url": "https://www.ycombinator.com/companies/moss/jobs/52LnqLQ-software-engineer-sdk"
-    },
-    {
-      "category": "AI",
-      "title": "Prismata: Confining cross-site prompt injection in web agents",
-      "source": "Hacker News: Front Page",
-      "date": "Fri, 10 Jul 2026 21:03:38 +0000",
-      "summary": "Article URL: https://arxiv.org/abs/2607.08147\nComments URL: https://news.ycombinator.com/item?id=48865238\nPoints: 9\n# Comments: 0",
-      "url": "https://arxiv.org/abs/2607.08147"
-    },
-    {
       "category": "Space",
       "title": " A ravenous black hole in our backyard could be our window into the ancient universe ",
       "source": " Latest from Space.com ",
@@ -59,28 +123,20 @@
       "url": "https://www.space.com/astronomy/black-holes/a-ravenous-black-hole-in-our-backyard-could-be-our-window-into-the-ancient-universe"
     },
     {
-      "category": "Science",
-      "title": "Children back group claims over evidence, but privacy reduces bias, experiments reveal",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Fri, 10 Jul 2026 16:20:02 EDT",
-      "summary": "As we move closer to Election Day 2026, voting preferences are moving back into focus—and with them, analyses of what drives partisanship at the polls. However, less frequently asked is when Americans show evidence of partisan behavior: shortly or well after reaching the legal voting age? As teenagers? In elementary school?",
-      "url": "https://phys.org/news/2026-07-children-group-evidence-privacy-bias.html"
+      "category": "Space",
+      "title": "Early Career Faculty (ECF) 2025 Awards",
+      "source": "NASA",
+      "date": "Fri, 10 Jul 2026 19:23:55 +0000",
+      "summary": "Back to ECF Home Advanced Diagnostics for High-Enthalpy Test Facilities Simulating Spacecraft Atmospheric Entry Planning for Autonomous Spacecraft Using Machine Learning Methods to Enable Onboard Guidance, Navigation, and Control",
+      "url": "https://www.nasa.gov/directorates/stmd/space-tech-research-grants/ecf/early-career-faculty-ecf-2025-awards/"
     },
     {
-      "category": "AI",
-      "title": "Check out the first images of Quest shipwreck",
-      "source": "Ars Technica - All content",
-      "date": "Fri, 10 Jul 2026 19:59:31 +0000",
-      "summary": "The Quest shipwreck is in worse shape than expected, but it has turned into a thriving marine ecosystem.",
-      "url": "https://arstechnica.com/science/2026/07/expedition-captures-first-images-of-shackletons-last-ship/"
-    },
-    {
-      "category": "AI",
-      "title": "Ransomware negotiator hired to represent victims was working for the attackers",
-      "source": "Ars Technica - All content",
-      "date": "Fri, 10 Jul 2026 19:40:11 +0000",
-      "summary": "Six years in prison for man who \"sold out the very victims he was hired to represent.\"",
-      "url": "https://arstechnica.com/tech-policy/2026/07/ransomware-negotiator-helped-attackers-extort-his-own-clients-gets-6-year-sentence/"
+      "category": "Space",
+      "title": "NASA Volunteers Help Zooniverse Reach 1 Billion Classifications",
+      "source": "NASA",
+      "date": "Fri, 10 Jul 2026 19:00:53 +0000",
+      "summary": "The Zooniverse, a NASA grantee that runs the world’s largest platform for online people-powered research, has reached an extraordinary milestone: 1 billion classifications contributed by volunteers around the world. This milestone is a celebration of everyone who has marked a dip in a light curve, confirmed the presence of a moving object in a short […]",
+      "url": "https://science.nasa.gov/get-involved/citizen-science/nasa-volunteers-help-zooniverse-reach-1-billion-classifications/"
     },
     {
       "category": "Science",
@@ -92,35 +148,11 @@
     },
     {
       "category": "Space",
-      "title": " Launching from 2 continents: Germany's Isar Aerospace leases Canadian pad for $150 million ",
-      "source": " Latest from Space.com ",
-      "date": "Fri, 10 Jul 2026 18:00:00 +0000",
-      "summary": "German company Isar Aerospace is expanding its operations overseas after signing an agreement with Canada's Maritime Launch Services for use of its Spaceport Nova Scotia.",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/launching-from-2-continents-germanys-isar-aerospace-leases-canadian-pad-for-usd150-million"
-    },
-    {
-      "category": "Science",
-      "title": " NASA is creating a fifth state of matter on the ISS, thanks to an upgrade to a mini-fridge-sized quantum lab ",
-      "source": " Latest from Live Science ",
-      "date": "Fri, 10 Jul 2026 16:37:31 +0000",
-      "summary": "A new set of upgrades to the International Space Station’s Cold Atom Laboratory is allowing NASA to probe quantum mechanics at the coldest possible temperatures while in zero gravity.",
-      "url": "https://www.livescience.com/physics-mathematics/quantum-physics/nasa-is-creating-a-fifth-state-of-matter-on-the-iss-thanks-to-an-upgrade-to-a-mini-fridge-sized-quantum-lab"
-    },
-    {
-      "category": "Space",
-      "title": " SpaceX ignites all 33 powerful engines on Starship booster ahead of Flight 13 launch ",
-      "source": " Latest from Space.com ",
-      "date": "Fri, 10 Jul 2026 16:13:48 +0000",
-      "summary": "SpaceX completed an engine test of the next Super Heavy booster slated to launch Starship's next mission, which could lift off as soon as next week.",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-ignites-all-33-powerful-engines-on-starship-booster-test-ahead-of-flight-13-test-launch"
-    },
-    {
-      "category": "Science",
-      "title": " New sodium metal battery design charges in just 4 minutes and retains its capacity for years ",
-      "source": " Latest from Live Science ",
-      "date": "Fri, 10 Jul 2026 13:00:00 +0000",
-      "summary": "Chinese researchers say they have overcome one of the trickiest problems of battery chemistry by developing a special gel.",
-      "url": "https://www.livescience.com/technology/engineering/new-sodium-metal-battery-design-charges-in-just-4-minutes-and-retains-its-capacity-for-years"
+      "title": "NASA Photographer Captures Images from F-18 Over Washington",
+      "source": "NASA",
+      "date": "Fri, 10 Jul 2026 16:36:14 +0000",
+      "summary": "NASA flight photographers capture history from a perspective few ever experience, getting a rare bird’s-eye view of the agency’s missions in action. Their photos document key NASA research and give the public a front-row seat to the work happening behind the scenes. Jim Ross, a photographer at NASA’s Armstrong Flight Research Center in Edwards, California, […]",
+      "url": "https://www.nasa.gov/image-article/nasa-photographer-captures-images-from-f-18-over-washington/"
     },
     {
       "category": "Science",
@@ -177,14 +209,6 @@
       "date": "Fri, 10 Jul 2026 04:02:00 +0000",
       "summary": "Ten recently published Bible study curricula for individuals or small groups.",
       "url": "https://www.thegospelcoalition.org/reviews/editors-picks-curricula-summer-2026/"
-    },
-    {
-      "category": "Theology",
-      "title": "We Need a Thicker View of God’s Love",
-      "source": "The Gospel Coalition",
-      "date": "Fri, 10 Jul 2026 04:00:00 +0000",
-      "summary": "All Christians would do well to have a much thicker account of the Christian life than we currently do.",
-      "url": "https://www.thegospelcoalition.org/article/thicker-view-gods-love/"
     },
     {
       "category": "Science",
