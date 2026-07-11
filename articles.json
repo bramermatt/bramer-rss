@@ -1,86 +1,126 @@
 {
-  "lastUpdated": "2026-07-11T10:57:40.600Z",
+  "lastUpdated": "2026-07-11T16:46:36.263Z",
   "articleCount": 39,
   "articles": [
     {
       "category": "Science",
-      "title": " Diagnostic dilemma: An 83-year-old man went to the hospital because of very itchy skin. It turned out he had a rare form of syphilis. ",
-      "source": " Latest from Live Science ",
-      "date": "Sat, 11 Jul 2026 10:00:00 +0000",
-      "summary": "A man went to the emergency room after being in and out of hospitals for a month, and doctors found a surprising explanation for his illness.",
-      "url": "https://www.livescience.com/health/viruses-infections-disease/diagnostic-dilemma-an-83-year-old-man-went-to-the-hospital-because-of-very-itchy-skin-it-turned-out-he-had-a-rare-form-of-syphilis"
+      "title": "Tiny worms reveal backup circuits that keep survival reflexes from failing",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sat, 11 Jul 2026 12:00:03 EDT",
+      "summary": "A research team led by Professor Chaogu Zheng from the School of Biological Sciences at the University of Hong Kong (HKU), in collaboration with scientists from Princeton University and Columbia University, has discovered how sensory-motor circuits—nerve circuits that turn sensory signals into reflex actions—remain reliable even when some genes or neural connections are disrupted.",
+      "url": "https://phys.org/news/2026-07-tiny-worms-reveal-backup-circuits.html"
     },
     {
       "category": "Space",
-      "title": " White House appoints Harvard astronomer Avi Loeb to lead new UFO study group ",
+      "title": " Your lost dog can now call home with the world's 1st satellite-connected dog collar ",
       "source": " Latest from Space.com ",
-      "date": "Sat, 11 Jul 2026 10:00:00 +0000",
-      "summary": "Harvard astrophysicist Avi Loeb has been appointed as the head of a new White House group to study UFOs, or unidentified anomalous phenomena, as they're now known.",
-      "url": "https://www.space.com/space-exploration/search-for-life/white-house-appoints-harvard-astronomer-avi-loeb-to-lead-new-ufo-study-group"
+      "date": "Sat, 11 Jul 2026 16:00:00 +0000",
+      "summary": "A new dog collar with GPS tracking enabled by SpaceX's Starlink direct-to-mobile network promises connectivity from almost anywhere.",
+      "url": "https://www.space.com/space-exploration/satellites/your-lost-dog-can-now-call-home-with-the-worlds-1st-satellite-connected-dog-collar"
     },
     {
       "category": "AI",
-      "title": "A font that humans can read but AI cannot",
+      "title": "Tropical forests facing increasing risks of exposure to critical temp thresholds",
       "source": "Hacker News: Front Page",
-      "date": "Sat, 11 Jul 2026 09:36:53 +0000",
-      "summary": "Article URL: https://www.mixfont.com/ghost-font\nComments URL: https://news.ycombinator.com/item?id=48870381\nPoints: 35\n# Comments: 22",
-      "url": "https://www.mixfont.com/ghost-font"
+      "date": "Sat, 11 Jul 2026 15:38:46 +0000",
+      "summary": "Article URL: https://www.pnas.org/doi/10.1073/pnas.2528622123\nComments URL: https://news.ycombinator.com/item?id=48872973\nPoints: 11\n# Comments: 0",
+      "url": "https://www.pnas.org/doi/10.1073/pnas.2528622123"
+    },
+    {
+      "category": "Science",
+      "title": "Could permanent magnets protect astronauts from solar storms?",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sat, 11 Jul 2026 11:30:01 EDT",
+      "summary": "Shielding astronauts from the deadly radiation they face is a central challenge for any designer of a deep-space crewed mission. Even relatively low levels of exposure over long periods can lead to everything from central nervous system damage to cancer. But current solutions, such as passive water shells or active superconducting magnets, have their own limitations. To get around those, a new paper, available in preprint on arXiv by Valerio Parisi and a team of researchers from Italy and Germany, looks at the feasibility of using a permanent magnet (and its associated permanent magnetic field) to potentially block some of that radiation without the costs of competing technologies.",
+      "url": "https://phys.org/news/2026-07-permanent-magnets-astronauts-solar-storms.html"
     },
     {
       "category": "AI",
-      "title": "Almost $1B Later, the US Still Can't Make a Medical Glove",
+      "title": "We scaled PgBouncer to 4x throughput",
       "source": "Hacker News: Front Page",
-      "date": "Sat, 11 Jul 2026 09:16:10 +0000",
-      "summary": "Article URL: https://www.bloomberg.com/news/features/2026-07-07/why-it-s-so-difficult-to-produce-100-american-made-medical-gloves\nComments URL: https://news.ycombinator.com/item?id=48870258\nPoints: 31\n# Comments: 19",
-      "url": "https://www.bloomberg.com/news/features/2026-07-07/why-it-s-so-difficult-to-produce-100-american-made-medical-gloves"
-    },
-    {
-      "category": "Science",
-      "title": " Does fast charging damage your battery more than regular charging? ",
-      "source": " Latest from Live Science ",
-      "date": "Sat, 11 Jul 2026 09:00:00 +0000",
-      "summary": "From phones to electric vehicles, some batteries take an hour to charge, while others can take up to half a day.",
-      "url": "https://www.livescience.com/technology/does-fast-charging-damage-your-battery-more-than-regular-charging"
-    },
-    {
-      "category": "Science",
-      "title": "Drought threatens irrigation in northern Italy",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sat, 11 Jul 2026 04:20:01 EDT",
-      "summary": "Water reserves are being depleted rapidly in northern Italy, threatening farming as the region's main river dries up, local officials warned Friday.",
-      "url": "https://phys.org/news/2026-07-drought-threatens-irrigation-northern-italy.html"
-    },
-    {
-      "category": "Science",
-      "title": "Brutal heat wave forecast for western US this weekend",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sat, 11 Jul 2026 04:00:03 EDT",
-      "summary": "A \"widespread and significant\" heat wave is predicted to bring oppressive temperatures to drought-hit western U.S. states over the weekend, with all-time records at risk of falling, the National Weather Service said Friday.",
-      "url": "https://phys.org/news/2026-07-brutal-western-weekend.html"
-    },
-    {
-      "category": "Science",
-      "title": "Thousands shelter in Taiwan as typhoon lashes Japan islands",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sat, 11 Jul 2026 03:40:01 EDT",
-      "summary": "More than 14,000 people in Taiwan have fled their homes, and many shops remain closed, as a typhoon pounding Japan's remote southwestern islands swept toward China on Saturday.",
-      "url": "https://phys.org/news/2026-07-thousands-taiwan-typhoon-lashes-japan.html"
+      "date": "Sat, 11 Jul 2026 15:28:02 +0000",
+      "summary": "Article URL: https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres\nComments URL: https://news.ycombinator.com/item?id=48872874\nPoints: 55\n# Comments: 4",
+      "url": "https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres"
     },
     {
       "category": "AI",
-      "title": "The vintage beauty of Soviet control rooms (2018)",
+      "title": "The early History of the Singular Value Decomposition (1993) [pdf]",
       "source": "Hacker News: Front Page",
-      "date": "Sat, 11 Jul 2026 05:19:41 +0000",
-      "summary": "Article URL: https://designyoutrust.com/2018/01/vintage-beauty-soviet-control-rooms/\nComments URL: https://news.ycombinator.com/item?id=48868996\nPoints: 111\n# Comments: 36",
-      "url": "https://designyoutrust.com/2018/01/vintage-beauty-soviet-control-rooms/"
+      "date": "Sat, 11 Jul 2026 15:26:12 +0000",
+      "summary": "Article URL: https://www.math.ucdavis.edu/~saito/courses/229A/stewart-svd.pdf\nComments URL: https://news.ycombinator.com/item?id=48872858\nPoints: 16\n# Comments: 0",
+      "url": "https://www.math.ucdavis.edu/~saito/courses/229A/stewart-svd.pdf"
     },
     {
       "category": "Space",
-      "title": " SpaceX Falcon 9 rocket launches for 35th time, hauls Starlink satellites to orbit (video) ",
+      "title": " This Week In Space podcast: Episode 218 — Which Way to the Moonbase? ",
       "source": " Latest from Space.com ",
-      "date": "Sat, 11 Jul 2026 04:02:20 +0000",
-      "summary": "A SpaceX Falcon 9 rocket flew for the 35th time tonight (July 10), carrying 29 Starlink satellites to low Earth orbit.",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-rocket-35th-mission-starlink-launch"
+      "date": "Sat, 11 Jul 2026 15:20:59 +0000",
+      "summary": "On Episode 218 of This Week In Space, Rod Pyle and Tariq Malik discuss NASA's new moonbase plans with planetary scientist Dr. Pascal Lee.",
+      "url": "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-218-which-way-to-the-moonbase"
+    },
+    {
+      "category": "Science",
+      "title": "X-ray tracking reveals uneven expansion in young supernova remnant G292.0+1.8",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sat, 11 Jul 2026 11:00:02 EDT",
+      "summary": "By analyzing data from NASA's Chandra X-ray Observatory, Dutch astronomers have investigated a young, oxygen-rich supernova remnant known as G292.0+1.8. Results of the new study, published June 29 on the arXiv preprint server, yield important insights into the expansion of this remnant.",
+      "url": "https://phys.org/news/2026-07-ray-tracking-reveals-uneven-expansion.html"
+    },
+    {
+      "category": "Science",
+      "title": " Tropical forests stop absorbing carbon dioxide during El Niño events. This year could be the worst. ",
+      "source": " Latest from Live Science ",
+      "date": "Sat, 11 Jul 2026 15:00:00 +0000",
+      "summary": "El Niño transforms tropical forests from carbon sinks to sources. 2026 could be the worst year yet.",
+      "url": "https://www.livescience.com/planet-earth/climate-change/tropical-forests-stop-absorbing-carbon-dioxide-during-el-nino-events-this-year-could-be-the-worst"
+    },
+    {
+      "category": "Space",
+      "title": " Sci-fi action movies were better in the '90s. 'Independence Day' is full of reasons why ",
+      "source": " Latest from Space.com ",
+      "date": "Sat, 11 Jul 2026 15:00:00 +0000",
+      "summary": "Superheroes and franchises haven't always ruled the multiplex…",
+      "url": "https://www.space.com/entertainment/space-movies-shows/sci-fi-action-movies-were-better-in-the-90s-independence-day-is-full-of-reasons-why"
+    },
+    {
+      "category": "Science",
+      "title": " 'Some people called it horrifying': 'Dinner with King Tut' author on using Egyptian mummification techniques on a modern-day human body ",
+      "source": " Latest from Live Science ",
+      "date": "Sat, 11 Jul 2026 14:00:00 +0000",
+      "summary": "\"A lot of the book was actually me floundering around, failing to complete the projects or figuring out what I was doing wrong,\" author Sam Kean says about his experimental archaeology adventures.",
+      "url": "https://www.livescience.com/archaeology/some-people-called-it-horrifying-dinner-with-king-tut-author-on-using-egyptian-mummification-techniques-on-a-modern-day-human-body"
+    },
+    {
+      "category": "Science",
+      "title": " 'He looked like Ramses the Great': How experimental archaeologists used ancient techniques to mummify a modern-day person ",
+      "source": " Latest from Live Science ",
+      "date": "Sat, 11 Jul 2026 14:00:00 +0000",
+      "summary": "In his new book, \"Dinner with King Tut: How Rogue Archaeologists Are Re-creating the Sights, Sounds, Smells, and Tastes of Lost Civilizations,\" science writer Sam Kean explains the odd and intriguing world of experimental archaeologists.",
+      "url": "https://www.livescience.com/archaeology/ancient-egyptians/he-looked-like-ramses-the-great-how-experimental-archaeologists-used-ancient-techniques-to-mummify-a-modern-day-person"
+    },
+    {
+      "category": "Science",
+      "title": "Scientists warn invasive Asian mantises are threatening Europe's wildlife",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Sat, 11 Jul 2026 08:53:55 EDT",
+      "summary": "Two striking Asian praying mantis species that have rapidly spread across Europe have now been officially classified as invasive, raising new concerns about their impact on native wildlife. Boosted by climate change and urban environments, these fast-breeding predators are expanding northward, where they prey on native insects, pollinators, and even small vertebrates while also reducing native mantis populations through deadly mating interactions.",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260710003540.htm"
+    },
+    {
+      "category": "AI",
+      "title": "A Jupiter-size planet that escaped its star's death",
+      "source": "Ars Technica - All content",
+      "date": "Sat, 11 Jul 2026 12:00:58 +0000",
+      "summary": "It's unclear how the planet avoided its star's bloated red giant stage.",
+      "url": "https://arstechnica.com/science/2026/07/a-jupiter-size-planet-that-escaped-its-stars-death/"
+    },
+    {
+      "category": "AI",
+      "title": "Overhaul of public lands grazing regulations seeks to cut public involvement",
+      "source": "Ars Technica - All content",
+      "date": "Sat, 11 Jul 2026 11:11:26 +0000",
+      "summary": "For the first time since 1995, the Bureau of Land Management is rewriting its grazing regulations.",
+      "url": "https://arstechnica.com/tech-policy/2026/07/overhaul-of-public-lands-grazing-regulations-seeks-to-cut-public-involvement/"
     },
     {
       "category": "Theology",
@@ -99,30 +139,6 @@
       "url": "https://arstechnica.com/science/2026/07/quantum-error-correction-can-constantly-recalibrate-a-processor/"
     },
     {
-      "category": "AI",
-      "title": "Increased drone surveillance of illegal July 4th fireworks led to $100K fine",
-      "source": "Ars Technica - All content",
-      "date": "Fri, 10 Jul 2026 22:37:22 +0000",
-      "summary": "More police and firefighters use drones to catch and deter illegal fireworks.",
-      "url": "https://arstechnica.com/gadgets/2026/07/on-americas-250th-more-cities-used-drone-surveillance-to-spot-illegal-fireworks/"
-    },
-    {
-      "category": "AI",
-      "title": "China recovered its first reusable rocket and showed a new way to do it",
-      "source": "Ars Technica - All content",
-      "date": "Fri, 10 Jul 2026 21:41:43 +0000",
-      "summary": "\"Clearly, they admire the work that's being done by SpaceX and are trying to replicate it.\"",
-      "url": "https://arstechnica.com/space/2026/07/china-recovered-its-first-reusable-rocket-and-showed-a-new-way-to-do-it/"
-    },
-    {
-      "category": "Space",
-      "title": " A ravenous black hole in our backyard could be our window into the ancient universe ",
-      "source": " Latest from Space.com ",
-      "date": "Fri, 10 Jul 2026 21:00:00 +0000",
-      "summary": "A feeding black hole at the heart of a nearby galaxy is behaving similarly to cosmic titans that existed just after the Big Bang.",
-      "url": "https://www.space.com/astronomy/black-holes/a-ravenous-black-hole-in-our-backyard-could-be-our-window-into-the-ancient-universe"
-    },
-    {
       "category": "Space",
       "title": "Early Career Faculty (ECF) 2025 Awards",
       "source": "NASA",
@@ -139,28 +155,12 @@
       "url": "https://science.nasa.gov/get-involved/citizen-science/nasa-volunteers-help-zooniverse-reach-1-billion-classifications/"
     },
     {
-      "category": "Science",
-      "title": " Medieval babies and adults buried together in Sweden were not related, archaeologists discover — raising big questions about early Christian burial practices ",
-      "source": " Latest from Live Science ",
-      "date": "Fri, 10 Jul 2026 18:57:14 +0000",
-      "summary": "In an unexpected discovery, researchers found that three medieval Swedish cemeteries held children buried with unrelated adults.",
-      "url": "https://www.livescience.com/archaeology/medieval-babies-and-adults-buried-together-in-sweden-were-not-related-archaeologists-discover-raising-big-questions-about-early-christian-burial-practices"
-    },
-    {
       "category": "Space",
       "title": "NASA Photographer Captures Images from F-18 Over Washington",
       "source": "NASA",
       "date": "Fri, 10 Jul 2026 16:36:14 +0000",
       "summary": "NASA flight photographers capture history from a perspective few ever experience, getting a rare bird’s-eye view of the agency’s missions in action. Their photos document key NASA research and give the public a front-row seat to the work happening behind the scenes. Jim Ross, a photographer at NASA’s Armstrong Flight Research Center in Edwards, California, […]",
       "url": "https://www.nasa.gov/image-article/nasa-photographer-captures-images-from-f-18-over-washington/"
-    },
-    {
-      "category": "Science",
-      "title": "Europe's most active volcano may have a secret origin",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Fri, 10 Jul 2026 07:16:59 EDT",
-      "summary": "Mount Etna has long puzzled geologists because it doesn't fit any of the three classic ways volcanoes are thought to form. A new study suggests it may instead be fueled by ancient pockets of magma that are pushed upward through cracks created by shifting tectonic plates. If confirmed, Etna could belong to a rare fourth category of volcano, revealing that much larger volcanoes can form through processes previously associated only with small submarine eruptions.",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260709160653.htm"
     },
     {
       "category": "Biblical Studies",
