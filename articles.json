@@ -1,14 +1,54 @@
 {
-  "lastUpdated": "2026-07-11T16:46:36.263Z",
-  "articleCount": 39,
+  "lastUpdated": "2026-07-11T22:40:01.273Z",
+  "articleCount": 36,
   "articles": [
     {
       "category": "Science",
-      "title": "Tiny worms reveal backup circuits that keep survival reflexes from failing",
+      "title": "Secure glass containers for storing chemical waste through laser welding",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Sat, 11 Jul 2026 12:00:03 EDT",
-      "summary": "A research team led by Professor Chaogu Zheng from the School of Biological Sciences at the University of Hong Kong (HKU), in collaboration with scientists from Princeton University and Columbia University, has discovered how sensory-motor circuits—nerve circuits that turn sensory signals into reflex actions—remain reliable even when some genes or neural connections are disrupted.",
-      "url": "https://phys.org/news/2026-07-tiny-worms-reveal-backup-circuits.html"
+      "date": "Sat, 11 Jul 2026 18:00:03 EDT",
+      "summary": "As the adoption of electric vehicles continues to grow, so does the need for the safe and permanent storage of battery materials and industrial chemical waste. Certain waste streams require disposal in what are known as Category IV landfills, which impose particularly stringent requirements on storage containers. These must simultaneously ensure environmental protection, safe handling and long-term structural integrity.",
+      "url": "https://phys.org/news/2026-07-glass-chemical-laser-welding.html"
+    },
+    {
+      "category": "Science",
+      "title": "Synthetic rotation brings black hole energy theory into lab, amplifying waves",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sat, 11 Jul 2026 17:00:06 EDT",
+      "summary": "More than half a century ago, Sir Roger Penrose envisioned a scenario in which energy could be extracted from a black hole spinning at extreme speeds. He proposed that a particle entering its ergosphere—a region of space dragged around by a rotating black hole—could split into two. One part could fall into the black hole while the other escaped carrying more energy than the original particle. Building on this theory, physicist Yakov Zel'dovich later predicted that a wave interacting with a sufficiently fast, rotating object could extract energy from it and become amplified.",
+      "url": "https://phys.org/news/2026-07-synthetic-rotation-black-hole-energy.html"
+    },
+    {
+      "category": "Science",
+      "title": "The Vikings were more than bearded marauders, but Scandinavia's national museums continue to project that image",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sat, 11 Jul 2026 17:00:04 EDT",
+      "summary": "If you visit Scandinavia, you are likely to find yourself at an exhibition about Vikings. There are many to choose from.",
+      "url": "https://phys.org/news/2026-07-vikings-bearded-marauders-scandinavia-national.html"
+    },
+    {
+      "category": "AI",
+      "title": "I used to love Claude, but the latest models are slowly ruining it",
+      "source": "Hacker News: Front Page",
+      "date": "Sat, 11 Jul 2026 20:21:25 +0000",
+      "summary": "Article URL: https://www.androidauthority.com/claude-latest-models-pushback-bad-3683521/\nComments URL: https://news.ycombinator.com/item?id=48875494\nPoints: 22\n# Comments: 25",
+      "url": "https://www.androidauthority.com/claude-latest-models-pushback-bad-3683521/"
+    },
+    {
+      "category": "AI",
+      "title": "Show HN: Ant – A JavaScript runtime and ecosystem",
+      "source": "Hacker News: Front Page",
+      "date": "Sat, 11 Jul 2026 20:07:18 +0000",
+      "summary": "Hello HN!\nI'm the author of Ant, a JavaScript ecosystem built around a runtime with its own JavaScript engine. Ant also includes a package manager, the ants.land package registry, a platform for deploying and hosting applications, and Ant Desktop for building native desktop apps with web technologies, similar to Electron.\nThe goal is for these pieces to work as one coherent platform while remaining compatible with the wider JavaScript ecosystem. It's still early, and I'd appreciate any feedback on the overall direction or what you'd like to see from an e2e alternative to the existing JavaScript stacks.\nP.S. I’ve shared Ant here before as a runtime; since then, it has grown into the broader ecosystem you see today.\nComments URL: https://news.ycombinator.com/item?id=48875377\nPoints: 119\n# Comments: 48",
+      "url": "https://antjs.org"
+    },
+    {
+      "category": "AI",
+      "title": "The Chinese Voice Actor Forced to Prove He's Human",
+      "source": "Hacker News: Front Page",
+      "date": "Sat, 11 Jul 2026 19:46:00 +0000",
+      "summary": "Article URL: https://www.sixthtone.com/news/1018753\nComments URL: https://news.ycombinator.com/item?id=48875153\nPoints: 41\n# Comments: 7",
+      "url": "https://www.sixthtone.com/news/1018753"
     },
     {
       "category": "Space",
@@ -19,52 +59,12 @@
       "url": "https://www.space.com/space-exploration/satellites/your-lost-dog-can-now-call-home-with-the-worlds-1st-satellite-connected-dog-collar"
     },
     {
-      "category": "AI",
-      "title": "Tropical forests facing increasing risks of exposure to critical temp thresholds",
-      "source": "Hacker News: Front Page",
-      "date": "Sat, 11 Jul 2026 15:38:46 +0000",
-      "summary": "Article URL: https://www.pnas.org/doi/10.1073/pnas.2528622123\nComments URL: https://news.ycombinator.com/item?id=48872973\nPoints: 11\n# Comments: 0",
-      "url": "https://www.pnas.org/doi/10.1073/pnas.2528622123"
-    },
-    {
-      "category": "Science",
-      "title": "Could permanent magnets protect astronauts from solar storms?",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sat, 11 Jul 2026 11:30:01 EDT",
-      "summary": "Shielding astronauts from the deadly radiation they face is a central challenge for any designer of a deep-space crewed mission. Even relatively low levels of exposure over long periods can lead to everything from central nervous system damage to cancer. But current solutions, such as passive water shells or active superconducting magnets, have their own limitations. To get around those, a new paper, available in preprint on arXiv by Valerio Parisi and a team of researchers from Italy and Germany, looks at the feasibility of using a permanent magnet (and its associated permanent magnetic field) to potentially block some of that radiation without the costs of competing technologies.",
-      "url": "https://phys.org/news/2026-07-permanent-magnets-astronauts-solar-storms.html"
-    },
-    {
-      "category": "AI",
-      "title": "We scaled PgBouncer to 4x throughput",
-      "source": "Hacker News: Front Page",
-      "date": "Sat, 11 Jul 2026 15:28:02 +0000",
-      "summary": "Article URL: https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres\nComments URL: https://news.ycombinator.com/item?id=48872874\nPoints: 55\n# Comments: 4",
-      "url": "https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres"
-    },
-    {
-      "category": "AI",
-      "title": "The early History of the Singular Value Decomposition (1993) [pdf]",
-      "source": "Hacker News: Front Page",
-      "date": "Sat, 11 Jul 2026 15:26:12 +0000",
-      "summary": "Article URL: https://www.math.ucdavis.edu/~saito/courses/229A/stewart-svd.pdf\nComments URL: https://news.ycombinator.com/item?id=48872858\nPoints: 16\n# Comments: 0",
-      "url": "https://www.math.ucdavis.edu/~saito/courses/229A/stewart-svd.pdf"
-    },
-    {
       "category": "Space",
       "title": " This Week In Space podcast: Episode 218 — Which Way to the Moonbase? ",
       "source": " Latest from Space.com ",
       "date": "Sat, 11 Jul 2026 15:20:59 +0000",
       "summary": "On Episode 218 of This Week In Space, Rod Pyle and Tariq Malik discuss NASA's new moonbase plans with planetary scientist Dr. Pascal Lee.",
       "url": "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-218-which-way-to-the-moonbase"
-    },
-    {
-      "category": "Science",
-      "title": "X-ray tracking reveals uneven expansion in young supernova remnant G292.0+1.8",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sat, 11 Jul 2026 11:00:02 EDT",
-      "summary": "By analyzing data from NASA's Chandra X-ray Observatory, Dutch astronomers have investigated a young, oxygen-rich supernova remnant known as G292.0+1.8. Results of the new study, published June 29 on the arXiv preprint server, yield important insights into the expansion of this remnant.",
-      "url": "https://phys.org/news/2026-07-ray-tracking-reveals-uneven-expansion.html"
     },
     {
       "category": "Science",
@@ -137,30 +137,6 @@
       "date": "Fri, 10 Jul 2026 23:02:30 +0000",
       "summary": "Reinforcement learning uses error information to adjust control algorithms.",
       "url": "https://arstechnica.com/science/2026/07/quantum-error-correction-can-constantly-recalibrate-a-processor/"
-    },
-    {
-      "category": "Space",
-      "title": "Early Career Faculty (ECF) 2025 Awards",
-      "source": "NASA",
-      "date": "Fri, 10 Jul 2026 19:23:55 +0000",
-      "summary": "Back to ECF Home Advanced Diagnostics for High-Enthalpy Test Facilities Simulating Spacecraft Atmospheric Entry Planning for Autonomous Spacecraft Using Machine Learning Methods to Enable Onboard Guidance, Navigation, and Control",
-      "url": "https://www.nasa.gov/directorates/stmd/space-tech-research-grants/ecf/early-career-faculty-ecf-2025-awards/"
-    },
-    {
-      "category": "Space",
-      "title": "NASA Volunteers Help Zooniverse Reach 1 Billion Classifications",
-      "source": "NASA",
-      "date": "Fri, 10 Jul 2026 19:00:53 +0000",
-      "summary": "The Zooniverse, a NASA grantee that runs the world’s largest platform for online people-powered research, has reached an extraordinary milestone: 1 billion classifications contributed by volunteers around the world. This milestone is a celebration of everyone who has marked a dip in a light curve, confirmed the presence of a moving object in a short […]",
-      "url": "https://science.nasa.gov/get-involved/citizen-science/nasa-volunteers-help-zooniverse-reach-1-billion-classifications/"
-    },
-    {
-      "category": "Space",
-      "title": "NASA Photographer Captures Images from F-18 Over Washington",
-      "source": "NASA",
-      "date": "Fri, 10 Jul 2026 16:36:14 +0000",
-      "summary": "NASA flight photographers capture history from a perspective few ever experience, getting a rare bird’s-eye view of the agency’s missions in action. Their photos document key NASA research and give the public a front-row seat to the work happening behind the scenes. Jim Ross, a photographer at NASA’s Armstrong Flight Research Center in Edwards, California, […]",
-      "url": "https://www.nasa.gov/image-article/nasa-photographer-captures-images-from-f-18-over-washington/"
     },
     {
       "category": "Biblical Studies",
