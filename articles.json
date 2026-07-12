@@ -1,54 +1,94 @@
 {
-  "lastUpdated": "2026-07-11T22:40:01.273Z",
-  "articleCount": 36,
+  "lastUpdated": "2026-07-12T11:06:16.902Z",
+  "articleCount": 39,
   "articles": [
     {
-      "category": "Science",
-      "title": "Secure glass containers for storing chemical waste through laser welding",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sat, 11 Jul 2026 18:00:03 EDT",
-      "summary": "As the adoption of electric vehicles continues to grow, so does the need for the safe and permanent storage of battery materials and industrial chemical waste. Certain waste streams require disposal in what are known as Category IV landfills, which impose particularly stringent requirements on storage containers. These must simultaneously ensure environmental protection, safe handling and long-term structural integrity.",
-      "url": "https://phys.org/news/2026-07-glass-chemical-laser-welding.html"
-    },
-    {
-      "category": "Science",
-      "title": "Synthetic rotation brings black hole energy theory into lab, amplifying waves",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sat, 11 Jul 2026 17:00:06 EDT",
-      "summary": "More than half a century ago, Sir Roger Penrose envisioned a scenario in which energy could be extracted from a black hole spinning at extreme speeds. He proposed that a particle entering its ergosphere—a region of space dragged around by a rotating black hole—could split into two. One part could fall into the black hole while the other escaped carrying more energy than the original particle. Building on this theory, physicist Yakov Zel'dovich later predicted that a wave interacting with a sufficiently fast, rotating object could extract energy from it and become amplified.",
-      "url": "https://phys.org/news/2026-07-synthetic-rotation-black-hole-energy.html"
-    },
-    {
-      "category": "Science",
-      "title": "The Vikings were more than bearded marauders, but Scandinavia's national museums continue to project that image",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sat, 11 Jul 2026 17:00:04 EDT",
-      "summary": "If you visit Scandinavia, you are likely to find yourself at an exhibition about Vikings. There are many to choose from.",
-      "url": "https://phys.org/news/2026-07-vikings-bearded-marauders-scandinavia-national.html"
+      "category": "AI",
+      "title": "Datacentres drive up big tech's carbon emissions to a third of those of France",
+      "source": "Hacker News: Front Page",
+      "date": "Sun, 12 Jul 2026 10:23:25 +0000",
+      "summary": "Article URL: https://www.theguardian.com/us-news/2026/jul/11/microsoft-amazon-google-datacentre-carbon-emissions-france\nComments URL: https://news.ycombinator.com/item?id=48879950\nPoints: 3\n# Comments: 0",
+      "url": "https://www.theguardian.com/us-news/2026/jul/11/microsoft-amazon-google-datacentre-carbon-emissions-france"
     },
     {
       "category": "AI",
-      "title": "I used to love Claude, but the latest models are slowly ruining it",
+      "title": "Oh dear, did someone steal something from Apple?",
       "source": "Hacker News: Front Page",
-      "date": "Sat, 11 Jul 2026 20:21:25 +0000",
-      "summary": "Article URL: https://www.androidauthority.com/claude-latest-models-pushback-bad-3683521/\nComments URL: https://news.ycombinator.com/item?id=48875494\nPoints: 22\n# Comments: 25",
-      "url": "https://www.androidauthority.com/claude-latest-models-pushback-bad-3683521/"
+      "date": "Sun, 12 Jul 2026 10:18:01 +0000",
+      "summary": "Article URL: https://www.businessinsider.com/apple-openai-trade-secrets-masimo-a123-jony-ive-2026-7\nComments URL: https://news.ycombinator.com/item?id=48879920\nPoints: 3\n# Comments: 0",
+      "url": "https://www.businessinsider.com/apple-openai-trade-secrets-masimo-a123-jony-ive-2026-7"
     },
     {
       "category": "AI",
-      "title": "Show HN: Ant – A JavaScript runtime and ecosystem",
+      "title": "Death of the Status Update: Why 55% of Americans Stopped Posting on Social Media",
       "source": "Hacker News: Front Page",
-      "date": "Sat, 11 Jul 2026 20:07:18 +0000",
-      "summary": "Hello HN!\nI'm the author of Ant, a JavaScript ecosystem built around a runtime with its own JavaScript engine. Ant also includes a package manager, the ants.land package registry, a platform for deploying and hosting applications, and Ant Desktop for building native desktop apps with web technologies, similar to Electron.\nThe goal is for these pieces to work as one coherent platform while remaining compatible with the wider JavaScript ecosystem. It's still early, and I'd appreciate any feedback on the overall direction or what you'd like to see from an e2e alternative to the existing JavaScript stacks.\nP.S. I’ve shared Ant here before as a runtime; since then, it has grown into the broader ecosystem you see today.\nComments URL: https://news.ycombinator.com/item?id=48875377\nPoints: 119\n# Comments: 48",
-      "url": "https://antjs.org"
+      "date": "Sun, 12 Jul 2026 10:14:40 +0000",
+      "summary": "Article URL: https://ca.pcmag.com/social-media/16790/the-death-of-the-status-update-why-55-of-americans-stopped-posting-on-social-media\nComments URL: https://news.ycombinator.com/item?id=48879902\nPoints: 3\n# Comments: 1",
+      "url": "https://ca.pcmag.com/social-media/16790/the-death-of-the-status-update-why-55-of-americans-stopped-posting-on-social-media"
     },
     {
-      "category": "AI",
-      "title": "The Chinese Voice Actor Forced to Prove He's Human",
-      "source": "Hacker News: Front Page",
-      "date": "Sat, 11 Jul 2026 19:46:00 +0000",
-      "summary": "Article URL: https://www.sixthtone.com/news/1018753\nComments URL: https://news.ycombinator.com/item?id=48875153\nPoints: 41\n# Comments: 7",
-      "url": "https://www.sixthtone.com/news/1018753"
+      "category": "Science",
+      "title": " James Webb telescope captures never-before-seen glimpse of 'Centaur' galaxy's battle wounds — Space photo of the week ",
+      "source": " Latest from Live Science ",
+      "date": "Sun, 12 Jul 2026 10:00:00 +0000",
+      "summary": "An JWST image of the nearby Centaurus A galaxy reveals star dust, collision scars and the fingerprint of a black hole.",
+      "url": "https://www.livescience.com/space/astronomy/james-webb-telescope-captures-never-before-seen-glimpse-of-centaur-galaxys-battle-wounds-space-photo-of-the-week"
+    },
+    {
+      "category": "Space",
+      "title": " 1 month until the total solar eclipse 2026 — Here's what you need to know ",
+      "source": " Latest from Space.com ",
+      "date": "Sun, 12 Jul 2026 10:00:00 +0000",
+      "summary": "The countdown is on! It's not too late to plan your trip for the total solar eclipse 2026.",
+      "url": "https://www.space.com/stargazing/solar-eclipses/1-month-until-the-total-solar-eclipse-2026-heres-what-you-need-to-know"
+    },
+    {
+      "category": "Science",
+      "title": " Was Einstein wrong about anything? ",
+      "source": " Latest from Live Science ",
+      "date": "Sun, 12 Jul 2026 09:00:00 +0000",
+      "summary": "Albert Einstein is regarded as a genius, but even he admitted that his work wasn't perfect. So what did he get wrong?",
+      "url": "https://www.livescience.com/physics-mathematics/was-einstein-wrong-about-anything"
+    },
+    {
+      "category": "Science",
+      "title": "Firefighters gain upper hand on deadly Spain wildfire",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sun, 12 Jul 2026 04:30:01 EDT",
+      "summary": "Firefighters battling a wildfire in southern Spain that killed 12 people began to contain the blaze Saturday as the hardest-hit village remained deserted, with charred vegetation and blackened homes a grim reminder of the inferno that sent terrified people fleeing their homes.",
+      "url": "https://phys.org/news/2026-07-firefighters-gain-upper-deadly-spain.html"
+    },
+    {
+      "category": "Science",
+      "title": "Typhoon makes landfall in China, downgraded to severe tropical storm",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sun, 12 Jul 2026 04:10:02 EDT",
+      "summary": "Typhoon Bavi was downgraded to a severe tropical storm Sunday after making landfall in eastern China, where authorities had evacuated nearly 2 million people in its path.",
+      "url": "https://phys.org/news/2026-07-typhoon-landfall-china-downgraded-severe.html"
+    },
+    {
+      "category": "Science",
+      "title": "In Sicily, drones at work to predict volcanic eruptions",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sun, 12 Jul 2026 04:00:03 EDT",
+      "summary": "Hovering over the volcano, a buzzing drone pauses in front of a laser beam on the crater's edge as researchers test whether the devices can measure gases to predict eruptions.",
+      "url": "https://phys.org/news/2026-07-sicily-drones-volcanic-eruptions.html"
+    },
+    {
+      "category": "Theology",
+      "title": "Don’t Overlook Hell’s Evangelistic Appeal",
+      "source": "The Gospel Coalition",
+      "date": "Sun, 12 Jul 2026 04:00:00 +0000",
+      "summary": "Humanity was created good, but we currently live in a fallen world. We shouldn’t be surprised when bad people do bad things.",
+      "url": "https://www.thegospelcoalition.org/article/hell-evangelistic-appeal/"
+    },
+    {
+      "category": "Science",
+      "title": "Why gold never tarnishes has finally been explained",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Sat, 11 Jul 2026 22:36:05 EDT",
+      "summary": "Gold may have a secret self-defense system that helps it resist tarnishing. Researchers discovered that atoms on gold surfaces reorganize themselves into patterns that block oxygen from reacting with the metal, suppressing oxidation by up to a trillion-fold. Beyond explaining why gold jewelry stays bright for generations, the finding could help scientists create more powerful gold-based catalysts for manufacturing and clean energy.",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260710003511.htm"
     },
     {
       "category": "Space",
@@ -73,30 +113,6 @@
       "date": "Sat, 11 Jul 2026 15:00:00 +0000",
       "summary": "El Niño transforms tropical forests from carbon sinks to sources. 2026 could be the worst year yet.",
       "url": "https://www.livescience.com/planet-earth/climate-change/tropical-forests-stop-absorbing-carbon-dioxide-during-el-nino-events-this-year-could-be-the-worst"
-    },
-    {
-      "category": "Space",
-      "title": " Sci-fi action movies were better in the '90s. 'Independence Day' is full of reasons why ",
-      "source": " Latest from Space.com ",
-      "date": "Sat, 11 Jul 2026 15:00:00 +0000",
-      "summary": "Superheroes and franchises haven't always ruled the multiplex…",
-      "url": "https://www.space.com/entertainment/space-movies-shows/sci-fi-action-movies-were-better-in-the-90s-independence-day-is-full-of-reasons-why"
-    },
-    {
-      "category": "Science",
-      "title": " 'Some people called it horrifying': 'Dinner with King Tut' author on using Egyptian mummification techniques on a modern-day human body ",
-      "source": " Latest from Live Science ",
-      "date": "Sat, 11 Jul 2026 14:00:00 +0000",
-      "summary": "\"A lot of the book was actually me floundering around, failing to complete the projects or figuring out what I was doing wrong,\" author Sam Kean says about his experimental archaeology adventures.",
-      "url": "https://www.livescience.com/archaeology/some-people-called-it-horrifying-dinner-with-king-tut-author-on-using-egyptian-mummification-techniques-on-a-modern-day-human-body"
-    },
-    {
-      "category": "Science",
-      "title": " 'He looked like Ramses the Great': How experimental archaeologists used ancient techniques to mummify a modern-day person ",
-      "source": " Latest from Live Science ",
-      "date": "Sat, 11 Jul 2026 14:00:00 +0000",
-      "summary": "In his new book, \"Dinner with King Tut: How Rogue Archaeologists Are Re-creating the Sights, Sounds, Smells, and Tastes of Lost Civilizations,\" science writer Sam Kean explains the odd and intriguing world of experimental archaeologists.",
-      "url": "https://www.livescience.com/archaeology/ancient-egyptians/he-looked-like-ramses-the-great-how-experimental-archaeologists-used-ancient-techniques-to-mummify-a-modern-day-person"
     },
     {
       "category": "Science",
@@ -139,6 +155,30 @@
       "url": "https://arstechnica.com/science/2026/07/quantum-error-correction-can-constantly-recalibrate-a-processor/"
     },
     {
+      "category": "Space",
+      "title": "Early Career Faculty (ECF) 2025 Awards",
+      "source": "NASA",
+      "date": "Fri, 10 Jul 2026 19:23:55 +0000",
+      "summary": "Back to ECF Home Advanced Diagnostics for High-Enthalpy Test Facilities Simulating Spacecraft Atmospheric Entry Planning for Autonomous Spacecraft Using Machine Learning Methods to Enable Onboard Guidance, Navigation, and Control",
+      "url": "https://www.nasa.gov/directorates/stmd/space-tech-research-grants/ecf/early-career-faculty-ecf-2025-awards/"
+    },
+    {
+      "category": "Space",
+      "title": "NASA Volunteers Help Zooniverse Reach 1 Billion Classifications",
+      "source": "NASA",
+      "date": "Fri, 10 Jul 2026 19:00:53 +0000",
+      "summary": "The Zooniverse, a NASA grantee that runs the world’s largest platform for online people-powered research, has reached an extraordinary milestone: 1 billion classifications contributed by volunteers around the world. This milestone is a celebration of everyone who has marked a dip in a light curve, confirmed the presence of a moving object in a short […]",
+      "url": "https://science.nasa.gov/get-involved/citizen-science/nasa-volunteers-help-zooniverse-reach-1-billion-classifications/"
+    },
+    {
+      "category": "Space",
+      "title": "NASA Photographer Captures Images from F-18 Over Washington",
+      "source": "NASA",
+      "date": "Fri, 10 Jul 2026 16:36:14 +0000",
+      "summary": "NASA flight photographers capture history from a perspective few ever experience, getting a rare bird’s-eye view of the agency’s missions in action. Their photos document key NASA research and give the public a front-row seat to the work happening behind the scenes. Jim Ross, a photographer at NASA’s Armstrong Flight Research Center in Edwards, California, […]",
+      "url": "https://www.nasa.gov/image-article/nasa-photographer-captures-images-from-f-18-over-washington/"
+    },
+    {
       "category": "Biblical Studies",
       "title": "Colossae: A Biblical City of the Classical World",
       "source": "Biblical Archaeology Society",
@@ -177,22 +217,6 @@
       "date": "Fri, 10 Jul 2026 04:04:00 +0000",
       "summary": "Did Jesus and Paul preach the same gospel?",
       "url": "https://www.thegospelcoalition.org/podcasts/tgc-podcast/did-jesus-preach-gospel-classic/"
-    },
-    {
-      "category": "Theology",
-      "title": "Editor’s Picks: New Bible Study Curricula",
-      "source": "The Gospel Coalition",
-      "date": "Fri, 10 Jul 2026 04:02:00 +0000",
-      "summary": "Ten recently published Bible study curricula for individuals or small groups.",
-      "url": "https://www.thegospelcoalition.org/reviews/editors-picks-curricula-summer-2026/"
-    },
-    {
-      "category": "Science",
-      "title": "This alien planet never has sunrise or sunset. It may support life",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Thu, 09 Jul 2026 17:27:22 EDT",
-      "summary": "A planet with one side permanently roasting and the other frozen in endless darkness might still have a chance of supporting life. Researchers found that heat inside a tidally locked exoplanet could circulate in a stable, continuous loop, helping moderate temperatures in certain regions. Their laboratory model suggests these worlds may be more hospitable than previously thought, despite their extreme surface conditions.",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260709160657.htm"
     },
     {
       "category": "Theology",
