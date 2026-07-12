@@ -1,14 +1,54 @@
 {
-  "lastUpdated": "2026-07-12T16:50:56.894Z",
+  "lastUpdated": "2026-07-12T22:39:32.309Z",
   "articleCount": 39,
   "articles": [
     {
       "category": "Science",
-      "title": "Self‑building molecular rings bring next‑generation drug delivery and smart materials closer",
+      "title": "Machine learning calibration of biosensors for microcystin toxin monitoring in freshwater",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Sun, 12 Jul 2026 12:30:01 EDT",
-      "summary": "Rotaxanes are dumbbell-shaped mechanically interlocked molecules in which one or more ring-shaped molecules are threaded through a linear segment, known as the axle. To keep the ring from sliding off, two bulky groups, sometimes called stoppers, are added to the ends of the axle. Making a rotaxane has always been as challenging as its structure suggests.",
-      "url": "https://phys.org/news/2026-07-selfbuilding-molecular-nextgeneration-drug-delivery.html"
+      "date": "Sun, 12 Jul 2026 18:20:01 EDT",
+      "summary": "Portable screen-printed carbon electrode (SPCE) biosensors offer a rapid, low-cost way to detect microcystin-lysine-arginine (MC-LR), an extremely potent toxin produced by cyanobacteria during harmful algal blooms in freshwater. Even at low concentrations, MC-LR can damage the liver and has been linked to an increased risk of liver and colon cancer, and the World Health Organization has set a guideline value of 1 microgram per liter for MC-LR in drinking water.",
+      "url": "https://phys.org/news/2026-07-machine-calibration-biosensors-microcystin-toxin.html"
+    },
+    {
+      "category": "Science",
+      "title": "The public isn't bored with economists, management scholars and sociologists but engaging people has conditions",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sun, 12 Jul 2026 17:30:04 EDT",
+      "summary": "For years, we've been told a familiar story: Social scientists such as economists, management scholars and sociologists talk, and the public shrugs. The claim goes that people don't find our work interesting, that our expertise is fuzzy compared with \"hard\" sciences, and that journalists and readers will always prefer the crisp authority of practitioners such as CEOs, consultants or politicians. Is that really true?",
+      "url": "https://phys.org/news/2026-07-isnt-economists-scholars-sociologists-engaging.html"
+    },
+    {
+      "category": "AI",
+      "title": "Kode Dot Programmable pocket device for makers, pentesters and geeks",
+      "source": "Hacker News: Front Page",
+      "date": "Sun, 12 Jul 2026 21:27:29 +0000",
+      "summary": "Article URL: https://kode.diy\nComments URL: https://news.ycombinator.com/item?id=48884992\nPoints: 7\n# Comments: 3",
+      "url": "https://kode.diy"
+    },
+    {
+      "category": "AI",
+      "title": "Ask HN: What Are You Working On? (July 2026)",
+      "source": "Hacker News: Front Page",
+      "date": "Sun, 12 Jul 2026 21:26:41 +0000",
+      "summary": "What are you working on?  Any new ideas that you're thinking about?\nComments URL: https://news.ycombinator.com/item?id=48884984\nPoints: 20\n# Comments: 32",
+      "url": "https://news.ycombinator.com/item?id=48884984"
+    },
+    {
+      "category": "AI",
+      "title": "Since Chromium 148, Math.tanh is now fingerprintable to link underlying OS",
+      "source": "Hacker News: Front Page",
+      "date": "Sun, 12 Jul 2026 21:12:11 +0000",
+      "summary": "Article URL: https://scrapfly.dev/posts/browser-math-os-fingerprint/\nComments URL: https://news.ycombinator.com/item?id=48884853\nPoints: 131\n# Comments: 52",
+      "url": "https://scrapfly.dev/posts/browser-math-os-fingerprint/"
+    },
+    {
+      "category": "Science",
+      "title": "Tiny magnetic 'flowers' could expand how researchers image spintronic materials under stronger fields",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sun, 12 Jul 2026 17:00:03 EDT",
+      "summary": "Materials with magnetic nanostructures have a wide range of potential applications. One area is so-called spintronics, with devices that encode information in magnetic domains. These magnetic bits can be written, read and erased in a more energy-efficient way than bits in current semiconductor devices. Spin textures and magnetic domains in such materials can be investigated using nanoscale magnetic imaging techniques. For example, photoemission electron microscopy (PEEM), coupled with a magnetically sensitive detection mechanism.",
+      "url": "https://phys.org/news/2026-07-tiny-magnetic-image-spintronic-materials.html"
     },
     {
       "category": "Science",
@@ -27,52 +67,12 @@
       "url": "https://www.livescience.com/technology/artificial-intelligence/ai-is-giving-people-bad-money-advice-heres-what-i-worry-about-most-as-a-finance-professor"
     },
     {
-      "category": "Science",
-      "title": "Patterned frozen soils get their shape from gravity and funky physics",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sun, 12 Jul 2026 12:00:01 EDT",
-      "summary": "Hillslopes in Arctic regions with frozen soils can host a suite of geometric patterns, from circles and stripes to polygonal patterned ground. They can also have solifluction patterns, or markings left behind when partially thawed permafrost slips and flows down a slope. Solifluction patterns look like pairings of flat, terraced soil—like a big staircase—and rounded lobes of soil at the terrace's base.",
-      "url": "https://phys.org/news/2026-07-patterned-frozen-soils-gravity-funky.html"
-    },
-    {
       "category": "Space",
       "title": " Why space games still struggle with the scale of the universe ",
       "source": " Latest from Space.com ",
       "date": "Sun, 12 Jul 2026 16:00:00 +0000",
       "summary": "\"Space is big. You just won't believe how vastly, hugely, mind-bogglingly big it is.\"",
       "url": "https://www.space.com/entertainment/space-games/why-space-games-still-struggle-with-the-scale-of-the-universe"
-    },
-    {
-      "category": "AI",
-      "title": "TK, or the secret to effortless writing (2024)",
-      "source": "Hacker News: Front Page",
-      "date": "Sun, 12 Jul 2026 15:58:42 +0000",
-      "summary": "Article URL: https://atthis.link/blog/2024/49629.html\nComments URL: https://news.ycombinator.com/item?id=48882144\nPoints: 6\n# Comments: 0",
-      "url": "https://atthis.link/blog/2024/49629.html"
-    },
-    {
-      "category": "AI",
-      "title": "Why study Diophantine equations?",
-      "source": "Hacker News: Front Page",
-      "date": "Sun, 12 Jul 2026 15:53:53 +0000",
-      "summary": "Article URL: https://hidden-phenomena.com/articles/modular\nComments URL: https://news.ycombinator.com/item?id=48882097\nPoints: 6\n# Comments: 1",
-      "url": "https://hidden-phenomena.com/articles/modular"
-    },
-    {
-      "category": "AI",
-      "title": "How to Read More Books",
-      "source": "Hacker News: Front Page",
-      "date": "Sun, 12 Jul 2026 15:47:16 +0000",
-      "summary": "Article URL: https://scotto.me/blog/2026-07-12-how-to-read-more-books/\nComments URL: https://news.ycombinator.com/item?id=48882056\nPoints: 37\n# Comments: 9",
-      "url": "https://scotto.me/blog/2026-07-12-how-to-read-more-books/"
-    },
-    {
-      "category": "Science",
-      "title": "In deep oceans, evolution is supercharged. This diversity could help unlock humanity's greatest challenges",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sun, 12 Jul 2026 11:30:01 EDT",
-      "summary": "Far beneath the surface of the ocean lies the largest and least explored habitat on Earth. The deep sea is cold, dark, highly pressurized—and home to a huge amount of undiscovered life.",
-      "url": "https://phys.org/news/2026-07-deep-oceans-evolution-supercharged-diversity.html"
     },
     {
       "category": "Science",
