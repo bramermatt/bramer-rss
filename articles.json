@@ -1,54 +1,110 @@
 {
-  "lastUpdated": "2026-07-12T22:39:32.309Z",
-  "articleCount": 39,
+  "lastUpdated": "2026-07-13T12:27:26.492Z",
+  "articleCount": 36,
   "articles": [
     {
       "category": "Science",
-      "title": "Machine learning calibration of biosensors for microcystin toxin monitoring in freshwater",
+      "title": "Firefly brightness holds a cautionary tale about accepting older measurements",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Sun, 12 Jul 2026 18:20:01 EDT",
-      "summary": "Portable screen-printed carbon electrode (SPCE) biosensors offer a rapid, low-cost way to detect microcystin-lysine-arginine (MC-LR), an extremely potent toxin produced by cyanobacteria during harmful algal blooms in freshwater. Even at low concentrations, MC-LR can damage the liver and has been linked to an increased risk of liver and colon cancer, and the World Health Organization has set a guideline value of 1 microgram per liter for MC-LR in drinking water.",
-      "url": "https://phys.org/news/2026-07-machine-calibration-biosensors-microcystin-toxin.html"
+      "date": "Mon, 13 Jul 2026 08:20:09 EDT",
+      "summary": "For over a century, the accepted value for a firefly's brightness has mostly stood, tracing its origins to experiments carried out in 1912. Through rigorous new analysis published in the American Journal of Physics, David Silver of Remiza AI in New York has discovered that this value has likely been vastly overestimated. His results provide a stark reminder of what can happen when widely accepted older measurements are converted into modern standard units.",
+      "url": "https://phys.org/news/2026-07-firefly-brightness-cautionary-tale-older.html"
     },
     {
       "category": "Science",
-      "title": "The public isn't bored with economists, management scholars and sociologists but engaging people has conditions",
+      "title": "How the 'creeping normality' of large language models is quietly reshaping the life sciences",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Sun, 12 Jul 2026 17:30:04 EDT",
-      "summary": "For years, we've been told a familiar story: Social scientists such as economists, management scholars and sociologists talk, and the public shrugs. The claim goes that people don't find our work interesting, that our expertise is fuzzy compared with \"hard\" sciences, and that journalists and readers will always prefer the crisp authority of practitioners such as CEOs, consultants or politicians. Is that really true?",
-      "url": "https://phys.org/news/2026-07-isnt-economists-scholars-sociologists-engaging.html"
-    },
-    {
-      "category": "AI",
-      "title": "Kode Dot Programmable pocket device for makers, pentesters and geeks",
-      "source": "Hacker News: Front Page",
-      "date": "Sun, 12 Jul 2026 21:27:29 +0000",
-      "summary": "Article URL: https://kode.diy\nComments URL: https://news.ycombinator.com/item?id=48884992\nPoints: 7\n# Comments: 3",
-      "url": "https://kode.diy"
-    },
-    {
-      "category": "AI",
-      "title": "Ask HN: What Are You Working On? (July 2026)",
-      "source": "Hacker News: Front Page",
-      "date": "Sun, 12 Jul 2026 21:26:41 +0000",
-      "summary": "What are you working on?  Any new ideas that you're thinking about?\nComments URL: https://news.ycombinator.com/item?id=48884984\nPoints: 20\n# Comments: 32",
-      "url": "https://news.ycombinator.com/item?id=48884984"
-    },
-    {
-      "category": "AI",
-      "title": "Since Chromium 148, Math.tanh is now fingerprintable to link underlying OS",
-      "source": "Hacker News: Front Page",
-      "date": "Sun, 12 Jul 2026 21:12:11 +0000",
-      "summary": "Article URL: https://scrapfly.dev/posts/browser-math-os-fingerprint/\nComments URL: https://news.ycombinator.com/item?id=48884853\nPoints: 131\n# Comments: 52",
-      "url": "https://scrapfly.dev/posts/browser-math-os-fingerprint/"
+      "date": "Mon, 13 Jul 2026 08:20:07 EDT",
+      "summary": "Large language models (LLMs) are gradually transforming research in the life sciences in ways that extend far beyond improving productivity, and they are becoming a new normal before scientists have agreed on the limits of their use.",
+      "url": "https://phys.org/news/2026-07-large-language-quietly-reshaping-life.html"
     },
     {
       "category": "Science",
-      "title": "Tiny magnetic 'flowers' could expand how researchers image spintronic materials under stronger fields",
+      "title": "Research reveals how grassroots football could help tackle climate change",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Sun, 12 Jul 2026 17:00:03 EDT",
-      "summary": "Materials with magnetic nanostructures have a wide range of potential applications. One area is so-called spintronics, with devices that encode information in magnetic domains. These magnetic bits can be written, read and erased in a more energy-efficient way than bits in current semiconductor devices. Spin textures and magnetic domains in such materials can be investigated using nanoscale magnetic imaging techniques. For example, photoemission electron microscopy (PEEM), coupled with a magnetically sensitive detection mechanism.",
-      "url": "https://phys.org/news/2026-07-tiny-magnetic-image-spintronic-materials.html"
+      "date": "Mon, 13 Jul 2026 08:00:04 EDT",
+      "summary": "With international football facing increasing criticism over its carbon footprint, University of Bath students are working with Bath City FC to show how community football could help tackle climate change.",
+      "url": "https://phys.org/news/2026-07-reveals-grassroots-football-tackle-climate.html"
+    },
+    {
+      "category": "Space",
+      "title": " Space junk debris cloud discovered in high-traffic orbit 'is a potential minefield' for the costliest satellites ",
+      "source": " Latest from Space.com ",
+      "date": "Mon, 13 Jul 2026 12:00:00 +0000",
+      "summary": "\"The debris in geosynchronous orbit is a potential minefield.\"",
+      "url": "https://www.space.com/space-exploration/satellites/space-junk-debris-cloud-discovered-in-high-traffic-orbit-is-a-potential-minefield-for-the-costliest-satellites"
+    },
+    {
+      "category": "AI",
+      "title": "An Infuriating Goodbye to Photoshop",
+      "source": "Hacker News: Front Page",
+      "date": "Mon, 13 Jul 2026 11:46:47 +0000",
+      "summary": "Article URL: https://anderegg.ca/2026/07/12/an-infuriating-goodbye-to-photoshop\nComments URL: https://news.ycombinator.com/item?id=48891200\nPoints: 11\n# Comments: 3",
+      "url": "https://anderegg.ca/2026/07/12/an-infuriating-goodbye-to-photoshop"
+    },
+    {
+      "category": "AI",
+      "title": "A voxel Tokyo in real Japan time – ride the Yamanote line and study Japanese",
+      "source": "Hacker News: Front Page",
+      "date": "Mon, 13 Jul 2026 11:18:30 +0000",
+      "summary": "Article URL: https://jivx.com/densha\nComments URL: https://news.ycombinator.com/item?id=48890959\nPoints: 28\n# Comments: 1",
+      "url": "https://jivx.com/densha"
+    },
+    {
+      "category": "Biblical Studies",
+      "title": "Lost Christian Town Emerges from Egypt’s Western Desert",
+      "source": "Biblical Archaeology Society",
+      "date": "Mon, 13 Jul 2026 10:45:56 +0000",
+      "summary": "The Egyptian Ministry of Tourism and Antiquities announced the discovery of a well-preserved Byzantine-era settlement at the site of Ein Sabeel in the Dakhla Oasis. […]\nThe post Lost Christian Town Emerges from Egypt’s Western Desert appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-egypt/lost-christian-town-emerges-from-egypts-western-desert/"
+    },
+    {
+      "category": "Science",
+      "title": " Elamite helmet with divine figures: A warrior king's 3,500-year-old bronze armor depicting a raptor and gold-plated gods ",
+      "source": " Latest from Live Science ",
+      "date": "Mon, 13 Jul 2026 10:00:00 +0000",
+      "summary": "This bronze helmet has been decorated with ancient deities from a civilization that flourished before the Persian Empire took over the area that is now Iran.",
+      "url": "https://www.livescience.com/archaeology/elamite-helmet-with-divine-figures-a-warrior-kings-3-500-year-old-bronze-armor-depicting-a-raptor-and-gold-plated-gods"
+    },
+    {
+      "category": "Space",
+      "title": " Reflect Orbital just got permission to launch its 1st space mirror to orbit. Tens of thousands more could follow ",
+      "source": " Latest from Space.com ",
+      "date": "Mon, 13 Jul 2026 10:00:00 +0000",
+      "summary": "Reflect Orbital just got approval to launch its first light-directing space mirror, which it plans to do later this year. Tens of thousands more such craft could follow over the next 10 years.",
+      "url": "https://www.space.com/space-exploration/satellites/reflect-orbital-just-got-permission-to-launch-its-1st-space-mirror-to-orbit-tens-of-thousands-more-could-follow"
+    },
+    {
+      "category": "AI",
+      "title": "Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",
+      "source": "Hacker News: Front Page",
+      "date": "Mon, 13 Jul 2026 08:39:39 +0000",
+      "summary": "Article URL: https://raymyers.org/post/zed-creator-calls-spade-a-spade/\nComments URL: https://news.ycombinator.com/item?id=48889637\nPoints: 515\n# Comments: 243",
+      "url": "https://raymyers.org/post/zed-creator-calls-spade-a-spade/"
+    },
+    {
+      "category": "Theology",
+      "title": "AI and Work: What Happens When AI Can Do Your Job Better?",
+      "source": "The Gospel Coalition",
+      "date": "Mon, 13 Jul 2026 04:02:00 +0000",
+      "summary": "Christopher Watkin and Rachel Gilson talk about AI, work, and what Christians should hold on to when technology starts changing the way we create, serve, and make decisions.",
+      "url": "https://www.thegospelcoalition.org/podcasts/silicon-spiritualities/ai-and-work-what-happens-when-ai-can-do-your-job-better/"
+    },
+    {
+      "category": "Theology",
+      "title": "The Little White Church Is Empty",
+      "source": "The Gospel Coalition",
+      "date": "Mon, 13 Jul 2026 04:00:00 +0000",
+      "summary": "Thousands of rural congregations are struggling to keep their pulpits filled and their doors open.",
+      "url": "https://www.thegospelcoalition.org/article/little-white-church/"
+    },
+    {
+      "category": "Science",
+      "title": "Spider-like creatures help uncover the surprising origins of fatherhood",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Sun, 12 Jul 2026 19:49:47 EDT",
+      "summary": "Citizen scientists have helped researchers solve a long-standing mystery about how parental care evolved in harvestmen. Using photos and observations from iNaturalist, scientists more than doubled the known cases of egg-guarding behavior and discovered that maternal and paternal care followed different evolutionary paths. The project, completed in just days with help from public data, shows how citizen science is transforming biological research on a global scale.",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260712011737.htm"
     },
     {
       "category": "Science",
@@ -76,35 +132,11 @@
     },
     {
       "category": "Science",
-      "title": " 18 ancient Egyptian tombs with dozens of gold 'tongues' discovered along the Mediterranean coast ",
-      "source": " Latest from Live Science ",
-      "date": "Sun, 12 Jul 2026 14:05:00 +0000",
-      "summary": "Archaeologists have found 18 tombs at an ancient Egyptian site by the Mediterranean coast of Egypt.",
-      "url": "https://www.livescience.com/archaeology/ancient-egyptians/18-ancient-egyptian-tombs-with-dozens-of-gold-tongues-discovered-along-the-mediterranean-coast"
-    },
-    {
-      "category": "Space",
-      "title": " 149 million views! Artemis II moon mission breaks NASA's streaming record ",
-      "source": " Latest from Space.com ",
-      "date": "Sun, 12 Jul 2026 14:00:00 +0000",
-      "summary": "The Artemis II astronauts made an impact on potentially hundreds of millions of people during their mission, according to NASA figures.",
-      "url": "https://www.space.com/space-exploration/artemis/149-million-views-artemis-ii-moon-mission-breaks-nasas-streaming-record"
-    },
-    {
-      "category": "Science",
       "title": "Deep-sea life has a secret food source scientists never expected",
       "source": "All Top News -- ScienceDaily",
       "date": "Sun, 12 Jul 2026 08:14:55 EDT",
       "summary": "Scientists discovered that extreme deep-sea pressure squeezes valuable nutrients out of sinking organic particles, providing an unexpected food source for ocean microbes. The finding could rewrite our understanding of both deep-ocean ecosystems and how carbon is stored on Earth.",
       "url": "https://www.sciencedaily.com/releases/2026/07/260711010127.htm"
-    },
-    {
-      "category": "Space",
-      "title": " Space medicine breakthrough? Kidney and liver tissue bioprinted off Earth for 1st time ever ",
-      "source": " Latest from Space.com ",
-      "date": "Sun, 12 Jul 2026 12:05:00 +0000",
-      "summary": "California-based company Auxilium Biotechnologies just produced kidney and liver tissue in space for the first time, using a method called bioprinting,",
-      "url": "https://www.space.com/technology/space-medicine-breakthrough-kidney-and-liver-tissue-bioprinted-off-earth-for-1st-time-ever"
     },
     {
       "category": "AI",
@@ -121,14 +153,6 @@
       "date": "Sun, 12 Jul 2026 03:42:58 EDT",
       "summary": "Practice may do more than make perfect. Researchers found that extensive training physically reorganizes the brain, allowing learned tasks to bypass the prefrontal cortex and run through specialized circuits instead. By freeing the brain's \"thinking\" center, people became better at performing another task at the same time, challenging the long-held idea that humans only switch rapidly between tasks rather than truly multitask.",
       "url": "https://www.sciencedaily.com/releases/2026/07/260712011912.htm"
-    },
-    {
-      "category": "Science",
-      "title": "Scientists finally solved the mystery of Earth's greatest mass extinction",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Sun, 12 Jul 2026 00:02:00 EDT",
-      "summary": "Why do beaches today have seashells from clams and snails instead of brachiopods? A new study suggests the answer lies in Earth's greatest mass extinction, when warming oceans and falling oxygen levels wiped out animals that couldn't adapt. Species with body plans and metabolisms better suited to the changing conditions survived and went on to dominate the seas, offering a glimpse of how modern marine life could respond to climate change.",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260711010122.htm"
     },
     {
       "category": "Theology",
@@ -153,38 +177,6 @@
       "date": "Sat, 11 Jul 2026 11:11:26 +0000",
       "summary": "For the first time since 1995, the Bureau of Land Management is rewriting its grazing regulations.",
       "url": "https://arstechnica.com/tech-policy/2026/07/overhaul-of-public-lands-grazing-regulations-seeks-to-cut-public-involvement/"
-    },
-    {
-      "category": "Theology",
-      "title": "Recapitulation: What It Is and Why It Will Help You Endure",
-      "source": "The Gospel Coalition",
-      "date": "Sat, 11 Jul 2026 04:00:00 +0000",
-      "summary": "Our daily repetitions matter. ‘Agains’ are an invitation to remember what God has done and what God will do.",
-      "url": "https://www.thegospelcoalition.org/article/recapitulation-what-and-why/"
-    },
-    {
-      "category": "Space",
-      "title": "Early Career Faculty (ECF) 2025 Awards",
-      "source": "NASA",
-      "date": "Fri, 10 Jul 2026 19:23:55 +0000",
-      "summary": "Back to ECF Home Advanced Diagnostics for High-Enthalpy Test Facilities Simulating Spacecraft Atmospheric Entry Planning for Autonomous Spacecraft Using Machine Learning Methods to Enable Onboard Guidance, Navigation, and Control",
-      "url": "https://www.nasa.gov/directorates/stmd/space-tech-research-grants/ecf/early-career-faculty-ecf-2025-awards/"
-    },
-    {
-      "category": "Space",
-      "title": "NASA Volunteers Help Zooniverse Reach 1 Billion Classifications",
-      "source": "NASA",
-      "date": "Fri, 10 Jul 2026 19:00:53 +0000",
-      "summary": "The Zooniverse, a NASA grantee that runs the world’s largest platform for online people-powered research, has reached an extraordinary milestone: 1 billion classifications contributed by volunteers around the world. This milestone is a celebration of everyone who has marked a dip in a light curve, confirmed the presence of a moving object in a short […]",
-      "url": "https://science.nasa.gov/get-involved/citizen-science/nasa-volunteers-help-zooniverse-reach-1-billion-classifications/"
-    },
-    {
-      "category": "Space",
-      "title": "NASA Photographer Captures Images from F-18 Over Washington",
-      "source": "NASA",
-      "date": "Fri, 10 Jul 2026 16:36:14 +0000",
-      "summary": "NASA flight photographers capture history from a perspective few ever experience, getting a rare bird’s-eye view of the agency’s missions in action. Their photos document key NASA research and give the public a front-row seat to the work happening behind the scenes. Jim Ross, a photographer at NASA’s Armstrong Flight Research Center in Edwards, California, […]",
-      "url": "https://www.nasa.gov/image-article/nasa-photographer-captures-images-from-f-18-over-washington/"
     },
     {
       "category": "Biblical Studies",
@@ -212,14 +204,6 @@
     },
     {
       "category": "Theology",
-      "title": "Did Jesus Preach the Gospel? (TGC Classic)",
-      "source": "The Gospel Coalition",
-      "date": "Fri, 10 Jul 2026 04:04:00 +0000",
-      "summary": "Did Jesus and Paul preach the same gospel?",
-      "url": "https://www.thegospelcoalition.org/podcasts/tgc-podcast/did-jesus-preach-gospel-classic/"
-    },
-    {
-      "category": "Theology",
       "title": "How Should Christians Think about the Law of Moses?",
       "source": "9Marks",
       "date": "Thu, 09 Jul 2026 19:15:27 +0000",
@@ -233,14 +217,6 @@
       "date": "Thu, 09 Jul 2026 13:00:00 GMT",
       "summary": "Learn how GPT-5.6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork for faster, higher-quality work.",
       "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot"
-    },
-    {
-      "category": "Biblical Studies",
-      "title": "The “Original” Bible and the Dead Sea Scrolls",
-      "source": "Biblical Archaeology Society",
-      "date": "Thu, 09 Jul 2026 11:00:27 +0000",
-      "summary": "More than 200 Biblical texts written in Hebrew were discovered among the Dead Sea Scrolls. How do these ancient Biblical texts compare with the Masoretic Text and the Greek Septuagint in scholars’ search for the most authoritative text of the Hebrew Bible?\nThe post The “Original” Bible and the Dead Sea Scrolls appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/daily/biblical-topics/bible-versions-and-translations/the-original-bible-and-the-dead-sea-scrolls/"
     },
     {
       "category": "AI",
