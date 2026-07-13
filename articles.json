@@ -1,54 +1,126 @@
 {
-  "lastUpdated": "2026-07-13T12:27:26.492Z",
+  "lastUpdated": "2026-07-13T17:49:51.735Z",
   "articleCount": 36,
   "articles": [
     {
       "category": "Science",
-      "title": "Firefly brightness holds a cautionary tale about accepting older measurements",
+      "title": "Himalayan snowfall has been miscalculated for years, here's how we found a new way to measure it",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Mon, 13 Jul 2026 08:20:09 EDT",
-      "summary": "For over a century, the accepted value for a firefly's brightness has mostly stood, tracing its origins to experiments carried out in 1912. Through rigorous new analysis published in the American Journal of Physics, David Silver of Remiza AI in New York has discovered that this value has likely been vastly overestimated. His results provide a stark reminder of what can happen when widely accepted older measurements are converted into modern standard units.",
-      "url": "https://phys.org/news/2026-07-firefly-brightness-cautionary-tale-older.html"
+      "date": "Mon, 13 Jul 2026 13:40:04 EDT",
+      "summary": "Mountain snow and meltwater from glaciers in the Himalayas determine how much water is available for drinking, farming and hydropower for millions of people in India, Pakistan, Nepal, China and Afghanistan.",
+      "url": "https://phys.org/news/2026-07-himalayan-snowfall-miscalculated-years.html"
     },
     {
       "category": "Science",
-      "title": "How the 'creeping normality' of large language models is quietly reshaping the life sciences",
+      "title": "What one of Emperor Hadrian's latrines is telling us about the durability of Roman concrete",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Mon, 13 Jul 2026 08:20:07 EDT",
-      "summary": "Large language models (LLMs) are gradually transforming research in the life sciences in ways that extend far beyond improving productivity, and they are becoming a new normal before scientists have agreed on the limits of their use.",
-      "url": "https://phys.org/news/2026-07-large-language-quietly-reshaping-life.html"
+      "date": "Mon, 13 Jul 2026 13:30:01 EDT",
+      "summary": "One of the many marvels of the Roman world is that some of its buildings are still with us. But why have they lasted for so long when some relatively modern structures are in a state of decay after a few decades?",
+      "url": "https://phys.org/news/2026-07-emperor-hadrian-latrines-durability-roman.html"
     },
     {
       "category": "Science",
-      "title": "Research reveals how grassroots football could help tackle climate change",
+      "title": "For Black girls, puberty is more than physical—it transforms conversations about identity",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Mon, 13 Jul 2026 08:00:04 EDT",
-      "summary": "With international football facing increasing criticism over its carbon footprint, University of Bath students are working with Bath City FC to show how community football could help tackle climate change.",
-      "url": "https://phys.org/news/2026-07-reveals-grassroots-football-tackle-climate.html"
+      "date": "Mon, 13 Jul 2026 13:20:02 EDT",
+      "summary": "Some of the most meaningful changes during puberty may not happen in the body alone. They may also happen in conversation. A new University of Michigan study suggests that as Black girls move through puberty, conversations with their mothers become an important space for making sense of changing bodies, race, gender, ethnicity and identity.",
+      "url": "https://phys.org/news/2026-07-black-girls-puberty-physical-conversations.html"
+    },
+    {
+      "category": "AI",
+      "title": "Apple and Samsung benefit as memory shortage pushes smartphone shipments to historic lows",
+      "source": "Ars Technica - All content",
+      "date": "Mon, 13 Jul 2026 17:18:25 +0000",
+      "summary": "The biggest smartphone makers keep on trucking in the face of component shortages and economic uncertainty.",
+      "url": "https://arstechnica.com/gadgets/2026/07/apple-and-samsung-benefit-as-memory-shortage-pushes-smartphone-shipments-to-historic-lows/"
+    },
+    {
+      "category": "AI",
+      "title": "PgDog (YC P25) Is Hiring a Founding Software Engineer",
+      "source": "Hacker News: Front Page",
+      "date": "Mon, 13 Jul 2026 17:00:54 +0000",
+      "summary": "Article URL: https://www.ycombinator.com/companies/pgdog/jobs/uWymUYy-founding-software-engineer\nComments URL: https://news.ycombinator.com/item?id=48895565\nPoints: 0\n# Comments: 0",
+      "url": "https://www.ycombinator.com/companies/pgdog/jobs/uWymUYy-founding-software-engineer"
+    },
+    {
+      "category": "AI",
+      "title": "Colorado will decide whether a \"right to natural gas\" is added to state constitution",
+      "source": "Ars Technica - All content",
+      "date": "Mon, 13 Jul 2026 16:49:35 +0000",
+      "summary": "The amendment would restrict building codes that promote electrification.",
+      "url": "https://arstechnica.com/tech-policy/2026/07/colorado-will-decide-whether-a-right-to-natural-gas-is-added-to-state-constitution/"
     },
     {
       "category": "Space",
-      "title": " Space junk debris cloud discovered in high-traffic orbit 'is a potential minefield' for the costliest satellites ",
+      "title": " NASA begins stacking rocket ahead of 2027 Artemis III astronaut launch (photos) ",
       "source": " Latest from Space.com ",
-      "date": "Mon, 13 Jul 2026 12:00:00 +0000",
-      "summary": "\"The debris in geosynchronous orbit is a potential minefield.\"",
-      "url": "https://www.space.com/space-exploration/satellites/space-junk-debris-cloud-discovered-in-high-traffic-orbit-is-a-potential-minefield-for-the-costliest-satellites"
+      "date": "Mon, 13 Jul 2026 16:43:47 +0000",
+      "summary": "NASA has begun assembling segments of the SLS solid rocket boosters that will help launch astronauts on Artemis III as early as next year.",
+      "url": "https://www.space.com/space-exploration/artemis/nasa-begins-stacking-rocket-ahead-of-2027-artemis-iii-astronaut-launch-photos"
     },
     {
       "category": "AI",
-      "title": "An Infuriating Goodbye to Photoshop",
-      "source": "Hacker News: Front Page",
-      "date": "Mon, 13 Jul 2026 11:46:47 +0000",
-      "summary": "Article URL: https://anderegg.ca/2026/07/12/an-infuriating-goodbye-to-photoshop\nComments URL: https://news.ycombinator.com/item?id=48891200\nPoints: 11\n# Comments: 3",
-      "url": "https://anderegg.ca/2026/07/12/an-infuriating-goodbye-to-photoshop"
+      "title": "Hackers quickly prove that Neo Geo Doom ports are not \"impossible\"",
+      "source": "Ars Technica - All content",
+      "date": "Mon, 13 Jul 2026 16:37:14 +0000",
+      "summary": "Clever coding and graphical compromises get a classic game on more classic hardware.",
+      "url": "https://arstechnica.com/gaming/2026/07/hackers-quickly-prove-that-neo-geo-doom-ports-are-not-impossible/"
     },
     {
       "category": "AI",
-      "title": "A voxel Tokyo in real Japan time – ride the Yamanote line and study Japanese",
+      "title": "Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor",
       "source": "Hacker News: Front Page",
-      "date": "Mon, 13 Jul 2026 11:18:30 +0000",
-      "summary": "Article URL: https://jivx.com/densha\nComments URL: https://news.ycombinator.com/item?id=48890959\nPoints: 28\n# Comments: 1",
-      "url": "https://jivx.com/densha"
+      "date": "Mon, 13 Jul 2026 16:06:08 +0000",
+      "summary": "Article URL: https://get-inscribe.com/blog/apple-speech-api-benchmark.html\nComments URL: https://news.ycombinator.com/item?id=48894752\nPoints: 121\n# Comments: 71",
+      "url": "https://get-inscribe.com/blog/apple-speech-api-benchmark.html"
+    },
+    {
+      "category": "Space",
+      "title": " SpaceX targets July 16 for Starship Flight 13, reveals what went wrong on previous launch ",
+      "source": " Latest from Space.com ",
+      "date": "Mon, 13 Jul 2026 16:00:04 +0000",
+      "summary": "SpaceX is targeting no earlier than July 16 for the next launch of its massive Starship rocket. Flight 13 will be the second launch of the vehicle's Version 3 configuration and will be similar to the mostly successful Flight 12.",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-targets-july-16-for-starship-flight-13-reveals-what-went-wrong-on-previous-launch"
+    },
+    {
+      "category": "AI",
+      "title": "Wikipedia escapes Category 1 designation under the UK Online Safety Act for now",
+      "source": "Hacker News: Front Page",
+      "date": "Mon, 13 Jul 2026 15:59:36 +0000",
+      "summary": "Article URL: https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2026-07-13/Special_report\nComments URL: https://news.ycombinator.com/item?id=48894671\nPoints: 34\n# Comments: 21",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2026-07-13/Special_report"
+    },
+    {
+      "category": "Science",
+      "title": " Sweet! Sugar found in raspberries was discovered near the Milky Way's center, hinting that life's ingredients are common in space ",
+      "source": " Latest from Live Science ",
+      "date": "Mon, 13 Jul 2026 15:00:00 +0000",
+      "summary": "Erythrulose, a sugar found in raspberries, was spotted in a gas and dust cloud near the center of the Milky Way.",
+      "url": "https://www.livescience.com/space/astronomy/sweet-sugar-found-in-raspberries-discovered-near-the-center-of-the-milky-way-hinting-that-lifes-ingredients-are-common-in-space"
+    },
+    {
+      "category": "Space",
+      "title": " \"The Ninth Jedi\" is a bold new Star Wars anime project hitting Disney+ next month, and it looks sick! ",
+      "source": " Latest from Space.com ",
+      "date": "Mon, 13 Jul 2026 15:00:00 +0000",
+      "summary": "This limited series expands on 2021's 'Star Wars: Visions'' episode, 'The Ninth Jedi,' from director Kenji Kamiyama.",
+      "url": "https://www.space.com/entertainment/space-movies-shows/the-ninth-jedi-is-a-bold-new-star-wars-anime-project-hitting-disney-next-month-and-it-looks-sick-trailer"
+    },
+    {
+      "category": "History",
+      "title": "A Perfect Coincidence",
+      "source": "Journal of the American Revolution",
+      "date": "Mon, 13 Jul 2026 14:54:30 +0000",
+      "summary": "BOOK REVIEW: A Perfect Coincidence: The Extraordinary Friendship and Astonishing Deaths of John Adams and Thomas Jefferson by Jim Rasenberger (Scribner, 2026) It is an astounding bout of timing that John Adams and Thomas Jefferson, the two men who collaborated so closely in declaring independence, died on the same Fourth of July day on the […]\nThe post A Perfect Coincidence appeared first on Journal of the American Revolution.",
+      "url": "https://allthingsliberty.com/2026/07/a-perfect-coincidence/"
+    },
+    {
+      "category": "Science",
+      "title": "A 200-year-old physics experiment could help build future computers",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Mon, 13 Jul 2026 08:49:50 EDT",
+      "summary": "Scientists at Nanyang Technological University in Singapore have discovered a surprisingly simple way to create exotic light structures called optical skyrmions using a 200-year-old optical effect known as the Poisson spot. Instead of relying on expensive, highly engineered materials, they simply shine a laser at a tiny circular disc, producing stable swirling patterns in light that researchers believe could one day help power advanced data storage, communications, and computing technologies.",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260713000755.htm"
     },
     {
       "category": "Biblical Studies",
@@ -60,6 +132,22 @@
     },
     {
       "category": "Science",
+      "title": "Stephen Hawking's black hole laws just got a major upgrade",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Mon, 13 Jul 2026 06:41:43 EDT",
+      "summary": "Scientists have developed a new framework that could finally apply the laws of thermodynamics to real, ever-changing black holes instead of only perfectly stable ones. The advance may improve our understanding of black hole mergers, evaporation, and the powerful gravitational wave events detected by observatories like LIGO.",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260713000757.htm"
+    },
+    {
+      "category": "Biblical Studies",
+      "title": "Fortifying Arabia",
+      "source": "Biblical Archaeology Society",
+      "date": "Mon, 13 Jul 2026 10:00:52 +0000",
+      "summary": "Although the urbanization of Canaan in the Early Bronze Age (c. 3300–2000 BCE) has long been established in scholarship, recent excavations in Saudi Arabia have […]\nThe post Fortifying Arabia appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/fortifying-arabia/"
+    },
+    {
+      "category": "Science",
       "title": " Elamite helmet with divine figures: A warrior king's 3,500-year-old bronze armor depicting a raptor and gold-plated gods ",
       "source": " Latest from Live Science ",
       "date": "Mon, 13 Jul 2026 10:00:00 +0000",
@@ -67,20 +155,12 @@
       "url": "https://www.livescience.com/archaeology/elamite-helmet-with-divine-figures-a-warrior-kings-3-500-year-old-bronze-armor-depicting-a-raptor-and-gold-plated-gods"
     },
     {
-      "category": "Space",
-      "title": " Reflect Orbital just got permission to launch its 1st space mirror to orbit. Tens of thousands more could follow ",
-      "source": " Latest from Space.com ",
-      "date": "Mon, 13 Jul 2026 10:00:00 +0000",
-      "summary": "Reflect Orbital just got approval to launch its first light-directing space mirror, which it plans to do later this year. Tens of thousands more such craft could follow over the next 10 years.",
-      "url": "https://www.space.com/space-exploration/satellites/reflect-orbital-just-got-permission-to-launch-its-1st-space-mirror-to-orbit-tens-of-thousands-more-could-follow"
-    },
-    {
-      "category": "AI",
-      "title": "Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",
-      "source": "Hacker News: Front Page",
-      "date": "Mon, 13 Jul 2026 08:39:39 +0000",
-      "summary": "Article URL: https://raymyers.org/post/zed-creator-calls-spade-a-spade/\nComments URL: https://news.ycombinator.com/item?id=48889637\nPoints: 515\n# Comments: 243",
-      "url": "https://raymyers.org/post/zed-creator-calls-spade-a-spade/"
+      "category": "Science",
+      "title": "Physicists say quantum mechanics may not need imaginary numbers after all",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Mon, 13 Jul 2026 03:22:08 EDT",
+      "summary": "Physicists from Heinrich Heine University Düsseldorf (HHU) have examined a fundamental property of quantum mechanics in collaboration with the German Aerospace Center (DLR). In the scientific journal Physical Review Letters, they show that this theory does not necessarily need to be formulated with imaginary numbers – real numbers can in fact also be used. The American Physical Society has also dedicated a “Highlight” to these findings in its Physics Magazine.",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260713000807.htm"
     },
     {
       "category": "Theology",
@@ -100,14 +180,6 @@
     },
     {
       "category": "Science",
-      "title": "Spider-like creatures help uncover the surprising origins of fatherhood",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Sun, 12 Jul 2026 19:49:47 EDT",
-      "summary": "Citizen scientists have helped researchers solve a long-standing mystery about how parental care evolved in harvestmen. Using photos and observations from iNaturalist, scientists more than doubled the known cases of egg-guarding behavior and discovered that maternal and paternal care followed different evolutionary paths. The project, completed in just days with help from public data, shows how citizen science is transforming biological research on a global scale.",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260712011737.htm"
-    },
-    {
-      "category": "Science",
       "title": " 'The moon looked wrong': Artemis II mission controller Chris White on taking historic lunar flyby photos from 250,000 miles away ",
       "source": " Latest from Live Science ",
       "date": "Sun, 12 Jul 2026 16:30:00 +0000",
@@ -115,44 +187,12 @@
       "url": "https://www.livescience.com/space/space-exploration/the-moon-looked-wrong-artemis-ii-mission-controller-chris-white-on-taking-historic-lunar-flyby-photos-from-250-000-miles-away"
     },
     {
-      "category": "Science",
-      "title": " AI is giving people bad money advice. Here's what I worry about most, as a finance professor. ",
-      "source": " Latest from Live Science ",
-      "date": "Sun, 12 Jul 2026 16:15:00 +0000",
-      "summary": "When managing your money, take a chatbot's ‘confidence’ with a grain of salt",
-      "url": "https://www.livescience.com/technology/artificial-intelligence/ai-is-giving-people-bad-money-advice-heres-what-i-worry-about-most-as-a-finance-professor"
-    },
-    {
-      "category": "Space",
-      "title": " Why space games still struggle with the scale of the universe ",
-      "source": " Latest from Space.com ",
-      "date": "Sun, 12 Jul 2026 16:00:00 +0000",
-      "summary": "\"Space is big. You just won't believe how vastly, hugely, mind-bogglingly big it is.\"",
-      "url": "https://www.space.com/entertainment/space-games/why-space-games-still-struggle-with-the-scale-of-the-universe"
-    },
-    {
-      "category": "Science",
-      "title": "Deep-sea life has a secret food source scientists never expected",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Sun, 12 Jul 2026 08:14:55 EDT",
-      "summary": "Scientists discovered that extreme deep-sea pressure squeezes valuable nutrients out of sinking organic particles, providing an unexpected food source for ocean microbes. The finding could rewrite our understanding of both deep-ocean ecosystems and how carbon is stored on Earth.",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260711010127.htm"
-    },
-    {
-      "category": "AI",
-      "title": "The real mystery behind Moana: After 1,700 years, why did Polynesians suddenly sail east?",
-      "source": "Ars Technica - All content",
-      "date": "Sun, 12 Jul 2026 11:12:19 +0000",
-      "summary": "New climate evidence adds context to these long voyages.",
-      "url": "https://arstechnica.com/culture/2026/07/the-real-mystery-behind-moana-after-1700-years-why-did-polynesians-suddenly-sail-east/"
-    },
-    {
-      "category": "Science",
-      "title": "Scientists discover how the brain rewires itself to truly multitask",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Sun, 12 Jul 2026 03:42:58 EDT",
-      "summary": "Practice may do more than make perfect. Researchers found that extensive training physically reorganizes the brain, allowing learned tasks to bypass the prefrontal cortex and run through specialized circuits instead. By freeing the brain's \"thinking\" center, people became better at performing another task at the same time, challenging the long-held idea that humans only switch rapidly between tasks rather than truly multitask.",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260712011912.htm"
+      "category": "Biblical Studies",
+      "title": "The Animals Went in Two by Two, According to Babylonian Ark Tablet",
+      "source": "Biblical Archaeology Society",
+      "date": "Sun, 12 Jul 2026 11:00:29 +0000",
+      "summary": "A recently translated Old Babylonian flood tablet describes how to build a circular ark.\nThe post The Animals Went in Two by Two, According to Babylonian Ark Tablet appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/daily/news/the-animals-went-in-two-by-two-according-to-babylonian-ark-tablet/"
     },
     {
       "category": "Theology",
@@ -164,43 +204,19 @@
     },
     {
       "category": "AI",
-      "title": "A Jupiter-size planet that escaped its star's death",
-      "source": "Ars Technica - All content",
-      "date": "Sat, 11 Jul 2026 12:00:58 +0000",
-      "summary": "It's unclear how the planet avoided its star's bloated red giant stage.",
-      "url": "https://arstechnica.com/science/2026/07/a-jupiter-size-planet-that-escaped-its-stars-death/"
-    },
-    {
-      "category": "AI",
-      "title": "Overhaul of public lands grazing regulations seeks to cut public involvement",
-      "source": "Ars Technica - All content",
-      "date": "Sat, 11 Jul 2026 11:11:26 +0000",
-      "summary": "For the first time since 1995, the Bureau of Land Management is rewriting its grazing regulations.",
-      "url": "https://arstechnica.com/tech-policy/2026/07/overhaul-of-public-lands-grazing-regulations-seeks-to-cut-public-involvement/"
-    },
-    {
-      "category": "Biblical Studies",
-      "title": "Colossae: A Biblical City of the Classical World",
-      "source": "Biblical Archaeology Society",
-      "date": "Fri, 10 Jul 2026 10:45:26 +0000",
-      "summary": "Colossae is an ancient city in the Lycus Valley of western Turkey, near the modern town of Honaz and the ancient cities of Laodicea and […]\nThe post Colossae: A Biblical City of the Classical World appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/daily/archaeology-today/colossae-a-biblical-city-of-classical-world/"
-    },
-    {
-      "category": "Biblical Studies",
-      "title": "Two-Thousand-Year-Old Shipwreck Discovered Off Turkish Coast",
-      "source": "Biblical Archaeology Society",
-      "date": "Fri, 10 Jul 2026 10:00:18 +0000",
-      "summary": "Off the southwestern coast of Turkey, archaeologists made a stunning discovery: a 2,000-year-old shipwreck with its cargo still packed neatly where it had been stored […]\nThe post Two-Thousand-Year-Old Shipwreck Discovered Off Turkish Coast appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/daily/archaeology-today/two-thousand-year-old-shipwreck-discovered-off-turkish-coast/"
-    },
-    {
-      "category": "AI",
       "title": "How Deutsche Telekom is rewiring telecommunications with AI",
       "source": "OpenAI News",
       "date": "Fri, 10 Jul 2026 07:00:00 GMT",
       "summary": "How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice.",
       "url": "https://openai.com/index/deutsche-telekom"
+    },
+    {
+      "category": "AI",
+      "title": "Getting started with ChatGPT",
+      "source": "OpenAI News",
+      "date": "Fri, 10 Jul 2026 00:00:00 GMT",
+      "summary": "Learn how to use ChatGPT, start your first conversation, and discover simple ways to write, brainstorm, and solve problems with AI.",
+      "url": "https://openai.com/academy/getting-started"
     },
     {
       "category": "Theology",
@@ -219,14 +235,6 @@
       "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot"
     },
     {
-      "category": "AI",
-      "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
-      "source": "OpenAI News",
-      "date": "Thu, 09 Jul 2026 10:00:00 GMT",
-      "summary": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.",
-      "url": "https://openai.com/index/gpt-5-6"
-    },
-    {
       "category": "History",
       "title": "Counterfeiting with Thomas Davis in the New United States: Another American Revolution",
       "source": "Journal of the American Revolution",
@@ -241,14 +249,6 @@
       "date": "Wed, 08 Jul 2026 08:00:00 +0000",
       "summary": "On this week’s Dispatches, host Brady Crytzer interviews historian, author, and JAR Editorial Board member Ray Raphael on statements of independence from Great Britain before the Declaration of Independence was announced in Philadelphia, July 4, 1776. New episodes of Dispatches are available for free every Sunday evening(Eastern United States Time), first on iTunes, Stitcher, Google […]\nThe post This Week on Dispatches: Ray Raphael on the First Declarations of Independence appeared first on Journal of the American Revolution.",
       "url": "https://allthingsliberty.com/2026/07/this-week-on-dispatches-ray-raphael-on-the-first-declarations-of-independence/"
-    },
-    {
-      "category": "History",
-      "title": "Two Short Notes on The Federalist no. 9 and no. 62",
-      "source": "Journal of the American Revolution",
-      "date": "Mon, 06 Jul 2026 22:00:11 +0000",
-      "summary": "In the eighteenth century, standards for decent citations, quotes, references and also for translations were less clear than they are for us, and certainly less strict. This is instantiated by The Federalist (Papers), the eighty-five essays that were published by Alexander Hamilton, James Madison and John Jay under the joint pen name of “Publius.” These […]\nThe post Two Short Notes on The Federalist no. 9 and no. 62 appeared first on Journal of the American Revolution.",
-      "url": "https://allthingsliberty.com/2026/07/two-short-notes-on-the-federalist-no-9-and-no-62/"
     },
     {
       "category": "Theology",
