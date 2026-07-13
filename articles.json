@@ -1,94 +1,118 @@
 {
-  "lastUpdated": "2026-07-13T17:49:51.735Z",
+  "lastUpdated": "2026-07-13T22:48:58.939Z",
   "articleCount": 36,
   "articles": [
     {
-      "category": "Science",
-      "title": "Himalayan snowfall has been miscalculated for years, here's how we found a new way to measure it",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Mon, 13 Jul 2026 13:40:04 EDT",
-      "summary": "Mountain snow and meltwater from glaciers in the Himalayas determine how much water is available for drinking, farming and hydropower for millions of people in India, Pakistan, Nepal, China and Afghanistan.",
-      "url": "https://phys.org/news/2026-07-himalayan-snowfall-miscalculated-years.html"
-    },
-    {
-      "category": "Science",
-      "title": "What one of Emperor Hadrian's latrines is telling us about the durability of Roman concrete",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Mon, 13 Jul 2026 13:30:01 EDT",
-      "summary": "One of the many marvels of the Roman world is that some of its buildings are still with us. But why have they lasted for so long when some relatively modern structures are in a state of decay after a few decades?",
-      "url": "https://phys.org/news/2026-07-emperor-hadrian-latrines-durability-roman.html"
-    },
-    {
-      "category": "Science",
-      "title": "For Black girls, puberty is more than physical—it transforms conversations about identity",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Mon, 13 Jul 2026 13:20:02 EDT",
-      "summary": "Some of the most meaningful changes during puberty may not happen in the body alone. They may also happen in conversation. A new University of Michigan study suggests that as Black girls move through puberty, conversations with their mothers become an important space for making sense of changing bodies, race, gender, ethnicity and identity.",
-      "url": "https://phys.org/news/2026-07-black-girls-puberty-physical-conversations.html"
-    },
-    {
       "category": "AI",
-      "title": "Apple and Samsung benefit as memory shortage pushes smartphone shipments to historic lows",
-      "source": "Ars Technica - All content",
-      "date": "Mon, 13 Jul 2026 17:18:25 +0000",
-      "summary": "The biggest smartphone makers keep on trucking in the face of component shortages and economic uncertainty.",
-      "url": "https://arstechnica.com/gadgets/2026/07/apple-and-samsung-benefit-as-memory-shortage-pushes-smartphone-shipments-to-historic-lows/"
-    },
-    {
-      "category": "AI",
-      "title": "PgDog (YC P25) Is Hiring a Founding Software Engineer",
+      "title": "California rocked by another earthquake that will unleash the Big One",
       "source": "Hacker News: Front Page",
-      "date": "Mon, 13 Jul 2026 17:00:54 +0000",
-      "summary": "Article URL: https://www.ycombinator.com/companies/pgdog/jobs/uWymUYy-founding-software-engineer\nComments URL: https://news.ycombinator.com/item?id=48895565\nPoints: 0\n# Comments: 0",
-      "url": "https://www.ycombinator.com/companies/pgdog/jobs/uWymUYy-founding-software-engineer"
+      "date": "Mon, 13 Jul 2026 22:26:34 +0000",
+      "summary": "Article URL: https://www.dailymail.com/sciencetech/article-15973745/california-earthquake-unlocks-san-andreas-garlock.html\nComments URL: https://news.ycombinator.com/item?id=48899741\nPoints: 3\n# Comments: 2",
+      "url": "https://www.dailymail.com/sciencetech/article-15973745/california-earthquake-unlocks-san-andreas-garlock.html"
+    },
+    {
+      "category": "Science",
+      "title": "Climate disclosure gives Canadian companies an edge with European investors, new research shows",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Mon, 13 Jul 2026 18:20:02 EDT",
+      "summary": "Canadian companies that disclose their climate-related risks and impacts have a considerable advantage over those that don't when it comes to attracting financing from European institutional investors, according to our recent report for the Institute for Sustainable Finance at Queen's University.",
+      "url": "https://phys.org/news/2026-07-climate-disclosure-canadian-companies-edge.html"
     },
     {
       "category": "AI",
-      "title": "Colorado will decide whether a \"right to natural gas\" is added to state constitution",
-      "source": "Ars Technica - All content",
-      "date": "Mon, 13 Jul 2026 16:49:35 +0000",
-      "summary": "The amendment would restrict building codes that promote electrification.",
-      "url": "https://arstechnica.com/tech-policy/2026/07/colorado-will-decide-whether-a-right-to-natural-gas-is-added-to-state-constitution/"
+      "title": "Show HN: I built a one-prompt hackathon platform, free entry, sponsored prizes",
+      "source": "Hacker News: Front Page",
+      "date": "Mon, 13 Jul 2026 22:14:12 +0000",
+      "summary": "Article URL: https://1shotchallenge.ai\nComments URL: https://news.ycombinator.com/item?id=48899620\nPoints: 4\n# Comments: 0",
+      "url": "https://1shotchallenge.ai"
+    },
+    {
+      "category": "AI",
+      "title": "Claude is just Mr. Meeseeks",
+      "source": "Hacker News: Front Page",
+      "date": "Mon, 13 Jul 2026 22:03:54 +0000",
+      "summary": "Article URL: https://github.com/thephw/claude-meseeks\nComments URL: https://news.ycombinator.com/item?id=48899529\nPoints: 4\n# Comments: 0",
+      "url": "https://github.com/thephw/claude-meseeks"
+    },
+    {
+      "category": "Science",
+      "title": "Teachers are worried about students cheating with AI, but my survey suggests the deeper issue is learning",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Mon, 13 Jul 2026 18:00:02 EDT",
+      "summary": "The risk of students using AI to cheat tends to get a lot of attention—with good reason.",
+      "url": "https://phys.org/news/2026-07-teachers-students-ai-survey-deeper.html"
     },
     {
       "category": "Space",
-      "title": " NASA begins stacking rocket ahead of 2027 Artemis III astronaut launch (photos) ",
+      "title": " SpaceX Starship Flight 13 launch updates: SpaceX sets target date for next Starship rocket launch ",
       "source": " Latest from Space.com ",
-      "date": "Mon, 13 Jul 2026 16:43:47 +0000",
-      "summary": "NASA has begun assembling segments of the SLS solid rocket boosters that will help launch astronauts on Artemis III as early as next year.",
-      "url": "https://www.space.com/space-exploration/artemis/nasa-begins-stacking-rocket-ahead-of-2027-artemis-iii-astronaut-launch-photos"
-    },
-    {
-      "category": "AI",
-      "title": "Hackers quickly prove that Neo Geo Doom ports are not \"impossible\"",
-      "source": "Ars Technica - All content",
-      "date": "Mon, 13 Jul 2026 16:37:14 +0000",
-      "summary": "Clever coding and graphical compromises get a classic game on more classic hardware.",
-      "url": "https://arstechnica.com/gaming/2026/07/hackers-quickly-prove-that-neo-geo-doom-ports-are-not-impossible/"
-    },
-    {
-      "category": "AI",
-      "title": "Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor",
-      "source": "Hacker News: Front Page",
-      "date": "Mon, 13 Jul 2026 16:06:08 +0000",
-      "summary": "Article URL: https://get-inscribe.com/blog/apple-speech-api-benchmark.html\nComments URL: https://news.ycombinator.com/item?id=48894752\nPoints: 121\n# Comments: 71",
-      "url": "https://get-inscribe.com/blog/apple-speech-api-benchmark.html"
+      "date": "Mon, 13 Jul 2026 21:10:26 +0000",
+      "summary": "SpaceX is progressing toward Starship's next big test launch.",
+      "url": "https://www.space.com/news/live/spacex-starship-flight-13-launch-updates-july-13-2026"
     },
     {
       "category": "Space",
-      "title": " SpaceX targets July 16 for Starship Flight 13, reveals what went wrong on previous launch ",
+      "title": " Russia's launching a NASA astronaut and 2 cosmonauts to the International Space Station on July 14: Watch it live ",
       "source": " Latest from Space.com ",
-      "date": "Mon, 13 Jul 2026 16:00:04 +0000",
-      "summary": "SpaceX is targeting no earlier than July 16 for the next launch of its massive Starship rocket. Flight 13 will be the second launch of the vehicle's Version 3 configuration and will be similar to the mostly successful Flight 12.",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-targets-july-16-for-starship-flight-13-reveals-what-went-wrong-on-previous-launch"
+      "date": "Mon, 13 Jul 2026 21:00:00 +0000",
+      "summary": "NASA astronaut Anil Menon and two cosmonauts will launch toward the International Space Station atop a Russian rocket on Tuesday (July 14), and you can watch it live.",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/soyuz-ms-29-astronaut-launch-international-space-station-anil-menon"
+    },
+    {
+      "category": "Space",
+      "title": " These mysterious exoplanets may have clouds of vaporized rock and grounds of scorching magma oceans ",
+      "source": " Latest from Space.com ",
+      "date": "Mon, 13 Jul 2026 21:00:00 +0000",
+      "summary": "Sub-Neptune exoplanets could have atmospheres so dense and crushing that rock is vaporized to form clouds that trap heat at the surface of the planet.",
+      "url": "https://www.space.com/astronomy/exoplanets/these-mysterious-exoplanets-may-have-clouds-of-vaporized-rock-and-grounds-of-scorching-magma-oceans"
     },
     {
       "category": "AI",
-      "title": "Wikipedia escapes Category 1 designation under the UK Online Safety Act for now",
-      "source": "Hacker News: Front Page",
-      "date": "Mon, 13 Jul 2026 15:59:36 +0000",
-      "summary": "Article URL: https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2026-07-13/Special_report\nComments URL: https://news.ycombinator.com/item?id=48894671\nPoints: 34\n# Comments: 21",
-      "url": "https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2026-07-13/Special_report"
+      "title": "Ukrainian drone strikes forced Russia to stop shipping in vital sea corridor",
+      "source": "Ars Technica - All content",
+      "date": "Mon, 13 Jul 2026 20:41:26 +0000",
+      "summary": "Ukraine’s drone blitz halted Russia’s Sea of Azov shipping in under a week.",
+      "url": "https://arstechnica.com/gadgets/2026/07/ukrainian-drone-strikes-forced-russia-to-stop-shipping-in-vital-sea-corridor/"
+    },
+    {
+      "category": "Science",
+      "title": "Floating-electron catalyst withstands week in air while making ammonia under milder conditions",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Mon, 13 Jul 2026 16:40:03 EDT",
+      "summary": "A surface electrene, BaSiN2:O, developed by researchers at Science Tokyo enables efficient ammonia synthesis under mild conditions while overcoming the long-standing air instability of electrene materials. Synthesized by doping barium silicon nitride with oxygen, the material forms a stable layer of freely floating electrons on its surface.",
+      "url": "https://phys.org/news/2026-07-electron-catalyst-week-air-ammonia.html"
+    },
+    {
+      "category": "AI",
+      "title": "California creates $3,500 rebate for new electric vehicle buyers",
+      "source": "Ars Technica - All content",
+      "date": "Mon, 13 Jul 2026 19:52:48 +0000",
+      "summary": "There's a separate $1,750 rebate for used EVs, but both rebates have a price cap.",
+      "url": "https://arstechnica.com/cars/2026/07/first-time-ev-buyers-in-california-can-now-claim-a-new-rebate/"
+    },
+    {
+      "category": "Science",
+      "title": " 5 'extremely rare' iron shackles discovered in France highlight Celtic slave trade 2,300 years ago ",
+      "source": " Latest from Live Science ",
+      "date": "Mon, 13 Jul 2026 19:50:21 +0000",
+      "summary": "Archaeologists were surprised to find evidence of shackles in a pre-Roman settlement in France.",
+      "url": "https://www.livescience.com/archaeology/5-extremely-rare-iron-shackles-discovered-in-france-highlight-celtic-slave-trade-2-300-years-ago"
+    },
+    {
+      "category": "Theology",
+      "title": "Handling Ungodly Criticism",
+      "source": "9Marks",
+      "date": "Mon, 13 Jul 2026 19:26:55 +0000",
+      "summary": "Next time you get criticized, even in an ungodly manner, ask yourself if the substance of the criticism is true or if there is something you need to learn from it.\nThe post Handling Ungodly Criticism appeared first on 9Marks.",
+      "url": "https://www.9marks.org/article/handling-ungodly-criticism/?utm_source=rss&utm_medium=rss&utm_campaign=handling-ungodly-criticism"
+    },
+    {
+      "category": "AI",
+      "title": "Apple sues OpenAI after ex-engineer allegedly used bug to steal trade secrets",
+      "source": "Ars Technica - All content",
+      "date": "Mon, 13 Jul 2026 19:17:51 +0000",
+      "summary": "OpenAI accused of conspiring with former Apple employees to steal trade secrets.",
+      "url": "https://arstechnica.com/tech-policy/2026/07/apple-sues-openai-after-ex-engineer-allegedly-used-bug-to-steal-trade-secrets/"
     },
     {
       "category": "Science",
@@ -97,14 +121,6 @@
       "date": "Mon, 13 Jul 2026 15:00:00 +0000",
       "summary": "Erythrulose, a sugar found in raspberries, was spotted in a gas and dust cloud near the center of the Milky Way.",
       "url": "https://www.livescience.com/space/astronomy/sweet-sugar-found-in-raspberries-discovered-near-the-center-of-the-milky-way-hinting-that-lifes-ingredients-are-common-in-space"
-    },
-    {
-      "category": "Space",
-      "title": " \"The Ninth Jedi\" is a bold new Star Wars anime project hitting Disney+ next month, and it looks sick! ",
-      "source": " Latest from Space.com ",
-      "date": "Mon, 13 Jul 2026 15:00:00 +0000",
-      "summary": "This limited series expands on 2021's 'Star Wars: Visions'' episode, 'The Ninth Jedi,' from director Kenji Kamiyama.",
-      "url": "https://www.space.com/entertainment/space-movies-shows/the-ninth-jedi-is-a-bold-new-star-wars-anime-project-hitting-disney-next-month-and-it-looks-sick-trailer"
     },
     {
       "category": "History",
@@ -179,14 +195,6 @@
       "url": "https://www.thegospelcoalition.org/article/little-white-church/"
     },
     {
-      "category": "Science",
-      "title": " 'The moon looked wrong': Artemis II mission controller Chris White on taking historic lunar flyby photos from 250,000 miles away ",
-      "source": " Latest from Live Science ",
-      "date": "Sun, 12 Jul 2026 16:30:00 +0000",
-      "summary": "Artemis II lead communications officer Chris White describes the tensest and most shocking moments of the historic moon mission, as seen from his desk at mission control in Houston.",
-      "url": "https://www.livescience.com/space/space-exploration/the-moon-looked-wrong-artemis-ii-mission-controller-chris-white-on-taking-historic-lunar-flyby-photos-from-250-000-miles-away"
-    },
-    {
       "category": "Biblical Studies",
       "title": "The Animals Went in Two by Two, According to Babylonian Ark Tablet",
       "source": "Biblical Archaeology Society",
@@ -257,14 +265,6 @@
       "date": "Mon, 06 Jul 2026 20:23:30 +0000",
       "summary": "Christ’s expectations of a pastor’s wife are identical to his will for every other woman in the assembly.\nThe post Setting Realistic Expectations for Your Wife’s Ministry in the Church appeared first on 9Marks.",
       "url": "https://www.9marks.org/article/setting-realistic-expectations-for-your-wifes-ministry-in-the-church/?utm_source=rss&utm_medium=rss&utm_campaign=setting-realistic-expectations-for-your-wifes-ministry-in-the-church"
-    },
-    {
-      "category": "Theology",
-      "title": "Is This Young Person Ready to Be Baptized? Clarifying Questions and Considerations for Churches",
-      "source": "9Marks",
-      "date": "Thu, 02 Jul 2026 14:20:38 +0000",
-      "summary": "Jesus isn’t like the credit card company that sets up shop on a college campus trying to get students to sign on the dotted line without reading the fine print. No, Jesus forces potential converts to stare at the fine print before signing on.\nThe post Is This Young Person Ready to Be Baptized? Clarifying Questions and Considerations for Churches appeared first on 9Marks.",
-      "url": "https://www.9marks.org/article/is-this-young-person-ready-to-be-baptized-clarifying-questions-and-considerations-for-churches/?utm_source=rss&utm_medium=rss&utm_campaign=is-this-young-person-ready-to-be-baptized-clarifying-questions-and-considerations-for-churches"
     },
     {
       "category": "History",
