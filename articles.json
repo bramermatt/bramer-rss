@@ -1,38 +1,134 @@
 {
-  "lastUpdated": "2026-07-14T11:20:01.366Z",
+  "lastUpdated": "2026-07-14T17:06:10.457Z",
   "articleCount": 36,
   "articles": [
     {
       "category": "Science",
-      "title": "First-of-its-kind surgery performed on western lowland gorilla at the San Diego Zoo Safari Park",
+      "title": "Researchers develop harder, longer-lasting silver plating",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Tue, 14 Jul 2026 07:00:04 EDT",
-      "summary": "Mizani, a 12-year-old male western lowland gorilla at the San Diego Zoo Safari Park, underwent a first-of-its-kind mastoidectomy to treat an infection that had spread into portions of his skull. The surgery was performed by a multidisciplinary team of wildlife health experts from the San Diego Zoo Safari Park and surgeons from UC San Diego Health.",
-      "url": "https://phys.org/news/2026-07-kind-surgery-western-lowland-gorilla.html"
+      "date": "Tue, 14 Jul 2026 13:00:07 EDT",
+      "summary": "A research team led by Seil Kim of the Korea Institute of Materials Science (KIMS) Energy & Environmental Materials Research Division has developed an Ag–PTFE composite plating technology that produces silver coatings with greater hardness and wear resistance than conventional silver plating by stably dispersing PTFE nanoparticles in a cyanide-free acidic silver plating bath.",
+      "url": "https://phys.org/news/2026-07-harder-longer-silver-plating.html"
     },
     {
       "category": "Science",
-      "title": "Research brings the era of microbial cell factories one step closer",
+      "title": "Moderate heat is enough to trigger signs of inflammation and coagulation in dairy cows",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Tue, 14 Jul 2026 06:35:14 EDT",
-      "summary": "The era of \"biomanufacturing,\" in which microbes, not petroleum, produce chemical products, is one step closer. A KAIST research team has analyzed the key challenges limiting the commercialization of biomanufacturing and proposed an AI-driven strategy for industrialization.",
-      "url": "https://phys.org/news/2026-07-era-microbial-cell-factories-closer.html"
+      "date": "Tue, 14 Jul 2026 13:00:05 EDT",
+      "summary": "Climate change is transforming livestock farming—and at a faster rate than many anticipate. More frequent and intense heat waves place a heavy physiological strain on dairy cows.",
+      "url": "https://phys.org/news/2026-07-moderate-trigger-inflammation-coagulation-dairy.html"
     },
     {
       "category": "Science",
-      "title": "How the built environment can help protect mental health in a changing climate",
+      "title": "AI helps scientists improve prediction of which DNA sequences bind to each other",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Tue, 14 Jul 2026 06:00:01 EDT",
-      "summary": "When people think about climate change, they often picture melting glaciers, stronger storms, rising temperatures, or prolonged droughts. These visible consequences dominate headlines and shape public discussions. Yet another consequence is quietly growing in the background—one that cannot be measured with a thermometer or satellite image. Climate change is increasingly affecting how people think, feel, and imagine their future.",
-      "url": "https://phys.org/news/2026-07-built-environment-mental-health-climate.html"
+      "date": "Tue, 14 Jul 2026 12:50:02 EDT",
+      "summary": "Researchers have demonstrated a novel AI model that can predict which DNA molecules bind with other DNA molecules. A more thorough understanding of these hypercomplex binding relationships has utility in applications ranging from biomedical diagnostic tools to DNA computing.",
+      "url": "https://phys.org/news/2026-07-ai-scientists-dna-sequences.html"
+    },
+    {
+      "category": "AI",
+      "title": "Measuring Input Latency on Linux: X11 vs. Wayland, VRR, and DXVK",
+      "source": "Hacker News: Front Page",
+      "date": "Tue, 14 Jul 2026 16:36:06 +0000",
+      "summary": "Article URL: https://marco-nett.de/blog/measuring-input-latency-on-linux-x11-vs-wayland-vrr-dxvk/\nComments URL: https://news.ycombinator.com/item?id=48909424\nPoints: 9\n# Comments: 1",
+      "url": "https://marco-nett.de/blog/measuring-input-latency-on-linux-x11-vs-wayland-vrr-dxvk/"
+    },
+    {
+      "category": "AI",
+      "title": "Launch HN: Agnost AI (YC S26) – Extract user feedback from agent conversations",
+      "source": "Hacker News: Front Page",
+      "date": "Tue, 14 Jul 2026 16:06:18 +0000",
+      "summary": "Hey HN, we’re Shubham & Parth, childhood friends building Agnost AI (https://agnost.ai), product analytics for teams building chat and voice agents.\nWe read production conversations and find behavioral failures like users rageprompting (cursing at the agent), repeatedly rephrasing the same request, correcting the agent, asking for missing features, or leaving after an answer that was technically successful.\nWe have an interactive demo with no signup here: https://app.agnost.ai?demo=true\nHere's a demo video: https://www.tella.tv/video/agnost-ai-launch-hn-demo-9haa\nThe core problem is that chat and voice products do not have the same metrics as web apps. When the product interface is language, clicks and funnels become much less useful. Users also rarely give explicit feedback, and when they do it's usually sugarcoated. I barely type /feedback in Claude or Codex myself. Most users just curse, ask again, correct the agent, or leave. So product engineers get technical visibility from latency, errors, and traces, but still have to guess whether users got what they wanted.\nWe got here after building around agents for the last year and got a couple of founders asking for something like a PostHog for conversations for the AI assistants they were building.\nWe are not trying to be in the observability or evals space. Observability tells you what happened technically. Evals validate cases you already know. We're more on the discovery side like what users wanted, where they got frustrated, what they asked for repeatedly, and what new evals should exist.\nTeams send us agent conversation messages through SDKs or OTel, optionally with metadata like account, plan, source, organization, etc. We cluster conversations into product-specific intents. Feature requests and bugs are default categories; most other clusters are created dynamically from the customer’s data and evolve over time. You can create your own cluster in plain English. If a cluster gets too broad, we split it. If a new pattern appears, we suggest it.\nOne AI video editor company used Agnost AI to find feature requests hidden inside chat. The biggest one was that around 70 users wanted auto-subtitles, but users said it as “add this text in this frame” 12x in a single session, “can you caption it”, “give me transcript of audio” and variations across languages. The team later built the feature.\nDoing this over millions of messages without sending everything to an LLM was the hard part initially. In ClickHouse, “fetch the last 50 events by time across conversations” and “fetch all events in this conversation” want different sort orders, so we had to iterate a lot on sorting keys, partitions, materialized views, and projections.\nFor finding new clusters, sending everything through an LLM was too slow and expensive. HDBSCAN-style embedding clustering also gets painful at scale because of pairwise comparisons. We first split conversations into segments based on cosine drift, run BIRCH to compress the candidate space, and then use HDBSCAN-like clustering on the smaller set. For matching existing clusters, we use embeddings, smaller classifiers/BERT-style models, and LLMs only as fallback for ambiguous cases.\nWe’re live with multiple companies and ingesting ~1M chat and voice messages per day. Pricing is public: Starter is free, Pro is $499/month, and Enterprise is for higher volume, security, retention needs. We use each customer’s data only for that customer. We are SOC 2 Type 1 compliant, Type 2 is in progress, and our SDKs are on PyPI and npm.\nWe’d love feedback from the HN community and people building chat or voice agents: how do you detect these signals today, what feedback methods have worked, and what would block you from trying this? Happy to answer questions and take criticism.\nComments URL: https://news.ycombinator.com/item?id=48908950\nPoints: 11\n# Comments: 0",
+      "url": "https://agnost.ai"
     },
     {
       "category": "Space",
-      "title": " Moon landings could destroy evidence of life's origins ",
+      "title": " This cosmic 'lighthouse' is blazing a magnetic trail through the Milky Way ",
       "source": " Latest from Space.com ",
-      "date": "Tue, 14 Jul 2026 10:00:00 +0000",
-      "summary": "\"We are trying to protect science and our investment in space.\"",
-      "url": "https://www.space.com/astronomy/moon/moon-landings-could-destroy-evidence-of-lifes-origins"
+      "date": "Tue, 14 Jul 2026 16:00:00 +0000",
+      "summary": "For the first time, astronomers have directly mapped the magnetic field surrounding one of the Milky Way's most unusual pulsars, confirming a decades-old prediction about how particles stream away from the rapidly spinning stellar corpse.",
+      "url": "https://www.space.com/astronomy/stars/this-cosmic-lighthouse-is-blazing-a-magnetic-trail-through-the-milky-way"
+    },
+    {
+      "category": "AI",
+      "title": "Show HN: Opening lines of famous literary works",
+      "source": "Hacker News: Front Page",
+      "date": "Tue, 14 Jul 2026 15:24:49 +0000",
+      "summary": "This came from an idea that had been knocking around in my head for several years. I had been collecting opening lines of famous works and thought it would be cool to see one everyday as I opened the browser. I tried different styles but landed on the simple background with the text, let the words speak for themselves. Over time i've added more quotes I believe now there are close to 60, so hopefully you can refresh a few times and get a fresh one every time. I hope you guys like it, enjoy!\nComments URL: https://news.ycombinator.com/item?id=48908271\nPoints: 62\n# Comments: 37",
+      "url": "https://www.verbaprima.com/"
+    },
+    {
+      "category": "AI",
+      "title": "New York bans data center construction for a year, rattling AI industry",
+      "source": "Ars Technica - All content",
+      "date": "Tue, 14 Jul 2026 15:06:28 +0000",
+      "summary": "New York’s data center moratorium may become the blueprint for anti-AI movement.",
+      "url": "https://arstechnica.com/tech-policy/2026/07/new-york-is-the-first-state-to-impose-a-data-center-moratorium/"
+    },
+    {
+      "category": "AI",
+      "title": "Probe into explosive diarrheal cases points to Taco Bell and bad lettuce",
+      "source": "Ars Technica - All content",
+      "date": "Tue, 14 Jul 2026 14:49:02 +0000",
+      "summary": "Health officials have not confirmed a source yet—and there may be multiple sources.",
+      "url": "https://arstechnica.com/health/2026/07/taco-bell-eyed-in-explosive-diarrheal-outbreak-leafy-greens-suspected/"
+    },
+    {
+      "category": "Space",
+      "title": " Honeycomb structures spotted on Mars | Space photo of the day for July 14, 2026 ",
+      "source": " Latest from Space.com ",
+      "date": "Tue, 14 Jul 2026 14:00:00 +0000",
+      "summary": "What could we be looking at?",
+      "url": "https://www.space.com/astronomy/mars/honeycomb-structures-spotted-on-mars-space-photo-of-the-day-for-july-14-2026"
+    },
+    {
+      "category": "AI",
+      "title": "Boomers, not Gen Z, are the generation cutting back most on alcohol",
+      "source": "Ars Technica - All content",
+      "date": "Tue, 14 Jul 2026 13:19:16 +0000",
+      "summary": "New research overturns assumption that abstinent younger drinkers are behind weak demand.",
+      "url": "https://arstechnica.com/health/2026/07/boomers-not-gen-z-are-the-generation-cutting-back-most-on-alcohol/"
+    },
+    {
+      "category": "Space",
+      "title": " The biggest skywatching day of 2026 is coming. Here's what you'll see in North America and Europe ",
+      "source": " Latest from Space.com ",
+      "date": "Tue, 14 Jul 2026 12:00:00 +0000",
+      "summary": "Whether you're in Spain, Iceland, the U.K. or North America, here's exactly what you'll see in the sky on Aug. 12 — and when to look.",
+      "url": "https://www.space.com/stargazing/the-biggest-skywatching-day-of-2026-is-coming-heres-what-youll-see-in-north-america-and-europe"
+    },
+    {
+      "category": "Biblical Studies",
+      "title": "Hanukkah, 1 and 2 Maccabees, and the Apocrypha",
+      "source": "Biblical Archaeology Society",
+      "date": "Tue, 14 Jul 2026 11:00:14 +0000",
+      "summary": "Every year, Jewish families the world over celebrate the festival of Hanukkah. And how dramatic it is: Just as the nights are starting earlier and […]\nThe post Hanukkah, 1 and 2 Maccabees, and the Apocrypha appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/daily/hanukah-maccabees-and-apocrypha/"
+    },
+    {
+      "category": "Biblical Studies",
+      "title": "Bible Scholar Brent Landau Asks “Who Were the Magi?”",
+      "source": "Biblical Archaeology Society",
+      "date": "Tue, 14 Jul 2026 11:00:13 +0000",
+      "summary": "A lost Syriac manuscript, the Revelation of the Magi, translated into English by Bible scholar Brent Landau, may help answer that key question from the Christmas story: “Who were the magi?”\nThe post Bible Scholar Brent Landau Asks “Who Were the Magi?” appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/daily/people-cultures-in-the-bible/jesus-historical-jesus/bible-scholar-brent-landau-asks-who-were-the-magi/"
+    },
+    {
+      "category": "AI",
+      "title": "How to manage AI investments in the agentic era",
+      "source": "OpenAI News",
+      "date": "Tue, 14 Jul 2026 10:00:00 GMT",
+      "summary": "Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows.",
+      "url": "https://openai.com/index/managing-ai-investments-in-agentic-era"
+    },
+    {
+      "category": "Science",
+      "title": "Popular weight-loss drugs Ozempic and Wegovy may slow biological aging",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Tue, 14 Jul 2026 05:47:41 EDT",
+      "summary": "Researchers found that semaglutide, the active ingredient in Ozempic and Wegovy, slowed biological aging markers in adults with HIV, marking the first clinical evidence that the drug may influence human aging. Although the findings are encouraging, scientists say larger studies are needed before concluding that the medication can help people age more slowly.",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260713084907.htm"
     },
     {
       "category": "Science",
@@ -43,44 +139,12 @@
       "url": "https://www.livescience.com/planet-earth/climate-change/it-affects-your-daily-life-suddenly-sea-level-researcher-explains-why-once-in-a-century-floods-could-become-the-new-normal"
     },
     {
-      "category": "AI",
-      "title": "Alternative(s) to run CUDA on non-Nvidia hardware",
-      "source": "Hacker News: Front Page",
-      "date": "Tue, 14 Jul 2026 08:24:49 +0000",
-      "summary": "Article URL: https://www.hpcwire.com/2026/07/09/spectral-compute-aims-to-set-cuda-free-will-it-succeed/\nComments URL: https://news.ycombinator.com/item?id=48903715\nPoints: 53\n# Comments: 26",
-      "url": "https://www.hpcwire.com/2026/07/09/spectral-compute-aims-to-set-cuda-free-will-it-succeed/"
-    },
-    {
-      "category": "AI",
-      "title": "Two Case Studies of NaN",
-      "source": "Hacker News: Front Page",
-      "date": "Tue, 14 Jul 2026 08:22:52 +0000",
-      "summary": "Article URL: https://sebsite.pw/w/20260709-nan.html\nComments URL: https://news.ycombinator.com/item?id=48903701\nPoints: 8\n# Comments: 5",
-      "url": "https://sebsite.pw/w/20260709-nan.html"
-    },
-    {
       "category": "Science",
       "title": " Space shuttle photobombs Earth for the final time, 15 years ago — Earth from space ",
       "source": " Latest from Live Science ",
       "date": "Tue, 14 Jul 2026 08:13:42 +0000",
       "summary": "This 2011 astronaut photo captured one of NASA's iconic space shuttles passing between Earth and the International Space Station for the very last time.",
       "url": "https://www.livescience.com/planet-earth/space-shuttle-photobombs-earth-for-the-final-time-15-years-ago-earth-from-space"
-    },
-    {
-      "category": "AI",
-      "title": "The Anatomy of an Instruction Pipeline Hazard",
-      "source": "Hacker News: Front Page",
-      "date": "Tue, 14 Jul 2026 07:06:50 +0000",
-      "summary": "Article URL: https://hiraditya.github.io/posts/hardware-hazards-b200/\nComments URL: https://news.ycombinator.com/item?id=48903190\nPoints: 5\n# Comments: 0",
-      "url": "https://hiraditya.github.io/posts/hardware-hazards-b200/"
-    },
-    {
-      "category": "Science",
-      "title": "This dinosaur fossil captures the final moments of a T. rex attack",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Tue, 14 Jul 2026 02:48:52 EDT",
-      "summary": "A fossilized Edmontosaurus skull with a Tyrannosaurus tooth still embedded in its face has given scientists rare evidence of a dramatic predator-prey encounter. The discovery suggests the giant carnivore delivered an incredibly powerful face-to-face bite, offering new clues about how Tyrannosaurus hunted.",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260713000811.htm"
     },
     {
       "category": "Science",
@@ -132,22 +196,6 @@
     },
     {
       "category": "AI",
-      "title": "SpaceX is gearing up for Starship's 13th test flight later this week",
-      "source": "Ars Technica - All content",
-      "date": "Tue, 14 Jul 2026 01:17:14 +0000",
-      "summary": "This flight will put Starship under higher pressure and test out new Starlink satellites in orbit.",
-      "url": "https://arstechnica.com/space/2026/07/spacex-is-gearing-up-for-starships-13th-test-flight-later-this-week/"
-    },
-    {
-      "category": "AI",
-      "title": "How data science teams use ChatGPT Work",
-      "source": "OpenAI News",
-      "date": "Tue, 14 Jul 2026 00:00:00 GMT",
-      "summary": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
-      "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex"
-    },
-    {
-      "category": "AI",
       "title": "How sales teams use ChatGPT Work",
       "source": "OpenAI News",
       "date": "Tue, 14 Jul 2026 00:00:00 GMT",
@@ -156,35 +204,11 @@
     },
     {
       "category": "AI",
-      "title": "US continues to shun Ebola-infected citizens; second American sent to Germany",
-      "source": "Ars Technica - All content",
-      "date": "Mon, 13 Jul 2026 22:07:34 +0000",
-      "summary": "The man is said to be doing well in a Frankfurt hospital.",
-      "url": "https://arstechnica.com/health/2026/07/us-continues-to-shun-ebola-infected-citizens-second-american-sent-to-germany/"
-    },
-    {
-      "category": "Space",
-      "title": " SpaceX Starship Flight 13 launch updates: SpaceX sets target date for next Starship rocket launch ",
-      "source": " Latest from Space.com ",
-      "date": "Mon, 13 Jul 2026 21:10:26 +0000",
-      "summary": "SpaceX is progressing toward Starship's next big test launch.",
-      "url": "https://www.space.com/news/live/spacex-starship-flight-13-launch-updates-july-13-2026"
-    },
-    {
-      "category": "AI",
-      "title": "The US government warns that Russia state hackers are coming after your router",
-      "source": "Ars Technica - All content",
-      "date": "Mon, 13 Jul 2026 21:03:07 +0000",
-      "summary": "With residential proxies all the rage, CISA urges router users to be vigilant.",
-      "url": "https://arstechnica.com/security/2026/07/the-us-government-warns-that-russia-state-hackers-are-coming-after-your-router/"
-    },
-    {
-      "category": "Space",
-      "title": " These mysterious exoplanets may have clouds of vaporized rock and grounds of scorching magma oceans ",
-      "source": " Latest from Space.com ",
-      "date": "Mon, 13 Jul 2026 21:00:00 +0000",
-      "summary": "Sub-Neptune exoplanets could have atmospheres so dense and crushing that rock is vaporized to form clouds that trap heat at the surface of the planet.",
-      "url": "https://www.space.com/astronomy/exoplanets/these-mysterious-exoplanets-may-have-clouds-of-vaporized-rock-and-grounds-of-scorching-magma-oceans"
+      "title": "How data science teams use ChatGPT Work",
+      "source": "OpenAI News",
+      "date": "Tue, 14 Jul 2026 00:00:00 GMT",
+      "summary": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
+      "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex"
     },
     {
       "category": "Science",
@@ -217,30 +241,6 @@
       "date": "Mon, 13 Jul 2026 10:45:56 +0000",
       "summary": "The Egyptian Ministry of Tourism and Antiquities announced the discovery of a well-preserved Byzantine-era settlement at the site of Ein Sabeel in the Dakhla Oasis. […]\nThe post Lost Christian Town Emerges from Egypt’s Western Desert appeared first on Biblical Archaeology Society.",
       "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-egypt/lost-christian-town-emerges-from-egypts-western-desert/"
-    },
-    {
-      "category": "Biblical Studies",
-      "title": "Fortifying Arabia",
-      "source": "Biblical Archaeology Society",
-      "date": "Mon, 13 Jul 2026 10:00:52 +0000",
-      "summary": "Although the urbanization of Canaan in the Early Bronze Age (c. 3300–2000 BCE) has long been established in scholarship, recent excavations in Saudi Arabia have […]\nThe post Fortifying Arabia appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/fortifying-arabia/"
-    },
-    {
-      "category": "Biblical Studies",
-      "title": "The Animals Went in Two by Two, According to Babylonian Ark Tablet",
-      "source": "Biblical Archaeology Society",
-      "date": "Sun, 12 Jul 2026 11:00:29 +0000",
-      "summary": "A recently translated Old Babylonian flood tablet describes how to build a circular ark.\nThe post The Animals Went in Two by Two, According to Babylonian Ark Tablet appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/daily/news/the-animals-went-in-two-by-two-according-to-babylonian-ark-tablet/"
-    },
-    {
-      "category": "AI",
-      "title": "How Deutsche Telekom is rewiring telecommunications with AI",
-      "source": "OpenAI News",
-      "date": "Fri, 10 Jul 2026 07:00:00 GMT",
-      "summary": "How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice.",
-      "url": "https://openai.com/index/deutsche-telekom"
     },
     {
       "category": "Theology",
