@@ -1,46 +1,166 @@
 {
-  "lastUpdated": "2026-07-13T22:48:58.939Z",
+  "lastUpdated": "2026-07-14T11:20:01.366Z",
   "articleCount": 36,
   "articles": [
     {
-      "category": "AI",
-      "title": "California rocked by another earthquake that will unleash the Big One",
-      "source": "Hacker News: Front Page",
-      "date": "Mon, 13 Jul 2026 22:26:34 +0000",
-      "summary": "Article URL: https://www.dailymail.com/sciencetech/article-15973745/california-earthquake-unlocks-san-andreas-garlock.html\nComments URL: https://news.ycombinator.com/item?id=48899741\nPoints: 3\n# Comments: 2",
-      "url": "https://www.dailymail.com/sciencetech/article-15973745/california-earthquake-unlocks-san-andreas-garlock.html"
+      "category": "Science",
+      "title": "First-of-its-kind surgery performed on western lowland gorilla at the San Diego Zoo Safari Park",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Tue, 14 Jul 2026 07:00:04 EDT",
+      "summary": "Mizani, a 12-year-old male western lowland gorilla at the San Diego Zoo Safari Park, underwent a first-of-its-kind mastoidectomy to treat an infection that had spread into portions of his skull. The surgery was performed by a multidisciplinary team of wildlife health experts from the San Diego Zoo Safari Park and surgeons from UC San Diego Health.",
+      "url": "https://phys.org/news/2026-07-kind-surgery-western-lowland-gorilla.html"
     },
     {
       "category": "Science",
-      "title": "Climate disclosure gives Canadian companies an edge with European investors, new research shows",
+      "title": "Research brings the era of microbial cell factories one step closer",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Mon, 13 Jul 2026 18:20:02 EDT",
-      "summary": "Canadian companies that disclose their climate-related risks and impacts have a considerable advantage over those that don't when it comes to attracting financing from European institutional investors, according to our recent report for the Institute for Sustainable Finance at Queen's University.",
-      "url": "https://phys.org/news/2026-07-climate-disclosure-canadian-companies-edge.html"
-    },
-    {
-      "category": "AI",
-      "title": "Show HN: I built a one-prompt hackathon platform, free entry, sponsored prizes",
-      "source": "Hacker News: Front Page",
-      "date": "Mon, 13 Jul 2026 22:14:12 +0000",
-      "summary": "Article URL: https://1shotchallenge.ai\nComments URL: https://news.ycombinator.com/item?id=48899620\nPoints: 4\n# Comments: 0",
-      "url": "https://1shotchallenge.ai"
-    },
-    {
-      "category": "AI",
-      "title": "Claude is just Mr. Meeseeks",
-      "source": "Hacker News: Front Page",
-      "date": "Mon, 13 Jul 2026 22:03:54 +0000",
-      "summary": "Article URL: https://github.com/thephw/claude-meseeks\nComments URL: https://news.ycombinator.com/item?id=48899529\nPoints: 4\n# Comments: 0",
-      "url": "https://github.com/thephw/claude-meseeks"
+      "date": "Tue, 14 Jul 2026 06:35:14 EDT",
+      "summary": "The era of \"biomanufacturing,\" in which microbes, not petroleum, produce chemical products, is one step closer. A KAIST research team has analyzed the key challenges limiting the commercialization of biomanufacturing and proposed an AI-driven strategy for industrialization.",
+      "url": "https://phys.org/news/2026-07-era-microbial-cell-factories-closer.html"
     },
     {
       "category": "Science",
-      "title": "Teachers are worried about students cheating with AI, but my survey suggests the deeper issue is learning",
+      "title": "How the built environment can help protect mental health in a changing climate",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Mon, 13 Jul 2026 18:00:02 EDT",
-      "summary": "The risk of students using AI to cheat tends to get a lot of attention—with good reason.",
-      "url": "https://phys.org/news/2026-07-teachers-students-ai-survey-deeper.html"
+      "date": "Tue, 14 Jul 2026 06:00:01 EDT",
+      "summary": "When people think about climate change, they often picture melting glaciers, stronger storms, rising temperatures, or prolonged droughts. These visible consequences dominate headlines and shape public discussions. Yet another consequence is quietly growing in the background—one that cannot be measured with a thermometer or satellite image. Climate change is increasingly affecting how people think, feel, and imagine their future.",
+      "url": "https://phys.org/news/2026-07-built-environment-mental-health-climate.html"
+    },
+    {
+      "category": "Space",
+      "title": " Moon landings could destroy evidence of life's origins ",
+      "source": " Latest from Space.com ",
+      "date": "Tue, 14 Jul 2026 10:00:00 +0000",
+      "summary": "\"We are trying to protect science and our investment in space.\"",
+      "url": "https://www.space.com/astronomy/moon/moon-landings-could-destroy-evidence-of-lifes-origins"
+    },
+    {
+      "category": "Science",
+      "title": " 'It affects your daily life suddenly': Sea level researcher explains why once-in-a-century floods could become the new normal ",
+      "source": " Latest from Live Science ",
+      "date": "Tue, 14 Jul 2026 09:03:11 +0000",
+      "summary": "Live Science spoke with sea level expert Sönke Dangendorf about how human-caused sea-level rise is increasing extreme water levels, as once-in-a-century flooding events become decadal.",
+      "url": "https://www.livescience.com/planet-earth/climate-change/it-affects-your-daily-life-suddenly-sea-level-researcher-explains-why-once-in-a-century-floods-could-become-the-new-normal"
+    },
+    {
+      "category": "AI",
+      "title": "Alternative(s) to run CUDA on non-Nvidia hardware",
+      "source": "Hacker News: Front Page",
+      "date": "Tue, 14 Jul 2026 08:24:49 +0000",
+      "summary": "Article URL: https://www.hpcwire.com/2026/07/09/spectral-compute-aims-to-set-cuda-free-will-it-succeed/\nComments URL: https://news.ycombinator.com/item?id=48903715\nPoints: 53\n# Comments: 26",
+      "url": "https://www.hpcwire.com/2026/07/09/spectral-compute-aims-to-set-cuda-free-will-it-succeed/"
+    },
+    {
+      "category": "AI",
+      "title": "Two Case Studies of NaN",
+      "source": "Hacker News: Front Page",
+      "date": "Tue, 14 Jul 2026 08:22:52 +0000",
+      "summary": "Article URL: https://sebsite.pw/w/20260709-nan.html\nComments URL: https://news.ycombinator.com/item?id=48903701\nPoints: 8\n# Comments: 5",
+      "url": "https://sebsite.pw/w/20260709-nan.html"
+    },
+    {
+      "category": "Science",
+      "title": " Space shuttle photobombs Earth for the final time, 15 years ago — Earth from space ",
+      "source": " Latest from Live Science ",
+      "date": "Tue, 14 Jul 2026 08:13:42 +0000",
+      "summary": "This 2011 astronaut photo captured one of NASA's iconic space shuttles passing between Earth and the International Space Station for the very last time.",
+      "url": "https://www.livescience.com/planet-earth/space-shuttle-photobombs-earth-for-the-final-time-15-years-ago-earth-from-space"
+    },
+    {
+      "category": "AI",
+      "title": "The Anatomy of an Instruction Pipeline Hazard",
+      "source": "Hacker News: Front Page",
+      "date": "Tue, 14 Jul 2026 07:06:50 +0000",
+      "summary": "Article URL: https://hiraditya.github.io/posts/hardware-hazards-b200/\nComments URL: https://news.ycombinator.com/item?id=48903190\nPoints: 5\n# Comments: 0",
+      "url": "https://hiraditya.github.io/posts/hardware-hazards-b200/"
+    },
+    {
+      "category": "Science",
+      "title": "This dinosaur fossil captures the final moments of a T. rex attack",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Tue, 14 Jul 2026 02:48:52 EDT",
+      "summary": "A fossilized Edmontosaurus skull with a Tyrannosaurus tooth still embedded in its face has given scientists rare evidence of a dramatic predator-prey encounter. The discovery suggests the giant carnivore delivered an incredibly powerful face-to-face bite, offering new clues about how Tyrannosaurus hunted.",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260713000811.htm"
+    },
+    {
+      "category": "Science",
+      "title": "NASA's Perseverance just completed a marathon on Mars",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Tue, 14 Jul 2026 01:32:12 EDT",
+      "summary": "NASA's Perseverance rover has reached an impressive new milestone on Mars, completing the equivalent of a full marathon by driving 26.2 miles (42.195 kilometers) across the Red Planet. It accomplished the feat in just five years and four months, reaching the distance on its 1,890th Martian day, less than half the time it took the previous record holder, NASA's Opportunity rover.",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260713084858.htm"
+    },
+    {
+      "category": "Science",
+      "title": "NASA selects four new Moon missions to build a permanent lunar base",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Tue, 14 Jul 2026 00:40:26 EDT",
+      "summary": "NASA is ramping up its lunar ambitions by awarding nearly $600 million for four commercial Moon landings planned for late 2028. Each mission will carry the same trio of science instruments to improve lunar navigation, study dangerous dust kicked up during landings, and map the Moon's radiation environment. The agency also revealed plans for new rovers, communication satellites, and additional cargo missions as it lays the groundwork for a permanent Moon Base.",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260713084853.htm"
+    },
+    {
+      "category": "Theology",
+      "title": "How AI Plays a Gospel Imitation Game (with Christopher Watkin)",
+      "source": "The Gospel Coalition",
+      "date": "Tue, 14 Jul 2026 04:04:28 +0000",
+      "summary": "Chris Watkin talks with Collin Hansen about hope, hype, and help for our AI apocalypse.",
+      "url": "https://www.thegospelcoalition.org/podcasts/gospelbound/ai-gospel-imitation/"
+    },
+    {
+      "category": "Theology",
+      "title": "Thinking About Missions? Read This Book.",
+      "source": "The Gospel Coalition",
+      "date": "Tue, 14 Jul 2026 04:02:00 +0000",
+      "summary": "‘The Path to Being a Missionary’ can equip churches and aspiring missionaries to more effectively accomplish the work of getting the gospel to the nations.",
+      "url": "https://www.thegospelcoalition.org/reviews/path-being-missionary/"
+    },
+    {
+      "category": "Theology",
+      "title": "Gen-Z Revival Isn’t Happening. Here’s How It Could.",
+      "source": "The Gospel Coalition",
+      "date": "Tue, 14 Jul 2026 04:00:00 +0000",
+      "summary": "If a Gen Z revival surges in this country, it’ll be through acknowledging their desire for truth, and helping them see that it can be found most directly through a life lived in community with fellow believers.",
+      "url": "https://www.thegospelcoalition.org/article/gen-z-revival-how/"
+    },
+    {
+      "category": "History",
+      "title": "The Ordeal of the Annapolis, September 1775",
+      "source": "Journal of the American Revolution",
+      "date": "Tue, 14 Jul 2026 02:00:19 +0000",
+      "summary": "To a colonial American, the prelude to the War of Independence might have been considered as much a civil conflict as it was a revolution. This was particularly true in 1775, when the thirteen colonies were in the throes of an internal struggle, before most of the Loyalists sought refuge in cities occupied by British […]\nThe post The Ordeal of the <i>Annapolis</i>, September 1775 appeared first on Journal of the American Revolution.",
+      "url": "https://allthingsliberty.com/2026/07/the-ordeal-of-the-annapolis-september-1775/"
+    },
+    {
+      "category": "AI",
+      "title": "SpaceX is gearing up for Starship's 13th test flight later this week",
+      "source": "Ars Technica - All content",
+      "date": "Tue, 14 Jul 2026 01:17:14 +0000",
+      "summary": "This flight will put Starship under higher pressure and test out new Starlink satellites in orbit.",
+      "url": "https://arstechnica.com/space/2026/07/spacex-is-gearing-up-for-starships-13th-test-flight-later-this-week/"
+    },
+    {
+      "category": "AI",
+      "title": "How data science teams use ChatGPT Work",
+      "source": "OpenAI News",
+      "date": "Tue, 14 Jul 2026 00:00:00 GMT",
+      "summary": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
+      "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex"
+    },
+    {
+      "category": "AI",
+      "title": "How sales teams use ChatGPT Work",
+      "source": "OpenAI News",
+      "date": "Tue, 14 Jul 2026 00:00:00 GMT",
+      "summary": "See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
+      "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex"
+    },
+    {
+      "category": "AI",
+      "title": "US continues to shun Ebola-infected citizens; second American sent to Germany",
+      "source": "Ars Technica - All content",
+      "date": "Mon, 13 Jul 2026 22:07:34 +0000",
+      "summary": "The man is said to be doing well in a Frankfurt hospital.",
+      "url": "https://arstechnica.com/health/2026/07/us-continues-to-shun-ebola-infected-citizens-second-american-sent-to-germany/"
     },
     {
       "category": "Space",
@@ -51,12 +171,12 @@
       "url": "https://www.space.com/news/live/spacex-starship-flight-13-launch-updates-july-13-2026"
     },
     {
-      "category": "Space",
-      "title": " Russia's launching a NASA astronaut and 2 cosmonauts to the International Space Station on July 14: Watch it live ",
-      "source": " Latest from Space.com ",
-      "date": "Mon, 13 Jul 2026 21:00:00 +0000",
-      "summary": "NASA astronaut Anil Menon and two cosmonauts will launch toward the International Space Station atop a Russian rocket on Tuesday (July 14), and you can watch it live.",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/soyuz-ms-29-astronaut-launch-international-space-station-anil-menon"
+      "category": "AI",
+      "title": "The US government warns that Russia state hackers are coming after your router",
+      "source": "Ars Technica - All content",
+      "date": "Mon, 13 Jul 2026 21:03:07 +0000",
+      "summary": "With residential proxies all the rage, CISA urges router users to be vigilant.",
+      "url": "https://arstechnica.com/security/2026/07/the-us-government-warns-that-russia-state-hackers-are-coming-after-your-router/"
     },
     {
       "category": "Space",
@@ -65,30 +185,6 @@
       "date": "Mon, 13 Jul 2026 21:00:00 +0000",
       "summary": "Sub-Neptune exoplanets could have atmospheres so dense and crushing that rock is vaporized to form clouds that trap heat at the surface of the planet.",
       "url": "https://www.space.com/astronomy/exoplanets/these-mysterious-exoplanets-may-have-clouds-of-vaporized-rock-and-grounds-of-scorching-magma-oceans"
-    },
-    {
-      "category": "AI",
-      "title": "Ukrainian drone strikes forced Russia to stop shipping in vital sea corridor",
-      "source": "Ars Technica - All content",
-      "date": "Mon, 13 Jul 2026 20:41:26 +0000",
-      "summary": "Ukraine’s drone blitz halted Russia’s Sea of Azov shipping in under a week.",
-      "url": "https://arstechnica.com/gadgets/2026/07/ukrainian-drone-strikes-forced-russia-to-stop-shipping-in-vital-sea-corridor/"
-    },
-    {
-      "category": "Science",
-      "title": "Floating-electron catalyst withstands week in air while making ammonia under milder conditions",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Mon, 13 Jul 2026 16:40:03 EDT",
-      "summary": "A surface electrene, BaSiN2:O, developed by researchers at Science Tokyo enables efficient ammonia synthesis under mild conditions while overcoming the long-standing air instability of electrene materials. Synthesized by doping barium silicon nitride with oxygen, the material forms a stable layer of freely floating electrons on its surface.",
-      "url": "https://phys.org/news/2026-07-electron-catalyst-week-air-ammonia.html"
-    },
-    {
-      "category": "AI",
-      "title": "California creates $3,500 rebate for new electric vehicle buyers",
-      "source": "Ars Technica - All content",
-      "date": "Mon, 13 Jul 2026 19:52:48 +0000",
-      "summary": "There's a separate $1,750 rebate for used EVs, but both rebates have a price cap.",
-      "url": "https://arstechnica.com/cars/2026/07/first-time-ev-buyers-in-california-can-now-claim-a-new-rebate/"
     },
     {
       "category": "Science",
@@ -107,36 +203,12 @@
       "url": "https://www.9marks.org/article/handling-ungodly-criticism/?utm_source=rss&utm_medium=rss&utm_campaign=handling-ungodly-criticism"
     },
     {
-      "category": "AI",
-      "title": "Apple sues OpenAI after ex-engineer allegedly used bug to steal trade secrets",
-      "source": "Ars Technica - All content",
-      "date": "Mon, 13 Jul 2026 19:17:51 +0000",
-      "summary": "OpenAI accused of conspiring with former Apple employees to steal trade secrets.",
-      "url": "https://arstechnica.com/tech-policy/2026/07/apple-sues-openai-after-ex-engineer-allegedly-used-bug-to-steal-trade-secrets/"
-    },
-    {
-      "category": "Science",
-      "title": " Sweet! Sugar found in raspberries was discovered near the Milky Way's center, hinting that life's ingredients are common in space ",
-      "source": " Latest from Live Science ",
-      "date": "Mon, 13 Jul 2026 15:00:00 +0000",
-      "summary": "Erythrulose, a sugar found in raspberries, was spotted in a gas and dust cloud near the center of the Milky Way.",
-      "url": "https://www.livescience.com/space/astronomy/sweet-sugar-found-in-raspberries-discovered-near-the-center-of-the-milky-way-hinting-that-lifes-ingredients-are-common-in-space"
-    },
-    {
       "category": "History",
       "title": "A Perfect Coincidence",
       "source": "Journal of the American Revolution",
       "date": "Mon, 13 Jul 2026 14:54:30 +0000",
       "summary": "BOOK REVIEW: A Perfect Coincidence: The Extraordinary Friendship and Astonishing Deaths of John Adams and Thomas Jefferson by Jim Rasenberger (Scribner, 2026) It is an astounding bout of timing that John Adams and Thomas Jefferson, the two men who collaborated so closely in declaring independence, died on the same Fourth of July day on the […]\nThe post A Perfect Coincidence appeared first on Journal of the American Revolution.",
       "url": "https://allthingsliberty.com/2026/07/a-perfect-coincidence/"
-    },
-    {
-      "category": "Science",
-      "title": "A 200-year-old physics experiment could help build future computers",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Mon, 13 Jul 2026 08:49:50 EDT",
-      "summary": "Scientists at Nanyang Technological University in Singapore have discovered a surprisingly simple way to create exotic light structures called optical skyrmions using a 200-year-old optical effect known as the Poisson spot. Instead of relying on expensive, highly engineered materials, they simply shine a laser at a tiny circular disc, producing stable swirling patterns in light that researchers believe could one day help power advanced data storage, communications, and computing technologies.",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260713000755.htm"
     },
     {
       "category": "Biblical Studies",
@@ -147,52 +219,12 @@
       "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-egypt/lost-christian-town-emerges-from-egypts-western-desert/"
     },
     {
-      "category": "Science",
-      "title": "Stephen Hawking's black hole laws just got a major upgrade",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Mon, 13 Jul 2026 06:41:43 EDT",
-      "summary": "Scientists have developed a new framework that could finally apply the laws of thermodynamics to real, ever-changing black holes instead of only perfectly stable ones. The advance may improve our understanding of black hole mergers, evaporation, and the powerful gravitational wave events detected by observatories like LIGO.",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260713000757.htm"
-    },
-    {
       "category": "Biblical Studies",
       "title": "Fortifying Arabia",
       "source": "Biblical Archaeology Society",
       "date": "Mon, 13 Jul 2026 10:00:52 +0000",
       "summary": "Although the urbanization of Canaan in the Early Bronze Age (c. 3300–2000 BCE) has long been established in scholarship, recent excavations in Saudi Arabia have […]\nThe post Fortifying Arabia appeared first on Biblical Archaeology Society.",
       "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/fortifying-arabia/"
-    },
-    {
-      "category": "Science",
-      "title": " Elamite helmet with divine figures: A warrior king's 3,500-year-old bronze armor depicting a raptor and gold-plated gods ",
-      "source": " Latest from Live Science ",
-      "date": "Mon, 13 Jul 2026 10:00:00 +0000",
-      "summary": "This bronze helmet has been decorated with ancient deities from a civilization that flourished before the Persian Empire took over the area that is now Iran.",
-      "url": "https://www.livescience.com/archaeology/elamite-helmet-with-divine-figures-a-warrior-kings-3-500-year-old-bronze-armor-depicting-a-raptor-and-gold-plated-gods"
-    },
-    {
-      "category": "Science",
-      "title": "Physicists say quantum mechanics may not need imaginary numbers after all",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Mon, 13 Jul 2026 03:22:08 EDT",
-      "summary": "Physicists from Heinrich Heine University Düsseldorf (HHU) have examined a fundamental property of quantum mechanics in collaboration with the German Aerospace Center (DLR). In the scientific journal Physical Review Letters, they show that this theory does not necessarily need to be formulated with imaginary numbers – real numbers can in fact also be used. The American Physical Society has also dedicated a “Highlight” to these findings in its Physics Magazine.",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260713000807.htm"
-    },
-    {
-      "category": "Theology",
-      "title": "AI and Work: What Happens When AI Can Do Your Job Better?",
-      "source": "The Gospel Coalition",
-      "date": "Mon, 13 Jul 2026 04:02:00 +0000",
-      "summary": "Christopher Watkin and Rachel Gilson talk about AI, work, and what Christians should hold on to when technology starts changing the way we create, serve, and make decisions.",
-      "url": "https://www.thegospelcoalition.org/podcasts/silicon-spiritualities/ai-and-work-what-happens-when-ai-can-do-your-job-better/"
-    },
-    {
-      "category": "Theology",
-      "title": "The Little White Church Is Empty",
-      "source": "The Gospel Coalition",
-      "date": "Mon, 13 Jul 2026 04:00:00 +0000",
-      "summary": "Thousands of rural congregations are struggling to keep their pulpits filled and their doors open.",
-      "url": "https://www.thegospelcoalition.org/article/little-white-church/"
     },
     {
       "category": "Biblical Studies",
@@ -203,28 +235,12 @@
       "url": "https://www.biblicalarchaeology.org/daily/news/the-animals-went-in-two-by-two-according-to-babylonian-ark-tablet/"
     },
     {
-      "category": "Theology",
-      "title": "Don’t Overlook Hell’s Evangelistic Appeal",
-      "source": "The Gospel Coalition",
-      "date": "Sun, 12 Jul 2026 04:00:00 +0000",
-      "summary": "Humanity was created good, but we currently live in a fallen world. We shouldn’t be surprised when bad people do bad things.",
-      "url": "https://www.thegospelcoalition.org/article/hell-evangelistic-appeal/"
-    },
-    {
       "category": "AI",
       "title": "How Deutsche Telekom is rewiring telecommunications with AI",
       "source": "OpenAI News",
       "date": "Fri, 10 Jul 2026 07:00:00 GMT",
       "summary": "How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice.",
       "url": "https://openai.com/index/deutsche-telekom"
-    },
-    {
-      "category": "AI",
-      "title": "Getting started with ChatGPT",
-      "source": "OpenAI News",
-      "date": "Fri, 10 Jul 2026 00:00:00 GMT",
-      "summary": "Learn how to use ChatGPT, start your first conversation, and discover simple ways to write, brainstorm, and solve problems with AI.",
-      "url": "https://openai.com/academy/getting-started"
     },
     {
       "category": "Theology",
@@ -235,28 +251,12 @@
       "url": "https://www.9marks.org/review/how-should-christians-think-about-the-law-of-moses/?utm_source=rss&utm_medium=rss&utm_campaign=how-should-christians-think-about-the-law-of-moses"
     },
     {
-      "category": "AI",
-      "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
-      "source": "OpenAI News",
-      "date": "Thu, 09 Jul 2026 13:00:00 GMT",
-      "summary": "Learn how GPT-5.6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork for faster, higher-quality work.",
-      "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot"
-    },
-    {
       "category": "History",
       "title": "Counterfeiting with Thomas Davis in the New United States: Another American Revolution",
       "source": "Journal of the American Revolution",
       "date": "Thu, 09 Jul 2026 09:00:50 +0000",
       "summary": "The beginning of American Revolution was also the beginning of the golden age of counterfeiting paper money. The British Currency Act of 1764 so restricted the circulation of currency that this crime largely disappeared, as colonists listed the lack of liquid capital among their grievances. The Continental Congress and the states, however, needed to pay […]\nThe post Counterfeiting with Thomas Davis in the New United States: Another American Revolution appeared first on Journal of the American Revolution.",
       "url": "https://allthingsliberty.com/2026/07/counterfeiting-with-thomas-davis-in-the-new-united-states-another-american-revolution/"
-    },
-    {
-      "category": "History",
-      "title": "This Week on Dispatches: Ray Raphael on the First Declarations of Independence",
-      "source": "Journal of the American Revolution",
-      "date": "Wed, 08 Jul 2026 08:00:00 +0000",
-      "summary": "On this week’s Dispatches, host Brady Crytzer interviews historian, author, and JAR Editorial Board member Ray Raphael on statements of independence from Great Britain before the Declaration of Independence was announced in Philadelphia, July 4, 1776. New episodes of Dispatches are available for free every Sunday evening(Eastern United States Time), first on iTunes, Stitcher, Google […]\nThe post This Week on Dispatches: Ray Raphael on the First Declarations of Independence appeared first on Journal of the American Revolution.",
-      "url": "https://allthingsliberty.com/2026/07/this-week-on-dispatches-ray-raphael-on-the-first-declarations-of-independence/"
     },
     {
       "category": "Theology",
