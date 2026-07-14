@@ -1,102 +1,118 @@
 {
-  "lastUpdated": "2026-07-14T17:06:10.457Z",
+  "lastUpdated": "2026-07-14T22:51:05.477Z",
   "articleCount": 36,
   "articles": [
     {
       "category": "Science",
-      "title": "Researchers develop harder, longer-lasting silver plating",
+      "title": "Ocean acidification emerging as a planetary signal linking today's carbon emissions to Earth's deep-time memory",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Tue, 14 Jul 2026 13:00:07 EDT",
-      "summary": "A research team led by Seil Kim of the Korea Institute of Materials Science (KIMS) Energy & Environmental Materials Research Division has developed an Ag–PTFE composite plating technology that produces silver coatings with greater hardness and wear resistance than conventional silver plating by stably dispersing PTFE nanoparticles in a cyanide-free acidic silver plating bath.",
-      "url": "https://phys.org/news/2026-07-harder-longer-silver-plating.html"
+      "date": "Tue, 14 Jul 2026 18:00:04 EDT",
+      "summary": "When most people hear the phrase \"ocean acidification,\" they think of coral reefs, shellfish or declining fisheries. Those concerns are real. But while working on our recent research, I found myself asking a different question: What if ocean acidification is telling us something much bigger than the health of marine ecosystems?",
+      "url": "https://phys.org/news/2026-07-ocean-acidification-emerging-planetary-linking.html"
     },
     {
       "category": "Science",
-      "title": "Moderate heat is enough to trigger signs of inflammation and coagulation in dairy cows",
+      "title": "Tailored limits could manage 350,000 chemicals better than zero-release goal",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Tue, 14 Jul 2026 13:00:05 EDT",
-      "summary": "Climate change is transforming livestock farming—and at a faster rate than many anticipate. More frequent and intense heat waves place a heavy physiological strain on dairy cows.",
-      "url": "https://phys.org/news/2026-07-moderate-trigger-inflammation-coagulation-dairy.html"
-    },
-    {
-      "category": "Science",
-      "title": "AI helps scientists improve prediction of which DNA sequences bind to each other",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Tue, 14 Jul 2026 12:50:02 EDT",
-      "summary": "Researchers have demonstrated a novel AI model that can predict which DNA molecules bind with other DNA molecules. A more thorough understanding of these hypercomplex binding relationships has utility in applications ranging from biomedical diagnostic tools to DNA computing.",
-      "url": "https://phys.org/news/2026-07-ai-scientists-dna-sequences.html"
-    },
-    {
-      "category": "AI",
-      "title": "Measuring Input Latency on Linux: X11 vs. Wayland, VRR, and DXVK",
-      "source": "Hacker News: Front Page",
-      "date": "Tue, 14 Jul 2026 16:36:06 +0000",
-      "summary": "Article URL: https://marco-nett.de/blog/measuring-input-latency-on-linux-x11-vs-wayland-vrr-dxvk/\nComments URL: https://news.ycombinator.com/item?id=48909424\nPoints: 9\n# Comments: 1",
-      "url": "https://marco-nett.de/blog/measuring-input-latency-on-linux-x11-vs-wayland-vrr-dxvk/"
-    },
-    {
-      "category": "AI",
-      "title": "Launch HN: Agnost AI (YC S26) – Extract user feedback from agent conversations",
-      "source": "Hacker News: Front Page",
-      "date": "Tue, 14 Jul 2026 16:06:18 +0000",
-      "summary": "Hey HN, we’re Shubham & Parth, childhood friends building Agnost AI (https://agnost.ai), product analytics for teams building chat and voice agents.\nWe read production conversations and find behavioral failures like users rageprompting (cursing at the agent), repeatedly rephrasing the same request, correcting the agent, asking for missing features, or leaving after an answer that was technically successful.\nWe have an interactive demo with no signup here: https://app.agnost.ai?demo=true\nHere's a demo video: https://www.tella.tv/video/agnost-ai-launch-hn-demo-9haa\nThe core problem is that chat and voice products do not have the same metrics as web apps. When the product interface is language, clicks and funnels become much less useful. Users also rarely give explicit feedback, and when they do it's usually sugarcoated. I barely type /feedback in Claude or Codex myself. Most users just curse, ask again, correct the agent, or leave. So product engineers get technical visibility from latency, errors, and traces, but still have to guess whether users got what they wanted.\nWe got here after building around agents for the last year and got a couple of founders asking for something like a PostHog for conversations for the AI assistants they were building.\nWe are not trying to be in the observability or evals space. Observability tells you what happened technically. Evals validate cases you already know. We're more on the discovery side like what users wanted, where they got frustrated, what they asked for repeatedly, and what new evals should exist.\nTeams send us agent conversation messages through SDKs or OTel, optionally with metadata like account, plan, source, organization, etc. We cluster conversations into product-specific intents. Feature requests and bugs are default categories; most other clusters are created dynamically from the customer’s data and evolve over time. You can create your own cluster in plain English. If a cluster gets too broad, we split it. If a new pattern appears, we suggest it.\nOne AI video editor company used Agnost AI to find feature requests hidden inside chat. The biggest one was that around 70 users wanted auto-subtitles, but users said it as “add this text in this frame” 12x in a single session, “can you caption it”, “give me transcript of audio” and variations across languages. The team later built the feature.\nDoing this over millions of messages without sending everything to an LLM was the hard part initially. In ClickHouse, “fetch the last 50 events by time across conversations” and “fetch all events in this conversation” want different sort orders, so we had to iterate a lot on sorting keys, partitions, materialized views, and projections.\nFor finding new clusters, sending everything through an LLM was too slow and expensive. HDBSCAN-style embedding clustering also gets painful at scale because of pairwise comparisons. We first split conversations into segments based on cosine drift, run BIRCH to compress the candidate space, and then use HDBSCAN-like clustering on the smaller set. For matching existing clusters, we use embeddings, smaller classifiers/BERT-style models, and LLMs only as fallback for ambiguous cases.\nWe’re live with multiple companies and ingesting ~1M chat and voice messages per day. Pricing is public: Starter is free, Pro is $499/month, and Enterprise is for higher volume, security, retention needs. We use each customer’s data only for that customer. We are SOC 2 Type 1 compliant, Type 2 is in progress, and our SDKs are on PyPI and npm.\nWe’d love feedback from the HN community and people building chat or voice agents: how do you detect these signals today, what feedback methods have worked, and what would block you from trying this? Happy to answer questions and take criticism.\nComments URL: https://news.ycombinator.com/item?id=48908950\nPoints: 11\n# Comments: 0",
-      "url": "https://agnost.ai"
+      "date": "Tue, 14 Jul 2026 18:00:03 EDT",
+      "summary": "Man-made substances surround us everywhere in our daily lives. According to the current understanding of the \"Planetary Boundaries\" framework, the carrying capacity for so-called novel entities—which include chemicals, microplastics, and nanomaterials—is considered to have been exceeded, and a target value of \"zero\" has been set for their release into the environment.",
+      "url": "https://phys.org/news/2026-07-tailored-limits-chemicals-goal.html"
     },
     {
       "category": "Space",
-      "title": " This cosmic 'lighthouse' is blazing a magnetic trail through the Milky Way ",
+      "title": " SpaceX launches flight-proven rocket for 600th time, sending Starlink satellites to orbit ",
       "source": " Latest from Space.com ",
-      "date": "Tue, 14 Jul 2026 16:00:00 +0000",
-      "summary": "For the first time, astronomers have directly mapped the magnetic field surrounding one of the Milky Way's most unusual pulsars, confirming a decades-old prediction about how particles stream away from the rapidly spinning stellar corpse.",
-      "url": "https://www.space.com/astronomy/stars/this-cosmic-lighthouse-is-blazing-a-magnetic-trail-through-the-milky-way"
+      "date": "Tue, 14 Jul 2026 22:00:00 +0000",
+      "summary": "SpaceX launched Starlink satellites on a pair of Falcon 9 rockets eight hours apart from opposite coasts on July 13-14, 2026. The second launch was the 600th use of a flight-proven booster.",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-15-14-b1093-vsfb-ocisly-10-45-b1080-ccsfs-asog"
     },
     {
       "category": "AI",
-      "title": "Show HN: Opening lines of famous literary works",
+      "title": "Financing the AI boom: from cash flows to debt [pdf]",
       "source": "Hacker News: Front Page",
-      "date": "Tue, 14 Jul 2026 15:24:49 +0000",
-      "summary": "This came from an idea that had been knocking around in my head for several years. I had been collecting opening lines of famous works and thought it would be cool to see one everyday as I opened the browser. I tried different styles but landed on the simple background with the text, let the words speak for themselves. Over time i've added more quotes I believe now there are close to 60, so hopefully you can refresh a few times and get a fresh one every time. I hope you guys like it, enjoy!\nComments URL: https://news.ycombinator.com/item?id=48908271\nPoints: 62\n# Comments: 37",
-      "url": "https://www.verbaprima.com/"
+      "date": "Tue, 14 Jul 2026 21:58:36 +0000",
+      "summary": "Article URL: https://www.bis.org/publ/bisbull120.pdf\nComments URL: https://news.ycombinator.com/item?id=48913443\nPoints: 13\n# Comments: 1",
+      "url": "https://www.bis.org/publ/bisbull120.pdf"
+    },
+    {
+      "category": "Science",
+      "title": "Photo: Hubble sees crimson cloud and stars",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Tue, 14 Jul 2026 17:40:01 EDT",
+      "summary": "Blue and white stars shine brilliantly against a crimson background of glowing gas in this July 3, 2026, image of stellar nursery LH 95 from NASA's Hubble Space Telescope.",
+      "url": "https://phys.org/news/2026-07-photo-hubble-crimson-cloud-stars.html"
     },
     {
       "category": "AI",
-      "title": "New York bans data center construction for a year, rattling AI industry",
+      "title": "Microsoft Deletes User's 25-Year-Old Account with Thousands Spent on Games",
+      "source": "Hacker News: Front Page",
+      "date": "Tue, 14 Jul 2026 21:35:52 +0000",
+      "summary": "Article URL: https://xcancel.com/JoshuaKhane/status/2076918699248803977\nComments URL: https://news.ycombinator.com/item?id=48913220\nPoints: 35\n# Comments: 12",
+      "url": "https://xcancel.com/JoshuaKhane/status/2076918699248803977"
+    },
+    {
+      "category": "Science",
+      "title": " Scientists show that DNA can last for up to 50,000 years in Africa ‪—‬ much longer than previously thought ",
+      "source": " Latest from Live Science ",
+      "date": "Tue, 14 Jul 2026 21:22:25 +0000",
+      "summary": "Researchers extracted DNA from long-dead animals that lived in South Africa during the last ice age, revealing that genetic material lasts longer in hot climates than was previously thought.",
+      "url": "https://www.livescience.com/archaeology/human-evolution/scientists-show-that-dna-can-last-for-up-to-50-000-years-in-africa-much-longer-than-previously-thought"
+    },
+    {
+      "category": "AI",
+      "title": "Dependabot version updates introduce default package cooldown",
+      "source": "Hacker News: Front Page",
+      "date": "Tue, 14 Jul 2026 21:15:51 +0000",
+      "summary": "Article URL: https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown/\nComments URL: https://news.ycombinator.com/item?id=48913050\nPoints: 37\n# Comments: 15",
+      "url": "https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown/"
+    },
+    {
+      "category": "Science",
+      "title": " Scientists are deep-freezing koala eggs and sperm to protect the species from extinction ",
+      "source": " Latest from Live Science ",
+      "date": "Tue, 14 Jul 2026 21:15:19 +0000",
+      "summary": "Researchers at the University of Queensland in Australia want to freeze koala sex cells in liquid nitrogen, which could preserve the DNA for decades until we need it, an expert said.",
+      "url": "https://www.livescience.com/animals/land-mammals/scientists-are-deep-freezing-koala-eggs-and-sperm-to-protect-the-species-from-extinction"
+    },
+    {
+      "category": "Space",
+      "title": " Scientists spot 4 superdense stellar corpses hiding behind their red dwarf companions ",
+      "source": " Latest from Space.com ",
+      "date": "Tue, 14 Jul 2026 21:00:00 +0000",
+      "summary": "\"Nearby isolated white dwarfs are usually easy to find, but we couldn't see these four stars directly.\"",
+      "url": "https://www.space.com/astronomy/stars/scientists-spot-4-superdense-stellar-corpses-hiding-behind-their-red-dwarf-companions"
+    },
+    {
+      "category": "AI",
+      "title": "Lawsuit claims Meta's layoff decisions were made by AI, not humans",
       "source": "Ars Technica - All content",
-      "date": "Tue, 14 Jul 2026 15:06:28 +0000",
-      "summary": "New York’s data center moratorium may become the blueprint for anti-AI movement.",
-      "url": "https://arstechnica.com/tech-policy/2026/07/new-york-is-the-first-state-to-impose-a-data-center-moratorium/"
+      "date": "Tue, 14 Jul 2026 20:05:53 +0000",
+      "summary": "Meta denies using AI to terminate workers with disabilities and medical problems.",
+      "url": "https://arstechnica.com/tech-policy/2026/07/lawsuit-claims-metas-layoff-decisions-were-made-by-ai-not-humans/"
+    },
+    {
+      "category": "Space",
+      "title": " The 1st of 10,000 'missing' black holes in the Omega Centauri star cluster has been found by the Hubble and James Webb space telescopes ",
+      "source": " Latest from Space.com ",
+      "date": "Tue, 14 Jul 2026 20:00:00 +0000",
+      "summary": "The first of 10,000 missing black holes in the Omega Centauri globular cluster has been found thanks to teamwork by the Hubble and James Webb space telescopes.",
+      "url": "https://www.space.com/astronomy/black-holes/the-1st-of-10-000-missing-black-holes-in-the-omega-centauri-star-cluster-has-been-found-by-the-hubble-and-james-webb-space-telescopes"
     },
     {
       "category": "AI",
       "title": "Probe into explosive diarrheal cases points to Taco Bell and bad lettuce",
       "source": "Ars Technica - All content",
-      "date": "Tue, 14 Jul 2026 14:49:02 +0000",
-      "summary": "Health officials have not confirmed a source yet—and there may be multiple sources.",
+      "date": "Tue, 14 Jul 2026 19:00:02 +0000",
+      "summary": "Federal officials have not confirmed a source yet—and there may be multiple sources.",
       "url": "https://arstechnica.com/health/2026/07/taco-bell-eyed-in-explosive-diarrheal-outbreak-leafy-greens-suspected/"
     },
     {
-      "category": "Space",
-      "title": " Honeycomb structures spotted on Mars | Space photo of the day for July 14, 2026 ",
-      "source": " Latest from Space.com ",
-      "date": "Tue, 14 Jul 2026 14:00:00 +0000",
-      "summary": "What could we be looking at?",
-      "url": "https://www.space.com/astronomy/mars/honeycomb-structures-spotted-on-mars-space-photo-of-the-day-for-july-14-2026"
-    },
-    {
       "category": "AI",
-      "title": "Boomers, not Gen Z, are the generation cutting back most on alcohol",
+      "title": "US military sent explosive drone boats into combat for the first time",
       "source": "Ars Technica - All content",
-      "date": "Tue, 14 Jul 2026 13:19:16 +0000",
-      "summary": "New research overturns assumption that abstinent younger drinkers are behind weak demand.",
-      "url": "https://arstechnica.com/health/2026/07/boomers-not-gen-z-are-the-generation-cutting-back-most-on-alcohol/"
-    },
-    {
-      "category": "Space",
-      "title": " The biggest skywatching day of 2026 is coming. Here's what you'll see in North America and Europe ",
-      "source": " Latest from Space.com ",
-      "date": "Tue, 14 Jul 2026 12:00:00 +0000",
-      "summary": "Whether you're in Spain, Iceland, the U.K. or North America, here's exactly what you'll see in the sky on Aug. 12 — and when to look.",
-      "url": "https://www.space.com/stargazing/the-biggest-skywatching-day-of-2026-is-coming-heres-what-youll-see-in-north-america-and-europe"
+      "date": "Tue, 14 Jul 2026 18:00:01 +0000",
+      "summary": "US military’s drone boats struck an Iranian naval port as war heats up again.",
+      "url": "https://arstechnica.com/ai/2026/07/us-military-sent-explosive-drone-boats-into-combat-for-the-first-time/"
     },
     {
       "category": "Biblical Studies",
@@ -137,14 +153,6 @@
       "date": "Tue, 14 Jul 2026 09:03:11 +0000",
       "summary": "Live Science spoke with sea level expert Sönke Dangendorf about how human-caused sea-level rise is increasing extreme water levels, as once-in-a-century flooding events become decadal.",
       "url": "https://www.livescience.com/planet-earth/climate-change/it-affects-your-daily-life-suddenly-sea-level-researcher-explains-why-once-in-a-century-floods-could-become-the-new-normal"
-    },
-    {
-      "category": "Science",
-      "title": " Space shuttle photobombs Earth for the final time, 15 years ago — Earth from space ",
-      "source": " Latest from Live Science ",
-      "date": "Tue, 14 Jul 2026 08:13:42 +0000",
-      "summary": "This 2011 astronaut photo captured one of NASA's iconic space shuttles passing between Earth and the International Space Station for the very last time.",
-      "url": "https://www.livescience.com/planet-earth/space-shuttle-photobombs-earth-for-the-final-time-15-years-ago-earth-from-space"
     },
     {
       "category": "Science",
@@ -196,14 +204,6 @@
     },
     {
       "category": "AI",
-      "title": "How sales teams use ChatGPT Work",
-      "source": "OpenAI News",
-      "date": "Tue, 14 Jul 2026 00:00:00 GMT",
-      "summary": "See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
-      "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex"
-    },
-    {
-      "category": "AI",
       "title": "How data science teams use ChatGPT Work",
       "source": "OpenAI News",
       "date": "Tue, 14 Jul 2026 00:00:00 GMT",
@@ -211,12 +211,12 @@
       "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex"
     },
     {
-      "category": "Science",
-      "title": " 5 'extremely rare' iron shackles discovered in France highlight Celtic slave trade 2,300 years ago ",
-      "source": " Latest from Live Science ",
-      "date": "Mon, 13 Jul 2026 19:50:21 +0000",
-      "summary": "Archaeologists were surprised to find evidence of shackles in a pre-Roman settlement in France.",
-      "url": "https://www.livescience.com/archaeology/5-extremely-rare-iron-shackles-discovered-in-france-highlight-celtic-slave-trade-2-300-years-ago"
+      "category": "AI",
+      "title": "How sales teams use ChatGPT Work",
+      "source": "OpenAI News",
+      "date": "Tue, 14 Jul 2026 00:00:00 GMT",
+      "summary": "See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
+      "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex"
     },
     {
       "category": "Theology",
