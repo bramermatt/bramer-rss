@@ -1,102 +1,134 @@
 {
-  "lastUpdated": "2026-07-16T17:06:53.767Z",
-  "articleCount": 36,
+  "lastUpdated": "2026-07-16T22:51:14.929Z",
+  "articleCount": 39,
   "articles": [
     {
+      "category": "AI",
+      "title": "My car's OTA update broke Android Auto, and it's a indictment of modern software",
+      "source": "Hacker News: Front Page",
+      "date": "Thu, 16 Jul 2026 22:29:44 +0000",
+      "summary": "Article URL: https://imdanielkendall.com/the-great-software-regress-how-move-fast-and-break-things-broke-our-lives/\nComments URL: https://news.ycombinator.com/item?id=48941129\nPoints: 4\n# Comments: 0",
+      "url": "https://imdanielkendall.com/the-great-software-regress-how-move-fast-and-break-things-broke-our-lives/"
+    },
+    {
+      "category": "AI",
+      "title": "FIFA World Cup 2026 Data Portraits",
+      "source": "Hacker News: Front Page",
+      "date": "Thu, 16 Jul 2026 22:21:59 +0000",
+      "summary": "Article URL: https://wc26.bogachev.fr/index.html\nComments URL: https://news.ycombinator.com/item?id=48941056\nPoints: 14\n# Comments: 8",
+      "url": "https://wc26.bogachev.fr/index.html"
+    },
+    {
+      "category": "AI",
+      "title": "Show HN: ReasonGate- An explainable gate that blocks LLM prompt injection",
+      "source": "Hacker News: Front Page",
+      "date": "Thu, 16 Jul 2026 22:21:31 +0000",
+      "summary": "Article URL: https://github.com/cgrtml/reasongate\nComments URL: https://news.ycombinator.com/item?id=48941051\nPoints: 3\n# Comments: 0",
+      "url": "https://github.com/cgrtml/reasongate"
+    },
+    {
       "category": "Science",
-      "title": " Oops! Ancient Bronze Age shaman long assumed to be a man was actually a woman, DNA reveals ",
+      "title": "Algae fed by farm waste carpet Italy's warm River Po",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Thu, 16 Jul 2026 18:20:04 EDT",
+      "summary": "Rowers on the River Po in Turin are battling vast blooms of algae, as high temperatures in northwest Italy and runoff from farms create ideal conditions for rampant plant growth.",
+      "url": "https://phys.org/news/2026-07-algae-fed-farm-carpet-italy.html"
+    },
+    {
+      "category": "Science",
+      "title": "Single fission experiment maps excess gamma rays from more than a dozen unstable nuclei",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Thu, 16 Jul 2026 17:40:01 EDT",
+      "summary": "In a single experiment, physicists have measured the \"excess\" emission of high-energy gamma rays from more than a dozen heavy, unstable atomic nuclei. Mapping the gamma-ray emissions of so many isotopes produced in nuclear fission marks an important step toward a better understanding of one of the key phenomena in modern nuclear physics: the fission process itself.",
+      "url": "https://phys.org/news/2026-07-fission-excess-gamma-rays-dozen.html"
+    },
+    {
+      "category": "Science",
+      "title": "Political representatives found more polarized on climate change than their constituents",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Thu, 16 Jul 2026 17:00:01 EDT",
+      "summary": "It is no surprise that there are political disagreements over climate protection measures. Parties differ in their assessments of which measures they consider effective, fair or economically acceptable. However, the question of whether climate change is mainly human-caused is not a matter of political preference but a well-documented scientific fact.",
+      "url": "https://phys.org/news/2026-07-political-polarized-climate-constituents.html"
+    },
+    {
+      "category": "AI",
+      "title": "T-Mobile bungled forced plan migration, canceling some users' free lines",
+      "source": "Ars Technica - All content",
+      "date": "Thu, 16 Jul 2026 20:52:47 +0000",
+      "summary": "T-Mobile to restore free lines lost during plan migration, but price hikes remain.",
+      "url": "https://arstechnica.com/tech-policy/2026/07/t-mobile-bungled-forced-plan-migration-canceling-some-users-free-lines/"
+    },
+    {
+      "category": "AI",
+      "title": "It's official: EU will force Google to share search data and open up AI on Android",
+      "source": "Ars Technica - All content",
+      "date": "Thu, 16 Jul 2026 20:41:45 +0000",
+      "summary": "Google says these changes could endanger user privacy and security.",
+      "url": "https://arstechnica.com/gadgets/2026/07/its-official-eu-will-force-google-to-share-search-data-and-open-up-ai-on-android/"
+    },
+    {
+      "category": "AI",
+      "title": "xAI can’t deny Grok makes CSAM anymore. So it’s suing users.",
+      "source": "Ars Technica - All content",
+      "date": "Thu, 16 Jul 2026 20:26:23 +0000",
+      "summary": "Elon Musk's xAI files first lawsuit against Grok user accused of making child sex images.",
+      "url": "https://arstechnica.com/tech-policy/2026/07/xai-cant-deny-grok-makes-csam-anymore-so-its-suing-users/"
+    },
+    {
+      "category": "Science",
+      "title": " Ancient chariot emerges among remains of mysterious society that burned down its own buildings and then disappeared ",
       "source": " Latest from Live Science ",
-      "date": "Thu, 16 Jul 2026 17:04:42 +0000",
-      "summary": "A DNA analysis of a 4,000-year-old skeleton buried with an elaborate metalworking tool kit near Stonehenge has revealed that the individual, long assumed to be a male shaman, was actually a woman.",
-      "url": "https://www.livescience.com/archaeology/oops-ancient-bronze-age-shaman-long-assumed-to-be-a-man-was-actually-a-woman-dna-reveals"
-    },
-    {
-      "category": "Science",
-      "title": "Pump that recreates human heartbeat blood flow on lab chips inspired by an accordionist",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Thu, 16 Jul 2026 13:00:03 EDT",
-      "summary": "For more than 25 years, lab-on-a-chip technology has allowed researchers to model human organs and blood vessels using real human cells in artificial microscopic environments. These microphysiological systems (MPS) may replicate human cells and mimic organs or even full organ systems under numerous conditions. They have become key to studying everything from heart disease to the effectiveness of new drugs. However, they have been held back by one major limitation: an inability to accurately re-create the blood flow waveforms generated by the human heart.",
-      "url": "https://phys.org/news/2026-07-recreates-human-heartbeat-blood-lab.html"
-    },
-    {
-      "category": "Science",
-      "title": "Climate change, urban growth fuel Lagos flooding",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Thu, 16 Jul 2026 13:00:01 EDT",
-      "summary": "After hours of torrential overnight rain lashed Lagos recently, church pastor Samuel Akpan spent most of the next day bailing water from his flooded parsonage in an upscale district of Nigeria's commercial capital.",
-      "url": "https://phys.org/news/2026-07-climate-urban-growth-fuel-lagos.html"
+      "date": "Thu, 16 Jul 2026 20:04:45 +0000",
+      "summary": "An ancient bronze chariot recently discovered in Spain was used by a culture that mysteriously disappeared from the archaeological record.",
+      "url": "https://www.livescience.com/archaeology/ancient-chariot-emerges-among-remains-of-mysterious-society-that-burned-down-its-own-buildings-and-then-disappeared"
     },
     {
       "category": "Space",
-      "title": " An animated sci-fi rom-com wasn't on our wish list, but we'll be damned if 'Not Alone' doesn't look sweet, stylish, and hilarious ",
+      "title": " Astronomers discover landslides on Pluto large enough to bury entire cities on Earth ",
       "source": " Latest from Space.com ",
-      "date": "Thu, 16 Jul 2026 17:00:00 +0000",
-      "summary": "It's young rocket scientists in love and rowdy alien refugees when this animated adventure launches in 2027.",
-      "url": "https://www.space.com/entertainment/space-movies-shows/an-animated-sci-fi-rom-com-wasnt-on-our-wish-list-but-well-be-damned-if-not-alone-doesnt-look-sweet-stylish-and-hilarious"
+      "date": "Thu, 16 Jul 2026 20:00:00 +0000",
+      "summary": "Evidence for landslides down steep crater walls on Pluto have been found in imagery from NASA's New Horizons mission.",
+      "url": "https://www.space.com/astronomy/pluto/astronomers-discover-landslides-on-pluto-large-enough-to-bury-entire-cities-on-earth"
     },
     {
       "category": "Science",
-      "title": " 'This was one of the most arduous expeditions I've ever done': Scientists confirm that 15-mile-wide pit found on Google Maps is ancient meteor crater ",
+      "title": " Nobel Prize-winning physicist and team use Claude AI to solve decades-old math puzzle ",
       "source": " Latest from Live Science ",
-      "date": "Thu, 16 Jul 2026 16:54:52 +0000",
-      "summary": "Joël Lapointe was using Google Maps to plan a camping trail through Quebec's Côte-Nord region when he stumbled across a large indentation. Now, scientists have confirmed that the pit was indeed a meteor impact crater that dates back roughly 390 million years.",
-      "url": "https://www.livescience.com/planet-earth/geology/this-was-one-of-the-most-arduous-expeditions-ive-ever-done-scientists-confirm-that-15-mile-wide-pit-found-on-google-maps-is-ancient-meteor-crater"
-    },
-    {
-      "category": "AI",
-      "title": "Launch HN: Traceforce (YC S26) – Secure AI apps, one device at a time",
-      "source": "Hacker News: Front Page",
-      "date": "Thu, 16 Jul 2026 16:52:16 +0000",
-      "summary": "Hey HN, we’re Xia and Varun, the founders of Traceforce (https://www.traceforce.ai/). Traceforce provides visibility and control over AI apps such as ChatGPT, Claude etc directly on all devices (laptops, sandboxes, virtual machines) by discovering not just which apps are being used but also how they are connected to other data sources via MCPs. We also have an open-source dynamic MCP pentesting tool https://github.com/traceforce/mcp-xray to detect vulnerable MCPs.\nThe purpose of Traceforce is to:\n- Give a company’s employees a standardized way to ensure that AI software running on their device is operating safely\n- Give the company’s security team visibility of the activities of AI software on the company’s devices, and to detect and prevent unsafe actions and security breaches as early as possible.\nHow Traceforce works\n1. Traceforce is installed on each device as a lightweight binary and browser extension.\n2. Within 30 minutes, the device is uploading live data to the company profile, displaying all the AI agents/apps running across all company devices on a dashboard.\n3. Company security staff can monitor the activity of all the agents in real time, implement controls, and be alerted to any security risks as soon as they arise.\nHere’s the video demo: https://youtu.be/IdK2WKg7kaM\nThe inspiration for Traceforce came via Xia’s experience as Director of Engineering at a startup called Clumio (which was acquired by Commvault in Oct 2024). Being able to monitor how team members are using AI without slowing them down was a top priority at Clumio. After speaking with 50+ CISOs and CIOs, it became clear that this is a much-needed solution right now across industries. We keep hearing that new AI features are being adopted so quickly and so broadly that visibility and control just can't keep up.\nTraceforce is transparent about what we monitor and collect. By default, Traceforce collects only metadata and telemetry about the AI applications, MCPs, and tools running on a device. Security teams can enable options to inspect tool calls for the purpose of detecting, warning on, or blocking predefined high-risk or potentially destructive actions. All content inspection happens locally on the device. User prompts are never stored unless explicitly configured by the organization's security administrators.\nWe work closely with end-users of the product, and once they understand what is being monitored/shared, they actually have great comfort that they have a powerful layer of protection on their device to prevent security incidents. It enables them to just focus on their work without worrying about what leaks and breaches may be happening under the hood without their awareness.\nTraceforce is currently deployed across more than 1,000 devices at 10 organizations. On average, we discover over 15 AI applications per device with each application connected to 5-10 MCPs. We've helped customers identify exposed plaintext secrets in MCP configurations, prevent API keys from leaking through AI-generated code, and warn developers before executing potentially destructive commands such as “DROP TABLE”. Our \"warn and acknowledge\" approach has been especially well received, giving developers the freedom to work while helping them avoid costly mistakes.\nWe're looking to work with security, IT, and AI platform teams at small to medium enterprises (200+ employees) that are rapidly adopting AI coding assistants, ChatGPT, Claude, and MCPs. If you're struggling to understand what AI tools people use to boost their productivity or need a practical way to reduce AI-related security risk without slowing folks down, we'd love to talk.\nYou can get started with a free trial at https://www.traceforce.ai or reach out directly to schedule a demo and discuss your environment.\nComments URL: https://news.ycombinator.com/item?id=48937020\nPoints: 2\n# Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=48937020"
-    },
-    {
-      "category": "AI",
-      "title": "'We used acid to sabotage Microsoft hyperscale data centre construction'",
-      "source": "Hacker News: Front Page",
-      "date": "Thu, 16 Jul 2026 16:49:50 +0000",
-      "summary": "Article URL: https://techwerkers.nl/en/posts/aanval-microsoft-ai-datacentrum/\nComments URL: https://news.ycombinator.com/item?id=48936982\nPoints: 8\n# Comments: 0",
-      "url": "https://techwerkers.nl/en/posts/aanval-microsoft-ai-datacentrum/"
-    },
-    {
-      "category": "AI",
-      "title": "Detecting LLM-Generated Texts with \"Classical\" Machine Learning",
-      "source": "Hacker News: Front Page",
-      "date": "Thu, 16 Jul 2026 16:41:37 +0000",
-      "summary": "Article URL: https://blog.lyc8503.net/en/post/llm-classifier/\nComments URL: https://news.ycombinator.com/item?id=48936880\nPoints: 9\n# Comments: 1",
-      "url": "https://blog.lyc8503.net/en/post/llm-classifier/"
-    },
-    {
-      "category": "Science",
-      "title": "Cellular transporter protein essential for nutrient absorption in pathogenic fungi may offer new treatment approaches",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Thu, 16 Jul 2026 12:40:04 EDT",
-      "summary": "They are the cell's \"gatekeepers\": specialized proteins, known as transporters, selectively control which substances enter a cell and which do not. Researchers at the University of Münster and the National and Kapodistrian University of Athens have investigated these transporters in a specific case: the UapA transporter of the model fungus Aspergillus nidulans. The findings are not only relevant to cell biology but could also offer new approaches to treating fungal infections.",
-      "url": "https://phys.org/news/2026-07-cellular-protein-essential-nutrient-absorption.html"
-    },
-    {
-      "category": "AI",
-      "title": "OnePlus ends phone releases in US and Europe, further reducing smartphone choice",
-      "source": "Ars Technica - All content",
-      "date": "Thu, 16 Jul 2026 16:29:46 +0000",
-      "summary": "OnePlus promises to continue supporting the phones it's already released.",
-      "url": "https://arstechnica.com/gadgets/2026/07/oneplus-ends-phone-releases-in-us-and-europe-further-reducing-smartphone-choice/"
-    },
-    {
-      "category": "AI",
-      "title": "Could China and Russia really destroy Starlink? Only with a boomerang.",
-      "source": "Ars Technica - All content",
-      "date": "Thu, 16 Jul 2026 16:19:28 +0000",
-      "summary": "\"We will likely have similar concerns and discussions when China fields its Starlink-like constellation.\"",
-      "url": "https://arstechnica.com/space/2026/07/could-china-and-russia-really-destroy-starlink-only-with-a-boomerang/"
+      "date": "Thu, 16 Jul 2026 19:16:53 +0000",
+      "summary": "A decade after uncovering a mysterious mathematical relationship in the physics of \"jamming,\" Nobel laureate Giorgio Parisi and collaborator Francesco Zamponi have finally cracked the case — not with a radical new theory, but with the help of the generative AI Claude.",
+      "url": "https://www.livescience.com/physics-mathematics/mathematics/nobel-prize-winning-physicist-and-team-use-claude-ai-to-solve-decades-old-math-puzzle"
     },
     {
       "category": "Space",
-      "title": " Stephen Hawking's famous 'leaky' black hole theory gets much-needed update ",
+      "title": "NASA Study Finds Near-Earth Asteroid Is Actually Comet",
+      "source": "NASA",
+      "date": "Thu, 16 Jul 2026 18:40:26 +0000",
+      "summary": "New research led by scientists at NASA’s Jet Propulsion Laboratory in Southern California has revealed the identity of a puzzling near-Earth object by precisely tracking its motion through space and using powerful observatories that image faint celestial objects. This object has a dual personality: Past images hadn’t revealed obvious cometlike activity, suggesting it might be […]",
+      "url": "https://www.nasa.gov/solar-system/comets/nasa-study-finds-near-earth-asteroid-is-actually-comet/"
+    },
+    {
+      "category": "Science",
+      "title": " Thousands of liberated Africans died on a remote island after the British Navy freed them. We now know where they came from. ",
+      "source": " Latest from Live Science ",
+      "date": "Thu, 16 Jul 2026 18:00:00 +0000",
+      "summary": "Thousands of enslaved Africans were liberated from slave ships and died on the island of St. Helena around 200 years ago. A new chemical analysis has revealed their tragic stories.",
+      "url": "https://www.livescience.com/archaeology/thousands-of-liberated-africans-died-on-a-remote-island-after-the-british-navy-freed-them-we-now-know-where-they-came-from"
+    },
+    {
+      "category": "Space",
+      "title": " Astronomers discover 1st atmosphere around a rocky Earth-like planet in the habitable zone ",
       "source": " Latest from Space.com ",
-      "date": "Thu, 16 Jul 2026 16:00:00 +0000",
-      "summary": "\"Hawking's laws of black hole mechanics provided a satisfying connection between extreme and ordinary physics and have been the paradigm for 50 years, but they have a serious limitation.\"",
-      "url": "https://www.space.com/astronomy/black-holes/stephen-hawkings-famous-leaky-black-hole-theory-gets-much-needed-update"
+      "date": "Thu, 16 Jul 2026 18:00:00 +0000",
+      "summary": "\"It's in the habitable zone, which is super exciting for astrobiology and habitability and searching for life.\"",
+      "url": "https://www.space.com/astronomy/exoplanets/astronomers-discover-1st-atmosphere-around-a-rocky-earth-like-planet-in-the-habitable-zone"
+    },
+    {
+      "category": "Space",
+      "title": " SpaceX stacks massive Starship rocket ahead of today's Flight 13 test launch (video) ",
+      "source": " Latest from Space.com ",
+      "date": "Thu, 16 Jul 2026 17:07:18 +0000",
+      "summary": "SpaceX has stacked the two stages of its giant Starship rocket ahead of the Flight 13 test launch, which is scheduled to occur this evening (July 16).",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-stacks-massive-starship-rocket-ahead-of-todays-flight-13-test-launch-video"
     },
     {
       "category": "AI",
@@ -107,20 +139,12 @@
       "url": "https://openai.com/index/why-teens-deserve-access-safe-ai"
     },
     {
-      "category": "AI",
-      "title": "Energy IPOs surge as investors hunt for ways to play AI boom",
-      "source": "Ars Technica - All content",
-      "date": "Thu, 16 Jul 2026 15:48:21 +0000",
-      "summary": "Companies coming to market are raising money at fastest pace this century.",
-      "url": "https://arstechnica.com/information-technology/2026/07/energy-ipos-surge-as-investors-hunt-for-ways-to-play-ai-boom/"
-    },
-    {
       "category": "Space",
-      "title": " After a lifetime of waiting, I'll finally witness a total solar eclipse next month on Aug. 12 ",
-      "source": " Latest from Space.com ",
-      "date": "Thu, 16 Jul 2026 15:00:00 +0000",
-      "summary": "Valoria la Buena, here we come.",
-      "url": "https://www.space.com/stargazing/solar-eclipses/after-a-lifetime-of-waiting-ill-finally-witness-a-total-solar-eclipse-next-month-on-aug-12"
+      "title": "Young Galaxy Cluster",
+      "source": "NASA",
+      "date": "Thu, 16 Jul 2026 14:35:46 +0000",
+      "summary": "NASA’s James Webb Space Telescope takes us 4.4 billion years in the past with this July 3, 2026, image of a young galaxy cluster, MACS J0553.4-3342. The cluster is composed of two actively merging sub-clusters, roughly equal in mass. Each sub-cluster is anchored on an immensely bright and massive elliptical galaxy, easily identifiable as the […]",
+      "url": "https://www.nasa.gov/image-article/young-galaxy-cluster/"
     },
     {
       "category": "Biblical Studies",
@@ -140,14 +164,6 @@
     },
     {
       "category": "Science",
-      "title": " New 3D silicon chip stacks circuits on top of each other to boost computing power ",
-      "source": " Latest from Live Science ",
-      "date": "Thu, 16 Jul 2026 09:25:00 +0000",
-      "summary": "Researchers have found a way to build a three-layered silicon chip without the chip overheating.",
-      "url": "https://www.livescience.com/technology/electronics/new-3d-silicon-chip-stacks-circuits-on-top-of-each-other-to-boost-computing-power"
-    },
-    {
-      "category": "Science",
       "title": "Quantum breakthrough links light and magnetism in atomically thin materials",
       "source": "All Top News -- ScienceDaily",
       "date": "Thu, 16 Jul 2026 00:16:48 EDT",
@@ -161,6 +177,14 @@
       "date": "Thu, 16 Jul 2026 04:02:00 +0000",
       "summary": "In ‘Pulpit Apologetics,’ William Edwards offers a compelling argument that apologetics should be part of the regular preaching ministry of every local church.",
       "url": "https://www.thegospelcoalition.org/reviews/pulpit-apologetics/"
+    },
+    {
+      "category": "Space",
+      "title": "Ontario Wildfire Smoke Moves East",
+      "source": "NASA",
+      "date": "Thu, 16 Jul 2026 04:00:00 +0000",
+      "summary": "Canadian wildfires sent plumes of smoke streaming over Ontario, Quebec, and parts of the U.S. Midwest and Northeast.",
+      "url": "https://science.nasa.gov/earth/earth-observatory/ontario-wildfire-smoke-moves-east/"
     },
     {
       "category": "Theology",
