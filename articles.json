@@ -1,70 +1,134 @@
 {
-  "lastUpdated": "2026-07-17T17:04:05.642Z",
+  "lastUpdated": "2026-07-17T22:41:12.263Z",
   "articleCount": 39,
   "articles": [
     {
       "category": "Science",
-      "title": "Canadian wildfire smoke linked to fewer bird sightings in New York State",
+      "title": "Study finds high school track experience gives baseball players an edge MLB teams overlook",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Fri, 17 Jul 2026 13:00:02 EDT",
-      "summary": "Despite burning hundreds of miles away, Canadian wildfires have become a familiar source of disruption in New York state.",
-      "url": "https://phys.org/news/2026-07-canadian-wildfire-linked-bird-sightings.html"
+      "date": "Fri, 17 Jul 2026 18:40:02 EDT",
+      "summary": "A new study by a University of Florida sport management professor and colleagues challenges long-held assumptions about how young athletes should train and suggests that Major League Baseball teams might be missing players with a competitive edge.",
+      "url": "https://phys.org/news/2026-07-high-school-track-baseball-players.html"
     },
     {
       "category": "Space",
-      "title": " Earth's largest particle accelerator opens new window into the early universe just after the Big Bang: 'A culmination of a decades-long quest' ",
+      "title": " Remembering 'Ulysses 31', the '80s cartoon that transported 'The Odyssey' to outer space ",
       "source": " Latest from Space.com ",
-      "date": "Fri, 17 Jul 2026 17:00:00 +0000",
-      "summary": "According to one researcher, this observation \"promises new insights into the evolution of the early universe.\"",
-      "url": "https://www.space.com/science/particle-physics/earths-largest-particle-accelerator-opens-new-window-into-the-early-universe-just-after-the-big-bang-a-culmination-of-a-decades-long-quest"
-    },
-    {
-      "category": "Science",
-      "title": "AI‑designed gene‑editing enzymes expand the CRISPR toolbox",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Fri, 17 Jul 2026 12:59:19 EDT",
-      "summary": "Scientists have made many advances using traditional CRISPR technology, especially in medicine, but they are now seeking ways to create genuinely new gene-editing enzymes with properties that have not already evolved naturally. A new study, published in Science, describes a new AI-designed synthetic TnpB enzyme, called SynTnpBs, that has outperformed the natural reference enzyme.",
-      "url": "https://phys.org/news/2026-07-aidesigned-geneediting-enzymes-crispr-toolbox.html"
-    },
-    {
-      "category": "Science",
-      "title": "Tooth enamel reveals the origins of African slaves buried on St Helena",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Fri, 17 Jul 2026 12:40:04 EDT",
-      "summary": "In the mid-19th century, the remote island of St. Helena, located about 1,200 miles (1,900 kilometers) off the southwestern coast of Africa, became a receiving point for thousands of enslaved Africans rescued from illegal slave ships by the British Royal Navy. Tragically, about 8,000 died shortly after arriving and were buried in unmarked graves in Rupert's Valley.",
-      "url": "https://phys.org/news/2026-07-tooth-enamel-reveals-african-slaves.html"
+      "date": "Fri, 17 Jul 2026 22:00:00 +0000",
+      "summary": "So much more than the earwormiest theme song in the galaxy.",
+      "url": "https://www.space.com/entertainment/space-movies-shows/remembering-ulysses-31-the-80s-cartoon-that-transported-the-odyssey-to-outer-space"
     },
     {
       "category": "AI",
-      "title": "CO2 overload, detected in human blood, suggests toxic atmosphere within 50 years",
+      "title": "US seeks share of Korean chipmakers' 'excess profits'",
       "source": "Hacker News: Front Page",
-      "date": "Fri, 17 Jul 2026 16:31:16 +0000",
-      "summary": "Article URL: https://link.springer.com/article/10.1007/s11869-026-01918-5\nComments URL: https://news.ycombinator.com/item?id=48949255\nPoints: 12\n# Comments: 2",
-      "url": "https://link.springer.com/article/10.1007/s11869-026-01918-5"
+      "date": "Fri, 17 Jul 2026 21:42:13 +0000",
+      "summary": "Article URL: https://www.koreatimes.co.kr/business/tech-science/20260716/us-seeks-share-of-korean-chipmakers-excess-profits-source\nComments URL: https://news.ycombinator.com/item?id=48952561\nPoints: 13\n# Comments: 1",
+      "url": "https://www.koreatimes.co.kr/business/tech-science/20260716/us-seeks-share-of-korean-chipmakers-excess-profits-source"
+    },
+    {
+      "category": "Science",
+      "title": "Tuberculosis drug discovery gets smarter with AI",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Fri, 17 Jul 2026 17:40:03 EDT",
+      "summary": "When researchers screen potential tuberculosis drugs, they often end up with too many options. Some look promising but later prove to be costly dead ends. \"We might get thousands of compounds from a screen and then have to decide which one are we going to work on?\" said James Sacchettini, Ph.D., the Rodger J. Wolfe-Welch Foundation Chair in Science, Texas A&M AgriLife Research scientist and professor in the Texas A&M College of Agriculture and Life Sciences Department of Biochemistry and Biophysics and College of Arts and Sciences Department of Chemistry.",
+      "url": "https://phys.org/news/2026-07-tuberculosis-drug-discovery-smarter-ai.html"
     },
     {
       "category": "AI",
-      "title": "Fubo hikes prices by $15 after restoring some NBCU channels lost in November",
-      "source": "Ars Technica - All content",
-      "date": "Fri, 17 Jul 2026 16:24:21 +0000",
-      "summary": "Fubo subscribers still don't have Versant channels.",
-      "url": "https://arstechnica.com/gadgets/2026/07/fubo-hikes-prices-by-15-after-restoring-some-nbcu-channels-lost-in-november/"
-    },
-    {
-      "category": "AI",
-      "title": "San Francisco orders Apple, Google to remove nudify apps from app stores",
-      "source": "Ars Technica - All content",
-      "date": "Fri, 17 Jul 2026 16:10:05 +0000",
-      "summary": "Official estimates Google and Apple likely made millions in nudify app fees.",
-      "url": "https://arstechnica.com/tech-policy/2026/07/apple-google-must-stop-profiting-off-ai-nudify-apps-san-francisco-ag-says/"
+      "title": "FAA lets Boeing sign off on 737 MAX, 787 airworthiness certificates again",
+      "source": "Hacker News: Front Page",
+      "date": "Fri, 17 Jul 2026 21:22:53 +0000",
+      "summary": "Article URL: https://www.cnbc.com/2026/07/17/faa-boeing-737-max-787.html\nComments URL: https://news.ycombinator.com/item?id=48952439\nPoints: 47\n# Comments: 18",
+      "url": "https://www.cnbc.com/2026/07/17/faa-boeing-737-max-787.html"
     },
     {
       "category": "Space",
-      "title": " Making history: Watch Vikram-1, India's 1st private orbital rocket, launch early on July 18 ",
+      "title": "Establishing a VTE Risk Score for Astronauts Algorithm",
+      "source": "NASA",
+      "date": "Fri, 17 Jul 2026 21:01:38 +0000",
+      "summary": "In April 2026, NASA’s Office of the Chief Health and Medical Officer (OCHMO) initiated a working group to review updated VTE case information, additional data gathered revealing altered blood flow status within a cohort of astronauts, and discuss progress of research and clinical activities intended to mitigate the risk of VTE during spaceflight with new […]",
+      "url": "https://www.nasa.gov/organizations/ochmo/establishing-a-vte-risk-score-for-astronauts-algorithm/"
+    },
+    {
+      "category": "Space",
+      "title": " These 'metallic' dunes on Mars look like sci-fi. What are they really? ",
       "source": " Latest from Space.com ",
-      "date": "Fri, 17 Jul 2026 16:00:00 +0000",
-      "summary": "India's first privately built orbital rocket, Skyroot Aerospace's Vikram-1, will try to reach orbit early Saturday morning (July 18), and you can watch the historic action live.",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/skyroot-aerospace-india-first-private-orbital-launch-vikram-1"
+      "date": "Fri, 17 Jul 2026 21:00:00 +0000",
+      "summary": "New images from the European Space Agency's Mars Express orbiter have captured strange-looking waves on the Red Planet.",
+      "url": "https://www.space.com/astronomy/mars/these-metallic-dunes-on-mars-look-like-sci-fi-what-are-they-really"
+    },
+    {
+      "category": "AI",
+      "title": "Open Book Touch: open-source e-reader",
+      "source": "Hacker News: Front Page",
+      "date": "Fri, 17 Jul 2026 20:47:57 +0000",
+      "summary": "Article URL: https://www.crowdsupply.com/oddly-specific-objects/open-book-touch\nComments URL: https://news.ycombinator.com/item?id=48952135\nPoints: 4\n# Comments: 0",
+      "url": "https://www.crowdsupply.com/oddly-specific-objects/open-book-touch"
+    },
+    {
+      "category": "Science",
+      "title": "Herbularyo card game blends Filipino folklore and organic chemistry",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Fri, 17 Jul 2026 16:40:03 EDT",
+      "summary": "Medicinal plants have long been a cornerstone of Philippine traditional medicine, dating back generations. Tawa-tawa, a low-growing herb that thrives in open grasslands, is a valued supplementary treatment for dengue; the gel of the succulent aloe vera can help soothe a scraped knee; boiled guava leaves help disinfect wounds; tea from yerba buena helps relieve minor aches and pains; and ampalaya helps manage diabetes.",
+      "url": "https://phys.org/news/2026-07-herbularyo-card-game-blends-filipino.html"
+    },
+    {
+      "category": "Space",
+      "title": "NASA Awards Facilities Support Services Contract for Ames Research Center ",
+      "source": "NASA",
+      "date": "Fri, 17 Jul 2026 20:34:59 +0000",
+      "summary": "CONTRACT RELEASE NASA has selected Chugach Intelligence Solutions LLC to provide comprehensive operations, maintenance, and repair services for NASA’s Ames Research Center in California’s Silicon Valley.  The Ames Facilities Support Services II contract ensures that the center’s historic and specialized facilities are properly maintained, fully operational, and capable of supporting the agency’s missions and tenant partners in the NASA Research Park.  The hybrid contract has a five-year period […]",
+      "url": "https://www.nasa.gov/centers-and-facilities/ames/nasa-awards-facilities-support-services-contract-for-ames-research-center/"
+    },
+    {
+      "category": "Space",
+      "title": "NASA’s Chandra and IXPE Study Pulsar in Lighthouse Nebula",
+      "source": "NASA",
+      "date": "Fri, 17 Jul 2026 20:05:23 +0000",
+      "summary": "This composite image, released on July 9, 2026, shows the region around a pulsar – a neutron star with a strong magnetic field that spins incredibly fast – within the Lighthouse nebula. The image contains X-ray data from NASA’s Chandra X-ray Observatory in purple, X-rays from NASA’s IXPE (Imaging X-ray Polarimetry Explorer) in blue, and […]",
+      "url": "https://www.nasa.gov/image-article/nasas-chandra-and-ixpe-study-pulsar-in-lighthouse-nebula/"
+    },
+    {
+      "category": "AI",
+      "title": "Google-backed satellites for wildfire detection launch as smoke chokes US, Canada",
+      "source": "Ars Technica - All content",
+      "date": "Fri, 17 Jul 2026 19:50:18 +0000",
+      "summary": "The FireSat program can spot wildfires that other satellites miss.",
+      "url": "https://arstechnica.com/space/2026/07/google-backed-satellites-for-wildfire-detection-launch-as-smoke-chokes-us-canada/"
+    },
+    {
+      "category": "AI",
+      "title": "The Pentagon's Space Development Agency hasn't moved as fast as anyone would like",
+      "source": "Ars Technica - All content",
+      "date": "Fri, 17 Jul 2026 19:19:42 +0000",
+      "summary": "\"Missiles are being launched at the joint force every single day in [Operation] Epic Fury.\"",
+      "url": "https://arstechnica.com/space/2026/07/the-pentagons-space-development-agency-hasnt-moved-as-fast-as-anyone-would-like/"
+    },
+    {
+      "category": "Space",
+      "title": " The Perseid meteor shower starts this week. Here's why you should look up now ",
+      "source": " Latest from Space.com ",
+      "date": "Fri, 17 Jul 2026 19:00:00 +0000",
+      "summary": "The Perseid meteor shower begins on July 17 alongside two others, making \"shooting stars\" likely any night this month and next.",
+      "url": "https://www.space.com/stargazing/meteor-showers/the-perseid-meteor-shower-starts-this-week-heres-why-you-should-look-up-now"
+    },
+    {
+      "category": "AI",
+      "title": "Hegseth wants a \"High-T\" military; doctors call it a clinical minefield",
+      "source": "Ars Technica - All content",
+      "date": "Fri, 17 Jul 2026 18:53:11 +0000",
+      "summary": "\"We're turning the clock back on rational healthcare.\"",
+      "url": "https://arstechnica.com/health/2026/07/hegseth-wants-a-high-t-military-doctors-call-it-a-clinical-minefield/"
+    },
+    {
+      "category": "Science",
+      "title": " 'RNA can do things which we have never seen before': New study challenges assumptions about what RNA was up to at the dawn of life ",
+      "source": " Latest from Live Science ",
+      "date": "Fri, 17 Jul 2026 17:20:00 +0000",
+      "summary": "RNA can fold into more complex configurations than scientists thought, raising questions about how important these 3D structures were when life on Earth began.",
+      "url": "https://www.livescience.com/health/genetics/rna-can-do-things-which-we-have-never-seen-before-new-study-challenges-assumptions-about-what-rna-was-up-to-at-the-dawn-of-life"
     },
     {
       "category": "Science",
@@ -75,60 +139,12 @@
       "url": "https://www.livescience.com/planet-earth/weather/these-are-striking-forecasts-super-el-nino-keeps-getting-even-more-likely-and-it-could-bring-a-humanitarian-crisis"
     },
     {
-      "category": "AI",
-      "title": "Ars is looking for a senior technology reporter, and you might be it!",
-      "source": "Ars Technica - All content",
-      "date": "Fri, 17 Jul 2026 15:52:28 +0000",
-      "summary": "Desktops, laptops, phones, CPUs, GPUs, NAS—if you know this stuff, come work for us!",
-      "url": "https://arstechnica.com/staff/2026/07/ars-is-looking-for-a-senior-technology-reporter-and-you-might-be-it/"
-    },
-    {
       "category": "Science",
       "title": " 'Explosive diarrhea' parasite infections in 5 states linked to Taco Bell lettuce; other cases still under investigation ",
       "source": " Latest from Live Science ",
       "date": "Fri, 17 Jul 2026 15:48:36 +0000",
       "summary": "Lettuce served at Taco Bell has been identified as a source of Cyclospora infections affecting people across five states.",
       "url": "https://www.livescience.com/health/viruses-infections-disease/explosive-diarrhea-parasite-infections-in-5-states-linked-to-taco-bell-lettuce-other-cases-still-under-investigation"
-    },
-    {
-      "category": "AI",
-      "title": "Show HN: Explore the Workspaces of Modern Creators",
-      "source": "Hacker News: Front Page",
-      "date": "Fri, 17 Jul 2026 15:41:05 +0000",
-      "summary": "Article URL: https://workspaces.xyz/\nComments URL: https://news.ycombinator.com/item?id=48948693\nPoints: 20\n# Comments: 14",
-      "url": "https://workspaces.xyz/"
-    },
-    {
-      "category": "AI",
-      "title": "Frame – the first Linux Assembly X server",
-      "source": "Hacker News: Front Page",
-      "date": "Fri, 17 Jul 2026 15:31:22 +0000",
-      "summary": "Article URL: https://isene.org/2026/07/Frame.html\nComments URL: https://news.ycombinator.com/item?id=48948597\nPoints: 7\n# Comments: 0",
-      "url": "https://isene.org/2026/07/Frame.html"
-    },
-    {
-      "category": "Space",
-      "title": " 'The Starry Night' in space: Dark Energy Camera channels a cosmic Van Gogh (video) ",
-      "source": " Latest from Space.com ",
-      "date": "Fri, 17 Jul 2026 15:00:29 +0000",
-      "summary": "The Dark Energy Camera has captured a vibrant view of the Corona Australis Molecular Cloud, with the star-forming region resembling a cosmic take on Van Gogh's The Starry Night.",
-      "url": "https://www.space.com/astronomy/stars/the-starry-night-in-space-dark-energy-camera-channels-a-cosmic-van-gogh-video"
-    },
-    {
-      "category": "Space",
-      "title": "NASA Welcomes Mauritius as 70th Artemis Accords Signatory  ",
-      "source": "NASA",
-      "date": "Fri, 17 Jul 2026 14:48:27 +0000",
-      "summary": "The Republic of Mauritius has officially joined the global coalition committed to responsible space exploration, becoming the newest signatory and seventh African country to join the Artemis Accords. NASA’s Deputy Administrator Matt Anderson contributed video remarks for a signing ceremony on Friday, in the island nation’s city of Ébène. “We are honored to welcome Mauritius […]",
-      "url": "https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-mauritius-as-70th-artemis-accords-signatory/"
-    },
-    {
-      "category": "Science",
-      "title": " 'Shared cosmic experience': 'Potentially hazardous' asteroid Apophis could be visible to 90% of Earth's population during ultraclose 2029 flyby, new maps reveal ",
-      "source": " Latest from Live Science ",
-      "date": "Fri, 17 Jul 2026 14:47:06 +0000",
-      "summary": "Researchers predict that up to 7.6 billion people will be able to see the potentially hazardous asteroid Apophis fly past Earth on April 13, 2029. The skyscraper-size space rock will come closer than some satellites, making it clearly visible to the naked eye.",
-      "url": "https://www.livescience.com/space/asteroids/shared-cosmic-experience-potentially-hazardous-asteroid-apophis-could-be-visible-to-90-percent-of-earths-population-during-ultraclose-2029-flyby-new-maps-reveal"
     },
     {
       "category": "Biblical Studies",
@@ -151,7 +167,7 @@
       "title": "A scorecard for the AI age",
       "source": "OpenAI News",
       "date": "Fri, 17 Jul 2026 10:00:00 GMT",
-      "summary": "Sarah Friar, CFO of OpenaAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute.",
+      "summary": "Sarah Friar, CFO of OpenAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute.",
       "url": "https://openai.com/index/a-scorecard-for-the-ai-age"
     },
     {
@@ -171,14 +187,6 @@
       "url": "https://www.thegospelcoalition.org/podcasts/tgc-podcast/understand-holy-trinity/"
     },
     {
-      "category": "Space",
-      "title": "A Tide-Fueled Trove of Biodiversity in Guinea-Bissau",
-      "source": "NASA",
-      "date": "Fri, 17 Jul 2026 04:01:00 +0000",
-      "summary": "The expansive mudflats, sandy beaches, and mangrove forests of the Bijagós archipelago support an array of migratory shorebirds and large numbers of sea turtles.",
-      "url": "https://science.nasa.gov/earth/earth-observatory/a-tide-fueled-trove-of-biodiversity-in-guinea-bissau/"
-    },
-    {
       "category": "Theology",
       "title": "How to Wait for Cultural Reckoning",
       "source": "The Gospel Coalition",
@@ -193,14 +201,6 @@
       "date": "Thu, 16 Jul 2026 21:51:52 EDT",
       "summary": "A new experimental treatment may have found a way to outsmart glioblastoma’s toughest defense: the blood-brain barrier. Researchers used sugar-coated nanoparticles to ferry genetic instructions that restore a key tumor-suppressing protein directly into brain cancer cells. In mouse studies, the therapy increased median survival by 50% while shrinking tumors without noticeable damage to other organs.",
       "url": "https://www.sciencedaily.com/releases/2026/07/260715083542.htm"
-    },
-    {
-      "category": "Space",
-      "title": "NASA Welcomes Serbia as Newest Artemis Accords Signatory ",
-      "source": "NASA",
-      "date": "Thu, 16 Jul 2026 22:37:19 +0000",
-      "summary": "The Republic of Serbia signed the Artemis Accords Thursday during a ceremony hosted by NASA at the agency’s Headquarters in Washington, becoming the 69th nation to join a large community of like-minded nations committed to the peaceful, transparent, and responsible exploration of space. “Serbia’s connection to NASA reaches back to the Apollo program, when the […]",
-      "url": "https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-serbia-as-newest-artemis-accords-signatory/"
     },
     {
       "category": "AI",
