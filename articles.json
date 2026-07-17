@@ -1,14 +1,134 @@
 {
-  "lastUpdated": "2026-07-17T11:16:58.288Z",
+  "lastUpdated": "2026-07-17T17:04:05.642Z",
   "articleCount": 39,
   "articles": [
     {
       "category": "Science",
-      "title": "Research finds that dropping SAT and ACT requirements may improve access, but may also hinder college admissions",
+      "title": "Canadian wildfire smoke linked to fewer bird sightings in New York State",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Fri, 17 Jul 2026 07:00:03 EDT",
-      "summary": "Dropping standardized testing requirements may make college admission more accessible for some, but it can also make it harder for universities to identify high-potential students, according to new research published in Management Science. The research suggests the decision involves nuanced trade-offs between the informational value of test scores and barriers to access. Moreover, the study shows that dropping the testing requirement can move diversity and academic merit in the same direction: It is possible to improve both or worsen both at once.",
-      "url": "https://phys.org/news/2026-07-sat-requirements-access-hinder-college.html"
+      "date": "Fri, 17 Jul 2026 13:00:02 EDT",
+      "summary": "Despite burning hundreds of miles away, Canadian wildfires have become a familiar source of disruption in New York state.",
+      "url": "https://phys.org/news/2026-07-canadian-wildfire-linked-bird-sightings.html"
+    },
+    {
+      "category": "Space",
+      "title": " Earth's largest particle accelerator opens new window into the early universe just after the Big Bang: 'A culmination of a decades-long quest' ",
+      "source": " Latest from Space.com ",
+      "date": "Fri, 17 Jul 2026 17:00:00 +0000",
+      "summary": "According to one researcher, this observation \"promises new insights into the evolution of the early universe.\"",
+      "url": "https://www.space.com/science/particle-physics/earths-largest-particle-accelerator-opens-new-window-into-the-early-universe-just-after-the-big-bang-a-culmination-of-a-decades-long-quest"
+    },
+    {
+      "category": "Science",
+      "title": "AI‑designed gene‑editing enzymes expand the CRISPR toolbox",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Fri, 17 Jul 2026 12:59:19 EDT",
+      "summary": "Scientists have made many advances using traditional CRISPR technology, especially in medicine, but they are now seeking ways to create genuinely new gene-editing enzymes with properties that have not already evolved naturally. A new study, published in Science, describes a new AI-designed synthetic TnpB enzyme, called SynTnpBs, that has outperformed the natural reference enzyme.",
+      "url": "https://phys.org/news/2026-07-aidesigned-geneediting-enzymes-crispr-toolbox.html"
+    },
+    {
+      "category": "Science",
+      "title": "Tooth enamel reveals the origins of African slaves buried on St Helena",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Fri, 17 Jul 2026 12:40:04 EDT",
+      "summary": "In the mid-19th century, the remote island of St. Helena, located about 1,200 miles (1,900 kilometers) off the southwestern coast of Africa, became a receiving point for thousands of enslaved Africans rescued from illegal slave ships by the British Royal Navy. Tragically, about 8,000 died shortly after arriving and were buried in unmarked graves in Rupert's Valley.",
+      "url": "https://phys.org/news/2026-07-tooth-enamel-reveals-african-slaves.html"
+    },
+    {
+      "category": "AI",
+      "title": "CO2 overload, detected in human blood, suggests toxic atmosphere within 50 years",
+      "source": "Hacker News: Front Page",
+      "date": "Fri, 17 Jul 2026 16:31:16 +0000",
+      "summary": "Article URL: https://link.springer.com/article/10.1007/s11869-026-01918-5\nComments URL: https://news.ycombinator.com/item?id=48949255\nPoints: 12\n# Comments: 2",
+      "url": "https://link.springer.com/article/10.1007/s11869-026-01918-5"
+    },
+    {
+      "category": "AI",
+      "title": "Fubo hikes prices by $15 after restoring some NBCU channels lost in November",
+      "source": "Ars Technica - All content",
+      "date": "Fri, 17 Jul 2026 16:24:21 +0000",
+      "summary": "Fubo subscribers still don't have Versant channels.",
+      "url": "https://arstechnica.com/gadgets/2026/07/fubo-hikes-prices-by-15-after-restoring-some-nbcu-channels-lost-in-november/"
+    },
+    {
+      "category": "AI",
+      "title": "San Francisco orders Apple, Google to remove nudify apps from app stores",
+      "source": "Ars Technica - All content",
+      "date": "Fri, 17 Jul 2026 16:10:05 +0000",
+      "summary": "Official estimates Google and Apple likely made millions in nudify app fees.",
+      "url": "https://arstechnica.com/tech-policy/2026/07/apple-google-must-stop-profiting-off-ai-nudify-apps-san-francisco-ag-says/"
+    },
+    {
+      "category": "Space",
+      "title": " Making history: Watch Vikram-1, India's 1st private orbital rocket, launch early on July 18 ",
+      "source": " Latest from Space.com ",
+      "date": "Fri, 17 Jul 2026 16:00:00 +0000",
+      "summary": "India's first privately built orbital rocket, Skyroot Aerospace's Vikram-1, will try to reach orbit early Saturday morning (July 18), and you can watch the historic action live.",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/skyroot-aerospace-india-first-private-orbital-launch-vikram-1"
+    },
+    {
+      "category": "Science",
+      "title": " 'These are striking forecasts': Super El Niño keeps getting even more likely, and it could bring a humanitarian crisis ",
+      "source": " Latest from Live Science ",
+      "date": "Fri, 17 Jul 2026 15:56:26 +0000",
+      "summary": "Forecasts point to the ongoing El Niño rapidly strengthening to a likely all-time record in the coming months, fueling temperature rises and extreme weather.",
+      "url": "https://www.livescience.com/planet-earth/weather/these-are-striking-forecasts-super-el-nino-keeps-getting-even-more-likely-and-it-could-bring-a-humanitarian-crisis"
+    },
+    {
+      "category": "AI",
+      "title": "Ars is looking for a senior technology reporter, and you might be it!",
+      "source": "Ars Technica - All content",
+      "date": "Fri, 17 Jul 2026 15:52:28 +0000",
+      "summary": "Desktops, laptops, phones, CPUs, GPUs, NAS—if you know this stuff, come work for us!",
+      "url": "https://arstechnica.com/staff/2026/07/ars-is-looking-for-a-senior-technology-reporter-and-you-might-be-it/"
+    },
+    {
+      "category": "Science",
+      "title": " 'Explosive diarrhea' parasite infections in 5 states linked to Taco Bell lettuce; other cases still under investigation ",
+      "source": " Latest from Live Science ",
+      "date": "Fri, 17 Jul 2026 15:48:36 +0000",
+      "summary": "Lettuce served at Taco Bell has been identified as a source of Cyclospora infections affecting people across five states.",
+      "url": "https://www.livescience.com/health/viruses-infections-disease/explosive-diarrhea-parasite-infections-in-5-states-linked-to-taco-bell-lettuce-other-cases-still-under-investigation"
+    },
+    {
+      "category": "AI",
+      "title": "Show HN: Explore the Workspaces of Modern Creators",
+      "source": "Hacker News: Front Page",
+      "date": "Fri, 17 Jul 2026 15:41:05 +0000",
+      "summary": "Article URL: https://workspaces.xyz/\nComments URL: https://news.ycombinator.com/item?id=48948693\nPoints: 20\n# Comments: 14",
+      "url": "https://workspaces.xyz/"
+    },
+    {
+      "category": "AI",
+      "title": "Frame – the first Linux Assembly X server",
+      "source": "Hacker News: Front Page",
+      "date": "Fri, 17 Jul 2026 15:31:22 +0000",
+      "summary": "Article URL: https://isene.org/2026/07/Frame.html\nComments URL: https://news.ycombinator.com/item?id=48948597\nPoints: 7\n# Comments: 0",
+      "url": "https://isene.org/2026/07/Frame.html"
+    },
+    {
+      "category": "Space",
+      "title": " 'The Starry Night' in space: Dark Energy Camera channels a cosmic Van Gogh (video) ",
+      "source": " Latest from Space.com ",
+      "date": "Fri, 17 Jul 2026 15:00:29 +0000",
+      "summary": "The Dark Energy Camera has captured a vibrant view of the Corona Australis Molecular Cloud, with the star-forming region resembling a cosmic take on Van Gogh's The Starry Night.",
+      "url": "https://www.space.com/astronomy/stars/the-starry-night-in-space-dark-energy-camera-channels-a-cosmic-van-gogh-video"
+    },
+    {
+      "category": "Space",
+      "title": "NASA Welcomes Mauritius as 70th Artemis Accords Signatory  ",
+      "source": "NASA",
+      "date": "Fri, 17 Jul 2026 14:48:27 +0000",
+      "summary": "The Republic of Mauritius has officially joined the global coalition committed to responsible space exploration, becoming the newest signatory and seventh African country to join the Artemis Accords. NASA’s Deputy Administrator Matt Anderson contributed video remarks for a signing ceremony on Friday, in the island nation’s city of Ébène. “We are honored to welcome Mauritius […]",
+      "url": "https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-mauritius-as-70th-artemis-accords-signatory/"
+    },
+    {
+      "category": "Science",
+      "title": " 'Shared cosmic experience': 'Potentially hazardous' asteroid Apophis could be visible to 90% of Earth's population during ultraclose 2029 flyby, new maps reveal ",
+      "source": " Latest from Live Science ",
+      "date": "Fri, 17 Jul 2026 14:47:06 +0000",
+      "summary": "Researchers predict that up to 7.6 billion people will be able to see the potentially hazardous asteroid Apophis fly past Earth on April 13, 2029. The skyscraper-size space rock will come closer than some satellites, making it clearly visible to the naked eye.",
+      "url": "https://www.livescience.com/space/asteroids/shared-cosmic-experience-potentially-hazardous-asteroid-apophis-could-be-visible-to-90-percent-of-earths-population-during-ultraclose-2029-flyby-new-maps-reveal"
     },
     {
       "category": "Biblical Studies",
@@ -19,36 +139,20 @@
       "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/odyssey-bronze-age-collapse-and-world-before-israel/"
     },
     {
-      "category": "Science",
-      "title": "At least 12,000 excess deaths in Europe's June heat wave",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Fri, 17 Jul 2026 06:29:40 EDT",
-      "summary": "At least 12,000 excess deaths were recorded across nine European countries during June's heat wave, national statistics indicated, a toll that could yet rise as more data are released, according to an AFP analysis.",
-      "url": "https://phys.org/news/2026-07-excess-deaths-europe-june.html"
-    },
-    {
-      "category": "Science",
-      "title": "With climate ambitions in question, EU reforms carbon market",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Fri, 17 Jul 2026 06:00:03 EDT",
-      "summary": "The European Union on Friday unveils reforms to its carbon market after fierce wrangling among countries, industry and activists over the pace of the bloc's climate push.",
-      "url": "https://phys.org/news/2026-07-climate-ambitions-eu-reforms-carbon.html"
-    },
-    {
-      "category": "Space",
-      "title": " Are we underestimating the threat of solar storms? A 'once-in-a-thousand-year' disaster is worth considering, scientists say ",
-      "source": " Latest from Space.com ",
-      "date": "Fri, 17 Jul 2026 10:00:00 +0000",
-      "summary": "A new study suggests the most extreme solar storms to strike Earth could have greater impacts on satellites, power grids and communications than previously thought.",
-      "url": "https://www.space.com/astronomy/sun/are-we-underestimating-the-threat-of-solar-storms-a-once-in-a-thousand-year-disaster-is-worth-considering-scientists-say"
+      "category": "Biblical Studies",
+      "title": "“Hey, Turtledove!”",
+      "source": "Biblical Archaeology Society",
+      "date": "Fri, 17 Jul 2026 10:00:31 +0000",
+      "summary": "Biblical writers in both testaments are known for their excellent writing, vibrant verbs, limited descriptions, and—above all!—brevity. Instead of lengthy explanations, they control the narrative […]\nThe post “Hey, Turtledove!” appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/daily/hey-turtledove/"
     },
     {
       "category": "AI",
-      "title": "I Owe My Life to the Commodore 64",
-      "source": "Hacker News: Front Page",
-      "date": "Fri, 17 Jul 2026 09:44:25 +0000",
-      "summary": "Article URL: https://www.goto10retro.com/p/i-owe-my-life-to-the-commodore-64\nComments URL: https://news.ycombinator.com/item?id=48945260\nPoints: 19\n# Comments: 10",
-      "url": "https://www.goto10retro.com/p/i-owe-my-life-to-the-commodore-64"
+      "title": "A scorecard for the AI age",
+      "source": "OpenAI News",
+      "date": "Fri, 17 Jul 2026 10:00:00 GMT",
+      "summary": "Sarah Friar, CFO of OpenaAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute.",
+      "url": "https://openai.com/index/a-scorecard-for-the-ai-age"
     },
     {
       "category": "Science",
@@ -57,14 +161,6 @@
       "date": "Fri, 17 Jul 2026 02:04:57 EDT",
       "summary": "A new particle detector called PLATON could replace millions of tiny detector components with a single block of light-producing material. Using a light-field camera, highly sensitive photon sensors, and AI, it reconstructs particle paths in fast, detailed 3D. Simulations suggest it could match or surpass today’s best detectors while being far easier to scale. The technology may also lead to sharper PET medical scans.",
       "url": "https://www.sciencedaily.com/releases/2026/07/260716023610.htm"
-    },
-    {
-      "category": "AI",
-      "title": "EEG shows brain can simultaneous encode two speech streams",
-      "source": "Hacker News: Front Page",
-      "date": "Fri, 17 Jul 2026 05:51:10 +0000",
-      "summary": "Article URL: https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876\nComments URL: https://news.ycombinator.com/item?id=48943745\nPoints: 119\n# Comments: 68",
-      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876"
     },
     {
       "category": "Theology",
@@ -83,28 +179,12 @@
       "url": "https://science.nasa.gov/earth/earth-observatory/a-tide-fueled-trove-of-biodiversity-in-guinea-bissau/"
     },
     {
-      "category": "Science",
-      "title": " Did ancient Egyptian princesses use weapons? Controversial study claims they hunted or trained with the military, but not all experts agree. ",
-      "source": " Latest from Live Science ",
-      "date": "Fri, 17 Jul 2026 04:00:00 +0000",
-      "summary": "Nearly 4,000-year-old skeletal remains show that several royal women repeatedly used their upper-body muscles. Researchers link those changes to archery and weapon training, but outside experts urge caution.",
-      "url": "https://www.livescience.com/archaeology/ancient-egyptians/did-ancient-egyptian-princesses-use-weapons-controversial-study-claims-they-hunted-or-trained-with-the-military-but-not-all-experts-agree"
-    },
-    {
       "category": "Theology",
       "title": "How to Wait for Cultural Reckoning",
       "source": "The Gospel Coalition",
       "date": "Fri, 17 Jul 2026 04:00:00 +0000",
       "summary": "Like the prophets, we should expect our hearers to almost always ignore the warning until it’s too late.",
       "url": "https://www.thegospelcoalition.org/article/wait-cultural-reckoning/"
-    },
-    {
-      "category": "AI",
-      "title": "Pebble Mega Update – July 2026",
-      "source": "Hacker News: Front Page",
-      "date": "Fri, 17 Jul 2026 03:53:38 +0000",
-      "summary": "Article URL: https://repebble.com/blog/pebble-mega-update-july-2026\nComments URL: https://news.ycombinator.com/item?id=48943174\nPoints: 128\n# Comments: 52",
-      "url": "https://repebble.com/blog/pebble-mega-update-july-2026"
     },
     {
       "category": "Science",
@@ -115,76 +195,12 @@
       "url": "https://www.sciencedaily.com/releases/2026/07/260715083542.htm"
     },
     {
-      "category": "AI",
-      "title": "SpaceX scrubs Starship launch after some of its engines didn't start",
-      "source": "Ars Technica - All content",
-      "date": "Fri, 17 Jul 2026 00:02:54 +0000",
-      "summary": "\"Now offloading propellant. Next launch attempt hopefully in a few days.\"",
-      "url": "https://arstechnica.com/space/2026/07/spacex-scrubs-starship-launch-after-some-of-its-engines-didnt-start/"
-    },
-    {
-      "category": "Space",
-      "title": " SpaceX's Starship Flight 13 test launch aborts at last second (video) ",
-      "source": " Latest from Space.com ",
-      "date": "Thu, 16 Jul 2026 23:12:01 +0000",
-      "summary": "SpaceX aborted Flight 13 of its giant Starship rocket at the last second on Thursday (July 16). It's unclear when the company will try again.",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacexs-starship-flight-13-test-launch-aborts-at-last-second-video"
-    },
-    {
       "category": "Space",
       "title": "NASA Welcomes Serbia as Newest Artemis Accords Signatory ",
       "source": "NASA",
       "date": "Thu, 16 Jul 2026 22:37:19 +0000",
       "summary": "The Republic of Serbia signed the Artemis Accords Thursday during a ceremony hosted by NASA at the agency’s Headquarters in Washington, becoming the 69th nation to join a large community of like-minded nations committed to the peaceful, transparent, and responsible exploration of space. “Serbia’s connection to NASA reaches back to the Apollo program, when the […]",
       "url": "https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-serbia-as-newest-artemis-accords-signatory/"
-    },
-    {
-      "category": "AI",
-      "title": "Two Trump health nominees crash and burn in tense Senate hearing",
-      "source": "Ars Technica - All content",
-      "date": "Thu, 16 Jul 2026 22:33:24 +0000",
-      "summary": "Both nominees flailed in their own unique ways as senators sought answers.",
-      "url": "https://arstechnica.com/health/2026/07/two-trump-health-nominees-crash-and-burn-in-tense-senate-hearing/"
-    },
-    {
-      "category": "AI",
-      "title": "HP fined 1.4 billion rupees for “cartelization” of ink cartridges, toner, PCs",
-      "source": "Ars Technica - All content",
-      "date": "Thu, 16 Jul 2026 22:02:31 +0000",
-      "summary": "Resellers threatened to ditch HP printing supplies for counterfeits.",
-      "url": "https://arstechnica.com/gadgets/2026/07/hp-fined-1-4-billion-rupees-for-cartelization-of-ink-cartridges-toner-pcs/"
-    },
-    {
-      "category": "Science",
-      "title": " Ancient chariot emerges among remains of mysterious society that burned down its own buildings and then disappeared ",
-      "source": " Latest from Live Science ",
-      "date": "Thu, 16 Jul 2026 20:04:45 +0000",
-      "summary": "An ancient bronze chariot recently discovered in Spain was used by a culture that mysteriously disappeared from the archaeological record.",
-      "url": "https://www.livescience.com/archaeology/ancient-chariot-emerges-among-remains-of-mysterious-society-that-burned-down-its-own-buildings-and-then-disappeared"
-    },
-    {
-      "category": "Space",
-      "title": " Astronomers discover landslides on Pluto large enough to bury entire cities on Earth ",
-      "source": " Latest from Space.com ",
-      "date": "Thu, 16 Jul 2026 20:00:00 +0000",
-      "summary": "Evidence for landslides down steep crater walls on Pluto have been found in imagery from NASA's New Horizons mission.",
-      "url": "https://www.space.com/astronomy/pluto/astronomers-discover-landslides-on-pluto-large-enough-to-bury-entire-cities-on-earth"
-    },
-    {
-      "category": "Science",
-      "title": " Nobel Prize-winning physicist and team use Claude AI to solve decades-old math puzzle ",
-      "source": " Latest from Live Science ",
-      "date": "Thu, 16 Jul 2026 19:16:53 +0000",
-      "summary": "A decade after uncovering a mysterious mathematical relationship in the physics of \"jamming,\" Nobel laureate Giorgio Parisi and collaborator Francesco Zamponi have finally cracked the case — not with a radical new theory, but with the help of the generative AI Claude.",
-      "url": "https://www.livescience.com/physics-mathematics/mathematics/nobel-prize-winning-physicist-and-team-use-claude-ai-to-solve-decades-old-math-puzzle"
-    },
-    {
-      "category": "Space",
-      "title": "NASA Study Finds Near-Earth Asteroid Is Actually Comet",
-      "source": "NASA",
-      "date": "Thu, 16 Jul 2026 18:40:26 +0000",
-      "summary": "New research led by scientists at NASA’s Jet Propulsion Laboratory in Southern California has revealed the identity of a puzzling near-Earth object by precisely tracking its motion through space and using powerful observatories that image faint celestial objects. This object has a dual personality: Past images hadn’t revealed obvious cometlike activity, suggesting it might be […]",
-      "url": "https://www.nasa.gov/solar-system/comets/nasa-study-finds-near-earth-asteroid-is-actually-comet/"
     },
     {
       "category": "AI",
@@ -201,14 +217,6 @@
       "date": "Thu, 16 Jul 2026 11:00:53 +0000",
       "summary": "Although Leviticus 19:28 clearly prohibits tattoos, it does not give an explicit reason why. This begs the question: Why does the Bible prohibit tattoos?\nThe post What Does the Bible Say About Tattoos? appeared first on Biblical Archaeology Society.",
       "url": "https://www.biblicalarchaeology.org/daily/biblical-topics/hebrew-bible/what-does-the-bible-say-about-tattoos/"
-    },
-    {
-      "category": "Biblical Studies",
-      "title": "Jews and Arabs Descended from Canaanites",
-      "source": "Biblical Archaeology Society",
-      "date": "Thu, 16 Jul 2026 11:00:23 +0000",
-      "summary": "After examining the DNA of 93 bodies recovered from archaeological sites around the southern Levant, the land of Canaan in the Bible, researchers have concluded […]\nThe post Jews and Arabs Descended from Canaanites appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-near-eastern-world/jews-and-arabs-descended-from-canaanites/"
     },
     {
       "category": "Science",
@@ -249,14 +257,6 @@
       "date": "Wed, 15 Jul 2026 20:22:14 +0000",
       "summary": "My attempt to run harder had me running on fumes. Being a single man didn’t change the fact that I am just a man.\nThe post Single Pastor, Embrace Your Limits appeared first on 9Marks.",
       "url": "https://www.9marks.org/article/single-pastor-embrace-your-limits/?utm_source=rss&utm_medium=rss&utm_campaign=single-pastor-embrace-your-limits"
-    },
-    {
-      "category": "AI",
-      "title": "The US is advancing AI safety through state and federal action",
-      "source": "OpenAI News",
-      "date": "Wed, 15 Jul 2026 12:00:00 GMT",
-      "summary": "OpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI.",
-      "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action"
     },
     {
       "category": "History",
