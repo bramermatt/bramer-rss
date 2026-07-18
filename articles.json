@@ -1,78 +1,126 @@
 {
-  "lastUpdated": "2026-07-18T10:56:43.884Z",
+  "lastUpdated": "2026-07-18T16:47:44.093Z",
   "articleCount": 39,
   "articles": [
     {
       "category": "AI",
-      "title": "LG monitors silently install software through Windows Update without consent",
+      "title": "Heresy",
       "source": "Hacker News: Front Page",
-      "date": "Sat, 18 Jul 2026 10:21:19 +0000",
-      "summary": "Article URL: https://videocardz.com/newz/lg-monitors-silently-install-software-through-windows-update-without-user-consent\nComments URL: https://news.ycombinator.com/item?id=48956688\nPoints: 5\n# Comments: 0",
-      "url": "https://videocardz.com/newz/lg-monitors-silently-install-software-through-windows-update-without-user-consent"
+      "date": "Sat, 18 Jul 2026 16:31:42 +0000",
+      "summary": "Article URL: https://paulgraham.com/heresy.html\nComments URL: https://news.ycombinator.com/item?id=48959575\nPoints: 5\n# Comments: 1",
+      "url": "https://paulgraham.com/heresy.html"
+    },
+    {
+      "category": "AI",
+      "title": "Young adults are poor despite every metric which suggests otherwise",
+      "source": "Hacker News: Front Page",
+      "date": "Sat, 18 Jul 2026 16:20:35 +0000",
+      "summary": "Article URL: https://xcancel.com/i/article/2077113148524417439\nComments URL: https://news.ycombinator.com/item?id=48959473\nPoints: 11\n# Comments: 12",
+      "url": "https://xcancel.com/i/article/2077113148524417439"
+    },
+    {
+      "category": "Science",
+      "title": "More than 2,700 excess deaths estimated in England and Wales during May and June",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sat, 18 Jul 2026 12:20:01 EDT",
+      "summary": "More than 2,700 people are estimated to have died from heat-related causes during the record-breaking May and June 2026 heat waves in England and Wales, according to a new rapid analysis report led by researchers from the London School of Hygiene & Tropical Medicine (LSHTM), Imperial College London and the Met Office.",
+      "url": "https://phys.org/news/2026-07-excess-deaths-england-wales-june.html"
+    },
+    {
+      "category": "AI",
+      "title": "Setting up your spare Mac for Claude Code to control, a step-by-step guide",
+      "source": "Hacker News: Front Page",
+      "date": "Sat, 18 Jul 2026 16:12:08 +0000",
+      "summary": "Article URL: https://ykdojo.github.io/claude-controls-mac/\nComments URL: https://news.ycombinator.com/item?id=48959392\nPoints: 21\n# Comments: 3",
+      "url": "https://ykdojo.github.io/claude-controls-mac/"
+    },
+    {
+      "category": "Science",
+      "title": "Seasonal gene switch locks fruit flies in winter mode",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sat, 18 Jul 2026 12:00:01 EDT",
+      "summary": "Researchers at Washington State University have discovered a molecular \"winter lock\" that keeps animals in a less active winter state until favorable conditions return, a discovery that could improve pest control and lead to a better understanding of seasonal health conditions in humans.",
+      "url": "https://phys.org/news/2026-07-seasonal-gene-fruit-flies-winter.html"
+    },
+    {
+      "category": "Science",
+      "title": "Study demonstrates the importance of emotional support from pets for vulnerable people",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sat, 18 Jul 2026 11:00:01 EDT",
+      "summary": "People experiencing homelessness, victims of domestic violence and economically vulnerable people are at higher risk of social exclusion. For them, pets are an important source of emotional support. A study by the Affinity Foundation Chair for Animals and Health of the Universitat Autònoma de Barcelona (UAB) and the FAADA Foundation, published in the Frontiers in Psychology journal, highlights the importance of this support from a multidimensional perspective, drawing on the experiences of 100 individuals in vulnerable situations.",
+      "url": "https://phys.org/news/2026-07-importance-emotional-pets-vulnerable-people.html"
+    },
+    {
+      "category": "Science",
+      "title": " Not a housekeeper, but a 'vilica': The many responsibilities of Roman-era female farm managers were overlooked by historians ",
+      "source": " Latest from Live Science ",
+      "date": "Sat, 18 Jul 2026 15:00:00 +0000",
+      "summary": "Women on ancient Roman farms were in charge of making wine, oil — and profits. Historians dismissed them as ‘housekeepers’",
+      "url": "https://www.livescience.com/archaeology/romans/not-a-housekeeper-but-a-vilica-the-many-responsibilities-of-roman-era-female-farm-managers-were-overlooked-by-historians"
     },
     {
       "category": "Space",
-      "title": " Beyond the Perseids: 6 meteor showers worth watching this summer ",
+      "title": " Another reusable rocket? Japan launches, lands RV-X  prototype (video) ",
       "source": " Latest from Space.com ",
-      "date": "Sat, 18 Jul 2026 10:00:00 +0000",
-      "summary": "The Perseids may steal the spotlight, but six lesser-known meteor showers could also light up summer skies.",
-      "url": "https://www.space.com/stargazing/meteor-showers/beyond-the-perseids-6-meteor-showers-worth-watching-this-summer"
+      "date": "Sat, 18 Jul 2026 14:00:00 +0000",
+      "summary": "Japan has succeeded in the first-ever flight test of its RV-X experimental reusable rocket prototype.",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/another-reusable-rocket-coming-japan-launches-lands-rv-x-prototype-video"
     },
     {
       "category": "Science",
-      "title": "UN to list more sites as 'in danger' from conflict or climate change",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sat, 18 Jul 2026 05:00:01 EDT",
-      "summary": "The United Nations looks set to list a Biblical site, Lebanese castles, an antelope migration path and the world's deepest lake as world treasures under threat, including from war or climate change.",
-      "url": "https://phys.org/news/2026-07-sites-danger-conflict-climate.html"
+      "title": "Popular sugar substitutes linked to faster brain aging",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Sat, 18 Jul 2026 09:55:57 EDT",
+      "summary": "Several popular sugar substitutes may not be as harmless as they seem. Adults who consumed the most artificial sweeteners showed substantially faster declines in memory and thinking, especially if they were under 60 or had diabetes. The highest intake was linked to cognitive aging roughly 1.6 years faster than the lowest intake. Researchers stressed that more studies are needed before concluding that sweeteners are the cause.",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260717033213.htm"
+    },
+    {
+      "category": "Space",
+      "title": " This Week In Space podcast: Episode 219 — SpaceX Goes to War! ",
+      "source": " Latest from Space.com ",
+      "date": "Sat, 18 Jul 2026 13:40:10 +0000",
+      "summary": "On Episode 219 of This Week In Space, Rod Pyle and Tariq Malik discuss the space headlines for the past few weeks.",
+      "url": "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-219-spacex-goes-to-war"
+    },
+    {
+      "category": "Space",
+      "title": " 'We knew we had a lot to live up to': As 'Aliens' turns 40, we chat to the legendary VFX masters who created the Alien Queen (interview) ",
+      "source": " Latest from Space.com ",
+      "date": "Sat, 18 Jul 2026 13:00:00 +0000",
+      "summary": "Legacy Effects' Oscar-nominated duo Shane Mahan and Lindsay MacGowan share tales from the trenches of 1986's 'Aliens'",
+      "url": "https://www.space.com/entertainment/space-movies-shows/we-knew-we-had-a-lot-to-live-up-to-as-aliens-turns-40-we-chat-to-the-legendary-vfx-masters-who-created-the-alien-queen-interview"
     },
     {
       "category": "Science",
-      "title": " What is the roundest animal? ",
+      "title": " 'A dangerous proposition': How AI is warping the social fabric and the ways we collectively imagine the future ",
       "source": " Latest from Live Science ",
-      "date": "Sat, 18 Jul 2026 09:00:00 +0000",
-      "summary": "It's fairly uncommon to find a spherical creature, although they're more common in the sea than on land. So which one is the roundest?",
-      "url": "https://www.livescience.com/animals/what-is-the-roundest-animal"
+      "date": "Sat, 18 Jul 2026 12:50:58 +0000",
+      "summary": "In this excerpt from \"Predicted: How AI Is Restructuring Social Life,\" author Mona Sloane examines how artificial intelligence is reconfiguring our understanding of the world and how we imagine the future.",
+      "url": "https://www.livescience.com/technology/artificial-intelligence/a-dangerous-proposition-how-ai-is-warping-the-social-fabric-and-the-ways-we-collectively-imagine-the-future"
+    },
+    {
+      "category": "Science",
+      "title": "Earth’s biggest volcanic event transformed an entire oceanic plate",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Sat, 18 Jul 2026 08:36:03 EDT",
+      "summary": "Seismic waves have revealed that the oceanic plate beneath the Ontong Java Plateau was dramatically transformed by the colossal volcanic activity that created it more than 100 million years ago. Researchers found a complex structure of horizontal layers cut through by vast swarms of vertical magma channels, along with unusually slow seismic waves suggesting that deep-rising magma chemically altered the plate itself.",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260716023618.htm"
+    },
+    {
+      "category": "Science",
+      "title": " 'Fireball' meteorite that smashed into New Jersey home contains ingredients of life from an ancient proto-planet, study finds ",
+      "source": " Latest from Live Science ",
+      "date": "Sat, 18 Jul 2026 12:00:00 +0000",
+      "summary": "Amino acids and other \"pre-biotic\" molecules were spotted in a meteorite that crashed into a New Jersey home in 2024.",
+      "url": "https://www.livescience.com/space/meteoroids/fireball-meteorite-that-smashed-into-new-jersey-home-contains-ingredients-of-life-from-an-ancient-proto-planet-study-finds"
     },
     {
       "category": "AI",
-      "title": "Qubes OS Security in the Public Record",
-      "source": "Hacker News: Front Page",
-      "date": "Sat, 18 Jul 2026 08:50:07 +0000",
-      "summary": "Article URL: https://arxiv.org/abs/2607.14587\nComments URL: https://news.ycombinator.com/item?id=48956307\nPoints: 8\n# Comments: 0",
-      "url": "https://arxiv.org/abs/2607.14587"
-    },
-    {
-      "category": "AI",
-      "title": "The Computer at the Bottom of a Canal",
-      "source": "Hacker News: Front Page",
-      "date": "Sat, 18 Jul 2026 08:33:31 +0000",
-      "summary": "Article URL: https://negroniventurestudios.com/2026/07/18/the-computer-at-the-bottom-of-a-canal/\nComments URL: https://news.ycombinator.com/item?id=48956231\nPoints: 9\n# Comments: 1",
-      "url": "https://negroniventurestudios.com/2026/07/18/the-computer-at-the-bottom-of-a-canal/"
-    },
-    {
-      "category": "Science",
-      "title": "Wildfire smoke from Canada and Minnesota pushes farther into the US and engulfs DC in haze",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sat, 18 Jul 2026 04:30:04 EDT",
-      "summary": "Millions of people in the Great Lakes, Northeast and Mid-Atlantic states muddled through another day of unhealthy air from uncontrolled wildfires on Friday.",
-      "url": "https://phys.org/news/2026-07-wildfire-canada-minnesota-engulfs-dc.html"
-    },
-    {
-      "category": "Science",
-      "title": "'Chainsaw massacre': Europe mulls culls for fish-guzzling cormorant",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sat, 18 Jul 2026 04:20:03 EDT",
-      "summary": "Europe's great cormorant has recovered from near extinction to overabundance in half a century, stoking a long-running debate over population control between fishers troubled by its voracious appetite and conservationists.",
-      "url": "https://phys.org/news/2026-07-chainsaw-massacre-europe-mulls-culls.html"
-    },
-    {
-      "category": "Science",
-      "title": " Science word of the day: Neuroplasticity ",
-      "source": " Latest from Live Science ",
-      "date": "Sat, 18 Jul 2026 08:00:00 +0000",
-      "summary": "What does 'neuroplasticity' mean?",
-      "url": "https://www.livescience.com/health/neuroscience/science-word-of-the-day-neuroplasticity"
+      "title": "Will AI fix prior authorization—or make it worse?",
+      "source": "Ars Technica - All content",
+      "date": "Sat, 18 Jul 2026 11:18:25 +0000",
+      "summary": "The government is piloting a program that uses AI for insurance-coverage decisions.",
+      "url": "https://arstechnica.com/ai/2026/07/will-ai-fix-prior-authorization-or-make-it-worse/"
     },
     {
       "category": "Theology",
@@ -108,27 +156,11 @@
     },
     {
       "category": "Space",
-      "title": " Remembering 'Ulysses 31', the '80s cartoon that transported 'The Odyssey' to outer space ",
-      "source": " Latest from Space.com ",
-      "date": "Fri, 17 Jul 2026 22:00:00 +0000",
-      "summary": "So much more than the earwormiest theme song in the galaxy.",
-      "url": "https://www.space.com/entertainment/space-movies-shows/remembering-ulysses-31-the-80s-cartoon-that-transported-the-odyssey-to-outer-space"
-    },
-    {
-      "category": "Space",
       "title": "Establishing a VTE Risk Score for Astronauts Algorithm",
       "source": "NASA",
       "date": "Fri, 17 Jul 2026 21:01:38 +0000",
       "summary": "In April 2026, NASA’s Office of the Chief Health and Medical Officer (OCHMO) initiated a working group to review updated VTE case information, additional data gathered revealing altered blood flow status within a cohort of astronauts, and discuss progress of research and clinical activities intended to mitigate the risk of VTE during spaceflight with new […]",
       "url": "https://www.nasa.gov/organizations/ochmo/establishing-a-vte-risk-score-for-astronauts-algorithm/"
-    },
-    {
-      "category": "Space",
-      "title": " These 'metallic' dunes on Mars look like sci-fi. What are they really? ",
-      "source": " Latest from Space.com ",
-      "date": "Fri, 17 Jul 2026 21:00:00 +0000",
-      "summary": "New images from the European Space Agency's Mars Express orbiter have captured strange-looking waves on the Red Planet.",
-      "url": "https://www.space.com/astronomy/mars/these-metallic-dunes-on-mars-look-like-sci-fi-what-are-they-really"
     },
     {
       "category": "AI",
@@ -147,20 +179,12 @@
       "url": "https://arstechnica.com/space/2026/07/the-pentagons-space-development-agency-hasnt-moved-as-fast-as-anyone-would-like/"
     },
     {
-      "category": "AI",
-      "title": "Hegseth wants a \"High-T\" military; doctors call it a clinical minefield",
-      "source": "Ars Technica - All content",
-      "date": "Fri, 17 Jul 2026 18:53:11 +0000",
-      "summary": "\"We're turning the clock back on rational healthcare.\"",
-      "url": "https://arstechnica.com/health/2026/07/hegseth-wants-a-high-t-military-doctors-call-it-a-clinical-minefield/"
-    },
-    {
       "category": "Science",
-      "title": " 'RNA can do things which we have never seen before': New study challenges assumptions about what RNA was up to at the dawn of life ",
-      "source": " Latest from Live Science ",
-      "date": "Fri, 17 Jul 2026 17:20:00 +0000",
-      "summary": "RNA can fold into more complex configurations than scientists thought, raising questions about how important these 3D structures were when life on Earth began.",
-      "url": "https://www.livescience.com/health/genetics/rna-can-do-things-which-we-have-never-seen-before-new-study-challenges-assumptions-about-what-rna-was-up-to-at-the-dawn-of-life"
+      "title": "Your fingers may hold a secret of human brain evolution",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Fri, 17 Jul 2026 08:02:39 EDT",
+      "summary": "A study of 225 newborns suggests prenatal estrogen may have played a role in the evolution of larger human brains. Boys with finger-length patterns linked to higher estrogen exposure before birth tended to have larger head circumferences, which are strongly associated with brain size. The same connection was not seen in girls.",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260717033350.htm"
     },
     {
       "category": "Biblical Studies",
@@ -187,28 +211,12 @@
       "url": "https://openai.com/index/a-scorecard-for-the-ai-age"
     },
     {
-      "category": "Science",
-      "title": "Scientists built a camera that can track invisible particles in 3D",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Fri, 17 Jul 2026 02:04:57 EDT",
-      "summary": "A new particle detector called PLATON could replace millions of tiny detector components with a single block of light-producing material. Using a light-field camera, highly sensitive photon sensors, and AI, it reconstructs particle paths in fast, detailed 3D. Simulations suggest it could match or surpass today’s best detectors while being far easier to scale. The technology may also lead to sharper PET medical scans.",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260716023610.htm"
-    },
-    {
       "category": "Theology",
       "title": "How to Better Understand the Holy Trinity (TGC Classic)",
       "source": "The Gospel Coalition",
       "date": "Fri, 17 Jul 2026 04:02:00 +0000",
       "summary": "Pull the thread of the Trinity, and the universe unravels.",
       "url": "https://www.thegospelcoalition.org/podcasts/tgc-podcast/understand-holy-trinity/"
-    },
-    {
-      "category": "Science",
-      "title": "This sugar-coated therapy boosted survival against deadly brain cancer by 50% in mice",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Thu, 16 Jul 2026 21:51:52 EDT",
-      "summary": "A new experimental treatment may have found a way to outsmart glioblastoma’s toughest defense: the blood-brain barrier. Researchers used sugar-coated nanoparticles to ferry genetic instructions that restore a key tumor-suppressing protein directly into brain cancer cells. In mouse studies, the therapy increased median survival by 50% while shrinking tumors without noticeable damage to other organs.",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260715083542.htm"
     },
     {
       "category": "AI",
@@ -225,14 +233,6 @@
       "date": "Thu, 16 Jul 2026 11:00:53 +0000",
       "summary": "Although Leviticus 19:28 clearly prohibits tattoos, it does not give an explicit reason why. This begs the question: Why does the Bible prohibit tattoos?\nThe post What Does the Bible Say About Tattoos? appeared first on Biblical Archaeology Society.",
       "url": "https://www.biblicalarchaeology.org/daily/biblical-topics/hebrew-bible/what-does-the-bible-say-about-tattoos/"
-    },
-    {
-      "category": "Science",
-      "title": "Sun-like star caught after eating one of its own planets",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Thu, 16 Jul 2026 06:52:02 EDT",
-      "summary": "A distant Sun-like star appears to have devoured one of its planets, leaving behind a surprising chemical fingerprint. Researchers found an unusually high concentration of lithium, a strong sign that planetary material was mixed into the star. Careful comparisons with dozens of similar stars confirmed the signal is highly unusual, and scientists think a massive brown dwarf companion may have helped send the planet on its fatal plunge.",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260715083538.htm"
     },
     {
       "category": "AI",
