@@ -1,22 +1,70 @@
 {
-  "lastUpdated": "2026-07-19T16:49:17.987Z",
-  "articleCount": 39,
+  "lastUpdated": "2026-07-19T22:43:13.400Z",
+  "articleCount": 36,
   "articles": [
     {
       "category": "Science",
-      "title": "Carnaby's cockatoos exposed to dangerous pesticide concentrations in WA's Wheatbelt",
+      "title": "Polish families in Spain navigate cultural identity across generations, study finds",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Sun, 19 Jul 2026 12:30:01 EDT",
-      "summary": "A new Murdoch University study has uncovered alarming levels of pesticide contamination in the food sources of endangered Carnaby's cockatoos in the Wheatbelt—including concentrations well above regulatory limits found in seed spills near grain silos.",
-      "url": "https://phys.org/news/2026-07-carnaby-cockatoos-exposed-dangerous-pesticide.html"
+      "date": "Sun, 19 Jul 2026 18:20:01 EDT",
+      "summary": "Emigration often means a profound life upheaval. What challenges do Polish families face after moving to Spain? A researcher from SWPS University, in collaboration with her doctoral supervisors and a researcher from the University of Almería, analyzed family dynamics between children and their parents and found that life in a foreign country is not free from intergenerational conflicts. Parents are committed to maintaining contact with their Polish roots, while young people strive to develop their autonomy, and properly nurturing biculturalism turns out to be crucial.",
+      "url": "https://phys.org/news/2026-07-families-spain-cultural-identity-generations.html"
+    },
+    {
+      "category": "AI",
+      "title": "We want Texans to know their rights",
+      "source": "Hacker News: Front Page",
+      "date": "Sun, 19 Jul 2026 22:03:11 +0000",
+      "summary": "Article URL: https://www.eff.org/deeplinks/2026/07/we-want-texans-know-their-rights-qa-mayday-health-impact-surveillance-abortion\nComments URL: https://news.ycombinator.com/item?id=48972062\nPoints: 20\n# Comments: 5",
+      "url": "https://www.eff.org/deeplinks/2026/07/we-want-texans-know-their-rights-qa-mayday-health-impact-surveillance-abortion"
+    },
+    {
+      "category": "AI",
+      "title": "Grok-iOS – remote Grok Build from your iPhone over ACP",
+      "source": "Hacker News: Front Page",
+      "date": "Sun, 19 Jul 2026 21:51:26 +0000",
+      "summary": "Article URL: https://github.com/Pedroshakoor/grok-build-ios\nComments URL: https://news.ycombinator.com/item?id=48971999\nPoints: 3\n# Comments: 0",
+      "url": "https://github.com/Pedroshakoor/grok-build-ios"
+    },
+    {
+      "category": "AI",
+      "title": "Show HN: A canvas-based note taking and organizer app",
+      "source": "Hacker News: Front Page",
+      "date": "Sun, 19 Jul 2026 21:31:48 +0000",
+      "summary": "So I've been working on this app for a very long time now. Started off by wanting an app that separates long form notes from short form notes visually and keeps everything organized on a canvas.\nThe app features:\n-Sticky notes for quick, small notes and A4 notes for long form documents\n-A quick mode that uses local storage to quickly open the app and jot down a thought on the canvas\n-A PDF export option that exports your notes into 3 custom designed PDF styles\n-Visual hierarchy to replicate file structure instead of a linear fashion, where your files are notes, stacks are folders and labels are names for your folders\nWould love to continue working on this app if you guys like the concept.\nComments URL: https://news.ycombinator.com/item?id=48971847\nPoints: 10\n# Comments: 3",
+      "url": "https://www.passinote.app/"
     },
     {
       "category": "Science",
-      "title": "A century-old stellar mystery may finally have an explanation",
+      "title": "Shared fandom as undervalued social 'medicine' for division, isolation",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Sun, 19 Jul 2026 12:00:01 EDT",
-      "summary": "For more than a century, astronomers have puzzled over a strange discrepancy in the historical record. Theta Eridani, a modest star in the constellation Eridanus, is the third-brightest star in its constellation, with a magnitude of 2.9. But ancient astronomers described it very differently. A new study, posted to the arXiv preprint server on June 29, has proposed a plausible explanation for this mystery.",
-      "url": "https://phys.org/news/2026-07-century-stellar-mystery-explanation.html"
+      "date": "Sun, 19 Jul 2026 17:30:01 EDT",
+      "summary": "The state of the American social fabric—enormous, diverse and rent by stark partisan divides—is daunting enough that it can be hard to think about, let alone try to mend. At the Harvard Kennedy School, two social scientists are advancing the proposition that sports fandom, a powerful social phenomenon and force, may have a role to play in improving lives and strengthening societies.",
+      "url": "https://phys.org/news/2026-07-fandom-undervalued-social-medicine-division.html"
+    },
+    {
+      "category": "Science",
+      "title": "Dragonfly aerial fights follow some simple rules",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sun, 19 Jul 2026 17:00:01 EDT",
+      "summary": "Dragonflies are renowned for their remarkable flying abilities. Male dragonflies often compete for territory and mating opportunities, engaging in fascinating in-flight battles. Researchers at Imperial College London and Taipei Zoo recently carried out a study investigating the aerial maneuvers male dragonflies use while fighting competitors and the overall purpose of these battles.",
+      "url": "https://phys.org/news/2026-07-dragonfly-aerial-simple.html"
+    },
+    {
+      "category": "Science",
+      "title": " Can Ozempic prevent or treat cancer? It's way too soon to say, an expert cautions ",
+      "source": " Latest from Live Science ",
+      "date": "Sun, 19 Jul 2026 19:00:00 +0000",
+      "summary": "Excitement around the idea that GLP-1 drugs can prevent cancer is running well ahead of the evidence, an expert explains.",
+      "url": "https://www.livescience.com/health/medicine-drugs/can-ozempic-prevent-or-treat-cancer-its-way-too-soon-to-say-an-expert-cautions"
+    },
+    {
+      "category": "Space",
+      "title": " 'Aliens' at 40: James Cameron's sequel is a sci-fi icon, but did you know he quit the movie twice? ",
+      "source": " Latest from Space.com ",
+      "date": "Sun, 19 Jul 2026 17:00:00 +0000",
+      "summary": "Forty years ago, Aliens burst into our hearts, but this classic sequel nearly fell by the wayside due to some serious studio-created problems that saw James Cameron quit twice.",
+      "url": "https://www.space.com/entertainment/space-movies-shows/aliens-at-40-james-camerons-sequel-is-a-sci-fi-icon-but-did-you-know-he-quit-the-movie-twice"
     },
     {
       "category": "Space",
@@ -27,44 +75,12 @@
       "url": "https://www.space.com/space-exploration/search-for-life/should-we-trust-ai-in-the-search-for-alien-life-scientists-arent-so-sure"
     },
     {
-      "category": "AI",
-      "title": "Terence McKenna's Mega Bad Trip",
-      "source": "Hacker News: Front Page",
-      "date": "Sun, 19 Jul 2026 14:30:31 +0000",
-      "summary": "Article URL: https://psychedelics.community/cultural-icons/terence-mckennas-mega-bad-trip\nComments URL: https://news.ycombinator.com/item?id=48968515\nPoints: 4\n# Comments: 0",
-      "url": "https://psychedelics.community/cultural-icons/terence-mckennas-mega-bad-trip"
-    },
-    {
-      "category": "AI",
-      "title": "Clever hacker fits 537,000 domains in a $5 ESP32 ad-blocking dongle",
-      "source": "Hacker News: Front Page",
-      "date": "Sun, 19 Jul 2026 14:07:07 +0000",
-      "summary": "Article URL: https://www.tomshardware.com/networking/clever-hacker-fits-537-000-domains-in-a-tiny-usd5-esp32-ad-blocking-dongle-firmware-uses-only-around-50kb-of-ram-and-can-answer-blocked-lookups-in-10-milliseconds\nComments URL: https://news.ycombinator.com/item?id=48968348\nPoints: 29\n# Comments: 13",
-      "url": "https://www.tomshardware.com/networking/clever-hacker-fits-537-000-domains-in-a-tiny-usd5-esp32-ad-blocking-dongle-firmware-uses-only-around-50kb-of-ram-and-can-answer-blocked-lookups-in-10-milliseconds"
-    },
-    {
-      "category": "Science",
-      "title": "Researchers develop methods for breaking down forever chemicals",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sun, 19 Jul 2026 10:00:06 EDT",
-      "summary": "Researchers at the Helmholtz-Zentrum Dresden-Rossendorf (HZDR) have developed two processes—hydrodynamic cavitation and cold atmospheric plasma combined with gas dispersion—to break down per- and polyfluoroalkyl substances (PFAS), industrial chemicals that are extremely resistant to chemical degradation. The work has been published in Chemical Engineering Journal Advances and Scientific Reports, respectively.",
-      "url": "https://phys.org/news/2026-07-methods-chemicals.html"
-    },
-    {
       "category": "Space",
       "title": " How Christopher Nolan's 'Interstellar' turned general relativity into the bad guy ",
       "source": " Latest from Space.com ",
       "date": "Sun, 19 Jul 2026 14:00:00 +0000",
       "summary": "As Nolan embarks on \"The Odyssey\", we look back on the sci-fi movie where time dilation is as cruel as any Greek god.",
       "url": "https://www.space.com/entertainment/space-movies-shows/how-christopher-nolans-interstellar-turned-general-relativity-into-the-bad-guy"
-    },
-    {
-      "category": "AI",
-      "title": "Bananas sprout in Rayleigh Garden UK after 15 years",
-      "source": "Hacker News: Front Page",
-      "date": "Sun, 19 Jul 2026 13:29:29 +0000",
-      "summary": "Article URL: https://www.bbc.com/news/articles/cvg8edqq5g5o\nComments URL: https://news.ycombinator.com/item?id=48968063\nPoints: 45\n# Comments: 21",
-      "url": "https://www.bbc.com/news/articles/cvg8edqq5g5o"
     },
     {
       "category": "Science",
@@ -81,14 +97,6 @@
       "date": "Sun, 19 Jul 2026 13:00:00 +0000",
       "summary": "Astronomers have detected helium escaping from the super-Earth LHS 1140 b, providing the strongest evidence yet that a rocky planet in another star's habitable zone has retained an atmosphere for billions of years.",
       "url": "https://www.livescience.com/space/exoplanets/its-absolutely-exciting-astronomers-discover-an-atmosphere-around-an-earth-like-planet-in-the-habitable-zone-for-first-time-ever"
-    },
-    {
-      "category": "Space",
-      "title": " 10 places in the US and Canada to see August's partial solar eclipse and Perseid meteor shower in 1 trip ",
-      "source": " Latest from Space.com ",
-      "date": "Sun, 19 Jul 2026 13:00:00 +0000",
-      "summary": "A partial solar eclipse by day and the peak of the Perseid meteor shower by night make Aug. 12, 2026, one of the best nights for skywatching and camping in years, but only for some parts of North America.",
-      "url": "https://www.space.com/stargazing/10-places-in-the-us-and-canada-to-see-augusts-partial-solar-eclipse-and-perseid-meteor-shower-in-1-trip"
     },
     {
       "category": "Science",
@@ -113,14 +121,6 @@
       "date": "Sun, 19 Jul 2026 11:19:31 +0000",
       "summary": "Monitoring is expensive and labor intensive. But it helps public health officials stop outbreaks.",
       "url": "https://arstechnica.com/science/2026/07/as-mosquito-ranges-expand-better-monitoring-is-key-to-preventing-disease/"
-    },
-    {
-      "category": "Science",
-      "title": " Cells from your mother likely infiltrated your brain in the womb, and they could survive for decades, study reveals ",
-      "source": " Latest from Live Science ",
-      "date": "Sun, 19 Jul 2026 11:00:00 +0000",
-      "summary": "Maternal cells that infiltrate children's brains during pregnancy take on different jobs in the brain and may persist into old age.",
-      "url": "https://www.livescience.com/health/genetics/cells-from-your-mother-likely-infiltrated-your-brain-in-the-womb-and-they-could-survive-for-decades-study-reveals"
     },
     {
       "category": "Theology",
@@ -163,30 +163,6 @@
       "url": "https://www.thegospelcoalition.org/article/5-signs-marriage-unhealthy/"
     },
     {
-      "category": "Space",
-      "title": "NASA Pushes New Wing Design to Find Structural Limits",
-      "source": "NASA",
-      "date": "Fri, 17 Jul 2026 23:08:33 +0000",
-      "summary": "NASA researchers recently put a new wing design, appearing long and thin with a lightweight structural design, through a series of grueling tests to find its structural limits. What they found left them encouraged about the wing’s potential, even when they pushed it past its intended limits. The 15-foot Structural Wing Experiment Evaluating Truss-bracing (SWEET-15) […]",
-      "url": "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-pushes-new-wing-design-to-find-structural-limits/"
-    },
-    {
-      "category": "Space",
-      "title": "The Growing Crescent of Mars as NASA’s Psyche Mission Approaches",
-      "source": "NASA",
-      "date": "Fri, 17 Jul 2026 22:32:27 +0000",
-      "summary": "Description This composite of images taken by NASA’s Psyche mission shows the crescent of Mars grow as the spacecraft approached the planet for a gravity assist from May 2 to May 15, 2026. The series begins with the smallest crescent at the center of the of the image as Mars is farthest from the spacecraft, and progressively […]",
-      "url": "https://science.nasa.gov/photojournal/the-growing-crescent-of-mars-as-nasas-psyche-mission-approaches/"
-    },
-    {
-      "category": "Space",
-      "title": "Establishing a VTE Risk Score for Astronauts Algorithm",
-      "source": "NASA",
-      "date": "Fri, 17 Jul 2026 21:01:38 +0000",
-      "summary": "In April 2026, NASA’s Office of the Chief Health and Medical Officer (OCHMO) initiated a working group to review updated VTE case information, additional data gathered revealing altered blood flow status within a cohort of astronauts, and discuss progress of research and clinical activities intended to mitigate the risk of VTE during spaceflight with new […]",
-      "url": "https://www.nasa.gov/organizations/ochmo/establishing-a-vte-risk-score-for-astronauts-algorithm/"
-    },
-    {
       "category": "AI",
       "title": "Google-backed satellites for wildfire detection launch as smoke chokes US, Canada",
       "source": "Ars Technica - All content",
@@ -199,7 +175,7 @@
       "title": "The Odyssey, the Bronze Age Collapse, and the World Before Israel",
       "source": "Biblical Archaeology Society",
       "date": "Fri, 17 Jul 2026 10:45:47 +0000",
-      "summary": "For many readers, Homer’s Odyssey is remembered as a story about journeying home. The cyclopes, Sirens, and sea monsters who prolong Odysseus’s voyage have made […]\nThe post The <em>Odyssey</em>, the Bronze Age Collapse, and the World Before Israel appeared first on Biblical Archaeology Society.",
+      "summary": "For many readers, Homer’s Odyssey is a story about journeying home. The cyclopes, Sirens, and sea monsters who prolong Odysseus’s voyage have made it one […]\nThe post The <em>Odyssey</em>, the Bronze Age Collapse, and the World Before Israel appeared first on Biblical Archaeology Society.",
       "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/odyssey-bronze-age-collapse-and-world-before-israel/"
     },
     {
