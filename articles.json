@@ -1,14 +1,118 @@
 {
-  "lastUpdated": "2026-07-19T11:05:47.221Z",
+  "lastUpdated": "2026-07-19T16:49:17.987Z",
   "articleCount": 39,
   "articles": [
     {
       "category": "Science",
-      "title": "Observations investigate the nature of a peculiar supernova",
+      "title": "Carnaby's cockatoos exposed to dangerous pesticide concentrations in WA's Wheatbelt",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Sun, 19 Jul 2026 07:00:01 EDT",
-      "summary": "An international team of astronomers has performed follow-up observations of a peculiar Type Ia supernova designated SN 2023vjh. Results of the observational campaign, published July 9 on the preprint server arXiv, deliver important insights into the nature of this explosion.",
-      "url": "https://phys.org/news/2026-07-nature-peculiar-supernova.html"
+      "date": "Sun, 19 Jul 2026 12:30:01 EDT",
+      "summary": "A new Murdoch University study has uncovered alarming levels of pesticide contamination in the food sources of endangered Carnaby's cockatoos in the Wheatbelt—including concentrations well above regulatory limits found in seed spills near grain silos.",
+      "url": "https://phys.org/news/2026-07-carnaby-cockatoos-exposed-dangerous-pesticide.html"
+    },
+    {
+      "category": "Science",
+      "title": "A century-old stellar mystery may finally have an explanation",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sun, 19 Jul 2026 12:00:01 EDT",
+      "summary": "For more than a century, astronomers have puzzled over a strange discrepancy in the historical record. Theta Eridani, a modest star in the constellation Eridanus, is the third-brightest star in its constellation, with a magnitude of 2.9. But ancient astronomers described it very differently. A new study, posted to the arXiv preprint server on June 29, has proposed a plausible explanation for this mystery.",
+      "url": "https://phys.org/news/2026-07-century-stellar-mystery-explanation.html"
+    },
+    {
+      "category": "Space",
+      "title": " Should we trust AI in the search for alien life? Scientists aren't so sure ",
+      "source": " Latest from Space.com ",
+      "date": "Sun, 19 Jul 2026 15:00:00 +0000",
+      "summary": "New research suggests AI can be repeatedly fooled into mistaking non-life for life.",
+      "url": "https://www.space.com/space-exploration/search-for-life/should-we-trust-ai-in-the-search-for-alien-life-scientists-arent-so-sure"
+    },
+    {
+      "category": "AI",
+      "title": "Terence McKenna's Mega Bad Trip",
+      "source": "Hacker News: Front Page",
+      "date": "Sun, 19 Jul 2026 14:30:31 +0000",
+      "summary": "Article URL: https://psychedelics.community/cultural-icons/terence-mckennas-mega-bad-trip\nComments URL: https://news.ycombinator.com/item?id=48968515\nPoints: 4\n# Comments: 0",
+      "url": "https://psychedelics.community/cultural-icons/terence-mckennas-mega-bad-trip"
+    },
+    {
+      "category": "AI",
+      "title": "Clever hacker fits 537,000 domains in a $5 ESP32 ad-blocking dongle",
+      "source": "Hacker News: Front Page",
+      "date": "Sun, 19 Jul 2026 14:07:07 +0000",
+      "summary": "Article URL: https://www.tomshardware.com/networking/clever-hacker-fits-537-000-domains-in-a-tiny-usd5-esp32-ad-blocking-dongle-firmware-uses-only-around-50kb-of-ram-and-can-answer-blocked-lookups-in-10-milliseconds\nComments URL: https://news.ycombinator.com/item?id=48968348\nPoints: 29\n# Comments: 13",
+      "url": "https://www.tomshardware.com/networking/clever-hacker-fits-537-000-domains-in-a-tiny-usd5-esp32-ad-blocking-dongle-firmware-uses-only-around-50kb-of-ram-and-can-answer-blocked-lookups-in-10-milliseconds"
+    },
+    {
+      "category": "Science",
+      "title": "Researchers develop methods for breaking down forever chemicals",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sun, 19 Jul 2026 10:00:06 EDT",
+      "summary": "Researchers at the Helmholtz-Zentrum Dresden-Rossendorf (HZDR) have developed two processes—hydrodynamic cavitation and cold atmospheric plasma combined with gas dispersion—to break down per- and polyfluoroalkyl substances (PFAS), industrial chemicals that are extremely resistant to chemical degradation. The work has been published in Chemical Engineering Journal Advances and Scientific Reports, respectively.",
+      "url": "https://phys.org/news/2026-07-methods-chemicals.html"
+    },
+    {
+      "category": "Space",
+      "title": " How Christopher Nolan's 'Interstellar' turned general relativity into the bad guy ",
+      "source": " Latest from Space.com ",
+      "date": "Sun, 19 Jul 2026 14:00:00 +0000",
+      "summary": "As Nolan embarks on \"The Odyssey\", we look back on the sci-fi movie where time dilation is as cruel as any Greek god.",
+      "url": "https://www.space.com/entertainment/space-movies-shows/how-christopher-nolans-interstellar-turned-general-relativity-into-the-bad-guy"
+    },
+    {
+      "category": "AI",
+      "title": "Bananas sprout in Rayleigh Garden UK after 15 years",
+      "source": "Hacker News: Front Page",
+      "date": "Sun, 19 Jul 2026 13:29:29 +0000",
+      "summary": "Article URL: https://www.bbc.com/news/articles/cvg8edqq5g5o\nComments URL: https://news.ycombinator.com/item?id=48968063\nPoints: 45\n# Comments: 21",
+      "url": "https://www.bbc.com/news/articles/cvg8edqq5g5o"
+    },
+    {
+      "category": "Science",
+      "title": "A tiny universe in a bottle reveals clues to the origins of life",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Sun, 19 Jul 2026 09:10:21 EDT",
+      "summary": "Researchers have created cosmic dust from scratch by recreating space-like conditions inside glass tubes. The dust contains complex carbon-rich molecules built from elements essential to life and produces infrared signals similar to real material found in space. By studying these laboratory samples, scientists can explore how organic chemistry unfolds around stars and how comets, asteroids and meteorites may have carried those ingredients to Earth.",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260718010156.htm"
+    },
+    {
+      "category": "Science",
+      "title": " 'It's absolutely exciting!': Astronomers discover an atmosphere around an Earth-like planet in the habitable zone for first time ever ",
+      "source": " Latest from Live Science ",
+      "date": "Sun, 19 Jul 2026 13:00:00 +0000",
+      "summary": "Astronomers have detected helium escaping from the super-Earth LHS 1140 b, providing the strongest evidence yet that a rocky planet in another star's habitable zone has retained an atmosphere for billions of years.",
+      "url": "https://www.livescience.com/space/exoplanets/its-absolutely-exciting-astronomers-discover-an-atmosphere-around-an-earth-like-planet-in-the-habitable-zone-for-first-time-ever"
+    },
+    {
+      "category": "Space",
+      "title": " 10 places in the US and Canada to see August's partial solar eclipse and Perseid meteor shower in 1 trip ",
+      "source": " Latest from Space.com ",
+      "date": "Sun, 19 Jul 2026 13:00:00 +0000",
+      "summary": "A partial solar eclipse by day and the peak of the Perseid meteor shower by night make Aug. 12, 2026, one of the best nights for skywatching and camping in years, but only for some parts of North America.",
+      "url": "https://www.space.com/stargazing/10-places-in-the-us-and-canada-to-see-augusts-partial-solar-eclipse-and-perseid-meteor-shower-in-1-trip"
+    },
+    {
+      "category": "Science",
+      "title": " Decorated wild-boar tusk found in Russia may have been medieval warrior's good-luck charm ",
+      "source": " Latest from Live Science ",
+      "date": "Sun, 19 Jul 2026 12:30:00 +0000",
+      "summary": "A 12th-century wild-boar tusk found in Russia may be a warrior's amulet.",
+      "url": "https://www.livescience.com/archaeology/decorated-wild-boar-tusk-found-in-russia-may-have-been-medieval-warriors-good-luck-charm"
+    },
+    {
+      "category": "Science",
+      "title": "The mysterious hum heard around the world may finally have an explanation",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Sun, 19 Jul 2026 08:07:13 EDT",
+      "summary": "The mysterious sound known as The Hum has been reported worldwide for decades, yet its source often remains impossible to find. Researchers tested whether people who hear it have exceptional low-frequency hearing or measurable sounds produced inside their ears, but neither explanation fit most participants. The strongest possibility is that many cases involve low-frequency tinnitus, even though the sound seems completely external.",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260719040002.htm"
+    },
+    {
+      "category": "AI",
+      "title": "As mosquito ranges expand, better monitoring is key to preventing disease",
+      "source": "Ars Technica - All content",
+      "date": "Sun, 19 Jul 2026 11:19:31 +0000",
+      "summary": "Monitoring is expensive and labor intensive. But it helps public health officials stop outbreaks.",
+      "url": "https://arstechnica.com/science/2026/07/as-mosquito-ranges-expand-better-monitoring-is-key-to-preventing-disease/"
     },
     {
       "category": "Science",
@@ -17,78 +121,6 @@
       "date": "Sun, 19 Jul 2026 11:00:00 +0000",
       "summary": "Maternal cells that infiltrate children's brains during pregnancy take on different jobs in the brain and may persist into old age.",
       "url": "https://www.livescience.com/health/genetics/cells-from-your-mother-likely-infiltrated-your-brain-in-the-womb-and-they-could-survive-for-decades-study-reveals"
-    },
-    {
-      "category": "Science",
-      "title": "State anti-DEI laws alter the graduate student experience, study finds",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sun, 19 Jul 2026 06:30:01 EDT",
-      "summary": "A new study by University of Delaware professor Jarett Haley and others explored how racially minoritized graduate students understood the impacts of proposed or enacted state anti–diversity, equity and inclusion (anti-DEI) laws on their experiences in racial/ethnic graduate student organizations at public historically and predominantly white institutions.",
-      "url": "https://phys.org/news/2026-07-state-anti-dei-laws-student.html"
-    },
-    {
-      "category": "AI",
-      "title": "Claude Code uses Bun written in Rust now",
-      "source": "Hacker News: Front Page",
-      "date": "Sun, 19 Jul 2026 10:03:23 +0000",
-      "summary": "Article URL: https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/\nComments URL: https://news.ycombinator.com/item?id=48966569\nPoints: 47\n# Comments: 14",
-      "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/"
-    },
-    {
-      "category": "Science",
-      "title": " James Webb telescope uses trippy Einstein prediction to probe the farthest reaches of the universe — Space photo of the week ",
-      "source": " Latest from Live Science ",
-      "date": "Sun, 19 Jul 2026 10:00:00 +0000",
-      "summary": "The James Webb telescope peers through a warped bubble of space-time to study galaxies from the first billion years after the Big Bang.",
-      "url": "https://www.livescience.com/space/astronomy/james-webb-telescope-uses-trippy-einstein-prediction-to-probe-the-farthest-reaches-of-the-universe-space-photo-of-the-week"
-    },
-    {
-      "category": "Space",
-      "title": " Scientists told them, 'No, it's too dangerous,' but they did it anyway: Inside Japan's super-close asteroid flyby ",
-      "source": " Latest from Space.com ",
-      "date": "Sun, 19 Jul 2026 10:00:00 +0000",
-      "summary": "Japan's Hayabusa2 spacecraft returned spectacular images of a near-Earth asteroid following a super-close flyby on July 5, but heated debate was needed before teams signed off on the daring attempt.",
-      "url": "https://www.space.com/space-exploration/asteroid-comet-missions/scientists-told-them-no-its-too-dangerous-but-they-did-it-anyway-inside-japans-super-close-asteroid-flyby"
-    },
-    {
-      "category": "Science",
-      "title": "Energy price shocks slow state economies; spur energy efficiency investments",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sun, 19 Jul 2026 05:40:04 EDT",
-      "summary": "Rising energy prices in the U.S. reduce states' economic output, but they also prompt investments in more efficient equipment and technologies that partially offset those output losses over time, according to a new study by researchers at Penn State.",
-      "url": "https://phys.org/news/2026-07-energy-price-state-economies-spur.html"
-    },
-    {
-      "category": "Science",
-      "title": " What's the oldest weapon in the world? ",
-      "source": " Latest from Live Science ",
-      "date": "Sun, 19 Jul 2026 09:00:00 +0000",
-      "summary": "There are a few contenders for the world's oldest weapon, and one is over 400,000 years old.",
-      "url": "https://www.livescience.com/archaeology/whats-the-oldest-weapon-in-the-world"
-    },
-    {
-      "category": "AI",
-      "title": "Qwen 3.8 Max Preview",
-      "source": "Hacker News: Front Page",
-      "date": "Sun, 19 Jul 2026 08:57:31 +0000",
-      "summary": "Article URL: https://www.qwencloud.com/pricing/token-plan\nComments URL: https://news.ycombinator.com/item?id=48966190\nPoints: 20\n# Comments: 2",
-      "url": "https://www.qwencloud.com/pricing/token-plan"
-    },
-    {
-      "category": "AI",
-      "title": "Half a Second – a book about the XZ backdoor",
-      "source": "Hacker News: Front Page",
-      "date": "Sun, 19 Jul 2026 08:48:41 +0000",
-      "summary": "Article URL: https://www.half-second.com/\nComments URL: https://news.ycombinator.com/item?id=48966139\nPoints: 9\n# Comments: 2",
-      "url": "https://www.half-second.com/"
-    },
-    {
-      "category": "Science",
-      "title": "Scientists identify the rare meteorite that killed the dinosaurs 66 million years ago",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Sun, 19 Jul 2026 00:22:00 EDT",
-      "summary": "The asteroid that wiped out the dinosaurs was likely an exceptionally rare CO chondrite from a distant region of the solar system. Its unusual chemistry suggests that planet-cooling dust and debris, rather than sulfur inside the asteroid, may have delivered the deadliest blow.",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260718010142.htm"
     },
     {
       "category": "Theology",
@@ -105,22 +137,6 @@
       "date": "Sat, 18 Jul 2026 21:55:33 EDT",
       "summary": "A low-cost antidepressant may offer new hope for people struggling with long COVID fatigue. In a randomized clinical trial involving 399 adults, fluvoxamine significantly reduced fatigue and improved quality of life compared with a placebo, making it one of the first medications to show meaningful benefits for this disabling condition.",
       "url": "https://www.sciencedaily.com/releases/2026/07/260718010158.htm"
-    },
-    {
-      "category": "Space",
-      "title": " Another reusable rocket? Japan launches, lands RV-X  prototype (video) ",
-      "source": " Latest from Space.com ",
-      "date": "Sat, 18 Jul 2026 14:00:00 +0000",
-      "summary": "Japan has succeeded in the first-ever flight test of its RV-X experimental reusable rocket prototype.",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/another-reusable-rocket-coming-japan-launches-lands-rv-x-prototype-video"
-    },
-    {
-      "category": "Space",
-      "title": " This Week In Space podcast: Episode 219 — SpaceX Goes to War! ",
-      "source": " Latest from Space.com ",
-      "date": "Sat, 18 Jul 2026 13:40:10 +0000",
-      "summary": "On Episode 219 of This Week In Space, Rod Pyle and Tariq Malik discuss the space headlines for the past few weeks.",
-      "url": "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-219-spacex-goes-to-war"
     },
     {
       "category": "AI",
@@ -177,22 +193,6 @@
       "date": "Fri, 17 Jul 2026 19:50:18 +0000",
       "summary": "The FireSat program can spot wildfires that other satellites miss.",
       "url": "https://arstechnica.com/space/2026/07/google-backed-satellites-for-wildfire-detection-launch-as-smoke-chokes-us-canada/"
-    },
-    {
-      "category": "AI",
-      "title": "The Pentagon's Space Development Agency hasn't moved as fast as anyone would like",
-      "source": "Ars Technica - All content",
-      "date": "Fri, 17 Jul 2026 19:19:42 +0000",
-      "summary": "\"Missiles are being launched at the joint force every single day in [Operation] Epic Fury.\"",
-      "url": "https://arstechnica.com/space/2026/07/the-pentagons-space-development-agency-hasnt-moved-as-fast-as-anyone-would-like/"
-    },
-    {
-      "category": "Science",
-      "title": "Your fingers may hold a secret of human brain evolution",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Fri, 17 Jul 2026 08:02:39 EDT",
-      "summary": "A study of 225 newborns suggests prenatal estrogen may have played a role in the evolution of larger human brains. Boys with finger-length patterns linked to higher estrogen exposure before birth tended to have larger head circumferences, which are strongly associated with brain size. The same connection was not seen in girls.",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260717033350.htm"
     },
     {
       "category": "Biblical Studies",
