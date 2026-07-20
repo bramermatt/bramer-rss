@@ -1,54 +1,134 @@
 {
-  "lastUpdated": "2026-07-20T12:10:57.086Z",
-  "articleCount": 39,
+  "lastUpdated": "2026-07-20T17:30:50.184Z",
+  "articleCount": 36,
   "articles": [
     {
       "category": "Science",
-      "title": "Fourth-year vet students reveal clues to horse MEED and dog bone cancer",
+      "title": "Rare sighting reveals Arctic bobtail squid and egg masses in subzero Greenland fjord",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Mon, 20 Jul 2026 08:00:04 EDT",
-      "summary": "Texas Tech University's School of Veterinary Medicine fourth-year students Kayden Tanner and Marshall Mays have both been published in international journals after putting hundreds of hours into their research papers.",
-      "url": "https://phys.org/news/2026-07-fourth-year-vet-students-reveal.html"
+      "date": "Mon, 20 Jul 2026 13:20:03 EDT",
+      "summary": "Marine biologists have observed the Arctic bobtail squid in its natural habitat in the North Atlantic Ocean for the first time, including the rare discovery of a mature female with eggs. Dr Paige Maroni, from The University of Western Australia's School of Biological Sciences, is lead author of the study published in Polar Biology, which recorded the Arctic bobtail squid, Rossia moelleri, in Northeast Greenland National Park.",
+      "url": "https://phys.org/news/2026-07-rare-sighting-reveals-arctic-bobtail.html"
+    },
+    {
+      "category": "Science",
+      "title": "Microplastic tire pollution found in Brisbane balcony dust",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Mon, 20 Jul 2026 13:20:01 EDT",
+      "summary": "Tire particles and potentially toxic tire chemical additives have been found in dust collected from Brisbane residential balconies. University of Queensland researchers examined the balcony dust from homes across inner-city, suburban and near-road settings to see how traffic-related pollution traveled from streets to residential environments.",
+      "url": "https://phys.org/news/2026-07-microplastic-pollution-brisbane-balcony.html"
+    },
+    {
+      "category": "Science",
+      "title": "Shroud of Turin DNA sheds light on its biological history",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Mon, 20 Jul 2026 13:00:06 EDT",
+      "summary": "New research has uncovered the complex biological history preserved within DNA traces found on the Shroud of Turin, offering fresh insights into one of the world's most studied and debated historical artifacts.",
+      "url": "https://phys.org/news/2026-07-shroud-turin-dna-biological-history.html"
     },
     {
       "category": "Space",
-      "title": " Did Viking 1 find life on Mars 50 years ago? Here's why the debate continues ",
+      "title": " 'Stranger Things' at 10: The Netflix streaming icon that made it cool to like science again ",
       "source": " Latest from Space.com ",
-      "date": "Mon, 20 Jul 2026 12:00:00 +0000",
-      "summary": "Did Viking 1 find evidence of life on Mars? Fifty years after the NASA lander touched down, the jury is still out.",
-      "url": "https://www.space.com/astronomy/mars/did-viking-1-find-life-on-mars-50-years-ago-heres-why-the-debate-continues"
-    },
-    {
-      "category": "Science",
-      "title": "Researchers advance tech that could help scientists detect habitable worlds beyond our solar system",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Mon, 20 Jul 2026 07:40:01 EDT",
-      "summary": "Are we alone in the universe? For scientists working on NASA's proposed Habitable Worlds Observatory, that question is no longer purely philosophical. It is increasingly becoming an engineering problem.",
-      "url": "https://phys.org/news/2026-07-advance-tech-scientists-habitable-worlds.html"
+      "date": "Mon, 20 Jul 2026 17:00:00 +0000",
+      "summary": "Stranger Things changed the face of streaming, but it also had a significant impact on piquing the younger audience's interest in science.",
+      "url": "https://www.space.com/entertainment/space-movies-shows/stranger-things-at-10-the-netflix-streaming-icon-that-made-it-cool-to-like-science-again"
     },
     {
       "category": "AI",
-      "title": "Why is it so hard for the U.S. to win wars?",
+      "title": "Over 30% of new ArXiv submissions now read as AI-written",
       "source": "Hacker News: Front Page",
-      "date": "Mon, 20 Jul 2026 11:24:45 +0000",
-      "summary": "Article URL: https://www.npr.org/2026/07/18/g-s1-134037/why-is-it-so-hard-for-the-u-s-to-win-wars\nComments URL: https://news.ycombinator.com/item?id=48977270\nPoints: 9\n# Comments: 2",
-      "url": "https://www.npr.org/2026/07/18/g-s1-134037/why-is-it-so-hard-for-the-u-s-to-win-wars"
+      "date": "Mon, 20 Jul 2026 16:36:36 +0000",
+      "summary": "Article URL: https://unslop.run/blog/measuring-ai-writing-on-arxiv\nComments URL: https://news.ycombinator.com/item?id=48981206\nPoints: 34\n# Comments: 17",
+      "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv"
     },
     {
       "category": "AI",
-      "title": "Beyond grep: The case for a context-rich AI coding harness",
+      "title": "Launch HN: Bloomy (YC S26) – AI-powered mastery learning for K-12",
+      "source": "Hacker News: Front Page",
+      "date": "Mon, 20 Jul 2026 16:32:10 +0000",
+      "summary": "Hi HN, I’m Alex Southmayd, the founder of Bloomy (https://bloomylearning.com) – an AI-powered mastery-learning platform for K-12 students. Bloomy provides students with an AI tutor alongside adaptive curriculum (right now Math, English Language Arts, and Writing).\nHow it works: we diagnose students’ skill gaps, place them on personalized learning paths, and give them standards-aligned lessons and a Socratic AI tutor that scaffolds their learning without just giving away the answer.\nThe goal is to solve the Bloom 2-sigma problem (https://en.wikipedia.org/wiki/Bloom%27s_2_sigma_problem) with AI.\nShort launch video: https://tinyurl.com/bloomylearning\nLonger product demo: https://youtu.be/XHvoKt6qMeo\nFamilies access for Bloomy: https://bloomylearning.com/families\nI started as a teacher. I taught 7th-grade English and writing with Teach For America, and every day I struggled to deliver differentiated instruction to 30 students with 30 different sets of needs. Some students needed remediation, some needed acceleration, and many needed a tutor sitting next to them helping them reason through the next step.\nBenjamin Bloom’s two-sigma result—that one-on-one tutoring can produce much better outcomes than conventional classroom instruction—always felt intuitively true to me. The hard part was making that kind of attention affordable and available to every child.\nThen AI changed the cost curve. When I saw schools such as Alpha organize academics around mastery rather than seat time, the model clicked. If you’ve heard of Alpha School, that is directionally the kind of learning model that inspired us. But I kept thinking about the families and schools that already exist: homeschool families, microschools, hybrid schools, and regular classrooms where most children are today.\nMost students and teachers see learning gaps at the wrong resolution. They get a grade, percentile, benchmark score, or broad standard—not “this is the next skill this student should learn.” Existing personalized-learning products often feel like digital worksheets: they provide plenty of practice, but not much diagnosis or teaching. Very few have AI tutors providing the core instruction.\nBloomy starts with a diagnostic—we integrate with third-party assessments and provide our own—and creates a learning path for each student. Students work one skill at a time, receive a short lesson, practice at an adaptive difficulty, and only move forward after demonstrating at least 90% mastery. The learning path updates as the student works, based on their performance and our knowledge graph of skill prerequisites (built in collaboration with Learning Commons / Chan Zuckerberg Initiative).\nEach skill has three stages. Base Camp teaches the concept with worked examples. Climb provides guided practice and Socratic support. Summit is an independent ten-question mastery assessment with no hints or AI assistance. Students need to achieve 90% on the Summit to advance. If they struggle too much, they’ll be routed to a different skill better suited for their level.\nBloomyBot is not a blank chat window but rather a live, interactive, and observant digital tutor. During practice, it receives the active passage or problem, the question, the student’s attempt, an authored explanation, and relevant misconception context. It follows a scaffolded tutoring ladder: first asking what the student tried, then pointing toward the concept, suggesting a strategy, working through one step together, and only providing heavier scaffolding after the student has struggled, adapting to and learning from the student along the way. Students can interrupt it, and we’ve begun to roll out multilingual support for Spanish, French, and a few other more niche languages that customers have asked for.\nWe currently use a variety of Anthropic and OpenAI models for BloomyBot. The tutor is restricted to the current lesson, redirects unrelated questions, limits conversation length, and is unavailable during mastery assessments. The language model does not choose the curriculum or decide whether a student has mastered a skill.\nThat separation is important. A conventionally “helpful” AI response can be a bad tutoring response: if it gives away the answer, the student completes the task but may not learn anything. Our goal is not to build a homework-answering chatbot. It is to put AI inside a structured loop of diagnosis, instruction, practice, feedback, and independent mastery.\nLLMs can still be wrong, and we do not claim our constraints eliminate that. We reduce the surface area by grounding BloomyBot in authored lesson content, keeping it on topic, logging conversations, and removing it from assessments. Teachers and parents can review tutoring activity, students can report problems, and safety signals trigger human alerts and a backup audit.\nWe also do not see Bloomy as a replacement for teachers, parents, or human tutors. A good human tutor is better. The narrower question we are testing is whether, during a bounded learning session a student would already be doing, a context-aware tutor can provide better help than static “correct/incorrect” feedback. Longer term, the question becomes more whether a student would perform better with one-on-one AI tutoring (at least in certain aspects of the curriculum) than with many-to-one instruction in a medium- or large-sized classroom.\nBloomy is now being used across several settings: traditional districts, charter schools, hybrid schools, microschools, homeschools, and families looking for additional academic support. In an early pilot at a charter school in Massachusetts serving ~150 students in grades 6 through 8, students averaged roughly 1.8 times the expected winter-to-spring NWEA MAP growth. This was an observational pilot, not a randomized study, so we treat it as an encouraging signal rather than proof that Bloomy caused the difference.\nParents and teachers can see what a student has mastered, what is in progress, and where support may be needed. We have found that adults generally do not want another generic score; they want to know which small number of skills deserve attention this week.\nBloomy makes money through family subscriptions and school licensing. ELA costs $39/month or $279/year per learner, and Writing Studio costs $19/month or $139/year. Math is scheduled to launch July 31 at the same price as ELA. Schools and microschools pay per student, with pricing varying by subject coverage, enrollment, rostering, and implementation needs.\nBecause children use Bloomy, we collect learning responses, progress data, and tutoring conversations. We do not sell personal information, use child data for behavioral advertising, or permit model providers to train general-purpose models on identifiable child data sent by Bloomy. We have Zero Data Retention agreements with both Anthropic and OpenAI. Parents and schools can request access, export, correction, or deletion under the applicable account or school agreement.\nMore background on me: after Teach For America, I taught and designed GMAT and GRE curriculum for Manhattan Prep / Kaplan, led the driver acquisition team for Lyft’s New England markets, completed an MBA at Stanford, and led AI transformation projects at McKinsey (so when models finally became good enough this past January to achieve the kinds of things I am pursuing with Bloomy, I was in the right place at the right time to begin building). Bloomy brings together the different parts of my career that I care most about: educational outcomes, learning design, building products, and getting useful technology into people’s hands.\nI’d especially value feedback from parents, teachers, engineers working on child-facing AI, and people who have built tutoring, assessment, or adaptive-learning systems. Does the separation between guided AI help and independent mastery make sense? Where do you see the greatest potential with AI in education? Where are our safeguards insufficient? What evidence or product behavior would you need to trust something like this with a student?\nCertainly there are many dangers and pitfalls we must beware of, too, but I believe we can really move the needle in K-12 (for the first time in a long time) if we use AI responsibly and intelligently.\nComments URL: https://news.ycombinator.com/item?id=48981136\nPoints: 4\n# Comments: 22",
+      "url": "https://news.ycombinator.com/item?id=48981136"
+    },
+    {
+      "category": "Space",
+      "title": " Twice in a row: SpaceX rocket aborts launch at last second again (video) ",
+      "source": " Latest from Space.com ",
+      "date": "Mon, 20 Jul 2026 16:09:40 +0000",
+      "summary": "SpaceX suffered its second last-second abort in a row this morning (July 20), this time during an attempted Falcon 9 launch of Starlink broadband satellites.",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launch-abort-falcon-9-starlink-satellites-vandenberg"
+    },
+    {
+      "category": "AI",
+      "title": "Czechia moves to ban mobile phones in schools from September 2027",
+      "source": "Hacker News: Front Page",
+      "date": "Mon, 20 Jul 2026 16:00:34 +0000",
+      "summary": "Article URL: https://www.expats.cz/czech-news/article/czech-news-in-brief-for-july-20-2026-monday-top-afternoon-headlines\nComments URL: https://news.ycombinator.com/item?id=48980700\nPoints: 25\n# Comments: 15",
+      "url": "https://www.expats.cz/czech-news/article/czech-news-in-brief-for-july-20-2026-monday-top-afternoon-headlines"
+    },
+    {
+      "category": "Space",
+      "title": " Four astronauts, 3 spacecraft, 2 weeks in orbit: Artemis III will be NASA's most complicated mission ever ",
+      "source": " Latest from Space.com ",
+      "date": "Mon, 20 Jul 2026 16:00:00 +0000",
+      "summary": "NASA's Artemis III mission is shaping up to be NASA's most complex mission in history, coordinating the launch and rendezvous of three different spacecraft.",
+      "url": "https://www.space.com/space-exploration/artemis/four-astronauts-3-spacecraft-2-weeks-in-orbit-artemis-iii-will-be-nasas-most-complicated-mission-ever"
+    },
+    {
+      "category": "AI",
+      "title": "F1 in Belgium: The 2026 cars look pathetic on all the best racetracks",
       "source": "Ars Technica - All content",
-      "date": "Mon, 20 Jul 2026 11:20:10 +0000",
-      "summary": "Augment Code's Vinay Perneti talks models, harnesses, and context.",
-      "url": "https://arstechnica.com/ai/2026/07/beyond-grep-the-case-for-a-context-rich-ai-coding-harness/"
+      "date": "Mon, 20 Jul 2026 15:59:18 +0000",
+      "summary": "Many will say Spa is the best racetrack on earth, but not for these F1 cars.",
+      "url": "https://arstechnica.com/cars/2026/07/f1-in-belgium-the-2026-cars-look-pathetic-on-all-the-best-racetracks/"
+    },
+    {
+      "category": "AI",
+      "title": "AliExpress hit with record $625M fine after failing to make EU-ordered fixes",
+      "source": "Ars Technica - All content",
+      "date": "Mon, 20 Jul 2026 15:32:45 +0000",
+      "summary": "Online retailer AliExpress says it's shocked by largest DSA fine yet.",
+      "url": "https://arstechnica.com/tech-policy/2026/07/aliexpress-fined-625m-for-failing-to-remove-unsafe-toys-dangerous-cosmetics/"
+    },
+    {
+      "category": "AI",
+      "title": "The first trailer for Avengers: Doomsday is finally here",
+      "source": "Ars Technica - All content",
+      "date": "Mon, 20 Jul 2026 14:33:46 +0000",
+      "summary": "\"Something's coming. Something we may not be able to deter.\"",
+      "url": "https://arstechnica.com/culture/2026/07/the-first-trailer-for-avengers-doomsday-is-finally-here/"
+    },
+    {
+      "category": "History",
+      "title": "The Lost Founder: James Wilson and the Forgotten Fight for a People’s Constitution",
+      "source": "Journal of the American Revolution",
+      "date": "Mon, 20 Jul 2026 14:30:42 +0000",
+      "summary": "BOOK REVIEW: The Lost Founder: James Wilson and the Forgotten Fight for a People’s Constitution by Jesse Wegman (New York: Celadon Books, 2026) $30.00 hardcover  The Broadway play 1776 depicts James Wilson, a Pennsylvania delegate to the Continental Congress, as a cowardly, spineless understudy of John Dickinson, who opposed the Declaration of Independence. This portrayal […]\nThe post The Lost Founder: James Wilson and the Forgotten Fight for a People’s Constitution appeared first on Journal of the American Revolution.",
+      "url": "https://allthingsliberty.com/2026/07/the-lost-founder-james-wilson-and-the-forgotten-fight-for-a-peoples-constitution/"
     },
     {
       "category": "Science",
-      "title": "Burnout isn't new: 18th‑century farm records show workers describing the same exhaustion",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Mon, 20 Jul 2026 07:20:04 EDT",
-      "summary": "Nearly 40% of Canadian workers say they feel burned out often or always, according to a 2025 survey by Mental Health Research Canada and Canada Life. The term has become part of a broader lexicon of modern work, alongside quiet quitting, hustle culture and grindset and \"taskmasking.\"",
-      "url": "https://phys.org/news/2026-07-burnout-isnt-18thcentury-farm-workers.html"
+      "title": "Some dinosaurs could rise like giants until they grew too big",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Mon, 20 Jul 2026 09:23:44 EDT",
+      "summary": "Two elephant-sized South American sauropods were unusually well built for standing on their hind legs. Digital tests showed that their robust femurs handled the enormous forces better than those of larger species, especially while the dinosaurs were young. The upright pose may have helped them reach treetops, frighten predators, or impress potential mates.",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260719231758.htm"
+    },
+    {
+      "category": "Theology",
+      "title": "Missing Gods and ‘Apparent Magic’ in Nolan’s ‘Odyssey’",
+      "source": "The Gospel Coalition",
+      "date": "Mon, 20 Jul 2026 12:50:37 +0000",
+      "summary": "In ‘The Odyssey,’ Christopher Nolan suggests the ‘apparent magic’ of Greek mythology is psychological, not supernatural.",
+      "url": "https://www.thegospelcoalition.org/article/odyssey-apparent-magic-nolan/"
+    },
+    {
+      "category": "Science",
+      "title": " British vial of smallpox scabs triggered the devastating 1789 outbreak among Indigenous Australians, study finds ",
+      "source": " Latest from Live Science ",
+      "date": "Mon, 20 Jul 2026 12:15:00 +0000",
+      "summary": "It's long been debated what started the devastating 1789 smallpox outbreak among Indigenous Australians. Now, a new modeling study has the likely answer.",
+      "url": "https://www.livescience.com/archaeology/british-vial-of-smallpox-scabs-triggered-the-devastating-1789-outbreak-among-indigenous-australians-study-finds"
     },
     {
       "category": "Science",
@@ -67,20 +147,12 @@
       "url": "https://www.biblicalarchaeology.org/daily/biblical-topics/post-biblical-period/the-secrets-of-huqoq/"
     },
     {
-      "category": "AI",
-      "title": "GitHub's 2FA is to become mandatory on September 2, 2026",
-      "source": "Hacker News: Front Page",
-      "date": "Mon, 20 Jul 2026 10:24:02 +0000",
-      "summary": "Hey birdie-github!\nWe're reaching out to let you know that as announced last year, we will officially ([begin][1]) requiring two-factor authentication (2FA) for certain contributors on GitHub.com. You are receiving this notification because your account meets the criteria for the current enrollment group, and you have 2FA enabled already.\nYou don't need to do anything in response to this email. After September 2nd, 2026 at 00:00 (UTC), you will no longer be able to disable 2FA. If you disable 2FA before then, your access to GitHub.com will be restricted on this date until you re-enable 2FA. This email, and a dismissible banner on GitHub.com, will be the only notifications about this change.\nFor more information about this program, please take a look at ([our documentation][2]).\nMaking the software supply chain more secure is a team effort, and we couldn't do it without you. Your enrollment in 2FA is an impactful step in keeping the world's software secure.\nTo see this and other security events for your account, visit your account ([security audit log][3]).\nIf you run into problems, please contact support by visiting the GitHub ([support page][4]).\nThanks,\nThe GitHub Team\n[1]: https://github.blog/2023-03-09-raising-the-bar-for-software-security-github-2fa-begins-march-13\n[2]: https://docs.github.com/authentication/securing-your-account-with-two-factor-authentication-2fa\n[3]: https://github.com/settings/security-log\n[4]: https://github.com/contact\nComments URL: https://news.ycombinator.com/item?id=48976781\nPoints: 10\n# Comments: 2",
-      "url": "https://news.ycombinator.com/item?id=48976781"
-    },
-    {
-      "category": "AI",
-      "title": "Airbus Takes Flight from AWS",
-      "source": "Hacker News: Front Page",
-      "date": "Mon, 20 Jul 2026 10:12:22 +0000",
-      "summary": "Article URL: https://www.theregister.com/columnists/2026/07/20/airbus-takes-flight-from-aws-what-happens-next-is-critical/5274109\nComments URL: https://news.ycombinator.com/item?id=48976682\nPoints: 57\n# Comments: 40",
-      "url": "https://www.theregister.com/columnists/2026/07/20/airbus-takes-flight-from-aws-what-happens-next-is-critical/5274109"
+      "category": "Biblical Studies",
+      "title": "Martin Scorsese and a Sicilian Shipwreck",
+      "source": "Biblical Archaeology Society",
+      "date": "Mon, 20 Jul 2026 10:00:17 +0000",
+      "summary": "Archaeologists have uncovered a 2,500-year-old Greek shipwreck just off the coast of southeastern Sicily. The ship was found largely intact about 20 feet below the […]\nThe post Martin Scorsese and a Sicilian Shipwreck appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-rome/martin-scorsese-and-a-sicilian-shipwreck/"
     },
     {
       "category": "Science",
@@ -91,20 +163,20 @@
       "url": "https://www.livescience.com/archaeology/americas/mummy-mask-with-wig-a-1-000-year-old-false-head-found-in-peru-that-was-crafted-with-real-human-hair-and-toxic-red-cinnabar"
     },
     {
-      "category": "Space",
-      "title": " An artificial 'Saturn's ring' of satellites could soon fill the sky, astronomers warn ",
-      "source": " Latest from Space.com ",
-      "date": "Mon, 20 Jul 2026 10:00:00 +0000",
-      "summary": "A bright Saturn's ring of satellites will encircle Earth if plans to launch a million orbiting data centers and tens of thousands of space mirrors will come to pass.",
-      "url": "https://www.space.com/space-exploration/satellites/an-artificial-saturns-ring-of-satellites-could-soon-fill-the-sky-astronomers-warn"
+      "category": "AI",
+      "title": "Safety and alignment in an era of long-horizon models",
+      "source": "OpenAI News",
+      "date": "Mon, 20 Jul 2026 10:00:00 GMT",
+      "summary": "OpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative deployment.",
+      "url": "https://openai.com/index/safety-alignment-long-horizon-models"
     },
     {
       "category": "Science",
-      "title": " Science word of the day: Heliosphere ",
-      "source": " Latest from Live Science ",
-      "date": "Mon, 20 Jul 2026 08:00:00 +0000",
-      "summary": "What does 'heliosphere' mean?",
-      "url": "https://www.livescience.com/space/science-word-of-the-day-heliosphere"
+      "title": "An ordinary laptop solved a problem thought to require a quantum computer",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Mon, 20 Jul 2026 03:40:09 EDT",
+      "summary": "A quantum problem once described as impossible for classical computers has now been solved using relatively modest hardware. Researchers used tensor networks to compress the overwhelming wave function created by hundreds of entangled qubits, allowing some calculations to run on a laptop. Their results matched both theoretical predictions and simulations performed with a quantum computer. The method could open new paths for exploring quantum dynamics and materials.",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260719040000.htm"
     },
     {
       "category": "Theology",
@@ -115,30 +187,6 @@
       "url": "https://www.thegospelcoalition.org/podcasts/silicon-spiritualities/ai-formation-shape-loves/"
     },
     {
-      "category": "AI",
-      "title": "India's first privately-developed rocket reaches orbit on dramatic debut launch",
-      "source": "Ars Technica - All content",
-      "date": "Sun, 19 Jul 2026 22:11:21 +0000",
-      "summary": "\"On the first attempt, reaching orbit, I never thought it was possible.\"",
-      "url": "https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/"
-    },
-    {
-      "category": "Space",
-      "title": " 'Aliens' at 40: James Cameron's sequel is a sci-fi icon, but did you know he quit the movie twice? ",
-      "source": " Latest from Space.com ",
-      "date": "Sun, 19 Jul 2026 17:00:00 +0000",
-      "summary": "Forty years ago, Aliens burst into our hearts, but this classic sequel nearly fell by the wayside due to some serious studio-created problems that saw James Cameron quit twice.",
-      "url": "https://www.space.com/entertainment/space-movies-shows/aliens-at-40-james-camerons-sequel-is-a-sci-fi-icon-but-did-you-know-he-quit-the-movie-twice"
-    },
-    {
-      "category": "Science",
-      "title": "A tiny universe in a bottle reveals clues to the origins of life",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Sun, 19 Jul 2026 09:10:21 EDT",
-      "summary": "Researchers have created cosmic dust from scratch by recreating space-like conditions inside glass tubes. The dust contains complex carbon-rich molecules built from elements essential to life and produces infrared signals similar to real material found in space. By studying these laboratory samples, scientists can explore how organic chemistry unfolds around stars and how comets, asteroids and meteorites may have carried those ingredients to Earth.",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260718010156.htm"
-    },
-    {
       "category": "Science",
       "title": "The mysterious hum heard around the world may finally have an explanation",
       "source": "All Top News -- ScienceDaily",
@@ -147,12 +195,12 @@
       "url": "https://www.sciencedaily.com/releases/2026/07/260719040002.htm"
     },
     {
-      "category": "AI",
-      "title": "As mosquito ranges expand, better monitoring is key to preventing disease",
-      "source": "Ars Technica - All content",
-      "date": "Sun, 19 Jul 2026 11:19:31 +0000",
-      "summary": "Monitoring is expensive and labor intensive. But it helps public health officials stop outbreaks.",
-      "url": "https://arstechnica.com/science/2026/07/as-mosquito-ranges-expand-better-monitoring-is-key-to-preventing-disease/"
+      "category": "Biblical Studies",
+      "title": "First Person: Did the Kingdoms of Saul, David and Solomon Actually Exist?",
+      "source": "Biblical Archaeology Society",
+      "date": "Sun, 19 Jul 2026 11:00:01 +0000",
+      "summary": "In BAR, Hershel Shanks examines a recent article published by archaeologist Amihai Mazar. Mazar contends that while the Biblical narratives were written hundreds of years after the reigns of Saul, David and Solomon, they “retain memories of reality.”\nThe post First Person: Did the Kingdoms of Saul, David and Solomon Actually Exist? appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-israel/did-the-kingdoms-of-saul-david-and-solomon-actually-exist/"
     },
     {
       "category": "Theology",
@@ -161,62 +209,6 @@
       "date": "Sun, 19 Jul 2026 04:00:00 +0000",
       "summary": "John Newton’s writing on progressive sanctification provides practical encouragement that offsets doubt and aggravation.",
       "url": "https://www.thegospelcoalition.org/article/john-newton-progressive-sanctification/"
-    },
-    {
-      "category": "Science",
-      "title": "Common antidepressant may ease long COVID’s crushing fatigue",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Sat, 18 Jul 2026 21:55:33 EDT",
-      "summary": "A low-cost antidepressant may offer new hope for people struggling with long COVID fatigue. In a randomized clinical trial involving 399 adults, fluvoxamine significantly reduced fatigue and improved quality of life compared with a placebo, making it one of the first medications to show meaningful benefits for this disabling condition.",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260718010158.htm"
-    },
-    {
-      "category": "Theology",
-      "title": "Quality Christian Music 2026: 15 Artists to Watch",
-      "source": "The Gospel Coalition",
-      "date": "Sat, 18 Jul 2026 04:02:00 +0000",
-      "summary": "These 15 artists are making distinct contributions to the beautifully diverse—and globally surging—world of Christian music.",
-      "url": "https://www.thegospelcoalition.org/article/quality-christian-music-2026/"
-    },
-    {
-      "category": "Space",
-      "title": "NASA Pushes New Wing Design to Find Structural Limits",
-      "source": "NASA",
-      "date": "Fri, 17 Jul 2026 23:08:33 +0000",
-      "summary": "NASA researchers recently put a new wing design, appearing long and thin with a lightweight structural design, through a series of grueling tests to find its structural limits. What they found left them encouraged about the wing’s potential, even when they pushed it past its intended limits. The 15-foot Structural Wing Experiment Evaluating Truss-bracing (SWEET-15) […]",
-      "url": "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-pushes-new-wing-design-to-find-structural-limits/"
-    },
-    {
-      "category": "Space",
-      "title": "The Growing Crescent of Mars as NASA’s Psyche Mission Approaches",
-      "source": "NASA",
-      "date": "Fri, 17 Jul 2026 22:32:27 +0000",
-      "summary": "Description This composite of images taken by NASA’s Psyche mission shows the crescent of Mars grow as the spacecraft approached the planet for a gravity assist from May 2 to May 15, 2026. The series begins with the smallest crescent at the center of the of the image as Mars is farthest from the spacecraft, and progressively […]",
-      "url": "https://science.nasa.gov/photojournal/the-growing-crescent-of-mars-as-nasas-psyche-mission-approaches/"
-    },
-    {
-      "category": "Space",
-      "title": "Establishing a VTE Risk Score for Astronauts Algorithm",
-      "source": "NASA",
-      "date": "Fri, 17 Jul 2026 21:01:38 +0000",
-      "summary": "In April 2026, NASA’s Office of the Chief Health and Medical Officer (OCHMO) initiated a working group to review updated VTE case information, additional data gathered revealing altered blood flow status within a cohort of astronauts, and discuss progress of research and clinical activities intended to mitigate the risk of VTE during spaceflight with new […]",
-      "url": "https://www.nasa.gov/organizations/ochmo/establishing-a-vte-risk-score-for-astronauts-algorithm/"
-    },
-    {
-      "category": "Biblical Studies",
-      "title": "The Odyssey, the Bronze Age Collapse, and the World Before Israel",
-      "source": "Biblical Archaeology Society",
-      "date": "Fri, 17 Jul 2026 10:45:47 +0000",
-      "summary": "For many readers, Homer’s Odyssey is a story about journeying home. The cyclopes, Sirens, and sea monsters who prolong Odysseus’s voyage have made it one […]\nThe post The <em>Odyssey</em>, the Bronze Age Collapse, and the World Before Israel appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/odyssey-bronze-age-collapse-and-world-before-israel/"
-    },
-    {
-      "category": "Biblical Studies",
-      "title": "“Hey, Turtledove!”",
-      "source": "Biblical Archaeology Society",
-      "date": "Fri, 17 Jul 2026 10:00:31 +0000",
-      "summary": "Biblical writers in both testaments are known for their excellent writing, vibrant verbs, limited descriptions, and—above all!—brevity. Instead of lengthy explanations, they control the narrative […]\nThe post “Hey, Turtledove!” appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/daily/hey-turtledove/"
     },
     {
       "category": "AI",
@@ -233,14 +225,6 @@
       "date": "Thu, 16 Jul 2026 16:00:00 GMT",
       "summary": "Learn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships.",
       "url": "https://openai.com/index/why-teens-deserve-access-safe-ai"
-    },
-    {
-      "category": "AI",
-      "title": "How Cars24 scales conversations and builds faster with OpenAI",
-      "source": "OpenAI News",
-      "date": "Thu, 16 Jul 2026 00:00:00 GMT",
-      "summary": "Cars24 uses OpenAI-powered voice and chat agents to handle 1M+ monthly conversation minutes, recover 12% of lost leads, and bring agentic workflows to teams across the company.",
-      "url": "https://openai.com/index/cars24"
     },
     {
       "category": "History",
@@ -273,14 +257,6 @@
       "date": "Mon, 13 Jul 2026 19:26:55 +0000",
       "summary": "Next time you get criticized, even in an ungodly manner, ask yourself if the substance of the criticism is true or if there is something you need to learn from it.\nThe post Handling Ungodly Criticism appeared first on 9Marks.",
       "url": "https://www.9marks.org/article/handling-ungodly-criticism/?utm_source=rss&utm_medium=rss&utm_campaign=handling-ungodly-criticism"
-    },
-    {
-      "category": "History",
-      "title": "A Perfect Coincidence",
-      "source": "Journal of the American Revolution",
-      "date": "Mon, 13 Jul 2026 14:54:30 +0000",
-      "summary": "BOOK REVIEW: A Perfect Coincidence: The Extraordinary Friendship and Astonishing Deaths of John Adams and Thomas Jefferson by Jim Rasenberger (Scribner, 2026) It is an astounding bout of timing that John Adams and Thomas Jefferson, the two men who collaborated so closely in declaring independence, died on the same Fourth of July day on the […]\nThe post A Perfect Coincidence appeared first on Journal of the American Revolution.",
-      "url": "https://allthingsliberty.com/2026/07/a-perfect-coincidence/"
     },
     {
       "category": "Theology",
