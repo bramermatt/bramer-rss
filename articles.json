@@ -1,102 +1,118 @@
 {
-  "lastUpdated": "2026-07-20T17:30:50.184Z",
+  "lastUpdated": "2026-07-20T22:51:41.748Z",
   "articleCount": 36,
   "articles": [
     {
       "category": "Science",
-      "title": "Rare sighting reveals Arctic bobtail squid and egg masses in subzero Greenland fjord",
+      "title": "One idea, two cosmic mysteries—linking Little Red Dots and globular clusters",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Mon, 20 Jul 2026 13:20:03 EDT",
-      "summary": "Marine biologists have observed the Arctic bobtail squid in its natural habitat in the North Atlantic Ocean for the first time, including the rare discovery of a mature female with eggs. Dr Paige Maroni, from The University of Western Australia's School of Biological Sciences, is lead author of the study published in Polar Biology, which recorded the Arctic bobtail squid, Rossia moelleri, in Northeast Greenland National Park.",
-      "url": "https://phys.org/news/2026-07-rare-sighting-reveals-arctic-bobtail.html"
+      "date": "Mon, 20 Jul 2026 18:40:01 EDT",
+      "summary": "A new study led by astronomers at The University of Texas at Austin proposes a theory that could solve two astronomical riddles at once: the nature of Little Red Dots and the origin of globular clusters. Rather than representing distinct objects, the study suggests that one may instead be the ancestor of the other: Little Red Dots are, in fact, an early form of globular clusters. The findings are published in The Astrophysical Journal Letters.",
+      "url": "https://phys.org/news/2026-07-idea-cosmic-mysteries-linking-red.html"
     },
     {
       "category": "Science",
-      "title": "Microplastic tire pollution found in Brisbane balcony dust",
+      "title": "Transforming vibrations into clean fuels and chemicals through piezosynthesis",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Mon, 20 Jul 2026 13:20:01 EDT",
-      "summary": "Tire particles and potentially toxic tire chemical additives have been found in dust collected from Brisbane residential balconies. University of Queensland researchers examined the balcony dust from homes across inner-city, suburban and near-road settings to see how traffic-related pollution traveled from streets to residential environments.",
-      "url": "https://phys.org/news/2026-07-microplastic-pollution-brisbane-balcony.html"
+      "date": "Mon, 20 Jul 2026 18:20:01 EDT",
+      "summary": "From ocean waves and flowing rivers to the systems used to transport and treat water, vibrations are everywhere. But can vibrations do more than just shake water? Can they split water or drive the production of useful chemicals from water? A research team led by Professor Sai Kishore Ravi from the School of Energy and Environment (SEE) at City University of Hong Kong (CityUHK) has successfully demonstrated how mechanical vibrations can be harnessed to drive the production of useful chemicals from water.",
+      "url": "https://phys.org/news/2026-07-vibrations-fuels-chemicals-piezosynthesis.html"
     },
     {
       "category": "Science",
-      "title": "Shroud of Turin DNA sheds light on its biological history",
+      "title": "New cell imaging method measures protein folding in living organelles",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Mon, 20 Jul 2026 13:00:06 EDT",
-      "summary": "New research has uncovered the complex biological history preserved within DNA traces found on the Shroud of Turin, offering fresh insights into one of the world's most studied and debated historical artifacts.",
-      "url": "https://phys.org/news/2026-07-shroud-turin-dna-biological-history.html"
+      "date": "Mon, 20 Jul 2026 18:00:03 EDT",
+      "summary": "Protein aggregates are associated with the development of diseases like Alzheimer's and Parkinson's. These are found more often in certain areas of cells known as membraneless organelles. Do these organelles promote this protein clumping, or do they protect the cell by temporarily absorbing the aggregates? Professor Simon Ebbinghaus and Mailin Becker from Ruhr University Bochum, Germany, set out to answer this question with their new, self-developed method, \"confocal Fast Relaxation Imaging,\" or cFReI. They report their findings in the journal PRX Life.",
+      "url": "https://phys.org/news/2026-07-cell-imaging-method-protein-organelles.html"
+    },
+    {
+      "category": "AI",
+      "title": "Donation Controversy",
+      "source": "Hacker News: Front Page",
+      "date": "Mon, 20 Jul 2026 21:43:07 +0000",
+      "summary": "Article URL: https://mullvad.net/en/blog/donation-controversy\nComments URL: https://news.ycombinator.com/item?id=48985249\nPoints: 16\n# Comments: 10",
+      "url": "https://mullvad.net/en/blog/donation-controversy"
+    },
+    {
+      "category": "AI",
+      "title": "My falling-out with the rationalist community",
+      "source": "Hacker News: Front Page",
+      "date": "Mon, 20 Jul 2026 21:30:56 +0000",
+      "summary": "Article URL: https://lcamtuf.substack.com/p/my-falling-out-with-the-rationalist\nComments URL: https://news.ycombinator.com/item?id=48985140\nPoints: 34\n# Comments: 14",
+      "url": "https://lcamtuf.substack.com/p/my-falling-out-with-the-rationalist"
     },
     {
       "category": "Space",
-      "title": " 'Stranger Things' at 10: The Netflix streaming icon that made it cool to like science again ",
+      "title": " The 1st 'Avengers: Doomsday' trailer is here, and it's stuffed to bursting with superheroes ",
       "source": " Latest from Space.com ",
-      "date": "Mon, 20 Jul 2026 17:00:00 +0000",
-      "summary": "Stranger Things changed the face of streaming, but it also had a significant impact on piquing the younger audience's interest in science.",
-      "url": "https://www.space.com/entertainment/space-movies-shows/stranger-things-at-10-the-netflix-streaming-icon-that-made-it-cool-to-like-science-again"
-    },
-    {
-      "category": "AI",
-      "title": "Over 30% of new ArXiv submissions now read as AI-written",
-      "source": "Hacker News: Front Page",
-      "date": "Mon, 20 Jul 2026 16:36:36 +0000",
-      "summary": "Article URL: https://unslop.run/blog/measuring-ai-writing-on-arxiv\nComments URL: https://news.ycombinator.com/item?id=48981206\nPoints: 34\n# Comments: 17",
-      "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv"
-    },
-    {
-      "category": "AI",
-      "title": "Launch HN: Bloomy (YC S26) – AI-powered mastery learning for K-12",
-      "source": "Hacker News: Front Page",
-      "date": "Mon, 20 Jul 2026 16:32:10 +0000",
-      "summary": "Hi HN, I’m Alex Southmayd, the founder of Bloomy (https://bloomylearning.com) – an AI-powered mastery-learning platform for K-12 students. Bloomy provides students with an AI tutor alongside adaptive curriculum (right now Math, English Language Arts, and Writing).\nHow it works: we diagnose students’ skill gaps, place them on personalized learning paths, and give them standards-aligned lessons and a Socratic AI tutor that scaffolds their learning without just giving away the answer.\nThe goal is to solve the Bloom 2-sigma problem (https://en.wikipedia.org/wiki/Bloom%27s_2_sigma_problem) with AI.\nShort launch video: https://tinyurl.com/bloomylearning\nLonger product demo: https://youtu.be/XHvoKt6qMeo\nFamilies access for Bloomy: https://bloomylearning.com/families\nI started as a teacher. I taught 7th-grade English and writing with Teach For America, and every day I struggled to deliver differentiated instruction to 30 students with 30 different sets of needs. Some students needed remediation, some needed acceleration, and many needed a tutor sitting next to them helping them reason through the next step.\nBenjamin Bloom’s two-sigma result—that one-on-one tutoring can produce much better outcomes than conventional classroom instruction—always felt intuitively true to me. The hard part was making that kind of attention affordable and available to every child.\nThen AI changed the cost curve. When I saw schools such as Alpha organize academics around mastery rather than seat time, the model clicked. If you’ve heard of Alpha School, that is directionally the kind of learning model that inspired us. But I kept thinking about the families and schools that already exist: homeschool families, microschools, hybrid schools, and regular classrooms where most children are today.\nMost students and teachers see learning gaps at the wrong resolution. They get a grade, percentile, benchmark score, or broad standard—not “this is the next skill this student should learn.” Existing personalized-learning products often feel like digital worksheets: they provide plenty of practice, but not much diagnosis or teaching. Very few have AI tutors providing the core instruction.\nBloomy starts with a diagnostic—we integrate with third-party assessments and provide our own—and creates a learning path for each student. Students work one skill at a time, receive a short lesson, practice at an adaptive difficulty, and only move forward after demonstrating at least 90% mastery. The learning path updates as the student works, based on their performance and our knowledge graph of skill prerequisites (built in collaboration with Learning Commons / Chan Zuckerberg Initiative).\nEach skill has three stages. Base Camp teaches the concept with worked examples. Climb provides guided practice and Socratic support. Summit is an independent ten-question mastery assessment with no hints or AI assistance. Students need to achieve 90% on the Summit to advance. If they struggle too much, they’ll be routed to a different skill better suited for their level.\nBloomyBot is not a blank chat window but rather a live, interactive, and observant digital tutor. During practice, it receives the active passage or problem, the question, the student’s attempt, an authored explanation, and relevant misconception context. It follows a scaffolded tutoring ladder: first asking what the student tried, then pointing toward the concept, suggesting a strategy, working through one step together, and only providing heavier scaffolding after the student has struggled, adapting to and learning from the student along the way. Students can interrupt it, and we’ve begun to roll out multilingual support for Spanish, French, and a few other more niche languages that customers have asked for.\nWe currently use a variety of Anthropic and OpenAI models for BloomyBot. The tutor is restricted to the current lesson, redirects unrelated questions, limits conversation length, and is unavailable during mastery assessments. The language model does not choose the curriculum or decide whether a student has mastered a skill.\nThat separation is important. A conventionally “helpful” AI response can be a bad tutoring response: if it gives away the answer, the student completes the task but may not learn anything. Our goal is not to build a homework-answering chatbot. It is to put AI inside a structured loop of diagnosis, instruction, practice, feedback, and independent mastery.\nLLMs can still be wrong, and we do not claim our constraints eliminate that. We reduce the surface area by grounding BloomyBot in authored lesson content, keeping it on topic, logging conversations, and removing it from assessments. Teachers and parents can review tutoring activity, students can report problems, and safety signals trigger human alerts and a backup audit.\nWe also do not see Bloomy as a replacement for teachers, parents, or human tutors. A good human tutor is better. The narrower question we are testing is whether, during a bounded learning session a student would already be doing, a context-aware tutor can provide better help than static “correct/incorrect” feedback. Longer term, the question becomes more whether a student would perform better with one-on-one AI tutoring (at least in certain aspects of the curriculum) than with many-to-one instruction in a medium- or large-sized classroom.\nBloomy is now being used across several settings: traditional districts, charter schools, hybrid schools, microschools, homeschools, and families looking for additional academic support. In an early pilot at a charter school in Massachusetts serving ~150 students in grades 6 through 8, students averaged roughly 1.8 times the expected winter-to-spring NWEA MAP growth. This was an observational pilot, not a randomized study, so we treat it as an encouraging signal rather than proof that Bloomy caused the difference.\nParents and teachers can see what a student has mastered, what is in progress, and where support may be needed. We have found that adults generally do not want another generic score; they want to know which small number of skills deserve attention this week.\nBloomy makes money through family subscriptions and school licensing. ELA costs $39/month or $279/year per learner, and Writing Studio costs $19/month or $139/year. Math is scheduled to launch July 31 at the same price as ELA. Schools and microschools pay per student, with pricing varying by subject coverage, enrollment, rostering, and implementation needs.\nBecause children use Bloomy, we collect learning responses, progress data, and tutoring conversations. We do not sell personal information, use child data for behavioral advertising, or permit model providers to train general-purpose models on identifiable child data sent by Bloomy. We have Zero Data Retention agreements with both Anthropic and OpenAI. Parents and schools can request access, export, correction, or deletion under the applicable account or school agreement.\nMore background on me: after Teach For America, I taught and designed GMAT and GRE curriculum for Manhattan Prep / Kaplan, led the driver acquisition team for Lyft’s New England markets, completed an MBA at Stanford, and led AI transformation projects at McKinsey (so when models finally became good enough this past January to achieve the kinds of things I am pursuing with Bloomy, I was in the right place at the right time to begin building). Bloomy brings together the different parts of my career that I care most about: educational outcomes, learning design, building products, and getting useful technology into people’s hands.\nI’d especially value feedback from parents, teachers, engineers working on child-facing AI, and people who have built tutoring, assessment, or adaptive-learning systems. Does the separation between guided AI help and independent mastery make sense? Where do you see the greatest potential with AI in education? Where are our safeguards insufficient? What evidence or product behavior would you need to trust something like this with a student?\nCertainly there are many dangers and pitfalls we must beware of, too, but I believe we can really move the needle in K-12 (for the first time in a long time) if we use AI responsibly and intelligently.\nComments URL: https://news.ycombinator.com/item?id=48981136\nPoints: 4\n# Comments: 22",
-      "url": "https://news.ycombinator.com/item?id=48981136"
+      "date": "Mon, 20 Jul 2026 21:05:09 +0000",
+      "summary": "Robert Downey Jr.'s Doctor Doom makes his true debut (sort of) in this cluttered but colorful preview for the December blockbuster.",
+      "url": "https://www.space.com/entertainment/space-movies-shows/the-1st-avengers-doomsday-trailer-is-here-and-its-stuffed-to-bursting-with-superheroes"
     },
     {
       "category": "Space",
-      "title": " Twice in a row: SpaceX rocket aborts launch at last second again (video) ",
+      "title": " SpaceX targets July 23 for crucial Starship Flight 13 test launch after abort ",
       "source": " Latest from Space.com ",
-      "date": "Mon, 20 Jul 2026 16:09:40 +0000",
-      "summary": "SpaceX suffered its second last-second abort in a row this morning (July 20), this time during an attempted Falcon 9 launch of Starlink broadband satellites.",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launch-abort-falcon-9-starlink-satellites-vandenberg"
+      "date": "Mon, 20 Jul 2026 21:00:00 +0000",
+      "summary": "SpaceX is now targeting Thursday (July 23) for Flight 13 of its giant Starship rocket, after the first launch attempt aborted at the last second on July 16.",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-targets-july-23-for-crucial-starship-flight-13-test-launch-after-abort"
     },
     {
       "category": "AI",
-      "title": "Czechia moves to ban mobile phones in schools from September 2027",
+      "title": "The creepiest 'sales demo' of all time",
       "source": "Hacker News: Front Page",
-      "date": "Mon, 20 Jul 2026 16:00:34 +0000",
-      "summary": "Article URL: https://www.expats.cz/czech-news/article/czech-news-in-brief-for-july-20-2026-monday-top-afternoon-headlines\nComments URL: https://news.ycombinator.com/item?id=48980700\nPoints: 25\n# Comments: 15",
-      "url": "https://www.expats.cz/czech-news/article/czech-news-in-brief-for-july-20-2026-monday-top-afternoon-headlines"
+      "date": "Mon, 20 Jul 2026 20:36:37 +0000",
+      "summary": "Article URL: https://www.appenmedia.com/opinion/letter-to-the-editor-the-creepiest-sales-demo-of-all-time/article_a8f0cc6c-29d3-41f7-8668-8a855f760efb.html\nComments URL: https://news.ycombinator.com/item?id=48984555\nPoints: 37\n# Comments: 12",
+      "url": "https://www.appenmedia.com/opinion/letter-to-the-editor-the-creepiest-sales-demo-of-all-time/article_a8f0cc6c-29d3-41f7-8668-8a855f760efb.html"
+    },
+    {
+      "category": "AI",
+      "title": "The Space Force is now seeking to buy up to $30 billion in rocket launches",
+      "source": "Ars Technica - All content",
+      "date": "Mon, 20 Jul 2026 20:30:25 +0000",
+      "summary": "The Trump administration is asking the Space Force to do a lot. This will require more launches.",
+      "url": "https://arstechnica.com/science/2026/07/the-space-force-is-now-seeking-to-buy-up-to-30-billion-in-rocket-launches/"
+    },
+    {
+      "category": "Science",
+      "title": " The bacteria behind gum disease may also harm your heart valves, early research suggests ",
+      "source": " Latest from Live Science ",
+      "date": "Mon, 20 Jul 2026 20:15:00 +0000",
+      "summary": "A bacterium linked to gum disease may contribute to heart valve disease by setting off inflammation that can lead to calcium buildup.",
+      "url": "https://www.livescience.com/health/heart-circulation/the-bacteria-behind-gum-disease-may-also-harm-your-heart-valves-early-research-suggests"
     },
     {
       "category": "Space",
-      "title": " Four astronauts, 3 spacecraft, 2 weeks in orbit: Artemis III will be NASA's most complicated mission ever ",
+      "title": " Scientists discover mystery molecule on Pluto and Saturn's moon Titan: 'We cannot say what it is' ",
       "source": " Latest from Space.com ",
-      "date": "Mon, 20 Jul 2026 16:00:00 +0000",
-      "summary": "NASA's Artemis III mission is shaping up to be NASA's most complex mission in history, coordinating the launch and rendezvous of three different spacecraft.",
-      "url": "https://www.space.com/space-exploration/artemis/four-astronauts-3-spacecraft-2-weeks-in-orbit-artemis-iii-will-be-nasas-most-complicated-mission-ever"
+      "date": "Mon, 20 Jul 2026 20:00:00 +0000",
+      "summary": "Despite being separated by billions of miles, Saturn's moon Titan and the dwarf planet Pluto share an unexplained surface signature.",
+      "url": "https://www.space.com/astronomy/james-webb-space-telescope/scientists-discover-mystery-molecule-on-pluto-and-saturns-moon-titan-we-cannot-say-what-it-is"
     },
     {
       "category": "AI",
-      "title": "F1 in Belgium: The 2026 cars look pathetic on all the best racetracks",
+      "title": "AT&T loses key ruling in bid to stop offering basic phone service in California",
       "source": "Ars Technica - All content",
-      "date": "Mon, 20 Jul 2026 15:59:18 +0000",
-      "summary": "Many will say Spa is the best racetrack on earth, but not for these F1 cars.",
-      "url": "https://arstechnica.com/cars/2026/07/f1-in-belgium-the-2026-cars-look-pathetic-on-all-the-best-racetracks/"
+      "date": "Mon, 20 Jul 2026 19:20:49 +0000",
+      "summary": "AT&T suffers setback but will keep asking court and FCC to preempt state rules.",
+      "url": "https://arstechnica.com/tech-policy/2026/07/att-loses-key-ruling-in-bid-to-stop-offering-basic-phone-service-in-california/"
     },
     {
       "category": "AI",
-      "title": "AliExpress hit with record $625M fine after failing to make EU-ordered fixes",
+      "title": "RIP bargain bin: The price impact of Sony's disc-free PlayStation plan",
       "source": "Ars Technica - All content",
-      "date": "Mon, 20 Jul 2026 15:32:45 +0000",
-      "summary": "Online retailer AliExpress says it's shocked by largest DSA fine yet.",
-      "url": "https://arstechnica.com/tech-policy/2026/07/aliexpress-fined-625m-for-failing-to-remove-unsafe-toys-dangerous-cosmetics/"
+      "date": "Mon, 20 Jul 2026 18:06:05 +0000",
+      "summary": "Used discs are often cheaper than even deep digital discounts.",
+      "url": "https://arstechnica.com/gaming/2026/07/our-playstation-price-analysis-shows-why-physical-games-still-matter/"
     },
     {
-      "category": "AI",
-      "title": "The first trailer for Avengers: Doomsday is finally here",
-      "source": "Ars Technica - All content",
-      "date": "Mon, 20 Jul 2026 14:33:46 +0000",
-      "summary": "\"Something's coming. Something we may not be able to deter.\"",
-      "url": "https://arstechnica.com/culture/2026/07/the-first-trailer-for-avengers-doomsday-is-finally-here/"
+      "category": "Science",
+      "title": " Mysterious 'little red dots' at the beginning time may finally have an explanation, thanks to newfound 'little blue companions' ",
+      "source": " Latest from Live Science ",
+      "date": "Mon, 20 Jul 2026 17:39:41 +0000",
+      "summary": "Astronomers may have found an unexpected origin for the mysterious \"little red dots\" that appear to be so common in James Webb Space Telescope surveys of the early universe.",
+      "url": "https://www.livescience.com/space/mysterious-little-red-dots-at-the-beginning-time-may-finally-have-an-explanation-thanks-to-newfound-little-blue-companions"
     },
     {
       "category": "History",
@@ -131,14 +147,6 @@
       "url": "https://www.livescience.com/archaeology/british-vial-of-smallpox-scabs-triggered-the-devastating-1789-outbreak-among-indigenous-australians-study-finds"
     },
     {
-      "category": "Science",
-      "title": " 'We were genuinely surprised': 'Superworms' can clean extremely delicate skeletons lickety-split, and that's a game changer for museums ",
-      "source": " Latest from Live Science ",
-      "date": "Mon, 20 Jul 2026 11:00:00 +0000",
-      "summary": "Biologists Niloofar Alaei Kakhki and Morteza Monfared tell Live Science how beetle larvae could be repurposed from pet food to a cleaner for museums and laboratories.",
-      "url": "https://www.livescience.com/animals/we-were-genuinely-surprised-superworms-can-clean-extremely-delicate-skeletons-lickety-split-and-thats-a-game-changer-for-museums"
-    },
-    {
       "category": "Biblical Studies",
       "title": "The Secrets of Huqoq",
       "source": "Biblical Archaeology Society",
@@ -153,14 +161,6 @@
       "date": "Mon, 20 Jul 2026 10:00:17 +0000",
       "summary": "Archaeologists have uncovered a 2,500-year-old Greek shipwreck just off the coast of southeastern Sicily. The ship was found largely intact about 20 feet below the […]\nThe post Martin Scorsese and a Sicilian Shipwreck appeared first on Biblical Archaeology Society.",
       "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-rome/martin-scorsese-and-a-sicilian-shipwreck/"
-    },
-    {
-      "category": "Science",
-      "title": " Mummy mask with wig: A 1,000-year-old 'false head' found in Peru that was crafted with real human hair and toxic red cinnabar ",
-      "source": " Latest from Live Science ",
-      "date": "Mon, 20 Jul 2026 10:00:00 +0000",
-      "summary": "Stylized masks like this one adorned pre-Inca mummies in Peru hundreds of years ago.",
-      "url": "https://www.livescience.com/archaeology/americas/mummy-mask-with-wig-a-1-000-year-old-false-head-found-in-peru-that-was-crafted-with-real-human-hair-and-toxic-red-cinnabar"
     },
     {
       "category": "AI",
