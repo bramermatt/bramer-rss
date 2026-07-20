@@ -1,62 +1,126 @@
 {
-  "lastUpdated": "2026-07-19T22:43:13.400Z",
-  "articleCount": 36,
+  "lastUpdated": "2026-07-20T12:10:57.086Z",
+  "articleCount": 39,
   "articles": [
     {
       "category": "Science",
-      "title": "Polish families in Spain navigate cultural identity across generations, study finds",
+      "title": "Fourth-year vet students reveal clues to horse MEED and dog bone cancer",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Sun, 19 Jul 2026 18:20:01 EDT",
-      "summary": "Emigration often means a profound life upheaval. What challenges do Polish families face after moving to Spain? A researcher from SWPS University, in collaboration with her doctoral supervisors and a researcher from the University of Almería, analyzed family dynamics between children and their parents and found that life in a foreign country is not free from intergenerational conflicts. Parents are committed to maintaining contact with their Polish roots, while young people strive to develop their autonomy, and properly nurturing biculturalism turns out to be crucial.",
-      "url": "https://phys.org/news/2026-07-families-spain-cultural-identity-generations.html"
+      "date": "Mon, 20 Jul 2026 08:00:04 EDT",
+      "summary": "Texas Tech University's School of Veterinary Medicine fourth-year students Kayden Tanner and Marshall Mays have both been published in international journals after putting hundreds of hours into their research papers.",
+      "url": "https://phys.org/news/2026-07-fourth-year-vet-students-reveal.html"
     },
     {
-      "category": "AI",
-      "title": "We want Texans to know their rights",
-      "source": "Hacker News: Front Page",
-      "date": "Sun, 19 Jul 2026 22:03:11 +0000",
-      "summary": "Article URL: https://www.eff.org/deeplinks/2026/07/we-want-texans-know-their-rights-qa-mayday-health-impact-surveillance-abortion\nComments URL: https://news.ycombinator.com/item?id=48972062\nPoints: 20\n# Comments: 5",
-      "url": "https://www.eff.org/deeplinks/2026/07/we-want-texans-know-their-rights-qa-mayday-health-impact-surveillance-abortion"
-    },
-    {
-      "category": "AI",
-      "title": "Grok-iOS – remote Grok Build from your iPhone over ACP",
-      "source": "Hacker News: Front Page",
-      "date": "Sun, 19 Jul 2026 21:51:26 +0000",
-      "summary": "Article URL: https://github.com/Pedroshakoor/grok-build-ios\nComments URL: https://news.ycombinator.com/item?id=48971999\nPoints: 3\n# Comments: 0",
-      "url": "https://github.com/Pedroshakoor/grok-build-ios"
-    },
-    {
-      "category": "AI",
-      "title": "Show HN: A canvas-based note taking and organizer app",
-      "source": "Hacker News: Front Page",
-      "date": "Sun, 19 Jul 2026 21:31:48 +0000",
-      "summary": "So I've been working on this app for a very long time now. Started off by wanting an app that separates long form notes from short form notes visually and keeps everything organized on a canvas.\nThe app features:\n-Sticky notes for quick, small notes and A4 notes for long form documents\n-A quick mode that uses local storage to quickly open the app and jot down a thought on the canvas\n-A PDF export option that exports your notes into 3 custom designed PDF styles\n-Visual hierarchy to replicate file structure instead of a linear fashion, where your files are notes, stacks are folders and labels are names for your folders\nWould love to continue working on this app if you guys like the concept.\nComments URL: https://news.ycombinator.com/item?id=48971847\nPoints: 10\n# Comments: 3",
-      "url": "https://www.passinote.app/"
+      "category": "Space",
+      "title": " Did Viking 1 find life on Mars 50 years ago? Here's why the debate continues ",
+      "source": " Latest from Space.com ",
+      "date": "Mon, 20 Jul 2026 12:00:00 +0000",
+      "summary": "Did Viking 1 find evidence of life on Mars? Fifty years after the NASA lander touched down, the jury is still out.",
+      "url": "https://www.space.com/astronomy/mars/did-viking-1-find-life-on-mars-50-years-ago-heres-why-the-debate-continues"
     },
     {
       "category": "Science",
-      "title": "Shared fandom as undervalued social 'medicine' for division, isolation",
+      "title": "Researchers advance tech that could help scientists detect habitable worlds beyond our solar system",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Sun, 19 Jul 2026 17:30:01 EDT",
-      "summary": "The state of the American social fabric—enormous, diverse and rent by stark partisan divides—is daunting enough that it can be hard to think about, let alone try to mend. At the Harvard Kennedy School, two social scientists are advancing the proposition that sports fandom, a powerful social phenomenon and force, may have a role to play in improving lives and strengthening societies.",
-      "url": "https://phys.org/news/2026-07-fandom-undervalued-social-medicine-division.html"
+      "date": "Mon, 20 Jul 2026 07:40:01 EDT",
+      "summary": "Are we alone in the universe? For scientists working on NASA's proposed Habitable Worlds Observatory, that question is no longer purely philosophical. It is increasingly becoming an engineering problem.",
+      "url": "https://phys.org/news/2026-07-advance-tech-scientists-habitable-worlds.html"
+    },
+    {
+      "category": "AI",
+      "title": "Why is it so hard for the U.S. to win wars?",
+      "source": "Hacker News: Front Page",
+      "date": "Mon, 20 Jul 2026 11:24:45 +0000",
+      "summary": "Article URL: https://www.npr.org/2026/07/18/g-s1-134037/why-is-it-so-hard-for-the-u-s-to-win-wars\nComments URL: https://news.ycombinator.com/item?id=48977270\nPoints: 9\n# Comments: 2",
+      "url": "https://www.npr.org/2026/07/18/g-s1-134037/why-is-it-so-hard-for-the-u-s-to-win-wars"
+    },
+    {
+      "category": "AI",
+      "title": "Beyond grep: The case for a context-rich AI coding harness",
+      "source": "Ars Technica - All content",
+      "date": "Mon, 20 Jul 2026 11:20:10 +0000",
+      "summary": "Augment Code's Vinay Perneti talks models, harnesses, and context.",
+      "url": "https://arstechnica.com/ai/2026/07/beyond-grep-the-case-for-a-context-rich-ai-coding-harness/"
     },
     {
       "category": "Science",
-      "title": "Dragonfly aerial fights follow some simple rules",
+      "title": "Burnout isn't new: 18th‑century farm records show workers describing the same exhaustion",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Sun, 19 Jul 2026 17:00:01 EDT",
-      "summary": "Dragonflies are renowned for their remarkable flying abilities. Male dragonflies often compete for territory and mating opportunities, engaging in fascinating in-flight battles. Researchers at Imperial College London and Taipei Zoo recently carried out a study investigating the aerial maneuvers male dragonflies use while fighting competitors and the overall purpose of these battles.",
-      "url": "https://phys.org/news/2026-07-dragonfly-aerial-simple.html"
+      "date": "Mon, 20 Jul 2026 07:20:04 EDT",
+      "summary": "Nearly 40% of Canadian workers say they feel burned out often or always, according to a 2025 survey by Mental Health Research Canada and Canada Life. The term has become part of a broader lexicon of modern work, alongside quiet quitting, hustle culture and grindset and \"taskmasking.\"",
+      "url": "https://phys.org/news/2026-07-burnout-isnt-18thcentury-farm-workers.html"
     },
     {
       "category": "Science",
-      "title": " Can Ozempic prevent or treat cancer? It's way too soon to say, an expert cautions ",
+      "title": " 'We were genuinely surprised': 'Superworms' can clean extremely delicate skeletons lickety-split, and that's a game changer for museums ",
       "source": " Latest from Live Science ",
-      "date": "Sun, 19 Jul 2026 19:00:00 +0000",
-      "summary": "Excitement around the idea that GLP-1 drugs can prevent cancer is running well ahead of the evidence, an expert explains.",
-      "url": "https://www.livescience.com/health/medicine-drugs/can-ozempic-prevent-or-treat-cancer-its-way-too-soon-to-say-an-expert-cautions"
+      "date": "Mon, 20 Jul 2026 11:00:00 +0000",
+      "summary": "Biologists Niloofar Alaei Kakhki and Morteza Monfared tell Live Science how beetle larvae could be repurposed from pet food to a cleaner for museums and laboratories.",
+      "url": "https://www.livescience.com/animals/we-were-genuinely-surprised-superworms-can-clean-extremely-delicate-skeletons-lickety-split-and-thats-a-game-changer-for-museums"
+    },
+    {
+      "category": "Biblical Studies",
+      "title": "The Secrets of Huqoq",
+      "source": "Biblical Archaeology Society",
+      "date": "Mon, 20 Jul 2026 10:45:36 +0000",
+      "summary": "The ancient Galilean village of Huqoq has emerged as one of the region’s most remarkable archaeological sites, offering an extraordinary window into Jewish life during […]\nThe post The Secrets of Huqoq appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/daily/biblical-topics/post-biblical-period/the-secrets-of-huqoq/"
+    },
+    {
+      "category": "AI",
+      "title": "GitHub's 2FA is to become mandatory on September 2, 2026",
+      "source": "Hacker News: Front Page",
+      "date": "Mon, 20 Jul 2026 10:24:02 +0000",
+      "summary": "Hey birdie-github!\nWe're reaching out to let you know that as announced last year, we will officially ([begin][1]) requiring two-factor authentication (2FA) for certain contributors on GitHub.com. You are receiving this notification because your account meets the criteria for the current enrollment group, and you have 2FA enabled already.\nYou don't need to do anything in response to this email. After September 2nd, 2026 at 00:00 (UTC), you will no longer be able to disable 2FA. If you disable 2FA before then, your access to GitHub.com will be restricted on this date until you re-enable 2FA. This email, and a dismissible banner on GitHub.com, will be the only notifications about this change.\nFor more information about this program, please take a look at ([our documentation][2]).\nMaking the software supply chain more secure is a team effort, and we couldn't do it without you. Your enrollment in 2FA is an impactful step in keeping the world's software secure.\nTo see this and other security events for your account, visit your account ([security audit log][3]).\nIf you run into problems, please contact support by visiting the GitHub ([support page][4]).\nThanks,\nThe GitHub Team\n[1]: https://github.blog/2023-03-09-raising-the-bar-for-software-security-github-2fa-begins-march-13\n[2]: https://docs.github.com/authentication/securing-your-account-with-two-factor-authentication-2fa\n[3]: https://github.com/settings/security-log\n[4]: https://github.com/contact\nComments URL: https://news.ycombinator.com/item?id=48976781\nPoints: 10\n# Comments: 2",
+      "url": "https://news.ycombinator.com/item?id=48976781"
+    },
+    {
+      "category": "AI",
+      "title": "Airbus Takes Flight from AWS",
+      "source": "Hacker News: Front Page",
+      "date": "Mon, 20 Jul 2026 10:12:22 +0000",
+      "summary": "Article URL: https://www.theregister.com/columnists/2026/07/20/airbus-takes-flight-from-aws-what-happens-next-is-critical/5274109\nComments URL: https://news.ycombinator.com/item?id=48976682\nPoints: 57\n# Comments: 40",
+      "url": "https://www.theregister.com/columnists/2026/07/20/airbus-takes-flight-from-aws-what-happens-next-is-critical/5274109"
+    },
+    {
+      "category": "Science",
+      "title": " Mummy mask with wig: A 1,000-year-old 'false head' found in Peru that was crafted with real human hair and toxic red cinnabar ",
+      "source": " Latest from Live Science ",
+      "date": "Mon, 20 Jul 2026 10:00:00 +0000",
+      "summary": "Stylized masks like this one adorned pre-Inca mummies in Peru hundreds of years ago.",
+      "url": "https://www.livescience.com/archaeology/americas/mummy-mask-with-wig-a-1-000-year-old-false-head-found-in-peru-that-was-crafted-with-real-human-hair-and-toxic-red-cinnabar"
+    },
+    {
+      "category": "Space",
+      "title": " An artificial 'Saturn's ring' of satellites could soon fill the sky, astronomers warn ",
+      "source": " Latest from Space.com ",
+      "date": "Mon, 20 Jul 2026 10:00:00 +0000",
+      "summary": "A bright Saturn's ring of satellites will encircle Earth if plans to launch a million orbiting data centers and tens of thousands of space mirrors will come to pass.",
+      "url": "https://www.space.com/space-exploration/satellites/an-artificial-saturns-ring-of-satellites-could-soon-fill-the-sky-astronomers-warn"
+    },
+    {
+      "category": "Science",
+      "title": " Science word of the day: Heliosphere ",
+      "source": " Latest from Live Science ",
+      "date": "Mon, 20 Jul 2026 08:00:00 +0000",
+      "summary": "What does 'heliosphere' mean?",
+      "url": "https://www.livescience.com/space/science-word-of-the-day-heliosphere"
+    },
+    {
+      "category": "Theology",
+      "title": "AI and Formation: How Does AI Shape Our Loves? (with Michael Keller)",
+      "source": "The Gospel Coalition",
+      "date": "Mon, 20 Jul 2026 04:00:00 +0000",
+      "summary": "Christopher Watkin and Michael Keller talk about AI, spiritual formation, and the habits that keep us human.",
+      "url": "https://www.thegospelcoalition.org/podcasts/silicon-spiritualities/ai-formation-shape-loves/"
+    },
+    {
+      "category": "AI",
+      "title": "India's first privately-developed rocket reaches orbit on dramatic debut launch",
+      "source": "Ars Technica - All content",
+      "date": "Sun, 19 Jul 2026 22:11:21 +0000",
+      "summary": "\"On the first attempt, reaching orbit, I never thought it was possible.\"",
+      "url": "https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/"
     },
     {
       "category": "Space",
@@ -67,44 +131,12 @@
       "url": "https://www.space.com/entertainment/space-movies-shows/aliens-at-40-james-camerons-sequel-is-a-sci-fi-icon-but-did-you-know-he-quit-the-movie-twice"
     },
     {
-      "category": "Space",
-      "title": " Should we trust AI in the search for alien life? Scientists aren't so sure ",
-      "source": " Latest from Space.com ",
-      "date": "Sun, 19 Jul 2026 15:00:00 +0000",
-      "summary": "New research suggests AI can be repeatedly fooled into mistaking non-life for life.",
-      "url": "https://www.space.com/space-exploration/search-for-life/should-we-trust-ai-in-the-search-for-alien-life-scientists-arent-so-sure"
-    },
-    {
-      "category": "Space",
-      "title": " How Christopher Nolan's 'Interstellar' turned general relativity into the bad guy ",
-      "source": " Latest from Space.com ",
-      "date": "Sun, 19 Jul 2026 14:00:00 +0000",
-      "summary": "As Nolan embarks on \"The Odyssey\", we look back on the sci-fi movie where time dilation is as cruel as any Greek god.",
-      "url": "https://www.space.com/entertainment/space-movies-shows/how-christopher-nolans-interstellar-turned-general-relativity-into-the-bad-guy"
-    },
-    {
       "category": "Science",
       "title": "A tiny universe in a bottle reveals clues to the origins of life",
       "source": "All Top News -- ScienceDaily",
       "date": "Sun, 19 Jul 2026 09:10:21 EDT",
       "summary": "Researchers have created cosmic dust from scratch by recreating space-like conditions inside glass tubes. The dust contains complex carbon-rich molecules built from elements essential to life and produces infrared signals similar to real material found in space. By studying these laboratory samples, scientists can explore how organic chemistry unfolds around stars and how comets, asteroids and meteorites may have carried those ingredients to Earth.",
       "url": "https://www.sciencedaily.com/releases/2026/07/260718010156.htm"
-    },
-    {
-      "category": "Science",
-      "title": " 'It's absolutely exciting!': Astronomers discover an atmosphere around an Earth-like planet in the habitable zone for first time ever ",
-      "source": " Latest from Live Science ",
-      "date": "Sun, 19 Jul 2026 13:00:00 +0000",
-      "summary": "Astronomers have detected helium escaping from the super-Earth LHS 1140 b, providing the strongest evidence yet that a rocky planet in another star's habitable zone has retained an atmosphere for billions of years.",
-      "url": "https://www.livescience.com/space/exoplanets/its-absolutely-exciting-astronomers-discover-an-atmosphere-around-an-earth-like-planet-in-the-habitable-zone-for-first-time-ever"
-    },
-    {
-      "category": "Science",
-      "title": " Decorated wild-boar tusk found in Russia may have been medieval warrior's good-luck charm ",
-      "source": " Latest from Live Science ",
-      "date": "Sun, 19 Jul 2026 12:30:00 +0000",
-      "summary": "A 12th-century wild-boar tusk found in Russia may be a warrior's amulet.",
-      "url": "https://www.livescience.com/archaeology/decorated-wild-boar-tusk-found-in-russia-may-have-been-medieval-warriors-good-luck-charm"
     },
     {
       "category": "Science",
@@ -139,14 +171,6 @@
       "url": "https://www.sciencedaily.com/releases/2026/07/260718010158.htm"
     },
     {
-      "category": "AI",
-      "title": "Will AI fix prior authorization—or make it worse?",
-      "source": "Ars Technica - All content",
-      "date": "Sat, 18 Jul 2026 11:18:25 +0000",
-      "summary": "The government is piloting a program that uses AI for insurance-coverage decisions.",
-      "url": "https://arstechnica.com/ai/2026/07/will-ai-fix-prior-authorization-or-make-it-worse/"
-    },
-    {
       "category": "Theology",
       "title": "Quality Christian Music 2026: 15 Artists to Watch",
       "source": "The Gospel Coalition",
@@ -155,20 +179,28 @@
       "url": "https://www.thegospelcoalition.org/article/quality-christian-music-2026/"
     },
     {
-      "category": "Theology",
-      "title": "5 Signs Your Marriage Is Unhealthy (and What to Do About It)",
-      "source": "The Gospel Coalition",
-      "date": "Sat, 18 Jul 2026 04:00:00 +0000",
-      "summary": "The absence of conflict isn’t true peace; it’s often evidence one partner in the marriage feels defeated or that both have given up.",
-      "url": "https://www.thegospelcoalition.org/article/5-signs-marriage-unhealthy/"
+      "category": "Space",
+      "title": "NASA Pushes New Wing Design to Find Structural Limits",
+      "source": "NASA",
+      "date": "Fri, 17 Jul 2026 23:08:33 +0000",
+      "summary": "NASA researchers recently put a new wing design, appearing long and thin with a lightweight structural design, through a series of grueling tests to find its structural limits. What they found left them encouraged about the wing’s potential, even when they pushed it past its intended limits. The 15-foot Structural Wing Experiment Evaluating Truss-bracing (SWEET-15) […]",
+      "url": "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-pushes-new-wing-design-to-find-structural-limits/"
     },
     {
-      "category": "AI",
-      "title": "Google-backed satellites for wildfire detection launch as smoke chokes US, Canada",
-      "source": "Ars Technica - All content",
-      "date": "Fri, 17 Jul 2026 19:50:18 +0000",
-      "summary": "The FireSat program can spot wildfires that other satellites miss.",
-      "url": "https://arstechnica.com/space/2026/07/google-backed-satellites-for-wildfire-detection-launch-as-smoke-chokes-us-canada/"
+      "category": "Space",
+      "title": "The Growing Crescent of Mars as NASA’s Psyche Mission Approaches",
+      "source": "NASA",
+      "date": "Fri, 17 Jul 2026 22:32:27 +0000",
+      "summary": "Description This composite of images taken by NASA’s Psyche mission shows the crescent of Mars grow as the spacecraft approached the planet for a gravity assist from May 2 to May 15, 2026. The series begins with the smallest crescent at the center of the of the image as Mars is farthest from the spacecraft, and progressively […]",
+      "url": "https://science.nasa.gov/photojournal/the-growing-crescent-of-mars-as-nasas-psyche-mission-approaches/"
+    },
+    {
+      "category": "Space",
+      "title": "Establishing a VTE Risk Score for Astronauts Algorithm",
+      "source": "NASA",
+      "date": "Fri, 17 Jul 2026 21:01:38 +0000",
+      "summary": "In April 2026, NASA’s Office of the Chief Health and Medical Officer (OCHMO) initiated a working group to review updated VTE case information, additional data gathered revealing altered blood flow status within a cohort of astronauts, and discuss progress of research and clinical activities intended to mitigate the risk of VTE during spaceflight with new […]",
+      "url": "https://www.nasa.gov/organizations/ochmo/establishing-a-vte-risk-score-for-astronauts-algorithm/"
     },
     {
       "category": "Biblical Studies",
@@ -201,14 +233,6 @@
       "date": "Thu, 16 Jul 2026 16:00:00 GMT",
       "summary": "Learn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships.",
       "url": "https://openai.com/index/why-teens-deserve-access-safe-ai"
-    },
-    {
-      "category": "Biblical Studies",
-      "title": "What Does the Bible Say About Tattoos?",
-      "source": "Biblical Archaeology Society",
-      "date": "Thu, 16 Jul 2026 11:00:53 +0000",
-      "summary": "Although Leviticus 19:28 clearly prohibits tattoos, it does not give an explicit reason why. This begs the question: Why does the Bible prohibit tattoos?\nThe post What Does the Bible Say About Tattoos? appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/daily/biblical-topics/hebrew-bible/what-does-the-bible-say-about-tattoos/"
     },
     {
       "category": "AI",
