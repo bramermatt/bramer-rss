@@ -1,30 +1,134 @@
 {
-  "lastUpdated": "2026-07-21T11:43:00.472Z",
-  "articleCount": 39,
+  "lastUpdated": "2026-07-21T17:08:30.940Z",
+  "articleCount": 36,
   "articles": [
     {
       "category": "Science",
-      "title": "AI agent helps prepare synchrotron X-ray experimental measurements, paving the way for autonomous operation",
+      "title": "Record fires killed nearly 1 in 5 mature giant sequoias, but controlled burns can boost survival",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Tue, 21 Jul 2026 07:40:04 EDT",
-      "summary": "Artificial intelligence (AI) models are now used daily by many people worldwide, both for professional and personal purposes. Over the past decades, scientists specialized in various disciplines have also started using these models to conduct research or simplify their experimental practices.",
-      "url": "https://phys.org/news/2026-07-ai-agent-synchrotron-ray-experimental.html"
+      "date": "Tue, 21 Jul 2026 13:00:08 EDT",
+      "summary": "A new study found that giant sequoias were nearly four times as likely to survive extreme wildfires in forests managed with prescribed burns, which decrease tree mortality. The work is published in the journal Nature Communications.",
+      "url": "https://phys.org/news/2026-07-mature-giant-sequoias-boost-survival.html"
     },
     {
       "category": "Science",
-      "title": "Invisible microbes 'mining' toxic waste in the Flinders Ranges",
+      "title": "Is there really a global loneliness epidemic? Research reveals a more complex picture",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Tue, 21 Jul 2026 07:40:01 EDT",
-      "summary": "New research from Monash University revealed that microscopic life is actively breaking down decades-old mining waste in South Australia, turning stable radioactive and toxic metals into mobile nanoparticles that can easily travel through the environment.",
-      "url": "https://phys.org/news/2026-07-invisible-microbes-toxic-flinders-ranges.html"
+      "date": "Tue, 21 Jul 2026 13:00:01 EDT",
+      "summary": "Few human experiences are as universal—or as poorly understood—as loneliness. More than just feeling blue and the inspiration for countless songs, it's linked to poorer well-being, worse mental and physical health and a higher risk of early death.",
+      "url": "https://phys.org/news/2026-07-global-loneliness-epidemic-reveals-complex.html"
+    },
+    {
+      "category": "Space",
+      "title": " Artemis III astronauts will beam 4k video from Orion to Earth using SpaceX Starlink lasers ",
+      "source": " Latest from Space.com ",
+      "date": "Tue, 21 Jul 2026 17:00:00 +0000",
+      "summary": "NASA is partnering with SpaceX to outfit the Artemis III Orion spacecraft with Starlink laser communications terminals to assist with high-definition video transmissions and data-heavy mission downlinks.",
+      "url": "https://www.space.com/space-exploration/artemis/artemis-iii-astronauts-will-beam-4k-video-from-orion-to-earth-using-spacex-starlink-lasers"
+    },
+    {
+      "category": "AI",
+      "title": "Introducing the ChatGPT for small business program",
+      "source": "OpenAI News",
+      "date": "Tue, 21 Jul 2026 17:00:00 GMT",
+      "summary": "OpenAI launches the ChatGPT for Small Businesses program, helping entrepreneurs build AI skills, automate work, and grow with ChatGPT Work.",
+      "url": "https://openai.com/index/introducing-chatgpt-small-business-program"
     },
     {
       "category": "Science",
-      "title": "The best way to measure fire risk might be underground",
+      "title": "Reinventing food packaging with safe and sustainable oxygen-scavenging biodegradable plastic",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Tue, 21 Jul 2026 07:20:02 EDT",
-      "summary": "When fire risk is high, Arizonans know the major warning signs: hot temperatures, low humidity and lots of wind.",
-      "url": "https://phys.org/news/2026-07-underground.html"
+      "date": "Tue, 21 Jul 2026 12:54:24 EDT",
+      "summary": "From ensuring that food remains fresh longer to extending its shelf life for future consumption, food packaging plays an indispensable role in modern society. Conventional food packaging plastics are sturdy and highly effective at keeping out oxygen, one of the main drivers of food spoilage.",
+      "url": "https://phys.org/news/2026-07-reinventing-food-packaging-safe-sustainable.html"
+    },
+    {
+      "category": "AI",
+      "title": "The World's 2,400 Castles",
+      "source": "Hacker News: Front Page",
+      "date": "Tue, 21 Jul 2026 16:05:58 +0000",
+      "summary": "Article URL: https://thecastlemap.com/\nComments URL: https://news.ycombinator.com/item?id=48994178\nPoints: 42\n# Comments: 28",
+      "url": "https://thecastlemap.com/"
+    },
+    {
+      "category": "AI",
+      "title": "France's Anssi Will Block PQC-Free Products from Certification Starting 2027",
+      "source": "Hacker News: Front Page",
+      "date": "Tue, 21 Jul 2026 16:02:04 +0000",
+      "summary": "Article URL: https://postquantum.com/security-pqc/anssi-pqc-certification-2027/\nComments URL: https://news.ycombinator.com/item?id=48994116\nPoints: 23\n# Comments: 4",
+      "url": "https://postquantum.com/security-pqc/anssi-pqc-certification-2027/"
+    },
+    {
+      "category": "AI",
+      "title": "Amid nurse shortage, a university rolls out the welcome mat for men",
+      "source": "Hacker News: Front Page",
+      "date": "Tue, 21 Jul 2026 16:01:07 +0000",
+      "summary": "Article URL: https://text.npr.org/nx-s1-5869813\nComments URL: https://news.ycombinator.com/item?id=48994103\nPoints: 26\n# Comments: 23",
+      "url": "https://text.npr.org/nx-s1-5869813"
+    },
+    {
+      "category": "Space",
+      "title": " The 'Avengers Doomsday' trailer is cool, but it's missing something... where's all the space stuff? ",
+      "source": " Latest from Space.com ",
+      "date": "Tue, 21 Jul 2026 16:00:00 +0000",
+      "summary": "Out of space.",
+      "url": "https://www.space.com/entertainment/space-movies-shows/the-avengers-doomsday-trailer-is-cool-but-its-missing-something-wheres-all-the-space-stuff-at"
+    },
+    {
+      "category": "Space",
+      "title": " Scientists may have found the 1st twin star system where both stars exploded ",
+      "source": " Latest from Space.com ",
+      "date": "Tue, 21 Jul 2026 15:01:00 +0000",
+      "summary": "Imagine if Star Wars' Tatooine twin suns went supernova. Scientists may have just found that in our universe.",
+      "url": "https://www.space.com/astronomy/stars/scientists-may-have-found-the-1st-twin-star-system-where-both-stars-exploded"
+    },
+    {
+      "category": "AI",
+      "title": "When your vehicle outlives its cloud: What happens next?",
+      "source": "Ars Technica - All content",
+      "date": "Tue, 21 Jul 2026 13:36:17 +0000",
+      "summary": "Automakers love connected vehicles, but support isn't open-ended.",
+      "url": "https://arstechnica.com/cars/2026/07/when-your-vehicle-outlives-its-cloud-what-happens-next/"
+    },
+    {
+      "category": "AI",
+      "title": "Apps targeted at US troops contain Chinese and Russian code",
+      "source": "Ars Technica - All content",
+      "date": "Tue, 21 Jul 2026 13:19:38 +0000",
+      "summary": "More than one-eighth of apps analyzed contained foreign code.",
+      "url": "https://arstechnica.com/security/2026/07/apps-targeted-at-us-troops-contain-chinese-and-russian-code/"
+    },
+    {
+      "category": "AI",
+      "title": "2027 Kia Seltos first drive gives you plenty of SUV for not much $",
+      "source": "Ars Technica - All content",
+      "date": "Tue, 21 Jul 2026 13:00:08 +0000",
+      "summary": "It starts at just under $25,000, but the hybrid won't arrive until next year.",
+      "url": "https://arstechnica.com/cars/2026/07/2027-kia-seltos-first-drive-telluride-vibes-in-a-smaller-package/"
+    },
+    {
+      "category": "Science",
+      "title": " Neuroscience findings often can't be replicated ‪—‬ and it's a big problem for what we know about the brain ",
+      "source": " Latest from Live Science ",
+      "date": "Tue, 21 Jul 2026 12:00:00 +0000",
+      "summary": "The findings in several foundational brain imaging studies don't hold up in follow-up research.",
+      "url": "https://www.livescience.com/health/neuroscience/neuroscience-findings-often-cant-be-replicated-and-its-a-big-problem-for-what-we-know-about-the-brain"
+    },
+    {
+      "category": "Biblical Studies",
+      "title": "Arguments Against Locating Sodom at Tall el-Hammam",
+      "source": "Biblical Archaeology Society",
+      "date": "Tue, 21 Jul 2026 11:00:31 +0000",
+      "summary": "The proposal that Sodom has been found on the northeastern side of the Dead Sea has been around for a decade or so, but with the publication of an article by Steven Collins this month it will receive the widest hearing to date. \nThe post Arguments Against Locating Sodom at Tall el-Hammam appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/daily/biblical-sites-places/biblical-archaeology-sites/arguments-against-locating-sodom-at-tall-el-hammam/"
+    },
+    {
+      "category": "Biblical Studies",
+      "title": "Biblical Sidon—Jezebel’s Hometown",
+      "source": "Biblical Archaeology Society",
+      "date": "Tue, 21 Jul 2026 11:00:14 +0000",
+      "summary": "The city of Sidon on the coast of modern Lebanon is mentioned 38 times in the Hebrew Bible. Recent excavations have exposed part of the ancient Canaanite—and later Phoenician—city, including a massive temple and depictions of deities worshiped at Sidon.\nThe post Biblical Sidon—Jezebel’s Hometown appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-near-eastern-world/biblical-sidon-jezebel-hometown/"
     },
     {
       "category": "Science",
@@ -35,12 +139,12 @@
       "url": "https://www.livescience.com/technology/artificial-intelligence/startups-oscillator-based-ai-technology-could-be-1-000-times-more-energy-efficient-than-conventional-computing"
     },
     {
-      "category": "Space",
-      "title": " Galaxy cluster's magnetic field reconstructed for 1st time with record-breaking astronomy map ",
-      "source": " Latest from Space.com ",
-      "date": "Tue, 21 Jul 2026 10:00:00 +0000",
-      "summary": "\"We believe that the mechanism that 'turns on' these gigantic radio emissions is linked to the formation process of galaxy clusters.\"",
-      "url": "https://www.space.com/astronomy/galaxies/galaxy-clusters-magnetic-field-reconstructed-for-1st-time-with-record-breaking-astronomy-map"
+      "category": "Science",
+      "title": "Astronomers find the first atmosphere on a rocky world in the habitable zone",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Tue, 21 Jul 2026 06:57:41 EDT",
+      "summary": "Astronomers have found the first confirmed atmosphere around a rocky planet in another star’s habitable zone. The planet, LHS 1140 b, revealed its atmosphere through helium slowly leaking into space. Located 48 light-years away, the world may have preserved its atmosphere for billions of years, making it a promising target in the search for potentially habitable planets.",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260721000825.htm"
     },
     {
       "category": "History",
@@ -51,44 +155,28 @@
       "url": "https://allthingsliberty.com/2026/07/the-rise-disgrace-and-redemption-of-timothy-bedel/"
     },
     {
-      "category": "AI",
-      "title": "Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge",
-      "source": "Hacker News: Front Page",
-      "date": "Tue, 21 Jul 2026 08:44:23 +0000",
-      "summary": "Article URL: https://qwen.ai/blog?id=qwen-image-3.0\nComments URL: https://news.ycombinator.com/item?id=48989701\nPoints: 160\n# Comments: 83",
-      "url": "https://qwen.ai/blog?id=qwen-image-3.0"
+      "category": "Science",
+      "title": "Ancient DNA reveals a chilling secret at China’s 4,000-year-old Shimao city",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Tue, 21 Jul 2026 04:59:24 EDT",
+      "summary": "Ancient DNA from China’s vast 4,000-year-old Shimao settlement is revealing how one of East Asia’s earliest complex societies was organized. Researchers found that its people were largely descended from local Yellow River farming communities, but also had genetic ties to distant southern and steppe populations, pointing to extensive prehistoric contact.",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260721000828.htm"
     },
     {
       "category": "Science",
       "title": " Science word of the day: Cryptology ",
       "source": " Latest from Live Science ",
       "date": "Tue, 21 Jul 2026 08:00:00 +0000",
-      "summary": "What does 'cryptology' mean?",
+      "summary": "Pronunciation: Krip-TAH'-leh-jee",
       "url": "https://www.livescience.com/physics-mathematics/mathematics/science-word-of-the-day-cryptology"
     },
     {
       "category": "Science",
-      "title": " Giant, milky-green vortex swirls across massive 'cryptodepression' lake in Southern Europe — Earth from space ",
-      "source": " Latest from Live Science ",
-      "date": "Tue, 21 Jul 2026 07:00:00 +0000",
-      "summary": "A 2020 astronaut photo shows a massive, milky-green vortex in Lake Skadar, which lies on the border between Montenegro and Albania.",
-      "url": "https://www.livescience.com/planet-earth/giant-milky-green-vortex-swirls-across-massive-cryptodepression-lake-in-southern-europe-earth-from-space"
-    },
-    {
-      "category": "AI",
-      "title": "Linux kernel will support $ORIGIN, sort of",
-      "source": "Hacker News: Front Page",
-      "date": "Tue, 21 Jul 2026 06:29:22 +0000",
-      "summary": "Article URL: https://fzakaria.com/2026/07/20/linux-kernel-will-support-origin-sort-of\nComments URL: https://news.ycombinator.com/item?id=48988793\nPoints: 64\n# Comments: 41",
-      "url": "https://fzakaria.com/2026/07/20/linux-kernel-will-support-origin-sort-of"
-    },
-    {
-      "category": "AI",
-      "title": "Show HN: Ex Situ – Open-source spatial index of displaced cultural artifacts",
-      "source": "Hacker News: Front Page",
-      "date": "Tue, 21 Jul 2026 04:48:32 +0000",
-      "summary": "Hi, I designed and developed a spatial index that maps museum artefacts as connecting arcs/hyperlinks from their origin site to institutional location/sources. The Index specifically looks at western/euro-american institutions and maps their collection categorised by them under Islamic art, Asian/African art, ethnological collections, Middle East, South America etc.\nStarted as my MA thesis in 2022, kept building since, mostly solo with a little funding. Fully open source, self-hosted, AGPL-3.0, Next.js + Deck.gl on the frontend, Strapi backend, Python ETL pulling from museum open-access APIs. Currently indexing over 100k artifacts from all over the world, across 8 collections (Met, V&A, SMB Berlin). Recently added an md export so researchers can download provenance data for a filtered set of artifacts.\nThe infrastructure is conceptualized as an indexer, not a hoster. Even images are kept as URLs pointing to the source institutions. It's connective tissue between archives that were never designed to speak to each other, with an origin-first search UI concept. The data model is on purpose flat, to avoid encoding problematic taxonomies, and routes researchers directly to the source giving responsibility to the source institutions rather than duplicating institutional data. It indexes the relationship between origin sites and destination collections.\nComing from a design background, taking this project from prototype to production app has been incredibly rewarding, but honestly it’s getting a little bit overwhelming to scale alone. I would love community’s feedback on performance scaling, any code contributions, data pipelines for missing museum apis or general feedback.\nRepo: https://github.com/hburakyel/ex-situ\nLive: https://exsitu.app\nComments URL: https://news.ycombinator.com/item?id=48988158\nPoints: 38\n# Comments: 22",
-      "url": "https://exsitu.app/map"
+      "title": "Scientists found mystery bacteria inside one of the ocean’s most elusive whales",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Tue, 21 Jul 2026 01:10:08 EDT",
+      "summary": "Scientists studying decades of pygmy sperm whale strandings have uncovered three previously unknown types of Helicobacter bacteria hiding in the animals’ stomachs. All four infected whales showed serious digestive damage, including inflammation, ulcers, scarring, and parasite infestations, although the bacteria were not confirmed as the cause of death.",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260721000847.htm"
     },
     {
       "category": "Theology",
@@ -99,14 +187,6 @@
       "url": "https://www.thegospelcoalition.org/reviews/dust-to-dust-aging/"
     },
     {
-      "category": "Space",
-      "title": "Why Maine’s Sandy Shorelines Turn Jagged",
-      "source": "NASA",
-      "date": "Tue, 21 Jul 2026 04:00:00 +0000",
-      "summary": "Differences in the underlying bedrock and how rivers distribute sediment make the coastlines west of Portland look unlike those northeast of the city.",
-      "url": "https://science.nasa.gov/earth/earth-observatory/why-maines-sandy-shorelines-turn-jagged/"
-    },
-    {
       "category": "Theology",
       "title": "Did Paul Endorse Stoicism?",
       "source": "The Gospel Coalition",
@@ -115,76 +195,12 @@
       "url": "https://www.thegospelcoalition.org/article/did-paul-endorse-stoicism/"
     },
     {
-      "category": "AI",
-      "title": "DA: Cop covered bodycam to snap nude prisoners on his iPhone—but other cams caught him",
-      "source": "Ars Technica - All content",
-      "date": "Mon, 20 Jul 2026 22:15:51 +0000",
-      "summary": "Pennsylvania cop charged with oppression and obstruction.",
-      "url": "https://arstechnica.com/tech-policy/2026/07/cop-charged-with-covering-bodycam-to-photograph-naked-prisoners/"
-    },
-    {
-      "category": "AI",
-      "title": "Firefighting drones in the works as wildfires plague US nearly year-round",
-      "source": "Ars Technica - All content",
-      "date": "Mon, 20 Jul 2026 21:55:52 +0000",
-      "summary": "California and XPRIZE competition tests whether drones can stop wildfires early.",
-      "url": "https://arstechnica.com/ai/2026/07/firefighting-drones-in-the-works-as-wildfires-plague-us-nearly-year-round/"
-    },
-    {
-      "category": "AI",
-      "title": "Judge halts Paramount's $111B purchase of Warner Bros. in win for US states",
-      "source": "Ars Technica - All content",
-      "date": "Mon, 20 Jul 2026 21:10:14 +0000",
-      "summary": "Judge grants restraining order, saying merger \"likely to violate antitrust laws.\"",
-      "url": "https://arstechnica.com/tech-policy/2026/07/judge-halts-paramounts-111b-purchase-of-warner-bros-in-win-for-us-states/"
-    },
-    {
-      "category": "Space",
-      "title": " The 1st 'Avengers: Doomsday' trailer is here, and it's stuffed to bursting with superheroes ",
-      "source": " Latest from Space.com ",
-      "date": "Mon, 20 Jul 2026 21:05:09 +0000",
-      "summary": "Robert Downey Jr.'s Doctor Doom makes his true debut (sort of) in this cluttered but colorful preview for the December blockbuster.",
-      "url": "https://www.space.com/entertainment/space-movies-shows/the-1st-avengers-doomsday-trailer-is-here-and-its-stuffed-to-bursting-with-superheroes"
-    },
-    {
-      "category": "Space",
-      "title": " SpaceX targets July 23 for crucial Starship Flight 13 test launch after abort ",
-      "source": " Latest from Space.com ",
-      "date": "Mon, 20 Jul 2026 21:00:00 +0000",
-      "summary": "SpaceX is now targeting Thursday (July 23) for Flight 13 of its giant Starship rocket, after the first launch attempt aborted at the last second on July 16.",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-targets-july-23-for-crucial-starship-flight-13-test-launch-after-abort"
-    },
-    {
-      "category": "Space",
-      "title": "NASA Sets Briefings for SpaceX Crew-13 Mission to Space Station",
-      "source": "NASA",
-      "date": "Mon, 20 Jul 2026 20:00:52 +0000",
-      "summary": "NASA and its partners will discuss the upcoming crew rotation mission to the International Space Station during a pair of news conferences on Monday, Aug. 3, from the agency’s Johnson Space Center in Houston. Mission leadership will provide an overview of NASA’s SpaceX Crew‑13 mission at 12 p.m. EDT. Next, crew members will discuss their […]",
-      "url": "https://www.nasa.gov/news-release/nasa-sets-briefings-for-spacex-crew-13-mission-to-space-station/"
-    },
-    {
-      "category": "Space",
-      "title": "NASA, GE Aerospace Work Enables Hybrid-Electric Flight Demonstration",
-      "source": "NASA",
-      "date": "Mon, 20 Jul 2026 18:54:44 +0000",
-      "summary": "An aircraft powered by a megawatt-class hybrid-electric engine developed in collaboration with NASA and built by GE Aerospace, demonstrated flight of an innovation that can inform new generations of fuel-saving aircraft power systems. Mounted to a Saab 340B aircraft, the engine flew at Farnborough International Air Show in the United Kingdom. It was the public […]",
-      "url": "https://www.nasa.gov/directorates/rtmd/nasa-ge-hybrid-electric-flight/"
-    },
-    {
       "category": "History",
       "title": "The Lost Founder: James Wilson and the Forgotten Fight for a People’s Constitution",
       "source": "Journal of the American Revolution",
       "date": "Mon, 20 Jul 2026 14:30:42 +0000",
       "summary": "BOOK REVIEW: The Lost Founder: James Wilson and the Forgotten Fight for a People’s Constitution by Jesse Wegman (New York: Celadon Books, 2026) $30.00 hardcover  The Broadway play 1776 depicts James Wilson, a Pennsylvania delegate to the Continental Congress, as a cowardly, spineless understudy of John Dickinson, who opposed the Declaration of Independence. This portrayal […]\nThe post The Lost Founder: James Wilson and the Forgotten Fight for a People’s Constitution appeared first on Journal of the American Revolution.",
       "url": "https://allthingsliberty.com/2026/07/the-lost-founder-james-wilson-and-the-forgotten-fight-for-a-peoples-constitution/"
-    },
-    {
-      "category": "Science",
-      "title": "Some dinosaurs could rise like giants until they grew too big",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Mon, 20 Jul 2026 09:23:44 EDT",
-      "summary": "Two elephant-sized South American sauropods were unusually well built for standing on their hind legs. Digital tests showed that their robust femurs handled the enormous forces better than those of larger species, especially while the dinosaurs were young. The upright pose may have helped them reach treetops, frighten predators, or impress potential mates.",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260719231758.htm"
     },
     {
       "category": "Theology",
@@ -203,14 +219,6 @@
       "url": "https://www.biblicalarchaeology.org/daily/biblical-topics/post-biblical-period/the-secrets-of-huqoq/"
     },
     {
-      "category": "Biblical Studies",
-      "title": "Martin Scorsese and a Sicilian Shipwreck",
-      "source": "Biblical Archaeology Society",
-      "date": "Mon, 20 Jul 2026 10:00:17 +0000",
-      "summary": "Archaeologists have uncovered a 2,500-year-old Greek shipwreck just off the coast of southeastern Sicily. The ship was found largely intact about 20 feet below the […]\nThe post Martin Scorsese and a Sicilian Shipwreck appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-rome/martin-scorsese-and-a-sicilian-shipwreck/"
-    },
-    {
       "category": "AI",
       "title": "Safety and alignment in an era of long-horizon models",
       "source": "OpenAI News",
@@ -219,44 +227,12 @@
       "url": "https://openai.com/index/safety-alignment-long-horizon-models"
     },
     {
-      "category": "Science",
-      "title": "An ordinary laptop solved a problem thought to require a quantum computer",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Mon, 20 Jul 2026 03:40:09 EDT",
-      "summary": "A quantum problem once described as impossible for classical computers has now been solved using relatively modest hardware. Researchers used tensor networks to compress the overwhelming wave function created by hundreds of entangled qubits, allowing some calculations to run on a laptop. Their results matched both theoretical predictions and simulations performed with a quantum computer. The method could open new paths for exploring quantum dynamics and materials.",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260719040000.htm"
-    },
-    {
-      "category": "Science",
-      "title": "The mysterious hum heard around the world may finally have an explanation",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Sun, 19 Jul 2026 08:07:13 EDT",
-      "summary": "The mysterious sound known as The Hum has been reported worldwide for decades, yet its source often remains impossible to find. Researchers tested whether people who hear it have exceptional low-frequency hearing or measurable sounds produced inside their ears, but neither explanation fit most participants. The strongest possibility is that many cases involve low-frequency tinnitus, even though the sound seems completely external.",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260719040002.htm"
-    },
-    {
-      "category": "Biblical Studies",
-      "title": "First Person: Did the Kingdoms of Saul, David and Solomon Actually Exist?",
-      "source": "Biblical Archaeology Society",
-      "date": "Sun, 19 Jul 2026 11:00:01 +0000",
-      "summary": "In BAR, Hershel Shanks examines a recent article published by archaeologist Amihai Mazar. Mazar contends that while the Biblical narratives were written hundreds of years after the reigns of Saul, David and Solomon, they “retain memories of reality.”\nThe post First Person: Did the Kingdoms of Saul, David and Solomon Actually Exist? appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-israel/did-the-kingdoms-of-saul-david-and-solomon-actually-exist/"
-    },
-    {
       "category": "AI",
       "title": "A scorecard for the AI age",
       "source": "OpenAI News",
       "date": "Fri, 17 Jul 2026 10:00:00 GMT",
       "summary": "Sarah Friar, CFO of OpenAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute.",
       "url": "https://openai.com/index/a-scorecard-for-the-ai-age"
-    },
-    {
-      "category": "AI",
-      "title": "Why teens deserve access to safe AI",
-      "source": "OpenAI News",
-      "date": "Thu, 16 Jul 2026 16:00:00 GMT",
-      "summary": "Learn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships.",
-      "url": "https://openai.com/index/why-teens-deserve-access-safe-ai"
     },
     {
       "category": "History",
