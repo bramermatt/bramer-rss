@@ -1,30 +1,118 @@
 {
-  "lastUpdated": "2026-07-21T17:08:30.940Z",
+  "lastUpdated": "2026-07-21T22:47:16.187Z",
   "articleCount": 36,
   "articles": [
     {
       "category": "Science",
-      "title": "Record fires killed nearly 1 in 5 mature giant sequoias, but controlled burns can boost survival",
+      "title": "A native California wildflower isn't keeping up with climate change",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Tue, 21 Jul 2026 13:00:08 EDT",
-      "summary": "A new study found that giant sequoias were nearly four times as likely to survive extreme wildfires in forests managed with prescribed burns, which decrease tree mortality. The work is published in the journal Nature Communications.",
-      "url": "https://phys.org/news/2026-07-mature-giant-sequoias-boost-survival.html"
+      "date": "Tue, 21 Jul 2026 18:40:03 EDT",
+      "summary": "The mountain jewelflower inhabits a wide swath of California and Oregon, from summer-scorched foothills to high mountains where snow falls during winter. But it is already suffering from climate change, with plants in the mountains struggling to survive both summers and winters, according to a study from the University of California, Davis.",
+      "url": "https://phys.org/news/2026-07-native-california-wildflower-isnt-climate.html"
     },
     {
       "category": "Science",
-      "title": "Is there really a global loneliness epidemic? Research reveals a more complex picture",
+      "title": "Simulations show distinct ground motion signatures of supershear earthquakes",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Tue, 21 Jul 2026 13:00:01 EDT",
-      "summary": "Few human experiences are as universal—or as poorly understood—as loneliness. More than just feeling blue and the inspiration for countless songs, it's linked to poorer well-being, worse mental and physical health and a higher risk of early death.",
-      "url": "https://phys.org/news/2026-07-global-loneliness-epidemic-reveals-complex.html"
+      "date": "Tue, 21 Jul 2026 18:40:01 EDT",
+      "summary": "Sustained supershear earthquake ruptures produce distinct ground-motion characteristics compared with subshear earthquakes, according to a study published in the Bulletin of the Seismological Society of America, with potential implications for current building codes and ground-motion models.",
+      "url": "https://phys.org/news/2026-07-simulations-distinct-ground-motion-signatures.html"
+    },
+    {
+      "category": "Science",
+      "title": "New technique enables LIGO to peer farther into the distant universe",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Tue, 21 Jul 2026 18:30:07 EDT",
+      "summary": "Scientists at the University of California, Riverside, have developed a new way to help gravitational-wave observatories see farther into the universe by solving one of their biggest challenges: tiny heat-induced distortions in the massive mirrors at the heart of the detectors.",
+      "url": "https://phys.org/news/2026-07-technique-enables-ligo-peer-distant.html"
+    },
+    {
+      "category": "AI",
+      "title": "Show HN: Computable – Buy, sell, and redeem GPU for the exact weeks you want",
+      "source": "Hacker News: Front Page",
+      "date": "Tue, 21 Jul 2026 21:48:19 +0000",
+      "summary": "Hey we are Computable. We spent years building trading infrastructure at Jump Trading and Coinbase. From that point of view, compute looks like energy markets before 2000: everything trades through private bilateral leases, there’s no visible price, and nothing can be resold. The same H100 rents at a 2x spread depending on who’s asking, and once you sign a 24-month lease, it can never change hands.\nSo we built a market for GPU nodes, sold by the calendar week. Here are three things you can do on it that you can’t do anywhere else:\n- Buy exactly the weeks you need. Three nodes for the last two weeks of October means you pay for those two weeks and walk away when the run is done. You don't have to commit to 6-24 months, and there's no flexibility premium.\n- Sell back what you don’t use. If your plans change, unused weeks turn back into cash: we keep a market quote posted on every position, so there’s always a price to hit.\n- Buy (or sell) the future. Lock January in July at a price you set, so the cost of a future run is known before another 40% H100 rate jump makes it not.\nThe first auction is live now at https://market.getcomputable.com: a block of nodes, August through the end of January. Bidding closes July 31. The bids are sealed. You bid how many nodes, which weeks, and your price. Every clearing price gets published after settlement, because nobody knows what a GPU week is worth and we want the prints to exist in public.\nHappy to go deep in the comments on anything, including the clearing mechanism, which is a packing problem and was fun to design!\nComments URL: https://news.ycombinator.com/item?id=48998828\nPoints: 5\n# Comments: 2",
+      "url": "https://www.getcomputable.com/"
+    },
+    {
+      "category": "AI",
+      "title": "\"Drawing\" the Mona Lisa with GPT-5.6, Claude, Gemini, and Grok",
+      "source": "Hacker News: Front Page",
+      "date": "Tue, 21 Jul 2026 21:13:20 +0000",
+      "summary": "Article URL: https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok\nComments URL: https://news.ycombinator.com/item?id=48998404\nPoints: 23\n# Comments: 7",
+      "url": "https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok"
+    },
+    {
+      "category": "AI",
+      "title": "A digestion of the Jacobian conjecture counterexample",
+      "source": "Hacker News: Front Page",
+      "date": "Tue, 21 Jul 2026 21:09:25 +0000",
+      "summary": "Article URL: https://terrytao.wordpress.com/2026/07/21/a-digestion-of-the-jacobian-conjecture-counterexample/\nComments URL: https://news.ycombinator.com/item?id=48998362\nPoints: 55\n# Comments: 11",
+      "url": "https://terrytao.wordpress.com/2026/07/21/a-digestion-of-the-jacobian-conjecture-counterexample/"
     },
     {
       "category": "Space",
-      "title": " Artemis III astronauts will beam 4k video from Orion to Earth using SpaceX Starlink lasers ",
+      "title": " James Webb Space Telescope discovers the secrets of cosmic 'factories' that filled the early universe with stardust ",
       "source": " Latest from Space.com ",
-      "date": "Tue, 21 Jul 2026 17:00:00 +0000",
-      "summary": "NASA is partnering with SpaceX to outfit the Artemis III Orion spacecraft with Starlink laser communications terminals to assist with high-definition video transmissions and data-heavy mission downlinks.",
-      "url": "https://www.space.com/space-exploration/artemis/artemis-iii-astronauts-will-beam-4k-video-from-orion-to-earth-using-spacex-starlink-lasers"
+      "date": "Tue, 21 Jul 2026 21:00:00 +0000",
+      "summary": "Using the James Webb Space Telescope, astronomers have discovered the secrets of early galaxies that pumped the infant cosmos full of dust, but by studying a much closer and modern galaxy.",
+      "url": "https://www.space.com/astronomy/james-webb-space-telescope/james-webb-space-telescope-discovers-the-secrets-of-cosmic-factories-that-filled-the-early-universe-with-stardust"
+    },
+    {
+      "category": "Space",
+      "title": " Alien life likely can't survive on exoplanets smaller than Mars, scientists say ",
+      "source": " Latest from Space.com ",
+      "date": "Tue, 21 Jul 2026 20:15:16 +0000",
+      "summary": "For a world to maintain an atmosphere long enough for life to gain a foothold, it seems it needs to be at least as big as Mars.",
+      "url": "https://www.space.com/space-exploration/search-for-life/alien-life-likely-cant-survive-on-exoplanets-smaller-than-mars-scientists-say"
+    },
+    {
+      "category": "Theology",
+      "title": "The Biblical Pattern of Terrible Fathers",
+      "source": "9Marks",
+      "date": "Tue, 21 Jul 2026 19:30:55 +0000",
+      "summary": "The good news for terrible fathers is not that the past can be undone, but that it can be redeemed. \nThe post The Biblical Pattern of Terrible Fathers appeared first on 9Marks.",
+      "url": "https://www.9marks.org/article/the-biblical-pattern-of-terrible-fathers/?utm_source=rss&utm_medium=rss&utm_campaign=the-biblical-pattern-of-terrible-fathers"
+    },
+    {
+      "category": "AI",
+      "title": "Nintendo customers have no legal right to tariff refunds, company tells judge",
+      "source": "Ars Technica - All content",
+      "date": "Tue, 21 Jul 2026 19:09:19 +0000",
+      "summary": "Nintendo says Switch buyers got what they paid for, urges court to dismiss lawsuit.",
+      "url": "https://arstechnica.com/tech-policy/2026/07/nintendo-customers-have-no-legal-right-to-tariff-refunds-company-tells-judge/"
+    },
+    {
+      "category": "Space",
+      "title": " Space Force orders 36 more Golden Dome missile-tracking satellites, for $1.75 billion ",
+      "source": " Latest from Space.com ",
+      "date": "Tue, 21 Jul 2026 19:00:00 +0000",
+      "summary": "The Space Development Agency announced partnerships with two companies worth up to $1.75 billion total, to develop 36 satellites for the Trump administration’s Golden Dome missile-defense initiative.",
+      "url": "https://www.space.com/space-exploration/satellites/space-force-orders-36-more-golden-dome-missile-tracking-satellites-for-usd1-75-billion"
+    },
+    {
+      "category": "AI",
+      "title": "Let Tom Hiddleston be your guide to Pompeii's final day",
+      "source": "Ars Technica - All content",
+      "date": "Tue, 21 Jul 2026 18:17:55 +0000",
+      "summary": "NatGeo's Pompeii: Out of Time fuses historical fact and imagination to bring city's last 24 hours to life.",
+      "url": "https://arstechnica.com/science/2026/07/tom-hiddleston-tracks-possible-pompeii-survivors-in-new-docuseries/"
+    },
+    {
+      "category": "Science",
+      "title": " Greenland meltwater will drive a 'strong weakening, but not a shutdown' of key Atlantic currents, study finds ",
+      "source": " Latest from Live Science ",
+      "date": "Tue, 21 Jul 2026 18:10:03 +0000",
+      "summary": "New modeling suggests meltwater from the Greenland ice sheet has a big weakening influence on the Atlantic Meridional Overturning Circulation, but the runoff likely won't cause a complete and irreversible collapse.",
+      "url": "https://www.livescience.com/planet-earth/rivers-oceans/greenland-meltwater-will-drive-a-strong-weakening-but-not-a-shutdown-of-key-atlantic-currents-study-finds"
+    },
+    {
+      "category": "AI",
+      "title": "Naked mole-rat queens use a chemical signal to suppress fertility in rivals",
+      "source": "Ars Technica - All content",
+      "date": "Tue, 21 Jul 2026 17:51:52 +0000",
+      "summary": "A single chemical made by mole-rat queens enforces the social order.",
+      "url": "https://arstechnica.com/science/2026/07/naked-mole-rat-queens-keep-their-colonies-in-line-with-a-scent/"
     },
     {
       "category": "AI",
@@ -33,78 +121,6 @@
       "date": "Tue, 21 Jul 2026 17:00:00 GMT",
       "summary": "OpenAI launches the ChatGPT for Small Businesses program, helping entrepreneurs build AI skills, automate work, and grow with ChatGPT Work.",
       "url": "https://openai.com/index/introducing-chatgpt-small-business-program"
-    },
-    {
-      "category": "Science",
-      "title": "Reinventing food packaging with safe and sustainable oxygen-scavenging biodegradable plastic",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Tue, 21 Jul 2026 12:54:24 EDT",
-      "summary": "From ensuring that food remains fresh longer to extending its shelf life for future consumption, food packaging plays an indispensable role in modern society. Conventional food packaging plastics are sturdy and highly effective at keeping out oxygen, one of the main drivers of food spoilage.",
-      "url": "https://phys.org/news/2026-07-reinventing-food-packaging-safe-sustainable.html"
-    },
-    {
-      "category": "AI",
-      "title": "The World's 2,400 Castles",
-      "source": "Hacker News: Front Page",
-      "date": "Tue, 21 Jul 2026 16:05:58 +0000",
-      "summary": "Article URL: https://thecastlemap.com/\nComments URL: https://news.ycombinator.com/item?id=48994178\nPoints: 42\n# Comments: 28",
-      "url": "https://thecastlemap.com/"
-    },
-    {
-      "category": "AI",
-      "title": "France's Anssi Will Block PQC-Free Products from Certification Starting 2027",
-      "source": "Hacker News: Front Page",
-      "date": "Tue, 21 Jul 2026 16:02:04 +0000",
-      "summary": "Article URL: https://postquantum.com/security-pqc/anssi-pqc-certification-2027/\nComments URL: https://news.ycombinator.com/item?id=48994116\nPoints: 23\n# Comments: 4",
-      "url": "https://postquantum.com/security-pqc/anssi-pqc-certification-2027/"
-    },
-    {
-      "category": "AI",
-      "title": "Amid nurse shortage, a university rolls out the welcome mat for men",
-      "source": "Hacker News: Front Page",
-      "date": "Tue, 21 Jul 2026 16:01:07 +0000",
-      "summary": "Article URL: https://text.npr.org/nx-s1-5869813\nComments URL: https://news.ycombinator.com/item?id=48994103\nPoints: 26\n# Comments: 23",
-      "url": "https://text.npr.org/nx-s1-5869813"
-    },
-    {
-      "category": "Space",
-      "title": " The 'Avengers Doomsday' trailer is cool, but it's missing something... where's all the space stuff? ",
-      "source": " Latest from Space.com ",
-      "date": "Tue, 21 Jul 2026 16:00:00 +0000",
-      "summary": "Out of space.",
-      "url": "https://www.space.com/entertainment/space-movies-shows/the-avengers-doomsday-trailer-is-cool-but-its-missing-something-wheres-all-the-space-stuff-at"
-    },
-    {
-      "category": "Space",
-      "title": " Scientists may have found the 1st twin star system where both stars exploded ",
-      "source": " Latest from Space.com ",
-      "date": "Tue, 21 Jul 2026 15:01:00 +0000",
-      "summary": "Imagine if Star Wars' Tatooine twin suns went supernova. Scientists may have just found that in our universe.",
-      "url": "https://www.space.com/astronomy/stars/scientists-may-have-found-the-1st-twin-star-system-where-both-stars-exploded"
-    },
-    {
-      "category": "AI",
-      "title": "When your vehicle outlives its cloud: What happens next?",
-      "source": "Ars Technica - All content",
-      "date": "Tue, 21 Jul 2026 13:36:17 +0000",
-      "summary": "Automakers love connected vehicles, but support isn't open-ended.",
-      "url": "https://arstechnica.com/cars/2026/07/when-your-vehicle-outlives-its-cloud-what-happens-next/"
-    },
-    {
-      "category": "AI",
-      "title": "Apps targeted at US troops contain Chinese and Russian code",
-      "source": "Ars Technica - All content",
-      "date": "Tue, 21 Jul 2026 13:19:38 +0000",
-      "summary": "More than one-eighth of apps analyzed contained foreign code.",
-      "url": "https://arstechnica.com/security/2026/07/apps-targeted-at-us-troops-contain-chinese-and-russian-code/"
-    },
-    {
-      "category": "AI",
-      "title": "2027 Kia Seltos first drive gives you plenty of SUV for not much $",
-      "source": "Ars Technica - All content",
-      "date": "Tue, 21 Jul 2026 13:00:08 +0000",
-      "summary": "It starts at just under $25,000, but the hybrid won't arrive until next year.",
-      "url": "https://arstechnica.com/cars/2026/07/2027-kia-seltos-first-drive-telluride-vibes-in-a-smaller-package/"
     },
     {
       "category": "Science",
@@ -163,12 +179,12 @@
       "url": "https://www.sciencedaily.com/releases/2026/07/260721000828.htm"
     },
     {
-      "category": "Science",
-      "title": " Science word of the day: Cryptology ",
-      "source": " Latest from Live Science ",
-      "date": "Tue, 21 Jul 2026 08:00:00 +0000",
-      "summary": "Pronunciation: Krip-TAH'-leh-jee",
-      "url": "https://www.livescience.com/physics-mathematics/mathematics/science-word-of-the-day-cryptology"
+      "category": "AI",
+      "title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
+      "source": "OpenAI News",
+      "date": "Tue, 21 Jul 2026 07:00:00 GMT",
+      "summary": "OpenAI and Hugging Face share early findings from a security incident during AI model evaluation, highlighting advanced cyber capabilities and lessons for defenders.",
+      "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident"
     },
     {
       "category": "Science",
@@ -195,6 +211,14 @@
       "url": "https://www.thegospelcoalition.org/article/did-paul-endorse-stoicism/"
     },
     {
+      "category": "AI",
+      "title": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
+      "source": "OpenAI News",
+      "date": "Tue, 21 Jul 2026 00:00:00 GMT",
+      "summary": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC, bringing global leadership in finance, technology, and governance.",
+      "url": "https://openai.com/index/david-velez-robin-vince-join-openai-boards"
+    },
+    {
       "category": "History",
       "title": "The Lost Founder: James Wilson and the Forgotten Fight for a People’s Constitution",
       "source": "Journal of the American Revolution",
@@ -219,22 +243,6 @@
       "url": "https://www.biblicalarchaeology.org/daily/biblical-topics/post-biblical-period/the-secrets-of-huqoq/"
     },
     {
-      "category": "AI",
-      "title": "Safety and alignment in an era of long-horizon models",
-      "source": "OpenAI News",
-      "date": "Mon, 20 Jul 2026 10:00:00 GMT",
-      "summary": "OpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative deployment.",
-      "url": "https://openai.com/index/safety-alignment-long-horizon-models"
-    },
-    {
-      "category": "AI",
-      "title": "A scorecard for the AI age",
-      "source": "OpenAI News",
-      "date": "Fri, 17 Jul 2026 10:00:00 GMT",
-      "summary": "Sarah Friar, CFO of OpenAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute.",
-      "url": "https://openai.com/index/a-scorecard-for-the-ai-age"
-    },
-    {
       "category": "History",
       "title": "“To sport with Long’s carcass”: An Instance of Terror, Revenge, and Retribution",
       "source": "Journal of the American Revolution",
@@ -257,14 +265,6 @@
       "date": "Mon, 13 Jul 2026 19:26:55 +0000",
       "summary": "Next time you get criticized, even in an ungodly manner, ask yourself if the substance of the criticism is true or if there is something you need to learn from it.\nThe post Handling Ungodly Criticism appeared first on 9Marks.",
       "url": "https://www.9marks.org/article/handling-ungodly-criticism/?utm_source=rss&utm_medium=rss&utm_campaign=handling-ungodly-criticism"
-    },
-    {
-      "category": "Theology",
-      "title": "How Should Christians Think about the Law of Moses?",
-      "source": "9Marks",
-      "date": "Thu, 09 Jul 2026 19:15:27 +0000",
-      "summary": "Jesus fulfilled the law, and at the same time, he ushered in something completely new in the New Covenant.\nThe post How Should Christians Think about the Law of Moses? appeared first on 9Marks.",
-      "url": "https://www.9marks.org/review/how-should-christians-think-about-the-law-of-moses/?utm_source=rss&utm_medium=rss&utm_campaign=how-should-christians-think-about-the-law-of-moses"
     },
     {
       "category": "History",
