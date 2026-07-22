@@ -1,54 +1,142 @@
 {
-  "lastUpdated": "2026-07-21T22:47:16.187Z",
-  "articleCount": 36,
+  "lastUpdated": "2026-07-22T11:43:12.671Z",
+  "articleCount": 39,
   "articles": [
     {
       "category": "Science",
-      "title": "A native California wildflower isn't keeping up with climate change",
+      "title": "Why a tiny social media post has mathematicians rethinking AI",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Tue, 21 Jul 2026 18:40:03 EDT",
-      "summary": "The mountain jewelflower inhabits a wide swath of California and Oregon, from summer-scorched foothills to high mountains where snow falls during winter. But it is already suffering from climate change, with plants in the mountains struggling to survive both summers and winters, according to a study from the University of California, Davis.",
-      "url": "https://phys.org/news/2026-07-native-california-wildflower-isnt-climate.html"
+      "date": "Wed, 22 Jul 2026 07:40:03 EDT",
+      "summary": "As millions of people were coming down from the excitement of the FIFA World Cup final at the start of this week, a different kind of excitement was building within the mathematical community. Levent Alpöge, a mathematician who works at the artificial intelligence (AI) company Anthropic, casually announced on X ('hello there the jacobian conjecture is false thanx') that he had found a counterexample to the Jacobian conjecture, a very old and well-known problem in a field of mathematics called algebraic geometry. He had done this using Anthropic's large language model Claude Fable 5, released to the general public only a few weeks ago.",
+      "url": "https://phys.org/news/2026-07-tiny-social-media-mathematicians-rethinking.html"
     },
     {
       "category": "Science",
-      "title": "Simulations show distinct ground motion signatures of supershear earthquakes",
+      "title": "Scientists turn radio telescopes into space scanners—sharpening view of hidden orbital threats",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Tue, 21 Jul 2026 18:40:01 EDT",
-      "summary": "Sustained supershear earthquake ruptures produce distinct ground-motion characteristics compared with subshear earthquakes, according to a study published in the Bulletin of the Seismological Society of America, with potential implications for current building codes and ground-motion models.",
-      "url": "https://phys.org/news/2026-07-simulations-distinct-ground-motion-signatures.html"
+      "date": "Wed, 22 Jul 2026 07:20:01 EDT",
+      "summary": "Scientists have successfully demonstrated a breakthrough in how sensitive radio telescopes can be used to significantly improve the world's ability to detect, track and characterize satellites and space debris in orbit.",
+      "url": "https://phys.org/news/2026-07-scientists-radio-telescopes-space-scanners.html"
     },
     {
       "category": "Science",
-      "title": "New technique enables LIGO to peer farther into the distant universe",
+      "title": "New review highlights gaps in care for First Nations children in Canada",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Tue, 21 Jul 2026 18:30:07 EDT",
-      "summary": "Scientists at the University of California, Riverside, have developed a new way to help gravitational-wave observatories see farther into the universe by solving one of their biggest challenges: tiny heat-induced distortions in the massive mirrors at the heart of the detectors.",
-      "url": "https://phys.org/news/2026-07-technique-enables-ligo-peer-distant.html"
+      "date": "Wed, 22 Jul 2026 07:00:09 EDT",
+      "summary": "A new study finds that First Nations children still face long-standing inequalities in health care access in Canada despite improvements made through the application of Jordan's Principle—a policy designed to ensure First Nations children receive the services they need. The work is published in the Journal of Indigenous Social Development.",
+      "url": "https://phys.org/news/2026-07-highlights-gaps-nations-children-canada.html"
+    },
+    {
+      "category": "Biblical Studies",
+      "title": "Gaza’s Catastrophic Loss",
+      "source": "Biblical Archaeology Society",
+      "date": "Wed, 22 Jul 2026 10:45:01 +0000",
+      "summary": "Across an area only about half the size of Manhattan, the Gaza Strip features hundreds of archaeological and heritage sites, ranging in date from prehistoric […]\nThe post Gaza’s Catastrophic Loss appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/daily/archaeology-today/cultural-heritage/gazas-catastrophic-loss/"
+    },
+    {
+      "category": "Science",
+      "title": " Diagnostic dilemma: 6-year-old develops life-threatening allergic reaction after blood transfusion ",
+      "source": " Latest from Live Science ",
+      "date": "Wed, 22 Jul 2026 10:00:00 +0000",
+      "summary": "A 6-year-old cancer patient was receiving a blood transfusion when he developed a potentially deadly allergic reaction.",
+      "url": "https://www.livescience.com/health/diagnostic-dilemma-6-year-old-develops-life-threatening-allergic-reaction-after-blood-transfusion"
+    },
+    {
+      "category": "Space",
+      "title": " Metal spheres found in Australia show how little we still know about falling space debris, experts say ",
+      "source": " Latest from Space.com ",
+      "date": "Wed, 22 Jul 2026 10:00:00 +0000",
+      "summary": "The latest space debris incident in Australia shows just how much we still don't know about what happens to rockets and other debris when it falls from space.",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/metal-spheres-found-in-australia-show-how-little-we-still-know-about-falling-space-debris-experts-say"
+    },
+    {
+      "category": "Science",
+      "title": " 'It's a really poor quality of life': Once a 'miracle in the desert,' California's Salton Sea now spreads toxic dust on vulnerable communities ",
+      "source": " Latest from Live Science ",
+      "date": "Wed, 22 Jul 2026 09:14:58 +0000",
+      "summary": "Medical anthropologist Ann Cheney speaks to Live Science writer Sascha Pare about the heavy toll toxic dust from California's largest inland lake takes on marginalized communities.",
+      "url": "https://www.livescience.com/health/its-a-really-poor-quality-of-life-once-a-miracle-in-the-desert-californias-salton-sea-now-spreads-toxic-dust-on-vulnerable-communities"
     },
     {
       "category": "AI",
-      "title": "Show HN: Computable – Buy, sell, and redeem GPU for the exact weeks you want",
+      "title": "Codeberg: ToU extension to prohibit LLM-extrusions",
       "source": "Hacker News: Front Page",
-      "date": "Tue, 21 Jul 2026 21:48:19 +0000",
-      "summary": "Hey we are Computable. We spent years building trading infrastructure at Jump Trading and Coinbase. From that point of view, compute looks like energy markets before 2000: everything trades through private bilateral leases, there’s no visible price, and nothing can be resold. The same H100 rents at a 2x spread depending on who’s asking, and once you sign a 24-month lease, it can never change hands.\nSo we built a market for GPU nodes, sold by the calendar week. Here are three things you can do on it that you can’t do anywhere else:\n- Buy exactly the weeks you need. Three nodes for the last two weeks of October means you pay for those two weeks and walk away when the run is done. You don't have to commit to 6-24 months, and there's no flexibility premium.\n- Sell back what you don’t use. If your plans change, unused weeks turn back into cash: we keep a market quote posted on every position, so there’s always a price to hit.\n- Buy (or sell) the future. Lock January in July at a price you set, so the cost of a future run is known before another 40% H100 rate jump makes it not.\nThe first auction is live now at https://market.getcomputable.com: a block of nodes, August through the end of January. Bidding closes July 31. The bids are sealed. You bid how many nodes, which weeks, and your price. Every clearing price gets published after settlement, because nobody knows what a GPU week is worth and we want the prints to exist in public.\nHappy to go deep in the comments on anything, including the clearing mechanism, which is a packing problem and was fun to design!\nComments URL: https://news.ycombinator.com/item?id=48998828\nPoints: 5\n# Comments: 2",
-      "url": "https://www.getcomputable.com/"
+      "date": "Wed, 22 Jul 2026 08:27:12 +0000",
+      "summary": "Article URL: https://codeberg.org/Codeberg/org/pulls/1253\nComments URL: https://news.ycombinator.com/item?id=49003465\nPoints: 34\n# Comments: 31",
+      "url": "https://codeberg.org/Codeberg/org/pulls/1253"
+    },
+    {
+      "category": "Science",
+      "title": " Science word of the day: Abiogenesis ",
+      "source": " Latest from Live Science ",
+      "date": "Wed, 22 Jul 2026 08:00:00 +0000",
+      "summary": "Pronunciation: Ay-bye-oh-JEN'-ih-sis",
+      "url": "https://www.livescience.com/planet-earth/evolution/science-word-of-the-day-abiogenesis"
     },
     {
       "category": "AI",
-      "title": "\"Drawing\" the Mona Lisa with GPT-5.6, Claude, Gemini, and Grok",
+      "title": "I graded 36 popular MCP servers on agent usability. A third got a D or F",
       "source": "Hacker News: Front Page",
-      "date": "Tue, 21 Jul 2026 21:13:20 +0000",
-      "summary": "Article URL: https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok\nComments URL: https://news.ycombinator.com/item?id=48998404\nPoints: 23\n# Comments: 7",
-      "url": "https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok"
+      "date": "Wed, 22 Jul 2026 05:51:50 +0000",
+      "summary": "Article URL: https://tengli.dev/posts/mcp-servers-failing-agents.html\nComments URL: https://news.ycombinator.com/item?id=49002358\nPoints: 19\n# Comments: 3",
+      "url": "https://tengli.dev/posts/mcp-servers-failing-agents.html"
     },
     {
       "category": "AI",
-      "title": "A digestion of the Jacobian conjecture counterexample",
+      "title": "Show HN: A new kind of FPS aim trainer",
       "source": "Hacker News: Front Page",
-      "date": "Tue, 21 Jul 2026 21:09:25 +0000",
-      "summary": "Article URL: https://terrytao.wordpress.com/2026/07/21/a-digestion-of-the-jacobian-conjecture-counterexample/\nComments URL: https://news.ycombinator.com/item?id=48998362\nPoints: 55\n# Comments: 11",
-      "url": "https://terrytao.wordpress.com/2026/07/21/a-digestion-of-the-jacobian-conjecture-counterexample/"
+      "date": "Wed, 22 Jul 2026 05:39:31 +0000",
+      "summary": "I played a lot of Valorant and got mad, so I made an aim trainer that analyzes your raw crosshair movement to explore your raw motor and perceptual weaknesses instead of scoring scenarios.\nIt also chooses sens and difficulty as part of the tasks, and makes playlists that are optimal difficulty for you to learn and progress faster!\nComments URL: https://news.ycombinator.com/item?id=49002276\nPoints: 56\n# Comments: 30",
+      "url": "https://openaim.pramit.gg/"
+    },
+    {
+      "category": "Theology",
+      "title": "I’ll Miss the World Cup",
+      "source": "The Gospel Coalition",
+      "date": "Wed, 22 Jul 2026 04:02:00 +0000",
+      "summary": "The World Cup gave our summer—starved of genuine global friendship and honorable competition—a slice of common grace.",
+      "url": "https://www.thegospelcoalition.org/article/miss-world-cup/"
+    },
+    {
+      "category": "Space",
+      "title": "A Week of Smoky Skies Across North America",
+      "source": "NASA",
+      "date": "Wed, 22 Jul 2026 04:00:00 +0000",
+      "summary": "Brown carbon, emitted by wildland fires and tracked over the span of a week in July 2026, worsened air quality in parts of the U.S. and Canada.",
+      "url": "https://science.nasa.gov/earth/earth-observatory/a-week-of-smoky-skies-across-north-america/"
+    },
+    {
+      "category": "Theology",
+      "title": "Where Doomers Can Find Hope",
+      "source": "The Gospel Coalition",
+      "date": "Wed, 22 Jul 2026 04:00:00 +0000",
+      "summary": "Our hope as Christians isn’t that catastrophes won’t happen. It’s that our God is powerful enough and good enough to overturn them in the resurrection.",
+      "url": "https://www.thegospelcoalition.org/article/doomers-find-hope/"
+    },
+    {
+      "category": "Space",
+      "title": "NISAR’s L-Band Radar Reveals ‘Hummingbird’ in Antarctica",
+      "source": "NASA",
+      "date": "Wed, 22 Jul 2026 00:33:08 +0000",
+      "summary": "Description Data from the Earth-orbiting U.S.-India NISAR (NASA-ISRO Synthetic Aperture Radar) satellite’s L-band radar was used to produce an image of Nunatak Zaterjavshijsja — a mountaintop in East Antarctica — poking out amid a stream of ice flowing northeast to the ocean. The obstruction causes stresses in the ice, heavily fracturing the surrounding surfaces with […]",
+      "url": "https://science.nasa.gov/photojournal/nisars-l-band-radar-reveals-hummingbird-in-antarctica/"
+    },
+    {
+      "category": "AI",
+      "title": "Range Rover answers the question: \"What if we built a not-SUV?\"",
+      "source": "Ars Technica - All content",
+      "date": "Tue, 21 Jul 2026 23:01:23 +0000",
+      "summary": "The Range Rover GT will debut as an EV with a hybrid version to follow.",
+      "url": "https://arstechnica.com/cars/2026/07/heres-range-rovers-first-not-suv-the-range-rover-gt/"
+    },
+    {
+      "category": "AI",
+      "title": "On the run for 20 years, most-wanted fugitive caught hiding as a biotech exec",
+      "source": "Ars Technica - All content",
+      "date": "Tue, 21 Jul 2026 22:04:56 +0000",
+      "summary": "Ronald Fischer, aka Richard Graydon, was arrested in New York last week.",
+      "url": "https://arstechnica.com/health/2026/07/on-the-run-for-20-years-most-wanted-fugitive-caught-hiding-as-a-biotech-exec/"
     },
     {
       "category": "Space",
@@ -67,6 +155,22 @@
       "url": "https://www.space.com/space-exploration/search-for-life/alien-life-likely-cant-survive-on-exoplanets-smaller-than-mars-scientists-say"
     },
     {
+      "category": "Space",
+      "title": "NASA to Host Media Briefing on Roman Telescope, Launching Next Month",
+      "source": "NASA",
+      "date": "Tue, 21 Jul 2026 20:07:59 +0000",
+      "summary": "Media are invited to join NASA for a virtual news conference at 2 p.m. EDT, Wednesday, July 29, to preview the Nancy Grace Roman Space Telescope mission, scheduled to launch from the agency’s Kennedy Space Center in Florida on Sunday, Aug. 30. NASA will stream this event live through a variety of platforms. Learn where […]",
+      "url": "https://www.nasa.gov/news-release/nasa-to-host-media-briefing-on-roman-telescope-launching-next-month/"
+    },
+    {
+      "category": "AI",
+      "title": "Sony releases one last trailer for Spider-Man: Brand New Day",
+      "source": "Ars Technica - All content",
+      "date": "Tue, 21 Jul 2026 19:50:10 +0000",
+      "summary": "\"Maybe that's my responsibility, to live alone with the truth.\"",
+      "url": "https://arstechnica.com/culture/2026/07/sony-releases-one-last-trailer-for-spider-man-brand-new-day/"
+    },
+    {
       "category": "Theology",
       "title": "The Biblical Pattern of Terrible Fathers",
       "source": "9Marks",
@@ -76,59 +180,11 @@
     },
     {
       "category": "AI",
-      "title": "Nintendo customers have no legal right to tariff refunds, company tells judge",
-      "source": "Ars Technica - All content",
-      "date": "Tue, 21 Jul 2026 19:09:19 +0000",
-      "summary": "Nintendo says Switch buyers got what they paid for, urges court to dismiss lawsuit.",
-      "url": "https://arstechnica.com/tech-policy/2026/07/nintendo-customers-have-no-legal-right-to-tariff-refunds-company-tells-judge/"
-    },
-    {
-      "category": "Space",
-      "title": " Space Force orders 36 more Golden Dome missile-tracking satellites, for $1.75 billion ",
-      "source": " Latest from Space.com ",
-      "date": "Tue, 21 Jul 2026 19:00:00 +0000",
-      "summary": "The Space Development Agency announced partnerships with two companies worth up to $1.75 billion total, to develop 36 satellites for the Trump administration’s Golden Dome missile-defense initiative.",
-      "url": "https://www.space.com/space-exploration/satellites/space-force-orders-36-more-golden-dome-missile-tracking-satellites-for-usd1-75-billion"
-    },
-    {
-      "category": "AI",
-      "title": "Let Tom Hiddleston be your guide to Pompeii's final day",
-      "source": "Ars Technica - All content",
-      "date": "Tue, 21 Jul 2026 18:17:55 +0000",
-      "summary": "NatGeo's Pompeii: Out of Time fuses historical fact and imagination to bring city's last 24 hours to life.",
-      "url": "https://arstechnica.com/science/2026/07/tom-hiddleston-tracks-possible-pompeii-survivors-in-new-docuseries/"
-    },
-    {
-      "category": "Science",
-      "title": " Greenland meltwater will drive a 'strong weakening, but not a shutdown' of key Atlantic currents, study finds ",
-      "source": " Latest from Live Science ",
-      "date": "Tue, 21 Jul 2026 18:10:03 +0000",
-      "summary": "New modeling suggests meltwater from the Greenland ice sheet has a big weakening influence on the Atlantic Meridional Overturning Circulation, but the runoff likely won't cause a complete and irreversible collapse.",
-      "url": "https://www.livescience.com/planet-earth/rivers-oceans/greenland-meltwater-will-drive-a-strong-weakening-but-not-a-shutdown-of-key-atlantic-currents-study-finds"
-    },
-    {
-      "category": "AI",
-      "title": "Naked mole-rat queens use a chemical signal to suppress fertility in rivals",
-      "source": "Ars Technica - All content",
-      "date": "Tue, 21 Jul 2026 17:51:52 +0000",
-      "summary": "A single chemical made by mole-rat queens enforces the social order.",
-      "url": "https://arstechnica.com/science/2026/07/naked-mole-rat-queens-keep-their-colonies-in-line-with-a-scent/"
-    },
-    {
-      "category": "AI",
       "title": "Introducing the ChatGPT for small business program",
       "source": "OpenAI News",
       "date": "Tue, 21 Jul 2026 17:00:00 GMT",
       "summary": "OpenAI launches the ChatGPT for Small Businesses program, helping entrepreneurs build AI skills, automate work, and grow with ChatGPT Work.",
       "url": "https://openai.com/index/introducing-chatgpt-small-business-program"
-    },
-    {
-      "category": "Science",
-      "title": " Neuroscience findings often can't be replicated ‪—‬ and it's a big problem for what we know about the brain ",
-      "source": " Latest from Live Science ",
-      "date": "Tue, 21 Jul 2026 12:00:00 +0000",
-      "summary": "The findings in several foundational brain imaging studies don't hold up in follow-up research.",
-      "url": "https://www.livescience.com/health/neuroscience/neuroscience-findings-often-cant-be-replicated-and-its-a-big-problem-for-what-we-know-about-the-brain"
     },
     {
       "category": "Biblical Studies",
@@ -145,14 +201,6 @@
       "date": "Tue, 21 Jul 2026 11:00:14 +0000",
       "summary": "The city of Sidon on the coast of modern Lebanon is mentioned 38 times in the Hebrew Bible. Recent excavations have exposed part of the ancient Canaanite—and later Phoenician—city, including a massive temple and depictions of deities worshiped at Sidon.\nThe post Biblical Sidon—Jezebel’s Hometown appeared first on Biblical Archaeology Society.",
       "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-near-eastern-world/biblical-sidon-jezebel-hometown/"
-    },
-    {
-      "category": "Science",
-      "title": " Startup's 'oscillator-based' AI technology could be 1,000 times more energy efficient than conventional computing ",
-      "source": " Latest from Live Science ",
-      "date": "Tue, 21 Jul 2026 11:00:00 +0000",
-      "summary": "Engineers say an AI image generator built on a new type of physical computing could use far less power than existing stable diffusion-based methods.",
-      "url": "https://www.livescience.com/technology/artificial-intelligence/startups-oscillator-based-ai-technology-could-be-1-000-times-more-energy-efficient-than-conventional-computing"
     },
     {
       "category": "Science",
@@ -203,14 +251,6 @@
       "url": "https://www.thegospelcoalition.org/reviews/dust-to-dust-aging/"
     },
     {
-      "category": "Theology",
-      "title": "Did Paul Endorse Stoicism?",
-      "source": "The Gospel Coalition",
-      "date": "Tue, 21 Jul 2026 04:00:00 +0000",
-      "summary": "Stoicism has emotional and practical appeal precisely because it comes close to a biblical truth. But like all human philosophies, it crumbles in the face of death.",
-      "url": "https://www.thegospelcoalition.org/article/did-paul-endorse-stoicism/"
-    },
-    {
       "category": "AI",
       "title": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
       "source": "OpenAI News",
@@ -225,22 +265,6 @@
       "date": "Mon, 20 Jul 2026 14:30:42 +0000",
       "summary": "BOOK REVIEW: The Lost Founder: James Wilson and the Forgotten Fight for a People’s Constitution by Jesse Wegman (New York: Celadon Books, 2026) $30.00 hardcover  The Broadway play 1776 depicts James Wilson, a Pennsylvania delegate to the Continental Congress, as a cowardly, spineless understudy of John Dickinson, who opposed the Declaration of Independence. This portrayal […]\nThe post The Lost Founder: James Wilson and the Forgotten Fight for a People’s Constitution appeared first on Journal of the American Revolution.",
       "url": "https://allthingsliberty.com/2026/07/the-lost-founder-james-wilson-and-the-forgotten-fight-for-a-peoples-constitution/"
-    },
-    {
-      "category": "Theology",
-      "title": "Missing Gods and ‘Apparent Magic’ in Nolan’s ‘Odyssey’",
-      "source": "The Gospel Coalition",
-      "date": "Mon, 20 Jul 2026 12:50:37 +0000",
-      "summary": "In ‘The Odyssey,’ Christopher Nolan suggests the ‘apparent magic’ of Greek mythology is psychological, not supernatural.",
-      "url": "https://www.thegospelcoalition.org/article/odyssey-apparent-magic-nolan/"
-    },
-    {
-      "category": "Biblical Studies",
-      "title": "The Secrets of Huqoq",
-      "source": "Biblical Archaeology Society",
-      "date": "Mon, 20 Jul 2026 10:45:36 +0000",
-      "summary": "The ancient Galilean village of Huqoq has emerged as one of the region’s most remarkable archaeological sites, offering an extraordinary window into Jewish life during […]\nThe post The Secrets of Huqoq appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/daily/biblical-topics/post-biblical-period/the-secrets-of-huqoq/"
     },
     {
       "category": "History",
