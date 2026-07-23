@@ -1,70 +1,134 @@
 {
-  "lastUpdated": "2026-07-23T17:11:41.447Z",
-  "articleCount": 36,
+  "lastUpdated": "2026-07-23T22:49:00.399Z",
+  "articleCount": 39,
   "articles": [
     {
       "category": "Science",
-      "title": "Researchers examine social media's impact on narcissistic traits",
+      "title": "Materials surrounding a fusion reaction can dramatically increase how often it occurs",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Thu, 23 Jul 2026 13:00:05 EDT",
-      "summary": "Researchers at the University of Huddersfield have developed a new theoretical framework exploring whether social media recommendation systems may contribute to the amplification of narcissistic traits over time.",
-      "url": "https://phys.org/news/2026-07-social-media-impact-narcissistic-traits.html"
+      "date": "Thu, 23 Jul 2026 18:40:06 EDT",
+      "summary": "Fusion at high temperatures powers the sun and, if harnessed, could provide a potential source of energy here on Earth. But controlling fusion reactions has other benefits. The process also generates subatomic particles called neutrons that are used in a range of applications spanning medicine, research and national security.",
+      "url": "https://phys.org/news/2026-07-materials-fusion-reaction.html"
     },
     {
       "category": "Science",
-      "title": "Heat is coming for Hawaiian corals, but study finds there may be time to adapt",
+      "title": "80‑million‑year‑old snake fossil sheds light on why lizards lost their limbs and started slithering",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Thu, 23 Jul 2026 13:00:01 EDT",
-      "summary": "Since the first major bleaching event in 1996, Hawaiian corals have been subject to increasing heat stress and more frequent bleaching events. New research from oceanographers at the University of Hawai'i at Mānoa used high-resolution modeling that includes small-scale processes to examine projected heat stress on coral reefs over the 21st century.",
-      "url": "https://phys.org/news/2026-07-hawaiian-corals.html"
-    },
-    {
-      "category": "AI",
-      "title": "Launch HN: Screenpipe (YC S26) – Power your agents by your 24/7 screen recording",
-      "source": "Hacker News: Front Page",
-      "date": "Thu, 23 Jul 2026 16:48:38 +0000",
-      "summary": "Hi Hacker News, I'm Louis. I built Screenpipe (https://screenpipe.com). Screenpipe is an app that records your screen and audio locally (only!), and gives AI agents a searchable memory of what you've seen, said, and heard. This makes it easier to automate your repetitive tasks, turn them into SOPs (Standard Operating Procedure) and so on.\nI made a HN-style demo video at https://www.tella.tv/video/build-your-ai-second-brain-with-s... and there’s a marketing video at https://www.youtube.com/watch?v=c1jV6E9pyug.\nI’ve been obsessed with this for a long time. I’ve been maintaining a “second brain” since 2020, in which I would store journals, handwritten notes, music I listen to, projects I'm working on, conversations I have with people, personal CRM etc. I experimented a lot of RAG in the early days with ParlAI, hundreds of fine-tuned GPT2 models, and GPT3 (https://forum.obsidian.md/t/fine-tuning-openai-api-gpt3-on-y...). Later I built Ava, the first Obsidian AI plugin, which grew to a few thousands of users quickly. It then became Embedbase, an API to make it easier to build AI apps powered by RAG.\nWhat I learned from all this is how important it is for the models to have context about what you’re doing on your computer, in order to get them to do what you want.\nIn the early days there was fine tuning but it was too much pain, then there was tool calling so that AI can access software you use but still kinda not autonomous enough. needing micro management. Then MCP came, but it felt too static, and non technical users struggled to build and use MCP. Then we got skills. Most recently we’ve seen Karpethy’s LLM-maintained wiki, Garry's GBrain, etc., where an agent incrementally maintains a persistent collection of Markdown pages. New sources update entity pages, strengthen or contradict existing claims, and improve a synthesis that compounds over time. I like this pattern, but it still begins with someone selecting and importing the sources. There is still no way AI can know what you and your company are doing every day, across apps, not just inside of apps.\nOf course, not everyone wants this. But I do! I want AI to know what I'm doing and never lose memory ever again, and I want it to use the same software that humans do, without painful context switches.\nI started building Screenpipe for myself in 2024 - a CLI to record your screen and plug this context into AI. An HN user posted it in 2024 (https://news.ycombinator.com/item?id=41695840) and that discussion influenced the product. The most useful criticism concerned recording consent, local security, CPU usage, signal-to-noise, and whether agents could act on top of the data.\nThe naive implementation started from continuously recording video and running OCR over every frame. But that creates duplicate data, consumes substantial resources (it basically turns your computer into a space heater!), and discards structure the operating system already knows. Screenpipe now instead listens for events such as app switches, clicks, typing pauses, scrolling, and idle fallbacks. When something meaningful changes, it pairs a screenshot with the operating system’s accessibility tree at the same timestamp. OCR is used when structured accessibility data is unavailable. We also capture audio continuously, identify speakers and transcribe locally through Parakeet/Whisper or using cloud models.\nEverything is indexed in a local SQLite database, mp4 files, and sometimes md files. An AI friendly API on port 3030 is open for agents, with authentication and a MCP and skills.\nOnce Screenpipe has been up and running for a while, you can use it through our built-in chat, Claude, ChatGPT, Hermes, Openclaw, or any agent, to do things like:\n- adding context to your current chat, e.g. \"gather all context about task X\", then requiring less prompts to achieve your goal\n- retrieve information, e.g. \"retrieve the tasks i was working on from 8 am to 4 pm, make a list of what got done and what's left\"\n- create and maintain a personal wiki / second brain for your agents: \"every 1h organize everything i do in projects, people, tasks, meetings in my Obsidian vault as markdown files and folders\"\n- create automations: whenever i visit someone's profile on linkedin, update my crm\n- find automation opportunities: look at everything my team has done this week and turn it into a list of automation opportunities\nScreenpipe data is stored locally, though we also offer an enterprise plan to discover automation opportunities and for that the company decides where the data lives. We built our own AI PII model to redact sensitive information, it runs locally on Apple MLX or Windows DirectML, we also support cloud confidential inference for low end devices, although our local models are meant to use https://screenpipe.com/how-to-install) and a CLI:\n  npx screenpipe record\n\nhttps://github.com/screenpipe/screenpipe. We took the dreaded step of making our own Screenpipe Commercial License. I know HN strongly prefers OSI open source (MIT/Apache/etc.) but couldn’t find a sustainable way to keep developing Screenpipe while companies were using it commercially for free. So now personal non-commercial, nonprofit, educational, and research use is free, but commercial use requires a license.\nVersions released before the license change remain available under MIT. We have a free tier, and other plans, including Enterprise which helps companies find automation opportunities.\nWould love to hear any feedback, things you've done with screenpipe, or features you'd want\nComments URL: https://news.ycombinator.com/item?id=49024620\nPoints: 6\n# Comments: 2",
-      "url": "https://news.ycombinator.com/item?id=49024620"
+      "date": "Thu, 23 Jul 2026 18:40:02 EDT",
+      "summary": "Snakes are everywhere in our legends and mythology. Yet for most of us, our blood runs cold whenever we encounter these strangely undulating, scaly tubes of muscle slithering through the leaf litter.",
+      "url": "https://phys.org/news/2026-07-80millionyearold-snake-fossil-lizards-lost.html"
     },
     {
       "category": "Science",
-      "title": "Training microbes to prepare soils for the impacts of climate change",
+      "title": "Programmable platform enables on-demand design of plant immune receptors against crop pathogens",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Thu, 23 Jul 2026 12:40:07 EDT",
-      "summary": "Scientists at the University of Lincoln have discovered a promising new way to help protect crops from one of climate change's growing threats to global food production—increasing soil salinity.",
-      "url": "https://phys.org/news/2026-07-microbes-soils-impacts-climate.html"
+      "date": "Thu, 23 Jul 2026 18:30:04 EDT",
+      "summary": "Crop production faces threats from plant pathogens. Traditional disease-resistance breeding relies heavily on natural plant resistance genes that encode immune receptors adapted to particular pathogens. However, rapidly evolving pathogens frequently overcome these natural defenses, and the limited diversity of naturally occurring immune receptors makes it difficult to develop crops with durable resistance.",
+      "url": "https://phys.org/news/2026-07-programmable-platform-enables-demand-immune.html"
+    },
+    {
+      "category": "Science",
+      "title": " Fields Medal 2026 winners include mathematician Hong Wang — the third woman to ever win in the award's 90-year history ",
+      "source": " Latest from Live Science ",
+      "date": "Thu, 23 Jul 2026 21:19:23 +0000",
+      "summary": "Hong Wang, a mathematician at New York University, helped solve a decades-old geometry problem and is now the third woman to win math's most prestigious award.",
+      "url": "https://www.livescience.com/physics-mathematics/mathematics/fields-medal-2026-winners-include-mathematician-hong-wang-the-third-woman-to-ever-win-in-the-awards-90-year-history"
     },
     {
       "category": "AI",
-      "title": "JEP 540: Simple JSON API (Now in Incubator)",
+      "title": "Namecheap Gave My Account to an Unverified Third Party Just Because They Asked",
       "source": "Hacker News: Front Page",
-      "date": "Thu, 23 Jul 2026 16:01:02 +0000",
-      "summary": "Article URL: https://openjdk.org/jeps/540\nComments URL: https://news.ycombinator.com/item?id=49023809\nPoints: 27\n# Comments: 11",
-      "url": "https://openjdk.org/jeps/540"
+      "date": "Thu, 23 Jul 2026 21:05:29 +0000",
+      "summary": "I’ve been a NameCheap customer for 13 years. I’ve also helped out an old college club paying for a .com they use (that is registered to me under my name, address, and phone number). During a recent leadership transition, the incoming club lead wanted to make changes to the DNS and didn’t know to contact me. They figured out the domain name was parked at NameCheap, so they initiated a password reset using the domain name. I got a password reset email and immediately filed a NameCheap support ticket saying “I did not initiate this”. They called me to verify I was the one who filed the ticket, and then followed up with a canned email with tips like check your anti-virus.\nThe incoming club leader was persistent though, and called NameCheap support. He convinced them the domain registered in my name and address really belonged to his club, and with no verification or validation whatsoever, NameCheap changed my password, and changed the email address associated with my account. All because someone simply asked nicely on a phone call.\nMeanwhile in the background, someone advised the new club leader who I was and we were able to connect and get things transferred over. Ultimately I was happy to give them access or even ownership if they wanted (student club turnover being what it is, it’s likely a domain doesn’t get renewed and gets gobbled up by a squatter, which is why I was keeping it current for them).\nBut NameCheap had no way of knowing any of this. As far as NameCheap was aware, this was a personal account of mine. They demonstrated they were perfectly able to pick up a phone and call me (to verify my initial support ticket) but when someone calls them and says “but I really want access to that account” they don’t bother?\nI’d hesitate to even call this social engineering. It’s clearly a massive vulnerability. I’ve already moved a dozen of my most critical domains out of NameCheap after seeing just how easy it is for a third party to completely take over a NameCheap account: just ask nicely.\nComments URL: https://news.ycombinator.com/item?id=49028037\nPoints: 172\n# Comments: 43",
+      "url": "https://news.ycombinator.com/item?id=49028037"
     },
     {
       "category": "Space",
-      "title": " NASA's retired astronauts are hitting the road to get young people to vote: 'one small step for you, and one giant leap for our country.' ",
+      "title": " Vulcan Centaur swapped out again: NASA goes with SpaceX Falcon Heavy rocket for launch of space weather mission ",
       "source": " Latest from Space.com ",
-      "date": "Thu, 23 Jul 2026 16:00:00 +0000",
-      "summary": "\"We have to do what we can to ensure that the country makes it through the challenges that we're dealing with here, and that is the message that we're going to be taking to colleges and universities.\"",
-      "url": "https://www.space.com/space-exploration/human-spaceflight/nasas-retired-astronauts-are-hitting-the-road-to-get-young-people-to-vote-one-small-step-for-you-and-one-giant-leap-for-our-country"
+      "date": "Thu, 23 Jul 2026 21:00:00 +0000",
+      "summary": "NASA's SunRISE mission has been assigned a new launch vehicle: It will now be delivered to orbit by a SpaceX Falcon Heavy rocket rather than a United Launch Alliance Vulcan Centaur.",
+      "url": "https://www.space.com/space-exploration/missions/vulcan-centaur-swapped-out-again-nasa-goes-with-spacex-falcon-heavy-rocket-for-launch-of-space-weather-mission"
     },
     {
       "category": "AI",
-      "title": "Free way to get your data out of ChatGPT Business accounts",
+      "title": "Couple pay >$800k for a gene-editing therapy for their daughter. She died.",
       "source": "Hacker News: Front Page",
-      "date": "Thu, 23 Jul 2026 15:45:51 +0000",
-      "summary": "Article URL: https://github.com/Conradqh/scrapemychats\nComments URL: https://news.ycombinator.com/item?id=49023486\nPoints: 23\n# Comments: 3",
-      "url": "https://github.com/Conradqh/scrapemychats"
+      "date": "Thu, 23 Jul 2026 20:52:19 +0000",
+      "summary": "Article URL: https://www.science.org/content/article/exclusive-death-girl-chinese-gene-editing-trial-was-never-made-public\nComments URL: https://news.ycombinator.com/item?id=49027892\nPoints: 144\n# Comments: 57",
+      "url": "https://www.science.org/content/article/exclusive-death-girl-chinese-gene-editing-trial-was-never-made-public"
     },
     {
       "category": "AI",
-      "title": "AI arms race in line for a reckoning after OpenAI hacking incident",
+      "title": "Microsoft responds to LG monitors installing McAfee ads on Windows",
       "source": "Ars Technica - All content",
-      "date": "Thu, 23 Jul 2026 14:45:05 +0000",
-      "summary": "Aggressive training techniques sharpens threat of bad behavior by leading models.",
-      "url": "https://arstechnica.com/ai/2026/07/ai-arms-race-in-line-for-a-reckoning-after-openai-hacking-incident/"
+      "date": "Thu, 23 Jul 2026 20:47:33 +0000",
+      "summary": "App is installed through Windows Update when certain LG monitors connect to a PC.",
+      "url": "https://arstechnica.com/gadgets/2026/07/microsoft-responds-to-lg-monitors-installing-mcafee-ads-on-windows/"
+    },
+    {
+      "category": "Space",
+      "title": " 'Star Trek: Strange New Worlds' Season 4: Release date & how to watch Paramount+’s sensational sci-fi series ",
+      "source": " Latest from Space.com ",
+      "date": "Thu, 23 Jul 2026 20:45:15 +0000",
+      "summary": "'We've seen a lot of strange new worlds, but we’ll never see something like this again'",
+      "url": "https://www.space.com/entertainment/space-movies-shows/star-trek-strange-new-worlds-season-4-release-date-and-how-to-watch-paramount-s-sensational-sci-fi-series"
+    },
+    {
+      "category": "Space",
+      "title": " Scientists may have finally solved the mystery of the sun's missing silver ",
+      "source": " Latest from Space.com ",
+      "date": "Thu, 23 Jul 2026 20:00:00 +0000",
+      "summary": "Scientists say the sun has a little more silver than we thought.",
+      "url": "https://www.space.com/astronomy/sun/scientists-may-have-finally-solved-the-mystery-of-the-suns-missing-silver"
+    },
+    {
+      "category": "AI",
+      "title": "Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models",
+      "source": "Hacker News: Front Page",
+      "date": "Thu, 23 Jul 2026 19:26:01 +0000",
+      "summary": "I’ve been building Echo (https://echo.tracerml.ai/), an experiment in making one AI system out of a pool of open-weight models rather than choosing a single model and using it for every task.\nIt started with a simple experiment. I took a group of models, including GLM-5.2, Kimi K2.7 and others, and ran them on the same evaluations. Then I measured what would happen if, for each problem, you somehow knew in advance which models would be useful and how their outputs should be combined.\nThat hypothetical system performed substantially better than any individual model in the pool. Of course, it is not something you can actually deploy because it relies on knowing which decisions were good after seeing the result. Echo is my attempt to recover some of that advantage without having that information in advance.\nFor each request, Echo decides how much computation to allocate, which models should participate, and how their work should be combined. Some prompts may only need a relatively small amount of inference, while others benefit from multiple models working on different parts of the problem.\nOne thing that surprised me while building it was how complementary the models are. A model that is clearly weaker overall can still be extremely useful on particular problems or as part of a combination.\nOn my first evaluation mix, Echo consistently performed better than the best individual model in its pool. It also reached roughly the same aggregate result as Fable, which I used as one of the stronger comparison systems, at around one third of the inference cost.\nThere are still some cases where Echo makes the wrong allocation or combination decision. I’m currently spending a lot of time understanding those failures, as well as testing whether the same approach holds up on coding and agentic tasks where measuring the quality of each decision becomes much harder.\nI built a chat interface (echo.tracerml.ai) and an OpenAI-compatible API (https://echo.tracerml.ai/docs/api) so the system can be tested outside the evaluation setup.\nHere is a short/high level video on how it works: https://www.youtube.com/watch?v=lJFJSvOdXhg\nI wrote up the evaluation methodology, individual model results, costs and current limitations here: https://echo.tracerml.ai/eval\nI would love for you to try it! Especially if you hit any weird failure cases or places where the allocation looks unintuitive.\nComments URL: https://news.ycombinator.com/item?id=49026810\nPoints: 155\n# Comments: 70",
+      "url": "https://news.ycombinator.com/item?id=49026810"
+    },
+    {
+      "category": "AI",
+      "title": "FDA reports new outbreak of explosive diarrhea with 72 cases identified",
+      "source": "Ars Technica - All content",
+      "date": "Thu, 23 Jul 2026 19:22:36 +0000",
+      "summary": "The FDA hasn't said where the cases are or how they're linked.",
+      "url": "https://arstechnica.com/health/2026/07/fda-reports-new-outbreak-of-explosive-diarrhea-with-72-cases-identified/"
+    },
+    {
+      "category": "AI",
+      "title": "Forgot your Google password? Now you can log in with a selfie.",
+      "source": "Ars Technica - All content",
+      "date": "Thu, 23 Jul 2026 19:14:25 +0000",
+      "summary": "Google's selfie videos can be used for account access, AI Avatars, and age verification.",
+      "url": "https://arstechnica.com/gadgets/2026/07/google-now-lets-you-log-into-your-account-with-a-selfie/"
+    },
+    {
+      "category": "Space",
+      "title": "Look for NASA+ Now Streaming on Amazon Fire TV",
+      "source": "NASA",
+      "date": "Thu, 23 Jul 2026 19:11:29 +0000",
+      "summary": "Continuing agency efforts to bring space closer to home, NASA+ is heading to more streaming platforms. On Thursday, NASA announced its programming is on Fire TV Channels. Fire TV customers can easily access this content by asking Alexa+ on compatible devices. Future programming on Fire TV may include science mission launches, a test flight for […]",
+      "url": "https://www.nasa.gov/news-release/look-for-nasa-now-streaming-on-amazon-fire-tv/"
+    },
+    {
+      "category": "Space",
+      "title": "Crews Move Artemis IV Liquid Hydrogen Tank",
+      "source": "NASA",
+      "date": "Thu, 23 Jul 2026 15:20:19 +0000",
+      "summary": "Crews at NASA’s Michoud Assembly Facility in New Orleans transport the 130-foot-tall Artemis IV liquid hydrogen tank out of a production cell inside the main factory building into a detached test building on a separate portion of the 829-acre site on May 15, 2026. The liquid hydrogen tank will form part of the core stage for […]",
+      "url": "https://www.nasa.gov/image-article/crews-move-artemis-iv-liquid-hydrogen-tank/"
+    },
+    {
+      "category": "Space",
+      "title": "NASA’s MAVEN Illuminates New Understanding of Auroras at Mars",
+      "source": "NASA",
+      "date": "Thu, 23 Jul 2026 15:19:33 +0000",
+      "summary": "NASA MAVEN (Mars Atmosphere and Volatile Evolution) mission scientists have uncovered a key puzzle piece in understanding certain types of auroras on Mars, finding that they form in a similar way to Earth-based auroras. Results published Thursday in Nature Communications show the same mechanism that circulates and catapults charged particles into Earth’s atmosphere is happening at […]",
+      "url": "https://science.nasa.gov/missions/maven/nasas-maven-illuminates-new-understanding-of-auroras-at-mars/"
     },
     {
       "category": "Science",
@@ -73,14 +137,6 @@
       "date": "Thu, 23 Jul 2026 14:39:10 +0000",
       "summary": "As U.S. federal research budgets continue to be slashed, a team of marmot researchers have turned to unconventional sources of funding.",
       "url": "https://www.livescience.com/animals/land-mammals/were-trying-this-out-of-frustration-marmots-star-in-onlyfans-account-as-researchers-desperately-look-for-ways-to-raise-funds-amid-us-budget-cuts"
-    },
-    {
-      "category": "Space",
-      "title": " Satellite spots a 'hummingbird' in Antarctica | Space photo of the day for July 23, 2026 ",
-      "source": " Latest from Space.com ",
-      "date": "Thu, 23 Jul 2026 14:00:00 +0000",
-      "summary": "A hummingbird shape in satellite data from NISAR is actually a mountaintop spotted in Antarctica.",
-      "url": "https://www.space.com/astronomy/earth/radar-satellite-spots-a-hummingbird-in-antarctica-space-photo-of-the-day-for-july-23-2026"
     },
     {
       "category": "Science",
@@ -97,38 +153,6 @@
       "date": "Thu, 23 Jul 2026 13:45:47 +0000",
       "summary": "Archaeologists found a Roman military camp in Slovakia with unusual burials of soldiers who likely fought in Marcus Aurelius' Marcomannic Wars.",
       "url": "https://www.livescience.com/archaeology/romans/extremely-rare-roman-military-camp-found-in-slovakia-holds-hastily-buried-remains-of-marcus-aurelius-soldiers-with-some-dumped-in-wells"
-    },
-    {
-      "category": "Space",
-      "title": " 'Star Trek: Strange New Worlds'' season 4 opener is a pulpy sci-fi joy packed with dinosaurs, martians, and a 5th planet where the asteroid belt should be ",
-      "source": " Latest from Space.com ",
-      "date": "Thu, 23 Jul 2026 13:00:00 +0000",
-      "summary": "Dinosaurs, Martians, and the fate of the human race? This could be more than your standard day at the office for the Enterprise crew.",
-      "url": "https://www.space.com/entertainment/space-movies-shows/star-trek-strange-new-worlds-season-4-opener-is-a-pulpy-sci-fi-joy-built-on-some-fun-scientific-what-ifs"
-    },
-    {
-      "category": "AI",
-      "title": "White House report says Trump can usher in a \"new golden age\" of science",
-      "source": "Ars Technica - All content",
-      "date": "Thu, 23 Jul 2026 11:23:21 +0000",
-      "summary": "The resulting report is a near-random mixture of grievances and real problems.",
-      "url": "https://arstechnica.com/science/2026/07/white-house-report-says-trump-can-usher-in-a-new-golden-age-of-science/"
-    },
-    {
-      "category": "AI",
-      "title": "I wanted a clock that never needed setting. Things escalated.",
-      "source": "Ars Technica - All content",
-      "date": "Thu, 23 Jul 2026 11:00:50 +0000",
-      "summary": "Sure, maybe your clock has a backup battery, but mine has a deployment pipeline!",
-      "url": "https://arstechnica.com/gadgets/2026/07/i-wanted-a-clock-that-never-needed-setting-things-escalated/"
-    },
-    {
-      "category": "Science",
-      "title": " 'They didn't question it': Why doctors prescribe too many antibiotics ",
-      "source": " Latest from Live Science ",
-      "date": "Thu, 23 Jul 2026 09:00:00 +0000",
-      "summary": "Pediatricians in both the U.S. and Japan tend to prescribe antibiotics too often, although the doctors are now improving their track record. What's behind this tendency?",
-      "url": "https://www.livescience.com/health/medicine-drugs/they-didnt-question-it-why-doctors-prescribe-too-many-antibiotics"
     },
     {
       "category": "Theology",
