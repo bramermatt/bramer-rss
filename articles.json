@@ -1,62 +1,126 @@
 {
-  "lastUpdated": "2026-07-23T11:46:17.659Z",
+  "lastUpdated": "2026-07-23T17:11:41.447Z",
   "articleCount": 36,
   "articles": [
     {
       "category": "Science",
-      "title": "Conditions remain 'unchanged' for young people with disability, data reveal",
+      "title": "Researchers examine social media's impact on narcissistic traits",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Thu, 23 Jul 2026 07:40:04 EDT",
-      "summary": "The level of inequity experienced by young people with disability has remained largely unchanged since the turn of the century, according to new research led by Flinders University. Using data from the Household, Income and Labor Dynamics in Australia Survey (HILDA), researchers examined the extent of social inequity experienced by young people ages 15–29 with disability, compared with those without disability, between 2001 and 2023.",
-      "url": "https://phys.org/news/2026-07-conditions-unchanged-young-people-disability.html"
+      "date": "Thu, 23 Jul 2026 13:00:05 EDT",
+      "summary": "Researchers at the University of Huddersfield have developed a new theoretical framework exploring whether social media recommendation systems may contribute to the amplification of narcissistic traits over time.",
+      "url": "https://phys.org/news/2026-07-social-media-impact-narcissistic-traits.html"
     },
     {
       "category": "Science",
-      "title": "JWST captures rare glimpse of early black hole growing inside network of young galaxies",
+      "title": "Heat is coming for Hawaiian corals, but study finds there may be time to adapt",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Thu, 23 Jul 2026 07:40:02 EDT",
-      "summary": "Astronomers using the James Webb Space Telescope have captured one of the clearest views yet of how an early supermassive black hole may grow within a network of young galaxies. The compact active galaxy, seen just a billion years after the Big Bang, lies beside a 12,000-parsec-long filament containing multiple galaxies that are expected to merge within a few hundred million years.",
-      "url": "https://phys.org/news/2026-07-jwst-captures-rare-glimpse-early.html"
+      "date": "Thu, 23 Jul 2026 13:00:01 EDT",
+      "summary": "Since the first major bleaching event in 1996, Hawaiian corals have been subject to increasing heat stress and more frequent bleaching events. New research from oceanographers at the University of Hawai'i at Mānoa used high-resolution modeling that includes small-scale processes to examine projected heat stress on coral reefs over the 21st century.",
+      "url": "https://phys.org/news/2026-07-hawaiian-corals.html"
+    },
+    {
+      "category": "AI",
+      "title": "Launch HN: Screenpipe (YC S26) – Power your agents by your 24/7 screen recording",
+      "source": "Hacker News: Front Page",
+      "date": "Thu, 23 Jul 2026 16:48:38 +0000",
+      "summary": "Hi Hacker News, I'm Louis. I built Screenpipe (https://screenpipe.com). Screenpipe is an app that records your screen and audio locally (only!), and gives AI agents a searchable memory of what you've seen, said, and heard. This makes it easier to automate your repetitive tasks, turn them into SOPs (Standard Operating Procedure) and so on.\nI made a HN-style demo video at https://www.tella.tv/video/build-your-ai-second-brain-with-s... and there’s a marketing video at https://www.youtube.com/watch?v=c1jV6E9pyug.\nI’ve been obsessed with this for a long time. I’ve been maintaining a “second brain” since 2020, in which I would store journals, handwritten notes, music I listen to, projects I'm working on, conversations I have with people, personal CRM etc. I experimented a lot of RAG in the early days with ParlAI, hundreds of fine-tuned GPT2 models, and GPT3 (https://forum.obsidian.md/t/fine-tuning-openai-api-gpt3-on-y...). Later I built Ava, the first Obsidian AI plugin, which grew to a few thousands of users quickly. It then became Embedbase, an API to make it easier to build AI apps powered by RAG.\nWhat I learned from all this is how important it is for the models to have context about what you’re doing on your computer, in order to get them to do what you want.\nIn the early days there was fine tuning but it was too much pain, then there was tool calling so that AI can access software you use but still kinda not autonomous enough. needing micro management. Then MCP came, but it felt too static, and non technical users struggled to build and use MCP. Then we got skills. Most recently we’ve seen Karpethy’s LLM-maintained wiki, Garry's GBrain, etc., where an agent incrementally maintains a persistent collection of Markdown pages. New sources update entity pages, strengthen or contradict existing claims, and improve a synthesis that compounds over time. I like this pattern, but it still begins with someone selecting and importing the sources. There is still no way AI can know what you and your company are doing every day, across apps, not just inside of apps.\nOf course, not everyone wants this. But I do! I want AI to know what I'm doing and never lose memory ever again, and I want it to use the same software that humans do, without painful context switches.\nI started building Screenpipe for myself in 2024 - a CLI to record your screen and plug this context into AI. An HN user posted it in 2024 (https://news.ycombinator.com/item?id=41695840) and that discussion influenced the product. The most useful criticism concerned recording consent, local security, CPU usage, signal-to-noise, and whether agents could act on top of the data.\nThe naive implementation started from continuously recording video and running OCR over every frame. But that creates duplicate data, consumes substantial resources (it basically turns your computer into a space heater!), and discards structure the operating system already knows. Screenpipe now instead listens for events such as app switches, clicks, typing pauses, scrolling, and idle fallbacks. When something meaningful changes, it pairs a screenshot with the operating system’s accessibility tree at the same timestamp. OCR is used when structured accessibility data is unavailable. We also capture audio continuously, identify speakers and transcribe locally through Parakeet/Whisper or using cloud models.\nEverything is indexed in a local SQLite database, mp4 files, and sometimes md files. An AI friendly API on port 3030 is open for agents, with authentication and a MCP and skills.\nOnce Screenpipe has been up and running for a while, you can use it through our built-in chat, Claude, ChatGPT, Hermes, Openclaw, or any agent, to do things like:\n- adding context to your current chat, e.g. \"gather all context about task X\", then requiring less prompts to achieve your goal\n- retrieve information, e.g. \"retrieve the tasks i was working on from 8 am to 4 pm, make a list of what got done and what's left\"\n- create and maintain a personal wiki / second brain for your agents: \"every 1h organize everything i do in projects, people, tasks, meetings in my Obsidian vault as markdown files and folders\"\n- create automations: whenever i visit someone's profile on linkedin, update my crm\n- find automation opportunities: look at everything my team has done this week and turn it into a list of automation opportunities\nScreenpipe data is stored locally, though we also offer an enterprise plan to discover automation opportunities and for that the company decides where the data lives. We built our own AI PII model to redact sensitive information, it runs locally on Apple MLX or Windows DirectML, we also support cloud confidential inference for low end devices, although our local models are meant to use https://screenpipe.com/how-to-install) and a CLI:\n  npx screenpipe record\n\nhttps://github.com/screenpipe/screenpipe. We took the dreaded step of making our own Screenpipe Commercial License. I know HN strongly prefers OSI open source (MIT/Apache/etc.) but couldn’t find a sustainable way to keep developing Screenpipe while companies were using it commercially for free. So now personal non-commercial, nonprofit, educational, and research use is free, but commercial use requires a license.\nVersions released before the license change remain available under MIT. We have a free tier, and other plans, including Enterprise which helps companies find automation opportunities.\nWould love to hear any feedback, things you've done with screenpipe, or features you'd want\nComments URL: https://news.ycombinator.com/item?id=49024620\nPoints: 6\n# Comments: 2",
+      "url": "https://news.ycombinator.com/item?id=49024620"
     },
     {
       "category": "Science",
-      "title": "The human side of animal health: Global review reveals new insights to achieving better biosecurity",
+      "title": "Training microbes to prepare soils for the impacts of climate change",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Thu, 23 Jul 2026 07:20:01 EDT",
-      "summary": "When it comes to protecting livestock from devastating diseases, simply telling people what to do may not be enough. A new review led by a researcher from the University of Vermont and collaborators from two institutions in Australia suggests that improving farm biosecurity requires something often overlooked in animal health: understanding how humans make decisions.",
-      "url": "https://phys.org/news/2026-07-human-side-animal-health-global.html"
+      "date": "Thu, 23 Jul 2026 12:40:07 EDT",
+      "summary": "Scientists at the University of Lincoln have discovered a promising new way to help protect crops from one of climate change's growing threats to global food production—increasing soil salinity.",
+      "url": "https://phys.org/news/2026-07-microbes-soils-impacts-climate.html"
     },
     {
       "category": "AI",
-      "title": "New Framework Desktop Option with AMD Ryzen AI Max+ Pro 495 and 192GB Memory",
+      "title": "JEP 540: Simple JSON API (Now in Incubator)",
       "source": "Hacker News: Front Page",
-      "date": "Thu, 23 Jul 2026 11:09:48 +0000",
-      "summary": "Article URL: https://frame.work/desktop?tab=192gb-coming-soon\nComments URL: https://news.ycombinator.com/item?id=49019694\nPoints: 11\n# Comments: 2",
-      "url": "https://frame.work/desktop?tab=192gb-coming-soon"
-    },
-    {
-      "category": "AI",
-      "title": "Worse on Purpose – How Corporate Greed Killed Product Quality – Worse on Purpose",
-      "source": "Hacker News: Front Page",
-      "date": "Thu, 23 Jul 2026 11:05:11 +0000",
-      "summary": "Article URL: https://www.worseonpurpose.com/\nComments URL: https://news.ycombinator.com/item?id=49019647\nPoints: 14\n# Comments: 5",
-      "url": "https://www.worseonpurpose.com/"
-    },
-    {
-      "category": "AI",
-      "title": "Code mode yields a 99.2% cost reduction in our systems",
-      "source": "Hacker News: Front Page",
-      "date": "Thu, 23 Jul 2026 10:17:36 +0000",
-      "summary": "Article URL: https://www.agent-swarm.dev/blog/code-mode-token-savings\nComments URL: https://news.ycombinator.com/item?id=49019301\nPoints: 37\n# Comments: 15",
-      "url": "https://www.agent-swarm.dev/blog/code-mode-token-savings"
+      "date": "Thu, 23 Jul 2026 16:01:02 +0000",
+      "summary": "Article URL: https://openjdk.org/jeps/540\nComments URL: https://news.ycombinator.com/item?id=49023809\nPoints: 27\n# Comments: 11",
+      "url": "https://openjdk.org/jeps/540"
     },
     {
       "category": "Space",
-      "title": " The James Webb Space Telescope's disappearing 'Little Red Dots' may lead to another cosmic puzzle ",
+      "title": " NASA's retired astronauts are hitting the road to get young people to vote: 'one small step for you, and one giant leap for our country.' ",
       "source": " Latest from Space.com ",
-      "date": "Thu, 23 Jul 2026 10:00:00 +0000",
-      "summary": "Just as the dinosaurs didn't disappear but rather evolved into birds, cosmic dinosaurs in the form of the JWST's Little Red Dots may fade away completely.",
-      "url": "https://www.space.com/astronomy/james-webb-space-telescope/the-james-webb-space-telescopes-disappearing-little-red-dots-may-lead-to-another-cosmic-puzzle"
+      "date": "Thu, 23 Jul 2026 16:00:00 +0000",
+      "summary": "\"We have to do what we can to ensure that the country makes it through the challenges that we're dealing with here, and that is the message that we're going to be taking to colleges and universities.\"",
+      "url": "https://www.space.com/space-exploration/human-spaceflight/nasas-retired-astronauts-are-hitting-the-road-to-get-young-people-to-vote-one-small-step-for-you-and-one-giant-leap-for-our-country"
+    },
+    {
+      "category": "AI",
+      "title": "Free way to get your data out of ChatGPT Business accounts",
+      "source": "Hacker News: Front Page",
+      "date": "Thu, 23 Jul 2026 15:45:51 +0000",
+      "summary": "Article URL: https://github.com/Conradqh/scrapemychats\nComments URL: https://news.ycombinator.com/item?id=49023486\nPoints: 23\n# Comments: 3",
+      "url": "https://github.com/Conradqh/scrapemychats"
+    },
+    {
+      "category": "AI",
+      "title": "AI arms race in line for a reckoning after OpenAI hacking incident",
+      "source": "Ars Technica - All content",
+      "date": "Thu, 23 Jul 2026 14:45:05 +0000",
+      "summary": "Aggressive training techniques sharpens threat of bad behavior by leading models.",
+      "url": "https://arstechnica.com/ai/2026/07/ai-arms-race-in-line-for-a-reckoning-after-openai-hacking-incident/"
+    },
+    {
+      "category": "Science",
+      "title": " 'We're trying this out of frustration': Marmots star in OnlyFans account as researchers desperately look for ways to raise funds amid US budget cuts ",
+      "source": " Latest from Live Science ",
+      "date": "Thu, 23 Jul 2026 14:39:10 +0000",
+      "summary": "As U.S. federal research budgets continue to be slashed, a team of marmot researchers have turned to unconventional sources of funding.",
+      "url": "https://www.livescience.com/animals/land-mammals/were-trying-this-out-of-frustration-marmots-star-in-onlyfans-account-as-researchers-desperately-look-for-ways-to-raise-funds-amid-us-budget-cuts"
+    },
+    {
+      "category": "Space",
+      "title": " Satellite spots a 'hummingbird' in Antarctica | Space photo of the day for July 23, 2026 ",
+      "source": " Latest from Space.com ",
+      "date": "Thu, 23 Jul 2026 14:00:00 +0000",
+      "summary": "A hummingbird shape in satellite data from NISAR is actually a mountaintop spotted in Antarctica.",
+      "url": "https://www.space.com/astronomy/earth/radar-satellite-spots-a-hummingbird-in-antarctica-space-photo-of-the-day-for-july-23-2026"
+    },
+    {
+      "category": "Science",
+      "title": "Orcas filmed smashing giant sunfish into thousands of pieces",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Thu, 23 Jul 2026 09:55:59 EDT",
+      "summary": "Researchers in the Gulf of California have documented a dramatic orca behavior never described before. In two separate encounters, one orca gripped a dead sunfish by the fin while another charged into it at high speed, blasting the carcass into thousands of pieces.",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260723084040.htm"
+    },
+    {
+      "category": "Science",
+      "title": " 'Extremely rare' Roman military camp found in Slovakia holds hastily buried remains of Marcus Aurelius' soldiers — with some dumped in wells ",
+      "source": " Latest from Live Science ",
+      "date": "Thu, 23 Jul 2026 13:45:47 +0000",
+      "summary": "Archaeologists found a Roman military camp in Slovakia with unusual burials of soldiers who likely fought in Marcus Aurelius' Marcomannic Wars.",
+      "url": "https://www.livescience.com/archaeology/romans/extremely-rare-roman-military-camp-found-in-slovakia-holds-hastily-buried-remains-of-marcus-aurelius-soldiers-with-some-dumped-in-wells"
+    },
+    {
+      "category": "Space",
+      "title": " 'Star Trek: Strange New Worlds'' season 4 opener is a pulpy sci-fi joy packed with dinosaurs, martians, and a 5th planet where the asteroid belt should be ",
+      "source": " Latest from Space.com ",
+      "date": "Thu, 23 Jul 2026 13:00:00 +0000",
+      "summary": "Dinosaurs, Martians, and the fate of the human race? This could be more than your standard day at the office for the Enterprise crew.",
+      "url": "https://www.space.com/entertainment/space-movies-shows/star-trek-strange-new-worlds-season-4-opener-is-a-pulpy-sci-fi-joy-built-on-some-fun-scientific-what-ifs"
+    },
+    {
+      "category": "AI",
+      "title": "White House report says Trump can usher in a \"new golden age\" of science",
+      "source": "Ars Technica - All content",
+      "date": "Thu, 23 Jul 2026 11:23:21 +0000",
+      "summary": "The resulting report is a near-random mixture of grievances and real problems.",
+      "url": "https://arstechnica.com/science/2026/07/white-house-report-says-trump-can-usher-in-a-new-golden-age-of-science/"
+    },
+    {
+      "category": "AI",
+      "title": "I wanted a clock that never needed setting. Things escalated.",
+      "source": "Ars Technica - All content",
+      "date": "Thu, 23 Jul 2026 11:00:50 +0000",
+      "summary": "Sure, maybe your clock has a backup battery, but mine has a deployment pipeline!",
+      "url": "https://arstechnica.com/gadgets/2026/07/i-wanted-a-clock-that-never-needed-setting-things-escalated/"
     },
     {
       "category": "Science",
@@ -65,22 +129,6 @@
       "date": "Thu, 23 Jul 2026 09:00:00 +0000",
       "summary": "Pediatricians in both the U.S. and Japan tend to prescribe antibiotics too often, although the doctors are now improving their track record. What's behind this tendency?",
       "url": "https://www.livescience.com/health/medicine-drugs/they-didnt-question-it-why-doctors-prescribe-too-many-antibiotics"
-    },
-    {
-      "category": "Science",
-      "title": " Science word of the day: Abiotic ",
-      "source": " Latest from Live Science ",
-      "date": "Thu, 23 Jul 2026 08:00:00 +0000",
-      "summary": "Pronunciation: Ay-bye-AH'-tik",
-      "url": "https://www.livescience.com/planet-earth/evolution/science-word-of-the-day-abiotic"
-    },
-    {
-      "category": "Science",
-      "title": " Meet Phantom Twist, a stealthy new drone that hides in plain sight by tricking your eyes ",
-      "source": " Latest from Live Science ",
-      "date": "Thu, 23 Jul 2026 07:45:00 +0000",
-      "summary": "High-speed rotation exploits the concept of motion blur to conceal a new drone while it's in flight.",
-      "url": "https://www.livescience.com/technology/robotics/meet-phantom-twist-a-stealthy-new-drone-that-hides-in-plain-sight-by-tricking-your-eyes"
     },
     {
       "category": "Theology",
@@ -99,44 +147,28 @@
       "url": "https://www.thegospelcoalition.org/reviews/religious-left-wuthnow/"
     },
     {
-      "category": "AI",
-      "title": "Orcas team up to ram sunfish until they explode",
-      "source": "Ars Technica - All content",
-      "date": "Thu, 23 Jul 2026 04:00:38 +0000",
-      "summary": "“We think this may help younger orcas feed more easily, or it could also just be for fun.”",
-      "url": "https://arstechnica.com/science/2026/07/orcas-team-up-to-ram-sunfish-until-they-explode/"
-    },
-    {
       "category": "Theology",
       "title": "Why We Pay to Be Scared",
       "source": "The Gospel Coalition",
       "date": "Thu, 23 Jul 2026 04:00:00 +0000",
-      "summary": "When it comes to horror, there’s always more going than pure entertainment. Horror is a fallen echo of the fear of God.",
+      "summary": "When it comes to horror, there’s always more going on than pure entertainment. Horror is a fallen echo of the fear of God.",
       "url": "https://www.thegospelcoalition.org/article/why-pay-be-scared/"
     },
     {
-      "category": "AI",
-      "title": "Sales were up at Tesla but so were costs and spending",
-      "source": "Ars Technica - All content",
-      "date": "Wed, 22 Jul 2026 21:15:19 +0000",
-      "summary": "Q2 2026 was profitable, but barely.",
-      "url": "https://arstechnica.com/cars/2026/07/teslas-revenues-are-up-but-profits-squeezed-as-musk-spends-on-ai/"
-    },
-    {
-      "category": "Space",
-      "title": " China's record-breaking Gravity-1 rocket launches 9 satellites from a ship at sea (video) ",
-      "source": " Latest from Space.com ",
-      "date": "Wed, 22 Jul 2026 21:00:00 +0000",
-      "summary": "Orienspace's Gravity-1, the world's most powerful solid rocket, aced its third-ever mission on Tuesday (July 21), launching nine satellites to orbit from a ship at sea.",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/chinas-record-breaking-gravity-1-rocket-launches-9-satellites-from-a-ship-at-sea-video"
+      "category": "Science",
+      "title": "Scientists discover the hidden brain switch that assigns bees their jobs",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Wed, 22 Jul 2026 21:10:39 EDT",
+      "summary": "Researchers found that specific brain circuits help decide which jobs bees perform as they age. When those circuits were switched off, older worker bees began caring for the queen again instead of carrying out their normal later-life duties. The findings reveal that a bee colony’s complex division of labor may be guided by neural switches hidden inside each bee’s brain.",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260722032117.htm"
     },
     {
       "category": "AI",
-      "title": "Microsoft brings original Xbox backward compatibility to Windows PCs",
-      "source": "Ars Technica - All content",
-      "date": "Wed, 22 Jul 2026 20:36:19 +0000",
-      "summary": "First four compatible titles can be run with an 11-year-old graphics card.",
-      "url": "https://arstechnica.com/gaming/2026/07/microsoft-brings-original-xbox-backward-compatibility-to-windows-pcs/"
+      "title": "Launching Health in ChatGPT ",
+      "source": "OpenAI News",
+      "date": "Thu, 23 Jul 2026 00:00:00 GMT",
+      "summary": "Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their health.",
+      "url": "https://openai.com/index/health-in-chatgpt"
     },
     {
       "category": "History",
@@ -147,28 +179,12 @@
       "url": "https://allthingsliberty.com/2026/07/dumpling-pond-legend-folklore-and-local-memory-in-greenwich-connecticut/"
     },
     {
-      "category": "Space",
-      "title": " 5 disturbing things we saw after digging into the recent 'Dune: Part 3' trailer ",
-      "source": " Latest from Space.com ",
-      "date": "Wed, 22 Jul 2026 20:00:00 +0000",
-      "summary": "Let's explore this latest look at Denis Villeneuve's epic close-out to his 'Dune' magnum opus",
-      "url": "https://www.space.com/entertainment/space-movies-shows/5-disturbing-things-we-saw-after-digging-into-the-recent-dune-part-3-trailer"
-    },
-    {
       "category": "Theology",
       "title": "Pulling the Thread",
       "source": "9Marks",
       "date": "Wed, 22 Jul 2026 19:50:29 +0000",
       "summary": "In an age of internet fame, endless scrolling, and YouTube Shorts, we do not need more self-promoting pastors. We need godly, warm, and faithful shepherds. \nThe post Pulling the Thread appeared first on 9Marks.",
       "url": "https://www.9marks.org/review/pulling-the-thread/?utm_source=rss&utm_medium=rss&utm_campaign=pulling-the-thread"
-    },
-    {
-      "category": "Science",
-      "title": "Ancient ferns turned Triassic Europe into a wildfire inferno",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Wed, 22 Jul 2026 09:10:01 EDT",
-      "summary": "Ancient fern savannahs may have transformed parts of Europe into a wildfire-prone inferno during the end-Triassic mass extinction. New fossil evidence suggests the ferns repeatedly regrew after fires, creating fresh fuel that helped prolong the devastation.",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260722032105.htm"
     },
     {
       "category": "AI",
@@ -195,14 +211,6 @@
       "url": "https://www.sciencedaily.com/releases/2026/07/260722032130.htm"
     },
     {
-      "category": "AI",
-      "title": "Advancing the next era of national science",
-      "source": "OpenAI News",
-      "date": "Wed, 22 Jul 2026 12:00:00 GMT",
-      "summary": "OpenAI outlines its commitment to advancing American science working with the U.S. Department of Energy and national labs to use frontier AI to accelerate discovery.",
-      "url": "https://openai.com/index/advancing-the-next-era-of-national-science"
-    },
-    {
       "category": "Biblical Studies",
       "title": "Gaza’s Catastrophic Loss",
       "source": "Biblical Archaeology Society",
@@ -217,14 +225,6 @@
       "date": "Wed, 22 Jul 2026 10:00:05 +0000",
       "summary": "Within the Bible, the name Arava often refers to the entire Jordan Rift Valley, the narrow stretch of land running from the Sea of Galilee […]\nThe post What Is the Arava? appeared first on Biblical Archaeology Society.",
       "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-israel/what-is-the-arava/"
-    },
-    {
-      "category": "Science",
-      "title": "Scientists revive a powerful antibiotic that superbugs had defeated",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Wed, 22 Jul 2026 03:21:08 EDT",
-      "summary": "Scientists have found a way to revive vancomycin, a powerful antibiotic that some dangerous bacteria have learned to resist. Instead of creating an entirely new drug, researchers paired vancomycin with a small molecule called pghi-4, which blocks a bacterial enzyme linked to resistance. The combination restored the antibiotic’s ability to kill drug-resistant E. faecium, raising hopes that similar chemical helpers could rescue other failing medicines.",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260722032108.htm"
     },
     {
       "category": "Theology",
