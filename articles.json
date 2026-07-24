@@ -1,30 +1,142 @@
 {
-  "lastUpdated": "2026-07-24T11:37:29.522Z",
+  "lastUpdated": "2026-07-24T17:22:28.270Z",
   "articleCount": 39,
   "articles": [
     {
       "category": "Science",
-      "title": "Protecting your pets from heat stress: Expert advice",
+      "title": "Review finds lack of evidence as to whether planting around our homes reduces the pollution we breathe",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Fri, 24 Jul 2026 07:20:03 EDT",
-      "summary": "Warm weather often means more time outside with your pets, but higher temperatures also increase the risk of heat stress, which occurs when an animal's body cannot properly cool itself, causing its core temperature to rise.",
-      "url": "https://phys.org/news/2026-07-pets-stress-expert-advice.html"
+      "date": "Fri, 24 Jul 2026 13:20:07 EDT",
+      "summary": "A new review led by the University of East London (UEL) has uncovered a major blind spot in air pollution research. Despite domestic gardens covering vast areas of Britain's towns and cities, researchers found no direct evidence showing whether they reduce pollution levels or improve the air people breathe at home. There is a huge gap in understanding the role of domestic gardens in air quality.",
+      "url": "https://phys.org/news/2026-07-lack-evidence-homes-pollution.html"
     },
     {
       "category": "Science",
-      "title": "Small tropical islands face dangerous humid heat by end of the century",
+      "title": "Rocks from unexplored far side of the moon help rewrite lunar history",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Fri, 24 Jul 2026 07:20:01 EDT",
-      "summary": "Millions of people living on tropical islands could face a future of increasingly dangerous heat as climate change drives longer and more intense periods of humid conditions. While rising temperatures are often discussed as the main consequence of climate change, humidity plays a crucial role in determining how much heat the human body can tolerate. When the air is already full of moisture, sweat evaporates less effectively, making it harder for people to cool down.",
-      "url": "https://phys.org/news/2026-07-small-tropical-islands-dangerous-humid.html"
+      "date": "Fri, 24 Jul 2026 13:20:04 EDT",
+      "summary": "Ancient samples from the moon's far side are helping scientists uncover how asteroid impacts shaped the early solar system. The findings challenge decades of thinking about when those impacts occurred and offer new insights into the conditions that influenced Earth's evolution.",
+      "url": "https://phys.org/news/2026-07-unexplored-side-moon-rewrite-lunar.html"
     },
     {
       "category": "Science",
-      "title": "National study finds reports of past-year sexual harassment more than doubled since 2018",
+      "title": "Trust among farmers is key to scaling climate-smart innovations",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Fri, 24 Jul 2026 07:00:01 EDT",
-      "summary": "Nearly a decade after the #MeToo movement reshaped public conversations about sexual harassment, a new study from the Newcomb Institute at Tulane University finds that Americans are reporting experiences of sexual harassment at far higher rates than they did before the movement.",
-      "url": "https://phys.org/news/2026-07-national-year-sexual.html"
+      "date": "Fri, 24 Jul 2026 13:00:03 EDT",
+      "summary": "As the climate becomes increasingly variable and extreme events become more frequent, accelerating the use of innovations that can strengthen agricultural resilience has become a priority for agrifood systems. Science has made progress in developing solutions with the potential to help farmers address these challenges. However, ensuring that knowledge about these innovations reaches more farmers and is understood, adapted and scaled remains one of the major challenges in research for development.",
+      "url": "https://phys.org/news/2026-07-farmers-key-scaling-climate-smart.html"
+    },
+    {
+      "category": "AI",
+      "title": "Claude Opus 5",
+      "source": "Hacker News: Front Page",
+      "date": "Fri, 24 Jul 2026 16:57:41 +0000",
+      "summary": "Article URL: https://www.anthropic.com/claude-opus-5-system-card\nComments URL: https://news.ycombinator.com/item?id=49038433\nPoints: 159\n# Comments: 71",
+      "url": "https://www.anthropic.com/claude-opus-5-system-card"
+    },
+    {
+      "category": "AI",
+      "title": "Claude Opus 5",
+      "source": "Hacker News: Front Page",
+      "date": "Fri, 24 Jul 2026 16:55:26 +0000",
+      "summary": "Article URL: https://www.anthropic.com/news/claude-opus-5\nComments URL: https://news.ycombinator.com/item?id=49038393\nPoints: 25\n# Comments: 6",
+      "url": "https://www.anthropic.com/news/claude-opus-5"
+    },
+    {
+      "category": "AI",
+      "title": "As of JDK 27, Oracle engineers will thus stop maintaining the macOS/x64 port",
+      "source": "Hacker News: Front Page",
+      "date": "Fri, 24 Jul 2026 16:52:33 +0000",
+      "summary": "Article URL: https://openjdk.org/jeps/541\nComments URL: https://news.ycombinator.com/item?id=49038352\nPoints: 33\n# Comments: 13",
+      "url": "https://openjdk.org/jeps/541"
+    },
+    {
+      "category": "Space",
+      "title": "New Crew Members Welcomed to International Space Station",
+      "source": "NASA",
+      "date": "Fri, 24 Jul 2026 16:43:02 +0000",
+      "summary": "From left, Expedition 74 flight engineers Anna Kikina and Pyotr Dubrov of Roscosmos, and Anil Menon of NASA pose for a July 18, 2026, photo while holding a cake celebrating their recent arrival aboard the International Space Station. The trio arrived at the space station on July 14, 2026, after launching from the Baikonur Cosmodrome […]",
+      "url": "https://www.nasa.gov/image-article/new-crew-members-welcomed-to-international-space-station/"
+    },
+    {
+      "category": "Space",
+      "title": "NASA Announces New Spacecraft Technology Demonstration Mission at Moon    ",
+      "source": "NASA",
+      "date": "Fri, 24 Jul 2026 16:35:46 +0000",
+      "summary": "NASA is working with industry to advance the next phase of cislunar infrastructure for the agency’s Artemis program and Moon Base, including orbital assets and demonstrations. Under a contract awarded to Advanced Space, the agency’s CAPSTONE 02 mission will demonstrate rendezvous and proximity operations, autonomous navigation, and cislunar communication capabilities while continuing to characterize the […]",
+      "url": "https://www.nasa.gov/directorates/armd/nasa-announces-new-spacecraft-technology-demonstration-mission-at-moon/"
+    },
+    {
+      "category": "Space",
+      "title": " What lurks beneath the volcanoes of Jupiter's moon Io? NASA's Juno probe just took a peek ",
+      "source": " Latest from Space.com ",
+      "date": "Fri, 24 Jul 2026 16:00:00 +0000",
+      "summary": "The subsurface findings could transform how scientists study volcanoes across the solar system — including those on Earth.",
+      "url": "https://www.space.com/astronomy/jupiter/juno-probe-reveals-whats-happening-beneath-the-surface-of-jupiters-most-volcanic-moon"
+    },
+    {
+      "category": "Science",
+      "title": " 'Much more violent than predicted': A chunk of the universe's missing matter was powerfully hurled out of galaxies ",
+      "source": " Latest from Live Science ",
+      "date": "Fri, 24 Jul 2026 15:36:22 +0000",
+      "summary": "The total amount of ordinary matter in our universe adds up to roughly one-tenth of what's expected. Now, scientists think they may have found some of it between galaxies.",
+      "url": "https://www.livescience.com/space/astronomy/much-more-violent-than-predicted-a-chunk-of-the-universes-missing-matter-was-powerfully-hurled-out-of-galaxies"
+    },
+    {
+      "category": "Space",
+      "title": "NASA to Support Blue Origin New Glenn Rocket Testing, Advance Artemis",
+      "source": "NASA",
+      "date": "Fri, 24 Jul 2026 15:30:21 +0000",
+      "summary": "NASA and Blue Origin announced Friday they recently agreed to conduct second stage hot fire testing for the company’s New Glenn rocket on the B-2 test stand at the agency’s Stennis Space Center near Bay St. Louis, Mississippi. The annex to a reimbursable Space Act Agreement signed earlier this month highlights NASA’s commitment to working […]",
+      "url": "https://www.nasa.gov/news-release/nasa-to-support-blue-origin-new-glenn-rocket-testing-advance-artemis/"
+    },
+    {
+      "category": "AI",
+      "title": "This is the world's most advanced robotic servicing satellite—that we know about",
+      "source": "Ars Technica - All content",
+      "date": "Fri, 24 Jul 2026 15:23:06 +0000",
+      "summary": "\"These are things that tend to be really hard.\"",
+      "url": "https://arstechnica.com/space/2026/07/this-is-the-worlds-most-advanced-robotic-servicing-satellite-that-we-know-about/"
+    },
+    {
+      "category": "Science",
+      "title": " AI web browsers 'aren't ready for the public,' scientists warn as they highlight massive security red flags ",
+      "source": " Latest from Live Science ",
+      "date": "Fri, 24 Jul 2026 15:00:00 +0000",
+      "summary": "By enhancing the functionality of agentic browsers, they have become insecure and could be sharing personal information.",
+      "url": "https://www.livescience.com/technology/computing/ai-web-browsers-arent-ready-for-the-public-scientists-warn-as-they-highlight-massive-security-red-flags"
+    },
+    {
+      "category": "AI",
+      "title": "Rocket Report: Lightning strikes in China; Starship launch on deck",
+      "source": "Ars Technica - All content",
+      "date": "Fri, 24 Jul 2026 14:34:25 +0000",
+      "summary": "Relativity Space announced plans to build a second rocket factory near Cape Canaveral, Florida.",
+      "url": "https://arstechnica.com/space/2026/07/rocket-report-lightning-strikes-in-china-starship-launch-on-deck/"
+    },
+    {
+      "category": "Space",
+      "title": " Planet hunter gets the silent treatment | Space photo of the day for July 24, 2026 ",
+      "source": " Latest from Space.com ",
+      "date": "Fri, 24 Jul 2026 14:00:00 +0000",
+      "summary": "ESA's Plato spacecraft completes critical testing ahead of its spaceflight.",
+      "url": "https://www.space.com/space-exploration/planet-hunter-gets-the-silent-treatment-space-photo-of-the-day-for-july-24-2026"
+    },
+    {
+      "category": "AI",
+      "title": "AI firms want more data centers; Trump's EPA may give neighbors less say",
+      "source": "Ars Technica - All content",
+      "date": "Fri, 24 Jul 2026 13:49:38 +0000",
+      "summary": "Rule would allow states to decide how much—if any—public input there can be.",
+      "url": "https://arstechnica.com/tech-policy/2026/07/ai-firms-want-more-data-centers-trumps-epa-may-give-neighbors-less-say/"
+    },
+    {
+      "category": "Space",
+      "title": " The easiest way to learn the summer night sky starts with these 3 stars ",
+      "source": " Latest from Space.com ",
+      "date": "Fri, 24 Jul 2026 13:00:00 +0000",
+      "summary": "How to use the Summer Triangle stars — Vega, Deneb and Altair — as a key to unlock your understanding of the night sky.",
+      "url": "https://www.space.com/stargazing/the-easiest-way-to-learn-the-summer-night-sky-starts-with-these-3-stars"
     },
     {
       "category": "Biblical Studies",
@@ -35,36 +147,12 @@
       "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-israel/measuring-time-through-trees/"
     },
     {
-      "category": "Space",
-      "title": " Hubble telescope watches unique nova explosion fire cosmic 'bullets' through the Milky Way at 20 million mph ",
-      "source": " Latest from Space.com ",
-      "date": "Fri, 24 Jul 2026 10:00:00 +0000",
-      "summary": "Using Hubble, astronomers have discovered that the only known \"helium nova\" in the Milky Way is riddling our galaxy with cosmic bullets travelling at 20 million mph.",
-      "url": "https://www.space.com/astronomy/hubble-space-telescope/hubble-telescope-watches-unique-nova-explosion-fire-cosmic-bullets-through-the-milky-way-at-20-million-mph"
-    },
-    {
-      "category": "AI",
-      "title": "Flux 3 X Mimic: The Next Generation of Video-Action Models",
-      "source": "Hacker News: Front Page",
-      "date": "Fri, 24 Jul 2026 09:31:48 +0000",
-      "summary": "Article URL: https://bfl.ai/blog/flux-3-mimic\nComments URL: https://news.ycombinator.com/item?id=49033127\nPoints: 84\n# Comments: 7",
-      "url": "https://bfl.ai/blog/flux-3-mimic"
-    },
-    {
-      "category": "AI",
-      "title": "Future euro banknote design proposals",
-      "source": "Hacker News: Front Page",
-      "date": "Fri, 24 Jul 2026 09:29:44 +0000",
-      "summary": "Article URL: https://www.ecb.europa.eu/euro/banknotes/future_banknotes/html/design-proposals.en.html\nComments URL: https://news.ycombinator.com/item?id=49033110\nPoints: 62\n# Comments: 54",
-      "url": "https://www.ecb.europa.eu/euro/banknotes/future_banknotes/html/design-proposals.en.html"
-    },
-    {
-      "category": "AI",
-      "title": "Buz – A fork of Bun using modern Zig, with sub-1s incremental builds",
-      "source": "Hacker News: Front Page",
-      "date": "Fri, 24 Jul 2026 09:26:40 +0000",
-      "summary": "Article URL: https://ziggit.dev/t/buz-a-drop-in-replacement-for-bun-using-modern-zig-with-sub-1s-incremental-builds/16891\nComments URL: https://news.ycombinator.com/item?id=49033099\nPoints: 15\n# Comments: 2",
-      "url": "https://ziggit.dev/t/buz-a-drop-in-replacement-for-bun-using-modern-zig-with-sub-1s-incremental-builds/16891"
+      "category": "Biblical Studies",
+      "title": "The Mysterious Inscribed Mug from Mount Zion",
+      "source": "Biblical Archaeology Society",
+      "date": "Fri, 24 Jul 2026 10:00:13 +0000",
+      "summary": "In an excavation just outside the southern wall of the Old City of Jerusalem, in the neighborhood known as Mount Zion, archaeologists working in 2009 […]\nThe post The Mysterious Inscribed Mug from Mount Zion appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/daily/biblical-artifacts/inscriptions/mysterious-mug/"
     },
     {
       "category": "Science",
@@ -76,11 +164,27 @@
     },
     {
       "category": "Science",
-      "title": " Science word of the day: Parsec ",
-      "source": " Latest from Live Science ",
-      "date": "Fri, 24 Jul 2026 08:00:00 +0000",
-      "summary": "Pronunciation: PAHR'-sek",
-      "url": "https://www.livescience.com/space/science-word-of-the-day-parsec"
+      "title": "Sweden’s hidden rare earth deposits could help break China’s grip",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Fri, 24 Jul 2026 04:30:52 EDT",
+      "summary": "Sweden could become an important source of rare earth elements needed for magnets and green technologies. Instead of extracting one target metal, researchers are cataloging everything contained in Swedish mineral deposits. They will then develop magnets using those naturally available combinations, potentially reducing pollution, waste, and reliance on China.",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260723084055.htm"
+    },
+    {
+      "category": "Science",
+      "title": "Ancient ape fossil in Egypt challenges the story of human origins",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Fri, 24 Jul 2026 03:03:54 EDT",
+      "summary": "A newly identified fossil ape from northern Egypt is reshaping ideas about where the ancestors of modern apes first emerged. Analyses place it closer to living apes than any known East African species of the same age, pointing to North Africa and the Middle East as a possible birthplace and crossroads for the ape lineage that eventually produced gibbons, orangutans, gorillas, chimpanzees, and humans.",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260723084852.htm"
+    },
+    {
+      "category": "Science",
+      "title": "APOE2 may protect the brain from Alzheimer’s and aging",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Fri, 24 Jul 2026 02:00:15 EDT",
+      "summary": "The longevity-linked APOE2 gene appears to protect brain cells by reducing DNA damage and helping neurons recover from stress. The finding could open a new path toward treatments that mimic APOE2’s defenses in people at higher genetic risk for Alzheimer’s.",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260723084856.htm"
     },
     {
       "category": "Theology",
@@ -89,14 +193,6 @@
       "date": "Fri, 24 Jul 2026 04:04:00 +0000",
       "summary": "Sometimes life just hurts. Out of nowhere, death, illness, unemployment, or a difficult relationship can change our lives and challenge everything we thought we knew.",
       "url": "https://www.thegospelcoalition.org/podcasts/tgc-podcast/gospel-hope-classic/"
-    },
-    {
-      "category": "Space",
-      "title": "A Million-Panel Project",
-      "source": "NASA",
-      "date": "Fri, 24 Jul 2026 04:01:00 +0000",
-      "summary": "Utah’s new solar power and battery storage facility is among the largest in the region.",
-      "url": "https://science.nasa.gov/earth/earth-observatory/a-million-panel-project/"
     },
     {
       "category": "Theology",
@@ -115,76 +211,12 @@
       "url": "https://www.9marks.org/article/using-ai-wisely/?utm_source=rss&utm_medium=rss&utm_campaign=using-ai-wisely"
     },
     {
-      "category": "Space",
-      "title": "Curiosity Blog, Sols 4954–4960: Celebrating Our Rover Engineers Past and Present",
-      "source": "NASA",
-      "date": "Fri, 24 Jul 2026 01:22:13 +0000",
-      "summary": "Written by Lucy Thompson, Senior Research Scientist, University of New Brunswick, Canada Earth planning date: Friday, July 27, 2026 As an APXS uplink lead and strategic planner, I have the privilege of working with the rover engineers most days that I am on operations. The APXS instrument measures the chemistry of rocks, unconsolidated materials and […]",
-      "url": "https://science.nasa.gov/blog/curiosity-blog-sols-4954-4960-celebrating-our-rover-engineers-past-and-present/"
-    },
-    {
-      "category": "Science",
-      "title": " Fields Medal 2026 winners include mathematician Hong Wang — the third woman to ever win in the award's 90-year history ",
-      "source": " Latest from Live Science ",
-      "date": "Thu, 23 Jul 2026 21:19:23 +0000",
-      "summary": "Hong Wang, a mathematician at New York University, helped solve a decades-old geometry problem and is now the third woman to win math's most prestigious award.",
-      "url": "https://www.livescience.com/physics-mathematics/mathematics/fields-medal-2026-winners-include-mathematician-hong-wang-the-third-woman-to-ever-win-in-the-awards-90-year-history"
-    },
-    {
-      "category": "Space",
-      "title": " Vulcan Centaur swapped out again: NASA goes with SpaceX Falcon Heavy rocket for launch of space weather mission ",
-      "source": " Latest from Space.com ",
-      "date": "Thu, 23 Jul 2026 21:00:00 +0000",
-      "summary": "NASA's SunRISE mission has been assigned a new launch vehicle: It will now be delivered to orbit by a SpaceX Falcon Heavy rocket rather than a United Launch Alliance Vulcan Centaur.",
-      "url": "https://www.space.com/space-exploration/missions/vulcan-centaur-swapped-out-again-nasa-goes-with-spacex-falcon-heavy-rocket-for-launch-of-space-weather-mission"
-    },
-    {
-      "category": "AI",
-      "title": "Microsoft responds to LG monitors installing McAfee ads on Windows",
-      "source": "Ars Technica - All content",
-      "date": "Thu, 23 Jul 2026 20:47:33 +0000",
-      "summary": "App is installed through Windows Update when certain LG monitors connect to a PC.",
-      "url": "https://arstechnica.com/gadgets/2026/07/microsoft-responds-to-lg-monitors-installing-mcafee-ads-on-windows/"
-    },
-    {
-      "category": "Space",
-      "title": " 'Star Trek: Strange New Worlds' Season 4: Release date & how to watch Paramount+’s sensational sci-fi series ",
-      "source": " Latest from Space.com ",
-      "date": "Thu, 23 Jul 2026 20:45:15 +0000",
-      "summary": "'We've seen a lot of strange new worlds, but we’ll never see something like this again'",
-      "url": "https://www.space.com/entertainment/space-movies-shows/star-trek-strange-new-worlds-season-4-release-date-and-how-to-watch-paramount-s-sensational-sci-fi-series"
-    },
-    {
-      "category": "AI",
-      "title": "FDA reports new outbreak of explosive diarrhea with 72 cases identified",
-      "source": "Ars Technica - All content",
-      "date": "Thu, 23 Jul 2026 19:22:36 +0000",
-      "summary": "The FDA hasn't said where the cases are or how they're linked.",
-      "url": "https://arstechnica.com/health/2026/07/fda-reports-new-outbreak-of-explosive-diarrhea-with-72-cases-identified/"
-    },
-    {
-      "category": "AI",
-      "title": "Forgot your Google password? Now you can log in with a selfie.",
-      "source": "Ars Technica - All content",
-      "date": "Thu, 23 Jul 2026 19:14:25 +0000",
-      "summary": "Google's selfie videos can be used for account access, AI Avatars, and age verification.",
-      "url": "https://arstechnica.com/gadgets/2026/07/google-now-lets-you-log-into-your-account-with-a-selfie/"
-    },
-    {
-      "category": "Space",
-      "title": "Look for NASA+ Now Streaming on Amazon Fire TV",
-      "source": "NASA",
-      "date": "Thu, 23 Jul 2026 19:11:29 +0000",
-      "summary": "Continuing agency efforts to bring space closer to home, NASA+ is heading to more streaming platforms. On Thursday, NASA announced its programming is on Fire TV Channels. Fire TV customers can easily access this content by asking Alexa+ on compatible devices. Future programming on Fire TV may include science mission launches, a test flight for […]",
-      "url": "https://www.nasa.gov/news-release/look-for-nasa-now-streaming-on-amazon-fire-tv/"
-    },
-    {
-      "category": "Science",
-      "title": "Orcas filmed smashing giant sunfish into thousands of pieces",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Thu, 23 Jul 2026 09:55:59 EDT",
-      "summary": "Researchers in the Gulf of California have documented a dramatic orca behavior never described before. In two separate encounters, one orca gripped a dead sunfish by the fin while another charged into it at high speed, blasting the carcass into thousands of pieces.",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260723084040.htm"
+      "category": "Biblical Studies",
+      "title": "Who Was Moses? Was He More than an Exodus Hero?",
+      "source": "Biblical Archaeology Society",
+      "date": "Thu, 23 Jul 2026 11:00:42 +0000",
+      "summary": "Who was Moses? Was he more than an Exodus hero? Discover the Biblical Moses with Peter Machinist in his article “The Man Moses.” \nThe post Who Was Moses? Was He More than an Exodus Hero? appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/daily/biblical-topics/exodus/who-was-moses-was-he-more-than-an-exodus-hero/"
     },
     {
       "category": "Theology",
@@ -193,14 +225,6 @@
       "date": "Thu, 23 Jul 2026 04:04:51 +0000",
       "summary": "Courtney Doctor talks with Rory Shiner and Kyle Worley about the difference the doctrine of union with Christ makes in how we understand our relationship to God and how we live our lives day to day.",
       "url": "https://www.thegospelcoalition.org/podcasts/deep-dish/union-christ-matters/"
-    },
-    {
-      "category": "Science",
-      "title": "Scientists discover the hidden brain switch that assigns bees their jobs",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Wed, 22 Jul 2026 21:10:39 EDT",
-      "summary": "Researchers found that specific brain circuits help decide which jobs bees perform as they age. When those circuits were switched off, older worker bees began caring for the queen again instead of carrying out their normal later-life duties. The findings reveal that a bee colony’s complex division of labor may be guided by neural switches hidden inside each bee’s brain.",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260722032117.htm"
     },
     {
       "category": "AI",
@@ -241,30 +265,6 @@
       "date": "Wed, 22 Jul 2026 13:00:00 GMT",
       "summary": "News organizations are using AI to strengthen reporting, grow audiences, and improve business operations, with OpenAI tools supporting journalists and publishers worldwide.",
       "url": "https://openai.com/index/how-news-organizations-are-using-ai"
-    },
-    {
-      "category": "Science",
-      "title": "A strange quantum effect dramatically boosts energy transfer",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Wed, 22 Jul 2026 08:17:00 EDT",
-      "summary": "Researchers discovered a proton-assisted mechanism that greatly improves how triplet energy moves between quantum dots and nearby molecules. The proton briefly shifts position, helps coordinate electron movement, and then returns to where it started. This quantum-driven shuttle could offer a powerful new way to tune solar cells, lasers, and catalytic reactions.",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260722032130.htm"
-    },
-    {
-      "category": "Biblical Studies",
-      "title": "Gaza’s Catastrophic Loss",
-      "source": "Biblical Archaeology Society",
-      "date": "Wed, 22 Jul 2026 10:45:01 +0000",
-      "summary": "Across an area only about half the size of Manhattan, the Gaza Strip features hundreds of archaeological and heritage sites, ranging in date from prehistoric […]\nThe post Gaza’s Catastrophic Loss appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/daily/archaeology-today/cultural-heritage/gazas-catastrophic-loss/"
-    },
-    {
-      "category": "Biblical Studies",
-      "title": "What Is the Arava?",
-      "source": "Biblical Archaeology Society",
-      "date": "Wed, 22 Jul 2026 10:00:05 +0000",
-      "summary": "Within the Bible, the name Arava often refers to the entire Jordan Rift Valley, the narrow stretch of land running from the Sea of Galilee […]\nThe post What Is the Arava? appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-israel/what-is-the-arava/"
     },
     {
       "category": "Theology",
