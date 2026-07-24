@@ -1,30 +1,126 @@
 {
-  "lastUpdated": "2026-07-23T22:49:00.399Z",
+  "lastUpdated": "2026-07-24T11:37:29.522Z",
   "articleCount": 39,
   "articles": [
     {
       "category": "Science",
-      "title": "Materials surrounding a fusion reaction can dramatically increase how often it occurs",
+      "title": "Protecting your pets from heat stress: Expert advice",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Thu, 23 Jul 2026 18:40:06 EDT",
-      "summary": "Fusion at high temperatures powers the sun and, if harnessed, could provide a potential source of energy here on Earth. But controlling fusion reactions has other benefits. The process also generates subatomic particles called neutrons that are used in a range of applications spanning medicine, research and national security.",
-      "url": "https://phys.org/news/2026-07-materials-fusion-reaction.html"
+      "date": "Fri, 24 Jul 2026 07:20:03 EDT",
+      "summary": "Warm weather often means more time outside with your pets, but higher temperatures also increase the risk of heat stress, which occurs when an animal's body cannot properly cool itself, causing its core temperature to rise.",
+      "url": "https://phys.org/news/2026-07-pets-stress-expert-advice.html"
     },
     {
       "category": "Science",
-      "title": "80‑million‑year‑old snake fossil sheds light on why lizards lost their limbs and started slithering",
+      "title": "Small tropical islands face dangerous humid heat by end of the century",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Thu, 23 Jul 2026 18:40:02 EDT",
-      "summary": "Snakes are everywhere in our legends and mythology. Yet for most of us, our blood runs cold whenever we encounter these strangely undulating, scaly tubes of muscle slithering through the leaf litter.",
-      "url": "https://phys.org/news/2026-07-80millionyearold-snake-fossil-lizards-lost.html"
+      "date": "Fri, 24 Jul 2026 07:20:01 EDT",
+      "summary": "Millions of people living on tropical islands could face a future of increasingly dangerous heat as climate change drives longer and more intense periods of humid conditions. While rising temperatures are often discussed as the main consequence of climate change, humidity plays a crucial role in determining how much heat the human body can tolerate. When the air is already full of moisture, sweat evaporates less effectively, making it harder for people to cool down.",
+      "url": "https://phys.org/news/2026-07-small-tropical-islands-dangerous-humid.html"
     },
     {
       "category": "Science",
-      "title": "Programmable platform enables on-demand design of plant immune receptors against crop pathogens",
+      "title": "National study finds reports of past-year sexual harassment more than doubled since 2018",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Thu, 23 Jul 2026 18:30:04 EDT",
-      "summary": "Crop production faces threats from plant pathogens. Traditional disease-resistance breeding relies heavily on natural plant resistance genes that encode immune receptors adapted to particular pathogens. However, rapidly evolving pathogens frequently overcome these natural defenses, and the limited diversity of naturally occurring immune receptors makes it difficult to develop crops with durable resistance.",
-      "url": "https://phys.org/news/2026-07-programmable-platform-enables-demand-immune.html"
+      "date": "Fri, 24 Jul 2026 07:00:01 EDT",
+      "summary": "Nearly a decade after the #MeToo movement reshaped public conversations about sexual harassment, a new study from the Newcomb Institute at Tulane University finds that Americans are reporting experiences of sexual harassment at far higher rates than they did before the movement.",
+      "url": "https://phys.org/news/2026-07-national-year-sexual.html"
+    },
+    {
+      "category": "Biblical Studies",
+      "title": "Measuring Time Through Trees",
+      "source": "Biblical Archaeology Society",
+      "date": "Fri, 24 Jul 2026 10:45:08 +0000",
+      "summary": "Most people know that you can count a tree’s rings to determine its age. Many also know that the rings indicate the climate in any […]\nThe post Measuring Time Through Trees appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-israel/measuring-time-through-trees/"
+    },
+    {
+      "category": "Space",
+      "title": " Hubble telescope watches unique nova explosion fire cosmic 'bullets' through the Milky Way at 20 million mph ",
+      "source": " Latest from Space.com ",
+      "date": "Fri, 24 Jul 2026 10:00:00 +0000",
+      "summary": "Using Hubble, astronomers have discovered that the only known \"helium nova\" in the Milky Way is riddling our galaxy with cosmic bullets travelling at 20 million mph.",
+      "url": "https://www.space.com/astronomy/hubble-space-telescope/hubble-telescope-watches-unique-nova-explosion-fire-cosmic-bullets-through-the-milky-way-at-20-million-mph"
+    },
+    {
+      "category": "AI",
+      "title": "Flux 3 X Mimic: The Next Generation of Video-Action Models",
+      "source": "Hacker News: Front Page",
+      "date": "Fri, 24 Jul 2026 09:31:48 +0000",
+      "summary": "Article URL: https://bfl.ai/blog/flux-3-mimic\nComments URL: https://news.ycombinator.com/item?id=49033127\nPoints: 84\n# Comments: 7",
+      "url": "https://bfl.ai/blog/flux-3-mimic"
+    },
+    {
+      "category": "AI",
+      "title": "Future euro banknote design proposals",
+      "source": "Hacker News: Front Page",
+      "date": "Fri, 24 Jul 2026 09:29:44 +0000",
+      "summary": "Article URL: https://www.ecb.europa.eu/euro/banknotes/future_banknotes/html/design-proposals.en.html\nComments URL: https://news.ycombinator.com/item?id=49033110\nPoints: 62\n# Comments: 54",
+      "url": "https://www.ecb.europa.eu/euro/banknotes/future_banknotes/html/design-proposals.en.html"
+    },
+    {
+      "category": "AI",
+      "title": "Buz – A fork of Bun using modern Zig, with sub-1s incremental builds",
+      "source": "Hacker News: Front Page",
+      "date": "Fri, 24 Jul 2026 09:26:40 +0000",
+      "summary": "Article URL: https://ziggit.dev/t/buz-a-drop-in-replacement-for-bun-using-modern-zig-with-sub-1s-incremental-builds/16891\nComments URL: https://news.ycombinator.com/item?id=49033099\nPoints: 15\n# Comments: 2",
+      "url": "https://ziggit.dev/t/buz-a-drop-in-replacement-for-bun-using-modern-zig-with-sub-1s-incremental-builds/16891"
+    },
+    {
+      "category": "Science",
+      "title": " 'Rescheduling' cannabis would ease restrictions on science, opening the door to the largest investment in cannabis research we've seen to date ",
+      "source": " Latest from Live Science ",
+      "date": "Fri, 24 Jul 2026 09:00:00 +0000",
+      "summary": "Rescheduling cannabis could mark a major shift in research, but it alone will not eliminate the scientific, regulatory and patient-access challenges that have shaped medical cannabis for decades, says clinical researcher Raymond Palidora",
+      "url": "https://www.livescience.com/health/medicine-drugs/rescheduling-cannabis-would-ease-restrictions-on-science-opening-the-door-to-the-largest-investment-in-cannabis-research-weve-seen-to-date-opinion"
+    },
+    {
+      "category": "Science",
+      "title": " Science word of the day: Parsec ",
+      "source": " Latest from Live Science ",
+      "date": "Fri, 24 Jul 2026 08:00:00 +0000",
+      "summary": "Pronunciation: PAHR'-sek",
+      "url": "https://www.livescience.com/space/science-word-of-the-day-parsec"
+    },
+    {
+      "category": "Theology",
+      "title": "Gospel Hope When Life Doesn’t Make Sense (TGC Classic)",
+      "source": "The Gospel Coalition",
+      "date": "Fri, 24 Jul 2026 04:04:00 +0000",
+      "summary": "Sometimes life just hurts. Out of nowhere, death, illness, unemployment, or a difficult relationship can change our lives and challenge everything we thought we knew.",
+      "url": "https://www.thegospelcoalition.org/podcasts/tgc-podcast/gospel-hope-classic/"
+    },
+    {
+      "category": "Space",
+      "title": "A Million-Panel Project",
+      "source": "NASA",
+      "date": "Fri, 24 Jul 2026 04:01:00 +0000",
+      "summary": "Utah’s new solar power and battery storage facility is among the largest in the region.",
+      "url": "https://science.nasa.gov/earth/earth-observatory/a-million-panel-project/"
+    },
+    {
+      "category": "Theology",
+      "title": "The Lion of Judah Roars in Suffering",
+      "source": "The Gospel Coalition",
+      "date": "Fri, 24 Jul 2026 04:00:00 +0000",
+      "summary": "Jacob’s prophecy anticipates a king in Judah’s line whose rule will be extraordinarily powerful and prosperous.",
+      "url": "https://www.thegospelcoalition.org/article/lion-judah-suffering/"
+    },
+    {
+      "category": "Theology",
+      "title": "Using AI Wisely: A Pastor’s Encouragement to His Church",
+      "source": "9Marks",
+      "date": "Fri, 24 Jul 2026 03:56:53 +0000",
+      "summary": "Your use of AI should be something you are proud of—something you’d be glad for the world to see. If it’s something you want to hide, it is probably not glorifying to God.\nThe post Using AI Wisely: A Pastor’s Encouragement to His Church appeared first on 9Marks.",
+      "url": "https://www.9marks.org/article/using-ai-wisely/?utm_source=rss&utm_medium=rss&utm_campaign=using-ai-wisely"
+    },
+    {
+      "category": "Space",
+      "title": "Curiosity Blog, Sols 4954–4960: Celebrating Our Rover Engineers Past and Present",
+      "source": "NASA",
+      "date": "Fri, 24 Jul 2026 01:22:13 +0000",
+      "summary": "Written by Lucy Thompson, Senior Research Scientist, University of New Brunswick, Canada Earth planning date: Friday, July 27, 2026 As an APXS uplink lead and strategic planner, I have the privilege of working with the rover engineers most days that I am on operations. The APXS instrument measures the chemistry of rocks, unconsolidated materials and […]",
+      "url": "https://science.nasa.gov/blog/curiosity-blog-sols-4954-4960-celebrating-our-rover-engineers-past-and-present/"
     },
     {
       "category": "Science",
@@ -35,28 +131,12 @@
       "url": "https://www.livescience.com/physics-mathematics/mathematics/fields-medal-2026-winners-include-mathematician-hong-wang-the-third-woman-to-ever-win-in-the-awards-90-year-history"
     },
     {
-      "category": "AI",
-      "title": "Namecheap Gave My Account to an Unverified Third Party Just Because They Asked",
-      "source": "Hacker News: Front Page",
-      "date": "Thu, 23 Jul 2026 21:05:29 +0000",
-      "summary": "I’ve been a NameCheap customer for 13 years. I’ve also helped out an old college club paying for a .com they use (that is registered to me under my name, address, and phone number). During a recent leadership transition, the incoming club lead wanted to make changes to the DNS and didn’t know to contact me. They figured out the domain name was parked at NameCheap, so they initiated a password reset using the domain name. I got a password reset email and immediately filed a NameCheap support ticket saying “I did not initiate this”. They called me to verify I was the one who filed the ticket, and then followed up with a canned email with tips like check your anti-virus.\nThe incoming club leader was persistent though, and called NameCheap support. He convinced them the domain registered in my name and address really belonged to his club, and with no verification or validation whatsoever, NameCheap changed my password, and changed the email address associated with my account. All because someone simply asked nicely on a phone call.\nMeanwhile in the background, someone advised the new club leader who I was and we were able to connect and get things transferred over. Ultimately I was happy to give them access or even ownership if they wanted (student club turnover being what it is, it’s likely a domain doesn’t get renewed and gets gobbled up by a squatter, which is why I was keeping it current for them).\nBut NameCheap had no way of knowing any of this. As far as NameCheap was aware, this was a personal account of mine. They demonstrated they were perfectly able to pick up a phone and call me (to verify my initial support ticket) but when someone calls them and says “but I really want access to that account” they don’t bother?\nI’d hesitate to even call this social engineering. It’s clearly a massive vulnerability. I’ve already moved a dozen of my most critical domains out of NameCheap after seeing just how easy it is for a third party to completely take over a NameCheap account: just ask nicely.\nComments URL: https://news.ycombinator.com/item?id=49028037\nPoints: 172\n# Comments: 43",
-      "url": "https://news.ycombinator.com/item?id=49028037"
-    },
-    {
       "category": "Space",
       "title": " Vulcan Centaur swapped out again: NASA goes with SpaceX Falcon Heavy rocket for launch of space weather mission ",
       "source": " Latest from Space.com ",
       "date": "Thu, 23 Jul 2026 21:00:00 +0000",
       "summary": "NASA's SunRISE mission has been assigned a new launch vehicle: It will now be delivered to orbit by a SpaceX Falcon Heavy rocket rather than a United Launch Alliance Vulcan Centaur.",
       "url": "https://www.space.com/space-exploration/missions/vulcan-centaur-swapped-out-again-nasa-goes-with-spacex-falcon-heavy-rocket-for-launch-of-space-weather-mission"
-    },
-    {
-      "category": "AI",
-      "title": "Couple pay >$800k for a gene-editing therapy for their daughter. She died.",
-      "source": "Hacker News: Front Page",
-      "date": "Thu, 23 Jul 2026 20:52:19 +0000",
-      "summary": "Article URL: https://www.science.org/content/article/exclusive-death-girl-chinese-gene-editing-trial-was-never-made-public\nComments URL: https://news.ycombinator.com/item?id=49027892\nPoints: 144\n# Comments: 57",
-      "url": "https://www.science.org/content/article/exclusive-death-girl-chinese-gene-editing-trial-was-never-made-public"
     },
     {
       "category": "AI",
@@ -73,22 +153,6 @@
       "date": "Thu, 23 Jul 2026 20:45:15 +0000",
       "summary": "'We've seen a lot of strange new worlds, but we’ll never see something like this again'",
       "url": "https://www.space.com/entertainment/space-movies-shows/star-trek-strange-new-worlds-season-4-release-date-and-how-to-watch-paramount-s-sensational-sci-fi-series"
-    },
-    {
-      "category": "Space",
-      "title": " Scientists may have finally solved the mystery of the sun's missing silver ",
-      "source": " Latest from Space.com ",
-      "date": "Thu, 23 Jul 2026 20:00:00 +0000",
-      "summary": "Scientists say the sun has a little more silver than we thought.",
-      "url": "https://www.space.com/astronomy/sun/scientists-may-have-finally-solved-the-mystery-of-the-suns-missing-silver"
-    },
-    {
-      "category": "AI",
-      "title": "Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models",
-      "source": "Hacker News: Front Page",
-      "date": "Thu, 23 Jul 2026 19:26:01 +0000",
-      "summary": "I’ve been building Echo (https://echo.tracerml.ai/), an experiment in making one AI system out of a pool of open-weight models rather than choosing a single model and using it for every task.\nIt started with a simple experiment. I took a group of models, including GLM-5.2, Kimi K2.7 and others, and ran them on the same evaluations. Then I measured what would happen if, for each problem, you somehow knew in advance which models would be useful and how their outputs should be combined.\nThat hypothetical system performed substantially better than any individual model in the pool. Of course, it is not something you can actually deploy because it relies on knowing which decisions were good after seeing the result. Echo is my attempt to recover some of that advantage without having that information in advance.\nFor each request, Echo decides how much computation to allocate, which models should participate, and how their work should be combined. Some prompts may only need a relatively small amount of inference, while others benefit from multiple models working on different parts of the problem.\nOne thing that surprised me while building it was how complementary the models are. A model that is clearly weaker overall can still be extremely useful on particular problems or as part of a combination.\nOn my first evaluation mix, Echo consistently performed better than the best individual model in its pool. It also reached roughly the same aggregate result as Fable, which I used as one of the stronger comparison systems, at around one third of the inference cost.\nThere are still some cases where Echo makes the wrong allocation or combination decision. I’m currently spending a lot of time understanding those failures, as well as testing whether the same approach holds up on coding and agentic tasks where measuring the quality of each decision becomes much harder.\nI built a chat interface (echo.tracerml.ai) and an OpenAI-compatible API (https://echo.tracerml.ai/docs/api) so the system can be tested outside the evaluation setup.\nHere is a short/high level video on how it works: https://www.youtube.com/watch?v=lJFJSvOdXhg\nI wrote up the evaluation methodology, individual model results, costs and current limitations here: https://echo.tracerml.ai/eval\nI would love for you to try it! Especially if you hit any weird failure cases or places where the allocation looks unintuitive.\nComments URL: https://news.ycombinator.com/item?id=49026810\nPoints: 155\n# Comments: 70",
-      "url": "https://news.ycombinator.com/item?id=49026810"
     },
     {
       "category": "AI",
@@ -115,30 +179,6 @@
       "url": "https://www.nasa.gov/news-release/look-for-nasa-now-streaming-on-amazon-fire-tv/"
     },
     {
-      "category": "Space",
-      "title": "Crews Move Artemis IV Liquid Hydrogen Tank",
-      "source": "NASA",
-      "date": "Thu, 23 Jul 2026 15:20:19 +0000",
-      "summary": "Crews at NASA’s Michoud Assembly Facility in New Orleans transport the 130-foot-tall Artemis IV liquid hydrogen tank out of a production cell inside the main factory building into a detached test building on a separate portion of the 829-acre site on May 15, 2026. The liquid hydrogen tank will form part of the core stage for […]",
-      "url": "https://www.nasa.gov/image-article/crews-move-artemis-iv-liquid-hydrogen-tank/"
-    },
-    {
-      "category": "Space",
-      "title": "NASA’s MAVEN Illuminates New Understanding of Auroras at Mars",
-      "source": "NASA",
-      "date": "Thu, 23 Jul 2026 15:19:33 +0000",
-      "summary": "NASA MAVEN (Mars Atmosphere and Volatile Evolution) mission scientists have uncovered a key puzzle piece in understanding certain types of auroras on Mars, finding that they form in a similar way to Earth-based auroras. Results published Thursday in Nature Communications show the same mechanism that circulates and catapults charged particles into Earth’s atmosphere is happening at […]",
-      "url": "https://science.nasa.gov/missions/maven/nasas-maven-illuminates-new-understanding-of-auroras-at-mars/"
-    },
-    {
-      "category": "Science",
-      "title": " 'We're trying this out of frustration': Marmots star in OnlyFans account as researchers desperately look for ways to raise funds amid US budget cuts ",
-      "source": " Latest from Live Science ",
-      "date": "Thu, 23 Jul 2026 14:39:10 +0000",
-      "summary": "As U.S. federal research budgets continue to be slashed, a team of marmot researchers have turned to unconventional sources of funding.",
-      "url": "https://www.livescience.com/animals/land-mammals/were-trying-this-out-of-frustration-marmots-star-in-onlyfans-account-as-researchers-desperately-look-for-ways-to-raise-funds-amid-us-budget-cuts"
-    },
-    {
       "category": "Science",
       "title": "Orcas filmed smashing giant sunfish into thousands of pieces",
       "source": "All Top News -- ScienceDaily",
@@ -147,36 +187,12 @@
       "url": "https://www.sciencedaily.com/releases/2026/07/260723084040.htm"
     },
     {
-      "category": "Science",
-      "title": " 'Extremely rare' Roman military camp found in Slovakia holds hastily buried remains of Marcus Aurelius' soldiers — with some dumped in wells ",
-      "source": " Latest from Live Science ",
-      "date": "Thu, 23 Jul 2026 13:45:47 +0000",
-      "summary": "Archaeologists found a Roman military camp in Slovakia with unusual burials of soldiers who likely fought in Marcus Aurelius' Marcomannic Wars.",
-      "url": "https://www.livescience.com/archaeology/romans/extremely-rare-roman-military-camp-found-in-slovakia-holds-hastily-buried-remains-of-marcus-aurelius-soldiers-with-some-dumped-in-wells"
-    },
-    {
       "category": "Theology",
       "title": "Union with Christ and Why It Matters (with Rory Shiner and Kyle Worley)",
       "source": "The Gospel Coalition",
       "date": "Thu, 23 Jul 2026 04:04:51 +0000",
       "summary": "Courtney Doctor talks with Rory Shiner and Kyle Worley about the difference the doctrine of union with Christ makes in how we understand our relationship to God and how we live our lives day to day.",
       "url": "https://www.thegospelcoalition.org/podcasts/deep-dish/union-christ-matters/"
-    },
-    {
-      "category": "Theology",
-      "title": "What the Religious Left Gets Wrong",
-      "source": "The Gospel Coalition",
-      "date": "Thu, 23 Jul 2026 04:02:00 +0000",
-      "summary": "‘The Religious Left’ offers a clear view into the reasoning behind and tactics of a movement that misuses Scripture for its own ends.",
-      "url": "https://www.thegospelcoalition.org/reviews/religious-left-wuthnow/"
-    },
-    {
-      "category": "Theology",
-      "title": "Why We Pay to Be Scared",
-      "source": "The Gospel Coalition",
-      "date": "Thu, 23 Jul 2026 04:00:00 +0000",
-      "summary": "When it comes to horror, there’s always more going on than pure entertainment. Horror is a fallen echo of the fear of God.",
-      "url": "https://www.thegospelcoalition.org/article/why-pay-be-scared/"
     },
     {
       "category": "Science",
@@ -259,14 +275,6 @@
       "url": "https://www.9marks.org/article/the-biblical-pattern-of-terrible-fathers/?utm_source=rss&utm_medium=rss&utm_campaign=the-biblical-pattern-of-terrible-fathers"
     },
     {
-      "category": "Biblical Studies",
-      "title": "Arguments Against Locating Sodom at Tall el-Hammam",
-      "source": "Biblical Archaeology Society",
-      "date": "Tue, 21 Jul 2026 11:00:31 +0000",
-      "summary": "The proposal that Sodom has been found on the northeastern side of the Dead Sea has been around for a decade or so, but with the publication of an article by Steven Collins this month it will receive the widest hearing to date. \nThe post Arguments Against Locating Sodom at Tall el-Hammam appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/daily/biblical-sites-places/biblical-archaeology-sites/arguments-against-locating-sodom-at-tall-el-hammam/"
-    },
-    {
       "category": "History",
       "title": "The Rise, Disgrace, and Redemption of Timothy Bedel",
       "source": "Journal of the American Revolution",
@@ -281,14 +289,6 @@
       "date": "Mon, 20 Jul 2026 14:30:42 +0000",
       "summary": "BOOK REVIEW: The Lost Founder: James Wilson and the Forgotten Fight for a People’s Constitution by Jesse Wegman (New York: Celadon Books, 2026) $30.00 hardcover  The Broadway play 1776 depicts James Wilson, a Pennsylvania delegate to the Continental Congress, as a cowardly, spineless understudy of John Dickinson, who opposed the Declaration of Independence. This portrayal […]\nThe post The Lost Founder: James Wilson and the Forgotten Fight for a People’s Constitution appeared first on Journal of the American Revolution.",
       "url": "https://allthingsliberty.com/2026/07/the-lost-founder-james-wilson-and-the-forgotten-fight-for-a-peoples-constitution/"
-    },
-    {
-      "category": "Theology",
-      "title": "Single Pastor, Embrace Your Limits",
-      "source": "9Marks",
-      "date": "Wed, 15 Jul 2026 20:22:14 +0000",
-      "summary": "My attempt to run harder had me running on fumes. Being a single man didn’t change the fact that I am just a man.\nThe post Single Pastor, Embrace Your Limits appeared first on 9Marks.",
-      "url": "https://www.9marks.org/article/single-pastor-embrace-your-limits/?utm_source=rss&utm_medium=rss&utm_campaign=single-pastor-embrace-your-limits"
     },
     {
       "category": "History",
