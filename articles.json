@@ -1,54 +1,126 @@
 {
-  "lastUpdated": "2026-07-24T17:22:28.270Z",
+  "lastUpdated": "2026-07-24T22:55:20.037Z",
   "articleCount": 39,
   "articles": [
     {
       "category": "Science",
-      "title": "Review finds lack of evidence as to whether planting around our homes reduces the pollution we breathe",
+      "title": "Wound odors may unlock better traps for flesh-eating New World screwworm",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Fri, 24 Jul 2026 13:20:07 EDT",
-      "summary": "A new review led by the University of East London (UEL) has uncovered a major blind spot in air pollution research. Despite domestic gardens covering vast areas of Britain's towns and cities, researchers found no direct evidence showing whether they reduce pollution levels or improve the air people breathe at home. There is a huge gap in understanding the role of domestic gardens in air quality.",
-      "url": "https://phys.org/news/2026-07-lack-evidence-homes-pollution.html"
+      "date": "Fri, 24 Jul 2026 18:20:01 EDT",
+      "summary": "Jessica Metcalf's work stinks. Literally. But the Colorado State University professor's research may be key to protecting livestock and wildlife from a flesh-eating parasite.",
+      "url": "https://phys.org/news/2026-07-wound-odors-flesh-world-screwworm.html"
+    },
+    {
+      "category": "AI",
+      "title": "Canadian legislator reads out apparent LLM response in floor speech",
+      "source": "Ars Technica - All content",
+      "date": "Fri, 24 Jul 2026 21:25:15 +0000",
+      "summary": "\"Here’s a more natural, flowing version of that section...\"",
+      "url": "https://arstechnica.com/ai/2026/07/canadian-legislator-reads-out-apparent-llm-response-in-floor-speech/"
     },
     {
       "category": "Science",
-      "title": "Rocks from unexplored far side of the moon help rewrite lunar history",
+      "title": "Long-lived ytterbium states could sharpen quantum computing and atomic clocks",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Fri, 24 Jul 2026 13:20:04 EDT",
-      "summary": "Ancient samples from the moon's far side are helping scientists uncover how asteroid impacts shaped the early solar system. The findings challenge decades of thinking about when those impacts occurred and offer new insights into the conditions that influenced Earth's evolution.",
-      "url": "https://phys.org/news/2026-07-unexplored-side-moon-rewrite-lunar.html"
+      "date": "Fri, 24 Jul 2026 17:20:02 EDT",
+      "summary": "Researchers from the University of Amsterdam and the University of New South Wales have answered a question that has been around for decades: whether ions of the metal ytterbium can enter certain long-lived, nearly stable states and, if so, for how long. The measured long-lived states may find applications in quantum computers and atomic clocks.",
+      "url": "https://phys.org/news/2026-07-ytterbium-states-sharpen-quantum-atomic.html"
+    },
+    {
+      "category": "AI",
+      "title": "Anthropic's Opus 5 is about token efficiency, not a capability leap",
+      "source": "Ars Technica - All content",
+      "date": "Fri, 24 Jul 2026 21:05:51 +0000",
+      "summary": "Models are improving quickly, but the cheaper options are often good enough.",
+      "url": "https://arstechnica.com/ai/2026/07/anthropics-opus-5-is-about-token-efficiency-not-a-capability-leap/"
+    },
+    {
+      "category": "AI",
+      "title": "Show HN: Max Studio Tools – C++ DSP Modules for Max and Ableton Live",
+      "source": "Hacker News: Front Page",
+      "date": "Fri, 24 Jul 2026 21:03:10 +0000",
+      "summary": "Article URL: https://github.com/apresta/max-studio-tools\nComments URL: https://news.ycombinator.com/item?id=49041546\nPoints: 8\n# Comments: 0",
+      "url": "https://github.com/apresta/max-studio-tools"
     },
     {
       "category": "Science",
-      "title": "Trust among farmers is key to scaling climate-smart innovations",
+      "title": "Study explores the hedging capability of cryptocurrencies in turbulent markets",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Fri, 24 Jul 2026 13:00:03 EDT",
-      "summary": "As the climate becomes increasingly variable and extreme events become more frequent, accelerating the use of innovations that can strengthen agricultural resilience has become a priority for agrifood systems. Science has made progress in developing solutions with the potential to help farmers address these challenges. However, ensuring that knowledge about these innovations reaches more farmers and is understood, adapted and scaled remains one of the major challenges in research for development.",
-      "url": "https://phys.org/news/2026-07-farmers-key-scaling-climate-smart.html"
+      "date": "Fri, 24 Jul 2026 16:20:01 EDT",
+      "summary": "The rapid growth of sustainable finance in recent years has fueled interest in green investment, ranging from green bonds and environmental, social and governance (ESG) funds to energy-efficient cryptocurrencies. While these assets are often grouped under the broader umbrella of green finance, their interaction during periods of market stress remains largely unexplored.",
+      "url": "https://phys.org/news/2026-07-explores-hedging-capability-cryptocurrencies-turbulent.html"
+    },
+    {
+      "category": "Science",
+      "title": " 1,200-year-old infant burial found near famous Temple of Artemis in Turkey contains twins — one with an unusual extra rib ",
+      "source": " Latest from Live Science ",
+      "date": "Fri, 24 Jul 2026 20:13:03 +0000",
+      "summary": "The two infants buried in the same Byzantine-era grave may have been twins who died around the time of birth.",
+      "url": "https://www.livescience.com/archaeology/1-200-year-old-infant-burial-found-near-famous-temple-of-artemis-in-turkey-contains-twins-one-with-an-unusual-extra-rib"
+    },
+    {
+      "category": "Space",
+      "title": " ZWO Seestar S30 Pro smart telescope review ",
+      "source": " Latest from Space.com ",
+      "date": "Fri, 24 Jul 2026 20:00:00 +0000",
+      "summary": "A compact, automated smart telescope with a higher resolution upgrade",
+      "url": "https://www.space.com/stargazing/skywatching-kit/zwo-seestar-s30-pro-smart-telescope-review"
+    },
+    {
+      "category": "Science",
+      "title": " Cyclospora parasite outbreak linked to lettuce expands to 9 states, with over 1,900 people sickened ",
+      "source": " Latest from Live Science ",
+      "date": "Fri, 24 Jul 2026 19:53:31 +0000",
+      "summary": "Additional states have been added to the list of locations impacted by an outbreak of foodborne illness tied to iceberg lettuce.",
+      "url": "https://www.livescience.com/health/viruses-infections-disease/cyclospora-parasite-outbreak-linked-to-lettuce-expands-to-9-states-with-over-1-900-people-sickened"
     },
     {
       "category": "AI",
-      "title": "Claude Opus 5",
+      "title": "Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard",
       "source": "Hacker News: Front Page",
-      "date": "Fri, 24 Jul 2026 16:57:41 +0000",
-      "summary": "Article URL: https://www.anthropic.com/claude-opus-5-system-card\nComments URL: https://news.ycombinator.com/item?id=49038433\nPoints: 159\n# Comments: 71",
-      "url": "https://www.anthropic.com/claude-opus-5-system-card"
+      "date": "Fri, 24 Jul 2026 19:45:10 +0000",
+      "summary": "Article URL: https://artificialanalysis.ai/models\nComments URL: https://news.ycombinator.com/item?id=49040741\nPoints: 28\n# Comments: 14",
+      "url": "https://artificialanalysis.ai/models"
     },
     {
       "category": "AI",
-      "title": "Claude Opus 5",
-      "source": "Hacker News: Front Page",
-      "date": "Fri, 24 Jul 2026 16:55:26 +0000",
-      "summary": "Article URL: https://www.anthropic.com/news/claude-opus-5\nComments URL: https://news.ycombinator.com/item?id=49038393\nPoints: 25\n# Comments: 6",
-      "url": "https://www.anthropic.com/news/claude-opus-5"
+      "title": "Roku raises streaming stick prices by up to 60 percent",
+      "source": "Ars Technica - All content",
+      "date": "Fri, 24 Jul 2026 19:41:06 +0000",
+      "summary": "Roku blames RAM shortage after CEO called it \"great\" for business in May.",
+      "url": "https://arstechnica.com/gadgets/2026/07/roku-raises-streaming-stick-prices-by-up-to-60-percent/"
     },
     {
       "category": "AI",
-      "title": "As of JDK 27, Oracle engineers will thus stop maintaining the macOS/x64 port",
+      "title": "Postgres LISTEN/NOTIFY actually scales",
       "source": "Hacker News: Front Page",
-      "date": "Fri, 24 Jul 2026 16:52:33 +0000",
-      "summary": "Article URL: https://openjdk.org/jeps/541\nComments URL: https://news.ycombinator.com/item?id=49038352\nPoints: 33\n# Comments: 13",
-      "url": "https://openjdk.org/jeps/541"
+      "date": "Fri, 24 Jul 2026 19:05:53 +0000",
+      "summary": "Article URL: https://www.dbos.dev/blog/postgres-listen-notify-scalability\nComments URL: https://news.ycombinator.com/item?id=49040296\nPoints: 147\n# Comments: 28",
+      "url": "https://www.dbos.dev/blog/postgres-listen-notify-scalability"
+    },
+    {
+      "category": "Science",
+      "title": " 6-year-old in China dies after experimental treatment, investigation finds, raising questions about the country's gene therapy regulations ",
+      "source": " Latest from Live Science ",
+      "date": "Fri, 24 Jul 2026 18:02:20 +0000",
+      "summary": "A young girl in China died after being given an experimental gene therapy intended to treat a neurodevelopmental syndrome, an investigation by Science and Retraction Watch revealed.",
+      "url": "https://www.livescience.com/health/genetics/6-year-old-in-china-dies-after-experimental-treatment-investigation-finds-raising-questions-about-the-countrys-gene-therapy-regulations"
+    },
+    {
+      "category": "Space",
+      "title": " We boldly chat to 'Star Trek: Strange New Worlds' showrunners about dinosaurs in space and Lovecraftian horrors for season 4 (interview) ",
+      "source": " Latest from Space.com ",
+      "date": "Fri, 24 Jul 2026 18:00:00 +0000",
+      "summary": "'The minute we started talking about doing dinosaurs, we were like, 'Yeah, let’s figure out a way to do that.''",
+      "url": "https://www.space.com/entertainment/space-movies-shows/we-boldly-chat-to-star-trek-strange-new-worlds-showrunners-about-dinosaurs-in-space-and-lovecraftian-horrors-for-season-4-interview"
+    },
+    {
+      "category": "Space",
+      "title": "NASA’s ESCAPADE Snaps Family Portrait of Earth, Moon",
+      "source": "NASA",
+      "date": "Fri, 24 Jul 2026 17:47:06 +0000",
+      "summary": "On July 3, one of NASA’s two Mars-destined ESCAPADE (Escape and Plasma Acceleration and Dynamics Explorers) spacecraft captured photos of Earth and the Moon in visible and thermal infrared light. At the time, the spacecraft was 363,250 miles (584,600 kilometers) from Earth and 115,600 miles (186,100 kilometers) from the Moon, making the Moon appear relatively […]",
+      "url": "https://science.nasa.gov/image-article/centers-and-facilities/goddard/nasas-escapade-snaps-family-portrait-of-earth-moon/"
     },
     {
       "category": "Space",
@@ -75,70 +147,6 @@
       "url": "https://www.space.com/astronomy/jupiter/juno-probe-reveals-whats-happening-beneath-the-surface-of-jupiters-most-volcanic-moon"
     },
     {
-      "category": "Science",
-      "title": " 'Much more violent than predicted': A chunk of the universe's missing matter was powerfully hurled out of galaxies ",
-      "source": " Latest from Live Science ",
-      "date": "Fri, 24 Jul 2026 15:36:22 +0000",
-      "summary": "The total amount of ordinary matter in our universe adds up to roughly one-tenth of what's expected. Now, scientists think they may have found some of it between galaxies.",
-      "url": "https://www.livescience.com/space/astronomy/much-more-violent-than-predicted-a-chunk-of-the-universes-missing-matter-was-powerfully-hurled-out-of-galaxies"
-    },
-    {
-      "category": "Space",
-      "title": "NASA to Support Blue Origin New Glenn Rocket Testing, Advance Artemis",
-      "source": "NASA",
-      "date": "Fri, 24 Jul 2026 15:30:21 +0000",
-      "summary": "NASA and Blue Origin announced Friday they recently agreed to conduct second stage hot fire testing for the company’s New Glenn rocket on the B-2 test stand at the agency’s Stennis Space Center near Bay St. Louis, Mississippi. The annex to a reimbursable Space Act Agreement signed earlier this month highlights NASA’s commitment to working […]",
-      "url": "https://www.nasa.gov/news-release/nasa-to-support-blue-origin-new-glenn-rocket-testing-advance-artemis/"
-    },
-    {
-      "category": "AI",
-      "title": "This is the world's most advanced robotic servicing satellite—that we know about",
-      "source": "Ars Technica - All content",
-      "date": "Fri, 24 Jul 2026 15:23:06 +0000",
-      "summary": "\"These are things that tend to be really hard.\"",
-      "url": "https://arstechnica.com/space/2026/07/this-is-the-worlds-most-advanced-robotic-servicing-satellite-that-we-know-about/"
-    },
-    {
-      "category": "Science",
-      "title": " AI web browsers 'aren't ready for the public,' scientists warn as they highlight massive security red flags ",
-      "source": " Latest from Live Science ",
-      "date": "Fri, 24 Jul 2026 15:00:00 +0000",
-      "summary": "By enhancing the functionality of agentic browsers, they have become insecure and could be sharing personal information.",
-      "url": "https://www.livescience.com/technology/computing/ai-web-browsers-arent-ready-for-the-public-scientists-warn-as-they-highlight-massive-security-red-flags"
-    },
-    {
-      "category": "AI",
-      "title": "Rocket Report: Lightning strikes in China; Starship launch on deck",
-      "source": "Ars Technica - All content",
-      "date": "Fri, 24 Jul 2026 14:34:25 +0000",
-      "summary": "Relativity Space announced plans to build a second rocket factory near Cape Canaveral, Florida.",
-      "url": "https://arstechnica.com/space/2026/07/rocket-report-lightning-strikes-in-china-starship-launch-on-deck/"
-    },
-    {
-      "category": "Space",
-      "title": " Planet hunter gets the silent treatment | Space photo of the day for July 24, 2026 ",
-      "source": " Latest from Space.com ",
-      "date": "Fri, 24 Jul 2026 14:00:00 +0000",
-      "summary": "ESA's Plato spacecraft completes critical testing ahead of its spaceflight.",
-      "url": "https://www.space.com/space-exploration/planet-hunter-gets-the-silent-treatment-space-photo-of-the-day-for-july-24-2026"
-    },
-    {
-      "category": "AI",
-      "title": "AI firms want more data centers; Trump's EPA may give neighbors less say",
-      "source": "Ars Technica - All content",
-      "date": "Fri, 24 Jul 2026 13:49:38 +0000",
-      "summary": "Rule would allow states to decide how much—if any—public input there can be.",
-      "url": "https://arstechnica.com/tech-policy/2026/07/ai-firms-want-more-data-centers-trumps-epa-may-give-neighbors-less-say/"
-    },
-    {
-      "category": "Space",
-      "title": " The easiest way to learn the summer night sky starts with these 3 stars ",
-      "source": " Latest from Space.com ",
-      "date": "Fri, 24 Jul 2026 13:00:00 +0000",
-      "summary": "How to use the Summer Triangle stars — Vega, Deneb and Altair — as a key to unlock your understanding of the night sky.",
-      "url": "https://www.space.com/stargazing/the-easiest-way-to-learn-the-summer-night-sky-starts-with-these-3-stars"
-    },
-    {
       "category": "Biblical Studies",
       "title": "Measuring Time Through Trees",
       "source": "Biblical Archaeology Society",
@@ -153,14 +161,6 @@
       "date": "Fri, 24 Jul 2026 10:00:13 +0000",
       "summary": "In an excavation just outside the southern wall of the Old City of Jerusalem, in the neighborhood known as Mount Zion, archaeologists working in 2009 […]\nThe post The Mysterious Inscribed Mug from Mount Zion appeared first on Biblical Archaeology Society.",
       "url": "https://www.biblicalarchaeology.org/daily/biblical-artifacts/inscriptions/mysterious-mug/"
-    },
-    {
-      "category": "Science",
-      "title": " 'Rescheduling' cannabis would ease restrictions on science, opening the door to the largest investment in cannabis research we've seen to date ",
-      "source": " Latest from Live Science ",
-      "date": "Fri, 24 Jul 2026 09:00:00 +0000",
-      "summary": "Rescheduling cannabis could mark a major shift in research, but it alone will not eliminate the scientific, regulatory and patient-access challenges that have shaped medical cannabis for decades, says clinical researcher Raymond Palidora",
-      "url": "https://www.livescience.com/health/medicine-drugs/rescheduling-cannabis-would-ease-restrictions-on-science-opening-the-door-to-the-largest-investment-in-cannabis-research-weve-seen-to-date-opinion"
     },
     {
       "category": "Science",
