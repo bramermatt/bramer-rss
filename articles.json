@@ -1,46 +1,62 @@
 {
-  "lastUpdated": "2026-07-26T16:51:18.248Z",
+  "lastUpdated": "2026-07-26T22:53:04.744Z",
   "articleCount": 36,
   "articles": [
     {
-      "category": "Science",
-      "title": "A quantum heat engine that simultaneously provides work and refrigeration",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sun, 26 Jul 2026 12:20:01 EDT",
-      "summary": "The laws of thermodynamics state that heat naturally flows from hotter systems or regions to colder systems or regions until a state of thermal equilibrium is reached. This simple principle underpins the operation of numerous technologies, ranging from refrigerators to power plants.",
-      "url": "https://phys.org/news/2026-07-quantum-simultaneously-refrigeration.html"
-    },
-    {
       "category": "AI",
-      "title": "This July I Was Fired from Simple AI (A Deeply YC Company)",
+      "title": "Teaching Kids Forth – Anna Liberty",
       "source": "Hacker News: Front Page",
-      "date": "Sun, 26 Jul 2026 16:14:46 +0000",
-      "summary": "Article URL: https://andys.blog/this-july-i-was-fired-from-simple-ai/\nComments URL: https://news.ycombinator.com/item?id=49059587\nPoints: 7\n# Comments: 1",
-      "url": "https://andys.blog/this-july-i-was-fired-from-simple-ai/"
-    },
-    {
-      "category": "AI",
-      "title": "Make an Origami Circuit Board",
-      "source": "Hacker News: Front Page",
-      "date": "Sun, 26 Jul 2026 15:56:08 +0000",
-      "summary": "Article URL: https://spectrum.ieee.org/origami-circuit-boards\nComments URL: https://news.ycombinator.com/item?id=49059418\nPoints: 4\n# Comments: 0",
-      "url": "https://spectrum.ieee.org/origami-circuit-boards"
-    },
-    {
-      "category": "AI",
-      "title": "Show HN: CheapSecurity – Lightweight, Self-Hosted CCTV for Linux SBCs",
-      "source": "Hacker News: Front Page",
-      "date": "Sun, 26 Jul 2026 15:53:55 +0000",
-      "summary": "Article URL: https://github.com/gmrandazzo/CheapSecurity\nComments URL: https://news.ycombinator.com/item?id=49059398\nPoints: 11\n# Comments: 1",
-      "url": "https://github.com/gmrandazzo/CheapSecurity"
+      "date": "Sun, 26 Jul 2026 21:39:17 +0000",
+      "summary": "Article URL: https://gracefulliberty.com/articles/teaching-kids-forth/\nComments URL: https://news.ycombinator.com/item?id=49062700\nPoints: 14\n# Comments: 4",
+      "url": "https://gracefulliberty.com/articles/teaching-kids-forth/"
     },
     {
       "category": "Science",
-      "title": "DNA vacuum captures animal traces from air to map Danish wildlife",
+      "title": "Forest productivity, not rapid warming, shapes Northern Eurasia's carbon sink",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Sun, 26 Jul 2026 10:30:03 EDT",
-      "summary": "Researchers have developed a DNA vacuum that can suck genetic traces from animals out of the air and reveal which animals live in an area. In two new studies, the researchers collected air samples in three natural areas in Denmark and showed that the method can be used to map local wildlife. This brings them a major step closer to better monitoring biodiversity using DNA from the air.",
-      "url": "https://phys.org/news/2026-07-dna-vacuum-captures-animal-air.html"
+      "date": "Sun, 26 Jul 2026 17:00:01 EDT",
+      "summary": "Northern Eurasia contains about 20% of the world's forests and plays a crucial role in mitigating climate change by absorbing atmospheric carbon dioxide, thereby acting as a major carbon sink. However, understanding the region's carbon sink is challenging because it is influenced by multiple interacting factors, including rapid climate change, wildfires, land-use change and limited observational coverage across its vast extent.",
+      "url": "https://phys.org/news/2026-07-forest-productivity-rapid-northern-eurasia.html"
+    },
+    {
+      "category": "AI",
+      "title": "We have proof automation now",
+      "source": "Hacker News: Front Page",
+      "date": "Sun, 26 Jul 2026 20:53:26 +0000",
+      "summary": "Article URL: https://www.imperialviolet.org/2026/07/26/zstd-lean.html\nComments URL: https://news.ycombinator.com/item?id=49062291\nPoints: 22\n# Comments: 1",
+      "url": "https://www.imperialviolet.org/2026/07/26/zstd-lean.html"
+    },
+    {
+      "category": "AI",
+      "title": "Multiway Turing Machines (2021 pre-ai)",
+      "source": "Hacker News: Front Page",
+      "date": "Sun, 26 Jul 2026 20:49:43 +0000",
+      "summary": "Article URL: https://bulletins.wolframphysics.org/2021/02/multiway-turing-machines/\nComments URL: https://news.ycombinator.com/item?id=49062259\nPoints: 14\n# Comments: 3",
+      "url": "https://bulletins.wolframphysics.org/2021/02/multiway-turing-machines/"
+    },
+    {
+      "category": "AI",
+      "title": "First teaser for Apple TV's Neuromancer debuts at SDCC",
+      "source": "Ars Technica - All content",
+      "date": "Sun, 26 Jul 2026 19:48:43 +0000",
+      "summary": "Plus Mike Flanagan's Carrie teaser, trailers for Dark Matter S2 and Matchbox the Movie, and Marvel news.",
+      "url": "https://arstechnica.com/culture/2026/07/first-teaser-for-apple-tvs-neuromancer-debuts-at-sdcc/"
+    },
+    {
+      "category": "Science",
+      "title": "Twisted laser light distinguishes mirror-image molecules by their fragment counts",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sun, 26 Jul 2026 15:00:01 EDT",
+      "summary": "Many molecules exist in two mirror-image forms—like left and right hands—that look identical but can behave very differently, especially in biological systems and pharmaceuticals. Distinguishing between these enantiomers (also called chiral molecules) is a longstanding challenge in science and technology. A useful analogy is that of a screw and a nut: A right-handed screw fits only into a right-handed thread, while a left-handed one will not engage properly.",
+      "url": "https://phys.org/news/2026-07-laser-distinguishes-mirror-image-molecules.html"
+    },
+    {
+      "category": "Science",
+      "title": "When a teenager makes the 'stupid choice,' their brain is working exactly as designed",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sun, 26 Jul 2026 14:00:04 EDT",
+      "summary": "When an adult refuses to let an injustice pass—stands up to a bully or asserts their rights—we call it principle. When a 15-year-old retaliates to an insult thrown in a school corridor, risking detention, we call it a failure to think ahead. It's easy to ascribe this to a not-yet-developed teenage brain: a convenient shorthand for assuming they simply cannot weigh consequences properly.",
+      "url": "https://phys.org/news/2026-07-teenager-stupid-choice-brain.html"
     },
     {
       "category": "Science",
@@ -49,14 +65,6 @@
       "date": "Sun, 26 Jul 2026 09:18:59 EDT",
       "summary": "Giant sequoias are built to withstand ordinary fires, but recent extreme wildfires killed thousands of trees that had survived for centuries or even millennia. A new analysis of about 26,400 sequoias found that trees in areas treated with prescribed burns were nearly four times more likely to survive. Researchers estimate the controlled fires prevented about 1,900 deaths and could have saved thousands more if used across every grove.",
       "url": "https://www.sciencedaily.com/releases/2026/07/260726015243.htm"
-    },
-    {
-      "category": "Science",
-      "title": "Angola's oldest burials, including its only known ancient cremation, uncovered at a 15th-century site doomed by a dam",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sun, 26 Jul 2026 09:00:02 EDT",
-      "summary": "As the construction of a hydroelectric dam loomed, archaeologists raced to uncover Angola's earliest dated burials and its only known cremation at a 15th-century settlement before it vanished beneath the water.",
-      "url": "https://phys.org/news/2026-07-angola-oldest-burials-ancient-cremation.html"
     },
     {
       "category": "Space",
@@ -68,19 +76,19 @@
     },
     {
       "category": "Science",
-      "title": " How to watch 'Air Jaws: Red, White and Breach' – stream 'Shark Week' 2026 from anywhere ",
-      "source": " Latest from Live Science ",
-      "date": "Sun, 26 Jul 2026 12:00:00 +0000",
-      "summary": "How to watch \"Air Jaws: Red, White and Breach\" online, as Jeff Kurr, Alison Towner and Andy Casagrande aim to capture breaching great white sharks on film.",
-      "url": "https://www.livescience.com/animals/how-to-watch-air-jaws-red-white-and-breach-stream-shark-week-2026"
-    },
-    {
-      "category": "Science",
       "title": " 2 meteor showers peak on the same night this week ‪—‬ how to get the best views, despite a near-full moon ",
       "source": " Latest from Live Science ",
       "date": "Sun, 26 Jul 2026 12:00:00 +0000",
       "summary": "The Delta Aquariids peak on July 30-31, kicking off \"meteor season,\" though bright moonlight will likely limit views.",
       "url": "https://www.livescience.com/space/meteoroids/2-meteor-showers-peak-on-the-same-night-this-week-how-to-get-the-best-views-despite-a-near-full-moon"
+    },
+    {
+      "category": "Science",
+      "title": " How to watch 'Air Jaws: Red, White and Breach' – stream 'Shark Week' 2026 from anywhere ",
+      "source": " Latest from Live Science ",
+      "date": "Sun, 26 Jul 2026 12:00:00 +0000",
+      "summary": "How to watch \"Air Jaws: Red, White and Breach\" online, as Jeff Kurr, Alison Towner and Andy Casagrande aim to capture breaching great white sharks on film.",
+      "url": "https://www.livescience.com/animals/how-to-watch-air-jaws-red-white-and-breach-stream-shark-week-2026"
     },
     {
       "category": "Science",
@@ -145,14 +153,6 @@
       "date": "Sat, 25 Jul 2026 16:00:00 +0000",
       "summary": "'I believe that we, as a crew, saved space station Mir that day'",
       "url": "https://www.space.com/entertainment/space-movies-shows/we-talk-with-astronaut-michael-foale-about-the-1997-space-station-mir-crisis-he-took-all-the-blame-of-the-collision-on-his-shoulders"
-    },
-    {
-      "category": "AI",
-      "title": "With help from data, art museums are reframing the visitor experience",
-      "source": "Ars Technica - All content",
-      "date": "Sat, 25 Jul 2026 11:00:32 +0000",
-      "summary": "Museums are embracing data-driven curation and a shifting technology landscape.",
-      "url": "https://arstechnica.com/culture/2026/07/with-help-from-data-art-museums-are-reframing-the-visitor-experience/"
     },
     {
       "category": "Theology",
