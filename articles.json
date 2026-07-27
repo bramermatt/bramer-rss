@@ -1,38 +1,150 @@
 {
-  "lastUpdated": "2026-07-26T22:53:04.744Z",
+  "lastUpdated": "2026-07-27T12:51:52.176Z",
   "articleCount": 36,
   "articles": [
     {
+      "category": "Science",
+      "title": "How flying together helps Andean condors save energy",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Mon, 27 Jul 2026 08:40:01 EDT",
+      "summary": "Animals are constantly moving to find food, water, suitable habitats, mates and safe places to rest. Because moving requires substantial energy, animals often rely on various biological and behavioral strategies to reduce unnecessary costs while seeking available resources.",
+      "url": "https://phys.org/news/2026-07-flying-andean-condors-energy.html"
+    },
+    {
       "category": "AI",
-      "title": "Teaching Kids Forth – Anna Liberty",
+      "title": "AI companies are shredding rare books",
       "source": "Hacker News: Front Page",
-      "date": "Sun, 26 Jul 2026 21:39:17 +0000",
-      "summary": "Article URL: https://gracefulliberty.com/articles/teaching-kids-forth/\nComments URL: https://news.ycombinator.com/item?id=49062700\nPoints: 14\n# Comments: 4",
-      "url": "https://gracefulliberty.com/articles/teaching-kids-forth/"
+      "date": "Mon, 27 Jul 2026 12:32:12 +0000",
+      "summary": "Article URL: https://xcancel.com/HedgieMarkets/status/2081534588485296565\nComments URL: https://news.ycombinator.com/item?id=49068738\nPoints: 5\n# Comments: 0",
+      "url": "https://xcancel.com/HedgieMarkets/status/2081534588485296565"
     },
     {
       "category": "Science",
-      "title": "Forest productivity, not rapid warming, shapes Northern Eurasia's carbon sink",
+      "title": "Could we send a spacecraft to a black hole?",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Sun, 26 Jul 2026 17:00:01 EDT",
-      "summary": "Northern Eurasia contains about 20% of the world's forests and plays a crucial role in mitigating climate change by absorbing atmospheric carbon dioxide, thereby acting as a major carbon sink. However, understanding the region's carbon sink is challenging because it is influenced by multiple interacting factors, including rapid climate change, wildfires, land-use change and limited observational coverage across its vast extent.",
-      "url": "https://phys.org/news/2026-07-forest-productivity-rapid-northern-eurasia.html"
+      "date": "Mon, 27 Jul 2026 08:20:04 EDT",
+      "summary": "Black holes represent some of the most extreme environments in the universe. They are the sources of the strongest gravitational fields, allowing us to test Einstein's theory of general relativity to an extent impossible with small objects. But we are also reaching the limit of what we can learn about one remotely. So, various authors have put forward ideas for how we might eventually send a probe directly to a black hole to observe it up close. One of the most vocal of those authors is Cosimo Bambi of Fudan University in Shanghai—and he recently released a paper, available as a preprint on arXiv, about what it would take to send a gram-sized probe to a nearby black hole.",
+      "url": "https://phys.org/news/2026-07-spacecraft-black-hole.html"
+    },
+    {
+      "category": "Science",
+      "title": "Exploring why societies around the world no longer bury their dead at home",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Mon, 27 Jul 2026 08:00:37 EDT",
+      "summary": "There are countless cultures and societies around the world, spanning thousands of years. One thing they all have in common is that death is a part of everybody's life. Examining how different societies commemorate their dead can give archaeologists and anthropologists insight into how those societies work and what matters to them.",
+      "url": "https://phys.org/news/2026-07-exploring-societies-world-longer-dead.html"
+    },
+    {
+      "category": "Science",
+      "title": " 'Feynman and followers, you guys are off': Physicists disprove decades-old Richard Feynman theory on 'silly' sprinklers ",
+      "source": " Latest from Live Science ",
+      "date": "Mon, 27 Jul 2026 12:00:00 +0000",
+      "summary": "Scientists have pinned down why a sprinkler spins when it sucks in water instead of spraying it out — a problem that stumped Richard Feynman and has divided physicists for nearly a century.",
+      "url": "https://www.livescience.com/physics-mathematics/feynman-and-followers-you-guys-are-off-physicists-disprove-decades-old-richard-feynman-theory-on-silly-sprinklers"
+    },
+    {
+      "category": "Space",
+      "title": " Private companies could ruin the night sky for the entire world, and international law can't stop them ",
+      "source": " Latest from Space.com ",
+      "date": "Mon, 27 Jul 2026 12:00:00 +0000",
+      "summary": "The U.S. Federal Communications Commission (FCC) can single-handedly approve space projects that will change the night sky around the world. The international community can do very little against it.",
+      "url": "https://www.space.com/space-exploration/satellites/private-companies-could-ruin-the-night-sky-for-the-entire-world-and-international-law-cant-stop-them"
     },
     {
       "category": "AI",
-      "title": "We have proof automation now",
+      "title": "Elevated errors on Claude Opus 5",
       "source": "Hacker News: Front Page",
-      "date": "Sun, 26 Jul 2026 20:53:26 +0000",
-      "summary": "Article URL: https://www.imperialviolet.org/2026/07/26/zstd-lean.html\nComments URL: https://news.ycombinator.com/item?id=49062291\nPoints: 22\n# Comments: 1",
-      "url": "https://www.imperialviolet.org/2026/07/26/zstd-lean.html"
+      "date": "Mon, 27 Jul 2026 11:32:32 +0000",
+      "summary": "Article URL: https://status.claude.com/incidents/mfdtrknpxghq\nComments URL: https://news.ycombinator.com/item?id=49068029\nPoints: 9\n# Comments: 11",
+      "url": "https://status.claude.com/incidents/mfdtrknpxghq"
     },
     {
       "category": "AI",
-      "title": "Multiway Turing Machines (2021 pre-ai)",
+      "title": "Google Chrome Arrives on ARM64 Linux, Widevine DRM Included",
       "source": "Hacker News: Front Page",
-      "date": "Sun, 26 Jul 2026 20:49:43 +0000",
-      "summary": "Article URL: https://bulletins.wolframphysics.org/2021/02/multiway-turing-machines/\nComments URL: https://news.ycombinator.com/item?id=49062259\nPoints: 14\n# Comments: 3",
-      "url": "https://bulletins.wolframphysics.org/2021/02/multiway-turing-machines/"
+      "date": "Mon, 27 Jul 2026 11:19:33 +0000",
+      "summary": "Article URL: https://www.omgubuntu.co.uk/2026/07/chrome-arm64-linux-available\nComments URL: https://news.ycombinator.com/item?id=49067919\nPoints: 11\n# Comments: 3",
+      "url": "https://www.omgubuntu.co.uk/2026/07/chrome-arm64-linux-available"
+    },
+    {
+      "category": "Science",
+      "title": " Military's testosterone screening program could lead to overtreatment and side effects, including impaired T production ",
+      "source": " Latest from Live Science ",
+      "date": "Mon, 27 Jul 2026 11:00:00 +0000",
+      "summary": "The U.S. Department of Defense plans to conduct regular testosterone screening of service members, but this practice is not recommended by professional medical organizations.",
+      "url": "https://www.livescience.com/health/reproductive-health/militarys-testosterone-screening-program-could-lead-to-overtreatment-and-side-effects-including-impaired-t-production"
+    },
+    {
+      "category": "Science",
+      "title": " 7 ways to photograph the 2026 total solar eclipse — from smartphone to telescope ",
+      "source": " Latest from Live Science ",
+      "date": "Mon, 27 Jul 2026 11:00:00 +0000",
+      "summary": "Whether you're carrying a phone, a mirrorless camera or a smart telescope, here are some tried and tested ways to capture the Aug. 12, 2026, total solar eclipse.",
+      "url": "https://www.livescience.com/products/optics/7-ways-to-photograph-the-total-solar-eclipse"
+    },
+    {
+      "category": "AI",
+      "title": "Artist sues AI meme generator for selling deeply personal comic as ad template",
+      "source": "Ars Technica - All content",
+      "date": "Mon, 27 Jul 2026 10:50:37 +0000",
+      "summary": "Meme generator may have screwed up by using templates in outputs, expert says.",
+      "url": "https://arstechnica.com/tech-policy/2026/07/artist-sues-ai-meme-generator-for-selling-deeply-personal-comic-as-ad-template/"
+    },
+    {
+      "category": "Biblical Studies",
+      "title": "Who Were the Sea Peoples?",
+      "source": "Biblical Archaeology Society",
+      "date": "Mon, 27 Jul 2026 10:45:58 +0000",
+      "summary": "In Nolan’s new adaptation of the Odyssey, Homer’s epic poem about Odysseus’s struggle to return to his kingdom in Ithaca after the Trojan War, the […]\nThe post Who Were the Sea Peoples? appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-near-eastern-world/who-were-sea-peoples/"
+    },
+    {
+      "category": "Space",
+      "title": " A seed that flew around the moon grew into this tree in NYC ",
+      "source": " Latest from Space.com ",
+      "date": "Mon, 27 Jul 2026 10:00:00 +0000",
+      "summary": "The Madison Square Park Conservancy unveiled its moon tree at a smoky birthday party.",
+      "url": "https://www.space.com/astronomy/moon/a-seed-that-flew-around-the-moon-grew-into-this-tree-in-nyc"
+    },
+    {
+      "category": "Space",
+      "title": " This is the best lunar eclipse until New Year's Eve 2028 — Here's how to spot the 'almost blood moon' on Aug. 27 ",
+      "source": " Latest from Space.com ",
+      "date": "Mon, 27 Jul 2026 10:00:00 +0000",
+      "summary": "The countdown is on! Millions of skywatchers will have front-row seats to a dramatic 96% 'blood moon' lunar eclipse. Here's what you need to know.",
+      "url": "https://www.space.com/stargazing/lunar-eclipses/this-is-the-best-lunar-eclipse-until-new-years-eve-2028-heres-how-to-spot-the-almost-blood-moon-on-aug-27"
+    },
+    {
+      "category": "Theology",
+      "title": "AI and the Image of God: What Does It Mean to be Human? (with Stephen Driscoll)",
+      "source": "The Gospel Coalition",
+      "date": "Mon, 27 Jul 2026 04:04:27 +0000",
+      "summary": "Stephen Driscoll considers how AI threatens human uniqueness in intelligence, creativity, and productivity.",
+      "url": "https://www.thegospelcoalition.org/podcasts/silicon-spiritualities/ai-image-god-human/"
+    },
+    {
+      "category": "Theology",
+      "title": "Engage Teens with the Whole Bible",
+      "source": "The Gospel Coalition",
+      "date": "Mon, 27 Jul 2026 04:02:00 +0000",
+      "summary": "As teenagers live in this world with all its confusion and heartache, we want them to know that the Bible contains the words of eternal life.",
+      "url": "https://www.thegospelcoalition.org/article/teens-whole-bible/"
+    },
+    {
+      "category": "Theology",
+      "title": "Why Some Church Fathers Are Hard to Read",
+      "source": "The Gospel Coalition",
+      "date": "Mon, 27 Jul 2026 04:00:00 +0000",
+      "summary": "When we labor over what we read, we end up sharpening our spiritual intellects more than if we were told the truth directly.",
+      "url": "https://www.thegospelcoalition.org/article/church-fathers-hard-read/"
+    },
+    {
+      "category": "AI",
+      "title": "How AI is expanding what people do at work",
+      "source": "OpenAI News",
+      "date": "Mon, 27 Jul 2026 03:30:00 GMT",
+      "summary": "New OpenAI research shows how AI is expanding what workers do, with ChatGPT users taking on tasks across roles and reshaping job boundaries.",
+      "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work"
     },
     {
       "category": "AI",
@@ -44,22 +156,6 @@
     },
     {
       "category": "Science",
-      "title": "Twisted laser light distinguishes mirror-image molecules by their fragment counts",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sun, 26 Jul 2026 15:00:01 EDT",
-      "summary": "Many molecules exist in two mirror-image forms—like left and right hands—that look identical but can behave very differently, especially in biological systems and pharmaceuticals. Distinguishing between these enantiomers (also called chiral molecules) is a longstanding challenge in science and technology. A useful analogy is that of a screw and a nut: A right-handed screw fits only into a right-handed thread, while a left-handed one will not engage properly.",
-      "url": "https://phys.org/news/2026-07-laser-distinguishes-mirror-image-molecules.html"
-    },
-    {
-      "category": "Science",
-      "title": "When a teenager makes the 'stupid choice,' their brain is working exactly as designed",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sun, 26 Jul 2026 14:00:04 EDT",
-      "summary": "When an adult refuses to let an injustice pass—stands up to a bully or asserts their rights—we call it principle. When a 15-year-old retaliates to an insult thrown in a school corridor, risking detention, we call it a failure to think ahead. It's easy to ascribe this to a not-yet-developed teenage brain: a convenient shorthand for assuming they simply cannot weigh consequences properly.",
-      "url": "https://phys.org/news/2026-07-teenager-stupid-choice-brain.html"
-    },
-    {
-      "category": "Science",
       "title": "The best way to save giant sequoias may be more fire",
       "source": "All Top News -- ScienceDaily",
       "date": "Sun, 26 Jul 2026 09:18:59 EDT",
@@ -67,44 +163,12 @@
       "url": "https://www.sciencedaily.com/releases/2026/07/260726015243.htm"
     },
     {
-      "category": "Space",
-      "title": " What happened to space horror movies? ",
-      "source": " Latest from Space.com ",
-      "date": "Sun, 26 Jul 2026 13:00:00 +0000",
-      "summary": "They mostly don't come out anymore... mostly.",
-      "url": "https://www.space.com/entertainment/space-movies-shows/what-happened-to-space-horror-movies"
-    },
-    {
-      "category": "Science",
-      "title": " 2 meteor showers peak on the same night this week ‪—‬ how to get the best views, despite a near-full moon ",
-      "source": " Latest from Live Science ",
-      "date": "Sun, 26 Jul 2026 12:00:00 +0000",
-      "summary": "The Delta Aquariids peak on July 30-31, kicking off \"meteor season,\" though bright moonlight will likely limit views.",
-      "url": "https://www.livescience.com/space/meteoroids/2-meteor-showers-peak-on-the-same-night-this-week-how-to-get-the-best-views-despite-a-near-full-moon"
-    },
-    {
-      "category": "Science",
-      "title": " How to watch 'Air Jaws: Red, White and Breach' – stream 'Shark Week' 2026 from anywhere ",
-      "source": " Latest from Live Science ",
-      "date": "Sun, 26 Jul 2026 12:00:00 +0000",
-      "summary": "How to watch \"Air Jaws: Red, White and Breach\" online, as Jeff Kurr, Alison Towner and Andy Casagrande aim to capture breaching great white sharks on film.",
-      "url": "https://www.livescience.com/animals/how-to-watch-air-jaws-red-white-and-breach-stream-shark-week-2026"
-    },
-    {
-      "category": "Science",
-      "title": " Humanity's first look at the surface of Mars shared on 50th anniversary of historic NASA landing — Space photo of the week ",
-      "source": " Latest from Live Science ",
-      "date": "Sun, 26 Jul 2026 10:00:00 +0000",
-      "summary": "NASA has unearthed the historic photos its Viking 1 lander sent home just after landing on Mars in July, 1976.",
-      "url": "https://www.livescience.com/space/space-exploration/humanitys-first-look-at-the-surface-of-mars-shared-on-50th-anniversary-of-historic-nasa-landing-space-photo-of-the-week"
-    },
-    {
-      "category": "Space",
-      "title": " I'm not an astronaut, but I went to the International Space Station (sort of) ",
-      "source": " Latest from Space.com ",
-      "date": "Sun, 26 Jul 2026 10:00:00 +0000",
-      "summary": "\"Just the fact that it exists, just the fact that it continues to exist. We should marvel at that.\"",
-      "url": "https://www.space.com/space-exploration/international-space-station/im-not-an-astronaut-but-i-went-to-the-international-space-station-sort-of"
+      "category": "Biblical Studies",
+      "title": "3 Pilgrimage Paths from Galilee to Jerusalem",
+      "source": "Biblical Archaeology Society",
+      "date": "Sun, 26 Jul 2026 11:00:39 +0000",
+      "summary": "To celebrate the Feast of Unleavened Bread (Passover), the Feast of Weeks (Shavuot), and the Feast of Booths (Sukkot), many Jews traveled to the Jerusalem […]\nThe post 3 Pilgrimage Paths from Galilee to Jerusalem appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/daily/biblical-topics/new-testament/3-pilgrimage-paths-from-galilee-to-jerusalem/"
     },
     {
       "category": "Science",
@@ -123,14 +187,6 @@
       "url": "https://www.sciencedaily.com/releases/2026/07/260726015236.htm"
     },
     {
-      "category": "Theology",
-      "title": "4 Keys to Preventing Children’s Ministry Burnout",
-      "source": "The Gospel Coalition",
-      "date": "Sun, 26 Jul 2026 04:00:00 +0000",
-      "summary": "Volunteer burnout is a real threat and possibility in every ministry context. Thankfully, it doesn’t have to become a reality.",
-      "url": "https://www.thegospelcoalition.org/article/prevent-childrens-ministry-burnout/"
-    },
-    {
       "category": "AI",
       "title": "SDCC teaser gives us our first good look at Blade Runner 2099",
       "source": "Ars Technica - All content",
@@ -139,52 +195,12 @@
       "url": "https://arstechnica.com/culture/2026/07/sdcc-teaser-gives-us-our-first-good-look-at-blade-runner-2099/"
     },
     {
-      "category": "AI",
-      "title": "SpaceX eyes tower catch for next Starship after auspicious end to 13th flight",
-      "source": "Ars Technica - All content",
-      "date": "Sat, 25 Jul 2026 17:47:22 +0000",
-      "summary": "SpaceX will likely attempt to catch Starship back at the launch pad on its next flight.",
-      "url": "https://arstechnica.com/space/2026/07/spacex-eyes-tower-catch-for-next-starship-after-auspicious-end-to-13th-flight/"
-    },
-    {
-      "category": "Space",
-      "title": " We talk with astronaut Michael Foale about the 1997 Space Station Mir crisis: 'He took all the blame of the collision on his shoulders' ",
-      "source": " Latest from Space.com ",
-      "date": "Sat, 25 Jul 2026 16:00:00 +0000",
-      "summary": "'I believe that we, as a crew, saved space station Mir that day'",
-      "url": "https://www.space.com/entertainment/space-movies-shows/we-talk-with-astronaut-michael-foale-about-the-1997-space-station-mir-crisis-he-took-all-the-blame-of-the-collision-on-his-shoulders"
-    },
-    {
-      "category": "Theology",
-      "title": "What Meeting My Biological Family at 30 Taught Me About the Church",
-      "source": "The Gospel Coalition",
-      "date": "Sat, 25 Jul 2026 04:00:00 +0000",
-      "summary": "At times, it can feel disorienting to realize you have more in common with your spiritual family than with the people you grew up with. But that’s not a problem to solve. It’s an invitation to lean in.",
-      "url": "https://www.thegospelcoalition.org/article/meeting-biological-family-church/"
-    },
-    {
       "category": "Biblical Studies",
-      "title": "Measuring Time Through Trees",
+      "title": "The Staurogram",
       "source": "Biblical Archaeology Society",
-      "date": "Fri, 24 Jul 2026 10:45:08 +0000",
-      "summary": "Most people know that you can count a tree’s rings to determine its age. Many also know that the rings indicate the climate in any […]\nThe post Measuring Time Through Trees appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-israel/measuring-time-through-trees/"
-    },
-    {
-      "category": "Biblical Studies",
-      "title": "The Mysterious Inscribed Mug from Mount Zion",
-      "source": "Biblical Archaeology Society",
-      "date": "Fri, 24 Jul 2026 10:00:13 +0000",
-      "summary": "In an excavation just outside the southern wall of the Old City of Jerusalem, in the neighborhood known as Mount Zion, archaeologists working in 2009 […]\nThe post The Mysterious Inscribed Mug from Mount Zion appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/daily/biblical-artifacts/inscriptions/mysterious-mug/"
-    },
-    {
-      "category": "Theology",
-      "title": "Gospel Hope When Life Doesn’t Make Sense (TGC Classic)",
-      "source": "The Gospel Coalition",
-      "date": "Fri, 24 Jul 2026 04:04:00 +0000",
-      "summary": "Sometimes life just hurts. Out of nowhere, death, illness, unemployment, or a difficult relationship can change our lives and challenge everything we thought we knew.",
-      "url": "https://www.thegospelcoalition.org/podcasts/tgc-podcast/gospel-hope-classic/"
+      "date": "Sat, 25 Jul 2026 11:00:01 +0000",
+      "summary": "The staurogram, a crucifixion symbol made out of the Greek letters tau-rho, is 200 years older than the oldest previously-known images of Jesus on the cross.\nThe post The Staurogram appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/daily/biblical-topics/crucifixion/the-staurogram/"
     },
     {
       "category": "Theology",
@@ -193,14 +209,6 @@
       "date": "Fri, 24 Jul 2026 03:56:53 +0000",
       "summary": "Your use of AI should be something you are proud of—something you’d be glad for the world to see. If it’s something you want to hide, it is probably not glorifying to God.\nThe post Using AI Wisely: A Pastor’s Encouragement to His Church appeared first on 9Marks.",
       "url": "https://www.9marks.org/article/using-ai-wisely/?utm_source=rss&utm_medium=rss&utm_campaign=using-ai-wisely"
-    },
-    {
-      "category": "Biblical Studies",
-      "title": "Who Was Moses? Was He More than an Exodus Hero?",
-      "source": "Biblical Archaeology Society",
-      "date": "Thu, 23 Jul 2026 11:00:42 +0000",
-      "summary": "Who was Moses? Was he more than an Exodus hero? Discover the Biblical Moses with Peter Machinist in his article “The Man Moses.” \nThe post Who Was Moses? Was He More than an Exodus Hero? appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/daily/biblical-topics/exodus/who-was-moses-was-he-more-than-an-exodus-hero/"
     },
     {
       "category": "AI",
@@ -233,14 +241,6 @@
       "date": "Wed, 22 Jul 2026 13:00:00 GMT",
       "summary": "OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex.",
       "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community"
-    },
-    {
-      "category": "AI",
-      "title": "How news organizations are using AI to advance their vital missions",
-      "source": "OpenAI News",
-      "date": "Wed, 22 Jul 2026 13:00:00 GMT",
-      "summary": "News organizations are using AI to strengthen reporting, grow audiences, and improve business operations, with OpenAI tools supporting journalists and publishers worldwide.",
-      "url": "https://openai.com/index/how-news-organizations-are-using-ai"
     },
     {
       "category": "Theology",
