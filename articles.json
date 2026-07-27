@@ -1,126 +1,110 @@
 {
-  "lastUpdated": "2026-07-27T17:37:10.777Z",
-  "articleCount": 39,
+  "lastUpdated": "2026-07-27T22:54:28.013Z",
+  "articleCount": 36,
   "articles": [
     {
-      "category": "Space",
-      "title": " On this day in space! July 27, 1962:  The 1st zero-g cosmonaut training flight takes off on a Soviet jetliner ",
-      "source": " Latest from Space.com ",
-      "date": "Mon, 27 Jul 2026 17:20:20 +0000",
-      "summary": "On July 27, 1962, two Russian cosmonauts boarded a Soviet airliner and experienced weightlessness without going to space.  Here's why it mattered.",
-      "url": "https://www.space.com/space-exploration/on-this-day-in-space-july-27-2026"
+      "category": "Science",
+      "title": "Kids who own cellphones have poorer reading comprehension scores than those who don't, researchers find",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Mon, 27 Jul 2026 18:50:01 EDT",
+      "summary": "School cellphone bans might seem like a good way to improve learning for elementary school children, but new research published in Behavioral Sciences shows that simply owning a cellphone correlates with worse reading comprehension. Whether a child brings the phone to school made no difference in reading comprehension, the team of UCLA psychologists and researchers found.",
+      "url": "https://phys.org/news/2026-07-kids-cellphones-poorer-comprehension-scores.html"
     },
     {
       "category": "Science",
-      "title": "Low-cost, rare-earth-free material for carbon recycling",
+      "title": "Listening to living soil may help people reconnect with nature",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Mon, 27 Jul 2026 13:20:05 EDT",
-      "summary": "To improve carbon recycling and reduce emissions, researchers at Science Tokyo developed iron-substituted calcium titanate (Fe-doped CaTiO3) as an environmentally friendly support material for chemical looping, a process that converts carbon dioxide (CO2) into carbon monoxide for fuel and chemical production. By substituting iron into CaTiO3, the material gained oxygen vacancies and improved ion and electron transport, accelerating CO2 conversion. Built from widely available, low-cost elements, the material could help enable scalable carbon recycling.",
-      "url": "https://phys.org/news/2026-07-rare-earth-free-material-carbon.html"
+      "date": "Mon, 27 Jul 2026 18:40:02 EDT",
+      "summary": "Strengthening the bond between people and nature—that is the aim of a German–Dutch EU project involving Oldenburg. The reasoning behind this is that people who feel they are part of the environment are more likely to campaign for its preservation.",
+      "url": "https://phys.org/news/2026-07-soil-people-reconnect-nature.html"
     },
     {
       "category": "Science",
-      "title": "Scientists pinpoint where cells first begin copying DNA",
+      "title": "Molecular switch that activates cell growth signaling may offer more precise route for anticancer therapy",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Mon, 27 Jul 2026 13:20:03 EDT",
-      "summary": "Researchers at the MRC Laboratory of Medical Sciences (LMS) and collaborators have uncovered one of the earliest steps in DNA replication: the moment a cell first opens its DNA to begin making a copy of its genome. The findings, published in Nature Communications, reveal where DNA first begins to \"unzip\" inside living cells and identify a molecular gate that helps prepare DNA for copying.",
-      "url": "https://phys.org/news/2026-07-scientists-cells-dna.html"
+      "date": "Mon, 27 Jul 2026 18:40:01 EDT",
+      "summary": "Cells carry their own growth switches. When enough nutrients—amino acids in particular—are available, cells flip this switch on and begin to grow. Researchers at KAIST and Yonsei University have uncovered the molecular mechanism by which amino acid signals activate this cellular growth switch. The findings are expected to open a new avenue for anticancer therapies that target abnormal growth signaling in tumor cells.",
+      "url": "https://phys.org/news/2026-07-molecular-cell-growth-precise-route.html"
     },
     {
       "category": "AI",
-      "title": "UpCodes (YC S17) is hiring remote AE's to help make buildings cheaper",
+      "title": "A missing underscore sent innocent man to prison for 18 months",
       "source": "Hacker News: Front Page",
-      "date": "Mon, 27 Jul 2026 17:02:41 +0000",
-      "summary": "Article URL: https://up.codes/careers?utm_source=HN\nComments URL: https://news.ycombinator.com/item?id=49072523\nPoints: 0\n# Comments: 0",
-      "url": "https://up.codes/careers?utm_source=HN"
+      "date": "Mon, 27 Jul 2026 22:10:15 +0000",
+      "summary": "Article URL: https://arstechnica.com/tech-policy/2026/07/police-missed-one-underscore-and-sent-the-wrong-man-to-prison/\nComments URL: https://news.ycombinator.com/item?id=49076116\nPoints: 19\n# Comments: 4",
+      "url": "https://arstechnica.com/tech-policy/2026/07/police-missed-one-underscore-and-sent-the-wrong-man-to-prison/"
     },
     {
       "category": "AI",
-      "title": "I Buy Belgian",
+      "title": "Our position on open-weights models",
       "source": "Hacker News: Front Page",
-      "date": "Mon, 27 Jul 2026 17:01:23 +0000",
-      "summary": "Article URL: https://www.ikkoopbelgisch.be/nl\nComments URL: https://news.ycombinator.com/item?id=49072501\nPoints: 6\n# Comments: 0",
-      "url": "https://www.ikkoopbelgisch.be/nl"
+      "date": "Mon, 27 Jul 2026 22:03:49 +0000",
+      "summary": "Article URL: https://www.anthropic.com/news/position-open-weights-models\nComments URL: https://news.ycombinator.com/item?id=49076057\nPoints: 145\n# Comments: 118",
+      "url": "https://www.anthropic.com/news/position-open-weights-models"
+    },
+    {
+      "category": "Space",
+      "title": " Starship in space! See highlights of SpaceX megarocket's epic Flight 13 test launch (video) ",
+      "source": " Latest from Space.com ",
+      "date": "Mon, 27 Jul 2026 22:00:00 +0000",
+      "summary": "The 13th test flight of SpaceX's Starship megarocket went pretty well —and provided some amazing visuals, too. See the highlights here.",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/starship-in-space-see-highlights-of-spacex-megarockets-epic-flight-13-test-launch-video"
+    },
+    {
+      "category": "AI",
+      "title": "Microsoft unveils AI security tools it says outperform competing platforms",
+      "source": "Ars Technica - All content",
+      "date": "Mon, 27 Jul 2026 21:56:14 +0000",
+      "summary": "Microsoft says tools cost less than competing ones and outperform them, too.",
+      "url": "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/"
+    },
+    {
+      "category": "AI",
+      "title": "Trump admin exempts SpaceX's Starlink from FCC ban on foreign-made routers",
+      "source": "Ars Technica - All content",
+      "date": "Mon, 27 Jul 2026 21:40:27 +0000",
+      "summary": "Starlink has a Texas factory but also makes routers in Vietnam.",
+      "url": "https://arstechnica.com/tech-policy/2026/07/starlink-gets-exemption-from-fcc-ban-on-routers-made-outside-the-us/"
     },
     {
       "category": "Science",
-      "title": "The surprising physics hiding in a single handful of beach sand",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Mon, 27 Jul 2026 13:00:15 EDT",
-      "summary": "Sand has a way of getting everywhere on a beach day—and for some, it can make or break the whole trip. There's the way it whips through the air just as sandwiches are being unwrapped, the way it turns blisteringly hot underfoot by midday, and the way it stubbornly clings to every piece of clothing.",
-      "url": "https://phys.org/news/2026-07-physics-beach-sand.html"
+      "title": " Ancient human relative cannibalized both adults and children in a cave in Spain 850,000 years ago, fossils reveal ",
+      "source": " Latest from Live Science ",
+      "date": "Mon, 27 Jul 2026 21:02:21 +0000",
+      "summary": "Newly excavated bones from Gran Dolina cave in Spain reveal an ancient human relative practiced cannibalism on adults and children, but researchers still don't know why.",
+      "url": "https://www.livescience.com/archaeology/human-evolution/ancient-human-relative-cannibalized-both-adults-and-children-in-a-cave-in-spain-850-000-years-ago-fossils-reveal"
     },
     {
       "category": "AI",
-      "title": "Show HN: FeyNoBg – Automatic background removal model and training library",
+      "title": "Bitcoin trail, Google cookies and Uber Eats orders help tie man to Steam malware",
       "source": "Hacker News: Front Page",
-      "date": "Mon, 27 Jul 2026 16:59:08 +0000",
-      "summary": "Hey HN, I’m Shreyash from Feyn. We help companies build custom models from their data.\nToday, we’re releasing FeyNoBg, an automatic background removal model. Alongside it, we're open-sourcing NoBg, the Python library we built to train and run it.\nTry the model here: https://huggingface.co/spaces/feyninc/feynobg. Check out the library here: https://github.com/feyninc/nobg\nSome sample outputs:\n(1) Soccer Freekick: https://drive.google.com/file/d/1MZkAGLwbhNVOZ0Oi7XvpCfSEu9Q...\n(2) Hair in wind: https://drive.google.com/file/d/1Odc2m0XMVH9uZtvI_KjaRbXzhLL...\n(3) Bicycle with visible spokes: https://drive.google.com/file/d/1h99ahjfrtS1MFQJJgiKE2fuM3HZ...\n(4) Live Demo video: https://youtu.be/b1heHPvY8BM\nBackground removal separates an image's subject from its surrounding. We've all tried it at some point. Often it is to reuse the subject in a different artifact. Nowadays, it is common to make chat stickers out of it. It is one of the most common but under-appreciated uses of AI. It is also surprisingly complex. Models can be easily confused by camouflage, motion blur, or fine structures like hair.\nThe task requires two skills. First, a model has to identify the foreground. Second, it has to trace the foreground’s boundary and estimate an opacity value for each pixel. Generally, these skills are taught with different datasets. That creates a failure point. A poor training mix can improve one skill at the expense of the other. We saw this in our controlled evaluation. A training run with just the MaskFactory dataset improved on the CAMO benchmark but regressed on DIS5K.\nFor FeyNoBg, we took an interpretability-first approach to training. We first studied how BiRefNet’s stages contribute to finding the foreground and reconstructing its boundary. We discovered that the third stage of it's feature extractor holds a lot of information. Both localization and boundary reconstruction depend heavily on the feature map produced here.\nThis led us to expand this stage from 18 to 24 blocks while preserving the pre-trained weights. We then trained FeyNoBg on 26.1K diverse examples assembled from 10 datasets. The goal was to improve foreground identification and boundary precision without sacrificing either one.\nAcross eight benchmarks, FeyNoBg achieves the best published score on four and comes within 2% of the leader on the rest.\nBuilding FeyNoBg also exposed a tooling problem. Image matting models are usually released as isolated repositories with incompatible preprocessing, training, and evaluation code. We built NoBg to solve this. NoBg puts these workflows behind one Python interface. It supports BiRefNet today, with more architectures coming. We hope you build something exciting with it!\nHappy to answer any questions!\nComments URL: https://news.ycombinator.com/item?id=49072462\nPoints: 3\n# Comments: 0",
-      "url": "https://usefeyn.com/blog/feynobg/"
+      "date": "Mon, 27 Jul 2026 20:53:29 +0000",
+      "summary": "Article URL: https://www.theverge.com/games/967174/steam-game-malware-cryptostealer-arrest\nComments URL: https://news.ycombinator.com/item?id=49075386\nPoints: 18\n# Comments: 7",
+      "url": "https://www.theverge.com/games/967174/steam-game-malware-cryptostealer-arrest"
+    },
+    {
+      "category": "AI",
+      "title": "Epic diarrhea outbreak has 40% of Americans avoiding fruits and veggies",
+      "source": "Ars Technica - All content",
+      "date": "Mon, 27 Jul 2026 20:42:13 +0000",
+      "summary": "Kennedy has focused on nutrition but has neglected food safety, critics say.",
+      "url": "https://arstechnica.com/health/2026/07/epic-diarrhea-outbreak-has-40-of-americans-avoiding-fruits-and-veggies/"
     },
     {
       "category": "Space",
-      "title": "NASA Astronaut Chris Williams Returns to Earth",
-      "source": "NASA",
-      "date": "Mon, 27 Jul 2026 16:48:46 +0000",
-      "summary": "NASA astronaut Chris Williams is all smiles in this July 26, 2026, photo taken shortly after he landed with Expedition 74 Roscosmos cosmonauts Sergey Kud-Sverchkov, and Sergei Mikaev in Kazakhstan. This was Williams’ first mission. Williams spent eight months aboard the International Space Station, where he supported a wide range of scientific investigations and technology demonstrations. He […]",
-      "url": "https://www.nasa.gov/image-article/nasa-astronaut-chris-williams-returns-to-earth/"
-    },
-    {
-      "category": "Space",
-      "title": "NASA’s Swift Sees ‘Wandering’ Mega Black Hole Shredding Star",
-      "source": "NASA",
-      "date": "Mon, 27 Jul 2026 16:06:37 +0000",
-      "summary": "NASA’s Neil Gehrels Swift Observatory captured an “orphan” black hole lighting up as it devoured a star on the outskirts of a faraway galaxy. These phenomena are rare to begin with, and none had ever before been seen so far outside of a galaxy’s core. “We were looking for these star-shredding events as a way […]",
-      "url": "https://science.nasa.gov/missions/swift/nasas-swift-sees-wandering-mega-black-hole-shredding-star/"
-    },
-    {
-      "category": "Space",
-      "title": " Are we overlooking signs of alien life that aren't technological or biological? 'Bread would be a signature of intelligence' ",
+      "title": " Rocket Lab to start launching missile-defense missions from Alaska under $266 million Space Force deal ",
       "source": " Latest from Space.com ",
-      "date": "Mon, 27 Jul 2026 16:00:00 +0000",
-      "summary": "Between biosignatures and technosignatures lie noosignatures, and some scientists think they could help us find alien life someday.",
-      "url": "https://www.space.com/space-exploration/search-for-life/are-we-overlooking-signs-of-alien-life-that-arent-technological-or-biological-bread-would-be-a-signature-of-intelligence"
-    },
-    {
-      "category": "AI",
-      "title": "Activist charged with felony after giving border agent \"duress code\" that wiped his phone",
-      "source": "Ars Technica - All content",
-      "date": "Mon, 27 Jul 2026 15:58:34 +0000",
-      "summary": "The government says destroying his own data during an airport interrogation was illegal.",
-      "url": "https://arstechnica.com/gadgets/2026/07/activist-charged-with-felony-after-giving-border-agent-duress-code-that-wiped-his-phone/"
-    },
-    {
-      "category": "AI",
-      "title": "Framework Laptop 13 Pro review: Much better battery, much worse price",
-      "source": "Ars Technica - All content",
-      "date": "Mon, 27 Jul 2026 15:02:45 +0000",
-      "summary": "Framework's latest modular laptop trades one set of problems for another.",
-      "url": "https://arstechnica.com/gadgets/2026/07/framework-laptop-13-pro-review-much-better-battery-much-worse-price/"
+      "date": "Mon, 27 Jul 2026 20:00:00 +0000",
+      "summary": "Rocket Lab just inked a $266 million deal with the U.S. Space Force to launch up to 18 suborbital missile-defense missions, most of them from Alaska's Pacific Spaceport Complex.",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-to-start-launching-missile-defense-missions-from-alaska-under-usd266-million-space-force-deal"
     },
     {
       "category": "Space",
-      "title": "NASA to Cover Three US Spacewalks, Host Preview News Conference",
-      "source": "NASA",
-      "date": "Mon, 27 Jul 2026 14:35:11 +0000",
-      "summary": "NASA will provide coverage as astronauts venture outside the International Space Station during three spacewalks in August to continue upgrading solar arrays, replace a communications antenna, and connect power and data cables in support of space station operations. Experts will preview the upcoming spacewalks during a news conference at 2 p.m. EDT, Thursday, July 30, […]",
-      "url": "https://www.nasa.gov/news-release/nasa-to-cover-three-us-spacewalks-host-preview-news-conference/"
-    },
-    {
-      "category": "Space",
-      "title": " We've found huge discounts on a range of ZWO astronomy cameras, including three we love ",
+      "title": " 25 years on, 2001's 'Planet of the Apes' has become a bit of a guilty pleasure ",
       "source": " Latest from Space.com ",
-      "date": "Mon, 27 Jul 2026 14:25:40 +0000",
-      "summary": "Save on ZWO astrophotography gear at B&H Photo Video. Shop discounts on astrocams, telescopes and mounts to upgrade your stargazing setup with top deals today.",
-      "url": "https://www.space.com/stargazing/skywatching-kit/bh-photo-and-video-has-discounted-a-range-of-zwo-astronomy-cameras-including-three-we-loved"
-    },
-    {
-      "category": "AI",
-      "title": "What public health professionals can learn from anti-vaccine storytelling",
-      "source": "Ars Technica - All content",
-      "date": "Mon, 27 Jul 2026 14:01:56 +0000",
-      "summary": "Sometimes, compelling stories beat medical evidence.",
-      "url": "https://arstechnica.com/health/2026/07/how-emotionally-powerful-stories-fuel-vaccine-skepticism/"
+      "date": "Mon, 27 Jul 2026 18:00:00 +0000",
+      "summary": "Time to fire up the Wayback Machine to pay tribute to this controversial sci-fi reimagining.",
+      "url": "https://www.space.com/entertainment/space-movies-shows/25-years-on-2001s-planet-of-the-apes-has-become-a-bit-of-a-guilty-pleasure"
     },
     {
       "category": "Science",
@@ -145,14 +129,6 @@
       "date": "Mon, 27 Jul 2026 11:00:00 +0000",
       "summary": "The U.S. Department of Defense plans to conduct regular testosterone screening of service members, but this practice is not recommended by professional medical organizations.",
       "url": "https://www.livescience.com/health/reproductive-health/militarys-testosterone-screening-program-could-lead-to-overtreatment-and-side-effects-including-impaired-t-production"
-    },
-    {
-      "category": "Science",
-      "title": " 7 ways to photograph the 2026 total solar eclipse — from smartphone to telescope ",
-      "source": " Latest from Live Science ",
-      "date": "Mon, 27 Jul 2026 11:00:00 +0000",
-      "summary": "Whether you're carrying a phone, a mirrorless camera or a smart telescope, here are some tried and tested ways to capture the Aug. 12, 2026, total solar eclipse.",
-      "url": "https://www.livescience.com/products/optics/7-ways-to-photograph-the-total-solar-eclipse"
     },
     {
       "category": "Biblical Studies",
