@@ -1,38 +1,134 @@
 {
-  "lastUpdated": "2026-07-27T12:51:52.176Z",
-  "articleCount": 36,
+  "lastUpdated": "2026-07-27T17:37:10.777Z",
+  "articleCount": 39,
   "articles": [
     {
+      "category": "Space",
+      "title": " On this day in space! July 27, 1962:  The 1st zero-g cosmonaut training flight takes off on a Soviet jetliner ",
+      "source": " Latest from Space.com ",
+      "date": "Mon, 27 Jul 2026 17:20:20 +0000",
+      "summary": "On July 27, 1962, two Russian cosmonauts boarded a Soviet airliner and experienced weightlessness without going to space.  Here's why it mattered.",
+      "url": "https://www.space.com/space-exploration/on-this-day-in-space-july-27-2026"
+    },
+    {
       "category": "Science",
-      "title": "How flying together helps Andean condors save energy",
+      "title": "Low-cost, rare-earth-free material for carbon recycling",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Mon, 27 Jul 2026 08:40:01 EDT",
-      "summary": "Animals are constantly moving to find food, water, suitable habitats, mates and safe places to rest. Because moving requires substantial energy, animals often rely on various biological and behavioral strategies to reduce unnecessary costs while seeking available resources.",
-      "url": "https://phys.org/news/2026-07-flying-andean-condors-energy.html"
+      "date": "Mon, 27 Jul 2026 13:20:05 EDT",
+      "summary": "To improve carbon recycling and reduce emissions, researchers at Science Tokyo developed iron-substituted calcium titanate (Fe-doped CaTiO3) as an environmentally friendly support material for chemical looping, a process that converts carbon dioxide (CO2) into carbon monoxide for fuel and chemical production. By substituting iron into CaTiO3, the material gained oxygen vacancies and improved ion and electron transport, accelerating CO2 conversion. Built from widely available, low-cost elements, the material could help enable scalable carbon recycling.",
+      "url": "https://phys.org/news/2026-07-rare-earth-free-material-carbon.html"
+    },
+    {
+      "category": "Science",
+      "title": "Scientists pinpoint where cells first begin copying DNA",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Mon, 27 Jul 2026 13:20:03 EDT",
+      "summary": "Researchers at the MRC Laboratory of Medical Sciences (LMS) and collaborators have uncovered one of the earliest steps in DNA replication: the moment a cell first opens its DNA to begin making a copy of its genome. The findings, published in Nature Communications, reveal where DNA first begins to \"unzip\" inside living cells and identify a molecular gate that helps prepare DNA for copying.",
+      "url": "https://phys.org/news/2026-07-scientists-cells-dna.html"
     },
     {
       "category": "AI",
-      "title": "AI companies are shredding rare books",
+      "title": "UpCodes (YC S17) is hiring remote AE's to help make buildings cheaper",
       "source": "Hacker News: Front Page",
-      "date": "Mon, 27 Jul 2026 12:32:12 +0000",
-      "summary": "Article URL: https://xcancel.com/HedgieMarkets/status/2081534588485296565\nComments URL: https://news.ycombinator.com/item?id=49068738\nPoints: 5\n# Comments: 0",
-      "url": "https://xcancel.com/HedgieMarkets/status/2081534588485296565"
+      "date": "Mon, 27 Jul 2026 17:02:41 +0000",
+      "summary": "Article URL: https://up.codes/careers?utm_source=HN\nComments URL: https://news.ycombinator.com/item?id=49072523\nPoints: 0\n# Comments: 0",
+      "url": "https://up.codes/careers?utm_source=HN"
+    },
+    {
+      "category": "AI",
+      "title": "I Buy Belgian",
+      "source": "Hacker News: Front Page",
+      "date": "Mon, 27 Jul 2026 17:01:23 +0000",
+      "summary": "Article URL: https://www.ikkoopbelgisch.be/nl\nComments URL: https://news.ycombinator.com/item?id=49072501\nPoints: 6\n# Comments: 0",
+      "url": "https://www.ikkoopbelgisch.be/nl"
     },
     {
       "category": "Science",
-      "title": "Could we send a spacecraft to a black hole?",
+      "title": "The surprising physics hiding in a single handful of beach sand",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Mon, 27 Jul 2026 08:20:04 EDT",
-      "summary": "Black holes represent some of the most extreme environments in the universe. They are the sources of the strongest gravitational fields, allowing us to test Einstein's theory of general relativity to an extent impossible with small objects. But we are also reaching the limit of what we can learn about one remotely. So, various authors have put forward ideas for how we might eventually send a probe directly to a black hole to observe it up close. One of the most vocal of those authors is Cosimo Bambi of Fudan University in Shanghai—and he recently released a paper, available as a preprint on arXiv, about what it would take to send a gram-sized probe to a nearby black hole.",
-      "url": "https://phys.org/news/2026-07-spacecraft-black-hole.html"
+      "date": "Mon, 27 Jul 2026 13:00:15 EDT",
+      "summary": "Sand has a way of getting everywhere on a beach day—and for some, it can make or break the whole trip. There's the way it whips through the air just as sandwiches are being unwrapped, the way it turns blisteringly hot underfoot by midday, and the way it stubbornly clings to every piece of clothing.",
+      "url": "https://phys.org/news/2026-07-physics-beach-sand.html"
+    },
+    {
+      "category": "AI",
+      "title": "Show HN: FeyNoBg – Automatic background removal model and training library",
+      "source": "Hacker News: Front Page",
+      "date": "Mon, 27 Jul 2026 16:59:08 +0000",
+      "summary": "Hey HN, I’m Shreyash from Feyn. We help companies build custom models from their data.\nToday, we’re releasing FeyNoBg, an automatic background removal model. Alongside it, we're open-sourcing NoBg, the Python library we built to train and run it.\nTry the model here: https://huggingface.co/spaces/feyninc/feynobg. Check out the library here: https://github.com/feyninc/nobg\nSome sample outputs:\n(1) Soccer Freekick: https://drive.google.com/file/d/1MZkAGLwbhNVOZ0Oi7XvpCfSEu9Q...\n(2) Hair in wind: https://drive.google.com/file/d/1Odc2m0XMVH9uZtvI_KjaRbXzhLL...\n(3) Bicycle with visible spokes: https://drive.google.com/file/d/1h99ahjfrtS1MFQJJgiKE2fuM3HZ...\n(4) Live Demo video: https://youtu.be/b1heHPvY8BM\nBackground removal separates an image's subject from its surrounding. We've all tried it at some point. Often it is to reuse the subject in a different artifact. Nowadays, it is common to make chat stickers out of it. It is one of the most common but under-appreciated uses of AI. It is also surprisingly complex. Models can be easily confused by camouflage, motion blur, or fine structures like hair.\nThe task requires two skills. First, a model has to identify the foreground. Second, it has to trace the foreground’s boundary and estimate an opacity value for each pixel. Generally, these skills are taught with different datasets. That creates a failure point. A poor training mix can improve one skill at the expense of the other. We saw this in our controlled evaluation. A training run with just the MaskFactory dataset improved on the CAMO benchmark but regressed on DIS5K.\nFor FeyNoBg, we took an interpretability-first approach to training. We first studied how BiRefNet’s stages contribute to finding the foreground and reconstructing its boundary. We discovered that the third stage of it's feature extractor holds a lot of information. Both localization and boundary reconstruction depend heavily on the feature map produced here.\nThis led us to expand this stage from 18 to 24 blocks while preserving the pre-trained weights. We then trained FeyNoBg on 26.1K diverse examples assembled from 10 datasets. The goal was to improve foreground identification and boundary precision without sacrificing either one.\nAcross eight benchmarks, FeyNoBg achieves the best published score on four and comes within 2% of the leader on the rest.\nBuilding FeyNoBg also exposed a tooling problem. Image matting models are usually released as isolated repositories with incompatible preprocessing, training, and evaluation code. We built NoBg to solve this. NoBg puts these workflows behind one Python interface. It supports BiRefNet today, with more architectures coming. We hope you build something exciting with it!\nHappy to answer any questions!\nComments URL: https://news.ycombinator.com/item?id=49072462\nPoints: 3\n# Comments: 0",
+      "url": "https://usefeyn.com/blog/feynobg/"
+    },
+    {
+      "category": "Space",
+      "title": "NASA Astronaut Chris Williams Returns to Earth",
+      "source": "NASA",
+      "date": "Mon, 27 Jul 2026 16:48:46 +0000",
+      "summary": "NASA astronaut Chris Williams is all smiles in this July 26, 2026, photo taken shortly after he landed with Expedition 74 Roscosmos cosmonauts Sergey Kud-Sverchkov, and Sergei Mikaev in Kazakhstan. This was Williams’ first mission. Williams spent eight months aboard the International Space Station, where he supported a wide range of scientific investigations and technology demonstrations. He […]",
+      "url": "https://www.nasa.gov/image-article/nasa-astronaut-chris-williams-returns-to-earth/"
+    },
+    {
+      "category": "Space",
+      "title": "NASA’s Swift Sees ‘Wandering’ Mega Black Hole Shredding Star",
+      "source": "NASA",
+      "date": "Mon, 27 Jul 2026 16:06:37 +0000",
+      "summary": "NASA’s Neil Gehrels Swift Observatory captured an “orphan” black hole lighting up as it devoured a star on the outskirts of a faraway galaxy. These phenomena are rare to begin with, and none had ever before been seen so far outside of a galaxy’s core. “We were looking for these star-shredding events as a way […]",
+      "url": "https://science.nasa.gov/missions/swift/nasas-swift-sees-wandering-mega-black-hole-shredding-star/"
+    },
+    {
+      "category": "Space",
+      "title": " Are we overlooking signs of alien life that aren't technological or biological? 'Bread would be a signature of intelligence' ",
+      "source": " Latest from Space.com ",
+      "date": "Mon, 27 Jul 2026 16:00:00 +0000",
+      "summary": "Between biosignatures and technosignatures lie noosignatures, and some scientists think they could help us find alien life someday.",
+      "url": "https://www.space.com/space-exploration/search-for-life/are-we-overlooking-signs-of-alien-life-that-arent-technological-or-biological-bread-would-be-a-signature-of-intelligence"
+    },
+    {
+      "category": "AI",
+      "title": "Activist charged with felony after giving border agent \"duress code\" that wiped his phone",
+      "source": "Ars Technica - All content",
+      "date": "Mon, 27 Jul 2026 15:58:34 +0000",
+      "summary": "The government says destroying his own data during an airport interrogation was illegal.",
+      "url": "https://arstechnica.com/gadgets/2026/07/activist-charged-with-felony-after-giving-border-agent-duress-code-that-wiped-his-phone/"
+    },
+    {
+      "category": "AI",
+      "title": "Framework Laptop 13 Pro review: Much better battery, much worse price",
+      "source": "Ars Technica - All content",
+      "date": "Mon, 27 Jul 2026 15:02:45 +0000",
+      "summary": "Framework's latest modular laptop trades one set of problems for another.",
+      "url": "https://arstechnica.com/gadgets/2026/07/framework-laptop-13-pro-review-much-better-battery-much-worse-price/"
+    },
+    {
+      "category": "Space",
+      "title": "NASA to Cover Three US Spacewalks, Host Preview News Conference",
+      "source": "NASA",
+      "date": "Mon, 27 Jul 2026 14:35:11 +0000",
+      "summary": "NASA will provide coverage as astronauts venture outside the International Space Station during three spacewalks in August to continue upgrading solar arrays, replace a communications antenna, and connect power and data cables in support of space station operations. Experts will preview the upcoming spacewalks during a news conference at 2 p.m. EDT, Thursday, July 30, […]",
+      "url": "https://www.nasa.gov/news-release/nasa-to-cover-three-us-spacewalks-host-preview-news-conference/"
+    },
+    {
+      "category": "Space",
+      "title": " We've found huge discounts on a range of ZWO astronomy cameras, including three we love ",
+      "source": " Latest from Space.com ",
+      "date": "Mon, 27 Jul 2026 14:25:40 +0000",
+      "summary": "Save on ZWO astrophotography gear at B&H Photo Video. Shop discounts on astrocams, telescopes and mounts to upgrade your stargazing setup with top deals today.",
+      "url": "https://www.space.com/stargazing/skywatching-kit/bh-photo-and-video-has-discounted-a-range-of-zwo-astronomy-cameras-including-three-we-loved"
+    },
+    {
+      "category": "AI",
+      "title": "What public health professionals can learn from anti-vaccine storytelling",
+      "source": "Ars Technica - All content",
+      "date": "Mon, 27 Jul 2026 14:01:56 +0000",
+      "summary": "Sometimes, compelling stories beat medical evidence.",
+      "url": "https://arstechnica.com/health/2026/07/how-emotionally-powerful-stories-fuel-vaccine-skepticism/"
     },
     {
       "category": "Science",
-      "title": "Exploring why societies around the world no longer bury their dead at home",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Mon, 27 Jul 2026 08:00:37 EDT",
-      "summary": "There are countless cultures and societies around the world, spanning thousands of years. One thing they all have in common is that death is a part of everybody's life. Examining how different societies commemorate their dead can give archaeologists and anthropologists insight into how those societies work and what matters to them.",
-      "url": "https://phys.org/news/2026-07-exploring-societies-world-longer-dead.html"
+      "title": "500,000-year-old elephant bone hammer shows ancient humans were master toolmakers",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Mon, 27 Jul 2026 08:36:16 EDT",
+      "summary": "Early humans in England crafted a rare piece of elephant bone into a reusable hammer for sharpening stone tools nearly 500,000 years ago. The extraordinary find reveals that ancient toolmakers were resourceful, skilled, and capable of surprisingly advanced planning.",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260726015301.htm"
     },
     {
       "category": "Science",
@@ -41,30 +137,6 @@
       "date": "Mon, 27 Jul 2026 12:00:00 +0000",
       "summary": "Scientists have pinned down why a sprinkler spins when it sucks in water instead of spraying it out — a problem that stumped Richard Feynman and has divided physicists for nearly a century.",
       "url": "https://www.livescience.com/physics-mathematics/feynman-and-followers-you-guys-are-off-physicists-disprove-decades-old-richard-feynman-theory-on-silly-sprinklers"
-    },
-    {
-      "category": "Space",
-      "title": " Private companies could ruin the night sky for the entire world, and international law can't stop them ",
-      "source": " Latest from Space.com ",
-      "date": "Mon, 27 Jul 2026 12:00:00 +0000",
-      "summary": "The U.S. Federal Communications Commission (FCC) can single-handedly approve space projects that will change the night sky around the world. The international community can do very little against it.",
-      "url": "https://www.space.com/space-exploration/satellites/private-companies-could-ruin-the-night-sky-for-the-entire-world-and-international-law-cant-stop-them"
-    },
-    {
-      "category": "AI",
-      "title": "Elevated errors on Claude Opus 5",
-      "source": "Hacker News: Front Page",
-      "date": "Mon, 27 Jul 2026 11:32:32 +0000",
-      "summary": "Article URL: https://status.claude.com/incidents/mfdtrknpxghq\nComments URL: https://news.ycombinator.com/item?id=49068029\nPoints: 9\n# Comments: 11",
-      "url": "https://status.claude.com/incidents/mfdtrknpxghq"
-    },
-    {
-      "category": "AI",
-      "title": "Google Chrome Arrives on ARM64 Linux, Widevine DRM Included",
-      "source": "Hacker News: Front Page",
-      "date": "Mon, 27 Jul 2026 11:19:33 +0000",
-      "summary": "Article URL: https://www.omgubuntu.co.uk/2026/07/chrome-arm64-linux-available\nComments URL: https://news.ycombinator.com/item?id=49067919\nPoints: 11\n# Comments: 3",
-      "url": "https://www.omgubuntu.co.uk/2026/07/chrome-arm64-linux-available"
     },
     {
       "category": "Science",
@@ -83,14 +155,6 @@
       "url": "https://www.livescience.com/products/optics/7-ways-to-photograph-the-total-solar-eclipse"
     },
     {
-      "category": "AI",
-      "title": "Artist sues AI meme generator for selling deeply personal comic as ad template",
-      "source": "Ars Technica - All content",
-      "date": "Mon, 27 Jul 2026 10:50:37 +0000",
-      "summary": "Meme generator may have screwed up by using templates in outputs, expert says.",
-      "url": "https://arstechnica.com/tech-policy/2026/07/artist-sues-ai-meme-generator-for-selling-deeply-personal-comic-as-ad-template/"
-    },
-    {
       "category": "Biblical Studies",
       "title": "Who Were the Sea Peoples?",
       "source": "Biblical Archaeology Society",
@@ -99,20 +163,28 @@
       "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-near-eastern-world/who-were-sea-peoples/"
     },
     {
-      "category": "Space",
-      "title": " A seed that flew around the moon grew into this tree in NYC ",
-      "source": " Latest from Space.com ",
-      "date": "Mon, 27 Jul 2026 10:00:00 +0000",
-      "summary": "The Madison Square Park Conservancy unveiled its moon tree at a smoky birthday party.",
-      "url": "https://www.space.com/astronomy/moon/a-seed-that-flew-around-the-moon-grew-into-this-tree-in-nyc"
+      "category": "Science",
+      "title": "Why Jupiter has several giant moons but Saturn has only Titan",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Mon, 27 Jul 2026 06:24:05 EDT",
+      "summary": "Young Jupiter’s powerful magnetic field may have created a safe zone where several large moons could survive. Saturn lacked this protection, possibly explaining why Titan stands almost alone among its largest moons.",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260727012143.htm"
     },
     {
-      "category": "Space",
-      "title": " This is the best lunar eclipse until New Year's Eve 2028 — Here's how to spot the 'almost blood moon' on Aug. 27 ",
-      "source": " Latest from Space.com ",
-      "date": "Mon, 27 Jul 2026 10:00:00 +0000",
-      "summary": "The countdown is on! Millions of skywatchers will have front-row seats to a dramatic 96% 'blood moon' lunar eclipse. Here's what you need to know.",
-      "url": "https://www.space.com/stargazing/lunar-eclipses/this-is-the-best-lunar-eclipse-until-new-years-eve-2028-heres-how-to-spot-the-almost-blood-moon-on-aug-27"
+      "category": "Biblical Studies",
+      "title": "Mysterious Pre-Islamic Arabian Script Deciphered",
+      "source": "Biblical Archaeology Society",
+      "date": "Mon, 27 Jul 2026 10:00:48 +0000",
+      "summary": "In the deserts of Oman and Yemen can be found a treasure trove of ancient inscriptions written in pre-Islamic Arabian scripts. Among these is the […]\nThe post Mysterious Pre-Islamic Arabian Script Deciphered appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/daily/archaeology-today/pre-islamic-arabian-script-deciphered/"
+    },
+    {
+      "category": "Science",
+      "title": "After 241 days in orbit this NASA astronaut is finally home",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Mon, 27 Jul 2026 04:06:53 EDT",
+      "summary": "NASA astronaut Chris Williams and two Roscosmos cosmonauts are back on Earth after spending 241 days aboard the International Space Station. Their journey covered more than 102 million miles and included 3,856 trips around the planet.",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260727012131.htm"
     },
     {
       "category": "Theology",
@@ -147,58 +219,10 @@
       "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work"
     },
     {
-      "category": "AI",
-      "title": "First teaser for Apple TV's Neuromancer debuts at SDCC",
-      "source": "Ars Technica - All content",
-      "date": "Sun, 26 Jul 2026 19:48:43 +0000",
-      "summary": "Plus Mike Flanagan's Carrie teaser, trailers for Dark Matter S2 and Matchbox the Movie, and Marvel news.",
-      "url": "https://arstechnica.com/culture/2026/07/first-teaser-for-apple-tvs-neuromancer-debuts-at-sdcc/"
-    },
-    {
-      "category": "Science",
-      "title": "The best way to save giant sequoias may be more fire",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Sun, 26 Jul 2026 09:18:59 EDT",
-      "summary": "Giant sequoias are built to withstand ordinary fires, but recent extreme wildfires killed thousands of trees that had survived for centuries or even millennia. A new analysis of about 26,400 sequoias found that trees in areas treated with prescribed burns were nearly four times more likely to survive. Researchers estimate the controlled fires prevented about 1,900 deaths and could have saved thousands more if used across every grove.",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260726015243.htm"
-    },
-    {
-      "category": "Biblical Studies",
-      "title": "3 Pilgrimage Paths from Galilee to Jerusalem",
-      "source": "Biblical Archaeology Society",
-      "date": "Sun, 26 Jul 2026 11:00:39 +0000",
-      "summary": "To celebrate the Feast of Unleavened Bread (Passover), the Feast of Weeks (Shavuot), and the Feast of Booths (Sukkot), many Jews traveled to the Jerusalem […]\nThe post 3 Pilgrimage Paths from Galilee to Jerusalem appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/daily/biblical-topics/new-testament/3-pilgrimage-paths-from-galilee-to-jerusalem/"
-    },
-    {
-      "category": "Science",
-      "title": "Inside the Backrooms: The internet’s creepiest place is becoming a tourist attraction",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Sun, 26 Jul 2026 04:16:35 EDT",
-      "summary": "The Backrooms began as a single eerie image of empty yellow rooms, but internet users transformed it into a vast fictional world that feels disturbingly real. Through videos, games, maps, survival guides and social media stories, audiences do more than watch the horror unfold. They help build and explore it. Researchers suggest this popularity reflects a new kind of digital tourism, where people emotionally enter imaginary places filled with mystery, nostalgia and unease.",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260726015254.htm"
-    },
-    {
-      "category": "Science",
-      "title": "Hidden genetic diversity helped inbred brown tree snakes conquer guam",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Sun, 26 Jul 2026 03:15:38 EDT",
-      "summary": "A notorious snake invasion that devastated Guam’s native birds may have succeeded because the reptiles carried hidden genetic advantages. Using advanced long-read DNA sequencing, researchers uncovered more than 19,000 large genetic differences in brown tree snakes, many concentrated in genes tied to immunity and smell. This overlooked diversity may have helped a population founded by only a few snakes survive inbreeding, adapt to a new environment, and multiply to extraordinary densities.",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260726015236.htm"
-    },
-    {
-      "category": "AI",
-      "title": "SDCC teaser gives us our first good look at Blade Runner 2099",
-      "source": "Ars Technica - All content",
-      "date": "Sat, 25 Jul 2026 20:52:30 +0000",
-      "summary": "Also: Forging the One Ring in Rings of Power S3 teaser; new Lanterns trailer; Spaceballs: The New One panel.",
-      "url": "https://arstechnica.com/culture/2026/07/sdcc-teaser-gives-us-our-first-good-look-at-blade-runner-2099/"
-    },
-    {
       "category": "Biblical Studies",
       "title": "The Staurogram",
       "source": "Biblical Archaeology Society",
-      "date": "Sat, 25 Jul 2026 11:00:01 +0000",
+      "date": "Sun, 26 Jul 2026 11:00:01 +0000",
       "summary": "The staurogram, a crucifixion symbol made out of the Greek letters tau-rho, is 200 years older than the oldest previously-known images of Jesus on the cross.\nThe post The Staurogram appeared first on Biblical Archaeology Society.",
       "url": "https://www.biblicalarchaeology.org/daily/biblical-topics/crucifixion/the-staurogram/"
     },
