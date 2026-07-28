@@ -1,30 +1,134 @@
 {
-  "lastUpdated": "2026-07-28T11:51:57.769Z",
-  "articleCount": 39,
+  "lastUpdated": "2026-07-28T17:21:03.426Z",
+  "articleCount": 36,
   "articles": [
     {
       "category": "Science",
-      "title": "Psychologist develops puzzle that can tell you how fast you think",
+      "title": "Impact of climate change may be equivalent to 3.3 million years of transformations in tropical vegetation",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Tue, 28 Jul 2026 07:40:02 EDT",
-      "summary": "A puzzle that can tell players how fast they think on their feet has been developed by a University of Leeds researcher.",
-      "url": "https://phys.org/news/2026-07-psychologist-puzzle-fast.html"
+      "date": "Tue, 28 Jul 2026 13:20:03 EDT",
+      "summary": "The tropics cover less than one-third of Earth's surface but are home to more than half of all known species. Forests, savannas, grasslands and deserts: A vast array of environments stretches along the planet's equatorial belt. This diversity, however, is not static. It is the result of millions of years of changes that have reshaped the tropical landscape time and again.",
+      "url": "https://phys.org/news/2026-07-impact-climate-equivalent-million-years.html"
     },
     {
       "category": "Science",
-      "title": "AI models explain 17% of earnings-day stock moves, up from 5%",
+      "title": "Small ants that evict coffee pests may gain reproductive boost while protecting crops",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Tue, 28 Jul 2026 07:20:03 EDT",
-      "summary": "To explain the stock market's reaction to earnings results, investors and other market participants have used a standard tool for decades: the earnings surprise.",
-      "url": "https://phys.org/news/2026-07-ai-day-stock.html"
+      "date": "Tue, 28 Jul 2026 13:20:02 EDT",
+      "summary": "Ants are known allies in the fight against coffee pests known as coffee berry borers. Now, a discovery made by Jonathan \"Jonno\" Morris while he was a University of Michigan graduate student has revealed there may be a new dimension to this protection.",
+      "url": "https://phys.org/news/2026-07-small-ants-evict-coffee-pests.html"
     },
     {
       "category": "Science",
-      "title": "Scientists repair damaged plastics at the molecular level, boosting recycling potential",
+      "title": "Social amoebae form nanotube networks linking multiple cells",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Tue, 28 Jul 2026 07:20:02 EDT",
-      "summary": "Plastic recycling could become far more effective thanks to a new technique that restores the strength of damaged engineering plastics by repairing them at the molecular level.",
-      "url": "https://phys.org/news/2026-07-scientists-plastics-molecular-boosting-recycling.html"
+      "date": "Tue, 28 Jul 2026 13:00:05 EDT",
+      "summary": "Social amoebae are unicellular organisms that act in concert, requiring extensive communication. Pierre Stallforth and colleagues studied modes of communication among cells of the social amoeba Dictyostelium discoideum, using fluorescent labeling and various imaging techniques.",
+      "url": "https://phys.org/news/2026-07-social-amoebae-nanotube-networks-linking.html"
+    },
+    {
+      "category": "Space",
+      "title": " 'Silo' season 3's Ashley Zuckerman and Jessica Henwick share the secret to their on-screen chemistry (interview) ",
+      "source": " Latest from Space.com ",
+      "date": "Tue, 28 Jul 2026 17:00:00 +0000",
+      "summary": "'It's nothing we worked to generate, it was really just there from the beginning'",
+      "url": "https://www.space.com/entertainment/space-movies-shows/silo-season-3s-ashley-zuckerman-and-jessica-henwick-share-the-secret-to-their-on-screen-chemistry-interview"
+    },
+    {
+      "category": "AI",
+      "title": "Scientific computing in the age of agentic AI",
+      "source": "OpenAI News",
+      "date": "Tue, 28 Jul 2026 17:00:00 GMT",
+      "summary": "A new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating software development and discovery in genomics and beyond.",
+      "url": "https://openai.com/index/scientific-computing-agentic-ai"
+    },
+    {
+      "category": "AI",
+      "title": "Xenharmlib (music theory library) adds support for Just Intonation",
+      "source": "Hacker News: Front Page",
+      "date": "Tue, 28 Jul 2026 16:10:37 +0000",
+      "summary": "Article URL: https://xenharmlib.readthedocs.io/en/latest/whats_new_0_4_0.html\nComments URL: https://news.ycombinator.com/item?id=49086059\nPoints: 5\n# Comments: 0",
+      "url": "https://xenharmlib.readthedocs.io/en/latest/whats_new_0_4_0.html"
+    },
+    {
+      "category": "Science",
+      "title": " Killer whales sink another boat off the coast of Spain — why are they still doing this after 6 years? ",
+      "source": " Latest from Live Science ",
+      "date": "Tue, 28 Jul 2026 16:09:13 +0000",
+      "summary": "A small, endangered pod of orcas off Spain and Portugal has sunk at least eight boats since 2020, and despite speculation, the real explanation might have nothing to do with revenge.",
+      "url": "https://www.livescience.com/animals/orcas/killer-whales-sink-another-boat-off-the-coast-of-spain-why-are-they-still-doing-this-after-6-years"
+    },
+    {
+      "category": "AI",
+      "title": "You Could Have Come Up with Kimi Delta Attention",
+      "source": "Hacker News: Front Page",
+      "date": "Tue, 28 Jul 2026 16:02:07 +0000",
+      "summary": "Article URL: https://blog.doubleword.ai/you-could-have-come-up-with-kimi-delta-attention\nComments URL: https://news.ycombinator.com/item?id=49085909\nPoints: 104\n# Comments: 22",
+      "url": "https://blog.doubleword.ai/you-could-have-come-up-with-kimi-delta-attention"
+    },
+    {
+      "category": "AI",
+      "title": "How Do I Profile eBPF Code?",
+      "source": "Hacker News: Front Page",
+      "date": "Tue, 28 Jul 2026 15:55:44 +0000",
+      "summary": "Article URL: https://naveensrinivasan.com/posts/2026-07-22-how-do-i-profile-ebpf-code/\nComments URL: https://news.ycombinator.com/item?id=49085811\nPoints: 45\n# Comments: 1",
+      "url": "https://naveensrinivasan.com/posts/2026-07-22-how-do-i-profile-ebpf-code/"
+    },
+    {
+      "category": "Science",
+      "title": " How to watch 'Jurassic Sharks' online – stream 'Shark Week' 2026 from anywhere ",
+      "source": " Latest from Live Science ",
+      "date": "Tue, 28 Jul 2026 15:00:00 +0000",
+      "summary": "How to watch \"Jurassic Sharks\" online from anywhere, with the special set to use visual effects to flesh out the fossils of ancient cartilaginous fish.",
+      "url": "https://www.livescience.com/animals/how-to-watch-jurassic-sharks-online-stream-shark-week-2026"
+    },
+    {
+      "category": "Space",
+      "title": " SpaceX launches 24 Starlink satellites to orbit in wake of Starship test flight (video) ",
+      "source": " Latest from Space.com ",
+      "date": "Tue, 28 Jul 2026 15:00:00 +0000",
+      "summary": "A SpaceX Falcon 9 rocket carrying 24 Starlink satellites lifted off from Vandenberg Space Force Base in California on Saturday, July 25, 2026.",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-17-51-b1100-vsfb-ocisly"
+    },
+    {
+      "category": "Space",
+      "title": " ISS meets Venus in incredible daylight photo | Space photo of the day for July 28, 2026 ",
+      "source": " Latest from Space.com ",
+      "date": "Tue, 28 Jul 2026 14:00:00 +0000",
+      "summary": "An astrophotographer captured a breathtaking scene as the International Space Station zoomed by Venus in the daytime sky.",
+      "url": "https://www.space.com/stargazing/iss-meets-venus-in-incredible-daylight-photo-space-photo-of-the-day-for-july-28-2026"
+    },
+    {
+      "category": "AI",
+      "title": "As US measles cases rise, biotech firms start developing new treatments",
+      "source": "Ars Technica - All content",
+      "date": "Tue, 28 Jul 2026 13:32:23 +0000",
+      "summary": "The US is making measles great again, so treatment options are needed for the most vulnerable.",
+      "url": "https://arstechnica.com/health/2026/07/as-us-measles-cases-rise-biotech-firms-start-developing-new-treatments/"
+    },
+    {
+      "category": "Science",
+      "title": " Introducing Live Science Pro — a new space to get all the science with none of the distractions ",
+      "source": " Latest from Live Science ",
+      "date": "Tue, 28 Jul 2026 13:00:00 +0000",
+      "summary": "Go beyond the headlines to read the latest in-depth science features, op-eds, book excerpts and more.",
+      "url": "https://www.livescience.com/technology/communications/introducing-live-science-pro-a-new-space-to-get-all-the-science-with-none-of-the-distractions"
+    },
+    {
+      "category": "Science",
+      "title": "Misfolded insulin may be quietly driving diabetes",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Tue, 28 Jul 2026 07:48:04 EDT",
+      "summary": "Researchers found that insulin-producing cells depend on a team of helper proteins to keep insulin production on track. When one key partner was missing, damaged proteins built up and the cells made less insulin. Strengthening this system could offer a new way to protect the pancreas as diabetes progresses.",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260727214616.htm"
+    },
+    {
+      "category": "Science",
+      "title": "Hidden charcoal reveals the true age of ancient cave paintings",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Tue, 28 Jul 2026 07:16:44 EDT",
+      "summary": "A new analysis has precisely dated paintings in France’s Font-de-Gaume cave for the first time. Scientists discovered charcoal inside black pigments once thought to contain only minerals, allowing them to use radiocarbon dating. The results show that a bison was painted about 13,000 years ago, while sections of a mask-like figure were added during several widely separated periods.",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260727214619.htm"
     },
     {
       "category": "History",
@@ -35,68 +139,28 @@
       "url": "https://allthingsliberty.com/2026/07/samuel-brady-a-future-legend-goes-to-war/"
     },
     {
-      "category": "Science",
-      "title": " The ultimate packing list for Aug. 12, as a solar eclipse coincides with the Perseid meteors peak ",
-      "source": " Latest from Live Science ",
-      "date": "Tue, 28 Jul 2026 11:00:00 +0000",
-      "summary": "From solar binoculars and smart telescopes to camp chairs and stargazing tents, here's what to consider for one of the greatest days of skywatching in years.",
-      "url": "https://www.livescience.com/products/optics/the-ultimate-packing-list-for-aug-12-as-a-solar-eclipse-coincides-with-the-perseid-meteors-peak"
+      "category": "Biblical Studies",
+      "title": "The Nag Hammadi Codices and Gnostic Christianity",
+      "source": "Biblical Archaeology Society",
+      "date": "Tue, 28 Jul 2026 11:00:59 +0000",
+      "summary": "Until the discovery of the Nag Hammadi codices in 1945, the Gnostic view of early Christianity had largely been forgotten. The teachings of Gnostic Christianity had been virtually erased from history by the early church fathers.\nThe post The Nag Hammadi Codices and Gnostic Christianity appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/daily/biblical-artifacts/the-nag-hammadi-codices/"
+    },
+    {
+      "category": "Biblical Studies",
+      "title": "Pella: A Window on Survival",
+      "source": "Biblical Archaeology Society",
+      "date": "Tue, 28 Jul 2026 11:00:55 +0000",
+      "summary": "Eusebius recounts that the Jewish followers of Jesus heeded his warning and fled to Pella for safety before Jerusalem’s destruction.\nThe post Pella: A Window on Survival appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/daily/biblical-sites-places/biblical-archaeology-places/pella-a-window-on-survival/"
     },
     {
       "category": "Science",
-      "title": " Colossal scars of 60 million-year-long continental collision streak across warped mountains in Pakistan — Earth from space ",
-      "source": " Latest from Live Science ",
-      "date": "Tue, 28 Jul 2026 10:38:13 +0000",
-      "summary": "A 2011 satellite photo shows off an \"imbricate fan\" of alternating rocks in Pakistan's Sulaiman Range. The striking structure formed along the boundary of two tectonic plates that have long been locked in a geological tug-of-war.",
-      "url": "https://www.livescience.com/planet-earth/geology/colossal-scars-of-60-million-year-long-continental-collision-streak-across-warped-mountains-in-pakistan-earth-from-space"
-    },
-    {
-      "category": "Space",
-      "title": " 'Crazy idea' succeeds: Scientists monitor space junk with radio telescopes ",
-      "source": " Latest from Space.com ",
-      "date": "Tue, 28 Jul 2026 10:00:00 +0000",
-      "summary": "\"That's the first time that's ever been done.\"",
-      "url": "https://www.space.com/astronomy/earth/crazy-idea-succeeds-scientists-monitor-space-junk-with-radio-telescopes"
-    },
-    {
-      "category": "AI",
-      "title": "Google's Beyond Zero: Enterprise Security for the AI Era",
-      "source": "Hacker News: Front Page",
-      "date": "Tue, 28 Jul 2026 09:59:13 +0000",
-      "summary": "Article URL: https://spawn-queue.acm.org/doi/10.1145/3819083\nComments URL: https://news.ycombinator.com/item?id=49081644\nPoints: 19\n# Comments: 6",
-      "url": "https://spawn-queue.acm.org/doi/10.1145/3819083"
-    },
-    {
-      "category": "AI",
-      "title": "About the security content of macOS Tahoe 26.6",
-      "source": "Hacker News: Front Page",
-      "date": "Tue, 28 Jul 2026 09:45:43 +0000",
-      "summary": "Article URL: https://support.apple.com/en-us/128067\nComments URL: https://news.ycombinator.com/item?id=49081555\nPoints: 71\n# Comments: 28",
-      "url": "https://support.apple.com/en-us/128067"
-    },
-    {
-      "category": "Space",
-      "title": " The unique DJI Lito X1 drone is packed full of functionality and you can't buy it in the USA ",
-      "source": " Latest from Space.com ",
-      "date": "Tue, 28 Jul 2026 09:00:00 +0000",
-      "summary": "The DJI Lito X1 delivers impressive features and functionality, including omnidirectional obstacle sensing in a beginner-friendly package.",
-      "url": "https://www.space.com/technology/dji-lito-x1-drone-review"
-    },
-    {
-      "category": "Science",
-      "title": " 'World models' are the future of AI, but how do they work? ",
-      "source": " Latest from Live Science ",
-      "date": "Tue, 28 Jul 2026 08:52:36 +0000",
-      "summary": "Scientists are increasingly looking at building world models to get AI equipped to handle and interact with our physical reality.",
-      "url": "https://www.livescience.com/technology/artificial-intelligence/world-models-are-the-future-of-ai-but-how-do-they-work"
-    },
-    {
-      "category": "AI",
-      "title": "7.1 Earthquake in Japan",
-      "source": "Hacker News: Front Page",
-      "date": "Tue, 28 Jul 2026 07:44:24 +0000",
-      "summary": "Article URL: https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&lang=en\nComments URL: https://news.ycombinator.com/item?id=49080664\nPoints: 293\n# Comments: 63",
-      "url": "https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&lang=en"
+      "title": "NASA’s Psyche spacecraft aces Mars flyby capturing stunning timelapse video",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Tue, 28 Jul 2026 02:21:24 EDT",
+      "summary": "NASA’s Psyche spacecraft aced its Mars flyby, using the planet’s gravity to speed toward its 2029 encounter with a metal-rich asteroid. The spacecraft tested its cameras, magnetometer, and particle-detecting instruments, capturing unusual views of Mars and measuring its magnetic environment. It also detected neutrons from the planet and spotted the tiny moons Phobos and Deimos.",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260727214612.htm"
     },
     {
       "category": "Theology",
@@ -115,28 +179,12 @@
       "url": "https://www.thegospelcoalition.org/reviews/yesteryear-caro-burke/"
     },
     {
-      "category": "Space",
-      "title": "Smoke Blankets Oregon",
-      "source": "NASA",
-      "date": "Tue, 28 Jul 2026 04:01:00 +0000",
-      "summary": "Lightning storms have ignited dozens of fires in central and eastern Oregon.",
-      "url": "https://science.nasa.gov/earth/natural-disasters/wildfires/smoke-blankets-oregon/"
-    },
-    {
       "category": "Theology",
       "title": "A Muted World Requires Fresh Approaches to Evangelism",
       "source": "The Gospel Coalition",
       "date": "Tue, 28 Jul 2026 04:00:00 +0000",
       "summary": "For the church to flourish in an age trained to mute creation, we must first restore attentiveness to general revelation.",
       "url": "https://www.thegospelcoalition.org/article/evangelism-muted-world/"
-    },
-    {
-      "category": "Space",
-      "title": " Starship in space! See highlights of SpaceX megarocket's epic Flight 13 test launch (video) ",
-      "source": " Latest from Space.com ",
-      "date": "Mon, 27 Jul 2026 22:00:00 +0000",
-      "summary": "The 13th test flight of SpaceX's Starship megarocket went pretty well —and provided some amazing visuals, too. See the highlights here.",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/starship-in-space-see-highlights-of-spacex-megarockets-epic-flight-13-test-launch-video"
     },
     {
       "category": "AI",
@@ -155,38 +203,6 @@
       "url": "https://arstechnica.com/tech-policy/2026/07/starlink-gets-exemption-from-fcc-ban-on-routers-made-outside-the-us/"
     },
     {
-      "category": "AI",
-      "title": "Epic diarrhea outbreak has 40% of Americans avoiding fruits and veggies",
-      "source": "Ars Technica - All content",
-      "date": "Mon, 27 Jul 2026 20:42:13 +0000",
-      "summary": "Kennedy has focused on nutrition but has neglected food safety, critics say.",
-      "url": "https://arstechnica.com/health/2026/07/epic-diarrhea-outbreak-has-40-of-americans-avoiding-fruits-and-veggies/"
-    },
-    {
-      "category": "Space",
-      "title": "NASA Astronaut Chris Williams to Discuss Space Station Mission",
-      "source": "NASA",
-      "date": "Mon, 27 Jul 2026 18:49:20 +0000",
-      "summary": "NASA astronaut Chris Williams will recap his recent eight-month mission aboard the International Space Station during a news conference at 2:45 p.m. EDT Tuesday, Aug. 4, from the agency’s Johnson Space Center in Houston. NASA will stream this event live through a variety of platforms. Learn where to watch online: https://www.nasa.gov/live United States-based media interested […]",
-      "url": "https://www.nasa.gov/news-release/nasa-astronaut-chris-williams-to-discuss-space-station-mission/"
-    },
-    {
-      "category": "Space",
-      "title": "NASA Science Soars During August Total Solar Eclipse",
-      "source": "NASA",
-      "date": "Mon, 27 Jul 2026 18:01:14 +0000",
-      "summary": "Each time the Moon covers the Sun during a total solar eclipse — darkening daytime skies and briefly revealing the Sun’s ethereal outer atmosphere, the corona — it presents new opportunities to better understand our star and its influence on Earth. On Wednesday, Aug. 12, as the next total solar eclipse sweeps over Greenland, Iceland, […]",
-      "url": "https://science.nasa.gov/science-research/heliophysics/nasa-science-soars-during-august-total-solar-eclipse/"
-    },
-    {
-      "category": "Science",
-      "title": "500,000-year-old elephant bone hammer shows ancient humans were master toolmakers",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Mon, 27 Jul 2026 08:36:16 EDT",
-      "summary": "Early humans in England crafted a rare piece of elephant bone into a reusable hammer for sharpening stone tools nearly 500,000 years ago. The extraordinary find reveals that ancient toolmakers were resourceful, skilled, and capable of surprisingly advanced planning.",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260726015301.htm"
-    },
-    {
       "category": "Biblical Studies",
       "title": "Who Were the Sea Peoples?",
       "source": "Biblical Archaeology Society",
@@ -195,44 +211,12 @@
       "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-near-eastern-world/who-were-sea-peoples/"
     },
     {
-      "category": "Science",
-      "title": "Why Jupiter has several giant moons but Saturn has only Titan",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Mon, 27 Jul 2026 06:24:05 EDT",
-      "summary": "Young Jupiter’s powerful magnetic field may have created a safe zone where several large moons could survive. Saturn lacked this protection, possibly explaining why Titan stands almost alone among its largest moons.",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260727012143.htm"
-    },
-    {
-      "category": "Biblical Studies",
-      "title": "Mysterious Pre-Islamic Arabian Script Deciphered",
-      "source": "Biblical Archaeology Society",
-      "date": "Mon, 27 Jul 2026 10:00:48 +0000",
-      "summary": "In the deserts of Oman and Yemen can be found a treasure trove of ancient inscriptions written in pre-Islamic Arabian scripts. Among these is the […]\nThe post Mysterious Pre-Islamic Arabian Script Deciphered appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/daily/archaeology-today/pre-islamic-arabian-script-deciphered/"
-    },
-    {
-      "category": "Science",
-      "title": "After 241 days in orbit this NASA astronaut is finally home",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Mon, 27 Jul 2026 04:06:53 EDT",
-      "summary": "NASA astronaut Chris Williams and two Roscosmos cosmonauts are back on Earth after spending 241 days aboard the International Space Station. Their journey covered more than 102 million miles and included 3,856 trips around the planet.",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260727012131.htm"
-    },
-    {
       "category": "AI",
       "title": "How AI is expanding what people do at work",
       "source": "OpenAI News",
       "date": "Mon, 27 Jul 2026 03:30:00 GMT",
       "summary": "New OpenAI research shows how AI is expanding what workers do, with ChatGPT users taking on tasks across roles and reshaping job boundaries.",
       "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work"
-    },
-    {
-      "category": "Biblical Studies",
-      "title": "The Staurogram",
-      "source": "Biblical Archaeology Society",
-      "date": "Sun, 26 Jul 2026 11:00:01 +0000",
-      "summary": "The staurogram, a crucifixion symbol made out of the Greek letters tau-rho, is 200 years older than the oldest previously-known images of Jesus on the cross.\nThe post The Staurogram appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/daily/biblical-topics/crucifixion/the-staurogram/"
     },
     {
       "category": "Theology",
@@ -265,14 +249,6 @@
       "date": "Wed, 22 Jul 2026 19:50:29 +0000",
       "summary": "In an age of internet fame, endless scrolling, and YouTube Shorts, we do not need more self-promoting pastors. We need godly, warm, and faithful shepherds. \nThe post Pulling the Thread appeared first on 9Marks.",
       "url": "https://www.9marks.org/review/pulling-the-thread/?utm_source=rss&utm_medium=rss&utm_campaign=pulling-the-thread"
-    },
-    {
-      "category": "AI",
-      "title": "Building AI infrastructure with the Effingham County community",
-      "source": "OpenAI News",
-      "date": "Wed, 22 Jul 2026 13:00:00 GMT",
-      "summary": "OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex.",
-      "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community"
     },
     {
       "category": "Theology",
