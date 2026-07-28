@@ -1,38 +1,126 @@
 {
-  "lastUpdated": "2026-07-28T17:21:03.426Z",
+  "lastUpdated": "2026-07-28T22:52:57.818Z",
   "articleCount": 36,
   "articles": [
     {
       "category": "Science",
-      "title": "Impact of climate change may be equivalent to 3.3 million years of transformations in tropical vegetation",
+      "title": "'Bag of Bones' preserves rare three-tier prehistoric meal in Outback Queensland",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Tue, 28 Jul 2026 13:20:03 EDT",
-      "summary": "The tropics cover less than one-third of Earth's surface but are home to more than half of all known species. Forests, savannas, grasslands and deserts: A vast array of environments stretches along the planet's equatorial belt. This diversity, however, is not static. It is the result of millions of years of changes that have reshaped the tropical landscape time and again.",
-      "url": "https://phys.org/news/2026-07-impact-climate-equivalent-million-years.html"
+      "date": "Tue, 28 Jul 2026 18:40:06 EDT",
+      "summary": "An ancient marine 'crime scene' discovered near Richmond captures the world first evidence of a flying reptile being eaten by a sea monster… before that predator became dinner itself.",
+      "url": "https://phys.org/news/2026-07-bag-bones-rare-tier-prehistoric.html"
     },
     {
       "category": "Science",
-      "title": "Small ants that evict coffee pests may gain reproductive boost while protecting crops",
+      "title": "Researchers shed light on elusive sharks of Galapagos Islands",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Tue, 28 Jul 2026 13:20:02 EDT",
-      "summary": "Ants are known allies in the fight against coffee pests known as coffee berry borers. Now, a discovery made by Jonathan \"Jonno\" Morris while he was a University of Michigan graduate student has revealed there may be a new dimension to this protection.",
-      "url": "https://phys.org/news/2026-07-small-ants-evict-coffee-pests.html"
+      "date": "Tue, 28 Jul 2026 18:40:01 EDT",
+      "summary": "For nearly two centuries, the Galapagos Islands have inspired scientific discovery. While some might think only of Charles Darwin and his journeys on the HMS Beagle, there is much more to discover. Today, María Antonia Izurieta Burbano De Lara, a master's student in Dr. David Wells' Shark Biology and Fisheries Science Lab at Texas A&M University at Galveston, is building on that legacy by studying one of the archipelago's most elusive predators—the smooth hammerhead shark (Sphyrna zygaena).",
+      "url": "https://phys.org/news/2026-07-elusive-sharks-galapagos-islands.html"
+    },
+    {
+      "category": "AI",
+      "title": "Underwater Oxygen Loss Threatens Earth's Stability, Researchers Warn",
+      "source": "Hacker News: Front Page",
+      "date": "Tue, 28 Jul 2026 22:31:14 +0000",
+      "summary": "Article URL: https://scripps.ucsd.edu/news/underwater-oxygen-loss-threatens-earths-stability-researchers-warn\nComments URL: https://news.ycombinator.com/item?id=49090867\nPoints: 8\n# Comments: 0",
+      "url": "https://scripps.ucsd.edu/news/underwater-oxygen-loss-threatens-earths-stability-researchers-warn"
+    },
+    {
+      "category": "AI",
+      "title": "Offer rates for tech jobs fell from 51% to 39% since 2015",
+      "source": "Hacker News: Front Page",
+      "date": "Tue, 28 Jul 2026 22:24:06 +0000",
+      "summary": "Article URL: https://www.interviewquery.com/p/tech-interview-offer-rates-lowest-12-years\nComments URL: https://news.ycombinator.com/item?id=49090794\nPoints: 25\n# Comments: 3",
+      "url": "https://www.interviewquery.com/p/tech-interview-offer-rates-lowest-12-years"
     },
     {
       "category": "Science",
-      "title": "Social amoebae form nanotube networks linking multiple cells",
+      "title": "Scientists' biographies may demotivate, not inspire, children to study science",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Tue, 28 Jul 2026 13:00:05 EDT",
-      "summary": "Social amoebae are unicellular organisms that act in concert, requiring extensive communication. Pierre Stallforth and colleagues studied modes of communication among cells of the social amoeba Dictyostelium discoideum, using fluorescent labeling and various imaging techniques.",
-      "url": "https://phys.org/news/2026-07-social-amoebae-nanotube-networks-linking.html"
+      "date": "Tue, 28 Jul 2026 18:20:07 EDT",
+      "summary": "Currently popular biographies of famous scientists may demotivate—rather than inspire—children's desire to study or pursue careers in science, according to researchers who studied the messages in 422 bestselling children's books. Study leader Jessica Gladstone, a professor of educational psychology at the University of Illinois Urbana-Champaign, said that while parents and educators often use these books to try to spark children's interest in science through exposure to role models, their narratives tend not to support this goal.",
+      "url": "https://phys.org/news/2026-07-scientists-biographies-demotivate-children-science.html"
+    },
+    {
+      "category": "AI",
+      "title": "Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript",
+      "source": "Hacker News: Front Page",
+      "date": "Tue, 28 Jul 2026 22:09:06 +0000",
+      "summary": "HN is great for the links people share, but a big part of the value I get comes from reading the discussion around them. I realized I was always opening the article in one tab and the comments in another, constantly switching back and forth.\nI figured there was probably a simpler way, so I threw together this userscript to merge the two.\n1. Clicking a link from Hacker News opens the article with a side panel containing the discussion. It doesn't require your credentials, is resizable, and is easy to tweak if you want to customize it.\n2. If you land on an article that has previously been shared on HN, the script finds the existing discussion and adds a button in the top-right to open the panel.\nFeedback welcome.\nComments URL: https://news.ycombinator.com/item?id=49090607\nPoints: 10\n# Comments: 2",
+      "url": "https://github.com/twalichiewicz/HNewhere"
     },
     {
       "category": "Space",
-      "title": " 'Silo' season 3's Ashley Zuckerman and Jessica Henwick share the secret to their on-screen chemistry (interview) ",
+      "title": " DJI Lito 1 drone review ",
       "source": " Latest from Space.com ",
-      "date": "Tue, 28 Jul 2026 17:00:00 +0000",
-      "summary": "'It's nothing we worked to generate, it was really just there from the beginning'",
-      "url": "https://www.space.com/entertainment/space-movies-shows/silo-season-3s-ashley-zuckerman-and-jessica-henwick-share-the-secret-to-their-on-screen-chemistry-interview"
+      "date": "Tue, 28 Jul 2026 22:00:00 +0000",
+      "summary": "The DJI Lito 1 is an impressive entry-level drone thanks to features including omnidirectional obstacle sensing and respectable image quality.",
+      "url": "https://www.space.com/technology/dji-lito-1-drone-review"
+    },
+    {
+      "category": "Science",
+      "title": " 6.8 earthquake traps shoppers as mall collapses in Japan —‬ here's why the seismic event was unusual ",
+      "source": " Latest from Live Science ",
+      "date": "Tue, 28 Jul 2026 21:27:12 +0000",
+      "summary": "A strong inland earthquake in southwestern Japan trapped people inside a shopping center and damaged infrastructure. Here's what made this quake unusual and why aftershocks remain a concern.",
+      "url": "https://www.livescience.com/planet-earth/earthquakes/6-8-earthquake-traps-shoppers-as-mall-collapses-in-japan-heres-why-the-seismic-event-was-unusual"
+    },
+    {
+      "category": "Space",
+      "title": " NASA fuels its next-gen Roman Space Telescope for August launch ",
+      "source": " Latest from Space.com ",
+      "date": "Tue, 28 Jul 2026 21:00:00 +0000",
+      "summary": "Looks like everything is on track so far for an Aug. 30 launch.",
+      "url": "https://www.space.com/astronomy/nasa-fuels-its-next-gen-roman-space-telescope-for-august-launch"
+    },
+    {
+      "category": "Theology",
+      "title": "Pastoring Amid Family Turmoil",
+      "source": "9Marks",
+      "date": "Tue, 28 Jul 2026 20:49:08 +0000",
+      "summary": "My call at church was not to soldier on as if nothing was wrong. It was to pastor the church in my weakness so that Christ’s grace would be magnified.\nThe post Pastoring Amid Family Turmoil appeared first on 9Marks.",
+      "url": "https://www.9marks.org/article/pastoring-amid-family-turmoil/?utm_source=rss&utm_medium=rss&utm_campaign=pastoring-amid-family-turmoil"
+    },
+    {
+      "category": "Science",
+      "title": " 'Not alike any we've ever seen before': Three of the 12 galaxies in this cosmic string are missing a crucial component of the universe ",
+      "source": " Latest from Live Science ",
+      "date": "Tue, 28 Jul 2026 20:04:27 +0000",
+      "summary": "Astronomers have discovered a third galaxy without dark matter in a strange string of a dozen dwarf galaxies. A violent collision is likely to blame.",
+      "url": "https://www.livescience.com/space/not-alike-any-weve-ever-seen-before-three-of-the-12-galaxies-in-this-cosmic-string-are-missing-a-crucial-component-of-the-universe"
+    },
+    {
+      "category": "Science",
+      "title": " Scientists may have found a clue to prevent muscles from aging, study hints ",
+      "source": " Latest from Live Science ",
+      "date": "Tue, 28 Jul 2026 19:30:00 +0000",
+      "summary": "Scientists have identified a compound that may help preserve muscle in aging mice. Someday, this may help people with muscle atrophy.",
+      "url": "https://www.livescience.com/health/aging/scientists-may-have-found-a-clue-to-prevent-muscles-from-aging-study-hints"
+    },
+    {
+      "category": "Space",
+      "title": " Our Milky Way galaxy appears to have flipped 90 degrees long ago. But why? ",
+      "source": " Latest from Space.com ",
+      "date": "Tue, 28 Jul 2026 19:00:00 +0000",
+      "summary": "A slowly rotating stellar halo was the clue to a major and unknown event in the Milky Way's history that saw the spiral disc flip over by more than 90 degrees.",
+      "url": "https://www.space.com/astronomy/galaxies/our-milky-way-galaxy-appears-to-have-flipped-90-degrees-long-ago-but-why"
+    },
+    {
+      "category": "AI",
+      "title": "New airliner sets record flying 24 hrs nonstop from Australia to France",
+      "source": "Ars Technica - All content",
+      "date": "Tue, 28 Jul 2026 18:43:36 +0000",
+      "summary": "Record flight shows viability of Qantas Airways’ Project Sunrise routes in 2027.",
+      "url": "https://arstechnica.com/gadgets/2026/07/new-airliner-sets-record-flying-24-hrs-nonstop-from-australia-to-france/"
+    },
+    {
+      "category": "AI",
+      "title": "Judge blocks first state law that would have banned prediction markets",
+      "source": "Ars Technica - All content",
+      "date": "Tue, 28 Jul 2026 18:31:13 +0000",
+      "summary": "Judge may allow Minnesota to ban some types of bets, but not all of them.",
+      "url": "https://arstechnica.com/tech-policy/2026/07/judge-blocks-first-state-law-that-would-have-banned-prediction-markets/"
     },
     {
       "category": "AI",
@@ -44,75 +132,11 @@
     },
     {
       "category": "AI",
-      "title": "Xenharmlib (music theory library) adds support for Just Intonation",
-      "source": "Hacker News: Front Page",
-      "date": "Tue, 28 Jul 2026 16:10:37 +0000",
-      "summary": "Article URL: https://xenharmlib.readthedocs.io/en/latest/whats_new_0_4_0.html\nComments URL: https://news.ycombinator.com/item?id=49086059\nPoints: 5\n# Comments: 0",
-      "url": "https://xenharmlib.readthedocs.io/en/latest/whats_new_0_4_0.html"
-    },
-    {
-      "category": "Science",
-      "title": " Killer whales sink another boat off the coast of Spain — why are they still doing this after 6 years? ",
-      "source": " Latest from Live Science ",
-      "date": "Tue, 28 Jul 2026 16:09:13 +0000",
-      "summary": "A small, endangered pod of orcas off Spain and Portugal has sunk at least eight boats since 2020, and despite speculation, the real explanation might have nothing to do with revenge.",
-      "url": "https://www.livescience.com/animals/orcas/killer-whales-sink-another-boat-off-the-coast-of-spain-why-are-they-still-doing-this-after-6-years"
-    },
-    {
-      "category": "AI",
-      "title": "You Could Have Come Up with Kimi Delta Attention",
-      "source": "Hacker News: Front Page",
-      "date": "Tue, 28 Jul 2026 16:02:07 +0000",
-      "summary": "Article URL: https://blog.doubleword.ai/you-could-have-come-up-with-kimi-delta-attention\nComments URL: https://news.ycombinator.com/item?id=49085909\nPoints: 104\n# Comments: 22",
-      "url": "https://blog.doubleword.ai/you-could-have-come-up-with-kimi-delta-attention"
-    },
-    {
-      "category": "AI",
-      "title": "How Do I Profile eBPF Code?",
-      "source": "Hacker News: Front Page",
-      "date": "Tue, 28 Jul 2026 15:55:44 +0000",
-      "summary": "Article URL: https://naveensrinivasan.com/posts/2026-07-22-how-do-i-profile-ebpf-code/\nComments URL: https://news.ycombinator.com/item?id=49085811\nPoints: 45\n# Comments: 1",
-      "url": "https://naveensrinivasan.com/posts/2026-07-22-how-do-i-profile-ebpf-code/"
-    },
-    {
-      "category": "Science",
-      "title": " How to watch 'Jurassic Sharks' online – stream 'Shark Week' 2026 from anywhere ",
-      "source": " Latest from Live Science ",
-      "date": "Tue, 28 Jul 2026 15:00:00 +0000",
-      "summary": "How to watch \"Jurassic Sharks\" online from anywhere, with the special set to use visual effects to flesh out the fossils of ancient cartilaginous fish.",
-      "url": "https://www.livescience.com/animals/how-to-watch-jurassic-sharks-online-stream-shark-week-2026"
-    },
-    {
-      "category": "Space",
-      "title": " SpaceX launches 24 Starlink satellites to orbit in wake of Starship test flight (video) ",
-      "source": " Latest from Space.com ",
-      "date": "Tue, 28 Jul 2026 15:00:00 +0000",
-      "summary": "A SpaceX Falcon 9 rocket carrying 24 Starlink satellites lifted off from Vandenberg Space Force Base in California on Saturday, July 25, 2026.",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-17-51-b1100-vsfb-ocisly"
-    },
-    {
-      "category": "Space",
-      "title": " ISS meets Venus in incredible daylight photo | Space photo of the day for July 28, 2026 ",
-      "source": " Latest from Space.com ",
-      "date": "Tue, 28 Jul 2026 14:00:00 +0000",
-      "summary": "An astrophotographer captured a breathtaking scene as the International Space Station zoomed by Venus in the daytime sky.",
-      "url": "https://www.space.com/stargazing/iss-meets-venus-in-incredible-daylight-photo-space-photo-of-the-day-for-july-28-2026"
-    },
-    {
-      "category": "AI",
-      "title": "As US measles cases rise, biotech firms start developing new treatments",
+      "title": "Report: Trump mad RFK Jr. hasn’t cut more vaccines or proven autism link",
       "source": "Ars Technica - All content",
-      "date": "Tue, 28 Jul 2026 13:32:23 +0000",
-      "summary": "The US is making measles great again, so treatment options are needed for the most vulnerable.",
-      "url": "https://arstechnica.com/health/2026/07/as-us-measles-cases-rise-biotech-firms-start-developing-new-treatments/"
-    },
-    {
-      "category": "Science",
-      "title": " Introducing Live Science Pro — a new space to get all the science with none of the distractions ",
-      "source": " Latest from Live Science ",
-      "date": "Tue, 28 Jul 2026 13:00:00 +0000",
-      "summary": "Go beyond the headlines to read the latest in-depth science features, op-eds, book excerpts and more.",
-      "url": "https://www.livescience.com/technology/communications/introducing-live-science-pro-a-new-space-to-get-all-the-science-with-none-of-the-distractions"
+      "date": "Tue, 28 Jul 2026 16:16:25 +0000",
+      "summary": "Trump is fixated on the false, long-debunked claim that vaccines cause autism.",
+      "url": "https://arstechnica.com/health/2026/07/report-trump-mad-rfk-jr-hasnt-cut-more-vaccines-or-proven-autism-link/"
     },
     {
       "category": "Science",
@@ -187,22 +211,6 @@
       "url": "https://www.thegospelcoalition.org/article/evangelism-muted-world/"
     },
     {
-      "category": "AI",
-      "title": "Microsoft unveils AI security tools it says outperform competing platforms",
-      "source": "Ars Technica - All content",
-      "date": "Mon, 27 Jul 2026 21:56:14 +0000",
-      "summary": "Microsoft says tools cost less than competing ones and outperform them, too.",
-      "url": "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/"
-    },
-    {
-      "category": "AI",
-      "title": "Trump admin exempts SpaceX's Starlink from FCC ban on foreign-made routers",
-      "source": "Ars Technica - All content",
-      "date": "Mon, 27 Jul 2026 21:40:27 +0000",
-      "summary": "Starlink has a Texas factory but also makes routers in Vietnam.",
-      "url": "https://arstechnica.com/tech-policy/2026/07/starlink-gets-exemption-from-fcc-ban-on-routers-made-outside-the-us/"
-    },
-    {
       "category": "Biblical Studies",
       "title": "Who Were the Sea Peoples?",
       "source": "Biblical Archaeology Society",
@@ -249,14 +257,6 @@
       "date": "Wed, 22 Jul 2026 19:50:29 +0000",
       "summary": "In an age of internet fame, endless scrolling, and YouTube Shorts, we do not need more self-promoting pastors. We need godly, warm, and faithful shepherds. \nThe post Pulling the Thread appeared first on 9Marks.",
       "url": "https://www.9marks.org/review/pulling-the-thread/?utm_source=rss&utm_medium=rss&utm_campaign=pulling-the-thread"
-    },
-    {
-      "category": "Theology",
-      "title": "The Biblical Pattern of Terrible Fathers",
-      "source": "9Marks",
-      "date": "Tue, 21 Jul 2026 19:30:55 +0000",
-      "summary": "The good news for terrible fathers is not that the past can be undone, but that it can be redeemed. \nThe post The Biblical Pattern of Terrible Fathers appeared first on 9Marks.",
-      "url": "https://www.9marks.org/article/the-biblical-pattern-of-terrible-fathers/?utm_source=rss&utm_medium=rss&utm_campaign=the-biblical-pattern-of-terrible-fathers"
     },
     {
       "category": "History",
