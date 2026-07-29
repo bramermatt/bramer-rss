@@ -1,102 +1,126 @@
 {
-  "lastUpdated": "2026-07-29T17:07:06.208Z",
+  "lastUpdated": "2026-07-29T22:54:30.820Z",
   "articleCount": 36,
   "articles": [
     {
-      "category": "Science",
-      "title": "An entire world of fungi nearly a third of a mile underground could affect carbon storage estimates",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Wed, 29 Jul 2026 13:00:06 EDT",
-      "summary": "Hundreds of feet below Earth's surface, rocks and water teem with fungi and support complex ecosystems of tiny organisms, according to a University of Michigan study that finds fungi are far more abundant deep underground than researchers previously thought.",
-      "url": "https://phys.org/news/2026-07-entire-world-fungi-mile-underground.html"
-    },
-    {
-      "category": "Science",
-      "title": "Shoppers would fork out more for better farm animal welfare",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Wed, 29 Jul 2026 13:00:01 EDT",
-      "summary": "Shoppers would pay more for their weekly groceries if it meant improved welfare for farm animals, according to new research from the University of Reading.",
-      "url": "https://phys.org/news/2026-07-shoppers-fork-farm-animal-welfare.html"
-    },
-    {
       "category": "Space",
-      "title": " SpaceX launching secret US spy satellite early on July 30: Watch it live ",
+      "title": " 'It's going to do things that currently are impossible': The Roman Space Telescope, NASA's next great observatory, is ready to launch Aug. 30 ",
       "source": " Latest from Space.com ",
-      "date": "Wed, 29 Jul 2026 17:00:00 +0000",
-      "summary": "SpaceX plans to launch a secret reconnaissance mission for the U.S. government early on Thursday morning (July 30), and you can watch the action live.",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-spy-satellite-launch-nrol-95"
+      "date": "Wed, 29 Jul 2026 22:41:30 +0000",
+      "summary": "NASA's Roman Space Telescope is ready to launch on a SpaceX Falcon Heavy rocket on Aug. 30.  It'll map the entire sky like never before.",
+      "url": "https://www.space.com/astronomy/its-going-to-do-things-that-currently-are-impossible-the-roman-space-telescope-nasas-next-great-observatory-is-ready-to-launch-aug-30"
     },
     {
       "category": "Science",
-      "title": " Monkeys have a basic intuition for geometry, study suggests ",
-      "source": " Latest from Live Science ",
-      "date": "Wed, 29 Jul 2026 16:43:40 +0000",
-      "summary": "Baboons and macaques appear to use some of the same mental strategies as humans when matching shapes, suggesting that the foundations of geometry evolved in a common ancestor.",
-      "url": "https://www.livescience.com/animals/primates/monkeys-have-a-basic-intuition-for-geometry-study-suggests"
-    },
-    {
-      "category": "Science",
-      "title": "Managing ecosystems under climate change using nature's hidden design",
+      "title": "One of industry's toughest lignin byproducts could become feedstock for valuable chemicals",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Wed, 29 Jul 2026 12:40:03 EDT",
-      "summary": "Researchers at the Centre for Ecosystem Management (CEM), together with scientists from the Department of Fisheries and Oceans, Cornell University, Great Lakes Fishery Commission and the Ontario Ministry of Natural Resources, have published a paper showing that ecosystems become more resilient to environmental change through \"portfolio effects\" operating across multiple levels of ecological organization.",
-      "url": "https://phys.org/news/2026-07-ecosystems-climate-nature-hidden.html"
+      "date": "Wed, 29 Jul 2026 18:40:03 EDT",
+      "summary": "The pulp and paper industry, which manufactures everything from tissue paper to cardboard, also generates a significant yet often overlooked byproduct—a complex polymer called lignin. Around 100 million tons of lignin are produced each year. Despite being the largest natural source of aromatic carbon on the planet, most of it is burned for energy. This is due to its complex structure, which is notoriously difficult to process. Researchers are exploring ways to leverage industrial lignin by developing methods to convert it into useful bio-based chemicals.",
+      "url": "https://phys.org/news/2026-07-industry-toughest-lignin-byproducts-feedstock.html"
+    },
+    {
+      "category": "Science",
+      "title": "Invasive species emerge as a driver of human displacement, new research shows",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Wed, 29 Jul 2026 18:40:01 EDT",
+      "summary": "Invasive alien species are driving human displacement, according to a new research paper published this month in Frontiers. In Kenya, Opuntia stricta has displaced pastoralist communities, while the invasive little fire ant has led to farm abandonment in New Caledonia, the Galápagos Islands and French Polynesia. Water hyacinth has disrupted fishing livelihoods in much of Africa.",
+      "url": "https://phys.org/news/2026-07-invasive-species-emerge-driver-human.html"
+    },
+    {
+      "category": "Science",
+      "title": "Keeping stem cells in check: A new mechanism by which cell junction proteins regulate tissue homeostasis",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Wed, 29 Jul 2026 18:20:03 EDT",
+      "summary": "In many animal tissues, stem cells continually divide to create new cells that replace old or damaged ones. However, this capacity requires strict regulation, as uncontrolled stem cell proliferation can disrupt tissue homeostasis and contribute to tumorigenesis.",
+      "url": "https://phys.org/news/2026-07-stem-cells-mechanism-cell-junction.html"
     },
     {
       "category": "AI",
-      "title": "Keychron announces first open-source firmware for gaming mice",
+      "title": "AI's top startups are barely publishing their research",
       "source": "Hacker News: Front Page",
-      "date": "Wed, 29 Jul 2026 16:36:59 +0000",
-      "summary": "Article URL: https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice\nComments URL: https://news.ycombinator.com/item?id=49099715\nPoints: 5\n# Comments: 3",
-      "url": "https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice"
-    },
-    {
-      "category": "Science",
-      "title": " Biological 'superspreader' event could be imminent as more than 1,000 ships idle in the Strait of Hormuz, scientists warn ",
-      "source": " Latest from Live Science ",
-      "date": "Wed, 29 Jul 2026 16:36:23 +0000",
-      "summary": "The prolonged closure of the Strait of Hormuz may pose significant biosecurity hazards as well as economic impacts, with potentially devastating consequences for global ecosystems and human health.",
-      "url": "https://www.livescience.com/planet-earth/biological-superspreader-event-could-be-imminent-as-more-than-1-000-ships-idle-in-the-strait-of-hormuz-scientists-warn"
-    },
-    {
-      "category": "Space",
-      "title": " This genuinely pocket-sized smart telescope makes capturing the deep sky and the solar system almost effortless ",
-      "source": " Latest from Space.com ",
-      "date": "Wed, 29 Jul 2026 16:35:00 +0000",
-      "summary": "A genuinely pocket-sized smart telescope",
-      "url": "https://www.space.com/stargazing/skywatching-kit/this-genuinely-pocket-sized-smart-telescope-makes-capturing-the-deep-sky-and-the-solar-system-almost-effortless"
+      "date": "Wed, 29 Jul 2026 21:25:40 +0000",
+      "summary": "Article URL: https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research\nComments URL: https://news.ycombinator.com/item?id=49103285\nPoints: 75\n# Comments: 54",
+      "url": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research"
     },
     {
       "category": "AI",
-      "title": "Show HN: Kedge – Full-stack cloud with forkable VM snapshots and global SQLite",
+      "title": "The Cold Email",
       "source": "Hacker News: Front Page",
-      "date": "Wed, 29 Jul 2026 16:15:57 +0000",
-      "summary": "I'm building Kedge, a globally distributed platform for stateful serverless apps. Here's how you make a simple static site: `echo '# Hello world!' | ssh kedge.dev'\nI helped build Fly.io for 4 years and shared enthusiasm for the founders' vision of a 'global Heroku'.  While there, I wrote \"The Serverless Server\" (https://fly.io/blog/the-serverless-server/) as a study of Lambda and a sketch of a modern serverless product built around lightweight VMs. That essay was the initial inspiration for Kedge.\nKedge has a fast VM orchestrator that can create code sandboxes or scale service instances in 3ms, using a combination of forkable VM snapshots and a tree of warm pools (Linux kernel -> base runtime -> app). VMs are memory-dense thanks to shared copy-on-write memory pages. You can run lightweight CGI-style functions, public OCI images, or source code for BuildKit to compile and deploy.\nKedge's global control plane sits on an eventually-consistent SQLite database. Taking inspiration from Corrosion and Litestream, I built a local-first, multi-writer CRDT-based replication system backed by object storage, and just recently made it open source (https://github.com/wjordan/syzy).\nYou can also use a SQLite client to query `/shared.db` from any instance for a build-in replicated database in your app. This lets Kedge autoscale services close to your users while each instance queries its local replica for eventually-consistent data, with no need to micro-manage instance or volume placement. (There's also a /shared/ filesystem adapter for convenience.)\nKedge can even use this same database for stateful, server-rendered HTML apps. Data attributes bind forms, buttons, and values to records in the app database, Kedge compiles the schema and operations at deploy-time, and then queries the local data to serve requests. As a demo, I made a Hacker News clone with story submission, votes, comments and auth in about 60 lines of Markdown, plus CSS (https://kedge.dev/docs/html-apps#kedger-news).\nI've just started collecting public feedback, so please let me know what you think! I'm particularly interested in feedback on the stateful HTML app model, which is the newest (and most ambitious) piece. The preview is currently running in 11 regions for you to kick the tires. There's no billing yet, so the pricing page is an estimate. Thanks for taking a look!\nComments URL: https://news.ycombinator.com/item?id=49099434\nPoints: 12\n# Comments: 1",
-      "url": "https://kedge.dev/"
+      "date": "Wed, 29 Jul 2026 21:06:42 +0000",
+      "summary": "Article URL: https://zachholman.com/posts/cold-email\nComments URL: https://news.ycombinator.com/item?id=49103089\nPoints: 15\n# Comments: 2",
+      "url": "https://zachholman.com/posts/cold-email"
     },
     {
       "category": "AI",
-      "title": "Launch HN: Tokenless (YC S26) – Automatic model switching to save money",
+      "title": "SalesPatriot (YC W25) Is Hiring FDEs",
       "source": "Hacker News: Front Page",
-      "date": "Wed, 29 Jul 2026 15:55:27 +0000",
-      "summary": "Hi HN, Rohit here from Tokenless (https://usetokenless.com/), which I’m building alongside co-founders Andrew and Kev. We’re building an API gateway which routes agent traffic dynamically turn-by-turn between different models to save on AI spend.\nThe cost of AI tokens is top-of-mind for many. Companies like Uber and Salesforce have been complaining about blowing their yearly AI spend faster than expected.\nFrontier models are amazing for dev work, but are so expensive. Open-source models are cheap and rapidly improving, closing the gap with frontier models, but aren’t quite there yet.\nTokenless gets you the best of both worlds–routing harder turns to smarter models only when needed, which keeps costs low.\nBefore Tokenless, I was doing a PhD at Princeton. While using coding/other agents, I constantly agonized over model choice, to make sure my AI spend was going as far as possible on my academic Cursor account.\nAt the same time, I was doing LLM research, and a small technique I developed while in recovery from NeurIPS submission season seemed to hit SOTA pretty fast. I was surprised that such simple ideas could do routing well.\nWe’ve been able to develop a version of the router that matches the performance of Claude Fable 5 at half the cost. The blog post on our website explores the technical details on how we did this (https://usetokenless.com/blog/building-tokenless/).\nHighlights:\n- Our approach queries multiple models at once and uses their progress to make decisions (this technique is novel AFAIK, let us know if you know anyone else doing this).\n- Switching models doesn’t destroy the cache if the routing algorithm is aware of when the cache is hot/cold.\nTo come:\n- Adding Kimi K3, all other GPT efforts and more to the router\nGo ahead and sign up on usetokenless.com and try using Tokenless with your agent, you’ll get $20 of free credit. Here’s a demo on how to use it: https://youtu.be/sjZWriclcls\nTokenless provides frontier-level intelligence for cheaper, so we’d love some feedback on how it feels to use, any corner cases that the router routes incorrectly, and whether you find the routing problem interesting!\nComments URL: https://news.ycombinator.com/item?id=49099143\nPoints: 16\n# Comments: 17",
-      "url": "https://usetokenless.com/"
+      "date": "Wed, 29 Jul 2026 21:01:01 +0000",
+      "summary": "Article URL: https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer\nComments URL: https://news.ycombinator.com/item?id=49103026\nPoints: 0\n# Comments: 0",
+      "url": "https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer"
     },
     {
-      "category": "Science",
-      "title": " High-powered lasers can wirelessly charge drones mid-flight ",
-      "source": " Latest from Live Science ",
-      "date": "Wed, 29 Jul 2026 15:00:00 +0000",
-      "summary": "Chinese researchers have successfully charged a drone using just a laser, in a breakthrough that could change how we approach unmanned flight",
-      "url": "https://www.livescience.com/technology/engineering/new-drone-can-be-charged-mid-flight-using-high-powered-lasers"
+      "category": "AI",
+      "title": "Who wins and who loses after US bans foreign robots?",
+      "source": "Ars Technica - All content",
+      "date": "Wed, 29 Jul 2026 20:03:42 +0000",
+      "summary": "Government ban on foreign-made robots may hinder instead of help US robotics.",
+      "url": "https://arstechnica.com/ai/2026/07/who-wins-and-who-loses-after-us-bans-foreign-robots/"
     },
     {
       "category": "Space",
-      "title": " 'The Ark' creator Dean Devlin talks season 3's enormous mystery box and sci-fi surprises (interview) ",
+      "title": " Watch this stirring new 'Star Trek' 60th anniversary video saluting the iconic sci-fi franchise ",
       "source": " Latest from Space.com ",
-      "date": "Wed, 29 Jul 2026 15:00:00 +0000",
-      "summary": "\"We went wildly over budget and just made the biggest craziest season we could possible imagine.\"",
-      "url": "https://www.space.com/entertainment/space-movies-shows/the-ark-creator-dean-devlin-talks-season-3s-enormous-mystery-box-and-sci-fi-surprises-interview"
+      "date": "Wed, 29 Jul 2026 20:00:00 +0000",
+      "summary": "Last weekend at San Diego Comic-Con, Paramount revealed a moving \"Star Trek\" tribute video created for the franchise's 60th anniversary this year.",
+      "url": "https://www.space.com/entertainment/watch-this-stirring-new-star-trek-60th-anniversary-video-saluting-the-iconic-sci-fi-franchise"
+    },
+    {
+      "category": "Science",
+      "title": " Lasers reveal hundreds of geoglyphs made by a mysterious civilization in the Amazon rainforest thousands of years ago ",
+      "source": " Latest from Live Science ",
+      "date": "Wed, 29 Jul 2026 19:47:04 +0000",
+      "summary": "A new lidar survey of dense Amazonian rainforest has revealed hundreds of earthworks made by a mysterious civilization two millennia ago.",
+      "url": "https://www.livescience.com/archaeology/americas/lasers-reveal-hundreds-of-geoglyphs-made-by-a-mysterious-civilization-in-the-amazon-rainforest-thousands-of-years-ago"
+    },
+    {
+      "category": "AI",
+      "title": "Comcast store punished low sales by smashing pies in workers' faces, lawsuit claims",
+      "source": "Ars Technica - All content",
+      "date": "Wed, 29 Jul 2026 19:33:55 +0000",
+      "summary": "Comcast, accused of negligence, says lawsuit mischaracterized alleged events.",
+      "url": "https://arstechnica.com/tech-policy/2026/07/comcast-store-punished-low-sales-by-smashing-pies-in-workers-faces-lawsuit-claims/"
+    },
+    {
+      "category": "AI",
+      "title": "Customize Ars your way with an Ars Pro subscription",
+      "source": "Ars Technica - All content",
+      "date": "Wed, 29 Jul 2026 19:23:27 +0000",
+      "summary": "Ars Pro subscribers get customizable layouts along with no ads and no trackers.",
+      "url": "https://arstechnica.com/staff/2026/07/customize-ars-your-way-with-an-ars-pro-subscription/"
+    },
+    {
+      "category": "Science",
+      "title": " Chinese rocket hit by rare midair lightning strike moments after launch as onlookers gasp in horror (video) ",
+      "source": " Latest from Live Science ",
+      "date": "Wed, 29 Jul 2026 19:00:00 +0000",
+      "summary": "A Long March 3B rocket was struck by lightning in front of a packed crowd, around 30 seconds after lifting off from a Chinese spaceport. Despite this, the spacecraft survived its ascent and successfully deployed its payload in orbit.",
+      "url": "https://www.livescience.com/space/space-exploration/chinese-rocket-hit-by-rare-midair-lightning-strike-moments-after-launch-as-onlookers-gasp-in-horror-video"
+    },
+    {
+      "category": "Science",
+      "title": " Antarctica just experienced minus 119 F, Earth's coldest temperature since 2012 — here's why ",
+      "source": " Latest from Live Science ",
+      "date": "Wed, 29 Jul 2026 18:54:19 +0000",
+      "summary": "Too hot? Head to the Concordia research station in Antarctica, where \"astronauts of ice\" just experienced near-record-breaking cold.",
+      "url": "https://www.livescience.com/planet-earth/antarctica/antarctica-just-experienced-minus-119-f-earths-coldest-temperature-since-2012-heres-why"
+    },
+    {
+      "category": "Space",
+      "title": " NASA launched this spacecraft to save a satellite. Now, it needs saving too ",
+      "source": " Latest from Space.com ",
+      "date": "Wed, 29 Jul 2026 18:00:00 +0000",
+      "summary": "NASA launched the Swift Boost mission earlier this month to try and save one of its aging science observatories, but the rescue spacecraft is now experiencing control issues.",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/nasa-launched-this-spacecraft-to-save-a-satellite-now-it-needs-saving-too"
     },
     {
       "category": "History",
@@ -107,28 +131,12 @@
       "url": "https://allthingsliberty.com/2026/07/this-week-on-dispatches-jesse-wegman-on-james-wilson-the-lost-founder/"
     },
     {
-      "category": "AI",
-      "title": "What happens when you put AI to work deciphering lost languages?",
-      "source": "Ars Technica - All content",
-      "date": "Wed, 29 Jul 2026 13:23:31 +0000",
-      "summary": "AI is fantastic at spotting patterns, but human insight is the key.",
-      "url": "https://arstechnica.com/science/2026/07/what-happens-when-you-put-ai-to-work-deciphering-lost-languages/"
-    },
-    {
       "category": "Science",
       "title": "Your gut may help your brain decide what to remember",
       "source": "All Top News -- ScienceDaily",
       "date": "Wed, 29 Jul 2026 08:20:24 EDT",
       "summary": "Signals traveling from the gut to the brain may help turn meals into lasting memories. Rats showed stronger memory activity after consuming nutritious foods, but not after drinking sweet liquids with little or no nutritional value. Blocking the vagus nerve erased this effect and made it harder for the animals to remember where food had been located. Over time, diets high in fat and sugar also weakened this memory system.",
       "url": "https://www.sciencedaily.com/releases/2026/07/260729010713.htm"
-    },
-    {
-      "category": "AI",
-      "title": "Google's SynthID watermark is hard to break, but it doesn't solve AI disinformation",
-      "source": "Ars Technica - All content",
-      "date": "Wed, 29 Jul 2026 11:00:39 +0000",
-      "summary": "Deciding what's real on the Internet won't be easy in the future.",
-      "url": "https://arstechnica.com/ai/2026/07/tested-google-synthid-works-great-but-labeling-ai-content-may-be-a-losing-game/"
     },
     {
       "category": "Biblical Studies",
@@ -147,20 +155,20 @@
       "url": "https://www.sciencedaily.com/releases/2026/07/260729044048.htm"
     },
     {
-      "category": "AI",
-      "title": "Elon Musk finally launches X Money. What could possibly go wrong?",
-      "source": "Ars Technica - All content",
-      "date": "Wed, 29 Jul 2026 10:00:51 +0000",
-      "summary": "Expect bumps with X Money rollout as major US financial markets are excluded.",
-      "url": "https://arstechnica.com/tech-policy/2026/07/elon-musk-finally-launches-x-money-what-could-possibly-go-wrong/"
-    },
-    {
       "category": "Biblical Studies",
       "title": "Bronze Age Blade Workshop Discovered",
       "source": "Biblical Archaeology Society",
       "date": "Wed, 29 Jul 2026 10:00:19 +0000",
       "summary": "Archaeologists with the Israel Antiquities Authority (IAA) have discovered an incredibly rare manufacturing site for the production of Canaanite blades in southern Israel. Dating to […]\nThe post Bronze Age Blade Workshop Discovered appeared first on Biblical Archaeology Society.",
       "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-israel/bronze-age-blade-workshop-discovered/"
+    },
+    {
+      "category": "AI",
+      "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
+      "source": "OpenAI News",
+      "date": "Wed, 29 Jul 2026 10:00:00 GMT",
+      "summary": "OpenAI is giving 100,000 academic researchers free access to ChatGPT's most advanced AI models to accelerate scientific research, collaboration, and discovery.",
+      "url": "https://openai.com/index/chatgpt-for-academic-researchers"
     },
     {
       "category": "Science",
@@ -177,6 +185,14 @@
       "date": "Wed, 29 Jul 2026 04:00:00 +0000",
       "summary": "God made at least 11,000 different species of birds. Doesn’t it seem like he wanted us to notice?",
       "url": "https://www.thegospelcoalition.org/article/gospel-according-birds/"
+    },
+    {
+      "category": "AI",
+      "title": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
+      "source": "OpenAI News",
+      "date": "Wed, 29 Jul 2026 00:00:00 GMT",
+      "summary": "GPT-5.6 improves AI efficiency across models, inference, and agentic workflows, helping deliver more useful intelligence per dollar.",
+      "url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency"
     },
     {
       "category": "Theology",
@@ -227,28 +243,12 @@
       "url": "https://www.thegospelcoalition.org/reviews/yesteryear-caro-burke/"
     },
     {
-      "category": "AI",
-      "title": "How AI is expanding what people do at work",
-      "source": "OpenAI News",
-      "date": "Mon, 27 Jul 2026 03:30:00 GMT",
-      "summary": "New OpenAI research shows how AI is expanding what workers do, with ChatGPT users taking on tasks across roles and reshaping job boundaries.",
-      "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work"
-    },
-    {
       "category": "Theology",
       "title": "Using AI Wisely: A Pastor’s Encouragement to His Church",
       "source": "9Marks",
       "date": "Fri, 24 Jul 2026 03:56:53 +0000",
       "summary": "Your use of AI should be something you are proud of—something you’d be glad for the world to see. If it’s something you want to hide, it is probably not glorifying to God.\nThe post Using AI Wisely: A Pastor’s Encouragement to His Church appeared first on 9Marks.",
       "url": "https://www.9marks.org/article/using-ai-wisely/?utm_source=rss&utm_medium=rss&utm_campaign=using-ai-wisely"
-    },
-    {
-      "category": "AI",
-      "title": "Launching Health in ChatGPT ",
-      "source": "OpenAI News",
-      "date": "Thu, 23 Jul 2026 00:00:00 GMT",
-      "summary": "Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their health.",
-      "url": "https://openai.com/index/health-in-chatgpt"
     },
     {
       "category": "History",
