@@ -1,7 +1,87 @@
 {
-  "lastUpdated": "2026-07-30T17:18:05.521Z",
+  "lastUpdated": "2026-07-30T22:57:55.415Z",
   "articleCount": 39,
   "articles": [
+    {
+      "category": "Science",
+      "title": "Rural runoff funnels hurricane floodwater toward coastal cities, model finds",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Thu, 30 Jul 2026 18:40:07 EDT",
+      "summary": "Coastal cities are at increasing risk of compound flooding events, such as when heavy rainfall and storm surges occur simultaneously during hurricanes. However, the processes that contribute to urban compound flooding aren't well understood at smaller scales.",
+      "url": "https://phys.org/news/2026-07-rural-runoff-funnels-hurricane-floodwater.html"
+    },
+    {
+      "category": "Science",
+      "title": "Natural emulsion manages to stop fungus that threatens up to 80% of cocoa production",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Thu, 30 Jul 2026 18:40:01 EDT",
+      "summary": "An innovative formulation based on natural compounds could become a sustainable alternative for controlling moniliasis, one of the most devastating diseases affecting cocoa in Latin America. A new study shows that emulsions combining fengycin—a lipopeptide produced by bacteria of the genus Bacillus—with essential oils can significantly inhibit the growth of the fungus Moniliophthora roreri, responsible for losses that can exceed 70–80% of the harvest.",
+      "url": "https://phys.org/news/2026-07-natural-emulsion-fungus-threatens-cocoa.html"
+    },
+    {
+      "category": "Science",
+      "title": "Female birds have shorter lifespans than male birds across 35 North American species, researchers find",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Thu, 30 Jul 2026 18:30:01 EDT",
+      "summary": "Birds have a lot to do in their short lives: defend territories, build nests, raise chicks and feed themselves. But the toll of these activities may be greater for female birds than for male birds. A new study by UCLA ornithologists has found that female birds have lower survival rates than males. The research is the first to study female bird survival in a large dataset and shows that the phenomenon is more widespread than previously recognized. In mammals, females generally have higher survival rates, and why birds, which are not mammals, show the inverse is a puzzle the researchers are trying to solve.",
+      "url": "https://phys.org/news/2026-07-female-birds-shorter-lifespans-male.html"
+    },
+    {
+      "category": "AI",
+      "title": "Rune 1.1: adds Python, an Emacs editor, a symbol index and is now free",
+      "source": "Hacker News: Front Page",
+      "date": "Thu, 30 Jul 2026 21:47:31 +0000",
+      "summary": "Article URL: https://rune.build/blog/rune-1-1-release\nComments URL: https://news.ycombinator.com/item?id=49116272\nPoints: 10\n# Comments: 3",
+      "url": "https://rune.build/blog/rune-1-1-release"
+    },
+    {
+      "category": "AI",
+      "title": "Saber-toothed cats became inbred–and struggled to move–before they went extinct",
+      "source": "Hacker News: Front Page",
+      "date": "Thu, 30 Jul 2026 21:31:03 +0000",
+      "summary": "Article URL: https://www.science.org/content/article/saber-toothed-cats-became-inbred-and-struggled-move-they-went-extinct\nComments URL: https://news.ycombinator.com/item?id=49116074\nPoints: 7\n# Comments: 1",
+      "url": "https://www.science.org/content/article/saber-toothed-cats-became-inbred-and-struggled-move-they-went-extinct"
+    },
+    {
+      "category": "Space",
+      "title": " The US government wants to bypass environmental laws for commercial launches and spacecraft reentries ",
+      "source": " Latest from Space.com ",
+      "date": "Thu, 30 Jul 2026 21:00:00 +0000",
+      "summary": "The FAA, facing a backlog in demand for space missions, is proposing to cut down on environmental reviews to accelerate launches and re-entries.",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/the-us-government-wants-to-bypass-environmental-laws-for-commercial-launches-and-spacecraft-reentries"
+    },
+    {
+      "category": "Science",
+      "title": " In a cosmic first, astronomers detect 2 sibling supernovas that came from a pair of bound stars ",
+      "source": " Latest from Live Science ",
+      "date": "Thu, 30 Jul 2026 20:25:13 +0000",
+      "summary": "Astronomers have identified a supernova remnant beside the well-known Jellyfish Nebula (IC 443), and evidence suggests both are the wreckage of two stars that once orbited each other before exploding separately.",
+      "url": "https://www.livescience.com/space/in-a-cosmic-first-astronomers-detect-2-sibling-supernovas-that-came-from-a-pair-of-bound-stars"
+    },
+    {
+      "category": "Science",
+      "title": " Scientists discover 2 new 'ghost' lineages that contributed DNA to modern humans ",
+      "source": " Latest from Live Science ",
+      "date": "Thu, 30 Jul 2026 19:57:50 +0000",
+      "summary": "A new method of analyzing modern humans' DNA is revealing secrets about our extinct ancestors.",
+      "url": "https://www.livescience.com/archaeology/human-evolution/scientists-discover-2-new-ghost-lineages-that-contributed-dna-to-modern-humans"
+    },
+    {
+      "category": "Science",
+      "title": " Scientists put cameras on whale sharks for the first time and saw something they'd never seen before ",
+      "source": " Latest from Live Science ",
+      "date": "Thu, 30 Jul 2026 19:37:04 +0000",
+      "summary": "Animal-borne cameras have revealed that the world's largest fish spends far more time feeding below the surface than scientists realized.",
+      "url": "https://www.livescience.com/animals/sharks/scientists-put-cameras-on-whale-sharks-for-the-first-time-and-saw-something-theyd-never-seen-before"
+    },
+    {
+      "category": "AI",
+      "title": "Agent Skill to Force Docs in ASD-STE100 Simplified Technical English",
+      "source": "Hacker News: Front Page",
+      "date": "Thu, 30 Jul 2026 19:34:27 +0000",
+      "summary": "Article URL: https://github.com/AminBlg/SimpleEnglish\nComments URL: https://news.ycombinator.com/item?id=49114639\nPoints: 94\n# Comments: 34",
+      "url": "https://github.com/AminBlg/SimpleEnglish"
+    },
     {
       "category": "Space",
       "title": " 1st three-headed asteroid found in our solar system — and it has a little moon ",
@@ -9,62 +89,6 @@
       "date": "Thu, 30 Jul 2026 17:03:10 +0000",
       "summary": "Sophisticated high-contrast imaging has revealed asteroid 44 Nysa to have three lobes and a small moon.",
       "url": "https://www.space.com/astronomy/asteroids/1st-three-headed-asteroid-found-in-our-solar-system-and-it-has-a-little-moon"
-    },
-    {
-      "category": "AI",
-      "title": "Rise Reforming (YC S26) Is Hiring",
-      "source": "Hacker News: Front Page",
-      "date": "Thu, 30 Jul 2026 17:00:21 +0000",
-      "summary": "Article URL: https://www.ycombinator.com/companies/rise-reforming/jobs/wJ9Q9nv-senior-chemical-process-engineer\nComments URL: https://news.ycombinator.com/item?id=49112683\nPoints: 0\n# Comments: 0",
-      "url": "https://www.ycombinator.com/companies/rise-reforming/jobs/wJ9Q9nv-senior-chemical-process-engineer"
-    },
-    {
-      "category": "Science",
-      "title": "Satellite imagery could protect trees from devastating moth outbreaks",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Thu, 30 Jul 2026 13:00:05 EDT",
-      "summary": "Satellite-derived maps of defoliation caused by European spongy moths—a devastating U.S. forest pest that consumes the leaves of a wide variety of trees—offer a promising solution for tracking where and when to spray and for identifying large-scale trends and conditions that lead to pest outbreaks, according to a new study.",
-      "url": "https://phys.org/news/2026-07-satellite-imagery-trees-devastating-moth.html"
-    },
-    {
-      "category": "Science",
-      "title": "Climate change increases wildfire risks in Yosemite and other national parks",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Thu, 30 Jul 2026 13:00:01 EDT",
-      "summary": "New UC Berkeley-led research indicates that continued climate change could severely increase wildfire above natural levels in Yosemite, Sequoia, Kings Canyon and Lassen Volcanic national parks.",
-      "url": "https://phys.org/news/2026-07-climate-wildfire-yosemite-national.html"
-    },
-    {
-      "category": "Science",
-      "title": " A unique antibody system may help explain bats' unusual tolerance of viruses ",
-      "source": " Latest from Live Science ",
-      "date": "Thu, 30 Jul 2026 16:53:11 +0000",
-      "summary": "Researchers found that vesper bats use two separate sets of genes to build antibodies ‪—‬ a rare evolutionary quirk that may give them different ways to fight infection.",
-      "url": "https://www.livescience.com/health/viruses-infections-disease/a-unique-antibody-system-may-help-explain-bats-unusual-tolerance-of-viruses"
-    },
-    {
-      "category": "Science",
-      "title": "Public research and development money can unlock private investment and lasting economic growth",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Thu, 30 Jul 2026 12:40:06 EDT",
-      "summary": "Strategic public investment in research and development (R&D) can begin boosting economic activity immediately, according to a study led by the University of Southampton. The research shows it can also mobilize private R&D, supporting economic growth for years.",
-      "url": "https://phys.org/news/2026-07-money-private-investment-economic-growth.html"
-    },
-    {
-      "category": "AI",
-      "title": "How Olinia Turns Mexico's EV Ambition into Reality",
-      "source": "Hacker News: Front Page",
-      "date": "Thu, 30 Jul 2026 16:36:47 +0000",
-      "summary": "Article URL: https://spectrum.ieee.org/mexico-olinia-car-electric-vehicle\nComments URL: https://news.ycombinator.com/item?id=49112368\nPoints: 3\n# Comments: 0",
-      "url": "https://spectrum.ieee.org/mexico-olinia-car-electric-vehicle"
-    },
-    {
-      "category": "AI",
-      "title": "Toot.community Is Shutting Down",
-      "source": "Hacker News: Front Page",
-      "date": "Thu, 30 Jul 2026 16:33:41 +0000",
-      "summary": "Article URL: https://social.jorijn.com/@jorijn/statuses/01KYN00AP3NCZXCFB96KQB8GN2\nComments URL: https://news.ycombinator.com/item?id=49112327\nPoints: 6\n# Comments: 2",
-      "url": "https://social.jorijn.com/@jorijn/statuses/01KYN00AP3NCZXCFB96KQB8GN2"
     },
     {
       "category": "Space",
@@ -107,14 +131,6 @@
       "url": "https://www.nasa.gov/image-article/starburst-galaxy-centaurus-a/"
     },
     {
-      "category": "Space",
-      "title": " Satellites spy penguin poop on Danger Islands | Space photo of the day for July 30, 2026 ",
-      "source": " Latest from Space.com ",
-      "date": "Thu, 30 Jul 2026 14:00:00 +0000",
-      "summary": "Researchers used NASA satellite imagery, along with ground observations, to track changes in the diets of penguins on Antarctica's Danger Islands.",
-      "url": "https://www.space.com/astronomy/earth/pink-penguin-poop-on-the-danger-islands-space-photo-of-the-day-for-july-30-2026"
-    },
-    {
       "category": "Science",
       "title": "What if the brain does not create consciousness?",
       "source": "All Top News -- ScienceDaily",
@@ -131,20 +147,20 @@
       "url": "https://www.sciencedaily.com/releases/2026/07/260729051537.htm"
     },
     {
-      "category": "Science",
-      "title": " Inflammation may trigger persistent 'out-of-body' experiences, emerging research hints ",
-      "source": " Latest from Live Science ",
-      "date": "Thu, 30 Jul 2026 12:00:00 +0000",
-      "summary": "Researchers are investigating whether immune dysfunction can help explain dissociative disorders.",
-      "url": "https://www.livescience.com/health/neuroscience/inflammation-may-trigger-persistent-out-of-body-experiences-emerging-research-hints"
+      "category": "Biblical Studies",
+      "title": "Did Camels Exist in Biblical Times?",
+      "source": "Biblical Archaeology Society",
+      "date": "Thu, 30 Jul 2026 11:00:12 +0000",
+      "summary": "Mark W. Chavalas explores the history of camel domestication in BAR.\nThe post Did Camels Exist in Biblical Times? appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-near-eastern-world/did-camels-exist-in-biblical-times/"
     },
     {
-      "category": "Science",
-      "title": " How to build the perfect solar eclipse kit for any budget ",
-      "source": " Latest from Live Science ",
-      "date": "Thu, 30 Jul 2026 11:00:00 +0000",
-      "summary": "Whether you have $50 or $1,000 to spend, here's how to build an eclipse kit for Aug. 12, 2026.",
-      "url": "https://www.livescience.com/products/optics/how-to-build-the-perfect-solar-eclipse-kit-for-any-budget"
+      "category": "Biblical Studies",
+      "title": "The Kingdom of Cush",
+      "source": "Biblical Archaeology Society",
+      "date": "Thu, 30 Jul 2026 11:00:09 +0000",
+      "summary": "The Kingdom of Cush, Egypt’s neighbor to the south, played an important role in biblical history despite being one of the lesser known kingdoms. According to 2 Kings 19:9, “Tirhakah, King of Cush” came to the aid of Hezekiah against Sennacherib, king of Assyria, when his forces laid siege to Jerusalem in 701 B.C.E. Without such aid, Judah would have likely gone the way of the Kingdom of Israel—spread to the four winds, never to return.\nThe post The Kingdom of Cush appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/daily/cush/"
     },
     {
       "category": "AI",
@@ -227,14 +243,6 @@
       "url": "https://www.sciencedaily.com/releases/2026/07/260729044048.htm"
     },
     {
-      "category": "Biblical Studies",
-      "title": "Bronze Age Blade Workshop Discovered",
-      "source": "Biblical Archaeology Society",
-      "date": "Wed, 29 Jul 2026 10:00:19 +0000",
-      "summary": "Archaeologists with the Israel Antiquities Authority (IAA) have discovered an incredibly rare manufacturing site for the production of Canaanite blades in southern Israel. Dating to […]\nThe post Bronze Age Blade Workshop Discovered appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-israel/bronze-age-blade-workshop-discovered/"
-    },
-    {
       "category": "AI",
       "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
       "source": "OpenAI News",
@@ -265,14 +273,6 @@
       "date": "Tue, 28 Jul 2026 11:02:29 +0000",
       "summary": "As word of the outbreak of war at Lexington and Concord spread among the British colonies in North America, they accelerated efforts to build military forces, often as ad hoc militia companies organized at the county level that would then later be amalgamated into regiments and brigades. The companies might be named for the men […]\nThe post Samuel Brady: A Future Legend Goes to War appeared first on Journal of the American Revolution.",
       "url": "https://allthingsliberty.com/2026/07/samuel-brady-a-future-legend-goes-to-war/"
-    },
-    {
-      "category": "Biblical Studies",
-      "title": "The Nag Hammadi Codices and Gnostic Christianity",
-      "source": "Biblical Archaeology Society",
-      "date": "Tue, 28 Jul 2026 11:00:59 +0000",
-      "summary": "Until the discovery of the Nag Hammadi codices in 1945, the Gnostic view of early Christianity had largely been forgotten. The teachings of Gnostic Christianity had been virtually erased from history by the early church fathers.\nThe post The Nag Hammadi Codices and Gnostic Christianity appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/daily/biblical-artifacts/the-nag-hammadi-codices/"
     },
     {
       "category": "Theology",
