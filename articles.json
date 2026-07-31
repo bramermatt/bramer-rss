@@ -1,7 +1,87 @@
 {
-  "lastUpdated": "2026-07-31T11:53:31.651Z",
-  "articleCount": 36,
+  "lastUpdated": "2026-07-31T17:21:43.405Z",
+  "articleCount": 39,
   "articles": [
+    {
+      "category": "AI",
+      "title": "Disrupting a Criminal Scam Operation",
+      "source": "OpenAI News",
+      "date": "Tue, 04 Aug 2026 00:00:00 GMT",
+      "summary": "OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes.",
+      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation"
+    },
+    {
+      "category": "Science",
+      "title": "Magnetic nanoparticles remove forever chemicals from water",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Fri, 31 Jul 2026 13:20:06 EDT",
+      "summary": "PFAS, otherwise known as forever chemicals, have become commonplace in numerous everyday and industrial products. At the same time, they are some of the most problematic pollutants of our times: They are extremely durable, accumulate in the environment and in organisms and can only be removed from water with difficulty.",
+      "url": "https://phys.org/news/2026-07-magnetic-nanoparticles-chemicals.html"
+    },
+    {
+      "category": "Science",
+      "title": "French, Italian winegrowers face earliest ever harvest",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Fri, 31 Jul 2026 13:20:03 EDT",
+      "summary": "Scorching summer temperatures have disrupted life for millions of Europeans, but for winegrowers in Italy and France who are harvesting their grapes unusually early, the hot weather offers pros as well as cons.",
+      "url": "https://phys.org/news/2026-07-french-italian-winegrowers-earliest-harvest.html"
+    },
+    {
+      "category": "Space",
+      "title": "NASA Opens New Flight Dynamics Research Facility in Virginia",
+      "source": "NASA",
+      "date": "Fri, 31 Jul 2026 17:11:14 +0000",
+      "summary": "NASA opened its newest wind tunnel, the Flight Dynamics Research Facility, Friday, providing a critical resource for the agency and its partners to test the safety and performance of future generations of aircraft, rockets, and space exploration vehicles. Located at NASA’s Langley Research Center in Hampton, Virginia, the Flight Dynamics Research Facility will support advances […]",
+      "url": "https://www.nasa.gov/news-release/nasa-opens-new-flight-dynamics-research-facility-in-virginia/"
+    },
+    {
+      "category": "AI",
+      "title": "Miso (YC S16) is hiring for U.S. expansion",
+      "source": "Hacker News: Front Page",
+      "date": "Fri, 31 Jul 2026 17:01:08 +0000",
+      "summary": "Article URL: https://www.ycombinator.com/companies/miso/jobs/g2uAlMG-founding-business-lead-u-s-expansion\nComments URL: https://news.ycombinator.com/item?id=49125785\nPoints: 0\n# Comments: 0",
+      "url": "https://www.ycombinator.com/companies/miso/jobs/g2uAlMG-founding-business-lead-u-s-expansion"
+    },
+    {
+      "category": "Science",
+      "title": "A discarded SpaceX rocket is on a high-speed collision course with the moon",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Fri, 31 Jul 2026 13:00:06 EDT",
+      "summary": "A drifting SpaceX rocket is on a collision course with the moon after launching a pair of lunar landers more than a year ago.",
+      "url": "https://phys.org/news/2026-07-discarded-spacex-rocket-high-collision.html"
+    },
+    {
+      "category": "Science",
+      "title": " 'We are not giving up yet': Private mission to rescue NASA's Swift telescope is spinning out of control, and engineers are racing to fix it ",
+      "source": " Latest from Live Science ",
+      "date": "Fri, 31 Jul 2026 16:13:50 +0000",
+      "summary": "Katalyst Space's LINK spacecraft is recovering from an unexpected spin in orbit, and will need a little more time to rescue NASA's falling Swift observatory.",
+      "url": "https://www.livescience.com/space/space-exploration/we-are-not-giving-up-yet-private-mission-to-rescue-nasas-swift-telescope-is-spinning-out-of-control-and-engineers-are-racing-to-fix-it"
+    },
+    {
+      "category": "AI",
+      "title": "Online Friends Are Real Friends",
+      "source": "Hacker News: Front Page",
+      "date": "Fri, 31 Jul 2026 16:07:55 +0000",
+      "summary": "Article URL: https://toska.bearblog.dev/re-online-friends-are-real-friends/\nComments URL: https://news.ycombinator.com/item?id=49124917\nPoints: 18\n# Comments: 4",
+      "url": "https://toska.bearblog.dev/re-online-friends-are-real-friends/"
+    },
+    {
+      "category": "AI",
+      "title": "Big Food vs. the People",
+      "source": "Hacker News: Front Page",
+      "date": "Fri, 31 Jul 2026 16:04:32 +0000",
+      "summary": "Article URL: https://www.lighthousereports.com/investigation/big-food-vs-the-people/\nComments URL: https://news.ycombinator.com/item?id=49124858\nPoints: 38\n# Comments: 5",
+      "url": "https://www.lighthousereports.com/investigation/big-food-vs-the-people/"
+    },
+    {
+      "category": "Space",
+      "title": " NASA is sending 2 probes to the moon to test complex 'three-body orbits' ",
+      "source": " Latest from Space.com ",
+      "date": "Fri, 31 Jul 2026 16:00:00 +0000",
+      "summary": "NASA is planning to send two maneuverable probes to lunar orbit in order to learn how spacecraft are affected by the complex gravity environment near the moon.",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/nasa-is-sending-2-probes-to-the-moon-to-test-complex-three-body-orbits"
+    },
     {
       "category": "AI",
       "title": "Advancing responsible AI across Europe",
@@ -11,28 +91,76 @@
       "url": "https://openai.com/index/advancing-responsible-ai-across-europe"
     },
     {
-      "category": "Science",
-      "title": "Tree cover is key to cooling cities",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Fri, 31 Jul 2026 07:40:03 EDT",
-      "summary": "Weather measurements in Leeds have shown that many green spaces, such as parks, gardens and forests, were cooler than surrounding urban environments, also known as gray spaces.",
-      "url": "https://phys.org/news/2026-07-tree-key-cooling-cities.html"
+      "category": "AI",
+      "title": "Building abundant intelligence",
+      "source": "OpenAI News",
+      "date": "Fri, 31 Jul 2026 15:00:00 GMT",
+      "summary": "A full-stack approach to making advanced AI more capable, more affordable, and more widely useful.",
+      "url": "https://openai.com/index/building-abundant-intelligence"
+    },
+    {
+      "category": "Space",
+      "title": "Curiosity Blog, Sols 4961-4967: Approaching a Break in the Rock Record?",
+      "source": "NASA",
+      "date": "Fri, 31 Jul 2026 14:41:02 +0000",
+      "summary": "Written by Abigail Fraeman, Deputy Project Scientist, Jet Propulsion Laboratory, California Institute of Technology Earth planning date: Friday, July 24, 2026 Curiosity spent the week continuing to climb her way up through the layers of Mount Sharp, exploring the sedimentary rock strip chart of Martian history. The rover has reached a layer where the science […]",
+      "url": "https://science.nasa.gov/blog/curiosity-blog-sols-4961-4967-approaching-a-break-in-the-rock-record/"
+    },
+    {
+      "category": "Space",
+      "title": " Watch SpaceX's Starship land at sea in these stunning new videos ",
+      "source": " Latest from Space.com ",
+      "date": "Fri, 31 Jul 2026 14:30:26 +0000",
+      "summary": "SpaceX used drones and a special 'buoy cam' to capture incredible footage of its Starship upper stage making a soft ocean landing after its 13th test flight on July 24.",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/watch-spacexs-starship-land-at-sea-in-these-stunning-new-videos"
+    },
+    {
+      "category": "Space",
+      "title": "NASA’s Roman Telescope to Carry 1.35 Million Names to Deep Space",
+      "source": "NASA",
+      "date": "Fri, 31 Jul 2026 14:11:34 +0000",
+      "summary": "On July 27, technicians at NASA’s Kennedy Space Center in Florida installed a memory card containing 1,350,144 names as part of a commemorative plaque on the Nancy Grace Roman Space Telescope. The names were submitted by people globally, including astronauts from Artemis II and Artemis III. The memory card will travel with the Roman observatory […]",
+      "url": "https://www.nasa.gov/image-article/nasas-roman-telescope-to-carry-1-35-million-names-to-deep-space/"
+    },
+    {
+      "category": "AI",
+      "title": "AI scammers outperform humans when it comes to building trust",
+      "source": "Ars Technica - All content",
+      "date": "Fri, 31 Jul 2026 14:01:40 +0000",
+      "summary": "The AI chatbot was more effective at creating “exploitable trust” than the humans.",
+      "url": "https://arstechnica.com/security/2026/07/ai-scammers-outperform-humans-when-it-comes-to-building-trust/"
+    },
+    {
+      "category": "Space",
+      "title": " Artemis moonsuits take a dive | Space photo of the day for July 31, 2026 ",
+      "source": " Latest from Space.com ",
+      "date": "Fri, 31 Jul 2026 14:00:00 +0000",
+      "summary": "NASA is using its Neutral Buoyancy Laboratory to develop the training programs it will use to prepare its astronauts to explore the lunar surface.",
+      "url": "https://www.space.com/space-exploration/artemis/artemis-moonsuits-take-a-dive-space-photo-of-the-day-for-july-31-2026"
+    },
+    {
+      "category": "AI",
+      "title": "Pathogenic review: Damn, it feels good to be a virus",
+      "source": "Ars Technica - All content",
+      "date": "Fri, 31 Jul 2026 13:00:18 +0000",
+      "summary": "The hot new roguelite twin-stick shooter lives up to the hype.",
+      "url": "https://arstechnica.com/gaming/2026/07/pathogenic-review-damn-it-feels-good-to-be-a-virus/"
     },
     {
       "category": "Science",
-      "title": "Exposing the hidden toll of litigation",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Fri, 31 Jul 2026 07:20:05 EDT",
-      "summary": "A James Cook University study is challenging the belief that the greatest cost of going to court is losing a case, arguing the legal process itself can leave lasting psychological scars.",
-      "url": "https://phys.org/news/2026-07-exposing-hidden-toll-litigation.html"
+      "title": " How to watch 'Secrets of the Great White Kill' – stream 'Shark Week' 2026 from anywhere ",
+      "source": " Latest from Live Science ",
+      "date": "Fri, 31 Jul 2026 13:00:00 +0000",
+      "summary": "How to watch \"Secrets of the Great White Kill\", as Riley Elliott and Kori Burkhardt set out to capture never-before-seen great white hunting techniques.",
+      "url": "https://www.livescience.com/animals/how-to-watch-secrets-of-the-great-white-kill-stream-shark-week-2026"
     },
     {
-      "category": "Science",
-      "title": "Two independent studies push semiconductor qubits towards practical scales",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Fri, 31 Jul 2026 07:20:04 EDT",
-      "summary": "Semiconductor spin qubits are one of the most promising building blocks for future quantum computers, but turning them into a working, large-scale quantum computer has so far proven difficult. For now, two big questions remain open: how to connect qubits that aren't sitting right next to each other, and how to control huge numbers of them without an unmanageable tangle of wiring.",
-      "url": "https://phys.org/news/2026-07-independent-semiconductor-qubits-scales.html"
+      "category": "AI",
+      "title": "How a Yale AI-cheating dispute became a 13-count federal lawsuit",
+      "source": "Ars Technica - All content",
+      "date": "Fri, 31 Jul 2026 11:00:52 +0000",
+      "summary": "A disputed exam, an unreliable detector, and one very late Apple Pages file.",
+      "url": "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/"
     },
     {
       "category": "Science",
@@ -51,68 +179,12 @@
       "url": "https://www.biblicalarchaeology.org/daily/biblical-artifacts/artifacts-and-the-bible/judean-pillar-figurine-jerusalem/"
     },
     {
-      "category": "Space",
-      "title": " The night sky is changing this August — here's which planets to watch ",
-      "source": " Latest from Space.com ",
-      "date": "Fri, 31 Jul 2026 10:00:00 +0000",
-      "summary": "Venus dominates the evening sky while Mercury and Jupiter stage a beautiful dawn pairing you won't want to miss.",
-      "url": "https://www.space.com/stargazing/the-night-sky-is-changing-this-august-heres-which-planets-to-watch"
-    },
-    {
-      "category": "Science",
-      "title": " Alzheimer's blood tests are transforming how patients get diagnosed — here's what to know ",
-      "source": " Latest from Live Science ",
-      "date": "Fri, 31 Jul 2026 09:00:00 +0000",
-      "summary": "New tests for Alzheimer's are helping people who are at risk of dementia get clarity on their condition, Live Science reports from the Alzheimer's Association International Conference in London.",
-      "url": "https://www.livescience.com/health/alzheimers-dementia/alzheimers-blood-tests-are-transforming-how-patients-get-diagnosed-heres-what-to-know"
-    },
-    {
-      "category": "Space",
-      "title": " Our favorite space and sci-fi Playmobil sets: From Star Trek playsets to ESA-collaborated models ",
-      "source": " Latest from Space.com ",
-      "date": "Fri, 31 Jul 2026 09:00:00 +0000",
-      "summary": "Here are 13 of Playmobil's space and sci-fi sets — you'll be sure to find something to suit your needs.",
-      "url": "https://www.space.com/entertainment/space-toys-lego/our-favorite-space-and-sci-fi-playmobil-sets-from-star-trek-playsets-to-esa-collaborated-models"
-    },
-    {
-      "category": "Science",
-      "title": " Science word of they day: Covalent ",
-      "source": " Latest from Live Science ",
-      "date": "Fri, 31 Jul 2026 08:00:00 +0000",
-      "summary": "Pronunciation: Coh-VAY'-lent",
-      "url": "https://www.livescience.com/chemistry/science-word-of-they-day-covalent"
-    },
-    {
-      "category": "AI",
-      "title": "DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis",
-      "source": "Hacker News: Front Page",
-      "date": "Fri, 31 Jul 2026 07:59:11 +0000",
-      "summary": "Article URL: https://artificialanalysis.ai/models/deepseek-v4-flash-ga\nComments URL: https://news.ycombinator.com/item?id=49120299\nPoints: 69\n# Comments: 16",
-      "url": "https://artificialanalysis.ai/models/deepseek-v4-flash-ga"
-    },
-    {
-      "category": "AI",
-      "title": "Google fixed more Chrome bugs in June than over the past two years, thanks to AI",
-      "source": "Hacker News: Front Page",
-      "date": "Fri, 31 Jul 2026 07:29:22 +0000",
-      "summary": "Article URL: https://blog.google/security/chrome-stronger-with-every-update/\nComments URL: https://news.ycombinator.com/item?id=49120097\nPoints: 139\n# Comments: 161",
-      "url": "https://blog.google/security/chrome-stronger-with-every-update/"
-    },
-    {
-      "category": "AI",
-      "title": "Univé builds an AI-ready workforce",
-      "source": "OpenAI News",
-      "date": "Fri, 31 Jul 2026 07:00:00 GMT",
-      "summary": "See how Univé built an AI-ready workforce with ChatGPT Enterprise by combining leadership, responsible governance, and employee-led innovation to transform work at scale.",
-      "url": "https://openai.com/index/unive"
-    },
-    {
-      "category": "AI",
-      "title": "DeepSeek-V4-Flash Update",
-      "source": "Hacker News: Front Page",
-      "date": "Fri, 31 Jul 2026 06:08:36 +0000",
-      "summary": "Article URL: https://api-docs.deepseek.com/updates/\nComments URL: https://news.ycombinator.com/item?id=49119559\nPoints: 356\n# Comments: 174",
-      "url": "https://api-docs.deepseek.com/updates/"
+      "category": "Biblical Studies",
+      "title": "Christian Amulets with Inscriptions",
+      "source": "Biblical Archaeology Society",
+      "date": "Fri, 31 Jul 2026 10:00:04 +0000",
+      "summary": "“Have you fallen into a severe sickness, and do many come … with charms, some with amulets … to remedy the evil?” With these words, […]\nThe post Christian Amulets with Inscriptions appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/daily-life-and-practice/christian-amulets-with-inscriptions/"
     },
     {
       "category": "Theology",
@@ -129,30 +201,6 @@
       "date": "Fri, 31 Jul 2026 04:00:00 +0000",
       "summary": "AI always has a kind, commonsense answer for us. Why can’t we ask it about our spiritual lives?",
       "url": "https://www.thegospelcoalition.org/article/treat-ai-pastor/"
-    },
-    {
-      "category": "Space",
-      "title": " The US government wants to bypass environmental laws for commercial launches and spacecraft reentries ",
-      "source": " Latest from Space.com ",
-      "date": "Thu, 30 Jul 2026 21:00:00 +0000",
-      "summary": "The FAA, facing a backlog in demand for space missions, is proposing to cut down on environmental reviews to accelerate launches and re-entries.",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/the-us-government-wants-to-bypass-environmental-laws-for-commercial-launches-and-spacecraft-reentries"
-    },
-    {
-      "category": "AI",
-      "title": "Quantum computers outperform classical ones, with results you can trust",
-      "source": "Ars Technica - All content",
-      "date": "Thu, 30 Jul 2026 15:59:37 +0000",
-      "summary": "Three approaches to the issue of quantum results that can't be verified classically.",
-      "url": "https://arstechnica.com/science/2026/07/if-a-quantum-computer-outperforms-normal-ones-can-you-tell-if-its-right/"
-    },
-    {
-      "category": "AI",
-      "title": "New MCP specification addresses the main barrier to enterprise adoption",
-      "source": "Ars Technica - All content",
-      "date": "Thu, 30 Jul 2026 14:53:07 +0000",
-      "summary": "Plus, a new policy for the AI protocol ensures features aren't removed suddenly.",
-      "url": "https://arstechnica.com/ai/2026/07/with-a-stateless-makeover-new-mcp-spec-targets-enterprise-scale/"
     },
     {
       "category": "Science",
@@ -179,22 +227,6 @@
       "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-near-eastern-world/did-camels-exist-in-biblical-times/"
     },
     {
-      "category": "Biblical Studies",
-      "title": "The Kingdom of Cush",
-      "source": "Biblical Archaeology Society",
-      "date": "Thu, 30 Jul 2026 11:00:09 +0000",
-      "summary": "The Kingdom of Cush, Egypt’s neighbor to the south, played an important role in biblical history despite being one of the lesser known kingdoms. According to 2 Kings 19:9, “Tirhakah, King of Cush” came to the aid of Hezekiah against Sennacherib, king of Assyria, when his forces laid siege to Jerusalem in 701 B.C.E. Without such aid, Judah would have likely gone the way of the Kingdom of Israel—spread to the four winds, never to return.\nThe post The Kingdom of Cush appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/daily/cush/"
-    },
-    {
-      "category": "AI",
-      "title": "Advancing the price-performance frontier with GPT-5.6",
-      "source": "OpenAI News",
-      "date": "Thu, 30 Jul 2026 10:00:00 GMT",
-      "summary": "Explore lower GPT‑5.6 pricing for Luna and Terra—and how OpenAI’s more efficient models help enterprises deploy AI workflows at scale.",
-      "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6"
-    },
-    {
       "category": "Theology",
       "title": "What Complementarianism Is (and Isn’t)",
       "source": "The Gospel Coalition",
@@ -209,14 +241,6 @@
       "date": "Thu, 30 Jul 2026 00:00:09 +0000",
       "summary": "1777 was a very good year for Daniel Morgan. He was promoted to colonel in late 1776 and received the commission in January 1777. Gen. George Washington had pushed Congress to make the promotion, having been impressed by Morgan’s performance leading three companies of riflemen in the ill-fated 1775 invasion of Canada. While the expedition […]\nThe post American Achilles: Daniel Morgan’s Resignation and Return to Service appeared first on Journal of the American Revolution.",
       "url": "https://allthingsliberty.com/2026/07/american-achilles-daniel-morgans-resignation-and-return-to-service/"
-    },
-    {
-      "category": "AI",
-      "title": "Mythos attack on 3rd-round PQC algorithm candidate puts it out of commission",
-      "source": "Ars Technica - All content",
-      "date": "Wed, 29 Jul 2026 22:07:06 +0000",
-      "summary": "HAWK withstood years of testing that had yet to uncover a fatal weakness found through Mythos.",
-      "url": "https://arstechnica.com/security/2026/07/mythos-uncovers-crypto-weaknesses-that-went-unknown-for-years/"
     },
     {
       "category": "History",
