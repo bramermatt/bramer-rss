@@ -1,46 +1,134 @@
 {
-  "lastUpdated": "2026-07-30T22:57:55.415Z",
-  "articleCount": 39,
+  "lastUpdated": "2026-07-31T11:53:31.651Z",
+  "articleCount": 36,
   "articles": [
     {
-      "category": "Science",
-      "title": "Rural runoff funnels hurricane floodwater toward coastal cities, model finds",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Thu, 30 Jul 2026 18:40:07 EDT",
-      "summary": "Coastal cities are at increasing risk of compound flooding events, such as when heavy rainfall and storm surges occur simultaneously during hurricanes. However, the processes that contribute to urban compound flooding aren't well understood at smaller scales.",
-      "url": "https://phys.org/news/2026-07-rural-runoff-funnels-hurricane-floodwater.html"
+      "category": "AI",
+      "title": "Advancing responsible AI across Europe",
+      "source": "OpenAI News",
+      "date": "Fri, 31 Jul 2026 15:00:00 GMT",
+      "summary": "OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as the EU AI Act advances.",
+      "url": "https://openai.com/index/advancing-responsible-ai-across-europe"
     },
     {
       "category": "Science",
-      "title": "Natural emulsion manages to stop fungus that threatens up to 80% of cocoa production",
+      "title": "Tree cover is key to cooling cities",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Thu, 30 Jul 2026 18:40:01 EDT",
-      "summary": "An innovative formulation based on natural compounds could become a sustainable alternative for controlling moniliasis, one of the most devastating diseases affecting cocoa in Latin America. A new study shows that emulsions combining fengycin—a lipopeptide produced by bacteria of the genus Bacillus—with essential oils can significantly inhibit the growth of the fungus Moniliophthora roreri, responsible for losses that can exceed 70–80% of the harvest.",
-      "url": "https://phys.org/news/2026-07-natural-emulsion-fungus-threatens-cocoa.html"
+      "date": "Fri, 31 Jul 2026 07:40:03 EDT",
+      "summary": "Weather measurements in Leeds have shown that many green spaces, such as parks, gardens and forests, were cooler than surrounding urban environments, also known as gray spaces.",
+      "url": "https://phys.org/news/2026-07-tree-key-cooling-cities.html"
     },
     {
       "category": "Science",
-      "title": "Female birds have shorter lifespans than male birds across 35 North American species, researchers find",
+      "title": "Exposing the hidden toll of litigation",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Thu, 30 Jul 2026 18:30:01 EDT",
-      "summary": "Birds have a lot to do in their short lives: defend territories, build nests, raise chicks and feed themselves. But the toll of these activities may be greater for female birds than for male birds. A new study by UCLA ornithologists has found that female birds have lower survival rates than males. The research is the first to study female bird survival in a large dataset and shows that the phenomenon is more widespread than previously recognized. In mammals, females generally have higher survival rates, and why birds, which are not mammals, show the inverse is a puzzle the researchers are trying to solve.",
-      "url": "https://phys.org/news/2026-07-female-birds-shorter-lifespans-male.html"
+      "date": "Fri, 31 Jul 2026 07:20:05 EDT",
+      "summary": "A James Cook University study is challenging the belief that the greatest cost of going to court is losing a case, arguing the legal process itself can leave lasting psychological scars.",
+      "url": "https://phys.org/news/2026-07-exposing-hidden-toll-litigation.html"
+    },
+    {
+      "category": "Science",
+      "title": "Two independent studies push semiconductor qubits towards practical scales",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Fri, 31 Jul 2026 07:20:04 EDT",
+      "summary": "Semiconductor spin qubits are one of the most promising building blocks for future quantum computers, but turning them into a working, large-scale quantum computer has so far proven difficult. For now, two big questions remain open: how to connect qubits that aren't sitting right next to each other, and how to control huge numbers of them without an unmanageable tangle of wiring.",
+      "url": "https://phys.org/news/2026-07-independent-semiconductor-qubits-scales.html"
+    },
+    {
+      "category": "Science",
+      "title": " IBM scientists claim they've achieved 'quantum advantage' — and they've dared others to prove them wrong ",
+      "source": " Latest from Live Science ",
+      "date": "Fri, 31 Jul 2026 11:00:00 +0000",
+      "summary": "Using IBM's quantum computer, scientists say they have shown in three different experiments that quantum computers can outpace classical machines in useful computations.",
+      "url": "https://www.livescience.com/technology/quantum/ibm-scientists-claim-theyve-achieved-quantum-advantage-and-theyve-dared-others-to-prove-them-wrong"
+    },
+    {
+      "category": "Biblical Studies",
+      "title": "Rare Judean Pillar Figurine Discovery from Jerusalem",
+      "source": "Biblical Archaeology Society",
+      "date": "Fri, 31 Jul 2026 10:45:40 +0000",
+      "summary": "A remarkable discovery in Jerusalem sheds new light on one of the most enigmatic artifact types from Iron Age Judah: the Judean Pillar Figurine. These […]\nThe post Rare Judean Pillar Figurine Discovery from Jerusalem appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/daily/biblical-artifacts/artifacts-and-the-bible/judean-pillar-figurine-jerusalem/"
+    },
+    {
+      "category": "Space",
+      "title": " The night sky is changing this August — here's which planets to watch ",
+      "source": " Latest from Space.com ",
+      "date": "Fri, 31 Jul 2026 10:00:00 +0000",
+      "summary": "Venus dominates the evening sky while Mercury and Jupiter stage a beautiful dawn pairing you won't want to miss.",
+      "url": "https://www.space.com/stargazing/the-night-sky-is-changing-this-august-heres-which-planets-to-watch"
+    },
+    {
+      "category": "Science",
+      "title": " Alzheimer's blood tests are transforming how patients get diagnosed — here's what to know ",
+      "source": " Latest from Live Science ",
+      "date": "Fri, 31 Jul 2026 09:00:00 +0000",
+      "summary": "New tests for Alzheimer's are helping people who are at risk of dementia get clarity on their condition, Live Science reports from the Alzheimer's Association International Conference in London.",
+      "url": "https://www.livescience.com/health/alzheimers-dementia/alzheimers-blood-tests-are-transforming-how-patients-get-diagnosed-heres-what-to-know"
+    },
+    {
+      "category": "Space",
+      "title": " Our favorite space and sci-fi Playmobil sets: From Star Trek playsets to ESA-collaborated models ",
+      "source": " Latest from Space.com ",
+      "date": "Fri, 31 Jul 2026 09:00:00 +0000",
+      "summary": "Here are 13 of Playmobil's space and sci-fi sets — you'll be sure to find something to suit your needs.",
+      "url": "https://www.space.com/entertainment/space-toys-lego/our-favorite-space-and-sci-fi-playmobil-sets-from-star-trek-playsets-to-esa-collaborated-models"
+    },
+    {
+      "category": "Science",
+      "title": " Science word of they day: Covalent ",
+      "source": " Latest from Live Science ",
+      "date": "Fri, 31 Jul 2026 08:00:00 +0000",
+      "summary": "Pronunciation: Coh-VAY'-lent",
+      "url": "https://www.livescience.com/chemistry/science-word-of-they-day-covalent"
     },
     {
       "category": "AI",
-      "title": "Rune 1.1: adds Python, an Emacs editor, a symbol index and is now free",
+      "title": "DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis",
       "source": "Hacker News: Front Page",
-      "date": "Thu, 30 Jul 2026 21:47:31 +0000",
-      "summary": "Article URL: https://rune.build/blog/rune-1-1-release\nComments URL: https://news.ycombinator.com/item?id=49116272\nPoints: 10\n# Comments: 3",
-      "url": "https://rune.build/blog/rune-1-1-release"
+      "date": "Fri, 31 Jul 2026 07:59:11 +0000",
+      "summary": "Article URL: https://artificialanalysis.ai/models/deepseek-v4-flash-ga\nComments URL: https://news.ycombinator.com/item?id=49120299\nPoints: 69\n# Comments: 16",
+      "url": "https://artificialanalysis.ai/models/deepseek-v4-flash-ga"
     },
     {
       "category": "AI",
-      "title": "Saber-toothed cats became inbred–and struggled to move–before they went extinct",
+      "title": "Google fixed more Chrome bugs in June than over the past two years, thanks to AI",
       "source": "Hacker News: Front Page",
-      "date": "Thu, 30 Jul 2026 21:31:03 +0000",
-      "summary": "Article URL: https://www.science.org/content/article/saber-toothed-cats-became-inbred-and-struggled-move-they-went-extinct\nComments URL: https://news.ycombinator.com/item?id=49116074\nPoints: 7\n# Comments: 1",
-      "url": "https://www.science.org/content/article/saber-toothed-cats-became-inbred-and-struggled-move-they-went-extinct"
+      "date": "Fri, 31 Jul 2026 07:29:22 +0000",
+      "summary": "Article URL: https://blog.google/security/chrome-stronger-with-every-update/\nComments URL: https://news.ycombinator.com/item?id=49120097\nPoints: 139\n# Comments: 161",
+      "url": "https://blog.google/security/chrome-stronger-with-every-update/"
+    },
+    {
+      "category": "AI",
+      "title": "Univé builds an AI-ready workforce",
+      "source": "OpenAI News",
+      "date": "Fri, 31 Jul 2026 07:00:00 GMT",
+      "summary": "See how Univé built an AI-ready workforce with ChatGPT Enterprise by combining leadership, responsible governance, and employee-led innovation to transform work at scale.",
+      "url": "https://openai.com/index/unive"
+    },
+    {
+      "category": "AI",
+      "title": "DeepSeek-V4-Flash Update",
+      "source": "Hacker News: Front Page",
+      "date": "Fri, 31 Jul 2026 06:08:36 +0000",
+      "summary": "Article URL: https://api-docs.deepseek.com/updates/\nComments URL: https://news.ycombinator.com/item?id=49119559\nPoints: 356\n# Comments: 174",
+      "url": "https://api-docs.deepseek.com/updates/"
+    },
+    {
+      "category": "Theology",
+      "title": "The Cultural Myths That Fail Us",
+      "source": "The Gospel Coalition",
+      "date": "Fri, 31 Jul 2026 04:02:00 +0000",
+      "summary": "The Christian story offers a compelling alternative that completes and transforms the stories offered by the world.",
+      "url": "https://www.thegospelcoalition.org/podcasts/tgc-podcast/cultural-narratives-fail-us/"
+    },
+    {
+      "category": "Theology",
+      "title": "Don’t Treat AI as Your Pastor",
+      "source": "The Gospel Coalition",
+      "date": "Fri, 31 Jul 2026 04:00:00 +0000",
+      "summary": "AI always has a kind, commonsense answer for us. Why can’t we ask it about our spiritual lives?",
+      "url": "https://www.thegospelcoalition.org/article/treat-ai-pastor/"
     },
     {
       "category": "Space",
@@ -49,62 +137,6 @@
       "date": "Thu, 30 Jul 2026 21:00:00 +0000",
       "summary": "The FAA, facing a backlog in demand for space missions, is proposing to cut down on environmental reviews to accelerate launches and re-entries.",
       "url": "https://www.space.com/space-exploration/launches-spacecraft/the-us-government-wants-to-bypass-environmental-laws-for-commercial-launches-and-spacecraft-reentries"
-    },
-    {
-      "category": "Science",
-      "title": " In a cosmic first, astronomers detect 2 sibling supernovas that came from a pair of bound stars ",
-      "source": " Latest from Live Science ",
-      "date": "Thu, 30 Jul 2026 20:25:13 +0000",
-      "summary": "Astronomers have identified a supernova remnant beside the well-known Jellyfish Nebula (IC 443), and evidence suggests both are the wreckage of two stars that once orbited each other before exploding separately.",
-      "url": "https://www.livescience.com/space/in-a-cosmic-first-astronomers-detect-2-sibling-supernovas-that-came-from-a-pair-of-bound-stars"
-    },
-    {
-      "category": "Science",
-      "title": " Scientists discover 2 new 'ghost' lineages that contributed DNA to modern humans ",
-      "source": " Latest from Live Science ",
-      "date": "Thu, 30 Jul 2026 19:57:50 +0000",
-      "summary": "A new method of analyzing modern humans' DNA is revealing secrets about our extinct ancestors.",
-      "url": "https://www.livescience.com/archaeology/human-evolution/scientists-discover-2-new-ghost-lineages-that-contributed-dna-to-modern-humans"
-    },
-    {
-      "category": "Science",
-      "title": " Scientists put cameras on whale sharks for the first time and saw something they'd never seen before ",
-      "source": " Latest from Live Science ",
-      "date": "Thu, 30 Jul 2026 19:37:04 +0000",
-      "summary": "Animal-borne cameras have revealed that the world's largest fish spends far more time feeding below the surface than scientists realized.",
-      "url": "https://www.livescience.com/animals/sharks/scientists-put-cameras-on-whale-sharks-for-the-first-time-and-saw-something-theyd-never-seen-before"
-    },
-    {
-      "category": "AI",
-      "title": "Agent Skill to Force Docs in ASD-STE100 Simplified Technical English",
-      "source": "Hacker News: Front Page",
-      "date": "Thu, 30 Jul 2026 19:34:27 +0000",
-      "summary": "Article URL: https://github.com/AminBlg/SimpleEnglish\nComments URL: https://news.ycombinator.com/item?id=49114639\nPoints: 94\n# Comments: 34",
-      "url": "https://github.com/AminBlg/SimpleEnglish"
-    },
-    {
-      "category": "Space",
-      "title": " 1st three-headed asteroid found in our solar system — and it has a little moon ",
-      "source": " Latest from Space.com ",
-      "date": "Thu, 30 Jul 2026 17:03:10 +0000",
-      "summary": "Sophisticated high-contrast imaging has revealed asteroid 44 Nysa to have three lobes and a small moon.",
-      "url": "https://www.space.com/astronomy/asteroids/1st-three-headed-asteroid-found-in-our-solar-system-and-it-has-a-little-moon"
-    },
-    {
-      "category": "Space",
-      "title": "NASA Assigns Astronaut Deniz Burnham to First Space Station Mission",
-      "source": "NASA",
-      "date": "Thu, 30 Jul 2026 16:11:41 +0000",
-      "summary": "NASA astronaut Deniz Burnham will embark on her first mission to the International Space Station, serving as an Expedition 76 flight engineer. Burnham will launch aboard the Roscosmos Soyuz MS-30 spacecraft with cosmonauts Dmitri Petelin and Konstantin Borisov. Launch is targeted for March 2027, from the Baikonur Cosmodrome in Kazakhstan, and the trio will spend […]",
-      "url": "https://www.nasa.gov/news-release/nasa-assigns-astronaut-deniz-burnham-to-first-space-station-mission/"
-    },
-    {
-      "category": "Space",
-      "title": " HBO's 'Lanterns' teases shape-shifting Manhunters: 'The most dangerous beings to ever exist in the galaxy' (video) ",
-      "source": " Latest from Space.com ",
-      "date": "Thu, 30 Jul 2026 16:00:00 +0000",
-      "summary": "From this latest trailer it's apparent that weird shape-shifting Manhunters will be primary antagonists in HBO's upcoming series \"Lanterns.\"",
-      "url": "https://www.space.com/entertainment/hbos-lanterns-teases-shape-shifting-manhunters-the-most-dangerous-beings-to-ever-exist-in-the-galaxy-video"
     },
     {
       "category": "AI",
@@ -121,14 +153,6 @@
       "date": "Thu, 30 Jul 2026 14:53:07 +0000",
       "summary": "Plus, a new policy for the AI protocol ensures features aren't removed suddenly.",
       "url": "https://arstechnica.com/ai/2026/07/with-a-stateless-makeover-new-mcp-spec-targets-enterprise-scale/"
-    },
-    {
-      "category": "Space",
-      "title": "Starburst Galaxy Centaurus A",
-      "source": "NASA",
-      "date": "Thu, 30 Jul 2026 14:24:08 +0000",
-      "summary": "In this July 6, 2026, image, NASA’s James Webb Space Telescope’s Mid-Infrared Instrument (MIRI) reveals the nearby galaxy Centaurus A, exposing the dusty structures and hidden activity that shape this unusual system. Centaurus A is 11 million light-years away from Earth, relatively close in cosmic terms. Yet, unlike most nearby galaxies, it is very active, […]",
-      "url": "https://www.nasa.gov/image-article/starburst-galaxy-centaurus-a/"
     },
     {
       "category": "Science",
@@ -171,28 +195,12 @@
       "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6"
     },
     {
-      "category": "Space",
-      "title": "NASA Johnson Interns Shaping the Future of Exploration ",
-      "source": "NASA",
-      "date": "Thu, 30 Jul 2026 08:08:55 +0000",
-      "summary": "NASA interns at Johnson Space Center are applying their talents to real-world projects while working alongside the engineers, scientists, communicators, and innovators advancing human spaceflight. Learn how these students are gaining hands-on experience, contributing to real missions, and preparing to join the nation’s highly skilled and competitive aerospace workforce.   Meet the students behind the work and discover what inspired them to pursue careers at […]",
-      "url": "https://www.nasa.gov/centers-and-facilities/johnson/nasa-johnson-interns-shaping-the-future-of-exploration/"
-    },
-    {
       "category": "Theology",
       "title": "What Complementarianism Is (and Isn’t)",
       "source": "The Gospel Coalition",
       "date": "Thu, 30 Jul 2026 04:02:00 +0000",
       "summary": "‘Mere Complementarianism’ delivers as promised: an overview of God’s vision for men and women in the church and beyond that’s straightforward and helpful.",
       "url": "https://www.thegospelcoalition.org/reviews/mere-complementarianism/"
-    },
-    {
-      "category": "Theology",
-      "title": "If Our Work Matters to God, Why Doesn’t the Bible Address It More?",
-      "source": "The Gospel Coalition",
-      "date": "Thu, 30 Jul 2026 04:00:00 +0000",
-      "summary": "The absence of direct instruction is the instruction.",
-      "url": "https://www.thegospelcoalition.org/article/bible-address-work-more/"
     },
     {
       "category": "History",
@@ -211,14 +219,6 @@
       "url": "https://arstechnica.com/security/2026/07/mythos-uncovers-crypto-weaknesses-that-went-unknown-for-years/"
     },
     {
-      "category": "AI",
-      "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
-      "source": "OpenAI News",
-      "date": "Wed, 29 Jul 2026 15:00:00 GMT",
-      "summary": "How two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction.",
-      "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores"
-    },
-    {
       "category": "History",
       "title": "This Week on Dispatches: Jesse Wegman on James Wilson, the “Lost Founder”",
       "source": "Journal of the American Revolution",
@@ -227,36 +227,12 @@
       "url": "https://allthingsliberty.com/2026/07/this-week-on-dispatches-jesse-wegman-on-james-wilson-the-lost-founder/"
     },
     {
-      "category": "Biblical Studies",
-      "title": "Biblical Ataroth",
-      "source": "Biblical Archaeology Society",
-      "date": "Wed, 29 Jul 2026 10:45:00 +0000",
-      "summary": "High on a ridge in western Jordan, overlooking the Dead Sea some 6.5 miles away, sits the remarkable site of Khirbat Ataruz, likely the location […]\nThe post Biblical Ataroth appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/daily/biblical-sites-places/biblical-archaeology-sites/biblical-ataroth/"
-    },
-    {
       "category": "Science",
       "title": "New microwave frying method could make french fries much healthier",
       "source": "All Top News -- ScienceDaily",
       "date": "Wed, 29 Jul 2026 06:15:04 EDT",
       "summary": "A new cooking method could make French fries crispier in less time while significantly limiting how much oil they absorb. Researchers propose combining microwave heating, which keeps oil out, with conventional frying, which provides the crunch consumers expect.",
       "url": "https://www.sciencedaily.com/releases/2026/07/260729044048.htm"
-    },
-    {
-      "category": "AI",
-      "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
-      "source": "OpenAI News",
-      "date": "Wed, 29 Jul 2026 10:00:00 GMT",
-      "summary": "OpenAI is giving 100,000 academic researchers free access to ChatGPT's most advanced AI models to accelerate scientific research, collaboration, and discovery.",
-      "url": "https://openai.com/index/chatgpt-for-academic-researchers"
-    },
-    {
-      "category": "Theology",
-      "title": "The Gospel According to Birds",
-      "source": "The Gospel Coalition",
-      "date": "Wed, 29 Jul 2026 04:00:00 +0000",
-      "summary": "God made at least 11,000 different species of birds. Doesn’t it seem like he wanted us to notice?",
-      "url": "https://www.thegospelcoalition.org/article/gospel-according-birds/"
     },
     {
       "category": "Theology",
