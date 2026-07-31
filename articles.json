@@ -1,54 +1,110 @@
 {
-  "lastUpdated": "2026-07-31T17:21:43.405Z",
-  "articleCount": 39,
+  "lastUpdated": "2026-07-31T22:53:04.953Z",
+  "articleCount": 36,
   "articles": [
     {
+      "category": "Science",
+      "title": "Fish pathogens once limited to Asia and US emerge in Brazilian farms",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Fri, 31 Jul 2026 18:20:01 EDT",
+      "summary": "For the first time in Brazil, scientists have identified the presence of bacteria that cause columnaris disease, a serious disease in farmed fish intended for human consumption. Previously, different species of the genus Flavobacterium had only been detected in fish farms in Asia and the United States.",
+      "url": "https://phys.org/news/2026-07-fish-pathogens-limited-asia-emerge.html"
+    },
+    {
       "category": "AI",
-      "title": "Disrupting a Criminal Scam Operation",
-      "source": "OpenAI News",
-      "date": "Tue, 04 Aug 2026 00:00:00 GMT",
-      "summary": "OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes.",
-      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation"
+      "title": "Not just Neanderthals: Ghost lineage in Africa left its mark on our DNA",
+      "source": "Ars Technica - All content",
+      "date": "Fri, 31 Jul 2026 22:17:05 +0000",
+      "summary": "Some group with no modern descendants contributed a lot to our genomes.",
+      "url": "https://arstechnica.com/science/2026/07/not-just-neanderthals-ghost-lineage-in-africa-left-its-mark-on-our-dna/"
     },
     {
-      "category": "Science",
-      "title": "Magnetic nanoparticles remove forever chemicals from water",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Fri, 31 Jul 2026 13:20:06 EDT",
-      "summary": "PFAS, otherwise known as forever chemicals, have become commonplace in numerous everyday and industrial products. At the same time, they are some of the most problematic pollutants of our times: They are extremely durable, accumulate in the environment and in organisms and can only be removed from water with difficulty.",
-      "url": "https://phys.org/news/2026-07-magnetic-nanoparticles-chemicals.html"
-    },
-    {
-      "category": "Science",
-      "title": "French, Italian winegrowers face earliest ever harvest",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Fri, 31 Jul 2026 13:20:03 EDT",
-      "summary": "Scorching summer temperatures have disrupted life for millions of Europeans, but for winegrowers in Italy and France who are harvesting their grapes unusually early, the hot weather offers pros as well as cons.",
-      "url": "https://phys.org/news/2026-07-french-italian-winegrowers-earliest-harvest.html"
+      "category": "Theology",
+      "title": "Kingdom of Priests: Melchizedek, Church Membership, and Understanding Your Place in God’s Story",
+      "source": "9Marks",
+      "date": "Fri, 31 Jul 2026 22:04:52 +0000",
+      "summary": "When Peter refers to us as a royal priesthood, he’s speaking corporately. The church is a royal priesthood.\nThe post Kingdom of Priests: Melchizedek, Church Membership, and Understanding Your Place in God’s Story appeared first on 9Marks.",
+      "url": "https://www.9marks.org/article/melchizedek-church-membership-and-understanding-your-place-in-gods-story/?utm_source=rss&utm_medium=rss&utm_campaign=melchizedek-church-membership-and-understanding-your-place-in-gods-story"
     },
     {
       "category": "Space",
-      "title": "NASA Opens New Flight Dynamics Research Facility in Virginia",
-      "source": "NASA",
-      "date": "Fri, 31 Jul 2026 17:11:14 +0000",
-      "summary": "NASA opened its newest wind tunnel, the Flight Dynamics Research Facility, Friday, providing a critical resource for the agency and its partners to test the safety and performance of future generations of aircraft, rockets, and space exploration vehicles. Located at NASA’s Langley Research Center in Hampton, Virginia, the Flight Dynamics Research Facility will support advances […]",
-      "url": "https://www.nasa.gov/news-release/nasa-opens-new-flight-dynamics-research-facility-in-virginia/"
+      "title": " How do supermassive black holes grow? AI finds 7 spacetime-warping 'quasars' that could help solve the mystery ",
+      "source": " Latest from Space.com ",
+      "date": "Fri, 31 Jul 2026 22:00:00 +0000",
+      "summary": "Astronomers found seven rare quasar gravitational lens candidates using AI, providing a powerful new tool for studying black hole and galaxy evolution.",
+      "url": "https://www.space.com/astronomy/black-holes/how-do-supermassive-black-holes-grow-ai-finds-7-spacetime-warping-quasars-that-could-help-solve-the-mystery"
     },
     {
       "category": "AI",
-      "title": "Miso (YC S16) is hiring for U.S. expansion",
-      "source": "Hacker News: Front Page",
-      "date": "Fri, 31 Jul 2026 17:01:08 +0000",
-      "summary": "Article URL: https://www.ycombinator.com/companies/miso/jobs/g2uAlMG-founding-business-lead-u-s-expansion\nComments URL: https://news.ycombinator.com/item?id=49125785\nPoints: 0\n# Comments: 0",
-      "url": "https://www.ycombinator.com/companies/miso/jobs/g2uAlMG-founding-business-lead-u-s-expansion"
+      "title": "Doctors took a look at man's painful shoulder—they found the joint was missing",
+      "source": "Ars Technica - All content",
+      "date": "Fri, 31 Jul 2026 21:51:52 +0000",
+      "summary": "The term \"Milwaukee Should Syndrome\" was coined in 1981, based on cases in four women.",
+      "url": "https://arstechnica.com/health/2026/07/doctors-took-a-look-at-mans-painful-shoulder-they-found-the-joint-was-missing/"
     },
     {
       "category": "Science",
-      "title": "A discarded SpaceX rocket is on a high-speed collision course with the moon",
+      "title": "Moonquakes could reveal ice buried beneath lunar south polar craters",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Fri, 31 Jul 2026 13:00:06 EDT",
-      "summary": "A drifting SpaceX rocket is on a collision course with the moon after launching a pair of lunar landers more than a year ago.",
-      "url": "https://phys.org/news/2026-07-discarded-spacex-rocket-high-collision.html"
+      "date": "Fri, 31 Jul 2026 17:40:03 EDT",
+      "summary": "Finding water on the moon may only be a matter of detecting the right vibrations.",
+      "url": "https://phys.org/news/2026-07-moonquakes-reveal-ice-beneath-lunar.html"
+    },
+    {
+      "category": "AI",
+      "title": "Google plans to exempt sanctioned nations from Android developer verification",
+      "source": "Ars Technica - All content",
+      "date": "Fri, 31 Jul 2026 21:35:56 +0000",
+      "summary": "Someone in Cuba or Iran can keep installing APKs with no new restrictions, but devs will suffer.",
+      "url": "https://arstechnica.com/gadgets/2026/07/google-plans-to-exempt-sanctioned-nations-from-android-developer-verification/"
+    },
+    {
+      "category": "Science",
+      "title": "Laying odds on the potential for Martian water near future landing zones",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Fri, 31 Jul 2026 17:20:03 EDT",
+      "summary": "We know Mars has water ice in its polar regions, but astronauts (and their solar-powered equipment!) would much rather experience life closer to Mars' equator. As NASA looks toward landing humans on the red planet, the Planetary Science Institute (PSI) is mapping where water should and shouldn't be found and using statistics to quantify its certainty. Two new papers, led by PSI's Hanna Sizemore and Samuel Courville, highlight new global maps of subsurface water ice and identify the missions and tools needed to increase the certainty of the maps.",
+      "url": "https://phys.org/news/2026-07-laying-odds-potential-martian-future.html"
+    },
+    {
+      "category": "AI",
+      "title": "Loops (YC W22) Is Hiring a Product Educator",
+      "source": "Hacker News: Front Page",
+      "date": "Fri, 31 Jul 2026 21:00:40 +0000",
+      "summary": "Article URL: https://www.ycombinator.com/companies/loops/jobs/zqUnwqB-product-educator-technical-content-creator\nComments URL: https://news.ycombinator.com/item?id=49128462\nPoints: 0\n# Comments: 0",
+      "url": "https://www.ycombinator.com/companies/loops/jobs/zqUnwqB-product-educator-technical-content-creator"
+    },
+    {
+      "category": "Space",
+      "title": " 'The End of Oak Street: Could JJ Abrams' new 'Twilight Zone meets Jurassic Park' movie be the sleeper hit of the summer? ",
+      "source": " Latest from Space.com ",
+      "date": "Fri, 31 Jul 2026 21:00:00 +0000",
+      "summary": "JJ Abrams' new film \"The End of Oak Street looks like \"The Twilight Zone\" meets \"Jurassic Park\" with a dash of \"A Quiet Place.\" Could it be the perfect summer movie?",
+      "url": "https://www.space.com/entertainment/the-end-of-oak-street-could-jj-abrams-new-twilight-zone-meets-jurassic-park-movie-be-the-sleeper-hit-of-the-summer"
+    },
+    {
+      "category": "AI",
+      "title": "Demystifying DRAM Read Disturbance: RowHammer and RowPress Phenomena",
+      "source": "Hacker News: Front Page",
+      "date": "Fri, 31 Jul 2026 20:44:29 +0000",
+      "summary": "Article URL: https://arxiv.org/abs/2607.28233\nComments URL: https://news.ycombinator.com/item?id=49128323\nPoints: 16\n# Comments: 10",
+      "url": "https://arxiv.org/abs/2607.28233"
+    },
+    {
+      "category": "AI",
+      "title": "Show HN: How to build and self-host a code review agent",
+      "source": "Hacker News: Front Page",
+      "date": "Fri, 31 Jul 2026 20:27:28 +0000",
+      "summary": "Hey HN,\nI've had a side-project that I've slowly ticked away at over the last year called Tilde. Tilde is a harness SDK platform - I've tried to take the best things of OpenClaw, Hermes & other harnesses and decompose them and make them available as cloud API building blocks.\nYou can use Tilde to create AI agents for your use case, fast and self-host the agent's yourself.\nThe documentation (and attached blog post) leave a lot to be desired in terms of technical documentation but hopefully the attached git repo does a good job of showcasing the API.\nhttps://github.com/trytilde/examples\nComments URL: https://news.ycombinator.com/item?id=49128177\nPoints: 10\n# Comments: 3",
+      "url": "https://www.trytilde.ai/blog/how-to-build-code-review-agent"
+    },
+    {
+      "category": "Space",
+      "title": " The Milky Way has a hidden feature you've probably never noticed. Here's how to find it ",
+      "source": " Latest from Space.com ",
+      "date": "Fri, 31 Jul 2026 20:00:00 +0000",
+      "summary": "Summer is the ideal time to look for the Great Rift, a long series of dark dust clouds that appear to split the Milky Way from Cygnus through Sagittarius.",
+      "url": "https://www.space.com/stargazing/the-milky-way-has-a-hidden-feature-youve-probably-never-noticed-heres-how-to-find-it"
     },
     {
       "category": "Science",
@@ -57,30 +113,6 @@
       "date": "Fri, 31 Jul 2026 16:13:50 +0000",
       "summary": "Katalyst Space's LINK spacecraft is recovering from an unexpected spin in orbit, and will need a little more time to rescue NASA's falling Swift observatory.",
       "url": "https://www.livescience.com/space/space-exploration/we-are-not-giving-up-yet-private-mission-to-rescue-nasas-swift-telescope-is-spinning-out-of-control-and-engineers-are-racing-to-fix-it"
-    },
-    {
-      "category": "AI",
-      "title": "Online Friends Are Real Friends",
-      "source": "Hacker News: Front Page",
-      "date": "Fri, 31 Jul 2026 16:07:55 +0000",
-      "summary": "Article URL: https://toska.bearblog.dev/re-online-friends-are-real-friends/\nComments URL: https://news.ycombinator.com/item?id=49124917\nPoints: 18\n# Comments: 4",
-      "url": "https://toska.bearblog.dev/re-online-friends-are-real-friends/"
-    },
-    {
-      "category": "AI",
-      "title": "Big Food vs. the People",
-      "source": "Hacker News: Front Page",
-      "date": "Fri, 31 Jul 2026 16:04:32 +0000",
-      "summary": "Article URL: https://www.lighthousereports.com/investigation/big-food-vs-the-people/\nComments URL: https://news.ycombinator.com/item?id=49124858\nPoints: 38\n# Comments: 5",
-      "url": "https://www.lighthousereports.com/investigation/big-food-vs-the-people/"
-    },
-    {
-      "category": "Space",
-      "title": " NASA is sending 2 probes to the moon to test complex 'three-body orbits' ",
-      "source": " Latest from Space.com ",
-      "date": "Fri, 31 Jul 2026 16:00:00 +0000",
-      "summary": "NASA is planning to send two maneuverable probes to lunar orbit in order to learn how spacecraft are affected by the complex gravity environment near the moon.",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/nasa-is-sending-2-probes-to-the-moon-to-test-complex-three-body-orbits"
     },
     {
       "category": "AI",
@@ -99,68 +131,12 @@
       "url": "https://openai.com/index/building-abundant-intelligence"
     },
     {
-      "category": "Space",
-      "title": "Curiosity Blog, Sols 4961-4967: Approaching a Break in the Rock Record?",
-      "source": "NASA",
-      "date": "Fri, 31 Jul 2026 14:41:02 +0000",
-      "summary": "Written by Abigail Fraeman, Deputy Project Scientist, Jet Propulsion Laboratory, California Institute of Technology Earth planning date: Friday, July 24, 2026 Curiosity spent the week continuing to climb her way up through the layers of Mount Sharp, exploring the sedimentary rock strip chart of Martian history. The rover has reached a layer where the science […]",
-      "url": "https://science.nasa.gov/blog/curiosity-blog-sols-4961-4967-approaching-a-break-in-the-rock-record/"
-    },
-    {
-      "category": "Space",
-      "title": " Watch SpaceX's Starship land at sea in these stunning new videos ",
-      "source": " Latest from Space.com ",
-      "date": "Fri, 31 Jul 2026 14:30:26 +0000",
-      "summary": "SpaceX used drones and a special 'buoy cam' to capture incredible footage of its Starship upper stage making a soft ocean landing after its 13th test flight on July 24.",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/watch-spacexs-starship-land-at-sea-in-these-stunning-new-videos"
-    },
-    {
-      "category": "Space",
-      "title": "NASA’s Roman Telescope to Carry 1.35 Million Names to Deep Space",
-      "source": "NASA",
-      "date": "Fri, 31 Jul 2026 14:11:34 +0000",
-      "summary": "On July 27, technicians at NASA’s Kennedy Space Center in Florida installed a memory card containing 1,350,144 names as part of a commemorative plaque on the Nancy Grace Roman Space Telescope. The names were submitted by people globally, including astronauts from Artemis II and Artemis III. The memory card will travel with the Roman observatory […]",
-      "url": "https://www.nasa.gov/image-article/nasas-roman-telescope-to-carry-1-35-million-names-to-deep-space/"
-    },
-    {
-      "category": "AI",
-      "title": "AI scammers outperform humans when it comes to building trust",
-      "source": "Ars Technica - All content",
-      "date": "Fri, 31 Jul 2026 14:01:40 +0000",
-      "summary": "The AI chatbot was more effective at creating “exploitable trust” than the humans.",
-      "url": "https://arstechnica.com/security/2026/07/ai-scammers-outperform-humans-when-it-comes-to-building-trust/"
-    },
-    {
-      "category": "Space",
-      "title": " Artemis moonsuits take a dive | Space photo of the day for July 31, 2026 ",
-      "source": " Latest from Space.com ",
-      "date": "Fri, 31 Jul 2026 14:00:00 +0000",
-      "summary": "NASA is using its Neutral Buoyancy Laboratory to develop the training programs it will use to prepare its astronauts to explore the lunar surface.",
-      "url": "https://www.space.com/space-exploration/artemis/artemis-moonsuits-take-a-dive-space-photo-of-the-day-for-july-31-2026"
-    },
-    {
-      "category": "AI",
-      "title": "Pathogenic review: Damn, it feels good to be a virus",
-      "source": "Ars Technica - All content",
-      "date": "Fri, 31 Jul 2026 13:00:18 +0000",
-      "summary": "The hot new roguelite twin-stick shooter lives up to the hype.",
-      "url": "https://arstechnica.com/gaming/2026/07/pathogenic-review-damn-it-feels-good-to-be-a-virus/"
-    },
-    {
       "category": "Science",
       "title": " How to watch 'Secrets of the Great White Kill' – stream 'Shark Week' 2026 from anywhere ",
       "source": " Latest from Live Science ",
       "date": "Fri, 31 Jul 2026 13:00:00 +0000",
       "summary": "How to watch \"Secrets of the Great White Kill\", as Riley Elliott and Kori Burkhardt set out to capture never-before-seen great white hunting techniques.",
       "url": "https://www.livescience.com/animals/how-to-watch-secrets-of-the-great-white-kill-stream-shark-week-2026"
-    },
-    {
-      "category": "AI",
-      "title": "How a Yale AI-cheating dispute became a 13-count federal lawsuit",
-      "source": "Ars Technica - All content",
-      "date": "Fri, 31 Jul 2026 11:00:52 +0000",
-      "summary": "A disputed exam, an unreliable detector, and one very late Apple Pages file.",
-      "url": "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/"
     },
     {
       "category": "Science",
@@ -185,6 +161,14 @@
       "date": "Fri, 31 Jul 2026 10:00:04 +0000",
       "summary": "“Have you fallen into a severe sickness, and do many come … with charms, some with amulets … to remedy the evil?” With these words, […]\nThe post Christian Amulets with Inscriptions appeared first on Biblical Archaeology Society.",
       "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/daily-life-and-practice/christian-amulets-with-inscriptions/"
+    },
+    {
+      "category": "AI",
+      "title": "Univé builds an AI-ready workforce",
+      "source": "OpenAI News",
+      "date": "Fri, 31 Jul 2026 07:00:00 GMT",
+      "summary": "See how Univé built an AI-ready workforce with ChatGPT Enterprise by combining leadership, responsible governance, and employee-led innovation to transform work at scale.",
+      "url": "https://openai.com/index/unive"
     },
     {
       "category": "Theology",
@@ -281,14 +265,6 @@
       "date": "Fri, 24 Jul 2026 03:56:53 +0000",
       "summary": "Your use of AI should be something you are proud of—something you’d be glad for the world to see. If it’s something you want to hide, it is probably not glorifying to God.\nThe post Using AI Wisely: A Pastor’s Encouragement to His Church appeared first on 9Marks.",
       "url": "https://www.9marks.org/article/using-ai-wisely/?utm_source=rss&utm_medium=rss&utm_campaign=using-ai-wisely"
-    },
-    {
-      "category": "Theology",
-      "title": "Pulling the Thread",
-      "source": "9Marks",
-      "date": "Wed, 22 Jul 2026 19:50:29 +0000",
-      "summary": "In an age of internet fame, endless scrolling, and YouTube Shorts, we do not need more self-promoting pastors. We need godly, warm, and faithful shepherds. \nThe post Pulling the Thread appeared first on 9Marks.",
-      "url": "https://www.9marks.org/review/pulling-the-thread/?utm_source=rss&utm_medium=rss&utm_campaign=pulling-the-thread"
     },
     {
       "category": "History",
