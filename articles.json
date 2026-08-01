@@ -1,14 +1,118 @@
 {
-  "lastUpdated": "2026-07-31T22:53:04.953Z",
+  "lastUpdated": "2026-08-01T11:12:07.045Z",
   "articleCount": 36,
   "articles": [
     {
       "category": "Science",
-      "title": "Fish pathogens once limited to Asia and US emerge in Brazilian farms",
+      "title": "Deadly blooms offer a genetic blueprint for making hard-to-synthesize medicinal compounds",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Fri, 31 Jul 2026 18:20:01 EDT",
-      "summary": "For the first time in Brazil, scientists have identified the presence of bacteria that cause columnaris disease, a serious disease in farmed fish intended for human consumption. Previously, different species of the genus Flavobacterium had only been detected in fish farms in Asia and the United States.",
-      "url": "https://phys.org/news/2026-07-fish-pathogens-limited-asia-emerge.html"
+      "date": "Sat, 01 Aug 2026 07:00:06 EDT",
+      "summary": "Two plants that cause neurotoxicity and paralysis in the tiniest doses are also known to counter pain, malaria, cancer and pests. For the first time, researchers discovered a way to recreate these powerful compounds in the lab, helping lead the way to improved, naturally sourced therapeutics.",
+      "url": "https://phys.org/news/2026-07-deadly-blooms-genetic-blueprint-hard.html"
+    },
+    {
+      "category": "Science",
+      "title": "Leave it: Dog trainers help pets avoid poisonous snakes",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sat, 01 Aug 2026 07:00:01 EDT",
+      "summary": "Ripley, a medium-sized dog with a strong prey drive, curiously approached Brian, a large western diamondback rattlesnake, until she got a quick zap on the neck meant to simulate a venomous viper's bite.",
+      "url": "https://phys.org/news/2026-08-dog-trainers-pets-poisonous-snakes.html"
+    },
+    {
+      "category": "Science",
+      "title": " Science news this week: Secret lives of whale sharks revealed, Earth's coldest temperature registered, and Amazonian geoglyphs show clues to lost civilization ",
+      "source": " Latest from Live Science ",
+      "date": "Sat, 01 Aug 2026 11:00:00 +0000",
+      "summary": "August 1, 2026: Our weekly roundup of the latest science in the news, as well as a few fascinating articles to keep you entertained over the weekend",
+      "url": "https://www.livescience.com/animals/science-news-this-week-secret-lives-of-whale-sharks-revealed-earths-coldest-temperature-registered-and-amazonian-geoglyphs-show-clues-to-lost-civilization"
+    },
+    {
+      "category": "Science",
+      "title": "Solar wind stirs Mars' upper atmosphere, boosting ion loss to space",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sat, 01 Aug 2026 06:20:01 EDT",
+      "summary": "Our sun constantly releases a stream of high-speed charged particles, known as the solar wind. Unlike Earth, Mars does not have a strong global magnetic field to shield its atmosphere from this flow. As a result, the solar wind can interact directly with Mars' upper atmosphere and gradually strip atmospheric particles into space.",
+      "url": "https://phys.org/news/2026-07-solar-mars-upper-atmosphere-boosting.html"
+    },
+    {
+      "category": "AI",
+      "title": "Defcon's new badge is a security key you can see inside",
+      "source": "Ars Technica - All content",
+      "date": "Sat, 01 Aug 2026 10:05:21 +0000",
+      "summary": "A removable chip lets hackers inspect their badge—and keep using it after Defcon.",
+      "url": "https://arstechnica.com/security/2026/08/defcons-new-badge-is-a-security-key-you-can-see-inside/"
+    },
+    {
+      "category": "AI",
+      "title": "How fruit flies chase invisible ribbons of smell to get to their source",
+      "source": "Ars Technica - All content",
+      "date": "Sat, 01 Aug 2026 10:00:19 +0000",
+      "summary": "Tracking smells in turbulent air takes a keen sense of direction and sharp memory.",
+      "url": "https://arstechnica.com/science/2026/08/how-fruit-flies-chase-invisible-ribbons-of-smell-to-get-to-their-source/"
+    },
+    {
+      "category": "Space",
+      "title": " SpaceX launches 24 Starlink satellites to orbit from California (photos) ",
+      "source": " Latest from Space.com ",
+      "date": "Sat, 01 Aug 2026 10:00:00 +0000",
+      "summary": "A SpaceX Falcon 9 rocket launched 24 more of the company's Starlink internet satellites from California's central coast late on Friday night (July 31).",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-falcon-9-launch-group-17-52-ocisly-vandenberg"
+    },
+    {
+      "category": "Science",
+      "title": " Why do cats have 'leg whiskers'? ",
+      "source": " Latest from Live Science ",
+      "date": "Sat, 01 Aug 2026 09:00:00 +0000",
+      "summary": "Here's why 'leg whiskers' are useful to cats and other animals.",
+      "url": "https://www.livescience.com/animals/cats/why-do-cats-have-leg-whiskers"
+    },
+    {
+      "category": "AI",
+      "title": "RamenHaus",
+      "source": "Hacker News: Front Page",
+      "date": "Sat, 01 Aug 2026 08:48:58 +0000",
+      "summary": "Article URL: https://ramen.haus/\nComments URL: https://news.ycombinator.com/item?id=49132460\nPoints: 90\n# Comments: 43",
+      "url": "https://ramen.haus/"
+    },
+    {
+      "category": "AI",
+      "title": "EU will mandate labels on authentic-looking AI content starting August 2",
+      "source": "Hacker News: Front Page",
+      "date": "Sat, 01 Aug 2026 08:26:55 +0000",
+      "summary": "Article URL: https://www.engadget.com/2227966/eu-mandate-labels-on-authentic-looking-ai-content/\nComments URL: https://news.ycombinator.com/item?id=49132341\nPoints: 46\n# Comments: 24",
+      "url": "https://www.engadget.com/2227966/eu-mandate-labels-on-authentic-looking-ai-content/"
+    },
+    {
+      "category": "AI",
+      "title": "How to Do Great Work",
+      "source": "Hacker News: Front Page",
+      "date": "Sat, 01 Aug 2026 08:19:44 +0000",
+      "summary": "Article URL: https://paulgraham.com/greatwork.html\nComments URL: https://news.ycombinator.com/item?id=49132289\nPoints: 22\n# Comments: 7",
+      "url": "https://paulgraham.com/greatwork.html"
+    },
+    {
+      "category": "Theology",
+      "title": "Rooted in What Lasts: Identity Beyond Disability",
+      "source": "The Gospel Coalition",
+      "date": "Sat, 01 Aug 2026 04:00:00 +0000",
+      "summary": "Whether you have a disability or not, you aren’t relegated to a temporary identity or one that depends on the context in which you live.",
+      "url": "https://www.thegospelcoalition.org/article/identity-beyond-disability/"
+    },
+    {
+      "category": "AI",
+      "title": "Ten advances in mathematics and theoretical computer science",
+      "source": "OpenAI News",
+      "date": "Sat, 01 Aug 2026 00:00:00 GMT",
+      "summary": "OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.",
+      "url": "https://openai.com/index/ten-advances-in-mathematics"
+    },
+    {
+      "category": "Space",
+      "title": " SpaceX's Starship seen in space by next-gen Starlink satellite (video) ",
+      "source": " Latest from Space.com ",
+      "date": "Fri, 31 Jul 2026 23:27:19 +0000",
+      "summary": "We just got an amazing new view of SpaceX's Starship vehicle in space, thanks to one of the company's Starlink V3 broadband satellites.",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacexs-starship-seen-in-space-by-next-gen-starlink-satellite-video"
     },
     {
       "category": "AI",
@@ -35,78 +139,6 @@
       "url": "https://www.space.com/astronomy/black-holes/how-do-supermassive-black-holes-grow-ai-finds-7-spacetime-warping-quasars-that-could-help-solve-the-mystery"
     },
     {
-      "category": "AI",
-      "title": "Doctors took a look at man's painful shoulder—they found the joint was missing",
-      "source": "Ars Technica - All content",
-      "date": "Fri, 31 Jul 2026 21:51:52 +0000",
-      "summary": "The term \"Milwaukee Should Syndrome\" was coined in 1981, based on cases in four women.",
-      "url": "https://arstechnica.com/health/2026/07/doctors-took-a-look-at-mans-painful-shoulder-they-found-the-joint-was-missing/"
-    },
-    {
-      "category": "Science",
-      "title": "Moonquakes could reveal ice buried beneath lunar south polar craters",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Fri, 31 Jul 2026 17:40:03 EDT",
-      "summary": "Finding water on the moon may only be a matter of detecting the right vibrations.",
-      "url": "https://phys.org/news/2026-07-moonquakes-reveal-ice-beneath-lunar.html"
-    },
-    {
-      "category": "AI",
-      "title": "Google plans to exempt sanctioned nations from Android developer verification",
-      "source": "Ars Technica - All content",
-      "date": "Fri, 31 Jul 2026 21:35:56 +0000",
-      "summary": "Someone in Cuba or Iran can keep installing APKs with no new restrictions, but devs will suffer.",
-      "url": "https://arstechnica.com/gadgets/2026/07/google-plans-to-exempt-sanctioned-nations-from-android-developer-verification/"
-    },
-    {
-      "category": "Science",
-      "title": "Laying odds on the potential for Martian water near future landing zones",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Fri, 31 Jul 2026 17:20:03 EDT",
-      "summary": "We know Mars has water ice in its polar regions, but astronauts (and their solar-powered equipment!) would much rather experience life closer to Mars' equator. As NASA looks toward landing humans on the red planet, the Planetary Science Institute (PSI) is mapping where water should and shouldn't be found and using statistics to quantify its certainty. Two new papers, led by PSI's Hanna Sizemore and Samuel Courville, highlight new global maps of subsurface water ice and identify the missions and tools needed to increase the certainty of the maps.",
-      "url": "https://phys.org/news/2026-07-laying-odds-potential-martian-future.html"
-    },
-    {
-      "category": "AI",
-      "title": "Loops (YC W22) Is Hiring a Product Educator",
-      "source": "Hacker News: Front Page",
-      "date": "Fri, 31 Jul 2026 21:00:40 +0000",
-      "summary": "Article URL: https://www.ycombinator.com/companies/loops/jobs/zqUnwqB-product-educator-technical-content-creator\nComments URL: https://news.ycombinator.com/item?id=49128462\nPoints: 0\n# Comments: 0",
-      "url": "https://www.ycombinator.com/companies/loops/jobs/zqUnwqB-product-educator-technical-content-creator"
-    },
-    {
-      "category": "Space",
-      "title": " 'The End of Oak Street: Could JJ Abrams' new 'Twilight Zone meets Jurassic Park' movie be the sleeper hit of the summer? ",
-      "source": " Latest from Space.com ",
-      "date": "Fri, 31 Jul 2026 21:00:00 +0000",
-      "summary": "JJ Abrams' new film \"The End of Oak Street looks like \"The Twilight Zone\" meets \"Jurassic Park\" with a dash of \"A Quiet Place.\" Could it be the perfect summer movie?",
-      "url": "https://www.space.com/entertainment/the-end-of-oak-street-could-jj-abrams-new-twilight-zone-meets-jurassic-park-movie-be-the-sleeper-hit-of-the-summer"
-    },
-    {
-      "category": "AI",
-      "title": "Demystifying DRAM Read Disturbance: RowHammer and RowPress Phenomena",
-      "source": "Hacker News: Front Page",
-      "date": "Fri, 31 Jul 2026 20:44:29 +0000",
-      "summary": "Article URL: https://arxiv.org/abs/2607.28233\nComments URL: https://news.ycombinator.com/item?id=49128323\nPoints: 16\n# Comments: 10",
-      "url": "https://arxiv.org/abs/2607.28233"
-    },
-    {
-      "category": "AI",
-      "title": "Show HN: How to build and self-host a code review agent",
-      "source": "Hacker News: Front Page",
-      "date": "Fri, 31 Jul 2026 20:27:28 +0000",
-      "summary": "Hey HN,\nI've had a side-project that I've slowly ticked away at over the last year called Tilde. Tilde is a harness SDK platform - I've tried to take the best things of OpenClaw, Hermes & other harnesses and decompose them and make them available as cloud API building blocks.\nYou can use Tilde to create AI agents for your use case, fast and self-host the agent's yourself.\nThe documentation (and attached blog post) leave a lot to be desired in terms of technical documentation but hopefully the attached git repo does a good job of showcasing the API.\nhttps://github.com/trytilde/examples\nComments URL: https://news.ycombinator.com/item?id=49128177\nPoints: 10\n# Comments: 3",
-      "url": "https://www.trytilde.ai/blog/how-to-build-code-review-agent"
-    },
-    {
-      "category": "Space",
-      "title": " The Milky Way has a hidden feature you've probably never noticed. Here's how to find it ",
-      "source": " Latest from Space.com ",
-      "date": "Fri, 31 Jul 2026 20:00:00 +0000",
-      "summary": "Summer is the ideal time to look for the Great Rift, a long series of dark dust clouds that appear to split the Milky Way from Cygnus through Sagittarius.",
-      "url": "https://www.space.com/stargazing/the-milky-way-has-a-hidden-feature-youve-probably-never-noticed-heres-how-to-find-it"
-    },
-    {
       "category": "Science",
       "title": " 'We are not giving up yet': Private mission to rescue NASA's Swift telescope is spinning out of control, and engineers are racing to fix it ",
       "source": " Latest from Live Science ",
@@ -131,22 +163,6 @@
       "url": "https://openai.com/index/building-abundant-intelligence"
     },
     {
-      "category": "Science",
-      "title": " How to watch 'Secrets of the Great White Kill' – stream 'Shark Week' 2026 from anywhere ",
-      "source": " Latest from Live Science ",
-      "date": "Fri, 31 Jul 2026 13:00:00 +0000",
-      "summary": "How to watch \"Secrets of the Great White Kill\", as Riley Elliott and Kori Burkhardt set out to capture never-before-seen great white hunting techniques.",
-      "url": "https://www.livescience.com/animals/how-to-watch-secrets-of-the-great-white-kill-stream-shark-week-2026"
-    },
-    {
-      "category": "Science",
-      "title": " IBM scientists claim they've achieved 'quantum advantage' — and they've dared others to prove them wrong ",
-      "source": " Latest from Live Science ",
-      "date": "Fri, 31 Jul 2026 11:00:00 +0000",
-      "summary": "Using IBM's quantum computer, scientists say they have shown in three different experiments that quantum computers can outpace classical machines in useful computations.",
-      "url": "https://www.livescience.com/technology/quantum/ibm-scientists-claim-theyve-achieved-quantum-advantage-and-theyve-dared-others-to-prove-them-wrong"
-    },
-    {
       "category": "Biblical Studies",
       "title": "Rare Judean Pillar Figurine Discovery from Jerusalem",
       "source": "Biblical Archaeology Society",
@@ -161,14 +177,6 @@
       "date": "Fri, 31 Jul 2026 10:00:04 +0000",
       "summary": "“Have you fallen into a severe sickness, and do many come … with charms, some with amulets … to remedy the evil?” With these words, […]\nThe post Christian Amulets with Inscriptions appeared first on Biblical Archaeology Society.",
       "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/daily-life-and-practice/christian-amulets-with-inscriptions/"
-    },
-    {
-      "category": "AI",
-      "title": "Univé builds an AI-ready workforce",
-      "source": "OpenAI News",
-      "date": "Fri, 31 Jul 2026 07:00:00 GMT",
-      "summary": "See how Univé built an AI-ready workforce with ChatGPT Enterprise by combining leadership, responsible governance, and employee-led innovation to transform work at scale.",
-      "url": "https://openai.com/index/unive"
     },
     {
       "category": "Theology",
@@ -209,14 +217,6 @@
       "date": "Thu, 30 Jul 2026 11:00:12 +0000",
       "summary": "Mark W. Chavalas explores the history of camel domestication in BAR.\nThe post Did Camels Exist in Biblical Times? appeared first on Biblical Archaeology Society.",
       "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-near-eastern-world/did-camels-exist-in-biblical-times/"
-    },
-    {
-      "category": "Theology",
-      "title": "What Complementarianism Is (and Isn’t)",
-      "source": "The Gospel Coalition",
-      "date": "Thu, 30 Jul 2026 04:02:00 +0000",
-      "summary": "‘Mere Complementarianism’ delivers as promised: an overview of God’s vision for men and women in the church and beyond that’s straightforward and helpful.",
-      "url": "https://www.thegospelcoalition.org/reviews/mere-complementarianism/"
     },
     {
       "category": "History",
