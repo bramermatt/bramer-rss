@@ -1,14 +1,54 @@
 {
-  "lastUpdated": "2026-08-02T16:52:02.208Z",
+  "lastUpdated": "2026-08-02T22:47:59.650Z",
   "articleCount": 36,
   "articles": [
     {
+      "category": "AI",
+      "title": "Californians' data deletion requests, DROP, become enforceable Aug. 1",
+      "source": "Hacker News: Front Page",
+      "date": "Sun, 02 Aug 2026 22:16:34 +0000",
+      "summary": "Article URL: https://www.nbcsandiego.com/nbc-7-responds-2/californians-data-deletion-requests-drop-become-enforceable-aug-1/4054771/\nComments URL: https://news.ycombinator.com/item?id=49148987\nPoints: 10\n# Comments: 0",
+      "url": "https://www.nbcsandiego.com/nbc-7-responds-2/californians-data-deletion-requests-drop-become-enforceable-aug-1/4054771/"
+    },
+    {
       "category": "Science",
-      "title": "Why some nitrogen-processing enzymes are more efficient than others",
+      "title": "Mom or not, caring for babies changes the brain",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Sun, 02 Aug 2026 12:00:01 EDT",
-      "summary": "Nitrogen gas is abundant in Earth's atmosphere, but most living organisms can't readily use it. Only a subset of microbes with enzymes known as nitrogenases can break nitrogen gas apart and convert it into ammonia.",
-      "url": "https://phys.org/news/2026-07-nitrogen-enzymes-efficient.html"
+      "date": "Sun, 02 Aug 2026 17:40:01 EDT",
+      "summary": "Freeman Hrabowski Scholar Bianca Jones Marlin studies how caregiving takes shape in the brain and how some biological adaptations are passed to the next generation.",
+      "url": "https://phys.org/news/2026-07-mom-babies-brain.html"
+    },
+    {
+      "category": "AI",
+      "title": "EU Age Verification Project Mandates Hardware-Bound Attestation",
+      "source": "Hacker News: Front Page",
+      "date": "Sun, 02 Aug 2026 20:44:24 +0000",
+      "summary": "Article URL: https://linuxiac.com/eu-age-verification-project-mandates-hardware-bound-attestation/\nComments URL: https://news.ycombinator.com/item?id=49148128\nPoints: 63\n# Comments: 26",
+      "url": "https://linuxiac.com/eu-age-verification-project-mandates-hardware-bound-attestation/"
+    },
+    {
+      "category": "Science",
+      "title": "A cooperative approach to reproductive success",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sun, 02 Aug 2026 16:40:01 EDT",
+      "summary": "Fertilization is often imagined as a frantic race, with millions of sperm competing for a single prize. But new research by a team of evolutionary biologists from Syracuse University, the University of Siena in Italy and the University of Szeged in Hungary reveals a more surprising reality, where success can depend less on competition and more on cooperation.",
+      "url": "https://phys.org/news/2026-08-cooperative-approach-reproductive-success.html"
+    },
+    {
+      "category": "AI",
+      "title": "Show HN: Make your Framework 12 sound like a creaky door",
+      "source": "Hacker News: Front Page",
+      "date": "Sun, 02 Aug 2026 20:33:01 +0000",
+      "summary": "I was poking through the iio devices on my Framework the other day and turns out Framework 12s have a pretty accurate hinge angle sensor! So I made a version of LidAngleSensor (https://github.com/samhenrigold/LidAngleSensor) but for the Framework 12 on Linux, so you can make your hinge sound rusty\nComments URL: https://news.ycombinator.com/item?id=49148048\nPoints: 21\n# Comments: 2",
+      "url": "https://github.com/ArcaEge/creakwork12"
+    },
+    {
+      "category": "Science",
+      "title": "Newly unearthed mechanism that helps plants 'feel full' could help crops use fertilizer more efficiently",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sun, 02 Aug 2026 16:00:01 EDT",
+      "summary": "New York University researchers have pinpointed the molecular players responsible for plants \"feeling full\" once they've taken up enough nitrogen—a finding that could help scientists develop plants that absorb more nitrogen from the soil and allow farmers to reduce environmentally and economically costly fertilizer applications.",
+      "url": "https://phys.org/news/2026-07-newly-unearthed-mechanism-full-crops.html"
     },
     {
       "category": "Space",
@@ -17,38 +57,6 @@
       "date": "Sun, 02 Aug 2026 16:00:00 +0000",
       "summary": "Return to Gears of War's roots this year with a gritty prequel that's been built from scratch.",
       "url": "https://www.space.com/entertainment/space-games/gears-of-war-e-day-release-date-platforms-and-everything-else-we-know-about-marcus-fenixs-return"
-    },
-    {
-      "category": "AI",
-      "title": "How the words we teach English language learners changed",
-      "source": "Hacker News: Front Page",
-      "date": "Sun, 02 Aug 2026 15:41:08 +0000",
-      "summary": "Article URL: https://pudding.cool/2026/07/essential-words/\nComments URL: https://news.ycombinator.com/item?id=49145590\nPoints: 57\n# Comments: 17",
-      "url": "https://pudding.cool/2026/07/essential-words/"
-    },
-    {
-      "category": "Science",
-      "title": "Laid to rest with care: Ancient infants, perhaps twins, found in 1,200-year-old latrine",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sun, 02 Aug 2026 11:20:01 EDT",
-      "summary": "More than 1,000 years ago, two babies were tucked away in an abandoned Roman toilet channel. Yet, despite what the location suggests, they were cherished, not discarded.",
-      "url": "https://phys.org/news/2026-07-laid-rest-ancient-infants-twins.html"
-    },
-    {
-      "category": "AI",
-      "title": "A Rant About “Technology” (2005)",
-      "source": "Hacker News: Front Page",
-      "date": "Sun, 02 Aug 2026 14:51:18 +0000",
-      "summary": "Article URL: https://www.ursulakleguin.com/a-rant-about-technology\nComments URL: https://news.ycombinator.com/item?id=49145201\nPoints: 89\n# Comments: 46",
-      "url": "https://www.ursulakleguin.com/a-rant-about-technology"
-    },
-    {
-      "category": "Science",
-      "title": "AI use mirrors student schedules in study of 77,000 online learners",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sun, 02 Aug 2026 10:20:01 EDT",
-      "summary": "How do students actually use AI learning assistants? A new research paper by IU International University of Applied Sciences provides the first robust answers to this question. For the study \"Using AI-based Learning Assistants in Higher Education: A Large-Scale Descriptive Analysis,\" the research team led by Prof. Dr.-Ing. Kristina Schaaff, Dr. Valerie Hekkel and Quintus Stierstorfer analyzed anonymized usage data from approximately 77,000 IU online students who were using the Learning Companion Syntea at the time of the study.",
-      "url": "https://phys.org/news/2026-07-ai-mirrors-student-online-learners.html"
     },
     {
       "category": "Space",
@@ -81,14 +89,6 @@
       "date": "Sun, 02 Aug 2026 09:10:21 EDT",
       "summary": "Mathematicians have shown that no electoral system can perfectly balance local representation, proportional national results, and a fixed-size parliament once enough parties compete. A newly proposed voting method could soften these unavoidable trade-offs and produce outcomes that are much closer to fair.",
       "url": "https://www.sciencedaily.com/releases/2026/08/260801042812.htm"
-    },
-    {
-      "category": "AI",
-      "title": "Twenty Years of RISC OS Open",
-      "source": "Hacker News: Front Page",
-      "date": "Sun, 02 Aug 2026 12:36:07 +0000",
-      "summary": "Article URL: https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open\nComments URL: https://news.ycombinator.com/item?id=49143967\nPoints: 92\n# Comments: 15",
-      "url": "https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open"
     },
     {
       "category": "Science",
