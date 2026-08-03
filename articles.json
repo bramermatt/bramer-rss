@@ -1,70 +1,118 @@
 {
-  "lastUpdated": "2026-08-03T17:45:57.639Z",
-  "articleCount": 39,
+  "lastUpdated": "2026-08-03T22:54:22.418Z",
+  "articleCount": 36,
   "articles": [
     {
       "category": "Science",
-      "title": "Ten viral genome regions may explain why deadly chicken virus evades vaccines",
+      "title": "Bringing it all into focus—computational microscope captures 25.2 billion pixels per second across a wide field of view",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Mon, 03 Aug 2026 13:40:04 EDT",
-      "summary": "A highly contagious herpes virus causes Marek's disease, a deadly illness that mainly infects chickens. While it does not make people sick, the virus causes tumors and paralysis in chickens and, if unchecked, can spread rapidly through entire flocks.",
-      "url": "https://phys.org/news/2026-08-ten-viral-genome-regions-deadly.html"
+      "date": "Mon, 03 Aug 2026 18:40:01 EDT",
+      "summary": "When designing microscopes, optical engineers have long faced a trade-off between speed, field of view and resolution. But improving one of these properties typically comes at the expense of another. Now, a UC Berkeley–led team of researchers has found a way to address this challenge, opening the door to new possibilities in the field of microscopy.",
+      "url": "https://phys.org/news/2026-08-focus-microscope-captures-billion-pixels.html"
     },
     {
       "category": "Science",
-      "title": "Climate‑related 'silent adaptation' coping strategies are going beyond official directives",
+      "title": "Discarded rice husks capture toxic dyes, offering a reusable water filter",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Mon, 03 Aug 2026 13:40:01 EDT",
-      "summary": "Scientific reports, political directives and national plans follow one after another, urging regions to adapt to new climate realities. Yet one question remains: How do adaptation initiatives among local communities and businesses actually unfold on the ground? While announcements of public or government-backed projects or regulatory frameworks often take center stage, other, far more discreet grassroots forms of action or reorganization are at work, which can be grouped under the term \"silent adaptation.\"",
-      "url": "https://phys.org/news/2026-08-climaterelated-silent-coping-strategies.html"
+      "date": "Mon, 03 Aug 2026 18:20:02 EDT",
+      "summary": "Rice is the most-eaten food on the planet, and its discarded outer husk results in some 300 billion pounds of waste per year. FIU chemistry researcher Islam Ibrahim Hussein says the inedible castoffs could be the key to cleaner water.",
+      "url": "https://phys.org/news/2026-08-discarded-rice-husks-capture-toxic.html"
+    },
+    {
+      "category": "AI",
+      "title": "Windows XP 2002 for the Itanium: Unbridled rage",
+      "source": "Hacker News: Front Page",
+      "date": "Mon, 03 Aug 2026 22:04:49 +0000",
+      "summary": "Article URL: https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/\nComments URL: https://news.ycombinator.com/item?id=49162086\nPoints: 6\n# Comments: 0",
+      "url": "https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/"
     },
     {
       "category": "Science",
-      "title": "HOAs are often barriers to sustainable landscaping and solar energy. Here's how they could be bridges instead",
+      "title": "AI models atom movement to predict solid-state reaction pathways, including impurities, in minutes",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Mon, 03 Aug 2026 13:20:05 EDT",
-      "summary": "If you build a house in the United States today, there's a good chance you'll be living under the dictates of a neighborhood homeowners association—roughly two out of every three new homes are in an HOA, as are a third of existing homes.",
-      "url": "https://phys.org/news/2026-08-hoas-barriers-sustainable-landscaping-solar.html"
+      "date": "Mon, 03 Aug 2026 18:00:06 EDT",
+      "summary": "A research team at the Department of Energy's Lawrence Berkeley National Laboratory (Berkeley Lab) has successfully demonstrated an AI modeling approach that accurately and rapidly predicts how reactions between solid materials unfold over time. It is the first predictive model that accounts for how atoms travel through materials during solid-state reactions. Importantly, its predictions provide practical insights into the best recipes for making advanced materials.",
+      "url": "https://phys.org/news/2026-08-ai-atom-movement-solid-state.html"
     },
     {
       "category": "Space",
-      "title": "Guinea-Bissau Tidal Waters",
-      "source": "NASA",
-      "date": "Mon, 03 Aug 2026 17:15:39 +0000",
-      "summary": "Twice each day, tides ebb and flow through a maze of sandy channels, mudflats, and mangrove forests that flank the 88 islands and islets of Guinea-Bissau’s Bijagós Archipelago (Arquipélago dos Bijagós in Portuguese). Seen from above in this image from Nov. 28, 2025, the process leads to stark changes to the landscape: around low tide, intertidal mudflats and sandflats […]",
-      "url": "https://www.nasa.gov/image-article/guinea-bissau-tidal-waters/"
-    },
-    {
-      "category": "AI",
-      "title": "Ask HN: Claude multisession",
-      "source": "Hacker News: Front Page",
-      "date": "Mon, 03 Aug 2026 17:08:45 +0000",
-      "summary": "How you handle claude many sessions from terminal, sometimes i'm getting confused\nComments URL: https://news.ycombinator.com/item?id=49158580\nPoints: 5\n# Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=49158580"
-    },
-    {
-      "category": "AI",
-      "title": "Celebrating 45 Years of Kermit with the First New C-Kermit Release in 15 Years",
-      "source": "Hacker News: Front Page",
-      "date": "Mon, 03 Aug 2026 17:02:10 +0000",
-      "summary": "Article URL: https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase\nComments URL: https://news.ycombinator.com/item?id=49158474\nPoints: 13\n# Comments: 1",
-      "url": "https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase"
-    },
-    {
-      "category": "AI",
-      "title": "SearXNG in Rust",
-      "source": "Hacker News: Front Page",
-      "date": "Mon, 03 Aug 2026 16:41:40 +0000",
-      "summary": "Article URL: https://github.com/MikeLuu99/searxng-rust\nComments URL: https://news.ycombinator.com/item?id=49158141\nPoints: 4\n# Comments: 1",
-      "url": "https://github.com/MikeLuu99/searxng-rust"
-    },
-    {
-      "category": "Space",
-      "title": " 3 moons of Neptune may be remnants of ice worlds shattered in a catastrophic crash ",
+      "title": " CNN dives into how Elon Musk and Jeff Bezos are backing NASA's race to the moon against China (exclusive clip) ",
       "source": " Latest from Space.com ",
-      "date": "Mon, 03 Aug 2026 16:17:26 +0000",
-      "summary": "\"We've had only a single flyby — Voyager 2 in 1989 — and these results make clear there's much more to learn.\"",
-      "url": "https://www.space.com/astronomy/neptune/3-moons-of-neptune-may-be-remnants-of-ice-worlds-shattered-in-a-catastrophic-crash"
+      "date": "Mon, 03 Aug 2026 22:00:00 +0000",
+      "summary": "\"Eclipsing Power\" is a new FlashDocs special highlighting how billionaires like Elon Musk and Jeff Bezos are shaping the global space race.",
+      "url": "https://www.space.com/entertainment/cnn-dives-into-how-elon-musk-and-jeff-bezos-are-backing-nasas-race-to-the-moon-against-china-exclusive-clip"
+    },
+    {
+      "category": "AI",
+      "title": "ZX Spectrum System Tour: Text Mode – Bumbershoot Software",
+      "source": "Hacker News: Front Page",
+      "date": "Mon, 03 Aug 2026 21:39:12 +0000",
+      "summary": "Article URL: https://bumbershootsoft.wordpress.com/2026/05/30/zx-spectrum-system-tour-text-mode/\nComments URL: https://news.ycombinator.com/item?id=49161801\nPoints: 5\n# Comments: 0",
+      "url": "https://bumbershootsoft.wordpress.com/2026/05/30/zx-spectrum-system-tour-text-mode/"
+    },
+    {
+      "category": "AI",
+      "title": "LLMs reward expertise",
+      "source": "Hacker News: Front Page",
+      "date": "Mon, 03 Aug 2026 21:13:53 +0000",
+      "summary": "Article URL: https://www.seangoedecke.com/llms-reward-expertise/\nComments URL: https://news.ycombinator.com/item?id=49161518\nPoints: 193\n# Comments: 78",
+      "url": "https://www.seangoedecke.com/llms-reward-expertise/"
+    },
+    {
+      "category": "Space",
+      "title": " A SpaceX rocket will crash into the moon this week. Why is it on a collision course? ",
+      "source": " Latest from Space.com ",
+      "date": "Mon, 03 Aug 2026 21:00:00 +0000",
+      "summary": "The upper stage of a SpaceX Falcon 9 rocket will slam into the moon early Wednesday morning (Aug. 5). Here's what put it on this kamikaze course.",
+      "url": "https://www.space.com/astronomy/moon/a-spacex-rocket-will-crash-into-the-moon-this-week-why-is-it-on-a-collision-course"
+    },
+    {
+      "category": "History",
+      "title": "Nelson and Blueskin: Washington’s Revolutionary War Horses in the Documentary Record",
+      "source": "Journal of the American Revolution",
+      "date": "Mon, 03 Aug 2026 20:43:25 +0000",
+      "summary": "George Washington’s two most-remembered wartime mounts, Nelson and Blueskin, have been the subject of considerable popular retelling, much of it post-dating the events by decades. The manuscript record is thinner than the later accounts but clear on the essentials. Both horses came to Washington as gifts from friends. Both carried him through much of the […]\nThe post Nelson and Blueskin: Washington’s Revolutionary War Horses in the Documentary Record appeared first on Journal of the American Revolution.",
+      "url": "https://allthingsliberty.com/2026/08/nelson-and-blueskin-washingtons-revolutionary-war-horses-in-the-documentary-record/"
+    },
+    {
+      "category": "AI",
+      "title": "Research roundup: 6 cool science stories we almost missed",
+      "source": "Ars Technica - All content",
+      "date": "Mon, 03 Aug 2026 20:13:37 +0000",
+      "summary": "Also: Cyborg diving suits for cockroaches, why sleepy sperm whales blow bubbles, Betelgeuse's companion star.",
+      "url": "https://arstechnica.com/science/2026/08/research-roundup-6-cool-science-stories-we-almost-missed-5/"
+    },
+    {
+      "category": "Space",
+      "title": " Jack in for a cyberpunk jolt with this energized first trailer for Apple TV's 'Neuromancer' ",
+      "source": " Latest from Space.com ",
+      "date": "Mon, 03 Aug 2026 20:00:00 +0000",
+      "summary": "William Gibson's influential 1984 sci-fi novel finally scores a proper adaptation.",
+      "url": "https://www.space.com/entertainment/jack-in-for-a-cyberpunk-jolt-with-this-energized-first-trailer-for-apple-tvs-neuromancer"
+    },
+    {
+      "category": "AI",
+      "title": "Lego deploys Hubble Space Telescope as detailed desktop model",
+      "source": "Ars Technica - All content",
+      "date": "Mon, 03 Aug 2026 19:21:16 +0000",
+      "summary": "The orbiting observatory in minifigure scale.",
+      "url": "https://arstechnica.com/space/2026/08/lego-deploys-hubble-space-telescope-as-detailed-desktop-model/"
+    },
+    {
+      "category": "Science",
+      "title": " 2 people die of Cyclospora infection in Michigan ",
+      "source": " Latest from Live Science ",
+      "date": "Mon, 03 Aug 2026 19:10:19 +0000",
+      "summary": "Two people in Michigan have died due to Cyclospora infections, the state health department reported.",
+      "url": "https://www.livescience.com/health/viruses-infections-disease/2-people-die-of-cyclospora-infection-in-michigan"
+    },
+    {
+      "category": "AI",
+      "title": "An AI-supervised remote exam went so badly that 58,000 students must retake it",
+      "source": "Ars Technica - All content",
+      "date": "Mon, 03 Aug 2026 19:00:50 +0000",
+      "summary": "Top scores increased by 5x.",
+      "url": "https://arstechnica.com/culture/2026/08/an-ai-supervised-remote-exam-went-so-badly-that-58000-students-must-retake-it/"
     },
     {
       "category": "Science",
@@ -75,60 +123,12 @@
       "url": "https://www.livescience.com/planet-earth/antarctica/scientists-uncover-big-clue-as-to-how-antarcticas-mysterious-blood-falls-came-to-be"
     },
     {
-      "category": "AI",
-      "title": "SpaceX is set to acquire 130,000 acres of marshland in southern Louisiana",
-      "source": "Ars Technica - All content",
-      "date": "Mon, 03 Aug 2026 14:41:46 +0000",
-      "summary": "A Louisiana launch site would offer several significant advantages.",
-      "url": "https://arstechnica.com/space/2026/08/spacex-is-set-to-acquire-130000-acres-of-marshland-in-southern-louisiana/"
-    },
-    {
-      "category": "Space",
-      "title": " The 1st 'three-headed' asteroid | Space photo of the day for Aug. 3, 2026 ",
-      "source": " Latest from Space.com ",
-      "date": "Mon, 03 Aug 2026 14:20:32 +0000",
-      "summary": "New images reveal what astronomers believe is the first-known \"trilobate\" or three-headed asteroid in our solar system.",
-      "url": "https://www.space.com/astronomy/asteroids/the-1st-three-headed-asteroid-space-photo-of-the-day-for-aug-3-2026"
-    },
-    {
-      "category": "Space",
-      "title": "NASA Delivers Navigation System for Commercial Lunar Relay",
-      "source": "NASA",
-      "date": "Mon, 03 Aug 2026 14:20:26 +0000",
-      "summary": "NASA delivered the NavCube3-mini payload on July 13 to Intuitive Machines for integration into Altus-1, the company’s first lunar relay satellite, marking an important milestone in the development of future lunar communications and navigation services. The lunar relays are designed to enable communications and navigation for astronauts and rovers operating at the agency’s future Moon Base. About half the size of a shoebox and weighing just 3.5 pounds, NavCube3-mini is a compact but powerful navigation […]",
-      "url": "https://www.nasa.gov/technology/space-comms/nasa-delivers-navigation-system-for-commercial-lunar-relay/"
-    },
-    {
       "category": "Science",
       "title": " 'Poop pills' may ease insomnia by reprogramming the gut microbiome, early study hints ",
       "source": " Latest from Live Science ",
       "date": "Mon, 03 Aug 2026 14:10:00 +0000",
       "summary": "Reprogramming the gut microbiome with fecal microbiota transplants could reduce the amount of time people with insomnia spend awake.",
       "url": "https://www.livescience.com/health/sleep/poop-pills-may-ease-insomnia-by-reprogramming-the-gut-microbiome-early-study-hints"
-    },
-    {
-      "category": "Space",
-      "title": " On this day in space! Aug. 3, 2004: NASA launches MESSENGER spacecraft to orbit Mercury ",
-      "source": " Latest from Space.com ",
-      "date": "Mon, 03 Aug 2026 14:05:00 +0000",
-      "summary": "NASA's MESSENGER spacecraft aimed to orbit Mercury for the first time to hunt for clues of water on the tiny, innermost planet.",
-      "url": "https://www.space.com/space-exploration/on-this-day-in-space-august-3-2026"
-    },
-    {
-      "category": "Space",
-      "title": "Ike Theriot Helps Prepare Astronauts to Work on the Moon ",
-      "source": "NASA",
-      "date": "Mon, 03 Aug 2026 14:00:00 +0000",
-      "summary": "From serving in the U.S. Army to helping prepare astronauts to explore the lunar surface, Ike Theriot built a path to NASA through discipline and determination.  Theriot serves as the Flight Operations Surface Testing lead in the Exploration Extravehicular Activity Operations Branch within the EVA, Robotics, and Crew Operations Division at NASA’s Johnson Space Center in Houston. He integrates flight operations testing needs […]",
-      "url": "https://www.nasa.gov/centers-and-facilities/johnson/ike-theriot-helps-prepare-astronauts-to-work-on-the-moon/"
-    },
-    {
-      "category": "AI",
-      "title": "Trump wants the power to stop the public from suing polluters",
-      "source": "Ars Technica - All content",
-      "date": "Mon, 03 Aug 2026 13:33:56 +0000",
-      "summary": "Trump's DOJ says citizens should no longer be able to enforce environmental laws.",
-      "url": "https://arstechnica.com/tech-policy/2026/08/trump-wants-the-power-to-stop-the-public-from-suing-polluters/"
     },
     {
       "category": "Science",
@@ -140,27 +140,11 @@
     },
     {
       "category": "Science",
-      "title": " Ancient bullets reveal where a Roman camp hid in the Pyrenees of Spain before being ambushed ",
-      "source": " Latest from Live Science ",
-      "date": "Mon, 03 Aug 2026 13:00:00 +0000",
-      "summary": "Researchers found the remains of a Roman camp from 39 B.C. that was ambushed by locals in what's now Catalonia, Spain.",
-      "url": "https://www.livescience.com/archaeology/romans/ancient-bullets-reveal-where-a-roman-camp-hid-in-the-pyrenees-of-spain-before-being-ambushed"
-    },
-    {
-      "category": "Science",
       "title": "Scientists may have found aging’s hidden trigger for brain disease",
       "source": "All Top News -- ScienceDaily",
       "date": "Mon, 03 Aug 2026 07:17:07 EDT",
       "summary": "Scientists have identified a molecular switch that may help explain why aging makes the brain more vulnerable to diseases such as ALS and Huntington’s. In worms, the protein EPS8 builds up with age and triggers signaling that encourages toxic proteins to clump together, damaging neurons and shortening lifespan. Reducing EPS8 activity prevented these harmful aggregates and preserved nerve function.",
       "url": "https://www.sciencedaily.com/releases/2026/08/260802223433.htm"
-    },
-    {
-      "category": "AI",
-      "title": "How headlights got brighter, whiter, and more blinding after dark",
-      "source": "Ars Technica - All content",
-      "date": "Mon, 03 Aug 2026 11:00:11 +0000",
-      "summary": "Automotive lights are better than they've ever been, but there's a trade-off.",
-      "url": "https://arstechnica.com/cars/2026/08/how-headlights-got-brighter-whiter-and-more-blinding-after-dark/"
     },
     {
       "category": "Biblical Studies",
@@ -185,6 +169,14 @@
       "date": "Mon, 03 Aug 2026 10:00:19 +0000",
       "summary": "Compared to surrounding regions, ancient Judah has revealed relatively few human figurines. That does not mean, however, that such figurines were unknown to the land. […]\nThe post Carved Ivory Emerges from Biblical Jerusalem appeared first on Biblical Archaeology Society.",
       "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-israel/carved-ivory-emerges-from-biblical-jerusalem/"
+    },
+    {
+      "category": "AI",
+      "title": "How we built a realtime system for responsive voice AI in six months",
+      "source": "OpenAI News",
+      "date": "Mon, 03 Aug 2026 07:00:00 GMT",
+      "summary": "GPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural conversations.",
+      "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live"
     },
     {
       "category": "Theology",
@@ -243,14 +235,6 @@
       "url": "https://openai.com/index/advancing-responsible-ai-across-europe"
     },
     {
-      "category": "AI",
-      "title": "Building abundant intelligence",
-      "source": "OpenAI News",
-      "date": "Fri, 31 Jul 2026 15:00:00 GMT",
-      "summary": "A full-stack approach to making advanced AI more capable, more affordable, and more widely useful.",
-      "url": "https://openai.com/index/building-abundant-intelligence"
-    },
-    {
       "category": "History",
       "title": "American Achilles: Daniel Morgan’s Resignation and Return to Service",
       "source": "Journal of the American Revolution",
@@ -273,14 +257,6 @@
       "date": "Tue, 28 Jul 2026 20:49:08 +0000",
       "summary": "My call at church was not to soldier on as if nothing was wrong. It was to pastor the church in my weakness so that Christ’s grace would be magnified.\nThe post Pastoring Amid Family Turmoil appeared first on 9Marks.",
       "url": "https://www.9marks.org/article/pastoring-amid-family-turmoil/?utm_source=rss&utm_medium=rss&utm_campaign=pastoring-amid-family-turmoil"
-    },
-    {
-      "category": "History",
-      "title": "Samuel Brady: A Future Legend Goes to War",
-      "source": "Journal of the American Revolution",
-      "date": "Tue, 28 Jul 2026 11:02:29 +0000",
-      "summary": "As word of the outbreak of war at Lexington and Concord spread among the British colonies in North America, they accelerated efforts to build military forces, often as ad hoc militia companies organized at the county level that would then later be amalgamated into regiments and brigades. The companies might be named for the men […]\nThe post Samuel Brady: A Future Legend Goes to War appeared first on Journal of the American Revolution.",
-      "url": "https://allthingsliberty.com/2026/07/samuel-brady-a-future-legend-goes-to-war/"
     },
     {
       "category": "Theology",
