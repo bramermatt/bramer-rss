@@ -1,78 +1,142 @@
 {
-  "lastUpdated": "2026-08-02T22:47:59.650Z",
-  "articleCount": 36,
+  "lastUpdated": "2026-08-03T12:51:28.982Z",
+  "articleCount": 39,
   "articles": [
     {
-      "category": "AI",
-      "title": "Californians' data deletion requests, DROP, become enforceable Aug. 1",
-      "source": "Hacker News: Front Page",
-      "date": "Sun, 02 Aug 2026 22:16:34 +0000",
-      "summary": "Article URL: https://www.nbcsandiego.com/nbc-7-responds-2/californians-data-deletion-requests-drop-become-enforceable-aug-1/4054771/\nComments URL: https://news.ycombinator.com/item?id=49148987\nPoints: 10\n# Comments: 0",
-      "url": "https://www.nbcsandiego.com/nbc-7-responds-2/californians-data-deletion-requests-drop-become-enforceable-aug-1/4054771/"
+      "category": "Science",
+      "title": "Good things take time—but new research suggests mindfulness can make the wait easier",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Mon, 03 Aug 2026 08:40:03 EDT",
+      "summary": "Ask someone if they'd rather take $5 today or $10 next week and they'll know which option is better.",
+      "url": "https://phys.org/news/2026-08-good-mindfulness-easier.html"
     },
     {
       "category": "Science",
-      "title": "Mom or not, caring for babies changes the brain",
+      "title": "Most Americans prefer non-violent border enforcement, study finds",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Sun, 02 Aug 2026 17:40:01 EDT",
-      "summary": "Freeman Hrabowski Scholar Bianca Jones Marlin studies how caregiving takes shape in the brain and how some biological adaptations are passed to the next generation.",
-      "url": "https://phys.org/news/2026-07-mom-babies-brain.html"
-    },
-    {
-      "category": "AI",
-      "title": "EU Age Verification Project Mandates Hardware-Bound Attestation",
-      "source": "Hacker News: Front Page",
-      "date": "Sun, 02 Aug 2026 20:44:24 +0000",
-      "summary": "Article URL: https://linuxiac.com/eu-age-verification-project-mandates-hardware-bound-attestation/\nComments URL: https://news.ycombinator.com/item?id=49148128\nPoints: 63\n# Comments: 26",
-      "url": "https://linuxiac.com/eu-age-verification-project-mandates-hardware-bound-attestation/"
+      "date": "Mon, 03 Aug 2026 08:20:04 EDT",
+      "summary": "Most Americans favor nonviolent measures, such as temporary barricades, over violent measures, like the use of rubber bullets, by border enforcement officers toward undocumented migrants on the southern border, a UCL-led study published in the journal Migration Studies has found.",
+      "url": "https://phys.org/news/2026-08-americans-violent-border.html"
     },
     {
       "category": "Science",
-      "title": "A cooperative approach to reproductive success",
+      "title": "A 21-hour dip could help explain Tabby's star's decade-long dimming mystery",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Sun, 02 Aug 2026 16:40:01 EDT",
-      "summary": "Fertilization is often imagined as a frantic race, with millions of sperm competing for a single prize. But new research by a team of evolutionary biologists from Syracuse University, the University of Siena in Italy and the University of Szeged in Hungary reveals a more surprising reality, where success can depend less on competition and more on cooperation.",
-      "url": "https://phys.org/news/2026-08-cooperative-approach-reproductive-success.html"
-    },
-    {
-      "category": "AI",
-      "title": "Show HN: Make your Framework 12 sound like a creaky door",
-      "source": "Hacker News: Front Page",
-      "date": "Sun, 02 Aug 2026 20:33:01 +0000",
-      "summary": "I was poking through the iio devices on my Framework the other day and turns out Framework 12s have a pretty accurate hinge angle sensor! So I made a version of LidAngleSensor (https://github.com/samhenrigold/LidAngleSensor) but for the Framework 12 on Linux, so you can make your hinge sound rusty\nComments URL: https://news.ycombinator.com/item?id=49148048\nPoints: 21\n# Comments: 2",
-      "url": "https://github.com/ArcaEge/creakwork12"
+      "date": "Mon, 03 Aug 2026 08:00:05 EDT",
+      "summary": "Since 2016, an ordinary-looking F-type star called KIC 8462852, nicknamed Tabby's star, has behaved anything but ordinarily. In a new study published in the Monthly Notices of the Royal Astronomical Society on July 6, researchers revisited this star to find out what is really causing its irregular dimming.",
+      "url": "https://phys.org/news/2026-07-hour-dip-tabby-star-decade.html"
     },
     {
       "category": "Science",
-      "title": "Newly unearthed mechanism that helps plants 'feel full' could help crops use fertilizer more efficiently",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sun, 02 Aug 2026 16:00:01 EDT",
-      "summary": "New York University researchers have pinpointed the molecular players responsible for plants \"feeling full\" once they've taken up enough nitrogen—a finding that could help scientists develop plants that absorb more nitrogen from the soil and allow farmers to reduce environmentally and economically costly fertilizer applications.",
-      "url": "https://phys.org/news/2026-07-newly-unearthed-mechanism-full-crops.html"
+      "title": " Aspen trees provide a natural buffer against wildfires, even as fire season intensifies, study shows ",
+      "source": " Latest from Live Science ",
+      "date": "Mon, 03 Aug 2026 12:00:00 +0000",
+      "summary": "Buffers made of aspen trees could help protect communities from worsening wildfires.",
+      "url": "https://www.livescience.com/planet-earth/plants/aspens-can-make-natural-firebreaks-even-as-fire-season-gets-worse"
     },
     {
       "category": "Space",
-      "title": " Gears of War: E-Day: Release date, platforms & everything else we know about Marcus Fenix's return ",
+      "title": " Astronomers watch a black hole's feeding frenzy end with a bad case of cosmic indigestion ",
       "source": " Latest from Space.com ",
-      "date": "Sun, 02 Aug 2026 16:00:00 +0000",
-      "summary": "Return to Gears of War's roots this year with a gritty prequel that's been built from scratch.",
-      "url": "https://www.space.com/entertainment/space-games/gears-of-war-e-day-release-date-platforms-and-everything-else-we-know-about-marcus-fenixs-return"
+      "date": "Mon, 03 Aug 2026 12:00:00 +0000",
+      "summary": "Astronomers have discovered that the feeding frenzy of a distant black hole ended with a windy outburst.",
+      "url": "https://www.space.com/astronomy/black-holes/astronomers-watch-a-black-holes-feeding-frenzy-end-with-a-bad-case-of-cosmic-indigestion"
     },
     {
       "category": "Space",
-      "title": " Double digits! Air-launched 'Talon A' hypersonic vehicle notches big flight milestone ",
+      "title": " Is the Nocs Provisions Lite View spotting scope a good alternative to a traditional telescope? ",
       "source": " Latest from Space.com ",
-      "date": "Sun, 02 Aug 2026 14:00:00 +0000",
-      "summary": "Stratolaunch has now conducted more than 10 flights with its Talon-A hypersonic vehicle, an autonomous, air-launched craft that can travel five times the speed of sound.",
-      "url": "https://www.space.com/technology/double-digits-air-launched-talon-a-hypersonic-vehicle-notches-big-flight-milestone"
+      "date": "Mon, 03 Aug 2026 12:00:00 +0000",
+      "summary": "A compact spotting scope delivering detailed views of the moon and bright star clusters.",
+      "url": "https://www.space.com/stargazing/skywatching-kit/is-the-nocs-provisions-lite-view-spotting-scope-a-good-alternative-to-a-traditional-telescope"
+    },
+    {
+      "category": "AI",
+      "title": "The AI bubble is popping; we just don't know it yet",
+      "source": "Hacker News: Front Page",
+      "date": "Mon, 03 Aug 2026 11:59:10 +0000",
+      "summary": "Article URL: https://www.theregister.com/ai-and-ml/2026/08/03/the-ai-bubble-is-already-popping-we-just-dont-know-it-yet/5282004\nComments URL: https://news.ycombinator.com/item?id=49154601\nPoints: 35\n# Comments: 23",
+      "url": "https://www.theregister.com/ai-and-ml/2026/08/03/the-ai-bubble-is-already-popping-we-just-dont-know-it-yet/5282004"
+    },
+    {
+      "category": "AI",
+      "title": "Critical CVE issued for hallucinated SQLite vulnerability",
+      "source": "Hacker News: Front Page",
+      "date": "Mon, 03 Aug 2026 11:28:54 +0000",
+      "summary": "Article URL: https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/\nComments URL: https://news.ycombinator.com/item?id=49154332\nPoints: 156\n# Comments: 41",
+      "url": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/"
+    },
+    {
+      "category": "AI",
+      "title": "9front \"This Was Supposed to Be Fun\" Released",
+      "source": "Hacker News: Front Page",
+      "date": "Mon, 03 Aug 2026 11:17:56 +0000",
+      "summary": "Article URL: https://9front.org/releases/2026/08/02/0/\nComments URL: https://news.ycombinator.com/item?id=49154249\nPoints: 24\n# Comments: 4",
+      "url": "https://9front.org/releases/2026/08/02/0/"
+    },
+    {
+      "category": "AI",
+      "title": "How headlights got brighter, whiter, and more blinding after dark",
+      "source": "Ars Technica - All content",
+      "date": "Mon, 03 Aug 2026 11:00:11 +0000",
+      "summary": "Automotive lights are better than they've ever been, but there's a trade-off.",
+      "url": "https://arstechnica.com/cars/2026/08/how-headlights-got-brighter-whiter-and-more-blinding-after-dark/"
+    },
+    {
+      "category": "Science",
+      "title": " Did fungi give mammals an evolutionary edge after the dinosaur-killing asteroid hit? New evidence revives a provocative hypothesis ",
+      "source": " Latest from Live Science ",
+      "date": "Mon, 03 Aug 2026 11:00:00 +0000",
+      "summary": "A revived hypothesis argues that a fungus-filled world after the Chicxulub asteroid impact may have given mammals an evolutionary edge. The idea could reshape how scientists think about mass extinctions, but it is still controversial.",
+      "url": "https://www.livescience.com/animals/dinosaurs/did-fungi-give-mammals-an-evolutionary-edge-after-the-dinosaur-killing-asteroid-hit-new-evidence-revives-a-provocative-hypothesis"
+    },
+    {
+      "category": "Biblical Studies",
+      "title": "Cypriot Coin found at Ashdod",
+      "source": "Biblical Archaeology Society",
+      "date": "Mon, 03 Aug 2026 10:45:49 +0000",
+      "summary": "A silver-plated Cypriot coin dating to the mid-fifth century BCE has been discovered on Ashdod Beach. The Israel Antiquities Authority (IAA) reported that the coin […]\nThe post Cypriot Coin found at Ashdod appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-near-eastern-world/cypriot-coin-found-at-ashdod/"
+    },
+    {
+      "category": "Science",
+      "title": " Rock crystal scraper: 45,000-year-old Neanderthal tool that shows they had an 'eye for beauty of form and color' ",
+      "source": " Latest from Live Science ",
+      "date": "Mon, 03 Aug 2026 10:00:00 +0000",
+      "summary": "A chance find of rare rock crystal tools a century ago paved the way for a better understanding of Neanderthals today.",
+      "url": "https://www.livescience.com/archaeology/neanderthals/rock-crystal-scraper-45-000-year-old-neanderthal-tool-that-shows-they-had-an-eye-for-beauty-of-form-and-color"
     },
     {
       "category": "Space",
-      "title": " On this day in space! Aug. 2, 1971: Apollo 15 makes 1st-ever televised liftoff from the moon ",
+      "title": " AI is ready to run spacecraft. Is the space industry ready for it? (op-ed) ",
       "source": " Latest from Space.com ",
-      "date": "Sun, 02 Aug 2026 14:00:00 +0000",
-      "summary": "On Aug. 2, 1971, a lunar liftoff was televised for the first time on NASA's Apollo 15 mission, one giant leap for live TV from the moon.",
-      "url": "https://www.space.com/space-exploration/on-this-day-in-space-august-2-2026"
+      "date": "Mon, 03 Aug 2026 10:00:00 +0000",
+      "summary": "Satellite constellations are getting bigger and increasingly difficult for human operators to manage. Artificial intelligence will soon be able to help, but will the space industry let it happen?",
+      "url": "https://www.space.com/space-exploration/satellites/ai-is-ready-to-run-spacecraft-is-the-space-industry-ready-for-it"
+    },
+    {
+      "category": "Space",
+      "title": "APOD: 2026 August 3 – Vaporizing Meteor Photobombs the Lacerta Nebula",
+      "source": "NASA",
+      "date": "Mon, 03 Aug 2026 04:05:00 +0000",
+      "summary": "APOD Science APOD APOD: 2026 August 3 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Vaporizing Meteor Photobombs […]",
+      "url": "https://science.nasa.gov/image-article/apod-2026-august-3-vaporizing-meteor-photobombs-the-lacerta-nebula/"
+    },
+    {
+      "category": "Theology",
+      "title": "AI and Art: What Is Creativity For? (with Brett McCracken)",
+      "source": "The Gospel Coalition",
+      "date": "Mon, 03 Aug 2026 04:04:00 +0000",
+      "summary": "Brett McCracken joins Christopher Watkin to discuss AI, art, attention, and why human creativity still matters when machines can make beautiful things in seconds.",
+      "url": "https://www.thegospelcoalition.org/podcasts/silicon-spiritualities/ai-art-creativity/"
+    },
+    {
+      "category": "Theology",
+      "title": "What the Spurgeon Family Scandal Teaches Us About Failure",
+      "source": "The Gospel Coalition",
+      "date": "Mon, 03 Aug 2026 04:00:00 +0000",
+      "summary": "The Spurgeon family scandal reminds us that even extraordinarily impressive ministries like Charles Spurgeon’s can have grubby, messy roots.",
+      "url": "https://www.thegospelcoalition.org/article/spurgeon-scandal-failure/"
     },
     {
       "category": "Science",
@@ -91,28 +155,12 @@
       "url": "https://www.sciencedaily.com/releases/2026/08/260801042812.htm"
     },
     {
-      "category": "Science",
-      "title": " Hubble telescope takes one of the most detailed looks at neighboring Andromeda galaxy ever — Space photo of the week ",
-      "source": " Latest from Live Science ",
-      "date": "Sun, 02 Aug 2026 11:00:00 +0000",
-      "summary": "The most famous giant spiral galaxy in the universe has been revealed not to be the star factory it once was, just as NASA's Nancy Grace Roman Space Telescope is set to unlock even more breathtaking cosmic insights.",
-      "url": "https://www.livescience.com/space/astronomy/hubble-telescope-takes-one-of-the-most-detailed-looks-at-neighboring-andromeda-galaxy-ever-space-photo-of-the-week"
-    },
-    {
-      "category": "Science",
-      "title": " 'We're a bit late on the case, but we are on the case': Author Fred Pearce on the rise of renewables, a defused population bomb, and letting nature find its own way ",
-      "source": " Latest from Live Science ",
-      "date": "Sun, 02 Aug 2026 10:30:00 +0000",
-      "summary": "Author and journalist Fred Pearce tells Live Science about his book \"Despite it All\" — looking at the changes that have taken place over the last 40 years that provide some hope that we can solve the climate crisis.",
-      "url": "https://www.livescience.com/planet-earth/climate-change/were-a-bit-late-on-the-case-but-we-are-on-the-case-author-fred-pearce-on-the-rise-of-renewables-a-defused-population-bomb-and-letting-nature-find-its-own-way"
-    },
-    {
-      "category": "Science",
-      "title": " 'The apparent chaos of the Anthropocene is turbocharging evolution itself': Plants are finding ways to survive and thrive in the climate crisis — if we let them ",
-      "source": " Latest from Live Science ",
-      "date": "Sun, 02 Aug 2026 10:00:00 +0000",
-      "summary": "In this excerpt from \"Despite it All,\" author Fred Pearce explores the ways plants are adapting and evolving in the face of climate change — and how we need to recognize this reality and foster its potential boost to biodiversity, rather than holding steadfast to our notions of what types of nature should and shouldn't be allowed to thrive.",
-      "url": "https://www.livescience.com/planet-earth/climate-change/the-apparent-chaos-of-the-anthropocene-is-turbocharging-evolution-itself-plants-are-finding-ways-to-survive-and-thrive-in-the-climate-crisis-if-we-let-them"
+      "category": "Space",
+      "title": "APOD: 2026 August 2 – A Fire Rainbow over West Virginia",
+      "source": "NASA",
+      "date": "Sun, 02 Aug 2026 04:05:00 +0000",
+      "summary": "APOD Science APOD APOD: 2026 August 2 – A Fire… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. A […]",
+      "url": "https://science.nasa.gov/image-article/apod-2026-august-2-a-fire-rainbow-over-west-virginia/"
     },
     {
       "category": "Theology",
@@ -147,20 +195,12 @@
       "url": "https://www.sciencedaily.com/releases/2026/08/260801093239.htm"
     },
     {
-      "category": "AI",
-      "title": "As Reddit stock falls, CEO questions value of Google's AI Overviews",
-      "source": "Ars Technica - All content",
-      "date": "Sat, 01 Aug 2026 12:30:36 +0000",
-      "summary": "Reddit may still be considering ending its licensing deal with Google.",
-      "url": "https://arstechnica.com/ai/2026/08/reddit-ceo-on-ai-overviews-were-still-looking-for-that-win-win/"
-    },
-    {
-      "category": "Theology",
-      "title": "Rooted in What Lasts: Identity Beyond Disability",
-      "source": "The Gospel Coalition",
-      "date": "Sat, 01 Aug 2026 04:00:00 +0000",
-      "summary": "Whether you have a disability or not, you aren’t relegated to a temporary identity or one that depends on the context in which you live.",
-      "url": "https://www.thegospelcoalition.org/article/identity-beyond-disability/"
+      "category": "Space",
+      "title": "APOD: 2026 August 1 – Buck Moon and Belt of Venus",
+      "source": "NASA",
+      "date": "Sat, 01 Aug 2026 04:05:00 +0000",
+      "summary": "APOD Science APOD APOD: 2026 August 1 – Buck… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Buck Moon […]",
+      "url": "https://science.nasa.gov/image-article/apod/apod-2026-august-1-buck-moon-and-belt-of-venus/"
     },
     {
       "category": "AI",
@@ -209,22 +249,6 @@
       "date": "Fri, 31 Jul 2026 10:00:04 +0000",
       "summary": "“Have you fallen into a severe sickness, and do many come … with charms, some with amulets … to remedy the evil?” With these words, […]\nThe post Christian Amulets with Inscriptions appeared first on Biblical Archaeology Society.",
       "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/daily-life-and-practice/christian-amulets-with-inscriptions/"
-    },
-    {
-      "category": "Theology",
-      "title": "The Cultural Myths That Fail Us",
-      "source": "The Gospel Coalition",
-      "date": "Fri, 31 Jul 2026 04:02:00 +0000",
-      "summary": "The Christian story offers a compelling alternative that completes and transforms the stories offered by the world.",
-      "url": "https://www.thegospelcoalition.org/podcasts/tgc-podcast/cultural-narratives-fail-us/"
-    },
-    {
-      "category": "Biblical Studies",
-      "title": "Did Camels Exist in Biblical Times?",
-      "source": "Biblical Archaeology Society",
-      "date": "Thu, 30 Jul 2026 11:00:12 +0000",
-      "summary": "Mark W. Chavalas explores the history of camel domestication in BAR.\nThe post Did Camels Exist in Biblical Times? appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-near-eastern-world/did-camels-exist-in-biblical-times/"
     },
     {
       "category": "History",
