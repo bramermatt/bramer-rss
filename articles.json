@@ -1,78 +1,158 @@
 {
-  "lastUpdated": "2026-08-03T12:51:28.982Z",
+  "lastUpdated": "2026-08-03T17:45:57.639Z",
   "articleCount": 39,
   "articles": [
     {
       "category": "Science",
-      "title": "Good things take time—but new research suggests mindfulness can make the wait easier",
+      "title": "Ten viral genome regions may explain why deadly chicken virus evades vaccines",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Mon, 03 Aug 2026 08:40:03 EDT",
-      "summary": "Ask someone if they'd rather take $5 today or $10 next week and they'll know which option is better.",
-      "url": "https://phys.org/news/2026-08-good-mindfulness-easier.html"
+      "date": "Mon, 03 Aug 2026 13:40:04 EDT",
+      "summary": "A highly contagious herpes virus causes Marek's disease, a deadly illness that mainly infects chickens. While it does not make people sick, the virus causes tumors and paralysis in chickens and, if unchecked, can spread rapidly through entire flocks.",
+      "url": "https://phys.org/news/2026-08-ten-viral-genome-regions-deadly.html"
     },
     {
       "category": "Science",
-      "title": "Most Americans prefer non-violent border enforcement, study finds",
+      "title": "Climate‑related 'silent adaptation' coping strategies are going beyond official directives",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Mon, 03 Aug 2026 08:20:04 EDT",
-      "summary": "Most Americans favor nonviolent measures, such as temporary barricades, over violent measures, like the use of rubber bullets, by border enforcement officers toward undocumented migrants on the southern border, a UCL-led study published in the journal Migration Studies has found.",
-      "url": "https://phys.org/news/2026-08-americans-violent-border.html"
+      "date": "Mon, 03 Aug 2026 13:40:01 EDT",
+      "summary": "Scientific reports, political directives and national plans follow one after another, urging regions to adapt to new climate realities. Yet one question remains: How do adaptation initiatives among local communities and businesses actually unfold on the ground? While announcements of public or government-backed projects or regulatory frameworks often take center stage, other, far more discreet grassroots forms of action or reorganization are at work, which can be grouped under the term \"silent adaptation.\"",
+      "url": "https://phys.org/news/2026-08-climaterelated-silent-coping-strategies.html"
     },
     {
       "category": "Science",
-      "title": "A 21-hour dip could help explain Tabby's star's decade-long dimming mystery",
+      "title": "HOAs are often barriers to sustainable landscaping and solar energy. Here's how they could be bridges instead",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Mon, 03 Aug 2026 08:00:05 EDT",
-      "summary": "Since 2016, an ordinary-looking F-type star called KIC 8462852, nicknamed Tabby's star, has behaved anything but ordinarily. In a new study published in the Monthly Notices of the Royal Astronomical Society on July 6, researchers revisited this star to find out what is really causing its irregular dimming.",
-      "url": "https://phys.org/news/2026-07-hour-dip-tabby-star-decade.html"
+      "date": "Mon, 03 Aug 2026 13:20:05 EDT",
+      "summary": "If you build a house in the United States today, there's a good chance you'll be living under the dictates of a neighborhood homeowners association—roughly two out of every three new homes are in an HOA, as are a third of existing homes.",
+      "url": "https://phys.org/news/2026-08-hoas-barriers-sustainable-landscaping-solar.html"
+    },
+    {
+      "category": "Space",
+      "title": "Guinea-Bissau Tidal Waters",
+      "source": "NASA",
+      "date": "Mon, 03 Aug 2026 17:15:39 +0000",
+      "summary": "Twice each day, tides ebb and flow through a maze of sandy channels, mudflats, and mangrove forests that flank the 88 islands and islets of Guinea-Bissau’s Bijagós Archipelago (Arquipélago dos Bijagós in Portuguese). Seen from above in this image from Nov. 28, 2025, the process leads to stark changes to the landscape: around low tide, intertidal mudflats and sandflats […]",
+      "url": "https://www.nasa.gov/image-article/guinea-bissau-tidal-waters/"
+    },
+    {
+      "category": "AI",
+      "title": "Ask HN: Claude multisession",
+      "source": "Hacker News: Front Page",
+      "date": "Mon, 03 Aug 2026 17:08:45 +0000",
+      "summary": "How you handle claude many sessions from terminal, sometimes i'm getting confused\nComments URL: https://news.ycombinator.com/item?id=49158580\nPoints: 5\n# Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=49158580"
+    },
+    {
+      "category": "AI",
+      "title": "Celebrating 45 Years of Kermit with the First New C-Kermit Release in 15 Years",
+      "source": "Hacker News: Front Page",
+      "date": "Mon, 03 Aug 2026 17:02:10 +0000",
+      "summary": "Article URL: https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase\nComments URL: https://news.ycombinator.com/item?id=49158474\nPoints: 13\n# Comments: 1",
+      "url": "https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase"
+    },
+    {
+      "category": "AI",
+      "title": "SearXNG in Rust",
+      "source": "Hacker News: Front Page",
+      "date": "Mon, 03 Aug 2026 16:41:40 +0000",
+      "summary": "Article URL: https://github.com/MikeLuu99/searxng-rust\nComments URL: https://news.ycombinator.com/item?id=49158141\nPoints: 4\n# Comments: 1",
+      "url": "https://github.com/MikeLuu99/searxng-rust"
+    },
+    {
+      "category": "Space",
+      "title": " 3 moons of Neptune may be remnants of ice worlds shattered in a catastrophic crash ",
+      "source": " Latest from Space.com ",
+      "date": "Mon, 03 Aug 2026 16:17:26 +0000",
+      "summary": "\"We've had only a single flyby — Voyager 2 in 1989 — and these results make clear there's much more to learn.\"",
+      "url": "https://www.space.com/astronomy/neptune/3-moons-of-neptune-may-be-remnants-of-ice-worlds-shattered-in-a-catastrophic-crash"
     },
     {
       "category": "Science",
-      "title": " Aspen trees provide a natural buffer against wildfires, even as fire season intensifies, study shows ",
+      "title": " Scientists uncover big clue as to how Antarctica's mysterious Blood Falls came to be ",
       "source": " Latest from Live Science ",
-      "date": "Mon, 03 Aug 2026 12:00:00 +0000",
-      "summary": "Buffers made of aspen trees could help protect communities from worsening wildfires.",
-      "url": "https://www.livescience.com/planet-earth/plants/aspens-can-make-natural-firebreaks-even-as-fire-season-gets-worse"
+      "date": "Mon, 03 Aug 2026 15:06:39 +0000",
+      "summary": "Brine that feeds the gruesome-looking Blood Falls in East Antarctica may have been emplaced when sea levels were higher than they are now, a new study says.",
+      "url": "https://www.livescience.com/planet-earth/antarctica/scientists-uncover-big-clue-as-to-how-antarcticas-mysterious-blood-falls-came-to-be"
+    },
+    {
+      "category": "AI",
+      "title": "SpaceX is set to acquire 130,000 acres of marshland in southern Louisiana",
+      "source": "Ars Technica - All content",
+      "date": "Mon, 03 Aug 2026 14:41:46 +0000",
+      "summary": "A Louisiana launch site would offer several significant advantages.",
+      "url": "https://arstechnica.com/space/2026/08/spacex-is-set-to-acquire-130000-acres-of-marshland-in-southern-louisiana/"
     },
     {
       "category": "Space",
-      "title": " Astronomers watch a black hole's feeding frenzy end with a bad case of cosmic indigestion ",
+      "title": " The 1st 'three-headed' asteroid | Space photo of the day for Aug. 3, 2026 ",
       "source": " Latest from Space.com ",
-      "date": "Mon, 03 Aug 2026 12:00:00 +0000",
-      "summary": "Astronomers have discovered that the feeding frenzy of a distant black hole ended with a windy outburst.",
-      "url": "https://www.space.com/astronomy/black-holes/astronomers-watch-a-black-holes-feeding-frenzy-end-with-a-bad-case-of-cosmic-indigestion"
+      "date": "Mon, 03 Aug 2026 14:20:32 +0000",
+      "summary": "New images reveal what astronomers believe is the first-known \"trilobate\" or three-headed asteroid in our solar system.",
+      "url": "https://www.space.com/astronomy/asteroids/the-1st-three-headed-asteroid-space-photo-of-the-day-for-aug-3-2026"
     },
     {
       "category": "Space",
-      "title": " Is the Nocs Provisions Lite View spotting scope a good alternative to a traditional telescope? ",
+      "title": "NASA Delivers Navigation System for Commercial Lunar Relay",
+      "source": "NASA",
+      "date": "Mon, 03 Aug 2026 14:20:26 +0000",
+      "summary": "NASA delivered the NavCube3-mini payload on July 13 to Intuitive Machines for integration into Altus-1, the company’s first lunar relay satellite, marking an important milestone in the development of future lunar communications and navigation services. The lunar relays are designed to enable communications and navigation for astronauts and rovers operating at the agency’s future Moon Base. About half the size of a shoebox and weighing just 3.5 pounds, NavCube3-mini is a compact but powerful navigation […]",
+      "url": "https://www.nasa.gov/technology/space-comms/nasa-delivers-navigation-system-for-commercial-lunar-relay/"
+    },
+    {
+      "category": "Science",
+      "title": " 'Poop pills' may ease insomnia by reprogramming the gut microbiome, early study hints ",
+      "source": " Latest from Live Science ",
+      "date": "Mon, 03 Aug 2026 14:10:00 +0000",
+      "summary": "Reprogramming the gut microbiome with fecal microbiota transplants could reduce the amount of time people with insomnia spend awake.",
+      "url": "https://www.livescience.com/health/sleep/poop-pills-may-ease-insomnia-by-reprogramming-the-gut-microbiome-early-study-hints"
+    },
+    {
+      "category": "Space",
+      "title": " On this day in space! Aug. 3, 2004: NASA launches MESSENGER spacecraft to orbit Mercury ",
       "source": " Latest from Space.com ",
-      "date": "Mon, 03 Aug 2026 12:00:00 +0000",
-      "summary": "A compact spotting scope delivering detailed views of the moon and bright star clusters.",
-      "url": "https://www.space.com/stargazing/skywatching-kit/is-the-nocs-provisions-lite-view-spotting-scope-a-good-alternative-to-a-traditional-telescope"
+      "date": "Mon, 03 Aug 2026 14:05:00 +0000",
+      "summary": "NASA's MESSENGER spacecraft aimed to orbit Mercury for the first time to hunt for clues of water on the tiny, innermost planet.",
+      "url": "https://www.space.com/space-exploration/on-this-day-in-space-august-3-2026"
+    },
+    {
+      "category": "Space",
+      "title": "Ike Theriot Helps Prepare Astronauts to Work on the Moon ",
+      "source": "NASA",
+      "date": "Mon, 03 Aug 2026 14:00:00 +0000",
+      "summary": "From serving in the U.S. Army to helping prepare astronauts to explore the lunar surface, Ike Theriot built a path to NASA through discipline and determination.  Theriot serves as the Flight Operations Surface Testing lead in the Exploration Extravehicular Activity Operations Branch within the EVA, Robotics, and Crew Operations Division at NASA’s Johnson Space Center in Houston. He integrates flight operations testing needs […]",
+      "url": "https://www.nasa.gov/centers-and-facilities/johnson/ike-theriot-helps-prepare-astronauts-to-work-on-the-moon/"
     },
     {
       "category": "AI",
-      "title": "The AI bubble is popping; we just don't know it yet",
-      "source": "Hacker News: Front Page",
-      "date": "Mon, 03 Aug 2026 11:59:10 +0000",
-      "summary": "Article URL: https://www.theregister.com/ai-and-ml/2026/08/03/the-ai-bubble-is-already-popping-we-just-dont-know-it-yet/5282004\nComments URL: https://news.ycombinator.com/item?id=49154601\nPoints: 35\n# Comments: 23",
-      "url": "https://www.theregister.com/ai-and-ml/2026/08/03/the-ai-bubble-is-already-popping-we-just-dont-know-it-yet/5282004"
+      "title": "Trump wants the power to stop the public from suing polluters",
+      "source": "Ars Technica - All content",
+      "date": "Mon, 03 Aug 2026 13:33:56 +0000",
+      "summary": "Trump's DOJ says citizens should no longer be able to enforce environmental laws.",
+      "url": "https://arstechnica.com/tech-policy/2026/08/trump-wants-the-power-to-stop-the-public-from-suing-polluters/"
     },
     {
-      "category": "AI",
-      "title": "Critical CVE issued for hallucinated SQLite vulnerability",
-      "source": "Hacker News: Front Page",
-      "date": "Mon, 03 Aug 2026 11:28:54 +0000",
-      "summary": "Article URL: https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/\nComments URL: https://news.ycombinator.com/item?id=49154332\nPoints: 156\n# Comments: 41",
-      "url": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/"
+      "category": "Science",
+      "title": "Ancient Arctic carbon is pouring into the sea, but the seabed captures most of it",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Mon, 03 Aug 2026 09:23:30 EDT",
+      "summary": "Thawing Arctic permafrost is releasing ancient carbon into the ocean, raising fears that microbes could turn it into greenhouse gases and accelerate climate change. But sediment cores collected near Canada’s Herschel Island reveal a more reassuring twist: most of this land-based carbon becomes buried in the seafloor, while only about 10 percent is converted into gases.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260802223424.htm"
     },
     {
-      "category": "AI",
-      "title": "9front \"This Was Supposed to Be Fun\" Released",
-      "source": "Hacker News: Front Page",
-      "date": "Mon, 03 Aug 2026 11:17:56 +0000",
-      "summary": "Article URL: https://9front.org/releases/2026/08/02/0/\nComments URL: https://news.ycombinator.com/item?id=49154249\nPoints: 24\n# Comments: 4",
-      "url": "https://9front.org/releases/2026/08/02/0/"
+      "category": "Science",
+      "title": " Ancient bullets reveal where a Roman camp hid in the Pyrenees of Spain before being ambushed ",
+      "source": " Latest from Live Science ",
+      "date": "Mon, 03 Aug 2026 13:00:00 +0000",
+      "summary": "Researchers found the remains of a Roman camp from 39 B.C. that was ambushed by locals in what's now Catalonia, Spain.",
+      "url": "https://www.livescience.com/archaeology/romans/ancient-bullets-reveal-where-a-roman-camp-hid-in-the-pyrenees-of-spain-before-being-ambushed"
+    },
+    {
+      "category": "Science",
+      "title": "Scientists may have found aging’s hidden trigger for brain disease",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Mon, 03 Aug 2026 07:17:07 EDT",
+      "summary": "Scientists have identified a molecular switch that may help explain why aging makes the brain more vulnerable to diseases such as ALS and Huntington’s. In worms, the protein EPS8 builds up with age and triggers signaling that encourages toxic proteins to clump together, damaging neurons and shortening lifespan. Reducing EPS8 activity prevented these harmful aggregates and preserved nerve function.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260802223433.htm"
     },
     {
       "category": "AI",
@@ -81,14 +161,6 @@
       "date": "Mon, 03 Aug 2026 11:00:11 +0000",
       "summary": "Automotive lights are better than they've ever been, but there's a trade-off.",
       "url": "https://arstechnica.com/cars/2026/08/how-headlights-got-brighter-whiter-and-more-blinding-after-dark/"
-    },
-    {
-      "category": "Science",
-      "title": " Did fungi give mammals an evolutionary edge after the dinosaur-killing asteroid hit? New evidence revives a provocative hypothesis ",
-      "source": " Latest from Live Science ",
-      "date": "Mon, 03 Aug 2026 11:00:00 +0000",
-      "summary": "A revived hypothesis argues that a fungus-filled world after the Chicxulub asteroid impact may have given mammals an evolutionary edge. The idea could reshape how scientists think about mass extinctions, but it is still controversial.",
-      "url": "https://www.livescience.com/animals/dinosaurs/did-fungi-give-mammals-an-evolutionary-edge-after-the-dinosaur-killing-asteroid-hit-new-evidence-revives-a-provocative-hypothesis"
     },
     {
       "category": "Biblical Studies",
@@ -100,27 +172,19 @@
     },
     {
       "category": "Science",
-      "title": " Rock crystal scraper: 45,000-year-old Neanderthal tool that shows they had an 'eye for beauty of form and color' ",
-      "source": " Latest from Live Science ",
-      "date": "Mon, 03 Aug 2026 10:00:00 +0000",
-      "summary": "A chance find of rare rock crystal tools a century ago paved the way for a better understanding of Neanderthals today.",
-      "url": "https://www.livescience.com/archaeology/neanderthals/rock-crystal-scraper-45-000-year-old-neanderthal-tool-that-shows-they-had-an-eye-for-beauty-of-form-and-color"
+      "title": "Two new compounds could reveal hidden drivers of Alzheimer’s disease",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Mon, 03 Aug 2026 06:20:53 EDT",
+      "summary": "Vanderbilt researchers created the first selective compound designed to inhibit TAOK-1, a poorly understood protein connected to Alzheimer’s disease. They also discovered a second compound that activates the entire TAOK protein family, offering scientists an unexpected new research tool. Together, the compounds could reveal hidden disease mechanisms and point toward new treatment strategies.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260802223437.htm"
     },
     {
-      "category": "Space",
-      "title": " AI is ready to run spacecraft. Is the space industry ready for it? (op-ed) ",
-      "source": " Latest from Space.com ",
-      "date": "Mon, 03 Aug 2026 10:00:00 +0000",
-      "summary": "Satellite constellations are getting bigger and increasingly difficult for human operators to manage. Artificial intelligence will soon be able to help, but will the space industry let it happen?",
-      "url": "https://www.space.com/space-exploration/satellites/ai-is-ready-to-run-spacecraft-is-the-space-industry-ready-for-it"
-    },
-    {
-      "category": "Space",
-      "title": "APOD: 2026 August 3 – Vaporizing Meteor Photobombs the Lacerta Nebula",
-      "source": "NASA",
-      "date": "Mon, 03 Aug 2026 04:05:00 +0000",
-      "summary": "APOD Science APOD APOD: 2026 August 3 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Vaporizing Meteor Photobombs […]",
-      "url": "https://science.nasa.gov/image-article/apod-2026-august-3-vaporizing-meteor-photobombs-the-lacerta-nebula/"
+      "category": "Biblical Studies",
+      "title": "Carved Ivory Emerges from Biblical Jerusalem",
+      "source": "Biblical Archaeology Society",
+      "date": "Mon, 03 Aug 2026 10:00:19 +0000",
+      "summary": "Compared to surrounding regions, ancient Judah has revealed relatively few human figurines. That does not mean, however, that such figurines were unknown to the land. […]\nThe post Carved Ivory Emerges from Biblical Jerusalem appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-israel/carved-ivory-emerges-from-biblical-jerusalem/"
     },
     {
       "category": "Theology",
@@ -139,28 +203,12 @@
       "url": "https://www.thegospelcoalition.org/article/spurgeon-scandal-failure/"
     },
     {
-      "category": "Science",
-      "title": "Dark matter’s secret force does the opposite of what scientists expected",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Sun, 02 Aug 2026 09:26:11 EDT",
-      "summary": "Dark matter particles may exert a hidden force on one another, but its effects are stranger than expected. An extra attraction helps the particles cluster, yet it also makes dark matter effectively lighter as the Universe expands. That weakens its gravitational impact and usually slows the growth of cosmic structure rather than accelerating it.",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260801042822.htm"
-    },
-    {
-      "category": "Science",
-      "title": "Mathematicians prove perfectly fair elections are impossible",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Sun, 02 Aug 2026 09:10:21 EDT",
-      "summary": "Mathematicians have shown that no electoral system can perfectly balance local representation, proportional national results, and a fixed-size parliament once enough parties compete. A newly proposed voting method could soften these unavoidable trade-offs and produce outcomes that are much closer to fair.",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260801042812.htm"
-    },
-    {
-      "category": "Space",
-      "title": "APOD: 2026 August 2 – A Fire Rainbow over West Virginia",
-      "source": "NASA",
-      "date": "Sun, 02 Aug 2026 04:05:00 +0000",
-      "summary": "APOD Science APOD APOD: 2026 August 2 – A Fire… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. A […]",
-      "url": "https://science.nasa.gov/image-article/apod-2026-august-2-a-fire-rainbow-over-west-virginia/"
+      "category": "Biblical Studies",
+      "title": "High Places, Altars and the Bamah",
+      "source": "Biblical Archaeology Society",
+      "date": "Sun, 02 Aug 2026 11:00:41 +0000",
+      "summary": "The open-air altar shrine, called a bamah (plural bamot), is known through several books of the Biblical canon. Often referred to as “high places” in translations of the Bible, bamot were worship sites that usually contained an altar.\nThe post High Places, Altars and the Bamah appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-israel/high-places-altars-and-the-bamah/"
     },
     {
       "category": "Theology",
@@ -172,38 +220,6 @@
     },
     {
       "category": "AI",
-      "title": "Here's how engineers plan to save the satellite sent to save NASA's Swift mission",
-      "source": "Ars Technica - All content",
-      "date": "Sat, 01 Aug 2026 18:20:11 +0000",
-      "summary": "\"We believe that a capture of Swift, an attempted capture of Swift, is very much in the cards.\"",
-      "url": "https://arstechnica.com/space/2026/08/heres-how-engineers-plan-to-save-the-satellite-sent-to-save-nasas-swift-mission/"
-    },
-    {
-      "category": "AI",
-      "title": "Review: Yes, we're still arguing about Nolan's The Odyssey",
-      "source": "Ars Technica - All content",
-      "date": "Sat, 01 Aug 2026 15:19:04 +0000",
-      "summary": "Christopher Nolan's impressionistic remix of Homer's epic poem finds the man behind the myth.",
-      "url": "https://arstechnica.com/culture/2026/08/review-yes-were-still-arguing-about-nolans-the-odyssey/"
-    },
-    {
-      "category": "Science",
-      "title": "Scientists detect a sharp acceleration in global warming",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Sat, 01 Aug 2026 09:32:39 EDT",
-      "summary": "Global warming appears to have shifted into a faster gear. After removing the effects of El Niño, volcanic eruptions, and solar cycles, researchers found that the planet has warmed at roughly 0.35°C per decade over the past ten years, compared with just under 0.2°C per decade from 1970 to 2015. The acceleration, which becomes visible around 2013 to 2015, appeared across five major global temperature datasets with more than 98% statistical certainty.",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260801093239.htm"
-    },
-    {
-      "category": "Space",
-      "title": "APOD: 2026 August 1 – Buck Moon and Belt of Venus",
-      "source": "NASA",
-      "date": "Sat, 01 Aug 2026 04:05:00 +0000",
-      "summary": "APOD Science APOD APOD: 2026 August 1 – Buck… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Buck Moon […]",
-      "url": "https://science.nasa.gov/image-article/apod/apod-2026-august-1-buck-moon-and-belt-of-venus/"
-    },
-    {
-      "category": "AI",
       "title": "Ten advances in mathematics and theoretical computer science",
       "source": "OpenAI News",
       "date": "Sat, 01 Aug 2026 00:00:00 GMT",
@@ -212,10 +228,10 @@
     },
     {
       "category": "Theology",
-      "title": "Kingdom of Priests: Melchizedek, Church Membership, and Understanding Your Place in God’s Story",
+      "title": "Kingdom of Priests: Melchizedek, Church Membership and Understanding Your Place in God’s Story",
       "source": "9Marks",
       "date": "Fri, 31 Jul 2026 22:04:52 +0000",
-      "summary": "When Peter refers to us as a royal priesthood, he’s speaking corporately. The church is a royal priesthood.\nThe post Kingdom of Priests: Melchizedek, Church Membership, and Understanding Your Place in God’s Story appeared first on 9Marks.",
+      "summary": "When Peter refers to us as a royal priesthood, he’s speaking corporately. The church is a royal priesthood.\nThe post Kingdom of Priests: Melchizedek, Church Membership and Understanding Your Place in God’s Story appeared first on 9Marks.",
       "url": "https://www.9marks.org/article/melchizedek-church-membership-and-understanding-your-place-in-gods-story/?utm_source=rss&utm_medium=rss&utm_campaign=melchizedek-church-membership-and-understanding-your-place-in-gods-story"
     },
     {
@@ -233,22 +249,6 @@
       "date": "Fri, 31 Jul 2026 15:00:00 GMT",
       "summary": "A full-stack approach to making advanced AI more capable, more affordable, and more widely useful.",
       "url": "https://openai.com/index/building-abundant-intelligence"
-    },
-    {
-      "category": "Biblical Studies",
-      "title": "Rare Judean Pillar Figurine Discovery from Jerusalem",
-      "source": "Biblical Archaeology Society",
-      "date": "Fri, 31 Jul 2026 10:45:40 +0000",
-      "summary": "A remarkable discovery in Jerusalem sheds new light on one of the most enigmatic artifact types from Iron Age Judah: the Judean Pillar Figurine. These […]\nThe post Rare Judean Pillar Figurine Discovery from Jerusalem appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/daily/biblical-artifacts/artifacts-and-the-bible/judean-pillar-figurine-jerusalem/"
-    },
-    {
-      "category": "Biblical Studies",
-      "title": "Christian Amulets with Inscriptions",
-      "source": "Biblical Archaeology Society",
-      "date": "Fri, 31 Jul 2026 10:00:04 +0000",
-      "summary": "“Have you fallen into a severe sickness, and do many come … with charms, some with amulets … to remedy the evil?” With these words, […]\nThe post Christian Amulets with Inscriptions appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/daily-life-and-practice/christian-amulets-with-inscriptions/"
     },
     {
       "category": "History",
