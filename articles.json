@@ -1,70 +1,134 @@
 {
-  "lastUpdated": "2026-08-03T22:54:22.418Z",
+  "lastUpdated": "2026-08-04T11:58:23.104Z",
   "articleCount": 36,
   "articles": [
     {
       "category": "Science",
-      "title": "Bringing it all into focus—computational microscope captures 25.2 billion pixels per second across a wide field of view",
+      "title": "Study offers new clues to a long-standing mystery about bonnethead sharks",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Mon, 03 Aug 2026 18:40:01 EDT",
-      "summary": "When designing microscopes, optical engineers have long faced a trade-off between speed, field of view and resolution. But improving one of these properties typically comes at the expense of another. Now, a UC Berkeley–led team of researchers has found a way to address this challenge, opening the door to new possibilities in the field of microscopy.",
-      "url": "https://phys.org/news/2026-08-focus-microscope-captures-billion-pixels.html"
+      "date": "Tue, 04 Aug 2026 07:40:03 EDT",
+      "summary": "A new study of bonnethead sharks (Sphyrna tiburo) in Florida dispelled a previous hypothesis about how the distinctive head shapes of males and females develop, offering new insight into one of the species' most unusual biological traits.",
+      "url": "https://phys.org/news/2026-08-clues-mystery-bonnethead-sharks.html"
     },
     {
       "category": "Science",
-      "title": "Discarded rice husks capture toxic dyes, offering a reusable water filter",
+      "title": "Research finds rhetoric around #MeToo often focused on punishment, not causes of violence",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Mon, 03 Aug 2026 18:20:02 EDT",
-      "summary": "Rice is the most-eaten food on the planet, and its discarded outer husk results in some 300 billion pounds of waste per year. FIU chemistry researcher Islam Ibrahim Hussein says the inedible castoffs could be the key to cleaner water.",
-      "url": "https://phys.org/news/2026-08-discarded-rice-husks-capture-toxic.html"
-    },
-    {
-      "category": "AI",
-      "title": "Windows XP 2002 for the Itanium: Unbridled rage",
-      "source": "Hacker News: Front Page",
-      "date": "Mon, 03 Aug 2026 22:04:49 +0000",
-      "summary": "Article URL: https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/\nComments URL: https://news.ycombinator.com/item?id=49162086\nPoints: 6\n# Comments: 0",
-      "url": "https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/"
+      "date": "Tue, 04 Aug 2026 07:20:03 EDT",
+      "summary": "The #MeToo movement began as a way for victims of gender-based violence to find solidarity, share their experiences and bring justice to perpetrators of misconduct. New research from the University of Kansas shows that conversations about #MeToo often become focused on punishment and forced poverty as justice for crimes instead of examining why gender-based violence happens and is prevalent in society.",
+      "url": "https://phys.org/news/2026-08-rhetoric-metoo-focused-violence.html"
     },
     {
       "category": "Science",
-      "title": "AI models atom movement to predict solid-state reaction pathways, including impurities, in minutes",
+      "title": "Aquarium sends shark eggs to bolster wild populations",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Mon, 03 Aug 2026 18:00:06 EDT",
-      "summary": "A research team at the Department of Energy's Lawrence Berkeley National Laboratory (Berkeley Lab) has successfully demonstrated an AI modeling approach that accurately and rapidly predicts how reactions between solid materials unfold over time. It is the first predictive model that accounts for how atoms travel through materials during solid-state reactions. Importantly, its predictions provide practical insights into the best recipes for making advanced materials.",
-      "url": "https://phys.org/news/2026-08-ai-atom-movement-solid-state.html"
-    },
-    {
-      "category": "Space",
-      "title": " CNN dives into how Elon Musk and Jeff Bezos are backing NASA's race to the moon against China (exclusive clip) ",
-      "source": " Latest from Space.com ",
-      "date": "Mon, 03 Aug 2026 22:00:00 +0000",
-      "summary": "\"Eclipsing Power\" is a new FlashDocs special highlighting how billionaires like Elon Musk and Jeff Bezos are shaping the global space race.",
-      "url": "https://www.space.com/entertainment/cnn-dives-into-how-elon-musk-and-jeff-bezos-are-backing-nasas-race-to-the-moon-against-china-exclusive-clip"
+      "date": "Tue, 04 Aug 2026 07:00:03 EDT",
+      "summary": "Shedd Aquarium has sent four zebra shark eggs to contribute to a conservation effort for the endangered species, marking the Chicago nonprofit's first delivery to Raja Ampat, Indonesia. As a founding partner of ReShark, Shedd Aquarium has long contributed expertise to the StAR Project (Stegostoma tigrinum Augmentation and Recovery)—ReShark's pioneering zebra shark, or Indo-Pacific Leopard Shark, recovery initiative.",
+      "url": "https://phys.org/news/2026-08-aquarium-shark-eggs-bolster-wild.html"
     },
     {
       "category": "AI",
-      "title": "ZX Spectrum System Tour: Text Mode – Bumbershoot Software",
+      "title": "U.S. used 'virtually all' of its long-range precision missiles during Iran war",
       "source": "Hacker News: Front Page",
-      "date": "Mon, 03 Aug 2026 21:39:12 +0000",
-      "summary": "Article URL: https://bumbershootsoft.wordpress.com/2026/05/30/zx-spectrum-system-tour-text-mode/\nComments URL: https://news.ycombinator.com/item?id=49161801\nPoints: 5\n# Comments: 0",
-      "url": "https://bumbershootsoft.wordpress.com/2026/05/30/zx-spectrum-system-tour-text-mode/"
+      "date": "Tue, 04 Aug 2026 10:59:08 +0000",
+      "summary": "Article URL: https://www.cnbc.com/2026/08/04/us-has-used-virtually-all-of-its-long-range-precision-missiles-report.html\nComments URL: https://news.ycombinator.com/item?id=49166860\nPoints: 80\n# Comments: 61",
+      "url": "https://www.cnbc.com/2026/08/04/us-has-used-virtually-all-of-its-long-range-precision-missiles-report.html"
     },
     {
       "category": "AI",
-      "title": "LLMs reward expertise",
+      "title": "Mini retirements: like a sabbatical, but much smaller",
       "source": "Hacker News: Front Page",
-      "date": "Mon, 03 Aug 2026 21:13:53 +0000",
-      "summary": "Article URL: https://www.seangoedecke.com/llms-reward-expertise/\nComments URL: https://news.ycombinator.com/item?id=49161518\nPoints: 193\n# Comments: 78",
-      "url": "https://www.seangoedecke.com/llms-reward-expertise/"
+      "date": "Tue, 04 Aug 2026 10:46:04 +0000",
+      "summary": "Article URL: https://www.ssp.sh/brain/mini-retirements/\nComments URL: https://news.ycombinator.com/item?id=49166749\nPoints: 4\n# Comments: 0",
+      "url": "https://www.ssp.sh/brain/mini-retirements/"
+    },
+    {
+      "category": "Science",
+      "title": " World's highest frozen lake shatters along disputed border between China and India ‪—‬ Earth from space ",
+      "source": " Latest from Live Science ",
+      "date": "Tue, 04 Aug 2026 10:39:04 +0000",
+      "summary": "A 2024 astronaut photo shows the icy surface of Pangong Lake breaking apart in the lofty Tibetan Plateau. The point where the ice meets the water almost perfectly matches a disputed border between China and India.",
+      "url": "https://www.livescience.com/planet-earth/worlds-highest-frozen-lake-shatters-along-disputed-border-between-china-and-india-earth-from-space"
+    },
+    {
+      "category": "AI",
+      "title": "Ray Bradbury's \"There Will Come Soft Rains\" is set today (2026-08-04)",
+      "source": "Hacker News: Front Page",
+      "date": "Tue, 04 Aug 2026 10:13:13 +0000",
+      "summary": "Article URL: https://short-stories.co/@raybradbury/there-will-come-soft-rains-6k8vr4xxlnmj\nComments URL: https://news.ycombinator.com/item?id=49166491\nPoints: 3\n# Comments: 0",
+      "url": "https://short-stories.co/@raybradbury/there-will-come-soft-rains-6k8vr4xxlnmj"
     },
     {
       "category": "Space",
-      "title": " A SpaceX rocket will crash into the moon this week. Why is it on a collision course? ",
+      "title": " Are aliens running out of places to hide? It turns out we've searched much more of the galaxy than we realized ",
       "source": " Latest from Space.com ",
-      "date": "Mon, 03 Aug 2026 21:00:00 +0000",
-      "summary": "The upper stage of a SpaceX Falcon 9 rocket will slam into the moon early Wednesday morning (Aug. 5). Here's what put it on this kamikaze course.",
-      "url": "https://www.space.com/astronomy/moon/a-spacex-rocket-will-crash-into-the-moon-this-week-why-is-it-on-a-collision-course"
+      "date": "Tue, 04 Aug 2026 10:00:00 +0000",
+      "summary": "Astronomers may have already scanned millions of more stars than they thought, a realization that might lead to new ways to hunt for extraterrestrial radio signals.",
+      "url": "https://www.space.com/space-exploration/search-for-life/are-aliens-running-out-of-places-to-hide-it-turns-out-weve-searched-much-more-of-the-galaxy-than-we-realized"
+    },
+    {
+      "category": "Science",
+      "title": " 'Even when knowledge improves, emotional anxiety does not easily disappear': Pediatrician Dr. Masahiko Sakamoto on educating parents about childhood illnesses ",
+      "source": " Latest from Live Science ",
+      "date": "Tue, 04 Aug 2026 09:00:00 +0000",
+      "summary": "Parents may struggle to learn all there is to know about children's health. A pediatrician in Saku, Japan, has made it his mission to help.",
+      "url": "https://www.livescience.com/health/medicine-drugs/even-when-knowledge-improves-emotional-anxiety-does-not-easily-disappear-pediatrician-dr-masahiko-sakamoto-on-educating-parents-about-childhood-illnesses"
+    },
+    {
+      "category": "Space",
+      "title": " I bought a $50 telescope on Facebook Marketplace — here's what I learned ",
+      "source": " Latest from Space.com ",
+      "date": "Tue, 04 Aug 2026 09:00:00 +0000",
+      "summary": "I bought a $50 telescope from Facebook Marketplace",
+      "url": "https://www.space.com/stargazing/skywatching-kit/i-bought-a-50-dollar-telescope-on-facebook-marketplace-heres-what-i-learned"
+    },
+    {
+      "category": "Space",
+      "title": " This Sky-Watcher is an ideal beginner telescope for solar observing ",
+      "source": " Latest from Space.com ",
+      "date": "Tue, 04 Aug 2026 07:00:00 +0000",
+      "summary": "The Sky-Watcher Heliostar 76mm H-alpha is a portable beginner's solar telescope that is easy to use and offers dramatic views of the turbulent surface of the sun.",
+      "url": "https://www.space.com/stargazing/skywatching-kit/sky-watcher-heliostar-76mm-h-alpha-solar-telescope-review"
+    },
+    {
+      "category": "Theology",
+      "title": "Sleep Is More than Rest—It’s a Lesson in Grace",
+      "source": "The Gospel Coalition",
+      "date": "Tue, 04 Aug 2026 04:02:00 +0000",
+      "summary": "‘The Wisdom of Sleep’ reminds us that rest—whether waking or sleeping—is an act of worship.",
+      "url": "https://www.thegospelcoalition.org/reviews/wisdom-sleep-rest/"
+    },
+    {
+      "category": "Theology",
+      "title": "‘The Odyssey’: Homer’s Story of Glory and Misery",
+      "source": "The Gospel Coalition",
+      "date": "Tue, 04 Aug 2026 04:00:00 +0000",
+      "summary": "In ‘The Odyssey,’ Homer’s vision of the good life falls short of the glory God has designed humans for. So does Nolan’s.",
+      "url": "https://www.thegospelcoalition.org/article/odyssey-story-glory-misery/"
+    },
+    {
+      "category": "Science",
+      "title": "Your brain may be wired to regain lost weight",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Mon, 03 Aug 2026 23:38:28 EDT",
+      "summary": "Weight loss is not simply a test of willpower. The human brain evolved to protect body fat during times of scarcity, and it can treat a previously higher weight as the new normal, triggering stronger hunger, cravings, and lower energy use after weight loss. This biological “memory” helps explain why many people regain weight after dieting and why medications such as Wegovy and Mounjaro can help by reducing appetite signals, although their effects may fade when treatment ends.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260803080902.htm"
+    },
+    {
+      "category": "AI",
+      "title": "US company’s AI lets Ukraine’s cheap kamikaze drones track targets on their own",
+      "source": "Ars Technica - All content",
+      "date": "Mon, 03 Aug 2026 22:11:39 +0000",
+      "summary": "$100 million deal gives 50,000 Ukrainian drones US-developed AI capabilities.",
+      "url": "https://arstechnica.com/ai/2026/08/ukraines-drones-get-ai-upgrades-for-kamikaze-strikes-future-swarm-attacks/"
+    },
+    {
+      "category": "AI",
+      "title": "Apple is getting this wrong",
+      "source": "OpenAI News",
+      "date": "Mon, 03 Aug 2026 22:00:00 GMT",
+      "summary": "OpenAI addresses Apple’s baseless lawsuit, corrects claims about its employees, and shares messages documenting what happened.",
+      "url": "https://openai.com/index/apple-is-getting-this-wrong"
     },
     {
       "category": "History",
@@ -83,14 +147,6 @@
       "url": "https://arstechnica.com/science/2026/08/research-roundup-6-cool-science-stories-we-almost-missed-5/"
     },
     {
-      "category": "Space",
-      "title": " Jack in for a cyberpunk jolt with this energized first trailer for Apple TV's 'Neuromancer' ",
-      "source": " Latest from Space.com ",
-      "date": "Mon, 03 Aug 2026 20:00:00 +0000",
-      "summary": "William Gibson's influential 1984 sci-fi novel finally scores a proper adaptation.",
-      "url": "https://www.space.com/entertainment/jack-in-for-a-cyberpunk-jolt-with-this-energized-first-trailer-for-apple-tvs-neuromancer"
-    },
-    {
       "category": "AI",
       "title": "Lego deploys Hubble Space Telescope as detailed desktop model",
       "source": "Ars Technica - All content",
@@ -105,38 +161,6 @@
       "date": "Mon, 03 Aug 2026 19:10:19 +0000",
       "summary": "Two people in Michigan have died due to Cyclospora infections, the state health department reported.",
       "url": "https://www.livescience.com/health/viruses-infections-disease/2-people-die-of-cyclospora-infection-in-michigan"
-    },
-    {
-      "category": "AI",
-      "title": "An AI-supervised remote exam went so badly that 58,000 students must retake it",
-      "source": "Ars Technica - All content",
-      "date": "Mon, 03 Aug 2026 19:00:50 +0000",
-      "summary": "Top scores increased by 5x.",
-      "url": "https://arstechnica.com/culture/2026/08/an-ai-supervised-remote-exam-went-so-badly-that-58000-students-must-retake-it/"
-    },
-    {
-      "category": "Science",
-      "title": " Scientists uncover big clue as to how Antarctica's mysterious Blood Falls came to be ",
-      "source": " Latest from Live Science ",
-      "date": "Mon, 03 Aug 2026 15:06:39 +0000",
-      "summary": "Brine that feeds the gruesome-looking Blood Falls in East Antarctica may have been emplaced when sea levels were higher than they are now, a new study says.",
-      "url": "https://www.livescience.com/planet-earth/antarctica/scientists-uncover-big-clue-as-to-how-antarcticas-mysterious-blood-falls-came-to-be"
-    },
-    {
-      "category": "Science",
-      "title": " 'Poop pills' may ease insomnia by reprogramming the gut microbiome, early study hints ",
-      "source": " Latest from Live Science ",
-      "date": "Mon, 03 Aug 2026 14:10:00 +0000",
-      "summary": "Reprogramming the gut microbiome with fecal microbiota transplants could reduce the amount of time people with insomnia spend awake.",
-      "url": "https://www.livescience.com/health/sleep/poop-pills-may-ease-insomnia-by-reprogramming-the-gut-microbiome-early-study-hints"
-    },
-    {
-      "category": "Science",
-      "title": "Ancient Arctic carbon is pouring into the sea, but the seabed captures most of it",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Mon, 03 Aug 2026 09:23:30 EDT",
-      "summary": "Thawing Arctic permafrost is releasing ancient carbon into the ocean, raising fears that microbes could turn it into greenhouse gases and accelerate climate change. But sediment cores collected near Canada’s Herschel Island reveal a more reassuring twist: most of this land-based carbon becomes buried in the seafloor, while only about 10 percent is converted into gases.",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260802223424.htm"
     },
     {
       "category": "Science",
@@ -187,12 +211,12 @@
       "url": "https://www.thegospelcoalition.org/podcasts/silicon-spiritualities/ai-art-creativity/"
     },
     {
-      "category": "Theology",
-      "title": "What the Spurgeon Family Scandal Teaches Us About Failure",
-      "source": "The Gospel Coalition",
-      "date": "Mon, 03 Aug 2026 04:00:00 +0000",
-      "summary": "The Spurgeon family scandal reminds us that even extraordinarily impressive ministries like Charles Spurgeon’s can have grubby, messy roots.",
-      "url": "https://www.thegospelcoalition.org/article/spurgeon-scandal-failure/"
+      "category": "AI",
+      "title": "Circles powers telco personalization with OpenAI technology",
+      "source": "OpenAI News",
+      "date": "Mon, 03 Aug 2026 00:00:00 GMT",
+      "summary": "Circles uses the OpenAI API and Codex to power AI-native telco experiences, increasing ARPU by 22%, reducing churn by 9%, and improving development efficiency.",
+      "url": "https://openai.com/index/circles"
     },
     {
       "category": "Biblical Studies",
@@ -204,35 +228,11 @@
     },
     {
       "category": "Theology",
-      "title": "Struggle Against Sin Doesn’t Signal Defeat",
-      "source": "The Gospel Coalition",
-      "date": "Sun, 02 Aug 2026 04:00:00 +0000",
-      "summary": "God’s sanctifying work in our lives includes the violence of warfare against sin.",
-      "url": "https://www.thegospelcoalition.org/article/struggle-sin-defeat/"
-    },
-    {
-      "category": "AI",
-      "title": "Ten advances in mathematics and theoretical computer science",
-      "source": "OpenAI News",
-      "date": "Sat, 01 Aug 2026 00:00:00 GMT",
-      "summary": "OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.",
-      "url": "https://openai.com/index/ten-advances-in-mathematics"
-    },
-    {
-      "category": "Theology",
       "title": "Kingdom of Priests: Melchizedek, Church Membership and Understanding Your Place in God’s Story",
       "source": "9Marks",
       "date": "Fri, 31 Jul 2026 22:04:52 +0000",
       "summary": "When Peter refers to us as a royal priesthood, he’s speaking corporately. The church is a royal priesthood.\nThe post Kingdom of Priests: Melchizedek, Church Membership and Understanding Your Place in God’s Story appeared first on 9Marks.",
       "url": "https://www.9marks.org/article/melchizedek-church-membership-and-understanding-your-place-in-gods-story/?utm_source=rss&utm_medium=rss&utm_campaign=melchizedek-church-membership-and-understanding-your-place-in-gods-story"
-    },
-    {
-      "category": "AI",
-      "title": "Advancing responsible AI across Europe",
-      "source": "OpenAI News",
-      "date": "Fri, 31 Jul 2026 15:00:00 GMT",
-      "summary": "OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as the EU AI Act advances.",
-      "url": "https://openai.com/index/advancing-responsible-ai-across-europe"
     },
     {
       "category": "History",
