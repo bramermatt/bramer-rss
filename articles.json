@@ -1,62 +1,110 @@
 {
-  "lastUpdated": "2026-08-04T22:55:31.400Z",
-  "articleCount": 36,
+  "lastUpdated": "2026-08-05T11:52:24.594Z",
+  "articleCount": 39,
   "articles": [
     {
       "category": "Science",
-      "title": "New catalyst design selectively suppresses competing hydrogen reaction in ammonia synthesis",
+      "title": "Drought-hardy ryegrass raises new weed management challenge",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Tue, 04 Aug 2026 18:40:03 EDT",
-      "summary": "A research team led by professor Yousung Jung from the Department of Chemical and Biological Engineering at Seoul National University College of Engineering has developed a new catalyst design principle that suppresses the hydrogen evolution reaction, which interferes with ammonia production, while maintaining the nitrogen reduction reaction that produces ammonia.",
-      "url": "https://phys.org/news/2026-08-catalyst-suppresses-hydrogen-reaction-ammonia.html"
-    },
-    {
-      "category": "Science",
-      "title": "Better call mom: Schools still see mothers as the default parent to contact",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Tue, 04 Aug 2026 18:40:01 EDT",
-      "summary": "The start of the school year brings a familiar list of responsibilities for parents: buying school supplies, keeping track of forms, coordinating transportation and responding to a steady stream of emails from teachers and administrators.",
-      "url": "https://phys.org/news/2026-08-mom-schools-mothers-default-parent.html"
-    },
-    {
-      "category": "Science",
-      "title": "How a unique environment sets Australian chocolate apart",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Tue, 04 Aug 2026 18:30:06 EDT",
-      "summary": "University of Queensland research has shown microbes could give Australian-grown chocolate an edge in the global market. Working with growers in Far North Queensland, scientists found the cocoa fermentation process may have a bigger influence on the flavor of chocolate than the cocoa tree itself.",
-      "url": "https://phys.org/news/2026-08-unique-environment-australian-chocolate.html"
+      "date": "Wed, 05 Aug 2026 07:20:04 EDT",
+      "summary": "A study by La Trobe University researchers has found annual ryegrass, the most damaging weed in Australian grain systems, can adjust its growth and reproduction to survive under drought stress, making it potentially harder to manage as climate conditions become more variable.",
+      "url": "https://phys.org/news/2026-08-drought-hardy-ryegrass-weed.html"
     },
     {
       "category": "AI",
-      "title": "DuckDB – Data power tools for your laptop, now in Clojure (2023)",
+      "title": "Civilian plane crash in New Mexico tied to military GPS blocking",
       "source": "Hacker News: Front Page",
-      "date": "Tue, 04 Aug 2026 22:09:43 +0000",
-      "summary": "Article URL: https://techascent.com/blog/just-ducking-around.html\nComments URL: https://news.ycombinator.com/item?id=49175924\nPoints: 3\n# Comments: 0",
-      "url": "https://techascent.com/blog/just-ducking-around.html"
+      "date": "Wed, 05 Aug 2026 11:03:13 +0000",
+      "summary": "Article URL: https://www.wired.com/story/a-civilian-plane-crashed-in-new-mexico-was-the-militarys-tech-to-blame/\nComments URL: https://news.ycombinator.com/item?id=49181099\nPoints: 31\n# Comments: 4",
+      "url": "https://www.wired.com/story/a-civilian-plane-crashed-in-new-mexico-was-the-militarys-tech-to-blame/"
+    },
+    {
+      "category": "Science",
+      "title": "Study probes Malaysia's corporate bond strategy: Offering Islamic bonds expanded corporate financing access",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Wed, 05 Aug 2026 07:00:04 EDT",
+      "summary": "In the late 1990s, Malaysia created a new way for corporations to raise money by issuing bonds that comply with Islamic law, which prohibits the payment or collection of interest.",
+      "url": "https://phys.org/news/2026-08-probes-malaysia-corporate-bond-strategy.html"
+    },
+    {
+      "category": "Science",
+      "title": "Total eclipse gives scientists chance to probe sun's mysteries",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Wed, 05 Aug 2026 07:00:02 EDT",
+      "summary": "Scientists plan to use a total solar eclipse that will be visible in Spain next week as a rare chance to learn more about the stormy, unpredictable nature of our star.",
+      "url": "https://phys.org/news/2026-08-total-eclipse-scientists-chance-probe.html"
+    },
+    {
+      "category": "Biblical Studies",
+      "title": "Mysterious Mercenaries",
+      "source": "Biblical Archaeology Society",
+      "date": "Wed, 05 Aug 2026 10:45:15 +0000",
+      "summary": "The biblical King David, before he became leader of the Israelites, was a mercenary who sold his services to the Philistine king of Gath. This […]\nThe post Mysterious Mercenaries appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/mysterious-mercenaries/"
     },
     {
       "category": "AI",
-      "title": "AI fuels more than half of cybercrime in Africa as digital scams surge: INTERPOL",
+      "title": "No Data Centers in My Backyard",
       "source": "Hacker News: Front Page",
-      "date": "Tue, 04 Aug 2026 22:01:41 +0000",
-      "summary": "Article URL: https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol/\nComments URL: https://news.ycombinator.com/item?id=49175826\nPoints: 26\n# Comments: 9",
-      "url": "https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol/"
+      "date": "Wed, 05 Aug 2026 10:38:57 +0000",
+      "summary": "Article URL: https://jasmi.news/p/no-data-centers-in-my-backyard\nComments URL: https://news.ycombinator.com/item?id=49180901\nPoints: 28\n# Comments: 37",
+      "url": "https://jasmi.news/p/no-data-centers-in-my-backyard"
     },
     {
       "category": "Space",
-      "title": " Watch SpaceX launch 3 giant BlueBird direct-to-cell satellites early on Aug. 5 ",
+      "title": " Heading to Europe or the U.K. for the Aug. 12 solar eclipse? Best eclipse glasses to buy before you leave — or after you arrive ",
       "source": " Latest from Space.com ",
-      "date": "Tue, 04 Aug 2026 22:00:00 +0000",
-      "summary": "SpaceX plans to launch three of AST SpaceMobile's huge BlueBird direct-to-cell satellites early on Wednesday morning (Aug. 5), and you can watch the action live.",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-ast-spacemobile-11-13-direct-to-cell-satellites"
+      "date": "Wed, 05 Aug 2026 10:20:07 +0000",
+      "summary": "We've rounded up the best solar eclipse glasses so you can watch safely from wherever you are.",
+      "url": "https://www.space.com/stargazing/skywatching-kit/heading-to-europe-or-the-u-k-for-the-aug-12-solar-eclipse-best-eclipse-glasses-to-buy-before-you-leave-or-after-you-arrive"
+    },
+    {
+      "category": "Science",
+      "title": " Diagnostic dilemma: Man who consulted ChatGPT about cutting out table salt ended up hospitalized with psychosis ",
+      "source": " Latest from Live Science ",
+      "date": "Wed, 05 Aug 2026 10:00:00 +0000",
+      "summary": "A man looking for healthy alternatives to table salt consulted ChatGPT for help, but he ended up hospitalized with paranoia and hallucinations.",
+      "url": "https://www.livescience.com/health/diagnostic-dilemma-man-who-consulted-chatgpt-about-cutting-out-table-salt-ended-up-hospitalized-with-psychosis"
     },
     {
       "category": "AI",
-      "title": "Security Incident INC-2026-07-28-01 – UK AI Security Institute [pdf]",
+      "title": "Helsinki Hacker News Meetup",
       "source": "Hacker News: Front Page",
-      "date": "Tue, 04 Aug 2026 21:52:58 +0000",
-      "summary": "Article URL: https://cdn.prod.website-files.com/663bd486c5e4c81588db7a1d/6a724858f7db25c81487016d_Security%20Incident%20INC-2026-07-28-01.pdf\nComments URL: https://news.ycombinator.com/item?id=49175717\nPoints: 34\n# Comments: 24",
-      "url": "https://cdn.prod.website-files.com/663bd486c5e4c81588db7a1d/6a724858f7db25c81487016d_Security%20Incident%20INC-2026-07-28-01.pdf"
+      "date": "Wed, 05 Aug 2026 09:15:33 +0000",
+      "summary": "Article URL: https://calpaterson.com/helsinki-hn.html\nComments URL: https://news.ycombinator.com/item?id=49180407\nPoints: 100\n# Comments: 55",
+      "url": "https://calpaterson.com/helsinki-hn.html"
+    },
+    {
+      "category": "Science",
+      "title": " Half of the world's dams could be 'functionally inoperable' by 2060 from being flooded with sediment — and the American West is a major hotspot ",
+      "source": " Latest from Live Science ",
+      "date": "Wed, 05 Aug 2026 08:00:00 +0000",
+      "summary": "Research shows a fifth of the world's reservoirs are currently at high risk of filling with sediment, creating a \"ticking time bomb\" that threatens lives and livelihoods.",
+      "url": "https://www.livescience.com/planet-earth/rivers-oceans/half-of-the-worlds-dams-could-be-functionally-inoperable-by-2060-from-being-flooded-with-sediment-and-the-american-west-is-a-major-hotspot"
+    },
+    {
+      "category": "Space",
+      "title": " Total solar eclipse Aug. 12, 2026 live updates — 1 week to go ",
+      "source": " Latest from Space.com ",
+      "date": "Wed, 05 Aug 2026 05:30:17 +0000",
+      "summary": "Follow our live coverage of the total solar eclipse 2026 as we count down to eclipse day with the latest news, expert insight and updates before bringing you live reports from Greenland and Spain.",
+      "url": "https://www.space.com/news/live/total-solar-eclipse-aug-12-2026-live-updates-one-week-to-go"
+    },
+    {
+      "category": "Space",
+      "title": " 1 week to go until a dramatic total solar eclipse darkens the skies over Spain, Iceland and Greenland ",
+      "source": " Latest from Space.com ",
+      "date": "Wed, 05 Aug 2026 05:17:14 +0000",
+      "summary": "Here's what you need to know before the total solar eclipse one week from now.",
+      "url": "https://www.space.com/stargazing/solar-eclipses/1-week-to-go-until-a-dramatic-total-solar-eclipse-darkens-the-skies-over-spain-iceland-and-greenland"
+    },
+    {
+      "category": "Theology",
+      "title": "Our Line in the Sand on AI: TGC’s Missional Opportunity",
+      "source": "The Gospel Coalition",
+      "date": "Wed, 05 Aug 2026 04:00:00 +0000",
+      "summary": "TGC articles are human-made, human-edited, human-assessed, made in human community for other humans—as an act of love, fellowship, and worship.",
+      "url": "https://www.thegospelcoalition.org/article/ai-tgc-missional-opportunity/"
     },
     {
       "category": "AI",
@@ -91,6 +139,14 @@
       "url": "https://arstechnica.com/ai/2026/08/texas-halts-data-center-connections-to-power-grid-amid-overwhelming-demand/"
     },
     {
+      "category": "Space",
+      "title": "NASA Will Attempt to Observe Rocket Part’s Lunar Impact",
+      "source": "NASA",
+      "date": "Tue, 04 Aug 2026 20:00:14 +0000",
+      "summary": "Using ground-based telescopes and space-based assets, NASA and SpaceX are tracking a used Falcon 9 upper stage from a commercial mission expected to impact the Moon on Wednesday, Aug. 5, near the Einstein and Bell craters. The impact poses no danger to Earth and NASA scientists are planning to collect lunar data from the event […]",
+      "url": "https://www.nasa.gov/humans-in-space/commercial-space/nasa-will-attempt-to-observe-rocket-parts-lunar-impact/"
+    },
+    {
       "category": "AI",
       "title": "Third-party cyber evaluations involving OpenAI models",
       "source": "OpenAI News",
@@ -100,35 +156,19 @@
     },
     {
       "category": "Space",
-      "title": " When a total solar eclipse darkens the sky on Aug. 12, these citizen scientists will be watching ",
-      "source": " Latest from Space.com ",
-      "date": "Tue, 04 Aug 2026 18:00:00 +0000",
-      "summary": "Meet the citizen scientist initiative bringing you closer to totality.",
-      "url": "https://www.space.com/stargazing/solar-eclipses/when-a-total-solar-eclipse-darkens-the-sky-on-aug-12-these-citizen-scientists-will-be-watching"
+      "title": "NASA’s PUNCH Sharpens Solar Storm Forecasting in First Test",
+      "source": "NASA",
+      "date": "Tue, 04 Aug 2026 18:02:55 +0000",
+      "summary": "Using continuous imagery from NASA’s PUNCH (Polarimeter to Unify the Corona and Heliosphere) mission, scientists predicted the near-Earth arrival of a solar eruption to within 30 minutes in an initial proof of concept test. The results, presented Tuesday at the Committee on Space Research Scientific Meeting and under review at the journal Space Weather, could […]",
+      "url": "https://science.nasa.gov/science-research/heliophysics/nasas-punch-sharpens-solar-storm-forecasting-in-first-test/"
     },
     {
       "category": "Space",
-      "title": " August full moon 2026: When, where and how to see the Sturgeon Moon ",
-      "source": " Latest from Space.com ",
-      "date": "Tue, 04 Aug 2026 17:48:57 +0000",
-      "summary": "Your guide to August's full Sturgeon Moon, from peak times to skywatching highlights.",
-      "url": "https://www.space.com/stargazing/august-full-moon-2026-when-where-and-how-to-see-the-sturgeon-moon"
-    },
-    {
-      "category": "Science",
-      "title": " Brains don't always rot: Scientists may finally know how human brains have evaded decay for thousands of years ",
-      "source": " Latest from Live Science ",
-      "date": "Tue, 04 Aug 2026 17:00:43 +0000",
-      "summary": "Thousands of skeletal human remains have been discovered with their brain tissue unexpectedly intact. Now, a team of scientists may have finally figured out why.",
-      "url": "https://www.livescience.com/chemistry/brains-dont-always-rot-scientists-may-finally-know-how-human-brains-have-evaded-decay-for-thousands-of-years"
-    },
-    {
-      "category": "Science",
-      "title": " 'Darwin’s hypothesis provided an important inspiration': Scientists bolster 150-year-old Darwinian theory with a carnivorous plant in China ",
-      "source": " Latest from Live Science ",
-      "date": "Tue, 04 Aug 2026 16:42:06 +0000",
-      "summary": "Researchers have confirmed that a plant native to alpine regions in southwest China is carnivorous, supporting a Darwinian theory from 1875.",
-      "url": "https://www.livescience.com/planet-earth/plants/darwins-hypothesis-provided-an-important-inspiration-scientists-bolster-150-year-old-darwinian-theory-with-a-carnivorous-plant-in-china"
+      "title": "Ames Science Stars of the Month – August 2026",
+      "source": "NASA",
+      "date": "Tue, 04 Aug 2026 17:08:04 +0000",
+      "summary": "The NASA Ames Science Directorate recognizes the outstanding contributions of (pictured left to right) Danielle Lopez, Jennifer Claudio, and Duncan Mifsud. Their commitment to the NASA mission represents the entrepreneurial spirit, technical expertise, and collaborative disposition needed to explore this world and beyond. Space Biosciences Star of the Month: Danielle Lopez Danielle Lopez is the […]",
+      "url": "https://www.nasa.gov/general/ames-science-stars-of-the-month-august-2026/"
     },
     {
       "category": "Theology",
@@ -217,22 +257,6 @@
       "date": "Mon, 03 Aug 2026 20:43:25 +0000",
       "summary": "George Washington’s two most-remembered wartime mounts, Nelson and Blueskin, have been the subject of considerable popular retelling, much of it post-dating the events by decades. The manuscript record is thinner than the later accounts but clear on the essentials. Both horses came to Washington as gifts from friends. Both carried him through much of the […]\nThe post Nelson and Blueskin: Washington’s Revolutionary War Horses in the Documentary Record appeared first on Journal of the American Revolution.",
       "url": "https://allthingsliberty.com/2026/08/nelson-and-blueskin-washingtons-revolutionary-war-horses-in-the-documentary-record/"
-    },
-    {
-      "category": "Biblical Studies",
-      "title": "Cypriot Coin found at Ashdod",
-      "source": "Biblical Archaeology Society",
-      "date": "Mon, 03 Aug 2026 10:45:49 +0000",
-      "summary": "A silver-plated Cypriot coin dating to the mid-fifth century BCE has been discovered on Ashdod Beach. The Israel Antiquities Authority (IAA) reported that the coin […]\nThe post Cypriot Coin found at Ashdod appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-near-eastern-world/cypriot-coin-found-at-ashdod/"
-    },
-    {
-      "category": "Theology",
-      "title": "AI and Art: What Is Creativity For? (with Brett McCracken)",
-      "source": "The Gospel Coalition",
-      "date": "Mon, 03 Aug 2026 04:04:00 +0000",
-      "summary": "Brett McCracken joins Christopher Watkin to discuss AI, art, attention, and why human creativity still matters when machines can make beautiful things in seconds.",
-      "url": "https://www.thegospelcoalition.org/podcasts/silicon-spiritualities/ai-art-creativity/"
     },
     {
       "category": "Theology",
