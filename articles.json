@@ -1,38 +1,134 @@
 {
-  "lastUpdated": "2026-08-05T11:52:24.594Z",
-  "articleCount": 39,
+  "lastUpdated": "2026-08-05T17:22:59.489Z",
+  "articleCount": 36,
   "articles": [
     {
       "category": "Science",
-      "title": "Drought-hardy ryegrass raises new weed management challenge",
+      "title": "As urban tree shade shrinks, mortality rises",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Wed, 05 Aug 2026 07:20:04 EDT",
-      "summary": "A study by La Trobe University researchers has found annual ryegrass, the most damaging weed in Australian grain systems, can adjust its growth and reproduction to survive under drought stress, making it potentially harder to manage as climate conditions become more variable.",
-      "url": "https://phys.org/news/2026-08-drought-hardy-ryegrass-weed.html"
+      "date": "Wed, 05 Aug 2026 13:20:06 EDT",
+      "summary": "As trees disappear from urban neighborhoods, lives may be lost with them. In a new study, Northwestern University scientists tracked death rates and fluctuations in tree canopy cover across an 11-year period in Chicago. They found that areas experiencing greater losses in tree canopy—land covered by trees' leafy crowns—also experienced higher mortality rates, particularly in the city's hottest neighborhoods.",
+      "url": "https://phys.org/news/2026-08-urban-tree-mortality.html"
+    },
+    {
+      "category": "Science",
+      "title": "Why being born helpless may be one of humanity's greatest strengths",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Wed, 05 Aug 2026 13:20:01 EDT",
+      "summary": "Babies start out life helpless and stay that way for a long time. They cannot walk, feed themselves or survive without an adult's continued care. Our dependency timeline has no clear parallel elsewhere in the animal kingdom.",
+      "url": "https://phys.org/news/2026-08-born-helpless-humanity-greatest-strengths.html"
+    },
+    {
+      "category": "Science",
+      "title": "Scattered Roman bones point to potential fourth-century purge at Brading Villa",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Wed, 05 Aug 2026 13:00:07 EDT",
+      "summary": "Disarticulated bones found scattered across a luxurious Roman villa on England's Isle of Wight may be evidence of a massacre carried out during a brutal political purge in the fourth century, a new study in Britannia suggests.",
+      "url": "https://phys.org/news/2026-08-roman-bones-potential-fourth-century.html"
     },
     {
       "category": "AI",
-      "title": "Civilian plane crash in New Mexico tied to military GPS blocking",
+      "title": "Launch HN: HyperProbe (YC S26) – Agents that do read-only debugging in prod",
       "source": "Hacker News: Front Page",
-      "date": "Wed, 05 Aug 2026 11:03:13 +0000",
-      "summary": "Article URL: https://www.wired.com/story/a-civilian-plane-crashed-in-new-mexico-was-the-militarys-tech-to-blame/\nComments URL: https://news.ycombinator.com/item?id=49181099\nPoints: 31\n# Comments: 4",
-      "url": "https://www.wired.com/story/a-civilian-plane-crashed-in-new-mexico-was-the-militarys-tech-to-blame/"
+      "date": "Wed, 05 Aug 2026 16:47:15 +0000",
+      "summary": "Hi HN, this is Shailendra and Karan here. We are building a fast and safe way for coding agents to debug issues live in production.\nWhen prod breaks, it lets Cursor, Claude, and others drop virtual breakpoints or probes safely in your running code, and extract the exact variable values that logs don’t have.\nAll this saves time and effort for engineers who’d otherwise dig through logs and traces or redeploy with console.logs or print statements until they find the root cause.\nHere is the link to the video that explains this: https://www.youtube.com/watch?v=ivV7I--ta5c\nAgents write most of our code now. This shrinks the useful context engineers need to debug AI written code, a problem not helped by the limited telemetry added in the same code by AI.\nSo when something breaks in prod, the first instinct for an engineer is to open logs or throw them to your agents. But if the line you are looking for is not there, agents will start guessing the root cause on non-existent data, forcing you to add a log, and redeploy.\nThis analysis-inference loop of agents with existing data does not come cheap, burning a lot of tokens. And the add log, redeploy cycle is so slow and painful that it makes engineers hate on-call.\nOur approach lets agents capture telemetry on-demand at the exact moment and point of failure, killing the log-redeploy cycle and getting the most accurate RCA while burning fewer tokens.\nThe obvious problem is making it work on a running service. You can't pause a live service the way you'd pause a debugger on your laptop. Getting the value out of a running process safely, without pausing a thread or slowing the host is the challenge.We are making this happen.\nBefore this I ran engineering at a 100 member team. Then Karan and I spent three years on HyperTest which was a testing tool.\nAt HyperTest, we turned production traffic into integration tests using OpenTelemetry. That was production instrumentation too. The hard parts of pulling real runtime state out of a running service without breaking it, were the hard parts we learnt to put together.\nWe learnt some other lessons the hard way too. HyperTest tried to prevent bugs with better tests, and adoption was a fight every time. Calls kept getting cancelled because teams were firefighting production. Testing was hygiene. Broken prod was hair on fire. This made us see where priorities lie.\nThis seeded the idea of building a truly autonomous on-call agent i.e. one that takes an alert, probes, diagnoses and fixes it in a few minutes. But this is how it works as of now:\nYou talk to your coding agent the way you already do. Tell it what's wrong: \"checkout returns 200 but some users are seeing their order fail, find out why.\" It locates the line in your local code, connects to us over MCP, and drops a probe on that line in the running service. The probe is read-only and sits dormant until real traffic hits. When hit, it captures the local variables at every frame of the call stack at that exact moment. It hands them to the agent, which diagnoses with real data.\nThere are two pieces. An SDK that runs inside your service, and an MCP server your coding agent talks to. The SDK is what makes setting probes (virtual breakpoints, log or metric) possible without a redeploy. In Node and Python it hooks in-process. In Java it attaches as a JVM agent, instrumenting at the bytecode level. Either way the service keeps running and serving traffic. Nothing pauses.\nWhen your agent wants to look at a line, it calls the MCP server, which tells the SDK to place a probe there. When a request hits the line, the SDK captures what the probe asked for, sanitizes it in-process, and streams it back to the agent via the MCP.\nThis can run inside prod, so a probe can read any value sitting in that variable. We ensure redaction happens in-process, inside your own container's memory. This is before anything goes on the wire. Keys like password, token, authorization, ssn and credit card are redacted by default and you add your own.\nAlso the probes read but never write, and if you want no captured state to ever leave your network you can self host the server, broker, and even the database in your infra.\nOn overhead: when idle, the SDK adds negligible memory and effectively nothing to throughput and response time. Probes only cost anything while actively capturing. Also captures are bounded. A separate monitor watches in real time and pulls every active probe if overhead ever spikes.\nEvery log-and-trace tool hands the agent data that already exists and asks it to reason backward to what probably happened. We think it is more useful to give agents eyes and ears into the running code, so they capture what they need when they need it, right at the point of failure.\nThis seems like the simplest and fastest way to debug prod incidents.\nWe’d love the community to try this in any environment to debug any known or unknown issue by just chatting with your coding agent. And let us know what more features you need to make this a truly autonomous on-call agent\nSupported platforms: NodeJs, Java, Python.\nComments URL: https://news.ycombinator.com/item?id=49185389\nPoints: 7\n# Comments: 1",
+      "url": "https://www.hyperprobe.co"
+    },
+    {
+      "category": "AI",
+      "title": "D-Wave on rails: Company tests entanglement on its dual-rail qubits",
+      "source": "Ars Technica - All content",
+      "date": "Wed, 05 Aug 2026 16:37:07 +0000",
+      "summary": "Company noted for building quantum annealers now also making gate-based hardware.",
+      "url": "https://arstechnica.com/science/2026/08/d-wave-on-rails-company-tests-entanglement-on-its-dual-rail-qubits/"
     },
     {
       "category": "Science",
-      "title": "Study probes Malaysia's corporate bond strategy: Offering Islamic bonds expanded corporate financing access",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Wed, 05 Aug 2026 07:00:04 EDT",
-      "summary": "In the late 1990s, Malaysia created a new way for corporations to raise money by issuing bonds that comply with Islamic law, which prohibits the payment or collection of interest.",
-      "url": "https://phys.org/news/2026-08-probes-malaysia-corporate-bond-strategy.html"
+      "title": " Stunning fossil from Australian outback reveals pliosaur killed a sea monster that had just eaten a pterosaur ",
+      "source": " Latest from Live Science ",
+      "date": "Wed, 05 Aug 2026 16:23:34 +0000",
+      "summary": "Using advanced neutron imaging, researchers scanning fossils from Queensland uncovered clues about the complex food chain of prehistoric Earth.",
+      "url": "https://www.livescience.com/animals/extinct-species/stunning-fossil-from-australian-outback-reveals-pliosaur-killed-a-sea-monster-that-had-just-eaten-a-pterosaur"
+    },
+    {
+      "category": "AI",
+      "title": "Discovery Loop",
+      "source": "Hacker News: Front Page",
+      "date": "Wed, 05 Aug 2026 16:19:44 +0000",
+      "summary": "Article URL: https://www.discoveryloop.com/\nComments URL: https://news.ycombinator.com/item?id=49184960\nPoints: 79\n# Comments: 19",
+      "url": "https://www.discoveryloop.com/"
     },
     {
       "category": "Science",
-      "title": "Total eclipse gives scientists chance to probe sun's mysteries",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Wed, 05 Aug 2026 07:00:02 EDT",
-      "summary": "Scientists plan to use a total solar eclipse that will be visible in Spain next week as a rare chance to learn more about the stormy, unpredictable nature of our star.",
-      "url": "https://phys.org/news/2026-08-total-eclipse-scientists-chance-probe.html"
+      "title": " 'It's incredibly rare to see a moment like this in the ocean': Camera drone captures moment humpback whale gives birth off Australian coast ",
+      "source": " Latest from Live Science ",
+      "date": "Wed, 05 Aug 2026 16:17:07 +0000",
+      "summary": "A camera drone captured extraordinarily rare footage of a humpback whale giving birth off the Australian coast.",
+      "url": "https://www.livescience.com/animals/whales/its-incredibly-rare-to-see-a-moment-like-this-in-the-ocean-camera-drone-captures-moment-humpback-whale-gives-birth-off-australian-coast"
+    },
+    {
+      "category": "AI",
+      "title": "Jeff Dean Leaving Google",
+      "source": "Hacker News: Front Page",
+      "date": "Wed, 05 Aug 2026 16:14:49 +0000",
+      "summary": "Article URL: https://twitter.com/JeffDean/status/2085034604172603724\nComments URL: https://news.ycombinator.com/item?id=49184879\nPoints: 35\n# Comments: 2",
+      "url": "https://twitter.com/JeffDean/status/2085034604172603724"
+    },
+    {
+      "category": "Space",
+      "title": " Astronomers witness the strange final moments of a massive star's supernova death (video) ",
+      "source": " Latest from Space.com ",
+      "date": "Wed, 05 Aug 2026 16:00:00 +0000",
+      "summary": "Astronomers have captured the death of a massive star from its first faint flash of X-rays, revealing an unusual supernova.",
+      "url": "https://www.space.com/astronomy/stars/astronomers-witness-the-strange-final-moments-of-a-massive-stars-supernova-death-video"
+    },
+    {
+      "category": "Science",
+      "title": " 'It's real, and it's happening': Antibiotic resistance in kids is rising around the world, massive study finds ",
+      "source": " Latest from Live Science ",
+      "date": "Wed, 05 Aug 2026 15:48:37 +0000",
+      "summary": "A global analysis shows how antibiotic resistance has been increasing among childhood infections.",
+      "url": "https://www.livescience.com/health/medicine-drugs/its-real-and-its-happening-antibiotic-resistance-in-kids-is-rising-around-the-world-massive-study-finds"
+    },
+    {
+      "category": "AI",
+      "title": "Google plans to kill Assistant on your phone on September 4",
+      "source": "Ars Technica - All content",
+      "date": "Wed, 05 Aug 2026 15:30:02 +0000",
+      "summary": "Assistant will disappear, leaving only Gemini for voice control in the coming weeks.",
+      "url": "https://arstechnica.com/ai/2026/08/google-plans-to-kill-assistant-on-your-phone-on-september-4/"
+    },
+    {
+      "category": "Space",
+      "title": " Curiosity rover spots mysterious honeycombs on Mars | Space photo of the day for Aug. 5, 2026 ",
+      "source": " Latest from Space.com ",
+      "date": "Wed, 05 Aug 2026 14:10:19 +0000",
+      "summary": "NASA's Curiosity Mars rover spotted surprising honeycomb-like shapes in the Red Planet soil while exploring a large valley.",
+      "url": "https://www.space.com/astronomy/mars/curiosity-rover-spots-mysterious-honeycombs-on-mars-space-photo-of-the-day-for-aug-5-2026"
+    },
+    {
+      "category": "Space",
+      "title": " On this day in space! Aug. 5, 2011:  NASA's Juno spacecraft launches to Jupiter ",
+      "source": " Latest from Space.com ",
+      "date": "Wed, 05 Aug 2026 14:00:00 +0000",
+      "summary": "On Aug. 5, 2011, NASA launched the Juno spacecraft on a mission to study Jupiter, the largest planet in the solar system. Here's why it mattered.",
+      "url": "https://www.space.com/space-exploration/on-this-day-in-space-august-5-2026"
+    },
+    {
+      "category": "AI",
+      "title": "SpaceX spooks investors with debut earnings report",
+      "source": "Ars Technica - All content",
+      "date": "Wed, 05 Aug 2026 13:59:17 +0000",
+      "summary": "Shares slide in pre-market trading even as group says its quarterly revenues nearly doubled.",
+      "url": "https://arstechnica.com/ai/2026/08/spacex-spooks-investors-with-debut-earnings-report/"
+    },
+    {
+      "category": "Science",
+      "title": "Scientists discover the brain cells that keep you motivated",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Wed, 05 Aug 2026 08:09:48 EDT",
+      "summary": "A group of brain cells called orexin neurons appears to help us keep working when reaching a reward becomes increasingly difficult. Blocking their activity weakened motivation in rats, pointing to a possible new target for understanding why people sometimes struggle to sustain goal-directed behavior.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260804034622.htm"
     },
     {
       "category": "Biblical Studies",
@@ -43,60 +139,28 @@
       "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/mysterious-mercenaries/"
     },
     {
-      "category": "AI",
-      "title": "No Data Centers in My Backyard",
-      "source": "Hacker News: Front Page",
-      "date": "Wed, 05 Aug 2026 10:38:57 +0000",
-      "summary": "Article URL: https://jasmi.news/p/no-data-centers-in-my-backyard\nComments URL: https://news.ycombinator.com/item?id=49180901\nPoints: 28\n# Comments: 37",
-      "url": "https://jasmi.news/p/no-data-centers-in-my-backyard"
-    },
-    {
-      "category": "Space",
-      "title": " Heading to Europe or the U.K. for the Aug. 12 solar eclipse? Best eclipse glasses to buy before you leave — or after you arrive ",
-      "source": " Latest from Space.com ",
-      "date": "Wed, 05 Aug 2026 10:20:07 +0000",
-      "summary": "We've rounded up the best solar eclipse glasses so you can watch safely from wherever you are.",
-      "url": "https://www.space.com/stargazing/skywatching-kit/heading-to-europe-or-the-u-k-for-the-aug-12-solar-eclipse-best-eclipse-glasses-to-buy-before-you-leave-or-after-you-arrive"
+      "category": "Biblical Studies",
+      "title": "For the Redemption of Zion",
+      "source": "Biblical Archaeology Society",
+      "date": "Wed, 05 Aug 2026 10:00:50 +0000",
+      "summary": "Excavations near the southwest corner of the ancient Temple Mount have uncovered a rare coin commemorating the fourth year of the First Jewish Revolt against […]\nThe post For the Redemption of Zion appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-israel/for-the-redemption-of-zion/"
     },
     {
       "category": "Science",
-      "title": " Diagnostic dilemma: Man who consulted ChatGPT about cutting out table salt ended up hospitalized with psychosis ",
-      "source": " Latest from Live Science ",
-      "date": "Wed, 05 Aug 2026 10:00:00 +0000",
-      "summary": "A man looking for healthy alternatives to table salt consulted ChatGPT for help, but he ended up hospitalized with paranoia and hallucinations.",
-      "url": "https://www.livescience.com/health/diagnostic-dilemma-man-who-consulted-chatgpt-about-cutting-out-table-salt-ended-up-hospitalized-with-psychosis"
-    },
-    {
-      "category": "AI",
-      "title": "Helsinki Hacker News Meetup",
-      "source": "Hacker News: Front Page",
-      "date": "Wed, 05 Aug 2026 09:15:33 +0000",
-      "summary": "Article URL: https://calpaterson.com/helsinki-hn.html\nComments URL: https://news.ycombinator.com/item?id=49180407\nPoints: 100\n# Comments: 55",
-      "url": "https://calpaterson.com/helsinki-hn.html"
+      "title": "A colossal magma system has been hiding beneath Tuscany",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Wed, 05 Aug 2026 05:19:43 EDT",
+      "summary": "A massive magma reservoir has been detected deep beneath Tuscany, despite showing no obvious signs at the surface. Scientists mapped the roughly 6,000-cubic-kilometer body using natural ground vibrations recorded by dozens of seismic sensors. It poses no immediate danger, but the discovery reveals how enormous volcanic systems can remain hidden and could transform the search for geothermal energy and critical minerals.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260804034645.htm"
     },
     {
       "category": "Science",
-      "title": " Half of the world's dams could be 'functionally inoperable' by 2060 from being flooded with sediment — and the American West is a major hotspot ",
-      "source": " Latest from Live Science ",
-      "date": "Wed, 05 Aug 2026 08:00:00 +0000",
-      "summary": "Research shows a fifth of the world's reservoirs are currently at high risk of filling with sediment, creating a \"ticking time bomb\" that threatens lives and livelihoods.",
-      "url": "https://www.livescience.com/planet-earth/rivers-oceans/half-of-the-worlds-dams-could-be-functionally-inoperable-by-2060-from-being-flooded-with-sediment-and-the-american-west-is-a-major-hotspot"
-    },
-    {
-      "category": "Space",
-      "title": " Total solar eclipse Aug. 12, 2026 live updates — 1 week to go ",
-      "source": " Latest from Space.com ",
-      "date": "Wed, 05 Aug 2026 05:30:17 +0000",
-      "summary": "Follow our live coverage of the total solar eclipse 2026 as we count down to eclipse day with the latest news, expert insight and updates before bringing you live reports from Greenland and Spain.",
-      "url": "https://www.space.com/news/live/total-solar-eclipse-aug-12-2026-live-updates-one-week-to-go"
-    },
-    {
-      "category": "Space",
-      "title": " 1 week to go until a dramatic total solar eclipse darkens the skies over Spain, Iceland and Greenland ",
-      "source": " Latest from Space.com ",
-      "date": "Wed, 05 Aug 2026 05:17:14 +0000",
-      "summary": "Here's what you need to know before the total solar eclipse one week from now.",
-      "url": "https://www.space.com/stargazing/solar-eclipses/1-week-to-go-until-a-dramatic-total-solar-eclipse-darkens-the-skies-over-spain-iceland-and-greenland"
+      "title": "A solar eclipse and the Perseid meteor shower arrive on the same day",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Wed, 05 Aug 2026 00:13:47 EDT",
+      "summary": "August brings four major celestial events, including a solar eclipse and the peak of the Perseid meteor shower. Dark New Moon skies could make the Perseids especially impressive, while Venus will blaze in the west after sunset. A deep partial lunar eclipse closes the month, darkening most of the Moon.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260804034628.htm"
     },
     {
       "category": "Theology",
@@ -108,67 +172,11 @@
     },
     {
       "category": "AI",
-      "title": "Senators demand crackdown on wildfire \"prediction markets\"",
-      "source": "Ars Technica - All content",
-      "date": "Tue, 04 Aug 2026 21:52:31 +0000",
-      "summary": "Fire experts warn such markets could incentivize arson.",
-      "url": "https://arstechnica.com/tech-policy/2026/08/senators-demand-crackdown-on-wildfire-prediction-markets/"
-    },
-    {
-      "category": "AI",
-      "title": "Trump killed the Digital Equity Act, but US was forced to bring part of it back",
-      "source": "Ars Technica - All content",
-      "date": "Tue, 04 Aug 2026 21:27:05 +0000",
-      "summary": "$1.25 billion program restored, but judge ruled race provision unconstitutional.",
-      "url": "https://arstechnica.com/tech-policy/2026/08/trump-forced-to-reinstate-broadband-grants-but-court-lets-us-scrap-race-criteria/"
-    },
-    {
-      "category": "Science",
-      "title": " Physicists find a way to control heat in a way once thought impossible ",
-      "source": " Latest from Live Science ",
-      "date": "Tue, 04 Aug 2026 21:14:02 +0000",
-      "summary": "Researchers designed a material that can independently control how it absorbs and emits heat, and it even retains those settings once the power is turned off.",
-      "url": "https://www.livescience.com/physics-mathematics/physicists-find-a-way-to-control-heat-in-a-way-once-thought-impossible"
-    },
-    {
-      "category": "AI",
-      "title": "Texas halts data center connections to power grid amid overwhelming demand",
-      "source": "Ars Technica - All content",
-      "date": "Tue, 04 Aug 2026 20:34:28 +0000",
-      "summary": "Governor who touted Texas as AI “epicenter” pauses data center grid connections.",
-      "url": "https://arstechnica.com/ai/2026/08/texas-halts-data-center-connections-to-power-grid-amid-overwhelming-demand/"
-    },
-    {
-      "category": "Space",
-      "title": "NASA Will Attempt to Observe Rocket Part’s Lunar Impact",
-      "source": "NASA",
-      "date": "Tue, 04 Aug 2026 20:00:14 +0000",
-      "summary": "Using ground-based telescopes and space-based assets, NASA and SpaceX are tracking a used Falcon 9 upper stage from a commercial mission expected to impact the Moon on Wednesday, Aug. 5, near the Einstein and Bell craters. The impact poses no danger to Earth and NASA scientists are planning to collect lunar data from the event […]",
-      "url": "https://www.nasa.gov/humans-in-space/commercial-space/nasa-will-attempt-to-observe-rocket-parts-lunar-impact/"
-    },
-    {
-      "category": "AI",
       "title": "Third-party cyber evaluations involving OpenAI models",
       "source": "OpenAI News",
       "date": "Tue, 04 Aug 2026 19:00:00 GMT",
       "summary": "OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation.",
       "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models"
-    },
-    {
-      "category": "Space",
-      "title": "NASA’s PUNCH Sharpens Solar Storm Forecasting in First Test",
-      "source": "NASA",
-      "date": "Tue, 04 Aug 2026 18:02:55 +0000",
-      "summary": "Using continuous imagery from NASA’s PUNCH (Polarimeter to Unify the Corona and Heliosphere) mission, scientists predicted the near-Earth arrival of a solar eruption to within 30 minutes in an initial proof of concept test. The results, presented Tuesday at the Committee on Space Research Scientific Meeting and under review at the journal Space Weather, could […]",
-      "url": "https://science.nasa.gov/science-research/heliophysics/nasas-punch-sharpens-solar-storm-forecasting-in-first-test/"
-    },
-    {
-      "category": "Space",
-      "title": "Ames Science Stars of the Month – August 2026",
-      "source": "NASA",
-      "date": "Tue, 04 Aug 2026 17:08:04 +0000",
-      "summary": "The NASA Ames Science Directorate recognizes the outstanding contributions of (pictured left to right) Danielle Lopez, Jennifer Claudio, and Duncan Mifsud. Their commitment to the NASA mission represents the entrepreneurial spirit, technical expertise, and collaborative disposition needed to explore this world and beyond. Space Biosciences Star of the Month: Danielle Lopez Danielle Lopez is the […]",
-      "url": "https://www.nasa.gov/general/ames-science-stars-of-the-month-august-2026/"
     },
     {
       "category": "Theology",
@@ -179,44 +187,12 @@
       "url": "https://www.9marks.org/article/pastoral-ministry-when-parenting-gets-hard/?utm_source=rss&utm_medium=rss&utm_campaign=pastoral-ministry-when-parenting-gets-hard"
     },
     {
-      "category": "Science",
-      "title": "Cancer-fighting chewing gum cuts HPV levels by up to 93%",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Tue, 04 Aug 2026 09:33:37 EDT",
-      "summary": "A specially engineered chewing gum reduced HPV by up to 93% and nearly eliminated two bacteria linked to head and neck cancer. The treatment preserved beneficial mouth bacteria, raising hopes for a safer and more affordable therapy.",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260803080917.htm"
-    },
-    {
-      "category": "Science",
-      "title": "518-million-year-old creature reveals the origins of spider fangs",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Tue, 04 Aug 2026 09:18:10 EDT",
-      "summary": "A tiny 518-million-year-old sea creature has revealed the earliest known evidence of the structures that eventually became spiders’ fangs. Hidden inside the fossil were pincerlike limbs and preserved soft tissues that help explain how the ancestors of spiders and scorpions evolved into formidable hunters.",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260803080906.htm"
-    },
-    {
-      "category": "Science",
-      "title": "Strange quantum experiment shows “negative time” is more than an illusion",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Tue, 04 Aug 2026 07:44:58 EDT",
-      "summary": "Photons traveling through a cloud of atoms can emerge so early that they appear to have spent a negative amount of time inside. Researchers tested whether this was merely a misleading feature of the light pulse by making extremely weak measurements of the atoms. Surprisingly, the atoms confirmed the same negative dwell time. The finding does not break standard physics, but it reveals that one of quantum mechanics’ strangest effects is physically measurable.",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260803080904.htm"
-    },
-    {
       "category": "Biblical Studies",
       "title": "Who Was Noah’s Wife?",
       "source": "Biblical Archaeology Society",
       "date": "Tue, 04 Aug 2026 11:00:58 +0000",
       "summary": "Eve, Sarah, Rebecca, Leah, and Rachel—the names of biblical matriarchs such as these have lived on long after they were first written down more than […]\nThe post Who Was Noah’s Wife? appeared first on Biblical Archaeology Society.",
       "url": "https://www.biblicalarchaeology.org/daily/biblical-topics/bible-interpretation/who-was-noahs-wife/"
-    },
-    {
-      "category": "Biblical Studies",
-      "title": "The Shroud of Turin: Anything Left to Say?",
-      "source": "Biblical Archaeology Society",
-      "date": "Tue, 04 Aug 2026 11:00:13 +0000",
-      "summary": "Today many consider the Shroud of Turin—the alleged burial cloth of Jesus of Nazareth—to be the most important relic of Christianity.1 It is a linen […]\nThe post The Shroud of Turin: Anything Left to Say? appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/daily/biblical-artifacts/the-shroud-of-turin-anything-left-to-say/"
     },
     {
       "category": "Theology",
