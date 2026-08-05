@@ -1,46 +1,134 @@
 {
-  "lastUpdated": "2026-08-05T17:22:59.489Z",
-  "articleCount": 36,
+  "lastUpdated": "2026-08-05T22:50:47.742Z",
+  "articleCount": 39,
   "articles": [
     {
       "category": "Science",
-      "title": "As urban tree shade shrinks, mortality rises",
+      "title": "Long-term study suggests landfill methane emissions are far higher than estimates",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Wed, 05 Aug 2026 13:20:06 EDT",
-      "summary": "As trees disappear from urban neighborhoods, lives may be lost with them. In a new study, Northwestern University scientists tracked death rates and fluctuations in tree canopy cover across an 11-year period in Chicago. They found that areas experiencing greater losses in tree canopy—land covered by trees' leafy crowns—also experienced higher mortality rates, particularly in the city's hottest neighborhoods.",
-      "url": "https://phys.org/news/2026-08-urban-tree-mortality.html"
+      "date": "Wed, 05 Aug 2026 18:40:01 EDT",
+      "summary": "Methane is an especially potent greenhouse gas, causing much more warming than carbon dioxide on a unit-for-unit basis—and a new, uniquely long-term study of emissions at a New Jersey landfill suggests that estimates of methane pollution in the U.S. and elsewhere may be dramatically off. The study, published by researchers at Columbia University's Lamont-Doherty Earth Observatory, which is part of the Columbia Climate School, used continuous ground-based measurements to determine that landfill methane emissions are likely much higher than current estimates.",
+      "url": "https://phys.org/news/2026-08-term-landfill-methane-emissions-higher.html"
     },
     {
       "category": "Science",
-      "title": "Why being born helpless may be one of humanity's greatest strengths",
+      "title": "Experimental drug turns cancer's favorite fuel against it",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Wed, 05 Aug 2026 13:20:01 EDT",
-      "summary": "Babies start out life helpless and stay that way for a long time. They cannot walk, feed themselves or survive without an adult's continued care. Our dependency timeline has no clear parallel elsewhere in the animal kingdom.",
-      "url": "https://phys.org/news/2026-08-born-helpless-humanity-greatest-strengths.html"
+      "date": "Wed, 05 Aug 2026 18:20:06 EDT",
+      "summary": "Cancer cells have a voracious appetite for sugar—using it to fuel their rapid growth. This is why many scientists have tried to develop drugs that block cancer cells' metabolism by cutting off their sugar supply.",
+      "url": "https://phys.org/news/2026-08-experimental-drug-cancer-favorite-fuel.html"
     },
     {
       "category": "Science",
-      "title": "Scattered Roman bones point to potential fourth-century purge at Brading Villa",
+      "title": "We can help frogs beat a deadly disease. But can they still reproduce?",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Wed, 05 Aug 2026 13:00:07 EDT",
-      "summary": "Disarticulated bones found scattered across a luxurious Roman villa on England's Isle of Wight may be evidence of a massacre carried out during a brutal political purge in the fourth century, a new study in Britannia suggests.",
-      "url": "https://phys.org/news/2026-08-roman-bones-potential-fourth-century.html"
+      "date": "Wed, 05 Aug 2026 18:20:01 EDT",
+      "summary": "Many people are blissfully unaware that the world's frogs and amphibians are fighting their own deadly pandemic. In fact, this fungal disease—chytridiomycosis, or chytrid for short—is the worst wildlife disease on record.",
+      "url": "https://phys.org/news/2026-08-frogs-deadly-disease.html"
     },
     {
       "category": "AI",
-      "title": "Launch HN: HyperProbe (YC S26) – Agents that do read-only debugging in prod",
+      "title": "The Title Cards in Blade Runner Are Fucking Amazing",
       "source": "Hacker News: Front Page",
-      "date": "Wed, 05 Aug 2026 16:47:15 +0000",
-      "summary": "Hi HN, this is Shailendra and Karan here. We are building a fast and safe way for coding agents to debug issues live in production.\nWhen prod breaks, it lets Cursor, Claude, and others drop virtual breakpoints or probes safely in your running code, and extract the exact variable values that logs don’t have.\nAll this saves time and effort for engineers who’d otherwise dig through logs and traces or redeploy with console.logs or print statements until they find the root cause.\nHere is the link to the video that explains this: https://www.youtube.com/watch?v=ivV7I--ta5c\nAgents write most of our code now. This shrinks the useful context engineers need to debug AI written code, a problem not helped by the limited telemetry added in the same code by AI.\nSo when something breaks in prod, the first instinct for an engineer is to open logs or throw them to your agents. But if the line you are looking for is not there, agents will start guessing the root cause on non-existent data, forcing you to add a log, and redeploy.\nThis analysis-inference loop of agents with existing data does not come cheap, burning a lot of tokens. And the add log, redeploy cycle is so slow and painful that it makes engineers hate on-call.\nOur approach lets agents capture telemetry on-demand at the exact moment and point of failure, killing the log-redeploy cycle and getting the most accurate RCA while burning fewer tokens.\nThe obvious problem is making it work on a running service. You can't pause a live service the way you'd pause a debugger on your laptop. Getting the value out of a running process safely, without pausing a thread or slowing the host is the challenge.We are making this happen.\nBefore this I ran engineering at a 100 member team. Then Karan and I spent three years on HyperTest which was a testing tool.\nAt HyperTest, we turned production traffic into integration tests using OpenTelemetry. That was production instrumentation too. The hard parts of pulling real runtime state out of a running service without breaking it, were the hard parts we learnt to put together.\nWe learnt some other lessons the hard way too. HyperTest tried to prevent bugs with better tests, and adoption was a fight every time. Calls kept getting cancelled because teams were firefighting production. Testing was hygiene. Broken prod was hair on fire. This made us see where priorities lie.\nThis seeded the idea of building a truly autonomous on-call agent i.e. one that takes an alert, probes, diagnoses and fixes it in a few minutes. But this is how it works as of now:\nYou talk to your coding agent the way you already do. Tell it what's wrong: \"checkout returns 200 but some users are seeing their order fail, find out why.\" It locates the line in your local code, connects to us over MCP, and drops a probe on that line in the running service. The probe is read-only and sits dormant until real traffic hits. When hit, it captures the local variables at every frame of the call stack at that exact moment. It hands them to the agent, which diagnoses with real data.\nThere are two pieces. An SDK that runs inside your service, and an MCP server your coding agent talks to. The SDK is what makes setting probes (virtual breakpoints, log or metric) possible without a redeploy. In Node and Python it hooks in-process. In Java it attaches as a JVM agent, instrumenting at the bytecode level. Either way the service keeps running and serving traffic. Nothing pauses.\nWhen your agent wants to look at a line, it calls the MCP server, which tells the SDK to place a probe there. When a request hits the line, the SDK captures what the probe asked for, sanitizes it in-process, and streams it back to the agent via the MCP.\nThis can run inside prod, so a probe can read any value sitting in that variable. We ensure redaction happens in-process, inside your own container's memory. This is before anything goes on the wire. Keys like password, token, authorization, ssn and credit card are redacted by default and you add your own.\nAlso the probes read but never write, and if you want no captured state to ever leave your network you can self host the server, broker, and even the database in your infra.\nOn overhead: when idle, the SDK adds negligible memory and effectively nothing to throughput and response time. Probes only cost anything while actively capturing. Also captures are bounded. A separate monitor watches in real time and pulls every active probe if overhead ever spikes.\nEvery log-and-trace tool hands the agent data that already exists and asks it to reason backward to what probably happened. We think it is more useful to give agents eyes and ears into the running code, so they capture what they need when they need it, right at the point of failure.\nThis seems like the simplest and fastest way to debug prod incidents.\nWe’d love the community to try this in any environment to debug any known or unknown issue by just chatting with your coding agent. And let us know what more features you need to make this a truly autonomous on-call agent\nSupported platforms: NodeJs, Java, Python.\nComments URL: https://news.ycombinator.com/item?id=49185389\nPoints: 7\n# Comments: 1",
-      "url": "https://www.hyperprobe.co"
+      "date": "Wed, 05 Aug 2026 21:29:23 +0000",
+      "summary": "Article URL: https://randsinrepose.com/archives/blade-runner-title-cards/\nComments URL: https://news.ycombinator.com/item?id=49189287\nPoints: 37\n# Comments: 8",
+      "url": "https://randsinrepose.com/archives/blade-runner-title-cards/"
     },
     {
       "category": "AI",
-      "title": "D-Wave on rails: Company tests entanglement on its dual-rail qubits",
+      "title": "Nvidia's Vera Whitepaper Has a Thread Loose",
+      "source": "Hacker News: Front Page",
+      "date": "Wed, 05 Aug 2026 21:24:45 +0000",
+      "summary": "Article URL: https://chipsandcheese.com/p/nvidias-vera-whitepaper-has-a-thread\nComments URL: https://news.ycombinator.com/item?id=49189234\nPoints: 31\n# Comments: 3",
+      "url": "https://chipsandcheese.com/p/nvidias-vera-whitepaper-has-a-thread"
+    },
+    {
+      "category": "AI",
+      "title": "Nikita Bier Steps Down as Head of Product at X",
+      "source": "Hacker News: Front Page",
+      "date": "Wed, 05 Aug 2026 21:15:40 +0000",
+      "summary": "Article URL: https://twitter.com/nikitabier/status/2085105586966827343/\nComments URL: https://news.ycombinator.com/item?id=49189113\nPoints: 25\n# Comments: 26",
+      "url": "https://twitter.com/nikitabier/status/2085105586966827343/"
+    },
+    {
+      "category": "AI",
+      "title": "Schwartz confirmed as CDC director after bungling confirmation hearing",
       "source": "Ars Technica - All content",
-      "date": "Wed, 05 Aug 2026 16:37:07 +0000",
-      "summary": "Company noted for building quantum annealers now also making gate-based hardware.",
-      "url": "https://arstechnica.com/science/2026/08/d-wave-on-rails-company-tests-entanglement-on-its-dual-rail-qubits/"
+      "date": "Wed, 05 Aug 2026 21:03:18 +0000",
+      "summary": "Schwartz is well-qualified for the role, but crashed and burned in Senate hearing.",
+      "url": "https://arstechnica.com/health/2026/08/schwartz-confirmed-as-cdc-director-after-bungling-confirmation-hearing/"
+    },
+    {
+      "category": "Space",
+      "title": " 'Warhammer 40,000' animated series coming to Prime Video, with Henry Cavill onboard as executive producer ",
+      "source": " Latest from Space.com ",
+      "date": "Wed, 05 Aug 2026 21:00:00 +0000",
+      "summary": "Henry Cavill will executive produce this spirited spinoff of 2024's 'Secret Level' anthology.",
+      "url": "https://www.space.com/entertainment/space-movies-shows/warhammer-40-000-animated-series-coming-to-prime-video-with-henry-cavill-onboard-as-executive-producer"
+    },
+    {
+      "category": "AI",
+      "title": "Anthropic’s AI used fake identities, malware in rogue attack on GitHub project",
+      "source": "Ars Technica - All content",
+      "date": "Wed, 05 Aug 2026 20:47:11 +0000",
+      "summary": "Anthropic and OpenAI models’ unprompted actions forced halt to UK cyber tests.",
+      "url": "https://arstechnica.com/security/2026/08/anthropics-ai-used-fake-identities-malware-in-rogue-attack-on-github-project/"
+    },
+    {
+      "category": "AI",
+      "title": "Reddit signals ominous upcoming \"changes” for old.reddit.com",
+      "source": "Ars Technica - All content",
+      "date": "Wed, 05 Aug 2026 20:01:32 +0000",
+      "summary": "Reddit says the beloved site is used for some \"bad behavior.\"",
+      "url": "https://arstechnica.com/gadgets/2026/08/reddit-signals-ominous-upcoming-changes-for-old-reddit-com/"
+    },
+    {
+      "category": "Science",
+      "title": " A star 20 times the size of the sun died in a supernova — and telescopes around the world joined forces to watch it ",
+      "source": " Latest from Live Science ",
+      "date": "Wed, 05 Aug 2026 19:47:46 +0000",
+      "summary": "A team of telescopes around the world, including the newly activated Vera C. Rubin Observatory, joined forces to observe the first shocking moments of a supernova explosion in unprecedented detail.",
+      "url": "https://www.livescience.com/space/astronomy/a-star-20-times-the-size-of-the-sun-died-in-a-supernova-and-telescopes-around-the-world-joined-forces-to-watch-it"
+    },
+    {
+      "category": "Space",
+      "title": " The 'Dark Matter' season 2 trailer is here, and it looks like Apple TV has another sci-fi hit on its hands ",
+      "source": " Latest from Space.com ",
+      "date": "Wed, 05 Aug 2026 19:00:00 +0000",
+      "summary": "\"The box is the most powerful thing ever created.\"",
+      "url": "https://www.space.com/entertainment/space-movies-shows/the-dark-matter-season-2-trailer-is-here-and-it-looks-like-apple-tv-has-another-sci-fi-hit-on-its-hands"
+    },
+    {
+      "category": "Space",
+      "title": "NASA’s IXPE May Have Proven 90-Year-Old Theory",
+      "source": "NASA",
+      "date": "Wed, 05 Aug 2026 18:49:14 +0000",
+      "summary": "A first of its kind measurement of a magnetar may have captured empty space behaving in a way physicists have predicted for 90 years, but never directly observed. The results published Wednesday in Nature. Fast facts Scientists using NASA’s IXPE (Imaging X-ray Polarimetry Explorer) conducted more than 140 hours of observations of the magnetar 1E […]",
+      "url": "https://science.nasa.gov/missions/ixpe/nasas-ixpe-may-have-proven-90-year-old-theory/"
+    },
+    {
+      "category": "Science",
+      "title": " Why the Aug. 12 total solar eclipse appears to move backward on maps ",
+      "source": " Latest from Live Science ",
+      "date": "Wed, 05 Aug 2026 17:54:36 +0000",
+      "summary": "While eclipse paths always move from west to east, this one seems to reverse direction on maps as it crosses the Arctic. Here's the geometry behind the illusion.",
+      "url": "https://www.livescience.com/space/the-sun/why-the-aug-12-total-solar-eclipse-appears-to-move-backward-on-maps"
+    },
+    {
+      "category": "Space",
+      "title": " A SpaceX rocket just crashed into the moon. Now, the race is on to get a look at the impact site ",
+      "source": " Latest from Space.com ",
+      "date": "Wed, 05 Aug 2026 17:43:30 +0000",
+      "summary": "Early this morning, a SpaceX rocket slammed into the moon at seven times the speed of sound. Now, lunar orbiters are trying to get a look at the aftermath.",
+      "url": "https://www.space.com/astronomy/moon/a-spacex-rocket-just-crashed-into-the-moon-now-the-race-is-on-to-get-a-look-at-the-impact-site"
+    },
+    {
+      "category": "Space",
+      "title": "Artemis III Orion Crew and Service Models Joined",
+      "source": "NASA",
+      "date": "Wed, 05 Aug 2026 17:27:18 +0000",
+      "summary": "Technicians joined the Orion crew and service modules together on July 30, 2026, inside the Neil Armstrong Operations and Checkout Building at NASA’s Kennedy Space Center in Florida. The crew module will carry and sustain NASA astronauts Randy Bresnik, Andre Douglas, and Frank Rubio, and ESA (European Space Agency) astronaut Luca Parmitano, while the service […]",
+      "url": "https://www.nasa.gov/image-article/artemis-iii-orion-crew-and-service-models-joined/"
     },
     {
       "category": "Science",
@@ -51,76 +139,12 @@
       "url": "https://www.livescience.com/animals/extinct-species/stunning-fossil-from-australian-outback-reveals-pliosaur-killed-a-sea-monster-that-had-just-eaten-a-pterosaur"
     },
     {
-      "category": "AI",
-      "title": "Discovery Loop",
-      "source": "Hacker News: Front Page",
-      "date": "Wed, 05 Aug 2026 16:19:44 +0000",
-      "summary": "Article URL: https://www.discoveryloop.com/\nComments URL: https://news.ycombinator.com/item?id=49184960\nPoints: 79\n# Comments: 19",
-      "url": "https://www.discoveryloop.com/"
-    },
-    {
-      "category": "Science",
-      "title": " 'It's incredibly rare to see a moment like this in the ocean': Camera drone captures moment humpback whale gives birth off Australian coast ",
-      "source": " Latest from Live Science ",
-      "date": "Wed, 05 Aug 2026 16:17:07 +0000",
-      "summary": "A camera drone captured extraordinarily rare footage of a humpback whale giving birth off the Australian coast.",
-      "url": "https://www.livescience.com/animals/whales/its-incredibly-rare-to-see-a-moment-like-this-in-the-ocean-camera-drone-captures-moment-humpback-whale-gives-birth-off-australian-coast"
-    },
-    {
-      "category": "AI",
-      "title": "Jeff Dean Leaving Google",
-      "source": "Hacker News: Front Page",
-      "date": "Wed, 05 Aug 2026 16:14:49 +0000",
-      "summary": "Article URL: https://twitter.com/JeffDean/status/2085034604172603724\nComments URL: https://news.ycombinator.com/item?id=49184879\nPoints: 35\n# Comments: 2",
-      "url": "https://twitter.com/JeffDean/status/2085034604172603724"
-    },
-    {
       "category": "Space",
-      "title": " Astronomers witness the strange final moments of a massive star's supernova death (video) ",
-      "source": " Latest from Space.com ",
-      "date": "Wed, 05 Aug 2026 16:00:00 +0000",
-      "summary": "Astronomers have captured the death of a massive star from its first faint flash of X-rays, revealing an unusual supernova.",
-      "url": "https://www.space.com/astronomy/stars/astronomers-witness-the-strange-final-moments-of-a-massive-stars-supernova-death-video"
-    },
-    {
-      "category": "Science",
-      "title": " 'It's real, and it's happening': Antibiotic resistance in kids is rising around the world, massive study finds ",
-      "source": " Latest from Live Science ",
-      "date": "Wed, 05 Aug 2026 15:48:37 +0000",
-      "summary": "A global analysis shows how antibiotic resistance has been increasing among childhood infections.",
-      "url": "https://www.livescience.com/health/medicine-drugs/its-real-and-its-happening-antibiotic-resistance-in-kids-is-rising-around-the-world-massive-study-finds"
-    },
-    {
-      "category": "AI",
-      "title": "Google plans to kill Assistant on your phone on September 4",
-      "source": "Ars Technica - All content",
-      "date": "Wed, 05 Aug 2026 15:30:02 +0000",
-      "summary": "Assistant will disappear, leaving only Gemini for voice control in the coming weeks.",
-      "url": "https://arstechnica.com/ai/2026/08/google-plans-to-kill-assistant-on-your-phone-on-september-4/"
-    },
-    {
-      "category": "Space",
-      "title": " Curiosity rover spots mysterious honeycombs on Mars | Space photo of the day for Aug. 5, 2026 ",
-      "source": " Latest from Space.com ",
-      "date": "Wed, 05 Aug 2026 14:10:19 +0000",
-      "summary": "NASA's Curiosity Mars rover spotted surprising honeycomb-like shapes in the Red Planet soil while exploring a large valley.",
-      "url": "https://www.space.com/astronomy/mars/curiosity-rover-spots-mysterious-honeycombs-on-mars-space-photo-of-the-day-for-aug-5-2026"
-    },
-    {
-      "category": "Space",
-      "title": " On this day in space! Aug. 5, 2011:  NASA's Juno spacecraft launches to Jupiter ",
-      "source": " Latest from Space.com ",
-      "date": "Wed, 05 Aug 2026 14:00:00 +0000",
-      "summary": "On Aug. 5, 2011, NASA launched the Juno spacecraft on a mission to study Jupiter, the largest planet in the solar system. Here's why it mattered.",
-      "url": "https://www.space.com/space-exploration/on-this-day-in-space-august-5-2026"
-    },
-    {
-      "category": "AI",
-      "title": "SpaceX spooks investors with debut earnings report",
-      "source": "Ars Technica - All content",
-      "date": "Wed, 05 Aug 2026 13:59:17 +0000",
-      "summary": "Shares slide in pre-market trading even as group says its quarterly revenues nearly doubled.",
-      "url": "https://arstechnica.com/ai/2026/08/spacex-spooks-investors-with-debut-earnings-report/"
+      "title": "NASA’s Perseverance Captures Phobos and Earth",
+      "source": "NASA",
+      "date": "Wed, 05 Aug 2026 15:28:03 +0000",
+      "summary": "Description This composite of seven images from the Mastcam-Z instrument aboard NASA’s Perseverance Mars rover shows Earth, visible as a small bright dot moving from upper left to lower right, passing behind the Martian moon Phobos on July 2, 2026, 1,907th Martian day, or sol, of the mission. The black background is the result of […]",
+      "url": "https://science.nasa.gov/photojournal/nasas-perseverance-captures-phobos-and-earth/"
     },
     {
       "category": "Science",
