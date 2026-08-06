@@ -1,54 +1,150 @@
 {
-  "lastUpdated": "2026-08-05T22:50:47.742Z",
+  "lastUpdated": "2026-08-06T11:58:15.027Z",
   "articleCount": 39,
   "articles": [
     {
       "category": "Science",
-      "title": "Long-term study suggests landfill methane emissions are far higher than estimates",
+      "title": "Improving oats for growers and consumers",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Wed, 05 Aug 2026 18:40:01 EDT",
-      "summary": "Methane is an especially potent greenhouse gas, causing much more warming than carbon dioxide on a unit-for-unit basis—and a new, uniquely long-term study of emissions at a New Jersey landfill suggests that estimates of methane pollution in the U.S. and elsewhere may be dramatically off. The study, published by researchers at Columbia University's Lamont-Doherty Earth Observatory, which is part of the Columbia Climate School, used continuous ground-based measurements to determine that landfill methane emissions are likely much higher than current estimates.",
-      "url": "https://phys.org/news/2026-08-term-landfill-methane-emissions-higher.html"
+      "date": "Thu, 06 Aug 2026 07:40:03 EDT",
+      "summary": "Heart-healthy oats are finding their way into a wider variety of products and recipes as consumer demand grows. Although oats are grown on far fewer acres than other U.S. crops, farmers are able to keep up with demand through genetic gains in yield and other important agronomic traits.",
+      "url": "https://phys.org/news/2026-08-oats-growers-consumers.html"
+    },
+    {
+      "category": "AI",
+      "title": "How Americans View Capitalism, Socialism and Free Enterprise",
+      "source": "Hacker News: Front Page",
+      "date": "Thu, 06 Aug 2026 11:27:08 +0000",
+      "summary": "Article URL: https://news.gallup.com/poll/713144/americans-view-capitalism-socialism-free-enterprise.aspx\nComments URL: https://news.ycombinator.com/item?id=49195244\nPoints: 11\n# Comments: 4",
+      "url": "https://news.gallup.com/poll/713144/americans-view-capitalism-socialism-free-enterprise.aspx"
     },
     {
       "category": "Science",
-      "title": "Experimental drug turns cancer's favorite fuel against it",
+      "title": "Researchers call for rethink of how women are supported into business",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Wed, 05 Aug 2026 18:20:06 EDT",
-      "summary": "Cancer cells have a voracious appetite for sugar—using it to fuel their rapid growth. This is why many scientists have tried to develop drugs that block cancer cells' metabolism by cutting off their sugar supply.",
-      "url": "https://phys.org/news/2026-08-experimental-drug-cancer-favorite-fuel.html"
+      "date": "Thu, 06 Aug 2026 07:20:03 EDT",
+      "summary": "The way women are supported to start and grow businesses needs updating for the digital age, according to researchers from the University of East London. The academics argue that while women continue to face barriers such as unequal access to finance and greater caregiving responsibilities, digital ways of working—from online collaboration and flexible work to cloud-based tools—should be at the heart of helping more women grow businesses.",
+      "url": "https://phys.org/news/2026-08-rethink-women-business.html"
     },
     {
       "category": "Science",
-      "title": "We can help frogs beat a deadly disease. But can they still reproduce?",
+      "title": "Low water on Germany's Rhine River threatens new blow to economy",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Wed, 05 Aug 2026 18:20:01 EDT",
-      "summary": "Many people are blissfully unaware that the world's frogs and amphibians are fighting their own deadly pandemic. In fact, this fungal disease—chytridiomycosis, or chytrid for short—is the worst wildlife disease on record.",
-      "url": "https://phys.org/news/2026-08-frogs-deadly-disease.html"
+      "date": "Thu, 06 Aug 2026 07:00:03 EDT",
+      "summary": "Dwindling water levels on some of Germany's major rivers, worsened by heat and drought, are raising fears that badly constrained riverboat cargo traffic could deal yet another blow to the struggling economy.",
+      "url": "https://phys.org/news/2026-08-germany-rhine-river-threatens-economy.html"
+    },
+    {
+      "category": "Science",
+      "title": " Crystal made from 13-sided 'einstein' shape bends light in ways nobody imagined ",
+      "source": " Latest from Live Science ",
+      "date": "Thu, 06 Aug 2026 10:00:00 +0000",
+      "summary": "Scientists carved a 13-sided shape called an \"einstein\" into a chip and discovered that it steers light in ways no other crystal does.",
+      "url": "https://www.livescience.com/physics-mathematics/crystal-made-from-13-sided-einstein-shape-bends-light-in-ways-nobody-imagined"
+    },
+    {
+      "category": "Science",
+      "title": " Engineers build world's first portable diamond-powered quantum computer — it works at room temperature and can be plugged into an outlet ",
+      "source": " Latest from Live Science ",
+      "date": "Thu, 06 Aug 2026 09:00:00 +0000",
+      "summary": "The world's first portable, room-temperature quantum computer with more than 10 qubits utilizes flawed lab-made diamonds. The quantum system fits into a standard server rack and connects to a typical power grid.",
+      "url": "https://www.livescience.com/technology/quantum/scientists-built-a-room-temperature-quantum-computer-with-diamond-based-qubits"
     },
     {
       "category": "AI",
-      "title": "The Title Cards in Blade Runner Are Fucking Amazing",
+      "title": "What I love about Django",
       "source": "Hacker News: Front Page",
-      "date": "Wed, 05 Aug 2026 21:29:23 +0000",
-      "summary": "Article URL: https://randsinrepose.com/archives/blade-runner-title-cards/\nComments URL: https://news.ycombinator.com/item?id=49189287\nPoints: 37\n# Comments: 8",
-      "url": "https://randsinrepose.com/archives/blade-runner-title-cards/"
+      "date": "Thu, 06 Aug 2026 07:34:06 +0000",
+      "summary": "Article URL: https://buttondown.com/blog/what-i-love-about-django\nComments URL: https://news.ycombinator.com/item?id=49193673\nPoints: 90\n# Comments: 65",
+      "url": "https://buttondown.com/blog/what-i-love-about-django"
+    },
+    {
+      "category": "Space",
+      "title": " Plan your perfect 2026 total solar eclipse experience with these smartphone apps ",
+      "source": " Latest from Space.com ",
+      "date": "Thu, 06 Aug 2026 07:00:00 +0000",
+      "summary": "From exact timings to cloud cover warnings, these smartphone apps will help you dial in on the 2026 total solar eclipse.",
+      "url": "https://www.space.com/stargazing/solar-eclipses/plan-your-perfect-2026-total-solar-eclipse-experience-with-these-smartphone-apps"
     },
     {
       "category": "AI",
-      "title": "Nvidia's Vera Whitepaper Has a Thread Loose",
+      "title": "Let's all meet up in the Y2K",
       "source": "Hacker News: Front Page",
-      "date": "Wed, 05 Aug 2026 21:24:45 +0000",
-      "summary": "Article URL: https://chipsandcheese.com/p/nvidias-vera-whitepaper-has-a-thread\nComments URL: https://news.ycombinator.com/item?id=49189234\nPoints: 31\n# Comments: 3",
-      "url": "https://chipsandcheese.com/p/nvidias-vera-whitepaper-has-a-thread"
+      "date": "Thu, 06 Aug 2026 06:43:38 +0000",
+      "summary": "Article URL: https://blog.gingerbeardman.com/2026/08/06/lets-all-meet-up-in-the-y2k/\nComments URL: https://news.ycombinator.com/item?id=49193314\nPoints: 74\n# Comments: 34",
+      "url": "https://blog.gingerbeardman.com/2026/08/06/lets-all-meet-up-in-the-y2k/"
+    },
+    {
+      "category": "Space",
+      "title": " Where will the total solar eclipse 2026 be visible from? ",
+      "source": " Latest from Space.com ",
+      "date": "Thu, 06 Aug 2026 06:00:00 +0000",
+      "summary": "Find out where you can experience totality on Aug. 12, 2026, and which countries will experience a partial solar eclipse.",
+      "url": "https://www.space.com/stargazing/solar-eclipses/where-will-the-total-solar-eclipse-2026-be-visible-from"
+    },
+    {
+      "category": "Space",
+      "title": "APOD: 2026 August 6 – New Sharpest Image of the Sun Uncovers Instability",
+      "source": "NASA",
+      "date": "Thu, 06 Aug 2026 04:05:00 +0000",
+      "summary": "APOD Science APOD APOD: 2026 August 6 – New… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. New Sharpest […]",
+      "url": "https://science.nasa.gov/image-article/apod-2026-august-6-new-sharpest-image-of-the-sun-uncovers-instability/"
+    },
+    {
+      "category": "Theology",
+      "title": "The One Where We Offend Everyone",
+      "source": "The Gospel Coalition",
+      "date": "Thu, 06 Aug 2026 04:04:25 +0000",
+      "summary": "Courtney Doctor and Melissa Kruger discuss why Christians shouldn’t be quick to take offense and how we should live in a culture where people are easily offended.",
+      "url": "https://www.thegospelcoalition.org/podcasts/deep-dish/one-where-offend-everyone/"
+    },
+    {
+      "category": "Theology",
+      "title": "Why Liberalism Needs Christianity",
+      "source": "The Gospel Coalition",
+      "date": "Thu, 06 Aug 2026 04:02:00 +0000",
+      "summary": "The crucial question is whether Christianity is true. ‘The End of Woke’ reminds us we should be grateful to live in a society that still allows us to ask it.",
+      "url": "https://www.thegospelcoalition.org/reviews/end-woke-counter-revolution/"
+    },
+    {
+      "category": "Theology",
+      "title": "Every Type of Psalm Belongs to Jesus",
+      "source": "The Gospel Coalition",
+      "date": "Thu, 06 Aug 2026 04:00:00 +0000",
+      "summary": "When we see Jesus’s full experience of suffering, we learn that the laments weren’t meant to send us spiraling into despair. Instead, God invites us to pour out our complaints to him.",
+      "url": "https://www.thegospelcoalition.org/article/every-psalm-belongs-jesus/"
+    },
+    {
+      "category": "Science",
+      "title": "Claude Fable 5 AI finds a tiny formula that topples an 87-year-old math conjecture",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Wed, 05 Aug 2026 22:02:49 EDT",
+      "summary": "A mathematician working at Anthropic says he used the AI model Claude Fable 5 to uncover a remarkably simple counterexample to the Jacobian conjecture, a famous problem that has resisted mathematicians for more than a century. The result shows that the conjecture is false in three dimensions and above, although the original two-dimensional version remains unsolved.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260804034634.htm"
+    },
+    {
+      "category": "Science",
+      "title": "567-million-year-old fossils rewrite the dawn of animal life",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Wed, 05 Aug 2026 20:33:35 EDT",
+      "summary": "A spectacular fossil site in Canada contains 567-million-year-old creatures that may represent some of the earliest animals to move, reproduce sexually, and develop recognizable body plans. The discovery pushes key evolutionary milestones back by up to 10 million years and suggests complex animal life may have first flourished in the deep ocean.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260804034644.htm"
+    },
+    {
+      "category": "History",
+      "title": "Jefferson & the Crucible of Peaceable Coercions",
+      "source": "Journal of the American Revolution",
+      "date": "Wed, 05 Aug 2026 23:31:24 +0000",
+      "summary": "It was not just an affirmation of him and his principles by the American people, nor a rejection of his opponents. Thomas Jefferson’s election to the presidency in 1800 was, above all else, an opportunity. Up to this moment, he had been a writer, theorist, legislator, ambassador, secretary, and vice president. But except for a […]\nThe post Jefferson & the Crucible of Peaceable Coercions appeared first on Journal of the American Revolution.",
+      "url": "https://allthingsliberty.com/2026/08/jefferson-the-crucible-of-peaceable-coercions/"
     },
     {
       "category": "AI",
-      "title": "Nikita Bier Steps Down as Head of Product at X",
-      "source": "Hacker News: Front Page",
-      "date": "Wed, 05 Aug 2026 21:15:40 +0000",
-      "summary": "Article URL: https://twitter.com/nikitabier/status/2085105586966827343/\nComments URL: https://news.ycombinator.com/item?id=49189113\nPoints: 25\n# Comments: 26",
-      "url": "https://twitter.com/nikitabier/status/2085105586966827343/"
+      "title": "Thousands of servers can be backdoored by exploiting buggy motherboard controllers",
+      "source": "Ars Technica - All content",
+      "date": "Wed, 05 Aug 2026 22:35:20 +0000",
+      "summary": "Baseboard management controllers from the world's biggest manufacturers are a security mess.",
+      "url": "https://arstechnica.com/security/2026/08/thousands-of-servers-can-be-backdoored-by-exploiting-buggy-motherboard-controllers/"
     },
     {
       "category": "AI",
@@ -75,28 +171,12 @@
       "url": "https://arstechnica.com/security/2026/08/anthropics-ai-used-fake-identities-malware-in-rogue-attack-on-github-project/"
     },
     {
-      "category": "AI",
-      "title": "Reddit signals ominous upcoming \"changes” for old.reddit.com",
-      "source": "Ars Technica - All content",
-      "date": "Wed, 05 Aug 2026 20:01:32 +0000",
-      "summary": "Reddit says the beloved site is used for some \"bad behavior.\"",
-      "url": "https://arstechnica.com/gadgets/2026/08/reddit-signals-ominous-upcoming-changes-for-old-reddit-com/"
-    },
-    {
       "category": "Science",
       "title": " A star 20 times the size of the sun died in a supernova — and telescopes around the world joined forces to watch it ",
       "source": " Latest from Live Science ",
       "date": "Wed, 05 Aug 2026 19:47:46 +0000",
       "summary": "A team of telescopes around the world, including the newly activated Vera C. Rubin Observatory, joined forces to observe the first shocking moments of a supernova explosion in unprecedented detail.",
       "url": "https://www.livescience.com/space/astronomy/a-star-20-times-the-size-of-the-sun-died-in-a-supernova-and-telescopes-around-the-world-joined-forces-to-watch-it"
-    },
-    {
-      "category": "Space",
-      "title": " The 'Dark Matter' season 2 trailer is here, and it looks like Apple TV has another sci-fi hit on its hands ",
-      "source": " Latest from Space.com ",
-      "date": "Wed, 05 Aug 2026 19:00:00 +0000",
-      "summary": "\"The box is the most powerful thing ever created.\"",
-      "url": "https://www.space.com/entertainment/space-movies-shows/the-dark-matter-season-2-trailer-is-here-and-it-looks-like-apple-tv-has-another-sci-fi-hit-on-its-hands"
     },
     {
       "category": "Space",
@@ -107,52 +187,12 @@
       "url": "https://science.nasa.gov/missions/ixpe/nasas-ixpe-may-have-proven-90-year-old-theory/"
     },
     {
-      "category": "Science",
-      "title": " Why the Aug. 12 total solar eclipse appears to move backward on maps ",
-      "source": " Latest from Live Science ",
-      "date": "Wed, 05 Aug 2026 17:54:36 +0000",
-      "summary": "While eclipse paths always move from west to east, this one seems to reverse direction on maps as it crosses the Arctic. Here's the geometry behind the illusion.",
-      "url": "https://www.livescience.com/space/the-sun/why-the-aug-12-total-solar-eclipse-appears-to-move-backward-on-maps"
-    },
-    {
-      "category": "Space",
-      "title": " A SpaceX rocket just crashed into the moon. Now, the race is on to get a look at the impact site ",
-      "source": " Latest from Space.com ",
-      "date": "Wed, 05 Aug 2026 17:43:30 +0000",
-      "summary": "Early this morning, a SpaceX rocket slammed into the moon at seven times the speed of sound. Now, lunar orbiters are trying to get a look at the aftermath.",
-      "url": "https://www.space.com/astronomy/moon/a-spacex-rocket-just-crashed-into-the-moon-now-the-race-is-on-to-get-a-look-at-the-impact-site"
-    },
-    {
       "category": "Space",
       "title": "Artemis III Orion Crew and Service Models Joined",
       "source": "NASA",
       "date": "Wed, 05 Aug 2026 17:27:18 +0000",
       "summary": "Technicians joined the Orion crew and service modules together on July 30, 2026, inside the Neil Armstrong Operations and Checkout Building at NASA’s Kennedy Space Center in Florida. The crew module will carry and sustain NASA astronauts Randy Bresnik, Andre Douglas, and Frank Rubio, and ESA (European Space Agency) astronaut Luca Parmitano, while the service […]",
       "url": "https://www.nasa.gov/image-article/artemis-iii-orion-crew-and-service-models-joined/"
-    },
-    {
-      "category": "Science",
-      "title": " Stunning fossil from Australian outback reveals pliosaur killed a sea monster that had just eaten a pterosaur ",
-      "source": " Latest from Live Science ",
-      "date": "Wed, 05 Aug 2026 16:23:34 +0000",
-      "summary": "Using advanced neutron imaging, researchers scanning fossils from Queensland uncovered clues about the complex food chain of prehistoric Earth.",
-      "url": "https://www.livescience.com/animals/extinct-species/stunning-fossil-from-australian-outback-reveals-pliosaur-killed-a-sea-monster-that-had-just-eaten-a-pterosaur"
-    },
-    {
-      "category": "Space",
-      "title": "NASA’s Perseverance Captures Phobos and Earth",
-      "source": "NASA",
-      "date": "Wed, 05 Aug 2026 15:28:03 +0000",
-      "summary": "Description This composite of seven images from the Mastcam-Z instrument aboard NASA’s Perseverance Mars rover shows Earth, visible as a small bright dot moving from upper left to lower right, passing behind the Martian moon Phobos on July 2, 2026, 1,907th Martian day, or sol, of the mission. The black background is the result of […]",
-      "url": "https://science.nasa.gov/photojournal/nasas-perseverance-captures-phobos-and-earth/"
-    },
-    {
-      "category": "Science",
-      "title": "Scientists discover the brain cells that keep you motivated",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Wed, 05 Aug 2026 08:09:48 EDT",
-      "summary": "A group of brain cells called orexin neurons appears to help us keep working when reaching a reward becomes increasingly difficult. Blocking their activity weakened motivation in rats, pointing to a possible new target for understanding why people sometimes struggle to sustain goal-directed behavior.",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260804034622.htm"
     },
     {
       "category": "Biblical Studies",
@@ -179,22 +219,6 @@
       "url": "https://www.sciencedaily.com/releases/2026/08/260804034645.htm"
     },
     {
-      "category": "Science",
-      "title": "A solar eclipse and the Perseid meteor shower arrive on the same day",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Wed, 05 Aug 2026 00:13:47 EDT",
-      "summary": "August brings four major celestial events, including a solar eclipse and the peak of the Perseid meteor shower. Dark New Moon skies could make the Perseids especially impressive, while Venus will blaze in the west after sunset. A deep partial lunar eclipse closes the month, darkening most of the Moon.",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260804034628.htm"
-    },
-    {
-      "category": "Theology",
-      "title": "Our Line in the Sand on AI: TGC’s Missional Opportunity",
-      "source": "The Gospel Coalition",
-      "date": "Wed, 05 Aug 2026 04:00:00 +0000",
-      "summary": "TGC articles are human-made, human-edited, human-assessed, made in human community for other humans—as an act of love, fellowship, and worship.",
-      "url": "https://www.thegospelcoalition.org/article/ai-tgc-missional-opportunity/"
-    },
-    {
       "category": "AI",
       "title": "Third-party cyber evaluations involving OpenAI models",
       "source": "OpenAI News",
@@ -217,22 +241,6 @@
       "date": "Tue, 04 Aug 2026 11:00:58 +0000",
       "summary": "Eve, Sarah, Rebecca, Leah, and Rachel—the names of biblical matriarchs such as these have lived on long after they were first written down more than […]\nThe post Who Was Noah’s Wife? appeared first on Biblical Archaeology Society.",
       "url": "https://www.biblicalarchaeology.org/daily/biblical-topics/bible-interpretation/who-was-noahs-wife/"
-    },
-    {
-      "category": "Theology",
-      "title": "Sleep Is More than Rest—It’s a Lesson in Grace",
-      "source": "The Gospel Coalition",
-      "date": "Tue, 04 Aug 2026 04:02:00 +0000",
-      "summary": "‘The Wisdom of Sleep’ reminds us that rest—whether waking or sleeping—is an act of worship.",
-      "url": "https://www.thegospelcoalition.org/reviews/wisdom-sleep-rest/"
-    },
-    {
-      "category": "Theology",
-      "title": "‘The Odyssey’: Homer’s Story of Glory and Misery",
-      "source": "The Gospel Coalition",
-      "date": "Tue, 04 Aug 2026 04:00:00 +0000",
-      "summary": "In ‘The Odyssey,’ Homer’s vision of the good life falls short of the glory God has designed humans for. So does Nolan’s.",
-      "url": "https://www.thegospelcoalition.org/article/odyssey-story-glory-misery/"
     },
     {
       "category": "AI",
@@ -273,14 +281,6 @@
       "date": "Thu, 30 Jul 2026 00:00:09 +0000",
       "summary": "1777 was a very good year for Daniel Morgan. He was promoted to colonel in late 1776 and received the commission in January 1777. Gen. George Washington had pushed Congress to make the promotion, having been impressed by Morgan’s performance leading three companies of riflemen in the ill-fated 1775 invasion of Canada. While the expedition […]\nThe post American Achilles: Daniel Morgan’s Resignation and Return to Service appeared first on Journal of the American Revolution.",
       "url": "https://allthingsliberty.com/2026/07/american-achilles-daniel-morgans-resignation-and-return-to-service/"
-    },
-    {
-      "category": "History",
-      "title": "This Week on Dispatches: Jesse Wegman on James Wilson, the “Lost Founder”",
-      "source": "Journal of the American Revolution",
-      "date": "Wed, 29 Jul 2026 14:50:50 +0000",
-      "summary": "On this week’s Dispatches, host Brady Crytzer interviews author Jesse Wegman about his new book, The Lost Founder: James Wilson and the Forgotten Fight for a People’s Constitution. New episodes of Dispatches are available for free every Sunday evening(Eastern United States Time), first on iTunes, Stitcher, Google Play, Amazon Music, and the JAR Dispatches web site. Each […]\nThe post This Week on Dispatches: Jesse Wegman on James Wilson, the “Lost Founder” appeared first on Journal of the American Revolution.",
-      "url": "https://allthingsliberty.com/2026/07/this-week-on-dispatches-jesse-wegman-on-james-wilson-the-lost-founder/"
     },
     {
       "category": "Theology",
