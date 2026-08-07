@@ -1,54 +1,126 @@
 {
-  "lastUpdated": "2026-08-07T01:28:03.780Z",
+  "lastUpdated": "2026-08-07T10:44:12.630Z",
   "articleCount": 36,
   "articles": [
     {
+      "category": "Science",
+      "title": "Earth’s molten core suddenly reversed direction — and scientists don’t know why",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Fri, 07 Aug 2026 06:24:52 EDT",
+      "summary": "Earth’s molten iron core unexpectedly reversed direction beneath the Pacific, revealing a dramatic change in the hidden engine that creates our planet’s magnetic field. Satellite data suggest the surge is already weakening, raising the possibility that the deep-Earth upheaval is part of a mysterious natural cycle.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260806050713.htm"
+    },
+    {
+      "category": "Science",
+      "title": " NASA grants Voyager 2 probe another year of power with risky 'Big Bang' maneuver. Now, will it work for Voyager 1? ",
+      "source": " Latest from Live Science ",
+      "date": "Fri, 07 Aug 2026 10:00:00 +0000",
+      "summary": "Voyager 1 is running low on power for science, but a successful energy-saving maneuver on Voyager 2 raises hope that the 50-year-old spacecraft can keep going.",
+      "url": "https://www.livescience.com/space/space-exploration/nasa-grants-voyager-2-probe-another-year-of-power-with-risky-big-bang-maneuver-now-will-it-work-for-voyager-1"
+    },
+    {
+      "category": "Science",
+      "title": " AI found a weakness in one of the world's most studied encryption systems — is your data under threat? ",
+      "source": " Latest from Live Science ",
+      "date": "Fri, 07 Aug 2026 09:30:00 +0000",
+      "summary": "No, AI hasn't cracked the encryption protecting your bank account. But experts say Anthropic's latest research could change how tomorrow's cryptography is tested.",
+      "url": "https://www.livescience.com/technology/artificial-intelligence/ai-found-a-weakness-in-one-of-the-worlds-most-studied-encryption-systems-is-your-data-under-threat"
+    },
+    {
       "category": "AI",
-      "title": "New Orleans will use AI to answer 911 calls instead of a human",
+      "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
+      "source": "OpenAI News",
+      "date": "Fri, 07 Aug 2026 09:00:00 GMT",
+      "summary": "Discover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service.",
+      "url": "https://openai.com/index/hsp-gruppe"
+    },
+    {
+      "category": "Science",
+      "title": "UK observatory nervously watches growing space junk threat",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Fri, 07 Aug 2026 04:40:02 EDT",
+      "summary": "In the sweeping shadow of a satellite dish, staff at the Chilbolton Observatory in southern England track a growing number of objects in Earth's orbit, providing data that underpins Britain's space monitoring efforts.",
+      "url": "https://phys.org/news/2026-08-uk-observatory-nervously-space-junk.html"
+    },
+    {
+      "category": "Science",
+      "title": "Officials will not release cool water from a Colorado River reservoir to protect threatened fish",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Fri, 07 Aug 2026 03:40:01 EDT",
+      "summary": "Federal officials said Thursday they will not release cool water this year from one of the Colorado River's major reservoirs, which would have protected a threatened native fish downstream but put more strain on already struggling hydropower production.",
+      "url": "https://phys.org/news/2026-08-cool-colorado-river-reservoir-threatened.html"
+    },
+    {
+      "category": "Science",
+      "title": "US firm takes on backyard mosquitoes—with 600,000 mosquitoes",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Fri, 07 Aug 2026 03:20:02 EDT",
+      "summary": "Todd Montgomery pops the lid off a small tube and taps out hundreds of mosquitoes into the backyard of a suburban home outside Washington.",
+      "url": "https://phys.org/news/2026-08-firm-backyard-mosquitoes.html"
+    },
+    {
+      "category": "Theology",
+      "title": "Pastoring Those with Differing Views on God’s Sovereignty in Salvation",
+      "source": "9Marks",
+      "date": "Fri, 07 Aug 2026 06:12:47 +0000",
+      "summary": "The ultimate basis of your hope of making it to the end secure in Christ is not your own resolve, seriousness, or moral character but the finished work of Christ and all of God’s promises in him.\nThe post Pastoring Those with Differing Views on God’s Sovereignty in Salvation appeared first on 9Marks.",
+      "url": "https://www.9marks.org/article/pastoring-those-with-differing-views-on-gods-sovereignty-in-salvation/?utm_source=rss&utm_medium=rss&utm_campaign=pastoring-those-with-differing-views-on-gods-sovereignty-in-salvation"
+    },
+    {
+      "category": "Space",
+      "title": " Why you don't need a perfectly clear sky to enjoy the total solar eclipse on Aug. 12 ",
+      "source": " Latest from Space.com ",
+      "date": "Fri, 07 Aug 2026 06:00:00 +0000",
+      "summary": "Millions will see a deep partial or total solar eclipse on Aug. 12, but there's no need to fixate on completely clear skies.",
+      "url": "https://www.space.com/stargazing/solar-eclipses/why-you-dont-need-a-perfectly-clear-sky-to-enjoy-the-total-solar-eclipse-on-aug-12"
+    },
+    {
+      "category": "AI",
+      "title": "Framework discloses data breach via Metabase 0-day",
+      "source": "Hacker News: Front Page",
+      "date": "Fri, 07 Aug 2026 05:17:57 +0000",
+      "summary": "Article URL: https://community.frame.work/t/framework-data-breach-discussion/83939\nComments URL: https://news.ycombinator.com/item?id=49206130\nPoints: 89\n# Comments: 30",
+      "url": "https://community.frame.work/t/framework-data-breach-discussion/83939"
+    },
+    {
+      "category": "Science",
+      "title": "Scientists find unexpected life on Ötzi the Iceman’s 5,300-year-old body",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Fri, 07 Aug 2026 00:24:49 EDT",
+      "summary": "More than 5,000 years after his death, Ötzi the Iceman is still hosting a remarkable mix of ancient and modern microorganisms. Researchers separated microbes that lived in his body during his lifetime from those that arrived after his death, uncovering traces of his original gut bacteria and cold-loving yeasts that may have survived alongside him in the glacier for millennia.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260806050721.htm"
+    },
+    {
+      "category": "Theology",
+      "title": "Living the Gospel at Work",
+      "source": "The Gospel Coalition",
+      "date": "Fri, 07 Aug 2026 04:04:00 +0000",
+      "summary": "Christians can showcase Christ’s character through their work ethic, business practices, and relationship dynamics.",
+      "url": "https://www.thegospelcoalition.org/podcasts/tgc-podcast/living-gospel-work/"
+    },
+    {
+      "category": "Theology",
+      "title": "Gospel Hope for College Drop-Off",
+      "source": "The Gospel Coalition",
+      "date": "Fri, 07 Aug 2026 04:00:00 +0000",
+      "summary": "As I help my son move 10 hours from home, this question erupts from the depths of my heart: How does God redeem the particular pains of parenting—things that the passage of time takes away?",
+      "url": "https://www.thegospelcoalition.org/article/gospel-hope-college-drop-off/"
+    },
+    {
+      "category": "AI",
+      "title": "New Orleans is testing Carbyne’s AI-powered Emergency Call Triage software",
       "source": "Hacker News: Front Page",
       "date": "Fri, 07 Aug 2026 00:37:30 +0000",
-      "summary": "Article URL: https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/\nComments URL: https://news.ycombinator.com/item?id=49204546\nPoints: 11\n# Comments: 4",
+      "summary": "Article URL: https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/\nComments URL: https://news.ycombinator.com/item?id=49204546\nPoints: 60\n# Comments: 88",
       "url": "https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/"
     },
     {
       "category": "AI",
-      "title": "Show HN: Whisper transcribes 70-year-olds more accurately than 20-year-olds",
-      "source": "Hacker News: Front Page",
-      "date": "Fri, 07 Aug 2026 00:10:04 +0000",
-      "summary": "Article URL: https://github.com/Kayvan-Zahiri/asr-age-gap\nComments URL: https://news.ycombinator.com/item?id=49204388\nPoints: 12\n# Comments: 3",
-      "url": "https://github.com/Kayvan-Zahiri/asr-age-gap"
-    },
-    {
-      "category": "AI",
-      "title": "Meta Ordered to Pay $942M to Address Harm to Kids from Social Media",
+      "title": "New Mexico court orders Meta to pay $567m over harms to children’s mental health",
       "source": "Hacker News: Front Page",
       "date": "Fri, 07 Aug 2026 00:06:28 +0000",
-      "summary": "Article URL: https://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-address-harm-to-kids-from-social-media-8ba5aab7\nComments URL: https://news.ycombinator.com/item?id=49204352\nPoints: 37\n# Comments: 10",
-      "url": "https://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-address-harm-to-kids-from-social-media-8ba5aab7"
-    },
-    {
-      "category": "Science",
-      "title": "AI for homework—parents more willing to pay subscriptions for their children as peer pressure rises",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Thu, 06 Aug 2026 19:40:01 EDT",
-      "summary": "Many parents have mixed feelings about the unrestricted use of artificial intelligence (AI) for schoolwork. They are concerned about the potential impact on their child's ability to learn but also don't want them to be left behind if other young people are using AI.",
-      "url": "https://phys.org/news/2026-08-ai-homework-parents-pay-subscriptions.html"
-    },
-    {
-      "category": "Science",
-      "title": "Bacterial enzyme switch could weaken antibiotic defenses in MRSA and other pathogens",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Thu, 06 Aug 2026 19:20:01 EDT",
-      "summary": "If you ask Vijay Parashar, associate professor of medical and molecular sciences (MMSC) at the University of Delaware College of Health Sciences, human bodies are bags of bacteria. \"It sounds gross, but not all bacteria are bad; most of them are good. The trouble starts when the bad bacteria learn how to outsmart antibiotics.\"",
-      "url": "https://phys.org/news/2026-08-bacterial-enzyme-weaken-antibiotic-defenses.html"
-    },
-    {
-      "category": "Science",
-      "title": "An elegant modification doubles the range of low-noise 'white lasers' in a single fiber",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Thu, 06 Aug 2026 19:00:03 EDT",
-      "summary": "Supercontinuum light sources—often called \"white lasers\" because they emit a broad, continuous rainbow of colors—are essential tools for everything from advanced medical imaging to environmental gas detection. However, researchers have historically faced a frustrating trade-off: A broad spectrum comes at the expense of high fluctuations, which has effectively limited their use.",
-      "url": "https://phys.org/news/2026-08-elegant-modification-range-noise-white.html"
+      "summary": "https://www.reuters.com/world/new-mexico-court-orders-meta-p...\nhttps://www.theguardian.com/technology/2026/aug/06/new-mexic...\nhttps://www.kob.com/new-mexico/nm-court-orders-meta-to-pay-5...\nhttps://www.bbc.com/news/articles/cd7lz3wr2rlo\nhttps://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-...\nComments URL: https://news.ycombinator.com/item?id=49204352\nPoints: 314\n# Comments: 206",
+      "url": "https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta"
     },
     {
       "category": "AI",
@@ -84,19 +156,11 @@
     },
     {
       "category": "Space",
-      "title": " '1 more step': NASA astronauts conduct 6.5-hour spacewalk to prep ISS for solar array upgrade ",
+      "title": " 'One more step': NASA astronauts conduct 6.5-hour spacewalk to prep ISS for solar array upgrade ",
       "source": " Latest from Space.com ",
       "date": "Thu, 06 Aug 2026 20:05:01 +0000",
       "summary": "Jessica Meir and Anil Menon completed a 6.5-hour spacewalk to install solar array mounting hardware outside of the International Space Station on Thursday, Aug. 6, 2026.",
       "url": "https://www.space.com/space-exploration/international-space-station/1-more-step-nasa-astronauts-conduct-6-5-hour-spacewalk-to-prep-iss-for-solar-array-upgrade"
-    },
-    {
-      "category": "Science",
-      "title": " 'It would be a disaster': Ammunition for war and surging water withdrawals are putting the Caspian Sea ‪on the brink of collapse ",
-      "source": " Latest from Live Science ",
-      "date": "Thu, 06 Aug 2026 20:01:11 +0000",
-      "summary": "Live Science spoke with professor of civil and environmental engineering Amir AghaKouchak about the reasons behind the Caspian Sea's stark decline over the past three decades.",
-      "url": "https://www.livescience.com/planet-earth/rivers-oceans/it-would-be-a-disaster-ammunition-for-war-and-surging-water-withdrawals-are-putting-the-caspian-sea-on-the-brink-of-collapse"
     },
     {
       "category": "Space",
@@ -105,30 +169,6 @@
       "date": "Thu, 06 Aug 2026 18:34:06 +0000",
       "summary": "Rocket Lab launched its eighth mission for the Japanese Earth-imaging company iQPS on Thursday morning (Aug. 6), five weeks later than originally planned.",
       "url": "https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-launches-japanese-earth-observing-satellite-after-5-week-delay-video-photos"
-    },
-    {
-      "category": "Science",
-      "title": " FDA approves first mRNA vaccine for seasonal flu ",
-      "source": " Latest from Live Science ",
-      "date": "Thu, 06 Aug 2026 17:54:01 +0000",
-      "summary": "The Food and Drug Administration's approval of an mRNA vaccine for flu comes after the agency initially refused to review the approval request for the shot.",
-      "url": "https://www.livescience.com/health/medicine-drugs/fda-approves-first-mrna-vaccine-for-seasonal-flu"
-    },
-    {
-      "category": "Space",
-      "title": " 'Strange New Worlds' latest 'Hangover'-inspired episode is a reminder that 'Star Trek' vacations are never a good idea ",
-      "source": " Latest from Space.com ",
-      "date": "Thu, 06 Aug 2026 16:00:00 +0000",
-      "summary": "Seeking rest or relaxation? You're unlikely to find either on a \"Star Trek\" holiday",
-      "url": "https://www.space.com/entertainment/space-movies-shows/strange-new-worlds-latest-hangover-inspired-episode-is-a-reminder-that-star-trek-vacations-are-never-a-good-idea"
-    },
-    {
-      "category": "Science",
-      "title": "A star’s violent death exposed a hidden supermassive black hole",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Thu, 06 Aug 2026 08:16:32 EDT",
-      "summary": "A supermassive black hole has been found lurking about 30,000 light-years from the center of its galaxy—the first dormant black hole detected so far from a galactic core. It revealed itself only after shredding a passing star and producing a brief, brilliant flare. Astronomers think it may be the remnant of a devoured galaxy or a black hole flung outward during a chaotic cosmic encounter.",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260805082457.htm"
     },
     {
       "category": "Biblical Studies",
@@ -163,14 +203,6 @@
       "url": "https://www.sciencedaily.com/releases/2026/08/260806051943.htm"
     },
     {
-      "category": "Science",
-      "title": "Forget the sperm race: Fertilization may depend on teamwork",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Thu, 06 Aug 2026 02:25:07 EDT",
-      "summary": "Millions of sperm do not always compete alone—some species send them into action as coordinated teams. A sweeping evolutionary study found that this cooperation is widespread among arthropods and has repeatedly emerged and vanished over hundreds of millions of years. The discovery challenges the classic “fastest sperm wins” story and could influence future fertility research and pest-control strategies.",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260805082455.htm"
-    },
-    {
       "category": "AI",
       "title": "Working with the American Psychological Association on youth mental health and AI",
       "source": "OpenAI News",
@@ -185,30 +217,6 @@
       "date": "Thu, 06 Aug 2026 04:04:25 +0000",
       "summary": "Courtney Doctor and Melissa Kruger discuss why Christians shouldn’t be quick to take offense and how we should live in a culture where people are easily offended.",
       "url": "https://www.thegospelcoalition.org/podcasts/deep-dish/one-where-offend-everyone/"
-    },
-    {
-      "category": "Theology",
-      "title": "Why Liberalism Needs Christianity",
-      "source": "The Gospel Coalition",
-      "date": "Thu, 06 Aug 2026 04:02:00 +0000",
-      "summary": "The crucial question is whether Christianity is true. ‘The End of Woke’ reminds us we should be grateful to live in a society that still allows us to ask it.",
-      "url": "https://www.thegospelcoalition.org/reviews/end-woke-counter-revolution/"
-    },
-    {
-      "category": "Theology",
-      "title": "Every Type of Psalm Belongs to Jesus",
-      "source": "The Gospel Coalition",
-      "date": "Thu, 06 Aug 2026 04:00:00 +0000",
-      "summary": "When we see Jesus’s full experience of suffering, we learn that the laments weren’t meant to send us spiraling into despair. Instead, God invites us to pour out our complaints to him.",
-      "url": "https://www.thegospelcoalition.org/article/every-psalm-belongs-jesus/"
-    },
-    {
-      "category": "AI",
-      "title": "From asking to doing: How the world is putting ChatGPT to work",
-      "source": "OpenAI News",
-      "date": "Thu, 06 Aug 2026 00:00:00 GMT",
-      "summary": "New OpenAI Signals data shows how people use ChatGPT worldwide, with country-level insights on adoption, usage trends, and evolving behavior.",
-      "url": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work"
     },
     {
       "category": "History",
@@ -257,14 +265,6 @@
       "date": "Thu, 30 Jul 2026 00:00:09 +0000",
       "summary": "1777 was a very good year for Daniel Morgan. He was promoted to colonel in late 1776 and received the commission in January 1777. Gen. George Washington had pushed Congress to make the promotion, having been impressed by Morgan’s performance leading three companies of riflemen in the ill-fated 1775 invasion of Canada. While the expedition […]\nThe post American Achilles: Daniel Morgan’s Resignation and Return to Service appeared first on Journal of the American Revolution.",
       "url": "https://allthingsliberty.com/2026/07/american-achilles-daniel-morgans-resignation-and-return-to-service/"
-    },
-    {
-      "category": "Theology",
-      "title": "Pastoring Amid Family Turmoil",
-      "source": "9Marks",
-      "date": "Tue, 28 Jul 2026 20:49:08 +0000",
-      "summary": "My call at church was not to soldier on as if nothing was wrong. It was to pastor the church in my weakness so that Christ’s grace would be magnified.\nThe post Pastoring Amid Family Turmoil appeared first on 9Marks.",
-      "url": "https://www.9marks.org/article/pastoring-amid-family-turmoil/?utm_source=rss&utm_medium=rss&utm_campaign=pastoring-amid-family-turmoil"
     },
     {
       "category": "History",
