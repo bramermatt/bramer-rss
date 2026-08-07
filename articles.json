@@ -1,30 +1,158 @@
 {
-  "lastUpdated": "2026-08-07T10:44:12.630Z",
+  "lastUpdated": "2026-08-07T16:44:06.681Z",
   "articleCount": 36,
   "articles": [
     {
       "category": "Science",
-      "title": "Earth’s molten core suddenly reversed direction — and scientists don’t know why",
+      "title": "Just 50°C decides whether an ultrathin magnetic film stays flat or falls apart",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Fri, 07 Aug 2026 12:40:07 EDT",
+      "summary": "Magnetic storage technologies, which store information in the direction of magnetization, play an essential role in modern data storage. Hard disk drives (HDDs) are widely used for long-term storage, while nonvolatile magnetic random-access memory (MRAM) is emerging as a promising alternative to flash memory.",
+      "url": "https://phys.org/news/2026-08-50c-ultrathin-magnetic-stays-flat.html"
+    },
+    {
+      "category": "Science",
+      "title": "Food fraud costs UK economy up to £2 billion a year, new study finds",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Fri, 07 Aug 2026 12:40:03 EDT",
+      "summary": "Food fraud is costing the UK economy up to £2 billion every year, according to the first study to calculate its full economic impact. The research, from the University of Portsmouth, estimates that food fraud costs between £400 million and £2 billion annually, making it one of the country's most expensive forms of economic crime.",
+      "url": "https://phys.org/news/2026-08-food-fraud-uk-economy-billion.html"
+    },
+    {
+      "category": "Science",
+      "title": "Some US adults are using AI for financial guidance but few trust it, Gallup poll finds",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Fri, 07 Aug 2026 12:20:07 EDT",
+      "summary": "Some U.S. adults are using artificial intelligence for financial guidance, but it's far from the most trusted source of advice, according to a new Gallup survey conducted in partnership with Edward Jones, a financial services firm.",
+      "url": "https://phys.org/news/2026-08-adults-ai-financial-guidance-gallup.html"
+    },
+    {
+      "category": "Space",
+      "title": " NASA's SkyFall Mars helicopters will wear tiny capes ",
+      "source": " Latest from Space.com ",
+      "date": "Fri, 07 Aug 2026 16:07:14 +0000",
+      "summary": "These tiny capes carry some serious technology.",
+      "url": "https://www.space.com/astronomy/mars/nasas-skyfall-mars-helicopters-will-wear-tiny-capes"
+    },
+    {
+      "category": "Space",
+      "title": " Engineers race to save stricken LINK rescue spacecraft before it's too late ",
+      "source": " Latest from Space.com ",
+      "date": "Fri, 07 Aug 2026 16:00:00 +0000",
+      "summary": "The private LINK spacecraft, which launched last month to save a NASA space telescope, now needs saving, too —and teams are making progress on that front.",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/engineers-race-to-save-stricken-link-rescue-spacecraft-before-its-too-late"
+    },
+    {
+      "category": "AI",
+      "title": "Zohran Mamdani's NYC Tech Team Is What DOGE Should Have Been",
+      "source": "Hacker News: Front Page",
+      "date": "Fri, 07 Aug 2026 15:59:57 +0000",
+      "summary": "Article URL: https://www.wired.com/story/mamdani-assembles-his-nyc-tech-team/\nComments URL: https://news.ycombinator.com/item?id=49212459\nPoints: 28\n# Comments: 6",
+      "url": "https://www.wired.com/story/mamdani-assembles-his-nyc-tech-team/"
+    },
+    {
+      "category": "AI",
+      "title": "An all-sky map of half a million supermassive black holes",
+      "source": "Hacker News: Front Page",
+      "date": "Fri, 07 Aug 2026 15:24:53 +0000",
+      "summary": "Article URL: https://www.sdss.org/black-hole-mapper-release-20/\nComments URL: https://news.ycombinator.com/item?id=49211921\nPoints: 5\n# Comments: 0",
+      "url": "https://www.sdss.org/black-hole-mapper-release-20/"
+    },
+    {
+      "category": "AI",
+      "title": "Responding to the next frontier of critical cyber capabilities",
+      "source": "OpenAI News",
+      "date": "Fri, 07 Aug 2026 15:20:00 GMT",
+      "summary": "OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls.",
+      "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities"
+    },
+    {
+      "category": "Space",
+      "title": " Chinese company Landspace targets Aug. 10 for historic rocket launch and landing attempt ",
+      "source": " Latest from Space.com ",
+      "date": "Fri, 07 Aug 2026 15:00:00 +0000",
+      "summary": "The Chinese commercial launch company Landspace is set for its second attempt to catch an orbital rocket. Liftoff, and landing, are targeted for next Monday (Aug. 10).",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/chinese-company-landspace-targets-aug-10-for-historic-rocket-launch-and-landing-attempt"
+    },
+    {
+      "category": "AI",
+      "title": "Iceberg Collapses and Flips over in Ilulissat, Greenland (July 25, 2026) [video]",
+      "source": "Hacker News: Front Page",
+      "date": "Fri, 07 Aug 2026 14:55:08 +0000",
+      "summary": "Article URL: https://www.youtube.com/watch?v=UufMqwyO7pY\nComments URL: https://news.ycombinator.com/item?id=49211438\nPoints: 120\n# Comments: 32",
+      "url": "https://www.youtube.com/watch?v=UufMqwyO7pY"
+    },
+    {
+      "category": "AI",
+      "title": "Report: White House drafting executive order linking vaccines and autism",
+      "source": "Ars Technica - All content",
+      "date": "Fri, 07 Aug 2026 14:41:34 +0000",
+      "summary": "Trump determined to link life-saving shots to autism, despite science and political risk.",
+      "url": "https://arstechnica.com/health/2026/08/report-white-house-drafting-executive-order-linking-vaccines-and-autism/"
+    },
+    {
+      "category": "Science",
+      "title": " Bacterial 'postbiotic' may help preserve fertility in the aging uterus, preliminary research suggests ",
+      "source": " Latest from Live Science ",
+      "date": "Fri, 07 Aug 2026 13:58:13 +0000",
+      "summary": "A bacteria-derived \"postbiotic\" may help restore the aging uterus, but experts say it is too early to know whether it could improve fertility as a treatment.",
+      "url": "https://www.livescience.com/health/reproductive-health/bacterial-postbiotic-may-help-preserve-fertility-in-the-aging-uterus-preliminary-research-suggests"
+    },
+    {
+      "category": "AI",
+      "title": "AI chatbots have failed people in crisis. Can that be fixed?",
+      "source": "Ars Technica - All content",
+      "date": "Fri, 07 Aug 2026 13:49:37 +0000",
+      "summary": "Clinicians and researchers say AI companies need to open up their safety data.",
+      "url": "https://arstechnica.com/ai/2026/08/ai-chatbots-have-failed-people-in-crisis-can-that-be-fixed/"
+    },
+    {
+      "category": "Science",
+      "title": " Where to buy last-minute solar eclipse glasses and viewing gear before August 12 ",
+      "source": " Latest from Live Science ",
+      "date": "Fri, 07 Aug 2026 13:35:28 +0000",
+      "summary": "A partial eclipse is still worth seeing, but only with the right protection. Here's where you can still find eclipse glasses, solar binoculars and filters before eclipse day.",
+      "url": "https://www.livescience.com/products/optics/where-to-buy-last-minute-solar-eclipse-glasses-and-viewing-gear-before-august-12"
+    },
+    {
+      "category": "AI",
+      "title": "ByteDance trains massive AI model in bid to rival Anthropic",
+      "source": "Ars Technica - All content",
+      "date": "Fri, 07 Aug 2026 13:29:22 +0000",
+      "summary": "TikTok owner training a model with 10 trillion parameters.",
+      "url": "https://arstechnica.com/ai/2026/08/bytedance-trains-massive-ai-model-in-bid-to-rival-anthropic/"
+    },
+    {
+      "category": "Science",
+      "title": " Uberaba Geopark: A time capsule from the Late Cretaceous period nestled in Brazil's tropical savanna ",
+      "source": " Latest from Live Science ",
+      "date": "Fri, 07 Aug 2026 12:00:00 +0000",
+      "summary": "Uberaba Geopark, also known as the \"Land of the Giants,\" is a region in Brazil's Cerrado biome that preserved thousands of prehistoric fossils.",
+      "url": "https://www.livescience.com/planet-earth/geology/uberaba-geopark-a-time-capsule-from-the-late-cretaceous-period-nestled-in-brazils-tropical-savanna"
+    },
+    {
+      "category": "Science",
+      "title": "Scientists tracked 12 people in Antarctica for 10 months—what happened could shape future Mars missions",
       "source": "All Top News -- ScienceDaily",
-      "date": "Fri, 07 Aug 2026 06:24:52 EDT",
-      "summary": "Earth’s molten iron core unexpectedly reversed direction beneath the Pacific, revealing a dramatic change in the hidden engine that creates our planet’s magnetic field. Satellite data suggest the surge is already weakening, raising the possibility that the deep-Earth upheaval is part of a mysterious natural cycle.",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260806050713.htm"
+      "date": "Fri, 07 Aug 2026 07:18:01 EDT",
+      "summary": "A ten-month Antarctic experiment found that astronauts may struggle not only with loneliness but also with spending too much time around the same people. Frequent contact was linked to greater tension and mistrust, while the crew increasingly divided into cultural and language-based groups.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260806050722.htm"
     },
     {
-      "category": "Science",
-      "title": " NASA grants Voyager 2 probe another year of power with risky 'Big Bang' maneuver. Now, will it work for Voyager 1? ",
-      "source": " Latest from Live Science ",
-      "date": "Fri, 07 Aug 2026 10:00:00 +0000",
-      "summary": "Voyager 1 is running low on power for science, but a successful energy-saving maneuver on Voyager 2 raises hope that the 50-year-old spacecraft can keep going.",
-      "url": "https://www.livescience.com/space/space-exploration/nasa-grants-voyager-2-probe-another-year-of-power-with-risky-big-bang-maneuver-now-will-it-work-for-voyager-1"
+      "category": "Biblical Studies",
+      "title": "Three New Assyrian Kings Discovered",
+      "source": "Biblical Archaeology Society",
+      "date": "Fri, 07 Aug 2026 10:45:30 +0000",
+      "summary": "In a remarkable moment for the study of ancient Near Eastern history, Alexander Johannes Edmonds (University of Münster) and Eckhart Frahm (Yale University) have discovered […]\nThe post Three New Assyrian Kings Discovered appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-near-eastern-world/three-new-assyrian-kings-discovered/"
     },
     {
-      "category": "Science",
-      "title": " AI found a weakness in one of the world's most studied encryption systems — is your data under threat? ",
-      "source": " Latest from Live Science ",
-      "date": "Fri, 07 Aug 2026 09:30:00 +0000",
-      "summary": "No, AI hasn't cracked the encryption protecting your bank account. But experts say Anthropic's latest research could change how tomorrow's cryptography is tested.",
-      "url": "https://www.livescience.com/technology/artificial-intelligence/ai-found-a-weakness-in-one-of-the-worlds-most-studied-encryption-systems-is-your-data-under-threat"
+      "category": "Biblical Studies",
+      "title": "Boy Jesus",
+      "source": "Biblical Archaeology Society",
+      "date": "Fri, 07 Aug 2026 10:00:41 +0000",
+      "summary": "Boy Jesus: Growing Up Judean in Turbulent Times By Joan Taylor (Grand Rapids, MI: Zondervan Academic, 2025), xvi + 340 pp., 16 color plates, 12 […]\nThe post Boy Jesus appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/reviews/boy-jesus/"
     },
     {
       "category": "AI",
@@ -35,52 +163,12 @@
       "url": "https://openai.com/index/hsp-gruppe"
     },
     {
-      "category": "Science",
-      "title": "UK observatory nervously watches growing space junk threat",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Fri, 07 Aug 2026 04:40:02 EDT",
-      "summary": "In the sweeping shadow of a satellite dish, staff at the Chilbolton Observatory in southern England track a growing number of objects in Earth's orbit, providing data that underpins Britain's space monitoring efforts.",
-      "url": "https://phys.org/news/2026-08-uk-observatory-nervously-space-junk.html"
-    },
-    {
-      "category": "Science",
-      "title": "Officials will not release cool water from a Colorado River reservoir to protect threatened fish",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Fri, 07 Aug 2026 03:40:01 EDT",
-      "summary": "Federal officials said Thursday they will not release cool water this year from one of the Colorado River's major reservoirs, which would have protected a threatened native fish downstream but put more strain on already struggling hydropower production.",
-      "url": "https://phys.org/news/2026-08-cool-colorado-river-reservoir-threatened.html"
-    },
-    {
-      "category": "Science",
-      "title": "US firm takes on backyard mosquitoes—with 600,000 mosquitoes",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Fri, 07 Aug 2026 03:20:02 EDT",
-      "summary": "Todd Montgomery pops the lid off a small tube and taps out hundreds of mosquitoes into the backyard of a suburban home outside Washington.",
-      "url": "https://phys.org/news/2026-08-firm-backyard-mosquitoes.html"
-    },
-    {
       "category": "Theology",
       "title": "Pastoring Those with Differing Views on God’s Sovereignty in Salvation",
       "source": "9Marks",
       "date": "Fri, 07 Aug 2026 06:12:47 +0000",
       "summary": "The ultimate basis of your hope of making it to the end secure in Christ is not your own resolve, seriousness, or moral character but the finished work of Christ and all of God’s promises in him.\nThe post Pastoring Those with Differing Views on God’s Sovereignty in Salvation appeared first on 9Marks.",
       "url": "https://www.9marks.org/article/pastoring-those-with-differing-views-on-gods-sovereignty-in-salvation/?utm_source=rss&utm_medium=rss&utm_campaign=pastoring-those-with-differing-views-on-gods-sovereignty-in-salvation"
-    },
-    {
-      "category": "Space",
-      "title": " Why you don't need a perfectly clear sky to enjoy the total solar eclipse on Aug. 12 ",
-      "source": " Latest from Space.com ",
-      "date": "Fri, 07 Aug 2026 06:00:00 +0000",
-      "summary": "Millions will see a deep partial or total solar eclipse on Aug. 12, but there's no need to fixate on completely clear skies.",
-      "url": "https://www.space.com/stargazing/solar-eclipses/why-you-dont-need-a-perfectly-clear-sky-to-enjoy-the-total-solar-eclipse-on-aug-12"
-    },
-    {
-      "category": "AI",
-      "title": "Framework discloses data breach via Metabase 0-day",
-      "source": "Hacker News: Front Page",
-      "date": "Fri, 07 Aug 2026 05:17:57 +0000",
-      "summary": "Article URL: https://community.frame.work/t/framework-data-breach-discussion/83939\nComments URL: https://news.ycombinator.com/item?id=49206130\nPoints: 89\n# Comments: 30",
-      "url": "https://community.frame.work/t/framework-data-breach-discussion/83939"
     },
     {
       "category": "Science",
@@ -107,84 +195,12 @@
       "url": "https://www.thegospelcoalition.org/article/gospel-hope-college-drop-off/"
     },
     {
-      "category": "AI",
-      "title": "New Orleans is testing Carbyne’s AI-powered Emergency Call Triage software",
-      "source": "Hacker News: Front Page",
-      "date": "Fri, 07 Aug 2026 00:37:30 +0000",
-      "summary": "Article URL: https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/\nComments URL: https://news.ycombinator.com/item?id=49204546\nPoints: 60\n# Comments: 88",
-      "url": "https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/"
-    },
-    {
-      "category": "AI",
-      "title": "New Mexico court orders Meta to pay $567m over harms to children’s mental health",
-      "source": "Hacker News: Front Page",
-      "date": "Fri, 07 Aug 2026 00:06:28 +0000",
-      "summary": "https://www.reuters.com/world/new-mexico-court-orders-meta-p...\nhttps://www.theguardian.com/technology/2026/aug/06/new-mexic...\nhttps://www.kob.com/new-mexico/nm-court-orders-meta-to-pay-5...\nhttps://www.bbc.com/news/articles/cd7lz3wr2rlo\nhttps://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-...\nComments URL: https://news.ycombinator.com/item?id=49204352\nPoints: 314\n# Comments: 206",
-      "url": "https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta"
-    },
-    {
-      "category": "AI",
-      "title": "Organ donation group accused of trying to take living man's organs faces shutdown",
-      "source": "Ars Technica - All content",
-      "date": "Thu, 06 Aug 2026 22:20:50 +0000",
-      "summary": "The organization, Network for Hope, \"strongly disagrees\" with Trump admin's decision.",
-      "url": "https://arstechnica.com/health/2026/08/us-to-shutter-organ-donation-group-accused-of-trying-to-take-living-mans-organs/"
-    },
-    {
-      "category": "AI",
-      "title": "Explosive drone found hovering near Ukrainian cargo aircraft at German airport",
-      "source": "Ars Technica - All content",
-      "date": "Thu, 06 Aug 2026 22:01:55 +0000",
-      "summary": "Russian attack? Explosive drone targeted parked aircraft at Leipzig airport.",
-      "url": "https://arstechnica.com/gadgets/2026/08/germany-disarms-explosive-drone-found-at-airport-hunts-possible-second-drone/"
-    },
-    {
-      "category": "Science",
-      "title": " Most-detailed-ever view of the sun's surface revealed in new images from the world's largest solar telescope ",
-      "source": " Latest from Live Science ",
-      "date": "Thu, 06 Aug 2026 21:37:43 +0000",
-      "summary": "For the first time, scientists have directly observed a 150-year-old predicted phenomenon on the sun's surface that could explain why the sun's atmosphere is far hotter than its surface.",
-      "url": "https://www.livescience.com/space/the-sun/most-detailed-ever-view-of-the-suns-surface-revealed-in-new-images-from-the-worlds-largest-solar-telescope"
-    },
-    {
-      "category": "AI",
-      "title": "X wants to keep suing advertisers, asks 5th Circuit to overrule district judge",
-      "source": "Ars Technica - All content",
-      "date": "Thu, 06 Aug 2026 20:29:51 +0000",
-      "summary": "Musk continues appeal despite court loss and settlement with advertiser group.",
-      "url": "https://arstechnica.com/tech-policy/2026/08/elon-musks-x-isnt-done-suing-advertisers-asks-court-to-revive-boycott-case/"
-    },
-    {
-      "category": "Space",
-      "title": " 'One more step': NASA astronauts conduct 6.5-hour spacewalk to prep ISS for solar array upgrade ",
-      "source": " Latest from Space.com ",
-      "date": "Thu, 06 Aug 2026 20:05:01 +0000",
-      "summary": "Jessica Meir and Anil Menon completed a 6.5-hour spacewalk to install solar array mounting hardware outside of the International Space Station on Thursday, Aug. 6, 2026.",
-      "url": "https://www.space.com/space-exploration/international-space-station/1-more-step-nasa-astronauts-conduct-6-5-hour-spacewalk-to-prep-iss-for-solar-array-upgrade"
-    },
-    {
-      "category": "Space",
-      "title": " Rocket Lab launches Japanese Earth-observing satellite after 5-week delay (video, photos) ",
-      "source": " Latest from Space.com ",
-      "date": "Thu, 06 Aug 2026 18:34:06 +0000",
-      "summary": "Rocket Lab launched its eighth mission for the Japanese Earth-imaging company iQPS on Thursday morning (Aug. 6), five weeks later than originally planned.",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-launches-japanese-earth-observing-satellite-after-5-week-delay-video-photos"
-    },
-    {
       "category": "Biblical Studies",
       "title": "The Masoretic Text and the Dead Sea Scrolls",
       "source": "Biblical Archaeology Society",
       "date": "Thu, 06 Aug 2026 11:00:42 +0000",
       "summary": "Do insights from the Dead Sea Scrolls add to the Masoretic text, and if so, should the original Hebrew Bible text be modified based this information? Scholars from both sides of the divide weigh in on this issue.\nThe post The Masoretic Text and the Dead Sea Scrolls appeared first on Biblical Archaeology Society.",
       "url": "https://www.biblicalarchaeology.org/daily/biblical-topics/bible-versions-and-translations/the-masoretic-text-and-the-dead-sea-scrolls/"
-    },
-    {
-      "category": "Biblical Studies",
-      "title": "Eunuchs in the Bible",
-      "source": "Biblical Archaeology Society",
-      "date": "Thu, 06 Aug 2026 11:00:23 +0000",
-      "summary": "Stephen J. Patterson discusses what Jesus meant when he referred to “eunuchs who have made themselves eunuchs for the sake of the kingdom of heaven” (Matthew 19:11–12).\nThe post Eunuchs in the Bible appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/daily/biblical-topics/bible-interpretation/eunuchs-in-the-bible/"
     },
     {
       "category": "AI",
@@ -203,14 +219,6 @@
       "url": "https://www.sciencedaily.com/releases/2026/08/260806051943.htm"
     },
     {
-      "category": "AI",
-      "title": "Working with the American Psychological Association on youth mental health and AI",
-      "source": "OpenAI News",
-      "date": "Thu, 06 Aug 2026 06:00:00 GMT",
-      "summary": "OpenAI and the American Psychological Association advance evidence-based guidance, resources, and safeguards for responsible AI use and youth mental health.",
-      "url": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai"
-    },
-    {
       "category": "Theology",
       "title": "The One Where We Offend Everyone",
       "source": "The Gospel Coalition",
@@ -225,14 +233,6 @@
       "date": "Wed, 05 Aug 2026 23:31:24 +0000",
       "summary": "It was not just an affirmation of him and his principles by the American people, nor a rejection of his opponents. Thomas Jefferson’s election to the presidency in 1800 was, above all else, an opportunity. Up to this moment, he had been a writer, theorist, legislator, ambassador, secretary, and vice president. But except for a […]\nThe post Jefferson & the Crucible of Peaceable Coercions appeared first on Journal of the American Revolution.",
       "url": "https://allthingsliberty.com/2026/08/jefferson-the-crucible-of-peaceable-coercions/"
-    },
-    {
-      "category": "Biblical Studies",
-      "title": "Mysterious Mercenaries",
-      "source": "Biblical Archaeology Society",
-      "date": "Wed, 05 Aug 2026 10:45:15 +0000",
-      "summary": "The biblical King David, before he became leader of the Israelites, was a mercenary who sold his services to the Philistine king of Gath. This […]\nThe post Mysterious Mercenaries appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/mysterious-mercenaries/"
     },
     {
       "category": "Theology",
