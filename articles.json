@@ -1,94 +1,182 @@
 {
-  "lastUpdated": "2026-08-06T11:58:15.027Z",
-  "articleCount": 39,
+  "lastUpdated": "2026-08-07T01:28:03.780Z",
+  "articleCount": 36,
   "articles": [
     {
-      "category": "Science",
-      "title": "Improving oats for growers and consumers",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Thu, 06 Aug 2026 07:40:03 EDT",
-      "summary": "Heart-healthy oats are finding their way into a wider variety of products and recipes as consumer demand grows. Although oats are grown on far fewer acres than other U.S. crops, farmers are able to keep up with demand through genetic gains in yield and other important agronomic traits.",
-      "url": "https://phys.org/news/2026-08-oats-growers-consumers.html"
+      "category": "AI",
+      "title": "New Orleans will use AI to answer 911 calls instead of a human",
+      "source": "Hacker News: Front Page",
+      "date": "Fri, 07 Aug 2026 00:37:30 +0000",
+      "summary": "Article URL: https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/\nComments URL: https://news.ycombinator.com/item?id=49204546\nPoints: 11\n# Comments: 4",
+      "url": "https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/"
     },
     {
       "category": "AI",
-      "title": "How Americans View Capitalism, Socialism and Free Enterprise",
+      "title": "Show HN: Whisper transcribes 70-year-olds more accurately than 20-year-olds",
       "source": "Hacker News: Front Page",
-      "date": "Thu, 06 Aug 2026 11:27:08 +0000",
-      "summary": "Article URL: https://news.gallup.com/poll/713144/americans-view-capitalism-socialism-free-enterprise.aspx\nComments URL: https://news.ycombinator.com/item?id=49195244\nPoints: 11\n# Comments: 4",
-      "url": "https://news.gallup.com/poll/713144/americans-view-capitalism-socialism-free-enterprise.aspx"
+      "date": "Fri, 07 Aug 2026 00:10:04 +0000",
+      "summary": "Article URL: https://github.com/Kayvan-Zahiri/asr-age-gap\nComments URL: https://news.ycombinator.com/item?id=49204388\nPoints: 12\n# Comments: 3",
+      "url": "https://github.com/Kayvan-Zahiri/asr-age-gap"
+    },
+    {
+      "category": "AI",
+      "title": "Meta Ordered to Pay $942M to Address Harm to Kids from Social Media",
+      "source": "Hacker News: Front Page",
+      "date": "Fri, 07 Aug 2026 00:06:28 +0000",
+      "summary": "Article URL: https://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-address-harm-to-kids-from-social-media-8ba5aab7\nComments URL: https://news.ycombinator.com/item?id=49204352\nPoints: 37\n# Comments: 10",
+      "url": "https://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-address-harm-to-kids-from-social-media-8ba5aab7"
     },
     {
       "category": "Science",
-      "title": "Researchers call for rethink of how women are supported into business",
+      "title": "AI for homework—parents more willing to pay subscriptions for their children as peer pressure rises",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Thu, 06 Aug 2026 07:20:03 EDT",
-      "summary": "The way women are supported to start and grow businesses needs updating for the digital age, according to researchers from the University of East London. The academics argue that while women continue to face barriers such as unequal access to finance and greater caregiving responsibilities, digital ways of working—from online collaboration and flexible work to cloud-based tools—should be at the heart of helping more women grow businesses.",
-      "url": "https://phys.org/news/2026-08-rethink-women-business.html"
+      "date": "Thu, 06 Aug 2026 19:40:01 EDT",
+      "summary": "Many parents have mixed feelings about the unrestricted use of artificial intelligence (AI) for schoolwork. They are concerned about the potential impact on their child's ability to learn but also don't want them to be left behind if other young people are using AI.",
+      "url": "https://phys.org/news/2026-08-ai-homework-parents-pay-subscriptions.html"
     },
     {
       "category": "Science",
-      "title": "Low water on Germany's Rhine River threatens new blow to economy",
+      "title": "Bacterial enzyme switch could weaken antibiotic defenses in MRSA and other pathogens",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Thu, 06 Aug 2026 07:00:03 EDT",
-      "summary": "Dwindling water levels on some of Germany's major rivers, worsened by heat and drought, are raising fears that badly constrained riverboat cargo traffic could deal yet another blow to the struggling economy.",
-      "url": "https://phys.org/news/2026-08-germany-rhine-river-threatens-economy.html"
+      "date": "Thu, 06 Aug 2026 19:20:01 EDT",
+      "summary": "If you ask Vijay Parashar, associate professor of medical and molecular sciences (MMSC) at the University of Delaware College of Health Sciences, human bodies are bags of bacteria. \"It sounds gross, but not all bacteria are bad; most of them are good. The trouble starts when the bad bacteria learn how to outsmart antibiotics.\"",
+      "url": "https://phys.org/news/2026-08-bacterial-enzyme-weaken-antibiotic-defenses.html"
     },
     {
       "category": "Science",
-      "title": " Crystal made from 13-sided 'einstein' shape bends light in ways nobody imagined ",
+      "title": "An elegant modification doubles the range of low-noise 'white lasers' in a single fiber",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Thu, 06 Aug 2026 19:00:03 EDT",
+      "summary": "Supercontinuum light sources—often called \"white lasers\" because they emit a broad, continuous rainbow of colors—are essential tools for everything from advanced medical imaging to environmental gas detection. However, researchers have historically faced a frustrating trade-off: A broad spectrum comes at the expense of high fluctuations, which has effectively limited their use.",
+      "url": "https://phys.org/news/2026-08-elegant-modification-range-noise-white.html"
+    },
+    {
+      "category": "AI",
+      "title": "Organ donation group accused of trying to take living man's organs faces shutdown",
+      "source": "Ars Technica - All content",
+      "date": "Thu, 06 Aug 2026 22:20:50 +0000",
+      "summary": "The organization, Network for Hope, \"strongly disagrees\" with Trump admin's decision.",
+      "url": "https://arstechnica.com/health/2026/08/us-to-shutter-organ-donation-group-accused-of-trying-to-take-living-mans-organs/"
+    },
+    {
+      "category": "AI",
+      "title": "Explosive drone found hovering near Ukrainian cargo aircraft at German airport",
+      "source": "Ars Technica - All content",
+      "date": "Thu, 06 Aug 2026 22:01:55 +0000",
+      "summary": "Russian attack? Explosive drone targeted parked aircraft at Leipzig airport.",
+      "url": "https://arstechnica.com/gadgets/2026/08/germany-disarms-explosive-drone-found-at-airport-hunts-possible-second-drone/"
+    },
+    {
+      "category": "Science",
+      "title": " Most-detailed-ever view of the sun's surface revealed in new images from the world's largest solar telescope ",
       "source": " Latest from Live Science ",
-      "date": "Thu, 06 Aug 2026 10:00:00 +0000",
-      "summary": "Scientists carved a 13-sided shape called an \"einstein\" into a chip and discovered that it steers light in ways no other crystal does.",
-      "url": "https://www.livescience.com/physics-mathematics/crystal-made-from-13-sided-einstein-shape-bends-light-in-ways-nobody-imagined"
+      "date": "Thu, 06 Aug 2026 21:37:43 +0000",
+      "summary": "For the first time, scientists have directly observed a 150-year-old predicted phenomenon on the sun's surface that could explain why the sun's atmosphere is far hotter than its surface.",
+      "url": "https://www.livescience.com/space/the-sun/most-detailed-ever-view-of-the-suns-surface-revealed-in-new-images-from-the-worlds-largest-solar-telescope"
+    },
+    {
+      "category": "AI",
+      "title": "X wants to keep suing advertisers, asks 5th Circuit to overrule district judge",
+      "source": "Ars Technica - All content",
+      "date": "Thu, 06 Aug 2026 20:29:51 +0000",
+      "summary": "Musk continues appeal despite court loss and settlement with advertiser group.",
+      "url": "https://arstechnica.com/tech-policy/2026/08/elon-musks-x-isnt-done-suing-advertisers-asks-court-to-revive-boycott-case/"
+    },
+    {
+      "category": "Space",
+      "title": " '1 more step': NASA astronauts conduct 6.5-hour spacewalk to prep ISS for solar array upgrade ",
+      "source": " Latest from Space.com ",
+      "date": "Thu, 06 Aug 2026 20:05:01 +0000",
+      "summary": "Jessica Meir and Anil Menon completed a 6.5-hour spacewalk to install solar array mounting hardware outside of the International Space Station on Thursday, Aug. 6, 2026.",
+      "url": "https://www.space.com/space-exploration/international-space-station/1-more-step-nasa-astronauts-conduct-6-5-hour-spacewalk-to-prep-iss-for-solar-array-upgrade"
     },
     {
       "category": "Science",
-      "title": " Engineers build world's first portable diamond-powered quantum computer — it works at room temperature and can be plugged into an outlet ",
+      "title": " 'It would be a disaster': Ammunition for war and surging water withdrawals are putting the Caspian Sea ‪on the brink of collapse ",
       "source": " Latest from Live Science ",
-      "date": "Thu, 06 Aug 2026 09:00:00 +0000",
-      "summary": "The world's first portable, room-temperature quantum computer with more than 10 qubits utilizes flawed lab-made diamonds. The quantum system fits into a standard server rack and connects to a typical power grid.",
-      "url": "https://www.livescience.com/technology/quantum/scientists-built-a-room-temperature-quantum-computer-with-diamond-based-qubits"
+      "date": "Thu, 06 Aug 2026 20:01:11 +0000",
+      "summary": "Live Science spoke with professor of civil and environmental engineering Amir AghaKouchak about the reasons behind the Caspian Sea's stark decline over the past three decades.",
+      "url": "https://www.livescience.com/planet-earth/rivers-oceans/it-would-be-a-disaster-ammunition-for-war-and-surging-water-withdrawals-are-putting-the-caspian-sea-on-the-brink-of-collapse"
+    },
+    {
+      "category": "Space",
+      "title": " Rocket Lab launches Japanese Earth-observing satellite after 5-week delay (video, photos) ",
+      "source": " Latest from Space.com ",
+      "date": "Thu, 06 Aug 2026 18:34:06 +0000",
+      "summary": "Rocket Lab launched its eighth mission for the Japanese Earth-imaging company iQPS on Thursday morning (Aug. 6), five weeks later than originally planned.",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-launches-japanese-earth-observing-satellite-after-5-week-delay-video-photos"
+    },
+    {
+      "category": "Science",
+      "title": " FDA approves first mRNA vaccine for seasonal flu ",
+      "source": " Latest from Live Science ",
+      "date": "Thu, 06 Aug 2026 17:54:01 +0000",
+      "summary": "The Food and Drug Administration's approval of an mRNA vaccine for flu comes after the agency initially refused to review the approval request for the shot.",
+      "url": "https://www.livescience.com/health/medicine-drugs/fda-approves-first-mrna-vaccine-for-seasonal-flu"
+    },
+    {
+      "category": "Space",
+      "title": " 'Strange New Worlds' latest 'Hangover'-inspired episode is a reminder that 'Star Trek' vacations are never a good idea ",
+      "source": " Latest from Space.com ",
+      "date": "Thu, 06 Aug 2026 16:00:00 +0000",
+      "summary": "Seeking rest or relaxation? You're unlikely to find either on a \"Star Trek\" holiday",
+      "url": "https://www.space.com/entertainment/space-movies-shows/strange-new-worlds-latest-hangover-inspired-episode-is-a-reminder-that-star-trek-vacations-are-never-a-good-idea"
+    },
+    {
+      "category": "Science",
+      "title": "A star’s violent death exposed a hidden supermassive black hole",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Thu, 06 Aug 2026 08:16:32 EDT",
+      "summary": "A supermassive black hole has been found lurking about 30,000 light-years from the center of its galaxy—the first dormant black hole detected so far from a galactic core. It revealed itself only after shredding a passing star and producing a brief, brilliant flare. Astronomers think it may be the remnant of a devoured galaxy or a black hole flung outward during a chaotic cosmic encounter.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260805082457.htm"
+    },
+    {
+      "category": "Biblical Studies",
+      "title": "The Masoretic Text and the Dead Sea Scrolls",
+      "source": "Biblical Archaeology Society",
+      "date": "Thu, 06 Aug 2026 11:00:42 +0000",
+      "summary": "Do insights from the Dead Sea Scrolls add to the Masoretic text, and if so, should the original Hebrew Bible text be modified based this information? Scholars from both sides of the divide weigh in on this issue.\nThe post The Masoretic Text and the Dead Sea Scrolls appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/daily/biblical-topics/bible-versions-and-translations/the-masoretic-text-and-the-dead-sea-scrolls/"
+    },
+    {
+      "category": "Biblical Studies",
+      "title": "Eunuchs in the Bible",
+      "source": "Biblical Archaeology Society",
+      "date": "Thu, 06 Aug 2026 11:00:23 +0000",
+      "summary": "Stephen J. Patterson discusses what Jesus meant when he referred to “eunuchs who have made themselves eunuchs for the sake of the kingdom of heaven” (Matthew 19:11–12).\nThe post Eunuchs in the Bible appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/daily/biblical-topics/bible-interpretation/eunuchs-in-the-bible/"
     },
     {
       "category": "AI",
-      "title": "What I love about Django",
-      "source": "Hacker News: Front Page",
-      "date": "Thu, 06 Aug 2026 07:34:06 +0000",
-      "summary": "Article URL: https://buttondown.com/blog/what-i-love-about-django\nComments URL: https://news.ycombinator.com/item?id=49193673\nPoints: 90\n# Comments: 65",
-      "url": "https://buttondown.com/blog/what-i-love-about-django"
+      "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
+      "source": "OpenAI News",
+      "date": "Thu, 06 Aug 2026 10:00:00 GMT",
+      "summary": "ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna.",
+      "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt"
     },
     {
-      "category": "Space",
-      "title": " Plan your perfect 2026 total solar eclipse experience with these smartphone apps ",
-      "source": " Latest from Space.com ",
-      "date": "Thu, 06 Aug 2026 07:00:00 +0000",
-      "summary": "From exact timings to cloud cover warnings, these smartphone apps will help you dial in on the 2026 total solar eclipse.",
-      "url": "https://www.space.com/stargazing/solar-eclipses/plan-your-perfect-2026-total-solar-eclipse-experience-with-these-smartphone-apps"
+      "category": "Science",
+      "title": "A drug already used for osteoporosis blocked spinal damage in a new study",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Thu, 06 Aug 2026 05:50:21 EDT",
+      "summary": "Genetic changes may set off a chain reaction that causes the spine’s natural shock absorbers to harden and deteriorate. Zebrafish with a faulty collagen-related gene developed mineral buildup and spinal fusion similar to human disc disease. Researchers were able to reduce the damage using an existing osteoporosis drug and by targeting fat metabolism. The discovery points to several exciting possibilities for future back pain treatments.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260806051943.htm"
+    },
+    {
+      "category": "Science",
+      "title": "Forget the sperm race: Fertilization may depend on teamwork",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Thu, 06 Aug 2026 02:25:07 EDT",
+      "summary": "Millions of sperm do not always compete alone—some species send them into action as coordinated teams. A sweeping evolutionary study found that this cooperation is widespread among arthropods and has repeatedly emerged and vanished over hundreds of millions of years. The discovery challenges the classic “fastest sperm wins” story and could influence future fertility research and pest-control strategies.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260805082455.htm"
     },
     {
       "category": "AI",
-      "title": "Let's all meet up in the Y2K",
-      "source": "Hacker News: Front Page",
-      "date": "Thu, 06 Aug 2026 06:43:38 +0000",
-      "summary": "Article URL: https://blog.gingerbeardman.com/2026/08/06/lets-all-meet-up-in-the-y2k/\nComments URL: https://news.ycombinator.com/item?id=49193314\nPoints: 74\n# Comments: 34",
-      "url": "https://blog.gingerbeardman.com/2026/08/06/lets-all-meet-up-in-the-y2k/"
-    },
-    {
-      "category": "Space",
-      "title": " Where will the total solar eclipse 2026 be visible from? ",
-      "source": " Latest from Space.com ",
-      "date": "Thu, 06 Aug 2026 06:00:00 +0000",
-      "summary": "Find out where you can experience totality on Aug. 12, 2026, and which countries will experience a partial solar eclipse.",
-      "url": "https://www.space.com/stargazing/solar-eclipses/where-will-the-total-solar-eclipse-2026-be-visible-from"
-    },
-    {
-      "category": "Space",
-      "title": "APOD: 2026 August 6 – New Sharpest Image of the Sun Uncovers Instability",
-      "source": "NASA",
-      "date": "Thu, 06 Aug 2026 04:05:00 +0000",
-      "summary": "APOD Science APOD APOD: 2026 August 6 – New… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. New Sharpest […]",
-      "url": "https://science.nasa.gov/image-article/apod-2026-august-6-new-sharpest-image-of-the-sun-uncovers-instability/"
+      "title": "Working with the American Psychological Association on youth mental health and AI",
+      "source": "OpenAI News",
+      "date": "Thu, 06 Aug 2026 06:00:00 GMT",
+      "summary": "OpenAI and the American Psychological Association advance evidence-based guidance, resources, and safeguards for responsible AI use and youth mental health.",
+      "url": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai"
     },
     {
       "category": "Theology",
@@ -115,20 +203,12 @@
       "url": "https://www.thegospelcoalition.org/article/every-psalm-belongs-jesus/"
     },
     {
-      "category": "Science",
-      "title": "Claude Fable 5 AI finds a tiny formula that topples an 87-year-old math conjecture",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Wed, 05 Aug 2026 22:02:49 EDT",
-      "summary": "A mathematician working at Anthropic says he used the AI model Claude Fable 5 to uncover a remarkably simple counterexample to the Jacobian conjecture, a famous problem that has resisted mathematicians for more than a century. The result shows that the conjecture is false in three dimensions and above, although the original two-dimensional version remains unsolved.",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260804034634.htm"
-    },
-    {
-      "category": "Science",
-      "title": "567-million-year-old fossils rewrite the dawn of animal life",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Wed, 05 Aug 2026 20:33:35 EDT",
-      "summary": "A spectacular fossil site in Canada contains 567-million-year-old creatures that may represent some of the earliest animals to move, reproduce sexually, and develop recognizable body plans. The discovery pushes key evolutionary milestones back by up to 10 million years and suggests complex animal life may have first flourished in the deep ocean.",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260804034644.htm"
+      "category": "AI",
+      "title": "From asking to doing: How the world is putting ChatGPT to work",
+      "source": "OpenAI News",
+      "date": "Thu, 06 Aug 2026 00:00:00 GMT",
+      "summary": "New OpenAI Signals data shows how people use ChatGPT worldwide, with country-level insights on adoption, usage trends, and evolving behavior.",
+      "url": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work"
     },
     {
       "category": "History",
@@ -139,62 +219,6 @@
       "url": "https://allthingsliberty.com/2026/08/jefferson-the-crucible-of-peaceable-coercions/"
     },
     {
-      "category": "AI",
-      "title": "Thousands of servers can be backdoored by exploiting buggy motherboard controllers",
-      "source": "Ars Technica - All content",
-      "date": "Wed, 05 Aug 2026 22:35:20 +0000",
-      "summary": "Baseboard management controllers from the world's biggest manufacturers are a security mess.",
-      "url": "https://arstechnica.com/security/2026/08/thousands-of-servers-can-be-backdoored-by-exploiting-buggy-motherboard-controllers/"
-    },
-    {
-      "category": "AI",
-      "title": "Schwartz confirmed as CDC director after bungling confirmation hearing",
-      "source": "Ars Technica - All content",
-      "date": "Wed, 05 Aug 2026 21:03:18 +0000",
-      "summary": "Schwartz is well-qualified for the role, but crashed and burned in Senate hearing.",
-      "url": "https://arstechnica.com/health/2026/08/schwartz-confirmed-as-cdc-director-after-bungling-confirmation-hearing/"
-    },
-    {
-      "category": "Space",
-      "title": " 'Warhammer 40,000' animated series coming to Prime Video, with Henry Cavill onboard as executive producer ",
-      "source": " Latest from Space.com ",
-      "date": "Wed, 05 Aug 2026 21:00:00 +0000",
-      "summary": "Henry Cavill will executive produce this spirited spinoff of 2024's 'Secret Level' anthology.",
-      "url": "https://www.space.com/entertainment/space-movies-shows/warhammer-40-000-animated-series-coming-to-prime-video-with-henry-cavill-onboard-as-executive-producer"
-    },
-    {
-      "category": "AI",
-      "title": "Anthropic’s AI used fake identities, malware in rogue attack on GitHub project",
-      "source": "Ars Technica - All content",
-      "date": "Wed, 05 Aug 2026 20:47:11 +0000",
-      "summary": "Anthropic and OpenAI models’ unprompted actions forced halt to UK cyber tests.",
-      "url": "https://arstechnica.com/security/2026/08/anthropics-ai-used-fake-identities-malware-in-rogue-attack-on-github-project/"
-    },
-    {
-      "category": "Science",
-      "title": " A star 20 times the size of the sun died in a supernova — and telescopes around the world joined forces to watch it ",
-      "source": " Latest from Live Science ",
-      "date": "Wed, 05 Aug 2026 19:47:46 +0000",
-      "summary": "A team of telescopes around the world, including the newly activated Vera C. Rubin Observatory, joined forces to observe the first shocking moments of a supernova explosion in unprecedented detail.",
-      "url": "https://www.livescience.com/space/astronomy/a-star-20-times-the-size-of-the-sun-died-in-a-supernova-and-telescopes-around-the-world-joined-forces-to-watch-it"
-    },
-    {
-      "category": "Space",
-      "title": "NASA’s IXPE May Have Proven 90-Year-Old Theory",
-      "source": "NASA",
-      "date": "Wed, 05 Aug 2026 18:49:14 +0000",
-      "summary": "A first of its kind measurement of a magnetar may have captured empty space behaving in a way physicists have predicted for 90 years, but never directly observed. The results published Wednesday in Nature. Fast facts Scientists using NASA’s IXPE (Imaging X-ray Polarimetry Explorer) conducted more than 140 hours of observations of the magnetar 1E […]",
-      "url": "https://science.nasa.gov/missions/ixpe/nasas-ixpe-may-have-proven-90-year-old-theory/"
-    },
-    {
-      "category": "Space",
-      "title": "Artemis III Orion Crew and Service Models Joined",
-      "source": "NASA",
-      "date": "Wed, 05 Aug 2026 17:27:18 +0000",
-      "summary": "Technicians joined the Orion crew and service modules together on July 30, 2026, inside the Neil Armstrong Operations and Checkout Building at NASA’s Kennedy Space Center in Florida. The crew module will carry and sustain NASA astronauts Randy Bresnik, Andre Douglas, and Frank Rubio, and ESA (European Space Agency) astronaut Luca Parmitano, while the service […]",
-      "url": "https://www.nasa.gov/image-article/artemis-iii-orion-crew-and-service-models-joined/"
-    },
-    {
       "category": "Biblical Studies",
       "title": "Mysterious Mercenaries",
       "source": "Biblical Archaeology Society",
@@ -203,60 +227,12 @@
       "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/mysterious-mercenaries/"
     },
     {
-      "category": "Biblical Studies",
-      "title": "For the Redemption of Zion",
-      "source": "Biblical Archaeology Society",
-      "date": "Wed, 05 Aug 2026 10:00:50 +0000",
-      "summary": "Excavations near the southwest corner of the ancient Temple Mount have uncovered a rare coin commemorating the fourth year of the First Jewish Revolt against […]\nThe post For the Redemption of Zion appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-israel/for-the-redemption-of-zion/"
-    },
-    {
-      "category": "Science",
-      "title": "A colossal magma system has been hiding beneath Tuscany",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Wed, 05 Aug 2026 05:19:43 EDT",
-      "summary": "A massive magma reservoir has been detected deep beneath Tuscany, despite showing no obvious signs at the surface. Scientists mapped the roughly 6,000-cubic-kilometer body using natural ground vibrations recorded by dozens of seismic sensors. It poses no immediate danger, but the discovery reveals how enormous volcanic systems can remain hidden and could transform the search for geothermal energy and critical minerals.",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260804034645.htm"
-    },
-    {
-      "category": "AI",
-      "title": "Third-party cyber evaluations involving OpenAI models",
-      "source": "OpenAI News",
-      "date": "Tue, 04 Aug 2026 19:00:00 GMT",
-      "summary": "OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation.",
-      "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models"
-    },
-    {
       "category": "Theology",
       "title": "Pastoral Ministry When Parenting Gets Hard",
       "source": "9Marks",
       "date": "Tue, 04 Aug 2026 16:33:57 +0000",
       "summary": "When the days are long and the nights are short, God is not absent.\nThe post Pastoral Ministry When Parenting Gets Hard appeared first on 9Marks.",
       "url": "https://www.9marks.org/article/pastoral-ministry-when-parenting-gets-hard/?utm_source=rss&utm_medium=rss&utm_campaign=pastoral-ministry-when-parenting-gets-hard"
-    },
-    {
-      "category": "Biblical Studies",
-      "title": "Who Was Noah’s Wife?",
-      "source": "Biblical Archaeology Society",
-      "date": "Tue, 04 Aug 2026 11:00:58 +0000",
-      "summary": "Eve, Sarah, Rebecca, Leah, and Rachel—the names of biblical matriarchs such as these have lived on long after they were first written down more than […]\nThe post Who Was Noah’s Wife? appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/daily/biblical-topics/bible-interpretation/who-was-noahs-wife/"
-    },
-    {
-      "category": "AI",
-      "title": "New ways to learn and teach with ChatGPT Work and Codex",
-      "source": "OpenAI News",
-      "date": "Tue, 04 Aug 2026 00:00:00 GMT",
-      "summary": "Explore new education plugins for ChatGPT Work and Codex that help K–12 teachers, college educators, and students learn, teach, research, and build.",
-      "url": "https://openai.com/index/learn-teach-chatgpt-work-codex"
-    },
-    {
-      "category": "AI",
-      "title": "Apple is getting this wrong",
-      "source": "OpenAI News",
-      "date": "Mon, 03 Aug 2026 22:00:00 GMT",
-      "summary": "OpenAI addresses Apple’s baseless lawsuit, corrects claims about its employees, and shares messages documenting what happened.",
-      "url": "https://openai.com/index/apple-is-getting-this-wrong"
     },
     {
       "category": "History",
