@@ -1,62 +1,102 @@
 {
-  "lastUpdated": "2026-08-07T16:44:06.681Z",
+  "lastUpdated": "2026-08-07T22:27:00.554Z",
   "articleCount": 36,
   "articles": [
     {
       "category": "Science",
-      "title": "Just 50°C decides whether an ultrathin magnetic film stays flat or falls apart",
+      "title": "Creating cleaner chemical reactions that run on oxygen and produce only water as waste",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Fri, 07 Aug 2026 12:40:07 EDT",
-      "summary": "Magnetic storage technologies, which store information in the direction of magnetization, play an essential role in modern data storage. Hard disk drives (HDDs) are widely used for long-term storage, while nonvolatile magnetic random-access memory (MRAM) is emerging as a promising alternative to flash memory.",
-      "url": "https://phys.org/news/2026-08-50c-ultrathin-magnetic-stays-flat.html"
+      "date": "Fri, 07 Aug 2026 18:20:01 EDT",
+      "summary": "Oxygen provides the driving force for many vital chemical reactions. Two well-known examples include respiration, the process that allows living things to break down food to release its energy, and combustion, reactions that produce heat and light. But oxygen has an unusual electronic configuration that tends to slow reactions with organic matter, so reactions often need help to get started. In nature, specialized proteins called enzymes can activate oxygen on demand by first rearranging its electrons.",
+      "url": "https://phys.org/news/2026-08-cleaner-chemical-reactions-oxygen.html"
     },
     {
       "category": "Science",
-      "title": "Food fraud costs UK economy up to £2 billion a year, new study finds",
+      "title": "Researchers unlock high-res view of 2D materials by doing a microscopic twist",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Fri, 07 Aug 2026 12:40:03 EDT",
-      "summary": "Food fraud is costing the UK economy up to £2 billion every year, according to the first study to calculate its full economic impact. The research, from the University of Portsmouth, estimates that food fraud costs between £400 million and £2 billion annually, making it one of the country's most expensive forms of economic crime.",
-      "url": "https://phys.org/news/2026-08-food-fraud-uk-economy-billion.html"
+      "date": "Fri, 07 Aug 2026 18:00:03 EDT",
+      "summary": "By rapidly twisting a microscopically small tip back and forth, researchers at the University of Maryland (UMD) have unlocked a new way to detect subtle changes on the surface of a material flexing in response to infrared light.",
+      "url": "https://phys.org/news/2026-08-high-res-view-2d-materials.html"
     },
     {
       "category": "Science",
-      "title": "Some US adults are using AI for financial guidance but few trust it, Gallup poll finds",
+      "title": "Hidden anatomy of clouds reveals how rain may begin without ice crystals",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Fri, 07 Aug 2026 12:20:07 EDT",
-      "summary": "Some U.S. adults are using artificial intelligence for financial guidance, but it's far from the most trusted source of advice, according to a new Gallup survey conducted in partnership with Edward Jones, a financial services firm.",
-      "url": "https://phys.org/news/2026-08-adults-ai-financial-guidance-gallup.html"
-    },
-    {
-      "category": "Space",
-      "title": " NASA's SkyFall Mars helicopters will wear tiny capes ",
-      "source": " Latest from Space.com ",
-      "date": "Fri, 07 Aug 2026 16:07:14 +0000",
-      "summary": "These tiny capes carry some serious technology.",
-      "url": "https://www.space.com/astronomy/mars/nasas-skyfall-mars-helicopters-will-wear-tiny-capes"
-    },
-    {
-      "category": "Space",
-      "title": " Engineers race to save stricken LINK rescue spacecraft before it's too late ",
-      "source": " Latest from Space.com ",
-      "date": "Fri, 07 Aug 2026 16:00:00 +0000",
-      "summary": "The private LINK spacecraft, which launched last month to save a NASA space telescope, now needs saving, too —and teams are making progress on that front.",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/engineers-race-to-save-stricken-link-rescue-spacecraft-before-its-too-late"
+      "date": "Fri, 07 Aug 2026 17:40:02 EDT",
+      "summary": "The initiation of rain in clouds without ice remains one of the largest unsolved mysteries in atmospheric science.",
+      "url": "https://phys.org/news/2026-08-hidden-anatomy-clouds-reveals-ice.html"
     },
     {
       "category": "AI",
-      "title": "Zohran Mamdani's NYC Tech Team Is What DOGE Should Have Been",
+      "title": "Water system controllers don't belong on the internet, says ex-NSA chief",
       "source": "Hacker News: Front Page",
-      "date": "Fri, 07 Aug 2026 15:59:57 +0000",
-      "summary": "Article URL: https://www.wired.com/story/mamdani-assembles-his-nyc-tech-team/\nComments URL: https://news.ycombinator.com/item?id=49212459\nPoints: 28\n# Comments: 6",
-      "url": "https://www.wired.com/story/mamdani-assembles-his-nyc-tech-team/"
+      "date": "Fri, 07 Aug 2026 21:19:57 +0000",
+      "summary": "Article URL: https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-attacks/5285070\nComments URL: https://news.ycombinator.com/item?id=49216362\nPoints: 40\n# Comments: 13",
+      "url": "https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-attacks/5285070"
     },
     {
       "category": "AI",
-      "title": "An all-sky map of half a million supermassive black holes",
+      "title": "Flesh-eating screwworms feast on humans in Mexico; human cases top 500",
+      "source": "Ars Technica - All content",
+      "date": "Fri, 07 Aug 2026 21:09:00 +0000",
+      "summary": "Six deaths reported among screwworm cases, one directly attributed to the flies.",
+      "url": "https://arstechnica.com/health/2026/08/flesh-eating-screwworms-feast-on-humans-in-mexico-human-cases-top-500/"
+    },
+    {
+      "category": "Space",
+      "title": " SpaceX serious about building factories on the moon: 'It’s going to happen,' Elon Musk says ",
+      "source": " Latest from Space.com ",
+      "date": "Fri, 07 Aug 2026 21:00:00 +0000",
+      "summary": "SpaceX plans to build factories on the moon, using robots to do much of the heavy lifting, Elon Musk said on Tuesday (Aug. 4) during SpaceX's first-ever quarterly earnings call.",
+      "url": "https://www.space.com/astronomy/moon/spacex-serious-about-building-factories-on-the-moon-its-going-to-happen-elon-musk-says"
+    },
+    {
+      "category": "Space",
+      "title": " 'Not looking good right now': Starship likely to be lost at sea 2 weeks after epic 13th test flight, Elon Musk says ",
+      "source": " Latest from Space.com ",
+      "date": "Fri, 07 Aug 2026 20:44:20 +0000",
+      "summary": "SpaceX is still towing Starship's upper stage toward shore two weeks after its latest test flight, but the unprecedented effort is unlikely to succeed, according to Elon Musk.",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/not-looking-good-right-now-starship-likely-to-be-lost-at-sea-2-weeks-after-epic-13th-test-flight-elon-musk-says"
+    },
+    {
+      "category": "AI",
+      "title": "Judge rules Meta caused \"public nuisance\" and must fund mental health treatment",
+      "source": "Ars Technica - All content",
+      "date": "Fri, 07 Aug 2026 19:49:27 +0000",
+      "summary": "New Mexico judge orders $567M fund to help address youth mental health crisis.",
+      "url": "https://arstechnica.com/tech-policy/2026/08/meta-ordered-to-pay-567m-to-treat-youth-mental-health-problems-it-helped-create/"
+    },
+    {
+      "category": "AI",
+      "title": "The ultimate eclipse chase: A Concorde raced against the Moon's shadow",
+      "source": "Ars Technica - All content",
+      "date": "Fri, 07 Aug 2026 19:00:17 +0000",
+      "summary": "Fitted with telescopes, the plane did our longest imaging of the Sun's corona.",
+      "url": "https://arstechnica.com/science/2026/08/the-ultimate-eclipse-chase-a-concorde-raced-against-the-moons-shadow/"
+    },
+    {
+      "category": "Space",
+      "title": " NASA figured out how to keep its 48-year-old Voyager 2 probe running for yet another year ",
+      "source": " Latest from Space.com ",
+      "date": "Fri, 07 Aug 2026 19:00:00 +0000",
+      "summary": "NASA's Voyager 2 probe, which launched in 1977, can keep operating its last science instruments after a power reduction operation performed in interstellar space.",
+      "url": "https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year"
+    },
+    {
+      "category": "AI",
+      "title": "App Store Rejection of the Week: Dark Hours",
       "source": "Hacker News: Front Page",
-      "date": "Fri, 07 Aug 2026 15:24:53 +0000",
-      "summary": "Article URL: https://www.sdss.org/black-hole-mapper-release-20/\nComments URL: https://news.ycombinator.com/item?id=49211921\nPoints: 5\n# Comments: 0",
-      "url": "https://www.sdss.org/black-hole-mapper-release-20/"
+      "date": "Fri, 07 Aug 2026 18:59:08 +0000",
+      "summary": "Article URL: https://daringfireball.net/2026/08/app_store_rejection_of_the_week_dark_hours\nComments URL: https://news.ycombinator.com/item?id=49214863\nPoints: 204\n# Comments: 98",
+      "url": "https://daringfireball.net/2026/08/app_store_rejection_of_the_week_dark_hours"
+    },
+    {
+      "category": "AI",
+      "title": "Psychological Warfare in Reverse Engineering (2015)",
+      "source": "Hacker News: Front Page",
+      "date": "Fri, 07 Aug 2026 18:51:45 +0000",
+      "summary": "Article URL: https://github.com/xoreaxeaxeax/repsych\nComments URL: https://news.ycombinator.com/item?id=49214775\nPoints: 33\n# Comments: 2",
+      "url": "https://github.com/xoreaxeaxeax/repsych"
     },
     {
       "category": "AI",
@@ -67,30 +107,6 @@
       "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities"
     },
     {
-      "category": "Space",
-      "title": " Chinese company Landspace targets Aug. 10 for historic rocket launch and landing attempt ",
-      "source": " Latest from Space.com ",
-      "date": "Fri, 07 Aug 2026 15:00:00 +0000",
-      "summary": "The Chinese commercial launch company Landspace is set for its second attempt to catch an orbital rocket. Liftoff, and landing, are targeted for next Monday (Aug. 10).",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/chinese-company-landspace-targets-aug-10-for-historic-rocket-launch-and-landing-attempt"
-    },
-    {
-      "category": "AI",
-      "title": "Iceberg Collapses and Flips over in Ilulissat, Greenland (July 25, 2026) [video]",
-      "source": "Hacker News: Front Page",
-      "date": "Fri, 07 Aug 2026 14:55:08 +0000",
-      "summary": "Article URL: https://www.youtube.com/watch?v=UufMqwyO7pY\nComments URL: https://news.ycombinator.com/item?id=49211438\nPoints: 120\n# Comments: 32",
-      "url": "https://www.youtube.com/watch?v=UufMqwyO7pY"
-    },
-    {
-      "category": "AI",
-      "title": "Report: White House drafting executive order linking vaccines and autism",
-      "source": "Ars Technica - All content",
-      "date": "Fri, 07 Aug 2026 14:41:34 +0000",
-      "summary": "Trump determined to link life-saving shots to autism, despite science and political risk.",
-      "url": "https://arstechnica.com/health/2026/08/report-white-house-drafting-executive-order-linking-vaccines-and-autism/"
-    },
-    {
       "category": "Science",
       "title": " Bacterial 'postbiotic' may help preserve fertility in the aging uterus, preliminary research suggests ",
       "source": " Latest from Live Science ",
@@ -99,28 +115,12 @@
       "url": "https://www.livescience.com/health/reproductive-health/bacterial-postbiotic-may-help-preserve-fertility-in-the-aging-uterus-preliminary-research-suggests"
     },
     {
-      "category": "AI",
-      "title": "AI chatbots have failed people in crisis. Can that be fixed?",
-      "source": "Ars Technica - All content",
-      "date": "Fri, 07 Aug 2026 13:49:37 +0000",
-      "summary": "Clinicians and researchers say AI companies need to open up their safety data.",
-      "url": "https://arstechnica.com/ai/2026/08/ai-chatbots-have-failed-people-in-crisis-can-that-be-fixed/"
-    },
-    {
       "category": "Science",
       "title": " Where to buy last-minute solar eclipse glasses and viewing gear before August 12 ",
       "source": " Latest from Live Science ",
       "date": "Fri, 07 Aug 2026 13:35:28 +0000",
       "summary": "A partial eclipse is still worth seeing, but only with the right protection. Here's where you can still find eclipse glasses, solar binoculars and filters before eclipse day.",
       "url": "https://www.livescience.com/products/optics/where-to-buy-last-minute-solar-eclipse-glasses-and-viewing-gear-before-august-12"
-    },
-    {
-      "category": "AI",
-      "title": "ByteDance trains massive AI model in bid to rival Anthropic",
-      "source": "Ars Technica - All content",
-      "date": "Fri, 07 Aug 2026 13:29:22 +0000",
-      "summary": "TikTok owner training a model with 10 trillion parameters.",
-      "url": "https://arstechnica.com/ai/2026/08/bytedance-trains-massive-ai-model-in-bid-to-rival-anthropic/"
     },
     {
       "category": "Science",
