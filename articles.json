@@ -1,46 +1,134 @@
 {
-  "lastUpdated": "2026-08-08T10:23:16.094Z",
+  "lastUpdated": "2026-08-08T16:23:23.524Z",
   "articleCount": 36,
   "articles": [
     {
-      "category": "Science",
-      "title": "Nocturnal 'coffee frog' discovered in Costa Rica",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sat, 08 Aug 2026 06:00:03 EDT",
-      "summary": "A tiny greenish, nocturnal frog that thrives in coffee plantations has been discovered in Costa Rica's central Pacific region, where it also faces risks from agrochemicals used in farming.",
-      "url": "https://phys.org/news/2026-08-nocturnal-coffee-frog-costa-rica.html"
-    },
-    {
-      "category": "Science",
-      "title": " What's the difference between sweet potatoes and yams? ",
-      "source": " Latest from Live Science ",
-      "date": "Sat, 08 Aug 2026 09:00:00 +0000",
-      "summary": "Here are the main differences between yams and sweet potatoes and how to tell them apart.",
-      "url": "https://www.livescience.com/planet-earth/whats-the-difference-between-sweet-potatoes-and-yams"
+      "category": "Space",
+      "title": " 'Transformers: The Movie' at 40: the cartoon spin-off that traumatized a generation of kids ",
+      "source": " Latest from Space.com ",
+      "date": "Sat, 08 Aug 2026 16:00:00 +0000",
+      "summary": "With many fan-favorite Autobots and Decepticons bumped off in the opening act, this was not the big-screen romp '80s kids were expecting.",
+      "url": "https://www.space.com/entertainment/space-movies-shows/transformers-the-movie-at-40-the-cartoon-spin-off-that-traumatized-a-generation-of-kids"
     },
     {
       "category": "Space",
-      "title": " Sky-Watcher SolarQuest mount head review ",
+      "title": " This Week In Space podcast: Episode 222 — How to Invade Earth in 22 Easy Steps ",
       "source": " Latest from Space.com ",
-      "date": "Sat, 08 Aug 2026 09:00:00 +0000",
-      "summary": "A brilliantly simple grab-and-go solar mount that finds and follows the sun for you, Sky-Watcher’s SolarQuest is perfect for small-scope solar astronomy and solar eclipses.",
-      "url": "https://www.space.com/stargazing/skywatching-kit/sky-watcher-solarquest-mount-head-review"
-    },
-    {
-      "category": "AI",
-      "title": "Hardware backdoors in some x86 CPUs",
-      "source": "Hacker News: Front Page",
-      "date": "Sat, 08 Aug 2026 07:04:51 +0000",
-      "summary": "Article URL: https://github.com/xoreaxeaxeax/rosenbridge\nComments URL: https://news.ycombinator.com/item?id=49219508\nPoints: 95\n# Comments: 27",
-      "url": "https://github.com/xoreaxeaxeax/rosenbridge"
+      "date": "Sat, 08 Aug 2026 15:58:11 +0000",
+      "summary": "On Episode 222 of This Week In Space, Rod Pyle and Tariq Malik are joined by space writer Rich Edwards to discuss the best ways to repel space invaders.",
+      "url": "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-222-how-to-invade-earth-in-22-easy-steps"
     },
     {
       "category": "Science",
-      "title": "Silver nanocatalysts switch reaction sites between power generation and hydrogen production",
+      "title": "Dodo birds more clever than we thought",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Sat, 08 Aug 2026 02:50:52 EDT",
-      "summary": "For the first time, researchers have discovered that the same silver (Ag) nanocatalyst operates at different reaction sites depending on whether a solid oxide cell is generating electricity or producing hydrogen. This finding introduces a new design principle for improving the performance of next-generation solid oxide cells.",
-      "url": "https://phys.org/news/2026-08-silver-nanocatalysts-reaction-sites-power.html"
+      "date": "Sat, 08 Aug 2026 11:20:01 EDT",
+      "summary": "The Mauritian dodo—a global symbol of human-caused extinction and one of the world's largest pigeons—may not have deserved its reputation as a silly simpleton and may have been the only member of its group to live in the dark.",
+      "url": "https://phys.org/news/2026-08-dodo-birds-clever-thought.html"
+    },
+    {
+      "category": "Science",
+      "title": " Using AI has an environmental impact — here are 4 ways you can minimize it ",
+      "source": " Latest from Live Science ",
+      "date": "Sat, 08 Aug 2026 15:00:00 +0000",
+      "summary": "Escalating use of tools like Gemini and ChatGPT saps more and more power. Experts offer some tips on how to consume less.",
+      "url": "https://www.livescience.com/technology/artificial-intelligence/using-ai-has-an-environmental-impact-here-are-4-ways-you-can-minimize-it"
+    },
+    {
+      "category": "Science",
+      "title": "Meteorite that smashed through a New Jersey roof reveals clues to life’s origins",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Sat, 08 Aug 2026 10:58:54 EDT",
+      "summary": "A rare meteorite that crashed through a New Jersey roof contains evidence of ancient salty fluids, organic compounds, and amino acids from a primitive asteroid. Its pristine chemistry could offer new clues about how space rocks helped supply early Earth with some of the ingredients needed for life.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260807035145.htm"
+    },
+    {
+      "category": "Science",
+      "title": "How winter canola could profit Illinois farmers, improve sustainability",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sat, 08 Aug 2026 10:40:01 EDT",
+      "summary": "A new simulation study from the University of Illinois Urbana-Champaign suggests winter canola could be profitable and environmentally beneficial if added to a conventional corn-soy rotation in the U.S. Midwest.",
+      "url": "https://phys.org/news/2026-08-winter-canola-profit-illinois-farmers.html"
+    },
+    {
+      "category": "AI",
+      "title": "Sensitive Info Goes into 'No Reply' Emails Constantly. This Guy Sees It All",
+      "source": "Hacker News: Front Page",
+      "date": "Sat, 08 Aug 2026 14:07:06 +0000",
+      "summary": "Article URL: https://www.wired.com/story/sensitive-info-goes-into-no-reply-emails-constantly-this-guy-sees-it-all/\nComments URL: https://news.ycombinator.com/item?id=49221947\nPoints: 24\n# Comments: 3",
+      "url": "https://www.wired.com/story/sensitive-info-goes-into-no-reply-emails-constantly-this-guy-sees-it-all/"
+    },
+    {
+      "category": "AI",
+      "title": "Don't use your phone while you poop",
+      "source": "Hacker News: Front Page",
+      "date": "Sat, 08 Aug 2026 14:05:56 +0000",
+      "summary": "Article URL: https://nate.spot/no-phone-while-poop/\nComments URL: https://news.ycombinator.com/item?id=49221939\nPoints: 138\n# Comments: 136",
+      "url": "https://nate.spot/no-phone-while-poop/"
+    },
+    {
+      "category": "Science",
+      "title": "Dodos probably weren't as stupid as historians made them out to be: new research",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sat, 08 Aug 2026 10:00:01 EDT",
+      "summary": "The dodo has been extinct for more than 300 years, wiped out within decades of humans arriving on its home island of Mauritius, but it lives on in the public imagination.",
+      "url": "https://phys.org/news/2026-08-dodos-werent-stupid-historians.html"
+    },
+    {
+      "category": "Space",
+      "title": " Don't miss the crescent moon shine close to the red light of Mars before dawn on Aug. 9 ",
+      "source": " Latest from Space.com ",
+      "date": "Sat, 08 Aug 2026 14:00:00 +0000",
+      "summary": "Early risers will catch a spectacular sight in the predawn hours of Aug. 9, as the slender crescent moon shines close to the red light of Mars among the stars of the constellation Taurus.",
+      "url": "https://www.space.com/stargazing/dont-miss-the-crescent-moon-shine-close-to-the-red-light-of-mars-before-dawn-aug-9-2026"
+    },
+    {
+      "category": "AI",
+      "title": "Gentoo bugzilla closed due AI bot scraper overload",
+      "source": "Hacker News: Front Page",
+      "date": "Sat, 08 Aug 2026 13:55:42 +0000",
+      "summary": "Article URL: https://social.treehouse.systems/@mgorny/117058483039362779\nComments URL: https://news.ycombinator.com/item?id=49221864\nPoints: 67\n# Comments: 25",
+      "url": "https://social.treehouse.systems/@mgorny/117058483039362779"
+    },
+    {
+      "category": "Science",
+      "title": "The sun is covered in tiny whirlpools we’ve never seen before",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Sat, 08 Aug 2026 09:03:51 EDT",
+      "summary": "Scientists have discovered incredibly tiny plasma whirlpools swirling across the Sun’s surface, some just 20 kilometers wide. These previously invisible vortices may twist magnetic fields and help build up the energy released in small solar eruptions called nanoflares. They may also help magnetic fields spread through the Sun’s atmosphere far faster than current models can explain.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260807035142.htm"
+    },
+    {
+      "category": "Science",
+      "title": " 'These were harder than any other blades, cut sharper and cost more': How ancient Sri Lankans created steel of legends by harnessing monsoons ",
+      "source": " Latest from Live Science ",
+      "date": "Sat, 08 Aug 2026 12:00:00 +0000",
+      "summary": "In this excerpt from \"The Age of Alchemy,\" author Kit Chapman reveals  how ancient Sri Lankans created steel of legends by harnessing monsoons.",
+      "url": "https://www.livescience.com/chemistry/these-were-harder-than-any-other-blades-cut-sharper-and-cost-more-how-ancient-sri-lankans-created-steel-of-legends-by-harnessing-monsoons"
+    },
+    {
+      "category": "AI",
+      "title": "The first self-driving vehicle on Mars has proven to be a smashing success",
+      "source": "Ars Technica - All content",
+      "date": "Sat, 08 Aug 2026 11:30:48 +0000",
+      "summary": "About 90 percent of the distance driven by Perseverance has been autonomous.",
+      "url": "https://arstechnica.com/space/2026/08/the-first-self-driving-vehicle-on-mars-has-proven-to-be-a-smashing-success/"
+    },
+    {
+      "category": "AI",
+      "title": "DeepMind’s hurricane breakthrough has surprised weather scientists",
+      "source": "Ars Technica - All content",
+      "date": "Sat, 08 Aug 2026 11:05:50 +0000",
+      "summary": "Open source WeatherNext model can make accurate predictions with lower-resolution weather data.",
+      "url": "https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day/"
+    },
+    {
+      "category": "Science",
+      "title": " Where and when to see the Aug. 12 solar eclipse — exact times for North America and Europe ",
+      "source": " Latest from Live Science ",
+      "date": "Sat, 08 Aug 2026 11:00:00 +0000",
+      "summary": "Here's exactly when and where to watch the Aug. 12, 2026 solar eclipse in Europe, North America and North Africa.",
+      "url": "https://www.livescience.com/space/the-sun/where-and-when-to-see-the-aug-12-solar-eclipse-exact-times-for-north-america-and-europe"
     },
     {
       "category": "Theology",
@@ -60,38 +148,6 @@
     },
     {
       "category": "AI",
-      "title": "NASA figured out how to keep its Voyager 2 probe running for another year",
-      "source": "Hacker News: Front Page",
-      "date": "Sat, 08 Aug 2026 01:49:11 +0000",
-      "summary": "Article URL: https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year\nComments URL: https://news.ycombinator.com/item?id=49218179\nPoints: 239\n# Comments: 45",
-      "url": "https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year"
-    },
-    {
-      "category": "Science",
-      "title": "Teen cannabis use linked to slower memory and thinking growth",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Fri, 07 Aug 2026 21:25:25 EDT",
-      "summary": "Teens who start using cannabis may experience slower growth in memory, attention, language, and processing speed. Their abilities often developed normally at first, then began leveling off while nonusers continued improving. THC appeared to be the most likely driver, especially for worsening memory.",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260806050726.htm"
-    },
-    {
-      "category": "AI",
-      "title": "The Nixpkgs core team has disbanded",
-      "source": "Hacker News: Front Page",
-      "date": "Sat, 08 Aug 2026 01:12:45 +0000",
-      "summary": "Article URL: https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413\nComments URL: https://news.ycombinator.com/item?id=49217993\nPoints: 303\n# Comments: 148",
-      "url": "https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413"
-    },
-    {
-      "category": "Science",
-      "title": "One million years without sex fails to erase stick insects' unused biological system",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Fri, 07 Aug 2026 19:00:02 EDT",
-      "summary": "Scientists have made a surprising finding about how an asexually reproducing stick insect has evolved. Research led by Dr. Darren Parker, lecturer in evolutionary biology at Bangor University, studied the genes of several species of Timema (a type of stick insect), which have not engaged in sexual reproduction for 1 million years—the longest known asexual period for any insect.",
-      "url": "https://phys.org/news/2026-08-million-years-sex-erase-insects.html"
-    },
-    {
-      "category": "AI",
       "title": "Europe's free satellite service just made it easier to track wildfires",
       "source": "Ars Technica - All content",
       "date": "Fri, 07 Aug 2026 21:48:21 +0000",
@@ -100,59 +156,11 @@
     },
     {
       "category": "AI",
-      "title": "Flesh-eating screwworms feast on humans in Mexico; human cases top 500",
-      "source": "Ars Technica - All content",
-      "date": "Fri, 07 Aug 2026 21:09:00 +0000",
-      "summary": "Six deaths reported among screwworm cases, one directly attributed to the flies.",
-      "url": "https://arstechnica.com/health/2026/08/flesh-eating-screwworms-feast-on-humans-in-mexico-human-cases-top-500/"
-    },
-    {
-      "category": "Space",
-      "title": " SpaceX serious about building factories on the moon: 'It’s going to happen,' Elon Musk says ",
-      "source": " Latest from Space.com ",
-      "date": "Fri, 07 Aug 2026 21:00:00 +0000",
-      "summary": "SpaceX plans to build factories on the moon, using robots to do much of the heavy lifting, Elon Musk said on Tuesday (Aug. 4) during SpaceX's first-ever quarterly earnings call.",
-      "url": "https://www.space.com/astronomy/moon/spacex-serious-about-building-factories-on-the-moon-its-going-to-happen-elon-musk-says"
-    },
-    {
-      "category": "Space",
-      "title": " 'Not looking good right now': Starship likely to be lost at sea 2 weeks after epic 13th test flight, Elon Musk says ",
-      "source": " Latest from Space.com ",
-      "date": "Fri, 07 Aug 2026 20:44:20 +0000",
-      "summary": "SpaceX is still towing Starship's upper stage toward shore two weeks after its latest test flight, but the unprecedented effort is unlikely to succeed, according to Elon Musk.",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/not-looking-good-right-now-starship-likely-to-be-lost-at-sea-2-weeks-after-epic-13th-test-flight-elon-musk-says"
-    },
-    {
-      "category": "AI",
-      "title": "Judge rules Meta caused \"public nuisance\" and must fund mental health treatment",
-      "source": "Ars Technica - All content",
-      "date": "Fri, 07 Aug 2026 19:49:27 +0000",
-      "summary": "New Mexico judge orders $567M fund to help address youth mental health crisis.",
-      "url": "https://arstechnica.com/tech-policy/2026/08/meta-ordered-to-pay-567m-to-treat-youth-mental-health-problems-it-helped-create/"
-    },
-    {
-      "category": "AI",
       "title": "Responding to the next frontier of critical cyber capabilities",
       "source": "OpenAI News",
       "date": "Fri, 07 Aug 2026 15:20:00 GMT",
       "summary": "OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls.",
       "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities"
-    },
-    {
-      "category": "Science",
-      "title": " Bacterial 'postbiotic' may help preserve fertility in the aging uterus, preliminary research suggests ",
-      "source": " Latest from Live Science ",
-      "date": "Fri, 07 Aug 2026 13:58:13 +0000",
-      "summary": "A bacteria-derived \"postbiotic\" may help restore the aging uterus, but experts say it is too early to know whether it could improve fertility as a treatment.",
-      "url": "https://www.livescience.com/health/reproductive-health/bacterial-postbiotic-may-help-preserve-fertility-in-the-aging-uterus-preliminary-research-suggests"
-    },
-    {
-      "category": "Science",
-      "title": " Where to buy last-minute solar eclipse glasses and viewing gear before August 12 ",
-      "source": " Latest from Live Science ",
-      "date": "Fri, 07 Aug 2026 13:35:28 +0000",
-      "summary": "A partial eclipse is still worth seeing, but only with the right protection. Here's where you can still find eclipse glasses, solar binoculars and filters before eclipse day.",
-      "url": "https://www.livescience.com/products/optics/where-to-buy-last-minute-solar-eclipse-glasses-and-viewing-gear-before-august-12"
     },
     {
       "category": "Biblical Studies",
@@ -217,14 +225,6 @@
       "date": "Thu, 06 Aug 2026 10:00:00 GMT",
       "summary": "ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna.",
       "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt"
-    },
-    {
-      "category": "Science",
-      "title": "A drug already used for osteoporosis blocked spinal damage in a new study",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Thu, 06 Aug 2026 05:50:21 EDT",
-      "summary": "Genetic changes may set off a chain reaction that causes the spine’s natural shock absorbers to harden and deteriorate. Zebrafish with a faulty collagen-related gene developed mineral buildup and spinal fusion similar to human disc disease. Researchers were able to reduce the damage using an existing osteoporosis drug and by targeting fat metabolism. The discovery points to several exciting possibilities for future back pain treatments.",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260806051943.htm"
     },
     {
       "category": "History",
