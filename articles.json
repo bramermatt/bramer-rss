@@ -1,38 +1,102 @@
 {
-  "lastUpdated": "2026-08-07T22:27:00.554Z",
+  "lastUpdated": "2026-08-08T10:23:16.094Z",
   "articleCount": 36,
   "articles": [
     {
       "category": "Science",
-      "title": "Creating cleaner chemical reactions that run on oxygen and produce only water as waste",
+      "title": "Nocturnal 'coffee frog' discovered in Costa Rica",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Fri, 07 Aug 2026 18:20:01 EDT",
-      "summary": "Oxygen provides the driving force for many vital chemical reactions. Two well-known examples include respiration, the process that allows living things to break down food to release its energy, and combustion, reactions that produce heat and light. But oxygen has an unusual electronic configuration that tends to slow reactions with organic matter, so reactions often need help to get started. In nature, specialized proteins called enzymes can activate oxygen on demand by first rearranging its electrons.",
-      "url": "https://phys.org/news/2026-08-cleaner-chemical-reactions-oxygen.html"
+      "date": "Sat, 08 Aug 2026 06:00:03 EDT",
+      "summary": "A tiny greenish, nocturnal frog that thrives in coffee plantations has been discovered in Costa Rica's central Pacific region, where it also faces risks from agrochemicals used in farming.",
+      "url": "https://phys.org/news/2026-08-nocturnal-coffee-frog-costa-rica.html"
     },
     {
       "category": "Science",
-      "title": "Researchers unlock high-res view of 2D materials by doing a microscopic twist",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Fri, 07 Aug 2026 18:00:03 EDT",
-      "summary": "By rapidly twisting a microscopically small tip back and forth, researchers at the University of Maryland (UMD) have unlocked a new way to detect subtle changes on the surface of a material flexing in response to infrared light.",
-      "url": "https://phys.org/news/2026-08-high-res-view-2d-materials.html"
+      "title": " What's the difference between sweet potatoes and yams? ",
+      "source": " Latest from Live Science ",
+      "date": "Sat, 08 Aug 2026 09:00:00 +0000",
+      "summary": "Here are the main differences between yams and sweet potatoes and how to tell them apart.",
+      "url": "https://www.livescience.com/planet-earth/whats-the-difference-between-sweet-potatoes-and-yams"
     },
     {
-      "category": "Science",
-      "title": "Hidden anatomy of clouds reveals how rain may begin without ice crystals",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Fri, 07 Aug 2026 17:40:02 EDT",
-      "summary": "The initiation of rain in clouds without ice remains one of the largest unsolved mysteries in atmospheric science.",
-      "url": "https://phys.org/news/2026-08-hidden-anatomy-clouds-reveals-ice.html"
+      "category": "Space",
+      "title": " Sky-Watcher SolarQuest mount head review ",
+      "source": " Latest from Space.com ",
+      "date": "Sat, 08 Aug 2026 09:00:00 +0000",
+      "summary": "A brilliantly simple grab-and-go solar mount that finds and follows the sun for you, Sky-Watcher’s SolarQuest is perfect for small-scope solar astronomy and solar eclipses.",
+      "url": "https://www.space.com/stargazing/skywatching-kit/sky-watcher-solarquest-mount-head-review"
     },
     {
       "category": "AI",
-      "title": "Water system controllers don't belong on the internet, says ex-NSA chief",
+      "title": "Hardware backdoors in some x86 CPUs",
       "source": "Hacker News: Front Page",
-      "date": "Fri, 07 Aug 2026 21:19:57 +0000",
-      "summary": "Article URL: https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-attacks/5285070\nComments URL: https://news.ycombinator.com/item?id=49216362\nPoints: 40\n# Comments: 13",
-      "url": "https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-attacks/5285070"
+      "date": "Sat, 08 Aug 2026 07:04:51 +0000",
+      "summary": "Article URL: https://github.com/xoreaxeaxeax/rosenbridge\nComments URL: https://news.ycombinator.com/item?id=49219508\nPoints: 95\n# Comments: 27",
+      "url": "https://github.com/xoreaxeaxeax/rosenbridge"
+    },
+    {
+      "category": "Science",
+      "title": "Silver nanocatalysts switch reaction sites between power generation and hydrogen production",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sat, 08 Aug 2026 02:50:52 EDT",
+      "summary": "For the first time, researchers have discovered that the same silver (Ag) nanocatalyst operates at different reaction sites depending on whether a solid oxide cell is generating electricity or producing hydrogen. This finding introduces a new design principle for improving the performance of next-generation solid oxide cells.",
+      "url": "https://phys.org/news/2026-08-silver-nanocatalysts-reaction-sites-power.html"
+    },
+    {
+      "category": "Theology",
+      "title": "Obey the Greatest Commandment . . . While You Sleep",
+      "source": "The Gospel Coalition",
+      "date": "Sat, 08 Aug 2026 04:00:00 +0000",
+      "summary": "The third of our lives we spend sleeping can be a potent realm for loving God and others.",
+      "url": "https://www.thegospelcoalition.org/article/obey-greatest-commandment-sleep/"
+    },
+    {
+      "category": "Science",
+      "title": "Sunlight creates quantum entanglement once thought to require lasers",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Fri, 07 Aug 2026 23:49:26 EDT",
+      "summary": "Scientists have generated quantum entanglement directly from sunlight, potentially offering a lower-energy alternative to the lasers normally used in quantum technology. Their outdoor experiment produced entangled photons with about 94% similarity to an ideal state. The result could pave the way for simpler quantum satellites, secure communications, and more energy-efficient quantum computing.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260807035133.htm"
+    },
+    {
+      "category": "AI",
+      "title": "NASA figured out how to keep its Voyager 2 probe running for another year",
+      "source": "Hacker News: Front Page",
+      "date": "Sat, 08 Aug 2026 01:49:11 +0000",
+      "summary": "Article URL: https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year\nComments URL: https://news.ycombinator.com/item?id=49218179\nPoints: 239\n# Comments: 45",
+      "url": "https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year"
+    },
+    {
+      "category": "Science",
+      "title": "Teen cannabis use linked to slower memory and thinking growth",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Fri, 07 Aug 2026 21:25:25 EDT",
+      "summary": "Teens who start using cannabis may experience slower growth in memory, attention, language, and processing speed. Their abilities often developed normally at first, then began leveling off while nonusers continued improving. THC appeared to be the most likely driver, especially for worsening memory.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260806050726.htm"
+    },
+    {
+      "category": "AI",
+      "title": "The Nixpkgs core team has disbanded",
+      "source": "Hacker News: Front Page",
+      "date": "Sat, 08 Aug 2026 01:12:45 +0000",
+      "summary": "Article URL: https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413\nComments URL: https://news.ycombinator.com/item?id=49217993\nPoints: 303\n# Comments: 148",
+      "url": "https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413"
+    },
+    {
+      "category": "Science",
+      "title": "One million years without sex fails to erase stick insects' unused biological system",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Fri, 07 Aug 2026 19:00:02 EDT",
+      "summary": "Scientists have made a surprising finding about how an asexually reproducing stick insect has evolved. Research led by Dr. Darren Parker, lecturer in evolutionary biology at Bangor University, studied the genes of several species of Timema (a type of stick insect), which have not engaged in sexual reproduction for 1 million years—the longest known asexual period for any insect.",
+      "url": "https://phys.org/news/2026-08-million-years-sex-erase-insects.html"
+    },
+    {
+      "category": "AI",
+      "title": "Europe's free satellite service just made it easier to track wildfires",
+      "source": "Ars Technica - All content",
+      "date": "Fri, 07 Aug 2026 21:48:21 +0000",
+      "summary": "Copernicus Browser adds wildfire visualization amid record wildfire season.",
+      "url": "https://arstechnica.com/gadgets/2026/08/europes-free-satellite-service-just-made-it-easier-to-track-wildfires/"
     },
     {
       "category": "AI",
@@ -68,38 +132,6 @@
     },
     {
       "category": "AI",
-      "title": "The ultimate eclipse chase: A Concorde raced against the Moon's shadow",
-      "source": "Ars Technica - All content",
-      "date": "Fri, 07 Aug 2026 19:00:17 +0000",
-      "summary": "Fitted with telescopes, the plane did our longest imaging of the Sun's corona.",
-      "url": "https://arstechnica.com/science/2026/08/the-ultimate-eclipse-chase-a-concorde-raced-against-the-moons-shadow/"
-    },
-    {
-      "category": "Space",
-      "title": " NASA figured out how to keep its 48-year-old Voyager 2 probe running for yet another year ",
-      "source": " Latest from Space.com ",
-      "date": "Fri, 07 Aug 2026 19:00:00 +0000",
-      "summary": "NASA's Voyager 2 probe, which launched in 1977, can keep operating its last science instruments after a power reduction operation performed in interstellar space.",
-      "url": "https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year"
-    },
-    {
-      "category": "AI",
-      "title": "App Store Rejection of the Week: Dark Hours",
-      "source": "Hacker News: Front Page",
-      "date": "Fri, 07 Aug 2026 18:59:08 +0000",
-      "summary": "Article URL: https://daringfireball.net/2026/08/app_store_rejection_of_the_week_dark_hours\nComments URL: https://news.ycombinator.com/item?id=49214863\nPoints: 204\n# Comments: 98",
-      "url": "https://daringfireball.net/2026/08/app_store_rejection_of_the_week_dark_hours"
-    },
-    {
-      "category": "AI",
-      "title": "Psychological Warfare in Reverse Engineering (2015)",
-      "source": "Hacker News: Front Page",
-      "date": "Fri, 07 Aug 2026 18:51:45 +0000",
-      "summary": "Article URL: https://github.com/xoreaxeaxeax/repsych\nComments URL: https://news.ycombinator.com/item?id=49214775\nPoints: 33\n# Comments: 2",
-      "url": "https://github.com/xoreaxeaxeax/repsych"
-    },
-    {
-      "category": "AI",
       "title": "Responding to the next frontier of critical cyber capabilities",
       "source": "OpenAI News",
       "date": "Fri, 07 Aug 2026 15:20:00 GMT",
@@ -121,22 +153,6 @@
       "date": "Fri, 07 Aug 2026 13:35:28 +0000",
       "summary": "A partial eclipse is still worth seeing, but only with the right protection. Here's where you can still find eclipse glasses, solar binoculars and filters before eclipse day.",
       "url": "https://www.livescience.com/products/optics/where-to-buy-last-minute-solar-eclipse-glasses-and-viewing-gear-before-august-12"
-    },
-    {
-      "category": "Science",
-      "title": " Uberaba Geopark: A time capsule from the Late Cretaceous period nestled in Brazil's tropical savanna ",
-      "source": " Latest from Live Science ",
-      "date": "Fri, 07 Aug 2026 12:00:00 +0000",
-      "summary": "Uberaba Geopark, also known as the \"Land of the Giants,\" is a region in Brazil's Cerrado biome that preserved thousands of prehistoric fossils.",
-      "url": "https://www.livescience.com/planet-earth/geology/uberaba-geopark-a-time-capsule-from-the-late-cretaceous-period-nestled-in-brazils-tropical-savanna"
-    },
-    {
-      "category": "Science",
-      "title": "Scientists tracked 12 people in Antarctica for 10 months—what happened could shape future Mars missions",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Fri, 07 Aug 2026 07:18:01 EDT",
-      "summary": "A ten-month Antarctic experiment found that astronauts may struggle not only with loneliness but also with spending too much time around the same people. Frequent contact was linked to greater tension and mistrust, while the crew increasingly divided into cultural and language-based groups.",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260806050722.htm"
     },
     {
       "category": "Biblical Studies",
@@ -169,14 +185,6 @@
       "date": "Fri, 07 Aug 2026 06:12:47 +0000",
       "summary": "The ultimate basis of your hope of making it to the end secure in Christ is not your own resolve, seriousness, or moral character but the finished work of Christ and all of God’s promises in him.\nThe post Pastoring Those with Differing Views on God’s Sovereignty in Salvation appeared first on 9Marks.",
       "url": "https://www.9marks.org/article/pastoring-those-with-differing-views-on-gods-sovereignty-in-salvation/?utm_source=rss&utm_medium=rss&utm_campaign=pastoring-those-with-differing-views-on-gods-sovereignty-in-salvation"
-    },
-    {
-      "category": "Science",
-      "title": "Scientists find unexpected life on Ötzi the Iceman’s 5,300-year-old body",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Fri, 07 Aug 2026 00:24:49 EDT",
-      "summary": "More than 5,000 years after his death, Ötzi the Iceman is still hosting a remarkable mix of ancient and modern microorganisms. Researchers separated microbes that lived in his body during his lifetime from those that arrived after his death, uncovering traces of his original gut bacteria and cold-loving yeasts that may have survived alongside him in the glacier for millennia.",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260806050721.htm"
     },
     {
       "category": "Theology",
@@ -217,14 +225,6 @@
       "date": "Thu, 06 Aug 2026 05:50:21 EDT",
       "summary": "Genetic changes may set off a chain reaction that causes the spine’s natural shock absorbers to harden and deteriorate. Zebrafish with a faulty collagen-related gene developed mineral buildup and spinal fusion similar to human disc disease. Researchers were able to reduce the damage using an existing osteoporosis drug and by targeting fat metabolism. The discovery points to several exciting possibilities for future back pain treatments.",
       "url": "https://www.sciencedaily.com/releases/2026/08/260806051943.htm"
-    },
-    {
-      "category": "Theology",
-      "title": "The One Where We Offend Everyone",
-      "source": "The Gospel Coalition",
-      "date": "Thu, 06 Aug 2026 04:04:25 +0000",
-      "summary": "Courtney Doctor and Melissa Kruger discuss why Christians shouldn’t be quick to take offense and how we should live in a culture where people are easily offended.",
-      "url": "https://www.thegospelcoalition.org/podcasts/deep-dish/one-where-offend-everyone/"
     },
     {
       "category": "History",
