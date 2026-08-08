@@ -1,7 +1,63 @@
 {
-  "lastUpdated": "2026-08-08T16:23:23.524Z",
-  "articleCount": 36,
+  "lastUpdated": "2026-08-08T22:20:28.274Z",
+  "articleCount": 39,
   "articles": [
+    {
+      "category": "AI",
+      "title": "Maryland Closes More of Cunningham Falls State Park After Second Beaver Attack",
+      "source": "Hacker News: Front Page",
+      "date": "Sat, 08 Aug 2026 21:07:10 +0000",
+      "summary": "Article URL: https://news.maryland.gov/dnr/2026/08/05/dnr-closes-additional-areas-of-cunningham-falls-state-park-following-second-beaver-attack/\nComments URL: https://news.ycombinator.com/item?id=49225918\nPoints: 31\n# Comments: 11",
+      "url": "https://news.maryland.gov/dnr/2026/08/05/dnr-closes-additional-areas-of-cunningham-falls-state-park-following-second-beaver-attack/"
+    },
+    {
+      "category": "AI",
+      "title": "The Unreasonable Effectiveness of Mathematics in the Natural Sciences [pdf]",
+      "source": "Hacker News: Front Page",
+      "date": "Sat, 08 Aug 2026 20:37:24 +0000",
+      "summary": "Article URL: https://web.njit.edu/~akansu/PAPERS/The%20Unreasonable%20Effectiveness%20of%20Mathematics%20(EP%20Wigner).pdf\nComments URL: https://news.ycombinator.com/item?id=49225676\nPoints: 8\n# Comments: 0",
+      "url": "https://web.njit.edu/~akansu/PAPERS/The%20Unreasonable%20Effectiveness%20of%20Mathematics%20(EP%20Wigner).pdf"
+    },
+    {
+      "category": "Science",
+      "title": "'Flying focus' laser overcomes key limitation in plasma-based particle accelerators",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sat, 08 Aug 2026 15:40:03 EDT",
+      "summary": "In a new Nature Physics study, researchers accelerated electrons to more than twice the energy predicted by the traditional dephasing limit for laser-plasma accelerators operating over the same distance. This was made possible by a specially engineered laser pulse called a flying focus, which counteracts a longstanding limitation known as \"dephasing.\"",
+      "url": "https://phys.org/news/2026-08-flying-focus-laser-key-limitation.html"
+    },
+    {
+      "category": "AI",
+      "title": "Open-source interactive map for the Aug 12 total solar eclipse",
+      "source": "Hacker News: Front Page",
+      "date": "Sat, 08 Aug 2026 19:38:08 +0000",
+      "summary": "Article URL: https://eclipsefan.org/?v=2&t=max&layers=eclipse%2Cbesselian%2Cumbra-live%2Cshadow-3d%2Ccloud-projection%2Cosm&lat=43.4623&lon=-3.8099&opacity=besselian%3A0.2%2Cumbra-live%3A0.2&zoom=6&palier=minute\nComments URL: https://news.ycombinator.com/item?id=49225139\nPoints: 43\n# Comments: 6",
+      "url": "https://eclipsefan.org/?v=2&t=max&layers=eclipse%2Cbesselian%2Cumbra-live%2Cshadow-3d%2Ccloud-projection%2Cosm&lat=43.4623&lon=-3.8099&opacity=besselian%3A0.2%2Cumbra-live%3A0.2&zoom=6&palier=minute"
+    },
+    {
+      "category": "Space",
+      "title": " SpaceX launches 24 Starlink satellites to orbit from California (video) ",
+      "source": " Latest from Space.com ",
+      "date": "Sat, 08 Aug 2026 19:19:16 +0000",
+      "summary": "SpaceX launched another batch of its Starlink internet satellites to orbit today (Aug. 8) from California's scenic central coast.",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-launch-starlink-group-17-38-ocisly"
+    },
+    {
+      "category": "Science",
+      "title": "Butterfly ranges shift worldwide amid climate change, with most species expanding their reach",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sat, 08 Aug 2026 13:40:04 EDT",
+      "summary": "A global analysis of range-shift records for 1,758 butterfly species—10% of known butterfly species—found that 80% had expanded their range and that 79% of all recorded range shifts were linked to climate change and extreme weather events. The new study, published in Nature Ecology & Evolution, also reports range contractions for 27% of species, and 22% of species showed a change in elevation. Because many species exhibited multiple types of range shifts, the percentages for expansions, contractions and elevation changes are above 100%.",
+      "url": "https://phys.org/news/2026-08-butterfly-ranges-shift-worldwide-climate.html"
+    },
+    {
+      "category": "Science",
+      "title": "Pulsed radiofrequency magnetic fields may disorient migratory birds, experiments suggest",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sat, 08 Aug 2026 12:40:01 EDT",
+      "summary": "Every year, millions of migratory birds travel between different geographical regions on Earth to find food, escape cold weather or reach safe environments to raise chicks. To determine which direction to fly, these birds rely on various types of sensory cues and information, including the magnetic field surrounding our planet, known as the geomagnetic field.",
+      "url": "https://phys.org/news/2026-08-pulsed-radiofrequency-magnetic-fields-disorient.html"
+    },
     {
       "category": "Space",
       "title": " 'Transformers: The Movie' at 40: the cartoon spin-off that traumatized a generation of kids ",
@@ -20,14 +76,6 @@
     },
     {
       "category": "Science",
-      "title": "Dodo birds more clever than we thought",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sat, 08 Aug 2026 11:20:01 EDT",
-      "summary": "The Mauritian dodo—a global symbol of human-caused extinction and one of the world's largest pigeons—may not have deserved its reputation as a silly simpleton and may have been the only member of its group to live in the dark.",
-      "url": "https://phys.org/news/2026-08-dodo-birds-clever-thought.html"
-    },
-    {
-      "category": "Science",
       "title": " Using AI has an environmental impact — here are 4 ways you can minimize it ",
       "source": " Latest from Live Science ",
       "date": "Sat, 08 Aug 2026 15:00:00 +0000",
@@ -41,54 +89,6 @@
       "date": "Sat, 08 Aug 2026 10:58:54 EDT",
       "summary": "A rare meteorite that crashed through a New Jersey roof contains evidence of ancient salty fluids, organic compounds, and amino acids from a primitive asteroid. Its pristine chemistry could offer new clues about how space rocks helped supply early Earth with some of the ingredients needed for life.",
       "url": "https://www.sciencedaily.com/releases/2026/08/260807035145.htm"
-    },
-    {
-      "category": "Science",
-      "title": "How winter canola could profit Illinois farmers, improve sustainability",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sat, 08 Aug 2026 10:40:01 EDT",
-      "summary": "A new simulation study from the University of Illinois Urbana-Champaign suggests winter canola could be profitable and environmentally beneficial if added to a conventional corn-soy rotation in the U.S. Midwest.",
-      "url": "https://phys.org/news/2026-08-winter-canola-profit-illinois-farmers.html"
-    },
-    {
-      "category": "AI",
-      "title": "Sensitive Info Goes into 'No Reply' Emails Constantly. This Guy Sees It All",
-      "source": "Hacker News: Front Page",
-      "date": "Sat, 08 Aug 2026 14:07:06 +0000",
-      "summary": "Article URL: https://www.wired.com/story/sensitive-info-goes-into-no-reply-emails-constantly-this-guy-sees-it-all/\nComments URL: https://news.ycombinator.com/item?id=49221947\nPoints: 24\n# Comments: 3",
-      "url": "https://www.wired.com/story/sensitive-info-goes-into-no-reply-emails-constantly-this-guy-sees-it-all/"
-    },
-    {
-      "category": "AI",
-      "title": "Don't use your phone while you poop",
-      "source": "Hacker News: Front Page",
-      "date": "Sat, 08 Aug 2026 14:05:56 +0000",
-      "summary": "Article URL: https://nate.spot/no-phone-while-poop/\nComments URL: https://news.ycombinator.com/item?id=49221939\nPoints: 138\n# Comments: 136",
-      "url": "https://nate.spot/no-phone-while-poop/"
-    },
-    {
-      "category": "Science",
-      "title": "Dodos probably weren't as stupid as historians made them out to be: new research",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sat, 08 Aug 2026 10:00:01 EDT",
-      "summary": "The dodo has been extinct for more than 300 years, wiped out within decades of humans arriving on its home island of Mauritius, but it lives on in the public imagination.",
-      "url": "https://phys.org/news/2026-08-dodos-werent-stupid-historians.html"
-    },
-    {
-      "category": "Space",
-      "title": " Don't miss the crescent moon shine close to the red light of Mars before dawn on Aug. 9 ",
-      "source": " Latest from Space.com ",
-      "date": "Sat, 08 Aug 2026 14:00:00 +0000",
-      "summary": "Early risers will catch a spectacular sight in the predawn hours of Aug. 9, as the slender crescent moon shines close to the red light of Mars among the stars of the constellation Taurus.",
-      "url": "https://www.space.com/stargazing/dont-miss-the-crescent-moon-shine-close-to-the-red-light-of-mars-before-dawn-aug-9-2026"
-    },
-    {
-      "category": "AI",
-      "title": "Gentoo bugzilla closed due AI bot scraper overload",
-      "source": "Hacker News: Front Page",
-      "date": "Sat, 08 Aug 2026 13:55:42 +0000",
-      "summary": "Article URL: https://social.treehouse.systems/@mgorny/117058483039362779\nComments URL: https://news.ycombinator.com/item?id=49221864\nPoints: 67\n# Comments: 25",
-      "url": "https://social.treehouse.systems/@mgorny/117058483039362779"
     },
     {
       "category": "Science",
@@ -131,6 +131,14 @@
       "url": "https://www.livescience.com/space/the-sun/where-and-when-to-see-the-aug-12-solar-eclipse-exact-times-for-north-america-and-europe"
     },
     {
+      "category": "Space",
+      "title": "APOD: 2026 August 8 – A Messier Moment for Tempel 2",
+      "source": "NASA",
+      "date": "Sat, 08 Aug 2026 04:05:00 +0000",
+      "summary": "APOD Science APOD APOD: 2026 August 8 – A… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. A Messier […]",
+      "url": "https://science.nasa.gov/image-article/apod/apod-2026-august-8-a-messier-moment-for-tempel-2/"
+    },
+    {
       "category": "Theology",
       "title": "Obey the Greatest Commandment . . . While You Sleep",
       "source": "The Gospel Coalition",
@@ -155,12 +163,28 @@
       "url": "https://arstechnica.com/gadgets/2026/08/europes-free-satellite-service-just-made-it-easier-to-track-wildfires/"
     },
     {
+      "category": "Space",
+      "title": "2026 IGARSS Hyperwall Schedule",
+      "source": "NASA",
+      "date": "Fri, 07 Aug 2026 18:57:34 +0000",
+      "summary": "IGARSS 2026 Join NASA in the Exhibit Hall (Booth #100) for Hyperwall Storytelling by NASA experts. Full Hyperwall Agenda below. MONDAY, AUGUST 10 3:00 PM Technology Enabling the Future of Earth ScienceMike Seablom3:15 PM Discovery Earth: New Missions & Technical Innovation Advancing Earth System InsightsKaren St. Germain TUESDAY, AUGUST 11 10:00 AMSTELLA: Open-Source Multisenor Platforms For Real-Time […]",
+      "url": "https://science.nasa.gov/earth/2026-igarss-hyperwall-schedule/"
+    },
+    {
       "category": "AI",
       "title": "Responding to the next frontier of critical cyber capabilities",
       "source": "OpenAI News",
       "date": "Fri, 07 Aug 2026 15:20:00 GMT",
       "summary": "OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls.",
       "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities"
+    },
+    {
+      "category": "Space",
+      "title": "NASA’s IXPE Studies Magnetar",
+      "source": "NASA",
+      "date": "Fri, 07 Aug 2026 14:27:35 +0000",
+      "summary": "Scientists using NASA’s IXPE (Imaging X-ray Polarimetry Explorer) conducted more than 140 hours of observations of the magnetar 1E 1547-5408, shown in this Aug. 5, 2026, artist’s concept, between March and April 2025. In doing so, they may have captured empty space behaving in a way physicists have predicted for 90 years, but never directly […]",
+      "url": "https://www.nasa.gov/image-article/nasas-ixpe-studies-magnetar/"
     },
     {
       "category": "Biblical Studies",
