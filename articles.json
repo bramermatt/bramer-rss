@@ -1,7 +1,111 @@
 {
-  "lastUpdated": "2026-08-09T10:24:45.530Z",
-  "articleCount": 36,
+  "lastUpdated": "2026-08-09T16:24:52.904Z",
+  "articleCount": 39,
   "articles": [
+    {
+      "category": "Science",
+      "title": "Cosmic filaments help set first limits on dark matter's decay into gravitons",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sun, 09 Aug 2026 12:00:01 EDT",
+      "summary": "Composing some 85% of the universe's total mass, dark matter betrays its presence only through gravity, unlike ordinary matter. Yet through new research published in Physical Review D, a team led by David Dunsky of New York University has proposed a new way to hunt for the elusive substance. Their approach involves searching for the decay of dark matter particles into gravitons: the hypothetical particles thought to carry the force of gravity itself.",
+      "url": "https://phys.org/news/2026-08-cosmic-filaments-limits-dark-decay.html"
+    },
+    {
+      "category": "AI",
+      "title": "Tech sucks: You have to vote with your wallet, or nothing will change",
+      "source": "Hacker News: Front Page",
+      "date": "Sun, 09 Aug 2026 15:55:02 +0000",
+      "summary": "Article URL: https://82mhz.net/posts/2026/08/tech-sucks-you-have-to-vote-with-your-wallet-or-nothing-will-change/\nComments URL: https://news.ycombinator.com/item?id=49232570\nPoints: 23\n# Comments: 8",
+      "url": "https://82mhz.net/posts/2026/08/tech-sucks-you-have-to-vote-with-your-wallet-or-nothing-will-change/"
+    },
+    {
+      "category": "AI",
+      "title": "Every fast write moves work somewhere else",
+      "source": "Hacker News: Front Page",
+      "date": "Sun, 09 Aug 2026 15:36:52 +0000",
+      "summary": "Article URL: https://www.shayon.dev/post/2026/220/every-fast-write-moves-work-somewhere-else/\nComments URL: https://news.ycombinator.com/item?id=49232410\nPoints: 4\n# Comments: 0",
+      "url": "https://www.shayon.dev/post/2026/220/every-fast-write-moves-work-somewhere-else/"
+    },
+    {
+      "category": "AI",
+      "title": "Show HN: Vibez – Open-Source Rust Based Digital Audio Workstation (DAW)",
+      "source": "Hacker News: Front Page",
+      "date": "Sun, 09 Aug 2026 15:31:49 +0000",
+      "summary": "Article URL: https://alexanderwanyoike.github.io/vibez/\nComments URL: https://news.ycombinator.com/item?id=49232369\nPoints: 4\n# Comments: 0",
+      "url": "https://alexanderwanyoike.github.io/vibez/"
+    },
+    {
+      "category": "Science",
+      "title": "Over half of people are unaware of the environmental effects of sunscreen",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sun, 09 Aug 2026 11:20:01 EDT",
+      "summary": "This summer, millions of people across the country have been digging out sunscreen to protect themselves from a record-breaking series of heat waves.",
+      "url": "https://phys.org/news/2026-08-people-unaware-environmental-effects-sunscreen.html"
+    },
+    {
+      "category": "Science",
+      "title": "Rare Mars meteorite preserves 1.27-billion-year-old clues to planet's deep interior",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sun, 09 Aug 2026 10:20:01 EDT",
+      "summary": "Boston College scientists have determined that a newly discovered meteorite from Mars is 1.27 billion years old and derived from a previously unsampled, pristine source on the Red Planet. The study is published in the journal Geochimica et Cosmochimica Acta.",
+      "url": "https://phys.org/news/2026-08-rare-mars-meteorite-billion-year.html"
+    },
+    {
+      "category": "Space",
+      "title": " Exploring 'very low Earth orbit': The world's 1st air-breathing satellite thruster could soon get a test run ",
+      "source": " Latest from Space.com ",
+      "date": "Sun, 09 Aug 2026 14:00:00 +0000",
+      "summary": "Air-breathing electric propulsion could help satellites explore a new frontier, one that lies quite close to our planet.",
+      "url": "https://www.space.com/space-exploration/satellites/exploring-very-low-earth-orbit-the-worlds-1st-air-breathing-satellite-thruster-could-soon-get-a-test-run"
+    },
+    {
+      "category": "Space",
+      "title": " On this day in space! Aug. 9, 1976: Soviet Luna 24 sample return probe launches to the moon ",
+      "source": " Latest from Space.com ",
+      "date": "Sun, 09 Aug 2026 14:00:00 +0000",
+      "summary": "On Aug. 9, 1976, the Soviet space program launched its last moon mission. Luna 24 was a robotic sample return mission and the third of its kind.",
+      "url": "https://www.space.com/space-exploration/on-this-day-in-space-august-9-2026"
+    },
+    {
+      "category": "Science",
+      "title": " 'His urine goes on tour around Europe, showing the kings and queens this glowing pee': The weird world of alchemy before chemistry ",
+      "source": " Latest from Live Science ",
+      "date": "Sun, 09 Aug 2026 12:15:00 +0000",
+      "summary": "Science writer Kit Chapman on the weird world of alchemy before chemistry.",
+      "url": "https://www.livescience.com/chemistry/his-urine-goes-on-tour-around-europe-showing-the-kings-and-queens-this-glowing-pee-the-weird-world-of-alchemy-before-chemistry"
+    },
+    {
+      "category": "Space",
+      "title": " The total solar eclipse on Aug. 12 will reveal something nobody has ever seen before ",
+      "source": " Latest from Space.com ",
+      "date": "Sun, 09 Aug 2026 12:00:00 +0000",
+      "summary": "A naked-eye view of the sun's outer atmosphere is the reason eclipse chasers travel the world. Here's what it may look like on Aug. 12.",
+      "url": "https://www.space.com/stargazing/solar-eclipses/the-total-solar-eclipse-on-aug-12-will-reveal-something-nobody-has-ever-seen-before"
+    },
+    {
+      "category": "Science",
+      "title": "60,000-year-old ostrich eggshell engravings reveal a surprisingly sophisticated human mind",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Sun, 09 Aug 2026 07:51:37 EDT",
+      "summary": "More than 60,000 years ago, humans in southern Africa were engraving ostrich eggshells with intricate geometric patterns that appear far more organized than previously realized. Researchers found recurring grids, parallel lines, right angles, and repeated shapes, suggesting the designs followed deliberate rules rather than being improvised. The engravers may even have planned entire patterns in their minds before carving them.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260808235013.htm"
+    },
+    {
+      "category": "Science",
+      "title": "Scientists discover bacteria that lock toxic uranium into a stable form",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Sun, 09 Aug 2026 07:30:17 EDT",
+      "summary": "Deep underground, bacteria may be capable of doing something remarkable: trapping toxic uranium before it spreads. When researchers fed microbes in uranium-contaminated mine water with glycerol, about 95% of the dissolved uranium disappeared within 130 days. The bacteria helped convert it into an unusually stable uranium compound that had rarely been observed before.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260807035149.htm"
+    },
+    {
+      "category": "AI",
+      "title": "Mount Toba eruption doesn't seem like it could nearly kill our species",
+      "source": "Ars Technica - All content",
+      "date": "Sun, 09 Aug 2026 11:00:14 +0000",
+      "summary": "The massive Toba eruption seems to have had little climate impact.",
+      "url": "https://arstechnica.com/science/2026/08/mount-toba-eruption-doesnt-seem-like-it-could-nearly-kill-our-species/"
+    },
     {
       "category": "Science",
       "title": " New James Webb telescope image may reveal the true identity of 'little red dots' — Space photo of the week ",
@@ -19,38 +123,6 @@
       "url": "https://www.livescience.com/human-behavior/who-are-the-least-contacted-people-on-earth"
     },
     {
-      "category": "AI",
-      "title": "Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost",
-      "source": "Hacker News: Front Page",
-      "date": "Sun, 09 Aug 2026 08:00:51 +0000",
-      "summary": "Article URL: https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost/\nComments URL: https://news.ycombinator.com/item?id=49229412\nPoints: 23\n# Comments: 5",
-      "url": "https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost/"
-    },
-    {
-      "category": "AI",
-      "title": "There Are Magic Hexagons of Every Order",
-      "source": "Hacker News: Front Page",
-      "date": "Sun, 09 Aug 2026 07:19:58 +0000",
-      "summary": "Article URL: https://gukov.dev/math/2026/08/02/new-magic-hexagons.html\nComments URL: https://news.ycombinator.com/item?id=49229174\nPoints: 22\n# Comments: 2",
-      "url": "https://gukov.dev/math/2026/08/02/new-magic-hexagons.html"
-    },
-    {
-      "category": "Space",
-      "title": " Here's what to expect from 5 stages of the total solar eclipse 2026 ",
-      "source": " Latest from Space.com ",
-      "date": "Sun, 09 Aug 2026 06:00:00 +0000",
-      "summary": "From first contact to totality and beyond, this is what will happen during each stage of the Aug. 12 total solar eclipse.",
-      "url": "https://www.space.com/stargazing/solar-eclipses/heres-what-to-expect-from-5-stages-of-the-total-solar-eclipse-2026"
-    },
-    {
-      "category": "AI",
-      "title": "Microsoft Word for Windows 1.1a, Native X64 Port",
-      "source": "Hacker News: Front Page",
-      "date": "Sun, 09 Aug 2026 05:23:41 +0000",
-      "summary": "Article URL: https://github.com/jmarshall23/msword\nComments URL: https://news.ycombinator.com/item?id=49228663\nPoints: 77\n# Comments: 27",
-      "url": "https://github.com/jmarshall23/msword"
-    },
-    {
       "category": "Theology",
       "title": "Starving in Silence: How the Church Can Care for Those with Eating Disorders",
       "source": "The Gospel Coalition",
@@ -60,67 +132,11 @@
     },
     {
       "category": "Science",
-      "title": "'Flying focus' laser overcomes key limitation in plasma-based particle accelerators",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sat, 08 Aug 2026 15:40:03 EDT",
-      "summary": "In a new Nature Physics study, researchers accelerated electrons to more than twice the energy predicted by the traditional dephasing limit for laser-plasma accelerators operating over the same distance. This was made possible by a specially engineered laser pulse called a flying focus, which counteracts a longstanding limitation known as \"dephasing.\"",
-      "url": "https://phys.org/news/2026-08-flying-focus-laser-key-limitation.html"
-    },
-    {
-      "category": "Space",
-      "title": " SpaceX launches 24 Starlink satellites to orbit from California (video) ",
-      "source": " Latest from Space.com ",
-      "date": "Sat, 08 Aug 2026 19:19:16 +0000",
-      "summary": "SpaceX launched another batch of its Starlink internet satellites to orbit today (Aug. 8) from California's scenic central coast.",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-launch-starlink-group-17-38-ocisly"
-    },
-    {
-      "category": "Science",
-      "title": "Butterfly ranges shift worldwide amid climate change, with most species expanding their reach",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sat, 08 Aug 2026 13:40:04 EDT",
-      "summary": "A global analysis of range-shift records for 1,758 butterfly species—10% of known butterfly species—found that 80% had expanded their range and that 79% of all recorded range shifts were linked to climate change and extreme weather events. The new study, published in Nature Ecology & Evolution, also reports range contractions for 27% of species, and 22% of species showed a change in elevation. Because many species exhibited multiple types of range shifts, the percentages for expansions, contractions and elevation changes are above 100%.",
-      "url": "https://phys.org/news/2026-08-butterfly-ranges-shift-worldwide-climate.html"
-    },
-    {
-      "category": "Science",
-      "title": "Pulsed radiofrequency magnetic fields may disorient migratory birds, experiments suggest",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sat, 08 Aug 2026 12:40:01 EDT",
-      "summary": "Every year, millions of migratory birds travel between different geographical regions on Earth to find food, escape cold weather or reach safe environments to raise chicks. To determine which direction to fly, these birds rely on various types of sensory cues and information, including the magnetic field surrounding our planet, known as the geomagnetic field.",
-      "url": "https://phys.org/news/2026-08-pulsed-radiofrequency-magnetic-fields-disorient.html"
-    },
-    {
-      "category": "Space",
-      "title": " 'Transformers: The Movie' at 40: the cartoon spin-off that traumatized a generation of kids ",
-      "source": " Latest from Space.com ",
-      "date": "Sat, 08 Aug 2026 16:00:00 +0000",
-      "summary": "With many fan-favorite Autobots and Decepticons bumped off in the opening act, this was not the big-screen romp '80s kids were expecting.",
-      "url": "https://www.space.com/entertainment/space-movies-shows/transformers-the-movie-at-40-the-cartoon-spin-off-that-traumatized-a-generation-of-kids"
-    },
-    {
-      "category": "Science",
-      "title": " Using AI has an environmental impact — here are 4 ways you can minimize it ",
-      "source": " Latest from Live Science ",
-      "date": "Sat, 08 Aug 2026 15:00:00 +0000",
-      "summary": "Escalating use of tools like Gemini and ChatGPT saps more and more power. Experts offer some tips on how to consume less.",
-      "url": "https://www.livescience.com/technology/artificial-intelligence/using-ai-has-an-environmental-impact-here-are-4-ways-you-can-minimize-it"
-    },
-    {
-      "category": "Science",
-      "title": "Meteorite that smashed through a New Jersey roof reveals clues to life’s origins",
+      "title": "Stress can scramble your brain’s internal GPS, MRI study finds",
       "source": "All Top News -- ScienceDaily",
-      "date": "Sat, 08 Aug 2026 10:58:54 EDT",
-      "summary": "A rare meteorite that crashed through a New Jersey roof contains evidence of ancient salty fluids, organic compounds, and amino acids from a primitive asteroid. Its pristine chemistry could offer new clues about how space rocks helped supply early Earth with some of the ingredients needed for life.",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260807035145.htm"
-    },
-    {
-      "category": "Science",
-      "title": "The sun is covered in tiny whirlpools we’ve never seen before",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Sat, 08 Aug 2026 09:03:51 EDT",
-      "summary": "Scientists have discovered incredibly tiny plasma whirlpools swirling across the Sun’s surface, some just 20 kilometers wide. These previously invisible vortices may twist magnetic fields and help build up the energy released in small solar eruptions called nanoflares. They may also help magnetic fields spread through the Sun’s atmosphere far faster than current models can explain.",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260807035142.htm"
+      "date": "Sat, 08 Aug 2026 23:21:50 EDT",
+      "summary": "Stress may literally scramble the brain’s internal GPS. Researchers found that cortisol, a hormone released during stress, made people significantly worse at navigating a virtual environment and disrupted the precise activity of grid cells, specialized brain cells that help us understand where we are in space. When landmarks were missing, this navigation system nearly stopped functioning, while another brain region appeared to step in and compensate.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260807035151.htm"
     },
     {
       "category": "AI",
@@ -139,6 +155,14 @@
       "url": "https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day/"
     },
     {
+      "category": "Space",
+      "title": "APOD: 2026 August 8 – A Messier Moment for Tempel 2",
+      "source": "NASA",
+      "date": "Sat, 08 Aug 2026 04:05:00 +0000",
+      "summary": "APOD Science APOD APOD: 2026 August 8 – A… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. A Messier […]",
+      "url": "https://science.nasa.gov/image-article/apod/apod-2026-august-8-a-messier-moment-for-tempel-2/"
+    },
+    {
       "category": "Theology",
       "title": "Obey the Greatest Commandment . . . While You Sleep",
       "source": "The Gospel Coalition",
@@ -147,20 +171,12 @@
       "url": "https://www.thegospelcoalition.org/article/obey-greatest-commandment-sleep/"
     },
     {
-      "category": "Science",
-      "title": "Sunlight creates quantum entanglement once thought to require lasers",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Fri, 07 Aug 2026 23:49:26 EDT",
-      "summary": "Scientists have generated quantum entanglement directly from sunlight, potentially offering a lower-energy alternative to the lasers normally used in quantum technology. Their outdoor experiment produced entangled photons with about 94% similarity to an ideal state. The result could pave the way for simpler quantum satellites, secure communications, and more energy-efficient quantum computing.",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260807035133.htm"
-    },
-    {
-      "category": "AI",
-      "title": "Europe's free satellite service just made it easier to track wildfires",
-      "source": "Ars Technica - All content",
-      "date": "Fri, 07 Aug 2026 21:48:21 +0000",
-      "summary": "Copernicus Browser adds wildfire visualization amid record wildfire season.",
-      "url": "https://arstechnica.com/gadgets/2026/08/europes-free-satellite-service-just-made-it-easier-to-track-wildfires/"
+      "category": "Space",
+      "title": "2026 IGARSS Hyperwall Schedule",
+      "source": "NASA",
+      "date": "Fri, 07 Aug 2026 18:57:34 +0000",
+      "summary": "IGARSS 2026 Join NASA in the Exhibit Hall (Booth #100) for Hyperwall Storytelling by NASA experts. Full Hyperwall Agenda below. MONDAY, AUGUST 10 3:00 PM Technology Enabling the Future of Earth ScienceMike Seablom3:15 PM Discovery Earth: New Missions & Technical Innovation Advancing Earth System InsightsKaren St. Germain TUESDAY, AUGUST 11 10:00 AMSTELLA: Open-Source Multisenor Platforms For Real-Time […]",
+      "url": "https://science.nasa.gov/earth/2026-igarss-hyperwall-schedule/"
     },
     {
       "category": "AI",
@@ -169,6 +185,14 @@
       "date": "Fri, 07 Aug 2026 15:20:00 GMT",
       "summary": "OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls.",
       "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities"
+    },
+    {
+      "category": "Space",
+      "title": "NASA’s IXPE Studies Magnetar",
+      "source": "NASA",
+      "date": "Fri, 07 Aug 2026 14:27:35 +0000",
+      "summary": "Scientists using NASA’s IXPE (Imaging X-ray Polarimetry Explorer) conducted more than 140 hours of observations of the magnetar 1E 1547-5408, shown in this Aug. 5, 2026, artist’s concept, between March and April 2025. In doing so, they may have captured empty space behaving in a way physicists have predicted for 90 years, but never directly […]",
+      "url": "https://www.nasa.gov/image-article/nasas-ixpe-studies-magnetar/"
     },
     {
       "category": "Biblical Studies",
