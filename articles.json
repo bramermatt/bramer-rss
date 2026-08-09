@@ -1,54 +1,62 @@
 {
-  "lastUpdated": "2026-08-09T16:24:52.904Z",
-  "articleCount": 39,
+  "lastUpdated": "2026-08-09T22:21:36.132Z",
+  "articleCount": 36,
   "articles": [
     {
-      "category": "Science",
-      "title": "Cosmic filaments help set first limits on dark matter's decay into gravitons",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sun, 09 Aug 2026 12:00:01 EDT",
-      "summary": "Composing some 85% of the universe's total mass, dark matter betrays its presence only through gravity, unlike ordinary matter. Yet through new research published in Physical Review D, a team led by David Dunsky of New York University has proposed a new way to hunt for the elusive substance. Their approach involves searching for the decay of dark matter particles into gravitons: the hypothetical particles thought to carry the force of gravity itself.",
-      "url": "https://phys.org/news/2026-08-cosmic-filaments-limits-dark-decay.html"
+      "category": "AI",
+      "title": "Is it all just vapourware?",
+      "source": "Hacker News: Front Page",
+      "date": "Sun, 09 Aug 2026 21:03:43 +0000",
+      "summary": "Article URL: https://kirahowe.com/2026/aug/8/is-it-all-just-vapourware\nComments URL: https://news.ycombinator.com/item?id=49235859\nPoints: 64\n# Comments: 91",
+      "url": "https://kirahowe.com/2026/aug/8/is-it-all-just-vapourware"
     },
     {
       "category": "AI",
-      "title": "Tech sucks: You have to vote with your wallet, or nothing will change",
+      "title": "Tuxedo No. 2 – Cocktail recipes",
       "source": "Hacker News: Front Page",
-      "date": "Sun, 09 Aug 2026 15:55:02 +0000",
-      "summary": "Article URL: https://82mhz.net/posts/2026/08/tech-sucks-you-have-to-vote-with-your-wallet-or-nothing-will-change/\nComments URL: https://news.ycombinator.com/item?id=49232570\nPoints: 23\n# Comments: 8",
-      "url": "https://82mhz.net/posts/2026/08/tech-sucks-you-have-to-vote-with-your-wallet-or-nothing-will-change/"
+      "date": "Sun, 09 Aug 2026 20:48:46 +0000",
+      "summary": "Article URL: https://tuxedono2.com\nComments URL: https://news.ycombinator.com/item?id=49235697\nPoints: 11\n# Comments: 1",
+      "url": "https://tuxedono2.com"
     },
     {
       "category": "AI",
-      "title": "Every fast write moves work somewhere else",
+      "title": "New Zealand lost its music media, and what we're building to replace it",
       "source": "Hacker News: Front Page",
-      "date": "Sun, 09 Aug 2026 15:36:52 +0000",
-      "summary": "Article URL: https://www.shayon.dev/post/2026/220/every-fast-write-moves-work-somewhere-else/\nComments URL: https://news.ycombinator.com/item?id=49232410\nPoints: 4\n# Comments: 0",
-      "url": "https://www.shayon.dev/post/2026/220/every-fast-write-moves-work-somewhere-else/"
-    },
-    {
-      "category": "AI",
-      "title": "Show HN: Vibez – Open-Source Rust Based Digital Audio Workstation (DAW)",
-      "source": "Hacker News: Front Page",
-      "date": "Sun, 09 Aug 2026 15:31:49 +0000",
-      "summary": "Article URL: https://alexanderwanyoike.github.io/vibez/\nComments URL: https://news.ycombinator.com/item?id=49232369\nPoints: 4\n# Comments: 0",
-      "url": "https://alexanderwanyoike.github.io/vibez/"
+      "date": "Sun, 09 Aug 2026 20:42:29 +0000",
+      "summary": "Article URL: https://propelmusic.co.nz/articles/the-sound-went-quiet-nz-music-media\nComments URL: https://news.ycombinator.com/item?id=49235641\nPoints: 22\n# Comments: 9",
+      "url": "https://propelmusic.co.nz/articles/the-sound-went-quiet-nz-music-media"
     },
     {
       "category": "Science",
-      "title": "Over half of people are unaware of the environmental effects of sunscreen",
+      "title": "Controlled cracking technique prints quantum dots into tiny pixels for sharper displays",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Sun, 09 Aug 2026 11:20:01 EDT",
-      "summary": "This summer, millions of people across the country have been digging out sunscreen to protect themselves from a record-breaking series of heat waves.",
-      "url": "https://phys.org/news/2026-08-people-unaware-environmental-effects-sunscreen.html"
+      "date": "Sun, 09 Aug 2026 15:20:01 EDT",
+      "summary": "Recent technological advances have enabled the development of increasingly sophisticated, sharper displays for electronic devices. Many modern displays use light-emitting diodes, or LEDs, tiny semiconductor-based components that emit light when an electrical current passes through them.",
+      "url": "https://phys.org/news/2026-08-technique-quantum-dots-tiny-pixels.html"
     },
     {
       "category": "Science",
-      "title": "Rare Mars meteorite preserves 1.27-billion-year-old clues to planet's deep interior",
+      "title": "Hong Kong weather observatory posts record high temperature",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Sun, 09 Aug 2026 10:20:01 EDT",
-      "summary": "Boston College scientists have determined that a newly discovered meteorite from Mars is 1.27 billion years old and derived from a previously unsampled, pristine source on the Red Planet. The study is published in the journal Geochimica et Cosmochimica Acta.",
-      "url": "https://phys.org/news/2026-08-rare-mars-meteorite-billion-year.html"
+      "date": "Sun, 09 Aug 2026 14:53:13 EDT",
+      "summary": "Hong Kong's weather observatory posted a record high temperature of 36.9°C (98°F) on Sunday as Typhoon Dolphin swept warm air over the city, the meteorological service said.",
+      "url": "https://phys.org/news/2026-08-hong-kong-weather-observatory-high.html"
+    },
+    {
+      "category": "Science",
+      "title": "How to spot the Perseid meteor shower, a summer light show that promises to dazzle",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sun, 09 Aug 2026 14:52:39 EDT",
+      "summary": "The Perseid summer light show is back—and viewing conditions are especially promising for the Northern Hemisphere.",
+      "url": "https://phys.org/news/2026-08-perseid-meteor-shower-summer-dazzle.html"
+    },
+    {
+      "category": "Science",
+      "title": " 'Now our lives have changed': Drop in coal burning is helping the African Sahel turn green after decades of drought ",
+      "source": " Latest from Live Science ",
+      "date": "Sun, 09 Aug 2026 17:00:00 +0000",
+      "summary": "Warming has brought extreme rain to the parched Sahel, which is seeing aquifers refill as monsoons grow stronger. But heavier downpours alone cannot explain the groundwater revival, say hydrologists, who believe efforts to harvest rainfall may also be paying dividends.",
+      "url": "https://www.livescience.com/planet-earth/now-our-lives-have-changed-drop-in-coal-burning-is-helping-the-african-sahel-turn-green-after-decades-of-drought"
     },
     {
       "category": "Space",
@@ -115,14 +123,6 @@
       "url": "https://www.livescience.com/space/astronomy/new-james-webb-telescope-image-may-reveal-the-true-identity-of-little-red-dots-space-photo-of-the-week"
     },
     {
-      "category": "Science",
-      "title": " Who are the least-contacted people on Earth? ",
-      "source": " Latest from Live Science ",
-      "date": "Sun, 09 Aug 2026 09:00:00 +0000",
-      "summary": "\"Uncontacted\" and \"isolated\" peoples live in roughly 10 countries around the world, including one group that erases their footprints so they cannot easily be found.",
-      "url": "https://www.livescience.com/human-behavior/who-are-the-least-contacted-people-on-earth"
-    },
-    {
       "category": "Theology",
       "title": "Starving in Silence: How the Church Can Care for Those with Eating Disorders",
       "source": "The Gospel Coalition",
@@ -155,14 +155,6 @@
       "url": "https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day/"
     },
     {
-      "category": "Space",
-      "title": "APOD: 2026 August 8 – A Messier Moment for Tempel 2",
-      "source": "NASA",
-      "date": "Sat, 08 Aug 2026 04:05:00 +0000",
-      "summary": "APOD Science APOD APOD: 2026 August 8 – A… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. A Messier […]",
-      "url": "https://science.nasa.gov/image-article/apod/apod-2026-august-8-a-messier-moment-for-tempel-2/"
-    },
-    {
       "category": "Theology",
       "title": "Obey the Greatest Commandment . . . While You Sleep",
       "source": "The Gospel Coalition",
@@ -171,28 +163,12 @@
       "url": "https://www.thegospelcoalition.org/article/obey-greatest-commandment-sleep/"
     },
     {
-      "category": "Space",
-      "title": "2026 IGARSS Hyperwall Schedule",
-      "source": "NASA",
-      "date": "Fri, 07 Aug 2026 18:57:34 +0000",
-      "summary": "IGARSS 2026 Join NASA in the Exhibit Hall (Booth #100) for Hyperwall Storytelling by NASA experts. Full Hyperwall Agenda below. MONDAY, AUGUST 10 3:00 PM Technology Enabling the Future of Earth ScienceMike Seablom3:15 PM Discovery Earth: New Missions & Technical Innovation Advancing Earth System InsightsKaren St. Germain TUESDAY, AUGUST 11 10:00 AMSTELLA: Open-Source Multisenor Platforms For Real-Time […]",
-      "url": "https://science.nasa.gov/earth/2026-igarss-hyperwall-schedule/"
-    },
-    {
       "category": "AI",
       "title": "Responding to the next frontier of critical cyber capabilities",
       "source": "OpenAI News",
       "date": "Fri, 07 Aug 2026 15:20:00 GMT",
       "summary": "OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls.",
       "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities"
-    },
-    {
-      "category": "Space",
-      "title": "NASA’s IXPE Studies Magnetar",
-      "source": "NASA",
-      "date": "Fri, 07 Aug 2026 14:27:35 +0000",
-      "summary": "Scientists using NASA’s IXPE (Imaging X-ray Polarimetry Explorer) conducted more than 140 hours of observations of the magnetar 1E 1547-5408, shown in this Aug. 5, 2026, artist’s concept, between March and April 2025. In doing so, they may have captured empty space behaving in a way physicists have predicted for 90 years, but never directly […]",
-      "url": "https://www.nasa.gov/image-article/nasas-ixpe-studies-magnetar/"
     },
     {
       "category": "Biblical Studies",
