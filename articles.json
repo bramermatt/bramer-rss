@@ -1,22 +1,62 @@
 {
-  "lastUpdated": "2026-08-08T22:20:28.274Z",
-  "articleCount": 39,
+  "lastUpdated": "2026-08-09T10:24:45.530Z",
+  "articleCount": 36,
   "articles": [
     {
-      "category": "AI",
-      "title": "Maryland Closes More of Cunningham Falls State Park After Second Beaver Attack",
-      "source": "Hacker News: Front Page",
-      "date": "Sat, 08 Aug 2026 21:07:10 +0000",
-      "summary": "Article URL: https://news.maryland.gov/dnr/2026/08/05/dnr-closes-additional-areas-of-cunningham-falls-state-park-following-second-beaver-attack/\nComments URL: https://news.ycombinator.com/item?id=49225918\nPoints: 31\n# Comments: 11",
-      "url": "https://news.maryland.gov/dnr/2026/08/05/dnr-closes-additional-areas-of-cunningham-falls-state-park-following-second-beaver-attack/"
+      "category": "Science",
+      "title": " New James Webb telescope image may reveal the true identity of 'little red dots' — Space photo of the week ",
+      "source": " Latest from Live Science ",
+      "date": "Sun, 09 Aug 2026 10:00:00 +0000",
+      "summary": "A new James Webb telescope study suggests the universe's enigmatic \"little red dots\" may not have vanished after all — they may simply look different as we observe them across cosmic time.",
+      "url": "https://www.livescience.com/space/astronomy/new-james-webb-telescope-image-may-reveal-the-true-identity-of-little-red-dots-space-photo-of-the-week"
+    },
+    {
+      "category": "Science",
+      "title": " Who are the least-contacted people on Earth? ",
+      "source": " Latest from Live Science ",
+      "date": "Sun, 09 Aug 2026 09:00:00 +0000",
+      "summary": "\"Uncontacted\" and \"isolated\" peoples live in roughly 10 countries around the world, including one group that erases their footprints so they cannot easily be found.",
+      "url": "https://www.livescience.com/human-behavior/who-are-the-least-contacted-people-on-earth"
     },
     {
       "category": "AI",
-      "title": "The Unreasonable Effectiveness of Mathematics in the Natural Sciences [pdf]",
+      "title": "Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost",
       "source": "Hacker News: Front Page",
-      "date": "Sat, 08 Aug 2026 20:37:24 +0000",
-      "summary": "Article URL: https://web.njit.edu/~akansu/PAPERS/The%20Unreasonable%20Effectiveness%20of%20Mathematics%20(EP%20Wigner).pdf\nComments URL: https://news.ycombinator.com/item?id=49225676\nPoints: 8\n# Comments: 0",
-      "url": "https://web.njit.edu/~akansu/PAPERS/The%20Unreasonable%20Effectiveness%20of%20Mathematics%20(EP%20Wigner).pdf"
+      "date": "Sun, 09 Aug 2026 08:00:51 +0000",
+      "summary": "Article URL: https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost/\nComments URL: https://news.ycombinator.com/item?id=49229412\nPoints: 23\n# Comments: 5",
+      "url": "https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost/"
+    },
+    {
+      "category": "AI",
+      "title": "There Are Magic Hexagons of Every Order",
+      "source": "Hacker News: Front Page",
+      "date": "Sun, 09 Aug 2026 07:19:58 +0000",
+      "summary": "Article URL: https://gukov.dev/math/2026/08/02/new-magic-hexagons.html\nComments URL: https://news.ycombinator.com/item?id=49229174\nPoints: 22\n# Comments: 2",
+      "url": "https://gukov.dev/math/2026/08/02/new-magic-hexagons.html"
+    },
+    {
+      "category": "Space",
+      "title": " Here's what to expect from 5 stages of the total solar eclipse 2026 ",
+      "source": " Latest from Space.com ",
+      "date": "Sun, 09 Aug 2026 06:00:00 +0000",
+      "summary": "From first contact to totality and beyond, this is what will happen during each stage of the Aug. 12 total solar eclipse.",
+      "url": "https://www.space.com/stargazing/solar-eclipses/heres-what-to-expect-from-5-stages-of-the-total-solar-eclipse-2026"
+    },
+    {
+      "category": "AI",
+      "title": "Microsoft Word for Windows 1.1a, Native X64 Port",
+      "source": "Hacker News: Front Page",
+      "date": "Sun, 09 Aug 2026 05:23:41 +0000",
+      "summary": "Article URL: https://github.com/jmarshall23/msword\nComments URL: https://news.ycombinator.com/item?id=49228663\nPoints: 77\n# Comments: 27",
+      "url": "https://github.com/jmarshall23/msword"
+    },
+    {
+      "category": "Theology",
+      "title": "Starving in Silence: How the Church Can Care for Those with Eating Disorders",
+      "source": "The Gospel Coalition",
+      "date": "Sun, 09 Aug 2026 04:00:00 +0000",
+      "summary": "To be fully known and loved frees us from the shame that gives eating disorders their power.",
+      "url": "https://www.thegospelcoalition.org/article/church-care-eating-disorders/"
     },
     {
       "category": "Science",
@@ -25,14 +65,6 @@
       "date": "Sat, 08 Aug 2026 15:40:03 EDT",
       "summary": "In a new Nature Physics study, researchers accelerated electrons to more than twice the energy predicted by the traditional dephasing limit for laser-plasma accelerators operating over the same distance. This was made possible by a specially engineered laser pulse called a flying focus, which counteracts a longstanding limitation known as \"dephasing.\"",
       "url": "https://phys.org/news/2026-08-flying-focus-laser-key-limitation.html"
-    },
-    {
-      "category": "AI",
-      "title": "Open-source interactive map for the Aug 12 total solar eclipse",
-      "source": "Hacker News: Front Page",
-      "date": "Sat, 08 Aug 2026 19:38:08 +0000",
-      "summary": "Article URL: https://eclipsefan.org/?v=2&t=max&layers=eclipse%2Cbesselian%2Cumbra-live%2Cshadow-3d%2Ccloud-projection%2Cosm&lat=43.4623&lon=-3.8099&opacity=besselian%3A0.2%2Cumbra-live%3A0.2&zoom=6&palier=minute\nComments URL: https://news.ycombinator.com/item?id=49225139\nPoints: 43\n# Comments: 6",
-      "url": "https://eclipsefan.org/?v=2&t=max&layers=eclipse%2Cbesselian%2Cumbra-live%2Cshadow-3d%2Ccloud-projection%2Cosm&lat=43.4623&lon=-3.8099&opacity=besselian%3A0.2%2Cumbra-live%3A0.2&zoom=6&palier=minute"
     },
     {
       "category": "Space",
@@ -67,14 +99,6 @@
       "url": "https://www.space.com/entertainment/space-movies-shows/transformers-the-movie-at-40-the-cartoon-spin-off-that-traumatized-a-generation-of-kids"
     },
     {
-      "category": "Space",
-      "title": " This Week In Space podcast: Episode 222 — How to Invade Earth in 22 Easy Steps ",
-      "source": " Latest from Space.com ",
-      "date": "Sat, 08 Aug 2026 15:58:11 +0000",
-      "summary": "On Episode 222 of This Week In Space, Rod Pyle and Tariq Malik are joined by space writer Rich Edwards to discuss the best ways to repel space invaders.",
-      "url": "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-222-how-to-invade-earth-in-22-easy-steps"
-    },
-    {
       "category": "Science",
       "title": " Using AI has an environmental impact — here are 4 ways you can minimize it ",
       "source": " Latest from Live Science ",
@@ -99,14 +123,6 @@
       "url": "https://www.sciencedaily.com/releases/2026/08/260807035142.htm"
     },
     {
-      "category": "Science",
-      "title": " 'These were harder than any other blades, cut sharper and cost more': How ancient Sri Lankans created steel of legends by harnessing monsoons ",
-      "source": " Latest from Live Science ",
-      "date": "Sat, 08 Aug 2026 12:00:00 +0000",
-      "summary": "In this excerpt from \"The Age of Alchemy,\" author Kit Chapman reveals  how ancient Sri Lankans created steel of legends by harnessing monsoons.",
-      "url": "https://www.livescience.com/chemistry/these-were-harder-than-any-other-blades-cut-sharper-and-cost-more-how-ancient-sri-lankans-created-steel-of-legends-by-harnessing-monsoons"
-    },
-    {
       "category": "AI",
       "title": "The first self-driving vehicle on Mars has proven to be a smashing success",
       "source": "Ars Technica - All content",
@@ -121,22 +137,6 @@
       "date": "Sat, 08 Aug 2026 11:05:50 +0000",
       "summary": "Open source WeatherNext model can make accurate predictions with lower-resolution weather data.",
       "url": "https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day/"
-    },
-    {
-      "category": "Science",
-      "title": " Where and when to see the Aug. 12 solar eclipse — exact times for North America and Europe ",
-      "source": " Latest from Live Science ",
-      "date": "Sat, 08 Aug 2026 11:00:00 +0000",
-      "summary": "Here's exactly when and where to watch the Aug. 12, 2026 solar eclipse in Europe, North America and North Africa.",
-      "url": "https://www.livescience.com/space/the-sun/where-and-when-to-see-the-aug-12-solar-eclipse-exact-times-for-north-america-and-europe"
-    },
-    {
-      "category": "Space",
-      "title": "APOD: 2026 August 8 – A Messier Moment for Tempel 2",
-      "source": "NASA",
-      "date": "Sat, 08 Aug 2026 04:05:00 +0000",
-      "summary": "APOD Science APOD APOD: 2026 August 8 – A… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. A Messier […]",
-      "url": "https://science.nasa.gov/image-article/apod/apod-2026-august-8-a-messier-moment-for-tempel-2/"
     },
     {
       "category": "Theology",
@@ -163,28 +163,12 @@
       "url": "https://arstechnica.com/gadgets/2026/08/europes-free-satellite-service-just-made-it-easier-to-track-wildfires/"
     },
     {
-      "category": "Space",
-      "title": "2026 IGARSS Hyperwall Schedule",
-      "source": "NASA",
-      "date": "Fri, 07 Aug 2026 18:57:34 +0000",
-      "summary": "IGARSS 2026 Join NASA in the Exhibit Hall (Booth #100) for Hyperwall Storytelling by NASA experts. Full Hyperwall Agenda below. MONDAY, AUGUST 10 3:00 PM Technology Enabling the Future of Earth ScienceMike Seablom3:15 PM Discovery Earth: New Missions & Technical Innovation Advancing Earth System InsightsKaren St. Germain TUESDAY, AUGUST 11 10:00 AMSTELLA: Open-Source Multisenor Platforms For Real-Time […]",
-      "url": "https://science.nasa.gov/earth/2026-igarss-hyperwall-schedule/"
-    },
-    {
       "category": "AI",
       "title": "Responding to the next frontier of critical cyber capabilities",
       "source": "OpenAI News",
       "date": "Fri, 07 Aug 2026 15:20:00 GMT",
       "summary": "OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls.",
       "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities"
-    },
-    {
-      "category": "Space",
-      "title": "NASA’s IXPE Studies Magnetar",
-      "source": "NASA",
-      "date": "Fri, 07 Aug 2026 14:27:35 +0000",
-      "summary": "Scientists using NASA’s IXPE (Imaging X-ray Polarimetry Explorer) conducted more than 140 hours of observations of the magnetar 1E 1547-5408, shown in this Aug. 5, 2026, artist’s concept, between March and April 2025. In doing so, they may have captured empty space behaving in a way physicists have predicted for 90 years, but never directly […]",
-      "url": "https://www.nasa.gov/image-article/nasas-ixpe-studies-magnetar/"
     },
     {
       "category": "Biblical Studies",
@@ -225,14 +209,6 @@
       "date": "Fri, 07 Aug 2026 04:04:00 +0000",
       "summary": "Christians can showcase Christ’s character through their work ethic, business practices, and relationship dynamics.",
       "url": "https://www.thegospelcoalition.org/podcasts/tgc-podcast/living-gospel-work/"
-    },
-    {
-      "category": "Theology",
-      "title": "Gospel Hope for College Drop-Off",
-      "source": "The Gospel Coalition",
-      "date": "Fri, 07 Aug 2026 04:00:00 +0000",
-      "summary": "As I help my son move 10 hours from home, this question erupts from the depths of my heart: How does God redeem the particular pains of parenting—things that the passage of time takes away?",
-      "url": "https://www.thegospelcoalition.org/article/gospel-hope-college-drop-off/"
     },
     {
       "category": "Biblical Studies",
