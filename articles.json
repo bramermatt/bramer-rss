@@ -1,22 +1,190 @@
 {
-  "lastUpdated": "2026-08-10T11:00:43.479Z",
-  "articleCount": 36,
+  "lastUpdated": "2026-08-10T16:44:54.204Z",
+  "articleCount": 39,
   "articles": [
     {
-      "category": "Science",
-      "title": "Greenland glacier break creates new ice island",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Mon, 10 Aug 2026 07:00:03 EDT",
-      "summary": "An international research team partly led by the University of Ottawa reports that Petermann Glacier in northwest Greenland calved a 76.4 km² (29.5 square miles) ice island on Aug. 4, 2026, marking the glacier's largest loss of floating ice since 2012 and the largest Arctic calving event since 2020.",
-      "url": "https://phys.org/news/2026-08-greenland-glacier-ice-island.html"
+      "category": "AI",
+      "title": "What building an AI-native finance function taught me",
+      "source": "OpenAI News",
+      "date": "Mon, 10 Aug 2026 17:00:00 GMT",
+      "summary": "OpenAI CFO Sarah Friar shares five lessons for building an AI-native finance function, from automated forecasting to stronger controls and AI ROI.",
+      "url": "https://openai.com/index/building-an-ai-native-finance-function"
     },
     {
       "category": "Science",
-      "title": "Sixteen AI-designed viruses offer a new route against drug-resistant bacteria",
+      "title": " 'They would come in with a chord change': Composer Jim Nollman has collaborated with turkeys, kangaroo rats and whales. Now he's dropping 'Orcas' Greatest Hits.' ",
+      "source": " Latest from Live Science ",
+      "date": "Mon, 10 Aug 2026 16:41:47 +0000",
+      "summary": "Staff writer Sascha Pare spoke with musical composer and sound artist Jim Nollman about his new album, \"Orcas' Greatest Hits,\" created with killer-whale bandmates.",
+      "url": "https://www.livescience.com/animals/orcas/they-would-come-in-with-a-chord-change-composer-jim-nollman-has-collaborated-with-turkeys-kangaroo-rats-and-whales-now-hes-dropping-orcas-greatest-hits"
+    },
+    {
+      "category": "Science",
+      "title": "International study sees links between ageist attitudes and memory problems",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Mon, 10 Aug 2026 07:00:01 EDT",
-      "summary": "In a world first, scientists led by a team from Stanford University have created 16 viable viruses that do not exist in nature and were designed by AI. Their experiment, which is published in Science, could help in the fight against superbugs by allowing researchers to design customized viruses to kill drug-resistant bacteria. Thomas Inglesby and Moritz S. Hanke have published a Perspective piece on the work and its implications in the same edition of the journal.",
-      "url": "https://phys.org/news/2026-08-sixteen-ai-viruses-route-drug.html"
+      "date": "Mon, 10 Aug 2026 12:40:05 EDT",
+      "summary": "An international study finds that older adults who have strong beliefs about how other seniors should behave also report having more memory problems themselves. The study suggests a relationship between \"ageist attitudes\" and memory.",
+      "url": "https://phys.org/news/2026-08-international-links-ageist-attitudes-memory.html"
+    },
+    {
+      "category": "Science",
+      "title": "Trapped gases in ancient rocks challenge global explanation for 2-billion-year-old carbon anomaly",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Mon, 10 Aug 2026 12:40:01 EDT",
+      "summary": "Roughly 2.5–2 billion years ago, Earth's surface experienced the biggest chemical change in its history when oxygen became abundant in the atmosphere, eventually leading to the evolution of complex life forms such as plants and animals that emerged half a billion years ago.",
+      "url": "https://phys.org/news/2026-08-gases-ancient-global-explanation-billion.html"
+    },
+    {
+      "category": "AI",
+      "title": "Launch HN: Stoa Markets (YC S26) – A Marketplace for GPUs and AI Servers",
+      "source": "Hacker News: Front Page",
+      "date": "Mon, 10 Aug 2026 16:35:27 +0000",
+      "summary": "Hi HN, we’re Eren, Berat and Kaan. We’re building Stoa (https://www.stoaexchange.com), a marketplace for new and used GPUs and AI servers.\nGPUs are the collateral in the data center buildout. Today, financing terms mostly depend on the offtaker, meaning the company that has committed to use the compute.\nIf that company is a hyperscaler, the financing can look investment grade. If it’s a smaller cloud or startup, terms get expensive fast, even with the same hardware as collateral.\nThe lender’s problem is pretty reasonable. If the borrower defaults and we need to sell these servers, what can we actually get for them? There isn’t a good answer today.\nWe started brokering GPU deals to understand why. It was much more manual than we expected. The hardware is still traded through phone calls, forwarded spreadsheets and long email threads.\nOne week, a seller quoted us $200k for a server node and another quoted $240k for what looked like the same thing. Neither was necessarily wrong. They had different information and could only see their own corner of the market.\nBefore we could compare the quotes, we had to sort out the configuration, condition, warranty, location and delivery terms. It’s the same information Kelley Blue Book attaches to a used-car price through the year, trim, mileage and condition. “An H100 server” isn’t enough information to know what something is worth, just as “a used BMW” isn’t.\nThis is also just a bad way to buy or sell hardware. A buyer looking for the best price shouldn’t have to contact several brokers and dealers separately, repeat the same request and then untangle a pile of different quotes. Sellers shouldn’t have to search for demand one buyer at a time. A market of this size deserves better liquidity.\nStoa puts the request into one format and sends it to dealers that have gone through know-your-business (KYB) checks. We verify the company, who owns it and who is allowed to trade for it. Before the request goes out, the buyer confirms the exact configuration, quantity, condition, warranty, location, delivery terms and what will be checked during inspection. Dealers return firm quotes against that same request without seeing each other’s bids. Once a quote is accepted, payment, shipping, delivery and inspection are then tracked through settlement. We don’t take possession of the hardware.\nWe got more than $300M in requests for quotes (RFQs) during our first month.\nThe immediate goal is to make buying and selling this hardware less painful. As trades build up, they also leave lenders with actual resale evidence instead of list prices and one off appraisals.\nWe knew from the beginning that this couldn’t be a software only marketplace. GPU trading runs on relationships, and inventory isn’t shown to just anyone. Dealers need to trust the people bringing them clients, and clients need to trust that quotes will actually turn into trades. We built those relationships over time by brokering deals ourselves. Stoa gives people a cleaner way to trade, from the first RFQ through settlement, but it doesn’t replace the trust underneath. Those relationships, and the history of who actually follows through, are a big part of our process.\nWe’ve known each other for more than ten years. We have founded companies, traded interest rate derivatives, built trading and pricing systems for oil and gas. We learned GPU trading by doing the deals ourselves, and Stoa grew out of the problems we kept running into.\nWe charge a tiered fee on completed trades, with lower fees at higher volumes. It’s free to sign up at https://www.stoaexchange.com/signup. If you’ve bought, sold, financed or had to liquidate GPUs, would be great to hear your take!\nComments URL: https://news.ycombinator.com/item?id=49246057\nPoints: 3\n# Comments: 0",
+      "url": "https://www.stoaexchange.com"
+    },
+    {
+      "category": "Space",
+      "title": "NASA+ Debuts on discovery+, Coming Soon to HBO Max",
+      "source": "NASA",
+      "date": "Mon, 10 Aug 2026 16:30:13 +0000",
+      "summary": "As NASA+ continues its expansion across multiple streaming platforms to bring space closer to home, NASA announced Monday programming is next heading to discovery+ and HBO Max. A continuous live feed of NASA+ programming is streaming on discovery+ live channels, while HBO Max will stream NASA’s special events, including the Artemis III mission in 2027. […]",
+      "url": "https://www.nasa.gov/news-release/nasa-debuts-on-discovery-coming-soon-to-hbo-max/"
+    },
+    {
+      "category": "Science",
+      "title": "Vitamin B12 corrects developmental defects in Verheij syndrome worm model",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Mon, 10 Aug 2026 12:20:04 EDT",
+      "summary": "Verheij syndrome is a rare genetic disorder caused by the impairment of splicing, a critical process in RNA processing. Using the model organism Caenorhabditis elegans, researchers at the Max Planck Institute for Biology of Aging have demonstrated that this disruption affects metabolic pathways that rely on vitamin B12.",
+      "url": "https://phys.org/news/2026-08-vitamin-b12-developmental-defects-verheij.html"
+    },
+    {
+      "category": "AI",
+      "title": "Why Addresses Have Numbers",
+      "source": "Hacker News: Front Page",
+      "date": "Mon, 10 Aug 2026 16:12:54 +0000",
+      "summary": "Article URL: https://thehistoricalinsights.page/2026/06/why-addresses-have-numbers.html\nComments URL: https://news.ycombinator.com/item?id=49245646\nPoints: 9\n# Comments: 2",
+      "url": "https://thehistoricalinsights.page/2026/06/why-addresses-have-numbers.html"
+    },
+    {
+      "category": "Space",
+      "title": " Chinese rocket explodes less than 90 seconds after liftoff ",
+      "source": " Latest from Space.com ",
+      "date": "Mon, 10 Aug 2026 16:03:25 +0000",
+      "summary": "China's latest rocket launch ended in failure this morning (Aug. 10), lighting up the skies with some unwanted fireworks.",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/chinese-rocket-explodes-less-than-90-seconds-after-liftoff"
+    },
+    {
+      "category": "AI",
+      "title": "Exploiting System Management Mode with a very long interrupt",
+      "source": "Hacker News: Front Page",
+      "date": "Mon, 10 Aug 2026 16:03:14 +0000",
+      "summary": "Article URL: https://github.com/xoreaxeaxeax/smiiiiiiiiiiiiiiii\nComments URL: https://news.ycombinator.com/item?id=49245491\nPoints: 12\n# Comments: 0",
+      "url": "https://github.com/xoreaxeaxeax/smiiiiiiiiiiiiiiii"
+    },
+    {
+      "category": "Science",
+      "title": " Baader AstroSolar Filter Film OD 5.0 review ",
+      "source": " Latest from Live Science ",
+      "date": "Mon, 10 Aug 2026 15:24:41 +0000",
+      "summary": "This ultra-light solar filter film is one of the most versatile and best-quality ways to image the sun.",
+      "url": "https://www.livescience.com/products/optics/baader-astrosolar-filter-film-od-5-0-review"
+    },
+    {
+      "category": "AI",
+      "title": "One of China's workhorse rockets just exploded in flight",
+      "source": "Ars Technica - All content",
+      "date": "Mon, 10 Aug 2026 15:05:00 +0000",
+      "summary": "If the failure involved the YF-100 engine, there are broader concerns for China's space program.",
+      "url": "https://arstechnica.com/space/2026/08/one-of-chinas-workhorse-rockets-just-exploded-in-flight/"
+    },
+    {
+      "category": "AI",
+      "title": "Dogs can tell if you're scared or sad",
+      "source": "Ars Technica - All content",
+      "date": "Mon, 10 Aug 2026 15:00:53 +0000",
+      "summary": "fMRI scans show happiness, fear, anger, and sadness have distinct brain activity patterns in doggy brains.",
+      "url": "https://arstechnica.com/science/2026/08/dogs-can-tell-if-youre-scared-or-sad/"
+    },
+    {
+      "category": "AI",
+      "title": "2026 Subaru Outback review: Great interior, refined drive, divisive looks",
+      "source": "Ars Technica - All content",
+      "date": "Mon, 10 Aug 2026 14:49:21 +0000",
+      "summary": "The newest Outback sticks to the script; that's no bad thing if you like Outbacks.",
+      "url": "https://arstechnica.com/cars/2026/08/2026-subaru-outback-limited-review-boxy-outside-almost-premium-inside/"
+    },
+    {
+      "category": "Space",
+      "title": " This ZWO astronomy camera is perfect for solar and lunar imaging ",
+      "source": " Latest from Space.com ",
+      "date": "Mon, 10 Aug 2026 14:11:15 +0000",
+      "summary": "Easy to use and with an excellent build quality, the ZWO ASI174MM is a fast, monochrome USB 3.0 camera that’s perfect for solar and lunar imaging.",
+      "url": "https://www.space.com/stargazing/skywatching-kit/this-zwo-astronomy-camera-is-perfect-for-solar-and-lunar-imaging"
+    },
+    {
+      "category": "Space",
+      "title": "Lion Nebula Roars to Life With NASA’s Webb",
+      "source": "NASA",
+      "date": "Mon, 10 Aug 2026 14:00:00 +0000",
+      "summary": "Observing across the starry “plains” of space, NASA’s James Webb Space Telescope has taken new images of NGC 2392, nicknamed the Lion Nebula. NASA’s Hubble Space Telescope previously viewed this planetary nebula in 2000, imaging the lion face-shaped target in visible light and revealing features such as the “mane” of hazy, comet-shaped objects. Now Webb […]",
+      "url": "https://science.nasa.gov/missions/webb/lion-nebula-roars-to-life-with-nasas-webb/"
+    },
+    {
+      "category": "Space",
+      "title": " Sharpest image of the sun ever captured! | Space photo of the day for Aug. 10, 2026 ",
+      "source": " Latest from Space.com ",
+      "date": "Mon, 10 Aug 2026 14:00:00 +0000",
+      "summary": "An international team of researchers using the U.S. National Science Foundation's Inouye Solar Telescope has captured the highest-resolution view of the sun's surface.",
+      "url": "https://www.space.com/astronomy/sun/sharpest-image-of-the-sun-ever-captured-space-photo-of-the-day-for-aug-10-2026"
+    },
+    {
+      "category": "AI",
+      "title": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
+      "source": "OpenAI News",
+      "date": "Mon, 10 Aug 2026 14:00:00 GMT",
+      "summary": "OpenAI sent Governor Greg Abbott a letter outlining its commitment to responsible AI infrastructure in Texas. The letter supports reliable, transparent growth that benefits Texans.",
+      "url": "https://openai.com/index/responsible-ai-infrastructure-texas"
+    },
+    {
+      "category": "Space",
+      "title": "Launch Into a New School Year With NASA",
+      "source": "NASA",
+      "date": "Mon, 10 Aug 2026 13:59:28 +0000",
+      "summary": "A new school year brings fresh opportunities to get involved with NASA. Whether you’re curious about space or eager to build real STEM skills, NASA offers a world of experiences putting you close to the action. As we enter a new golden age of exploration, there’s no better time to jump in, try something bold, […]",
+      "url": "https://www.nasa.gov/learning-resources/launch-into-a-new-school-year-with-nasa/"
+    },
+    {
+      "category": "Science",
+      "title": "Scientists discover a hidden switch inside silver nanocatalysts",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Mon, 10 Aug 2026 08:27:30 EDT",
+      "summary": "Silver nanocatalysts have been found to switch where they perform their most important reactions depending on whether a solid oxide cell is making electricity or hydrogen. The discovery could enable smarter catalyst designs that boost clean power generation while making green hydrogen more energy-efficient.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260810015714.htm"
+    },
+    {
+      "category": "AI",
+      "title": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
+      "source": "OpenAI News",
+      "date": "Mon, 10 Aug 2026 12:00:00 GMT",
+      "summary": "Model ML uses GPT-5.6 Sol to carry finance work from research and analysis through editable, traceable PowerPoint decks and Excel workbooks.",
+      "url": "https://openai.com/index/model-ml"
+    },
+    {
+      "category": "Science",
+      "title": " Will you be looking up on Aug. 12, the best skywatching day and night of the year? ",
+      "source": " Latest from Live Science ",
+      "date": "Mon, 10 Aug 2026 11:00:00 +0000",
+      "summary": "Two big skywatching events are happening on Aug. 12. Will you have your eyes turned skyward? Let us know in our latest poll.",
+      "url": "https://www.livescience.com/space/astronomy/will-you-be-looking-up-on-aug-12-the-best-skywatching-day-and-night-of-the-year"
+    },
+    {
+      "category": "Science",
+      "title": "The sun will vanish over Europe in a rare total solar eclipse: Watch live",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Mon, 10 Aug 2026 06:55:53 EDT",
+      "summary": "A total solar eclipse will plunge parts of Europe into darkness on August 12, 2026, with Spain offering some of the best views. ESA will livestream the spectacle from the Javalambre Observatory, combining telescope feeds, drone footage, and expert commentary. At 20:31 CEST, the observatory will experience 1 minute and 21 seconds of totality, revealing the Sun’s normally hidden outer atmosphere.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260810015709.htm"
     },
     {
       "category": "Biblical Studies",
@@ -27,60 +195,20 @@
       "url": "https://www.biblicalarchaeology.org/daily/biblical-artifacts/inscriptions/urartus-inscribed-bronze-bowls/"
     },
     {
-      "category": "AI",
-      "title": "Meta Muse Glimmer – open weights 30B local coding model",
-      "source": "Hacker News: Front Page",
-      "date": "Mon, 10 Aug 2026 10:10:02 +0000",
-      "summary": "Article URL: https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model\nComments URL: https://news.ycombinator.com/item?id=49241679\nPoints: 34\n# Comments: 7",
-      "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model"
+      "category": "Biblical Studies",
+      "title": "Ancient Seal Impression May Connect to Biblical Figure",
+      "source": "Biblical Archaeology Society",
+      "date": "Mon, 10 Aug 2026 10:00:13 +0000",
+      "summary": "Does this seal impression, discovered during the Temple Mount Sifting Project, record the name of a biblical figure? The small seal impression, affixed to a […]\nThe post Ancient Seal Impression May Connect to Biblical Figure appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-israel/ancient-seal-impression-may-connect-to-biblical-figure/"
     },
     {
       "category": "Science",
-      "title": " Berlin gold hat: A 3,000-year-old ceremonial headdress that a cult used to track the sun, moon and lunar eclipses ",
-      "source": " Latest from Live Science ",
-      "date": "Mon, 10 Aug 2026 10:00:00 +0000",
-      "summary": "The pointy gold hat reveals evidence of a Bronze Age sun cult whose leader could predict eclipses.",
-      "url": "https://www.livescience.com/archaeology/berlin-gold-hat-a-3-000-year-old-ceremonial-headdress-that-a-cult-used-to-track-the-sun-moon-and-lunar-eclipses"
-    },
-    {
-      "category": "AI",
-      "title": "Implant – an extension to VS Code that exposes its APIs to coding agents",
-      "source": "Hacker News: Front Page",
-      "date": "Mon, 10 Aug 2026 09:22:25 +0000",
-      "summary": "Article URL: https://marketplace.visualstudio.com/items?itemName=strangepleasures.implant\nComments URL: https://news.ycombinator.com/item?id=49241303\nPoints: 5\n# Comments: 0",
-      "url": "https://marketplace.visualstudio.com/items?itemName=strangepleasures.implant"
-    },
-    {
-      "category": "Space",
-      "title": " Could the northern lights be visible during the total solar eclipse on Aug.12? Maybe. ",
-      "source": " Latest from Space.com ",
-      "date": "Mon, 10 Aug 2026 07:00:00 +0000",
-      "summary": "A total solar eclipse and the northern lights at the same time? Experts explain why it's possible, but the odds are stacked against it.",
-      "url": "https://www.space.com/stargazing/auroras/could-the-northern-lights-be-visible-during-the-total-solar-eclipse-on-aug-12-maybe"
-    },
-    {
-      "category": "Science",
-      "title": "Western Europe experienced hottest June-July on record: EU monitor",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Mon, 10 Aug 2026 02:41:43 EDT",
-      "summary": "Western Europe experienced its hottest June–July on record as climate change fuels a historic summer of heat, drought and wildfires across the region, the EU's global warming monitor said Monday.",
-      "url": "https://phys.org/news/2026-08-western-europe-experienced-hottest-june.html"
-    },
-    {
-      "category": "AI",
-      "title": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
-      "source": "Hacker News: Front Page",
-      "date": "Mon, 10 Aug 2026 06:02:38 +0000",
-      "summary": "Article URL: https://www.docker.com/products/docker-sandboxes/\nComments URL: https://news.ycombinator.com/item?id=49239751\nPoints: 239\n# Comments: 149",
-      "url": "https://www.docker.com/products/docker-sandboxes/"
-    },
-    {
-      "category": "Space",
-      "title": " What time is the total solar eclipse on Aug. 12, 2026? ",
-      "source": " Latest from Space.com ",
-      "date": "Mon, 10 Aug 2026 06:00:00 +0000",
-      "summary": "Here are key timings for some of the eclipse's most popular viewing destinations.",
-      "url": "https://www.space.com/stargazing/solar-eclipses/what-time-is-the-total-solar-eclipse-on-aug-12-2026"
+      "title": "For 15,000 years, humans and dogs have been changing each other",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Mon, 10 Aug 2026 01:57:00 EDT",
+      "summary": "Dogs have been shaping—and being shaped by—humans for about 15,000 years, evolving from early partners of hunter-gatherers into an astonishing range of specialized companions. Across the globe, they adapted alongside people to wildly different environments and needs, from powerful Arctic sled dogs and agile rainforest hunters to high-altitude dogs with genetic traits for surviving thin air. Some were even bred for wool, while others played important spiritual or ceremonial roles.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260810015700.htm"
     },
     {
       "category": "Theology",
@@ -107,86 +235,6 @@
       "url": "https://www.thegospelcoalition.org/article/ai-writing-the-day-of-reckoning/"
     },
     {
-      "category": "Science",
-      "title": " 'Now our lives have changed': Drop in coal burning is helping the African Sahel turn green after decades of drought ",
-      "source": " Latest from Live Science ",
-      "date": "Sun, 09 Aug 2026 17:00:00 +0000",
-      "summary": "Warming has brought extreme rain to the parched Sahel, which is seeing aquifers refill as monsoons grow stronger. But heavier downpours alone cannot explain the groundwater revival, say hydrologists, who believe efforts to harvest rainfall may also be paying dividends.",
-      "url": "https://www.livescience.com/planet-earth/now-our-lives-have-changed-drop-in-coal-burning-is-helping-the-african-sahel-turn-green-after-decades-of-drought"
-    },
-    {
-      "category": "Space",
-      "title": " On this day in space! Aug. 9, 1976: Soviet Luna 24 sample return probe launches to the moon ",
-      "source": " Latest from Space.com ",
-      "date": "Sun, 09 Aug 2026 14:00:00 +0000",
-      "summary": "On Aug. 9, 1976, the Soviet space program launched its last moon mission. Luna 24 was a robotic sample return mission and the third of its kind.",
-      "url": "https://www.space.com/space-exploration/on-this-day-in-space-august-9-2026"
-    },
-    {
-      "category": "Science",
-      "title": " 'His urine goes on tour around Europe, showing the kings and queens this glowing pee': The weird world of alchemy before chemistry ",
-      "source": " Latest from Live Science ",
-      "date": "Sun, 09 Aug 2026 12:15:00 +0000",
-      "summary": "Science writer Kit Chapman on the weird world of alchemy before chemistry.",
-      "url": "https://www.livescience.com/chemistry/his-urine-goes-on-tour-around-europe-showing-the-kings-and-queens-this-glowing-pee-the-weird-world-of-alchemy-before-chemistry"
-    },
-    {
-      "category": "Science",
-      "title": "60,000-year-old ostrich eggshell engravings reveal a surprisingly sophisticated human mind",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Sun, 09 Aug 2026 07:51:37 EDT",
-      "summary": "More than 60,000 years ago, humans in southern Africa were engraving ostrich eggshells with intricate geometric patterns that appear far more organized than previously realized. Researchers found recurring grids, parallel lines, right angles, and repeated shapes, suggesting the designs followed deliberate rules rather than being improvised. The engravers may even have planned entire patterns in their minds before carving them.",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260808235013.htm"
-    },
-    {
-      "category": "Science",
-      "title": "Scientists discover bacteria that lock toxic uranium into a stable form",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Sun, 09 Aug 2026 07:30:17 EDT",
-      "summary": "Deep underground, bacteria may be capable of doing something remarkable: trapping toxic uranium before it spreads. When researchers fed microbes in uranium-contaminated mine water with glycerol, about 95% of the dissolved uranium disappeared within 130 days. The bacteria helped convert it into an unusually stable uranium compound that had rarely been observed before.",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260807035149.htm"
-    },
-    {
-      "category": "AI",
-      "title": "Mount Toba eruption doesn't seem like it could nearly kill our species",
-      "source": "Ars Technica - All content",
-      "date": "Sun, 09 Aug 2026 11:00:14 +0000",
-      "summary": "The massive Toba eruption seems to have had little climate impact.",
-      "url": "https://arstechnica.com/science/2026/08/mount-toba-eruption-doesnt-seem-like-it-could-nearly-kill-our-species/"
-    },
-    {
-      "category": "Science",
-      "title": "Stress can scramble your brain’s internal GPS, MRI study finds",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Sat, 08 Aug 2026 23:21:50 EDT",
-      "summary": "Stress may literally scramble the brain’s internal GPS. Researchers found that cortisol, a hormone released during stress, made people significantly worse at navigating a virtual environment and disrupted the precise activity of grid cells, specialized brain cells that help us understand where we are in space. When landmarks were missing, this navigation system nearly stopped functioning, while another brain region appeared to step in and compensate.",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260807035151.htm"
-    },
-    {
-      "category": "AI",
-      "title": "The first self-driving vehicle on Mars has proven to be a smashing success",
-      "source": "Ars Technica - All content",
-      "date": "Sat, 08 Aug 2026 11:30:48 +0000",
-      "summary": "About 90 percent of the distance driven by Perseverance has been autonomous.",
-      "url": "https://arstechnica.com/space/2026/08/the-first-self-driving-vehicle-on-mars-has-proven-to-be-a-smashing-success/"
-    },
-    {
-      "category": "AI",
-      "title": "DeepMind’s hurricane breakthrough has surprised weather scientists",
-      "source": "Ars Technica - All content",
-      "date": "Sat, 08 Aug 2026 11:05:50 +0000",
-      "summary": "Open source WeatherNext model can make accurate predictions with lower-resolution weather data.",
-      "url": "https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day/"
-    },
-    {
-      "category": "AI",
-      "title": "Responding to the next frontier of critical cyber capabilities",
-      "source": "OpenAI News",
-      "date": "Fri, 07 Aug 2026 15:20:00 GMT",
-      "summary": "OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls.",
-      "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities"
-    },
-    {
       "category": "Biblical Studies",
       "title": "Three New Assyrian Kings Discovered",
       "source": "Biblical Archaeology Society",
@@ -195,36 +243,12 @@
       "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-near-eastern-world/three-new-assyrian-kings-discovered/"
     },
     {
-      "category": "Biblical Studies",
-      "title": "Boy Jesus",
-      "source": "Biblical Archaeology Society",
-      "date": "Fri, 07 Aug 2026 10:00:41 +0000",
-      "summary": "Boy Jesus: Growing Up Judean in Turbulent Times By Joan Taylor (Grand Rapids, MI: Zondervan Academic, 2025), xvi + 340 pp., 16 color plates, 12 […]\nThe post Boy Jesus appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/reviews/boy-jesus/"
-    },
-    {
-      "category": "AI",
-      "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
-      "source": "OpenAI News",
-      "date": "Fri, 07 Aug 2026 09:00:00 GMT",
-      "summary": "Discover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service.",
-      "url": "https://openai.com/index/hsp-gruppe"
-    },
-    {
       "category": "Theology",
       "title": "Pastoring Those with Differing Views on God’s Sovereignty in Salvation",
       "source": "9Marks",
       "date": "Fri, 07 Aug 2026 06:12:47 +0000",
       "summary": "The ultimate basis of your hope of making it to the end secure in Christ is not your own resolve, seriousness, or moral character but the finished work of Christ and all of God’s promises in him.\nThe post Pastoring Those with Differing Views on God’s Sovereignty in Salvation appeared first on 9Marks.",
       "url": "https://www.9marks.org/article/pastoring-those-with-differing-views-on-gods-sovereignty-in-salvation/?utm_source=rss&utm_medium=rss&utm_campaign=pastoring-those-with-differing-views-on-gods-sovereignty-in-salvation"
-    },
-    {
-      "category": "AI",
-      "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
-      "source": "OpenAI News",
-      "date": "Thu, 06 Aug 2026 10:00:00 GMT",
-      "summary": "ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna.",
-      "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt"
     },
     {
       "category": "History",
