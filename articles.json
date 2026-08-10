@@ -1,54 +1,110 @@
 {
-  "lastUpdated": "2026-08-09T22:21:36.132Z",
+  "lastUpdated": "2026-08-10T11:00:43.479Z",
   "articleCount": 36,
   "articles": [
     {
-      "category": "AI",
-      "title": "Is it all just vapourware?",
-      "source": "Hacker News: Front Page",
-      "date": "Sun, 09 Aug 2026 21:03:43 +0000",
-      "summary": "Article URL: https://kirahowe.com/2026/aug/8/is-it-all-just-vapourware\nComments URL: https://news.ycombinator.com/item?id=49235859\nPoints: 64\n# Comments: 91",
-      "url": "https://kirahowe.com/2026/aug/8/is-it-all-just-vapourware"
-    },
-    {
-      "category": "AI",
-      "title": "Tuxedo No. 2 – Cocktail recipes",
-      "source": "Hacker News: Front Page",
-      "date": "Sun, 09 Aug 2026 20:48:46 +0000",
-      "summary": "Article URL: https://tuxedono2.com\nComments URL: https://news.ycombinator.com/item?id=49235697\nPoints: 11\n# Comments: 1",
-      "url": "https://tuxedono2.com"
-    },
-    {
-      "category": "AI",
-      "title": "New Zealand lost its music media, and what we're building to replace it",
-      "source": "Hacker News: Front Page",
-      "date": "Sun, 09 Aug 2026 20:42:29 +0000",
-      "summary": "Article URL: https://propelmusic.co.nz/articles/the-sound-went-quiet-nz-music-media\nComments URL: https://news.ycombinator.com/item?id=49235641\nPoints: 22\n# Comments: 9",
-      "url": "https://propelmusic.co.nz/articles/the-sound-went-quiet-nz-music-media"
+      "category": "Science",
+      "title": "Greenland glacier break creates new ice island",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Mon, 10 Aug 2026 07:00:03 EDT",
+      "summary": "An international research team partly led by the University of Ottawa reports that Petermann Glacier in northwest Greenland calved a 76.4 km² (29.5 square miles) ice island on Aug. 4, 2026, marking the glacier's largest loss of floating ice since 2012 and the largest Arctic calving event since 2020.",
+      "url": "https://phys.org/news/2026-08-greenland-glacier-ice-island.html"
     },
     {
       "category": "Science",
-      "title": "Controlled cracking technique prints quantum dots into tiny pixels for sharper displays",
+      "title": "Sixteen AI-designed viruses offer a new route against drug-resistant bacteria",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Sun, 09 Aug 2026 15:20:01 EDT",
-      "summary": "Recent technological advances have enabled the development of increasingly sophisticated, sharper displays for electronic devices. Many modern displays use light-emitting diodes, or LEDs, tiny semiconductor-based components that emit light when an electrical current passes through them.",
-      "url": "https://phys.org/news/2026-08-technique-quantum-dots-tiny-pixels.html"
+      "date": "Mon, 10 Aug 2026 07:00:01 EDT",
+      "summary": "In a world first, scientists led by a team from Stanford University have created 16 viable viruses that do not exist in nature and were designed by AI. Their experiment, which is published in Science, could help in the fight against superbugs by allowing researchers to design customized viruses to kill drug-resistant bacteria. Thomas Inglesby and Moritz S. Hanke have published a Perspective piece on the work and its implications in the same edition of the journal.",
+      "url": "https://phys.org/news/2026-08-sixteen-ai-viruses-route-drug.html"
+    },
+    {
+      "category": "Biblical Studies",
+      "title": "Urartu’s Inscribed Bronze Bowls",
+      "source": "Biblical Archaeology Society",
+      "date": "Mon, 10 Aug 2026 10:45:38 +0000",
+      "summary": "A new study published in the journal Antiquity investigates more than 100 bronze bowls from the ancient kingdom of Urartu (biblical Ararat), which are now […]\nThe post Urartu’s Inscribed Bronze Bowls appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/daily/biblical-artifacts/inscriptions/urartus-inscribed-bronze-bowls/"
+    },
+    {
+      "category": "AI",
+      "title": "Meta Muse Glimmer – open weights 30B local coding model",
+      "source": "Hacker News: Front Page",
+      "date": "Mon, 10 Aug 2026 10:10:02 +0000",
+      "summary": "Article URL: https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model\nComments URL: https://news.ycombinator.com/item?id=49241679\nPoints: 34\n# Comments: 7",
+      "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model"
     },
     {
       "category": "Science",
-      "title": "Hong Kong weather observatory posts record high temperature",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sun, 09 Aug 2026 14:53:13 EDT",
-      "summary": "Hong Kong's weather observatory posted a record high temperature of 36.9°C (98°F) on Sunday as Typhoon Dolphin swept warm air over the city, the meteorological service said.",
-      "url": "https://phys.org/news/2026-08-hong-kong-weather-observatory-high.html"
+      "title": " Berlin gold hat: A 3,000-year-old ceremonial headdress that a cult used to track the sun, moon and lunar eclipses ",
+      "source": " Latest from Live Science ",
+      "date": "Mon, 10 Aug 2026 10:00:00 +0000",
+      "summary": "The pointy gold hat reveals evidence of a Bronze Age sun cult whose leader could predict eclipses.",
+      "url": "https://www.livescience.com/archaeology/berlin-gold-hat-a-3-000-year-old-ceremonial-headdress-that-a-cult-used-to-track-the-sun-moon-and-lunar-eclipses"
+    },
+    {
+      "category": "AI",
+      "title": "Implant – an extension to VS Code that exposes its APIs to coding agents",
+      "source": "Hacker News: Front Page",
+      "date": "Mon, 10 Aug 2026 09:22:25 +0000",
+      "summary": "Article URL: https://marketplace.visualstudio.com/items?itemName=strangepleasures.implant\nComments URL: https://news.ycombinator.com/item?id=49241303\nPoints: 5\n# Comments: 0",
+      "url": "https://marketplace.visualstudio.com/items?itemName=strangepleasures.implant"
+    },
+    {
+      "category": "Space",
+      "title": " Could the northern lights be visible during the total solar eclipse on Aug.12? Maybe. ",
+      "source": " Latest from Space.com ",
+      "date": "Mon, 10 Aug 2026 07:00:00 +0000",
+      "summary": "A total solar eclipse and the northern lights at the same time? Experts explain why it's possible, but the odds are stacked against it.",
+      "url": "https://www.space.com/stargazing/auroras/could-the-northern-lights-be-visible-during-the-total-solar-eclipse-on-aug-12-maybe"
     },
     {
       "category": "Science",
-      "title": "How to spot the Perseid meteor shower, a summer light show that promises to dazzle",
+      "title": "Western Europe experienced hottest June-July on record: EU monitor",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Sun, 09 Aug 2026 14:52:39 EDT",
-      "summary": "The Perseid summer light show is back—and viewing conditions are especially promising for the Northern Hemisphere.",
-      "url": "https://phys.org/news/2026-08-perseid-meteor-shower-summer-dazzle.html"
+      "date": "Mon, 10 Aug 2026 02:41:43 EDT",
+      "summary": "Western Europe experienced its hottest June–July on record as climate change fuels a historic summer of heat, drought and wildfires across the region, the EU's global warming monitor said Monday.",
+      "url": "https://phys.org/news/2026-08-western-europe-experienced-hottest-june.html"
+    },
+    {
+      "category": "AI",
+      "title": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
+      "source": "Hacker News: Front Page",
+      "date": "Mon, 10 Aug 2026 06:02:38 +0000",
+      "summary": "Article URL: https://www.docker.com/products/docker-sandboxes/\nComments URL: https://news.ycombinator.com/item?id=49239751\nPoints: 239\n# Comments: 149",
+      "url": "https://www.docker.com/products/docker-sandboxes/"
+    },
+    {
+      "category": "Space",
+      "title": " What time is the total solar eclipse on Aug. 12, 2026? ",
+      "source": " Latest from Space.com ",
+      "date": "Mon, 10 Aug 2026 06:00:00 +0000",
+      "summary": "Here are key timings for some of the eclipse's most popular viewing destinations.",
+      "url": "https://www.space.com/stargazing/solar-eclipses/what-time-is-the-total-solar-eclipse-on-aug-12-2026"
+    },
+    {
+      "category": "Theology",
+      "title": "AI and Emotion: Can Machines Feel? (with Rosalind Picard)",
+      "source": "The Gospel Coalition",
+      "date": "Mon, 10 Aug 2026 04:04:45 +0000",
+      "summary": "Rosalind Picard joins Christopher Watkin to discuss how AI affects our emotional well-being.",
+      "url": "https://www.thegospelcoalition.org/podcasts/silicon-spiritualities/ai-emotion-machines-feel/"
+    },
+    {
+      "category": "Theology",
+      "title": "Defend the Doctrine of Original Sin Like It’s 1776",
+      "source": "The Gospel Coalition",
+      "date": "Mon, 10 Aug 2026 04:02:00 +0000",
+      "summary": "The doctrine of original sin clearly informed the founding of the United States. But even many evangelicals reject it today.",
+      "url": "https://www.thegospelcoalition.org/article/original-sin-1776/"
+    },
+    {
+      "category": "Theology",
+      "title": "AI Writing: The Day of Reckoning",
+      "source": "The Gospel Coalition",
+      "date": "Mon, 10 Aug 2026 04:00:13 +0000",
+      "summary": "We’re not anti-tech. We’re pro-human. We refuse to surrender our minds to the machines.",
+      "url": "https://www.thegospelcoalition.org/article/ai-writing-the-day-of-reckoning/"
     },
     {
       "category": "Science",
@@ -57,14 +113,6 @@
       "date": "Sun, 09 Aug 2026 17:00:00 +0000",
       "summary": "Warming has brought extreme rain to the parched Sahel, which is seeing aquifers refill as monsoons grow stronger. But heavier downpours alone cannot explain the groundwater revival, say hydrologists, who believe efforts to harvest rainfall may also be paying dividends.",
       "url": "https://www.livescience.com/planet-earth/now-our-lives-have-changed-drop-in-coal-burning-is-helping-the-african-sahel-turn-green-after-decades-of-drought"
-    },
-    {
-      "category": "Space",
-      "title": " Exploring 'very low Earth orbit': The world's 1st air-breathing satellite thruster could soon get a test run ",
-      "source": " Latest from Space.com ",
-      "date": "Sun, 09 Aug 2026 14:00:00 +0000",
-      "summary": "Air-breathing electric propulsion could help satellites explore a new frontier, one that lies quite close to our planet.",
-      "url": "https://www.space.com/space-exploration/satellites/exploring-very-low-earth-orbit-the-worlds-1st-air-breathing-satellite-thruster-could-soon-get-a-test-run"
     },
     {
       "category": "Space",
@@ -81,14 +129,6 @@
       "date": "Sun, 09 Aug 2026 12:15:00 +0000",
       "summary": "Science writer Kit Chapman on the weird world of alchemy before chemistry.",
       "url": "https://www.livescience.com/chemistry/his-urine-goes-on-tour-around-europe-showing-the-kings-and-queens-this-glowing-pee-the-weird-world-of-alchemy-before-chemistry"
-    },
-    {
-      "category": "Space",
-      "title": " The total solar eclipse on Aug. 12 will reveal something nobody has ever seen before ",
-      "source": " Latest from Space.com ",
-      "date": "Sun, 09 Aug 2026 12:00:00 +0000",
-      "summary": "A naked-eye view of the sun's outer atmosphere is the reason eclipse chasers travel the world. Here's what it may look like on Aug. 12.",
-      "url": "https://www.space.com/stargazing/solar-eclipses/the-total-solar-eclipse-on-aug-12-will-reveal-something-nobody-has-ever-seen-before"
     },
     {
       "category": "Science",
@@ -116,22 +156,6 @@
     },
     {
       "category": "Science",
-      "title": " New James Webb telescope image may reveal the true identity of 'little red dots' — Space photo of the week ",
-      "source": " Latest from Live Science ",
-      "date": "Sun, 09 Aug 2026 10:00:00 +0000",
-      "summary": "A new James Webb telescope study suggests the universe's enigmatic \"little red dots\" may not have vanished after all — they may simply look different as we observe them across cosmic time.",
-      "url": "https://www.livescience.com/space/astronomy/new-james-webb-telescope-image-may-reveal-the-true-identity-of-little-red-dots-space-photo-of-the-week"
-    },
-    {
-      "category": "Theology",
-      "title": "Starving in Silence: How the Church Can Care for Those with Eating Disorders",
-      "source": "The Gospel Coalition",
-      "date": "Sun, 09 Aug 2026 04:00:00 +0000",
-      "summary": "To be fully known and loved frees us from the shame that gives eating disorders their power.",
-      "url": "https://www.thegospelcoalition.org/article/church-care-eating-disorders/"
-    },
-    {
-      "category": "Science",
       "title": "Stress can scramble your brain’s internal GPS, MRI study finds",
       "source": "All Top News -- ScienceDaily",
       "date": "Sat, 08 Aug 2026 23:21:50 EDT",
@@ -153,14 +177,6 @@
       "date": "Sat, 08 Aug 2026 11:05:50 +0000",
       "summary": "Open source WeatherNext model can make accurate predictions with lower-resolution weather data.",
       "url": "https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day/"
-    },
-    {
-      "category": "Theology",
-      "title": "Obey the Greatest Commandment . . . While You Sleep",
-      "source": "The Gospel Coalition",
-      "date": "Sat, 08 Aug 2026 04:00:00 +0000",
-      "summary": "The third of our lives we spend sleeping can be a potent realm for loving God and others.",
-      "url": "https://www.thegospelcoalition.org/article/obey-greatest-commandment-sleep/"
     },
     {
       "category": "AI",
@@ -201,22 +217,6 @@
       "date": "Fri, 07 Aug 2026 06:12:47 +0000",
       "summary": "The ultimate basis of your hope of making it to the end secure in Christ is not your own resolve, seriousness, or moral character but the finished work of Christ and all of God’s promises in him.\nThe post Pastoring Those with Differing Views on God’s Sovereignty in Salvation appeared first on 9Marks.",
       "url": "https://www.9marks.org/article/pastoring-those-with-differing-views-on-gods-sovereignty-in-salvation/?utm_source=rss&utm_medium=rss&utm_campaign=pastoring-those-with-differing-views-on-gods-sovereignty-in-salvation"
-    },
-    {
-      "category": "Theology",
-      "title": "Living the Gospel at Work",
-      "source": "The Gospel Coalition",
-      "date": "Fri, 07 Aug 2026 04:04:00 +0000",
-      "summary": "Christians can showcase Christ’s character through their work ethic, business practices, and relationship dynamics.",
-      "url": "https://www.thegospelcoalition.org/podcasts/tgc-podcast/living-gospel-work/"
-    },
-    {
-      "category": "Biblical Studies",
-      "title": "The Masoretic Text and the Dead Sea Scrolls",
-      "source": "Biblical Archaeology Society",
-      "date": "Thu, 06 Aug 2026 11:00:42 +0000",
-      "summary": "Do insights from the Dead Sea Scrolls add to the Masoretic text, and if so, should the original Hebrew Bible text be modified based this information? Scholars from both sides of the divide weigh in on this issue.\nThe post The Masoretic Text and the Dead Sea Scrolls appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/daily/biblical-topics/bible-versions-and-translations/the-masoretic-text-and-the-dead-sea-scrolls/"
     },
     {
       "category": "AI",
