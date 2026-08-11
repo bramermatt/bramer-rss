@@ -1,7 +1,127 @@
 {
-  "lastUpdated": "2026-08-11T10:43:14.574Z",
-  "articleCount": 39,
+  "lastUpdated": "2026-08-11T16:50:37.031Z",
+  "articleCount": 36,
   "articles": [
+    {
+      "category": "Science",
+      "title": "Egyptian blue in Iron Age Iran points to ancient connections",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Tue, 11 Aug 2026 12:40:06 EDT",
+      "summary": "Egyptian blue, considered the world's earliest synthetic pigment, was prized for its stable blue hues and served as a common blue paint in Egypt as early as 5,000 years ago, as well as the base material for small items such as beads and vessels in later periods.",
+      "url": "https://phys.org/news/2026-08-egyptian-blue-iron-age-iran.html"
+    },
+    {
+      "category": "Science",
+      "title": "Economic losses from natural disasters fall to $100 bn in first half of 2026: Swiss Re",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Tue, 11 Aug 2026 12:40:03 EDT",
+      "summary": "Economic losses from natural catastrophes worldwide are estimated to have reached $100 billion in the first half of this year, reinsurance group Swiss Re said Tuesday, a sharp decline from the same period last year.",
+      "url": "https://phys.org/news/2026-08-economic-losses-natural-disasters-fall.html"
+    },
+    {
+      "category": "Space",
+      "title": " SpaceX launches 29 Starlink satellites to orbit from Florida (photos) ",
+      "source": " Latest from Space.com ",
+      "date": "Tue, 11 Aug 2026 16:21:54 +0000",
+      "summary": "SpaceX launched 29 more of its Starlink internet satellites to orbit from Florida's Space Coast today (Aug. 11).",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-group-10-19-launch-asog"
+    },
+    {
+      "category": "Science",
+      "title": "Too hot to live? French buyers rethink housing choices after heat waves",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Tue, 11 Aug 2026 12:20:09 EDT",
+      "summary": "After multiple severe heat waves in a single summer, French residents are increasingly factoring high temperatures into their home hunts, realtors say, bumping up features such as shutters, air conditioning and indirect sunlight on their priority lists.",
+      "url": "https://phys.org/news/2026-08-hot-french-buyers-rethink-housing.html"
+    },
+    {
+      "category": "Space",
+      "title": " NASA will chase the Aug. 12 total solar eclipse with balloons and a high-altitude jet ",
+      "source": " Latest from Space.com ",
+      "date": "Tue, 11 Aug 2026 16:00:00 +0000",
+      "summary": "\"Scientists can study the sun's corona in a way we can't from anywhere else in the solar system.\"",
+      "url": "https://www.space.com/stargazing/solar-eclipses/nasa-will-chase-the-aug-12-total-solar-eclipse-with-balloons-and-a-high-altitude-jet"
+    },
+    {
+      "category": "AI",
+      "title": "University of Michigan Drops First-Semester Grades To'Curb Mental Health Crisis'",
+      "source": "Hacker News: Front Page",
+      "date": "Tue, 11 Aug 2026 15:54:35 +0000",
+      "summary": "Article URL: https://www.wsj.com/us-news/education/university-of-michigan-grades-mental-health-1a5701d4\nComments URL: https://news.ycombinator.com/item?id=49260250\nPoints: 31\n# Comments: 29",
+      "url": "https://www.wsj.com/us-news/education/university-of-michigan-grades-mental-health-1a5701d4"
+    },
+    {
+      "category": "AI",
+      "title": "Trump to give Republicans a 3-1 FCC majority, isn't filling empty Democratic seat",
+      "source": "Ars Technica - All content",
+      "date": "Tue, 11 Aug 2026 15:28:43 +0000",
+      "summary": "Trump has resisted urge to fire FCC Democrat despite recent Supreme Court win.",
+      "url": "https://arstechnica.com/tech-policy/2026/08/trump-to-give-republicans-a-3-1-fcc-majority-isnt-filling-empty-democratic-seat/"
+    },
+    {
+      "category": "AI",
+      "title": "Show HN: Git-knife – edit commit messages, authors, and dates like a spreadsheet",
+      "source": "Hacker News: Front Page",
+      "date": "Tue, 11 Aug 2026 15:09:34 +0000",
+      "summary": "Article URL: https://github.com/TheRealYT/git-knife\nComments URL: https://news.ycombinator.com/item?id=49259611\nPoints: 54\n# Comments: 31",
+      "url": "https://github.com/TheRealYT/git-knife"
+    },
+    {
+      "category": "Science",
+      "title": " 'Like a jail door slamming': Male sperm whales' mysterious rhythmic clanging is the loudest communication sound of any animal ",
+      "source": " Latest from Live Science ",
+      "date": "Tue, 11 Aug 2026 15:09:23 +0000",
+      "summary": "Researchers have studied a mysterious rhythmic clanging noise produced by male sperm whales.",
+      "url": "https://www.livescience.com/animals/whales/like-a-jail-door-slamming-male-sperm-whales-mysterious-rhythmic-clanging-is-the-loudest-communication-sound-of-any-animal"
+    },
+    {
+      "category": "Space",
+      "title": " What history can teach us about the future of property rights in space (op-ed) ",
+      "source": " Latest from Space.com ",
+      "date": "Tue, 11 Aug 2026 15:00:00 +0000",
+      "summary": "Without property rights in space, one of the most important economic incentives for the commercial development — and ultimately the settlement — of celestial bodies is missing.",
+      "url": "https://www.space.com/space-exploration/what-history-can-teach-us-about-the-future-of-property-rights-in-space-op-ed"
+    },
+    {
+      "category": "AI",
+      "title": "Apple Silicon and macOS VMs: 11–16× Faster LLM Inference with Llama.cpp",
+      "source": "Hacker News: Front Page",
+      "date": "Tue, 11 Aug 2026 14:50:33 +0000",
+      "summary": "Article URL: https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md\nComments URL: https://news.ycombinator.com/item?id=49259339\nPoints: 102\n# Comments: 20",
+      "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md"
+    },
+    {
+      "category": "AI",
+      "title": "New surveillance tech links your phone to your license plate",
+      "source": "Ars Technica - All content",
+      "date": "Tue, 11 Aug 2026 13:15:24 +0000",
+      "summary": "Phone and Bluetooth signals could turn roadside cameras into far richer tracking tools.",
+      "url": "https://arstechnica.com/security/2026/08/new-surveillance-tech-links-your-phone-to-your-license-plate/"
+    },
+    {
+      "category": "AI",
+      "title": "New Pass-ta-key attack reveals all the things we didn't know about passkeys",
+      "source": "Ars Technica - All content",
+      "date": "Tue, 11 Aug 2026 11:30:08 +0000",
+      "summary": "Why passkey apps treat Windows differently than other operating systems.",
+      "url": "https://arstechnica.com/security/2026/08/heres-why-the-new-pass-ta-key-attack-is-mostly-a-nothingburger/"
+    },
+    {
+      "category": "Biblical Studies",
+      "title": "Who Is Joseph’s Wife in the Bible? Who Is Aseneth?",
+      "source": "Biblical Archaeology Society",
+      "date": "Tue, 11 Aug 2026 11:00:55 +0000",
+      "summary": "Who Is Joseph’s Wife in the Bible? Who is Aseneth? Daughter of the Egyptian priest Potiphera, Aseneth becomes the wife of Joseph and mother of […]\nThe post Who Is Joseph’s Wife in the Bible? Who Is Aseneth? appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/daily/people-cultures-in-the-bible/people-in-the-bible/who-is-josephs-wife-in-the-bible-who-is-aseneth/"
+    },
+    {
+      "category": "Biblical Studies",
+      "title": "Joshua in the Bible",
+      "source": "Biblical Archaeology Society",
+      "date": "Tue, 11 Aug 2026 11:00:25 +0000",
+      "summary": "Joshua inherits authority from Moses but not his charisma. God performed miracles for Joshua, even causing the sun to stand still, but Joshua’s speech lacks the prophet's magic. Joshua’s story is melancholy: violent victory tinged by deep sadness. As award-winning author and activist Elie Wiesel examines.\nThe post Joshua in the Bible appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/daily/biblical-topics/hebrew-bible/joshua-in-the-bible/"
+    },
     {
       "category": "History",
       "title": "Gotthold Frederick Enslin: A Life Rebuilt",
@@ -11,52 +131,12 @@
       "url": "https://allthingsliberty.com/2026/08/gotthold-frederick-enslin-a-life-rebuilt/"
     },
     {
-      "category": "Science",
-      "title": "Who are the secret gardeners of a parasitic plant?",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Tue, 11 Aug 2026 06:00:01 EDT",
-      "summary": "In the coastal forests of a tropical Japanese island near Okinawa grows an inconspicuous plant that is easy to mistake for a mushroom. It is a non-green parasite that feeds on the roots of other plants and produces up to 1 million tiny seeds, each covered in a minuscule, dry fruit. The seeds, in particular, present a mystery to scientists: How do they get dispersed?",
-      "url": "https://phys.org/news/2026-08-secret-gardeners-parasitic.html"
-    },
-    {
       "category": "AI",
-      "title": "London Underground begins scanning passengers' faces",
-      "source": "Hacker News: Front Page",
-      "date": "Tue, 11 Aug 2026 09:40:02 +0000",
-      "summary": "Article URL: https://www.btp.police.uk/news/btp/news/england/btp-expands-live-facial-recognition-lfr-trial-into-london-underground-stations/\nComments URL: https://news.ycombinator.com/item?id=49255496\nPoints: 31\n# Comments: 28",
-      "url": "https://www.btp.police.uk/news/btp/news/england/btp-expands-live-facial-recognition-lfr-trial-into-london-underground-stations/"
-    },
-    {
-      "category": "Science",
-      "title": "Ancient Colombians built huge water system without centralized rule, archaeologists say",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Tue, 11 Aug 2026 05:00:05 EDT",
-      "summary": "Communities living in Colombia thousands of years ago achieved an engineering wonder of the world based on cooperation among family groups without top-down government, a new study shows. Archaeologists argue that policymakers in Colombia should now adopt a similar strategy to solve the country's current water management crisis.",
-      "url": "https://phys.org/news/2026-08-ancient-colombians-built-huge-centralized.html"
-    },
-    {
-      "category": "Science",
-      "title": "New optical method reveals internal dynamics of elusive Wigner crystals",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Tue, 11 Aug 2026 05:00:03 EDT",
-      "summary": "Researchers at the University of Basel and the Technical University of Munich have developed a new method to reveal the collective motion of electrons in one of the most elusive states of matter: the Wigner crystal. Using light, the physicists were able to uncover previously inaccessible properties of this fragile quantum state.",
-      "url": "https://phys.org/news/2026-08-optical-method-reveals-internal-dynamics.html"
-    },
-    {
-      "category": "AI",
-      "title": "France to ban unsolicited telemarketing calls",
-      "source": "Hacker News: Front Page",
-      "date": "Tue, 11 Aug 2026 08:15:46 +0000",
-      "summary": "Article URL: https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html\nComments URL: https://news.ycombinator.com/item?id=49254880\nPoints: 178\n# Comments: 115",
-      "url": "https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html"
-    },
-    {
-      "category": "AI",
-      "title": "The Water Footprint of AI",
-      "source": "Hacker News: Front Page",
-      "date": "Tue, 11 Aug 2026 07:00:57 +0000",
-      "summary": "Article URL: https://doi.org/10.1016/j.watres.2026.125866\nComments URL: https://news.ycombinator.com/item?id=49254351\nPoints: 20\n# Comments: 13",
-      "url": "https://doi.org/10.1016/j.watres.2026.125866"
+      "title": "Testing ads in ChatGPT",
+      "source": "OpenAI News",
+      "date": "Tue, 11 Aug 2026 10:00:00 GMT",
+      "summary": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
+      "url": "https://openai.com/index/testing-ads-in-chatgpt"
     },
     {
       "category": "Science",
@@ -65,30 +145,6 @@
       "date": "Tue, 11 Aug 2026 07:00:00 +0000",
       "summary": "A 2020 astronaut photo shows the unique structure of Ol Doinyo Lengai, an active stratovolcano in Tanzania that was recently adorned with a bright white \"ash cone.\" The explosive peak produces a rare type of lava that is unusually cool but travels remarkably quickly.",
       "url": "https://www.livescience.com/planet-earth/volcanoes/explosive-mountain-of-god-spits-out-the-fastest-flowing-lava-on-earth-earth-from-space"
-    },
-    {
-      "category": "Space",
-      "title": "Curiosity Blog, Sols 4968-4974: Rock Climbing Towards the Discontinuity",
-      "source": "NASA",
-      "date": "Tue, 11 Aug 2026 06:50:07 +0000",
-      "summary": "Written by Lucy Lim, Planetary Scientist at NASA’s Goddard Space Flight Center Earth planning date: Friday, July 31, 2026 As mentioned in the previous blog, Curiosity has been exploring a large-scale feature in Gale’s sedimentary record suspected to be an “erosional supersurface.” The “supersurface” represents a period in time when a net depositional environment changed […]",
-      "url": "https://science.nasa.gov/blog/curiosity-blog-sols-4968-4974-rock-climbing-towards-the-discontinuity/"
-    },
-    {
-      "category": "Space",
-      "title": " Watch the total solar eclipse online Aug. 12 with these free livestreams ",
-      "source": " Latest from Space.com ",
-      "date": "Tue, 11 Aug 2026 06:00:00 +0000",
-      "summary": "Here's how to watch the Aug. 12 total solar eclipse live online for free.",
-      "url": "https://www.space.com/stargazing/solar-eclipses/watch-the-total-solar-eclipse-online-aug-12-with-these-free-livestreams"
-    },
-    {
-      "category": "Space",
-      "title": "APOD: 2026 August 11 – Six Moons of Saturn",
-      "source": "NASA",
-      "date": "Tue, 11 Aug 2026 04:05:00 +0000",
-      "summary": "APOD Science APOD APOD: 2026 August 11 – Six… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Six Moons […]",
-      "url": "https://science.nasa.gov/image-article/apod/apod-2026-august-11-six-moons-of-saturn/"
     },
     {
       "category": "Theology",
@@ -107,14 +163,6 @@
       "url": "https://www.thegospelcoalition.org/reviews/praying-pain-when-not-healed/"
     },
     {
-      "category": "Space",
-      "title": "Bountiful Roebuck Bay ",
-      "source": "NASA",
-      "date": "Tue, 11 Aug 2026 04:01:00 +0000",
-      "summary": "Tidal and seasonal shifts leave their mark on this crescent-shaped, productive bay in Western Australia’s Kimberley region.",
-      "url": "https://science.nasa.gov/earth/earth-observatory/bountiful-roebuck-bay/"
-    },
-    {
       "category": "Theology",
       "title": "Mobilize Your Church to Serve Local Schools",
       "source": "The Gospel Coalition",
@@ -123,60 +171,12 @@
       "url": "https://www.thegospelcoalition.org/article/mobilize-serve-local-schools/"
     },
     {
-      "category": "Space",
-      "title": " 'Launching anywhere, anytime and without compromise': Rocket Lab unveils new 'GHOST' portable spaceport system ",
-      "source": " Latest from Space.com ",
-      "date": "Mon, 10 Aug 2026 22:43:51 +0000",
-      "summary": "Rocket Lab plans to start launching even more frequently and flexibly, thanks to a new portable spaceport system called \"GHOST,\" which packages everything into standard shipping containers.",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/launching-anywhere-anytime-and-without-compromise-rocket-lab-unveils-new-ghost-portable-spaceport-system"
-    },
-    {
-      "category": "AI",
-      "title": "Ars Live: Ross Scott discusses the Stop Killing Games movement",
-      "source": "Ars Technica - All content",
-      "date": "Mon, 10 Aug 2026 22:23:43 +0000",
-      "summary": "Our discussion takes place live on August 11 at 3 pm ET.",
-      "url": "https://arstechnica.com/gaming/2026/08/ars-live-ross-scott-discusses-the-stop-killing-games-movement/"
-    },
-    {
-      "category": "AI",
-      "title": "With new open models, Meta pitches another reboot of its struggling AI strategy",
-      "source": "Ars Technica - All content",
-      "date": "Mon, 10 Aug 2026 22:13:03 +0000",
-      "summary": "Meta has been trailing competitors. Zuckerberg thinks he's found a way forward.",
-      "url": "https://arstechnica.com/ai/2026/08/with-new-open-models-meta-pitches-another-reboot-of-its-struggling-ai-strategy/"
-    },
-    {
       "category": "Science",
       "title": " FDA's approval of new mRNA vaccine does not necessarily signal the government's embrace of the technology, experts say ",
       "source": " Latest from Live Science ",
       "date": "Mon, 10 Aug 2026 21:45:00 +0000",
       "summary": "The U.S. Food and Drug Administration approved an mRNA-based vaccine for influenza. Live Science asked experts what that means for the future of mRNA vaccines in the U.S.",
       "url": "https://www.livescience.com/health/medicine-drugs/fdas-approval-of-new-mrna-vaccine-does-not-necessarily-signal-the-governments-embrace-of-the-technology-experts-say"
-    },
-    {
-      "category": "AI",
-      "title": "Trump signs bonkers order that cuts vaccines, promotes ones that don't exist",
-      "source": "Ars Technica - All content",
-      "date": "Mon, 10 Aug 2026 21:42:56 +0000",
-      "summary": "Trump falsely claimed the MMR vaccine is \"quite lethal\" and linked shots to autism.",
-      "url": "https://arstechnica.com/health/2026/08/trump-signs-bonkers-order-that-cuts-vaccines-promotes-ones-that-dont-exist/"
-    },
-    {
-      "category": "Science",
-      "title": " 2,400-year-old grave of possible ancient pro wrestler discovered in Turkey ",
-      "source": " Latest from Live Science ",
-      "date": "Mon, 10 Aug 2026 20:07:51 +0000",
-      "summary": "A tomb excavated in Aspendos, Turkey, revealed a skeleton buried with several coins featuring ancient wrestlers.",
-      "url": "https://www.livescience.com/archaeology/2-400-year-old-grave-of-possible-ancient-pro-wrestler-discovered-in-turkey"
-    },
-    {
-      "category": "Space",
-      "title": " The Andromeda galaxy may be getting bullied by a smaller galactic neighbor, scientists find ",
-      "source": " Latest from Space.com ",
-      "date": "Mon, 10 Aug 2026 18:00:00 +0000",
-      "summary": "Andromeda has slowed its star-forming rate over the last 40 million years. Scientists think they finally know why.",
-      "url": "https://www.space.com/astronomy/galaxies/the-andromeda-galaxy-may-be-getting-bullied-by-a-smaller-galactic-neighbor-scientists-find"
     },
     {
       "category": "Theology",
@@ -193,14 +193,6 @@
       "date": "Mon, 10 Aug 2026 17:19:04 +0000",
       "summary": "BOOK REVIEW: Backcountry Resistance: South Carolina’s Militia and the Fight for American Independence by Carl P. Borick. (Columbia: University of South Carolina Press, 2026) $27.99 hardcover As students of the Revolutionary War in the American South know, Carl Borick is the author of the definitive study of the 1780 Siege of Charleston, South Carolina, titled […]\nThe post Backcountry Resistance: South Carolina’s Militia and the Fight for American Independence appeared first on Journal of the American Revolution.",
       "url": "https://allthingsliberty.com/2026/08/backcountry-resistance-south-carolinas-militia-and-the-fight-for-american-independence/"
-    },
-    {
-      "category": "AI",
-      "title": "What building an AI-native finance function taught me",
-      "source": "OpenAI News",
-      "date": "Mon, 10 Aug 2026 17:00:00 GMT",
-      "summary": "OpenAI CFO Sarah Friar shares five lessons for building an AI-native finance function, from automated forecasting to stronger controls and AI ROI.",
-      "url": "https://openai.com/index/building-an-ai-native-finance-function"
     },
     {
       "category": "AI",
@@ -243,28 +235,12 @@
       "url": "https://www.biblicalarchaeology.org/daily/biblical-artifacts/inscriptions/urartus-inscribed-bronze-bowls/"
     },
     {
-      "category": "Biblical Studies",
-      "title": "Ancient Seal Impression May Connect to Biblical Figure",
-      "source": "Biblical Archaeology Society",
-      "date": "Mon, 10 Aug 2026 10:00:13 +0000",
-      "summary": "Does this seal impression, discovered during the Temple Mount Sifting Project, record the name of a biblical figure? The small seal impression, affixed to a […]\nThe post Ancient Seal Impression May Connect to Biblical Figure appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-israel/ancient-seal-impression-may-connect-to-biblical-figure/"
-    },
-    {
       "category": "Science",
       "title": "For 15,000 years, humans and dogs have been changing each other",
       "source": "All Top News -- ScienceDaily",
       "date": "Mon, 10 Aug 2026 01:57:00 EDT",
       "summary": "Dogs have been shaping—and being shaped by—humans for about 15,000 years, evolving from early partners of hunter-gatherers into an astonishing range of specialized companions. Across the globe, they adapted alongside people to wildly different environments and needs, from powerful Arctic sled dogs and agile rainforest hunters to high-altitude dogs with genetic traits for surviving thin air. Some were even bred for wool, while others played important spiritual or ceremonial roles.",
       "url": "https://www.sciencedaily.com/releases/2026/08/260810015700.htm"
-    },
-    {
-      "category": "Biblical Studies",
-      "title": "Three New Assyrian Kings Discovered",
-      "source": "Biblical Archaeology Society",
-      "date": "Fri, 07 Aug 2026 10:45:30 +0000",
-      "summary": "In a remarkable moment for the study of ancient Near Eastern history, Alexander Johannes Edmonds (University of Münster) and Eckhart Frahm (Yale University) have discovered […]\nThe post Three New Assyrian Kings Discovered appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-near-eastern-world/three-new-assyrian-kings-discovered/"
     },
     {
       "category": "Theology",
