@@ -1,110 +1,158 @@
 {
-  "lastUpdated": "2026-08-12T16:50:04.087Z",
-  "articleCount": 36,
+  "lastUpdated": "2026-08-12T22:31:54.064Z",
+  "articleCount": 39,
   "articles": [
     {
       "category": "Science",
-      "title": "New software tool Pixasonics turns biomedical images into sound",
+      "title": "Ultrafast flash Joule heating significantly reduces MXene manufacturing time",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Wed, 12 Aug 2026 12:40:07 EDT",
-      "summary": "Modern biomedicine increasingly relies on enormous amounts of image data. Although computers can do part of the analysis work, biologists often still need to look through the images themselves. This takes time.",
-      "url": "https://phys.org/news/2026-08-software-tool-pixasonics-biomedical-images.html"
+      "date": "Wed, 12 Aug 2026 18:30:04 EDT",
+      "summary": "MXenes are two-dimensional materials made of very thin layers of metals, measured on the atomic scale. They conduct electricity well and have surfaces that can easily interact with other materials, making them excellent candidates for advanced electronic devices, computers and aerospace coatings. The only problem is that, until a recent innovation by James Tour's lab at Rice University, building them required a lengthy, acid-filled process called liquid-phase chemical etching.",
+      "url": "https://phys.org/news/2026-08-ultrafast-joule-significantly-mxene.html"
     },
     {
       "category": "Science",
-      "title": "Famous oddball quasar isn't X-ray weak after all, astronomers say",
+      "title": "Space travel doesn't affect the strength of heart muscle cells, study finds",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Wed, 12 Aug 2026 12:40:01 EDT",
-      "summary": "For more than two decades, the quasar PHL 1811 has been considered the prototype of a rare class of \"intrinsically X-ray weak\" quasars, thought to produce unusually little X-ray radiation. But in 2024, the Einstein Probe spacecraft caught the object in a bright X-ray flare. In a new study, astronomers combined that observation with more than 20 years of archival data to revisit the mystery. The findings were published in The Astrophysical Journal on July 28.",
-      "url": "https://phys.org/news/2026-08-famous-oddball-quasar-isnt-ray.html"
+      "date": "Wed, 12 Aug 2026 18:20:03 EDT",
+      "summary": "It's common to see images of astronauts on the International Space Station exercising, running on special treadmills and pedaling cycles designed for tight quarters.",
+      "url": "https://phys.org/news/2026-08-space-doesnt-affect-strength-heart.html"
     },
     {
       "category": "Science",
-      "title": " 'They'll surf into the eclipse': Readers share their plans for today’s epic solar eclipse and meteor shower mash-up ",
-      "source": " Latest from Live Science ",
-      "date": "Wed, 12 Aug 2026 16:27:15 +0000",
-      "summary": "Are you watching the solar eclipse and Perseid meteor shower tonight? Live Science readers reveal their thoughts about tonight's stargazing phenomena",
-      "url": "https://www.livescience.com/space/astronomy/theyll-surf-into-the-eclipse-readers-share-their-plans-for-todays-epic-solar-eclipse-and-meteor-shower-mash-up"
+      "title": "Graphene nanowrinkles could reshape electricity in future ultrathin devices",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Wed, 12 Aug 2026 18:10:01 EDT",
+      "summary": "Rice University researchers have shown that tiny wrinkles in graphene can change the material's electrical properties, providing evidence for flexoelectricity, a phenomenon in which a material generates an electric charge when it bends unevenly. The findings are published in Advanced Materials.",
+      "url": "https://phys.org/news/2026-08-graphene-nanowrinkles-reshape-electricity-future.html"
+    },
+    {
+      "category": "History",
+      "title": "Fort Watauga and the 1776 Cherokee Siege",
+      "source": "Journal of the American Revolution",
+      "date": "Wed, 12 Aug 2026 22:00:22 +0000",
+      "summary": "On July 21, 1776, the once-peaceful morning was broken by the sounds of musketry as a Cherokee war party, under Chief Old Abraham, attacked the frontier fort known as Fort Watauga, also known as Fort Caswell, near present-day Elizabethton, Tennessee. This attack was not successful, and it led to an eventual several-day siege on the […]\nThe post Fort Watauga and the 1776 Cherokee Siege appeared first on Journal of the American Revolution.",
+      "url": "https://allthingsliberty.com/2026/08/fort-watauga-and-the-1776-cherokee-siege/"
     },
     {
       "category": "AI",
-      "title": "Wednesday, August 12: GitHub, Incident with Pull Requests and Issues",
+      "title": "Why Can't You Find Canned Sardines?",
       "source": "Hacker News: Front Page",
-      "date": "Wed, 12 Aug 2026 16:22:27 +0000",
-      "summary": "Article URL: https://www.githubstatus.com/incidents/76t89hbfb09h\nComments URL: https://news.ycombinator.com/item?id=49274894\nPoints: 7\n# Comments: 0",
-      "url": "https://www.githubstatus.com/incidents/76t89hbfb09h"
-    },
-    {
-      "category": "Science",
-      "title": "Human clinicians outperform AI stethoscope in diagnosing pet heart problems",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Wed, 12 Aug 2026 12:20:09 EDT",
-      "summary": "Fourth-year veterinary students matched—and experienced clinicians outperformed—an AI-enabled digital stethoscope in diagnosing heart murmurs and arrhythmias in cats and dogs, according to a new study from North Carolina State University. The study emphasizes the importance of human expertise when using AI-assisted technology, particularly with instruments designed for \"universal\" usage. The research is published in the Journal of the American Veterinary Medical Association.",
-      "url": "https://phys.org/news/2026-08-human-clinicians-outperform-ai-stethoscope.html"
+      "date": "Wed, 12 Aug 2026 21:45:29 +0000",
+      "summary": "Article URL: https://corneroffifth.studio/why-cant-you-find-canned-sardines-right-now/\nComments URL: https://news.ycombinator.com/item?id=49279013\nPoints: 13\n# Comments: 9",
+      "url": "https://corneroffifth.studio/why-cant-you-find-canned-sardines-right-now/"
     },
     {
       "category": "AI",
-      "title": "DeepSeek V4 Pro 0813",
-      "source": "Hacker News: Front Page",
-      "date": "Wed, 12 Aug 2026 16:04:50 +0000",
-      "summary": "Article URL: https://openrouter.ai/deepseek/deepseek-v4-pro-0813\nComments URL: https://news.ycombinator.com/item?id=49274600\nPoints: 18\n# Comments: 5",
-      "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813"
-    },
-    {
-      "category": "AI",
-      "title": "Booksellers suspect AI firms are buying and then destroying rare books",
+      "title": "Terabytes of credentials leaked in massive supply-chain attack",
       "source": "Ars Technica - All content",
-      "date": "Wed, 12 Aug 2026 15:19:17 +0000",
-      "summary": "AI firms quietly bulk buying rare books face resistance from booksellers.",
-      "url": "https://arstechnica.com/tech-policy/2026/08/heres-a-balm-if-the-idea-of-destroying-books-to-train-ai-breaks-your-heart/"
+      "date": "Wed, 12 Aug 2026 21:43:21 +0000",
+      "summary": "The data was scraped and exfiltrated from 2,500 users of a compromised AI package.",
+      "url": "https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack/"
+    },
+    {
+      "category": "AI",
+      "title": "Have physicists finally discovered glueballs? New evidence points to yes.",
+      "source": "Ars Technica - All content",
+      "date": "Wed, 12 Aug 2026 21:13:39 +0000",
+      "summary": "“It’s the strongest evidence yet that particles dominated by a glueball component can exist in nature.”",
+      "url": "https://arstechnica.com/science/2026/08/have-physicists-finally-discovered-glueballs-new-evidence-points-to-yes/"
+    },
+    {
+      "category": "AI",
+      "title": "ICE equipping agents with gloves that deliver electric shocks",
+      "source": "Hacker News: Front Page",
+      "date": "Wed, 12 Aug 2026 21:13:38 +0000",
+      "summary": "Article URL: https://www.bbc.com/news/articles/c20d292gdp4o\nComments URL: https://news.ycombinator.com/item?id=49278641\nPoints: 13\n# Comments: 1",
+      "url": "https://www.bbc.com/news/articles/c20d292gdp4o"
+    },
+    {
+      "category": "AI",
+      "title": "Twitch content has trained Amazon AI for years, but users can opt out now",
+      "source": "Ars Technica - All content",
+      "date": "Wed, 12 Aug 2026 21:00:30 +0000",
+      "summary": "Streaming platform says user-generated content \"may be used for future Gen AI model improvements.\"",
+      "url": "https://arstechnica.com/ai/2026/08/twitch-content-has-trained-amazon-ai-for-years-but-users-can-opt-out-now/"
+    },
+    {
+      "category": "Space",
+      "title": " This year's 'Masters of the Universe' movie wasn't Hollywood's first attempt at capturing the power of He-Man; they tried back in 1987, and failed then too ",
+      "source": " Latest from Space.com ",
+      "date": "Wed, 12 Aug 2026 21:00:00 +0000",
+      "summary": "How bad timing, a studio in financial turmoil, and a movie that looked nothing like the cartoon conspired to defeat the most powerful man in the universe.",
+      "url": "https://www.space.com/entertainment/space-movies-shows/this-years-masters-of-the-universe-movie-wasnt-hollywoods-first-attempt-at-capturing-the-power-of-he-man-they-tried-back-in-1987-and-failed-then-too"
+    },
+    {
+      "category": "Space",
+      "title": "NASA Data Helps Commercial Space Plan Living Off Our Moon ",
+      "source": "NASA",
+      "date": "Wed, 12 Aug 2026 20:40:27 +0000",
+      "summary": "The barren lunar landscape has some important resources, such as water and minerals like iron and titanium, but extracting and processing them will require special equipment. Where those resources can be found will dictate where to land and how to mine them. To help with that, Lunar Station Corp. is using a wealth of NASA […]",
+      "url": "https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-data-helps-commercial-space-plan-living-off-our-moon/"
+    },
+    {
+      "category": "Space",
+      "title": "2026 Total Solar Eclipse in Spain",
+      "source": "NASA",
+      "date": "Wed, 12 Aug 2026 20:08:28 +0000",
+      "summary": "A total solar eclipse is seen from San Millán de los Caballeros, Spain, Wednesday, Aug. 12, 2026. A total solar eclipse – the Moon passing between the Sun and Earth, completely blocking the face of the Sun – swept across parts of Greenland, Iceland, northern Russia, the Atlantic Ocean, Spain, and a small corner of […]",
+      "url": "https://www.nasa.gov/image-article/2026-total-solar-eclipse-in-spain/"
+    },
+    {
+      "category": "AI",
+      "title": "Breaking the WAL",
+      "source": "Hacker News: Front Page",
+      "date": "Wed, 12 Aug 2026 20:00:16 +0000",
+      "summary": "Article URL: https://antithesis.com/blog/2026/wal-reset-bug/\nComments URL: https://news.ycombinator.com/item?id=49277799\nPoints: 26\n# Comments: 26",
+      "url": "https://antithesis.com/blog/2026/wal-reset-bug/"
+    },
+    {
+      "category": "Space",
+      "title": " Total solar eclipse 2026 thrills millions with a stunning cosmic spectacle (photos, video) ",
+      "source": " Latest from Space.com ",
+      "date": "Wed, 12 Aug 2026 19:30:59 +0000",
+      "summary": "A total solar eclipse wowed skywatchers on Aug. 12, 2026 as it arced across Greenland, Iceland and Spain. Here are our favorite photos and videos from the event.",
+      "url": "https://www.space.com/stargazing/solar-eclipses/total-solar-eclipse-2026-thrills-millions-with-a-stunning-cosmic-spectacle-photos-video"
     },
     {
       "category": "Science",
-      "title": " 'No longer will anything seem impossible or marvellous': How an 'immoral, foul-mouthed and violent man' wrote the first eyewitness account of a total solar eclipse​​ ",
+      "title": " Totality! See the first photos of the Aug. 12 total solar eclipse over Spain ",
       "source": " Latest from Live Science ",
-      "date": "Wed, 12 Aug 2026 15:08:30 +0000",
-      "summary": "In this excerpt from the book \"Solar Eclipses\" by William Sheehan, we learn of how an ancient Greek poet, who wrote a series of scurrilous songs and deserted the field of battle, became a hero among eclipse-watchers today.",
-      "url": "https://www.livescience.com/space/the-sun/no-longer-will-anything-seem-impossible-or-marvellous-how-an-immoral-foul-mouthed-and-violent-man-wrote-the-first-eyewitness-account-of-a-total-solar-eclipse"
+      "date": "Wed, 12 Aug 2026 19:25:27 +0000",
+      "summary": "See the first images of totality over Spain from the Aug. 12 total solar eclipse. A bright-pink prominence makes a cameo appearance.",
+      "url": "https://www.livescience.com/space/the-sun/totality-see-the-first-photos-of-the-aug-12-total-solar-eclipse-over-spain"
+    },
+    {
+      "category": "Science",
+      "title": " Young wild octopuses may form a 'fight club' and slap territorial fish if they get too close ",
+      "source": " Latest from Live Science ",
+      "date": "Wed, 12 Aug 2026 19:24:59 +0000",
+      "summary": "A new study shows that octopuses act differently around territorial fish species, displaying a unique body pattern.",
+      "url": "https://www.livescience.com/animals/octopuses/young-wild-octopuses-may-form-a-fight-club-and-slap-territorial-fish-if-they-get-too-close"
     },
     {
       "category": "Space",
-      "title": " Farthest 'black hole star' ever found could help solve the James Webb Space Telescope's little red dot mystery ",
+      "title": " Total solar eclipse 2026 has begun. Here are the first views of totality ",
       "source": " Latest from Space.com ",
-      "date": "Wed, 12 Aug 2026 15:05:00 +0000",
-      "summary": "A distant black hole star is providing strong evidence that these objects lie at the hearts of the mysterious little red dots found shortly after the Big Bang by the James Webb Space Telescope.",
-      "url": "https://www.space.com/astronomy/james-webb-space-telescope/farthest-black-hole-star-ever-found-could-help-solve-the-james-webb-space-telescopes-little-red-dot-mystery"
-    },
-    {
-      "category": "AI",
-      "title": "Qwen/Qwen3.8-2.4T-A95B",
-      "source": "Hacker News: Front Page",
-      "date": "Wed, 12 Aug 2026 15:01:17 +0000",
-      "summary": "Article URL: https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B\nComments URL: https://news.ycombinator.com/item?id=49273478\nPoints: 134\n# Comments: 40",
-      "url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B"
-    },
-    {
-      "category": "AI",
-      "title": "Google reveals 2026 hardware lineup: Pixel 11, Pixel Watch 5, and Pixel Tag",
-      "source": "Ars Technica - All content",
-      "date": "Wed, 12 Aug 2026 14:00:51 +0000",
-      "summary": "Google focuses more on AI and curated experiences than spec upgrades in 2026.",
-      "url": "https://arstechnica.com/gadgets/2026/08/google-reveals-2026-hardware-lineup-pixel-11-pixel-watch-5-and-pixel-tag/"
+      "date": "Wed, 12 Aug 2026 18:05:08 +0000",
+      "summary": "The first breathtaking photos of totality for the total solar eclipse 2026 are pouring in, revealing incredible views of the sun's atmosphere radiating out from behind the moon's colossal silhouette.",
+      "url": "https://www.space.com/stargazing/solar-eclipses/total-solar-eclipse-has-begun-here-are-the-first-views-of-totality-aug-12-2026"
     },
     {
       "category": "Space",
-      "title": " Green comet caught soaring over Namibia | Space photo of the day for Aug. 12, 2026 ",
-      "source": " Latest from Space.com ",
-      "date": "Wed, 12 Aug 2026 14:00:00 +0000",
-      "summary": "A shot so spectacular it will leave other astrophotographers green with envy.",
-      "url": "https://www.space.com/astronomy/comets/green-comet-caught-soaring-over-namibia-space-photo-of-the-day-for-aug-12-2026"
+      "title": "NASA Upgrades Vertical Motion Simulator for Modern Mission Needs",
+      "source": "NASA",
+      "date": "Wed, 12 Aug 2026 17:55:36 +0000",
+      "summary": "Imagine stepping into a machine that can make you feel like you’re flying a spacecraft, piloting a next generation air taxi, or landing on the Moon, all without leaving the ground. NASA’s Vertical Motion Simulator, the largest of its kind in the world, does exactly that. And now, with new upgrades, it’s more powerful and […]",
+      "url": "https://www.nasa.gov/centers-and-facilities/ames/nasa-upgrades-vertical-motion-simulator-for-modern-mission-needs/"
     },
     {
-      "category": "Space",
-      "title": " On this day in space! Aug. 12, 2005: Mars Reconnaissance Orbiter launched ",
-      "source": " Latest from Space.com ",
-      "date": "Wed, 12 Aug 2026 14:00:00 +0000",
-      "summary": "On Aug. 12, 2005, NASA launched its Mars Reconnaissance Orbiter (MRO) mission.",
-      "url": "https://www.space.com/space-exploration/missions/on-this-day-in-space-aug-12-2005-mars-reconnaissance-orbiter-launched"
+      "category": "Science",
+      "title": " Nocturnal dodo? Study suggests we were very wrong about Mauritius' iconic flightless bird ",
+      "source": " Latest from Live Science ",
+      "date": "Wed, 12 Aug 2026 16:58:55 +0000",
+      "summary": "Researchers continue to rage against the dumb-dodo myth with more evidence that the iconic flightless bird was smarter than early accounts suggest ‪—‬ and might have even been nocturnal.",
+      "url": "https://www.livescience.com/animals/extinct-species/nocturnal-dodo-study-suggests-we-were-very-wrong-about-mauritius-iconic-flightless-bird"
     },
     {
       "category": "Science",
@@ -115,28 +163,12 @@
       "url": "https://www.sciencedaily.com/releases/2026/08/260812015212.htm"
     },
     {
-      "category": "AI",
-      "title": "Researchers found a way to hijack devices through Zoom screen sharing",
-      "source": "Ars Technica - All content",
-      "date": "Wed, 12 Aug 2026 13:37:12 +0000",
-      "summary": "A public AI tool found the dangerous Zoom flaw in under 20 prompts.",
-      "url": "https://arstechnica.com/security/2026/08/researchers-found-a-way-to-hijack-devices-through-zoom-screen-sharing/"
-    },
-    {
       "category": "Science",
       "title": "Scientists turn sheep’s wool into a material that helps regrow bone",
       "source": "All Top News -- ScienceDaily",
       "date": "Wed, 12 Aug 2026 07:17:51 EDT",
       "summary": "Keratin extracted from sheep’s wool helped damaged bone regenerate in animals, producing tissue that was more organized and structurally similar to healthy bone than tissue grown with conventional collagen scaffolds. The discovery could turn an abundant agricultural byproduct into a promising new material for regenerative medicine.",
       "url": "https://www.sciencedaily.com/releases/2026/08/260812015210.htm"
-    },
-    {
-      "category": "Science",
-      "title": " New 'magnetoelastic' tent generates electricity from wind, body movement and sound to power small devices ",
-      "source": " Latest from Live Science ",
-      "date": "Wed, 12 Aug 2026 11:00:00 +0000",
-      "summary": "A magnetoelastic tent concept could one day turn wind, movement and fabric flexing into usable electricity.",
-      "url": "https://www.livescience.com/technology/new-magnetoelastic-tent-generates-electricity-from-wind-body-movement-and-sound-to-power-small-devices"
     },
     {
       "category": "Biblical Studies",
@@ -179,6 +211,14 @@
       "url": "https://www.thegospelcoalition.org/article/scripture-memorization-helps-pastor-well/"
     },
     {
+      "category": "AI",
+      "title": "How RingCentral builds AI-native work from engineering to ops",
+      "source": "OpenAI News",
+      "date": "Wed, 12 Aug 2026 00:00:00 GMT",
+      "summary": "See how RingCentral uses ChatGPT Work and Codex to accelerate AI product development and centralize operational intelligence across engineering and operations.",
+      "url": "https://openai.com/index/ringcentral"
+    },
+    {
       "category": "Biblical Studies",
       "title": "Who Is Joseph’s Wife in the Bible? Who Is Aseneth?",
       "source": "Biblical Archaeology Society",
@@ -201,14 +241,6 @@
       "date": "Tue, 11 Aug 2026 10:00:00 GMT",
       "summary": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
       "url": "https://openai.com/index/testing-ads-in-chatgpt"
-    },
-    {
-      "category": "AI",
-      "title": "Daybreak models are now available on AWS",
-      "source": "OpenAI News",
-      "date": "Tue, 11 Aug 2026 10:00:00 GMT",
-      "summary": "OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock to support enterprise security workflows.",
-      "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws"
     },
     {
       "category": "Theology",
@@ -249,14 +281,6 @@
       "date": "Fri, 07 Aug 2026 06:12:47 +0000",
       "summary": "The ultimate basis of your hope of making it to the end secure in Christ is not your own resolve, seriousness, or moral character but the finished work of Christ and all of God’s promises in him.\nThe post Pastoring Those with Differing Views on God’s Sovereignty in Salvation appeared first on 9Marks.",
       "url": "https://www.9marks.org/article/pastoring-those-with-differing-views-on-gods-sovereignty-in-salvation/?utm_source=rss&utm_medium=rss&utm_campaign=pastoring-those-with-differing-views-on-gods-sovereignty-in-salvation"
-    },
-    {
-      "category": "History",
-      "title": "Jefferson & the Crucible of Peaceable Coercions",
-      "source": "Journal of the American Revolution",
-      "date": "Wed, 05 Aug 2026 23:31:24 +0000",
-      "summary": "It was not just an affirmation of him and his principles by the American people, nor a rejection of his opponents. Thomas Jefferson’s election to the presidency in 1800 was, above all else, an opportunity. Up to this moment, he had been a writer, theorist, legislator, ambassador, secretary, and vice president. But except for a […]\nThe post Jefferson & the Crucible of Peaceable Coercions appeared first on Journal of the American Revolution.",
-      "url": "https://allthingsliberty.com/2026/08/jefferson-the-crucible-of-peaceable-coercions/"
     },
     {
       "category": "Theology",
