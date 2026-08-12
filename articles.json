@@ -1,30 +1,126 @@
 {
-  "lastUpdated": "2026-08-11T22:33:35.238Z",
+  "lastUpdated": "2026-08-12T10:54:01.558Z",
   "articleCount": 39,
   "articles": [
     {
-      "category": "Science",
-      "title": "Climate debate remains dominated by established voices despite social media, research finds",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Tue, 11 Aug 2026 18:20:07 EDT",
-      "summary": "When social media arrived on the scene, there were high hopes that they would improve—or even \"democratize\"—communication about climate change by, for instance, lowering access barriers, creating a more direct channel between science and the public, and giving more voices from civil society a chance to exchange ideas and views on the issue, goals and solutions.",
-      "url": "https://phys.org/news/2026-08-climate-debate-dominated-voices-social.html"
+      "category": "Biblical Studies",
+      "title": "The Gezer Calendar",
+      "source": "Biblical Archaeology Society",
+      "date": "Wed, 12 Aug 2026 10:45:47 +0000",
+      "summary": "The so-called Gezer Calendar is a small limestone slab inscribed with a list of agricultural activities covering one full year. Thought to date from the […]\nThe post The Gezer Calendar appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/daily/biblical-artifacts/inscriptions/the-gezer-calendar/"
+    },
+    {
+      "category": "AI",
+      "title": "Show HN: Woxi - Open-source Mathematica / Wolfram Language reimplementation",
+      "source": "Hacker News: Front Page",
+      "date": "Wed, 12 Aug 2026 10:06:29 +0000",
+      "summary": "Woxi is an interpreter for the Wolfram Language written in Rust.\nIt comes with Woxi Studio, a Mathematica-like GUI built with iced, but you can also use Woxi through a CLI, Jupyter kernel, Python package, npm package, or WASM module.\nCompared with wolframscript / Mathematica, the main differences are:\n- Free and open source\n- Very fast startup - Typically milliseconds rather than seconds for the Wolfram kernel, making Woxi practical for shell scripts, one-liners, and other short-lived processes\n- Embeddable - It can run in a browser via WASM or be embedded into another application as a scripting language\nA more detailed comparison with Mathematica is available here:\nhttps://woxi.ad-si.com/docs/comparison/mathematica/.\nConformance is ensured with ~26'000 unit tests and ~900 .wls script snapshot tests.\nThe current focus is on fixing remaining edge cases, improving performance, and growing the community.\nIf you use the Wolfram Language, I'd be particularly interested in feedback on compatibility and missing functionality.\nContributions and bug reports are also very welcome: https://github.com/ad-si/Woxi\nComments URL: https://news.ycombinator.com/item?id=49270040\nPoints: 31\n# Comments: 1",
+      "url": "https://woxi.ad-si.com"
+    },
+    {
+      "category": "AI",
+      "title": "Tim Gowers: What sort of maths are LLMs good at?",
+      "source": "Hacker News: Front Page",
+      "date": "Wed, 12 Aug 2026 10:04:25 +0000",
+      "summary": "Article URL: https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/\nComments URL: https://news.ycombinator.com/item?id=49270022\nPoints: 40\n# Comments: 2",
+      "url": "https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/"
     },
     {
       "category": "Science",
-      "title": "Porous material can arrange disordered gas molecules into a crystal-like structure, study predicts",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Tue, 11 Aug 2026 18:20:05 EDT",
-      "summary": "Capturing carbon or storing hydrogen to combat global warming requires compressing gases into sponge-like porous materials. Until now, gas molecules were thought to adsorb in a disordered manner throughout the pores. But what if invisible gas molecules could be lined up in regular order—like ice crystals or LEGO bricks?",
-      "url": "https://phys.org/news/2026-08-porous-material-disordered-gas-molecules.html"
+      "title": " Diagnostic dilemma: Doctors performed surgery to remove a mass in a woman's gut ‪—‬ and a bug-like creature immediately jumped out ",
+      "source": " Latest from Live Science ",
+      "date": "Wed, 12 Aug 2026 10:00:00 +0000",
+      "summary": "In a strange case, doctors removed a mass from a woman's digestive tract and encountered a live organism they didn't expect.",
+      "url": "https://www.livescience.com/health/diagnostic-dilemma-doctors-performed-surgery-to-remove-a-mass-in-a-womans-gut-and-a-bug-like-creature-immediately-jumped-out"
+    },
+    {
+      "category": "AI",
+      "title": "Facebook is paying controversial creators to produce rage-bait content",
+      "source": "Hacker News: Front Page",
+      "date": "Wed, 12 Aug 2026 09:35:30 +0000",
+      "summary": "Article URL: https://www.abc.net.au/news/2026-08-06/ragebait-how-facebook-is-paying-controversial-creators/106940696\nComments URL: https://news.ycombinator.com/item?id=49269818\nPoints: 85\n# Comments: 29",
+      "url": "https://www.abc.net.au/news/2026-08-06/ragebait-how-facebook-is-paying-controversial-creators/106940696"
     },
     {
       "category": "Science",
-      "title": "Sorting potatoes with AI",
+      "title": "How to design a space habitat that supports its residents' mental health",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Tue, 11 Aug 2026 18:00:07 EDT",
-      "summary": "Karevo's AI-powered optical recognition system can sort up to 10 tons of potatoes per hour with 95% accuracy. The founder's journey took him from a potato farm to the Technical University of Munich (TUM) and ultimately to his own startup.",
-      "url": "https://phys.org/news/2026-08-potatoes-ai.html"
+      "date": "Wed, 12 Aug 2026 05:00:04 EDT",
+      "summary": "In extreme environments, habitats are built for survival. Submarines, Antarctic bases and post-disaster dwellings are designed to prioritize health and safety. This is especially the case for habitats in space, where room is limited, contact with Earth is remote and hazards are numerous.",
+      "url": "https://phys.org/news/2026-08-space-habitat-residents-mental-health.html"
+    },
+    {
+      "category": "Science",
+      "title": "Total solar eclipse to spellbind Europe",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Wed, 12 Aug 2026 04:40:01 EDT",
+      "summary": "Millions of Europeans will contemplate the sky in awe on Wednesday as a rare total solar eclipse crosses part of the continent and plunges a swath of Spain into eerie daytime darkness.",
+      "url": "https://phys.org/news/2026-08-total-solar-eclipse-spellbind-europe.html"
+    },
+    {
+      "category": "Science",
+      "title": "UK 'on course' to record warmest summer for second year in a row",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Wed, 12 Aug 2026 04:20:01 EDT",
+      "summary": "Britain is \"on course\" to chalk up its warmest summer on record for the second year running, the UK's Met Office weather agency said Tuesday as the country braced for its fifth heat wave of the season.",
+      "url": "https://phys.org/news/2026-08-uk-warmest-summer-year-row.html"
+    },
+    {
+      "category": "Space",
+      "title": " A total solar eclipse will darken the sky for millions today! Here's what you need to know ",
+      "source": " Latest from Space.com ",
+      "date": "Wed, 12 Aug 2026 06:00:00 +0000",
+      "summary": "The wait is over. Today's total solar eclipse will sweep across Greenland, Iceland and Spain. Here's where to find timings, livestreams, safety advice and live coverage.",
+      "url": "https://www.space.com/stargazing/solar-eclipses/a-total-solar-eclipse-will-darken-the-sky-for-millions-today-aug-12-2026-heres-what-you-need-to-know"
+    },
+    {
+      "category": "Space",
+      "title": "Stops Along the Path of Totality",
+      "source": "NASA",
+      "date": "Wed, 12 Aug 2026 04:01:00 +0000",
+      "summary": "Western Iceland and northern Spain are among the few Northern Hemisphere locations experiencing a total solar eclipse on August 12, 2026.",
+      "url": "https://science.nasa.gov/earth/earth-observatory/stops-along-the-path-of-totality/"
+    },
+    {
+      "category": "Theology",
+      "title": "How Scripture Memorization Helps Me Pastor Well",
+      "source": "The Gospel Coalition",
+      "date": "Wed, 12 Aug 2026 04:00:00 +0000",
+      "summary": "Nothing has been so fruitful or eternally consequential as my ongoing memorization of extended passages of Scripture.",
+      "url": "https://www.thegospelcoalition.org/article/scripture-memorization-helps-pastor-well/"
+    },
+    {
+      "category": "AI",
+      "title": "DEF CON crowd suspected in fake-hotspot attack on Delta flight",
+      "source": "Ars Technica - All content",
+      "date": "Wed, 12 Aug 2026 00:08:40 +0000",
+      "summary": "FBI Atlanta confirms it's looking into the incident, no arrests made.",
+      "url": "https://arstechnica.com/information-technology/2026/08/def-con-crowd-suspected-in-fake-hotspot-attack-on-delta-flight/"
+    },
+    {
+      "category": "Space",
+      "title": " SpaceX could make $500 billion in 2028, Elon Musk says ",
+      "source": " Latest from Space.com ",
+      "date": "Tue, 11 Aug 2026 23:42:48 +0000",
+      "summary": "SpaceX started out as a launch company, but it has been transitioning into an artificial intelligence outfit —one that's poised to make huge profits in the coming years, Elon Musk says.",
+      "url": "https://www.space.com/space-exploration/spacex-could-make-usd500-billion-in-2027-elon-musk-says"
+    },
+    {
+      "category": "Science",
+      "title": " Genetics triggers male black widows to blackflip into death, study finds ",
+      "source": " Latest from Live Science ",
+      "date": "Tue, 11 Aug 2026 23:01:00 +0000",
+      "summary": "A wild cannibalistic sexual behavior in spiders has a simple genetic explanation, new study finds.",
+      "url": "https://www.livescience.com/animals/spiders-arachnids/genetics-triggers-male-black-widows-to-blackflip-into-death-study-finds"
+    },
+    {
+      "category": "AI",
+      "title": "Trump wants Big Pharma to split MMR vaccine; Big Pharma thinks it's idiotic",
+      "source": "Ars Technica - All content",
+      "date": "Tue, 11 Aug 2026 22:31:45 +0000",
+      "summary": "It took just hours for the leading pharma group to reject the recommendations.",
+      "url": "https://arstechnica.com/health/2026/08/trump-wants-big-pharma-to-split-mmr-vaccine-big-pharma-thinks-its-idiotic/"
     },
     {
       "category": "Science",
@@ -36,27 +132,11 @@
     },
     {
       "category": "AI",
-      "title": "Suzanne: AI tool for designing and manufacturing physical products",
-      "source": "Hacker News: Front Page",
-      "date": "Tue, 11 Aug 2026 21:28:26 +0000",
-      "summary": "Article URL: https://www.suzanne3d.com/\nComments URL: https://news.ycombinator.com/item?id=49264755\nPoints: 7\n# Comments: 2",
-      "url": "https://www.suzanne3d.com/"
-    },
-    {
-      "category": "AI",
       "title": "Russian drones found near vital European offshore gas site, get blown up",
       "source": "Ars Technica - All content",
       "date": "Tue, 11 Aug 2026 21:20:11 +0000",
       "summary": "This follows many drone incursions into Romania and a failed attack in Germany.",
       "url": "https://arstechnica.com/gadgets/2026/08/romania-destroys-russian-drones-drifting-near-vital-european-offshore-gas-site/"
-    },
-    {
-      "category": "AI",
-      "title": "Emergent Introspective Awareness in Large Language Models",
-      "source": "Hacker News: Front Page",
-      "date": "Tue, 11 Aug 2026 21:14:10 +0000",
-      "summary": "Article URL: https://arxiv.org/abs/2601.01828\nComments URL: https://news.ycombinator.com/item?id=49264583\nPoints: 4\n# Comments: 1",
-      "url": "https://arxiv.org/abs/2601.01828"
     },
     {
       "category": "Space",
@@ -75,76 +155,12 @@
       "url": "https://www.space.com/astronomy/scientists-create-largest-2d-map-of-the-universe-with-5-6-trillion-pixels-and-nearly-4-billion-cosmic-objects"
     },
     {
-      "category": "AI",
-      "title": "Chrome adopts what may be the best protection yet against account takeovers",
-      "source": "Ars Technica - All content",
-      "date": "Tue, 11 Aug 2026 20:59:52 +0000",
-      "summary": "Device-bound session credentials thwart an increasingly common form of account takeover.",
-      "url": "https://arstechnica.com/security/2026/08/chrome-adopts-what-may-be-the-best-protection-yet-against-account-takeovers/"
-    },
-    {
-      "category": "AI",
-      "title": "The 19th-Century Family Fortunes Funding Degrowth",
-      "source": "Hacker News: Front Page",
-      "date": "Tue, 11 Aug 2026 20:56:00 +0000",
-      "summary": "Article URL: https://www.effort.news/p4ne\nComments URL: https://news.ycombinator.com/item?id=49264352\nPoints: 7\n# Comments: 2",
-      "url": "https://www.effort.news/p4ne"
-    },
-    {
-      "category": "AI",
-      "title": "Meta can't stop states' $1.4 trillion lawsuit from going to trial",
-      "source": "Ars Technica - All content",
-      "date": "Tue, 11 Aug 2026 20:27:16 +0000",
-      "summary": "Judges tell Meta that Section 230 provides a defense, not immunity from lawsuits.",
-      "url": "https://arstechnica.com/tech-policy/2026/08/meta-cant-stop-states-1-4-trillion-lawsuit-from-going-to-trial/"
-    },
-    {
-      "category": "Space",
-      "title": " Scientists find 2 million active black holes, exploding stars and more, nearly doubling our view of the high-energy universe ",
-      "source": " Latest from Space.com ",
-      "date": "Tue, 11 Aug 2026 20:00:00 +0000",
-      "summary": "Astronomers have nearly doubled the number of known cosmic X-ray sources.",
-      "url": "https://www.space.com/astronomy/scientists-find-2-million-active-black-holes-exploding-stars-and-more-nearly-doubling-our-view-of-the-high-energy-universe"
-    },
-    {
-      "category": "Science",
-      "title": " A solar eclipse will be visible to millions of people tomorrow: How to watch in person and online ",
-      "source": " Latest from Live Science ",
-      "date": "Tue, 11 Aug 2026 19:59:09 +0000",
-      "summary": "On Aug. 12, a total solar eclipse will swoop across a narrow path of totality, while millions of people in North America and Europe will be treated to a partial eclipse. Here's where and when to watch.",
-      "url": "https://www.livescience.com/space/the-sun/a-solar-eclipse-will-be-visible-to-millions-of-people-tomorrow-how-to-watch-in-person-and-online"
-    },
-    {
       "category": "Space",
       "title": "NASA Completes Astronaut-Deployed Science Instrument for Lunar Surface",
       "source": "NASA",
       "date": "Tue, 11 Aug 2026 19:41:34 +0000",
       "summary": "NASA has declared “wrenches down” on the first completed payload designed for Artemis astronauts to deploy on the Moon’s surface. Engineers working on NASA’s Lunar Environment Monitoring Station, or LEMS, have completed hardware development and testing and the payload is ready for its permanent home near the lunar South Pole. With the hardware complete, LEMS […]",
       "url": "https://science.nasa.gov/missions/artemis/nasa-completes-astronaut-deployed-science-instrument-for-lunar-surface/"
-    },
-    {
-      "category": "Science",
-      "title": " Neanderthals passed on a gene that helps modern humans pack on more muscle — but only a few people have it ",
-      "source": " Latest from Live Science ",
-      "date": "Tue, 11 Aug 2026 19:04:53 +0000",
-      "summary": "Neanderthals passed along a gene variant to modern humans that can make some people buff, a new study finds.",
-      "url": "https://www.livescience.com/archaeology/neanderthals/neanderthals-passed-on-a-gene-that-helps-modern-humans-pack-on-more-muscle-but-only-a-few-people-have-it"
-    },
-    {
-      "category": "Space",
-      "title": " 'Star Trek: Strange New Worlds': Anson Mount, Rebecca Romijn, & Carol Kane on season 4's big leaps and 'outside the box' episodes ",
-      "source": " Latest from Space.com ",
-      "date": "Tue, 11 Aug 2026 19:00:00 +0000",
-      "summary": "\"I think the producers had more time to prepare for season 4 and every episode felt incredible on the page\"",
-      "url": "https://www.space.com/entertainment/space-movies-shows/star-trek-strange-new-worlds-cast-on-taking-bigger-leaps-for-season-4s-outside-the-box-episodes-interview"
-    },
-    {
-      "category": "Space",
-      "title": "Lion Nebula Roars in Webb’s Sights",
-      "source": "NASA",
-      "date": "Tue, 11 Aug 2026 17:02:49 +0000",
-      "summary": "Observing across the starry “plains” of space, NASA’s James Webb Space Telescope has taken new images of NGC 2392, nicknamed the Lion Nebula. The nebula’s “mane” is clear and detailed in this image released on Aug. 10, 2026, due to Webb’s high-resolution imaging. See more images of the Lion Nebula from Webb. Image: NASA, ESA, […]",
-      "url": "https://www.nasa.gov/image-article/lion-nebula-roars-in-webbs-sights/"
     },
     {
       "category": "Biblical Studies",
@@ -204,14 +220,6 @@
     },
     {
       "category": "Theology",
-      "title": "Mobilize Your Church to Serve Local Schools",
-      "source": "The Gospel Coalition",
-      "date": "Tue, 11 Aug 2026 04:00:00 +0000",
-      "summary": "What if a school were so confident in your church’s care that when students had needs, it referred them to your church for help?",
-      "url": "https://www.thegospelcoalition.org/article/mobilize-serve-local-schools/"
-    },
-    {
-      "category": "Theology",
       "title": "Wrestling with God . . . and Winning: John Calvin’s Meditations on Genesis 32:22–32",
       "source": "9Marks",
       "date": "Mon, 10 Aug 2026 17:41:06 +0000",
@@ -249,14 +257,6 @@
       "date": "Mon, 10 Aug 2026 06:55:53 EDT",
       "summary": "A total solar eclipse will plunge parts of Europe into darkness on August 12, 2026, with Spain offering some of the best views. ESA will livestream the spectacle from the Javalambre Observatory, combining telescope feeds, drone footage, and expert commentary. At 20:31 CEST, the observatory will experience 1 minute and 21 seconds of totality, revealing the Sun’s normally hidden outer atmosphere.",
       "url": "https://www.sciencedaily.com/releases/2026/08/260810015709.htm"
-    },
-    {
-      "category": "Biblical Studies",
-      "title": "Urartu’s Inscribed Bronze Bowls",
-      "source": "Biblical Archaeology Society",
-      "date": "Mon, 10 Aug 2026 10:45:38 +0000",
-      "summary": "A new study published in the journal Antiquity investigates more than 100 bronze bowls from the ancient kingdom of Urartu (biblical Ararat), which are now […]\nThe post Urartu’s Inscribed Bronze Bowls appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/daily/biblical-artifacts/inscriptions/urartus-inscribed-bronze-bowls/"
     },
     {
       "category": "Science",
