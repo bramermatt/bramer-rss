@@ -1,70 +1,158 @@
 {
-  "lastUpdated": "2026-08-13T10:55:25.345Z",
+  "lastUpdated": "2026-08-13T16:47:39.721Z",
   "articleCount": 39,
   "articles": [
     {
       "category": "Science",
-      "title": "Protein-like nanoparticles sort themselves inside growing crystals, enabling controlled release",
+      "title": "A new category of heat waves is melting western US snowpack faster",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Thu, 13 Aug 2026 06:40:02 EDT",
-      "summary": "The tiny bones in your fingers withstand countless taps and swipes thanks to a precise blend of materials. Flexible collagen fibers form the framework, reinforced by hard calcium phosphate hydroxyapatite crystals. This is just one of countless examples in which living organisms weave organic materials directly into inorganic crystals with exquisite precision. In a recent study published in Nature Communications, scientists attempted to recreate such precise spatial arrangements in biomimetic composite materials.",
-      "url": "https://phys.org/news/2026-08-protein-nanoparticles-crystals-enabling.html"
+      "date": "Thu, 13 Aug 2026 12:40:07 EDT",
+      "summary": "Heat waves are not all created equal. While some bring dry heat that rapidly dries out crops, others carry a lot of moisture that can prevent sweat from evaporating off the skin. In new research published in the journal Science Advances, scientists have identified another type of heat wave that they call a \"snow-eater.\"",
+      "url": "https://phys.org/news/2026-08-category-western-snowpack-faster.html"
     },
     {
       "category": "Science",
-      "title": " How to see and photograph the partial lunar eclipse on August 27-28 ",
-      "source": " Latest from Live Science ",
-      "date": "Thu, 13 Aug 2026 10:30:00 +0000",
-      "summary": "It may not be a 'blood moon' total lunar eclipse, but with more than 96% of the moon immersed in Earth's shadow, it promises a fine lunar observing and photography opportunity. Here's what to know.",
-      "url": "https://www.livescience.com/products/optics/how-to-see-and-photograph-the-partial-lunar-eclipse-on-august-27-28"
+      "title": "College men's attitudes linked to ignoring rejections from bisexual women",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Thu, 13 Aug 2026 12:40:05 EDT",
+      "summary": "Alexis Sheffield, a doctoral candidate in clinical psychology, recently published a research article about a study exploring factors that contribute to the elevated rates of sexual assault among bisexual women and to better understand that disparity.",
+      "url": "https://phys.org/news/2026-08-college-men-attitudes-linked-bisexual.html"
+    },
+    {
+      "category": "Science",
+      "title": "Satellite data reveal tropical forests respond differently to climate across continents",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Thu, 13 Aug 2026 12:20:12 EDT",
+      "summary": "Satellite images can be used to estimate how much carbon forests store as aboveground biomass (AGB) and how biomass varies in different forests. In a study published in the journal Nature, a team of researchers affiliated with the Smithsonian Tropical Research Institute (STRI), the University of Maryland, NASA and the Universidade Federal dos Vales do Jequitinhonha e Mucuri, Brazil, analyzed 16 million 2020 NASA-GEDI satellite estimates of biomass from forests in the Amazon, the Congo Basin and Southeast Asia.",
+      "url": "https://phys.org/news/2026-08-satellite-reveal-tropical-forests-differently.html"
     },
     {
       "category": "AI",
-      "title": "Claude users are mad that Anthropic's new watermarks will catch them using it",
+      "title": "Samsung is using Claude to verify chip designs. It's not going smoothly",
       "source": "Hacker News: Front Page",
-      "date": "Thu, 13 Aug 2026 10:23:51 +0000",
-      "summary": "Article URL: https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/\nComments URL: https://news.ycombinator.com/item?id=49283891\nPoints: 13\n# Comments: 5",
-      "url": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/"
-    },
-    {
-      "category": "Science",
-      "title": " New 2D memory device stores data on just a single electron ",
-      "source": " Latest from Live Science ",
-      "date": "Thu, 13 Aug 2026 10:00:00 +0000",
-      "summary": "Researchers build a new memory device following a single-electron storage breakthrough. It could make transferring data faster and more energy-efficient.",
-      "url": "https://www.livescience.com/technology/electronics/new-2d-memory-device-stores-data-on-just-a-single-electron"
+      "date": "Thu, 13 Aug 2026 16:05:58 +0000",
+      "summary": "Article URL: https://www.neowin.net/news/samsung-is-using-claude-to-verify-chip-designs-and-its-not-going-smoothly/\nComments URL: https://news.ycombinator.com/item?id=49288051\nPoints: 15\n# Comments: 1",
+      "url": "https://www.neowin.net/news/samsung-is-using-claude-to-verify-chip-designs-and-its-not-going-smoothly/"
     },
     {
       "category": "Space",
-      "title": " New private 'Perceptor' probes will keep an eye on satellites high above Earth ",
+      "title": " Virgin Galactic delays next commercial spaceflight to 2027 ",
       "source": " Latest from Space.com ",
-      "date": "Thu, 13 Aug 2026 09:30:00 +0000",
-      "summary": "Astranis' newly announced Perceptor spacecraft will monitor satellite activity in geostationary orbit, a distant and increasingly contested domain.",
-      "url": "https://www.space.com/space-exploration/satellites/astranis-perceptor-satellites-geostationary-orbit-space-situational-awareness"
+      "date": "Thu, 13 Aug 2026 16:03:12 +0000",
+      "summary": "Virgin Galactic has pushed the resumption of its commercial flights back by a few months, to February 2027. The company hasn't been to space since June 2024.",
+      "url": "https://www.space.com/space-exploration/private-spaceflight/virgin-galactic-delays-next-commercial-spaceflight-to-2027"
     },
     {
-      "category": "Science",
-      "title": "Rapid warming may tip Atlantic circulation at 2°C, while slower warming may avert collapse",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Thu, 13 Aug 2026 05:00:06 EDT",
-      "summary": "For several years, climate scientists have shown that the Atlantic Meridional Overturning Circulation (AMOC) could come to a halt if the world warms too much. New research from Utrecht University shows that this picture is incomplete: The pace of warming also determines whether the AMOC stays stable.",
-      "url": "https://phys.org/news/2026-08-rapid-atlantic-circulation-2c-slower.html"
+      "category": "Space",
+      "title": " The Perseid meteor shower peak was spectacular: Here are our favorite photos ",
+      "source": " Latest from Space.com ",
+      "date": "Thu, 13 Aug 2026 15:23:08 +0000",
+      "summary": "The Perseid meteor shower never disappoints, and we've got some great photos this year to prove it.",
+      "url": "https://www.space.com/stargazing/meteor-showers/the-perseid-meteor-shower-peak-was-spectacular-here-are-our-favorite-photos-aug-2026"
     },
     {
-      "category": "Science",
-      "title": "Teaching AI the biology of antibodies speeds drug discovery",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Thu, 13 Aug 2026 05:00:03 EDT",
-      "summary": "Designing an effective antibody drug is like searching for the right key in a warehouse of locks. Scientists may begin with millions—or even billions—of antibody candidates, but only a tiny fraction will recognize and bind tightly to the disease target. Identifying those rare candidates has long been one of the biggest challenges in developing antibody medicines.",
-      "url": "https://phys.org/news/2026-08-ai-biology-antibodies-drug-discovery.html"
+      "category": "Space",
+      "title": "Perseids Meteor Shower",
+      "source": "NASA",
+      "date": "Thu, 13 Aug 2026 15:08:34 +0000",
+      "summary": "The constellation Orion is framed by two Perseid meteors in this photo from Aug. 12, 2018, in Cedar Breaks National Monument, Utah. The Perseids – one of the year’s brightest and most popular meteor showers – has been ramping up since early July and will sparkle in the skies through the end of August. The […]",
+      "url": "https://www.nasa.gov/image-article/perseids-meteor-shower-2/"
     },
     {
       "category": "AI",
-      "title": "ChatGPT Desktop (Codex Desktop) for Linux",
+      "title": "Text AI watermarks will always be trivial to remove",
       "source": "Hacker News: Front Page",
-      "date": "Thu, 13 Aug 2026 04:53:41 +0000",
-      "summary": "Article URL: https://openai.com/codex/\nComments URL: https://news.ycombinator.com/item?id=49281916\nPoints: 168\n# Comments: 85",
-      "url": "https://openai.com/codex/"
+      "date": "Thu, 13 Aug 2026 15:07:10 +0000",
+      "summary": "Article URL: https://www.seangoedecke.com/text-ai-watermarks/\nComments URL: https://news.ycombinator.com/item?id=49287153\nPoints: 36\n# Comments: 24",
+      "url": "https://www.seangoedecke.com/text-ai-watermarks/"
+    },
+    {
+      "category": "Science",
+      "title": " James Webb telescope just spotted the oldest, closest pair of black holes in the early universe ",
+      "source": " Latest from Live Science ",
+      "date": "Thu, 13 Aug 2026 14:56:25 +0000",
+      "summary": "The dual black hole system, dubbed LID-1166, is the first close-separation pair of its kind confirmed this early in the universe. The discovery could help to explain how the earliest black holes grew so large, so fast.",
+      "url": "https://www.livescience.com/space/black-holes/james-webb-telescope-just-spotted-the-oldest-closest-pair-of-black-holes-in-the-early-universe"
+    },
+    {
+      "category": "Science",
+      "title": " Foodborne illnesses: Is the US really being hit harder this year? ",
+      "source": " Latest from Live Science ",
+      "date": "Thu, 13 Aug 2026 14:48:44 +0000",
+      "summary": "While parasitic Cyclospora infections have reached record-breaking numbers this year, experts have criticized coverage that has created the appearance of \"one massive outbreak.\" The reality is more nuanced.",
+      "url": "https://www.livescience.com/health/viruses-infections-disease/foodborne-illnesses-is-the-us-really-being-hit-harder-this-year"
+    },
+    {
+      "category": "AI",
+      "title": "I requested a copy of my data from McDonald’s loyalty program",
+      "source": "Hacker News: Front Page",
+      "date": "Thu, 13 Aug 2026 14:37:51 +0000",
+      "summary": "Article URL: https://www.wired.com/story/mcdonalds-built-a-515-page-dossier-on-me-it-says-ill-never-leave/\nComments URL: https://news.ycombinator.com/item?id=49286662\nPoints: 76\n# Comments: 82",
+      "url": "https://www.wired.com/story/mcdonalds-built-a-515-page-dossier-on-me-it-says-ill-never-leave/"
+    },
+    {
+      "category": "AI",
+      "title": "Rivian's 2027 changes include its No. 1 most-requested feature",
+      "source": "Ars Technica - All content",
+      "date": "Thu, 13 Aug 2026 14:00:57 +0000",
+      "summary": "Pricing hasn't changed, and now you can get captain's chairs for the R1S.",
+      "url": "https://arstechnica.com/cars/2026/08/rivian-tweaks-its-r1-range-for-model-year-2027/"
+    },
+    {
+      "category": "Science",
+      "title": " Mars may have been losing its water more than 4 billion years ago, oldest-known Martian meteorite suggests ",
+      "source": " Latest from Live Science ",
+      "date": "Thu, 13 Aug 2026 14:00:00 +0000",
+      "summary": "The oldest known rock from Mars was discovered on Earth in 2022. Scientists are beginning to reveal its mysteries.",
+      "url": "https://www.livescience.com/space/mars/mars-may-have-been-losing-its-water-more-than-4-billion-years-ago-oldest-known-martian-meteorite-suggests"
+    },
+    {
+      "category": "Space",
+      "title": " On this day in space! Aug. 13, 2014: Game-changing WorldView-3 Earth-observing satellite launches to orbit ",
+      "source": " Latest from Space.com ",
+      "date": "Thu, 13 Aug 2026 14:00:00 +0000",
+      "summary": "The WorldView-3 Earth-observing satellite.",
+      "url": "https://www.space.com/space-exploration/on-this-day-in-space-aug-13-2014-game-changing-worldview-3-earth-observing-satellite-launches-to-orbit"
+    },
+    {
+      "category": "AI",
+      "title": "Anthropic could be worth $2 trillion when it goes public",
+      "source": "Ars Technica - All content",
+      "date": "Thu, 13 Aug 2026 13:58:56 +0000",
+      "summary": "Rapid revenue growth fuels hope Claude maker's IPO is the biggest listing in history",
+      "url": "https://arstechnica.com/ai/2026/08/anthropic-could-be-worth-2-trillion-when-it-goes-public/"
+    },
+    {
+      "category": "AI",
+      "title": "We've flown a radiation-blocking vest to the Moon and back, and it worked",
+      "source": "Ars Technica - All content",
+      "date": "Thu, 13 Aug 2026 13:48:55 +0000",
+      "summary": "Let's shield the astronauts instead of the spacecraft.",
+      "url": "https://arstechnica.com/science/2026/08/weve-flown-a-radiation-blocking-vest-to-the-moon-and-back-and-it-worked/"
+    },
+    {
+      "category": "Biblical Studies",
+      "title": "Mark and John: A Wedding at Cana—Whose and Where?",
+      "source": "Biblical Archaeology Society",
+      "date": "Thu, 13 Aug 2026 11:00:38 +0000",
+      "summary": "James Tabor discusses the wedding at Cana from the Gospels of Mark and John. Whose wedding was this and why were Jesus and his family present?\nThe post Mark and John: A Wedding at Cana—Whose and Where? appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/daily/people-cultures-in-the-bible/jesus-historical-jesus/mark-and-john-a-wedding-at-cana-whose-and-where/"
+    },
+    {
+      "category": "Biblical Studies",
+      "title": "Left-Handed People in the Bible",
+      "source": "Biblical Archaeology Society",
+      "date": "Thu, 13 Aug 2026 11:00:26 +0000",
+      "summary": "Were the warriors from the tribe of Benjamin left-handed by nature or nurture?\nThe post Left-Handed People in the Bible appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/daily/biblical-topics/hebrew-bible/left-handed-people-in-the-bible/"
+    },
+    {
+      "category": "AI",
+      "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
+      "source": "OpenAI News",
+      "date": "Thu, 13 Aug 2026 09:00:00 GMT",
+      "summary": "OpenAI appoints Dali Rajic as Chief Revenue Officer to lead its global revenue organization and help businesses realize the full value of AI.",
+      "url": "https://openai.com/index/dali-rajic-chief-revenue-officer"
     },
     {
       "category": "Space",
@@ -83,6 +171,14 @@
       "url": "https://www.thegospelcoalition.org/reviews/gospel-way-catechism-kids/"
     },
     {
+      "category": "Space",
+      "title": "Cascade Volcanoes Shrouded in Smoke",
+      "source": "NASA",
+      "date": "Thu, 13 Aug 2026 04:00:00 +0000",
+      "summary": "From the International Space Station, astronauts photographed Mount Hood and Mount Rainier as wildfire smoke spread across the Pacific Northwest in summer 2026.",
+      "url": "https://science.nasa.gov/earth/earth-observatory/cascade-volcanoes-shrouded-in-smoke/"
+    },
+    {
       "category": "Theology",
       "title": "‘I Wouldn’t Change Anything’: The Pain and Blessing of Hard Adoptions",
       "source": "The Gospel Coalition",
@@ -91,84 +187,12 @@
       "url": "https://www.thegospelcoalition.org/article/pain-blessing-hard-adoptions/"
     },
     {
-      "category": "AI",
-      "title": "Happy 45th Birthday to the IBM PC and Model F/XT",
-      "source": "Hacker News: Front Page",
-      "date": "Wed, 12 Aug 2026 23:50:33 +0000",
-      "summary": "Article URL: https://sharktastica.co.uk/articles/pc-fxt-45\nComments URL: https://news.ycombinator.com/item?id=49280103\nPoints: 94\n# Comments: 32",
-      "url": "https://sharktastica.co.uk/articles/pc-fxt-45"
-    },
-    {
-      "category": "AI",
-      "title": "Toddler's tragic death from brain-destroying amoeba offers lessons for doctors",
-      "source": "Ars Technica - All content",
-      "date": "Wed, 12 Aug 2026 22:31:19 +0000",
-      "summary": "Boy's unusual symptoms could help identify the next case sooner.",
-      "url": "https://arstechnica.com/health/2026/08/an-ultra-rare-amoeba-was-destroying-a-toddlers-brain-doctors-missed-it/"
-    },
-    {
-      "category": "AI",
-      "title": "The web’s newest weapon against AI scrapers is a font",
-      "source": "Ars Technica - All content",
-      "date": "Wed, 12 Aug 2026 22:02:25 +0000",
-      "summary": "“ShieldFont” aims to poison AI training data without making pages unreadable for people.",
-      "url": "https://arstechnica.com/ai/2026/08/new-font-turns-ordinary-webpages-into-nonsense-for-ai-scrapers/"
-    },
-    {
       "category": "History",
       "title": "Fort Watauga and the 1776 Cherokee Siege",
       "source": "Journal of the American Revolution",
       "date": "Wed, 12 Aug 2026 22:00:22 +0000",
       "summary": "On July 21, 1776, the once-peaceful morning was broken by the sounds of musketry as a Cherokee war party, under Chief Old Abraham, attacked the frontier fort known as Fort Watauga, also known as Fort Caswell, near present-day Elizabethton, Tennessee. This attack was not successful, and it led to an eventual several-day siege on the […]\nThe post Fort Watauga and the 1776 Cherokee Siege appeared first on Journal of the American Revolution.",
       "url": "https://allthingsliberty.com/2026/08/fort-watauga-and-the-1776-cherokee-siege/"
-    },
-    {
-      "category": "AI",
-      "title": "Terabytes of credentials leaked in massive supply-chain attack",
-      "source": "Ars Technica - All content",
-      "date": "Wed, 12 Aug 2026 21:43:21 +0000",
-      "summary": "The data was scraped and exfiltrated from 2,500 users of a compromised AI package.",
-      "url": "https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack/"
-    },
-    {
-      "category": "Space",
-      "title": " This year's 'Masters of the Universe' movie wasn't Hollywood's first attempt at capturing the power of He-Man; they tried back in 1987, and failed then too ",
-      "source": " Latest from Space.com ",
-      "date": "Wed, 12 Aug 2026 21:00:00 +0000",
-      "summary": "How bad timing, a studio in financial turmoil, and a movie that looked nothing like the cartoon conspired to defeat the most powerful man in the universe.",
-      "url": "https://www.space.com/entertainment/space-movies-shows/this-years-masters-of-the-universe-movie-wasnt-hollywoods-first-attempt-at-capturing-the-power-of-he-man-they-tried-back-in-1987-and-failed-then-too"
-    },
-    {
-      "category": "Space",
-      "title": "NASA Data Helps Commercial Space Plan Living Off Our Moon ",
-      "source": "NASA",
-      "date": "Wed, 12 Aug 2026 20:40:27 +0000",
-      "summary": "The barren lunar landscape has some important resources, such as water and minerals like iron and titanium, but extracting and processing them will require special equipment. Where those resources can be found will dictate where to land and how to mine them. To help with that, Lunar Station Corp. is using a wealth of NASA […]",
-      "url": "https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-data-helps-commercial-space-plan-living-off-our-moon/"
-    },
-    {
-      "category": "Space",
-      "title": "2026 Total Solar Eclipse in Spain",
-      "source": "NASA",
-      "date": "Wed, 12 Aug 2026 20:08:28 +0000",
-      "summary": "A total solar eclipse is seen from San Millán de los Caballeros, Spain, Wednesday, Aug. 12, 2026. A total solar eclipse – the Moon passing between the Sun and Earth, completely blocking the face of the Sun – swept across parts of Greenland, Iceland, northern Russia, the Atlantic Ocean, Spain, and a small corner of […]",
-      "url": "https://www.nasa.gov/image-article/2026-total-solar-eclipse-in-spain/"
-    },
-    {
-      "category": "Space",
-      "title": " Total solar eclipse 2026 thrills millions with a stunning cosmic spectacle (photos, video) ",
-      "source": " Latest from Space.com ",
-      "date": "Wed, 12 Aug 2026 19:30:59 +0000",
-      "summary": "A total solar eclipse wowed skywatchers on Aug. 12, 2026 as it arced across Greenland, Iceland and Spain. Here are our favorite photos and videos from the event.",
-      "url": "https://www.space.com/stargazing/solar-eclipses/total-solar-eclipse-2026-thrills-millions-with-a-stunning-cosmic-spectacle-photos-video"
-    },
-    {
-      "category": "Science",
-      "title": " Totality! See incredible photos ofthe Aug. 12 total solar eclipse from across Europe ",
-      "source": " Latest from Live Science ",
-      "date": "Wed, 12 Aug 2026 19:25:27 +0000",
-      "summary": "From Baily's Beads, a bright-pink prominence to awe-struck eclipse-watchers from across the European continent, check out these stunning images from yesterday's total solar eclipse.",
-      "url": "https://www.livescience.com/space/the-sun/totality-see-the-first-photos-of-the-aug-12-total-solar-eclipse-over-spain"
     },
     {
       "category": "Science",
@@ -203,14 +227,6 @@
       "url": "https://www.sciencedaily.com/releases/2026/08/260812015206.htm"
     },
     {
-      "category": "Biblical Studies",
-      "title": "What Is the Sinai?",
-      "source": "Biblical Archaeology Society",
-      "date": "Wed, 12 Aug 2026 10:00:46 +0000",
-      "summary": "Well known for its role in the biblical Exodus, the Sinai Peninsula spans roughly 23,000 square miles, making it larger than the modern state of […]\nThe post What Is the Sinai? appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-egypt/what-is-the-sinai/"
-    },
-    {
       "category": "Theology",
       "title": "Resurrection Power Amidst Digital Death",
       "source": "9Marks",
@@ -243,28 +259,12 @@
       "url": "https://openai.com/index/ringcentral"
     },
     {
-      "category": "Biblical Studies",
-      "title": "Who Is Joseph’s Wife in the Bible? Who Is Aseneth?",
-      "source": "Biblical Archaeology Society",
-      "date": "Tue, 11 Aug 2026 11:00:55 +0000",
-      "summary": "Who Is Joseph’s Wife in the Bible? Who is Aseneth? Daughter of the Egyptian priest Potiphera, Aseneth becomes the wife of Joseph and mother of […]\nThe post Who Is Joseph’s Wife in the Bible? Who Is Aseneth? appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/daily/people-cultures-in-the-bible/people-in-the-bible/who-is-josephs-wife-in-the-bible-who-is-aseneth/"
-    },
-    {
       "category": "History",
       "title": "Gotthold Frederick Enslin: A Life Rebuilt",
       "source": "Journal of the American Revolution",
       "date": "Tue, 11 Aug 2026 10:00:18 +0000",
       "summary": "Lieutenant Gotthold Frederick Enslin served less than a year in the Continental army, and if his name is remembered, it is most often invoked for how that career ended. In what was certainly one of the more painful moments in his life, George Washington had him drummed out of the army for attempted sodomy, the […]\nThe post Gotthold Frederick Enslin: A Life Rebuilt appeared first on Journal of the American Revolution.",
       "url": "https://allthingsliberty.com/2026/08/gotthold-frederick-enslin-a-life-rebuilt/"
-    },
-    {
-      "category": "AI",
-      "title": "Testing ads in ChatGPT",
-      "source": "OpenAI News",
-      "date": "Tue, 11 Aug 2026 10:00:00 GMT",
-      "summary": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
-      "url": "https://openai.com/index/testing-ads-in-chatgpt"
     },
     {
       "category": "Theology",
