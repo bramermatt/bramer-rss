@@ -1,30 +1,118 @@
 {
-  "lastUpdated": "2026-08-12T22:31:54.064Z",
+  "lastUpdated": "2026-08-13T10:55:25.345Z",
   "articleCount": 39,
   "articles": [
     {
       "category": "Science",
-      "title": "Ultrafast flash Joule heating significantly reduces MXene manufacturing time",
+      "title": "Protein-like nanoparticles sort themselves inside growing crystals, enabling controlled release",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Wed, 12 Aug 2026 18:30:04 EDT",
-      "summary": "MXenes are two-dimensional materials made of very thin layers of metals, measured on the atomic scale. They conduct electricity well and have surfaces that can easily interact with other materials, making them excellent candidates for advanced electronic devices, computers and aerospace coatings. The only problem is that, until a recent innovation by James Tour's lab at Rice University, building them required a lengthy, acid-filled process called liquid-phase chemical etching.",
-      "url": "https://phys.org/news/2026-08-ultrafast-joule-significantly-mxene.html"
+      "date": "Thu, 13 Aug 2026 06:40:02 EDT",
+      "summary": "The tiny bones in your fingers withstand countless taps and swipes thanks to a precise blend of materials. Flexible collagen fibers form the framework, reinforced by hard calcium phosphate hydroxyapatite crystals. This is just one of countless examples in which living organisms weave organic materials directly into inorganic crystals with exquisite precision. In a recent study published in Nature Communications, scientists attempted to recreate such precise spatial arrangements in biomimetic composite materials.",
+      "url": "https://phys.org/news/2026-08-protein-nanoparticles-crystals-enabling.html"
     },
     {
       "category": "Science",
-      "title": "Space travel doesn't affect the strength of heart muscle cells, study finds",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Wed, 12 Aug 2026 18:20:03 EDT",
-      "summary": "It's common to see images of astronauts on the International Space Station exercising, running on special treadmills and pedaling cycles designed for tight quarters.",
-      "url": "https://phys.org/news/2026-08-space-doesnt-affect-strength-heart.html"
+      "title": " How to see and photograph the partial lunar eclipse on August 27-28 ",
+      "source": " Latest from Live Science ",
+      "date": "Thu, 13 Aug 2026 10:30:00 +0000",
+      "summary": "It may not be a 'blood moon' total lunar eclipse, but with more than 96% of the moon immersed in Earth's shadow, it promises a fine lunar observing and photography opportunity. Here's what to know.",
+      "url": "https://www.livescience.com/products/optics/how-to-see-and-photograph-the-partial-lunar-eclipse-on-august-27-28"
+    },
+    {
+      "category": "AI",
+      "title": "Claude users are mad that Anthropic's new watermarks will catch them using it",
+      "source": "Hacker News: Front Page",
+      "date": "Thu, 13 Aug 2026 10:23:51 +0000",
+      "summary": "Article URL: https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/\nComments URL: https://news.ycombinator.com/item?id=49283891\nPoints: 13\n# Comments: 5",
+      "url": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/"
     },
     {
       "category": "Science",
-      "title": "Graphene nanowrinkles could reshape electricity in future ultrathin devices",
+      "title": " New 2D memory device stores data on just a single electron ",
+      "source": " Latest from Live Science ",
+      "date": "Thu, 13 Aug 2026 10:00:00 +0000",
+      "summary": "Researchers build a new memory device following a single-electron storage breakthrough. It could make transferring data faster and more energy-efficient.",
+      "url": "https://www.livescience.com/technology/electronics/new-2d-memory-device-stores-data-on-just-a-single-electron"
+    },
+    {
+      "category": "Space",
+      "title": " New private 'Perceptor' probes will keep an eye on satellites high above Earth ",
+      "source": " Latest from Space.com ",
+      "date": "Thu, 13 Aug 2026 09:30:00 +0000",
+      "summary": "Astranis' newly announced Perceptor spacecraft will monitor satellite activity in geostationary orbit, a distant and increasingly contested domain.",
+      "url": "https://www.space.com/space-exploration/satellites/astranis-perceptor-satellites-geostationary-orbit-space-situational-awareness"
+    },
+    {
+      "category": "Science",
+      "title": "Rapid warming may tip Atlantic circulation at 2°C, while slower warming may avert collapse",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Wed, 12 Aug 2026 18:10:01 EDT",
-      "summary": "Rice University researchers have shown that tiny wrinkles in graphene can change the material's electrical properties, providing evidence for flexoelectricity, a phenomenon in which a material generates an electric charge when it bends unevenly. The findings are published in Advanced Materials.",
-      "url": "https://phys.org/news/2026-08-graphene-nanowrinkles-reshape-electricity-future.html"
+      "date": "Thu, 13 Aug 2026 05:00:06 EDT",
+      "summary": "For several years, climate scientists have shown that the Atlantic Meridional Overturning Circulation (AMOC) could come to a halt if the world warms too much. New research from Utrecht University shows that this picture is incomplete: The pace of warming also determines whether the AMOC stays stable.",
+      "url": "https://phys.org/news/2026-08-rapid-atlantic-circulation-2c-slower.html"
+    },
+    {
+      "category": "Science",
+      "title": "Teaching AI the biology of antibodies speeds drug discovery",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Thu, 13 Aug 2026 05:00:03 EDT",
+      "summary": "Designing an effective antibody drug is like searching for the right key in a warehouse of locks. Scientists may begin with millions—or even billions—of antibody candidates, but only a tiny fraction will recognize and bind tightly to the disease target. Identifying those rare candidates has long been one of the biggest challenges in developing antibody medicines.",
+      "url": "https://phys.org/news/2026-08-ai-biology-antibodies-drug-discovery.html"
+    },
+    {
+      "category": "AI",
+      "title": "ChatGPT Desktop (Codex Desktop) for Linux",
+      "source": "Hacker News: Front Page",
+      "date": "Thu, 13 Aug 2026 04:53:41 +0000",
+      "summary": "Article URL: https://openai.com/codex/\nComments URL: https://news.ycombinator.com/item?id=49281916\nPoints: 168\n# Comments: 85",
+      "url": "https://openai.com/codex/"
+    },
+    {
+      "category": "Space",
+      "title": "APOD: 2026 August 13 – Total Solar Eclipse Over Spain",
+      "source": "NASA",
+      "date": "Thu, 13 Aug 2026 04:05:00 +0000",
+      "summary": "APOD Science APOD APOD: 2026 August 13 – Total… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Total Solar […]",
+      "url": "https://science.nasa.gov/image-article/apod-2026-august-13-total-solar-eclipse-over-spain/"
+    },
+    {
+      "category": "Theology",
+      "title": "Help Your Kids Have a Missionary Encounter with Western Culture",
+      "source": "The Gospel Coalition",
+      "date": "Thu, 13 Aug 2026 04:02:00 +0000",
+      "summary": "‘The Gospel Way Catechism for Kids’ is a beautifully illustrated book that can be used in the home or at church to help 8-to-12-year-olds answer our culture’s most pressing questions.",
+      "url": "https://www.thegospelcoalition.org/reviews/gospel-way-catechism-kids/"
+    },
+    {
+      "category": "Theology",
+      "title": "‘I Wouldn’t Change Anything’: The Pain and Blessing of Hard Adoptions",
+      "source": "The Gospel Coalition",
+      "date": "Thu, 13 Aug 2026 04:00:00 +0000",
+      "summary": "Four couples share how hard it can be to raise challenging adoptive kids—and why they’d do it again.",
+      "url": "https://www.thegospelcoalition.org/article/pain-blessing-hard-adoptions/"
+    },
+    {
+      "category": "AI",
+      "title": "Happy 45th Birthday to the IBM PC and Model F/XT",
+      "source": "Hacker News: Front Page",
+      "date": "Wed, 12 Aug 2026 23:50:33 +0000",
+      "summary": "Article URL: https://sharktastica.co.uk/articles/pc-fxt-45\nComments URL: https://news.ycombinator.com/item?id=49280103\nPoints: 94\n# Comments: 32",
+      "url": "https://sharktastica.co.uk/articles/pc-fxt-45"
+    },
+    {
+      "category": "AI",
+      "title": "Toddler's tragic death from brain-destroying amoeba offers lessons for doctors",
+      "source": "Ars Technica - All content",
+      "date": "Wed, 12 Aug 2026 22:31:19 +0000",
+      "summary": "Boy's unusual symptoms could help identify the next case sooner.",
+      "url": "https://arstechnica.com/health/2026/08/an-ultra-rare-amoeba-was-destroying-a-toddlers-brain-doctors-missed-it/"
+    },
+    {
+      "category": "AI",
+      "title": "The web’s newest weapon against AI scrapers is a font",
+      "source": "Ars Technica - All content",
+      "date": "Wed, 12 Aug 2026 22:02:25 +0000",
+      "summary": "“ShieldFont” aims to poison AI training data without making pages unreadable for people.",
+      "url": "https://arstechnica.com/ai/2026/08/new-font-turns-ordinary-webpages-into-nonsense-for-ai-scrapers/"
     },
     {
       "category": "History",
@@ -36,43 +124,11 @@
     },
     {
       "category": "AI",
-      "title": "Why Can't You Find Canned Sardines?",
-      "source": "Hacker News: Front Page",
-      "date": "Wed, 12 Aug 2026 21:45:29 +0000",
-      "summary": "Article URL: https://corneroffifth.studio/why-cant-you-find-canned-sardines-right-now/\nComments URL: https://news.ycombinator.com/item?id=49279013\nPoints: 13\n# Comments: 9",
-      "url": "https://corneroffifth.studio/why-cant-you-find-canned-sardines-right-now/"
-    },
-    {
-      "category": "AI",
       "title": "Terabytes of credentials leaked in massive supply-chain attack",
       "source": "Ars Technica - All content",
       "date": "Wed, 12 Aug 2026 21:43:21 +0000",
       "summary": "The data was scraped and exfiltrated from 2,500 users of a compromised AI package.",
       "url": "https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack/"
-    },
-    {
-      "category": "AI",
-      "title": "Have physicists finally discovered glueballs? New evidence points to yes.",
-      "source": "Ars Technica - All content",
-      "date": "Wed, 12 Aug 2026 21:13:39 +0000",
-      "summary": "“It’s the strongest evidence yet that particles dominated by a glueball component can exist in nature.”",
-      "url": "https://arstechnica.com/science/2026/08/have-physicists-finally-discovered-glueballs-new-evidence-points-to-yes/"
-    },
-    {
-      "category": "AI",
-      "title": "ICE equipping agents with gloves that deliver electric shocks",
-      "source": "Hacker News: Front Page",
-      "date": "Wed, 12 Aug 2026 21:13:38 +0000",
-      "summary": "Article URL: https://www.bbc.com/news/articles/c20d292gdp4o\nComments URL: https://news.ycombinator.com/item?id=49278641\nPoints: 13\n# Comments: 1",
-      "url": "https://www.bbc.com/news/articles/c20d292gdp4o"
-    },
-    {
-      "category": "AI",
-      "title": "Twitch content has trained Amazon AI for years, but users can opt out now",
-      "source": "Ars Technica - All content",
-      "date": "Wed, 12 Aug 2026 21:00:30 +0000",
-      "summary": "Streaming platform says user-generated content \"may be used for future Gen AI model improvements.\"",
-      "url": "https://arstechnica.com/ai/2026/08/twitch-content-has-trained-amazon-ai-for-years-but-users-can-opt-out-now/"
     },
     {
       "category": "Space",
@@ -99,14 +155,6 @@
       "url": "https://www.nasa.gov/image-article/2026-total-solar-eclipse-in-spain/"
     },
     {
-      "category": "AI",
-      "title": "Breaking the WAL",
-      "source": "Hacker News: Front Page",
-      "date": "Wed, 12 Aug 2026 20:00:16 +0000",
-      "summary": "Article URL: https://antithesis.com/blog/2026/wal-reset-bug/\nComments URL: https://news.ycombinator.com/item?id=49277799\nPoints: 26\n# Comments: 26",
-      "url": "https://antithesis.com/blog/2026/wal-reset-bug/"
-    },
-    {
       "category": "Space",
       "title": " Total solar eclipse 2026 thrills millions with a stunning cosmic spectacle (photos, video) ",
       "source": " Latest from Space.com ",
@@ -116,43 +164,11 @@
     },
     {
       "category": "Science",
-      "title": " Totality! See the first photos of the Aug. 12 total solar eclipse over Spain ",
+      "title": " Totality! See incredible photos ofthe Aug. 12 total solar eclipse from across Europe ",
       "source": " Latest from Live Science ",
       "date": "Wed, 12 Aug 2026 19:25:27 +0000",
-      "summary": "See the first images of totality over Spain from the Aug. 12 total solar eclipse. A bright-pink prominence makes a cameo appearance.",
+      "summary": "From Baily's Beads, a bright-pink prominence to awe-struck eclipse-watchers from across the European continent, check out these stunning images from yesterday's total solar eclipse.",
       "url": "https://www.livescience.com/space/the-sun/totality-see-the-first-photos-of-the-aug-12-total-solar-eclipse-over-spain"
-    },
-    {
-      "category": "Science",
-      "title": " Young wild octopuses may form a 'fight club' and slap territorial fish if they get too close ",
-      "source": " Latest from Live Science ",
-      "date": "Wed, 12 Aug 2026 19:24:59 +0000",
-      "summary": "A new study shows that octopuses act differently around territorial fish species, displaying a unique body pattern.",
-      "url": "https://www.livescience.com/animals/octopuses/young-wild-octopuses-may-form-a-fight-club-and-slap-territorial-fish-if-they-get-too-close"
-    },
-    {
-      "category": "Space",
-      "title": " Total solar eclipse 2026 has begun. Here are the first views of totality ",
-      "source": " Latest from Space.com ",
-      "date": "Wed, 12 Aug 2026 18:05:08 +0000",
-      "summary": "The first breathtaking photos of totality for the total solar eclipse 2026 are pouring in, revealing incredible views of the sun's atmosphere radiating out from behind the moon's colossal silhouette.",
-      "url": "https://www.space.com/stargazing/solar-eclipses/total-solar-eclipse-has-begun-here-are-the-first-views-of-totality-aug-12-2026"
-    },
-    {
-      "category": "Space",
-      "title": "NASA Upgrades Vertical Motion Simulator for Modern Mission Needs",
-      "source": "NASA",
-      "date": "Wed, 12 Aug 2026 17:55:36 +0000",
-      "summary": "Imagine stepping into a machine that can make you feel like you’re flying a spacecraft, piloting a next generation air taxi, or landing on the Moon, all without leaving the ground. NASA’s Vertical Motion Simulator, the largest of its kind in the world, does exactly that. And now, with new upgrades, it’s more powerful and […]",
-      "url": "https://www.nasa.gov/centers-and-facilities/ames/nasa-upgrades-vertical-motion-simulator-for-modern-mission-needs/"
-    },
-    {
-      "category": "Science",
-      "title": " Nocturnal dodo? Study suggests we were very wrong about Mauritius' iconic flightless bird ",
-      "source": " Latest from Live Science ",
-      "date": "Wed, 12 Aug 2026 16:58:55 +0000",
-      "summary": "Researchers continue to rage against the dumb-dodo myth with more evidence that the iconic flightless bird was smarter than early accounts suggest ‪—‬ and might have even been nocturnal.",
-      "url": "https://www.livescience.com/animals/extinct-species/nocturnal-dodo-study-suggests-we-were-very-wrong-about-mauritius-iconic-flightless-bird"
     },
     {
       "category": "Science",
@@ -193,6 +209,14 @@
       "date": "Wed, 12 Aug 2026 10:00:46 +0000",
       "summary": "Well known for its role in the biblical Exodus, the Sinai Peninsula spans roughly 23,000 square miles, making it larger than the modern state of […]\nThe post What Is the Sinai? appeared first on Biblical Archaeology Society.",
       "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-egypt/what-is-the-sinai/"
+    },
+    {
+      "category": "Theology",
+      "title": "Resurrection Power Amidst Digital Death",
+      "source": "9Marks",
+      "date": "Wed, 12 Aug 2026 06:12:28 +0000",
+      "summary": "Throughout these essays on digital media, three predicaments show up repeatedly: false digital discipleship, disembodied community, and the decay of contemplation.\nThe post Resurrection Power Amidst Digital Death appeared first on 9Marks.",
+      "url": "https://www.9marks.org/review/resurrection-power-amidst-digital-death/?utm_source=rss&utm_medium=rss&utm_campaign=resurrection-power-amidst-digital-death"
     },
     {
       "category": "AI",
@@ -244,22 +268,6 @@
     },
     {
       "category": "Theology",
-      "title": "How Kevin Vanhoozer Bridges Biblical Studies and Theology",
-      "source": "The Gospel Coalition",
-      "date": "Tue, 11 Aug 2026 04:04:09 +0000",
-      "summary": "Kevin Vanhoozer discusses interpreting God’s Word on the far side of the ‘demise of biblical civilization.’",
-      "url": "https://www.thegospelcoalition.org/podcasts/gospelbound/kevin-vanhoozer-biblical-studies-theology/"
-    },
-    {
-      "category": "Theology",
-      "title": "Where Constant Pain Meets Constant Prayer",
-      "source": "The Gospel Coalition",
-      "date": "Tue, 11 Aug 2026 04:02:00 +0000",
-      "summary": "In ‘Praying in Pain,’ Glenna Marshall teaches Christians how to pray without ceasing, especially those suffering from chronic health conditions.",
-      "url": "https://www.thegospelcoalition.org/reviews/praying-pain-when-not-healed/"
-    },
-    {
-      "category": "Theology",
       "title": "Wrestling with God . . . and Winning: John Calvin’s Meditations on Genesis 32:22–32",
       "source": "9Marks",
       "date": "Mon, 10 Aug 2026 17:41:06 +0000",
@@ -281,14 +289,6 @@
       "date": "Fri, 07 Aug 2026 06:12:47 +0000",
       "summary": "The ultimate basis of your hope of making it to the end secure in Christ is not your own resolve, seriousness, or moral character but the finished work of Christ and all of God’s promises in him.\nThe post Pastoring Those with Differing Views on God’s Sovereignty in Salvation appeared first on 9Marks.",
       "url": "https://www.9marks.org/article/pastoring-those-with-differing-views-on-gods-sovereignty-in-salvation/?utm_source=rss&utm_medium=rss&utm_campaign=pastoring-those-with-differing-views-on-gods-sovereignty-in-salvation"
-    },
-    {
-      "category": "Theology",
-      "title": "Pastoral Ministry When Parenting Gets Hard",
-      "source": "9Marks",
-      "date": "Tue, 04 Aug 2026 16:33:57 +0000",
-      "summary": "When the days are long and the nights are short, God is not absent.\nThe post Pastoral Ministry When Parenting Gets Hard appeared first on 9Marks.",
-      "url": "https://www.9marks.org/article/pastoral-ministry-when-parenting-gets-hard/?utm_source=rss&utm_medium=rss&utm_campaign=pastoral-ministry-when-parenting-gets-hard"
     },
     {
       "category": "History",
