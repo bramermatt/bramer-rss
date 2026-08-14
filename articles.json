@@ -1,54 +1,102 @@
 {
-  "lastUpdated": "2026-08-14T16:42:25.846Z",
-  "articleCount": 39,
+  "lastUpdated": "2026-08-14T22:14:26.730Z",
+  "articleCount": 36,
   "articles": [
     {
       "category": "Science",
-      "title": "Quality vs. quantity: Why 'super-shedders' may not be the superspreaders of disease outbreaks",
+      "title": "Europe's mountain summits are warming—vegetation is responding in surprisingly different ways",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Fri, 14 Aug 2026 12:40:01 EDT",
-      "summary": "A host that sheds an abundance of parasites might seem like an obvious disease-spreading threat. But new research suggests that shedding large volumes of parasites does not dictate transmission efficiency—and \"super-shedders\" may not be the superspreaders of infectious disease outbreaks.",
-      "url": "https://phys.org/news/2026-08-quality-quantity-super-shedders-superspreaders.html"
+      "date": "Fri, 14 Aug 2026 18:00:01 EDT",
+      "summary": "Decades of climate change have not left Europe's mountain vegetation unscathed. However, the changes observed do not always match expectations. As a new international study by a research team led by researchers from the University of Vienna, the Austrian Academy of Sciences and the BOKU University shows, alpine vegetation has shifted significantly towards warmth-associated species. However, the direct link between this so-called thermophilization and local warming is surprisingly weak. The study has recently been published in the journal Nature Ecology & Evolution.",
+      "url": "https://phys.org/news/2026-08-europe-mountain-summits-vegetation-ways.html"
+    },
+    {
+      "category": "Space",
+      "title": " 'Strap yourself in and feel the Gs': NASA announces 'Max Power' aerospace expo ",
+      "source": " Latest from Space.com ",
+      "date": "Fri, 14 Aug 2026 22:00:00 +0000",
+      "summary": "NASA announced today (Aug. 14) that it will hold a two-day aerospace expo this November — an event whose name should draw a chuckle from \"Simpsons\" fans.",
+      "url": "https://www.space.com/space-exploration/strap-yourself-in-and-feel-the-gs-nasa-announces-max-power-aerospace-expo"
     },
     {
       "category": "Science",
-      "title": "Genetic analysis reveals new species of endangered baobab tree in Madagascar",
+      "title": "Engineered microbe speeds CO₂ capture and recovers critical metals",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Fri, 14 Aug 2026 12:20:01 EDT",
-      "summary": "Madison researchers recognize a new species of baobab tree, Adansonia bozy, unique to Madagascar, according to a study published in the journal Taxon. Previously, members of A. bozy were classified within a different species of Malagasy baobab, Adansonia za.",
-      "url": "https://phys.org/news/2026-08-genetic-analysis-reveals-species-endangered.html"
+      "date": "Fri, 14 Aug 2026 17:40:01 EDT",
+      "summary": "A genetically engineered bacterium can rapidly break down one of Earth's most abundant minerals, opening a promising new pathway for simultaneously removing carbon dioxide from the atmosphere and recovering critical elements used in electric vehicle batteries, according to new Cornell research.",
+      "url": "https://phys.org/news/2026-08-microbe-capture-recovers-critical-metals.html"
+    },
+    {
+      "category": "Science",
+      "title": "Bones of medieval kings saved from Spanish wildfire",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Fri, 14 Aug 2026 17:20:04 EDT",
+      "summary": "Firefighters raced to save a 1,000-year-old monastery in northeastern Spain on Friday as a growing wildfire prompted the hasty removal of the bones of medieval monarchs buried there.",
+      "url": "https://phys.org/news/2026-08-bones-medieval-kings-spanish-wildfire.html"
+    },
+    {
+      "category": "Space",
+      "title": " Is empty space really empty? This magnetic star may finally solve a 90-year-old mystery ",
+      "source": " Latest from Space.com ",
+      "date": "Fri, 14 Aug 2026 21:00:00 +0000",
+      "summary": "\"We're not just studying astronomical objects anymore; we're using them to test the laws of nature.\"",
+      "url": "https://www.space.com/astronomy/stars/is-empty-space-really-empty-this-magnetic-star-may-finally-solve-a-90-year-old-mystery"
     },
     {
       "category": "AI",
-      "title": "Ars Live recap: How can we stop publishers from killing their own games?",
+      "title": "Everything is about to \"go dark\"",
+      "source": "Hacker News: Front Page",
+      "date": "Fri, 14 Aug 2026 20:52:44 +0000",
+      "summary": "Article URL: https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/\nComments URL: https://news.ycombinator.com/item?id=49304447\nPoints: 44\n# Comments: 8",
+      "url": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/"
+    },
+    {
+      "category": "AI",
+      "title": "Study links coffee consumption to metabolic health and sex hormones",
+      "source": "Hacker News: Front Page",
+      "date": "Fri, 14 Aug 2026 20:46:04 +0000",
+      "summary": "Article URL: https://www.oulu.fi/en/news/study-links-coffee-consumption-metabolic-health-and-sex-hormones\nComments URL: https://news.ycombinator.com/item?id=49304368\nPoints: 38\n# Comments: 31",
+      "url": "https://www.oulu.fi/en/news/study-links-coffee-consumption-metabolic-health-and-sex-hormones"
+    },
+    {
+      "category": "AI",
+      "title": "Every exterior shot in The Taking of Pelham 123",
+      "source": "Hacker News: Front Page",
+      "date": "Fri, 14 Aug 2026 20:10:49 +0000",
+      "summary": "Article URL: https://iafisher.com/2026/07/pelham-123\nComments URL: https://news.ycombinator.com/item?id=49303957\nPoints: 13\n# Comments: 3",
+      "url": "https://iafisher.com/2026/07/pelham-123"
+    },
+    {
+      "category": "Space",
+      "title": " Cards Against Humanity wants to erect a monument to 'honor' Elon Musk ",
+      "source": " Latest from Space.com ",
+      "date": "Fri, 14 Aug 2026 20:00:00 +0000",
+      "summary": "Cards Against Humanity isn't done with its scorched-Earth campaign against SpaceX and Elon Musk, and is planning to erect an \"Elon Musk is a Sad Little B----- with No Friends\" monument near SpaceX's Starbase site.",
+      "url": "https://www.space.com/space-exploration/human-spaceflight/cards-against-humanity-wants-to-erect-a-monument-to-honor-elon-musk"
+    },
+    {
+      "category": "AI",
+      "title": "Vulnerability giving attackers full control of Macs is under active exploitation",
       "source": "Ars Technica - All content",
-      "date": "Fri, 14 Aug 2026 16:11:37 +0000",
-      "summary": "The Stop Killing Games movement faces an uphill battle.",
-      "url": "https://arstechnica.com/gaming/2026/08/ars-live-recap-how-can-we-stop-publishers-from-killing-their-own-games/"
+      "date": "Fri, 14 Aug 2026 18:32:14 +0000",
+      "summary": "Screen-sharing bug lets remote hackers log in without a password.",
+      "url": "https://arstechnica.com/security/2026/08/vulnerability-giving-attackers-full-control-of-macs-is-under-active-exploitation/"
     },
     {
       "category": "AI",
-      "title": "France blocks social media ban because it would require adults to prove age",
-      "source": "Hacker News: Front Page",
-      "date": "Fri, 14 Aug 2026 16:06:49 +0000",
-      "summary": "Article URL: https://www.reuters.com/world/frances-top-court-rules-social-media-ban-curtails-freedom-expression-2026-08-14/\nComments URL: https://news.ycombinator.com/item?id=49300671\nPoints: 19\n# Comments: 3",
-      "url": "https://www.reuters.com/world/frances-top-court-rules-social-media-ban-curtails-freedom-expression-2026-08-14/"
+      "title": "First test flight of largest all-electric aircraft used just $5 of electricity",
+      "source": "Ars Technica - All content",
+      "date": "Fri, 14 Aug 2026 18:00:23 +0000",
+      "summary": "Airline-backed venture aims to develop a hybrid-electric commercial aircraft.",
+      "url": "https://arstechnica.com/gadgets/2026/08/first-test-flight-of-largest-all-electric-aircraft-used-just-5-of-electricity/"
     },
     {
       "category": "AI",
-      "title": "RayforceDB – a pure C analytics database with a Lisp-like syntax",
-      "source": "Hacker News: Front Page",
-      "date": "Fri, 14 Aug 2026 16:02:20 +0000",
-      "summary": "Article URL: https://rayforcedb.com/\nComments URL: https://news.ycombinator.com/item?id=49300615\nPoints: 3\n# Comments: 0",
-      "url": "https://rayforcedb.com/"
-    },
-    {
-      "category": "Science",
-      "title": "Long-lost convent rediscovered under a soccer field in Denmark",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Fri, 14 Aug 2026 12:00:03 EDT",
-      "summary": "A medieval monastery complex, long believed to be lost, has now been identified using ground-penetrating radar (GPR) in Roskilde, Denmark. The investigations have uncovered extensive and well-preserved remains of the St Clare's Convent from the 13th century, approximately 1 meter (3 feet) below today's ground surface.",
-      "url": "https://phys.org/news/2026-08-lost-convent-rediscovered-soccer-field.html"
+      "title": "Suspecting court of using AI, man injected prompts in filings to try to win case",
+      "source": "Ars Technica - All content",
+      "date": "Fri, 14 Aug 2026 17:26:53 +0000",
+      "summary": "Judge warns pro se litigants are using chatbots wrong and getting desperate.",
+      "url": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/"
     },
     {
       "category": "Science",
@@ -57,62 +105,6 @@
       "date": "Fri, 14 Aug 2026 16:00:00 +0000",
       "summary": "A new analysis of skulls from a 14th-century battle in Sweden reveals a spiked club inflicted the death blow.",
       "url": "https://www.livescience.com/archaeology/full-on-berserker-mode-archaeologists-solve-mystery-of-medieval-soldiers-with-gruesome-square-holes-in-their-skull"
-    },
-    {
-      "category": "Space",
-      "title": " Can Venus cast a shadow? Here's how to see it for yourself ",
-      "source": " Latest from Space.com ",
-      "date": "Fri, 14 Aug 2026 16:00:00 +0000",
-      "summary": "As Venus gets close to its greatest brilliancy in the evening sky, it’s a good time to test one of astronomy’s less believable claims.",
-      "url": "https://www.space.com/stargazing/can-venus-cast-a-shadow-heres-how-to-see-it-for-yourself"
-    },
-    {
-      "category": "AI",
-      "title": "Show HN: Online SNMP MIB database - upload/view your own MIBs",
-      "source": "Hacker News: Front Page",
-      "date": "Fri, 14 Aug 2026 15:49:33 +0000",
-      "summary": "Article URL: https://mib-viewer.com/\nComments URL: https://news.ycombinator.com/item?id=49300419\nPoints: 3\n# Comments: 0",
-      "url": "https://mib-viewer.com/"
-    },
-    {
-      "category": "AI",
-      "title": "Judge gives Google one week to fix \"anticompetitive\" app store download in Google Play",
-      "source": "Ars Technica - All content",
-      "date": "Fri, 14 Aug 2026 15:46:40 +0000",
-      "summary": "Third-party app stores are about to become more visible in Google Play.",
-      "url": "https://arstechnica.com/gadgets/2026/08/google-ordered-to-make-it-easier-to-download-alternative-android-app-stores/"
-    },
-    {
-      "category": "AI",
-      "title": "R-rated director's cut of X-Files film restores Chris Carter's original horror vision",
-      "source": "Ars Technica - All content",
-      "date": "Fri, 14 Aug 2026 15:18:22 +0000",
-      "summary": "Chris Carter chats with Ars about the film he originally wanted to make—and why it's more relevant than ever.",
-      "url": "https://arstechnica.com/culture/2026/08/r-rated-directors-cut-of-x-files-film-restores-chris-carters-original-horror-vision/"
-    },
-    {
-      "category": "Space",
-      "title": " Water can survive surprisingly close to the Milky Way's supermassive black hole, James Webb Space Telescope finds ",
-      "source": " Latest from Space.com ",
-      "date": "Fri, 14 Aug 2026 15:00:00 +0000",
-      "summary": "Water and cosmic dust can survive in the harsh environment near Sagittarius A*, new observations reveal.",
-      "url": "https://www.space.com/astronomy/james-webb-space-telescope/water-can-survive-surprisingly-close-to-the-milky-ways-supermassive-black-hole-james-webb-space-telescope-finds"
-    },
-    {
-      "category": "Space",
-      "title": "Total Solar Eclipse in Sunflower Field",
-      "source": "NASA",
-      "date": "Fri, 14 Aug 2026 14:48:55 +0000",
-      "summary": "This composite image shows the progression of a total solar eclipse over San Millán de los Caballeros, Spain on, Wednesday, Aug. 12, 2026. A total solar eclipse swept across parts of Greenland, Iceland, northern Russia, the Atlantic Ocean, Spain, and a small corner of Portugal. A partial eclipse was visible in parts of the U.S., […]",
-      "url": "https://www.nasa.gov/image-article/total-solar-eclipse-in-sunflower-field/"
-    },
-    {
-      "category": "Space",
-      "title": " On this day in space! Aug. 14, 1992: Meteorite shower hits Uganda ",
-      "source": " Latest from Space.com ",
-      "date": "Fri, 14 Aug 2026 14:00:00 +0000",
-      "summary": "On Aug. 14, 1992, a space rock entered the atmosphere over Mbale, Uganda and exploded into hundreds of pieces!",
-      "url": "https://www.space.com/stargazing/meteor-showers/on-this-day-in-space-aug-14-1992-meteorite-shower-hits-uganda"
     },
     {
       "category": "Science",
@@ -179,28 +171,12 @@
       "url": "https://www.9marks.org/article/ten-ways-to-savor-sundays/?utm_source=rss&utm_medium=rss&utm_campaign=ten-ways-to-savor-sundays"
     },
     {
-      "category": "Space",
-      "title": "APOD: 2026 August 14 – Total Solar Eclipse from Greenland",
-      "source": "NASA",
-      "date": "Fri, 14 Aug 2026 04:05:00 +0000",
-      "summary": "APOD Science APOD APOD: 2026 August 14 – Total… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Total Solar […]",
-      "url": "https://science.nasa.gov/image-article/apod/apod-2026-august-14-total-solar-eclipse-from-greenland/"
-    },
-    {
       "category": "Theology",
       "title": "Hope for the Doubting and Deconstructing",
       "source": "The Gospel Coalition",
       "date": "Fri, 14 Aug 2026 04:04:00 +0000",
       "summary": "Where can we find help when we feel racked by doubt or are walking alongside someone who is?",
       "url": "https://www.thegospelcoalition.org/podcasts/tgc-podcast/hope-doubting-deconstructing-2/"
-    },
-    {
-      "category": "Space",
-      "title": "A Sunflower’s View of Totality",
-      "source": "NASA",
-      "date": "Fri, 14 Aug 2026 04:01:00 +0000",
-      "summary": "The Moon slid between the Sun and Earth to produce a stunning celestial show visible from Spain in August 2026.",
-      "url": "https://science.nasa.gov/earth/earth-observatory/a-sunflowers-view-of-totality/"
     },
     {
       "category": "Theology",
