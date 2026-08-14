@@ -1,7 +1,159 @@
 {
-  "lastUpdated": "2026-08-14T10:51:12.315Z",
-  "articleCount": 36,
+  "lastUpdated": "2026-08-14T16:42:25.846Z",
+  "articleCount": 39,
   "articles": [
+    {
+      "category": "Science",
+      "title": "Quality vs. quantity: Why 'super-shedders' may not be the superspreaders of disease outbreaks",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Fri, 14 Aug 2026 12:40:01 EDT",
+      "summary": "A host that sheds an abundance of parasites might seem like an obvious disease-spreading threat. But new research suggests that shedding large volumes of parasites does not dictate transmission efficiency—and \"super-shedders\" may not be the superspreaders of infectious disease outbreaks.",
+      "url": "https://phys.org/news/2026-08-quality-quantity-super-shedders-superspreaders.html"
+    },
+    {
+      "category": "Science",
+      "title": "Genetic analysis reveals new species of endangered baobab tree in Madagascar",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Fri, 14 Aug 2026 12:20:01 EDT",
+      "summary": "Madison researchers recognize a new species of baobab tree, Adansonia bozy, unique to Madagascar, according to a study published in the journal Taxon. Previously, members of A. bozy were classified within a different species of Malagasy baobab, Adansonia za.",
+      "url": "https://phys.org/news/2026-08-genetic-analysis-reveals-species-endangered.html"
+    },
+    {
+      "category": "AI",
+      "title": "Ars Live recap: How can we stop publishers from killing their own games?",
+      "source": "Ars Technica - All content",
+      "date": "Fri, 14 Aug 2026 16:11:37 +0000",
+      "summary": "The Stop Killing Games movement faces an uphill battle.",
+      "url": "https://arstechnica.com/gaming/2026/08/ars-live-recap-how-can-we-stop-publishers-from-killing-their-own-games/"
+    },
+    {
+      "category": "AI",
+      "title": "France blocks social media ban because it would require adults to prove age",
+      "source": "Hacker News: Front Page",
+      "date": "Fri, 14 Aug 2026 16:06:49 +0000",
+      "summary": "Article URL: https://www.reuters.com/world/frances-top-court-rules-social-media-ban-curtails-freedom-expression-2026-08-14/\nComments URL: https://news.ycombinator.com/item?id=49300671\nPoints: 19\n# Comments: 3",
+      "url": "https://www.reuters.com/world/frances-top-court-rules-social-media-ban-curtails-freedom-expression-2026-08-14/"
+    },
+    {
+      "category": "AI",
+      "title": "RayforceDB – a pure C analytics database with a Lisp-like syntax",
+      "source": "Hacker News: Front Page",
+      "date": "Fri, 14 Aug 2026 16:02:20 +0000",
+      "summary": "Article URL: https://rayforcedb.com/\nComments URL: https://news.ycombinator.com/item?id=49300615\nPoints: 3\n# Comments: 0",
+      "url": "https://rayforcedb.com/"
+    },
+    {
+      "category": "Science",
+      "title": "Long-lost convent rediscovered under a soccer field in Denmark",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Fri, 14 Aug 2026 12:00:03 EDT",
+      "summary": "A medieval monastery complex, long believed to be lost, has now been identified using ground-penetrating radar (GPR) in Roskilde, Denmark. The investigations have uncovered extensive and well-preserved remains of the St Clare's Convent from the 13th century, approximately 1 meter (3 feet) below today's ground surface.",
+      "url": "https://phys.org/news/2026-08-lost-convent-rediscovered-soccer-field.html"
+    },
+    {
+      "category": "Science",
+      "title": " 'Full-on berserker mode': Archaeologists solve mystery of medieval soldiers with gruesome square holes in their skull ",
+      "source": " Latest from Live Science ",
+      "date": "Fri, 14 Aug 2026 16:00:00 +0000",
+      "summary": "A new analysis of skulls from a 14th-century battle in Sweden reveals a spiked club inflicted the death blow.",
+      "url": "https://www.livescience.com/archaeology/full-on-berserker-mode-archaeologists-solve-mystery-of-medieval-soldiers-with-gruesome-square-holes-in-their-skull"
+    },
+    {
+      "category": "Space",
+      "title": " Can Venus cast a shadow? Here's how to see it for yourself ",
+      "source": " Latest from Space.com ",
+      "date": "Fri, 14 Aug 2026 16:00:00 +0000",
+      "summary": "As Venus gets close to its greatest brilliancy in the evening sky, it’s a good time to test one of astronomy’s less believable claims.",
+      "url": "https://www.space.com/stargazing/can-venus-cast-a-shadow-heres-how-to-see-it-for-yourself"
+    },
+    {
+      "category": "AI",
+      "title": "Show HN: Online SNMP MIB database - upload/view your own MIBs",
+      "source": "Hacker News: Front Page",
+      "date": "Fri, 14 Aug 2026 15:49:33 +0000",
+      "summary": "Article URL: https://mib-viewer.com/\nComments URL: https://news.ycombinator.com/item?id=49300419\nPoints: 3\n# Comments: 0",
+      "url": "https://mib-viewer.com/"
+    },
+    {
+      "category": "AI",
+      "title": "Judge gives Google one week to fix \"anticompetitive\" app store download in Google Play",
+      "source": "Ars Technica - All content",
+      "date": "Fri, 14 Aug 2026 15:46:40 +0000",
+      "summary": "Third-party app stores are about to become more visible in Google Play.",
+      "url": "https://arstechnica.com/gadgets/2026/08/google-ordered-to-make-it-easier-to-download-alternative-android-app-stores/"
+    },
+    {
+      "category": "AI",
+      "title": "R-rated director's cut of X-Files film restores Chris Carter's original horror vision",
+      "source": "Ars Technica - All content",
+      "date": "Fri, 14 Aug 2026 15:18:22 +0000",
+      "summary": "Chris Carter chats with Ars about the film he originally wanted to make—and why it's more relevant than ever.",
+      "url": "https://arstechnica.com/culture/2026/08/r-rated-directors-cut-of-x-files-film-restores-chris-carters-original-horror-vision/"
+    },
+    {
+      "category": "Space",
+      "title": " Water can survive surprisingly close to the Milky Way's supermassive black hole, James Webb Space Telescope finds ",
+      "source": " Latest from Space.com ",
+      "date": "Fri, 14 Aug 2026 15:00:00 +0000",
+      "summary": "Water and cosmic dust can survive in the harsh environment near Sagittarius A*, new observations reveal.",
+      "url": "https://www.space.com/astronomy/james-webb-space-telescope/water-can-survive-surprisingly-close-to-the-milky-ways-supermassive-black-hole-james-webb-space-telescope-finds"
+    },
+    {
+      "category": "Space",
+      "title": "Total Solar Eclipse in Sunflower Field",
+      "source": "NASA",
+      "date": "Fri, 14 Aug 2026 14:48:55 +0000",
+      "summary": "This composite image shows the progression of a total solar eclipse over San Millán de los Caballeros, Spain on, Wednesday, Aug. 12, 2026. A total solar eclipse swept across parts of Greenland, Iceland, northern Russia, the Atlantic Ocean, Spain, and a small corner of Portugal. A partial eclipse was visible in parts of the U.S., […]",
+      "url": "https://www.nasa.gov/image-article/total-solar-eclipse-in-sunflower-field/"
+    },
+    {
+      "category": "Space",
+      "title": " On this day in space! Aug. 14, 1992: Meteorite shower hits Uganda ",
+      "source": " Latest from Space.com ",
+      "date": "Fri, 14 Aug 2026 14:00:00 +0000",
+      "summary": "On Aug. 14, 1992, a space rock entered the atmosphere over Mbale, Uganda and exploded into hundreds of pieces!",
+      "url": "https://www.space.com/stargazing/meteor-showers/on-this-day-in-space-aug-14-1992-meteorite-shower-hits-uganda"
+    },
+    {
+      "category": "Science",
+      "title": "Immune cells flood into the aging brain, Stanford scientists discover",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Fri, 14 Aug 2026 09:28:02 EDT",
+      "summary": "Scientists have discovered that the aging human brain may be far less isolated from the rest of the body than once believed. Stanford researchers found that large numbers of immune cells from the blood begin entering the brain as early as middle age, where they can transform into microglia, the brain’s specialized immune cells. The finding overturns a long-standing assumption that these cells remain largely separate from the body’s immune system throughout life.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260814011033.htm"
+    },
+    {
+      "category": "Science",
+      "title": "Scientists detect a nuclear reactor’s ghostly afterglow for the first time",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Fri, 14 Aug 2026 09:16:36 EDT",
+      "summary": "Nuclear reactors may go dark, but their fuel continues producing a faint antineutrino “glow” long after shutdown. Researchers have now detected that residual signal for the first time, finding it closely matched predictions of radioactive decay inside the reactor and nearby spent-fuel pools. The breakthrough suggests antineutrino detectors could eventually monitor reactors even when they are offline.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260814011036.htm"
+    },
+    {
+      "category": "Science",
+      "title": " Rare belching disorder could be treated with singing, study hints — but not everyone is convinced ",
+      "source": " Latest from Live Science ",
+      "date": "Fri, 14 Aug 2026 13:15:00 +0000",
+      "summary": "A strange-sounding treatment may offer relief for people with a little-understood type of excessive belching.",
+      "url": "https://www.livescience.com/health/rare-belching-disorder-could-be-treated-with-singing-study-hints-but-not-everyone-is-convinced"
+    },
+    {
+      "category": "Science",
+      "title": " 'The lance head was still inside the pelvis': Mass grave found in Austria may hold casualties of unknown ancient Roman battle ",
+      "source": " Latest from Live Science ",
+      "date": "Fri, 14 Aug 2026 12:00:00 +0000",
+      "summary": "A new analysis of skeletons recovered from an ancient mass burial has revealed a surprising number of groin injuries.",
+      "url": "https://www.livescience.com/archaeology/romans/the-lance-head-was-still-inside-the-pelvis-mass-grave-found-in-austria-may-hold-casualties-of-unknown-ancient-roman-battle"
+    },
+    {
+      "category": "Science",
+      "title": "A stress hormone may help the brain repair itself",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Fri, 14 Aug 2026 07:35:11 EDT",
+      "summary": "A surprising stress-related signal may help the brain repair itself after injury. Researchers found that myelin-producing precursor cells rapidly release the stress hormone CRH near damaged brain tissue, helping control how those cells mature and rebuild protective nerve insulation. The same system also influences brain development and the thickness of myelin later in life. The findings could offer new clues about how early-life stress contributes to psychiatric disorders.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260814011044.htm"
+    },
     {
       "category": "Biblical Studies",
       "title": "“Olympic” Pool Found in Western Turkey",
@@ -11,84 +163,12 @@
       "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-rome/olympic-pool-western-turkey/"
     },
     {
-      "category": "Science",
-      "title": "Rings forged from meteorites may have been fashionable among ancient Greek elites",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Fri, 14 Aug 2026 06:40:01 EDT",
-      "summary": "Meteorites provided a rare but ready source of iron for ancient Bronze Age cultures before smelting became common. A new study, published in the Journal of Archaeological Science, sheds light on how the ancient Minoan and Mycenaean elite used this extraordinary metal and when its popularity declined.",
-      "url": "https://phys.org/news/2026-08-forged-meteorites-fashionable-ancient-greek.html"
-    },
-    {
-      "category": "AI",
-      "title": "Why does Opus 5 feel worse to work with?",
-      "source": "Hacker News: Front Page",
-      "date": "Fri, 14 Aug 2026 10:12:48 +0000",
-      "summary": "Article URL: https://mun-logadan.github.io/why-does-opus-5-feel-worse/\nComments URL: https://news.ycombinator.com/item?id=49296740\nPoints: 37\n# Comments: 24",
-      "url": "https://mun-logadan.github.io/why-does-opus-5-feel-worse/"
-    },
-    {
-      "category": "AI",
-      "title": "Major oil slick washes up on Iran coast after Hormuz ship strike",
-      "source": "Hacker News: Front Page",
-      "date": "Fri, 14 Aug 2026 10:10:15 +0000",
-      "summary": "Article URL: https://www.bbc.com/news/articles/cr7kpdkg13zo\nComments URL: https://news.ycombinator.com/item?id=49296724\nPoints: 6\n# Comments: 1",
-      "url": "https://www.bbc.com/news/articles/cr7kpdkg13zo"
-    },
-    {
-      "category": "AI",
-      "title": "I want extern \"fil-C\"",
-      "source": "Hacker News: Front Page",
-      "date": "Fri, 14 Aug 2026 10:06:47 +0000",
-      "summary": "Article URL: https://www.domenkozar.com/2026/08/13/i-want-extern-fil-c/\nComments URL: https://news.ycombinator.com/item?id=49296701\nPoints: 5\n# Comments: 0",
-      "url": "https://www.domenkozar.com/2026/08/13/i-want-extern-fil-c/"
-    },
-    {
-      "category": "Space",
-      "title": " SpaceX rocket's moon crash highlights 'a tangible operational risk' of lunar settlement ",
-      "source": " Latest from Space.com ",
-      "date": "Fri, 14 Aug 2026 10:00:00 +0000",
-      "summary": "A SpaceX rocket body slammed into the moon earlier this month, showcasing a risk that will increase as humanity establishes a footprint on Earth's nearest neighbor.",
-      "url": "https://www.space.com/astronomy/moon/spacex-rockets-moon-crash-highlights-a-tangible-operational-risk-of-lunar-settlement"
-    },
-    {
-      "category": "Science",
-      "title": " 'If this is the new normal, then we are in very deep trouble': Brazil's drying aquifers could have ripple effects across the world ",
-      "source": " Latest from Live Science ",
-      "date": "Fri, 14 Aug 2026 09:54:25 +0000",
-      "summary": "New research suggests some of Brazil's most important aquifers, located beneath major agricultural regions, aren't being replenished. What does this mean for the country's water supply and food exports?",
-      "url": "https://www.livescience.com/planet-earth/climate-change/if-this-is-the-new-normal-then-we-are-in-very-deep-trouble-brazils-drying-aquifers-could-have-ripple-effects-across-the-world"
-    },
-    {
-      "category": "Science",
-      "title": "An 'influencer' degree? Colleges bet on content creator major as critics question its value",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Fri, 14 Aug 2026 05:40:02 EDT",
-      "summary": "Ask a teen what they want to be when they grow up, and there's a fair chance being an influencer is on their list.",
-      "url": "https://phys.org/news/2026-08-degree-colleges-content-creator-major.html"
-    },
-    {
-      "category": "Science",
-      "title": "EU cities plan to compensate for a fifth of their emissions through carbon removal, but few have thought through how",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Fri, 14 Aug 2026 05:00:05 EDT",
-      "summary": "An analysis of 103 European cities' climate-neutral plans for 2030 (including 22 capital cities) shows that municipalities are planning to rely on carbon removal to compensate for about a fifth of their emissions. This would mean removing roughly 61 million tonnes of emissions from the atmosphere—close to Austria's annual emissions.",
-      "url": "https://phys.org/news/2026-08-eu-cities-compensate-emissions-carbon.html"
-    },
-    {
-      "category": "Space",
-      "title": " Our expert thinks this portable Celestron telescope will delight beginners and younger stargazers ",
-      "source": " Latest from Space.com ",
-      "date": "Fri, 14 Aug 2026 09:00:00 +0000",
-      "summary": "The perfect instrument for introducing beginner astronomers to the moon and stars",
-      "url": "https://www.space.com/stargazing/skywatching-kit/our-expert-thinks-this-portable-celestron-telescope-will-delight-beginners-and-younger-stargazers"
-    },
-    {
-      "category": "AI",
-      "title": "Organic-looking brake assemblies debut on new Czinger 21C Spyder",
-      "source": "Ars Technica - All content",
-      "date": "Fri, 14 Aug 2026 07:01:15 +0000",
-      "summary": "Czinger used topological design and additive manufacturing to make the brakes.",
-      "url": "https://arstechnica.com/cars/2026/08/czinger-debuts-topology-optimized-brakes-with-21c-spyder/"
+      "category": "Biblical Studies",
+      "title": "Biblical Family Tree or Ancient Map?",
+      "source": "Biblical Archaeology Society",
+      "date": "Fri, 14 Aug 2026 10:00:22 +0000",
+      "summary": "What is a biblical family tree if not a family tree? Genesis 10 famously presents the so-called “Table of Nations,” a long list of the […]\nThe post Biblical Family Tree or Ancient Map? appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-near-eastern-world/biblical-family-tree-or-ancient-map/"
     },
     {
       "category": "Theology",
@@ -99,6 +179,30 @@
       "url": "https://www.9marks.org/article/ten-ways-to-savor-sundays/?utm_source=rss&utm_medium=rss&utm_campaign=ten-ways-to-savor-sundays"
     },
     {
+      "category": "Space",
+      "title": "APOD: 2026 August 14 – Total Solar Eclipse from Greenland",
+      "source": "NASA",
+      "date": "Fri, 14 Aug 2026 04:05:00 +0000",
+      "summary": "APOD Science APOD APOD: 2026 August 14 – Total… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Total Solar […]",
+      "url": "https://science.nasa.gov/image-article/apod/apod-2026-august-14-total-solar-eclipse-from-greenland/"
+    },
+    {
+      "category": "Theology",
+      "title": "Hope for the Doubting and Deconstructing",
+      "source": "The Gospel Coalition",
+      "date": "Fri, 14 Aug 2026 04:04:00 +0000",
+      "summary": "Where can we find help when we feel racked by doubt or are walking alongside someone who is?",
+      "url": "https://www.thegospelcoalition.org/podcasts/tgc-podcast/hope-doubting-deconstructing-2/"
+    },
+    {
+      "category": "Space",
+      "title": "A Sunflower’s View of Totality",
+      "source": "NASA",
+      "date": "Fri, 14 Aug 2026 04:01:00 +0000",
+      "summary": "The Moon slid between the Sun and Earth to produce a stunning celestial show visible from Spain in August 2026.",
+      "url": "https://science.nasa.gov/earth/earth-observatory/a-sunflowers-view-of-totality/"
+    },
+    {
       "category": "Theology",
       "title": "Literal or Symbolic? Reading Revelation Responsibly",
       "source": "The Gospel Coalition",
@@ -107,60 +211,12 @@
       "url": "https://www.thegospelcoalition.org/article/literal-symbolic-reading-revelation/"
     },
     {
-      "category": "AI",
-      "title": "US wait times for cancer surgeries are getting longer and longer",
-      "source": "Ars Technica - All content",
-      "date": "Thu, 13 Aug 2026 22:17:29 +0000",
-      "summary": "Study finds wait times for cancer surgeries hit 10-year high.",
-      "url": "https://arstechnica.com/health/2026/08/us-wait-times-for-cancer-surgeries-are-getting-longer-and-longer/"
-    },
-    {
-      "category": "Space",
-      "title": " NASA astronaut Mike Fincke retires after 30 years at the space agency ",
-      "source": " Latest from Space.com ",
-      "date": "Thu, 13 Aug 2026 21:00:00 +0000",
-      "summary": "NASA astronaut Mike Fincke has retired from NASA after 30 years of public service, leaving behind a legacy of accomplishments and leadership including two-time commander of the International Space Station and Chief of the Astronaut Office’s Commercial Crew Branch.",
-      "url": "https://www.space.com/space-exploration/human-spaceflight/nasa-astronaut-mike-fincke-retires-after-30-years-at-the-space-agency"
-    },
-    {
-      "category": "Science",
-      "title": " Memory may not work how we thought, study of mice in artificial hibernation finds ",
-      "source": " Latest from Live Science ",
-      "date": "Thu, 13 Aug 2026 20:40:00 +0000",
-      "summary": "A new study induced artificial hibernation in lab mice and may have revealed something fundamental about the nature of memory.",
-      "url": "https://www.livescience.com/health/neuroscience/memory-may-not-work-how-we-thought-study-of-mice-in-artificial-hibernation-finds"
-    },
-    {
-      "category": "Science",
-      "title": " Saving old trees may protect people's health more than planting new ones, study of Chicago neighborhoods finds ",
-      "source": " Latest from Live Science ",
-      "date": "Thu, 13 Aug 2026 20:17:08 +0000",
-      "summary": "A study tracking tree cover in Chicago over 11 years found that neighborhoods losing canopy saw death rates climb, especially in the city's hottest areas.",
-      "url": "https://www.livescience.com/health/saving-old-trees-may-protect-peoples-health-more-than-planting-new-ones-study-of-chicago-neighborhoods-finds"
-    },
-    {
-      "category": "AI",
-      "title": "Private security firms will soon be allowed to hack overseas cybercriminals",
-      "source": "Ars Technica - All content",
-      "date": "Thu, 13 Aug 2026 19:38:58 +0000",
-      "summary": "Trump memo is first time gov't has authorized private sector to perform cyberattacks.",
-      "url": "https://arstechnica.com/security/2026/08/white-house-recruits-security-firms-to-hack-overseas-cybercriminals/"
-    },
-    {
       "category": "Biblical Studies",
       "title": "Mark and John: A Wedding at Cana—Whose and Where?",
       "source": "Biblical Archaeology Society",
       "date": "Thu, 13 Aug 2026 11:00:38 +0000",
       "summary": "James Tabor discusses the wedding at Cana from the Gospels of Mark and John. Whose wedding was this and why were Jesus and his family present?\nThe post Mark and John: A Wedding at Cana—Whose and Where? appeared first on Biblical Archaeology Society.",
       "url": "https://www.biblicalarchaeology.org/daily/people-cultures-in-the-bible/jesus-historical-jesus/mark-and-john-a-wedding-at-cana-whose-and-where/"
-    },
-    {
-      "category": "Biblical Studies",
-      "title": "Left-Handed People in the Bible",
-      "source": "Biblical Archaeology Society",
-      "date": "Thu, 13 Aug 2026 11:00:26 +0000",
-      "summary": "Were the warriors from the tribe of Benjamin left-handed by nature or nurture?\nThe post Left-Handed People in the Bible appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/daily/biblical-topics/hebrew-bible/left-handed-people-in-the-bible/"
     },
     {
       "category": "AI",
@@ -195,44 +251,12 @@
       "url": "https://www.thegospelcoalition.org/reviews/gospel-way-catechism-kids/"
     },
     {
-      "category": "Theology",
-      "title": "‘I Wouldn’t Change Anything’: The Pain and Blessing of Hard Adoptions",
-      "source": "The Gospel Coalition",
-      "date": "Thu, 13 Aug 2026 04:00:00 +0000",
-      "summary": "Four couples share how hard it can be to raise challenging adoptive kids—and why they’d do it again.",
-      "url": "https://www.thegospelcoalition.org/article/pain-blessing-hard-adoptions/"
-    },
-    {
       "category": "History",
       "title": "Fort Watauga and the 1776 Cherokee Siege",
       "source": "Journal of the American Revolution",
       "date": "Wed, 12 Aug 2026 22:00:22 +0000",
       "summary": "On July 21, 1776, the once-peaceful morning was broken by the sounds of musketry as a Cherokee war party, under Chief Old Abraham, attacked the frontier fort known as Fort Watauga, also known as Fort Caswell, near present-day Elizabethton, Tennessee. This attack was not successful, and it led to an eventual several-day siege on the […]\nThe post Fort Watauga and the 1776 Cherokee Siege appeared first on Journal of the American Revolution.",
       "url": "https://allthingsliberty.com/2026/08/fort-watauga-and-the-1776-cherokee-siege/"
-    },
-    {
-      "category": "Science",
-      "title": "Scientists turn Starlink into a giant scanner for Earth’s upper atmosphere",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Wed, 12 Aug 2026 09:38:05 EDT",
-      "summary": "Researchers have found a clever new way to map a part of Earth’s upper atmosphere that is notoriously difficult to observe. Using orbital data from roughly 1,200 Starlink satellites, they reconstructed changes in atmospheric density about 500 kilometers above Earth. The approach could sharpen satellite tracking and help reduce the growing risk of collisions in increasingly crowded orbits.",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260812015212.htm"
-    },
-    {
-      "category": "Science",
-      "title": "Scientists turn sheep’s wool into a material that helps regrow bone",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Wed, 12 Aug 2026 07:17:51 EDT",
-      "summary": "Keratin extracted from sheep’s wool helped damaged bone regenerate in animals, producing tissue that was more organized and structurally similar to healthy bone than tissue grown with conventional collagen scaffolds. The discovery could turn an abundant agricultural byproduct into a promising new material for regenerative medicine.",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260812015210.htm"
-    },
-    {
-      "category": "Science",
-      "title": "James Webb captures a cosmic lion sculpted by a dying star",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Wed, 12 Aug 2026 06:15:19 EDT",
-      "summary": "James Webb has captured a striking new infrared view of NGC 2392, the Lion Nebula, revealing the dramatic aftermath of a dying Sun-like star. At its center, a scorching white dwarf is blasting radiation into surrounding gas and dust, carving out the nebula’s lion-like face while illuminating a sprawling “mane” of surviving dusty clumps.",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260812015206.htm"
     },
     {
       "category": "Theology",
