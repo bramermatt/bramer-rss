@@ -1,14 +1,110 @@
 {
-  "lastUpdated": "2026-08-15T10:14:48.736Z",
+  "lastUpdated": "2026-08-15T16:15:16.385Z",
   "articleCount": 39,
   "articles": [
     {
+      "category": "AI",
+      "title": "Ukraine strikes major Russian rocket factory with cruise missiles",
+      "source": "Ars Technica - All content",
+      "date": "Sat, 15 Aug 2026 15:46:05 +0000",
+      "summary": "\"Flamingo missiles were used. A good achievement.\"",
+      "url": "https://arstechnica.com/space/2026/08/ukraine-strikes-major-russian-rocket-factory-with-cruise-missiles/"
+    },
+    {
+      "category": "AI",
+      "title": "AI Can Now Design Functional Viruses. Should We Worry?",
+      "source": "Hacker News: Front Page",
+      "date": "Sat, 15 Aug 2026 15:32:25 +0000",
+      "summary": "Article URL: https://spectrum.ieee.org/ai-designed-virus\nComments URL: https://news.ycombinator.com/item?id=49311445\nPoints: 7\n# Comments: 0",
+      "url": "https://spectrum.ieee.org/ai-designed-virus"
+    },
+    {
       "category": "Science",
-      "title": "Extreme weather is making work difficult for many people. This is what needs to change",
+      "title": "Neptune's tiny moons tell the story of Triton's destructive capture",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Sat, 15 Aug 2026 06:00:04 EDT",
-      "summary": "The UK has experienced several heat waves this summer—heat stress among workers is one of the biggest causes of weather-related sick leave. Very high temperatures can cause symptoms like heat rash and cramps, or even exhaustion and heatstroke.",
-      "url": "https://phys.org/news/2026-08-extreme-weather-difficult-people.html"
+      "date": "Sat, 15 Aug 2026 11:20:01 EDT",
+      "summary": "Neptune's moon and ring system stand out among the giant planets because of the strange imbalance between its one very large moon and its many tiny moons. Its largest moon, Triton, makes up more than 99% of the mass of all satellites orbiting the planet while orbiting retrograde compared with Neptune's rotation. The predominant theory is that Triton is a captured Kuiper Belt object that caused a major disruption in Neptune's early moon system. Now, a new study published in Science Advances provides spectroscopic evidence to support this theory.",
+      "url": "https://phys.org/news/2026-07-neptune-tiny-moons-story-triton.html"
+    },
+    {
+      "category": "AI",
+      "title": "The AI Situation in Software Development",
+      "source": "Hacker News: Front Page",
+      "date": "Sat, 15 Aug 2026 14:12:27 +0000",
+      "summary": "Article URL: https://srikanth.ch/posts/the-ai-situation/\nComments URL: https://news.ycombinator.com/item?id=49310755\nPoints: 13\n# Comments: 1",
+      "url": "https://srikanth.ch/posts/the-ai-situation/"
+    },
+    {
+      "category": "AI",
+      "title": "Secondhand book sales are booming. Is it because of AI?",
+      "source": "Hacker News: Front Page",
+      "date": "Sat, 15 Aug 2026 14:08:55 +0000",
+      "summary": "Article URL: https://www.bbc.co.uk/news/articles/cp3rprx2wl4o\nComments URL: https://news.ycombinator.com/item?id=49310725\nPoints: 46\n# Comments: 46",
+      "url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o"
+    },
+    {
+      "category": "Science",
+      "title": "One-off campus programs fall short on preventing sexual violence, review finds",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sat, 15 Aug 2026 10:00:02 EDT",
+      "summary": "A recent National Student Safety Survey found that one in six students attending Australian universities had been sexually harassed and one in 20 had been sexually assaulted since starting university.",
+      "url": "https://phys.org/news/2026-08-campus-fall-short-sexual-violence.html"
+    },
+    {
+      "category": "Space",
+      "title": " On this day in space! Aug. 15, 1977: Mysterious 'Wow!' Signal boosts search for E.T. ",
+      "source": " Latest from Space.com ",
+      "date": "Sat, 15 Aug 2026 14:00:00 +0000",
+      "summary": "On Aug. 15, 1977, astronomers using Ohio State University's Big Ear radio telescope detected the famous \"Wow!\" signal, which remains unexplained to this day.",
+      "url": "https://www.space.com/space-exploration/search-for-life/on-this-day-in-space-aug-15-1977-mysterious-wow-signal-boosts-search-for-e-t"
+    },
+    {
+      "category": "Science",
+      "title": " 4 lemurs die of human herpesvirus, including one that had been used in a 'lemur yoga' class ",
+      "source": " Latest from Live Science ",
+      "date": "Sat, 15 Aug 2026 13:00:00 +0000",
+      "summary": "Researchers recently confirmed cases of human herpesvirus infection in four lemurs, which died of the infection after having close contact with humans.",
+      "url": "https://www.livescience.com/health/viruses-infections-disease/4-lemurs-die-of-human-herpesvirus-including-one-that-had-been-used-in-a-lemur-yoga-class"
+    },
+    {
+      "category": "Space",
+      "title": " 'Lanterns': Who's who in HBO's Green Lantern show? ",
+      "source": " Latest from Space.com ",
+      "date": "Sat, 15 Aug 2026 13:00:00 +0000",
+      "summary": "In brightest day, in blackest night, no Lanterns character shall escape our sight!",
+      "url": "https://www.space.com/entertainment/space-movies-shows/lanterns-whos-who-in-hbos-green-lantern-show"
+    },
+    {
+      "category": "Science",
+      "title": "Tungsten may suffer more radiation damage in fusion reactors than expected",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sat, 15 Aug 2026 08:40:01 EDT",
+      "summary": "Fusion reactors, devices that generate energy by fusing light atomic nuclei at extremely high temperatures, could contribute to ongoing efforts aimed at producing electricity more sustainably. The extreme environment inside these devices, however, can damage materials that surround the superheated, electrically charged plasma where the nuclear fusion reaction takes place.",
+      "url": "https://phys.org/news/2026-08-tungsten-fusion-reactors.html"
+    },
+    {
+      "category": "Space",
+      "title": " This Week In Space podcast: Episode 223 — The Lunar Domain ",
+      "source": " Latest from Space.com ",
+      "date": "Sat, 15 Aug 2026 12:08:27 +0000",
+      "summary": "On Episode 223 of This Week In Space, Rod Pyle and guest co-host Dale Skran are joined by Dr. Scott Pace to discuss the future of exploration on the Moon.",
+      "url": "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-223-the-lunar-domain"
+    },
+    {
+      "category": "AI",
+      "title": "So much solar: Digging into the list of every US power plant that went online this year",
+      "source": "Ars Technica - All content",
+      "date": "Sat, 15 Aug 2026 11:09:57 +0000",
+      "summary": "Utility-scale solar leads by a mile, followed by batteries. Fossil fuels, not so much.",
+      "url": "https://arstechnica.com/science/2026/08/so-much-solar-digging-into-the-list-of-every-us-power-plant-that-went-online-this-year/"
+    },
+    {
+      "category": "Science",
+      "title": "Scientists solve the mystery of a brain “switch” that can trigger weight loss in opposite ways",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Sat, 15 Aug 2026 06:55:39 EDT",
+      "summary": "Scientists have uncovered why two seemingly opposite ways of targeting the same brain receptor can both promote weight loss. In mice, activating the GIP receptor in the brainstem reduced appetite, while blocking it in the hypothalamus removed a kind of “brake” on fullness signals. The discovery helps explain why very different obesity drugs can achieve similar results and suggests that carefully combining GIP-targeting treatments with GLP-1 drugs like those related to Wegovy and Ozempic could produce stronger effects.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260814011039.htm"
     },
     {
       "category": "Science",
@@ -28,54 +124,6 @@
     },
     {
       "category": "Space",
-      "title": " We think these Nikon binoculars are excellent for variable magnification on the go ",
-      "source": " Latest from Space.com ",
-      "date": "Sat, 15 Aug 2026 09:00:00 +0000",
-      "summary": "Get everything between 10x and 22x with Nikon’s new Action Zoom 10-22x50 binoculars",
-      "url": "https://www.space.com/stargazing/skywatching-kit/our-expert-thinks-these-nikon-binoculars-are-brilliant-for-variable-magnification-on-the-go"
-    },
-    {
-      "category": "Science",
-      "title": "Faced with historic drought, the Dutch rethink water management",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sat, 15 Aug 2026 04:00:01 EDT",
-      "summary": "On the banks of the Waal, the Dutch branch of the Rhine, swimmers are sunning themselves on a Nijmegen beach that didn't exist before the river level dropped a few months ago.",
-      "url": "https://phys.org/news/2026-08-historic-drought-dutch-rethink.html"
-    },
-    {
-      "category": "AI",
-      "title": "Using GCC's Nested Functions with Wide Pointers and No Trampolines II",
-      "source": "Hacker News: Front Page",
-      "date": "Sat, 15 Aug 2026 07:59:42 +0000",
-      "summary": "Article URL: https://uecker.codeberg.page/2026-07-14.html\nComments URL: https://news.ycombinator.com/item?id=49308685\nPoints: 4\n# Comments: 0",
-      "url": "https://uecker.codeberg.page/2026-07-14.html"
-    },
-    {
-      "category": "AI",
-      "title": "Suspecting court of using AI, man injected prompts in filings to try to win case",
-      "source": "Hacker News: Front Page",
-      "date": "Sat, 15 Aug 2026 07:31:46 +0000",
-      "summary": "Article URL: https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/\nComments URL: https://news.ycombinator.com/item?id=49308553\nPoints: 22\n# Comments: 14",
-      "url": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/"
-    },
-    {
-      "category": "Science",
-      "title": "Magnitude 7.7 earthquake strikes off coast of Indonesia and tsunami warning issued",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sat, 15 Aug 2026 03:27:46 EDT",
-      "summary": "A powerful magnitude 7.7 earthquake struck off the coast of Indonesia early Saturday, damaging buildings and homes, and triggering a tsunami warning. Authorities urged people on affected coastlines to move to higher ground.",
-      "url": "https://phys.org/news/2026-08-magnitude-earthquake-coast-indonesia-tsunami.html"
-    },
-    {
-      "category": "AI",
-      "title": "Ask HN: How do you keep up with HN these days?",
-      "source": "Hacker News: Front Page",
-      "date": "Sat, 15 Aug 2026 05:59:12 +0000",
-      "summary": "In the last 2-3 years, mostly because of AI, keeping up with interesting articles on HN has become harder and harder.\nHow do you deal with it? Besides the simple solution of simply ignoring interesting stuff more and more.\nComments URL: https://news.ycombinator.com/item?id=49308059\nPoints: 35\n# Comments: 61",
-      "url": "https://news.ycombinator.com/item?id=49308059"
-    },
-    {
-      "category": "Space",
       "title": "APOD: 2026 August 15 – Bright Perseids from Sweden",
       "source": "NASA",
       "date": "Sat, 15 Aug 2026 04:05:00 +0000",
@@ -89,22 +137,6 @@
       "date": "Sat, 15 Aug 2026 04:00:00 +0000",
       "summary": "The rise of social media use among teens is complicating their friendships, and they need godly guidance.",
       "url": "https://www.thegospelcoalition.org/article/help-teens-friendship-social-media/"
-    },
-    {
-      "category": "Space",
-      "title": " 'Strap yourself in and feel the Gs': NASA announces 'Max Power' aerospace expo ",
-      "source": " Latest from Space.com ",
-      "date": "Fri, 14 Aug 2026 22:00:00 +0000",
-      "summary": "NASA announced today (Aug. 14) that it will hold a two-day aerospace expo this November — an event whose name should draw a chuckle from \"Simpsons\" fans.",
-      "url": "https://www.space.com/space-exploration/strap-yourself-in-and-feel-the-gs-nasa-announces-max-power-aerospace-expo"
-    },
-    {
-      "category": "Space",
-      "title": " Is empty space really empty? This magnetic star may finally solve a 90-year-old mystery ",
-      "source": " Latest from Space.com ",
-      "date": "Fri, 14 Aug 2026 21:00:00 +0000",
-      "summary": "\"We're not just studying astronomical objects anymore; we're using them to test the laws of nature.\"",
-      "url": "https://www.space.com/astronomy/stars/is-empty-space-really-empty-this-magnetic-star-may-finally-solve-a-90-year-old-mystery"
     },
     {
       "category": "Space",
@@ -129,38 +161,6 @@
       "date": "Fri, 14 Aug 2026 18:32:14 +0000",
       "summary": "Screen-sharing bug lets remote hackers log in without a password.",
       "url": "https://arstechnica.com/security/2026/08/vulnerability-giving-attackers-full-control-of-macs-is-under-active-exploitation/"
-    },
-    {
-      "category": "AI",
-      "title": "First test flight of largest all-electric aircraft used just $5 of electricity",
-      "source": "Ars Technica - All content",
-      "date": "Fri, 14 Aug 2026 18:00:23 +0000",
-      "summary": "Airline-backed venture aims to develop a hybrid-electric commercial aircraft.",
-      "url": "https://arstechnica.com/gadgets/2026/08/first-test-flight-of-largest-all-electric-aircraft-used-just-5-of-electricity/"
-    },
-    {
-      "category": "AI",
-      "title": "Suspecting court of using AI, man injected prompts in filings to try to win case",
-      "source": "Ars Technica - All content",
-      "date": "Fri, 14 Aug 2026 17:26:53 +0000",
-      "summary": "Judge warns pro se litigants are using chatbots wrong and getting desperate.",
-      "url": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/"
-    },
-    {
-      "category": "Science",
-      "title": " 'Full-on berserker mode': Archaeologists solve mystery of medieval soldiers with gruesome square holes in their skull ",
-      "source": " Latest from Live Science ",
-      "date": "Fri, 14 Aug 2026 16:00:00 +0000",
-      "summary": "A new analysis of skulls from a 14th-century battle in Sweden reveals a spiked club inflicted the death blow.",
-      "url": "https://www.livescience.com/archaeology/full-on-berserker-mode-archaeologists-solve-mystery-of-medieval-soldiers-with-gruesome-square-holes-in-their-skull"
-    },
-    {
-      "category": "Science",
-      "title": "Immune cells flood into the aging brain, Stanford scientists discover",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Fri, 14 Aug 2026 09:28:02 EDT",
-      "summary": "Scientists have discovered that the aging human brain may be far less isolated from the rest of the body than once believed. Stanford researchers found that large numbers of immune cells from the blood begin entering the brain as early as middle age, where they can transform into microglia, the brain’s specialized immune cells. The finding overturns a long-standing assumption that these cells remain largely separate from the body’s immune system throughout life.",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260814011033.htm"
     },
     {
       "category": "Science",
