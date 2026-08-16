@@ -1,7 +1,103 @@
 {
-  "lastUpdated": "2026-08-16T10:15:32.937Z",
-  "articleCount": 36,
+  "lastUpdated": "2026-08-16T16:15:50.137Z",
+  "articleCount": 39,
   "articles": [
+    {
+      "category": "Science",
+      "title": "Strain flips Hall signal in altermagnetic manganese telluride, suggesting a path to practical spintronics",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sun, 16 Aug 2026 12:00:04 EDT",
+      "summary": "Time-reversal symmetry is an exotic behavior found in systems whose internal physics looks different when running forward versus backward in time. For some time, physicists have searched for this behavior in systems with almost no overall magnetization. Such phases are highly prized for spintronics, where information is carried using the quantum spins of electrons.",
+      "url": "https://phys.org/news/2026-08-strain-flips-hall-altermagnetic-manganese.html"
+    },
+    {
+      "category": "AI",
+      "title": "The weekend is 100 years old",
+      "source": "Hacker News: Front Page",
+      "date": "Sun, 16 Aug 2026 15:30:15 +0000",
+      "summary": "Article URL: https://www.theguardian.com/money/2026/aug/16/the-weekend-is-100-years-old-skiveday-fridays-and-hybrid-working-ruined-it\nComments URL: https://news.ycombinator.com/item?id=49320984\nPoints: 19\n# Comments: 1",
+      "url": "https://www.theguardian.com/money/2026/aug/16/the-weekend-is-100-years-old-skiveday-fridays-and-hybrid-working-ruined-it"
+    },
+    {
+      "category": "AI",
+      "title": "St Lucie Nuclear Reactor Unit 1 manually shutdown, 3 control rods drop into core",
+      "source": "Hacker News: Front Page",
+      "date": "Sun, 16 Aug 2026 15:16:06 +0000",
+      "summary": "Article URL: https://www.wptv.com/news/treasure-coast/region-st-lucie-county/saint-lucie-nuclear-power-plant-unit-1-manually-shut-down-after-3-control-rods-drop-into-reactor-core\nComments URL: https://news.ycombinator.com/item?id=49320856\nPoints: 19\n# Comments: 3",
+      "url": "https://www.wptv.com/news/treasure-coast/region-st-lucie-county/saint-lucie-nuclear-power-plant-unit-1-manually-shut-down-after-3-control-rods-drop-into-reactor-core"
+    },
+    {
+      "category": "Science",
+      "title": "Chinese ship sets off for Europe through Arctic, halving travel time",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sun, 16 Aug 2026 11:10:04 EDT",
+      "summary": "A Chinese container vessel has set sail for Europe through the Arctic as part of a new weekly service on a route that cuts shipment times in half but that environmental groups warn could speed up the melting of polar ice.",
+      "url": "https://phys.org/news/2026-08-chinese-ship-europe-arctic-halving.html"
+    },
+    {
+      "category": "Science",
+      "title": "Firefighters battle second day of blaze on Greek island",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sun, 16 Aug 2026 11:10:01 EDT",
+      "summary": "Firefighters battled for a second day Sunday to contain a forest fire on the Greek Aegean island of Skyros, as the local mayor voiced hope it could soon be brought under control.",
+      "url": "https://phys.org/news/2026-08-firefighters-day-blaze-greek-island.html"
+    },
+    {
+      "category": "History",
+      "title": "James Selkirk’s Revolutionary War",
+      "source": "Journal of the American Revolution",
+      "date": "Sun, 16 Aug 2026 15:06:14 +0000",
+      "summary": "BOOK REVIEW: James Selkirk’s Revolutionary War: The Memoir of a Continental Sergeant, introduced and edited by Robb K. Haberman (Westholme, 2026) $32.50 hardcover In 1774, alone and at the age of sixteen, James Selkirk sailed from Scotland to the American colonies. Two years later, he enlisted in the Continental army and, because he could read […]\nThe post James Selkirk’s Revolutionary War appeared first on Journal of the American Revolution.",
+      "url": "https://allthingsliberty.com/2026/08/james-selkirks-revolutionary-war/"
+    },
+    {
+      "category": "Space",
+      "title": " NASA funds spherical 'Aerobots' that could explore the caves of Saturn's moon Titan ",
+      "source": " Latest from Space.com ",
+      "date": "Sun, 16 Aug 2026 15:00:00 +0000",
+      "summary": "An early-stage grant is offering a look at spherical 'Aerobots' that could zoom around the caves of Titan, in a demo mission similar to Mars Ingenuity.",
+      "url": "https://www.space.com/technology/nasa-funds-spherical-aerobots-that-could-explore-the-caves-of-saturns-moon-titan"
+    },
+    {
+      "category": "AI",
+      "title": "GPS and the Lost Art of Getting Lost",
+      "source": "Hacker News: Front Page",
+      "date": "Sun, 16 Aug 2026 14:53:14 +0000",
+      "summary": "Article URL: https://www.newyorker.com/news/annals-of-inquiry/gps-and-the-lost-art-of-getting-lost\nComments URL: https://news.ycombinator.com/item?id=49320673\nPoints: 6\n# Comments: 5",
+      "url": "https://www.newyorker.com/news/annals-of-inquiry/gps-and-the-lost-art-of-getting-lost"
+    },
+    {
+      "category": "Space",
+      "title": " On this day in space! Aug. 16, 1963: Wingless M2-F1 completes 1st glide flight ",
+      "source": " Latest from Space.com ",
+      "date": "Sun, 16 Aug 2026 14:00:00 +0000",
+      "summary": "On this day in space Aug. 16, 1963: NASA's M2-F1 aircraft prototype makes its first glide flight.",
+      "url": "https://www.space.com/space-exploration/human-spaceflight/on-this-day-in-space-aug-16-1963-wingless-m2-f1-completes-1st-glide-flight"
+    },
+    {
+      "category": "Space",
+      "title": " Artemis II pilot thanks NASA for letting him fly Orion by hand: 'I'm still blown away by that trust' ",
+      "source": " Latest from Space.com ",
+      "date": "Sun, 16 Aug 2026 13:00:00 +0000",
+      "summary": "The Artemis II crew thanked NASA and its contractors in front of a crowd of over 8,000 on on Aug. 3, 2026 at Red Rocks Amphitheatre in Colorado.",
+      "url": "https://www.space.com/space-exploration/artemis/artemis-ii-pilot-thanks-nasa-for-letting-him-fly-orion-by-hand-im-still-blown-away-by-that-trust"
+    },
+    {
+      "category": "Science",
+      "title": " 'There's a sense that these algorithms are objective and they get to know you': How social media warps our understanding of healthcare ",
+      "source": " Latest from Live Science ",
+      "date": "Sun, 16 Aug 2026 11:00:00 +0000",
+      "summary": "Editor Hannah Osborne spoke with investigative journalist Dr. Deborah Cohen about her new book, \"Bad Influence: How the Internet Hijacked Our Health.\"",
+      "url": "https://www.livescience.com/health/theres-a-sense-that-these-algorithms-are-objective-and-they-get-to-know-you-how-social-media-warps-our-understanding-of-healthcare"
+    },
+    {
+      "category": "AI",
+      "title": "Wildfire smoke now bigger prenatal threat than human sources of air pollution",
+      "source": "Ars Technica - All content",
+      "date": "Sun, 16 Aug 2026 10:00:59 +0000",
+      "summary": "Regulations reduced prenatal exposure to harmful emissions, but wildfire smoke is erasing gains.",
+      "url": "https://arstechnica.com/science/2026/08/wildfire-smoke-now-bigger-prenatal-threat-than-human-sources-of-air-pollution/"
+    },
     {
       "category": "Science",
       "title": " Astronomers find water in the harsh environment near the Milky Way's black hole — Space photo of the week ",
@@ -11,12 +107,20 @@
       "url": "https://www.livescience.com/space/black-holes/astronomers-find-water-in-the-harsh-environment-near-the-milky-ways-black-hole-space-photo-of-the-week"
     },
     {
-      "category": "Space",
-      "title": " 'This goes beyond showcasing technological soft power': China's new moon map signals bold space ambitions (video) ",
-      "source": " Latest from Space.com ",
-      "date": "Sun, 16 Aug 2026 10:00:00 +0000",
-      "summary": "New chronology, data about the moon's far side and a homegrown cartographic standard signal China's ambitions for how the solar system gets mapped.",
-      "url": "https://www.space.com/astronomy/moon/this-goes-beyond-showcasing-technological-soft-power-chinas-new-moon-map-signals-bold-space-ambitions-video"
+      "category": "Science",
+      "title": "Physicists discover a hidden gluon structure inside protons that could rewrite textbooks",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Sun, 16 Aug 2026 05:55:45 EDT",
+      "summary": "Physicists may have uncovered a hidden feature inside protons that helps preserve one of matter’s most fundamental properties. RHIC collision data suggest baryon number is carried not simply by three quarks, but by a Y-shaped junction of the gluons connecting them. The finding challenges a decades-old textbook picture and could deepen our understanding of why protons—and ultimately matter itself—remain stable.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260815064805.htm"
+    },
+    {
+      "category": "Science",
+      "title": "Scientists reveal why walking gets so much harder with age",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Sun, 16 Aug 2026 05:13:25 EDT",
+      "summary": "As we age, the body appears to sacrifice walking efficiency in exchange for stability. Older adults stiffen the ankle more with each step, which may help prevent falls but also forces the muscles to work harder while producing less forward motion. This leads to shorter strides, slower walking, and faster fatigue. Exercises targeting balance, coordination, and lower-leg strength could help preserve mobility.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260815065014.htm"
     },
     {
       "category": "Science",
@@ -28,27 +132,11 @@
     },
     {
       "category": "Space",
-      "title": " Stomp Rockets: The perfect start to model rocketry for kids? ",
-      "source": " Latest from Space.com ",
-      "date": "Sun, 16 Aug 2026 09:00:00 +0000",
-      "summary": "Stomp Rockets can open up the world of model rocketry to your kids.",
-      "url": "https://www.space.com/stargazing/skywatching-kit/stomp-rockets-the-perfect-start-to-model-rocketry-for-kids"
-    },
-    {
-      "category": "AI",
-      "title": "What happens when an LLM never sees material beyond fifth grade?",
-      "source": "Hacker News: Front Page",
-      "date": "Sun, 16 Aug 2026 07:37:53 +0000",
-      "summary": "Article URL: https://littlelearner-ll.github.io/\nComments URL: https://news.ycombinator.com/item?id=49317760\nPoints: 114\n# Comments: 71",
-      "url": "https://littlelearner-ll.github.io/"
-    },
-    {
-      "category": "AI",
-      "title": "Falstad Math and Physics Simulations",
-      "source": "Hacker News: Front Page",
-      "date": "Sun, 16 Aug 2026 04:19:32 +0000",
-      "summary": "Article URL: https://www.falstad.com/mathphysics.html\nComments URL: https://news.ycombinator.com/item?id=49316872\nPoints: 17\n# Comments: 3",
-      "url": "https://www.falstad.com/mathphysics.html"
+      "title": "APOD: 2026 August 16 – Milky Way over Yellowstone",
+      "source": "NASA",
+      "date": "Sun, 16 Aug 2026 04:05:00 +0000",
+      "summary": "APOD Science APOD APOD: 2026 August 16 – Milky… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Milky Way […]",
+      "url": "https://science.nasa.gov/image-article/apod/apod-2026-august-16-milky-way-over-yellowstone/"
     },
     {
       "category": "Theology",
@@ -59,28 +147,12 @@
       "url": "https://www.thegospelcoalition.org/article/weakness-gods-invitation/"
     },
     {
-      "category": "Space",
-      "title": " New record! SpaceX launches 2 Falcon 9 rockets just 38 minutes apart ",
-      "source": " Latest from Space.com ",
-      "date": "Sun, 16 Aug 2026 02:54:47 +0000",
-      "summary": "SpaceX launched two of its Falcon 9 rockets just 38 minutes apart on Saturday evening (Aug. 15), setting a new spaceflight record.",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-breaks-record-launch-doubleheader-ussf-366-globalstar-2r"
-    },
-    {
-      "category": "AI",
-      "title": "Zapping Rocks Unlocks Stimulated Geologic Hydrogen",
-      "source": "Hacker News: Front Page",
-      "date": "Sun, 16 Aug 2026 02:36:10 +0000",
-      "summary": "Article URL: https://spectrum.ieee.org/stimulated-geologic-hydrogen\nComments URL: https://news.ycombinator.com/item?id=49316395\nPoints: 19\n# Comments: 5",
-      "url": "https://spectrum.ieee.org/stimulated-geologic-hydrogen"
-    },
-    {
       "category": "Science",
-      "title": "Nature has spent billions of years fighting bacteria. AI could help us learn its secrets",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sat, 15 Aug 2026 20:00:01 EDT",
-      "summary": "Tiny viruses that infect bacteria could one day help us tackle infections that antibiotics can no longer treat. But first, scientists need to understand how these viruses work, and artificial intelligence could provide them with a powerful way to do that.",
-      "url": "https://phys.org/news/2026-08-nature-spent-billions-years-bacteria.html"
+      "title": "A black hole shredded a “super sun” — but something strange may have survived",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Sat, 15 Aug 2026 23:46:46 EDT",
+      "summary": "Astronomers have witnessed a black hole violently shredding a massive star, creating one of the most energetic stellar explosions ever observed. The event, nicknamed “the Whippet,” briefly released about 400 billion times the Sun’s energy and sent a shock wave racing outward at one-fifth the speed of light. Months later, scientists spotted unexpectedly fast-moving helium, suggesting that some structure may have survived the destruction.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260814235849.htm"
     },
     {
       "category": "AI",
@@ -91,22 +163,6 @@
       "url": "https://arstechnica.com/culture/2026/08/visionquest-trailer-kicks-off-disneys-d23-fan-event/"
     },
     {
-      "category": "Science",
-      "title": "How healthier farm animals can cut greenhouse gas emissions",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sat, 15 Aug 2026 16:40:02 EDT",
-      "summary": "When a dairy cow miscarries, a farmer loses far more than an unborn calf. Feed has been grown, land and water have been used, and greenhouse gases have been released during the cow's pregnancy, but milk production, a future animal and income are lost.",
-      "url": "https://phys.org/news/2026-08-healthier-farm-animals-greenhouse-gas.html"
-    },
-    {
-      "category": "Science",
-      "title": "Exploring the moon will require rovers that can think for themselves",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sat, 15 Aug 2026 14:00:01 EDT",
-      "summary": "NASA is planning to send three small rovers to the moon with a single instruction: Work out among yourselves how to explore a patch of ground.",
-      "url": "https://phys.org/news/2026-08-exploring-moon-require-rovers.html"
-    },
-    {
       "category": "AI",
       "title": "Ukraine strikes major Russian rocket factory with cruise missiles",
       "source": "Ars Technica - All content",
@@ -115,28 +171,12 @@
       "url": "https://arstechnica.com/space/2026/08/ukraine-strikes-major-russian-rocket-factory-with-cruise-missiles/"
     },
     {
-      "category": "Science",
-      "title": " 4 lemurs die of human herpesvirus, including one that had been used in a 'lemur yoga' class ",
-      "source": " Latest from Live Science ",
-      "date": "Sat, 15 Aug 2026 13:00:00 +0000",
-      "summary": "Researchers recently confirmed cases of human herpesvirus infection in four lemurs, which died of the infection after having close contact with humans.",
-      "url": "https://www.livescience.com/health/viruses-infections-disease/4-lemurs-die-of-human-herpesvirus-including-one-that-had-been-used-in-a-lemur-yoga-class"
-    },
-    {
-      "category": "AI",
-      "title": "So much solar: Digging into the list of every US power plant that went online this year",
-      "source": "Ars Technica - All content",
-      "date": "Sat, 15 Aug 2026 11:09:57 +0000",
-      "summary": "Utility-scale solar leads by a mile, followed by batteries. Fossil fuels, not so much.",
-      "url": "https://arstechnica.com/science/2026/08/so-much-solar-digging-into-the-list-of-every-us-power-plant-that-went-online-this-year/"
-    },
-    {
-      "category": "Science",
-      "title": "Scientists solve the mystery of a brain “switch” that can trigger weight loss in opposite ways",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Sat, 15 Aug 2026 06:55:39 EDT",
-      "summary": "Scientists have uncovered why two seemingly opposite ways of targeting the same brain receptor can both promote weight loss. In mice, activating the GIP receptor in the brainstem reduced appetite, while blocking it in the hypothalamus removed a kind of “brake” on fullness signals. The discovery helps explain why very different obesity drugs can achieve similar results and suggests that carefully combining GIP-targeting treatments with GLP-1 drugs like those related to Wegovy and Ozempic could produce stronger effects.",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260814011039.htm"
+      "category": "Space",
+      "title": "APOD: 2026 August 15 – Bright Perseids from Sweden",
+      "source": "NASA",
+      "date": "Sat, 15 Aug 2026 04:05:00 +0000",
+      "summary": "APOD Science APOD APOD: 2026 August 15 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Bright Perseids from […]",
+      "url": "https://science.nasa.gov/image-article/apod/apod-2026-august-15-bright-perseids-from-sweden/"
     },
     {
       "category": "Theology",
@@ -147,20 +187,12 @@
       "url": "https://www.thegospelcoalition.org/article/help-teens-friendship-social-media/"
     },
     {
-      "category": "Science",
-      "title": "Scientists detect a nuclear reactor’s ghostly afterglow for the first time",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Fri, 14 Aug 2026 09:16:36 EDT",
-      "summary": "Nuclear reactors may go dark, but their fuel continues producing a faint antineutrino “glow” long after shutdown. Researchers have now detected that residual signal for the first time, finding it closely matched predictions of radioactive decay inside the reactor and nearby spent-fuel pools. The breakthrough suggests antineutrino detectors could eventually monitor reactors even when they are offline.",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260814011036.htm"
-    },
-    {
-      "category": "Science",
-      "title": "A stress hormone may help the brain repair itself",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Fri, 14 Aug 2026 07:35:11 EDT",
-      "summary": "A surprising stress-related signal may help the brain repair itself after injury. Researchers found that myelin-producing precursor cells rapidly release the stress hormone CRH near damaged brain tissue, helping control how those cells mature and rebuild protective nerve insulation. The same system also influences brain development and the thickness of myelin later in life. The findings could offer new clues about how early-life stress contributes to psychiatric disorders.",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260814011044.htm"
+      "category": "Space",
+      "title": "NASA Competition Invites Students to Help Imagine a Future Enabled by Lunar Technologies ",
+      "source": "NASA",
+      "date": "Fri, 14 Aug 2026 20:00:38 +0000",
+      "summary": "NASA is asking U.S.-based collegiate teams to submit bold, original concepts to the 2027 edition of a student challenge focused on aerospace innovation that could help the agency envision a future on the Moon shaped by new technology.  The latest NASA Revolutionary Aerospace Systems Concepts – Academic Linkage (RASC-AL) competition invites student teams to explore new operations paradigms and advance the technologies needed to […]",
+      "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/nasa-competition-invites-students-to-help-imagine-a-future-enabled-by-lunar-technologies/"
     },
     {
       "category": "Biblical Studies",
@@ -257,14 +289,6 @@
       "date": "Mon, 10 Aug 2026 17:41:06 +0000",
       "summary": "If not for the Lord being on your side, you’d be completely without hope. And yet, the Lord is on your side. For whatever he brings against you, more still does he give to your defense.\nThe post Wrestling with God . . . and Winning: John Calvin’s Meditations on Genesis 32:22–32 appeared first on 9Marks.",
       "url": "https://www.9marks.org/article/wrestling-with-god/?utm_source=rss&utm_medium=rss&utm_campaign=wrestling-with-god"
-    },
-    {
-      "category": "History",
-      "title": "Backcountry Resistance: South Carolina’s Militia and the Fight for American Independence",
-      "source": "Journal of the American Revolution",
-      "date": "Mon, 10 Aug 2026 17:19:04 +0000",
-      "summary": "BOOK REVIEW: Backcountry Resistance: South Carolina’s Militia and the Fight for American Independence by Carl P. Borick. (Columbia: University of South Carolina Press, 2026) $27.99 hardcover As students of the Revolutionary War in the American South know, Carl Borick is the author of the definitive study of the 1780 Siege of Charleston, South Carolina, titled […]\nThe post Backcountry Resistance: South Carolina’s Militia and the Fight for American Independence appeared first on Journal of the American Revolution.",
-      "url": "https://allthingsliberty.com/2026/08/backcountry-resistance-south-carolinas-militia-and-the-fight-for-american-independence/"
     },
     {
       "category": "History",
