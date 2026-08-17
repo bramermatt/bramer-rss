@@ -1,7 +1,151 @@
 {
-  "lastUpdated": "2026-08-17T10:24:33.409Z",
+  "lastUpdated": "2026-08-17T16:18:34.653Z",
   "articleCount": 36,
   "articles": [
+    {
+      "category": "Science",
+      "title": "AI learns to spot tomato diseases using nearly 9,000 field images",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Mon, 17 Aug 2026 12:00:07 EDT",
+      "summary": "A breakthrough in AI-driven crop disease detection is set to reduce harvest losses and chemical-related health risks, thanks to a first-of-its-kind tomato leaf dataset comprising almost 9,000 images.",
+      "url": "https://phys.org/news/2026-08-ai-tomato-diseases-field-images.html"
+    },
+    {
+      "category": "Science",
+      "title": "TikTok video leads to discovery of rare underground eel in India",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Mon, 17 Aug 2026 12:00:01 EDT",
+      "summary": "Researchers have discovered a new genus and species of underground earthworm eel living beneath the Indo-Gangetic Plain in Bihar, northern India. The small, colorless creature, named Gangaichthys indonepalicus, is the first subterranean fish recorded from the Gangetic Basin.",
+      "url": "https://phys.org/news/2026-08-tiktok-video-discovery-rare-underground.html"
+    },
+    {
+      "category": "Space",
+      "title": " The 1st 'Star Wars: Ahsoka' season 2 trailer finally gives us a release date (video) ",
+      "source": " Latest from Space.com ",
+      "date": "Mon, 17 Aug 2026 16:00:00 +0000",
+      "summary": "Our first look at 'Star Wars: Ahsoka' season 2 promises huge space battles, Clone Wars flashbacks, and a lot more Anakin Skywalker.",
+      "url": "https://www.space.com/entertainment/space-movies-shows/the-1st-star-wars-ahsoka-season-2-trailer-finally-gives-us-a-release-date"
+    },
+    {
+      "category": "AI",
+      "title": "Universal Health Coverage Could Save $1T and 114,000 Lives a Year, Yale Study",
+      "source": "Hacker News: Front Page",
+      "date": "Mon, 17 Aug 2026 15:49:57 +0000",
+      "summary": "Article URL: https://ysph.yale.edu/news-article/universal-health-coverage-could-save-one-trillion-dollars-and-114000-lives-every-year/\nComments URL: https://news.ycombinator.com/item?id=49332981\nPoints: 87\n# Comments: 53",
+      "url": "https://ysph.yale.edu/news-article/universal-health-coverage-could-save-one-trillion-dollars-and-114000-lives-every-year/"
+    },
+    {
+      "category": "Science",
+      "title": "Australia needs more people who think like scientists—here's what that means",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Mon, 17 Aug 2026 11:40:08 EDT",
+      "summary": "How we think and feel about science develops from an early age—and we never know where that early interest might take us.",
+      "url": "https://phys.org/news/2026-08-australia-people-scientists.html"
+    },
+    {
+      "category": "AI",
+      "title": "Launch HN: Speko (YC S26) – OpenRouter for Voice AI",
+      "source": "Hacker News: Front Page",
+      "date": "Mon, 17 Aug 2026 15:36:18 +0000",
+      "summary": "Hi HN! I'm Bek, founder of Speko, a platform that finds an optimal combination of speech-to-text, LLM, and text-to-speech models, given your constraints, among all our public benchmarked options, and tells you why.\nDemo: https://youtu.be/no2LY2gRh-c\nLink: https://speko.ai/?utm_source=hn\nTypical production voice agent is an ensemble of three models: STT, an LLM, and TTS.\nEach of those layers offers a dozen credible vendors, and each month there are new models on the market. Almost everyone evaluates once, picks a stack of their choice, and never rechecks because switching from a vendor to another involves yet another integration and arguments about the numbers.\nThe result is that you use voice agents running last quarter's models while better and cheaper options are available.\nBefore founding Speko, I spent four years as cofounder and CTO building voice agents for enterprises across Asia in 10+ languages. Each time a new speech model would arrive, we repeated the same ritual: hire native-speaking raters, benchmark it against our existing stack, and update production if it improved. Speko turns this process into an API. A team running thousands of calls a day told us: \"we can literally go to this dashboard, switch the model, and it will do it for us.\"\nHow it works: you send a request with your optimization criteria (accuracy, latency, cost or balanced), language and region. The router filters to models which we measured for the given combination of constraints, benchmarks them, selects the winner, and returns a response with headers containing provider, model names, and the scores. The gateway prefetches signed session plans, so a new session dials the provider straight from memory; no control-plane round trip while a caller waits.\nFailover happens only during connection setup stage: if the provider refuses the connection attempt, we start connecting to the runners-up.\nSome of the customer stories: one founder came to us not knowing what to pick at all: he gave us his use case and now routes everything through the platform. A property management AI runs LiveKit in Python and had not updated STT or TTS since launch: they did not know their STT had high error rates on their calls, better options existed, and swapping always looked like an R&D project. One team did not know which models to pick for Spanish. A medical team did not know which STT handles medical vocabulary best. In every case we helped find the right stack from the benchmarks, and now they route through us.\nThe measuring part is public: we pass the same inputs to every model in one region in different dated runs and we publish the boards, including those where our selections perform worse than alternatives. A launch demo answers which 30-second clip sounds better; production asks which model survives minute eight, so we test spontaneous speech, money and dates, ten-minute takes, and the rankings change. We trained an automatic scorer for TTS naturalness on our blind head-to-head listening votes; on providers it has never seen a vote for, it picks the same winner our raters do about as often as raters agree with each other.\nWe don't train or sell models ourselves, that's precisely how we keep our rankings impartial.\nWe also open sourced the gateway for teams who want to avoid an extra network hop on the audio path and don't want to share keys with our cloud (https://github.com/SpekoAI/gateway, MIT): one Go binary, which is running as a sidecar in your agent's container, speaks one local protocol over Unix socket, pins provider hosts and attaches your keys. In BYOK mode it doesn't communicate with us at all.\nNotice that the anonymous, content-free telemetry is enabled by default, and one env var disables it.\nCost: the gateway and BYOK setup will be free forever, we charge for the hosted router and managed keys with consolidated billing. Since we started the batch in late June, external usage has grown about 25 percent per week on average, front-loaded toward the launch weeks.\nI would love feedback from the community: how do you pick speech models now, and what makes you trust the third-party benchmark?\nComments URL: https://news.ycombinator.com/item?id=49332751\nPoints: 13\n# Comments: 3",
+      "url": "https://news.ycombinator.com/item?id=49332751"
+    },
+    {
+      "category": "AI",
+      "title": "This sub-$7,000 sportscar might be just what the future needs",
+      "source": "Ars Technica - All content",
+      "date": "Mon, 17 Aug 2026 15:01:25 +0000",
+      "summary": "The Gasolini AR1 uses 2-cylinder Honda bike engine, and an EV is underway, too.",
+      "url": "https://arstechnica.com/cars/2026/08/the-opposite-of-a-hypercar-is-fun-meet-the-gasolini-ar1/"
+    },
+    {
+      "category": "Science",
+      "title": " 1,700-year-old church discovered under a lake in Turkey may be the location of the First Council of Nicaea — but other experts disagree ",
+      "source": " Latest from Live Science ",
+      "date": "Mon, 17 Aug 2026 15:00:00 +0000",
+      "summary": "A small church discovered beneath a larger one may have hosted one of the most important meetings in the history of Christianity, but some scholars not involved with the excavation disagree.",
+      "url": "https://www.livescience.com/archaeology/middle-east/1-700-year-old-church-discovered-under-a-lake-in-turkey-may-be-the-location-of-the-first-council-of-nicaea-but-other-experts-disagree"
+    },
+    {
+      "category": "Space",
+      "title": " Scientists find 3 supermassive black holes on the verge of collision inside a distant galaxy ",
+      "source": " Latest from Space.com ",
+      "date": "Mon, 17 Aug 2026 15:00:00 +0000",
+      "summary": "A greedy galaxy that existed less than 1.3 billion years after the Big Bang is hoarding supermassive black holes.",
+      "url": "https://www.space.com/astronomy/black-holes/scientists-find-3-supermassive-black-holes-on-the-verge-of-collision-inside-a-distant-galaxy"
+    },
+    {
+      "category": "AI",
+      "title": "Qwen3.8-27B at 256K on a 24GB RTX PRO 4000 SFF (432 GB/s): 50 tok/s with MTP",
+      "source": "Hacker News: Front Page",
+      "date": "Mon, 17 Aug 2026 14:29:18 +0000",
+      "summary": "Article URL: https://piszczek.pl/blog/qwen38-27b-256k-50-tps-24gb-gpu\nComments URL: https://news.ycombinator.com/item?id=49331607\nPoints: 27\n# Comments: 16",
+      "url": "https://piszczek.pl/blog/qwen38-27b-256k-50-tps-24gb-gpu"
+    },
+    {
+      "category": "AI",
+      "title": "Nvidia discloses $21B stake in SpaceX",
+      "source": "Ars Technica - All content",
+      "date": "Mon, 17 Aug 2026 14:22:54 +0000",
+      "summary": "Filing comes after Elon Musk announced exclusive arrangement to kit out its data centers.",
+      "url": "https://arstechnica.com/information-technology/2026/08/nvidia-discloses-21b-stake-in-spacex/"
+    },
+    {
+      "category": "Space",
+      "title": " These eight Lego Star Wars Smart Play sets are out now and Marvel needs to be next. ",
+      "source": " Latest from Space.com ",
+      "date": "Mon, 17 Aug 2026 14:00:00 +0000",
+      "summary": "From all-in-one to compatible sets, these are the eight Lego Star Wars Smart Play sets you won't want to miss.",
+      "url": "https://www.space.com/stargazing/skywatching-kit/these-eight-lego-star-wars-smart-play-sets-are-out-now-and-marvel-needs-to-be-next"
+    },
+    {
+      "category": "AI",
+      "title": "Meet the only known trebuchet casualty in history",
+      "source": "Ars Technica - All content",
+      "date": "Mon, 17 Aug 2026 13:41:35 +0000",
+      "summary": "\"It highlights the brutality of medieval warfare,\" said paleopathologist Jo Buckberry.",
+      "url": "https://arstechnica.com/science/2026/08/meet-the-only-known-trebuchet-casualty-in-history/"
+    },
+    {
+      "category": "Science",
+      "title": " Skeleton with 167 fractures discovered at Scottish castle may have been first victim of Edward I's 'War Wolf' trebuchet ",
+      "source": " Latest from Live Science ",
+      "date": "Mon, 17 Aug 2026 13:00:00 +0000",
+      "summary": "Dozens of fractures in a medieval skeleton found buried near a castle suggest the person may have been killed by a direct trebuchet hit.",
+      "url": "https://www.livescience.com/archaeology/skeleton-with-167-fractures-discovered-at-scottish-castle-may-have-been-first-victim-of-edward-is-war-wolf-trebuchet"
+    },
+    {
+      "category": "Science",
+      "title": "Webb’s mysterious little red dots may be hiding entire galaxies",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Mon, 17 Aug 2026 08:56:43 EDT",
+      "summary": "Astronomers may finally have a clue to what happens to the mysterious “little red dots” that crowded the early universe. By studying a spiral galaxy nicknamed the “Saguaro,” researchers found a compact, bright red center that closely resembles these distant objects—but with something Webb usually can’t see around them: a full galaxy. When the team simulated what the Saguaro would look like much farther away, its spiral structure essentially vanished, leaving only the bright red core.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260815064808.htm"
+    },
+    {
+      "category": "Science",
+      "title": "Tiny 1.7-billion-year-old fossils could reveal how complex life began",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Mon, 17 Aug 2026 08:40:17 EDT",
+      "summary": "Scientists are searching some of Earth’s oldest rocks for tiny fossils that could reveal how simple microbial life made the extraordinary leap toward plants, animals, and other complex organisms. Solving that ancient mystery may also help determine whether complex life could emerge on worlds beyond Earth.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260815064811.htm"
+    },
+    {
+      "category": "Biblical Studies",
+      "title": "Bathing Complex Discovered at Egypt’s Tel Nasser",
+      "source": "Biblical Archaeology Society",
+      "date": "Mon, 17 Aug 2026 10:45:03 +0000",
+      "summary": "The Egyptian Ministry of Tourism and Antiquities announced the discovery of a bathing complex at Tel Nasser in the Port Said area of the eastern […]\nThe post Bathing Complex Discovered at Egypt’s Tel Nasser appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-egypt/bathing-complex-discovered-at-egypts-tel-nasser/"
+    },
+    {
+      "category": "Biblical Studies",
+      "title": "An Egyptian Queen in Jerusalem",
+      "source": "Biblical Archaeology Society",
+      "date": "Mon, 17 Aug 2026 10:00:41 +0000",
+      "summary": "“Of Queen Berenice” reads the reverse of this solid gold coin discovered in the Givati Parking Lot excavations in Jerusalem. Minted for Queen Berenice II […]\nThe post An Egyptian Queen in Jerusalem appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/daily/an-egyptian-queen-in-jerusalem/"
+    },
     {
       "category": "Science",
       "title": " Fire-flame vessel: An exquisitely crafted 4,500-year-old pot from a mysterious culture in Japan ",
@@ -11,68 +155,20 @@
       "url": "https://www.livescience.com/archaeology/fire-flame-vessel-an-exquisitely-crafted-4-500-year-old-pot-from-a-mysterious-culture-in-japan"
     },
     {
-      "category": "Space",
-      "title": " 'This is unprecedented': Why the Pentagon's recent UFO file releases are so important ",
-      "source": " Latest from Space.com ",
-      "date": "Mon, 17 Aug 2026 10:00:00 +0000",
-      "summary": "The Pentagon's recent spate of UFO releases represent a big shift and are of great benefit to the country, according to disclosure advocate Mike Gold.",
-      "url": "https://www.space.com/space-exploration/search-for-life/this-is-unprecedented-why-the-pentagons-recent-ufo-file-releases-are-so-important"
-    },
-    {
-      "category": "Space",
-      "title": " Blue Origin adding second pad to Cape Canaveral launch complex amid rocket explosion repairs ",
-      "source": " Latest from Space.com ",
-      "date": "Mon, 17 Aug 2026 10:00:00 +0000",
-      "summary": "As Blue Origin continues to repair its New Glenn launch pad following the rocket's explosion in May, the company has announced plans to build a second pad at the same complex to support the bigger, more powerful New Glenn \"9x4\" variant.",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/blue-origin-adding-second-pad-to-cape-canaveral-launch-complex-amid-rocket-explosion-repairs"
-    },
-    {
-      "category": "Science",
-      "title": " Elon Musk and Sam Altman claim we've reached the AI singularity. But how would we even know that happened? ",
-      "source": " Latest from Live Science ",
-      "date": "Mon, 17 Aug 2026 08:45:03 +0000",
-      "summary": "Scientists suggest it could take decades to achieve superintelligent AI, and doing so still depends on hypothetical breakthroughs. So why do some suggest we're already there?",
-      "url": "https://www.livescience.com/technology/artificial-intelligence/elon-musk-and-sam-altman-claim-weve-reached-the-ai-singularity-but-how-would-we-even-know-that-happened"
-    },
-    {
-      "category": "Science",
-      "title": "The Nigerian fishing community being eaten up by the Atlantic",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Mon, 17 Aug 2026 03:40:01 EDT",
-      "summary": "The beach shrinks every year in Ayetoro, in southern Nigeria, and what is left is peppered with the remains of homes swallowed by the ocean—some years ago, some just months prior.",
-      "url": "https://phys.org/news/2026-08-nigerian-fishing-community-eaten-atlantic.html"
+      "category": "AI",
+      "title": "The Defender’s Window",
+      "source": "OpenAI News",
+      "date": "Mon, 17 Aug 2026 05:30:00 GMT",
+      "summary": "AI is reshaping cybersecurity for attackers and defenders alike. Learn how OpenAI is strengthening its defenses and what security teams can do now.",
+      "url": "https://openai.com/index/the-defenders-window"
     },
     {
       "category": "AI",
-      "title": "HackEurope 2026: A short rant on AI and hackathons",
-      "source": "Hacker News: Front Page",
-      "date": "Mon, 17 Aug 2026 07:28:43 +0000",
-      "summary": "Article URL: https://duti.dev/blog/2026/spr/\nComments URL: https://news.ycombinator.com/item?id=49327490\nPoints: 40\n# Comments: 32",
-      "url": "https://duti.dev/blog/2026/spr/"
-    },
-    {
-      "category": "Science",
-      "title": "Hawaii recovery efforts begin as Lala is downgraded, moves west",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Mon, 17 Aug 2026 03:28:35 EDT",
-      "summary": "Clean-up efforts were underway Sunday as Hurricane Lala, which was downgraded to a tropical storm, rolled past Hawaii's Big Island and dumped heavy rain across the U.S. Pacific state.",
-      "url": "https://phys.org/news/2026-08-hawaii-recovery-efforts-lala-downgraded.html"
-    },
-    {
-      "category": "Science",
-      "title": "Scientists tracked kids for 8 years — the screen time result was unexpected",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Mon, 17 Aug 2026 02:41:08 EDT",
-      "summary": "An eight-year Finnish study found that children who spent more time on screens tended to show better cognitive processing as teenagers, challenging common assumptions about screen use. Researchers say the key may be balancing physical activity with screen activities that encourage learning, creativity, and active thinking.",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260815064803.htm"
-    },
-    {
-      "category": "AI",
-      "title": "Linear algebra done right",
-      "source": "Hacker News: Front Page",
-      "date": "Mon, 17 Aug 2026 05:21:34 +0000",
-      "summary": "Article URL: https://linear.axler.net/\nComments URL: https://news.ycombinator.com/item?id=49326816\nPoints: 85\n# Comments: 36",
-      "url": "https://linear.axler.net/"
+      "title": "OpenAI joins PORTS-Pike project",
+      "source": "OpenAI News",
+      "date": "Mon, 17 Aug 2026 05:00:00 GMT",
+      "summary": "OpenAI joins PORTS-Pike project, expanding community investment and supporting thousands of Southern Ohio jobs",
+      "url": "https://openai.com/index/openai-joins-ports-pike-project"
     },
     {
       "category": "Theology",
@@ -92,27 +188,11 @@
     },
     {
       "category": "AI",
-      "title": "GIMP Development Update",
-      "source": "Hacker News: Front Page",
-      "date": "Mon, 17 Aug 2026 03:08:47 +0000",
-      "summary": "Article URL: https://www.gimp.org/news/2026/08/16/dev-update-august-2026/\nComments URL: https://news.ycombinator.com/item?id=49326156\nPoints: 178\n# Comments: 124",
-      "url": "https://www.gimp.org/news/2026/08/16/dev-update-august-2026/"
-    },
-    {
-      "category": "Science",
-      "title": "Giant crocodylians dominated the food chain in Miocene South America, fossil evidence suggests",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sun, 16 Aug 2026 21:00:04 EDT",
-      "summary": "South America was a frightening place during the Miocene. More than 10 million years ago, a vast lake covered much of the continent, home to giant turtles and crocodylians.",
-      "url": "https://phys.org/news/2026-08-giant-crocodylians-dominated-food-chain.html"
-    },
-    {
-      "category": "Space",
-      "title": " How to watch 'Lanterns' — HBO's gritty new Green Lantern show ",
-      "source": " Latest from Space.com ",
-      "date": "Sun, 16 Aug 2026 23:02:58 +0000",
-      "summary": "Hal Jordan and John Stewart don the classic green in this new hardboiled space cop mystery",
-      "url": "https://www.space.com/entertainment/space-movies-shows/how-to-watch-lanterns-hbos-gritty-new-green-lantern-show"
+      "title": "New policy ideas for the Intelligence Age",
+      "source": "OpenAI News",
+      "date": "Mon, 17 Aug 2026 03:15:00 GMT",
+      "summary": "OpenAI funds 14 independent projects exploring new AI policy ideas to expand economic opportunity and strengthen societal resilience in the Intelligence Age.",
+      "url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age"
     },
     {
       "category": "History",
@@ -123,28 +203,12 @@
       "url": "https://allthingsliberty.com/2026/08/james-selkirks-revolutionary-war/"
     },
     {
-      "category": "Science",
-      "title": " 'There's a sense that these algorithms are objective and they get to know you': How social media warps our understanding of healthcare ",
-      "source": " Latest from Live Science ",
-      "date": "Sun, 16 Aug 2026 11:00:00 +0000",
-      "summary": "Editor Hannah Osborne spoke with investigative journalist Dr. Deborah Cohen about her new book, \"Bad Influence: How the Internet Hijacked Our Health.\"",
-      "url": "https://www.livescience.com/health/theres-a-sense-that-these-algorithms-are-objective-and-they-get-to-know-you-how-social-media-warps-our-understanding-of-healthcare"
-    },
-    {
-      "category": "AI",
-      "title": "Wildfire smoke now bigger prenatal threat than human sources of air pollution",
-      "source": "Ars Technica - All content",
-      "date": "Sun, 16 Aug 2026 10:00:59 +0000",
-      "summary": "Regulations reduced prenatal exposure to harmful emissions, but wildfire smoke is erasing gains.",
-      "url": "https://arstechnica.com/science/2026/08/wildfire-smoke-now-bigger-prenatal-threat-than-human-sources-of-air-pollution/"
-    },
-    {
-      "category": "Science",
-      "title": "Physicists discover a hidden gluon structure inside protons that could rewrite textbooks",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Sun, 16 Aug 2026 05:55:45 EDT",
-      "summary": "Physicists may have uncovered a hidden feature inside protons that helps preserve one of matter’s most fundamental properties. RHIC collision data suggest baryon number is carried not simply by three quarks, but by a Y-shaped junction of the gluons connecting them. The finding challenges a decades-old textbook picture and could deepen our understanding of why protons—and ultimately matter itself—remain stable.",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260815064805.htm"
+      "category": "Biblical Studies",
+      "title": "Speaking in Tongues in the Bible",
+      "source": "Biblical Archaeology Society",
+      "date": "Sun, 16 Aug 2026 11:00:24 +0000",
+      "summary": "Ben Witherington III addresses what happened at Pentecost in his Biblical Views column “Speaking in the Tongues of Men or Angels?” \nThe post Speaking in Tongues in the Bible appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/daily/biblical-topics/new-testament/speaking-in-tongues-in-the-bible/"
     },
     {
       "category": "Science",
@@ -163,76 +227,12 @@
       "url": "https://www.thegospelcoalition.org/article/weakness-gods-invitation/"
     },
     {
-      "category": "AI",
-      "title": "VisionQuest trailer kicks off Disney's D23 fan event",
-      "source": "Ars Technica - All content",
-      "date": "Sat, 15 Aug 2026 21:21:27 +0000",
-      "summary": "Also: Ahsoka S2 teaser, Doomsday trailer, news about MCU's X-Men and Star Wars: Starfighter",
-      "url": "https://arstechnica.com/culture/2026/08/visionquest-trailer-kicks-off-disneys-d23-fan-event/"
-    },
-    {
-      "category": "AI",
-      "title": "Ukraine strikes major Russian rocket factory with cruise missiles",
-      "source": "Ars Technica - All content",
-      "date": "Sat, 15 Aug 2026 15:46:05 +0000",
-      "summary": "\"Flamingo missiles were used. A good achievement.\"",
-      "url": "https://arstechnica.com/space/2026/08/ukraine-strikes-major-russian-rocket-factory-with-cruise-missiles/"
-    },
-    {
-      "category": "Biblical Studies",
-      "title": "“Olympic” Pool Found in Western Turkey",
-      "source": "Biblical Archaeology Society",
-      "date": "Fri, 14 Aug 2026 10:45:24 +0000",
-      "summary": "A monumental open-air pool, discovered at the ancient city of Tralleis in western Turkey, looks remarkably like a modern pool. Yet, this familiar setting belonged […]\nThe post “Olympic” Pool Found in Western Turkey appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-rome/olympic-pool-western-turkey/"
-    },
-    {
-      "category": "Biblical Studies",
-      "title": "Biblical Family Tree or Ancient Map?",
-      "source": "Biblical Archaeology Society",
-      "date": "Fri, 14 Aug 2026 10:00:22 +0000",
-      "summary": "What is a biblical family tree if not a family tree? Genesis 10 famously presents the so-called “Table of Nations,” a long list of the […]\nThe post Biblical Family Tree or Ancient Map? appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-near-eastern-world/biblical-family-tree-or-ancient-map/"
-    },
-    {
       "category": "Theology",
       "title": "Ten Ways to Savor Sundays",
       "source": "9Marks",
       "date": "Fri, 14 Aug 2026 05:22:32 +0000",
       "summary": "Gathering with God’s people provides a rest that physical inactivity cannot provide. It’s a rest that reinvigorates your soul, not just your body.\nThe post Ten Ways to Savor Sundays appeared first on 9Marks.",
       "url": "https://www.9marks.org/article/ten-ways-to-savor-sundays/?utm_source=rss&utm_medium=rss&utm_campaign=ten-ways-to-savor-sundays"
-    },
-    {
-      "category": "Biblical Studies",
-      "title": "Mark and John: A Wedding at Cana—Whose and Where?",
-      "source": "Biblical Archaeology Society",
-      "date": "Thu, 13 Aug 2026 11:00:38 +0000",
-      "summary": "James Tabor discusses the wedding at Cana from the Gospels of Mark and John. Whose wedding was this and why were Jesus and his family present?\nThe post Mark and John: A Wedding at Cana—Whose and Where? appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/daily/people-cultures-in-the-bible/jesus-historical-jesus/mark-and-john-a-wedding-at-cana-whose-and-where/"
-    },
-    {
-      "category": "AI",
-      "title": "The builder’s guide to GPT‑5.6",
-      "source": "OpenAI News",
-      "date": "Thu, 13 Aug 2026 11:00:00 GMT",
-      "summary": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.",
-      "url": "https://openai.com/index/builders-guide-to-gpt-5-6"
-    },
-    {
-      "category": "AI",
-      "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
-      "source": "OpenAI News",
-      "date": "Thu, 13 Aug 2026 10:00:00 GMT",
-      "summary": "Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14× faster. Powered by Cerebras, it delivers up to 750 output tokens per second.",
-      "url": "https://openai.com/index/previewing-ultrafast"
-    },
-    {
-      "category": "AI",
-      "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
-      "source": "OpenAI News",
-      "date": "Thu, 13 Aug 2026 09:00:00 GMT",
-      "summary": "OpenAI appoints Dali Rajic as Chief Revenue Officer to lead its global revenue organization and help businesses realize the full value of AI.",
-      "url": "https://openai.com/index/dali-rajic-chief-revenue-officer"
     },
     {
       "category": "History",
