@@ -1,62 +1,142 @@
 {
-  "lastUpdated": "2026-08-17T16:18:34.653Z",
-  "articleCount": 36,
+  "lastUpdated": "2026-08-17T22:16:25.039Z",
+  "articleCount": 39,
   "articles": [
     {
       "category": "Science",
-      "title": "AI learns to spot tomato diseases using nearly 9,000 field images",
+      "title": "A weakening Atlantic Ocean current system could accelerate Earth's warming",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Mon, 17 Aug 2026 12:00:07 EDT",
-      "summary": "A breakthrough in AI-driven crop disease detection is set to reduce harvest losses and chemical-related health risks, thanks to a first-of-its-kind tomato leaf dataset comprising almost 9,000 images.",
-      "url": "https://phys.org/news/2026-08-ai-tomato-diseases-field-images.html"
+      "date": "Mon, 17 Aug 2026 18:10:01 EDT",
+      "summary": "A current system in the Atlantic Ocean that shapes regional climates and distributes ocean nutrients also serves as a control knob to help regulate temperatures across the planet, new research has found.",
+      "url": "https://phys.org/news/2026-08-weakening-atlantic-ocean-current-earth.html"
+    },
+    {
+      "category": "History",
+      "title": "American Whig Ideology and Canadian Participation in the American Revolution",
+      "source": "Journal of the American Revolution",
+      "date": "Mon, 17 Aug 2026 22:00:31 +0000",
+      "summary": "In 1783, the Second Canadian, also known as Congress’s Own Regiment or Hazen’s Infernals, was a combination of two regiments formed in 1775 and 1776 for the Continental Army.[1] During the American Revolution its members fought in battles across the Upper and Middle former colonies. By the end of the war, they were a motley […]\nThe post American Whig Ideology and Canadian Participation in the American Revolution appeared first on Journal of the American Revolution.",
+      "url": "https://allthingsliberty.com/2026/08/american-whig-ideology-and-canadian-participation-in-the-american-revolution/"
     },
     {
       "category": "Science",
-      "title": "TikTok video leads to discovery of rare underground eel in India",
+      "title": "Researchers identify ways to reduce the lag between biodiversity data and action",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Mon, 17 Aug 2026 12:00:01 EDT",
-      "summary": "Researchers have discovered a new genus and species of underground earthworm eel living beneath the Indo-Gangetic Plain in Bihar, northern India. The small, colorless creature, named Gangaichthys indonepalicus, is the first subterranean fish recorded from the Gangetic Basin.",
-      "url": "https://phys.org/news/2026-08-tiktok-video-discovery-rare-underground.html"
+      "date": "Mon, 17 Aug 2026 18:00:04 EDT",
+      "summary": "Biodiversity is enormously diverse, unevenly observed and constantly in motion across space and time. This makes it far harder to monitor than many other parts of the environment. As a result, managing biodiversity often depends on information that is incomplete, delayed or unevenly distributed. At the very moment when rapid change makes timely knowledge more valuable, systems for collecting, identifying, publishing and using biodiversity data often struggle to keep pace.",
+      "url": "https://phys.org/news/2026-08-ways-lag-biodiversity-action.html"
+    },
+    {
+      "category": "Science",
+      "title": "Can computers learn what makes the most iconic jazz musicians stand out?",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Mon, 17 Aug 2026 18:00:01 EDT",
+      "summary": "Machine learning models can identify jazz pianists from recordings and reveal the musical \"fingerprints\" that make individual performers recognizable, according to a study investigating 20 famous jazz pianists. The research, published in Nature Machine Intelligence, could offer insight into artist attribution and style, cultural heritage, and music education.",
+      "url": "https://phys.org/news/2026-08-iconic-jazz-musicians.html"
+    },
+    {
+      "category": "Science",
+      "title": " Do you think social media bans will protect children? ",
+      "source": " Latest from Live Science ",
+      "date": "Mon, 17 Aug 2026 21:30:15 +0000",
+      "summary": "Australia recently passed a law banning social media for children and younger teens, and other countries may follow suit. But do you think such bans will work?",
+      "url": "https://www.livescience.com/health/do-you-think-social-media-bans-will-protect-children"
     },
     {
       "category": "Space",
-      "title": " The 1st 'Star Wars: Ahsoka' season 2 trailer finally gives us a release date (video) ",
+      "title": " How an ancient collision with another galaxy transformed the Milky Way ",
       "source": " Latest from Space.com ",
-      "date": "Mon, 17 Aug 2026 16:00:00 +0000",
-      "summary": "Our first look at 'Star Wars: Ahsoka' season 2 promises huge space battles, Clone Wars flashbacks, and a lot more Anakin Skywalker.",
-      "url": "https://www.space.com/entertainment/space-movies-shows/the-1st-star-wars-ahsoka-season-2-trailer-finally-gives-us-a-release-date"
+      "date": "Mon, 17 Aug 2026 21:00:00 +0000",
+      "summary": "The Milky Way has a secret history of galaxy mergers that we are only now starting to uncover.",
+      "url": "https://www.space.com/astronomy/galaxies/how-an-ancient-collision-with-another-galaxy-transformed-the-milky-way"
     },
     {
       "category": "AI",
-      "title": "Universal Health Coverage Could Save $1T and 114,000 Lives a Year, Yale Study",
-      "source": "Hacker News: Front Page",
-      "date": "Mon, 17 Aug 2026 15:49:57 +0000",
-      "summary": "Article URL: https://ysph.yale.edu/news-article/universal-health-coverage-could-save-one-trillion-dollars-and-114000-lives-every-year/\nComments URL: https://news.ycombinator.com/item?id=49332981\nPoints: 87\n# Comments: 53",
-      "url": "https://ysph.yale.edu/news-article/universal-health-coverage-could-save-one-trillion-dollars-and-114000-lives-every-year/"
-    },
-    {
-      "category": "Science",
-      "title": "Australia needs more people who think like scientists—here's what that means",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Mon, 17 Aug 2026 11:40:08 EDT",
-      "summary": "How we think and feel about science develops from an early age—and we never know where that early interest might take us.",
-      "url": "https://phys.org/news/2026-08-australia-people-scientists.html"
-    },
-    {
-      "category": "AI",
-      "title": "Launch HN: Speko (YC S26) – OpenRouter for Voice AI",
-      "source": "Hacker News: Front Page",
-      "date": "Mon, 17 Aug 2026 15:36:18 +0000",
-      "summary": "Hi HN! I'm Bek, founder of Speko, a platform that finds an optimal combination of speech-to-text, LLM, and text-to-speech models, given your constraints, among all our public benchmarked options, and tells you why.\nDemo: https://youtu.be/no2LY2gRh-c\nLink: https://speko.ai/?utm_source=hn\nTypical production voice agent is an ensemble of three models: STT, an LLM, and TTS.\nEach of those layers offers a dozen credible vendors, and each month there are new models on the market. Almost everyone evaluates once, picks a stack of their choice, and never rechecks because switching from a vendor to another involves yet another integration and arguments about the numbers.\nThe result is that you use voice agents running last quarter's models while better and cheaper options are available.\nBefore founding Speko, I spent four years as cofounder and CTO building voice agents for enterprises across Asia in 10+ languages. Each time a new speech model would arrive, we repeated the same ritual: hire native-speaking raters, benchmark it against our existing stack, and update production if it improved. Speko turns this process into an API. A team running thousands of calls a day told us: \"we can literally go to this dashboard, switch the model, and it will do it for us.\"\nHow it works: you send a request with your optimization criteria (accuracy, latency, cost or balanced), language and region. The router filters to models which we measured for the given combination of constraints, benchmarks them, selects the winner, and returns a response with headers containing provider, model names, and the scores. The gateway prefetches signed session plans, so a new session dials the provider straight from memory; no control-plane round trip while a caller waits.\nFailover happens only during connection setup stage: if the provider refuses the connection attempt, we start connecting to the runners-up.\nSome of the customer stories: one founder came to us not knowing what to pick at all: he gave us his use case and now routes everything through the platform. A property management AI runs LiveKit in Python and had not updated STT or TTS since launch: they did not know their STT had high error rates on their calls, better options existed, and swapping always looked like an R&D project. One team did not know which models to pick for Spanish. A medical team did not know which STT handles medical vocabulary best. In every case we helped find the right stack from the benchmarks, and now they route through us.\nThe measuring part is public: we pass the same inputs to every model in one region in different dated runs and we publish the boards, including those where our selections perform worse than alternatives. A launch demo answers which 30-second clip sounds better; production asks which model survives minute eight, so we test spontaneous speech, money and dates, ten-minute takes, and the rankings change. We trained an automatic scorer for TTS naturalness on our blind head-to-head listening votes; on providers it has never seen a vote for, it picks the same winner our raters do about as often as raters agree with each other.\nWe don't train or sell models ourselves, that's precisely how we keep our rankings impartial.\nWe also open sourced the gateway for teams who want to avoid an extra network hop on the audio path and don't want to share keys with our cloud (https://github.com/SpekoAI/gateway, MIT): one Go binary, which is running as a sidecar in your agent's container, speaks one local protocol over Unix socket, pins provider hosts and attaches your keys. In BYOK mode it doesn't communicate with us at all.\nNotice that the anonymous, content-free telemetry is enabled by default, and one env var disables it.\nCost: the gateway and BYOK setup will be free forever, we charge for the hosted router and managed keys with consolidated billing. Since we started the batch in late June, external usage has grown about 25 percent per week on average, front-loaded toward the launch weeks.\nI would love feedback from the community: how do you pick speech models now, and what makes you trust the third-party benchmark?\nComments URL: https://news.ycombinator.com/item?id=49332751\nPoints: 13\n# Comments: 3",
-      "url": "https://news.ycombinator.com/item?id=49332751"
-    },
-    {
-      "category": "AI",
-      "title": "This sub-$7,000 sportscar might be just what the future needs",
+      "title": "The Moon's shadow raced across the heart of Spain, and I was there to see it",
       "source": "Ars Technica - All content",
-      "date": "Mon, 17 Aug 2026 15:01:25 +0000",
-      "summary": "The Gasolini AR1 uses 2-cylinder Honda bike engine, and an EV is underway, too.",
-      "url": "https://arstechnica.com/cars/2026/08/the-opposite-of-a-hypercar-is-fun-meet-the-gasolini-ar1/"
+      "date": "Mon, 17 Aug 2026 20:23:09 +0000",
+      "summary": "Here's what it was like watching a total solar eclipse 90 minutes north of Madrid.",
+      "url": "https://arstechnica.com/space/2026/08/the-moons-shadow-raced-across-the-heart-of-spain-and-i-was-there-to-see-it/"
+    },
+    {
+      "category": "Space",
+      "title": "NASA Selects Companies to Provide Payload Processing Services",
+      "source": "NASA",
+      "date": "Mon, 17 Aug 2026 20:17:20 +0000",
+      "summary": "NASA has selected four companies to provide payload processing facilities under the Spacecraft Processing Operations Contract on‑ramp provision. The provision enables qualified providers to offer commercial payload processing services for agency missions launching from multiple locations where capabilities were not available at the time of the initial contract award. Contract awardees are: Through the contract, […]",
+      "url": "https://www.nasa.gov/news-release/nasa-selects-companies-to-provide-payload-processing-services/"
+    },
+    {
+      "category": "AI",
+      "title": "As Wisconsin cities flee Flock, its shared camera network loses value",
+      "source": "Ars Technica - All content",
+      "date": "Mon, 17 Aug 2026 20:14:23 +0000",
+      "summary": "\"Network effect\" can run in reverse.",
+      "url": "https://arstechnica.com/tech-policy/2026/08/as-wisconsin-cities-flee-flock-its-shared-camera-network-loses-value/"
+    },
+    {
+      "category": "AI",
+      "title": "The Origin of Consciousness (2008)",
+      "source": "Hacker News: Front Page",
+      "date": "Mon, 17 Aug 2026 20:12:58 +0000",
+      "summary": "Article URL: https://blog.plover.com/brain/Jaynes.html\nComments URL: https://news.ycombinator.com/item?id=49336909\nPoints: 30\n# Comments: 15",
+      "url": "https://blog.plover.com/brain/Jaynes.html"
+    },
+    {
+      "category": "AI",
+      "title": "Supreme Court rejects Verizon bid for $47 million refund of FCC fine",
+      "source": "Ars Technica - All content",
+      "date": "Mon, 17 Aug 2026 20:00:20 +0000",
+      "summary": "Despite loss, carriers still claim selling device-location data isn't illegal.",
+      "url": "https://arstechnica.com/tech-policy/2026/08/supreme-court-rejects-verizon-bid-for-47-million-refund-of-fcc-fine/"
+    },
+    {
+      "category": "Space",
+      "title": " China bounces back from Long March rocket explosion with back-to-back launches (video) ",
+      "source": " Latest from Space.com ",
+      "date": "Mon, 17 Aug 2026 20:00:00 +0000",
+      "summary": "China's space program has returned to flight after an Aug. 10 Long March 7A rocket explosion, launching both a Long March 12 and a Long March 2C rocket on Sunday (Aug. 16).",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/china-bounces-back-from-long-march-rocket-explosion-with-back-to-back-launches-video"
+    },
+    {
+      "category": "Space",
+      "title": " The best Ruko drone to date is half-price at Amazon but you'll have to hurry ",
+      "source": " Latest from Space.com ",
+      "date": "Mon, 17 Aug 2026 19:56:04 +0000",
+      "summary": "Looking to take to the skies? This beginner-friendly Ruko F11 PRO 2 is a mind-blowing $280 off, but you'll have to hurry because this lightning deal ends soon.",
+      "url": "https://www.space.com/technology/drones/the-best-ruko-drone-to-date-is-half-price-at-amazon-but-youll-have-to-hurry"
+    },
+    {
+      "category": "AI",
+      "title": "AI;DR (AI; Didn't Read)",
+      "source": "Hacker News: Front Page",
+      "date": "Mon, 17 Aug 2026 19:47:15 +0000",
+      "summary": "Article URL: https://www.rickmanelius.com/p/aidr-ai-didnt-read\nComments URL: https://news.ycombinator.com/item?id=49336573\nPoints: 387\n# Comments: 235",
+      "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read"
+    },
+    {
+      "category": "AI",
+      "title": "India has paved the way for charging merchants a fee on UPI transactions",
+      "source": "Hacker News: Front Page",
+      "date": "Mon, 17 Aug 2026 19:25:11 +0000",
+      "summary": "Article URL: https://www.bbc.com/news/articles/c8xnwqe00v1o\nComments URL: https://news.ycombinator.com/item?id=49336304\nPoints: 67\n# Comments: 55",
+      "url": "https://www.bbc.com/news/articles/c8xnwqe00v1o"
+    },
+    {
+      "category": "Space",
+      "title": "NASA Mission Studies Air Pollution Over Ethiopia",
+      "source": "NASA",
+      "date": "Mon, 17 Aug 2026 19:24:34 +0000",
+      "summary": "A NASA-funded air pollution monitoring network has provided one of the most detailed long-term views yet of the role of black carbon, or soot produced by fires, diesel vehicles, and other combustion sources, in Ethiopia’s capital, Addis Ababa. The detailed measurements show how pollution changes by time of day and season, including increases associated with […]",
+      "url": "https://www.nasa.gov/missions/maia/nasa-mission-studies-air-pollution-over-ethiopia/"
+    },
+    {
+      "category": "Space",
+      "title": "Next Generation of Planetary Scientists Learn Public Engagement Skills",
+      "source": "NASA",
+      "date": "Mon, 17 Aug 2026 17:52:42 +0000",
+      "summary": "FORCE is a world-class laboratory that uses high-pressure experimental equipment to recreate the extreme conditions found deep within Earth and other planetary bodies, enabling researchers to better understand how planets form, evolve, and behave under immense pressures.",
+      "url": "https://science.nasa.gov/learning-resources/science-activation/next-generation-of-planetary-scientists-learn-public-engagement-skills/"
     },
     {
       "category": "Science",
@@ -65,46 +145,6 @@
       "date": "Mon, 17 Aug 2026 15:00:00 +0000",
       "summary": "A small church discovered beneath a larger one may have hosted one of the most important meetings in the history of Christianity, but some scholars not involved with the excavation disagree.",
       "url": "https://www.livescience.com/archaeology/middle-east/1-700-year-old-church-discovered-under-a-lake-in-turkey-may-be-the-location-of-the-first-council-of-nicaea-but-other-experts-disagree"
-    },
-    {
-      "category": "Space",
-      "title": " Scientists find 3 supermassive black holes on the verge of collision inside a distant galaxy ",
-      "source": " Latest from Space.com ",
-      "date": "Mon, 17 Aug 2026 15:00:00 +0000",
-      "summary": "A greedy galaxy that existed less than 1.3 billion years after the Big Bang is hoarding supermassive black holes.",
-      "url": "https://www.space.com/astronomy/black-holes/scientists-find-3-supermassive-black-holes-on-the-verge-of-collision-inside-a-distant-galaxy"
-    },
-    {
-      "category": "AI",
-      "title": "Qwen3.8-27B at 256K on a 24GB RTX PRO 4000 SFF (432 GB/s): 50 tok/s with MTP",
-      "source": "Hacker News: Front Page",
-      "date": "Mon, 17 Aug 2026 14:29:18 +0000",
-      "summary": "Article URL: https://piszczek.pl/blog/qwen38-27b-256k-50-tps-24gb-gpu\nComments URL: https://news.ycombinator.com/item?id=49331607\nPoints: 27\n# Comments: 16",
-      "url": "https://piszczek.pl/blog/qwen38-27b-256k-50-tps-24gb-gpu"
-    },
-    {
-      "category": "AI",
-      "title": "Nvidia discloses $21B stake in SpaceX",
-      "source": "Ars Technica - All content",
-      "date": "Mon, 17 Aug 2026 14:22:54 +0000",
-      "summary": "Filing comes after Elon Musk announced exclusive arrangement to kit out its data centers.",
-      "url": "https://arstechnica.com/information-technology/2026/08/nvidia-discloses-21b-stake-in-spacex/"
-    },
-    {
-      "category": "Space",
-      "title": " These eight Lego Star Wars Smart Play sets are out now and Marvel needs to be next. ",
-      "source": " Latest from Space.com ",
-      "date": "Mon, 17 Aug 2026 14:00:00 +0000",
-      "summary": "From all-in-one to compatible sets, these are the eight Lego Star Wars Smart Play sets you won't want to miss.",
-      "url": "https://www.space.com/stargazing/skywatching-kit/these-eight-lego-star-wars-smart-play-sets-are-out-now-and-marvel-needs-to-be-next"
-    },
-    {
-      "category": "AI",
-      "title": "Meet the only known trebuchet casualty in history",
-      "source": "Ars Technica - All content",
-      "date": "Mon, 17 Aug 2026 13:41:35 +0000",
-      "summary": "\"It highlights the brutality of medieval warfare,\" said paleopathologist Jo Buckberry.",
-      "url": "https://arstechnica.com/science/2026/08/meet-the-only-known-trebuchet-casualty-in-history/"
     },
     {
       "category": "Science",
@@ -145,14 +185,6 @@
       "date": "Mon, 17 Aug 2026 10:00:41 +0000",
       "summary": "“Of Queen Berenice” reads the reverse of this solid gold coin discovered in the Givati Parking Lot excavations in Jerusalem. Minted for Queen Berenice II […]\nThe post An Egyptian Queen in Jerusalem appeared first on Biblical Archaeology Society.",
       "url": "https://www.biblicalarchaeology.org/daily/an-egyptian-queen-in-jerusalem/"
-    },
-    {
-      "category": "Science",
-      "title": " Fire-flame vessel: An exquisitely crafted 4,500-year-old pot from a mysterious culture in Japan ",
-      "source": " Latest from Live Science ",
-      "date": "Mon, 17 Aug 2026 10:00:00 +0000",
-      "summary": "Archaeologists aren't sure why prehistoric people in Japan made these elaborate vessels decorated with flames.",
-      "url": "https://www.livescience.com/archaeology/fire-flame-vessel-an-exquisitely-crafted-4-500-year-old-pot-from-a-mysterious-culture-in-japan"
     },
     {
       "category": "AI",
@@ -249,14 +281,6 @@
       "date": "Wed, 12 Aug 2026 06:12:28 +0000",
       "summary": "Throughout these essays on digital media, three predicaments show up repeatedly: false digital discipleship, disembodied community, and the decay of contemplation.\nThe post Resurrection Power Amidst Digital Death appeared first on 9Marks.",
       "url": "https://www.9marks.org/review/resurrection-power-amidst-digital-death/?utm_source=rss&utm_medium=rss&utm_campaign=resurrection-power-amidst-digital-death"
-    },
-    {
-      "category": "History",
-      "title": "Gotthold Frederick Enslin: A Life Rebuilt",
-      "source": "Journal of the American Revolution",
-      "date": "Tue, 11 Aug 2026 10:00:18 +0000",
-      "summary": "Lieutenant Gotthold Frederick Enslin served less than a year in the Continental army, and if his name is remembered, it is most often invoked for how that career ended. In what was certainly one of the more painful moments in his life, George Washington had him drummed out of the army for attempted sodomy, the […]\nThe post Gotthold Frederick Enslin: A Life Rebuilt appeared first on Journal of the American Revolution.",
-      "url": "https://allthingsliberty.com/2026/08/gotthold-frederick-enslin-a-life-rebuilt/"
     },
     {
       "category": "Theology",
