@@ -1,30 +1,126 @@
 {
-  "lastUpdated": "2026-08-18T16:21:50.531Z",
-  "articleCount": 39,
+  "lastUpdated": "2026-08-18T22:14:29.860Z",
+  "articleCount": 36,
   "articles": [
     {
       "category": "Science",
-      "title": "The use of AI in biotechnology is changing faster than the rules governing either technology",
+      "title": "Rare satellite data reveal major limits in flood models",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Tue, 18 Aug 2026 12:20:09 EDT",
-      "summary": "The recent announcement of novel, viable viruses created by artificial intelligence (AI) was celebrated as a major advance in the fight against antibiotic resistance. But it also raised urgent concerns about regulation.",
-      "url": "https://phys.org/news/2026-08-ai-biotechnology-faster-technology.html"
+      "date": "Tue, 18 Aug 2026 18:10:01 EDT",
+      "summary": "The Kakhovka Dam in southern Ukraine was destroyed on June 6, 2023. The event unleashed a catastrophic flood that forced thousands of residents to evacuate their communities as water levels rose 10 feet (3 meters) above normal.",
+      "url": "https://phys.org/news/2026-08-rare-satellite-reveal-major-limits.html"
     },
     {
       "category": "Science",
-      "title": "New bone analysis challenges long-held theory on farming's arrival in Ireland and Great Britain",
+      "title": "New photonic crystal method improves single-photon sources for quantum networks",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Tue, 18 Aug 2026 12:20:07 EDT",
-      "summary": "New research led by University College Dublin has rewritten a key chapter in Irish prehistory, revealing that bones long thought to mark the beginning of farming in Ireland belong to bear and wild boar, not cattle.",
-      "url": "https://phys.org/news/2026-08-bone-analysis-held-theory-farming.html"
+      "date": "Tue, 18 Aug 2026 18:00:04 EDT",
+      "summary": "Quantum communication promises many advantages over today's standard technologies, including absolutely secure transmission of large amounts of data. However, it requires single photons—and generating them is very difficult. Researchers at the Technical University of Munich (TUM) and the Munich Center for Quantum Science and Technology (MCQST) have developed a new method that overcomes the problems of previous approaches.",
+      "url": "https://phys.org/news/2026-08-photonic-crystal-method-photon-sources.html"
     },
     {
       "category": "Science",
-      "title": "How only a few tree species drive Amazon forest recovery",
+      "title": "Before COVID-19, children's likelihood of coming in contact with the US child welfare system had already decreased",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Tue, 18 Aug 2026 12:18:28 EDT",
-      "summary": "When a destroyed section of the Amazon rainforest begins to recover, nature deploys only a few tree species that can withstand poor soil conditions and blazing sun and grow rapidly, a Brazilian study has shown.",
-      "url": "https://phys.org/news/2026-08-tree-species-amazon-forest-recovery.html"
+      "date": "Tue, 18 Aug 2026 18:00:01 EDT",
+      "summary": "A new study shows that fewer children had encounters with the U.S. child welfare system in the years before the start of the COVID-19 pandemic and that this decline continued over the following years.",
+      "url": "https://phys.org/news/2026-08-covid-children-likelihood-contact-child.html"
+    },
+    {
+      "category": "AI",
+      "title": "Flock impersonates journalist in order to cancel his hotel reservations",
+      "source": "Hacker News: Front Page",
+      "date": "Tue, 18 Aug 2026 21:48:12 +0000",
+      "summary": "Article URL: https://xcancel.com/bennjordan/status/2089430236945342508\nComments URL: https://news.ycombinator.com/item?id=49353181\nPoints: 10\n# Comments: 2",
+      "url": "https://xcancel.com/bennjordan/status/2089430236945342508"
+    },
+    {
+      "category": "AI",
+      "title": "Claude Code Teaching macOS to Natively Print to the HP Laser 1008a",
+      "source": "Hacker News: Front Page",
+      "date": "Tue, 18 Aug 2026 21:14:21 +0000",
+      "summary": "Article URL: https://cdn.kuber.studio/chat/hp-laser-1008a-driver\nComments URL: https://news.ycombinator.com/item?id=49352806\nPoints: 49\n# Comments: 21",
+      "url": "https://cdn.kuber.studio/chat/hp-laser-1008a-driver"
+    },
+    {
+      "category": "AI",
+      "title": "Companies promote incompetent employees to management tolimit damage they can do",
+      "source": "Hacker News: Front Page",
+      "date": "Tue, 18 Aug 2026 21:13:30 +0000",
+      "summary": "Article URL: https://lawsofsoftwareengineering.com/laws/dilbert-principle/\nComments URL: https://news.ycombinator.com/item?id=49352794\nPoints: 16\n# Comments: 4",
+      "url": "https://lawsofsoftwareengineering.com/laws/dilbert-principle/"
+    },
+    {
+      "category": "Science",
+      "title": " Body found at bottom of Scottish well may be from rare ritual burial performed centuries ago ",
+      "source": " Latest from Live Science ",
+      "date": "Tue, 18 Aug 2026 21:00:00 +0000",
+      "summary": "An Iron Age grave has been discovered in the Scottish Highlands. The person was buried within what may have been a ritual well.",
+      "url": "https://www.livescience.com/archaeology/body-found-at-bottom-of-scottish-well-may-be-from-rare-ritual-burial-performed-centuries-ago"
+    },
+    {
+      "category": "Science",
+      "title": " Peptides are the latest wellness fad. What are they, and are they safe? ",
+      "source": " Latest from Live Science ",
+      "date": "Tue, 18 Aug 2026 21:00:00 +0000",
+      "summary": "An FDA advisory panel has recommended making six unapproved peptides more accessible through compounding pharmacies — but scientists warn that easier access does not mean these experimental products have been proven safe or effective.",
+      "url": "https://www.livescience.com/health/medicine-drugs/peptides-are-the-latest-wellness-fad-what-are-they-and-are-they-safe"
+    },
+    {
+      "category": "Space",
+      "title": " Forget 'Halo' — the latest 'Futurama' episode has a ring world covered in super-intelligent rats (exclusive) ",
+      "source": " Latest from Space.com ",
+      "date": "Tue, 18 Aug 2026 20:00:00 +0000",
+      "summary": "\"A ring-shaped world shaped like a ring! I shall call it Wheel World.\"",
+      "url": "https://www.space.com/entertainment/space-movies-shows/forget-halo-the-latest-futurama-episode-has-a-ring-world-covered-in-super-intelligent-rats-exclusive"
+    },
+    {
+      "category": "Space",
+      "title": " NASA astronaut and 1st female French spacewalker remove failed ISS antenna but run out of time for replacement ",
+      "source": " Latest from Space.com ",
+      "date": "Tue, 18 Aug 2026 19:36:40 +0000",
+      "summary": "NASA astronaut Anil Menon and first female French spacewalker Sophie Adenot removed a failed antenna but ran out of time to install its replacement at the International Space Station, Aug. 18, 2026.",
+      "url": "https://www.space.com/space-exploration/international-space-station/nasa-astronaut-and-1st-female-french-spacewalker-remove-failed-iss-antenna-but-run-out-of-time-for-replacement"
+    },
+    {
+      "category": "AI",
+      "title": "Against all odds, SpaceX finally tugs Starship into port after 24 days at sea",
+      "source": "Ars Technica - All content",
+      "date": "Tue, 18 Aug 2026 19:01:09 +0000",
+      "summary": "\"A team of SpaceX engineers is on their way to conduct additional analysis on the vehicle.\"",
+      "url": "https://arstechnica.com/space/2026/08/its-christmastime-at-spacex-as-company-salvages-starship-from-indian-ocean/"
+    },
+    {
+      "category": "AI",
+      "title": "Strengthening democratic oversight in national security",
+      "source": "OpenAI News",
+      "date": "Tue, 18 Aug 2026 19:00:00 GMT",
+      "summary": "OpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise.",
+      "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security"
+    },
+    {
+      "category": "AI",
+      "title": "Disney sues FCC and its chair, escalating fight against Trump's chief censor",
+      "source": "Ars Technica - All content",
+      "date": "Tue, 18 Aug 2026 18:11:26 +0000",
+      "summary": "FCC demands \"total capitulation\" in Trump censorship campaign, Disney suit says.",
+      "url": "https://arstechnica.com/tech-policy/2026/08/disney-sues-fcc-and-its-chair-escalating-fight-against-trumps-chief-censor/"
+    },
+    {
+      "category": "Space",
+      "title": " Starship lives! SpaceX craft arrives at Christmas Island after 24-day ocean ordeal ",
+      "source": " Latest from Space.com ",
+      "date": "Tue, 18 Aug 2026 17:29:19 +0000",
+      "summary": "After Starship's test launch and splashdown last month, SpaceX recovery teams have successfully tugged the vehicle through a turbulent stretch of the Indian Ocean and arrived at calmer waters off the coast of Christmas Island.",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/starship-lives-spacex-craft-arrives-at-christmas-island-after-24-day-ocean-ordeal"
+    },
+    {
+      "category": "AI",
+      "title": "Peacock raises prices by 18 percent after becoming profitable",
+      "source": "Ars Technica - All content",
+      "date": "Tue, 18 Aug 2026 16:42:30 +0000",
+      "summary": "Peacock's quarterly profitability isn't guaranteed.",
+      "url": "https://arstechnica.com/gadgets/2026/08/peacock-raises-prices-by-18-percent-after-becoming-profitable/"
     },
     {
       "category": "Science",
@@ -33,110 +129,6 @@
       "date": "Tue, 18 Aug 2026 16:07:55 +0000",
       "summary": "Stone tools from a lakeside site in Saudi Arabia hint that Neanderthals were adapted to the arid Arabian interior, not just to cold places.",
       "url": "https://www.livescience.com/archaeology/neanderthals/neanderthals-may-have-trekked-through-the-saudi-arabian-desert-55-000-years-ago-farther-south-than-experts-thought-possible"
-    },
-    {
-      "category": "Space",
-      "title": " Watch SpaceX launch its 100th mission of the year tonight ",
-      "source": " Latest from Space.com ",
-      "date": "Tue, 18 Aug 2026 16:00:00 +0000",
-      "summary": "SpaceX will launch its 100th mission of the year tonight (Aug. 18), and you can watch the action live.",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-100-launches-2026-starlink-group-17-50-launch"
-    },
-    {
-      "category": "AI",
-      "title": "Teenage Sex and Death at Camp Miasma takes pains to deliver a slasher fan’s dream",
-      "source": "Ars Technica - All content",
-      "date": "Tue, 18 Aug 2026 15:36:47 +0000",
-      "summary": "Matte paintings—not CGI—warp a world designed to hit a nerve for slasher fans.",
-      "url": "https://arstechnica.com/culture/2026/08/teenage-sex-and-death-at-camp-miasma-takes-pains-to-deliver-a-slasher-fans-dream/"
-    },
-    {
-      "category": "Space",
-      "title": "NASA’s B777 Gets New Coat of Paint",
-      "source": "NASA",
-      "date": "Tue, 18 Aug 2026 15:10:36 +0000",
-      "summary": "NASA’s Boeing 777 shows off a new paint job in this Aug. 11, 2026, photo. The B777 was acquired to replace and extend the capabilities of the NASA DC-8, which was retired in 2024. The B777, set to begin operations from NASA’s Langley Research Center in Hampton, Virginia in 2027, will be a unique flying […]",
-      "url": "https://www.nasa.gov/image-article/nasas-b777-gets-new-coat-of-paint/"
-    },
-    {
-      "category": "Science",
-      "title": " 'Beyond human intuition': AI designs chip components 500 times smaller than what engineers could ever imagine ",
-      "source": " Latest from Live Science ",
-      "date": "Tue, 18 Aug 2026 15:10:00 +0000",
-      "summary": "Three new AI-designed chip components are just a few micrometers long and go beyond what human engineers have previously envisaged.",
-      "url": "https://www.livescience.com/technology/electronics/beyond-human-intuition-ai-designs-chip-500-times-smaller-than-what-engineers-could-ever-imagine"
-    },
-    {
-      "category": "AI",
-      "title": "X-rays add new twist to narwhal's spiral tusk",
-      "source": "Ars Technica - All content",
-      "date": "Tue, 18 Aug 2026 15:00:51 +0000",
-      "summary": "New study finds that the tusks have not one but two spirals, twisting in opposite directions.",
-      "url": "https://arstechnica.com/science/2026/08/x-rays-add-new-twist-to-narwhals-spiral-tusk/"
-    },
-    {
-      "category": "Space",
-      "title": " Hydrogen-powered 'rocket car' tops 400 mph in record-breaking test (video) ",
-      "source": " Latest from Space.com ",
-      "date": "Tue, 18 Aug 2026 15:00:00 +0000",
-      "summary": "The JCB Hydromax vehicle averaged more than 400 mph during two runs in Utah last week, becoming the fastest hydrogen-powered car in history.",
-      "url": "https://www.space.com/technology/hydrogen-powered-rocket-car-tops-400-mph-in-record-breaking-test-video"
-    },
-    {
-      "category": "AI",
-      "title": "Code-native generation of highly programmable 3D assets (2026)",
-      "source": "Hacker News: Front Page",
-      "date": "Tue, 18 Aug 2026 14:54:44 +0000",
-      "summary": "Article URL: https://arxiv.org/abs/2607.22738\nComments URL: https://news.ycombinator.com/item?id=49346538\nPoints: 11\n# Comments: 5",
-      "url": "https://arxiv.org/abs/2607.22738"
-    },
-    {
-      "category": "AI",
-      "title": "The coolest anti-surveillance tools at Defcon [video]",
-      "source": "Hacker News: Front Page",
-      "date": "Tue, 18 Aug 2026 14:49:19 +0000",
-      "summary": "Article URL: https://www.youtube.com/watch?v=-2uAsJ5EPAw\nComments URL: https://news.ycombinator.com/item?id=49346444\nPoints: 24\n# Comments: 0",
-      "url": "https://www.youtube.com/watch?v=-2uAsJ5EPAw"
-    },
-    {
-      "category": "Science",
-      "title": " The pace of climate change matters more than overall heat in the race to save key Atlantic currents, study finds ",
-      "source": " Latest from Live Science ",
-      "date": "Tue, 18 Aug 2026 14:42:24 +0000",
-      "summary": "The rate of global warming, rather than the extra heat itself, could determine whether a system of ocean currents known as the Atlantic Meridional Overturning Circulation will cross a tipping point, new research suggests.",
-      "url": "https://www.livescience.com/planet-earth/climate-change/the-pace-of-climate-change-matters-more-than-overall-heat-in-the-race-to-save-key-atlantic-currents-study-finds"
-    },
-    {
-      "category": "AI",
-      "title": "Show HN: Shoehorn – Quantize any model down to run on your machine",
-      "source": "Hacker News: Front Page",
-      "date": "Tue, 18 Aug 2026 14:29:20 +0000",
-      "summary": "Working on Mac, Linux, and Windows now. I include a simple GUI to find new models and get things built and set up. It is working quite well across a few models for me. The GitHub README and DESIGN.md files go into detail of the how/why and it's working remarkably well so far. https://github.com/notactuallytreyanastasio/shoehorn\nComments URL: https://news.ycombinator.com/item?id=49346135\nPoints: 7\n# Comments: 2",
-      "url": "https://notactuallytreyanastasio.github.io/shoehorn/"
-    },
-    {
-      "category": "Space",
-      "title": "NASA Glenn’s Legacy Forged Through Decades of Flight Research",
-      "source": "NASA",
-      "date": "Tue, 18 Aug 2026 14:00:00 +0000",
-      "summary": "Many of NASA’s most important aerospace breakthroughs that began in the laboratory were ultimately proven in the sky. For decades, experts at NASA’s Glenn Research Center in Cleveland conducted flight tests — piloting aircraft into targeted environments such as icing clouds and carefully defined atmospheric routes. This approach allowed them to collect measurements directly in flight, providing critical data […]",
-      "url": "https://www.nasa.gov/general/nasa-glenn-inflight-research/"
-    },
-    {
-      "category": "Space",
-      "title": " On this day in space! Aug. 18, 1868: Total solar eclipse leads to discovery of helium ",
-      "source": " Latest from Space.com ",
-      "date": "Tue, 18 Aug 2026 14:00:00 +0000",
-      "summary": "On this day in space! Aug. 18, 1868: Total solar eclipse leads to discovery of helium",
-      "url": "https://www.space.com/astronomy/on-this-day-in-space-aug-18-1868-total-solar-eclipse-leads-to-discovery-of-helium"
-    },
-    {
-      "category": "AI",
-      "title": "Microsoft Copilot reveals secret input that allowed it to be hacked",
-      "source": "Ars Technica - All content",
-      "date": "Tue, 18 Aug 2026 13:00:04 +0000",
-      "summary": "Secret parameter allowed hackers to steal passwords when a target clicked on a link.",
-      "url": "https://arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked/"
     },
     {
       "category": "Biblical Studies",
@@ -164,11 +156,11 @@
     },
     {
       "category": "AI",
-      "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
+      "title": "Pacing model development in an era of cyber-critical capabilities",
       "source": "OpenAI News",
       "date": "Tue, 18 Aug 2026 11:00:00 GMT",
-      "summary": "ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents.",
-      "url": "https://openai.com/index/chatgpt-for-teens"
+      "summary": "OpenAI is strengthening monitoring, alignment, and security for frontier AI models. See how new safeguards are guiding the pace of model development.",
+      "url": "https://openai.com/index/pacing-model-development-cyber-capabilities"
     },
     {
       "category": "Science",
@@ -177,14 +169,6 @@
       "date": "Tue, 18 Aug 2026 01:58:07 EDT",
       "summary": "Einstein’s abandoned cosmological constant made a spectacular comeback when astronomers discovered that the universe’s expansion is accelerating. It now sits at the heart of our best cosmological model—a model that works extraordinarily well, yet may still be wrong.",
       "url": "https://www.sciencedaily.com/releases/2026/08/260816044835.htm"
-    },
-    {
-      "category": "Space",
-      "title": "APOD: 2026 August 18 – Perseids from Perseus",
-      "source": "NASA",
-      "date": "Tue, 18 Aug 2026 04:05:00 +0000",
-      "summary": "APODScienceAPODAPOD: 2026 August 18 –…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss  APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Perseids from Perseus Explanation: This was a good year for the Perseids meteor shower. A key reason was the Moon was […]",
-      "url": "https://science.nasa.gov/image-article/apod-2026-august-18-perseids-from-perseus/"
     },
     {
       "category": "Theology",
@@ -241,14 +225,6 @@
       "date": "Mon, 17 Aug 2026 10:45:03 +0000",
       "summary": "The Egyptian Ministry of Tourism and Antiquities announced the discovery of a bathing complex at Tel Nasser in the Port Said area of the eastern […]\nThe post Bathing Complex Discovered at Egypt’s Tel Nasser appeared first on Biblical Archaeology Society.",
       "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-egypt/bathing-complex-discovered-at-egypts-tel-nasser/"
-    },
-    {
-      "category": "AI",
-      "title": "The Defender’s Window",
-      "source": "OpenAI News",
-      "date": "Mon, 17 Aug 2026 05:30:00 GMT",
-      "summary": "AI is reshaping cybersecurity for attackers and defenders alike. Learn how OpenAI is strengthening its defenses and what security teams can do now.",
-      "url": "https://openai.com/index/the-defenders-window"
     },
     {
       "category": "History",
