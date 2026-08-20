@@ -1,30 +1,94 @@
 {
-  "lastUpdated": "2026-08-20T16:25:07.562Z",
+  "lastUpdated": "2026-08-20T22:18:27.585Z",
   "articleCount": 36,
   "articles": [
     {
       "category": "Science",
-      "title": "A little Big Bang: Bowling-pin-shaped nuclei shed new light on the universe's first moments",
+      "title": "Welcome to the jungle: Newly discovered snake named after Slash from Guns N' Roses",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Thu, 20 Aug 2026 12:20:05 EDT",
-      "summary": "What happened in the first moments of the universe—before the building blocks of life and the world we know today came into existence? Physicists at the CERN research facility in Switzerland are trying to answer this question by recreating some of the extreme conditions that prevailed in the universe during its earliest history. Now, researchers from the Niels Bohr Institute, together with colleagues from the international ALICE collaboration, have come one step closer to understanding those conditions.",
-      "url": "https://phys.org/news/2026-08-big-bowling-pin-nuclei-universe.html"
+      "date": "Thu, 20 Aug 2026 18:10:01 EDT",
+      "summary": "Slash, aka Saul Hudson, is probably best known as the guitarist for Guns N' Roses. But there's more to Slash than his music. He's also a lifelong reptile lover and an avid supporter of zoos and museums. And now, he's the namesake of the newly discovered Lielaphis slashi: Slash's groundsnake.",
+      "url": "https://phys.org/news/2026-08-jungle-newly-snake-slash-guns.html"
     },
     {
       "category": "Science",
-      "title": "3D imaging and machine learning improve noncontact weight estimation of frozen skipjack tuna",
+      "title": "Messy life-producing cellular process caught in action for first time",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Thu, 20 Aug 2026 12:20:01 EDT",
-      "summary": "Accurately determining fish body size and weight is essential for fisheries resource management and seafood processing; however, measuring large quantities of fish is labor-intensive, and results may vary among operators.",
-      "url": "https://phys.org/news/2026-08-3d-imaging-machine-noncontact-weight.html"
+      "date": "Thu, 20 Aug 2026 18:00:03 EDT",
+      "summary": "All living things have a fleet of tiny copy machines that turn instructions from DNA into RNA molecules responsible for helping build proteins that keep organisms alive. One of those nanoscale machines, called eukaryotic RNA polymerase II, performs a crucial early step required by nearly every biological process. It makes messages, copying and carrying instructions from the cell nucleus to make proteins.",
+      "url": "https://phys.org/news/2026-08-messy-life-cellular-caught-action.html"
     },
     {
       "category": "Science",
-      "title": "Neanderthal hips challenge long-standing hypothesis of a trade-off between childbirth and bipedal walking",
+      "title": "Small doses of caustic soda increase biogas production from banana waste",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Thu, 20 Aug 2026 12:10:02 EDT",
-      "summary": "The most prominent difference between human male and female skeletons is the pelvis, which anthropologists often use to determine the sex of ancient remains. Scientists have long believed the human pelvis evolved mainly as a compromise between walking on two legs and giving birth to large-brained babies. This idea is known as the Obstetrical Dilemma Hypothesis.",
-      "url": "https://phys.org/news/2026-08-neanderthal-hips-hypothesis-childbirth-bipedal.html"
+      "date": "Thu, 20 Aug 2026 18:00:01 EDT",
+      "summary": "Low concentrations of caustic soda (sodium hydroxide, NaOH) are more efficient than high doses for preparing organic waste for biogas production. This finding increases methane production, reduces reagent consumption and, consequently, diminishes process costs and minimizes the risk of inhibiting the microorganisms responsible for the process.",
+      "url": "https://phys.org/news/2026-08-small-doses-caustic-soda-biogas.html"
+    },
+    {
+      "category": "AI",
+      "title": "Scientists Release Biggest 2D Map of the Universe",
+      "source": "Hacker News: Front Page",
+      "date": "Thu, 20 Aug 2026 21:42:51 +0000",
+      "summary": "Article URL: https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/\nComments URL: https://news.ycombinator.com/item?id=49380671\nPoints: 4\n# Comments: 0",
+      "url": "https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/"
+    },
+    {
+      "category": "AI",
+      "title": "Citizen Devs: Everyone is an engineer now",
+      "source": "Hacker News: Front Page",
+      "date": "Thu, 20 Aug 2026 21:25:48 +0000",
+      "summary": "Article URL: https://www.massdriver.cloud/blogs/the-citizen-developer\nComments URL: https://news.ycombinator.com/item?id=49380491\nPoints: 13\n# Comments: 4",
+      "url": "https://www.massdriver.cloud/blogs/the-citizen-developer"
+    },
+    {
+      "category": "AI",
+      "title": "Code as an Artifact",
+      "source": "Hacker News: Front Page",
+      "date": "Thu, 20 Aug 2026 21:24:57 +0000",
+      "summary": "Article URL: https://pradeeproark.com/posts/code-as-an-artifact-means-to-an-end/\nComments URL: https://news.ycombinator.com/item?id=49380482\nPoints: 8\n# Comments: 1",
+      "url": "https://pradeeproark.com/posts/code-as-an-artifact-means-to-an-end/"
+    },
+    {
+      "category": "Space",
+      "title": " China's Chang'e 7 moon probe will launch this weekend on the most ambitious lunar mission in history ",
+      "source": " Latest from Space.com ",
+      "date": "Thu, 20 Aug 2026 21:00:00 +0000",
+      "summary": "China aims to launch its Chang'e 7 moon mission on Aug. 24 to send a lander, a rover, a hopper and a wide range of science experiments to the lunar south pole.",
+      "url": "https://www.space.com/astronomy/moon/chinas-change-7-moon-probe-will-launch-this-weekend-on-the-most-ambitious-lunar-mission-in-history"
+    },
+    {
+      "category": "Space",
+      "title": " SpaceX will try for 1st Starship tower catch 'in a few months,' Elon Musk says ",
+      "source": " Latest from Space.com ",
+      "date": "Thu, 20 Aug 2026 20:30:00 +0000",
+      "summary": "SpaceX will likely try to make the first-ever catch of its Starship upper stage a few months from now, according to Elon Musk. He had earlier flagged late August as a potential date for the milestone.",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-will-try-for-1st-starship-tower-catch-in-a-few-months-elon-musk-says"
+    },
+    {
+      "category": "Space",
+      "title": " Microbes from Earth may survive on the moon, scientists find ",
+      "source": " Latest from Space.com ",
+      "date": "Thu, 20 Aug 2026 20:00:00 +0000",
+      "summary": "\"Even a bootprint or a rover's tread may create a habitable area.\"",
+      "url": "https://www.space.com/astronomy/moon/microbes-from-earth-may-survive-on-the-moon-scientists-find"
+    },
+    {
+      "category": "AI",
+      "title": "Roblox must make changes after failing to block adults creeping on kids",
+      "source": "Ars Technica - All content",
+      "date": "Thu, 20 Aug 2026 17:14:08 +0000",
+      "summary": "Roblox is first platform to submit to independent audits under the Online Safety Act.",
+      "url": "https://arstechnica.com/tech-policy/2026/08/weak-roblox-safeguards-failed-to-stop-adults-contacting-kids-regulator-says/"
+    },
+    {
+      "category": "Science",
+      "title": " 'This is not the outcome we were working towards': $30 million mission to save NASA's Swift telescope fails ",
+      "source": " Latest from Live Science ",
+      "date": "Thu, 20 Aug 2026 17:01:14 +0000",
+      "summary": "NASA's Swift Observatory is set to come crashing down to Earth later this year after private rescue mission failure.",
+      "url": "https://www.livescience.com/space/space-exploration/this-is-not-the-outcome-we-were-working-towards-usd30-million-mission-to-save-nasas-swift-telescope-fails"
     },
     {
       "category": "Science",
@@ -33,30 +97,6 @@
       "date": "Thu, 20 Aug 2026 16:00:32 +0000",
       "summary": "Extreme heat will become more common as the climate continues to warm. That will affect almost every facet of our health.",
       "url": "https://www.livescience.com/products/health-fitness/climate-change-will-triple-the-number-of-days-over-105-f-in-the-us-the-health-impacts-will-be-dire"
-    },
-    {
-      "category": "AI",
-      "title": "How to compromise your system with a job interview",
-      "source": "Hacker News: Front Page",
-      "date": "Thu, 20 Aug 2026 15:50:57 +0000",
-      "summary": "Article URL: https://www.codedge.de/posts/how-to-compromise-your-system-with-a-job-interview\nComments URL: https://news.ycombinator.com/item?id=49376332\nPoints: 16\n# Comments: 3",
-      "url": "https://www.codedge.de/posts/how-to-compromise-your-system-with-a-job-interview"
-    },
-    {
-      "category": "AI",
-      "title": "Generic Methods in Go 1.27",
-      "source": "Hacker News: Front Page",
-      "date": "Thu, 20 Aug 2026 15:41:48 +0000",
-      "summary": "Article URL: https://dominik.info/blog/go-generic-methods\nComments URL: https://news.ycombinator.com/item?id=49376211\nPoints: 8\n# Comments: 1",
-      "url": "https://dominik.info/blog/go-generic-methods"
-    },
-    {
-      "category": "AI",
-      "title": "Launch HN: Vendo (YC S26) – Let users build features on top of your product",
-      "source": "Hacker News: Front Page",
-      "date": "Thu, 20 Aug 2026 15:29:52 +0000",
-      "summary": "Hi HN, we’re Yousef & Nour, founders of Vendo (https://vendo.run). Vendo lets users create new features inside the software they already use. A user describes the dashboard, workflow, or small app they need, and Vendo builds it on top of the product’s existing data, API, and interface.\nDemo: https://www.youtube.com/watch?v=VdpHehY64ls\nWe built Vendo because every SaaS eventually faces the same problem: every customer needs something slightly different. One wants a new report and another needs a workflow that only makes sense for their team. These requests either sit on the roadmap, become one-off engineering work, or force the customer into spreadsheets and external tools. We wanted the user to be able to create the missing feature themselves, without leaving the product.\nHere is how it works:\n- npx vendo init reads the product's API surface, theme, routes, and more. These are used so that the apps Vendo creates (1) look on-brand and native and (2) have the ability to read data and perform actions directly through the company's API\n- When a user asks for a feature, we have a custom Vendo harness that writes a React component with a bunch of Vendo add-ons and guardrails (ex. ability to make calls to the host API + our component library). Every save is compiled, type-checked, run against real API responses, and rendered before the user sees it. We just released a benchmark and write-up here with more info for anyone interested: https://vendo.run/blog/generating-product-ui-measured\n- We use QuickJS to make sure that anything the agent creates is sandboxed and can't mess with the company's site. Vendo compiles the component and runs it with Preact inside a QuickJS VM with no access to the DOM, network, or clock. The VM returns a UI tree, which the host renders using the product’s registered components. When the user clicks something, QuickJS emits a tool call; the host executes it through Vendo’s guard and passes the result back into the same VM, preserving the screen’s local state.\nThere's a lot of generative UI right now: streaming developer-written components into a chat (Vercel AI SDK, CopilotKit, Thesys), or rendering your app inside someone else's assistant (OpenAI Apps SDK, MCP Apps). We differ on two things. Vendo lives in your product and acts through your API as the signed-in user, so what it makes is durable: real apps users keep, pin, and run on triggers while they're away, and not components that are merely confined to a chat. Plus, it's not capped at putting together a bunch of prebuilt components: the agent can build arbitrary apps, from a quick dashboard out of your own components to real custom code running in a sandbox, and either way data only ever comes from tool calls to your API.\nHere are some things customers are using Vendo for today:\n- Letting their users create custom dashboards and reports. These are mainly UI-based and focused on letting the user see the exact graphs and metrics they care about\n- Letting their customers create recurring automations. A big thing as well that has been used for these automations is the fact that we connect to external connections, so users have been automating many of their inter-tool workflows (ex. an automation that sends a slack alert based off of something in the product)\n- B2B customers letting their customers customize the product with specific business logic. Often this is simple things like an extra field on a form, or an extra permission, but it is hard for a business to keep up with them otherwise.\n- Creating and sharing custom dashboards/apps across an organization. Since the apps Vendo creates are durable, they can be shared, reused, and forked (which can’t be done with many of the other in-chat generative UI solutions)\nWe've spent a lot of time thinking about how AI and agents will change the way people consume software. We think the answer is personal(ized) software: you see the UI you need to see, you tell an agent exactly what you need, and the product molds to how you work.\nThe key insights that have enabled the product to work are:\n- A rule in code always beats a rule in a prompt.\n- Invent as little syntax as possible. Generation got faster and more reliable when the output looked like what models already know (JSX-shaped markup) instead of a clever custom format.\n- Deterministic beats model wherever you can get away with it. Theme extraction is pure static analysis, and a remix starts as a copy of your component, no model call.\nVendo is completely open-source (Apache-2.0) and can be self-hosted, so feel free to check out all the source code here: https://github.com/runvendo/vendo.\nWould love you to try it out and give us your feedback: https://docs.vendo.run/. Or if you’re a company looking to embed Vendo in your product feel free to book a call here: https://cal.com/team/vendo/intro-call\nComments URL: https://news.ycombinator.com/item?id=49376038\nPoints: 9\n# Comments: 2",
-      "url": "https://github.com/runvendo/vendo"
     },
     {
       "category": "Science",
@@ -75,36 +115,12 @@
       "url": "https://www.biblicalarchaeology.org/queries-comments/summer-2026/"
     },
     {
-      "category": "Science",
-      "title": " Cave sanctuary in Spain has highest number of Latin inscriptions anywhere in the Roman Empire — and many of them mention mysterious 'Lady' ",
-      "source": " Latest from Live Science ",
-      "date": "Thu, 20 Aug 2026 15:00:00 +0000",
-      "summary": "Researchers found 120 ancient inscriptions referring to a mysterious goddess known as \"the Lady\" in a cave in Valencia, Spain.",
-      "url": "https://www.livescience.com/archaeology/romans/cave-sanctuary-in-spain-has-highest-number-of-latin-inscriptions-anywhere-in-the-roman-empire-and-many-of-them-mention-mysterious-lady"
-    },
-    {
       "category": "AI",
       "title": "Genesis joins the giant electric SUV club with new GV90",
       "source": "Ars Technica - All content",
       "date": "Thu, 20 Aug 2026 14:35:58 +0000",
       "summary": "A retractable screen, a huge heads-up display, and an optional 4-seat VIP interior.",
       "url": "https://arstechnica.com/cars/2026/08/genesis-joins-the-giant-electric-suv-club-with-new-gv90/"
-    },
-    {
-      "category": "Space",
-      "title": " Try not to be hypnotized by the 'Eye of Africa' | Space photo of the day for Aug. 20, 2026 ",
-      "source": " Latest from Space.com ",
-      "date": "Thu, 20 Aug 2026 14:00:00 +0000",
-      "summary": "This geologic feature has been mesmerizing astronauts since 1965.",
-      "url": "https://www.space.com/astronomy/earth/try-not-to-be-hypnotized-by-the-eye-of-africa-space-photo-of-the-day-for-aug-20-2026"
-    },
-    {
-      "category": "Space",
-      "title": " On this day in space! Aug. 20, 1977: Voyager 2 launches to the outer planets ",
-      "source": " Latest from Space.com ",
-      "date": "Thu, 20 Aug 2026 14:00:00 +0000",
-      "summary": "On this day in space! Aug. 20, 1977: NASA launched the Voyager 2 spacecraft on a mission to explore the outer planets.",
-      "url": "https://www.space.com/space-exploration/missions/on-this-day-in-space-aug-20-1977-voyager-2-launches-to-the-outer-planets"
     },
     {
       "category": "AI",
@@ -115,28 +131,12 @@
       "url": "https://arstechnica.com/science/2026/08/spacexs-orbital-data-centers-would-create-a-new-category-of-e-waste/"
     },
     {
-      "category": "AI",
-      "title": "Reverse-lookup service exposed millions of photos of people’s faces",
-      "source": "Ars Technica - All content",
-      "date": "Thu, 20 Aug 2026 13:29:54 +0000",
-      "summary": "People-search tool ClarityCheck left database containing more than 9M image files exposed.",
-      "url": "https://arstechnica.com/gadgets/2026/08/reverse-lookup-service-exposed-millions-of-photos-of-peoples-faces/"
-    },
-    {
       "category": "History",
       "title": "Ten Patriot Gravesites of New York City",
       "source": "Journal of the American Revolution",
       "date": "Thu, 20 Aug 2026 12:10:45 +0000",
       "summary": "New York City is home to many grave sites of participants in the American Revolution. Many are easy to find, one is a huge mass grave and monument, while one includes a very famous woman. Interestingly, one or two are not where you might think they were laid to rest. In fact, one gravesite of […]\nThe post Ten Patriot Gravesites of New York City appeared first on Journal of the American Revolution.",
       "url": "https://allthingsliberty.com/2026/08/ten-patriot-gravesites-of-new-york-city/"
-    },
-    {
-      "category": "Space",
-      "title": " James Webb Space Telescope finds 'hidden stars' making the universe's 1st galaxies much bigger than we knew ",
-      "source": " Latest from Space.com ",
-      "date": "Thu, 20 Aug 2026 12:00:00 +0000",
-      "summary": "James Webb Space Telescope is finding that between the brightest stars, the cosmic skyscrapers, there are much fainter stars, meaning early galaxies are more massive than we believed.",
-      "url": "https://www.space.com/astronomy/galaxies/james-webb-space-telescope-finds-hidden-stars-among-the-universes-most-ancient-galaxies"
     },
     {
       "category": "Science",
@@ -169,6 +169,14 @@
       "date": "Thu, 20 Aug 2026 03:10:38 EDT",
       "summary": "A discarded SpaceX Falcon 9 stage crashed into the Moon on Aug. 5, leaving behind a newly formed crater about 60 feet wide. NASA’s Lunar Reconnaissance Orbiter captured detailed images showing bright and dark streaks of debris blasted across the surrounding surface. The impact even exposed fresh material buried beneath the Moon’s weathered exterior.",
       "url": "https://www.sciencedaily.com/releases/2026/08/260820002429.htm"
+    },
+    {
+      "category": "AI",
+      "title": "Introducing AI Futures",
+      "source": "OpenAI News",
+      "date": "Thu, 20 Aug 2026 07:00:00 GMT",
+      "summary": "Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
+      "url": "https://openai.com/index/introducing-ai-futures"
     },
     {
       "category": "Science",
@@ -204,7 +212,7 @@
     },
     {
       "category": "AI",
-      "title": "How ChatGPT Work helps Stampli move ideas to market",
+      "title": "Stampli cuts launch hours by 68% using ChatGPT Work",
       "source": "OpenAI News",
       "date": "Thu, 20 Aug 2026 00:00:00 GMT",
       "summary": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days.",
@@ -225,14 +233,6 @@
       "date": "Wed, 19 Aug 2026 18:51:35 +0000",
       "summary": "Scripture teaches us how to use our time together—how to “do church”—and each element of our services is designed by God to disciple you and to give you opportunities to disciple others in your church family.\nThe post The Elements of Corporate Worship and Christian Discipleship appeared first on 9Marks.",
       "url": "https://www.9marks.org/article/the-elements-of-corporate-worship-and-christian-discipleship/?utm_source=rss&utm_medium=rss&utm_campaign=the-elements-of-corporate-worship-and-christian-discipleship"
-    },
-    {
-      "category": "AI",
-      "title": "Replit expands access to software creation with GPT-5.6 Luna",
-      "source": "OpenAI News",
-      "date": "Wed, 19 Aug 2026 07:00:00 GMT",
-      "summary": "Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs.",
-      "url": "https://openai.com/index/replit"
     },
     {
       "category": "Theology",
