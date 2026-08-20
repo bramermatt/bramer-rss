@@ -1,86 +1,182 @@
 {
-  "lastUpdated": "2026-08-20T10:21:34.398Z",
-  "articleCount": 39,
+  "lastUpdated": "2026-08-20T16:25:07.562Z",
+  "articleCount": 36,
   "articles": [
     {
-      "category": "Space",
-      "title": " Partial lunar eclipse live: Latest news, viewing tips and live updates from Aug. 27-28 eclipse ",
-      "source": " Latest from Space.com ",
-      "date": "Thu, 20 Aug 2026 10:04:19 +0000",
-      "summary": "Follow our live coverage as we count down to the deepest partial lunar eclipse until December 2028, with the latest news, viewing tips and live updates.",
-      "url": "https://www.space.com/news/live/partial-lunar-eclipse-2026-live-updates-one-week-to-go"
+      "category": "Science",
+      "title": "A little Big Bang: Bowling-pin-shaped nuclei shed new light on the universe's first moments",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Thu, 20 Aug 2026 12:20:05 EDT",
+      "summary": "What happened in the first moments of the universe—before the building blocks of life and the world we know today came into existence? Physicists at the CERN research facility in Switzerland are trying to answer this question by recreating some of the extreme conditions that prevailed in the universe during its earliest history. Now, researchers from the Niels Bohr Institute, together with colleagues from the international ALICE collaboration, have come one step closer to understanding those conditions.",
+      "url": "https://phys.org/news/2026-08-big-bowling-pin-nuclei-universe.html"
     },
     {
       "category": "Science",
-      "title": " Secret 'messages' in cat pee let felines identify each other — and scientists just cracked the code ",
+      "title": "3D imaging and machine learning improve noncontact weight estimation of frozen skipjack tuna",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Thu, 20 Aug 2026 12:20:01 EDT",
+      "summary": "Accurately determining fish body size and weight is essential for fisheries resource management and seafood processing; however, measuring large quantities of fish is labor-intensive, and results may vary among operators.",
+      "url": "https://phys.org/news/2026-08-3d-imaging-machine-noncontact-weight.html"
+    },
+    {
+      "category": "Science",
+      "title": "Neanderthal hips challenge long-standing hypothesis of a trade-off between childbirth and bipedal walking",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Thu, 20 Aug 2026 12:10:02 EDT",
+      "summary": "The most prominent difference between human male and female skeletons is the pelvis, which anthropologists often use to determine the sex of ancient remains. Scientists have long believed the human pelvis evolved mainly as a compromise between walking on two legs and giving birth to large-brained babies. This idea is known as the Obstetrical Dilemma Hypothesis.",
+      "url": "https://phys.org/news/2026-08-neanderthal-hips-hypothesis-childbirth-bipedal.html"
+    },
+    {
+      "category": "Science",
+      "title": " Climate change will triple the number of days over 105 F in the US. The health impacts will be dire. ",
       "source": " Latest from Live Science ",
-      "date": "Thu, 20 Aug 2026 10:00:00 +0000",
-      "summary": "Cats can identify each other by the scent of their pee. We now know why.",
-      "url": "https://www.livescience.com/animals/cats/cats-have-unique-chemical-fingerprints-in-their-pee"
-    },
-    {
-      "category": "Space",
-      "title": " A 96% partial lunar eclipse is just 1 week away: Here's what you need to know ",
-      "source": " Latest from Space.com ",
-      "date": "Thu, 20 Aug 2026 10:00:00 +0000",
-      "summary": "Earth's inner shadow will cover 96% of the moon's disk during the Aug. 27-28 partial lunar eclipse.",
-      "url": "https://www.space.com/stargazing/lunar-eclipses/a-96-percent-partial-lunar-eclipse-is-just-1-week-away-heres-what-you-need-to-know-aug-27-28"
-    },
-    {
-      "category": "Science",
-      "title": "Area affected by wildfires in Europe could almost triple due to climate change",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Thu, 20 Aug 2026 05:10:01 EDT",
-      "summary": "Increasingly hot, dry and windy conditions could substantially extend the area affected by wildfires across Europe, according to a new study led by the Potsdam Institute for Climate Impact Research (PIK) with contributions from the Senckenberg Society for Nature Research. In a low-emissions scenario (SSP1-2.6), the researchers calculate that roughly 39% more land would be burned per year by the end of the century compared with today's average. In a high-emissions scenario (SSP3-7.0), it would be around 192%.",
-      "url": "https://phys.org/news/2026-08-area-affected-wildfires-europe-triple.html"
-    },
-    {
-      "category": "Science",
-      "title": "Australia races to shield little penguins from H5N1 bird flu",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Thu, 20 Aug 2026 04:50:03 EDT",
-      "summary": "Australian wildlife workers have launched an unprecedented effort to vaccinate wild populations of little penguins against the highly contagious H5N1 avian influenza.",
-      "url": "https://phys.org/news/2026-08-australia-shield-penguins-h5n1-bird.html"
-    },
-    {
-      "category": "Science",
-      "title": "Honduras places 80% of country on El Niño drought alert",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Thu, 20 Aug 2026 04:50:02 EDT",
-      "summary": "The Honduran government on Wednesday placed 80% of the country, including the capital, on drought alert as El Niño scorches harvests and causes livestock to die of thirst.",
-      "url": "https://phys.org/news/2026-08-honduras-country-el-nio-drought.html"
+      "date": "Thu, 20 Aug 2026 16:00:32 +0000",
+      "summary": "Extreme heat will become more common as the climate continues to warm. That will affect almost every facet of our health.",
+      "url": "https://www.livescience.com/products/health-fitness/climate-change-will-triple-the-number-of-days-over-105-f-in-the-us-the-health-impacts-will-be-dire"
     },
     {
       "category": "AI",
-      "title": "Don't Paste the AI, please",
+      "title": "How to compromise your system with a job interview",
       "source": "Hacker News: Front Page",
-      "date": "Thu, 20 Aug 2026 08:20:44 +0000",
-      "summary": "Article URL: https://dontpastetheai.com/\nComments URL: https://news.ycombinator.com/item?id=49371857\nPoints: 240\n# Comments: 123",
-      "url": "https://dontpastetheai.com/"
+      "date": "Thu, 20 Aug 2026 15:50:57 +0000",
+      "summary": "Article URL: https://www.codedge.de/posts/how-to-compromise-your-system-with-a-job-interview\nComments URL: https://news.ycombinator.com/item?id=49376332\nPoints: 16\n# Comments: 3",
+      "url": "https://www.codedge.de/posts/how-to-compromise-your-system-with-a-job-interview"
     },
     {
       "category": "AI",
-      "title": "Windows brings out the Rorschach test in everyone",
+      "title": "Generic Methods in Go 1.27",
       "source": "Hacker News: Front Page",
-      "date": "Thu, 20 Aug 2026 06:16:40 +0000",
-      "summary": "Article URL: https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803\nComments URL: https://news.ycombinator.com/item?id=49371006\nPoints: 178\n# Comments: 76",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803"
+      "date": "Thu, 20 Aug 2026 15:41:48 +0000",
+      "summary": "Article URL: https://dominik.info/blog/go-generic-methods\nComments URL: https://news.ycombinator.com/item?id=49376211\nPoints: 8\n# Comments: 1",
+      "url": "https://dominik.info/blog/go-generic-methods"
+    },
+    {
+      "category": "AI",
+      "title": "Launch HN: Vendo (YC S26) – Let users build features on top of your product",
+      "source": "Hacker News: Front Page",
+      "date": "Thu, 20 Aug 2026 15:29:52 +0000",
+      "summary": "Hi HN, we’re Yousef & Nour, founders of Vendo (https://vendo.run). Vendo lets users create new features inside the software they already use. A user describes the dashboard, workflow, or small app they need, and Vendo builds it on top of the product’s existing data, API, and interface.\nDemo: https://www.youtube.com/watch?v=VdpHehY64ls\nWe built Vendo because every SaaS eventually faces the same problem: every customer needs something slightly different. One wants a new report and another needs a workflow that only makes sense for their team. These requests either sit on the roadmap, become one-off engineering work, or force the customer into spreadsheets and external tools. We wanted the user to be able to create the missing feature themselves, without leaving the product.\nHere is how it works:\n- npx vendo init reads the product's API surface, theme, routes, and more. These are used so that the apps Vendo creates (1) look on-brand and native and (2) have the ability to read data and perform actions directly through the company's API\n- When a user asks for a feature, we have a custom Vendo harness that writes a React component with a bunch of Vendo add-ons and guardrails (ex. ability to make calls to the host API + our component library). Every save is compiled, type-checked, run against real API responses, and rendered before the user sees it. We just released a benchmark and write-up here with more info for anyone interested: https://vendo.run/blog/generating-product-ui-measured\n- We use QuickJS to make sure that anything the agent creates is sandboxed and can't mess with the company's site. Vendo compiles the component and runs it with Preact inside a QuickJS VM with no access to the DOM, network, or clock. The VM returns a UI tree, which the host renders using the product’s registered components. When the user clicks something, QuickJS emits a tool call; the host executes it through Vendo’s guard and passes the result back into the same VM, preserving the screen’s local state.\nThere's a lot of generative UI right now: streaming developer-written components into a chat (Vercel AI SDK, CopilotKit, Thesys), or rendering your app inside someone else's assistant (OpenAI Apps SDK, MCP Apps). We differ on two things. Vendo lives in your product and acts through your API as the signed-in user, so what it makes is durable: real apps users keep, pin, and run on triggers while they're away, and not components that are merely confined to a chat. Plus, it's not capped at putting together a bunch of prebuilt components: the agent can build arbitrary apps, from a quick dashboard out of your own components to real custom code running in a sandbox, and either way data only ever comes from tool calls to your API.\nHere are some things customers are using Vendo for today:\n- Letting their users create custom dashboards and reports. These are mainly UI-based and focused on letting the user see the exact graphs and metrics they care about\n- Letting their customers create recurring automations. A big thing as well that has been used for these automations is the fact that we connect to external connections, so users have been automating many of their inter-tool workflows (ex. an automation that sends a slack alert based off of something in the product)\n- B2B customers letting their customers customize the product with specific business logic. Often this is simple things like an extra field on a form, or an extra permission, but it is hard for a business to keep up with them otherwise.\n- Creating and sharing custom dashboards/apps across an organization. Since the apps Vendo creates are durable, they can be shared, reused, and forked (which can’t be done with many of the other in-chat generative UI solutions)\nWe've spent a lot of time thinking about how AI and agents will change the way people consume software. We think the answer is personal(ized) software: you see the UI you need to see, you tell an agent exactly what you need, and the product molds to how you work.\nThe key insights that have enabled the product to work are:\n- A rule in code always beats a rule in a prompt.\n- Invent as little syntax as possible. Generation got faster and more reliable when the output looked like what models already know (JSX-shaped markup) instead of a clever custom format.\n- Deterministic beats model wherever you can get away with it. Theme extraction is pure static analysis, and a remix starts as a copy of your component, no model call.\nVendo is completely open-source (Apache-2.0) and can be self-hosted, so feel free to check out all the source code here: https://github.com/runvendo/vendo.\nWould love you to try it out and give us your feedback: https://docs.vendo.run/. Or if you’re a company looking to embed Vendo in your product feel free to book a call here: https://cal.com/team/vendo/intro-call\nComments URL: https://news.ycombinator.com/item?id=49376038\nPoints: 9\n# Comments: 2",
+      "url": "https://github.com/runvendo/vendo"
+    },
+    {
+      "category": "Science",
+      "title": " Black hole star? Solar-system-size 'dot' from the early universe is our best evidence yet of a brand-new type of cosmic object ",
+      "source": " Latest from Live Science ",
+      "date": "Thu, 20 Aug 2026 15:25:43 +0000",
+      "summary": "The James Webb Space Telescope has identified the most promising candidate yet for a black hole star, lurking 660 million years after the Big Bang. The hypothetical entity, which shines 100 billion times brighter than a typical star, could shed light on the origins of the mysterious \"little red dots.\"",
+      "url": "https://www.livescience.com/space/black-holes/black-hole-star-solar-system-size-dot-from-the-early-universe-is-our-best-evidence-yet-of-a-brand-new-type-of-cosmic-object"
+    },
+    {
+      "category": "Biblical Studies",
+      "title": "More Queries and Comments Summer 2026",
+      "source": "Biblical Archaeology Society",
+      "date": "Thu, 20 Aug 2026 15:16:45 +0000",
+      "summary": "Thank you for your thoughts and comments about our Winter 2025 issue. We appreciate your feedback. Here are a few of the letters and responses […]\nThe post More Queries and Comments Summer 2026 appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/queries-comments/summer-2026/"
+    },
+    {
+      "category": "Science",
+      "title": " Cave sanctuary in Spain has highest number of Latin inscriptions anywhere in the Roman Empire — and many of them mention mysterious 'Lady' ",
+      "source": " Latest from Live Science ",
+      "date": "Thu, 20 Aug 2026 15:00:00 +0000",
+      "summary": "Researchers found 120 ancient inscriptions referring to a mysterious goddess known as \"the Lady\" in a cave in Valencia, Spain.",
+      "url": "https://www.livescience.com/archaeology/romans/cave-sanctuary-in-spain-has-highest-number-of-latin-inscriptions-anywhere-in-the-roman-empire-and-many-of-them-mention-mysterious-lady"
+    },
+    {
+      "category": "AI",
+      "title": "Genesis joins the giant electric SUV club with new GV90",
+      "source": "Ars Technica - All content",
+      "date": "Thu, 20 Aug 2026 14:35:58 +0000",
+      "summary": "A retractable screen, a huge heads-up display, and an optional 4-seat VIP interior.",
+      "url": "https://arstechnica.com/cars/2026/08/genesis-joins-the-giant-electric-suv-club-with-new-gv90/"
     },
     {
       "category": "Space",
-      "title": "APOD: 2026 August 20 – The Elephant’s Trunk in Cepheus",
-      "source": "NASA",
-      "date": "Thu, 20 Aug 2026 04:05:00 +0000",
-      "summary": "APOD Science APOD APOD: 2026 August 20 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. The Elephant’s […]",
-      "url": "https://science.nasa.gov/image-article/apod/apod-2026-august-20-the-elephants-trunk-in-cepheus/"
-    },
-    {
-      "category": "Space",
-      "title": " Watch Rocket Lab launch a private Japanese Earth-observing satellite to orbit today ",
+      "title": " Try not to be hypnotized by the 'Eye of Africa' | Space photo of the day for Aug. 20, 2026 ",
       "source": " Latest from Space.com ",
-      "date": "Thu, 20 Aug 2026 04:05:00 +0000",
-      "summary": "Rocket Lab will launch its ninth mission for the Japanese Earth-imaging company iQPS this morning (Aug. 20), and you can watch the action live.",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-launch-private-japanese-earth-observing-sar-satellite-lightning-god-defends"
+      "date": "Thu, 20 Aug 2026 14:00:00 +0000",
+      "summary": "This geologic feature has been mesmerizing astronauts since 1965.",
+      "url": "https://www.space.com/astronomy/earth/try-not-to-be-hypnotized-by-the-eye-of-africa-space-photo-of-the-day-for-aug-20-2026"
+    },
+    {
+      "category": "Space",
+      "title": " On this day in space! Aug. 20, 1977: Voyager 2 launches to the outer planets ",
+      "source": " Latest from Space.com ",
+      "date": "Thu, 20 Aug 2026 14:00:00 +0000",
+      "summary": "On this day in space! Aug. 20, 1977: NASA launched the Voyager 2 spacecraft on a mission to explore the outer planets.",
+      "url": "https://www.space.com/space-exploration/missions/on-this-day-in-space-aug-20-1977-voyager-2-launches-to-the-outer-planets"
+    },
+    {
+      "category": "AI",
+      "title": "SpaceX’s orbital data centers would create a new category of e-waste",
+      "source": "Ars Technica - All content",
+      "date": "Thu, 20 Aug 2026 13:59:50 +0000",
+      "summary": "The yeetcycling math resembles asteroid mining in reverse.",
+      "url": "https://arstechnica.com/science/2026/08/spacexs-orbital-data-centers-would-create-a-new-category-of-e-waste/"
+    },
+    {
+      "category": "AI",
+      "title": "Reverse-lookup service exposed millions of photos of people’s faces",
+      "source": "Ars Technica - All content",
+      "date": "Thu, 20 Aug 2026 13:29:54 +0000",
+      "summary": "People-search tool ClarityCheck left database containing more than 9M image files exposed.",
+      "url": "https://arstechnica.com/gadgets/2026/08/reverse-lookup-service-exposed-millions-of-photos-of-peoples-faces/"
+    },
+    {
+      "category": "History",
+      "title": "Ten Patriot Gravesites of New York City",
+      "source": "Journal of the American Revolution",
+      "date": "Thu, 20 Aug 2026 12:10:45 +0000",
+      "summary": "New York City is home to many grave sites of participants in the American Revolution. Many are easy to find, one is a huge mass grave and monument, while one includes a very famous woman. Interestingly, one or two are not where you might think they were laid to rest. In fact, one gravesite of […]\nThe post Ten Patriot Gravesites of New York City appeared first on Journal of the American Revolution.",
+      "url": "https://allthingsliberty.com/2026/08/ten-patriot-gravesites-of-new-york-city/"
+    },
+    {
+      "category": "Space",
+      "title": " James Webb Space Telescope finds 'hidden stars' making the universe's 1st galaxies much bigger than we knew ",
+      "source": " Latest from Space.com ",
+      "date": "Thu, 20 Aug 2026 12:00:00 +0000",
+      "summary": "James Webb Space Telescope is finding that between the brightest stars, the cosmic skyscrapers, there are much fainter stars, meaning early galaxies are more massive than we believed.",
+      "url": "https://www.space.com/astronomy/galaxies/james-webb-space-telescope-finds-hidden-stars-among-the-universes-most-ancient-galaxies"
+    },
+    {
+      "category": "Science",
+      "title": "Schizophrenia’s lost brain connections follow a surprising pattern",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Thu, 20 Aug 2026 07:27:34 EDT",
+      "summary": "Specialized brain scans reveal that schizophrenia is linked to widespread loss of the synapses that connect brain cells, with the left side of the brain hit especially hard. The damage follows a surprisingly organized pattern tied to the brain’s chemistry and wiring. Researchers also identified a left frontal region that may serve as a starting point for the loss.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260820002443.htm"
+    },
+    {
+      "category": "Biblical Studies",
+      "title": "The Aleppo Codex Online",
+      "source": "Biblical Archaeology Society",
+      "date": "Thu, 20 Aug 2026 11:00:33 +0000",
+      "summary": "Throughout its long history, the Aleppo Codex has been carefully and jealously guarded. Today, however, the Aleppo Codex online project has placed the Aleppo Codex among the ranks of other ancient Biblical manuscripts that have been made available to all via the web. \nThe post The Aleppo Codex Online appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/daily/biblical-topics/hebrew-bible/the-aleppo-codex-online/"
+    },
+    {
+      "category": "Biblical Studies",
+      "title": "What Is the Oldest Hebrew Bible?",
+      "source": "Biblical Archaeology Society",
+      "date": "Thu, 20 Aug 2026 11:00:04 +0000",
+      "summary": "The oldest Hebrew Bible texts are the Dead Sea Scrolls (c. 250 B.C.E.–115 C.E.), but the most nearly complete copies of the Hebrew Bible are codices from a thousand years ago. What happened in the period between these two discoveries? The Ashkar-Gilson Manuscript fills the gap in our knowledge of this interim period. \nThe post What Is the Oldest Hebrew Bible? appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/daily/biblical-topics/hebrew-bible/what-is-the-oldest-hebrew-bible/"
+    },
+    {
+      "category": "Science",
+      "title": "A SpaceX rocket smashed into the Moon — NASA just revealed the crater",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Thu, 20 Aug 2026 03:10:38 EDT",
+      "summary": "A discarded SpaceX Falcon 9 stage crashed into the Moon on Aug. 5, leaving behind a newly formed crater about 60 feet wide. NASA’s Lunar Reconnaissance Orbiter captured detailed images showing bright and dark streaks of debris blasted across the surrounding surface. The impact even exposed fresh material buried beneath the Moon’s weathered exterior.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260820002429.htm"
+    },
+    {
+      "category": "Science",
+      "title": "This total solar eclipse looked strangely golden — here’s why",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Thu, 20 Aug 2026 02:59:00 EDT",
+      "summary": "Spain’s total solar eclipse delivered an unexpected sight: a corona glowing gold instead of its usual pearly white. Because the Sun was setting, its light passed through more atmosphere, while smoke from nearby wildfires filtered out even more blue light. The result was a dramatic golden eclipse, punctuated by a bright pink solar prominence.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260820002432.htm"
     },
     {
       "category": "Theology",
@@ -107,52 +203,12 @@
       "url": "https://www.thegospelcoalition.org/article/roach-infestation-taught-rest/"
     },
     {
-      "category": "Science",
-      "title": "MIT physicists discover electrons rebuilding like ice inside a quantum material",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Wed, 19 Aug 2026 21:32:04 EDT",
-      "summary": "MIT physicists found that two electronic phases inside the same quantum material emerge through surprisingly different mechanisms—one smoothly and the other in expanding pockets resembling growing ice crystals. The discovery could help explain how exotic properties such as superconductivity and magnetism develop and coexist.",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260819041231.htm"
-    },
-    {
       "category": "AI",
-      "title": "Turns are Better than Radians (2022)",
-      "source": "Hacker News: Front Page",
-      "date": "Thu, 20 Aug 2026 01:29:12 +0000",
-      "summary": "Article URL: https://www.computerenhance.com/p/turns-are-better-than-radians\nComments URL: https://news.ycombinator.com/item?id=49369408\nPoints: 213\n# Comments: 101",
-      "url": "https://www.computerenhance.com/p/turns-are-better-than-radians"
-    },
-    {
-      "category": "AI",
-      "title": "NASA calls off mission to rescue Swift gamma-ray observatory",
-      "source": "Ars Technica - All content",
-      "date": "Thu, 20 Aug 2026 00:18:48 +0000",
-      "summary": "Without a rescue, NASA's Swift Observatory is expected to reenter the atmosphere later this year.",
-      "url": "https://arstechnica.com/space/2026/08/nasa-calls-off-mission-to-rescue-swift-gamma-ray-observatory/"
-    },
-    {
-      "category": "AI",
-      "title": "Amazon aims for delivery drones to reach 500 US neighborhoods by end of 2026",
-      "source": "Ars Technica - All content",
-      "date": "Wed, 19 Aug 2026 22:02:38 +0000",
-      "summary": "US residents face trade-offs as delivery drone services such as Prime Air expand.",
-      "url": "https://arstechnica.com/gadgets/2026/08/amazon-aims-for-delivery-drones-to-reach-500-us-neighborhoods-by-end-of-2026/"
-    },
-    {
-      "category": "AI",
-      "title": "Framework responds to complaints that BIOS update bricks Ryzen 7040 laptops",
-      "source": "Ars Technica - All content",
-      "date": "Wed, 19 Aug 2026 20:21:59 +0000",
-      "summary": "Framework says it's replacing some out-of-warranty AMD mainboards.",
-      "url": "https://arstechnica.com/gadgets/2026/08/framework-responds-to-complaints-that-bios-update-bricked-ryzen-7040-laptops/"
-    },
-    {
-      "category": "Space",
-      "title": "NASA TechLeap Prize: Orbital Clarity Challenge",
-      "source": "NASA",
-      "date": "Wed, 19 Aug 2026 19:57:48 +0000",
-      "summary": "The Orbital Clarity Challenge — the sixth in the NASA TechLeap Prize series — is a collaborative effort between NASA’s Heliophysics Division, Flight Opportunities program, and Center of Excellence for Collaborative Innovation. The Heliophysics Division studies space weather, including how it heats and expands Earth’s outer atmosphere during intense solar activity, creating orbital drag through atmospheric density changes. The […]",
-      "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/nasa-techleap-prize-orbital-clarity-challenge/"
+      "title": "How ChatGPT Work helps Stampli move ideas to market",
+      "source": "OpenAI News",
+      "date": "Thu, 20 Aug 2026 00:00:00 GMT",
+      "summary": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days.",
+      "url": "https://openai.com/index/stampli"
     },
     {
       "category": "AI",
@@ -171,84 +227,12 @@
       "url": "https://www.9marks.org/article/the-elements-of-corporate-worship-and-christian-discipleship/?utm_source=rss&utm_medium=rss&utm_campaign=the-elements-of-corporate-worship-and-christian-discipleship"
     },
     {
-      "category": "Space",
-      "title": "NASA Updates Next Steps for Commercial Swift Boost Mission",
-      "source": "NASA",
-      "date": "Wed, 19 Aug 2026 18:08:25 +0000",
-      "summary": "Due to an ongoing commercial spacecraft attitude control issue, NASA and Katalyst Space announced Wednesday the LINK spacecraft will not capture or boost an agency satellite to a higher altitude to extend its science mission as planned. However, LINK still will attempt to conduct rendezvous and proximity operations with NASA’s Neil Gehrels Swift Observatory to […]",
-      "url": "https://www.nasa.gov/news-release/nasa-updates-next-steps-for-commercial-swift-boost-mission/"
-    },
-    {
-      "category": "Science",
-      "title": " IBM's new 'quantum fridges' are nearly 200 times colder than deep space and could pave the way for fault-tolerant quantum computing ",
-      "source": " Latest from Live Science ",
-      "date": "Wed, 19 Aug 2026 17:15:00 +0000",
-      "summary": "IBM's new modular cryogenic system links quantum chips to overcome major infrastructure hurdles and pave the way for a powerful system by 2029.",
-      "url": "https://www.livescience.com/technology/quantum/ibms-new-quantum-fridges-are-nearly-200-times-colder-than-deep-space-and-could-pave-the-way-for-fault-tolerant-quantum-computing"
-    },
-    {
-      "category": "Science",
-      "title": " 'I'm not sure how such a law could be enforced': Readers react to a possible social media ban for children ",
-      "source": " Latest from Live Science ",
-      "date": "Wed, 19 Aug 2026 16:12:43 +0000",
-      "summary": "Do you think a social media ban for young users would be effective? Live Science readers revealed their thoughts in our latest poll.",
-      "url": "https://www.livescience.com/health/im-not-sure-how-such-a-law-could-be-enforced-readers-react-to-a-possible-social-media-ban-for-children"
-    },
-    {
-      "category": "Science",
-      "title": "Coffee drinkers have less fat, more muscle, and surprising hormone differences",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Wed, 19 Aug 2026 08:30:05 EDT",
-      "summary": "Coffee drinkers may be getting more than an energy boost. A Finnish study found that people who drank more coffee tended to have less total and abdominal fat, more muscle, and healthier metabolic markers despite having similar BMIs. Higher coffee intake was also linked to lower levels of certain amino acids associated with insulin resistance and type 2 diabetes risk.",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260819041228.htm"
-    },
-    {
-      "category": "Science",
-      "title": "Pollen has a surprising problem — and honeybees have found a way around it",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Wed, 19 Aug 2026 07:25:45 EDT",
-      "summary": "Honeybees can apparently detect when their food has the wrong balance of essential nutrients and adjust how much they eat to avoid potentially harmful excesses. They also transform pollen into remarkably well-balanced “baby food” for their larvae, revealing a sophisticated nutritional strategy hidden inside the hive.",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260819041237.htm"
-    },
-    {
-      "category": "Biblical Studies",
-      "title": "Why Did Paul Go to Pisidian Antioch?",
-      "source": "Biblical Archaeology Society",
-      "date": "Wed, 19 Aug 2026 10:45:49 +0000",
-      "summary": "On Paul’s so-called first missionary journey, detailed beginning in Acts 13, he and his companions go from Syrian Antioch to Cyprus (where Barnabas was from), […]\nThe post Why Did Paul Go to Pisidian Antioch? appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-rome/why-did-paul-go-to-pisidian-antioch/"
-    },
-    {
-      "category": "Biblical Studies",
-      "title": "Pilgrimage Pit Stop",
-      "source": "Biblical Archaeology Society",
-      "date": "Wed, 19 Aug 2026 10:00:32 +0000",
-      "summary": "Despite its modern name, the Tomb of the Kings, located just north of the Old City in Jerusalem, was not the burial site of ancient […]\nThe post Pilgrimage Pit Stop appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/daily/biblical-sites-places/biblical-archaeology-sites/pilgrimage-pit-stop/"
-    },
-    {
       "category": "AI",
       "title": "Replit expands access to software creation with GPT-5.6 Luna",
       "source": "OpenAI News",
       "date": "Wed, 19 Aug 2026 07:00:00 GMT",
       "summary": "Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs.",
       "url": "https://openai.com/index/replit"
-    },
-    {
-      "category": "AI",
-      "title": "ChatGPT Ads expands across Europe",
-      "source": "OpenAI News",
-      "date": "Tue, 18 Aug 2026 22:00:00 GMT",
-      "summary": "ChatGPT Ads is expanding to 31 European markets. Learn how advertisers can reach people as they explore, compare options, and make decisions.",
-      "url": "https://openai.com/index/chatgpt-ads-expands-across-europe"
-    },
-    {
-      "category": "Biblical Studies",
-      "title": "What’s Missing from Codex Sinaiticus, the Oldest New Testament?",
-      "source": "Biblical Archaeology Society",
-      "date": "Tue, 18 Aug 2026 11:00:36 +0000",
-      "summary": "Compare differences in the Biblical text between the King James Version and Codex Sinaiticus, the oldest New Testament.\nThe post What’s Missing from Codex Sinaiticus, the Oldest New Testament? appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/daily/biblical-topics/bible-versions-and-translations/absent-from-codex-sinaiticus-oldest-new-testament/"
     },
     {
       "category": "Theology",
@@ -281,14 +265,6 @@
       "date": "Fri, 14 Aug 2026 05:22:32 +0000",
       "summary": "Gathering with God’s people provides a rest that physical inactivity cannot provide. It’s a rest that reinvigorates your soul, not just your body.\nThe post Ten Ways to Savor Sundays appeared first on 9Marks.",
       "url": "https://www.9marks.org/article/ten-ways-to-savor-sundays/?utm_source=rss&utm_medium=rss&utm_campaign=ten-ways-to-savor-sundays"
-    },
-    {
-      "category": "History",
-      "title": "Fort Watauga and the 1776 Cherokee Siege",
-      "source": "Journal of the American Revolution",
-      "date": "Wed, 12 Aug 2026 22:00:22 +0000",
-      "summary": "On July 21, 1776, the once-peaceful morning was broken by the sounds of musketry as a Cherokee war party, under Chief Old Abraham, attacked the frontier fort known as Fort Watauga, also known as Fort Caswell, near present-day Elizabethton, Tennessee. This attack was not successful, and it led to an eventual several-day siege on the […]\nThe post Fort Watauga and the 1776 Cherokee Siege appeared first on Journal of the American Revolution.",
-      "url": "https://allthingsliberty.com/2026/08/fort-watauga-and-the-1776-cherokee-siege/"
     },
     {
       "category": "History",
