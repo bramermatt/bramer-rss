@@ -1,54 +1,118 @@
 {
-  "lastUpdated": "2026-08-20T22:18:27.585Z",
-  "articleCount": 36,
+  "lastUpdated": "2026-08-21T10:21:33.841Z",
+  "articleCount": 39,
   "articles": [
     {
-      "category": "Science",
-      "title": "Welcome to the jungle: Newly discovered snake named after Slash from Guns N' Roses",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Thu, 20 Aug 2026 18:10:01 EDT",
-      "summary": "Slash, aka Saul Hudson, is probably best known as the guitarist for Guns N' Roses. But there's more to Slash than his music. He's also a lifelong reptile lover and an avid supporter of zoos and museums. And now, he's the namesake of the newly discovered Lielaphis slashi: Slash's groundsnake.",
-      "url": "https://phys.org/news/2026-08-jungle-newly-snake-slash-guns.html"
-    },
-    {
-      "category": "Science",
-      "title": "Messy life-producing cellular process caught in action for first time",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Thu, 20 Aug 2026 18:00:03 EDT",
-      "summary": "All living things have a fleet of tiny copy machines that turn instructions from DNA into RNA molecules responsible for helping build proteins that keep organisms alive. One of those nanoscale machines, called eukaryotic RNA polymerase II, performs a crucial early step required by nearly every biological process. It makes messages, copying and carrying instructions from the cell nucleus to make proteins.",
-      "url": "https://phys.org/news/2026-08-messy-life-cellular-caught-action.html"
-    },
-    {
-      "category": "Science",
-      "title": "Small doses of caustic soda increase biogas production from banana waste",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Thu, 20 Aug 2026 18:00:01 EDT",
-      "summary": "Low concentrations of caustic soda (sodium hydroxide, NaOH) are more efficient than high doses for preparing organic waste for biogas production. This finding increases methane production, reduces reagent consumption and, consequently, diminishes process costs and minimizes the risk of inhibiting the microorganisms responsible for the process.",
-      "url": "https://phys.org/news/2026-08-small-doses-caustic-soda-biogas.html"
+      "category": "Space",
+      "title": " Could 'dark photons' explain dark matter? ",
+      "source": " Latest from Space.com ",
+      "date": "Fri, 21 Aug 2026 10:00:00 +0000",
+      "summary": "New research suggests that if dark matter is composed of \"dark photons,\" it would not have heated the early cosmos like scientists thought.",
+      "url": "https://www.space.com/astronomy/dark-universe/could-dark-photons-explain-dark-matter"
     },
     {
       "category": "AI",
-      "title": "Scientists Release Biggest 2D Map of the Universe",
+      "title": "Small, native web tricks worth remembering",
       "source": "Hacker News: Front Page",
-      "date": "Thu, 20 Aug 2026 21:42:51 +0000",
-      "summary": "Article URL: https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/\nComments URL: https://news.ycombinator.com/item?id=49380671\nPoints: 4\n# Comments: 0",
-      "url": "https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/"
+      "date": "Fri, 21 Aug 2026 09:45:14 +0000",
+      "summary": "Article URL: https://htmlcat.net/\nComments URL: https://news.ycombinator.com/item?id=49385860\nPoints: 7\n# Comments: 0",
+      "url": "https://htmlcat.net/"
+    },
+    {
+      "category": "Science",
+      "title": "What a record-breaking El Niño could mean for the world",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Fri, 21 Aug 2026 05:10:01 EDT",
+      "summary": "This year's El Niño is on track to be the strongest on record, threatening to unleash extreme weather across the globe and make 2027 the hottest recorded year by far.",
+      "url": "https://phys.org/news/2026-08-el-nio-world.html"
+    },
+    {
+      "category": "Science",
+      "title": "Seeing the unseen: A new tool visualizes hidden structures in complex biological data",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Fri, 21 Aug 2026 05:00:03 EDT",
+      "summary": "Modern biology research can now generate valuable data on an unprecedented scale. But there is one major obstacle: making sense of these complex high-dimensional datasets. A team at the University of Basel, Switzerland, has developed a new tool that can provide accurate pictures of the structures hiding within highly complex datasets. By helping scientists uncover hidden patterns in the data, the software will help make new scientific discoveries.",
+      "url": "https://phys.org/news/2026-08-unseen-tool-visualizes-hidden-complex.html"
+    },
+    {
+      "category": "Science",
+      "title": "Pioneering cancer treatment saves python named Jodie Foster: UK zoo",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Fri, 21 Aug 2026 05:00:01 EDT",
+      "summary": "A British zoo Friday hailed the successful treatment of a cancer-stricken python named after Hollywood star Jodie Foster, who became the first snake to receive an innovative treatment combining surgery and electrochemotherapy (ECT).",
+      "url": "https://phys.org/news/2026-08-cancer-treatment-python-jodie-foster.html"
+    },
+    {
+      "category": "Science",
+      "title": " Meet the scientists 3D printing corneas to restore people's vision, potentially filling a worldwide shortage of transplantable tissue ",
+      "source": " Latest from Live Science ",
+      "date": "Fri, 21 Aug 2026 09:00:00 +0000",
+      "summary": "New 3D-printed corneal implants could help make up for the shortage of donor corneas available for transplant procedures, say Precise Bio co-founders Aryeh Batt and Dr. Anthony Atala.",
+      "url": "https://www.livescience.com/health/surgery/meet-the-scientists-3d-printing-corneas-to-restore-peoples-vision-potentially-filling-a-worldwide-shortage-of-transplantable-tissue"
     },
     {
       "category": "AI",
-      "title": "Citizen Devs: Everyone is an engineer now",
+      "title": "Emacs 31.1 will release on 8/24",
       "source": "Hacker News: Front Page",
-      "date": "Thu, 20 Aug 2026 21:25:48 +0000",
-      "summary": "Article URL: https://www.massdriver.cloud/blogs/the-citizen-developer\nComments URL: https://news.ycombinator.com/item?id=49380491\nPoints: 13\n# Comments: 4",
-      "url": "https://www.massdriver.cloud/blogs/the-citizen-developer"
+      "date": "Fri, 21 Aug 2026 08:19:48 +0000",
+      "summary": "Article URL: https://github.com/emacs-mirror/emacs/blob/062dcd2aead00c3b47c14ff5b6c40313f7a775f5/etc/HISTORY\nComments URL: https://news.ycombinator.com/item?id=49385296\nPoints: 24\n# Comments: 6",
+      "url": "https://github.com/emacs-mirror/emacs/blob/062dcd2aead00c3b47c14ff5b6c40313f7a775f5/etc/HISTORY"
     },
     {
       "category": "AI",
-      "title": "Code as an Artifact",
+      "title": "Better Batteries",
       "source": "Hacker News: Front Page",
-      "date": "Thu, 20 Aug 2026 21:24:57 +0000",
-      "summary": "Article URL: https://pradeeproark.com/posts/code-as-an-artifact-means-to-an-end/\nComments URL: https://news.ycombinator.com/item?id=49380482\nPoints: 8\n# Comments: 1",
-      "url": "https://pradeeproark.com/posts/code-as-an-artifact-means-to-an-end/"
+      "date": "Fri, 21 Aug 2026 07:48:50 +0000",
+      "summary": "Article URL: https://matklad.github.io/2026/08/20/better-batteries.html\nComments URL: https://news.ycombinator.com/item?id=49385068\nPoints: 3\n# Comments: 0",
+      "url": "https://matklad.github.io/2026/08/20/better-batteries.html"
+    },
+    {
+      "category": "Theology",
+      "title": "Family Discipleship for Busy Families",
+      "source": "The Gospel Coalition",
+      "date": "Fri, 21 Aug 2026 04:04:00 +0000",
+      "summary": "Even imperfect family devotionals can have a profound effect on your children’s lives.",
+      "url": "https://www.thegospelcoalition.org/podcasts/tgc-podcast/family-discipleship-busy/"
+    },
+    {
+      "category": "Space",
+      "title": "Europe’s Scorching Summer",
+      "source": "NASA",
+      "date": "Fri, 21 Aug 2026 04:01:00 +0000",
+      "summary": "A series of heat waves in 2026 is breaking records and taking a toll in Europe.",
+      "url": "https://science.nasa.gov/earth/europes-scorching-summer/"
+    },
+    {
+      "category": "Theology",
+      "title": "Learn to Grieve Well",
+      "source": "The Gospel Coalition",
+      "date": "Fri, 21 Aug 2026 04:00:00 +0000",
+      "summary": "The longer we live, the more we’ll lose. And the more we love, the deeper we’ll grieve. Let’s do it well.",
+      "url": "https://www.thegospelcoalition.org/article/learn-grieve-well/"
+    },
+    {
+      "category": "AI",
+      "title": "US distributor of China’s most popular humanoid robots pivots after US ban",
+      "source": "Ars Technica - All content",
+      "date": "Thu, 20 Aug 2026 22:00:11 +0000",
+      "summary": "FCC ban on foreign-made robots accelerated RoboStore’s US manufacturing plans.",
+      "url": "https://arstechnica.com/gadgets/2026/08/us-distributor-of-chinas-most-popular-humanoid-robots-pivots-after-us-ban/"
+    },
+    {
+      "category": "AI",
+      "title": "Europe cancels planned upgrades for Ariane 6 rocket",
+      "source": "Ars Technica - All content",
+      "date": "Thu, 20 Aug 2026 21:40:52 +0000",
+      "summary": "Arianespace hasn’t publicly disclosed the cost for an Ariane 6 launch.",
+      "url": "https://arstechnica.com/space/2026/08/europe-cancels-planned-upgrades-for-ariane-6-rocket/"
+    },
+    {
+      "category": "AI",
+      "title": "They survived 9/11; 25 years later, their bonds remain unbroken",
+      "source": "Ars Technica - All content",
+      "date": "Thu, 20 Aug 2026 21:25:25 +0000",
+      "summary": "Survivors reconnect with those who saved them in National Geographic's 9/11: Reunited.",
+      "url": "https://arstechnica.com/culture/2026/08/new-9-11-documentary-finds-hope-in-the-horror/"
     },
     {
       "category": "Space",
@@ -68,19 +132,11 @@
     },
     {
       "category": "Space",
-      "title": " Microbes from Earth may survive on the moon, scientists find ",
-      "source": " Latest from Space.com ",
-      "date": "Thu, 20 Aug 2026 20:00:00 +0000",
-      "summary": "\"Even a bootprint or a rover's tread may create a habitable area.\"",
-      "url": "https://www.space.com/astronomy/moon/microbes-from-earth-may-survive-on-the-moon-scientists-find"
-    },
-    {
-      "category": "AI",
-      "title": "Roblox must make changes after failing to block adults creeping on kids",
-      "source": "Ars Technica - All content",
-      "date": "Thu, 20 Aug 2026 17:14:08 +0000",
-      "summary": "Roblox is first platform to submit to independent audits under the Online Safety Act.",
-      "url": "https://arstechnica.com/tech-policy/2026/08/weak-roblox-safeguards-failed-to-stop-adults-contacting-kids-regulator-says/"
+      "title": "SmallSat 2026",
+      "source": "NASA",
+      "date": "Thu, 20 Aug 2026 20:05:41 +0000",
+      "summary": "SmallSat 2026 Join NASA in the Exhibit Hall (Booth # 635, 835, 641, and 940) for Storytelling by NASA experts. Full Agenda below. MONDAY, AUGUST 24, 9:00 – 10:00 AM WelcomeJose NunezBryceTech’s Smallsats by the Numbers: 2026Fletcher FranklinSupply Chain ObservationsBruce YostTechnology Shortfall Rudy de RoseeSPARCS Camera and Early Science ObservationsKaitlyn AshcroftJPL: SkyfallTim CanhamSWIFT LINK ReboostBo NaaszFlight […]",
+      "url": "https://science.nasa.gov/earth/smallsat-2026/"
     },
     {
       "category": "Science",
@@ -99,14 +155,6 @@
       "url": "https://www.livescience.com/products/health-fitness/climate-change-will-triple-the-number-of-days-over-105-f-in-the-us-the-health-impacts-will-be-dire"
     },
     {
-      "category": "Science",
-      "title": " Black hole star? Solar-system-size 'dot' from the early universe is our best evidence yet of a brand-new type of cosmic object ",
-      "source": " Latest from Live Science ",
-      "date": "Thu, 20 Aug 2026 15:25:43 +0000",
-      "summary": "The James Webb Space Telescope has identified the most promising candidate yet for a black hole star, lurking 660 million years after the Big Bang. The hypothetical entity, which shines 100 billion times brighter than a typical star, could shed light on the origins of the mysterious \"little red dots.\"",
-      "url": "https://www.livescience.com/space/black-holes/black-hole-star-solar-system-size-dot-from-the-early-universe-is-our-best-evidence-yet-of-a-brand-new-type-of-cosmic-object"
-    },
-    {
       "category": "Biblical Studies",
       "title": "More Queries and Comments Summer 2026",
       "source": "Biblical Archaeology Society",
@@ -115,20 +163,12 @@
       "url": "https://www.biblicalarchaeology.org/queries-comments/summer-2026/"
     },
     {
-      "category": "AI",
-      "title": "Genesis joins the giant electric SUV club with new GV90",
-      "source": "Ars Technica - All content",
-      "date": "Thu, 20 Aug 2026 14:35:58 +0000",
-      "summary": "A retractable screen, a huge heads-up display, and an optional 4-seat VIP interior.",
-      "url": "https://arstechnica.com/cars/2026/08/genesis-joins-the-giant-electric-suv-club-with-new-gv90/"
-    },
-    {
-      "category": "AI",
-      "title": "SpaceX’s orbital data centers would create a new category of e-waste",
-      "source": "Ars Technica - All content",
-      "date": "Thu, 20 Aug 2026 13:59:50 +0000",
-      "summary": "The yeetcycling math resembles asteroid mining in reverse.",
-      "url": "https://arstechnica.com/science/2026/08/spacexs-orbital-data-centers-would-create-a-new-category-of-e-waste/"
+      "category": "Space",
+      "title": "Artemis Mission Patches",
+      "source": "NASA",
+      "date": "Thu, 20 Aug 2026 15:13:51 +0000",
+      "summary": "A jacket decorated with Artemis I and II mission patches, along with other NASA patches hangs on the back of a chair on Thursday, Aug. 6, 2026, inside the Rocco A. Petrone Launch Control Center at NASA’s Kennedy Space Center in Florida during a terminal countdown simulation for the Artemis III mission. NASA’s Exploration Ground […]",
+      "url": "https://www.nasa.gov/image-article/artemis-mission-patches/"
     },
     {
       "category": "History",
@@ -193,22 +233,6 @@
       "date": "Thu, 20 Aug 2026 04:04:57 +0000",
       "summary": "Courtney and Melissa talk to Tara-Leigh Cobble about how she got over her lack of desire to read the Bible and how, over time, reading the Bible made her fall in love with its Author.",
       "url": "https://www.thegospelcoalition.org/podcasts/deep-dish/fear-perfectionism-bible-reading/"
-    },
-    {
-      "category": "Theology",
-      "title": "What Job Teaches Us About Suffering",
-      "source": "The Gospel Coalition",
-      "date": "Thu, 20 Aug 2026 04:02:00 +0000",
-      "summary": "‘Yet I Will Hope in Him’ reminds us that the hope Job found in God is still available to us, and through Christ, our hope is multiplied.",
-      "url": "https://www.thegospelcoalition.org/reviews/will-hope-him-job/"
-    },
-    {
-      "category": "Theology",
-      "title": "A Roach Infestation Taught Me to Rest",
-      "source": "The Gospel Coalition",
-      "date": "Thu, 20 Aug 2026 04:00:00 +0000",
-      "summary": "In a culture that praises self-sufficiency, it’s easy to lean on our own understanding.",
-      "url": "https://www.thegospelcoalition.org/article/roach-infestation-taught-rest/"
     },
     {
       "category": "AI",
