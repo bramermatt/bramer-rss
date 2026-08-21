@@ -1,46 +1,118 @@
 {
-  "lastUpdated": "2026-08-21T10:21:33.841Z",
-  "articleCount": 39,
+  "lastUpdated": "2026-08-21T16:23:07.368Z",
+  "articleCount": 36,
   "articles": [
     {
+      "category": "AI",
+      "title": "Omacom Foundation Launches with $8M",
+      "source": "Hacker News: Front Page",
+      "date": "Fri, 21 Aug 2026 16:03:47 +0000",
+      "summary": "Article URL: https://omarchy.org/news/2026/08/omacom-foundation-launches-with-8-million/\nComments URL: https://news.ycombinator.com/item?id=49390132\nPoints: 11\n# Comments: 2",
+      "url": "https://omarchy.org/news/2026/08/omacom-foundation-launches-with-8-million/"
+    },
+    {
       "category": "Space",
-      "title": " Could 'dark photons' explain dark matter? ",
+      "title": " SpaceX fires up Starship ahead of megarocket’s 1st orbital flight (video) ",
       "source": " Latest from Space.com ",
-      "date": "Fri, 21 Aug 2026 10:00:00 +0000",
-      "summary": "New research suggests that if dark matter is composed of \"dark photons,\" it would not have heated the early cosmos like scientists thought.",
-      "url": "https://www.space.com/astronomy/dark-universe/could-dark-photons-explain-dark-matter"
+      "date": "Fri, 21 Aug 2026 16:00:00 +0000",
+      "summary": "SpaceX completed a single-engine test-firing of its next Starship spacecraft to prepare for its coming test flight, which will be the first to reach orbit.",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-fires-up-starship-ahead-of-megarockets-1st-orbital-flight-video"
     },
     {
       "category": "AI",
-      "title": "Small, native web tricks worth remembering",
+      "title": "How We Made a Text-to-Speech Model Respond in Sub-50 ms",
       "source": "Hacker News: Front Page",
-      "date": "Fri, 21 Aug 2026 09:45:14 +0000",
-      "summary": "Article URL: https://htmlcat.net/\nComments URL: https://news.ycombinator.com/item?id=49385860\nPoints: 7\n# Comments: 0",
-      "url": "https://htmlcat.net/"
+      "date": "Fri, 21 Aug 2026 15:51:10 +0000",
+      "summary": "Article URL: https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/\nComments URL: https://news.ycombinator.com/item?id=49389952\nPoints: 3\n# Comments: 1",
+      "url": "https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/"
+    },
+    {
+      "category": "AI",
+      "title": "My AI agents kept trying to cross red lines, so I wrote them a constitution",
+      "source": "Hacker News: Front Page",
+      "date": "Fri, 21 Aug 2026 15:48:32 +0000",
+      "summary": "Article URL: https://github.com/Chong169/a-constitution-for-one\nComments URL: https://news.ycombinator.com/item?id=49389912\nPoints: 6\n# Comments: 1",
+      "url": "https://github.com/Chong169/a-constitution-for-one"
+    },
+    {
+      "category": "Space",
+      "title": " 'Dark stars' could be the seeds of supermassive black holes, scientists say ",
+      "source": " Latest from Space.com ",
+      "date": "Fri, 21 Aug 2026 15:37:33 +0000",
+      "summary": "A mysterious hum of gravitational waves that fills the cosmos may be the echo of long-dead \"dark stars\" that served as the seeds of the first supermassive black holes.",
+      "url": "https://www.space.com/astronomy/black-holes/dark-stars-could-be-the-seeds-of-supermassive-black-holes-scientists-say"
+    },
+    {
+      "category": "Space",
+      "title": " SpaceX launches 29 Starlink satellites, lands rocket on ship at sea (video, photos) ",
+      "source": " Latest from Space.com ",
+      "date": "Fri, 21 Aug 2026 15:28:24 +0000",
+      "summary": "SpaceX launched yet another Starlink mission today (Aug. 21), sending 29 more of the broadband satellites to orbit from Florida's Space Coast.",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-launch-group-10-39-falcon-9-asog"
     },
     {
       "category": "Science",
-      "title": "What a record-breaking El Niño could mean for the world",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Fri, 21 Aug 2026 05:10:01 EDT",
-      "summary": "This year's El Niño is on track to be the strongest on record, threatening to unleash extreme weather across the globe and make 2027 the hottest recorded year by far.",
-      "url": "https://phys.org/news/2026-08-el-nio-world.html"
+      "title": " Scientists finally know why astronauts struggle to poop in space — and reveal a hidden risk of long-haul spaceflight ",
+      "source": " Latest from Live Science ",
+      "date": "Fri, 21 Aug 2026 15:19:47 +0000",
+      "summary": "A new NASA-backed study has pinpointed why astronauts often experience constipation in space and how that might affect their health on long-haul missions to Mars and beyond.",
+      "url": "https://www.livescience.com/space/space-exploration/scientists-finally-know-why-astronauts-struggle-to-poop-in-space-and-reveal-a-hidden-risk-of-long-haul-spaceflight"
     },
     {
       "category": "Science",
-      "title": "Seeing the unseen: A new tool visualizes hidden structures in complex biological data",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Fri, 21 Aug 2026 05:00:03 EDT",
-      "summary": "Modern biology research can now generate valuable data on an unprecedented scale. But there is one major obstacle: making sense of these complex high-dimensional datasets. A team at the University of Basel, Switzerland, has developed a new tool that can provide accurate pictures of the structures hiding within highly complex datasets. By helping scientists uncover hidden patterns in the data, the software will help make new scientific discoveries.",
-      "url": "https://phys.org/news/2026-08-unseen-tool-visualizes-hidden-complex.html"
+      "title": " Have your say: Would you trust a humanoid robot with your household chores? ",
+      "source": " Latest from Live Science ",
+      "date": "Fri, 21 Aug 2026 14:00:00 +0000",
+      "summary": "Humanoid robots are moving out of the lab and into people's homes, from $30-an-hour cleaners to $20,000 domestic helpers. Tell us in our poll if you'd let one loose with a mop.",
+      "url": "https://www.livescience.com/technology/robotics/have-your-say-would-you-trust-a-humanoid-robot-with-your-household-chores"
+    },
+    {
+      "category": "AI",
+      "title": "Waymo doubles spending on lobbying in robotaxi battle with Uber",
+      "source": "Ars Technica - All content",
+      "date": "Fri, 21 Aug 2026 13:11:35 +0000",
+      "summary": "Alphabet-owned company is seeking to persuade US regulators to clear a path for fully autonomous taxi services.",
+      "url": "https://arstechnica.com/cars/2026/08/waymo-doubles-spending-on-lobbying-in-robotaxi-battle-with-uber/"
     },
     {
       "category": "Science",
-      "title": "Pioneering cancer treatment saves python named Jodie Foster: UK zoo",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Fri, 21 Aug 2026 05:00:01 EDT",
-      "summary": "A British zoo Friday hailed the successful treatment of a cancer-stricken python named after Hollywood star Jodie Foster, who became the first snake to receive an innovative treatment combining surgery and electrochemotherapy (ECT).",
-      "url": "https://phys.org/news/2026-08-cancer-treatment-python-jodie-foster.html"
+      "title": "This weight-loss hormone may protect the liver even without weight loss",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Fri, 21 Aug 2026 07:38:41 EDT",
+      "summary": "A hormone already known for curbing appetite and supporting weight loss may have a surprising second job: protecting the liver from inflammation and scarring. Researchers at McMaster University found that GDF15 activates a previously unknown brain-to-liver pathway that triggers the release of glucocorticoids, helping calm immune activity in the liver.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260820202854.htm"
+    },
+    {
+      "category": "AI",
+      "title": "As demand for Meta AI glasses explodes, it’s harder to avoid creepy recordings",
+      "source": "Ars Technica - All content",
+      "date": "Fri, 21 Aug 2026 11:00:53 +0000",
+      "summary": "Ars looks at Zuckoff, the latest free app detecting Meta AI glasses amid privacy backlash.",
+      "url": "https://arstechnica.com/tech-policy/2026/08/meta-ai-glasses-may-get-creepier-and-apps-that-detect-them-arent-perfect/"
+    },
+    {
+      "category": "AI",
+      "title": "Rocket Report: SpaceX makes its mark on the Moon; ULA names new boss",
+      "source": "Ars Technica - All content",
+      "date": "Fri, 21 Aug 2026 11:00:36 +0000",
+      "summary": "Taiwan's effort to develop its own satellite launcher hit a setback this week.",
+      "url": "https://arstechnica.com/space/2026/08/rocket-report-spacex-makes-a-mark-on-the-moon-ula-names-new-boss/"
+    },
+    {
+      "category": "Biblical Studies",
+      "title": "Ramat Gan’s Early Islamic Past",
+      "source": "Biblical Archaeology Society",
+      "date": "Fri, 21 Aug 2026 10:45:06 +0000",
+      "summary": "Archaeologists have uncovered a planned commercial and industrial complex dating to roughly 1,300 years ago in Ramat Gan, Israel. The site contains straight, intersecting streets, rooms […]\nThe post Ramat Gan’s Early Islamic Past appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/daily-life-and-practice/ramat-gans-early-islamic-past/"
+    },
+    {
+      "category": "Science",
+      "title": "2,200-year-old Roman shipwreck reveals ancient waterproofing secrets",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Fri, 21 Aug 2026 05:28:51 EDT",
+      "summary": "Scientists analyzing a 2,200-year-old Roman shipwreck found that its hull was coated with pine tar and, in one area, a mixture of tar and beeswax. Pollen trapped in those ancient coatings acted like a geographic fingerprint, revealing the landscapes surrounding the ship when repairs were made.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260820202907.htm"
     },
     {
       "category": "Science",
@@ -51,20 +123,12 @@
       "url": "https://www.livescience.com/health/surgery/meet-the-scientists-3d-printing-corneas-to-restore-peoples-vision-potentially-filling-a-worldwide-shortage-of-transplantable-tissue"
     },
     {
-      "category": "AI",
-      "title": "Emacs 31.1 will release on 8/24",
-      "source": "Hacker News: Front Page",
-      "date": "Fri, 21 Aug 2026 08:19:48 +0000",
-      "summary": "Article URL: https://github.com/emacs-mirror/emacs/blob/062dcd2aead00c3b47c14ff5b6c40313f7a775f5/etc/HISTORY\nComments URL: https://news.ycombinator.com/item?id=49385296\nPoints: 24\n# Comments: 6",
-      "url": "https://github.com/emacs-mirror/emacs/blob/062dcd2aead00c3b47c14ff5b6c40313f7a775f5/etc/HISTORY"
-    },
-    {
-      "category": "AI",
-      "title": "Better Batteries",
-      "source": "Hacker News: Front Page",
-      "date": "Fri, 21 Aug 2026 07:48:50 +0000",
-      "summary": "Article URL: https://matklad.github.io/2026/08/20/better-batteries.html\nComments URL: https://news.ycombinator.com/item?id=49385068\nPoints: 3\n# Comments: 0",
-      "url": "https://matklad.github.io/2026/08/20/better-batteries.html"
+      "category": "Science",
+      "title": "Hidden magnetism inside atoms may explain mysterious gamma rays",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Fri, 21 Aug 2026 00:21:34 EDT",
+      "summary": "For decades, scientists have puzzled over why certain atomic nuclei unexpectedly produce large numbers of low-energy gamma rays. A new experiment traced the effect to magnetic changes inside the nucleus, where protons and neutrons effectively flip their tiny internal magnets. The discovery could sharpen models of everything from nuclear reactions on Earth to the creation of heavy elements in stars and neutron star mergers.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260820202849.htm"
     },
     {
       "category": "Theology",
@@ -91,68 +155,12 @@
       "url": "https://www.thegospelcoalition.org/article/learn-grieve-well/"
     },
     {
-      "category": "AI",
-      "title": "US distributor of China’s most popular humanoid robots pivots after US ban",
-      "source": "Ars Technica - All content",
-      "date": "Thu, 20 Aug 2026 22:00:11 +0000",
-      "summary": "FCC ban on foreign-made robots accelerated RoboStore’s US manufacturing plans.",
-      "url": "https://arstechnica.com/gadgets/2026/08/us-distributor-of-chinas-most-popular-humanoid-robots-pivots-after-us-ban/"
-    },
-    {
-      "category": "AI",
-      "title": "Europe cancels planned upgrades for Ariane 6 rocket",
-      "source": "Ars Technica - All content",
-      "date": "Thu, 20 Aug 2026 21:40:52 +0000",
-      "summary": "Arianespace hasn’t publicly disclosed the cost for an Ariane 6 launch.",
-      "url": "https://arstechnica.com/space/2026/08/europe-cancels-planned-upgrades-for-ariane-6-rocket/"
-    },
-    {
-      "category": "AI",
-      "title": "They survived 9/11; 25 years later, their bonds remain unbroken",
-      "source": "Ars Technica - All content",
-      "date": "Thu, 20 Aug 2026 21:25:25 +0000",
-      "summary": "Survivors reconnect with those who saved them in National Geographic's 9/11: Reunited.",
-      "url": "https://arstechnica.com/culture/2026/08/new-9-11-documentary-finds-hope-in-the-horror/"
-    },
-    {
-      "category": "Space",
-      "title": " China's Chang'e 7 moon probe will launch this weekend on the most ambitious lunar mission in history ",
-      "source": " Latest from Space.com ",
-      "date": "Thu, 20 Aug 2026 21:00:00 +0000",
-      "summary": "China aims to launch its Chang'e 7 moon mission on Aug. 24 to send a lander, a rover, a hopper and a wide range of science experiments to the lunar south pole.",
-      "url": "https://www.space.com/astronomy/moon/chinas-change-7-moon-probe-will-launch-this-weekend-on-the-most-ambitious-lunar-mission-in-history"
-    },
-    {
-      "category": "Space",
-      "title": " SpaceX will try for 1st Starship tower catch 'in a few months,' Elon Musk says ",
-      "source": " Latest from Space.com ",
-      "date": "Thu, 20 Aug 2026 20:30:00 +0000",
-      "summary": "SpaceX will likely try to make the first-ever catch of its Starship upper stage a few months from now, according to Elon Musk. He had earlier flagged late August as a potential date for the milestone.",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-will-try-for-1st-starship-tower-catch-in-a-few-months-elon-musk-says"
-    },
-    {
       "category": "Space",
       "title": "SmallSat 2026",
       "source": "NASA",
       "date": "Thu, 20 Aug 2026 20:05:41 +0000",
       "summary": "SmallSat 2026 Join NASA in the Exhibit Hall (Booth # 635, 835, 641, and 940) for Storytelling by NASA experts. Full Agenda below. MONDAY, AUGUST 24, 9:00 – 10:00 AM WelcomeJose NunezBryceTech’s Smallsats by the Numbers: 2026Fletcher FranklinSupply Chain ObservationsBruce YostTechnology Shortfall Rudy de RoseeSPARCS Camera and Early Science ObservationsKaitlyn AshcroftJPL: SkyfallTim CanhamSWIFT LINK ReboostBo NaaszFlight […]",
       "url": "https://science.nasa.gov/earth/smallsat-2026/"
-    },
-    {
-      "category": "Science",
-      "title": " 'This is not the outcome we were working towards': $30 million mission to save NASA's Swift telescope fails ",
-      "source": " Latest from Live Science ",
-      "date": "Thu, 20 Aug 2026 17:01:14 +0000",
-      "summary": "NASA's Swift Observatory is set to come crashing down to Earth later this year after private rescue mission failure.",
-      "url": "https://www.livescience.com/space/space-exploration/this-is-not-the-outcome-we-were-working-towards-usd30-million-mission-to-save-nasas-swift-telescope-fails"
-    },
-    {
-      "category": "Science",
-      "title": " Climate change will triple the number of days over 105 F in the US. The health impacts will be dire. ",
-      "source": " Latest from Live Science ",
-      "date": "Thu, 20 Aug 2026 16:00:32 +0000",
-      "summary": "Extreme heat will become more common as the climate continues to warm. That will affect almost every facet of our health.",
-      "url": "https://www.livescience.com/products/health-fitness/climate-change-will-triple-the-number-of-days-over-105-f-in-the-us-the-health-impacts-will-be-dire"
     },
     {
       "category": "Biblical Studies",
@@ -179,14 +187,6 @@
       "url": "https://allthingsliberty.com/2026/08/ten-patriot-gravesites-of-new-york-city/"
     },
     {
-      "category": "Science",
-      "title": "Schizophrenia’s lost brain connections follow a surprising pattern",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Thu, 20 Aug 2026 07:27:34 EDT",
-      "summary": "Specialized brain scans reveal that schizophrenia is linked to widespread loss of the synapses that connect brain cells, with the left side of the brain hit especially hard. The damage follows a surprisingly organized pattern tied to the brain’s chemistry and wiring. Researchers also identified a left frontal region that may serve as a starting point for the loss.",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260820002443.htm"
-    },
-    {
       "category": "Biblical Studies",
       "title": "The Aleppo Codex Online",
       "source": "Biblical Archaeology Society",
@@ -195,36 +195,12 @@
       "url": "https://www.biblicalarchaeology.org/daily/biblical-topics/hebrew-bible/the-aleppo-codex-online/"
     },
     {
-      "category": "Biblical Studies",
-      "title": "What Is the Oldest Hebrew Bible?",
-      "source": "Biblical Archaeology Society",
-      "date": "Thu, 20 Aug 2026 11:00:04 +0000",
-      "summary": "The oldest Hebrew Bible texts are the Dead Sea Scrolls (c. 250 B.C.E.–115 C.E.), but the most nearly complete copies of the Hebrew Bible are codices from a thousand years ago. What happened in the period between these two discoveries? The Ashkar-Gilson Manuscript fills the gap in our knowledge of this interim period. \nThe post What Is the Oldest Hebrew Bible? appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/daily/biblical-topics/hebrew-bible/what-is-the-oldest-hebrew-bible/"
-    },
-    {
-      "category": "Science",
-      "title": "A SpaceX rocket smashed into the Moon — NASA just revealed the crater",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Thu, 20 Aug 2026 03:10:38 EDT",
-      "summary": "A discarded SpaceX Falcon 9 stage crashed into the Moon on Aug. 5, leaving behind a newly formed crater about 60 feet wide. NASA’s Lunar Reconnaissance Orbiter captured detailed images showing bright and dark streaks of debris blasted across the surrounding surface. The impact even exposed fresh material buried beneath the Moon’s weathered exterior.",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260820002429.htm"
-    },
-    {
       "category": "AI",
       "title": "Introducing AI Futures",
       "source": "OpenAI News",
       "date": "Thu, 20 Aug 2026 07:00:00 GMT",
       "summary": "Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
       "url": "https://openai.com/index/introducing-ai-futures"
-    },
-    {
-      "category": "Science",
-      "title": "This total solar eclipse looked strangely golden — here’s why",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Thu, 20 Aug 2026 02:59:00 EDT",
-      "summary": "Spain’s total solar eclipse delivered an unexpected sight: a corona glowing gold instead of its usual pearly white. Because the Sun was setting, its light passed through more atmosphere, while smoke from nearby wildfires filtered out even more blue light. The result was a dramatic golden eclipse, punctuated by a bright pink solar prominence.",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260820002432.htm"
     },
     {
       "category": "Theology",
