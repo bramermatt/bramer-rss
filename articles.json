@@ -1,14 +1,134 @@
 {
-  "lastUpdated": "2026-08-22T10:15:05.406Z",
-  "articleCount": 36,
+  "lastUpdated": "2026-08-22T16:14:37.283Z",
+  "articleCount": 39,
   "articles": [
     {
       "category": "Space",
-      "title": " Partial lunar eclipse August 2026: Where will it be visible from? ",
+      "title": " How will NASA's astronaut training hub change with commercial space stations? ",
       "source": " Latest from Space.com ",
-      "date": "Sat, 22 Aug 2026 10:00:00 +0000",
-      "summary": "Here's where the 96% partial lunar eclipse will be visible from on Earth.",
-      "url": "https://www.space.com/stargazing/lunar-eclipses/where-will-the-partial-lunar-eclipse-on-aug-27-2026-be-visible-from"
+      "date": "Sat, 22 Aug 2026 16:00:00 +0000",
+      "summary": "A tour of Johnson Space Center in Houston shows how NASA and private industry are already working together on the future of human spaceflight.",
+      "url": "https://www.space.com/space-exploration/international-space-station/how-will-nasas-astronaut-training-hub-change-with-commercial-space-stations"
+    },
+    {
+      "category": "Science",
+      "title": "AI decodes DNA initiator sequence found in about 60% of human genes",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sat, 22 Aug 2026 11:40:01 EDT",
+      "summary": "Precise activation of tens of thousands of genes is critical for healthy development and growth. Specialized segments of our DNA are responsible for carefully orchestrating genetic sequences that result in the production of enzymes, hormones, proteins and other crucial components underlying cell structure and function. But if these genes are not correctly activated, cells can stop functioning or result in various disorders, including cancer.",
+      "url": "https://phys.org/news/2026-08-ai-decodes-dna-sequence-human.html"
+    },
+    {
+      "category": "Science",
+      "title": "Arctic shipping a daunting prospect in hotly contested region",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sat, 22 Aug 2026 11:30:01 EDT",
+      "summary": "With Gulf turmoil slashing Suez Canal traffic, shipping firms are tempted to try the Arctic for quicker trips between Europe and Asia—but commercial prospects are unlikely to match countries' strategic ambitions for the North Pole.",
+      "url": "https://phys.org/news/2026-08-arctic-shipping-daunting-prospect-hotly.html"
+    },
+    {
+      "category": "Science",
+      "title": "Thawing Arctic riverbeds may erode up to 10 times faster than unfrozen ground",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sat, 22 Aug 2026 11:20:05 EDT",
+      "summary": "Sometimes science throws up the unexpected. When a team of researchers set out to model river erosion in Canada's High Arctic, they did not expect the findings to defy common sense.",
+      "url": "https://phys.org/news/2026-08-arctic-riverbeds-erode-faster-unfrozen.html"
+    },
+    {
+      "category": "Science",
+      "title": " Archaeologists unearth a medieval nobleman buried with his horse and dog in a rare wooden tomb in Russia ",
+      "source": " Latest from Live Science ",
+      "date": "Sat, 22 Aug 2026 15:00:00 +0000",
+      "summary": "A rare example of a wooden chamber tomb reveals connections between medieval Norse and Old Russian burial styles.",
+      "url": "https://www.livescience.com/archaeology/archaeologists-unearth-a-medieval-nobleman-buried-with-his-horse-and-dog-in-a-rare-wooden-tomb-in-russia"
+    },
+    {
+      "category": "AI",
+      "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
+      "source": "Hacker News: Front Page",
+      "date": "Sat, 22 Aug 2026 14:54:07 +0000",
+      "summary": "Article URL: https://quantumi.sh/public/labs.html\nComments URL: https://news.ycombinator.com/item?id=49400408\nPoints: 25\n# Comments: 2",
+      "url": "https://quantumi.sh/public/labs.html"
+    },
+    {
+      "category": "AI",
+      "title": "A Friendly Introduction to Racket",
+      "source": "Hacker News: Front Page",
+      "date": "Sat, 22 Aug 2026 14:08:19 +0000",
+      "summary": "Article URL: https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/\nComments URL: https://news.ycombinator.com/item?id=49399898\nPoints: 32\n# Comments: 3",
+      "url": "https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/"
+    },
+    {
+      "category": "Space",
+      "title": " 'We Want to Believe' book explores the reality of UFOs: 'It's always going to be more likely that someone is wrong about what they saw' (interview) ",
+      "source": " Latest from Space.com ",
+      "date": "Sat, 22 Aug 2026 14:00:00 +0000",
+      "summary": "Acclaimed literary critic and Senior Editor at The Atlantic Adam Kirsch explores humanity's insatiable drive to wonder at unidentified phenomena in the skies.",
+      "url": "https://www.space.com/entertainment/we-want-to-believe-book-explores-the-reality-of-ufos-its-always-going-to-be-more-likely-that-someone-is-wrong-about-what-they-saw-interview"
+    },
+    {
+      "category": "AI",
+      "title": "The New MCP Roadmap",
+      "source": "Hacker News: Front Page",
+      "date": "Sat, 22 Aug 2026 13:31:34 +0000",
+      "summary": "Article URL: https://blog.modelcontextprotocol.io/posts/mcp-roadmap/\nComments URL: https://news.ycombinator.com/item?id=49399591\nPoints: 80\n# Comments: 54",
+      "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap/"
+    },
+    {
+      "category": "Space",
+      "title": " This Week In Space podcast: Episode 224 — The Science of Artemis ",
+      "source": " Latest from Space.com ",
+      "date": "Sat, 22 Aug 2026 13:24:12 +0000",
+      "summary": "On Episode 224 of This Week In Space, Rod Pyle and guest co-host Rick Jenet are joined by Dr. David Kring to discuss the where, whys, and hows of the Artemis Program's lunar exploration plans.",
+      "url": "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-224-the-science-of-artemis"
+    },
+    {
+      "category": "Science",
+      "title": "Multilingual people may have brains up to 13 years younger",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Sat, 22 Aug 2026 09:12:23 EDT",
+      "summary": "People who speak several languages may have brains that age more slowly, with four-language speakers showing brains that appeared about 13 years younger than those of monolinguals. Starting earlier and becoming highly fluent were also linked to a stronger effect.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260821012226.htm"
+    },
+    {
+      "category": "Science",
+      "title": "JWST finds early galaxies may be 4 times more massive than thought",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Sat, 22 Aug 2026 08:36:23 EDT",
+      "summary": "Astronomers using JWST have discovered that massive early galaxies contain far more small, faint stars than expected. That hidden population could make some of these galaxies three to four times more massive than previous estimates. The finding makes it even harder to explain how enormous, mature galaxies formed so soon after the Big Bang. It could also suggest that planets around low-mass stars were more common in the early universe than scientists realized.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260822015141.htm"
+    },
+    {
+      "category": "Science",
+      "title": " 'The greatest unknown was how much energy would be released by the weapon': How scientists prepared for the Trinity nuclear test ",
+      "source": " Latest from Live Science ",
+      "date": "Sat, 22 Aug 2026 12:00:00 +0000",
+      "summary": "In this excerpt from \"Trinity: An Illustrated History of the World’s First Atomic Test,\" author Emily Seyl looks at the buildup to the 1945 test that changed history. She explores the huge effort to design experiments that would ultimately establish whether the gargantuan explosion in the middle of the desert was a success.",
+      "url": "https://www.livescience.com/physics-mathematics/the-greatest-unknown-was-how-much-energy-would-be-released-by-the-weapon-how-scientists-prepared-for-the-trinity-nuclear-test"
+    },
+    {
+      "category": "AI",
+      "title": "Putting mice into hibernation causes a major loss of synapses",
+      "source": "Ars Technica - All content",
+      "date": "Sat, 22 Aug 2026 11:22:32 +0000",
+      "summary": "Hibernation cuts down on synapses, but mice seem to retain memories anyway.",
+      "url": "https://arstechnica.com/science/2026/08/memories-stick-around-even-after-half-the-synapses-are-gone/"
+    },
+    {
+      "category": "AI",
+      "title": "Dismantling the Roadless Rule threatens to disrupt wildlife and water in US",
+      "source": "Ars Technica - All content",
+      "date": "Sat, 22 Aug 2026 11:08:53 +0000",
+      "summary": "Lands free of roads are under threat from the Trump administration’s proposed rollback.",
+      "url": "https://arstechnica.com/science/2026/08/dismantling-the-roadless-rule-threatens-to-disrupt-wildlife-and-water-in-us/"
+    },
+    {
+      "category": "Science",
+      "title": "This yeast supplement may boost cancer-fighting immunity",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Sat, 22 Aug 2026 06:34:22 EDT",
+      "summary": "A simple yeast-based food supplement may help restore the immune system’s ability to fight cancer, according to new research in mice. Scientists found that yeast beta-glucan reprogrammed early immune cells in the bone marrow, leading to stronger, longer-lasting cancer-fighting responses against colorectal, skin, and breast cancer cells.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260821012230.htm"
     },
     {
       "category": "Science",
@@ -17,6 +137,14 @@
       "date": "Sat, 22 Aug 2026 09:00:00 +0000",
       "summary": "Many people tap their soda cans to prevent them from fizzing over, but does this technique actually work?",
       "url": "https://www.livescience.com/physics-mathematics/does-tapping-on-a-soda-can-really-stop-it-from-exploding"
+    },
+    {
+      "category": "Space",
+      "title": "APOD: 2026 August 22 – Mostly Perseids",
+      "source": "NASA",
+      "date": "Sat, 22 Aug 2026 04:05:00 +0000",
+      "summary": "APOD Science APOD APOD: 2026 August 22… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Mostly Perseids Explanation: Recorded […]",
+      "url": "https://science.nasa.gov/image-article/apod/apod-2026-august-22-mostly-perseids/"
     },
     {
       "category": "Theology",
@@ -35,46 +163,6 @@
       "url": "https://www.thegospelcoalition.org/article/need-healthy-tribalism/"
     },
     {
-      "category": "Science",
-      "title": "Bipartisan majorities in US favor banning glyphosate",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Fri, 21 Aug 2026 22:00:01 EDT",
-      "summary": "Two-thirds of Americans favor banning the use of the herbicide glyphosate, the active ingredient in the popular weedkiller Roundup, on crops grown in the United States, according to a nationally representative survey conducted by the Annenberg Public Policy Center (APPC) of the University of Pennsylvania.",
-      "url": "https://phys.org/news/2026-08-bipartisan-majorities-favor-glyphosate.html"
-    },
-    {
-      "category": "AI",
-      "title": "There's no reason for software to be slow anymore",
-      "source": "Hacker News: Front Page",
-      "date": "Sat, 22 Aug 2026 01:06:17 +0000",
-      "summary": "Article URL: https://danluu.com/perf-opt/\nComments URL: https://news.ycombinator.com/item?id=49395628\nPoints: 410\n# Comments: 298",
-      "url": "https://danluu.com/perf-opt/"
-    },
-    {
-      "category": "AI",
-      "title": "Initial focus for our partnership with Motorola is a regular non-folding device",
-      "source": "Hacker News: Front Page",
-      "date": "Sat, 22 Aug 2026 01:02:09 +0000",
-      "summary": "Article URL: https://grapheneos.social/@GrapheneOS/117136278553665985\nComments URL: https://news.ycombinator.com/item?id=49395605\nPoints: 112\n# Comments: 40",
-      "url": "https://grapheneos.social/@GrapheneOS/117136278553665985"
-    },
-    {
-      "category": "AI",
-      "title": "HN: The Good Parts (2016)",
-      "source": "Hacker News: Front Page",
-      "date": "Fri, 21 Aug 2026 23:53:03 +0000",
-      "summary": "Article URL: https://danluu.com/hn-comments/\nComments URL: https://news.ycombinator.com/item?id=49395171\nPoints: 50\n# Comments: 8",
-      "url": "https://danluu.com/hn-comments/"
-    },
-    {
-      "category": "Science",
-      "title": "Soccer ticket crackdowns and price hikes are excluding traditional fans",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Fri, 21 Aug 2026 19:40:04 EDT",
-      "summary": "The new season of the English Premier League is almost ready to kick off, and with it comes another annual cycle of the national game. Each August brings hope and expectation for supporters, with an opportunity to start anew. But rather than excited anticipation, frustration, anger and anxiety are the overriding emotions of many fans.",
-      "url": "https://phys.org/news/2026-08-soccer-ticket-crackdowns-price-hikes.html"
-    },
-    {
       "category": "AI",
       "title": "Trump's space transportation policy calls for new spaceport on federal land",
       "source": "Ars Technica - All content",
@@ -83,68 +171,20 @@
       "url": "https://arstechnica.com/space/2026/08/trump-admin-calls-for-more-spaceports-to-handle-surge-in-launches/"
     },
     {
-      "category": "Science",
-      "title": "Hydrogel platform uses vitamin B2 and blue light to simplify living tissue models",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Fri, 21 Aug 2026 17:40:01 EDT",
-      "summary": "Researchers at Tampere University have developed a versatile hydrogel platform that makes it easier to create customized biomaterials for tissue engineering, disease modeling, drug discovery and regenerative medicine. Their plug-and-play crosslinking technology enables the design of a wide range of hydrogels in which biological molecules, such as proteins, peptides and nucleic acids, can be incorporated under gentle, cell-friendly conditions. The paper is published in the journal Cell Reports Physical Science.",
-      "url": "https://phys.org/news/2026-08-hydrogel-platform-vitamin-b2-blue.html"
+      "category": "Space",
+      "title": "NASA Shares Views of August Solar Eclipse from Ground, Air, Space",
+      "source": "NASA",
+      "date": "Fri, 21 Aug 2026 18:43:40 +0000",
+      "summary": "On Aug. 12, a total solar eclipse darkened skies over Greenland, Iceland, and Spain. As the Moon covered the Sun, it briefly revealed the Sun’s wispy outer atmosphere — the corona — to those in the path of totality who were lucky enough to have clear skies. NASA researchers and photographers were along the eclipse […]",
+      "url": "https://science.nasa.gov/science-research/heliophysics/nasa-shares-views-of-august-solar-eclipse-from-ground-air-space/"
     },
     {
       "category": "Space",
-      "title": " What happens when a galaxy's supermassive black hole turns off? These dying radio galaxies could show us ",
-      "source": " Latest from Space.com ",
-      "date": "Fri, 21 Aug 2026 21:00:00 +0000",
-      "summary": "Astronomers have discovered a hitherto unseen population of galaxies with fading radio lobes, revealing what happens to these vast outflows when their black hole engines stall.",
-      "url": "https://www.space.com/astronomy/black-holes/what-happens-when-a-galaxys-supermassive-black-hole-turns-off-these-dying-radio-galaxies-could-show-us"
-    },
-    {
-      "category": "AI",
-      "title": "Thunder + fiber-optic cabling used for seismic imaging",
-      "source": "Ars Technica - All content",
-      "date": "Fri, 21 Aug 2026 20:26:46 +0000",
-      "summary": "Thunderstorms make seismic waves that can be used to find sub-surface features.",
-      "url": "https://arstechnica.com/science/2026/08/researchers-use-thunderquakes-to-study-structure-of-earths-surface/"
-    },
-    {
-      "category": "AI",
-      "title": "Hidden Zillow listings created fake supply shock, raising NYC rents, lawsuit says",
-      "source": "Ars Technica - All content",
-      "date": "Fri, 21 Aug 2026 20:10:50 +0000",
-      "summary": "Renters say hidden Zillow listings make it harder to afford living in New York City.",
-      "url": "https://arstechnica.com/tech-policy/2026/08/class-action-accuses-brokers-of-hiding-zillow-listings-driving-up-nyc-rents/"
-    },
-    {
-      "category": "Space",
-      "title": " Trump signs new national space policy to enable 1,000 US rocket launches per year ",
-      "source": " Latest from Space.com ",
-      "date": "Fri, 21 Aug 2026 20:00:46 +0000",
-      "summary": "The United States is updating its approach to managing spaceflights and reentries, with the goal of expanding the nation's capabilities to support more than 1,000 rocket launches per year by 2030.",
-      "url": "https://www.space.com/space-exploration/trump-signs-new-national-space-policy-to-enable-1-000-us-rocket-launches-per-year"
-    },
-    {
-      "category": "Science",
-      "title": " Scientists finally know why astronauts struggle to poop in space — and reveal a hidden risk of long-haul spaceflight ",
-      "source": " Latest from Live Science ",
-      "date": "Fri, 21 Aug 2026 15:19:47 +0000",
-      "summary": "A new NASA-backed study has pinpointed why astronauts often experience constipation in space and how that might affect their health on long-haul missions to Mars and beyond.",
-      "url": "https://www.livescience.com/space/space-exploration/scientists-finally-know-why-astronauts-struggle-to-poop-in-space-and-reveal-a-hidden-risk-of-long-haul-spaceflight"
-    },
-    {
-      "category": "Science",
-      "title": " Have your say: Would you trust a humanoid robot with your household chores? ",
-      "source": " Latest from Live Science ",
-      "date": "Fri, 21 Aug 2026 14:00:00 +0000",
-      "summary": "Humanoid robots are moving out of the lab and into people's homes, from $30-an-hour cleaners to $20,000 domestic helpers. Tell us in our poll if you'd let one loose with a mop.",
-      "url": "https://www.livescience.com/technology/robotics/have-your-say-would-you-trust-a-humanoid-robot-with-your-household-chores"
-    },
-    {
-      "category": "Science",
-      "title": "This weight-loss hormone may protect the liver even without weight loss",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Fri, 21 Aug 2026 07:38:41 EDT",
-      "summary": "A hormone already known for curbing appetite and supporting weight loss may have a surprising second job: protecting the liver from inflammation and scarring. Researchers at McMaster University found that GDF15 activates a previously unknown brain-to-liver pathway that triggers the release of glucocorticoids, helping calm immune activity in the liver.",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260820202854.htm"
+      "title": "TB 26-04 Updates and Modernization of NASA’s Chemical Equilibrium with Applications (CEA) Code",
+      "source": "NASA",
+      "date": "Fri, 21 Aug 2026 17:41:00 +0000",
+      "summary": "For more information, contact Mark K. Leader, Glenn Research Center, mark.leader@nasa.gov Download the PDF version NASA’s Chemical Equilibrium with Applications (CEA) code is a foundational tool for propulsion system analysis. It provides equilibrium chemistry, rocket performance, shock, and detonation calculations used across NASA and the broader aerospace community. NASA Engineering and Safety Center (NESC) Activity […]",
+      "url": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-04-updates-and-modernization-of-nasas-chemical-equilibrium-with-applications-cea-code/"
     },
     {
       "category": "Biblical Studies",
@@ -153,22 +193,6 @@
       "date": "Fri, 21 Aug 2026 10:45:06 +0000",
       "summary": "Archaeologists have uncovered a planned commercial and industrial complex dating to roughly 1,300 years ago in Ramat Gan, Israel. The site contains straight, intersecting streets, rooms […]\nThe post Ramat Gan’s Early Islamic Past appeared first on Biblical Archaeology Society.",
       "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/daily-life-and-practice/ramat-gans-early-islamic-past/"
-    },
-    {
-      "category": "Science",
-      "title": "2,200-year-old Roman shipwreck reveals ancient waterproofing secrets",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Fri, 21 Aug 2026 05:28:51 EDT",
-      "summary": "Scientists analyzing a 2,200-year-old Roman shipwreck found that its hull was coated with pine tar and, in one area, a mixture of tar and beeswax. Pollen trapped in those ancient coatings acted like a geographic fingerprint, revealing the landscapes surrounding the ship when repairs were made.",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260820202907.htm"
-    },
-    {
-      "category": "Science",
-      "title": "Hidden magnetism inside atoms may explain mysterious gamma rays",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Fri, 21 Aug 2026 00:21:34 EDT",
-      "summary": "For decades, scientists have puzzled over why certain atomic nuclei unexpectedly produce large numbers of low-energy gamma rays. A new experiment traced the effect to magnetic changes inside the nucleus, where protons and neutrons effectively flip their tiny internal magnets. The discovery could sharpen models of everything from nuclear reactions on Earth to the creation of heavy elements in stars and neutron star mergers.",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260820202849.htm"
     },
     {
       "category": "Theology",
