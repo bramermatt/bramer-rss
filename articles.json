@@ -1,7 +1,55 @@
 {
-  "lastUpdated": "2026-08-22T16:14:37.283Z",
+  "lastUpdated": "2026-08-22T22:13:35.888Z",
   "articleCount": 39,
   "articles": [
+    {
+      "category": "Science",
+      "title": "Computer models pinpoint catalysts for replacing fossil-fueled ammonia production",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sat, 22 Aug 2026 17:00:04 EDT",
+      "summary": "Ammonia is one of the most important chemicals produced in the world, ranking second only to sulfuric acid in the total volume produced each year. It is used mostly to make fertilizer, which is essential to feeding the world's population. Yet its production accounts for up to 2% of the world's energy consumption and about 1.5% of greenhouse gas emissions, so the search has been underway for ways to produce ammonia more sustainably.",
+      "url": "https://phys.org/news/2026-08-catalysts-fossil-fueled-ammonia-production.html"
+    },
+    {
+      "category": "AI",
+      "title": "Knowing When to Stop: The Art of Making a Loop Converge",
+      "source": "Hacker News: Front Page",
+      "date": "Sat, 22 Aug 2026 20:21:14 +0000",
+      "summary": "Article URL: https://a16z.com/knowing-when-to-stop-the-art-of-making-a-loop-converge/\nComments URL: https://news.ycombinator.com/item?id=49403484\nPoints: 17\n# Comments: 6",
+      "url": "https://a16z.com/knowing-when-to-stop-the-art-of-making-a-loop-converge/"
+    },
+    {
+      "category": "AI",
+      "title": "Fast and Hard Code",
+      "source": "Hacker News: Front Page",
+      "date": "Sat, 22 Aug 2026 19:56:38 +0000",
+      "summary": "Article URL: https://lucumr.pocoo.org/2026/8/22/fast-hard-code/\nComments URL: https://news.ycombinator.com/item?id=49403228\nPoints: 16\n# Comments: 6",
+      "url": "https://lucumr.pocoo.org/2026/8/22/fast-hard-code/"
+    },
+    {
+      "category": "AI",
+      "title": "English ↔ Claudish Translator",
+      "source": "Hacker News: Front Page",
+      "date": "Sat, 22 Aug 2026 19:19:15 +0000",
+      "summary": "Article URL: https://programasweights.com/claudish\nComments URL: https://news.ycombinator.com/item?id=49402907\nPoints: 21\n# Comments: 16",
+      "url": "https://programasweights.com/claudish"
+    },
+    {
+      "category": "Science",
+      "title": "The dynamic duo: 'Weaving' hierarchical DNA materials with two classes of biomolecular nanomachines",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sat, 22 Aug 2026 15:00:01 EDT",
+      "summary": "Biomolecular nanomachines, such as enzymes and molecular motors, are the workhorses behind the synthesis and organization of complex materials in life. Powered by chemical energy, they build, transport and organize biomolecules, allowing living systems to create and maintain highly ordered structures far from thermodynamic equilibrium.",
+      "url": "https://phys.org/news/2026-08-dynamic-duo-hierarchical-dna-materials.html"
+    },
+    {
+      "category": "Science",
+      "title": "Mars Curiosity rover discovers massive field of polygons",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sat, 22 Aug 2026 14:00:04 EDT",
+      "summary": "The surface of Mars is home to some of the most breathtaking and awe-inspiring landscapes in the solar system. This is primarily because the Red Planet lacks several resurfacing processes that Earth possesses, including plate tectonics, volcanism and flowing water.",
+      "url": "https://phys.org/news/2026-08-mars-curiosity-rover-massive-field.html"
+    },
     {
       "category": "Space",
       "title": " How will NASA's astronaut training hub change with commercial space stations? ",
@@ -12,51 +60,11 @@
     },
     {
       "category": "Science",
-      "title": "AI decodes DNA initiator sequence found in about 60% of human genes",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sat, 22 Aug 2026 11:40:01 EDT",
-      "summary": "Precise activation of tens of thousands of genes is critical for healthy development and growth. Specialized segments of our DNA are responsible for carefully orchestrating genetic sequences that result in the production of enzymes, hormones, proteins and other crucial components underlying cell structure and function. But if these genes are not correctly activated, cells can stop functioning or result in various disorders, including cancer.",
-      "url": "https://phys.org/news/2026-08-ai-decodes-dna-sequence-human.html"
-    },
-    {
-      "category": "Science",
-      "title": "Arctic shipping a daunting prospect in hotly contested region",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sat, 22 Aug 2026 11:30:01 EDT",
-      "summary": "With Gulf turmoil slashing Suez Canal traffic, shipping firms are tempted to try the Arctic for quicker trips between Europe and Asia—but commercial prospects are unlikely to match countries' strategic ambitions for the North Pole.",
-      "url": "https://phys.org/news/2026-08-arctic-shipping-daunting-prospect-hotly.html"
-    },
-    {
-      "category": "Science",
-      "title": "Thawing Arctic riverbeds may erode up to 10 times faster than unfrozen ground",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sat, 22 Aug 2026 11:20:05 EDT",
-      "summary": "Sometimes science throws up the unexpected. When a team of researchers set out to model river erosion in Canada's High Arctic, they did not expect the findings to defy common sense.",
-      "url": "https://phys.org/news/2026-08-arctic-riverbeds-erode-faster-unfrozen.html"
-    },
-    {
-      "category": "Science",
       "title": " Archaeologists unearth a medieval nobleman buried with his horse and dog in a rare wooden tomb in Russia ",
       "source": " Latest from Live Science ",
       "date": "Sat, 22 Aug 2026 15:00:00 +0000",
       "summary": "A rare example of a wooden chamber tomb reveals connections between medieval Norse and Old Russian burial styles.",
       "url": "https://www.livescience.com/archaeology/archaeologists-unearth-a-medieval-nobleman-buried-with-his-horse-and-dog-in-a-rare-wooden-tomb-in-russia"
-    },
-    {
-      "category": "AI",
-      "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
-      "source": "Hacker News: Front Page",
-      "date": "Sat, 22 Aug 2026 14:54:07 +0000",
-      "summary": "Article URL: https://quantumi.sh/public/labs.html\nComments URL: https://news.ycombinator.com/item?id=49400408\nPoints: 25\n# Comments: 2",
-      "url": "https://quantumi.sh/public/labs.html"
-    },
-    {
-      "category": "AI",
-      "title": "A Friendly Introduction to Racket",
-      "source": "Hacker News: Front Page",
-      "date": "Sat, 22 Aug 2026 14:08:19 +0000",
-      "summary": "Article URL: https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/\nComments URL: https://news.ycombinator.com/item?id=49399898\nPoints: 32\n# Comments: 3",
-      "url": "https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/"
     },
     {
       "category": "Space",
@@ -65,14 +73,6 @@
       "date": "Sat, 22 Aug 2026 14:00:00 +0000",
       "summary": "Acclaimed literary critic and Senior Editor at The Atlantic Adam Kirsch explores humanity's insatiable drive to wonder at unidentified phenomena in the skies.",
       "url": "https://www.space.com/entertainment/we-want-to-believe-book-explores-the-reality-of-ufos-its-always-going-to-be-more-likely-that-someone-is-wrong-about-what-they-saw-interview"
-    },
-    {
-      "category": "AI",
-      "title": "The New MCP Roadmap",
-      "source": "Hacker News: Front Page",
-      "date": "Sat, 22 Aug 2026 13:31:34 +0000",
-      "summary": "Article URL: https://blog.modelcontextprotocol.io/posts/mcp-roadmap/\nComments URL: https://news.ycombinator.com/item?id=49399591\nPoints: 80\n# Comments: 54",
-      "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap/"
     },
     {
       "category": "Space",
