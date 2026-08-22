@@ -1,14 +1,94 @@
 {
-  "lastUpdated": "2026-08-21T22:15:57.980Z",
+  "lastUpdated": "2026-08-22T10:15:05.406Z",
   "articleCount": 36,
   "articles": [
     {
+      "category": "Space",
+      "title": " Partial lunar eclipse August 2026: Where will it be visible from? ",
+      "source": " Latest from Space.com ",
+      "date": "Sat, 22 Aug 2026 10:00:00 +0000",
+      "summary": "Here's where the 96% partial lunar eclipse will be visible from on Earth.",
+      "url": "https://www.space.com/stargazing/lunar-eclipses/where-will-the-partial-lunar-eclipse-on-aug-27-2026-be-visible-from"
+    },
+    {
+      "category": "Science",
+      "title": " Does tapping on a soda can really stop it from exploding? ",
+      "source": " Latest from Live Science ",
+      "date": "Sat, 22 Aug 2026 09:00:00 +0000",
+      "summary": "Many people tap their soda cans to prevent them from fizzing over, but does this technique actually work?",
+      "url": "https://www.livescience.com/physics-mathematics/does-tapping-on-a-soda-can-really-stop-it-from-exploding"
+    },
+    {
+      "category": "Theology",
+      "title": "Start Here: A Beginner’s Guide to Reading Charles H. Spurgeon",
+      "source": "The Gospel Coalition",
+      "date": "Sat, 22 Aug 2026 04:02:00 +0000",
+      "summary": "No matter where you look in Charles H. Spurgeon’s books, you’re sure to find the Lord Jesus Christ.",
+      "url": "https://www.thegospelcoalition.org/reviews/start-here-charles-spurgeon/"
+    },
+    {
+      "category": "Theology",
+      "title": "We Need Healthy Tribalism",
+      "source": "The Gospel Coalition",
+      "date": "Sat, 22 Aug 2026 04:00:00 +0000",
+      "summary": "It’s OK for you to have a tribe and to learn from people outside your tribe.",
+      "url": "https://www.thegospelcoalition.org/article/need-healthy-tribalism/"
+    },
+    {
+      "category": "Science",
+      "title": "Bipartisan majorities in US favor banning glyphosate",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Fri, 21 Aug 2026 22:00:01 EDT",
+      "summary": "Two-thirds of Americans favor banning the use of the herbicide glyphosate, the active ingredient in the popular weedkiller Roundup, on crops grown in the United States, according to a nationally representative survey conducted by the Annenberg Public Policy Center (APPC) of the University of Pennsylvania.",
+      "url": "https://phys.org/news/2026-08-bipartisan-majorities-favor-glyphosate.html"
+    },
+    {
       "category": "AI",
-      "title": "SalesPatriot (YC W25) Is Hiring Forward Deployed Engineers",
+      "title": "There's no reason for software to be slow anymore",
       "source": "Hacker News: Front Page",
-      "date": "Fri, 21 Aug 2026 21:00:48 +0000",
-      "summary": "Article URL: https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer\nComments URL: https://news.ycombinator.com/item?id=49393733\nPoints: 0\n# Comments: 0",
-      "url": "https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer"
+      "date": "Sat, 22 Aug 2026 01:06:17 +0000",
+      "summary": "Article URL: https://danluu.com/perf-opt/\nComments URL: https://news.ycombinator.com/item?id=49395628\nPoints: 410\n# Comments: 298",
+      "url": "https://danluu.com/perf-opt/"
+    },
+    {
+      "category": "AI",
+      "title": "Initial focus for our partnership with Motorola is a regular non-folding device",
+      "source": "Hacker News: Front Page",
+      "date": "Sat, 22 Aug 2026 01:02:09 +0000",
+      "summary": "Article URL: https://grapheneos.social/@GrapheneOS/117136278553665985\nComments URL: https://news.ycombinator.com/item?id=49395605\nPoints: 112\n# Comments: 40",
+      "url": "https://grapheneos.social/@GrapheneOS/117136278553665985"
+    },
+    {
+      "category": "AI",
+      "title": "HN: The Good Parts (2016)",
+      "source": "Hacker News: Front Page",
+      "date": "Fri, 21 Aug 2026 23:53:03 +0000",
+      "summary": "Article URL: https://danluu.com/hn-comments/\nComments URL: https://news.ycombinator.com/item?id=49395171\nPoints: 50\n# Comments: 8",
+      "url": "https://danluu.com/hn-comments/"
+    },
+    {
+      "category": "Science",
+      "title": "Soccer ticket crackdowns and price hikes are excluding traditional fans",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Fri, 21 Aug 2026 19:40:04 EDT",
+      "summary": "The new season of the English Premier League is almost ready to kick off, and with it comes another annual cycle of the national game. Each August brings hope and expectation for supporters, with an opportunity to start anew. But rather than excited anticipation, frustration, anger and anxiety are the overriding emotions of many fans.",
+      "url": "https://phys.org/news/2026-08-soccer-ticket-crackdowns-price-hikes.html"
+    },
+    {
+      "category": "AI",
+      "title": "Trump's space transportation policy calls for new spaceport on federal land",
+      "source": "Ars Technica - All content",
+      "date": "Fri, 21 Aug 2026 23:32:17 +0000",
+      "summary": "\"We probably need another site that's capable of heavy and super heavy launch capability.\"",
+      "url": "https://arstechnica.com/space/2026/08/trump-admin-calls-for-more-spaceports-to-handle-surge-in-launches/"
+    },
+    {
+      "category": "Science",
+      "title": "Hydrogel platform uses vitamin B2 and blue light to simplify living tissue models",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Fri, 21 Aug 2026 17:40:01 EDT",
+      "summary": "Researchers at Tampere University have developed a versatile hydrogel platform that makes it easier to create customized biomaterials for tissue engineering, disease modeling, drug discovery and regenerative medicine. Their plug-and-play crosslinking technology enables the design of a wide range of hydrogels in which biological molecules, such as proteins, peptides and nucleic acids, can be incorporated under gentle, cell-friendly conditions. The paper is published in the journal Cell Reports Physical Science.",
+      "url": "https://phys.org/news/2026-08-hydrogel-platform-vitamin-b2-blue.html"
     },
     {
       "category": "Space",
@@ -41,62 +121,6 @@
       "date": "Fri, 21 Aug 2026 20:00:46 +0000",
       "summary": "The United States is updating its approach to managing spaceflights and reentries, with the goal of expanding the nation's capabilities to support more than 1,000 rocket launches per year by 2030.",
       "url": "https://www.space.com/space-exploration/trump-signs-new-national-space-policy-to-enable-1-000-us-rocket-launches-per-year"
-    },
-    {
-      "category": "Space",
-      "title": " 'Star Trek: Strange New Worlds' cast talks losing sleep, living up to their character's legacy, and learning to ride a horse for season 4 (interview) ",
-      "source": " Latest from Space.com ",
-      "date": "Fri, 21 Aug 2026 20:00:00 +0000",
-      "summary": "\"We lose so much sleep, we have crazy hours, we say crazy things, we even look crazy.\"",
-      "url": "https://www.space.com/entertainment/space-movies-shows/star-trek-strange-new-worlds-cast-talks-losing-sleep-living-up-to-their-characters-legacy-and-learning-to-ride-a-horse-for-season-4-interview"
-    },
-    {
-      "category": "AI",
-      "title": "Quick impressions: A week of using Codex more than Claude",
-      "source": "Hacker News: Front Page",
-      "date": "Fri, 21 Aug 2026 19:51:48 +0000",
-      "summary": "Article URL: https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/\nComments URL: https://news.ycombinator.com/item?id=49393051\nPoints: 60\n# Comments: 66",
-      "url": "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/"
-    },
-    {
-      "category": "AI",
-      "title": "Motorola's GrapheneOS phones will launch in 2027 priced higher than Pixels",
-      "source": "Ars Technica - All content",
-      "date": "Fri, 21 Aug 2026 19:32:29 +0000",
-      "summary": "The private Android-based OS will expand beyond Pixels next year.",
-      "url": "https://arstechnica.com/gadgets/2026/08/motorolas-grapheneos-phones-will-launch-in-2027-priced-higher-than-pixels/"
-    },
-    {
-      "category": "AI",
-      "title": "Tumble Forth – from assembly to OS with C compiler",
-      "source": "Hacker News: Front Page",
-      "date": "Fri, 21 Aug 2026 18:59:52 +0000",
-      "summary": "Article URL: https://tumbleforth.hardcoded.net/\nComments URL: https://news.ycombinator.com/item?id=49392465\nPoints: 30\n# Comments: 3",
-      "url": "https://tumbleforth.hardcoded.net/"
-    },
-    {
-      "category": "Space",
-      "title": "NASA Shares Views of August Solar Eclipse from Ground, Air, Space",
-      "source": "NASA",
-      "date": "Fri, 21 Aug 2026 18:43:40 +0000",
-      "summary": "On Aug. 12, a total solar eclipse darkened skies over Greenland, Iceland, and Spain. As the Moon covered the Sun, it briefly revealed the Sun’s wispy outer atmosphere — the corona — to those in the path of totality who were lucky enough to have clear skies. NASA researchers and photographers were along the eclipse […]",
-      "url": "https://science.nasa.gov/science-research/heliophysics/nasa-shares-views-of-august-solar-eclipse-from-ground-air-space/"
-    },
-    {
-      "category": "Space",
-      "title": "TB 26-04 Updates and Modernization of NASA’s Chemical Equilibrium with Applications (CEA) Code",
-      "source": "NASA",
-      "date": "Fri, 21 Aug 2026 17:41:00 +0000",
-      "summary": "For more information, contact Mark K. Leader, Glenn Research Center, mark.leader@nasa.gov Download the PDF version NASA’s Chemical Equilibrium with Applications (CEA) code is a foundational tool for propulsion system analysis. It provides equilibrium chemistry, rocket performance, shock, and detonation calculations used across NASA and the broader aerospace community. NASA Engineering and Safety Center (NESC) Activity […]",
-      "url": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-04-updates-and-modernization-of-nasas-chemical-equilibrium-with-applications-cea-code/"
-    },
-    {
-      "category": "Space",
-      "title": "Webb Opens Treasure Chest",
-      "source": "NASA",
-      "date": "Fri, 21 Aug 2026 17:35:11 +0000",
-      "summary": "NASA’s James Webb Space Telescope captured this Aug. 6, 2026, infrared image of part of the Carina Nebula, a star-forming region also home to the Cosmic Cliffs. This feature, called the “Treasure Chest,” is an object known as a cometary globule. A cometary globule is an isolated cloud of gas and dust with a dense, […]",
-      "url": "https://www.nasa.gov/image-article/webb-opens-treasure-chest/"
     },
     {
       "category": "Science",
@@ -140,14 +164,6 @@
     },
     {
       "category": "Science",
-      "title": " Meet the scientists 3D printing corneas to restore people's vision, potentially filling a worldwide shortage of transplantable tissue ",
-      "source": " Latest from Live Science ",
-      "date": "Fri, 21 Aug 2026 09:00:00 +0000",
-      "summary": "New 3D-printed corneal implants could help make up for the shortage of donor corneas available for transplant procedures, say Precise Bio co-founders Aryeh Batt and Dr. Anthony Atala.",
-      "url": "https://www.livescience.com/health/surgery/meet-the-scientists-3d-printing-corneas-to-restore-peoples-vision-potentially-filling-a-worldwide-shortage-of-transplantable-tissue"
-    },
-    {
-      "category": "Science",
       "title": "Hidden magnetism inside atoms may explain mysterious gamma rays",
       "source": "All Top News -- ScienceDaily",
       "date": "Fri, 21 Aug 2026 00:21:34 EDT",
@@ -161,14 +177,6 @@
       "date": "Fri, 21 Aug 2026 04:04:00 +0000",
       "summary": "Even imperfect family devotionals can have a profound effect on your children’s lives.",
       "url": "https://www.thegospelcoalition.org/podcasts/tgc-podcast/family-discipleship-busy/"
-    },
-    {
-      "category": "Theology",
-      "title": "Learn to Grieve Well",
-      "source": "The Gospel Coalition",
-      "date": "Fri, 21 Aug 2026 04:00:00 +0000",
-      "summary": "The longer we live, the more we’ll lose. And the more we love, the deeper we’ll grieve. Let’s do it well.",
-      "url": "https://www.thegospelcoalition.org/article/learn-grieve-well/"
     },
     {
       "category": "Biblical Studies",
@@ -201,14 +209,6 @@
       "date": "Thu, 20 Aug 2026 07:00:00 GMT",
       "summary": "Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
       "url": "https://openai.com/index/introducing-ai-futures"
-    },
-    {
-      "category": "Theology",
-      "title": "Overcoming Fear and Perfectionism in Bible Reading (with Tara-Leigh Cobble)",
-      "source": "The Gospel Coalition",
-      "date": "Thu, 20 Aug 2026 04:04:57 +0000",
-      "summary": "Courtney and Melissa talk to Tara-Leigh Cobble about how she got over her lack of desire to read the Bible and how, over time, reading the Bible made her fall in love with its Author.",
-      "url": "https://www.thegospelcoalition.org/podcasts/deep-dish/fear-perfectionism-bible-reading/"
     },
     {
       "category": "AI",
