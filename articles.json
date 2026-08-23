@@ -1,7 +1,31 @@
 {
-  "lastUpdated": "2026-08-23T16:15:48.616Z",
-  "articleCount": 39,
+  "lastUpdated": "2026-08-23T22:13:34.568Z",
+  "articleCount": 36,
   "articles": [
+    {
+      "category": "Science",
+      "title": "Protein degradation rate helps explain why humans develop more slowly than mice",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sun, 23 Aug 2026 17:00:01 EDT",
+      "summary": "Humans develop at a slower rate than other mammalian species, like mice, but scientists are still trying to understand the molecular basis of these differences. Now, researchers from the Ebisuya Group at EMBL Barcelona and PoL-TU Dresden and from the Savitski Team at EMBL Heidelberg show that across 4,000 proteins shared between humans and mice, there is a clear tendency for protein degradation in humans to be slower than in mice.",
+      "url": "https://phys.org/news/2026-08-protein-degradation-humans-slowly-mice.html"
+    },
+    {
+      "category": "Science",
+      "title": "Could teaching assistants be an overlooked teacher pipeline? New research says yes",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sun, 23 Aug 2026 16:00:03 EDT",
+      "summary": "As school districts continue searching for ways to recruit and retain teachers, new research from UNC-Chapel Hill suggests one promising pipeline may already be in classrooms: teaching assistants.",
+      "url": "https://phys.org/news/2026-08-overlooked-teacher-pipeline.html"
+    },
+    {
+      "category": "Science",
+      "title": "Collaborative drawing offers new insights into how strangers become friends",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sun, 23 Aug 2026 15:00:01 EDT",
+      "summary": "The closer two people grow, the more alike their brains work—or so the assumption goes. Two ETH Zurich studies challenge this idea by examining the brain activity of younger and older adults who drew together over several weeks. Despite growing closer, the similarity of their brain activity did not simply increase.",
+      "url": "https://phys.org/news/2026-08-collaborative-insights-strangers-friends.html"
+    },
     {
       "category": "Space",
       "title": " New 'Star Trek' documentary featuring William Shatner hits theaters this fall, celebrating 60 years of Trek ",
@@ -9,30 +33,6 @@
       "date": "Sun, 23 Aug 2026 16:00:00 +0000",
       "summary": "\"This film is a love letter to 'Star Trek'\"",
       "url": "https://www.space.com/entertainment/space-movies-shows/new-star-trek-documentary-featuring-william-shatner-hits-theaters-this-fall-celebrating-60-years-of-trek"
-    },
-    {
-      "category": "Science",
-      "title": "JWST peeks at Callisto's ancient scars",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sun, 23 Aug 2026 11:00:04 EDT",
-      "summary": "Of Jupiter's four Galilean moons, Callisto is the one that gets the least attention. Io is constantly being resurfaced by volcanoes. Europa has a giant liquid water ocean. And Ganymede has its own magnetic field that interacts with its parent planet in weird ways. Callisto, by comparison, seems sedate, with its ancient, crater-saturated surface seemingly frozen in time. But new data from the James Webb Space Telescope (JWST) shows that even this most benign of the Big Four moons is more active than previously realized.",
-      "url": "https://phys.org/news/2026-08-jwst-peeks-callisto-ancient-scars.html"
-    },
-    {
-      "category": "Science",
-      "title": "Hot temperatures can dull blue morpho butterflies' iridescent scales",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sun, 23 Aug 2026 11:00:01 EDT",
-      "summary": "Blue morpho butterflies have captivated the human eye for centuries. We even have one as an emoji on our phones. In a recent experiment, researchers at the Smithsonian Tropical Research Institute (STRI) documented for the first time that hot temperatures during development can reduce the brightness of their iridescence. At hot temperatures, such as those projected in future warming scenarios, the structures responsible for their iridescent color could change enough that common bird predators and other butterflies of the same species would likely see a color change.",
-      "url": "https://phys.org/news/2026-08-hot-temperatures-dull-blue-morpho.html"
-    },
-    {
-      "category": "Science",
-      "title": "China abruptly postpones ambitious Chang'e-7 lunar mission launch",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sun, 23 Aug 2026 10:38:51 EDT",
-      "summary": "China said on Sunday it was postponing its planned ambitious Chang'e-7 lunar mission, which was set to carry out explorations including searching for water ice on the moon.",
-      "url": "https://phys.org/news/2026-08-china-abruptly-postpones-ambitious-lunar.html"
     },
     {
       "category": "AI",
@@ -139,14 +139,6 @@
       "url": "https://www.livescience.com/animals/do-other-animals-call-each-other-by-name"
     },
     {
-      "category": "Space",
-      "title": "Curiosity Blog, Sols 4982–4987: Back to Our Regularly Scheduled Programming",
-      "source": "NASA",
-      "date": "Sun, 23 Aug 2026 07:39:28 +0000",
-      "summary": "By Allison Dries-Padilla, Missions Operations Specialist at Malin Space Science Systems Earth planning date: Friday, Aug. 14, 2026 This week of Curiosity Mars rover operations takes us back to our “regularly scheduled programming.” After taking a slight detour to investigate the “erosional surface” we are back on course to ascend Mount Sharp. As we transition […]",
-      "url": "https://science.nasa.gov/blog/curiosity-blog-sols-4982-4987-back-to-our-regularly-scheduled-programming/"
-    },
-    {
       "category": "Theology",
       "title": "When Unhealed Illness Brings Shame",
       "source": "The Gospel Coalition",
@@ -163,14 +155,6 @@
       "url": "https://arstechnica.com/science/2026/08/memories-stick-around-even-after-half-the-synapses-are-gone/"
     },
     {
-      "category": "Space",
-      "title": "APOD: 2026 August 22 – Mostly Perseids",
-      "source": "NASA",
-      "date": "Sat, 22 Aug 2026 04:05:00 +0000",
-      "summary": "APOD Science APOD APOD: 2026 August 22… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Mostly Perseids Explanation: Recorded […]",
-      "url": "https://science.nasa.gov/image-article/apod/apod-2026-august-22-mostly-perseids/"
-    },
-    {
       "category": "Theology",
       "title": "Start Here: A Beginner’s Guide to Reading Charles H. Spurgeon",
       "source": "The Gospel Coalition",
@@ -185,14 +169,6 @@
       "date": "Sat, 22 Aug 2026 04:00:00 +0000",
       "summary": "It’s OK for you to have a tribe and to learn from people outside your tribe.",
       "url": "https://www.thegospelcoalition.org/article/need-healthy-tribalism/"
-    },
-    {
-      "category": "Space",
-      "title": "NASA Shares Views of August Solar Eclipse from Ground, Air, Space",
-      "source": "NASA",
-      "date": "Fri, 21 Aug 2026 18:43:40 +0000",
-      "summary": "On Aug. 12, a total solar eclipse darkened skies over Greenland, Iceland, and Spain. As the Moon covered the Sun, it briefly revealed the Sun’s wispy outer atmosphere — the corona — to those in the path of totality who were lucky enough to have clear skies. NASA researchers and photographers were along the eclipse […]",
-      "url": "https://science.nasa.gov/science-research/heliophysics/nasa-shares-views-of-august-solar-eclipse-from-ground-air-space/"
     },
     {
       "category": "Biblical Studies",
