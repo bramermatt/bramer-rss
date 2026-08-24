@@ -1,30 +1,78 @@
 {
-  "lastUpdated": "2026-08-23T22:13:34.568Z",
+  "lastUpdated": "2026-08-24T10:30:04.178Z",
   "articleCount": 36,
   "articles": [
     {
       "category": "Science",
-      "title": "Protein degradation rate helps explain why humans develop more slowly than mice",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sun, 23 Aug 2026 17:00:01 EDT",
-      "summary": "Humans develop at a slower rate than other mammalian species, like mice, but scientists are still trying to understand the molecular basis of these differences. Now, researchers from the Ebisuya Group at EMBL Barcelona and PoL-TU Dresden and from the Savitski Team at EMBL Heidelberg show that across 4,000 proteins shared between humans and mice, there is a clear tendency for protein degradation in humans to be slower than in mice.",
-      "url": "https://phys.org/news/2026-08-protein-degradation-humans-slowly-mice.html"
+      "title": " Front face of a stela: A 1,300-year-old carving of a powerful Maya 'Lady Supreme Warlord' that weighs over 2 tons ",
+      "source": " Latest from Live Science ",
+      "date": "Mon, 24 Aug 2026 10:00:00 +0000",
+      "summary": "This monumental carving depicts a powerful Maya queen called Lady K'abel, who ruled an ancient city in Guatemala at the end of the seventh century.",
+      "url": "https://www.livescience.com/archaeology/americas/front-face-of-a-stela-a-1-300-year-old-carving-of-a-powerful-maya-lady-supreme-warlord-that-weighs-over-2-tons"
+    },
+    {
+      "category": "Space",
+      "title": " It's been 20 years since Pluto lost planet status. Will it ever get its title back? ",
+      "source": " Latest from Space.com ",
+      "date": "Mon, 24 Aug 2026 10:00:00 +0000",
+      "summary": "The reclassification of Pluto as a dwarf planet continues to stir up a hornet's nest of controversy and debate, as Space.com meets one astronomer who believes the decision to have been a mistake.",
+      "url": "https://www.space.com/astronomy/pluto/its-been-20-years-since-pluto-lost-planet-status-will-it-ever-get-its-title-back"
     },
     {
       "category": "Science",
-      "title": "Could teaching assistants be an overlooked teacher pipeline? New research says yes",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sun, 23 Aug 2026 16:00:03 EDT",
-      "summary": "As school districts continue searching for ways to recruit and retain teachers, new research from UNC-Chapel Hill suggests one promising pipeline may already be in classrooms: teaching assistants.",
-      "url": "https://phys.org/news/2026-08-overlooked-teacher-pipeline.html"
+      "title": " Cheap wall tiles 'inspired by flowing streams' could fix one of superfast 6G's biggest problems ",
+      "source": " Latest from Live Science ",
+      "date": "Mon, 24 Aug 2026 09:45:00 +0000",
+      "summary": "Superfast 6G has a major problem — signals struggle to pass through physical barriers. But scientists have invented a $2 wall tile that can fix that.",
+      "url": "https://www.livescience.com/technology/communications/cheap-wall-tiles-inspired-by-flowing-streams-could-fix-one-of-superfast-6gs-biggest-problems"
     },
     {
       "category": "Science",
-      "title": "Collaborative drawing offers new insights into how strangers become friends",
+      "title": "Engineered yeasts help turn PET plastic and crop waste into protein-rich cookies",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Sun, 23 Aug 2026 15:00:01 EDT",
-      "summary": "The closer two people grow, the more alike their brains work—or so the assumption goes. Two ETH Zurich studies challenge this idea by examining the brain activity of younger and older adults who drew together over several weeks. Despite growing closer, the similarity of their brain activity did not simply increase.",
-      "url": "https://phys.org/news/2026-08-collaborative-insights-strangers-friends.html"
+      "date": "Mon, 24 Aug 2026 05:00:07 EDT",
+      "summary": "Plastic might be the last ingredient you would ever add to a cookie recipe. But a team of researchers is looking to change that. They've programmed yeasts to turn plastic and agricultural waste into edible proteins and flavoring molecules, creating a treat from trash. The technology not only offers a new upcycling method but could also sustain life in disaster zones or even deep-space missions with humans aboard.",
+      "url": "https://phys.org/news/2026-08-yeasts-pet-plastic-crop-protein.html"
+    },
+    {
+      "category": "Science",
+      "title": "Nanoparticle flu vaccine protects against three influenza strains in mice",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Mon, 24 Aug 2026 05:00:03 EDT",
+      "summary": "A new nanoparticle vaccine could one day give patients immunity to the flu with fewer trips to the doctor and without requiring health officials to correctly guess which flu strains will become dominant each year.",
+      "url": "https://phys.org/news/2026-08-nanoparticle-flu-vaccine-influenza-strains.html"
+    },
+    {
+      "category": "Science",
+      "title": "China says unmanned moon mission delayed over 'launch conditions'",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Mon, 24 Aug 2026 03:10:01 EDT",
+      "summary": "China's manned space agency said Sunday it is delaying a research moon mission that is part of Beijing's efforts to land a crew there by 2030, less than two weeks after a rare launch failure.",
+      "url": "https://phys.org/news/2026-08-china-unmanned-moon-mission-delayed.html"
+    },
+    {
+      "category": "Theology",
+      "title": "AI and Ethics: Can AI Promote Truth and the Common Good?",
+      "source": "The Gospel Coalition",
+      "date": "Mon, 24 Aug 2026 04:04:33 +0000",
+      "summary": "Joshua Baru talks with Christopher Watkin about who designs AI systems, who benefits from them, and who bears the cost when they go wrong.",
+      "url": "https://www.thegospelcoalition.org/podcasts/silicon-spiritualities/ai-ethics-truth-common-good/"
+    },
+    {
+      "category": "Theology",
+      "title": "What Is a Human in the AI Age?",
+      "source": "The Gospel Coalition",
+      "date": "Mon, 24 Aug 2026 04:02:00 +0000",
+      "summary": "In the incarnation, God does the opposite of an LLM. He binds his speech to a body, to time, to suffering.",
+      "url": "https://www.thegospelcoalition.org/article/human-ai-age/"
+    },
+    {
+      "category": "Theology",
+      "title": "Staying Faithful When the Work Is Slow and Hard",
+      "source": "The Gospel Coalition",
+      "date": "Mon, 24 Aug 2026 04:00:00 +0000",
+      "summary": "Carey Moore wanted to offer classes and Bible studies to women in a hard part of Memphis. Instead, she bought a tea company and hired them.",
+      "url": "https://www.thegospelcoalition.org/article/staying-faithful-slow-hard/"
     },
     {
       "category": "Space",
@@ -75,14 +123,6 @@
       "url": "https://www.space.com/astronomy/sun/how-a-huge-fleet-of-17-spacecraft-discovered-something-surprising-about-solar-eruptions"
     },
     {
-      "category": "Space",
-      "title": " Bad weather delays launch of China's historic Chang'e 7 mission to moon's south pole ",
-      "source": " Latest from Space.com ",
-      "date": "Sun, 23 Aug 2026 13:54:11 +0000",
-      "summary": "China has delayed its ambitious ice-hunting Chang'e 7 mission to the moon's south pole due to a brewing storm near the launch site. A new target date has not been announced.",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/bad-weather-delays-launch-of-chinas-historic-change-7-mission-to-moons-south-pole"
-    },
-    {
       "category": "Science",
       "title": "Physicists create a tiny “Big Bang” with surprisingly small atomic nuclei",
       "source": "All Top News -- ScienceDaily",
@@ -123,30 +163,6 @@
       "url": "https://www.sciencedaily.com/releases/2026/08/260823014953.htm"
     },
     {
-      "category": "Science",
-      "title": " 'Starry Night' telescope photo captures some of the oldest stars in the universe — Space photo of the week ",
-      "source": " Latest from Live Science ",
-      "date": "Sun, 23 Aug 2026 10:00:00 +0000",
-      "summary": "The Corona Australis Molecular Cloud shines in a stunning new image revealing glowing nebulae, newborn stars and the Chandelier Cluster.",
-      "url": "https://www.livescience.com/space/astronomy/starry-night-telescope-photo-captures-some-of-the-oldest-stars-in-the-universe-space-photo-of-the-week"
-    },
-    {
-      "category": "Science",
-      "title": " Do other animals call each other by name? ",
-      "source": " Latest from Live Science ",
-      "date": "Sun, 23 Aug 2026 09:00:00 +0000",
-      "summary": "Research in dolphins, elephants, parrots and primates suggests animals may call each other by name, but scientists are divided on how to define the behavior.",
-      "url": "https://www.livescience.com/animals/do-other-animals-call-each-other-by-name"
-    },
-    {
-      "category": "Theology",
-      "title": "When Unhealed Illness Brings Shame",
-      "source": "The Gospel Coalition",
-      "date": "Sun, 23 Aug 2026 04:00:00 +0000",
-      "summary": "Pray for healing, yes. But don’t make healing the yardstick by which you measure God’s activity in your life.",
-      "url": "https://www.thegospelcoalition.org/article/shame-unhealed-illness/"
-    },
-    {
       "category": "AI",
       "title": "Putting mice into hibernation causes a major loss of synapses",
       "source": "Ars Technica - All content",
@@ -155,28 +171,20 @@
       "url": "https://arstechnica.com/science/2026/08/memories-stick-around-even-after-half-the-synapses-are-gone/"
     },
     {
-      "category": "Theology",
-      "title": "Start Here: A Beginner’s Guide to Reading Charles H. Spurgeon",
-      "source": "The Gospel Coalition",
-      "date": "Sat, 22 Aug 2026 04:02:00 +0000",
-      "summary": "No matter where you look in Charles H. Spurgeon’s books, you’re sure to find the Lord Jesus Christ.",
-      "url": "https://www.thegospelcoalition.org/reviews/start-here-charles-spurgeon/"
-    },
-    {
-      "category": "Theology",
-      "title": "We Need Healthy Tribalism",
-      "source": "The Gospel Coalition",
-      "date": "Sat, 22 Aug 2026 04:00:00 +0000",
-      "summary": "It’s OK for you to have a tribe and to learn from people outside your tribe.",
-      "url": "https://www.thegospelcoalition.org/article/need-healthy-tribalism/"
-    },
-    {
       "category": "Biblical Studies",
       "title": "Ramat Gan’s Early Islamic Past",
       "source": "Biblical Archaeology Society",
       "date": "Fri, 21 Aug 2026 10:45:06 +0000",
       "summary": "Archaeologists have uncovered a planned commercial and industrial complex dating to roughly 1,300 years ago in Ramat Gan, Israel. The site contains straight, intersecting streets, rooms […]\nThe post Ramat Gan’s Early Islamic Past appeared first on Biblical Archaeology Society.",
       "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/daily-life-and-practice/ramat-gans-early-islamic-past/"
+    },
+    {
+      "category": "Theology",
+      "title": "First Aid for the Faithful",
+      "source": "9Marks",
+      "date": "Fri, 21 Aug 2026 03:33:42 +0000",
+      "summary": "Weariness is a reminder for our souls to come to Jesus and drink.\nThe post First Aid for the Faithful appeared first on 9Marks.",
+      "url": "https://www.9marks.org/review/first-aid-for-the-faithful/?utm_source=rss&utm_medium=rss&utm_campaign=first-aid-for-the-faithful"
     },
     {
       "category": "Biblical Studies",
@@ -257,14 +265,6 @@
       "date": "Sun, 16 Aug 2026 15:06:14 +0000",
       "summary": "BOOK REVIEW: James Selkirk’s Revolutionary War: The Memoir of a Continental Sergeant, introduced and edited by Robb K. Haberman (Westholme, 2026) $32.50 hardcover In 1774, alone and at the age of sixteen, James Selkirk sailed from Scotland to the American colonies. Two years later, he enlisted in the Continental army and, because he could read […]\nThe post James Selkirk’s Revolutionary War appeared first on Journal of the American Revolution.",
       "url": "https://allthingsliberty.com/2026/08/james-selkirks-revolutionary-war/"
-    },
-    {
-      "category": "Theology",
-      "title": "Ten Ways to Savor Sundays",
-      "source": "9Marks",
-      "date": "Fri, 14 Aug 2026 05:22:32 +0000",
-      "summary": "Gathering with God’s people provides a rest that physical inactivity cannot provide. It’s a rest that reinvigorates your soul, not just your body.\nThe post Ten Ways to Savor Sundays appeared first on 9Marks.",
-      "url": "https://www.9marks.org/article/ten-ways-to-savor-sundays/?utm_source=rss&utm_medium=rss&utm_campaign=ten-ways-to-savor-sundays"
     },
     {
       "category": "History",
