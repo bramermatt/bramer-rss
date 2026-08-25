@@ -1,86 +1,134 @@
 {
-  "lastUpdated": "2026-08-25T16:27:51.048Z",
+  "lastUpdated": "2026-08-25T22:18:07.976Z",
   "articleCount": 39,
   "articles": [
     {
-      "category": "AI",
-      "title": "Why iPhone App Blockers Are Harder to Build Than They Look",
-      "source": "Hacker News: Front Page",
-      "date": "Tue, 25 Aug 2026 16:21:11 +0000",
-      "summary": "Article URL: https://usefella.com/blog/how-iphone-app-blockers-work/\nComments URL: https://news.ycombinator.com/item?id=49436556\nPoints: 3\n# Comments: 0",
-      "url": "https://usefella.com/blog/how-iphone-app-blockers-work/"
-    },
-    {
-      "category": "AI",
-      "title": "Anthropic Sees over $30T in Potential Revenue",
-      "source": "Hacker News: Front Page",
-      "date": "Tue, 25 Aug 2026 16:20:11 +0000",
-      "summary": "Article URL: https://www.wsj.com/tech/ai/anthropic-expected-to-tell-investors-it-sees-over-30-trillion-in-potential-revenue-a611efea\nComments URL: https://news.ycombinator.com/item?id=49436536\nPoints: 4\n# Comments: 1",
-      "url": "https://www.wsj.com/tech/ai/anthropic-expected-to-tell-investors-it-sees-over-30-trillion-in-potential-revenue-a611efea"
+      "category": "Science",
+      "title": "3D atomic imaging reveals a new pathway to crystal formation",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Tue, 25 Aug 2026 18:00:03 EDT",
+      "summary": "The most common scientific approach for thinking about how condensation, freezing and other phase transitions begin is based in classical nucleation theory, which was developed about a century ago. Thousands of experiments have supported a key equation describing how initial ordered seeds, called nuclei, form within disordered matter.",
+      "url": "https://phys.org/news/2026-08-3d-atomic-imaging-reveals-pathway.html"
     },
     {
       "category": "Science",
-      "title": "Chemical physicists quantitatively model electron interactions in real quantum materials",
+      "title": "Closing the gap between wildfire modeling and real-world response",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Tue, 25 Aug 2026 12:20:05 EDT",
-      "summary": "A team of scientists from Caltech and Yale University has shown for the first time how to accurately quantify an important quantum phenomenon in metals, called the Kondo effect, for specific real materials. Unlike previous approaches, which for decades have relied on simplified models to qualitatively describe the effect, the new work uses the actual atomic and electronic structures of materials to solve the problem directly.",
-      "url": "https://phys.org/news/2026-08-chemical-physicists-quantitatively-electron-interactions.html"
+      "date": "Tue, 25 Aug 2026 18:00:01 EDT",
+      "summary": "Canada's 2023 wildfire season burned more than 18.5 million hectares (45.7 million acres), an area larger than Greece. As fires like these grow more frequent and unpredictable, a team of UBC Okanagan researchers has taken stock of two decades of work applying operations research to the problem and found a field that has matured quickly but still struggles to get its best ideas out of journals and into the field.",
+      "url": "https://phys.org/news/2026-08-gap-wildfire-real-world-response.html"
     },
     {
       "category": "Science",
-      "title": "Companies, regulators and stakeholders shape sustainability reporting, says researcher",
+      "title": "JWST reveals a race against time for forming planets",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Tue, 25 Aug 2026 12:20:04 EDT",
-      "summary": "Sustainability reporting is shaped by the social, economic and political environment in which companies operate. New research shows how corporate culture, cross-border regulatory influences and stakeholder involvement in standard-setting shape how reporting practices evolve over time.",
-      "url": "https://phys.org/news/2026-08-companies-stakeholders-sustainability.html"
+      "date": "Tue, 25 Aug 2026 17:50:01 EDT",
+      "summary": "Planets form from disks of gas and dust around young stars, but the gas needed for growth does not last forever. New observations from NASA's James Webb Space Telescope (JWST) now offer a new view of how this gas escapes and how the process changes as young planetary systems develop.",
+      "url": "https://phys.org/news/2026-08-jwst-reveals-planets.html"
     },
     {
       "category": "AI",
-      "title": "New bootloader lets you take the \"Meta\" out of the original Meta Quest",
-      "source": "Ars Technica - All content",
-      "date": "Tue, 25 Aug 2026 16:04:37 +0000",
-      "summary": "Privilege escalation attack grants \"full control\" and freedom from Meta's servers/apps.",
-      "url": "https://arstechnica.com/gaming/2026/08/new-bootloader-lets-you-take-the-meta-out-of-the-original-meta-quest/"
-    },
-    {
-      "category": "Science",
-      "title": "Genetic evidence reveals how goosegrass colonized a newly formed volcanic island",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Tue, 25 Aug 2026 12:00:08 EDT",
-      "summary": "Opportunities to directly observe how life colonizes newly formed land and how ecosystems subsequently develop are exceedingly rare. In a study published in the Journal of Plant Research, researchers at University of Tsukuba used genetic analyses to investigate the origin of Eleusine indica, a grass species found on Nishinoshima, an active volcanic island in the northwestern Pacific south of mainland Japan. Having newly emerged, the island offers a unique natural laboratory for understanding the earliest stages of biological colonization and ecosystem development.",
-      "url": "https://phys.org/news/2026-08-genetic-evidence-reveals-goosegrass-colonized.html"
-    },
-    {
-      "category": "AI",
-      "title": "How much of HN is AI?",
+      "title": "Python's pre-declared constants are kinda weird",
       "source": "Hacker News: Front Page",
-      "date": "Tue, 25 Aug 2026 15:23:41 +0000",
-      "summary": "Article URL: https://blog.coredump.cx/p/how-much-of-hn-is-ai\nComments URL: https://news.ycombinator.com/item?id=49435728\nPoints: 134\n# Comments: 84",
-      "url": "https://blog.coredump.cx/p/how-much-of-hn-is-ai"
-    },
-    {
-      "category": "AI",
-      "title": "AI won’t replace radiologists, but it will dramatically change their jobs",
-      "source": "Ars Technica - All content",
-      "date": "Tue, 25 Aug 2026 15:10:03 +0000",
-      "summary": "A pioneering AI scientist once predicted computers would replace human radiologists. They haven't.",
-      "url": "https://arstechnica.com/health/2026/08/ai-wont-replace-radiologists-but-it-will-dramatically-change-their-jobs/"
+      "date": "Tue, 25 Aug 2026 21:39:02 +0000",
+      "summary": "Article URL: https://sebsite.pw/w/20260801-pythonconstants.html\nComments URL: https://news.ycombinator.com/item?id=49441033\nPoints: 4\n# Comments: 0",
+      "url": "https://sebsite.pw/w/20260801-pythonconstants.html"
     },
     {
       "category": "Space",
-      "title": "Astronauts Anil Menon and Sophie Adenot on Spacewalk",
-      "source": "NASA",
-      "date": "Tue, 25 Aug 2026 14:57:26 +0000",
-      "summary": "From left, Expedition 75 flight engineers Anil Menon of NASA (partially obscured and wearing the spacesuit with a red stripe on the legs) and Sophie Adenot of ESA (European Space Agency) work together during a six‑hour and 23‑minute spacewalk outside the International Space Station on Aug. 18, 2026. The pair will finish installing a high-speed […]",
-      "url": "https://www.nasa.gov/image-article/astronauts-anil-menon-and-sophie-adenot-on-spacewalk/"
-    },
-    {
-      "category": "Space",
-      "title": " Sun fires powerful M6.9 solar flare and CME toward Earth — could it boost northern lights chances this week? ",
+      "title": " 'You just saved the video dish': Two astronauts complete spacewalk to replace ISS antenna ",
       "source": " Latest from Space.com ",
-      "date": "Tue, 25 Aug 2026 14:50:50 +0000",
-      "summary": "A restless Earth-facing sunspot has been firing off a barrage of powerful solar flares — and now a CME could be heading our way.",
-      "url": "https://www.space.com/stargazing/auroras/sun-fires-powerful-m6-9-solar-flare-and-cme-toward-earth-could-it-boost-northern-lights-chances-this-week"
+      "date": "Tue, 25 Aug 2026 21:00:00 +0000",
+      "summary": "Astronauts Anil Menon and Sophie Adenot completed a 6.5-hour spacewalk on Tuesday, (Aug. 25), installing a replacement Space-to-Ground antenna on the outside of the International Space Station.",
+      "url": "https://www.space.com/space-exploration/international-space-station/you-just-saved-the-video-dish-two-astronauts-complete-spacewalk-to-replace-iss-antenna"
+    },
+    {
+      "category": "AI",
+      "title": "World humanoid robot games show runners breaking records, bursting into flames",
+      "source": "Ars Technica - All content",
+      "date": "Tue, 25 Aug 2026 20:59:03 +0000",
+      "summary": "Record-breaking robot races are less substantial than household chore challenges.",
+      "url": "https://arstechnica.com/ai/2026/08/world-humanoid-robot-games-show-runners-breaking-records-bursting-into-flames/"
+    },
+    {
+      "category": "AI",
+      "title": "When str.lower() is a security vulnerability in Python – Seth Larson",
+      "source": "Hacker News: Front Page",
+      "date": "Tue, 25 Aug 2026 20:49:03 +0000",
+      "summary": "Article URL: https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability\nComments URL: https://news.ycombinator.com/item?id=49440410\nPoints: 16\n# Comments: 7",
+      "url": "https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability"
+    },
+    {
+      "category": "Space",
+      "title": "NASA Invites Media to LunaRecycle Challenge Finale Event in Alabama",
+      "source": "NASA",
+      "date": "Tue, 25 Aug 2026 20:20:58 +0000",
+      "summary": "NASA will announce the winners of the final phase of its LunaRecycle Challenge on Friday, Aug. 28, at The University of Alabama (UA) Lee Styslinger College of Engineering in Tuscaloosa, Alabama. Launched in 2024, the challenge incentivizes the invention of new recycling systems that could support non-metabolic waste management efforts for future lunar missions. Media […]",
+      "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-lunarecycle-challenge-finale-event-in-alabama/"
+    },
+    {
+      "category": "Space",
+      "title": " 'Aliens: The Video Games' author Mike Diver on overlooked Alien games, tracking down retro game developers, and the future of the Xenomorph (interview) ",
+      "source": " Latest from Space.com ",
+      "date": "Tue, 25 Aug 2026 20:00:00 +0000",
+      "summary": "We chat to author Mike Diver about this complete chronicle of Alien video games.",
+      "url": "https://www.space.com/entertainment/space-books/aliens-the-video-games-author-mike-diver-on-overlooked-alien-games-tracking-down-retro-game-developers-and-the-future-of-the-xenomorph-interview"
+    },
+    {
+      "category": "Space",
+      "title": "NASA Ames’ Contributions to Roman’s Mission",
+      "source": "NASA",
+      "date": "Tue, 25 Aug 2026 19:44:55 +0000",
+      "summary": "Set to launch on Sunday, Aug. 30, NASA’s Nancy Grace Roman Space Telescope will empower astronomers to explore vast regions of the cosmos and settle essential questions in the areas of dark energy, dark matter, planets outside our solar system, and the formation and growth of galaxies over cosmic time. Key contributions to Roman’s mission […]",
+      "url": "https://www.nasa.gov/general/nasa-ames-contributions-to-romans-mission/"
+    },
+    {
+      "category": "AI",
+      "title": "C2PA Cameras Do Not Survive Contact with Reality",
+      "source": "Hacker News: Front Page",
+      "date": "Tue, 25 Aug 2026 19:38:24 +0000",
+      "summary": "Article URL: https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html\nComments URL: https://news.ycombinator.com/item?id=49439499\nPoints: 28\n# Comments: 7",
+      "url": "https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html"
+    },
+    {
+      "category": "Science",
+      "title": " 2 people die of measles in Pennsylvania as vaccination rates drop across the nation ",
+      "source": " Latest from Live Science ",
+      "date": "Tue, 25 Aug 2026 19:05:16 +0000",
+      "summary": "Pennsylvania health officials have reported two recent deaths from measles, marking the United States' first deaths from the highly infectious disease in 2026.",
+      "url": "https://www.livescience.com/health/viruses-infections-disease/2-people-die-of-measles-in-pennsylvania-as-vaccination-rates-drop-across-the-nation"
+    },
+    {
+      "category": "AI",
+      "title": "Preserving glow-in-the-dark art and fashion for future generations",
+      "source": "Ars Technica - All content",
+      "date": "Tue, 25 Aug 2026 18:59:12 +0000",
+      "summary": "Understanding unique photochemistry of such materials will help in conservation, storage, and exhibition.",
+      "url": "https://arstechnica.com/science/2026/08/how-chemistry-can-keep-glow-in-the-dark-pigments-from-fading/"
+    },
+    {
+      "category": "Space",
+      "title": "NASA Ames Experts Available for Roman Space Telescope Interviews ",
+      "source": "NASA",
+      "date": "Tue, 25 Aug 2026 18:47:01 +0000",
+      "summary": "NASA’s Ames Research Center in California’s Silicon Valley invites media to learn more about NASA’s Nancy Grace Roman Space Telescope, scheduled to launch Sunday, Aug. 30, 2026, from NASA’s Kennedy Space Center in Florida. The Roman telescope will provide a wide, detailed view of the universe, helping scientists study dark energy, exoplanets, and cosmic structures. […]",
+      "url": "https://www.nasa.gov/news-release/nasa-ames-experts-available-for-roman-space-telescope-interviews/"
+    },
+    {
+      "category": "AI",
+      "title": "Google's anti-nausea Motion Assist dots finally rolling out on Android",
+      "source": "Ars Technica - All content",
+      "date": "Tue, 25 Aug 2026 18:32:30 +0000",
+      "summary": "It's currently only appearing on Pixels running Android 17.",
+      "url": "https://arstechnica.com/gadgets/2026/08/google-begins-rolling-out-anti-motion-sickness-feature-on-android-17/"
+    },
+    {
+      "category": "Space",
+      "title": " Starbase Louisiana: SpaceX announces enormous $100 billion Starbase launch site ",
+      "source": " Latest from Space.com ",
+      "date": "Tue, 25 Aug 2026 18:27:22 +0000",
+      "summary": "A new spaceport will bring 10 launch pads to Louisiana's Gulf Coast and support thousands of Starship launches per year.",
+      "url": "https://www.space.com/space-exploration/private-spaceflight/spacex-announces-enormous-usd100-billion-starbase-louisiana-starship-launch-site"
     },
     {
       "category": "Science",
@@ -89,38 +137,6 @@
       "date": "Tue, 25 Aug 2026 14:00:00 +0000",
       "summary": "Archaeologists have discovered a prehistoric ritual structure oriented to the sun and moon in the Czech Republic.",
       "url": "https://www.livescience.com/archaeology/ritual-solstice-structure-1-000-years-older-than-stonehenge-unearthed-in-czech-republic"
-    },
-    {
-      "category": "Space",
-      "title": " On this day in space! Aug. 25, 1997: NASA launches Advanced Composition Explorer to track solar wind and so much more ",
-      "source": " Latest from Space.com ",
-      "date": "Tue, 25 Aug 2026 14:00:00 +0000",
-      "summary": "On Aug. 25, 1997, NASA launched the Advanced Composition Explorer, or ACE satellite to study energetic particles traveling through space, including solar wind and space weather. Here's why it mattered.",
-      "url": "https://www.space.com/space-exploration/on-this-day-in-space-august-25-2026"
-    },
-    {
-      "category": "Space",
-      "title": " Astronauts make history repairing the ISS | Space photo of the day for Aug. 25, 2026 ",
-      "source": " Latest from Space.com ",
-      "date": "Tue, 25 Aug 2026 14:00:00 +0000",
-      "summary": "ESA astronaut Sophie Adenot and NASA astronaut Anil Menon complete a spacewalk on Aug. 18, 2026.",
-      "url": "https://www.space.com/space-exploration/human-spaceflight/astronauts-make-history-repairing-the-iss-space-photo-of-the-day-for-aug-25-2026"
-    },
-    {
-      "category": "AI",
-      "title": "Apple's new desktop computers are designed specifically for local AI development",
-      "source": "Ars Technica - All content",
-      "date": "Tue, 25 Aug 2026 13:00:11 +0000",
-      "summary": "Folks have been daisy-chaining Macs for AI—this refresh keeps that in mind.",
-      "url": "https://arstechnica.com/apple/2026/08/with-new-mac-studio-and-mac-mini-apple-leans-hard-into-local-ai-inference/"
-    },
-    {
-      "category": "Space",
-      "title": "Integrating Model-Based Systems Engineering and Fault Management to Enable Autonomous Space Missions",
-      "source": "NASA",
-      "date": "Tue, 25 Aug 2026 13:00:00 +0000",
-      "summary": "Fully autonomous space mission operations require the ability to detect faults and compensate for them without human intervention. To address this challenge and provide model-based support for system design and operations, it is important to connect fault management (FM) and model-based systems engineering (MBSE). This approach was successfully demonstrated with the model-based generation of a […]",
-      "url": "https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/integrating-model-based-systems-engineering-and-fault-management-to-enable-autonomous-space-missions/"
     },
     {
       "category": "Science",
@@ -193,22 +209,6 @@
       "date": "Tue, 25 Aug 2026 00:00:00 GMT",
       "summary": "OpenAI banned Russia-origin accounts using AI to promote a fake Israel-based think tank and a “sovereignty” index praising Russia and criticizing the West.",
       "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia"
-    },
-    {
-      "category": "Space",
-      "title": "NASA Sets Coverage for Roman Space Telescope Launch from Florida",
-      "source": "NASA",
-      "date": "Mon, 24 Aug 2026 20:44:58 +0000",
-      "summary": "Coverage plans are ready for NASA’s Nancy Grace Roman Space Telescope prelaunch and launch activities. Roman is NASA’s next-generation observatory designed to explore some of the universe’s biggest mysteries, including dark energy. NASA and SpaceX are targeting Roman’s liftoff for no earlier than 7:26 a.m. EDT Sunday, Aug. 30, aboard a SpaceX Falcon Heavy rocket […]",
-      "url": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-roman-space-telescope-launch-from-florida/"
-    },
-    {
-      "category": "Science",
-      "title": " As cervical cancer rates fall, HPV is causing more throat and mouth cancers in men — why? ",
-      "source": " Latest from Live Science ",
-      "date": "Mon, 24 Aug 2026 18:30:00 +0000",
-      "summary": "HPV vaccination is helping knock back cervical cancer rates, but meanwhile, mouth and throat cancers caused by the virus are up in men. Here's what to know.",
-      "url": "https://www.livescience.com/health/cancer/as-cervical-cancer-rates-fall-hpv-is-causing-more-throat-and-mouth-cancers-in-men-why"
     },
     {
       "category": "Theology",
