@@ -1,14 +1,134 @@
 {
-  "lastUpdated": "2026-08-25T10:23:23.354Z",
-  "articleCount": 36,
+  "lastUpdated": "2026-08-25T16:27:51.048Z",
+  "articleCount": 39,
   "articles": [
     {
       "category": "AI",
-      "title": "Why some US restaurants are banning tips",
+      "title": "Why iPhone App Blockers Are Harder to Build Than They Look",
       "source": "Hacker News: Front Page",
-      "date": "Tue, 25 Aug 2026 10:09:47 +0000",
-      "summary": "Article URL: https://www.bbc.com/news/articles/c4g36yze692o\nComments URL: https://news.ycombinator.com/item?id=49431364\nPoints: 11\n# Comments: 4",
-      "url": "https://www.bbc.com/news/articles/c4g36yze692o"
+      "date": "Tue, 25 Aug 2026 16:21:11 +0000",
+      "summary": "Article URL: https://usefella.com/blog/how-iphone-app-blockers-work/\nComments URL: https://news.ycombinator.com/item?id=49436556\nPoints: 3\n# Comments: 0",
+      "url": "https://usefella.com/blog/how-iphone-app-blockers-work/"
+    },
+    {
+      "category": "AI",
+      "title": "Anthropic Sees over $30T in Potential Revenue",
+      "source": "Hacker News: Front Page",
+      "date": "Tue, 25 Aug 2026 16:20:11 +0000",
+      "summary": "Article URL: https://www.wsj.com/tech/ai/anthropic-expected-to-tell-investors-it-sees-over-30-trillion-in-potential-revenue-a611efea\nComments URL: https://news.ycombinator.com/item?id=49436536\nPoints: 4\n# Comments: 1",
+      "url": "https://www.wsj.com/tech/ai/anthropic-expected-to-tell-investors-it-sees-over-30-trillion-in-potential-revenue-a611efea"
+    },
+    {
+      "category": "Science",
+      "title": "Chemical physicists quantitatively model electron interactions in real quantum materials",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Tue, 25 Aug 2026 12:20:05 EDT",
+      "summary": "A team of scientists from Caltech and Yale University has shown for the first time how to accurately quantify an important quantum phenomenon in metals, called the Kondo effect, for specific real materials. Unlike previous approaches, which for decades have relied on simplified models to qualitatively describe the effect, the new work uses the actual atomic and electronic structures of materials to solve the problem directly.",
+      "url": "https://phys.org/news/2026-08-chemical-physicists-quantitatively-electron-interactions.html"
+    },
+    {
+      "category": "Science",
+      "title": "Companies, regulators and stakeholders shape sustainability reporting, says researcher",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Tue, 25 Aug 2026 12:20:04 EDT",
+      "summary": "Sustainability reporting is shaped by the social, economic and political environment in which companies operate. New research shows how corporate culture, cross-border regulatory influences and stakeholder involvement in standard-setting shape how reporting practices evolve over time.",
+      "url": "https://phys.org/news/2026-08-companies-stakeholders-sustainability.html"
+    },
+    {
+      "category": "AI",
+      "title": "New bootloader lets you take the \"Meta\" out of the original Meta Quest",
+      "source": "Ars Technica - All content",
+      "date": "Tue, 25 Aug 2026 16:04:37 +0000",
+      "summary": "Privilege escalation attack grants \"full control\" and freedom from Meta's servers/apps.",
+      "url": "https://arstechnica.com/gaming/2026/08/new-bootloader-lets-you-take-the-meta-out-of-the-original-meta-quest/"
+    },
+    {
+      "category": "Science",
+      "title": "Genetic evidence reveals how goosegrass colonized a newly formed volcanic island",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Tue, 25 Aug 2026 12:00:08 EDT",
+      "summary": "Opportunities to directly observe how life colonizes newly formed land and how ecosystems subsequently develop are exceedingly rare. In a study published in the Journal of Plant Research, researchers at University of Tsukuba used genetic analyses to investigate the origin of Eleusine indica, a grass species found on Nishinoshima, an active volcanic island in the northwestern Pacific south of mainland Japan. Having newly emerged, the island offers a unique natural laboratory for understanding the earliest stages of biological colonization and ecosystem development.",
+      "url": "https://phys.org/news/2026-08-genetic-evidence-reveals-goosegrass-colonized.html"
+    },
+    {
+      "category": "AI",
+      "title": "How much of HN is AI?",
+      "source": "Hacker News: Front Page",
+      "date": "Tue, 25 Aug 2026 15:23:41 +0000",
+      "summary": "Article URL: https://blog.coredump.cx/p/how-much-of-hn-is-ai\nComments URL: https://news.ycombinator.com/item?id=49435728\nPoints: 134\n# Comments: 84",
+      "url": "https://blog.coredump.cx/p/how-much-of-hn-is-ai"
+    },
+    {
+      "category": "AI",
+      "title": "AI won’t replace radiologists, but it will dramatically change their jobs",
+      "source": "Ars Technica - All content",
+      "date": "Tue, 25 Aug 2026 15:10:03 +0000",
+      "summary": "A pioneering AI scientist once predicted computers would replace human radiologists. They haven't.",
+      "url": "https://arstechnica.com/health/2026/08/ai-wont-replace-radiologists-but-it-will-dramatically-change-their-jobs/"
+    },
+    {
+      "category": "Space",
+      "title": "Astronauts Anil Menon and Sophie Adenot on Spacewalk",
+      "source": "NASA",
+      "date": "Tue, 25 Aug 2026 14:57:26 +0000",
+      "summary": "From left, Expedition 75 flight engineers Anil Menon of NASA (partially obscured and wearing the spacesuit with a red stripe on the legs) and Sophie Adenot of ESA (European Space Agency) work together during a six‑hour and 23‑minute spacewalk outside the International Space Station on Aug. 18, 2026. The pair will finish installing a high-speed […]",
+      "url": "https://www.nasa.gov/image-article/astronauts-anil-menon-and-sophie-adenot-on-spacewalk/"
+    },
+    {
+      "category": "Space",
+      "title": " Sun fires powerful M6.9 solar flare and CME toward Earth — could it boost northern lights chances this week? ",
+      "source": " Latest from Space.com ",
+      "date": "Tue, 25 Aug 2026 14:50:50 +0000",
+      "summary": "A restless Earth-facing sunspot has been firing off a barrage of powerful solar flares — and now a CME could be heading our way.",
+      "url": "https://www.space.com/stargazing/auroras/sun-fires-powerful-m6-9-solar-flare-and-cme-toward-earth-could-it-boost-northern-lights-chances-this-week"
+    },
+    {
+      "category": "Science",
+      "title": " Ritual solstice structure 1,000 years older than Stonehenge unearthed in Czech Republic ",
+      "source": " Latest from Live Science ",
+      "date": "Tue, 25 Aug 2026 14:00:00 +0000",
+      "summary": "Archaeologists have discovered a prehistoric ritual structure oriented to the sun and moon in the Czech Republic.",
+      "url": "https://www.livescience.com/archaeology/ritual-solstice-structure-1-000-years-older-than-stonehenge-unearthed-in-czech-republic"
+    },
+    {
+      "category": "Space",
+      "title": " On this day in space! Aug. 25, 1997: NASA launches Advanced Composition Explorer to track solar wind and so much more ",
+      "source": " Latest from Space.com ",
+      "date": "Tue, 25 Aug 2026 14:00:00 +0000",
+      "summary": "On Aug. 25, 1997, NASA launched the Advanced Composition Explorer, or ACE satellite to study energetic particles traveling through space, including solar wind and space weather. Here's why it mattered.",
+      "url": "https://www.space.com/space-exploration/on-this-day-in-space-august-25-2026"
+    },
+    {
+      "category": "Space",
+      "title": " Astronauts make history repairing the ISS | Space photo of the day for Aug. 25, 2026 ",
+      "source": " Latest from Space.com ",
+      "date": "Tue, 25 Aug 2026 14:00:00 +0000",
+      "summary": "ESA astronaut Sophie Adenot and NASA astronaut Anil Menon complete a spacewalk on Aug. 18, 2026.",
+      "url": "https://www.space.com/space-exploration/human-spaceflight/astronauts-make-history-repairing-the-iss-space-photo-of-the-day-for-aug-25-2026"
+    },
+    {
+      "category": "AI",
+      "title": "Apple's new desktop computers are designed specifically for local AI development",
+      "source": "Ars Technica - All content",
+      "date": "Tue, 25 Aug 2026 13:00:11 +0000",
+      "summary": "Folks have been daisy-chaining Macs for AI—this refresh keeps that in mind.",
+      "url": "https://arstechnica.com/apple/2026/08/with-new-mac-studio-and-mac-mini-apple-leans-hard-into-local-ai-inference/"
+    },
+    {
+      "category": "Space",
+      "title": "Integrating Model-Based Systems Engineering and Fault Management to Enable Autonomous Space Missions",
+      "source": "NASA",
+      "date": "Tue, 25 Aug 2026 13:00:00 +0000",
+      "summary": "Fully autonomous space mission operations require the ability to detect faults and compensate for them without human intervention. To address this challenge and provide model-based support for system design and operations, it is important to connect fault management (FM) and model-based systems engineering (MBSE). This approach was successfully demonstrated with the model-based generation of a […]",
+      "url": "https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/integrating-model-based-systems-engineering-and-fault-management-to-enable-autonomous-space-missions/"
+    },
+    {
+      "category": "Science",
+      "title": "Atomic catalyst unlocks the hidden value of plant waste",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Tue, 25 Aug 2026 06:09:15 EDT",
+      "summary": "Scientists have created a highly efficient catalyst that breaks down stubborn lignin from plant waste into useful chemicals under relatively mild conditions. By revealing exactly how the catalyst works at the atomic level, the discovery could help turn forestry and agricultural waste into renewable building blocks for fuels, plastics, and other materials.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260824065601.htm"
     },
     {
       "category": "History",
@@ -19,36 +139,12 @@
       "url": "https://allthingsliberty.com/2026/08/the-21-mile-circle-american-revolution-heritage-sites-in-the-english-midlands/"
     },
     {
-      "category": "Science",
-      "title": "Cool Japan: Human fridge chills workers in extreme heat",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Tue, 25 Aug 2026 05:20:01 EDT",
-      "summary": "Feeling dizzy and unwell after cycling to work in Japan's punishing summer heat, warehouse worker Isao Tabuchi headed for his company's newest acquisition: a refrigerator for humans.",
-      "url": "https://phys.org/news/2026-08-cool-japan-human-fridge-chills.html"
-    },
-    {
       "category": "AI",
-      "title": "Screen viewing time from age 1 to 8 years and subsequent academic performance",
-      "source": "Hacker News: Front Page",
-      "date": "Tue, 25 Aug 2026 09:17:33 +0000",
-      "summary": "Article URL: https://link.springer.com/article/10.1007/s12519-026-01046-1\nComments URL: https://news.ycombinator.com/item?id=49431024\nPoints: 9\n# Comments: 6",
-      "url": "https://link.springer.com/article/10.1007/s12519-026-01046-1"
-    },
-    {
-      "category": "Science",
-      "title": "The hidden chemistry behind glow-in-the-dark art",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Tue, 25 Aug 2026 05:00:12 EDT",
-      "summary": "Some of the world's brightest colors don't just reflect light; they create it. Scientists and museum conservators are now uncovering why these luminous pigments fade and how to preserve them for future generations. The findings could help protect artwork while informing the development of longer-lasting phosphorescent materials for a variety of applications, from fashion runways to airport runways.",
-      "url": "https://phys.org/news/2026-08-hidden-chemistry-dark-art.html"
-    },
-    {
-      "category": "Science",
-      "title": "Namibia paves way for phosphate mining in the Atlantic Ocean",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Tue, 25 Aug 2026 05:00:08 EDT",
-      "summary": "Namibia has granted environmental clearance for an offshore phosphate mining project that paves the way for the world's first commercial seabed-dredging operation for the mineral, despite opposition from green groups and the fishing industry.",
-      "url": "https://phys.org/news/2026-08-namibia-paves-phosphate-atlantic-ocean.html"
+      "title": "The full stack behind abundant intelligence",
+      "source": "OpenAI News",
+      "date": "Tue, 25 Aug 2026 07:05:00 GMT",
+      "summary": "OpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost.",
+      "url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence"
     },
     {
       "category": "Science",
@@ -59,20 +155,12 @@
       "url": "https://www.livescience.com/planet-earth/rivers-oceans/rare-sunlight-trick-transforms-pacific-island-into-a-giant-silver-magnifying-glass-earth-from-space"
     },
     {
-      "category": "Space",
-      "title": " What time is the partial lunar eclipse on Aug. 27-28? Here's when to see the 96% 'blood moon' ",
-      "source": " Latest from Space.com ",
-      "date": "Tue, 25 Aug 2026 07:00:00 +0000",
-      "summary": "Don't miss the best lunar eclipse until New Year's Eve 2028. Here's when to look up to catch the deep partial lunar eclipse on Aug. 27-28.",
-      "url": "https://www.space.com/stargazing/lunar-eclipses/what-time-is-the-partial-lunar-eclipse-on-aug-27-28-heres-when-to-see-the-96-percent-blood-moon"
-    },
-    {
       "category": "AI",
-      "title": "Show HN: Screen memory without screenshots, just text to Markdown",
-      "source": "Hacker News: Front Page",
-      "date": "Tue, 25 Aug 2026 04:33:24 +0000",
-      "summary": "It's a macOS menu bar app that reads the text of your focused window every few seconds through the Accessibility API. No screenshots, no video, or OCR. It writes plain markdown, one file per day, into a folder you choose.\nPoint Claude Code (or anything with file access) at the folder and ask \"what did I work on Tuesday?\" or have it build memory about your projects. The folder contains an AGENTS.md explaining the format to the model.\nThought it might be useful for someone so chucked it up on GitHub\nComments URL: https://news.ycombinator.com/item?id=49429095\nPoints: 48\n# Comments: 18",
-      "url": "https://github.com/dragthelake/ambient-context"
+      "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
+      "source": "OpenAI News",
+      "date": "Tue, 25 Aug 2026 07:00:00 GMT",
+      "summary": "Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models.",
+      "url": "https://openai.com/index/jalapeno-first-results"
     },
     {
       "category": "Theology",
@@ -91,14 +179,6 @@
       "url": "https://www.thegospelcoalition.org/reviews/resisting-therapy-culture/"
     },
     {
-      "category": "Space",
-      "title": " Watch 2 astronauts replace failed ISS antenna during spacewalk today ",
-      "source": " Latest from Space.com ",
-      "date": "Tue, 25 Aug 2026 04:01:00 +0000",
-      "summary": "NASA astronaut Anil Menon and France's Sophie Adenot will conduct a spacewalk today (Aug. 25) to replace a space-to-ground-antenna on the International Space Station. Here's how to watch live.",
-      "url": "https://www.space.com/space-exploration/international-space-station/watch-2-astronauts-replace-failed-iss-antenna-during-spacewalk-today"
-    },
-    {
       "category": "Theology",
       "title": "2 Witnesses of Revelation 11: A Case for Symbolism",
       "source": "The Gospel Coalition",
@@ -115,36 +195,12 @@
       "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia"
     },
     {
-      "category": "AI",
-      "title": "AI is hitting entry-level jobs hardest, Stanford study finds",
-      "source": "Ars Technica - All content",
-      "date": "Mon, 24 Aug 2026 21:45:53 +0000",
-      "summary": "Young employment in AI-impacted fields down 19% compared to more AI-resistant occupations.",
-      "url": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/"
-    },
-    {
-      "category": "AI",
-      "title": "Data centers become \"killer application\" for new power transformer tech",
-      "source": "Ars Technica - All content",
-      "date": "Mon, 24 Aug 2026 21:32:16 +0000",
-      "summary": "Solid-state transformers could also benefit EV charging and someday households.",
-      "url": "https://arstechnica.com/gadgets/2026/08/energy-hungry-ai-data-centers-spur-new-power-transformer-technology/"
-    },
-    {
-      "category": "AI",
-      "title": "RFK Jr. may upend how vaccine recommendations are categorized",
-      "source": "Ars Technica - All content",
-      "date": "Mon, 24 Aug 2026 21:04:48 +0000",
-      "summary": "There are currently 3 categories. Without reason, RFK Jr. is considering changes.",
-      "url": "https://arstechnica.com/health/2026/08/rfk-jr-may-upend-how-vaccine-recommendations-are-categorized/"
-    },
-    {
       "category": "Space",
-      "title": " Pluto losing its planet status may be the best thing that ever happened to solar system diversity ",
-      "source": " Latest from Space.com ",
-      "date": "Mon, 24 Aug 2026 21:00:00 +0000",
-      "summary": "Unpopular opinion time, Pluto being reclassified as a dwarf planet was a great thing for our understanding of the solar system and for the former planet, too.",
-      "url": "https://www.space.com/astronomy/pluto/pluto-losing-its-planet-status-may-be-the-best-thing-that-ever-happened-to-solar-system-diversity"
+      "title": "NASA Sets Coverage for Roman Space Telescope Launch from Florida",
+      "source": "NASA",
+      "date": "Mon, 24 Aug 2026 20:44:58 +0000",
+      "summary": "Coverage plans are ready for NASA’s Nancy Grace Roman Space Telescope prelaunch and launch activities. Roman is NASA’s next-generation observatory designed to explore some of the universe’s biggest mysteries, including dark energy. NASA and SpaceX are targeting Roman’s liftoff for no earlier than 7:26 a.m. EDT Sunday, Aug. 30, aboard a SpaceX Falcon Heavy rocket […]",
+      "url": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-roman-space-telescope-launch-from-florida/"
     },
     {
       "category": "Science",
@@ -153,14 +209,6 @@
       "date": "Mon, 24 Aug 2026 18:30:00 +0000",
       "summary": "HPV vaccination is helping knock back cervical cancer rates, but meanwhile, mouth and throat cancers caused by the virus are up in men. Here's what to know.",
       "url": "https://www.livescience.com/health/cancer/as-cervical-cancer-rates-fall-hpv-is-causing-more-throat-and-mouth-cancers-in-men-why"
-    },
-    {
-      "category": "Science",
-      "title": " Ocean 'under unprecedented strain' as El Niño helps supercharge warming to record levels ",
-      "source": " Latest from Live Science ",
-      "date": "Mon, 24 Aug 2026 18:25:02 +0000",
-      "summary": "The Copernicus Climate Change Service announced that the daily global sea surface temperature has reached its highest level since records began.",
-      "url": "https://www.livescience.com/planet-earth/climate-change/ocean-under-unprecedented-strain-as-el-nino-helps-supercharge-warming-to-record-levels"
     },
     {
       "category": "Theology",
@@ -187,28 +235,12 @@
       "url": "https://www.sciencedaily.com/releases/2026/08/260824065519.htm"
     },
     {
-      "category": "AI",
-      "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
-      "source": "OpenAI News",
-      "date": "Mon, 24 Aug 2026 12:00:00 GMT",
-      "summary": "GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance.",
-      "url": "https://openai.com/index/gpt-5-6-in-kiro"
-    },
-    {
       "category": "History",
       "title": "Our Story: The Revolutionary War of Colonel Robert and Mary Ouldfield Heriot",
       "source": "Journal of the American Revolution",
       "date": "Mon, 24 Aug 2026 11:50:12 +0000",
       "summary": "BOOK REVIEW: Our Story: The Revolutionary War of Colonel Robert and Mary Ouldfield Heriot by Hugh T. Harrington, (South Carolina American Revolution Trust, 2026, $16.95, paperback) Through letters and deep research, the “Story” in this book is the recounting of a colonial Patriot husband and wife whose lives were completely disrupted by the American Revolution. […]\nThe post Our Story: The Revolutionary War of Colonel Robert and Mary Ouldfield Heriot appeared first on Journal of the American Revolution.",
       "url": "https://allthingsliberty.com/2026/08/our-story-the-revolutionary-war-of-colonel-robert-and-mary-ouldfield-heriot/"
-    },
-    {
-      "category": "Science",
-      "title": "Too much or too little sleep may make your body age faster",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Mon, 24 Aug 2026 07:31:44 EDT",
-      "summary": "Both too little and too much sleep may be linked to faster aging throughout the body. Researchers analyzing 23 biological aging clocks found the lowest aging levels among people sleeping about 6.4 to 7.8 hours per day. Short or long sleep was also associated with numerous conditions affecting the brain, heart, lungs, metabolism, and digestive system.",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260823094156.htm"
     },
     {
       "category": "Biblical Studies",
@@ -249,14 +281,6 @@
       "date": "Thu, 20 Aug 2026 12:10:45 +0000",
       "summary": "New York City is home to many grave sites of participants in the American Revolution. Many are easy to find, one is a huge mass grave and monument, while one includes a very famous woman. Interestingly, one or two are not where you might think they were laid to rest. In fact, one gravesite of […]\nThe post Ten Patriot Gravesites of New York City appeared first on Journal of the American Revolution.",
       "url": "https://allthingsliberty.com/2026/08/ten-patriot-gravesites-of-new-york-city/"
-    },
-    {
-      "category": "AI",
-      "title": "Introducing AI Futures",
-      "source": "OpenAI News",
-      "date": "Thu, 20 Aug 2026 07:00:00 GMT",
-      "summary": "Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
-      "url": "https://openai.com/index/introducing-ai-futures"
     },
     {
       "category": "Theology",
