@@ -1,7 +1,151 @@
 {
-  "lastUpdated": "2026-08-26T10:27:00.091Z",
-  "articleCount": 39,
+  "lastUpdated": "2026-08-26T16:42:33.633Z",
+  "articleCount": 36,
   "articles": [
+    {
+      "category": "Science",
+      "title": "Looking into the eyes of gibbons: New noninvasive eye-tracking study features these little-studied apes",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Wed, 26 Aug 2026 12:40:12 EDT",
+      "summary": "When you look at someone, you usually look at their face. It serves as one of the most important sources of social information in primates, so the evolution of face perception has attracted considerable scientific attention. While an abundance of this research has centered on humans and other great apes, very little has focused on gibbons.",
+      "url": "https://phys.org/news/2026-08-eyes-gibbons-noninvasive-eye-tracking.html"
+    },
+    {
+      "category": "Science",
+      "title": "Gambling branding dominates Premier League YouTube highlights, new study finds",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Wed, 26 Aug 2026 12:40:04 EDT",
+      "summary": "New research from the University of Nottingham has found that gambling brands were visible in 32% of Premier League soccer highlight footage, compared with less than 2% of FIFA World Cup highlights, raising questions about viewers' exposure to gambling marketing.",
+      "url": "https://phys.org/news/2026-08-gambling-branding-dominates-premier-league.html"
+    },
+    {
+      "category": "Science",
+      "title": "Human activity is pushing lakes beyond their natural carbon limits",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Wed, 26 Aug 2026 12:20:03 EDT",
+      "summary": "Lakes play an important role in capturing and storing carbon, which accumulates in their sediments. But the amounts they can absorb have varied considerably over time. Jean-François Lapierre, a professor in the Department of Biological Sciences at Université de Montréal, is part of a research team sorting out natural variations from human-influenced changes.",
+      "url": "https://phys.org/news/2026-08-human-lakes-natural-carbon-limits.html"
+    },
+    {
+      "category": "Science",
+      "title": " I took a big risk for the Aug. 12 total solar eclipse —‬ and the reward was glorious ",
+      "source": " Latest from Live Science ",
+      "date": "Wed, 26 Aug 2026 16:17:13 +0000",
+      "summary": "On Wednesday, Aug. 12, Jamie Carter was on an expedition cruise ship, searching for clear skies just below Greenland's ice cap. Here's how his ninth totality unfolded.",
+      "url": "https://www.livescience.com/space/the-sun/why-i-watched-the-total-solar-eclipse-from-a-ship-and-what-it-taught-me-for-the-next-eclipse-one-year-from-now-opinion"
+    },
+    {
+      "category": "AI",
+      "title": "Launch HN: Risklytics (YC S26) – Insurance brokerage for frontier tech companies",
+      "source": "Hacker News: Front Page",
+      "date": "Wed, 26 Aug 2026 16:06:01 +0000",
+      "summary": "Hi HN, we're Sam and Alex, founders of Risklytics (https://risklytics.ai). We're both on leave from Harvard, and we run an insurance brokerage for companies building robots, drones, autonomous systems and satellites. You describe your machine, we find the insurance companies willing to cover it, and we read everything before you sign.\nBuying insurance for any frontier tech goes like this:\n- your first customer or pilot requires coverage before your machine can work on their site\n- a broker hands you an application written for ordinary businesses, and often will deny you on baseless \"risks\" (one of our clients got denied for using CAD software in their workflow)\n- you get filed under something close or outright denied, the person at the insurance company often can't tell what they're looking at, and the safe answer is no\n- if a quote does come back, the AI risk is often quietly removed by an add-on clause that prevents you from truly being covered\nThose clauses surprised us. Insurance companies mostly don't write their own policies from scratch. They license standard forms from an industry body called ISO and attach add-on clauses to adjust them, and in January ISO published clauses that void coverage for losses arising out of AI in any part of a process. Each insurer decides whether to adopt them, account by account, and there's no public record of who has and to what capacity.\nThere's an open question in the wording too. It defines generative AI as systems trained on data that produce text, images, audio, video or code. Whether a robot's control model, which produces motor commands, falls under that is unsettled. We've asked underwriters, the people at insurance companies who make these calls, and gotten different answers across the board.\nWe didn't initially plan to be brokers. We came into YC to work in insurance and spent the first half of the batch on a wildfire risk model we wanted to sell to insurance companies. They liked it and wanted to build their own, which is the polite way to say no. While that was dying, a batchmate who launches satellites mentioned he couldn't get insured, and once we started asking around we kept hearing the same story from hardware companies. So we got licensed in a week and now can place coverage.\nWhat we've built so far:\n- a six-step application that asks about what you're building and drafts the structured version insurance companies like, omitting anything you didn't say\n- a map of which insurers add the AI clauses, which will remove them, and which cover frontier companies on purpose\n- when an insurer says no, you see their reason and what would change it, full transparency all the time\n- a hands off process for companies trying to get fully covered\nHere's a demo of the whole process: https://youtu.be/gVqCamTNH5E\nOn money: the insurance company pays us a commission when you get covered, usually 10-20% of what you are charged, and we charge you nothing on top (that's right, no brokerage fees).\nAlso, if you're a software company with ordinary needs, we'll still handle the whole process for you and get you the best policy we can find.\nIn the past week alone we have helped three companies get covered that were denied elsewhere. The companies include a robotics wholesaler and rental store, who had trouble getting covered earlier because some of their property uses AI (even though they never use it themselves), a bridge collision system that was getting denied because they use CAD software, and a tele-operating robotics service that needed coverage within a week for their first pilot.\nIf you're looking for insurance in any capacity feel free to reach out to me at alex@risklytics.ai or fill out an application at https://risklytics.ai. And if you work on the carrier side and think you'd wanna partner with us let us know.\nComments URL: https://news.ycombinator.com/item?id=49451495\nPoints: 5\n# Comments: 0",
+      "url": "https://www.risklytics.ai/"
+    },
+    {
+      "category": "AI",
+      "title": "Tim Curry, Star of Rocky Horror Picture Show and Stephen King's It, Dies Aged 80",
+      "source": "Hacker News: Front Page",
+      "date": "Wed, 26 Aug 2026 16:03:37 +0000",
+      "summary": "Article URL: https://www.theguardian.com/film/2026/aug/26/tim-curry-dies-rocky-horror-show-stephen-king-it-legend-film\nComments URL: https://news.ycombinator.com/item?id=49451448\nPoints: 49\n# Comments: 7",
+      "url": "https://www.theguardian.com/film/2026/aug/26/tim-curry-dies-rocky-horror-show-stephen-king-it-legend-film"
+    },
+    {
+      "category": "Space",
+      "title": " Massive space mirrors could be 40 times brighter than the full moon, astronomers warn. 'It will be worse than big cities like London' ",
+      "source": " Latest from Space.com ",
+      "date": "Wed, 26 Aug 2026 16:00:00 +0000",
+      "summary": "Sun-reflecting space mirrors proposed by U.S. startup Reflect Orbital will have an even more devastating effect on the night sky around the world than previously thought, a study has found.",
+      "url": "https://www.space.com/space-exploration/satellites/massive-space-mirrors-could-be-40-times-brighter-than-the-full-moon-astronomers-warn-it-will-be-worse-than-big-cities-like-london"
+    },
+    {
+      "category": "AI",
+      "title": "Tim Curry Has Died",
+      "source": "Hacker News: Front Page",
+      "date": "Wed, 26 Aug 2026 15:57:22 +0000",
+      "summary": "Article URL: https://en.wikipedia.org/wiki/Tim_Curry\nComments URL: https://news.ycombinator.com/item?id=49451354\nPoints: 32\n# Comments: 5",
+      "url": "https://en.wikipedia.org/wiki/Tim_Curry"
+    },
+    {
+      "category": "AI",
+      "title": "Court blocks Trump FCC order that could flood broadcast TV with more election ads",
+      "source": "Ars Technica - All content",
+      "date": "Wed, 26 Aug 2026 15:45:07 +0000",
+      "summary": "Republicans demanded that parties and fundraising committees be given lowest ad rates.",
+      "url": "https://arstechnica.com/tech-policy/2026/08/court-blocks-trump-fcc-order-that-could-flood-broadcast-tv-with-more-election-ads/"
+    },
+    {
+      "category": "Science",
+      "title": " Rare red northern lights may be visible alongside red moon during tomorrow night's partial lunar eclipse ",
+      "source": " Latest from Live Science ",
+      "date": "Wed, 26 Aug 2026 15:03:21 +0000",
+      "summary": "Moderate G1 and G2 geomagnetic storms are forecast during the Aug. 27-28 partial lunar eclipse, with the northern lights potentially visible across several northern U.S. states and parts of Canada alongside the reddened full moon.",
+      "url": "https://www.livescience.com/space/the-moon/rare-red-northern-lights-may-be-visible-alongside-red-moon-during-tomorrow-nights-partial-lunar-eclipse"
+    },
+    {
+      "category": "AI",
+      "title": "Researchers get two genetic codes to work at the same time",
+      "source": "Ars Technica - All content",
+      "date": "Wed, 26 Aug 2026 15:00:34 +0000",
+      "summary": "Messing with the genetic code might have gotten a bit easier to do.",
+      "url": "https://arstechnica.com/science/2026/08/researchers-get-two-genetic-codes-to-work-at-the-same-time/"
+    },
+    {
+      "category": "Space",
+      "title": " Chance gaze at old Hubble Telescope image leads to discovery that could reveal dark matter's secrets ",
+      "source": " Latest from Space.com ",
+      "date": "Wed, 26 Aug 2026 15:00:00 +0000",
+      "summary": "On a morning train commute, this former scientist found a stellar surprise in an old Hubble image.",
+      "url": "https://www.space.com/astronomy/hubble-space-telescope/chance-gaze-at-old-hubble-telescope-image-leads-to-discovery-that-could-reveal-dark-matters-secrets"
+    },
+    {
+      "category": "AI",
+      "title": "15,000 years of solar wind in four hours? A Seattle company gives it a go.",
+      "source": "Ars Technica - All content",
+      "date": "Wed, 26 Aug 2026 14:14:52 +0000",
+      "summary": "\"We're living in this world of scarcity with the Moon.\"",
+      "url": "https://arstechnica.com/space/2026/08/15000-years-of-solar-wind-in-four-hours-a-seattle-company-gives-it-a-go/"
+    },
+    {
+      "category": "Space",
+      "title": " On this day in space! Aug. 26, 1978: Sigmund Jähn becomes 1st German in space ",
+      "source": " Latest from Space.com ",
+      "date": "Wed, 26 Aug 2026 14:00:00 +0000",
+      "summary": "On Aug. 26, 1978, cosmonaut and pilot Sigmund Jähn became the first German to fly in space. Here's why it mattered.",
+      "url": "https://www.space.com/space-exploration/on-this-day-in-space-august-26-2026"
+    },
+    {
+      "category": "Science",
+      "title": "Scientists may have found a shortcut to calorie restriction’s anti-aging benefits",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Wed, 26 Aug 2026 09:00:53 EDT",
+      "summary": "Moderate calorie restriction lowered an immune protein called C3 that appears to help drive chronic inflammation as the body ages. Blocking the same protein reduced age related inflammation in mice, raising the possibility that future treatments could mimic some benefits of calorie restriction without severe dieting.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260826055508.htm"
+    },
+    {
+      "category": "Science",
+      "title": "190-year-old DNA reveals a hidden pangolin species",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Wed, 26 Aug 2026 08:46:59 EDT",
+      "summary": "DNA from a nearly 190-year-old museum specimen has helped scientists confirm a distinct Himalayan pangolin species hiding in plain sight in Nepal and northern India. The discovery could give conservationists a powerful new way to trace illegally traded pangolin scales back to the species and regions being targeted by poachers.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260826055500.htm"
+    },
+    {
+      "category": "Science",
+      "title": "Manhattan-sized ice island breaks off Greenland’s Petermann Glacier",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Wed, 26 Aug 2026 08:39:11 EDT",
+      "summary": "A Manhattan-sized ice island has broken away from Greenland’s Petermann Glacier after years of growing fractures weakened its floating ice tongue. Scientists expect two more huge sections could soon detach, potentially removing about 22 percent of the remaining ice tongue.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260826055503.htm"
+    },
+    {
+      "category": "Biblical Studies",
+      "title": "Where Was the First Council of Nicea?",
+      "source": "Biblical Archaeology Society",
+      "date": "Wed, 26 Aug 2026 10:45:38 +0000",
+      "summary": "An early promulgation of the new faith, the Nicene Creed is a foundational document for all major Christian denominations. In one of the most consequential […]\nThe post Where Was the First Council of Nicea? appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/daily/biblical-sites-places/biblical-archaeology-sites/where-was-the-first-council-of-nicea/"
+    },
     {
       "category": "History",
       "title": "This Week on Dispatches: Robert Swanson on Canadian Whigs and the American Revolution",
@@ -11,100 +155,20 @@
       "url": "https://allthingsliberty.com/2026/08/this-week-on-dispatches-robert-swanson-on-canadian-whigs-and-the-american-revolution/"
     },
     {
+      "category": "Biblical Studies",
+      "title": "A Looted Hellenistic Weight",
+      "source": "Biblical Archaeology Society",
+      "date": "Wed, 26 Aug 2026 10:00:26 +0000",
+      "summary": "Editor’s Note: This Bible History Daily article discusses an unprovenanced object. Learn more about the problems associated with objects that lack a secure archaeological context. “Heliodorus son of […]\nThe post A Looted Hellenistic Weight appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-israel/a-looted-hellenistic-weight/"
+    },
+    {
       "category": "Science",
       "title": " Diagnostic dilemma: A man tried to self-treat his incontinence by gluing his urethra shut ",
       "source": " Latest from Live Science ",
       "date": "Wed, 26 Aug 2026 10:00:00 +0000",
       "summary": "A man attempted to self-treat his incontinence via unorthodox means and ended up needing surgery.",
       "url": "https://www.livescience.com/health/diagnostic-dilemma-a-man-tried-to-self-treat-his-incontinence-by-gluing-his-urethra-shut"
-    },
-    {
-      "category": "Space",
-      "title": " Inside the Nancy Grace Roman Space Telescope, NASA's next great observatory ",
-      "source": " Latest from Space.com ",
-      "date": "Wed, 26 Aug 2026 10:00:00 +0000",
-      "summary": "Here's a rundown of all the major parts of NASA's Roman Space Telescope launching Aug. 30.",
-      "url": "https://www.space.com/astronomy/inside-the-nancy-grace-roman-space-telescope-nasas-next-great-observatory"
-    },
-    {
-      "category": "AI",
-      "title": "Social media use on the rise among Australian under-16s after ban: data",
-      "source": "Hacker News: Front Page",
-      "date": "Wed, 26 Aug 2026 09:35:58 +0000",
-      "summary": "Article URL: https://www.france24.com/en/live-news/20260826-social-media-use-on-the-rise-among-australian-under-16s-after-ban-data\nComments URL: https://news.ycombinator.com/item?id=49446221\nPoints: 9\n# Comments: 1",
-      "url": "https://www.france24.com/en/live-news/20260826-social-media-use-on-the-rise-among-australian-under-16s-after-ban-data"
-    },
-    {
-      "category": "AI",
-      "title": "Show HN: Banking Access Index – 19 US banking providers, 8 countries, CC-BY",
-      "source": "Hacker News: Front Page",
-      "date": "Wed, 26 Aug 2026 09:01:49 +0000",
-      "summary": "Article URL: https://www.globalsolo.global/data/banking-access-index\nComments URL: https://news.ycombinator.com/item?id=49445908\nPoints: 5\n# Comments: 2",
-      "url": "https://www.globalsolo.global/data/banking-access-index"
-    },
-    {
-      "category": "Science",
-      "title": "Butterfly-inspired crystals could enable durable, potentially safer glitter",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Wed, 26 Aug 2026 05:00:09 EDT",
-      "summary": "The next time you need to freshen up the paint on your house or apply a bit of cosmetic glitter before heading out for the night, you might want to give a quick nod to the butterflies fluttering in a nearby garden. Taking inspiration from structures on those wings that create their vibrant colors, researchers are now devising more durable and adjustable colors that are also safer for human health and the environment.",
-      "url": "https://phys.org/news/2026-08-butterfly-crystals-enable-durable-potentially.html"
-    },
-    {
-      "category": "Science",
-      "title": "Catalyzing the community: Chemists and Navajo leaders educate on clean water",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Wed, 26 Aug 2026 05:00:04 EDT",
-      "summary": "Many Native American communities in rural areas rely on well water, but the quality and safety of that water can vary significantly. Researchers led by Jani C. Ingram measured levels of heavy metals in well water on tribal lands through a community partnership with the Navajo Nation. After compiling their water-quality data, the researchers and tribal leaders developed best practices for distributing educational resources about safe drinking water to residents of Navajo reservations.",
-      "url": "https://phys.org/news/2026-08-catalyzing-community-chemists-navajo-leaders.html"
-    },
-    {
-      "category": "Science",
-      "title": "Volcanic eruptions and warming climate disrupt long-standing link between Indian and Pacific oceans",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Wed, 26 Aug 2026 05:00:02 EDT",
-      "summary": "A new study that combines paleoclimate data and climate models suggests that large volcanic eruptions can disrupt the relationship between atmospheric circulation patterns over the tropical Indian and Pacific oceans. In addition, human-caused greenhouse gas emissions are now driving an unprecedented breakdown in interbasin coupling, according to researchers at the Woods Hole Oceanographic Institution (WHOI).",
-      "url": "https://phys.org/news/2026-08-volcanic-eruptions-climate-disrupt-link.html"
-    },
-    {
-      "category": "Science",
-      "title": " Trump's childhood vaccine order will threaten children's safety, even if it doesn't directly change policy ",
-      "source": " Latest from Live Science ",
-      "date": "Wed, 26 Aug 2026 09:00:00 +0000",
-      "summary": "As president of the American Association of Immunologists, Dr. Avery August  believes President Trump's executive order on childhood vaccines could cause real harm, even if it may not impact policy in the long run.",
-      "url": "https://www.livescience.com/health/medicine-drugs/trumps-childhood-vaccine-order-will-threaten-childrens-safety-even-if-it-doesnt-directly-change-policy"
-    },
-    {
-      "category": "AI",
-      "title": "Value Classes Still Need Compiler Sympathy",
-      "source": "Hacker News: Front Page",
-      "date": "Wed, 26 Aug 2026 08:59:15 +0000",
-      "summary": "Article URL: https://johan-sjolen.github.io/post/compiler-sympathy/compiler-sympathy/\nComments URL: https://news.ycombinator.com/item?id=49445884\nPoints: 8\n# Comments: 0",
-      "url": "https://johan-sjolen.github.io/post/compiler-sympathy/compiler-sympathy/"
-    },
-    {
-      "category": "Science",
-      "title": " The moon is turning red tomorrow night — here's why, and how to watch ",
-      "source": " Latest from Live Science ",
-      "date": "Wed, 26 Aug 2026 08:59:06 +0000",
-      "summary": "The partial lunar eclipse on Aug. 27 will be the deepest lunar eclipse anywhere in the world until Dec. 31, 2028.",
-      "url": "https://www.livescience.com/space/the-moon/the-moon-is-turning-red-tomorrow-night-heres-why-and-how-to-watch"
-    },
-    {
-      "category": "Space",
-      "title": " Watch the partial lunar eclipse online Aug. 27-28 with these free livestreams ",
-      "source": " Latest from Space.com ",
-      "date": "Wed, 26 Aug 2026 07:00:00 +0000",
-      "summary": "You can catch the partial lunar eclipse live online here with these free livestreams starting at 9:23 p.m. EDT (0123 GMT).",
-      "url": "https://www.space.com/stargazing/lunar-eclipses/how-to-watch-the-aug-27-28-2026-partial-lunar-eclipse-live-online"
-    },
-    {
-      "category": "Space",
-      "title": "APOD: 2026 August 26 – JWST Images The Lion’s Head Nebula",
-      "source": "NASA",
-      "date": "Wed, 26 Aug 2026 04:05:00 +0000",
-      "summary": "APOD Science APOD APOD: 2026 August 26 – JWST… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. JWST Images […]",
-      "url": "https://science.nasa.gov/image-article/apod-2026-august-26-jwst-images-the-lions-head-nebula/"
     },
     {
       "category": "Theology",
@@ -123,14 +187,6 @@
       "url": "https://www.thegospelcoalition.org/article/suffering-isnt-pointless/"
     },
     {
-      "category": "Science",
-      "title": "Three forgotten kings could rewrite the history of ancient Assyria",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Tue, 25 Aug 2026 21:20:06 EDT",
-      "summary": "Three forgotten Assyrian kings may have been hiding in plain sight for more than 2,700 years. By piecing together clues from tablets, inscriptions, and an ancient statue, researchers argue that these rulers were omitted from the famous Assyrian King List.",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260824065549.htm"
-    },
-    {
       "category": "AI",
       "title": "How loveholidays is making everyone a builder with Codex",
       "source": "OpenAI News",
@@ -139,60 +195,12 @@
       "url": "https://openai.com/index/loveholidays"
     },
     {
-      "category": "Space",
-      "title": "New Next-Gen Dish Adds Muscle to NASA’s Deep Space Network",
-      "source": "NASA",
-      "date": "Tue, 25 Aug 2026 22:28:34 +0000",
-      "summary": "NASA’s Deep Space Network facility in California is marking the addition of a brand new 34-meter-wide (114-foot-wide) radio frequency antenna to the agency’s deep space communications and navigation system. The network uses giant dish antennas located at three global facilities to support more than 40 spacecraft exploring the solar system and interstellar space. The new […]",
-      "url": "https://www.nasa.gov/technology/space-comms/deep-space-network/new-next-gen-dish-adds-muscle-to-nasas-deep-space-network/"
-    },
-    {
-      "category": "AI",
-      "title": "The world's busiest spaceport is about to get a lot quieter, at least for now",
-      "source": "Ars Technica - All content",
-      "date": "Tue, 25 Aug 2026 22:21:06 +0000",
-      "summary": "SpaceX aims to launch Starship from Florida by the end of the year. 2027 seems more likely.",
-      "url": "https://arstechnica.com/space/2026/08/the-worlds-busiest-spaceport-is-about-to-get-a-lot-quieter-at-least-for-now/"
-    },
-    {
-      "category": "Space",
-      "title": " 'You just saved the video dish': Two astronauts complete spacewalk to replace ISS antenna ",
-      "source": " Latest from Space.com ",
-      "date": "Tue, 25 Aug 2026 21:00:00 +0000",
-      "summary": "Astronauts Anil Menon and Sophie Adenot completed a 6.5-hour spacewalk on Tuesday, (Aug. 25), installing a replacement Space-to-Ground antenna on the outside of the International Space Station.",
-      "url": "https://www.space.com/space-exploration/international-space-station/you-just-saved-the-video-dish-two-astronauts-complete-spacewalk-to-replace-iss-antenna"
-    },
-    {
-      "category": "AI",
-      "title": "World humanoid robot games show runners breaking records, bursting into flames",
-      "source": "Ars Technica - All content",
-      "date": "Tue, 25 Aug 2026 20:59:03 +0000",
-      "summary": "Record-breaking robot races are less substantial than household chore challenges.",
-      "url": "https://arstechnica.com/ai/2026/08/world-humanoid-robot-games-show-runners-breaking-records-bursting-into-flames/"
-    },
-    {
-      "category": "Space",
-      "title": "NASA Invites Media to LunaRecycle Challenge Finale Event in Alabama",
-      "source": "NASA",
-      "date": "Tue, 25 Aug 2026 20:20:58 +0000",
-      "summary": "NASA will announce the winners of the final phase of its LunaRecycle Challenge on Friday, Aug. 28, at The University of Alabama (UA) Lee Styslinger College of Engineering in Tuscaloosa, Alabama. Launched in 2024, the challenge incentivizes the invention of new recycling systems that could support non-metabolic waste management efforts for future lunar missions. Media […]",
-      "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-lunarecycle-challenge-finale-event-in-alabama/"
-    },
-    {
-      "category": "AI",
-      "title": "Preserving glow-in-the-dark art and fashion for future generations",
-      "source": "Ars Technica - All content",
-      "date": "Tue, 25 Aug 2026 18:59:12 +0000",
-      "summary": "Understanding unique photochemistry of such materials will help in conservation, storage, and exhibition.",
-      "url": "https://arstechnica.com/science/2026/08/how-chemistry-can-keep-glow-in-the-dark-pigments-from-fading/"
-    },
-    {
-      "category": "Science",
-      "title": "Atomic catalyst unlocks the hidden value of plant waste",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Tue, 25 Aug 2026 06:09:15 EDT",
-      "summary": "Scientists have created a highly efficient catalyst that breaks down stubborn lignin from plant waste into useful chemicals under relatively mild conditions. By revealing exactly how the catalyst works at the atomic level, the discovery could help turn forestry and agricultural waste into renewable building blocks for fuels, plastics, and other materials.",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260824065601.htm"
+      "category": "Biblical Studies",
+      "title": "What Does the Bible Say About Dogs?",
+      "source": "Biblical Archaeology Society",
+      "date": "Tue, 25 Aug 2026 11:00:36 +0000",
+      "summary": "A survey of dogs’ portrayals in ancient Near Eastern and Mediterranean cultures shows that far from being perceived as “unclean,” dogs served as companions, guard dogs, sheep dogs, hunters, and—surprisingly—physicians.\nThe post What Does the Bible Say About Dogs? appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-near-eastern-world/what-does-the-bible-say-about-dogs/"
     },
     {
       "category": "History",
@@ -235,44 +243,12 @@
       "url": "https://www.9marks.org/article/how-much-of-my-suffering-should-i-share-with-my-people/?utm_source=rss&utm_medium=rss&utm_campaign=how-much-of-my-suffering-should-i-share-with-my-people"
     },
     {
-      "category": "Science",
-      "title": "Common medications may change your gut for years",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Mon, 24 Aug 2026 09:14:50 EDT",
-      "summary": "Common medications may reshape the gut microbiome long after the last dose is taken. In a study of more than 2,500 people, researchers found lasting microbial changes linked not only to antibiotics, but also to antidepressants, beta-blockers, acid-reducing drugs, and benzodiazepines. Some effects were still detectable years later, suggesting past medication use may strongly influence the gut bacteria people carry today.",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260824065605.htm"
-    },
-    {
       "category": "History",
       "title": "Our Story: The Revolutionary War of Colonel Robert and Mary Ouldfield Heriot",
       "source": "Journal of the American Revolution",
       "date": "Mon, 24 Aug 2026 11:50:12 +0000",
       "summary": "BOOK REVIEW: Our Story: The Revolutionary War of Colonel Robert and Mary Ouldfield Heriot by Hugh T. Harrington, (South Carolina American Revolution Trust, 2026, $16.95, paperback) Through letters and deep research, the “Story” in this book is the recounting of a colonial Patriot husband and wife whose lives were completely disrupted by the American Revolution. […]\nThe post Our Story: The Revolutionary War of Colonel Robert and Mary Ouldfield Heriot appeared first on Journal of the American Revolution.",
       "url": "https://allthingsliberty.com/2026/08/our-story-the-revolutionary-war-of-colonel-robert-and-mary-ouldfield-heriot/"
-    },
-    {
-      "category": "Biblical Studies",
-      "title": "Shipwrecked Wine Jars Discovered Near Sicily",
-      "source": "Biblical Archaeology Society",
-      "date": "Mon, 24 Aug 2026 10:45:38 +0000",
-      "summary": "“You can’t imagine what’s down here.” That was the reaction of diver Giacomo De Mola when he realized that what he took for a large […]\nThe post Shipwrecked Wine Jars Discovered Near Sicily appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-rome/shipwrecked-wine-jars-discovered-near-sicily/"
-    },
-    {
-      "category": "Biblical Studies",
-      "title": "Monumental Dam from Time of Biblical Kings Uncovered",
-      "source": "Biblical Archaeology Society",
-      "date": "Mon, 24 Aug 2026 10:00:26 +0000",
-      "summary": "Archaeologists in Jerusalem have uncovered the largest dam ever constructed in ancient Israel. Dated to the reigns of kings Joash and Amaziah of Judah (late ninth […]\nThe post Monumental Dam from Time of Biblical Kings Uncovered appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-israel/monumental-dam-from-time-of-biblical-kings-uncovered/"
-    },
-    {
-      "category": "Biblical Studies",
-      "title": "Tomb of Kings Now Open!",
-      "source": "Biblical Archaeology Society",
-      "date": "Sun, 23 Aug 2026 11:00:29 +0000",
-      "summary": "After more than a decade of renovations totaling almost one million euros ($1,100,000), the Tomb of the Kings in Jerusalem is  open to the public. […]\nThe post Tomb of Kings Now Open! appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/daily/biblical-sites-places/biblical-archaeology-sites/tomb-of-kings-now-open/"
     },
     {
       "category": "Theology",
