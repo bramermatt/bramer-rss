@@ -1,30 +1,134 @@
 {
-  "lastUpdated": "2026-08-26T16:42:33.633Z",
+  "lastUpdated": "2026-08-27T02:28:46.671Z",
   "articleCount": 36,
   "articles": [
     {
-      "category": "Science",
-      "title": "Looking into the eyes of gibbons: New noninvasive eye-tracking study features these little-studied apes",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Wed, 26 Aug 2026 12:40:12 EDT",
-      "summary": "When you look at someone, you usually look at their face. It serves as one of the most important sources of social information in primates, so the evolution of face perception has attracted considerable scientific attention. While an abundance of this research has centered on humans and other great apes, very little has focused on gibbons.",
-      "url": "https://phys.org/news/2026-08-eyes-gibbons-noninvasive-eye-tracking.html"
+      "category": "AI",
+      "title": "Kusama Yayoi Dies at 97",
+      "source": "Hacker News: Front Page",
+      "date": "Thu, 27 Aug 2026 02:21:18 +0000",
+      "summary": "Article URL: https://news.jp/i/1465528042000662661\nComments URL: https://news.ycombinator.com/item?id=49458709\nPoints: 3\n# Comments: 1",
+      "url": "https://news.jp/i/1465528042000662661"
     },
     {
       "category": "Science",
-      "title": "Gambling branding dominates Premier League YouTube highlights, new study finds",
+      "title": "We finally have some encouraging news on Great Barrier Reef water quality",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Wed, 26 Aug 2026 12:40:04 EDT",
-      "summary": "New research from the University of Nottingham has found that gambling brands were visible in 32% of Premier League soccer highlight footage, compared with less than 2% of FIFA World Cup highlights, raising questions about viewers' exposure to gambling marketing.",
-      "url": "https://phys.org/news/2026-08-gambling-branding-dominates-premier-league.html"
+      "date": "Wed, 26 Aug 2026 22:20:01 EDT",
+      "summary": "Imagine a plume of brown sediment washed off the land into Queensland rivers and carried out to sea. Here, it can settle on seagrass and inshore corals, potentially smothering them. River water often also carries nitrogen from fertilizer residue, which can fuel algal growth and damage coral health.",
+      "url": "https://phys.org/news/2026-08-news-great-barrier-reef-quality.html"
+    },
+    {
+      "category": "AI",
+      "title": "Getting video models to learn better, faster",
+      "source": "Hacker News: Front Page",
+      "date": "Thu, 27 Aug 2026 01:53:34 +0000",
+      "summary": "Article URL: https://www.linum.ai/field-notes/data-filtering-gen-video\nComments URL: https://news.ycombinator.com/item?id=49458502\nPoints: 3\n# Comments: 0",
+      "url": "https://www.linum.ai/field-notes/data-filtering-gen-video"
+    },
+    {
+      "category": "AI",
+      "title": "Laion Big Video Dataset",
+      "source": "Hacker News: Front Page",
+      "date": "Thu, 27 Aug 2026 01:50:26 +0000",
+      "summary": "Article URL: https://projects.laion.ai/bvd/\nComments URL: https://news.ycombinator.com/item?id=49458478\nPoints: 4\n# Comments: 0",
+      "url": "https://projects.laion.ai/bvd/"
     },
     {
       "category": "Science",
-      "title": "Human activity is pushing lakes beyond their natural carbon limits",
+      "title": "Team identifies an evolutionarily conserved enhancer that regulates tendon and ligament development",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Wed, 26 Aug 2026 12:20:03 EDT",
-      "summary": "Lakes play an important role in capturing and storing carbon, which accumulates in their sediments. But the amounts they can absorb have varied considerably over time. Jean-François Lapierre, a professor in the Department of Biological Sciences at Université de Montréal, is part of a research team sorting out natural variations from human-influenced changes.",
-      "url": "https://phys.org/news/2026-08-human-lakes-natural-carbon-limits.html"
+      "date": "Wed, 26 Aug 2026 20:40:01 EDT",
+      "summary": "A research team has uncovered fundamental molecular mechanisms governing the formation of tendons and ligaments, which are essential for musculoskeletal integration. Understanding these mechanisms could pave the way for the regeneration of tendons, ligaments and their attachment sites, known as entheses, which have limited capacity for functional repair after injury because of their poor vascularization.",
+      "url": "https://phys.org/news/2026-08-team-evolutionarily-tendon-ligament.html"
+    },
+    {
+      "category": "Science",
+      "title": "The crisis in cosmology continues: Critical problems in a recent defense of cosmic acceleration",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Wed, 26 Aug 2026 20:00:01 EDT",
+      "summary": "Doubts about the standard model of cosmology are deepening after a new study identified fundamental problems in a recent analysis that defended the conventional view that the universe is currently undergoing accelerated expansion driven by dark energy.",
+      "url": "https://phys.org/news/2026-08-crisis-cosmology-critical-problems-defense.html"
+    },
+    {
+      "category": "AI",
+      "title": "RIP, Tim Curry: Ars remembers his top 10 iconic performances",
+      "source": "Ars Technica - All content",
+      "date": "Wed, 26 Aug 2026 22:13:15 +0000",
+      "summary": "A dashing pirate, a butler, a killer clown, an alien mad scientist in drag—the man had range.",
+      "url": "https://arstechnica.com/culture/2026/08/rip-tim-curry-ars-remembers-his-top-10-iconic-performances/"
+    },
+    {
+      "category": "History",
+      "title": "Philip Mazzei and the American Revolution—An Italian in Virginia",
+      "source": "Journal of the American Revolution",
+      "date": "Wed, 26 Aug 2026 22:00:11 +0000",
+      "summary": "Beyond the most familiar Founding Fathers, the Revolutionary era included a wider circle of contributors whose ideas, actions, and relationships shaped the American cause. Among them was Filippo (Philip) Mazzei, an Italian-born writer, entrepreneur, and political thinker whose engagement with American leaders and Enlightenment ideals influenced the revolutionary generation. Born in the Grand Duchy of […]\nThe post Philip Mazzei and the American Revolution—An Italian in Virginia appeared first on Journal of the American Revolution.",
+      "url": "https://allthingsliberty.com/2026/08/philip-mazzei-and-the-american-revolution-an-italian-in-virginia/"
+    },
+    {
+      "category": "AI",
+      "title": "AI agents meant to replace Meta workers made “large-scale, disruptive actions”",
+      "source": "Ars Technica - All content",
+      "date": "Wed, 26 Aug 2026 21:25:27 +0000",
+      "summary": "Report shows Meta's challenges replacing people with AI agents.",
+      "url": "https://arstechnica.com/ai/2026/08/metas-scrapped-plans-to-go-ai-native-included-slashing-teams-by-60-percent/"
+    },
+    {
+      "category": "Space",
+      "title": " From spy satellite to space telescope: The unlikely origins of NASA's Roman Space Telescope ",
+      "source": " Latest from Space.com ",
+      "date": "Wed, 26 Aug 2026 21:00:00 +0000",
+      "summary": "At the heart of this next-gen space telescope lies the parts of old spy satellites.",
+      "url": "https://www.space.com/astronomy/from-spy-satellite-to-space-telescope-the-unlikely-origins-of-nasas-roman-space-telescope"
+    },
+    {
+      "category": "AI",
+      "title": "New Twitter launches, says Musk's X gave up the name",
+      "source": "Ars Technica - All content",
+      "date": "Wed, 26 Aug 2026 20:49:04 +0000",
+      "summary": "Judge hasn't ruled on X Corp’s preliminary injunction, but Operation Bluebird plows ahead",
+      "url": "https://arstechnica.com/tech-policy/2026/08/new-twitter-launches-says-musks-x-gave-up-the-name/"
+    },
+    {
+      "category": "Science",
+      "title": " How worried are you about the health impacts of extreme heat? ",
+      "source": " Latest from Live Science ",
+      "date": "Wed, 26 Aug 2026 19:25:05 +0000",
+      "summary": "Are you worried about the effects of rising temperatures on your and your community's health? Take our poll to answer now.",
+      "url": "https://www.livescience.com/health/how-worried-are-you-about-the-health-impacts-of-extreme-heat"
+    },
+    {
+      "category": "Science",
+      "title": " 'Unlike anything seen before': Archaeologists unearth a unique, 11,000-year-old statue of a person riding a leopard from one of the world's earliest settlements ",
+      "source": " Latest from Live Science ",
+      "date": "Wed, 26 Aug 2026 18:33:27 +0000",
+      "summary": "Archaeologists in southern Turkey discovered a unique statue of a person on the back of a leopard.",
+      "url": "https://www.livescience.com/archaeology/middle-east/unlike-anything-seen-before-archaeologists-unearth-a-unique-11-000-year-old-statue-of-a-person-riding-a-leopard-from-one-of-the-worlds-earliest-settlements"
+    },
+    {
+      "category": "Theology",
+      "title": "Let the Point of Your Sermon Text Shape Your Church’s Corporate Prayers",
+      "source": "9Marks",
+      "date": "Wed, 26 Aug 2026 18:14:19 +0000",
+      "summary": "Praying the point of the text means the congregation is hearing the passage not only through my voice as the preacher but also through the voices of other godly saints.\nThe post Let the Point of Your Sermon Text Shape Your Church’s Corporate Prayers appeared first on 9Marks.",
+      "url": "https://www.9marks.org/article/churchs-corporate-prayers/?utm_source=rss&utm_medium=rss&utm_campaign=churchs-corporate-prayers"
+    },
+    {
+      "category": "Space",
+      "title": " Astronomers discover hot watery exoplanet destined to be swallowed by its star ",
+      "source": " Latest from Space.com ",
+      "date": "Wed, 26 Aug 2026 18:00:00 +0000",
+      "summary": "A newly discovered water dominated exoplanet is in hot-water literally and figuratively, it orbits so close to its parent star it is headed to a fatal collision that will see it devoured.",
+      "url": "https://www.space.com/astronomy/exoplanets/astronomers-discover-hot-watery-exoplanet-destined-to-be-swallowed-by-its-star"
+    },
+    {
+      "category": "Space",
+      "title": " A black star in a false Spanish twilight: Here's the story of my 1st total solar eclipse ",
+      "source": " Latest from Space.com ",
+      "date": "Wed, 26 Aug 2026 17:00:00 +0000",
+      "summary": "I journeyed to the path of totality in Spain to watch the Aug. 12 total solar eclipse with a group of passionate citizen scientists. Here's my story.",
+      "url": "https://www.space.com/stargazing/solar-eclipses/a-black-star-in-a-false-spanish-twilight-heres-the-story-of-my-1st-total-solar-eclipse"
     },
     {
       "category": "Science",
@@ -33,86 +137,6 @@
       "date": "Wed, 26 Aug 2026 16:17:13 +0000",
       "summary": "On Wednesday, Aug. 12, Jamie Carter was on an expedition cruise ship, searching for clear skies just below Greenland's ice cap. Here's how his ninth totality unfolded.",
       "url": "https://www.livescience.com/space/the-sun/why-i-watched-the-total-solar-eclipse-from-a-ship-and-what-it-taught-me-for-the-next-eclipse-one-year-from-now-opinion"
-    },
-    {
-      "category": "AI",
-      "title": "Launch HN: Risklytics (YC S26) – Insurance brokerage for frontier tech companies",
-      "source": "Hacker News: Front Page",
-      "date": "Wed, 26 Aug 2026 16:06:01 +0000",
-      "summary": "Hi HN, we're Sam and Alex, founders of Risklytics (https://risklytics.ai). We're both on leave from Harvard, and we run an insurance brokerage for companies building robots, drones, autonomous systems and satellites. You describe your machine, we find the insurance companies willing to cover it, and we read everything before you sign.\nBuying insurance for any frontier tech goes like this:\n- your first customer or pilot requires coverage before your machine can work on their site\n- a broker hands you an application written for ordinary businesses, and often will deny you on baseless \"risks\" (one of our clients got denied for using CAD software in their workflow)\n- you get filed under something close or outright denied, the person at the insurance company often can't tell what they're looking at, and the safe answer is no\n- if a quote does come back, the AI risk is often quietly removed by an add-on clause that prevents you from truly being covered\nThose clauses surprised us. Insurance companies mostly don't write their own policies from scratch. They license standard forms from an industry body called ISO and attach add-on clauses to adjust them, and in January ISO published clauses that void coverage for losses arising out of AI in any part of a process. Each insurer decides whether to adopt them, account by account, and there's no public record of who has and to what capacity.\nThere's an open question in the wording too. It defines generative AI as systems trained on data that produce text, images, audio, video or code. Whether a robot's control model, which produces motor commands, falls under that is unsettled. We've asked underwriters, the people at insurance companies who make these calls, and gotten different answers across the board.\nWe didn't initially plan to be brokers. We came into YC to work in insurance and spent the first half of the batch on a wildfire risk model we wanted to sell to insurance companies. They liked it and wanted to build their own, which is the polite way to say no. While that was dying, a batchmate who launches satellites mentioned he couldn't get insured, and once we started asking around we kept hearing the same story from hardware companies. So we got licensed in a week and now can place coverage.\nWhat we've built so far:\n- a six-step application that asks about what you're building and drafts the structured version insurance companies like, omitting anything you didn't say\n- a map of which insurers add the AI clauses, which will remove them, and which cover frontier companies on purpose\n- when an insurer says no, you see their reason and what would change it, full transparency all the time\n- a hands off process for companies trying to get fully covered\nHere's a demo of the whole process: https://youtu.be/gVqCamTNH5E\nOn money: the insurance company pays us a commission when you get covered, usually 10-20% of what you are charged, and we charge you nothing on top (that's right, no brokerage fees).\nAlso, if you're a software company with ordinary needs, we'll still handle the whole process for you and get you the best policy we can find.\nIn the past week alone we have helped three companies get covered that were denied elsewhere. The companies include a robotics wholesaler and rental store, who had trouble getting covered earlier because some of their property uses AI (even though they never use it themselves), a bridge collision system that was getting denied because they use CAD software, and a tele-operating robotics service that needed coverage within a week for their first pilot.\nIf you're looking for insurance in any capacity feel free to reach out to me at alex@risklytics.ai or fill out an application at https://risklytics.ai. And if you work on the carrier side and think you'd wanna partner with us let us know.\nComments URL: https://news.ycombinator.com/item?id=49451495\nPoints: 5\n# Comments: 0",
-      "url": "https://www.risklytics.ai/"
-    },
-    {
-      "category": "AI",
-      "title": "Tim Curry, Star of Rocky Horror Picture Show and Stephen King's It, Dies Aged 80",
-      "source": "Hacker News: Front Page",
-      "date": "Wed, 26 Aug 2026 16:03:37 +0000",
-      "summary": "Article URL: https://www.theguardian.com/film/2026/aug/26/tim-curry-dies-rocky-horror-show-stephen-king-it-legend-film\nComments URL: https://news.ycombinator.com/item?id=49451448\nPoints: 49\n# Comments: 7",
-      "url": "https://www.theguardian.com/film/2026/aug/26/tim-curry-dies-rocky-horror-show-stephen-king-it-legend-film"
-    },
-    {
-      "category": "Space",
-      "title": " Massive space mirrors could be 40 times brighter than the full moon, astronomers warn. 'It will be worse than big cities like London' ",
-      "source": " Latest from Space.com ",
-      "date": "Wed, 26 Aug 2026 16:00:00 +0000",
-      "summary": "Sun-reflecting space mirrors proposed by U.S. startup Reflect Orbital will have an even more devastating effect on the night sky around the world than previously thought, a study has found.",
-      "url": "https://www.space.com/space-exploration/satellites/massive-space-mirrors-could-be-40-times-brighter-than-the-full-moon-astronomers-warn-it-will-be-worse-than-big-cities-like-london"
-    },
-    {
-      "category": "AI",
-      "title": "Tim Curry Has Died",
-      "source": "Hacker News: Front Page",
-      "date": "Wed, 26 Aug 2026 15:57:22 +0000",
-      "summary": "Article URL: https://en.wikipedia.org/wiki/Tim_Curry\nComments URL: https://news.ycombinator.com/item?id=49451354\nPoints: 32\n# Comments: 5",
-      "url": "https://en.wikipedia.org/wiki/Tim_Curry"
-    },
-    {
-      "category": "AI",
-      "title": "Court blocks Trump FCC order that could flood broadcast TV with more election ads",
-      "source": "Ars Technica - All content",
-      "date": "Wed, 26 Aug 2026 15:45:07 +0000",
-      "summary": "Republicans demanded that parties and fundraising committees be given lowest ad rates.",
-      "url": "https://arstechnica.com/tech-policy/2026/08/court-blocks-trump-fcc-order-that-could-flood-broadcast-tv-with-more-election-ads/"
-    },
-    {
-      "category": "Science",
-      "title": " Rare red northern lights may be visible alongside red moon during tomorrow night's partial lunar eclipse ",
-      "source": " Latest from Live Science ",
-      "date": "Wed, 26 Aug 2026 15:03:21 +0000",
-      "summary": "Moderate G1 and G2 geomagnetic storms are forecast during the Aug. 27-28 partial lunar eclipse, with the northern lights potentially visible across several northern U.S. states and parts of Canada alongside the reddened full moon.",
-      "url": "https://www.livescience.com/space/the-moon/rare-red-northern-lights-may-be-visible-alongside-red-moon-during-tomorrow-nights-partial-lunar-eclipse"
-    },
-    {
-      "category": "AI",
-      "title": "Researchers get two genetic codes to work at the same time",
-      "source": "Ars Technica - All content",
-      "date": "Wed, 26 Aug 2026 15:00:34 +0000",
-      "summary": "Messing with the genetic code might have gotten a bit easier to do.",
-      "url": "https://arstechnica.com/science/2026/08/researchers-get-two-genetic-codes-to-work-at-the-same-time/"
-    },
-    {
-      "category": "Space",
-      "title": " Chance gaze at old Hubble Telescope image leads to discovery that could reveal dark matter's secrets ",
-      "source": " Latest from Space.com ",
-      "date": "Wed, 26 Aug 2026 15:00:00 +0000",
-      "summary": "On a morning train commute, this former scientist found a stellar surprise in an old Hubble image.",
-      "url": "https://www.space.com/astronomy/hubble-space-telescope/chance-gaze-at-old-hubble-telescope-image-leads-to-discovery-that-could-reveal-dark-matters-secrets"
-    },
-    {
-      "category": "AI",
-      "title": "15,000 years of solar wind in four hours? A Seattle company gives it a go.",
-      "source": "Ars Technica - All content",
-      "date": "Wed, 26 Aug 2026 14:14:52 +0000",
-      "summary": "\"We're living in this world of scarcity with the Moon.\"",
-      "url": "https://arstechnica.com/space/2026/08/15000-years-of-solar-wind-in-four-hours-a-seattle-company-gives-it-a-go/"
-    },
-    {
-      "category": "Space",
-      "title": " On this day in space! Aug. 26, 1978: Sigmund Jähn becomes 1st German in space ",
-      "source": " Latest from Space.com ",
-      "date": "Wed, 26 Aug 2026 14:00:00 +0000",
-      "summary": "On Aug. 26, 1978, cosmonaut and pilot Sigmund Jähn became the first German to fly in space. Here's why it mattered.",
-      "url": "https://www.space.com/space-exploration/on-this-day-in-space-august-26-2026"
     },
     {
       "category": "Science",
@@ -163,12 +187,20 @@
       "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-israel/a-looted-hellenistic-weight/"
     },
     {
-      "category": "Science",
-      "title": " Diagnostic dilemma: A man tried to self-treat his incontinence by gluing his urethra shut ",
-      "source": " Latest from Live Science ",
-      "date": "Wed, 26 Aug 2026 10:00:00 +0000",
-      "summary": "A man attempted to self-treat his incontinence via unorthodox means and ended up needing surgery.",
-      "url": "https://www.livescience.com/health/diagnostic-dilemma-a-man-tried-to-self-treat-his-incontinence-by-gluing-his-urethra-shut"
+      "category": "AI",
+      "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
+      "source": "OpenAI News",
+      "date": "Wed, 26 Aug 2026 10:00:00 GMT",
+      "summary": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
+      "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts"
+    },
+    {
+      "category": "AI",
+      "title": "Learning never stops: How AI makes learning continuous",
+      "source": "OpenAI News",
+      "date": "Wed, 26 Aug 2026 10:00:00 GMT",
+      "summary": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
+      "url": "https://openai.com/index/learning-never-stops"
     },
     {
       "category": "Theology",
@@ -188,11 +220,11 @@
     },
     {
       "category": "AI",
-      "title": "How loveholidays is making everyone a builder with Codex",
+      "title": "The Hugging Face incident and the road ahead",
       "source": "OpenAI News",
       "date": "Wed, 26 Aug 2026 00:00:00 GMT",
-      "summary": "Discover how loveholidays uses OpenAI Codex to make software development accessible across the business, helping teams turn ideas into products faster.",
-      "url": "https://openai.com/index/loveholidays"
+      "summary": "OpenAI shares findings from the Hugging Face security incident and the steps we’re taking to strengthen AI model security, monitoring, and alignment.",
+      "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead"
     },
     {
       "category": "Biblical Studies",
@@ -211,22 +243,6 @@
       "url": "https://allthingsliberty.com/2026/08/the-21-mile-circle-american-revolution-heritage-sites-in-the-english-midlands/"
     },
     {
-      "category": "AI",
-      "title": "The full stack behind abundant intelligence",
-      "source": "OpenAI News",
-      "date": "Tue, 25 Aug 2026 07:05:00 GMT",
-      "summary": "OpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost.",
-      "url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence"
-    },
-    {
-      "category": "AI",
-      "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
-      "source": "OpenAI News",
-      "date": "Tue, 25 Aug 2026 07:00:00 GMT",
-      "summary": "Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models.",
-      "url": "https://openai.com/index/jalapeno-first-results"
-    },
-    {
       "category": "Theology",
       "title": "Why Pascal’s Wager Still Pays Off (with Graham Tomlin)",
       "source": "The Gospel Coalition",
@@ -243,28 +259,12 @@
       "url": "https://www.9marks.org/article/how-much-of-my-suffering-should-i-share-with-my-people/?utm_source=rss&utm_medium=rss&utm_campaign=how-much-of-my-suffering-should-i-share-with-my-people"
     },
     {
-      "category": "History",
-      "title": "Our Story: The Revolutionary War of Colonel Robert and Mary Ouldfield Heriot",
-      "source": "Journal of the American Revolution",
-      "date": "Mon, 24 Aug 2026 11:50:12 +0000",
-      "summary": "BOOK REVIEW: Our Story: The Revolutionary War of Colonel Robert and Mary Ouldfield Heriot by Hugh T. Harrington, (South Carolina American Revolution Trust, 2026, $16.95, paperback) Through letters and deep research, the “Story” in this book is the recounting of a colonial Patriot husband and wife whose lives were completely disrupted by the American Revolution. […]\nThe post Our Story: The Revolutionary War of Colonel Robert and Mary Ouldfield Heriot appeared first on Journal of the American Revolution.",
-      "url": "https://allthingsliberty.com/2026/08/our-story-the-revolutionary-war-of-colonel-robert-and-mary-ouldfield-heriot/"
-    },
-    {
       "category": "Theology",
       "title": "First Aid for the Faithful",
       "source": "9Marks",
       "date": "Fri, 21 Aug 2026 03:33:42 +0000",
       "summary": "Do you doubt, even now, that the Lord cares for you, if you are his? He gave himself over to death for you. His care is proven, and his commitment to your good shall not waver. Take heart unto glory! \nThe post First Aid for the Faithful appeared first on 9Marks.",
       "url": "https://www.9marks.org/review/first-aid-for-the-faithful/?utm_source=rss&utm_medium=rss&utm_campaign=first-aid-for-the-faithful"
-    },
-    {
-      "category": "Theology",
-      "title": "The Elements of Corporate Worship and Christian Discipleship",
-      "source": "9Marks",
-      "date": "Wed, 19 Aug 2026 18:51:35 +0000",
-      "summary": "Scripture teaches us how to use our time together—how to “do church”—and each element of our services is designed by God to disciple you and to give you opportunities to disciple others in your church family.\nThe post The Elements of Corporate Worship and Christian Discipleship appeared first on 9Marks.",
-      "url": "https://www.9marks.org/article/the-elements-of-corporate-worship-and-christian-discipleship/?utm_source=rss&utm_medium=rss&utm_campaign=the-elements-of-corporate-worship-and-christian-discipleship"
     },
     {
       "category": "History",
