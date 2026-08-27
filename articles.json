@@ -1,62 +1,198 @@
 {
-  "lastUpdated": "2026-08-27T02:28:46.671Z",
+  "lastUpdated": "2026-08-27T20:04:38.381Z",
   "articleCount": 36,
   "articles": [
     {
-      "category": "AI",
-      "title": "Kusama Yayoi Dies at 97",
-      "source": "Hacker News: Front Page",
-      "date": "Thu, 27 Aug 2026 02:21:18 +0000",
-      "summary": "Article URL: https://news.jp/i/1465528042000662661\nComments URL: https://news.ycombinator.com/item?id=49458709\nPoints: 3\n# Comments: 1",
-      "url": "https://news.jp/i/1465528042000662661"
+      "category": "Science",
+      "title": "Parental care can influence evolution, beetle experiments show",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Thu, 27 Aug 2026 16:00:05 EDT",
+      "summary": "How has offspring dependence on parents evolved over the course of evolution? Researchers at the University of Bayreuth, in collaboration with Kyoto University, Japan, have investigated one possible mechanism by studying the burying beetle Nicrophorus vespilloides. Their new study shows that parents do more than simply provide care for their offspring: They also improve the entire developmental environment in which their young grow up, a factor that may itself have influenced evolutionary change. The findings have been published in the Proceedings of the National Academy of Sciences.",
+      "url": "https://phys.org/news/2026-08-parental-evolution-beetle.html"
     },
     {
       "category": "Science",
-      "title": "We finally have some encouraging news on Great Barrier Reef water quality",
+      "title": "How bacteria develop resistance to programmable antibiotics",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Wed, 26 Aug 2026 22:20:01 EDT",
-      "summary": "Imagine a plume of brown sediment washed off the land into Queensland rivers and carried out to sea. Here, it can settle on seagrass and inshore corals, potentially smothering them. River water often also carries nitrogen from fertilizer residue, which can fuel algal growth and damage coral health.",
-      "url": "https://phys.org/news/2026-08-news-great-barrier-reef-quality.html"
-    },
-    {
-      "category": "AI",
-      "title": "Getting video models to learn better, faster",
-      "source": "Hacker News: Front Page",
-      "date": "Thu, 27 Aug 2026 01:53:34 +0000",
-      "summary": "Article URL: https://www.linum.ai/field-notes/data-filtering-gen-video\nComments URL: https://news.ycombinator.com/item?id=49458502\nPoints: 3\n# Comments: 0",
-      "url": "https://www.linum.ai/field-notes/data-filtering-gen-video"
-    },
-    {
-      "category": "AI",
-      "title": "Laion Big Video Dataset",
-      "source": "Hacker News: Front Page",
-      "date": "Thu, 27 Aug 2026 01:50:26 +0000",
-      "summary": "Article URL: https://projects.laion.ai/bvd/\nComments URL: https://news.ycombinator.com/item?id=49458478\nPoints: 4\n# Comments: 0",
-      "url": "https://projects.laion.ai/bvd/"
+      "date": "Thu, 27 Aug 2026 15:40:05 EDT",
+      "summary": "Antimicrobial resistance is one of the greatest challenges facing modern medicine. A new class of programmable antibiotics known as asobiotics can be used to treat bacterial infections when classical antibiotics fail. A team of researchers from TWINCORE, Center for Experimental and Clinical Infection Research; the RESIST Cluster of Excellence; and the Helmholtz Institute for RNA-based Infection Research (HIRI) in Würzburg has now studied how bacteria adapt to asobiotics. They recently published their findings in Nature Communications.",
+      "url": "https://phys.org/news/2026-08-bacteria-resistance-programmable-antibiotics.html"
     },
     {
       "category": "Science",
-      "title": "Team identifies an evolutionarily conserved enhancer that regulates tendon and ligament development",
+      "title": "Transforming polyamide microplastics into light-emitting carbon quantum dots for UV-blocking food packaging",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Wed, 26 Aug 2026 20:40:01 EDT",
-      "summary": "A research team has uncovered fundamental molecular mechanisms governing the formation of tendons and ligaments, which are essential for musculoskeletal integration. Understanding these mechanisms could pave the way for the regeneration of tendons, ligaments and their attachment sites, known as entheses, which have limited capacity for functional repair after injury because of their poor vascularization.",
-      "url": "https://phys.org/news/2026-08-team-evolutionarily-tendon-ligament.html"
+      "date": "Thu, 27 Aug 2026 15:40:01 EDT",
+      "summary": "Plastic pollution is one of the most urgent environmental challenges of the 21st century. As larger plastic debris breaks down through mechanical, photochemical and biological processes, it forms microplastics that have been detected in water, soil, air and even the human body. Among these materials, polyamide microplastics are of particular concern because polyamide is widely used in textiles, fishing gear, packaging and engineering materials.",
+      "url": "https://phys.org/news/2026-08-polyamide-microplastics-emitting-carbon-quantum.html"
     },
     {
       "category": "Science",
-      "title": "The crisis in cosmology continues: Critical problems in a recent defense of cosmic acceleration",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Wed, 26 Aug 2026 20:00:01 EDT",
-      "summary": "Doubts about the standard model of cosmology are deepening after a new study identified fundamental problems in a recent analysis that defended the conventional view that the universe is currently undergoing accelerated expansion driven by dark energy.",
-      "url": "https://phys.org/news/2026-08-crisis-cosmology-critical-problems-defense.html"
+      "title": " Ancient shark 'graveyard' uncovered in Egyptian desert ",
+      "source": " Latest from Live Science ",
+      "date": "Thu, 27 Aug 2026 19:37:17 +0000",
+      "summary": "Fossilized teeth from at least seven shark species have been discovered in the Egyptian desert, hinting at its complex, watery past.",
+      "url": "https://www.livescience.com/animals/sharks/an-exciting-surprise-ancient-shark-graveyard-uncovered-in-egyptian-desert"
+    },
+    {
+      "category": "Space",
+      "title": " Astronaut Jonny Kim leaves NASA, will return to active military duty ",
+      "source": " Latest from Space.com ",
+      "date": "Thu, 27 Aug 2026 19:02:45 +0000",
+      "summary": "NASA astronaut Jonny Kim is leaving the space agency to continue his military career. Kim, who's also a medical doctor, completed one spaceflight during his NASA career.",
+      "url": "https://www.space.com/space-exploration/human-spaceflight/astronaut-jonny-kim-leaves-nasa-will-return-to-active-military-duty"
     },
     {
       "category": "AI",
-      "title": "RIP, Tim Curry: Ars remembers his top 10 iconic performances",
+      "title": "Nvidia Starts Pac as AI Chip Maker Builds DC Influence Force",
+      "source": "Hacker News: Front Page",
+      "date": "Thu, 27 Aug 2026 18:34:40 +0000",
+      "summary": "Article URL: https://news.bgov.com/bloomberg-government-news/nvidia-starts-a-pac-as-ai-chip-maker-buids-influence-force-in-dc\nComments URL: https://news.ycombinator.com/item?id=49469249\nPoints: 33\n# Comments: 10",
+      "url": "https://news.bgov.com/bloomberg-government-news/nvidia-starts-a-pac-as-ai-chip-maker-buids-influence-force-in-dc"
+    },
+    {
+      "category": "AI",
+      "title": "Autism mutations drive neurodevelopmental pathology",
+      "source": "Hacker News: Front Page",
+      "date": "Thu, 27 Aug 2026 18:23:43 +0000",
+      "summary": "Article URL: https://www.science.org/doi/10.1126/science.ady4523\nComments URL: https://news.ycombinator.com/item?id=49469098\nPoints: 28\n# Comments: 9",
+      "url": "https://www.science.org/doi/10.1126/science.ady4523"
+    },
+    {
+      "category": "AI",
+      "title": "Previewing the Model Hardware Standard",
+      "source": "Hacker News: Front Page",
+      "date": "Thu, 27 Aug 2026 18:04:50 +0000",
+      "summary": "Article URL: https://www.anthropic.com/news/model-hardware-standard-research-preview\nComments URL: https://news.ycombinator.com/item?id=49468834\nPoints: 23\n# Comments: 11",
+      "url": "https://www.anthropic.com/news/model-hardware-standard-research-preview"
+    },
+    {
+      "category": "Science",
+      "title": " 'This is such a clear story': Climate change is supercharging El Niño to unprecedented strengths, study finds ",
+      "source": " Latest from Live Science ",
+      "date": "Thu, 27 Aug 2026 18:00:00 +0000",
+      "summary": "An analysis of coral taken from the Galápagos Islands reveals that El Niño has become nearly 40% stronger since the preindustrial era.",
+      "url": "https://www.livescience.com/planet-earth/climate-change/this-is-such-a-clear-story-climate-change-is-supercharging-el-nino-to-unprecedented-strengths-study-finds"
+    },
+    {
+      "category": "Space",
+      "title": " After failure of private rescue mission, NASA's Swift space telescope will crash back to Earth. But when and where? ",
+      "source": " Latest from Space.com ",
+      "date": "Thu, 27 Aug 2026 18:00:00 +0000",
+      "summary": "A private spacecraft failed to rescue NASA's Swift space telescope, meaning the big observatory will come crashing back to Earth in the near future.  But details are sparse at the moment.",
+      "url": "https://www.space.com/space-exploration/missions/after-failure-of-private-rescue-mission-nasas-swift-space-telescope-will-crash-back-to-earth-but-when-and-where"
+    },
+    {
+      "category": "AI",
+      "title": "The iconic T-38 jets flown by astronauts just got a spiffy new look",
       "source": "Ars Technica - All content",
-      "date": "Wed, 26 Aug 2026 22:13:15 +0000",
-      "summary": "A dashing pirate, a butler, a killer clown, an alien mad scientist in drag—the man had range.",
-      "url": "https://arstechnica.com/culture/2026/08/rip-tim-curry-ars-remembers-his-top-10-iconic-performances/"
+      "date": "Thu, 27 Aug 2026 17:26:25 +0000",
+      "summary": "\"Everyone wants to take that aircraft up now...\"",
+      "url": "https://arstechnica.com/space/2026/08/nasa-t-38-astronaut-training-jet-gets-new-artemis-look/"
+    },
+    {
+      "category": "Science",
+      "title": " NASA's Nancy Grace Roman Space Telescope is set to launch this weekend. When will we see its first photos? ",
+      "source": " Latest from Live Science ",
+      "date": "Thu, 27 Aug 2026 17:03:09 +0000",
+      "summary": "The Nancy Grace Roman Space Telescope is set to launch from Kennedy Space Center in Florida Sunday morning (Aug. 30). The state-of-the-art spacecraft will help astronomers study exoplanets, distant galaxies, dark matter and much more.",
+      "url": "https://www.livescience.com/space/space-exploration/nasas-nancy-grace-roman-space-telescope-is-set-to-launch-this-weekend-when-will-we-see-its-first-photos"
+    },
+    {
+      "category": "Space",
+      "title": " Starship is coming home! SpaceX loads floating spacecraft onto huge ship in the Indian Ocean (photos) ",
+      "source": " Latest from Space.com ",
+      "date": "Thu, 27 Aug 2026 16:45:12 +0000",
+      "summary": "SpaceX has loaded Flight 13's Starship upper stage onto a ship in the Indian Ocean, more than a month after the vehicle splashed down. It is now headed home to Texas.",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/starship-is-coming-home-spacex-loads-floating-spacecraft-onto-huge-ship-in-the-indian-ocean-photos"
+    },
+    {
+      "category": "AI",
+      "title": "RFK Jr. goes full anti-vaccine bananas over two measles deaths—one was a newborn",
+      "source": "Ars Technica - All content",
+      "date": "Thu, 27 Aug 2026 16:36:16 +0000",
+      "summary": "Kennedy and his allies have a history of downplaying vaccine-preventable deaths.",
+      "url": "https://arstechnica.com/health/2026/08/rfk-jr-spews-anti-vaccine-rubbish-as-newborn-revealed-to-have-died-from-measles/"
+    },
+    {
+      "category": "AI",
+      "title": "Why did 1,000 world citizens bury their underpants?",
+      "source": "Ars Technica - All content",
+      "date": "Thu, 27 Aug 2026 15:39:42 +0000",
+      "summary": "Study: Land use is the biggest factor in determining decomposition rates of organic cotton underpants.",
+      "url": "https://arstechnica.com/science/2026/08/why-did-1000-swiss-citizens-bury-their-underpants/"
+    },
+    {
+      "category": "Science",
+      "title": "AI searched 100 million possibilities and found a cheaper way to 3D-print a NASA rocket alloy",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Thu, 27 Aug 2026 09:08:01 EDT",
+      "summary": "Researchers used AI to search through more than 100 million possible settings for 3D-printing a high-performance NASA alloy. After only 40 experiments, the system identified six successful configurations, including one that worked at a record-low 500 watts. That could allow GRCop-42, currently difficult and expensive to print, to be made with much more widely available equipment.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260827010504.htm"
+    },
+    {
+      "category": "Science",
+      "title": "“I jumped from my chair” – Astronomers spot Betelgeuse’s hidden companion",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Thu, 27 Aug 2026 08:43:27 EDT",
+      "summary": "Astronomers have captured their clearest image yet of Betelgeuse’s long-suspected companion, potentially ending a search that lasted about 100 years. The surprisingly massive hidden star could help explain Betelgeuse’s changing brightness and may influence its future supernova.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260827010514.htm"
+    },
+    {
+      "category": "Science",
+      "title": "Your dislike of eating bugs may be 9,000 years old",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Thu, 27 Aug 2026 08:18:38 EDT",
+      "summary": "Ancient teeth and human DNA are revealing a surprising history of insect eating. Modern humans in northern Eurasia appear to have eaten insects only occasionally, while Neanderthals may have consumed them much more regularly. Populations near the tropics also retained genes that make insect exoskeletons easier to digest.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260827010516.htm"
+    },
+    {
+      "category": "Biblical Studies",
+      "title": "Is the World’s Oldest House Church in Dura-Europos?",
+      "source": "Biblical Archaeology Society",
+      "date": "Thu, 27 Aug 2026 11:00:42 +0000",
+      "summary": "Once an impressive stronghold of the Roman Empire, the city of Dura-Europos, located along the banks of the Euphrates River in eastern Syria, is a […]\nThe post Is the World’s Oldest House Church in Dura-Europos? appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-rome/dura-europos-house-church/"
+    },
+    {
+      "category": "Biblical Studies",
+      "title": "What Happened to the Canaanites?",
+      "source": "Biblical Archaeology Society",
+      "date": "Thu, 27 Aug 2026 11:00:05 +0000",
+      "summary": "For the first time, researchers have conducted DNA sequencing on ancient Canaanite skeletons and have determined where the Canaanites’ descendants can be found today.\nThe post What Happened to the Canaanites? appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/daily/news/what-happened-to-the-canaanites/"
+    },
+    {
+      "category": "AI",
+      "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
+      "source": "OpenAI News",
+      "date": "Thu, 27 Aug 2026 09:00:00 GMT",
+      "summary": "A randomized study of more than 1,000 students examines ChatGPT, critical thinking, originality, and student performance on a real-world university assignment.",
+      "url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training"
+    },
+    {
+      "category": "Theology",
+      "title": "Women Have a Place and Purpose in God’s Story",
+      "source": "The Gospel Coalition",
+      "date": "Thu, 27 Aug 2026 04:02:00 +0000",
+      "summary": "These books offer a beautiful picture of the church as they present a positive vision of what it means to be men and women of God.",
+      "url": "https://www.thegospelcoalition.org/reviews/christ-bride-place-you/"
+    },
+    {
+      "category": "Theology",
+      "title": "An Overlooked Argument for Christianity",
+      "source": "The Gospel Coalition",
+      "date": "Thu, 27 Aug 2026 04:00:00 +0000",
+      "summary": "The idea that the early Christians retrojected Old Testament texts onto Jesus cannot easily account for the sheer breadth and specificity of the prophecies they appealed to.",
+      "url": "https://www.thegospelcoalition.org/article/overlooked-argument-christianity/"
+    },
+    {
+      "category": "AI",
+      "title": "Expanding OpenAI’s presence in Brazil",
+      "source": "OpenAI News",
+      "date": "Thu, 27 Aug 2026 03:00:00 GMT",
+      "summary": "OpenAI is expanding its presence in Brazil, deepening engagement with developers, businesses, and communities to support AI adoption across the country.",
+      "url": "https://openai.com/index/expanding-our-presence-in-brazil"
     },
     {
       "category": "History",
@@ -67,100 +203,12 @@
       "url": "https://allthingsliberty.com/2026/08/philip-mazzei-and-the-american-revolution-an-italian-in-virginia/"
     },
     {
-      "category": "AI",
-      "title": "AI agents meant to replace Meta workers made “large-scale, disruptive actions”",
-      "source": "Ars Technica - All content",
-      "date": "Wed, 26 Aug 2026 21:25:27 +0000",
-      "summary": "Report shows Meta's challenges replacing people with AI agents.",
-      "url": "https://arstechnica.com/ai/2026/08/metas-scrapped-plans-to-go-ai-native-included-slashing-teams-by-60-percent/"
-    },
-    {
-      "category": "Space",
-      "title": " From spy satellite to space telescope: The unlikely origins of NASA's Roman Space Telescope ",
-      "source": " Latest from Space.com ",
-      "date": "Wed, 26 Aug 2026 21:00:00 +0000",
-      "summary": "At the heart of this next-gen space telescope lies the parts of old spy satellites.",
-      "url": "https://www.space.com/astronomy/from-spy-satellite-to-space-telescope-the-unlikely-origins-of-nasas-roman-space-telescope"
-    },
-    {
-      "category": "AI",
-      "title": "New Twitter launches, says Musk's X gave up the name",
-      "source": "Ars Technica - All content",
-      "date": "Wed, 26 Aug 2026 20:49:04 +0000",
-      "summary": "Judge hasn't ruled on X Corp’s preliminary injunction, but Operation Bluebird plows ahead",
-      "url": "https://arstechnica.com/tech-policy/2026/08/new-twitter-launches-says-musks-x-gave-up-the-name/"
-    },
-    {
-      "category": "Science",
-      "title": " How worried are you about the health impacts of extreme heat? ",
-      "source": " Latest from Live Science ",
-      "date": "Wed, 26 Aug 2026 19:25:05 +0000",
-      "summary": "Are you worried about the effects of rising temperatures on your and your community's health? Take our poll to answer now.",
-      "url": "https://www.livescience.com/health/how-worried-are-you-about-the-health-impacts-of-extreme-heat"
-    },
-    {
-      "category": "Science",
-      "title": " 'Unlike anything seen before': Archaeologists unearth a unique, 11,000-year-old statue of a person riding a leopard from one of the world's earliest settlements ",
-      "source": " Latest from Live Science ",
-      "date": "Wed, 26 Aug 2026 18:33:27 +0000",
-      "summary": "Archaeologists in southern Turkey discovered a unique statue of a person on the back of a leopard.",
-      "url": "https://www.livescience.com/archaeology/middle-east/unlike-anything-seen-before-archaeologists-unearth-a-unique-11-000-year-old-statue-of-a-person-riding-a-leopard-from-one-of-the-worlds-earliest-settlements"
-    },
-    {
       "category": "Theology",
       "title": "Let the Point of Your Sermon Text Shape Your Church’s Corporate Prayers",
       "source": "9Marks",
       "date": "Wed, 26 Aug 2026 18:14:19 +0000",
       "summary": "Praying the point of the text means the congregation is hearing the passage not only through my voice as the preacher but also through the voices of other godly saints.\nThe post Let the Point of Your Sermon Text Shape Your Church’s Corporate Prayers appeared first on 9Marks.",
       "url": "https://www.9marks.org/article/churchs-corporate-prayers/?utm_source=rss&utm_medium=rss&utm_campaign=churchs-corporate-prayers"
-    },
-    {
-      "category": "Space",
-      "title": " Astronomers discover hot watery exoplanet destined to be swallowed by its star ",
-      "source": " Latest from Space.com ",
-      "date": "Wed, 26 Aug 2026 18:00:00 +0000",
-      "summary": "A newly discovered water dominated exoplanet is in hot-water literally and figuratively, it orbits so close to its parent star it is headed to a fatal collision that will see it devoured.",
-      "url": "https://www.space.com/astronomy/exoplanets/astronomers-discover-hot-watery-exoplanet-destined-to-be-swallowed-by-its-star"
-    },
-    {
-      "category": "Space",
-      "title": " A black star in a false Spanish twilight: Here's the story of my 1st total solar eclipse ",
-      "source": " Latest from Space.com ",
-      "date": "Wed, 26 Aug 2026 17:00:00 +0000",
-      "summary": "I journeyed to the path of totality in Spain to watch the Aug. 12 total solar eclipse with a group of passionate citizen scientists. Here's my story.",
-      "url": "https://www.space.com/stargazing/solar-eclipses/a-black-star-in-a-false-spanish-twilight-heres-the-story-of-my-1st-total-solar-eclipse"
-    },
-    {
-      "category": "Science",
-      "title": " I took a big risk for the Aug. 12 total solar eclipse —‬ and the reward was glorious ",
-      "source": " Latest from Live Science ",
-      "date": "Wed, 26 Aug 2026 16:17:13 +0000",
-      "summary": "On Wednesday, Aug. 12, Jamie Carter was on an expedition cruise ship, searching for clear skies just below Greenland's ice cap. Here's how his ninth totality unfolded.",
-      "url": "https://www.livescience.com/space/the-sun/why-i-watched-the-total-solar-eclipse-from-a-ship-and-what-it-taught-me-for-the-next-eclipse-one-year-from-now-opinion"
-    },
-    {
-      "category": "Science",
-      "title": "Scientists may have found a shortcut to calorie restriction’s anti-aging benefits",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Wed, 26 Aug 2026 09:00:53 EDT",
-      "summary": "Moderate calorie restriction lowered an immune protein called C3 that appears to help drive chronic inflammation as the body ages. Blocking the same protein reduced age related inflammation in mice, raising the possibility that future treatments could mimic some benefits of calorie restriction without severe dieting.",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260826055508.htm"
-    },
-    {
-      "category": "Science",
-      "title": "190-year-old DNA reveals a hidden pangolin species",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Wed, 26 Aug 2026 08:46:59 EDT",
-      "summary": "DNA from a nearly 190-year-old museum specimen has helped scientists confirm a distinct Himalayan pangolin species hiding in plain sight in Nepal and northern India. The discovery could give conservationists a powerful new way to trace illegally traded pangolin scales back to the species and regions being targeted by poachers.",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260826055500.htm"
-    },
-    {
-      "category": "Science",
-      "title": "Manhattan-sized ice island breaks off Greenland’s Petermann Glacier",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Wed, 26 Aug 2026 08:39:11 EDT",
-      "summary": "A Manhattan-sized ice island has broken away from Greenland’s Petermann Glacier after years of growing fractures weakened its floating ice tongue. Scientists expect two more huge sections could soon detach, potentially removing about 22 percent of the remaining ice tongue.",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260826055503.htm"
     },
     {
       "category": "Biblical Studies",
@@ -179,28 +227,12 @@
       "url": "https://allthingsliberty.com/2026/08/this-week-on-dispatches-robert-swanson-on-canadian-whigs-and-the-american-revolution/"
     },
     {
-      "category": "Biblical Studies",
-      "title": "A Looted Hellenistic Weight",
-      "source": "Biblical Archaeology Society",
-      "date": "Wed, 26 Aug 2026 10:00:26 +0000",
-      "summary": "Editor’s Note: This Bible History Daily article discusses an unprovenanced object. Learn more about the problems associated with objects that lack a secure archaeological context. “Heliodorus son of […]\nThe post A Looted Hellenistic Weight appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-israel/a-looted-hellenistic-weight/"
-    },
-    {
       "category": "AI",
       "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
       "source": "OpenAI News",
       "date": "Wed, 26 Aug 2026 10:00:00 GMT",
       "summary": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
       "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts"
-    },
-    {
-      "category": "AI",
-      "title": "Learning never stops: How AI makes learning continuous",
-      "source": "OpenAI News",
-      "date": "Wed, 26 Aug 2026 10:00:00 GMT",
-      "summary": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
-      "url": "https://openai.com/index/learning-never-stops"
     },
     {
       "category": "Theology",
@@ -211,44 +243,12 @@
       "url": "https://www.thegospelcoalition.org/article/reading-declines-discipleship-suffers/"
     },
     {
-      "category": "Theology",
-      "title": "Christian, Your Suffering Isn’t Pointless",
-      "source": "The Gospel Coalition",
-      "date": "Wed, 26 Aug 2026 04:00:00 +0000",
-      "summary": "We don’t get to see how God is working all things together for good. We just get to hope that he is and wait and see what he has in store.",
-      "url": "https://www.thegospelcoalition.org/article/suffering-isnt-pointless/"
-    },
-    {
-      "category": "AI",
-      "title": "The Hugging Face incident and the road ahead",
-      "source": "OpenAI News",
-      "date": "Wed, 26 Aug 2026 00:00:00 GMT",
-      "summary": "OpenAI shares findings from the Hugging Face security incident and the steps we’re taking to strengthen AI model security, monitoring, and alignment.",
-      "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead"
-    },
-    {
-      "category": "Biblical Studies",
-      "title": "What Does the Bible Say About Dogs?",
-      "source": "Biblical Archaeology Society",
-      "date": "Tue, 25 Aug 2026 11:00:36 +0000",
-      "summary": "A survey of dogs’ portrayals in ancient Near Eastern and Mediterranean cultures shows that far from being perceived as “unclean,” dogs served as companions, guard dogs, sheep dogs, hunters, and—surprisingly—physicians.\nThe post What Does the Bible Say About Dogs? appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-near-eastern-world/what-does-the-bible-say-about-dogs/"
-    },
-    {
       "category": "History",
       "title": "The 21-Mile Circle: American Revolution Heritage Sites in the English Midlands",
       "source": "Journal of the American Revolution",
       "date": "Tue, 25 Aug 2026 10:00:05 +0000",
       "summary": "For the American Revolution enthusiast visiting England, the English Midlands offers a remarkable concentration of sites directly connected to the founding era. Within a twenty-one mile radius centred on the village of Ecton, Northamptonshire, stand the ancestral home of George Washington, the church where Benjamin Franklin’s family worshipped for five generations, the hall from which […]\nThe post The 21-Mile Circle: American Revolution Heritage Sites in the English Midlands appeared first on Journal of the American Revolution.",
       "url": "https://allthingsliberty.com/2026/08/the-21-mile-circle-american-revolution-heritage-sites-in-the-english-midlands/"
-    },
-    {
-      "category": "Theology",
-      "title": "Why Pascal’s Wager Still Pays Off (with Graham Tomlin)",
-      "source": "The Gospel Coalition",
-      "date": "Tue, 25 Aug 2026 04:04:23 +0000",
-      "summary": "Graham Tomlin explains how Blaise Pascal, a 17th-century disciple of Augustine, became one of the most influential cultural apologists of all time.",
-      "url": "https://www.thegospelcoalition.org/podcasts/gospelbound/pascals-wager-pays-off/"
     },
     {
       "category": "Theology",
