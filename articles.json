@@ -1,62 +1,142 @@
 {
-  "lastUpdated": "2026-08-29T03:26:20.057Z",
+  "lastUpdated": "2026-08-29T14:51:28.265Z",
   "articleCount": 39,
   "articles": [
     {
-      "category": "Science",
-      "title": "Many cities buried urban streams. Here's how to bring them back",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Fri, 28 Aug 2026 22:40:04 EDT",
-      "summary": "As many cities developed, streams that once flowed on the surface were buried underground to make way for growing infrastructure. However, as heavier rainfall, extreme weather and aging infrastructure place growing pressure on cities, these buried streams could become part of the solution.",
-      "url": "https://phys.org/news/2026-08-cities-urban-streams.html"
-    },
-    {
       "category": "AI",
-      "title": "TurboKV: Insanely fast Rust key-value store",
+      "title": "Indirect Calling of Nested Functions on GCC Without Executable Stack",
       "source": "Hacker News: Front Page",
-      "date": "Sat, 29 Aug 2026 02:23:37 +0000",
-      "summary": "Article URL: https://github.com/kingroryg/turbokv\nComments URL: https://news.ycombinator.com/item?id=49486334\nPoints: 18\n# Comments: 0",
-      "url": "https://github.com/kingroryg/turbokv"
-    },
-    {
-      "category": "AI",
-      "title": "Kumander Linux – A Linux Distro with a Windows 7 Desktop",
-      "source": "Hacker News: Front Page",
-      "date": "Sat, 29 Aug 2026 01:48:15 +0000",
-      "summary": "Article URL: https://www.kumander.org/\nComments URL: https://news.ycombinator.com/item?id=49486176\nPoints: 15\n# Comments: 1",
-      "url": "https://www.kumander.org/"
-    },
-    {
-      "category": "AI",
-      "title": "Our decision on Cursor following its acquisition by SpaceX",
-      "source": "Hacker News: Front Page",
-      "date": "Sat, 29 Aug 2026 01:47:53 +0000",
-      "summary": "Article URL: https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/\nComments URL: https://news.ycombinator.com/item?id=49486172\nPoints: 130\n# Comments: 44",
-      "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/"
-    },
-    {
-      "category": "Science",
-      "title": "Rethinking bluegreen aphid control as insecticide resistance spreads",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Fri, 28 Aug 2026 21:40:01 EDT",
-      "summary": "When an insecticide application fails to control bluegreen aphid, application conditions may not be the only cause. Research has identified resistant populations across southern Australia, confirming that repeated reliance on broad-spectrum insecticides is no longer sustainable.",
-      "url": "https://phys.org/news/2026-08-rethinking-bluegreen-aphid-insecticide-resistance.html"
-    },
-    {
-      "category": "Science",
-      "title": "How AI‑powered policing is endangering the public's trust in police",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Fri, 28 Aug 2026 20:40:02 EDT",
-      "summary": "Since the release of ChatGPT in 2022, artificial intelligence (AI) has dominated the cultural landscape. Uptake across various sectors, including law enforcement, quickly followed, usually with minimal foresight and little to no guardrails, like effective policies or laws, to govern AI use.",
-      "url": "https://phys.org/news/2026-08-aipowered-policing-endangering-police.html"
+      "date": "Sat, 29 Aug 2026 14:20:33 +0000",
+      "summary": "Article URL: https://uecker.codeberg.page/2026-08-29.html\nComments URL: https://news.ycombinator.com/item?id=49490138\nPoints: 5\n# Comments: 0",
+      "url": "https://uecker.codeberg.page/2026-08-29.html"
     },
     {
       "category": "Space",
-      "title": " What time will SpaceX launch NASA's Roman Space Telscope on Aug. 30? (Full mission timeline) ",
+      "title": " On this day in space! Aug. 29, 1965: NASA's Gemini 5 breaks spaceflight duration record after 2 astronauts spent '8 days in a garbage can' ",
       "source": " Latest from Space.com ",
-      "date": "Fri, 28 Aug 2026 22:31:45 +0000",
-      "summary": "SpaceX will launch the Nancy Grace Roman Space Telescope, NASA's next great observatory, atop a Falcon Heavy rocket on Aug. 30. Here's what time it flies.",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-roman-space-telescope-falcon-heavy-launch-what-time"
+      "date": "Sat, 29 Aug 2026 14:14:12 +0000",
+      "summary": "On Aug. 29, 1965, two NASA astronauts returned to Earth after spending eight days in space on the record-setting Gemini 5 mission, setting the stage for longer trips to the moon.",
+      "url": "https://www.space.com/space-exploration/on-this-day-in-space-august-29-2026"
+    },
+    {
+      "category": "Science",
+      "title": "Centuries of child labor left lasting spinal damage in Dutch children, study finds",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sat, 29 Aug 2026 10:10:01 EDT",
+      "summary": "Children in the postmedieval Dutch workforce worked so hard that their spines became worn and deformed, with some children affected before they even had a chance to lose their baby teeth, a new study published in the International Journal of Paleopathology finds.",
+      "url": "https://phys.org/news/2026-08-centuries-child-labor-left-spinal.html"
+    },
+    {
+      "category": "AI",
+      "title": "Debian votes to allow \"responsible use of generative AI\"",
+      "source": "Hacker News: Front Page",
+      "date": "Sat, 29 Aug 2026 14:02:10 +0000",
+      "summary": "Article URL: https://lwn.net/Articles/1091231/\nComments URL: https://news.ycombinator.com/item?id=49489982\nPoints: 68\n# Comments: 32",
+      "url": "https://lwn.net/Articles/1091231/"
+    },
+    {
+      "category": "Science",
+      "title": " 2,600 silver coins found in outskirts of Moscow may have been buried by a medieval plague victim ",
+      "source": " Latest from Live Science ",
+      "date": "Sat, 29 Aug 2026 14:00:00 +0000",
+      "summary": "A hoard of silver coins has been unearthed near Moscow, revealing new information about money minting in the 15th century.",
+      "url": "https://www.livescience.com/archaeology/2-600-silver-coins-found-in-outskirts-of-moscow-may-have-been-buried-by-a-medieval-plague-victim"
+    },
+    {
+      "category": "Space",
+      "title": " SpaceX test-fires Starship Super Heavy booster ahead of critical Flight 14 (video) ",
+      "source": " Latest from Space.com ",
+      "date": "Sat, 29 Aug 2026 14:00:00 +0000",
+      "summary": "SpaceX fired up all 33 engines of its Super Heavy booster to gear up for the next Starship test flight, which will mark the first time the vehicle goes orbital.",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-test-fires-starship-super-heavy-booster-ahead-of-key-test-flight"
+    },
+    {
+      "category": "AI",
+      "title": "I'm teaching an introductory 12 week course on Quantum Oracle Engineering",
+      "source": "Hacker News: Front Page",
+      "date": "Sat, 29 Aug 2026 13:42:22 +0000",
+      "summary": "Article URL: https://shukla.io/quantum-oracle-engineering/\nComments URL: https://news.ycombinator.com/item?id=49489864\nPoints: 15\n# Comments: 3",
+      "url": "https://shukla.io/quantum-oracle-engineering/"
+    },
+    {
+      "category": "Science",
+      "title": " 'Everything is connected': Readers share their concerns about extreme heat's health impacts ",
+      "source": " Latest from Live Science ",
+      "date": "Sat, 29 Aug 2026 13:00:00 +0000",
+      "summary": "Are you worried about extreme heat? Live Science readers reveal their thoughts about Earth's rising temperatures.",
+      "url": "https://www.livescience.com/planet-earth/climate-change/everything-is-connected-readers-share-their-concerns-about-extreme-heats-health-impacts"
+    },
+    {
+      "category": "Science",
+      "title": "Dogs may hold surprising clues to human longevity",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Sat, 29 Aug 2026 08:47:55 EDT",
+      "summary": "Dogs and humans may have more in common when it comes to aging than scientists realized. Researchers with the Dog Aging Project found that patterns of small molecules in dogs’ blood were linked to longer or shorter lifespans in remarkably similar ways to those seen in people. These metabolic “fingerprints” could offer clues about the biological processes that drive aging, including metabolism, inflammation, and cellular stress.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260828082341.htm"
+    },
+    {
+      "category": "Science",
+      "title": "Talking to your children about consent and sexual violence can be hard. Here's how to start the conversation",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sat, 29 Aug 2026 08:00:08 EDT",
+      "summary": "There have been multiple high-profile alleged incidents of sexual violence against women and girls in news headlines this month. Some involve teenage boys.",
+      "url": "https://phys.org/news/2026-08-children-consent-sexual-violence-hard.html"
+    },
+    {
+      "category": "Science",
+      "title": "Nano-sandwich photocathode improves solar conversion of CO₂ into ethanol",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sat, 29 Aug 2026 08:00:01 EDT",
+      "summary": "Czech researchers at Charles University in Prague, led by Pavla Eliášová, have developed an advanced photocathode that helps convert the greenhouse gas carbon dioxide into pure ethanol using sunlight. The new technology solves a long-standing problem of material degradation in water, achieves record conversion efficiency and opens the way toward sustainable production of green fuels. The paper is published in the journal Advanced Energy Materials.",
+      "url": "https://phys.org/news/2026-08-nano-sandwich-photocathode-solar-conversion.html"
+    },
+    {
+      "category": "Space",
+      "title": " Meeting Nancy Grace Roman: What was the 'mother of Hubble' really like? ",
+      "source": " Latest from Space.com ",
+      "date": "Sat, 29 Aug 2026 12:00:00 +0000",
+      "summary": "Nearly a decade ago, I found myself laughing alongside Nancy Grace Roman: one of the most iconic women in astronomy.",
+      "url": "https://www.space.com/space-exploration/meeting-nancy-grace-roman-what-was-the-mother-of-hubble-really-like"
+    },
+    {
+      "category": "Science",
+      "title": " New kind of AI uses a fresh approach to reasoning —‬ researchers say it costs up to 11 times less to run than a leading OpenAI model ",
+      "source": " Latest from Live Science ",
+      "date": "Sat, 29 Aug 2026 11:00:00 +0000",
+      "summary": "Scientists say that a new vector-based approach to cognition is dramatically cheaper than standard methods and signal the start of the \"post-transformer\" era of AI models.",
+      "url": "https://www.livescience.com/technology/artificial-intelligence/new-kind-of-ai-uses-a-fresh-approach-to-reasoning-researchers-say-it-costs-up-to-11-times-less-to-run-than-a-leading-openai-model"
+    },
+    {
+      "category": "Science",
+      "title": "Long-term melatonin use linked to 90% higher heart failure risk",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Sat, 29 Aug 2026 06:52:20 EDT",
+      "summary": "People with chronic insomnia who used melatonin long term had a roughly 90% higher risk of developing heart failure over five years, according to a large preliminary study. The findings do not prove melatonin causes heart problems, but they raise new questions about the safety of taking the popular sleep supplement for extended periods.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260829035228.htm"
+    },
+    {
+      "category": "AI",
+      "title": "I asked 100 companies for my data. Some deleted it instead.",
+      "source": "Ars Technica - All content",
+      "date": "Sat, 29 Aug 2026 10:50:31 +0000",
+      "summary": "Testing 100 companies found privacy requests often led to confusion and dead ends.",
+      "url": "https://arstechnica.com/tech-policy/2026/08/i-asked-100-companies-for-my-data-some-deleted-it-instead/"
+    },
+    {
+      "category": "Science",
+      "title": "Australia’s red soil may be hiding a massive clean energy source",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Sat, 29 Aug 2026 06:05:43 EDT",
+      "summary": "Researchers have discovered that Western Australia’s iron-rich rocks can naturally generate hydrogen and that the process may be boosted to produce much larger amounts. If it can be scaled up, the vast formations beneath the Pilbara could become a major new source of low-emission energy for Australia and potentially the world.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260829035214.htm"
+    },
+    {
+      "category": "Theology",
+      "title": "Moses Models Family Worship for Tired Parents",
+      "source": "The Gospel Coalition",
+      "date": "Sat, 29 Aug 2026 04:00:00 +0000",
+      "summary": "Parents, don’t give up. Trust the Lord and find ways to diligently teach your children while you sit, walk, go to sleep, and rise.",
+      "url": "https://www.thegospelcoalition.org/article/moses-family-worship-parents/"
     },
     {
       "category": "Space",
@@ -83,44 +163,12 @@
       "url": "https://arstechnica.com/tech-policy/2026/08/cities-terminate-flock-contracts-at-record-pace-in-august/"
     },
     {
-      "category": "AI",
-      "title": "\"RFK Jr. has lied to the Senate\": Lawmakers call for criminal probe, ouster",
-      "source": "Ars Technica - All content",
-      "date": "Fri, 28 Aug 2026 21:17:38 +0000",
-      "summary": "RFK Jr. went to Samoa to spread vaccine fears. The measles outbreak after killed 83.",
-      "url": "https://arstechnica.com/health/2026/08/rfk-jr-has-lied-to-the-senate-lawmakers-call-for-criminal-probe-ouster/"
-    },
-    {
-      "category": "Science",
-      "title": " Strange 'hobbit' species walked more like us than like 'Lucy,' hip bones reveal ",
-      "source": " Latest from Live Science ",
-      "date": "Fri, 28 Aug 2026 20:45:06 +0000",
-      "summary": "Anthropologists studying the hip bones of Homo floresiensis have discovered that its pelvis was human-like, raising new questions about the origin of the enigmatic species.",
-      "url": "https://www.livescience.com/archaeology/human-evolution/strange-hobbit-species-walked-more-like-us-than-like-lucy-hip-bones-reveal"
-    },
-    {
       "category": "Space",
       "title": "NASA Awards First Prize in Phase 2 of Agency’s LunaRecycle Challenge ",
       "source": "NASA",
       "date": "Fri, 28 Aug 2026 20:30:52 +0000",
       "summary": "NASA named a team from the Massachusetts Institute of Technology (MIT) as the first prize winner for Phase 2 of the agency’s LunaRecycle Challenge, which focused on developing solutions for reducing waste during missions to the Moon or deep space by recycling common materials, like fabrics, plastics, foam, and metals.  The Composites for Extraterrestrial Recycling By Engineering the Reuse and Upcycling of Zotek (CERBERUZ) team, comprised of undergraduate, graduate, and doctoral students at MIT, received a total of $775,000 in awards.   The technology grinds mixed trash into a fine powder, […]",
       "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/centennial-challenges/nasa-awards-first-prize-in-phase-2-of-agencys-lunarecycle-challenge/"
-    },
-    {
-      "category": "Space",
-      "title": " Our choice as one of the best budget telescopes now has 17% off — this telescope deal is worth grabbing fast ",
-      "source": " Latest from Space.com ",
-      "date": "Fri, 28 Aug 2026 20:00:00 +0000",
-      "summary": "Our expert tester rated the Celestron StarSense Explorer DX 130AZ telescope with an impressive review and it's now at one of its lowest prices this year in this limited-time Amazon deal.",
-      "url": "https://www.space.com/stargazing/skywatching-kit/our-choice-as-one-of-the-best-budget-telescopes-now-has-17-percent-off-this-telescope-deal-is-worth-grabbing-fast"
-    },
-    {
-      "category": "Space",
-      "title": " The night we nearly saw a 'blood moon' (and why I love near-misses in astronomy) ",
-      "source": " Latest from Space.com ",
-      "date": "Fri, 28 Aug 2026 19:00:00 +0000",
-      "summary": "Astronomy is often about being close to extraordinary things without fully experiencing them. Here's why to love partials, grazings, faint objects and other almost-events.",
-      "url": "https://www.space.com/stargazing/the-night-we-nearly-saw-a-blood-moon-and-why-i-love-near-misses-in-astronomy"
     },
     {
       "category": "Theology",
@@ -139,52 +187,12 @@
       "url": "https://www.nasa.gov/news-release/president-honors-nasas-artemis-ii-crew-with-highest-us-space-award/"
     },
     {
-      "category": "Science",
-      "title": " The popular diabetes drug metformin has been used for decades — and scientists just figured out its main mechanism ",
-      "source": " Latest from Live Science ",
-      "date": "Fri, 28 Aug 2026 16:40:00 +0000",
-      "summary": "Scientists have debated whether the diabetes drug metformin acts primarily in the intestines or the liver. New findings clear up this confusion.",
-      "url": "https://www.livescience.com/health/medicine-drugs/the-popular-diabetes-drug-metformin-has-been-used-for-decades-and-scientists-just-figured-out-its-main-mechanism"
-    },
-    {
-      "category": "Science",
-      "title": " The Meta settlement is a start, but it's not enough to create real change — that's what we need to focus on now ",
-      "source": " Latest from Live Science ",
-      "date": "Fri, 28 Aug 2026 16:02:02 +0000",
-      "summary": "The Meta settlement requires limited oversight of Instagram and Facebook for just five years. Making it permanent and industry-wide requires a law, says experts Mariana Olaizola Rosenblat and Jonathan Bellack.",
-      "url": "https://www.livescience.com/technology/the-meta-settlement-is-a-start-but-its-not-enough-to-create-real-change-thats-what-we-need-to-focus-on-now"
-    },
-    {
-      "category": "Science",
-      "title": "Experimental eye drops help blind mice see again",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Fri, 28 Aug 2026 10:21:46 EDT",
-      "summary": "Scientists have created light-activated drugs that helped blind mice perceive light again and restored visually guided behavior without gene therapy, implants, or specialized lighting. Even more intriguingly, two of the most promising compounds worked when administered as eye drops, pointing toward a potentially simple new approach to restoring vision.",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260828005224.htm"
-    },
-    {
-      "category": "Science",
-      "title": "NASA’s Roman telescope will see 100 times more sky than Hubble",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Fri, 28 Aug 2026 09:54:53 EDT",
-      "summary": "NASA’s Roman Space Telescope will combine Hubble-like detail with a field of view 100 times larger, giving astronomers a sweeping new way to explore the cosmos. Its observations could uncover hidden planets, map billions of cosmic objects, and help scientists unravel the mysteries of dark matter and dark energy.",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260828082333.htm"
-    },
-    {
       "category": "Biblical Studies",
       "title": "Did Midian Have a Brand?",
       "source": "Biblical Archaeology Society",
       "date": "Fri, 28 Aug 2026 10:45:48 +0000",
       "summary": "For decades, archaeologists have known a distinctive kind of pottery as “Midianite Pottery.” These beautifully painted vessels were associated with ancient Arabia yet found at […]\nThe post Did Midian Have a Brand? appeared first on Biblical Archaeology Society.",
       "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-israel/did-midian-have-a-brand/"
-    },
-    {
-      "category": "Science",
-      "title": "Scientists tested 212 plant-based meat alternatives. Every one contained fungal toxins",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Fri, 28 Aug 2026 05:01:51 EDT",
-      "summary": "Every one of 212 plant-based meat alternatives and drinks tested in the UK contained at least one naturally occurring fungal toxin, though concentrations remained below recommended EU guideline levels. Researchers say the bigger question is whether regularly eating large amounts of these foods could lead to potentially concerning cumulative exposure over time.",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260828005216.htm"
     },
     {
       "category": "AI",
@@ -241,14 +249,6 @@
       "date": "Thu, 27 Aug 2026 09:00:00 GMT",
       "summary": "A randomized study of more than 1,000 students examines ChatGPT, critical thinking, originality, and student performance on a real-world university assignment.",
       "url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training"
-    },
-    {
-      "category": "Theology",
-      "title": "Women Have a Place and Purpose in God’s Story",
-      "source": "The Gospel Coalition",
-      "date": "Thu, 27 Aug 2026 04:02:00 +0000",
-      "summary": "These books offer a beautiful picture of the church as they present a positive vision of what it means to be men and women of God.",
-      "url": "https://www.thegospelcoalition.org/reviews/christ-bride-place-you/"
     },
     {
       "category": "History",
