@@ -1,7 +1,95 @@
 {
-  "lastUpdated": "2026-08-28T21:02:33.750Z",
+  "lastUpdated": "2026-08-29T03:26:20.057Z",
   "articleCount": 39,
   "articles": [
+    {
+      "category": "Science",
+      "title": "Many cities buried urban streams. Here's how to bring them back",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Fri, 28 Aug 2026 22:40:04 EDT",
+      "summary": "As many cities developed, streams that once flowed on the surface were buried underground to make way for growing infrastructure. However, as heavier rainfall, extreme weather and aging infrastructure place growing pressure on cities, these buried streams could become part of the solution.",
+      "url": "https://phys.org/news/2026-08-cities-urban-streams.html"
+    },
+    {
+      "category": "AI",
+      "title": "TurboKV: Insanely fast Rust key-value store",
+      "source": "Hacker News: Front Page",
+      "date": "Sat, 29 Aug 2026 02:23:37 +0000",
+      "summary": "Article URL: https://github.com/kingroryg/turbokv\nComments URL: https://news.ycombinator.com/item?id=49486334\nPoints: 18\n# Comments: 0",
+      "url": "https://github.com/kingroryg/turbokv"
+    },
+    {
+      "category": "AI",
+      "title": "Kumander Linux – A Linux Distro with a Windows 7 Desktop",
+      "source": "Hacker News: Front Page",
+      "date": "Sat, 29 Aug 2026 01:48:15 +0000",
+      "summary": "Article URL: https://www.kumander.org/\nComments URL: https://news.ycombinator.com/item?id=49486176\nPoints: 15\n# Comments: 1",
+      "url": "https://www.kumander.org/"
+    },
+    {
+      "category": "AI",
+      "title": "Our decision on Cursor following its acquisition by SpaceX",
+      "source": "Hacker News: Front Page",
+      "date": "Sat, 29 Aug 2026 01:47:53 +0000",
+      "summary": "Article URL: https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/\nComments URL: https://news.ycombinator.com/item?id=49486172\nPoints: 130\n# Comments: 44",
+      "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/"
+    },
+    {
+      "category": "Science",
+      "title": "Rethinking bluegreen aphid control as insecticide resistance spreads",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Fri, 28 Aug 2026 21:40:01 EDT",
+      "summary": "When an insecticide application fails to control bluegreen aphid, application conditions may not be the only cause. Research has identified resistant populations across southern Australia, confirming that repeated reliance on broad-spectrum insecticides is no longer sustainable.",
+      "url": "https://phys.org/news/2026-08-rethinking-bluegreen-aphid-insecticide-resistance.html"
+    },
+    {
+      "category": "Science",
+      "title": "How AI‑powered policing is endangering the public's trust in police",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Fri, 28 Aug 2026 20:40:02 EDT",
+      "summary": "Since the release of ChatGPT in 2022, artificial intelligence (AI) has dominated the cultural landscape. Uptake across various sectors, including law enforcement, quickly followed, usually with minimal foresight and little to no guardrails, like effective policies or laws, to govern AI use.",
+      "url": "https://phys.org/news/2026-08-aipowered-policing-endangering-police.html"
+    },
+    {
+      "category": "Space",
+      "title": " What time will SpaceX launch NASA's Roman Space Telscope on Aug. 30? (Full mission timeline) ",
+      "source": " Latest from Space.com ",
+      "date": "Fri, 28 Aug 2026 22:31:45 +0000",
+      "summary": "SpaceX will launch the Nancy Grace Roman Space Telescope, NASA's next great observatory, atop a Falcon Heavy rocket on Aug. 30. Here's what time it flies.",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-roman-space-telescope-falcon-heavy-launch-what-time"
+    },
+    {
+      "category": "Space",
+      "title": "NASA’s Artemis II Crew Receives Congressional Space Medal of Honor",
+      "source": "NASA",
+      "date": "Fri, 28 Aug 2026 22:21:31 +0000",
+      "summary": "From left to right: NASA astronauts Victor Glover and Christina Koch, CSA (Canadian Space Agency) astronaut Jeremy Hansen, and NASA astronaut Reid Wiseman receive the Congressional Space Medal of Honor from President Donald J. Trump on Aug. 28, 2026, for their service during the Artemis II mission. The Congressional Space Medal of Honor was authorized […]",
+      "url": "https://www.nasa.gov/image-article/nasas-artemis-ii-crew-receives-congressional-space-medal-of-honor/"
+    },
+    {
+      "category": "AI",
+      "title": "Court rules Kalshi sports bets aren't \"swaps,\" just gambling with a different name",
+      "source": "Ars Technica - All content",
+      "date": "Fri, 28 Aug 2026 22:14:52 +0000",
+      "summary": "Kalshi can't evade Nevada gambling laws by calling bets \"swaps,\" judges rule.",
+      "url": "https://arstechnica.com/tech-policy/2026/08/kalshi-cant-evade-nevada-gambling-laws-by-calling-bets-swaps-court-rules/"
+    },
+    {
+      "category": "AI",
+      "title": "Cities terminate Flock contracts at record pace in August",
+      "source": "Ars Technica - All content",
+      "date": "Fri, 28 Aug 2026 21:33:54 +0000",
+      "summary": "Cancellations have accelerated.",
+      "url": "https://arstechnica.com/tech-policy/2026/08/cities-terminate-flock-contracts-at-record-pace-in-august/"
+    },
+    {
+      "category": "AI",
+      "title": "\"RFK Jr. has lied to the Senate\": Lawmakers call for criminal probe, ouster",
+      "source": "Ars Technica - All content",
+      "date": "Fri, 28 Aug 2026 21:17:38 +0000",
+      "summary": "RFK Jr. went to Samoa to spread vaccine fears. The measles outbreak after killed 83.",
+      "url": "https://arstechnica.com/health/2026/08/rfk-jr-has-lied-to-the-senate-lawmakers-call-for-criminal-probe-ouster/"
+    },
     {
       "category": "Science",
       "title": " Strange 'hobbit' species walked more like us than like 'Lucy,' hip bones reveal ",
@@ -19,22 +107,6 @@
       "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/centennial-challenges/nasa-awards-first-prize-in-phase-2-of-agencys-lunarecycle-challenge/"
     },
     {
-      "category": "AI",
-      "title": "Stopping the smart TV from being used against you",
-      "source": "Hacker News: Front Page",
-      "date": "Fri, 28 Aug 2026 20:27:57 +0000",
-      "summary": "Article URL: https://www.s-config.com/stopping-a-smart-tv-from-being-used-against-you/\nComments URL: https://news.ycombinator.com/item?id=49483816\nPoints: 10\n# Comments: 3",
-      "url": "https://www.s-config.com/stopping-a-smart-tv-from-being-used-against-you/"
-    },
-    {
-      "category": "Science",
-      "title": "Diverse portfolio of protected areas key to Mexican conservation efforts",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Fri, 28 Aug 2026 16:20:01 EDT",
-      "summary": "In 2020, Mexico joined 150 nations committing to protect 30% of its territory by 2030 as part of the global 30x30 initiative. More than halfway through the decade, there is ongoing debate about how to effectively expand protected areas to meet that ambitious goal.",
-      "url": "https://phys.org/news/2026-08-diverse-portfolio-areas-key-mexican.html"
-    },
-    {
       "category": "Space",
       "title": " Our choice as one of the best budget telescopes now has 17% off — this telescope deal is worth grabbing fast ",
       "source": " Latest from Space.com ",
@@ -43,60 +115,12 @@
       "url": "https://www.space.com/stargazing/skywatching-kit/our-choice-as-one-of-the-best-budget-telescopes-now-has-17-percent-off-this-telescope-deal-is-worth-grabbing-fast"
     },
     {
-      "category": "Science",
-      "title": "Low temperature graphene growth opens a route to sustainable resource recycling",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Fri, 28 Aug 2026 15:40:02 EDT",
-      "summary": "Graphene is an exceptionally useful material for creating batteries, catalysts and electronic devices. Yet producing graphene typically requires temperatures as high as 900°C (1,652°F), limiting energy efficiency and making structural control difficult. To make graphene production more practical, a recent study has overcome this long-standing temperature barrier.",
-      "url": "https://phys.org/news/2026-08-temperature-graphene-growth-route-sustainable.html"
-    },
-    {
-      "category": "AI",
-      "title": "Isitdoneyet.gg is a website I made to figure out if games are complete",
-      "source": "Hacker News: Front Page",
-      "date": "Fri, 28 Aug 2026 19:30:46 +0000",
-      "summary": "Article URL: https://isitdoneyet.gg/\nComments URL: https://news.ycombinator.com/item?id=49483187\nPoints: 21\n# Comments: 19",
-      "url": "https://isitdoneyet.gg/"
-    },
-    {
-      "category": "AI",
-      "title": "25,000 Lbs. Of Chicken Products Recalled in 5 States: USDA",
-      "source": "Hacker News: Front Page",
-      "date": "Fri, 28 Aug 2026 19:30:15 +0000",
-      "summary": "Article URL: https://www.thehealthy.com/news/chicken-recall-fsis-august-2026/\nComments URL: https://news.ycombinator.com/item?id=49483182\nPoints: 85\n# Comments: 49",
-      "url": "https://www.thehealthy.com/news/chicken-recall-fsis-august-2026/"
-    },
-    {
-      "category": "Science",
-      "title": "Dog-friendly dining isn't just a trend, it's good for business, new research shows",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Fri, 28 Aug 2026 15:00:05 EDT",
-      "summary": "Restaurants that go beyond simply allowing dogs on patios by offering dedicated menu items for them can significantly boost customer traffic, spending and word-of-mouth, according to new research from Toronto Metropolitan University.",
-      "url": "https://phys.org/news/2026-08-dog-friendly-dining-isnt-trend.html"
-    },
-    {
       "category": "Space",
       "title": " The night we nearly saw a 'blood moon' (and why I love near-misses in astronomy) ",
       "source": " Latest from Space.com ",
       "date": "Fri, 28 Aug 2026 19:00:00 +0000",
       "summary": "Astronomy is often about being close to extraordinary things without fully experiencing them. Here's why to love partials, grazings, faint objects and other almost-events.",
       "url": "https://www.space.com/stargazing/the-night-we-nearly-saw-a-blood-moon-and-why-i-love-near-misses-in-astronomy"
-    },
-    {
-      "category": "Space",
-      "title": " 'It's going to be beautiful': President Trump signs order to create US Space Academy ",
-      "source": " Latest from Space.com ",
-      "date": "Fri, 28 Aug 2026 18:44:34 +0000",
-      "summary": "President Trump just signed an executive order creating the U.S. Space Academy, which will train students for a career studying, exploring, exploiting or helping to protect the final frontier.",
-      "url": "https://www.space.com/space-exploration/its-going-to-be-beautiful-president-trump-signs-order-to-create-us-space-academy"
-    },
-    {
-      "category": "AI",
-      "title": "Trump blacklisting of \"woke\" Anthropic deemed illegal by federal judge",
-      "source": "Ars Technica - All content",
-      "date": "Fri, 28 Aug 2026 18:07:55 +0000",
-      "summary": "Anthropic refused to support lethal autonomous warfare and mass surveillance.",
-      "url": "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge/"
     },
     {
       "category": "Theology",
@@ -113,30 +137,6 @@
       "date": "Fri, 28 Aug 2026 17:37:01 +0000",
       "summary": "President Donald J. Trump awarded NASA astronauts Reid Wiseman, Victor Glover, and Christina Koch, and CSA (Canadian Space Agency) astronaut Jeremy Hansen with the Congressional Space Medal of Honor Friday for their service during the Artemis II mission. He presented the awards during a ceremony at NASA’s Johnson Space Center in Houston, honoring the first […]",
       "url": "https://www.nasa.gov/news-release/president-honors-nasas-artemis-ii-crew-with-highest-us-space-award/"
-    },
-    {
-      "category": "AI",
-      "title": "Here's what we know about the \"space academy\" Trump just announced",
-      "source": "Ars Technica - All content",
-      "date": "Fri, 28 Aug 2026 17:36:30 +0000",
-      "summary": "\"It's called the US Space Academy. That's a big deal.\"",
-      "url": "https://arstechnica.com/space/2026/08/trump-calls-for-creation-of-a-space-academy-to-train-future-nasa-leaders/"
-    },
-    {
-      "category": "AI",
-      "title": "Apple One and Apple TV subscription prices increase by up to 20 percent",
-      "source": "Ars Technica - All content",
-      "date": "Fri, 28 Aug 2026 17:23:53 +0000",
-      "summary": "Annual Apple TV subscriptions get the biggest bump.",
-      "url": "https://arstechnica.com/gadgets/2026/08/apple-one-and-apple-tv-subscription-prices-increase-by-up-to-20-percent/"
-    },
-    {
-      "category": "Space",
-      "title": "President Trump Signs Executive Order to Create US Space Academy  ",
-      "source": "NASA",
-      "date": "Fri, 28 Aug 2026 17:21:04 +0000",
-      "summary": "To strengthen the nation’s space workforce and develop the next generation of space leaders, President Donald J. Trump signed an Executive Order on Friday to establish the nation’s first U.S. Space Academy. The order highlights how space is a critical domain for American national security, economic growth, scientific discovery, and technological innovation. The proposed academy […]",
-      "url": "https://www.nasa.gov/news-release/president-trump-signs-executive-order-to-create-us-space-academy/"
     },
     {
       "category": "Science",
@@ -185,6 +185,14 @@
       "date": "Fri, 28 Aug 2026 05:01:51 EDT",
       "summary": "Every one of 212 plant-based meat alternatives and drinks tested in the UK contained at least one naturally occurring fungal toxin, though concentrations remained below recommended EU guideline levels. Researchers say the bigger question is whether regularly eating large amounts of these foods could lead to potentially concerning cumulative exposure over time.",
       "url": "https://www.sciencedaily.com/releases/2026/08/260828005216.htm"
+    },
+    {
+      "category": "AI",
+      "title": "Our decision on Cursor following its acquisition by SpaceX",
+      "source": "OpenAI News",
+      "date": "Fri, 28 Aug 2026 06:00:00 GMT",
+      "summary": "Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.",
+      "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex"
     },
     {
       "category": "Theology",
@@ -241,14 +249,6 @@
       "date": "Thu, 27 Aug 2026 04:02:00 +0000",
       "summary": "These books offer a beautiful picture of the church as they present a positive vision of what it means to be men and women of God.",
       "url": "https://www.thegospelcoalition.org/reviews/christ-bride-place-you/"
-    },
-    {
-      "category": "AI",
-      "title": "Expanding OpenAI’s presence in Brazil",
-      "source": "OpenAI News",
-      "date": "Thu, 27 Aug 2026 03:00:00 GMT",
-      "summary": "OpenAI is expanding its presence in Brazil, deepening engagement with developers, businesses, and communities to support AI adoption across the country.",
-      "url": "https://openai.com/index/expanding-our-presence-in-brazil"
     },
     {
       "category": "History",
