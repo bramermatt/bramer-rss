@@ -1,14 +1,70 @@
 {
-  "lastUpdated": "2026-08-29T14:51:28.265Z",
-  "articleCount": 39,
+  "lastUpdated": "2026-08-29T19:03:02.337Z",
+  "articleCount": 36,
   "articles": [
     {
       "category": "AI",
-      "title": "Indirect Calling of Nested Functions on GCC Without Executable Stack",
+      "title": "The Internet Is Kind of a Predatory Cesspit Now",
       "source": "Hacker News: Front Page",
-      "date": "Sat, 29 Aug 2026 14:20:33 +0000",
-      "summary": "Article URL: https://uecker.codeberg.page/2026-08-29.html\nComments URL: https://news.ycombinator.com/item?id=49490138\nPoints: 5\n# Comments: 0",
-      "url": "https://uecker.codeberg.page/2026-08-29.html"
+      "date": "Sat, 29 Aug 2026 18:40:56 +0000",
+      "summary": "Article URL: https://www.stephendiehl.com/posts/internet_predatory_cesspit/\nComments URL: https://news.ycombinator.com/item?id=49492193\nPoints: 26\n# Comments: 5",
+      "url": "https://www.stephendiehl.com/posts/internet_predatory_cesspit/"
+    },
+    {
+      "category": "Science",
+      "title": "How everyday household tasks impact relationships",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sat, 29 Aug 2026 14:00:04 EDT",
+      "summary": "The physical, cognitive and emotional loads of running a household should be recognized when examining the health of a couple's relationship, new research has found. A University of Queensland study examined the \"tri-load\" of household labor—physical (traditional chores such as washing, cleaning and cooking); cognitive (planning shopping lists, scheduling appointments); and emotional (anticipating, caring, comforting, consoling).",
+      "url": "https://phys.org/news/2026-08-everyday-household-tasks-impact-relationships.html"
+    },
+    {
+      "category": "Science",
+      "title": "Most people would sacrifice some life satisfaction in exchange for a more equal society",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sat, 29 Aug 2026 14:00:02 EDT",
+      "summary": "What kind of society would you rather live in: an equal one where everyone is just about getting by? Or an unequal one where most people are doing substantially better, but a small group consistently falls behind? Now imagine having to choose that society before you were even born, but with no idea where you'll end up in it.",
+      "url": "https://phys.org/news/2026-08-people-sacrifice-life-satisfaction-exchange.html"
+    },
+    {
+      "category": "AI",
+      "title": "Calibrate Before You Accelerate: Bias Toward Action in a New Role",
+      "source": "Hacker News: Front Page",
+      "date": "Sat, 29 Aug 2026 17:39:18 +0000",
+      "summary": "Article URL: https://tucker.wales/writing/bias-towards-action/\nComments URL: https://news.ycombinator.com/item?id=49491714\nPoints: 13\n# Comments: 2",
+      "url": "https://tucker.wales/writing/bias-towards-action/"
+    },
+    {
+      "category": "AI",
+      "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
+      "source": "Hacker News: Front Page",
+      "date": "Sat, 29 Aug 2026 17:19:47 +0000",
+      "summary": "Article URL: https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity\nComments URL: https://news.ycombinator.com/item?id=49491568\nPoints: 40\n# Comments: 7",
+      "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity"
+    },
+    {
+      "category": "Science",
+      "title": "How plastic welds retain a molecular 'memory' of their former surfaces to strengthen pipe joints",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sat, 29 Aug 2026 13:10:01 EDT",
+      "summary": "Welding plastic is a critically important part of everyday engineering—especially for preventing leaks in underground water and gas pipes. For decades, engineers have understood that a properly welded joint in polyethylene pipe can be just as strong as the pipe itself, if not stronger. However, the reason for this strength has remained a mystery.",
+      "url": "https://phys.org/news/2026-08-plastic-welds-retain-molecular-memory.html"
+    },
+    {
+      "category": "Space",
+      "title": " This Week In Space podcast: Episode 225 — Get a Grip! ",
+      "source": " Latest from Space.com ",
+      "date": "Sat, 29 Aug 2026 15:03:54 +0000",
+      "summary": "On Episode 225 of This Week In Space, Rod Pyle and Tariq Malik are joined by Adam Kall of KMI to discuss their work on the ISS may provide answers for orbital debris mitigation.",
+      "url": "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-225-get-a-grip"
+    },
+    {
+      "category": "Space",
+      "title": " When is the next lunar eclipse? ",
+      "source": " Latest from Space.com ",
+      "date": "Sat, 29 Aug 2026 15:00:00 +0000",
+      "summary": "When will Earth's shadow cover the moon next following the August 2026 partial lunar eclipse?",
+      "url": "https://www.space.com/stargazing/lunar-eclipses/when-is-the-next-lunar-eclipse"
     },
     {
       "category": "Space",
@@ -20,43 +76,11 @@
     },
     {
       "category": "Science",
-      "title": "Centuries of child labor left lasting spinal damage in Dutch children, study finds",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sat, 29 Aug 2026 10:10:01 EDT",
-      "summary": "Children in the postmedieval Dutch workforce worked so hard that their spines became worn and deformed, with some children affected before they even had a chance to lose their baby teeth, a new study published in the International Journal of Paleopathology finds.",
-      "url": "https://phys.org/news/2026-08-centuries-child-labor-left-spinal.html"
-    },
-    {
-      "category": "AI",
-      "title": "Debian votes to allow \"responsible use of generative AI\"",
-      "source": "Hacker News: Front Page",
-      "date": "Sat, 29 Aug 2026 14:02:10 +0000",
-      "summary": "Article URL: https://lwn.net/Articles/1091231/\nComments URL: https://news.ycombinator.com/item?id=49489982\nPoints: 68\n# Comments: 32",
-      "url": "https://lwn.net/Articles/1091231/"
-    },
-    {
-      "category": "Science",
       "title": " 2,600 silver coins found in outskirts of Moscow may have been buried by a medieval plague victim ",
       "source": " Latest from Live Science ",
       "date": "Sat, 29 Aug 2026 14:00:00 +0000",
       "summary": "A hoard of silver coins has been unearthed near Moscow, revealing new information about money minting in the 15th century.",
       "url": "https://www.livescience.com/archaeology/2-600-silver-coins-found-in-outskirts-of-moscow-may-have-been-buried-by-a-medieval-plague-victim"
-    },
-    {
-      "category": "Space",
-      "title": " SpaceX test-fires Starship Super Heavy booster ahead of critical Flight 14 (video) ",
-      "source": " Latest from Space.com ",
-      "date": "Sat, 29 Aug 2026 14:00:00 +0000",
-      "summary": "SpaceX fired up all 33 engines of its Super Heavy booster to gear up for the next Starship test flight, which will mark the first time the vehicle goes orbital.",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-test-fires-starship-super-heavy-booster-ahead-of-key-test-flight"
-    },
-    {
-      "category": "AI",
-      "title": "I'm teaching an introductory 12 week course on Quantum Oracle Engineering",
-      "source": "Hacker News: Front Page",
-      "date": "Sat, 29 Aug 2026 13:42:22 +0000",
-      "summary": "Article URL: https://shukla.io/quantum-oracle-engineering/\nComments URL: https://news.ycombinator.com/item?id=49489864\nPoints: 15\n# Comments: 3",
-      "url": "https://shukla.io/quantum-oracle-engineering/"
     },
     {
       "category": "Science",
@@ -73,30 +97,6 @@
       "date": "Sat, 29 Aug 2026 08:47:55 EDT",
       "summary": "Dogs and humans may have more in common when it comes to aging than scientists realized. Researchers with the Dog Aging Project found that patterns of small molecules in dogs’ blood were linked to longer or shorter lifespans in remarkably similar ways to those seen in people. These metabolic “fingerprints” could offer clues about the biological processes that drive aging, including metabolism, inflammation, and cellular stress.",
       "url": "https://www.sciencedaily.com/releases/2026/08/260828082341.htm"
-    },
-    {
-      "category": "Science",
-      "title": "Talking to your children about consent and sexual violence can be hard. Here's how to start the conversation",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sat, 29 Aug 2026 08:00:08 EDT",
-      "summary": "There have been multiple high-profile alleged incidents of sexual violence against women and girls in news headlines this month. Some involve teenage boys.",
-      "url": "https://phys.org/news/2026-08-children-consent-sexual-violence-hard.html"
-    },
-    {
-      "category": "Science",
-      "title": "Nano-sandwich photocathode improves solar conversion of CO₂ into ethanol",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sat, 29 Aug 2026 08:00:01 EDT",
-      "summary": "Czech researchers at Charles University in Prague, led by Pavla Eliášová, have developed an advanced photocathode that helps convert the greenhouse gas carbon dioxide into pure ethanol using sunlight. The new technology solves a long-standing problem of material degradation in water, achieves record conversion efficiency and opens the way toward sustainable production of green fuels. The paper is published in the journal Advanced Energy Materials.",
-      "url": "https://phys.org/news/2026-08-nano-sandwich-photocathode-solar-conversion.html"
-    },
-    {
-      "category": "Space",
-      "title": " Meeting Nancy Grace Roman: What was the 'mother of Hubble' really like? ",
-      "source": " Latest from Space.com ",
-      "date": "Sat, 29 Aug 2026 12:00:00 +0000",
-      "summary": "Nearly a decade ago, I found myself laughing alongside Nancy Grace Roman: one of the most iconic women in astronomy.",
-      "url": "https://www.space.com/space-exploration/meeting-nancy-grace-roman-what-was-the-mother-of-hubble-really-like"
     },
     {
       "category": "Science",
@@ -139,14 +139,6 @@
       "url": "https://www.thegospelcoalition.org/article/moses-family-worship-parents/"
     },
     {
-      "category": "Space",
-      "title": "NASA’s Artemis II Crew Receives Congressional Space Medal of Honor",
-      "source": "NASA",
-      "date": "Fri, 28 Aug 2026 22:21:31 +0000",
-      "summary": "From left to right: NASA astronauts Victor Glover and Christina Koch, CSA (Canadian Space Agency) astronaut Jeremy Hansen, and NASA astronaut Reid Wiseman receive the Congressional Space Medal of Honor from President Donald J. Trump on Aug. 28, 2026, for their service during the Artemis II mission. The Congressional Space Medal of Honor was authorized […]",
-      "url": "https://www.nasa.gov/image-article/nasas-artemis-ii-crew-receives-congressional-space-medal-of-honor/"
-    },
-    {
       "category": "AI",
       "title": "Court rules Kalshi sports bets aren't \"swaps,\" just gambling with a different name",
       "source": "Ars Technica - All content",
@@ -163,28 +155,12 @@
       "url": "https://arstechnica.com/tech-policy/2026/08/cities-terminate-flock-contracts-at-record-pace-in-august/"
     },
     {
-      "category": "Space",
-      "title": "NASA Awards First Prize in Phase 2 of Agency’s LunaRecycle Challenge ",
-      "source": "NASA",
-      "date": "Fri, 28 Aug 2026 20:30:52 +0000",
-      "summary": "NASA named a team from the Massachusetts Institute of Technology (MIT) as the first prize winner for Phase 2 of the agency’s LunaRecycle Challenge, which focused on developing solutions for reducing waste during missions to the Moon or deep space by recycling common materials, like fabrics, plastics, foam, and metals.  The Composites for Extraterrestrial Recycling By Engineering the Reuse and Upcycling of Zotek (CERBERUZ) team, comprised of undergraduate, graduate, and doctoral students at MIT, received a total of $775,000 in awards.   The technology grinds mixed trash into a fine powder, […]",
-      "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/centennial-challenges/nasa-awards-first-prize-in-phase-2-of-agencys-lunarecycle-challenge/"
-    },
-    {
       "category": "Theology",
       "title": "Caring for Aging Parents",
       "source": "9Marks",
       "date": "Fri, 28 Aug 2026 17:46:38 +0000",
       "summary": "Every pastor’s parents are getting older and closer to the day when they will stand before the Lord. \nThe post Caring for Aging Parents appeared first on 9Marks.",
       "url": "https://www.9marks.org/article/caring-for-aging-parents/?utm_source=rss&utm_medium=rss&utm_campaign=caring-for-aging-parents"
-    },
-    {
-      "category": "Space",
-      "title": "President Honors NASA’s Artemis II Crew with Highest US Space Award",
-      "source": "NASA",
-      "date": "Fri, 28 Aug 2026 17:37:01 +0000",
-      "summary": "President Donald J. Trump awarded NASA astronauts Reid Wiseman, Victor Glover, and Christina Koch, and CSA (Canadian Space Agency) astronaut Jeremy Hansen with the Congressional Space Medal of Honor Friday for their service during the Artemis II mission. He presented the awards during a ceremony at NASA’s Johnson Space Center in Houston, honoring the first […]",
-      "url": "https://www.nasa.gov/news-release/president-honors-nasas-artemis-ii-crew-with-highest-us-space-award/"
     },
     {
       "category": "Biblical Studies",
