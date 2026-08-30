@@ -1,22 +1,102 @@
 {
-  "lastUpdated": "2026-08-30T14:36:17.258Z",
-  "articleCount": 36,
+  "lastUpdated": "2026-08-30T18:58:01.186Z",
+  "articleCount": 39,
   "articles": [
     {
-      "category": "Science",
-      "title": "Know your pest pressure: Monitoring is the foundation for managing lucerne seed wasp",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sun, 30 Aug 2026 10:30:01 EDT",
-      "summary": "Lucerne seed wasp (LSW) is a serious pest in alfalfa crops, causing damage that is difficult to see in the field. Its larvae feed inside developing seeds, meaning losses may not become apparent until harvest, cleaning or seed delivery, when it is too late to intervene. Each wasp represents a lost seed, with infested seeds removed by seed-cleaning facilities along with other impurities.",
-      "url": "https://phys.org/news/2026-08-pest-pressure-foundation-lucerne-seed.html"
+      "category": "Space",
+      "title": " 'What a glorious dawn launch': Why the Roman Space Telescope's picture-perfect liftoff beyond Earth is such a big deal ",
+      "source": " Latest from Space.com ",
+      "date": "Sun, 30 Aug 2026 18:44:59 +0000",
+      "summary": "\"We're just about to set foot off into the unknown.\"",
+      "url": "https://www.space.com/astronomy/what-a-glorious-dawn-launch-why-the-roman-space-telescopes-picture-perfect-liftoff-beyond-earth-is-such-a-big-deal"
+    },
+    {
+      "category": "AI",
+      "title": "Running SQLite Apps on Docker and Kubernetes with Litestream",
+      "source": "Hacker News: Front Page",
+      "date": "Sun, 30 Aug 2026 18:05:06 +0000",
+      "summary": "Article URL: https://openrun.dev/blog/litestream/\nComments URL: https://news.ycombinator.com/item?id=49501147\nPoints: 8\n# Comments: 2",
+      "url": "https://openrun.dev/blog/litestream/"
     },
     {
       "category": "Science",
-      "title": "Aboriginal artists painted giant ancestral beings as colonization arrived, study finds",
+      "title": "As super El Nino strengthens, study suggests that climate change is intensifying El Ninos",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Sun, 30 Aug 2026 10:00:01 EDT",
-      "summary": "Slithering across the ceiling of an Australian rock shelter is a giant snake with a crocodile-like head, razor-sharp teeth and a long tongue. It's more than 6 meters (20 feet) long, making it one of the largest Rainbow Serpent paintings ever recorded in Arnhem Land and adding to the curious repertoire of similarly giant paintings across the region.",
-      "url": "https://phys.org/news/2026-08-aboriginal-artists-giant-ancestral-colonization.html"
+      "date": "Sun, 30 Aug 2026 14:00:02 EDT",
+      "summary": "A new study suggests that El Ninos—the natural climatic chaos agent that pops up periodically and spikes global temperatures—are getting stronger because of human-caused climate change.",
+      "url": "https://phys.org/news/2026-08-super-el-nino-climate-ninos.html"
+    },
+    {
+      "category": "AI",
+      "title": "Why it matters that President Trump just dialed into a NASA news conference",
+      "source": "Ars Technica - All content",
+      "date": "Sun, 30 Aug 2026 17:40:30 +0000",
+      "summary": "With just one more major mission upcoming, NASA's science programs need a boost.",
+      "url": "https://arstechnica.com/space/2026/08/why-it-matters-that-president-trump-just-dialed-into-a-nasa-news-conference/"
+    },
+    {
+      "category": "AI",
+      "title": "Artie (YC S23) Is Hiring Technical AES",
+      "source": "Hacker News: Front Page",
+      "date": "Sun, 30 Aug 2026 17:01:56 +0000",
+      "summary": "Article URL: https://www.artie.com/careers?ashby_jid=e87b84d2-78b3-41a3-937a-47e83643cdf1\nComments URL: https://news.ycombinator.com/item?id=49500471\nPoints: 0\n# Comments: 0",
+      "url": "https://www.artie.com/careers?ashby_jid=e87b84d2-78b3-41a3-937a-47e83643cdf1"
+    },
+    {
+      "category": "Science",
+      "title": "Infection kills gut cells, while diet reshapes existing ones, fruit fly study finds",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sun, 30 Aug 2026 13:00:01 EDT",
+      "summary": "The intestines rely on different strategies to rebuild themselves in response to diet changes versus infections, according to a new Cornell study—a finding that can shed light on how gut health adapts to harsh conditions, flourishing ecosystems of microbes and variable diets.",
+      "url": "https://phys.org/news/2026-08-infection-gut-cells-diet-reshapes.html"
+    },
+    {
+      "category": "AI",
+      "title": "Coordination Headwind: How Organizations Are Like Slime Molds",
+      "source": "Hacker News: Front Page",
+      "date": "Sun, 30 Aug 2026 16:03:17 +0000",
+      "summary": "Article URL: https://komoroske.com/slime-mold/\nComments URL: https://news.ycombinator.com/item?id=49499891\nPoints: 49\n# Comments: 20",
+      "url": "https://komoroske.com/slime-mold/"
+    },
+    {
+      "category": "Science",
+      "title": "Tropical Storm Karina strengthens into a hurricane in the Pacific, could be a major storm this week",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sun, 30 Aug 2026 11:40:01 EDT",
+      "summary": "Tropical Storm Karina strengthened into a hurricane in the Pacific Ocean on Sunday and could become a major storm this week, forecasters said. The cyclone's center was at far out sea and was not threatening land.",
+      "url": "https://phys.org/news/2026-08-tropical-storm-karina-hurricane-pacific.html"
+    },
+    {
+      "category": "Space",
+      "title": "Ribbon-Cutting Event for NASA Deep Space Network’s Deep Space Station 23",
+      "source": "NASA",
+      "date": "Sun, 30 Aug 2026 14:57:59 +0000",
+      "summary": "Description Leadership from NASA Headquarters, the Jet Propulsion Laboratory, and the Deep Space Network (DSN) stand in front of the recently completed Deep Space Station 23 antenna at the Deep Space Network’s Goldstone complex near Barstow, California, on Aug. 25, 2026.  From left: Germaine Aziz (project manager, DSN Aperture Enhancement Project, JPL); Bradford Arnold (manager, […]",
+      "url": "https://science.nasa.gov/photojournal/ribbon-cutting-event-for-nasa-deep-space-networks-deep-space-station-23/"
+    },
+    {
+      "category": "Space",
+      "title": "NASA Deep Space Network’s New Goldstone Antenna Goes Online",
+      "source": "NASA",
+      "date": "Sun, 30 Aug 2026 14:53:08 +0000",
+      "summary": "Description Long shadows are cast by the recently completed Deep Space Station 23 at the Deep Space Network’s Goldstone complex near Barstow, California, in August 2026. A 34-meter (114-foot) multifrequency beam-waveguide antenna, DSS-23 will boost the DSN’s capacity and enhance NASA’s deep space communications capabilities for decades to come. NASA leadership and personnel as well […]",
+      "url": "https://science.nasa.gov/photojournal/nasa-deep-space-networks-new-goldstone-antenna-goes-online/"
+    },
+    {
+      "category": "Space",
+      "title": " On this day in space! Aug. 30, 1992: Astronomers discover 1st Kuiper Belt object out beyond Pluto ",
+      "source": " Latest from Space.com ",
+      "date": "Sun, 30 Aug 2026 14:51:12 +0000",
+      "summary": "On Aug. 30, 1992, astronomers spotted an object orbiting the sun beyond Pluto for the very first time. Here's why the discovery of 1992 QB-1 mattered.",
+      "url": "https://www.space.com/space-exploration/on-this-day-in-space-august-30-2026"
+    },
+    {
+      "category": "Space",
+      "title": "Panorama Showcasing the 34-Meter Antennas of the DSN’s Goldstone Complex",
+      "source": "NASA",
+      "date": "Sun, 30 Aug 2026 14:47:12 +0000",
+      "summary": "Description Five antennas soak in the summer sun at the Deep Space Network’s Goldstone complex near Barstow, California, in August 2026. The recently completed Deep Space Station 23, a 34-meter (114-foot) beam-waveguide antenna, can be seen to the right of the frame in the foreground. The other three 34-meter antennas are, from left, DSS-26, DSS-25, and […]",
+      "url": "https://science.nasa.gov/photojournal/panorama-showcasing-the-34-meter-antennas-of-the-dsns-goldstone-complex/"
     },
     {
       "category": "Science",
@@ -35,44 +115,12 @@
       "url": "https://www.sciencedaily.com/releases/2026/08/260829035328.htm"
     },
     {
-      "category": "Science",
-      "title": "Hollow-core fiber platform could help different quantum technologies connect",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sun, 30 Aug 2026 09:00:02 EDT",
-      "summary": "Quantum technologies promise secure communication networks, powerful forms of computing and new sensing tools. One of the major challenges, however, is that different quantum systems often operate at different wavelengths of light. Quantum memories, trapped ions and other quantum devices may work best in the ultraviolet or visible range, while long-distance communication over optical fibers works most efficiently at telecommunications wavelengths.",
-      "url": "https://phys.org/news/2026-08-hollow-core-fiber-platform-quantum.html"
-    },
-    {
       "category": "Space",
       "title": " Liftoff! NASA's Roman Space Telescope soars to the stars on a SpaceX Falcon Heavy rocket in spectacular launch (video) ",
       "source": " Latest from Space.com ",
       "date": "Sun, 30 Aug 2026 12:56:57 +0000",
       "summary": "NASA's Nancy Grace Roman Space Telescope launched into space atop a SpaceX Falcon Heavy rocket on Aug. 30, ushering in a new era for astronomy and our understanding of the cosmos.",
       "url": "https://www.space.com/space-exploration/launches-spacecraft/nasa-roman-space-telescope-launch-success-on-a-spacex-falcon-heavy-rocket-spectacular-launch-video"
-    },
-    {
-      "category": "AI",
-      "title": "Claude Session URL appended to commit messages and PR descriptions by default",
-      "source": "Hacker News: Front Page",
-      "date": "Sun, 30 Aug 2026 12:50:54 +0000",
-      "summary": "Article URL: https://github.com/anthropics/claude-code/issues/66504\nComments URL: https://news.ycombinator.com/item?id=49498201\nPoints: 84\n# Comments: 95",
-      "url": "https://github.com/anthropics/claude-code/issues/66504"
-    },
-    {
-      "category": "AI",
-      "title": "No AI Fridays",
-      "source": "Hacker News: Front Page",
-      "date": "Sun, 30 Aug 2026 12:31:05 +0000",
-      "summary": "Article URL: https://noaifridays.com/\nComments URL: https://news.ycombinator.com/item?id=49498095\nPoints: 27\n# Comments: 11",
-      "url": "https://noaifridays.com/"
-    },
-    {
-      "category": "AI",
-      "title": "monty-go: Pure-Go wrapper for Pydantic's Monty Python Interpreter",
-      "source": "Hacker News: Front Page",
-      "date": "Sun, 30 Aug 2026 12:02:09 +0000",
-      "summary": "Article URL: https://github.com/fugue-labs/monty-go\nComments URL: https://news.ycombinator.com/item?id=49497928\nPoints: 24\n# Comments: 2",
-      "url": "https://github.com/fugue-labs/monty-go"
     },
     {
       "category": "Science",
@@ -115,22 +163,6 @@
       "url": "https://www.thegospelcoalition.org/article/ways-support-families-disabilities/"
     },
     {
-      "category": "Space",
-      "title": " NASA's Roman Space Telescope is ready for launch aboard SpaceX Falcon Heavy rocket ",
-      "source": " Latest from Space.com ",
-      "date": "Sat, 29 Aug 2026 22:44:18 +0000",
-      "summary": "A SpaceX Falcon Heavy rocket is poised to lift off with the Nancy Grace Roman Space Telescope on Aug. 30. This observatory is on a mission to usher in a new wave of astronomical discovery.",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/nasas-roman-space-telescope-is-ready-for-launch-aboard-spacex-falcon-heavy-rocket"
-    },
-    {
-      "category": "Space",
-      "title": " This Week In Space podcast: Episode 225 — Get a Grip! ",
-      "source": " Latest from Space.com ",
-      "date": "Sat, 29 Aug 2026 15:03:54 +0000",
-      "summary": "On Episode 225 of This Week In Space, Rod Pyle and Tariq Malik are joined by Adam Kall of KMI to discuss their work on the ISS may provide answers for orbital debris mitigation.",
-      "url": "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-225-get-a-grip"
-    },
-    {
       "category": "Science",
       "title": "Long-term melatonin use linked to 90% higher heart failure risk",
       "source": "All Top News -- ScienceDaily",
@@ -153,14 +185,6 @@
       "date": "Sat, 29 Aug 2026 04:00:00 +0000",
       "summary": "Parents, don’t give up. Trust the Lord and find ways to diligently teach your children while you sit, walk, go to sleep, and rise.",
       "url": "https://www.thegospelcoalition.org/article/moses-family-worship-parents/"
-    },
-    {
-      "category": "AI",
-      "title": "Court rules Kalshi sports bets aren't \"swaps,\" just gambling with a different name",
-      "source": "Ars Technica - All content",
-      "date": "Fri, 28 Aug 2026 22:14:52 +0000",
-      "summary": "Kalshi can't evade Nevada gambling laws by calling bets \"swaps,\" judges rule.",
-      "url": "https://arstechnica.com/tech-policy/2026/08/kalshi-cant-evade-nevada-gambling-laws-by-calling-bets-swaps-court-rules/"
     },
     {
       "category": "Theology",
