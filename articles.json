@@ -1,54 +1,110 @@
 {
-  "lastUpdated": "2026-08-31T17:19:51.539Z",
-  "articleCount": 39,
+  "lastUpdated": "2026-09-01T00:55:39.514Z",
+  "articleCount": 36,
   "articles": [
     {
       "category": "Science",
-      "title": "Manganese's emission lines shine a light on galactic evolution",
+      "title": "Australia's reefs follow trend of global coral cover decline",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Mon, 31 Aug 2026 13:00:07 EDT",
-      "summary": "In a new study, a team of astronomers has identified wavelengths of light that could be useful for tracing the chemical evolution of the universe. Using computational modeling to simulate how electrons interact with manganese ions—an element produced during stellar explosions called supernovae—researchers predicted how different environmental conditions could produce observable light known as emission lines.",
-      "url": "https://phys.org/news/2026-08-manganese-emission-lines-galactic-evolution.html"
+      "date": "Mon, 31 Aug 2026 20:20:01 EDT",
+      "summary": "Australia's coral reefs are in relatively good condition compared with coral reefs globally, although coral cover on Australian reefs has declined over the past 40 years—reflecting the global trend, a major new report has found.",
+      "url": "https://phys.org/news/2026-08-australia-reefs-trend-global-coral.html"
+    },
+    {
+      "category": "AI",
+      "title": "Evidence of Fraud in an Influential Study About Procrastination",
+      "source": "Hacker News: Front Page",
+      "date": "Mon, 31 Aug 2026 23:45:56 +0000",
+      "summary": "Article URL: https://datacolada.org/138\nComments URL: https://news.ycombinator.com/item?id=49516199\nPoints: 31\n# Comments: 6",
+      "url": "https://datacolada.org/138"
     },
     {
       "category": "Science",
-      "title": "When a mountain falls: How ice and rock triggered Nepal's catastrophic flood",
+      "title": "Important role of plastid ion channels in plant stress response identified",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Mon, 31 Aug 2026 13:00:01 EDT",
-      "summary": "The catastrophic flood that killed hundreds of people in Nepal on Aug. 26, 2026, and left many more missing likely began with falling ice and rock crashing into the river below, but that wasn't the end of the disaster. Days later, a new lake pooled behind the debris and then burst, sending more water streaming through the valley.",
-      "url": "https://phys.org/news/2026-08-mountain-falls-ice-triggered-nepal.html"
-    },
-    {
-      "category": "AI",
-      "title": "Konrad Zuse Museum shutting down due to lack of funding",
-      "source": "Hacker News: Front Page",
-      "date": "Mon, 31 Aug 2026 16:52:35 +0000",
-      "summary": "https://www.mdr.de/nachrichten/sachsen/bautzen/bautzen-hoyer... (auf Deutsch)\nComments URL: https://news.ycombinator.com/item?id=49511917\nPoints: 24\n# Comments: 6",
-      "url": "https://www.heise.de/en/news/Zuse-Computer-Museum-ZCOM-in-Hoyerswerda-faces-closure-11344513.html"
-    },
-    {
-      "category": "AI",
-      "title": "I turned my security cameras into an automatic bird identification system",
-      "source": "Hacker News: Front Page",
-      "date": "Mon, 31 Aug 2026 16:47:11 +0000",
-      "summary": "Article URL: https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/\nComments URL: https://news.ycombinator.com/item?id=49511856\nPoints: 21\n# Comments: 8",
-      "url": "https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/"
+      "date": "Mon, 31 Aug 2026 19:40:04 EDT",
+      "summary": "When plants are attacked by herbivores or pathogens, they must respond rapidly while also preparing for potential future attacks. Calcium, a cellular second messenger, and the plant hormone jasmonic acid play important roles in this response. Within seconds of an injury, the plant generates calcium waves that relay information about the attack. At the same time, the synthesis of jasmonic acid is initiated in the chloroplast, triggering, through several intermediate steps, the expression of defense genes in the cell nucleus.",
+      "url": "https://phys.org/news/2026-08-important-role-plastid-ion-channels.html"
     },
     {
       "category": "Science",
-      "title": "Solar orbiter detects ion sorting at the solar wind's magnetic boundary",
+      "title": "Even small amounts of ocean plastic can affect petrel chicks",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Mon, 31 Aug 2026 12:40:04 EDT",
-      "summary": "A Southwest Research Institute (SwRI) study of data from the European Space Agency's (ESA) Solar Orbiter gives the most detailed view of the heliospheric current sheet (HCS) to date. The HCS is a sprawling, undulating surface emanating from the sun to beyond the solar system that serves as the boundary between the sun's north and south magnetic field hemispheres.",
-      "url": "https://phys.org/news/2026-08-solar-orbiter-ion-magnetic-boundary.html"
+      "date": "Mon, 31 Aug 2026 19:20:06 EDT",
+      "summary": "Ocean plastic pollution is accidentally on the menu for southern giant petrel chicks. Even small nibbles of it may affect their physiology during development, according to a study from the University of California, Davis, and Argentina's National Research Council (CONICET).",
+      "url": "https://phys.org/news/2026-08-small-amounts-ocean-plastic-affect.html"
     },
     {
       "category": "AI",
-      "title": "Mental Health Workers Say Algorithmic Triage Is Hurting Patients",
+      "title": "The Bentley Supersports: A stripped-out engineer's indulgence",
+      "source": "Ars Technica - All content",
+      "date": "Mon, 31 Aug 2026 23:01:16 +0000",
+      "summary": "It's the lightest Bentley in 85 years.",
+      "url": "https://arstechnica.com/cars/2026/08/the-bentley-supersports-a-stripped-out-engineers-indulgence/"
+    },
+    {
+      "category": "AI",
+      "title": "Run macOS Software on Linux",
       "source": "Hacker News: Front Page",
-      "date": "Mon, 31 Aug 2026 16:39:10 +0000",
-      "summary": "Article URL: https://capitalandmain.com/mental-health-workers-say-algorithmic-triage-is-hurting-patients\nComments URL: https://news.ycombinator.com/item?id=49511750\nPoints: 42\n# Comments: 7",
-      "url": "https://capitalandmain.com/mental-health-workers-say-algorithmic-triage-is-hurting-patients"
+      "date": "Mon, 31 Aug 2026 22:53:45 +0000",
+      "summary": "Article URL: https://www.darlinghq.org/\nComments URL: https://news.ycombinator.com/item?id=49515830\nPoints: 59\n# Comments: 17",
+      "url": "https://www.darlinghq.org/"
+    },
+    {
+      "category": "AI",
+      "title": "Develop Cross-Platform CLI and GUI Tools with Tcl/Tk",
+      "source": "Hacker News: Front Page",
+      "date": "Mon, 31 Aug 2026 22:32:22 +0000",
+      "summary": "Article URL: https://cgicoffee.com/blog/2026/04/tcl-tk-develop-cross-platform-cli-gui-tools-tutorial-guide\nComments URL: https://news.ycombinator.com/item?id=49515662\nPoints: 23\n# Comments: 11",
+      "url": "https://cgicoffee.com/blog/2026/04/tcl-tk-develop-cross-platform-cli-gui-tools-tutorial-guide"
+    },
+    {
+      "category": "Theology",
+      "title": "Richard Baxter’s Advice to Pastors",
+      "source": "9Marks",
+      "date": "Mon, 31 Aug 2026 21:48:15 +0000",
+      "summary": "If God threw down a proud angel from heaven, would he want a proud preacher in the pulpit? \nThe post Richard Baxter’s Advice to Pastors appeared first on 9Marks.",
+      "url": "https://www.9marks.org/article/richard-baxters-advice-to-pastors/?utm_source=rss&utm_medium=rss&utm_campaign=richard-baxters-advice-to-pastors"
+    },
+    {
+      "category": "AI",
+      "title": "Trump admin shelves Cyclospora research despite record-breaking outbreak",
+      "source": "Ars Technica - All content",
+      "date": "Mon, 31 Aug 2026 21:23:09 +0000",
+      "summary": "The CDC has tallied nearly 30,000 confirmed and probable cases this summer.",
+      "url": "https://arstechnica.com/health/2026/08/trump-admin-shelves-cyclospora-research-despite-record-breaking-outbreak/"
+    },
+    {
+      "category": "AI",
+      "title": "Get in on the Ars community that doesn’t fit beneath an article",
+      "source": "Ars Technica - All content",
+      "date": "Mon, 31 Aug 2026 21:12:01 +0000",
+      "summary": "You've read the stories. Now check out our forums.",
+      "url": "https://arstechnica.com/staff/2026/08/get-in-on-the-ars-community-that-doesnt-fit-beneath-an-article/"
+    },
+    {
+      "category": "Space",
+      "title": " NASA's doomed Swift space telescope restarts science work after rescue mission fails ",
+      "source": " Latest from Space.com ",
+      "date": "Mon, 31 Aug 2026 21:00:00 +0000",
+      "summary": "NASA's Swift space telescope has resumed science observations after a private mission failed to boost its decaying orbit, making the most of its remaining time in space.",
+      "url": "https://www.space.com/space-exploration/missions/nasas-doomed-swift-space-telescope-restarts-science-work-after-rescue-mission-fails"
+    },
+    {
+      "category": "Space",
+      "title": " 'No guts, no glory': How I captured NASA's Roman Space Telescope cross the sun on a picture-perfect SpaceX Falcon Heavy launch ",
+      "source": " Latest from Space.com ",
+      "date": "Mon, 31 Aug 2026 19:48:16 +0000",
+      "summary": "Space.com's Josh Dinner caught an amazing shot of NASA's Roman Space Telescope crossing the sun on a SpaceX Falcon Heavy. Here's how it happened in a Hobby Lobby parking lot.",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/no-guts-no-glory-how-i-captured-nasas-roman-space-telescope-cross-the-sun-on-a-picture-perfect-spacex-falcon-heavy-launch"
+    },
+    {
+      "category": "Science",
+      "title": " 'This is probably the safest time to be playing the sport of football': Concussion expert explains why viral CTE study may not be as scary as it sounds ",
+      "source": " Latest from Live Science ",
+      "date": "Mon, 31 Aug 2026 19:20:00 +0000",
+      "summary": "A new study suggests that at least 1 in 4 former NFL players who died in recent years had CTE. Concussion expert Thayne Munce puts the finding into context.",
+      "url": "https://www.livescience.com/health/neuroscience/this-is-probably-the-safest-time-to-be-playing-the-sport-of-football-concussion-expert-explains-why-viral-cte-study-may-not-be-as-scary-as-it-sounds"
     },
     {
       "category": "Space",
@@ -59,30 +115,6 @@
       "url": "https://www.space.com/space-exploration/launches-spacecraft/nancy-grace-roman-space-telescope-next-steps-commissioning"
     },
     {
-      "category": "Space",
-      "title": " SpaceX, NASA delay next astronaut launch to ISS due to leak on Dragon spacecraft ",
-      "source": " Latest from Space.com ",
-      "date": "Mon, 31 Aug 2026 15:00:00 +0000",
-      "summary": "The launch of SpaceX's Crew-13 mission to the ISS, previously scheduled for Sept. 12, has been delayed due to an oxidizer leak on the Dragon spacecraft. A new target has not yet been announced.",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-nasa-delay-next-astronaut-launch-to-iss-due-to-leak-on-dragon-spacecraft"
-    },
-    {
-      "category": "Space",
-      "title": " On this day in space! Aug. 31, 1965: NASA's ginormous Super Guppy carrier plane takes 1st flight like a flying whale ",
-      "source": " Latest from Space.com ",
-      "date": "Mon, 31 Aug 2026 14:42:23 +0000",
-      "summary": "On August 31, 1965, NASA's Super Guppy cargo plane took its first test flight. like a flying whale. Here's why it mattered for the space agency.",
-      "url": "https://www.space.com/space-exploration/on-this-day-in-space-august-31-2026"
-    },
-    {
-      "category": "Space",
-      "title": "NASA’s Nancy Grace Roman Space Telescope Launches",
-      "source": "NASA",
-      "date": "Mon, 31 Aug 2026 14:10:31 +0000",
-      "summary": "NASA’s Nancy Grace Roman Space Telescope, aboard a SpaceX Falcon Heavy rocket, transits the Sun during launch from the agency’s Kennedy Space Center in Florida on Aug. 30, 2026. Roman is named after the agency’s first chief astronomer. Roman will survey billions of stars and galaxies with a field of view far larger than Hubble’s, […]",
-      "url": "https://www.nasa.gov/image-article/nasas-nancy-grace-roman-space-telescope-launches/"
-    },
-    {
       "category": "Science",
       "title": "Popular sweeteners may leave effects that last for generations",
       "source": "All Top News -- ScienceDaily",
@@ -91,36 +123,12 @@
       "url": "https://www.sciencedaily.com/releases/2026/08/260830000019.htm"
     },
     {
-      "category": "AI",
-      "title": "ChatGPT and Reddit now face EU's toughest online safety rules",
-      "source": "Ars Technica - All content",
-      "date": "Mon, 31 Aug 2026 13:41:40 +0000",
-      "summary": "Explosive growth comes with a new regulatory burden in the European Union.",
-      "url": "https://arstechnica.com/tech-policy/2026/08/chatgtp-and-reddit-now-face-eus-toughest-online-safety-rules/"
-    },
-    {
       "category": "History",
       "title": "Revolutionary War Soldiers of the Southern States",
       "source": "Journal of the American Revolution",
       "date": "Mon, 31 Aug 2026 13:33:06 +0000",
       "summary": "BOOK REVIEW: Revolutionary War Soldiers of the Southern States, A Demographic View by Douglas R. Dorney Jr. (JAR Books Series/Westholme, 2026, $34.95 cloth) This text represents seven years of research, analysis and writing involving the examination and study of 8,579 Revolutionary War pension applications from four southern states, Virginia, North Carolina, South Carolina and Georgia. […]\nThe post Revolutionary War Soldiers of the Southern States appeared first on Journal of the American Revolution.",
       "url": "https://allthingsliberty.com/2026/08/revolutionary-war-soldiers-of-the-southern-states/"
-    },
-    {
-      "category": "AI",
-      "title": "NASA's next \"great observatory\" begins mission to widen our view of the Universe",
-      "source": "Ars Technica - All content",
-      "date": "Mon, 31 Aug 2026 13:01:09 +0000",
-      "summary": "\"We would need over half a million 4K TVs to fully display the single Roman image from our largest survey.\"",
-      "url": "https://arstechnica.com/space/2026/08/nasas-next-great-observatory-begins-mission-to-widen-our-view-of-the-universe/"
-    },
-    {
-      "category": "Space",
-      "title": "Roman Commissioning",
-      "source": "NASA",
-      "date": "Mon, 31 Aug 2026 12:16:53 +0000",
-      "summary": "Where is Roman? Roman is making its three-month journey from Earth to Sun-Earth Lagrange Point 2, or L2. Along the way, Roman is undergoing a process called commissioning, where systems are turned on, adjusted, calibrated, and prepared for science operations. Commissioning is the time for scientists and engineers to make sure that Roman is performing […]",
-      "url": "https://science.nasa.gov/missions/roman-space-telescope/roman-commissioning/"
     },
     {
       "category": "Science",
@@ -135,7 +143,7 @@
       "title": "Josephus and Jesus",
       "source": "Biblical Archaeology Society",
       "date": "Mon, 31 Aug 2026 10:45:19 +0000",
-      "summary": "Josephus, a first-century Jewish historian with close ties to Jerusalem’s priestly aristocracy, offers the earliest non-Christian account of Jesus. In his Jewish Antiquities, Josephus recounts […]\nThe post Josephus and Jesus appeared first on Biblical Archaeology Society.",
+      "summary": "Josephus was a first-century Jewish historian whose writings contain the earliest surviving non-Christian account of Jesus. In his Jewish Antiquities, Josephus recounts that Jesus was […]\nThe post Josephus and Jesus appeared first on Biblical Archaeology Society.",
       "url": "https://www.biblicalarchaeology.org/daily/people-cultures-in-the-bible/jesus-historical-jesus/josephus-and-jesus/"
     },
     {
@@ -155,14 +163,6 @@
       "url": "https://www.biblicalarchaeology.org/daily/rare-wick-discovery-illuminates-bronze-age-burials/"
     },
     {
-      "category": "AI",
-      "title": "Pocket's AI made my game ideas real. Now Meta controls the results.",
-      "source": "Ars Technica - All content",
-      "date": "Mon, 31 Aug 2026 10:00:34 +0000",
-      "summary": "Interactive mobile \"gizmos\" are easy to make, hard to share outside Meta's platform.",
-      "url": "https://arstechnica.com/gaming/2026/08/pockets-ai-made-my-game-ideas-real-now-meta-controls-the-results/"
-    },
-    {
       "category": "Science",
       "title": " Crown of Kerch: A 1,600-year-old gold, gem-studded diadem found in the grave of a Hun noblewoman ",
       "source": " Latest from Live Science ",
@@ -179,20 +179,12 @@
       "url": "https://www.sciencedaily.com/releases/2026/08/260831035213.htm"
     },
     {
-      "category": "Science",
-      "title": " Planting crops in fields of solar panels is more efficient, protects the plants and helps keep workers cool, study finds ",
-      "source": " Latest from Live Science ",
-      "date": "Mon, 31 Aug 2026 09:00:00 +0000",
-      "summary": "A new model simulates the benefits of agrivoltaic farming, in which solar panels and crops share the same land.",
-      "url": "https://www.livescience.com/technology/electronics/planting-crops-in-fields-of-solar-panels-is-more-efficient-protects-the-plants-and-helps-keep-workers-cool-study-finds"
-    },
-    {
-      "category": "Space",
-      "title": "APOD: 2026 August 31 – Launch of the Roman Space Telescope",
-      "source": "NASA",
-      "date": "Mon, 31 Aug 2026 04:05:00 +0000",
-      "summary": "APOD Science APOD APOD: 2026 August 31 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. To view this […]",
-      "url": "https://science.nasa.gov/image-article/apod-2026-august-31-launch-of-the-roman-space-telescope/"
+      "category": "AI",
+      "title": "Polimill builds Japan's next-generation public AI infrastructure",
+      "source": "OpenAI News",
+      "date": "Mon, 31 Aug 2026 07:00:00 GMT",
+      "summary": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.",
+      "url": "https://openai.com/index/polimill"
     },
     {
       "category": "Theology",
@@ -251,14 +243,6 @@
       "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex"
     },
     {
-      "category": "AI",
-      "title": "Supporting Thailand’s next generation of AI startups",
-      "source": "OpenAI News",
-      "date": "Fri, 28 Aug 2026 02:00:00 GMT",
-      "summary": "OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products.",
-      "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand"
-    },
-    {
       "category": "History",
       "title": "Philip Mazzei and the American Revolution—An Italian in Virginia",
       "source": "Journal of the American Revolution",
@@ -281,14 +265,6 @@
       "date": "Wed, 26 Aug 2026 10:00:44 +0000",
       "summary": "On this week’s Dispatches, host Brady Crytzer interviews JAR contributor Robert Swanson on Canadians who wanted to join the other colonies in their break from English rule. New episodes of Dispatches are available for free every Sunday evening(Eastern United States Time), first on iTunes, Stitcher, Google Play, Amazon Music, and the JAR Dispatches web site. Each episode […]\nThe post This Week on Dispatches: Robert Swanson on Canadian Whigs and the American Revolution appeared first on Journal of the American Revolution.",
       "url": "https://allthingsliberty.com/2026/08/this-week-on-dispatches-robert-swanson-on-canadian-whigs-and-the-american-revolution/"
-    },
-    {
-      "category": "Theology",
-      "title": "How Much of My Suffering Should I Share with My People?",
-      "source": "9Marks",
-      "date": "Mon, 24 Aug 2026 15:56:50 +0000",
-      "summary": "Part of leadership is modeling how to trust God in suffering.\nThe post How Much of My Suffering Should I Share with My People? appeared first on 9Marks.",
-      "url": "https://www.9marks.org/article/how-much-of-my-suffering-should-i-share-with-my-people/?utm_source=rss&utm_medium=rss&utm_campaign=how-much-of-my-suffering-should-i-share-with-my-people"
     },
     {
       "category": "History",
