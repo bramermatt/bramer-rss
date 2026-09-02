@@ -1,22 +1,118 @@
 {
-  "lastUpdated": "2026-09-02T19:08:01.830Z",
+  "lastUpdated": "2026-09-02T23:44:20.966Z",
   "articleCount": 39,
   "articles": [
     {
       "category": "Science",
-      "title": "World must prepare for 'reality' of missing 1.5C goal: UN",
+      "title": "Five-metal 2D catalysts could convert CO₂ to CO without needing an extra electrical boost",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Wed, 02 Sep 2026 15:00:04 EDT",
-      "summary": "The United Nations said Wednesday the 1.5°C target would be missed and outlined how global temperatures might be brought back down in a first-of-its-kind assessment met with dismay in climate-vulnerable nations.",
-      "url": "https://phys.org/news/2026-09-world-reality-15c-goal.html"
+      "date": "Wed, 02 Sep 2026 19:40:01 EDT",
+      "summary": "Carbon dioxide (CO₂) is usually discussed as something the world needs to get rid of. Activities such as the burning of fossil fuels for daily use, including electricity and transportation, and industrial applications release significant amounts of CO₂, and the gas enters the atmosphere. Researchers are now asking whether this road could have a roundabout. What if CO₂, which is at the center of the climate crisis, could be turned into something useful and put back into the industrial cycle?",
+      "url": "https://phys.org/news/2026-09-metal-2d-catalysts-extra-electrical.html"
     },
     {
       "category": "Science",
-      "title": "US politics is not the world's template for polarization, experts warn",
+      "title": "Cellular maintenance crew may miss as much as half of certain misfolded proteins",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Wed, 02 Sep 2026 15:00:02 EDT",
-      "summary": "Common global narratives about political polarization are skewed because of an overreliance on literature about the U.S., leaving governments unprepared to tackle the problem at home. In new research led by King's College London and published in Nature Communications, experts across the U.K., Europe, Asia, Australia and the U.S. point to how common narratives about polarization are overgeneralized and often based on evidence from the U.S. alone.",
-      "url": "https://phys.org/news/2026-09-politics-world-template-polarization-experts.html"
+      "date": "Wed, 02 Sep 2026 19:20:03 EDT",
+      "summary": "As proteins are made in a cell, they are folded into the 3D structure that allows them to work, but sometimes this process can go wrong. When it does, the misfolded proteins lose some or all of their function and usually get tagged by the cell's quality assurance and maintenance crews, which try to repair the proteins or, if they can't, strip them to recycle their parts.",
+      "url": "https://phys.org/news/2026-09-cellular-maintenance-crew-misfolded-proteins.html"
+    },
+    {
+      "category": "Science",
+      "title": "Caterpillar twitches in an ultraquiet chamber help biologists understand how these insects hear without ears",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Wed, 02 Sep 2026 19:20:01 EDT",
+      "summary": "In a quiet summer garden, a caterpillar perches on a branch, munching serenely on leaves. A moment later, it freezes. It senses danger—and just in time. From behind, a wasp approaches, sizing up its prey.",
+      "url": "https://phys.org/news/2026-09-caterpillar-twitches-ultraquiet-chamber-biologists.html"
+    },
+    {
+      "category": "AI",
+      "title": "METR Report on OpenAI / Hugging Face Hacking Incident",
+      "source": "Hacker News: Front Page",
+      "date": "Wed, 02 Sep 2026 23:08:47 +0000",
+      "summary": "Article URL: https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/#core-takeaways-about-this-incident\nComments URL: https://news.ycombinator.com/item?id=49543841\nPoints: 24\n# Comments: 8",
+      "url": "https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/#core-takeaways-about-this-incident"
+    },
+    {
+      "category": "AI",
+      "title": "Maybe We Shouldn't Be Reviewing All This Code",
+      "source": "Hacker News: Front Page",
+      "date": "Wed, 02 Sep 2026 22:36:30 +0000",
+      "summary": "Article URL: https://martinfowler.com/rachels-ramblings/code-review.html\nComments URL: https://news.ycombinator.com/item?id=49543535\nPoints: 15\n# Comments: 8",
+      "url": "https://martinfowler.com/rachels-ramblings/code-review.html"
+    },
+    {
+      "category": "AI",
+      "title": "Launch HN: RonanRX (YC S26) – Personalized Peptides and GLP-1s",
+      "source": "Hacker News: Front Page",
+      "date": "Wed, 02 Sep 2026 22:36:04 +0000",
+      "summary": "Hi HN,\nI’m Lloyd, one of two founders of RonanRx. We are building a vertically integrated pharmaceutical company with software for prescribing, telehealth, compounding, manufacturing, and delivery. We are starting with GLP-1s and peptides.\nThe path to RonanRx is fairly unconventional. During the pandemic, I built one of the largest mask manufacturing factories in the US. We could make a million masks in a day. We converted raw polypropylene pellets into finished pallets of masks.\nI had a background in software from my YC W10 company, so we took a software approach to building our factory. We used machine learning and computer vision to optimize production. We also vertically integrated almost everything. It worked. We built an efficient manufacturing operation and grew the business to 50 million dollars in revenue. Then people actually stopped caring about masks. Fair enough.\nAround the same time, I decided to try and lose the weight I had gained while building the factory. I ate nothing but chicken for six months. While this diet got some results, I plateaued. My doctor suggested tirzepatide, a GLP-1 medication.\nFor me, losing weight was only the beginning. \"Food noise\" was gone. I showed less interest in other compulsive behavior. I stopped scrolling Instagram and quit biting my nails. But that was just the beginning. I was born with a congenital heart defect called aortic stenosis. My whole life doctors told me I'd need open heart surgery in my 40s (I am 45 now). After just 18 months using tirzepatide, my cardiologist’s began to think (and still thinks) my surgery could be pushed back until I am 70 or 80.\nThis was all happening when I was deciding what to work on next. I wanted to keep working on manufacturing. I didn't want to build another product that could be replicated by a frontier model. Pharmaceutical manufacturing was the best combination of digital, physical, biological, and regulatory infrastructure I could find. The thing that bothered me was how disconnected all of the pieces were: telehealth, EHR, prescriptions, dispensing software, production, shipping. No one company has it all.\nGLP-1s come in a handful of predefined doses, but patients obviously aren't standardized: they respond differently, lose weight at different rates, experience different side effects, and may need very different doses. Compounding pharmacies can fill customized prescriptions, but they are not built like software companies. Workflows are manual, fragmented, and disconnected from the patient’s data. It's our goal to connect those pieces with RonanRx.\nPatients either come to us directly or are referred by a physician. Once a patient is in our system, we collect medical records, current meds, labs, and data from wearables. Our software follows the prescription through drug formulation, compounding, quality testing, and drug dispensing and distribution.\nThe most interesting feature is the feedback loop. As the patient is undergoing treatment, their response becomes data that can be used by their doctor to modify the treatment. We keep the doctor in the feedback loop.\nWe make money by selling drugs we manufacture. Because people can buy directly from us, their price is usually 3x-10x more affordable. We can do this because we start at the molecule and own the entire stack from manufacturing through prescribing, dispensing, and delivery, instead of paying a chain of middlemen at every step.\nWe are beginning with GLP-1s and peptides since this was where I personally experienced the issue; however, we are more interested in the potential of patient-specific pharmaceutical manufacturing.\nWe would love your feedback, especially if you have built pharmacy, manufacturing, clinical infrastructure, EHRs, or any other regulated software. There are a lot of assumptions in this model that should be tested.\nComments URL: https://news.ycombinator.com/item?id=49543530\nPoints: 9\n# Comments: 13",
+      "url": "https://ronanrx.com/"
+    },
+    {
+      "category": "History",
+      "title": "A Tale of Two Revolutions: Jefferson, Lafayette, and the Empire of Liberty",
+      "source": "Journal of the American Revolution",
+      "date": "Wed, 02 Sep 2026 22:00:29 +0000",
+      "summary": "When Thomas Jefferson arrived in Paris in 1784, he carried with him the ideals of the American Revolution. Buoyed by the success of a revolution against the British empire, the soon-to-be appointed Minister to France found himself attempting to reconcile Republican principles with the complex political realities of Paris. It marked an intriguing reversal for […]\nThe post A Tale of Two Revolutions: Jefferson, Lafayette, and the Empire of Liberty appeared first on Journal of the American Revolution.",
+      "url": "https://allthingsliberty.com/2026/09/a-tale-of-two-revolutions-jefferson-lafayette-and-the-empire-of-liberty/"
+    },
+    {
+      "category": "AI",
+      "title": "Spending deal comes with a bonus: Blocking political control of grants",
+      "source": "Ars Technica - All content",
+      "date": "Wed, 02 Sep 2026 21:20:03 +0000",
+      "summary": "Congress pauses the OMB's attempt to rewrite how research is funded.",
+      "url": "https://arstechnica.com/science/2026/09/budget-deal-puts-political-control-of-grants-on-hold-until-december/"
+    },
+    {
+      "category": "Space",
+      "title": " Astronomers discover mysterious 10-sided cloud structure at Saturn's south pole ",
+      "source": " Latest from Space.com ",
+      "date": "Wed, 02 Sep 2026 21:00:00 +0000",
+      "summary": "A mysterious giant 10-sided pattern of clouds has recently formed around Saturn's south pole, a new study finds.",
+      "url": "https://www.space.com/astronomy/saturn/astronomers-discover-mysterious-10-sided-cloud-structure-at-saturns-south-pole"
+    },
+    {
+      "category": "Theology",
+      "title": "Counsel for a Young Pastor of a Long-Established Congregation",
+      "source": "9Marks",
+      "date": "Wed, 02 Sep 2026 20:36:48 +0000",
+      "summary": "For a young pastor, consistency becomes one of the primary ways to demonstrate that you are not there to disrupt for disruption’s sake, but to shepherd with care and conviction according to the Word of God.\nThe post Counsel for a Young Pastor of a Long-Established Congregation appeared first on 9Marks.",
+      "url": "https://www.9marks.org/article/counsel-for-a-young-pastor-of-a-long-established-congregation/?utm_source=rss&utm_medium=rss&utm_campaign=counsel-for-a-young-pastor-of-a-long-established-congregation"
+    },
+    {
+      "category": "AI",
+      "title": "I rented a car, and within hours, my driver's license was for sale",
+      "source": "Ars Technica - All content",
+      "date": "Wed, 02 Sep 2026 20:32:02 +0000",
+      "summary": "The FBI is reportedly investigating a massive data breach that is unfolding in real time.",
+      "url": "https://arstechnica.com/security/2026/09/my-drivers-license-is-one-of-153-million-for-sale-on-a-new-dark-website/"
+    },
+    {
+      "category": "Space",
+      "title": " China's private, reusable Pallas-1 rocket aces debut launch (video) ",
+      "source": " Latest from Space.com ",
+      "date": "Wed, 02 Sep 2026 20:00:00 +0000",
+      "summary": "Galactic Energy's new Pallas-1 rocket aced its debut launch on Monday (Aug. 31), successfully reaching orbit. The vehicle's first stage did not attempt a landing, however.",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/chinas-private-reusable-pallas-1-rocket-aces-debut-launch-video"
+    },
+    {
+      "category": "AI",
+      "title": "FCC plans robocall scorecard to grade phone companies on spam call blocking",
+      "source": "Ars Technica - All content",
+      "date": "Wed, 02 Sep 2026 19:54:27 +0000",
+      "summary": "Carrier scorecards may include call-blocking stats and data on customer complaints.",
+      "url": "https://arstechnica.com/tech-policy/2026/09/fcc-plans-robocall-scorecard-to-grade-phone-companies-on-spam-call-blocking/"
+    },
+    {
+      "category": "Space",
+      "title": "NASA Revamps Challenge Linking Community College Studies to Aerospace Careers",
+      "source": "NASA",
+      "date": "Wed, 02 Sep 2026 19:01:05 +0000",
+      "summary": "Community college students across the U.S. now have another opportunity to discover how their education can lead to fulfilling roles at the forefront of aerospace, science, engineering, and technology. The updated NASA Community College Aerospace Scholars (NCAS) student challenge invites students to learn about the agency and its missions, engage with NASA experts, and explore […]",
+      "url": "https://www.nasa.gov/learning-resources/linking-community-college-studies-to-aerospace-careers/"
     },
     {
       "category": "Space",
@@ -25,30 +121,6 @@
       "date": "Wed, 02 Sep 2026 19:00:00 +0000",
       "summary": "This 'Star Wars' spin-off movie disappointed at the box office, but it could find renewed life as a streaming smash hit.",
       "url": "https://www.space.com/entertainment/space-movies-shows/this-was-always-the-way-the-mandalorian-and-grogu-is-finally-on-disney"
-    },
-    {
-      "category": "Science",
-      "title": "AI automates the creation of custom functional materials atom by atom",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Wed, 02 Sep 2026 14:40:06 EDT",
-      "summary": "Imagine a construction site where the bricks are individual molecules and the \"cranes\" are microscopic needles so sharp they can feel a single atom. For decades, building at this scale was a laborious, time-consuming task where a single human error could damage the delicate tools.",
-      "url": "https://phys.org/news/2026-09-ai-automates-creation-custom-functional.html"
-    },
-    {
-      "category": "AI",
-      "title": "Firefox's AI Switch Is Off. Telemetry Isn't",
-      "source": "Hacker News: Front Page",
-      "date": "Wed, 02 Sep 2026 18:30:49 +0000",
-      "summary": "Article URL: https://marius.blog/firefox-155-ai-kill-switch-retest/\nComments URL: https://news.ycombinator.com/item?id=49540397\nPoints: 14\n# Comments: 1",
-      "url": "https://marius.blog/firefox-155-ai-kill-switch-retest/"
-    },
-    {
-      "category": "AI",
-      "title": "Why do so many tools have JSON config files?",
-      "source": "Hacker News: Front Page",
-      "date": "Wed, 02 Sep 2026 18:23:01 +0000",
-      "summary": "Article URL: https://textlog.cc/post/895\nComments URL: https://news.ycombinator.com/item?id=49540297\nPoints: 9\n# Comments: 15",
-      "url": "https://textlog.cc/post/895"
     },
     {
       "category": "Space",
@@ -60,67 +132,11 @@
     },
     {
       "category": "Space",
-      "title": " 2 spacecraft headed to Mercury are about to begin their long-awaited arrival for Europe and Japan — watch it live on Sept. 3 ",
-      "source": " Latest from Space.com ",
-      "date": "Wed, 02 Sep 2026 18:00:00 +0000",
-      "summary": "The European-Japanese BepiColombo mission will begin its drawn-out Mercury arrival phase on Sept. 3, and you can watch the action live.",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/bepicolombo-mission-begins-mercury-arrival-phase-esa-jaxa"
-    },
-    {
-      "category": "AI",
-      "title": "I Don't Have a Smartphone",
-      "source": "Hacker News: Front Page",
-      "date": "Wed, 02 Sep 2026 17:51:29 +0000",
-      "summary": "Article URL: https://ploum.net/2026-09-02-i_dont_have_a_smartphone.html\nComments URL: https://news.ycombinator.com/item?id=49539872\nPoints: 91\n# Comments: 70",
-      "url": "https://ploum.net/2026-09-02-i_dont_have_a_smartphone.html"
-    },
-    {
-      "category": "Space",
-      "title": " Blue Origin wins $700 million contract to build NASA's next Mars orbiter ",
-      "source": " Latest from Space.com ",
-      "date": "Wed, 02 Sep 2026 17:00:00 +0000",
-      "summary": "NASA has picked Blue Origin to build its next Mars telecommunications orbiter, awarding a $700 million contract to Jeff Bezos' spaceflight company.",
-      "url": "https://www.space.com/space-exploration/missions/blue-origin-wins-usd700-million-contract-to-build-nasas-next-mars-orbiter"
-    },
-    {
-      "category": "AI",
-      "title": "US court rules Google will not have to sell ad exchange after losing antitrust case",
-      "source": "Ars Technica - All content",
-      "date": "Wed, 02 Sep 2026 16:30:11 +0000",
-      "summary": "The DOJ proved to the court that Google acted illegally, but it won't get the big win it wanted.",
-      "url": "https://arstechnica.com/gadgets/2026/09/us-court-rules-google-will-not-have-to-sell-ad-exchange-after-losing-antitrust-case/"
-    },
-    {
-      "category": "Space",
       "title": "Rising Over Louisiana",
       "source": "NASA",
       "date": "Wed, 02 Sep 2026 15:38:50 +0000",
       "summary": "On Aug. 28, 2026 (the evening of Aug. 27 in some time zones), the Moon passed into Earth’s shadow, creating a deep partial lunar eclipse. At the moment of greatest eclipse, 12:13 a.m. EDT, 96.3% of the Moon’s disk was immersed in Earth’s umbra—the central, darkest part of the shadow where sunlight is completely blocked. […]",
       "url": "https://www.nasa.gov/image-article/rising-over-louisiana/"
-    },
-    {
-      "category": "Space",
-      "title": "NASA Rocket Takes First Multi-Point Look Inside Radio-Disrupting Clouds",
-      "source": "NASA",
-      "date": "Wed, 02 Sep 2026 14:53:54 +0000",
-      "summary": "High above Earth, thin veils of metallic haze drift through the edge of space. Known as sporadic E layers, these high-altitude “clouds” form from the vaporized dust of burnt-up meteors, earning their name from the unpredictable way they emerge and then dissipate. Now, new results from a NASA sounding rocket — a suborbital research rocket […]",
-      "url": "https://science.nasa.gov/science-research/heliophysics/nasa-rocket-takes-first-multi-point-look-inside-radio-disrupting-clouds/"
-    },
-    {
-      "category": "AI",
-      "title": "Toyohiro Akiyama, first Japanese citizen and journalist in space, dies at 84",
-      "source": "Ars Technica - All content",
-      "date": "Wed, 02 Sep 2026 14:47:42 +0000",
-      "summary": "He reported from space that only \"fat\" Japanese tree frogs enjoyed weightlessness.",
-      "url": "https://arstechnica.com/space/2026/09/toyohiro-akiyama-first-japanese-citizen-and-journalist-in-space-dies-at-84/"
-    },
-    {
-      "category": "AI",
-      "title": "The Army just used a 20-kilowatt laser to take out three drones",
-      "source": "Ars Technica - All content",
-      "date": "Wed, 02 Sep 2026 13:04:59 +0000",
-      "summary": "The Army says its laser system can track and destroy hostile drones.",
-      "url": "https://arstechnica.com/gadgets/2026/09/the-army-just-used-a-20-kilowatt-laser-to-take-out-three-drones/"
     },
     {
       "category": "Biblical Studies",
@@ -129,6 +145,14 @@
       "date": "Wed, 02 Sep 2026 12:55:07 +0000",
       "summary": "The city of Urfa (known as Şanlıurfa in Turkish) is a living tapestry of faith. Nestled in southeastern Turkey and revered as the “city of […]\nThe post Exploring the Land of Abraham’s Birth appeared first on Biblical Archaeology Society.",
       "url": "https://www.biblicalarchaeology.org/daily/biblical-sites-places/biblical-archaeology-places/exploring-land-abrahams-birth/"
+    },
+    {
+      "category": "AI",
+      "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
+      "source": "OpenAI News",
+      "date": "Wed, 02 Sep 2026 12:00:00 GMT",
+      "summary": "ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise photos into an inventory website in 15 minutes.",
+      "url": "https://openai.com/index/atv-big-air-tour"
     },
     {
       "category": "Biblical Studies",
@@ -227,14 +251,6 @@
       "url": "https://www.sciencedaily.com/releases/2026/09/260901070516.htm"
     },
     {
-      "category": "AI",
-      "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
-      "source": "OpenAI News",
-      "date": "Tue, 01 Sep 2026 12:00:00 GMT",
-      "summary": "ChatGPT can now connect to trusted healthcare data, helping clinicians securely access patient context, medical research, and more.",
-      "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources"
-    },
-    {
       "category": "History",
       "title": "The Swap Not Heard ’Round the World: Ordering the Declaration’s Grievances",
       "source": "Journal of the American Revolution",
@@ -273,22 +289,6 @@
       "date": "Fri, 28 Aug 2026 17:46:38 +0000",
       "summary": "Every pastor’s parents are getting older and closer to the day when they will stand before the Lord. \nThe post Caring for Aging Parents appeared first on 9Marks.",
       "url": "https://www.9marks.org/article/caring-for-aging-parents/?utm_source=rss&utm_medium=rss&utm_campaign=caring-for-aging-parents"
-    },
-    {
-      "category": "History",
-      "title": "Philip Mazzei and the American Revolution—An Italian in Virginia",
-      "source": "Journal of the American Revolution",
-      "date": "Wed, 26 Aug 2026 22:00:11 +0000",
-      "summary": "Beyond the most familiar Founding Fathers, the Revolutionary era included a wider circle of contributors whose ideas, actions, and relationships shaped the American cause. Among them was Filippo (Philip) Mazzei, an Italian-born writer, entrepreneur, and political thinker whose engagement with American leaders and Enlightenment ideals influenced the revolutionary generation. Born in the Grand Duchy of […]\nThe post Philip Mazzei and the American Revolution—An Italian in Virginia appeared first on Journal of the American Revolution.",
-      "url": "https://allthingsliberty.com/2026/08/philip-mazzei-and-the-american-revolution-an-italian-in-virginia/"
-    },
-    {
-      "category": "Theology",
-      "title": "Let the Point of Your Sermon Text Shape Your Church’s Corporate Prayers",
-      "source": "9Marks",
-      "date": "Wed, 26 Aug 2026 18:14:19 +0000",
-      "summary": "Praying the point of the text means the congregation is hearing the passage not only through my voice as the preacher but also through the voices of other godly saints.\nThe post Let the Point of Your Sermon Text Shape Your Church’s Corporate Prayers appeared first on 9Marks.",
-      "url": "https://www.9marks.org/article/churchs-corporate-prayers/?utm_source=rss&utm_medium=rss&utm_campaign=churchs-corporate-prayers"
     },
     {
       "category": "History",
