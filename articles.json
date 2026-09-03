@@ -1,30 +1,102 @@
 {
-  "lastUpdated": "2026-09-03T14:01:32.236Z",
-  "articleCount": 39,
+  "lastUpdated": "2026-09-03T19:00:04.399Z",
+  "articleCount": 36,
   "articles": [
     {
       "category": "Science",
-      "title": "Heat has a memory—and a new theoretical framework can track it",
+      "title": "Scientists studying cockroach milk and nose-blowing win Ig Nobel prizes for quirky science",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Thu, 03 Sep 2026 10:00:08 EDT",
-      "summary": "Heat, it turns out, has a memory. A cooling cup of coffee may not seem particularly thoughtful. At the scale of a kitchen, heat appears to follow a straightforward rule: it moves from warmer places to cooler ones. Leave the cup unattended long enough, and the disappointing result offers convincing evidence that this rule works.",
-      "url": "https://phys.org/news/2026-09-memory-theoretical-framework-track.html"
+      "date": "Thu, 03 Sep 2026 14:47:53 EDT",
+      "summary": "Ten research teams were honored Thursday at a satirical science awards ceremony that was hosted outside the U.S. for the first time due to travel concerns.",
+      "url": "https://phys.org/news/2026-09-scientists-cockroach-nose-ig-nobel.html"
     },
     {
       "category": "Science",
-      "title": "Scientists race to measure wildfire damage to UK soils",
+      "title": "Satellite images show how penguins' diets are changing in response to Antarctic climate change",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Thu, 03 Sep 2026 10:00:01 EDT",
-      "summary": "The summer of 2026 has brought one of the UK's most severe wildfire seasons in recent years, fueled by extreme heat and exceptionally dry conditions. More than 500 fires were recorded across the country in July alone, affecting agricultural land, moorland, heathland and upland grasslands—landscapes that store carbon, regulate water, reduce flood risk and support some of the UK's most valuable biodiversity.",
-      "url": "https://phys.org/news/2026-09-scientists-wildfire-uk-soils.html"
+      "date": "Thu, 03 Sep 2026 14:40:11 EDT",
+      "summary": "The color of penguin poop, as seen from space, is offering a new window into how Antarctica's ecology and environment are changing over time.",
+      "url": "https://phys.org/news/2026-09-satellite-images-penguins-diets-response.html"
     },
     {
       "category": "Science",
-      "title": "First DDT, now the flu: Peregrine falcons in San Francisco Bay Area hit hard by H5N1 variant",
+      "title": "Scottish 'pregnant grandmother' microbe bursts open after growing offspring within",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Thu, 03 Sep 2026 09:40:03 EDT",
-      "summary": "Highly pathogenic avian influenza (HPAI) featured prominently in the news during 2020 as it took the lives of millions of birds across the globe. While the worst seems to be behind us, population-level effects are just now emerging.",
-      "url": "https://phys.org/news/2026-09-ddt-flu-peregrine-falcons-san.html"
+      "date": "Thu, 03 Sep 2026 14:40:01 EDT",
+      "summary": "Scientists have revealed a bizarre microscopic creature that reproduces in a way reminiscent of the horror film\" Alien.\" The microbe grows one or more new cells inside its own body before the outer \"mother\" cell ruptures to release them, a reproductive strategy never before seen in its group of organisms.",
+      "url": "https://phys.org/news/2026-09-scottish-pregnant-grandmother-microbe-offspring.html"
+    },
+    {
+      "category": "AI",
+      "title": "Qwen 3.8 27B available on Cerebras at 1500 tok/SEC",
+      "source": "Hacker News: Front Page",
+      "date": "Thu, 03 Sep 2026 18:32:13 +0000",
+      "summary": "Article URL: https://inference-docs.cerebras.ai/models/overview\nComments URL: https://news.ycombinator.com/item?id=49554520\nPoints: 74\n# Comments: 19",
+      "url": "https://inference-docs.cerebras.ai/models/overview"
+    },
+    {
+      "category": "AI",
+      "title": "OpenAI begins rolling out GPT-6 Astra",
+      "source": "Hacker News: Front Page",
+      "date": "Thu, 03 Sep 2026 18:18:22 +0000",
+      "summary": "https://thenewstack.io/openai-gpt6-astra-benchmarks/, image: https://cdn.thenewstack.io/media/2026/09/358eb84a-screenshot...\nhttps://venturebeat.com/technology/welcome-to-the-agi-era-op...\nhttps://www.theverge.com/ai-artificial-intelligence/988334/o...\nhttps://twitter.com/OpenAI/status/2095527557924082061\nComments URL: https://news.ycombinator.com/item?id=49554273\nPoints: 61\n# Comments: 53",
+      "url": "https://www.cnbc.com/2026/09/03/open-ai-astra-gpt-6-cyber.html"
+    },
+    {
+      "category": "AI",
+      "title": "The Double Matthew Walker Knot by Fable 5.1",
+      "source": "Hacker News: Front Page",
+      "date": "Thu, 03 Sep 2026 18:09:37 +0000",
+      "summary": "Article URL: https://claude.ai/public/artifacts/06fd26a5-403c-47c8-af49-dcf6c35ec55c\nComments URL: https://news.ycombinator.com/item?id=49554154\nPoints: 9\n# Comments: 5",
+      "url": "https://claude.ai/public/artifacts/06fd26a5-403c-47c8-af49-dcf6c35ec55c"
+    },
+    {
+      "category": "Space",
+      "title": " 2 spacecraft will soon reach Mercury after 8 years in space. Here's what BepiColombo can do ",
+      "source": " Latest from Space.com ",
+      "date": "Thu, 03 Sep 2026 18:00:00 +0000",
+      "summary": "After an 8-year trek to Mercury, BepiColombo will finally split into two spacecraft ready to track down the secrets of the least-explored planet in the inner solar system.",
+      "url": "https://www.space.com/astronomy/mercury/2-spacecraft-will-soon-reach-mercury-after-8-years-in-space-heres-what-bepicolombo-can-do"
+    },
+    {
+      "category": "AI",
+      "title": "Meet the 2026 Ig Nobel Prize winners",
+      "source": "Ars Technica - All content",
+      "date": "Thu, 03 Sep 2026 17:00:37 +0000",
+      "summary": "The annual award ceremony features miniature operas, scientific demos, and \"24/7\" lectures.",
+      "url": "https://arstechnica.com/science/2026/09/meet-the-2026-ig-nobel-prize-winners/"
+    },
+    {
+      "category": "Space",
+      "title": " 'Strange New Worlds'' latest episode is a soap opera spoof, but hasn't 'Star Trek' always been a soap opera in space? ",
+      "source": " Latest from Space.com ",
+      "date": "Thu, 03 Sep 2026 17:00:00 +0000",
+      "summary": "The latest 'Strange New Worlds' takes the silliness to warp factor nine, but soap opera plots have long been part of the 'Star Trek' mix",
+      "url": "https://www.space.com/entertainment/space-movies-shows/strange-new-worlds-latest-episode-is-a-soap-opera-spoof-but-hasnt-star-trek-always-been-a-soap-opera-in-space-anyway"
+    },
+    {
+      "category": "Space",
+      "title": " 'A new mission starting today': 8 years after launch, BepiColombo begins Mercury arrival ",
+      "source": " Latest from Space.com ",
+      "date": "Thu, 03 Sep 2026 16:25:20 +0000",
+      "summary": "After nearly eight years traveling through the inner solar system, the trailblazing BepiColombo spacecraft has finally begun its arrival at Mercury.",
+      "url": "https://www.space.com/space-exploration/missions/a-new-mission-starting-today-8-years-after-launch-bepicolombo-begins-mercury-arrival"
+    },
+    {
+      "category": "Science",
+      "title": " 'The apple you eat isn't the apple your granddaughter will eat': What's on the menu in a warming world? ",
+      "source": " Latest from Live Science ",
+      "date": "Thu, 03 Sep 2026 16:00:00 +0000",
+      "summary": "Almost every aspect of our food system will be transformed by climate change.",
+      "url": "https://www.livescience.com/planet-earth/climate-change/the-apple-you-eat-isnt-the-apple-your-granddaughter-will-eat-whats-on-the-menu-in-a-warming-world"
+    },
+    {
+      "category": "Science",
+      "title": " New map of a male fly central nervous system includes all 166,000 neurons — and enables direct comparisons to female fly brain ",
+      "source": " Latest from Live Science ",
+      "date": "Thu, 03 Sep 2026 15:00:00 +0000",
+      "summary": "A new map of the adult male fruit fly brain and nerve cord includes over 166,000 neurons and the millions of connections between them.",
+      "url": "https://www.livescience.com/health/neuroscience/new-map-of-a-male-fly-central-nervous-system-includes-all-166-000-neurons-and-enables-direct-comparisons-to-female-fly-brain"
     },
     {
       "category": "Science",
@@ -36,11 +108,11 @@
     },
     {
       "category": "AI",
-      "title": "Elevated Errors for Multiple Models",
-      "source": "Hacker News: Front Page",
-      "date": "Thu, 03 Sep 2026 13:29:12 +0000",
-      "summary": "Article URL: https://status.claude.com/incidents/461yvfrzpwtt\nComments URL: https://news.ycombinator.com/item?id=49549676\nPoints: 36\n# Comments: 8",
-      "url": "https://status.claude.com/incidents/461yvfrzpwtt"
+      "title": "Nvidia buys Hugging Face, the GitHub of AI, for $13 billion",
+      "source": "Ars Technica - All content",
+      "date": "Thu, 03 Sep 2026 13:34:13 +0000",
+      "summary": "Nvidia says Hugging Face will stay open even as the chipmaker takes control of a key AI hub.",
+      "url": "https://arstechnica.com/ai/2026/09/nvidia-buys-hugging-face-the-github-of-ai-for-13-billion/"
     },
     {
       "category": "Science",
@@ -59,30 +131,6 @@
       "url": "https://www.sciencedaily.com/releases/2026/09/260903064229.htm"
     },
     {
-      "category": "AI",
-      "title": "Nvidia to Acquire Hugging Face",
-      "source": "Hacker News: Front Page",
-      "date": "Thu, 03 Sep 2026 12:10:33 +0000",
-      "summary": "Article URL: https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/\nComments URL: https://news.ycombinator.com/item?id=49548952\nPoints: 70\n# Comments: 19",
-      "url": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/"
-    },
-    {
-      "category": "AI",
-      "title": "9 Mothers (YC P26) Is Hiring in Austin, TX",
-      "source": "Hacker News: Front Page",
-      "date": "Thu, 03 Sep 2026 12:00:52 +0000",
-      "summary": "Article URL: https://9mothers.com/careers\nComments URL: https://news.ycombinator.com/item?id=49548864\nPoints: 0\n# Comments: 0",
-      "url": "https://9mothers.com/careers"
-    },
-    {
-      "category": "Space",
-      "title": " Watch India launch its 1st geosynchronous Earth-imaging satellite today ",
-      "source": " Latest from Space.com ",
-      "date": "Thu, 03 Sep 2026 12:00:00 +0000",
-      "summary": "India aims to launch an Earth-imaging satellite toward geosynchronous orbit today (Sept. 3) —something it has never done successfully — and you can watch the action live.",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/gslv-mark-ii-eos-05-launch-first-indian-geo-earth-observing-satellite"
-    },
-    {
       "category": "Biblical Studies",
       "title": "Antiochus Epiphanes—The Bible’s Most Notoriously Forgotten Villain",
       "source": "Biblical Archaeology Society",
@@ -99,36 +147,12 @@
       "url": "https://www.biblicalarchaeology.org/daily/people-cultures-in-the-bible/people-in-the-bible/paul-and-the-slave-girl-in-philippi/"
     },
     {
-      "category": "Space",
-      "title": " Rocket issues delay 1st-ever private mission to Venus: 'We are awaiting Neutron readiness' ",
-      "source": " Latest from Space.com ",
-      "date": "Thu, 03 Sep 2026 10:00:00 +0000",
-      "summary": "The first-ever private mission to Venus is still groundbound due to delays with its launch vehicle, Rocket Lab's Neutron. But team members remain bullish on the groundbreaking mission.",
-      "url": "https://www.space.com/astronomy/venus/rocket-issues-delay-1st-ever-private-mission-to-venus-we-are-awaiting-neutron-readiness"
-    },
-    {
-      "category": "Science",
-      "title": " China reaches solar energy milestone — what does this mean for the world's largest greenhouse gas emitter? ",
-      "source": " Latest from Live Science ",
-      "date": "Thu, 03 Sep 2026 09:36:51 +0000",
-      "summary": "China is rapidly expanding its ability to harness renewable energy sources.",
-      "url": "https://www.livescience.com/planet-earth/climate-change/china-reaches-solar-energy-milestone-what-does-this-mean-for-the-worlds-largest-greenhouse-gas-emitter"
-    },
-    {
       "category": "Science",
       "title": "September brings a dazzling Venus and a glowing Harvest Moon",
       "source": "All Top News -- ScienceDaily",
       "date": "Thu, 03 Sep 2026 02:25:49 EDT",
       "summary": "September’s sky features brilliant Venus, the Milky Way’s hazy center, and the seasonal turning point of the equinox. The month ends with a glowing Harvest Moon rising near Saturn and faint Neptune.",
       "url": "https://www.sciencedaily.com/releases/2026/09/260902234500.htm"
-    },
-    {
-      "category": "Space",
-      "title": "APOD: 2026 September 3 – The Eclipse and the Stork",
-      "source": "NASA",
-      "date": "Thu, 03 Sep 2026 04:05:00 +0000",
-      "summary": "APOD Science APOD APOD: 2026 September 3 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. The Eclipse […]",
-      "url": "https://science.nasa.gov/image-article/apod-2026-september-3-the-eclipse-and-the-stork/"
     },
     {
       "category": "Theology",
@@ -145,14 +169,6 @@
       "date": "Thu, 03 Sep 2026 04:02:00 +0000",
       "summary": "We will not worship AI or any human invention as an omniscient, omnipotent, omnipresent, and omnibenevolent guide.",
       "url": "https://www.thegospelcoalition.org/article/10-resolutions-ai/"
-    },
-    {
-      "category": "Space",
-      "title": "Peatland Fires Darken Skies in Indonesia",
-      "source": "NASA",
-      "date": "Thu, 03 Sep 2026 04:01:00 +0000",
-      "summary": "With Indonesia gripped by drought, fires are smoldering on the surface and underground.",
-      "url": "https://science.nasa.gov/missions/aqua/peatland-fires-darken-skies-in-indonesia/"
     },
     {
       "category": "Theology",
@@ -179,44 +195,12 @@
       "url": "https://arstechnica.com/science/2026/09/budget-deal-puts-political-control-of-grants-on-hold-until-december/"
     },
     {
-      "category": "Space",
-      "title": " Astronomers discover mysterious 10-sided cloud structure at Saturn's south pole ",
-      "source": " Latest from Space.com ",
-      "date": "Wed, 02 Sep 2026 21:00:00 +0000",
-      "summary": "A mysterious giant 10-sided pattern of clouds has recently formed around Saturn's south pole, a new study finds.",
-      "url": "https://www.space.com/astronomy/saturn/astronomers-discover-mysterious-10-sided-cloud-structure-at-saturns-south-pole"
-    },
-    {
       "category": "Theology",
       "title": "Counsel for a Young Pastor of a Long-Established Congregation",
       "source": "9Marks",
       "date": "Wed, 02 Sep 2026 20:36:48 +0000",
       "summary": "For a young pastor, consistency becomes one of the primary ways to demonstrate that you are not there to disrupt for disruption’s sake, but to shepherd with care and conviction according to the Word of God.\nThe post Counsel for a Young Pastor of a Long-Established Congregation appeared first on 9Marks.",
       "url": "https://www.9marks.org/article/counsel-for-a-young-pastor-of-a-long-established-congregation/?utm_source=rss&utm_medium=rss&utm_campaign=counsel-for-a-young-pastor-of-a-long-established-congregation"
-    },
-    {
-      "category": "AI",
-      "title": "I rented a car, and within hours, my driver's license was for sale",
-      "source": "Ars Technica - All content",
-      "date": "Wed, 02 Sep 2026 20:32:02 +0000",
-      "summary": "The FBI is reportedly investigating a massive data breach that is unfolding in real time.",
-      "url": "https://arstechnica.com/security/2026/09/my-drivers-license-is-one-of-153-million-for-sale-on-a-new-dark-website/"
-    },
-    {
-      "category": "AI",
-      "title": "FCC plans robocall scorecard to grade phone companies on spam call blocking",
-      "source": "Ars Technica - All content",
-      "date": "Wed, 02 Sep 2026 19:54:27 +0000",
-      "summary": "Carrier scorecards may include call-blocking stats and data on customer complaints.",
-      "url": "https://arstechnica.com/tech-policy/2026/09/fcc-plans-robocall-scorecard-to-grade-phone-companies-on-spam-call-blocking/"
-    },
-    {
-      "category": "Space",
-      "title": "NASA Revamps Challenge Linking Community College Studies to Aerospace Careers",
-      "source": "NASA",
-      "date": "Wed, 02 Sep 2026 19:01:05 +0000",
-      "summary": "Community college students across the U.S. now have another opportunity to discover how their education can lead to fulfilling roles at the forefront of aerospace, science, engineering, and technology. The updated NASA Community College Aerospace Scholars (NCAS) student challenge invites students to learn about the agency and its missions, engage with NASA experts, and explore […]",
-      "url": "https://www.nasa.gov/learning-resources/linking-community-college-studies-to-aerospace-careers/"
     },
     {
       "category": "Biblical Studies",
@@ -233,14 +217,6 @@
       "date": "Wed, 02 Sep 2026 12:00:00 GMT",
       "summary": "ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise photos into an inventory website in 15 minutes.",
       "url": "https://openai.com/index/atv-big-air-tour"
-    },
-    {
-      "category": "Science",
-      "title": " 1,600-year-old skeleton found in a giant jar in Bulgaria may belong to Roman who hid there to escape enemy attack ",
-      "source": " Latest from Live Science ",
-      "date": "Wed, 02 Sep 2026 11:00:00 +0000",
-      "summary": "Human remains found in a giant Roman jar in Bulgaria may belong to a young Roman who armed himself with two knives during an enemy attack.",
-      "url": "https://www.livescience.com/archaeology/romans/1-600-year-old-skeleton-found-in-a-giant-jar-in-bulgaria-may-belong-to-roman-who-hid-there-to-escape-enemy-attack"
     },
     {
       "category": "AI",
