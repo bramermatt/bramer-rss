@@ -1,54 +1,110 @@
 {
-  "lastUpdated": "2026-09-03T19:00:04.399Z",
-  "articleCount": 36,
+  "lastUpdated": "2026-09-03T23:47:46.035Z",
+  "articleCount": 39,
   "articles": [
     {
       "category": "Science",
-      "title": "Scientists studying cockroach milk and nose-blowing win Ig Nobel prizes for quirky science",
+      "title": "Light-triggered interface lets adhesive peel cleanly and rebond through 15 cycles",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Thu, 03 Sep 2026 14:47:53 EDT",
-      "summary": "Ten research teams were honored Thursday at a satirical science awards ceremony that was hosted outside the U.S. for the first time due to travel concerns.",
-      "url": "https://phys.org/news/2026-09-scientists-cockroach-nose-ig-nobel.html"
+      "date": "Thu, 03 Sep 2026 19:40:03 EDT",
+      "summary": "Adhesives are essential in electronics, vehicles and other products, but they can hinder repair and recycling when bonded parts are difficult to separate cleanly. A research team led by The University of Osaka has developed a prototype light-responsive adhesive that can be selectively detached from an illuminated surface without leaving observable residue. The adhesive film can then be rebonded by heating and reused after a second ultraviolet wavelength helps reset its molecular interactions.",
+      "url": "https://phys.org/news/2026-09-triggered-interface-adhesive-rebond.html"
     },
     {
       "category": "Science",
-      "title": "Satellite images show how penguins' diets are changing in response to Antarctic climate change",
+      "title": "Soft nanoscale confinement prevents ice, exposing water's liquid-to-glass transition",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Thu, 03 Sep 2026 14:40:11 EDT",
-      "summary": "The color of penguin poop, as seen from space, is offering a new window into how Antarctica's ecology and environment are changing over time.",
-      "url": "https://phys.org/news/2026-09-satellite-images-penguins-diets-response.html"
+      "date": "Thu, 03 Sep 2026 19:40:01 EDT",
+      "summary": "An international collaboration of researchers has used ANSTO's facilities to uncover new properties of one of the most fundamental everyday materials, water, and answer an important scientific question. The findings, published in Nature Communications, have practical implications for understanding water at very low temperatures. The findings are relevant to cryopreservation of biological materials, food-freezing technologies and understanding water in living cells, where it is often confined at the nanoscale.",
+      "url": "https://phys.org/news/2026-09-soft-nanoscale-confinement-ice-exposing.html"
     },
     {
       "category": "Science",
-      "title": "Scottish 'pregnant grandmother' microbe bursts open after growing offspring within",
+      "title": "Tiny fossils reveal big insights about ant ancestors",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Thu, 03 Sep 2026 14:40:01 EDT",
-      "summary": "Scientists have revealed a bizarre microscopic creature that reproduces in a way reminiscent of the horror film\" Alien.\" The microbe grows one or more new cells inside its own body before the outer \"mother\" cell ruptures to release them, a reproductive strategy never before seen in its group of organisms.",
-      "url": "https://phys.org/news/2026-09-scottish-pregnant-grandmother-microbe-offspring.html"
+      "date": "Thu, 03 Sep 2026 19:20:01 EDT",
+      "summary": "Two tiny ant fossils recovered in southern Saskatchewan are helping scientists better understand the evolutionary history of modern ants. Ant fossils dating from 72–56 million years ago are rare. What happened to insects such as ants during this period that saw a mass extinction wipe out all non-bird dinosaurs? How did that event reshape their world?",
+      "url": "https://phys.org/news/2026-09-tiny-fossils-reveal-big-insights.html"
     },
     {
       "category": "AI",
-      "title": "Qwen 3.8 27B available on Cerebras at 1500 tok/SEC",
+      "title": "Protecting Engineers' Skills in the AI Era",
       "source": "Hacker News: Front Page",
-      "date": "Thu, 03 Sep 2026 18:32:13 +0000",
-      "summary": "Article URL: https://inference-docs.cerebras.ai/models/overview\nComments URL: https://news.ycombinator.com/item?id=49554520\nPoints: 74\n# Comments: 19",
-      "url": "https://inference-docs.cerebras.ai/models/overview"
+      "date": "Thu, 03 Sep 2026 23:00:04 +0000",
+      "summary": "Article URL: https://spectrum.ieee.org/ai-engineer-skills\nComments URL: https://news.ycombinator.com/item?id=49558302\nPoints: 17\n# Comments: 7",
+      "url": "https://spectrum.ieee.org/ai-engineer-skills"
     },
     {
       "category": "AI",
-      "title": "OpenAI begins rolling out GPT-6 Astra",
+      "title": "GLP-1s Are Being Linked to Fewer Serious Infections, Including TB",
       "source": "Hacker News: Front Page",
-      "date": "Thu, 03 Sep 2026 18:18:22 +0000",
-      "summary": "https://thenewstack.io/openai-gpt6-astra-benchmarks/, image: https://cdn.thenewstack.io/media/2026/09/358eb84a-screenshot...\nhttps://venturebeat.com/technology/welcome-to-the-agi-era-op...\nhttps://www.theverge.com/ai-artificial-intelligence/988334/o...\nhttps://twitter.com/OpenAI/status/2095527557924082061\nComments URL: https://news.ycombinator.com/item?id=49554273\nPoints: 61\n# Comments: 53",
-      "url": "https://www.cnbc.com/2026/09/03/open-ai-astra-gpt-6-cyber.html"
+      "date": "Thu, 03 Sep 2026 22:37:31 +0000",
+      "summary": "Article URL: https://gizmodo.com/ozempic-and-other-glp-1s-are-being-linked-to-fewer-serious-infections-including-tb-2000806796\nComments URL: https://news.ycombinator.com/item?id=49558086\nPoints: 19\n# Comments: 9",
+      "url": "https://gizmodo.com/ozempic-and-other-glp-1s-are-being-linked-to-fewer-serious-infections-including-tb-2000806796"
     },
     {
       "category": "AI",
-      "title": "The Double Matthew Walker Knot by Fable 5.1",
+      "title": "Reports: RFK Jr. ordered measles deaths deletion; CDC still secretly counts them",
+      "source": "Ars Technica - All content",
+      "date": "Thu, 03 Sep 2026 22:13:50 +0000",
+      "summary": "CDC staff had already accepted the measles death reports when RFK Jr. meddled.",
+      "url": "https://arstechnica.com/health/2026/09/reports-rfk-jr-ordered-measles-deaths-deletion-cdc-still-secretly-counts-them/"
+    },
+    {
+      "category": "Science",
+      "title": " Psilocybin may protect against a common, debilitating side effect of chemotherapy, early study finds ",
+      "source": " Latest from Live Science ",
+      "date": "Thu, 03 Sep 2026 21:44:01 +0000",
+      "summary": "A psychedelic best known for its effects on the brain may also protect peripheral nerves from chemotherapy damage, early research suggests.",
+      "url": "https://www.livescience.com/health/medicine-drugs/psilocybin-may-protect-against-a-common-debilitating-side-effect-of-chemotherapy-early-study-finds"
+    },
+    {
+      "category": "Science",
+      "title": " Hubble spots a mysterious 10-sided 'decagon' growing around Saturn's south pole ",
+      "source": " Latest from Live Science ",
+      "date": "Thu, 03 Sep 2026 21:27:00 +0000",
+      "summary": "The Hubble Space Telescope spied a large atmospheric phenomenon on Saturn: a decagon surrounding the south pole.",
+      "url": "https://www.livescience.com/space/saturn/hubble-spots-a-mysterious-10-sided-decagon-growing-around-saturns-south-pole"
+    },
+    {
+      "category": "AI",
+      "title": "Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out",
       "source": "Hacker News: Front Page",
-      "date": "Thu, 03 Sep 2026 18:09:37 +0000",
-      "summary": "Article URL: https://claude.ai/public/artifacts/06fd26a5-403c-47c8-af49-dcf6c35ec55c\nComments URL: https://news.ycombinator.com/item?id=49554154\nPoints: 9\n# Comments: 5",
-      "url": "https://claude.ai/public/artifacts/06fd26a5-403c-47c8-af49-dcf6c35ec55c"
+      "date": "Thu, 03 Sep 2026 21:20:34 +0000",
+      "summary": "Article URL: https://armature.tech/blog/which-tools-coding-agents-install\nComments URL: https://news.ycombinator.com/item?id=49557206\nPoints: 63\n# Comments: 17",
+      "url": "https://armature.tech/blog/which-tools-coding-agents-install"
+    },
+    {
+      "category": "AI",
+      "title": "Xbox imposes harsh new time limits for Game Pass game streaming",
+      "source": "Ars Technica - All content",
+      "date": "Thu, 03 Sep 2026 21:10:59 +0000",
+      "summary": "Over 1 million Game Pass subscribers will have to pay more for their heavy streaming use.",
+      "url": "https://arstechnica.com/gaming/2026/09/xbox-imposes-harsh-new-time-limits-for-game-pass-game-streaming/"
+    },
+    {
+      "category": "Science",
+      "title": " Lavish private bath used by Roman emperor and 'high-status residents' discovered at imperial palace in Serbia ",
+      "source": " Latest from Live Science ",
+      "date": "Thu, 03 Sep 2026 20:20:28 +0000",
+      "summary": "The ancient bath complex was tucked in a tower in the corner of the royal palace and reveals unique architecture.",
+      "url": "https://www.livescience.com/archaeology/romans/lavish-private-bath-used-by-roman-emperor-and-high-status-residents-discovered-at-imperial-palace-in-serbia"
+    },
+    {
+      "category": "AI",
+      "title": "150 research primates got diarrhea, flooding lab with priceless vaccine data",
+      "source": "Ars Technica - All content",
+      "date": "Thu, 03 Sep 2026 20:14:48 +0000",
+      "summary": "Researchers now have clear new targets and insights for developing a Shigella vaccine.",
+      "url": "https://arstechnica.com/health/2026/09/150-research-primates-got-diarrhea-flooding-lab-with-priceless-vaccine-data/"
+    },
+    {
+      "category": "Space",
+      "title": " 'Alien: Isolation 2': Facing a ruthless and evolved Xenomorph in our Gamescom hands-on preview ",
+      "source": " Latest from Space.com ",
+      "date": "Thu, 03 Sep 2026 20:00:00 +0000",
+      "summary": "Sega and Creative Assembly's long-awaited survival horror sequel hits the ground running with a new cast of characters and a fast-paced prologue.",
+      "url": "https://www.space.com/entertainment/space-games/alien-isolation-2-facing-a-ruthless-and-evolved-xenomorph-in-our-gamescom-hands-on-preview"
     },
     {
       "category": "Space",
@@ -59,12 +115,12 @@
       "url": "https://www.space.com/astronomy/mercury/2-spacecraft-will-soon-reach-mercury-after-8-years-in-space-heres-what-bepicolombo-can-do"
     },
     {
-      "category": "AI",
-      "title": "Meet the 2026 Ig Nobel Prize winners",
-      "source": "Ars Technica - All content",
-      "date": "Thu, 03 Sep 2026 17:00:37 +0000",
-      "summary": "The annual award ceremony features miniature operas, scientific demos, and \"24/7\" lectures.",
-      "url": "https://arstechnica.com/science/2026/09/meet-the-2026-ig-nobel-prize-winners/"
+      "category": "Space",
+      "title": "NASA to Cover Progress 96 Spacecraft Launch, Docking",
+      "source": "NASA",
+      "date": "Thu, 03 Sep 2026 17:06:00 +0000",
+      "summary": "NASA will provide live coverage of the launch and docking of a Roscosmos cargo spacecraft carrying about three tons of food, fuel, and supplies for the crew aboard the International Space Station. The unpiloted Progress 96 resupply spacecraft is scheduled to launch at 12:15 p.m. EDT (9:15 p.m. Baikonur time), Wednesday, Sept. 9, on a […]",
+      "url": "https://www.nasa.gov/news-release/nasa-to-cover-progress-96-spacecraft-launch-docking/"
     },
     {
       "category": "Space",
@@ -76,43 +132,27 @@
     },
     {
       "category": "Space",
-      "title": " 'A new mission starting today': 8 years after launch, BepiColombo begins Mercury arrival ",
-      "source": " Latest from Space.com ",
-      "date": "Thu, 03 Sep 2026 16:25:20 +0000",
-      "summary": "After nearly eight years traveling through the inner solar system, the trailblazing BepiColombo spacecraft has finally begun its arrival at Mercury.",
-      "url": "https://www.space.com/space-exploration/missions/a-new-mission-starting-today-8-years-after-launch-bepicolombo-begins-mercury-arrival"
+      "title": "Curiosity Blog, Sols 4988-4994: More New Tricks for an Old Dog",
+      "source": "NASA",
+      "date": "Thu, 03 Sep 2026 15:59:48 +0000",
+      "summary": "Written by Michelle Minitti, MAHLI Deputy Principal Investigator Earth planning date: Friday, Aug. 21, 2026 After Curiosity’s 14 years on the surface, Mars continues to surprise. Both of our workspaces this week contained features unlike quite anything we have seen in the past — broad, shallow pits (like the one in the image above) dotted […]",
+      "url": "https://science.nasa.gov/blog/curiosity-blog-sols-4988-4994-more-new-tricks-for-an-old-dog/"
     },
     {
-      "category": "Science",
-      "title": " 'The apple you eat isn't the apple your granddaughter will eat': What's on the menu in a warming world? ",
-      "source": " Latest from Live Science ",
-      "date": "Thu, 03 Sep 2026 16:00:00 +0000",
-      "summary": "Almost every aspect of our food system will be transformed by climate change.",
-      "url": "https://www.livescience.com/planet-earth/climate-change/the-apple-you-eat-isnt-the-apple-your-granddaughter-will-eat-whats-on-the-menu-in-a-warming-world"
-    },
-    {
-      "category": "Science",
-      "title": " New map of a male fly central nervous system includes all 166,000 neurons — and enables direct comparisons to female fly brain ",
-      "source": " Latest from Live Science ",
-      "date": "Thu, 03 Sep 2026 15:00:00 +0000",
-      "summary": "A new map of the adult male fruit fly brain and nerve cord includes over 166,000 neurons and the millions of connections between them.",
-      "url": "https://www.livescience.com/health/neuroscience/new-map-of-a-male-fly-central-nervous-system-includes-all-166-000-neurons-and-enables-direct-comparisons-to-female-fly-brain"
-    },
-    {
-      "category": "Science",
-      "title": " An ancient 'supervolcano' has been found hiding beneath eastern England. But experts say there's not enough evidence to call it that. ",
-      "source": " Latest from Live Science ",
-      "date": "Thu, 03 Sep 2026 13:39:11 +0000",
-      "summary": "Geologists recently identified a 454.4 million-year-old volcano on England's east coast, but whether the structure can be considered a \"supervolcano\" remains an open question.",
-      "url": "https://www.livescience.com/planet-earth/volcanoes/an-ancient-supervolcano-has-been-found-hiding-beneath-eastern-england-but-experts-say-theres-not-enough-evidence-to-call-it-that"
+      "category": "Space",
+      "title": "Igniting Roman’s Journey",
+      "source": "NASA",
+      "date": "Thu, 03 Sep 2026 14:24:23 +0000",
+      "summary": "Now on a three-month, million-mile journey to its final orbit, NASA’s Nancy Grace Roman Space Telescope will soon reveal the universe’s darkest secrets. The mission launched at 7:26 a.m. EDT on Aug. 30 aboard a SpaceX Falcon Heavy rocket from Launch Complex 39A at the agency’s Kennedy Space Center in Florida. Roman pairs a large […]",
+      "url": "https://www.nasa.gov/image-article/igniting-romans-journey/"
     },
     {
       "category": "AI",
-      "title": "Nvidia buys Hugging Face, the GitHub of AI, for $13 billion",
-      "source": "Ars Technica - All content",
-      "date": "Thu, 03 Sep 2026 13:34:13 +0000",
-      "summary": "Nvidia says Hugging Face will stay open even as the chipmaker takes control of a key AI hub.",
-      "url": "https://arstechnica.com/ai/2026/09/nvidia-buys-hugging-face-the-github-of-ai-for-13-billion/"
+      "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
+      "source": "OpenAI News",
+      "date": "Thu, 03 Sep 2026 13:15:00 GMT",
+      "summary": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services.",
+      "url": "https://openai.com/index/daybreak-for-frontline-defenders"
     },
     {
       "category": "Science",
@@ -129,6 +169,22 @@
       "date": "Thu, 03 Sep 2026 08:41:39 EDT",
       "summary": "A huge 10-sided atmospheric pattern has appeared around Saturn’s south pole, giving the planet a surprising counterpart to its famous northern hexagon. Hubble data suggest the strange decagon only began emerging in the past few years and is still growing stronger. Researchers hope continued observations will reveal why it suddenly formed and whether it could persist for decades.",
       "url": "https://www.sciencedaily.com/releases/2026/09/260903064229.htm"
+    },
+    {
+      "category": "AI",
+      "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+      "source": "OpenAI News",
+      "date": "Thu, 03 Sep 2026 12:00:00 GMT",
+      "summary": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
+      "url": "https://openai.com/index/legora-financial-statement-review-with-astra"
+    },
+    {
+      "category": "AI",
+      "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+      "source": "OpenAI News",
+      "date": "Thu, 03 Sep 2026 12:00:00 GMT",
+      "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
+      "url": "https://openai.com/index/playco-game-prototyping-with-astra"
     },
     {
       "category": "Biblical Studies",
@@ -187,14 +243,6 @@
       "url": "https://allthingsliberty.com/2026/09/a-tale-of-two-revolutions-jefferson-lafayette-and-the-empire-of-liberty/"
     },
     {
-      "category": "AI",
-      "title": "Spending deal comes with a bonus: Blocking political control of grants",
-      "source": "Ars Technica - All content",
-      "date": "Wed, 02 Sep 2026 21:20:03 +0000",
-      "summary": "Congress pauses the OMB's attempt to rewrite how research is funded.",
-      "url": "https://arstechnica.com/science/2026/09/budget-deal-puts-political-control-of-grants-on-hold-until-december/"
-    },
-    {
       "category": "Theology",
       "title": "Counsel for a Young Pastor of a Long-Established Congregation",
       "source": "9Marks",
@@ -209,30 +257,6 @@
       "date": "Wed, 02 Sep 2026 12:55:07 +0000",
       "summary": "The city of Urfa (known as Şanlıurfa in Turkish) is a living tapestry of faith. Nestled in southeastern Turkey and revered as the “city of […]\nThe post Exploring the Land of Abraham’s Birth appeared first on Biblical Archaeology Society.",
       "url": "https://www.biblicalarchaeology.org/daily/biblical-sites-places/biblical-archaeology-places/exploring-land-abrahams-birth/"
-    },
-    {
-      "category": "AI",
-      "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
-      "source": "OpenAI News",
-      "date": "Wed, 02 Sep 2026 12:00:00 GMT",
-      "summary": "ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise photos into an inventory website in 15 minutes.",
-      "url": "https://openai.com/index/atv-big-air-tour"
-    },
-    {
-      "category": "AI",
-      "title": "How AI-native companies turn workflows into operating capability",
-      "source": "OpenAI News",
-      "date": "Tue, 01 Sep 2026 17:00:00 GMT",
-      "summary": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.",
-      "url": "https://openai.com/index/ai-native-company-workflows"
-    },
-    {
-      "category": "AI",
-      "title": "Path to Astra: critical capabilities and frontier safeguards",
-      "source": "OpenAI News",
-      "date": "Tue, 01 Sep 2026 13:00:00 GMT",
-      "summary": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.",
-      "url": "https://openai.com/index/path-to-astra"
     },
     {
       "category": "History",
