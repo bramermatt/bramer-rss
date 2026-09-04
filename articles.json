@@ -1,30 +1,110 @@
 {
-  "lastUpdated": "2026-09-04T18:44:03.697Z",
+  "lastUpdated": "2026-09-04T23:35:58.863Z",
   "articleCount": 39,
   "articles": [
     {
-      "category": "Science",
-      "title": "Sound waves and water droplets transform paper waste into higher-value chemical compound",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Fri, 04 Sep 2026 14:40:06 EDT",
-      "summary": "Researchers at the University of Illinois Urbana-Champaign have developed a fast, simple way to turn lignin, a plentiful plant-based byproduct of the papermaking industry, into potentially more valuable renewable chemicals.",
-      "url": "https://phys.org/news/2026-09-droplets-paper-higher-chemical-compound.html"
+      "category": "AI",
+      "title": "After 8 years, Europe's BepiColombo mission is on final approach to Mercury",
+      "source": "Ars Technica - All content",
+      "date": "Fri, 04 Sep 2026 22:49:17 +0000",
+      "summary": "\"Fundamentally, we want to learn about the origins of this planet and how it came to be like it is.\"",
+      "url": "https://arstechnica.com/space/2026/09/after-8-years-europes-bepicolombo-mission-is-on-final-approach-to-mercury/"
+    },
+    {
+      "category": "AI",
+      "title": "Can guitar frets perform multiplication?",
+      "source": "Hacker News: Front Page",
+      "date": "Fri, 04 Sep 2026 22:40:30 +0000",
+      "summary": "Article URL: https://www.charlespetzold.com/blog/2026/09/Can-Guitar-Frets-Perform-Multiplication.html\nComments URL: https://news.ycombinator.com/item?id=49571047\nPoints: 4\n# Comments: 0",
+      "url": "https://www.charlespetzold.com/blog/2026/09/Can-Guitar-Frets-Perform-Multiplication.html"
     },
     {
       "category": "Science",
-      "title": "Underlying mechanism of Atg2-mediated lipid transfer in autophagy identified",
+      "title": "Researchers tune into Arctic under-ice sounds and test through-ice communication",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Fri, 04 Sep 2026 14:40:01 EDT",
-      "summary": "Autophagy is an intracellular degradation mechanism in eukaryotes. The autophagosome, which encloses damaged or excess cellular material for degradation, is constructed from lipids supplied by the endoplasmic reticulum (ER) via the lipid transfer protein Atg2.",
-      "url": "https://phys.org/news/2026-09-underlying-mechanism-atg2-lipid-autophagy.html"
+      "date": "Fri, 04 Sep 2026 18:20:01 EDT",
+      "summary": "Beneath the Arctic Ocean is an orchestra featuring natural and human composers, from cracking sea ice and whistling beluga whales to humming shipping-vessel engines. Researchers from MIT Lincoln Laboratory heard some of this cacophony when analyzing data from commercial off-the-shelf sensors that they integrated and deployed in 2024 during the U.S. Navy's Operation Ice Camp (OIC). This past March, during OIC 2026, the researchers returned to the Arctic with a higher-fidelity version of one of the sensors, a geophone that detects vibrations in the sea ice.",
+      "url": "https://phys.org/news/2026-09-tune-arctic-ice-communication.html"
+    },
+    {
+      "category": "AI",
+      "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
+      "source": "Ars Technica - All content",
+      "date": "Fri, 04 Sep 2026 22:17:36 +0000",
+      "summary": "In all, 3,700 internal agents posted 18,000 messages discussing cheating on a test.",
+      "url": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/"
+    },
+    {
+      "category": "AI",
+      "title": "Record-High 89% in U.S. Say Government Corruption Widespread",
+      "source": "Hacker News: Front Page",
+      "date": "Fri, 04 Sep 2026 22:03:16 +0000",
+      "summary": "Article URL: https://news.gallup.com/poll/713933/record-high-say-government-corruption-widespread.aspx\nComments URL: https://news.ycombinator.com/item?id=49570772\nPoints: 74\n# Comments: 31",
+      "url": "https://news.gallup.com/poll/713933/record-high-say-government-corruption-widespread.aspx"
     },
     {
       "category": "Science",
-      "title": "Particle shape and size predict asteroid strength, revealing Bennu's surface is 50 times weaker than ground coffee",
+      "title": "A new type of LED light could bring significant efficiency gains",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Fri, 04 Sep 2026 14:20:06 EDT",
-      "summary": "In a new Nature Communications study, researchers developed a universal scaling framework for the strength of granular asteroids, showing that their tensile strength can be predicted from the size and shape of their constituent particles.",
-      "url": "https://phys.org/news/2026-09-particle-size-asteroid-strength-revealing.html"
+      "date": "Fri, 04 Sep 2026 18:00:02 EDT",
+      "summary": "Researchers at Lund University have developed a new type of light-emitting diode based on thin, branched nanowires that could offer significantly higher efficiency and lower production costs than current technology. By controlling where in the structure the light is generated, the researchers have reduced the losses that would otherwise limit the amount of light that can be used. Their study is published in the journal Nano Research.",
+      "url": "https://phys.org/news/2026-09-significant-efficiency-gains.html"
+    },
+    {
+      "category": "AI",
+      "title": "Actively exploited sandbox RCE in all Chromium versions",
+      "source": "Hacker News: Front Page",
+      "date": "Fri, 04 Sep 2026 21:52:01 +0000",
+      "summary": "Article URL: https://nvd.nist.gov/vuln/detail/cve-2026-85046\nComments URL: https://news.ycombinator.com/item?id=49570669\nPoints: 90\n# Comments: 34",
+      "url": "https://nvd.nist.gov/vuln/detail/cve-2026-85046"
+    },
+    {
+      "category": "Science",
+      "title": "In ant nervous systems, gene expression may drive rescue behavior",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Fri, 04 Sep 2026 17:40:01 EDT",
+      "summary": "Why do some ants help nestmates in distress while others don't? A research team from Johannes Gutenberg University Mainz (JGU) and Tel Aviv University addressed this question in a new study. The researchers examined worker ants of the species Cataglyphis niger, some of which had shown rescue behavior while others had not. The results, recently published in the Journal of Experimental Biology, suggest that the key difference lies not in body size, morphology or the animals' energy reserves, but in gene activity in the nervous system.",
+      "url": "https://phys.org/news/2026-09-ant-nervous-gene-behavior.html"
+    },
+    {
+      "category": "Space",
+      "title": " Scientists detect signals of hydrogen from billions of years ago. Could this help us map out the universe? ",
+      "source": " Latest from Space.com ",
+      "date": "Fri, 04 Sep 2026 21:00:00 +0000",
+      "summary": "Astronomers have used the MeerKAT radio telescope to detect hydrogen gas located billions of light-years away, from a period when the cosmos was billions of years younger.",
+      "url": "https://www.space.com/astronomy/galaxies/scientists-detect-signals-of-hydrogen-from-billions-of-years-ago-could-this-help-us-map-out-the-universe"
+    },
+    {
+      "category": "AI",
+      "title": "Measles killed 6-week-old baby, coroner confirms after RFK Jr. disputed deaths",
+      "source": "Ars Technica - All content",
+      "date": "Fri, 04 Sep 2026 20:22:41 +0000",
+      "summary": "\"It’s long past time for RFK to stop playing games with people’s lives.\"",
+      "url": "https://arstechnica.com/health/2026/09/measles-killed-6-week-old-baby-coroner-confirms-after-rfk-jr-disputed-deaths/"
+    },
+    {
+      "category": "Space",
+      "title": "NASA Ames Fire Department Aircraft Firefighting Training",
+      "source": "NASA",
+      "date": "Fri, 04 Sep 2026 19:51:56 +0000",
+      "summary": "The fire department at NASA’s Ames Research Center in California’s Silicon Valley will perform training on the Moffett Federal Airfield beginning Tuesday, Sept. 8 through Friday, Sept. 11. The training will involve the use of a propane-fueled aircraft fire simulator and be conducted from 8 a.m. to 8 p.m. PDT. Because the aircraft simulator is […]",
+      "url": "https://www.nasa.gov/news-release/nasa-ames-fire-department-aircraft-firefighting-training/"
+    },
+    {
+      "category": "Science",
+      "title": " Blue Origin rocket explosion sent sound waves 1,000 miles across the US, report finds ",
+      "source": " Latest from Live Science ",
+      "date": "Fri, 04 Sep 2026 19:27:13 +0000",
+      "summary": "When a New Glenn rocket blew apart at Florida's Cape Canaveral Space Force Station in May, it released ultra-low-frequency sound waves that reached as far as Texas. Researchers estimate that the blast was roughly equivalent to the Chernobyl reactor explosion of 1986.",
+      "url": "https://www.livescience.com/space/space-exploration/blue-origin-rocket-explosion-sent-sound-waves-1-000-miles-across-the-us-report-finds"
+    },
+    {
+      "category": "Space",
+      "title": " Trekkies honor 'Star Trek's' 60th birthday with fan events, special screenings, and a world record Vulcan salute ",
+      "source": " Latest from Space.com ",
+      "date": "Fri, 04 Sep 2026 19:00:00 +0000",
+      "summary": "Beam into these stellar celebrations to mark the sci-fi franchise's historic anniversary this Labor Day Weekend!",
+      "url": "https://www.space.com/entertainment/space-movies-shows/trekkies-honor-star-treks-60th-birthday-with-fan-events-special-screenings-and-a-world-record-vulcan-salute"
     },
     {
       "category": "Space",
@@ -35,36 +115,12 @@
       "url": "https://www.space.com/stargazing/venus-is-becoming-a-thinner-crescent-and-thats-when-it-finally-starts-making-sense"
     },
     {
-      "category": "AI",
-      "title": "Hayes AT command set",
-      "source": "Hacker News: Front Page",
-      "date": "Fri, 04 Sep 2026 17:56:14 +0000",
-      "summary": "Article URL: https://en.wikipedia.org/wiki/Hayes_AT_command_set\nComments URL: https://news.ycombinator.com/item?id=49567961\nPoints: 9\n# Comments: 1",
-      "url": "https://en.wikipedia.org/wiki/Hayes_AT_command_set"
-    },
-    {
-      "category": "AI",
-      "title": "Nobody Is Saying Why OpenAI and Anthropic Had Outages",
-      "source": "Hacker News: Front Page",
-      "date": "Fri, 04 Sep 2026 17:29:22 +0000",
-      "summary": "https://archive.ph/3zcMG\nComments URL: https://news.ycombinator.com/item?id=49567594\nPoints: 87\n# Comments: 57",
-      "url": "https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/"
-    },
-    {
       "category": "Science",
       "title": " 3,200-year-old inscription may point to a long-lost ancient Egyptian city from the time of Ramesses II ",
       "source": " Latest from Live Science ",
       "date": "Fri, 04 Sep 2026 17:27:20 +0000",
       "summary": "An inscription written in the time of Ramesses II may indicate the location of a lost ancient Egyptian city.",
       "url": "https://www.livescience.com/archaeology/ancient-egyptians/3-200-year-old-inscription-may-point-to-a-long-lost-ancient-egyptian-city-from-the-time-of-ramesses-ii"
-    },
-    {
-      "category": "AI",
-      "title": "Show HN: Open-Source eInk Bike Computer",
-      "source": "Hacker News: Front Page",
-      "date": "Fri, 04 Sep 2026 17:18:08 +0000",
-      "summary": "Hey all, i just launched my Eink Bike computer project and think it is cool.\nAnother tidbit, in the crazy things that AI has done... It has helped create a ANT (common sensor wireless protocol used in workout/biking) implementation for ESP32 by messing around with undocumented registers: https://github.com/RaemondBW/esp32-ant\nComments URL: https://news.ycombinator.com/item?id=49567437\nPoints: 76\n# Comments: 17",
-      "url": "https://opentrailpaper.com"
     },
     {
       "category": "Space",
@@ -75,36 +131,12 @@
       "url": "https://www.nasa.gov/general/nasa-hosts-virtual-artemis-webinar-for-blind-low-vision-community/"
     },
     {
-      "category": "AI",
-      "title": "Valve secretly leaked a Left 4 Dead 2 trailer to dodge the ESRB",
-      "source": "Ars Technica - All content",
-      "date": "Fri, 04 Sep 2026 16:42:53 +0000",
-      "summary": "\"I think we can't get in trouble for that now. It's like 20 years ago.\"",
-      "url": "https://arstechnica.com/gaming/2026/09/valve-secretly-leaked-a-left-4-dead-2-trailer-to-dodge-the-esrb/"
-    },
-    {
-      "category": "AI",
-      "title": "Second complete map of a fruit fly brain completed",
-      "source": "Ars Technica - All content",
-      "date": "Fri, 04 Sep 2026 16:24:24 +0000",
-      "summary": "Every neuron and connection in the brain of a fly has been mapped—twice.",
-      "url": "https://arstechnica.com/science/2026/09/brain-of-a-male-fly-completely-mapped-joins-earlier-map-of-a-female-brain/"
-    },
-    {
-      "category": "AI",
-      "title": "Anthropic’s $2 trillion IPO puts powerful external trustees in spotlight",
-      "source": "Ars Technica - All content",
-      "date": "Fri, 04 Sep 2026 16:22:18 +0000",
-      "summary": "Public-market scrutiny will intensify pressure on the Claude maker’s unusual attempt to balance profit and purpose.",
-      "url": "https://arstechnica.com/ai/2026/09/anthropics-2-trillion-ipo-puts-powerful-external-trustees-in-spotlight/"
-    },
-    {
-      "category": "Space",
-      "title": " Stars forge and deliver the elements that make up your body — and scientists may finally know how ",
-      "source": " Latest from Space.com ",
-      "date": "Fri, 04 Sep 2026 16:00:00 +0000",
-      "summary": "Scientists are close to understanding how stars forge the elements that comprise our planet, bodies and pretty much everything else around us, and how they explode to distribute these elements.",
-      "url": "https://www.space.com/astronomy/stars/stars-forge-and-deliver-the-elements-that-make-up-your-body-and-scientists-may-finally-know-how"
+      "category": "Theology",
+      "title": "Update on Our Content and Editorial Standards",
+      "source": "The Gospel Coalition",
+      "date": "Fri, 04 Sep 2026 16:00:53 +0000",
+      "summary": "TGC’s Board recommended bringing all our content under the same editorial standards.",
+      "url": "https://www.thegospelcoalition.org/article/update-content-editorial-standards/"
     },
     {
       "category": "Science",
@@ -121,14 +153,6 @@
       "date": "Fri, 04 Sep 2026 14:14:57 +0000",
       "summary": "On Wednesday, June 17, skywatchers across the United States—and parts of Canada—enjoyed a rare event: a daytime lunar occultation of Venus. A lunar occultation occurs when the Moon moves directly in front of another celestial object from our viewpoint on Earth, briefly hiding it from sight. This time, the Moon slipped in front of Venus […]",
       "url": "https://www.nasa.gov/image-article/lunar-occultation-of-venus/"
-    },
-    {
-      "category": "Space",
-      "title": " Hubble Telescope sees spectacular 'superbubble' | Space photo of the day for Sept. 4, 2026 ",
-      "source": " Latest from Space.com ",
-      "date": "Fri, 04 Sep 2026 14:00:00 +0000",
-      "summary": "The Hubble Space Telescope has spotted a spectacular 'super bubble' in our Milky Way's nearest neighbor the Large Magellanic Cloud. Check out our space photo of the day.",
-      "url": "https://www.space.com/astronomy/hubble-space-telescope/hubble-telescope-sees-spectacular-superbubble-space-photo-of-the-day-for-sept-4-2026"
     },
     {
       "category": "Science",
@@ -148,14 +172,6 @@
     },
     {
       "category": "Science",
-      "title": " 'A worrying snapshot': Satellite image shows large patches of open water less than 40 miles from the North Pole ",
-      "source": " Latest from Live Science ",
-      "date": "Fri, 04 Sep 2026 10:06:44 +0000",
-      "summary": "An image from NASA Worldview shows how brittle Arctic sea ice is becoming due to global warming, with large patches of open water visible near the North Pole on Aug. 29.",
-      "url": "https://www.livescience.com/planet-earth/arctic/a-worrying-snapshot-satellite-image-shows-large-patches-of-open-water-less-than-40-miles-from-the-north-pole"
-    },
-    {
-      "category": "Science",
       "title": "Dark matter detector finds a strange signal scientists can’t yet explain",
       "source": "All Top News -- ScienceDaily",
       "date": "Fri, 04 Sep 2026 02:46:01 EDT",
@@ -169,14 +185,6 @@
       "date": "Fri, 04 Sep 2026 02:04:06 EDT",
       "summary": "UCLA researchers have discovered two powerful influences that help guide how the human brain forms before birth. Radial glia, stem cells responsible for producing much of the cerebral cortex, change their behavior depending on how they process glucose and on physical contact with signals arriving from the thalamus. Those signals can alter which types of neurons are produced, including upper-layer neurons that are especially prominent in humans.",
       "url": "https://www.sciencedaily.com/releases/2026/09/260904000308.htm"
-    },
-    {
-      "category": "Space",
-      "title": "APOD: 2026 September 4 – Na Uhane Mahoe Huki Pu i ke Ola",
-      "source": "NASA",
-      "date": "Fri, 04 Sep 2026 04:05:00 +0000",
-      "summary": "APOD Science APOD APOD: 2026 September 4 – Na… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Nā ʻUhane […]",
-      "url": "https://science.nasa.gov/image-article/apod-2026-september-4-na-uhane-mahoe-huki-pu-i-ke-ola/"
     },
     {
       "category": "Theology",
@@ -195,14 +203,6 @@
       "url": "https://www.thegospelcoalition.org/reviews/no-prophets-huffman/"
     },
     {
-      "category": "Theology",
-      "title": "Beware: Wendell Berry Will Change You.",
-      "source": "The Gospel Coalition",
-      "date": "Fri, 04 Sep 2026 04:00:00 +0000",
-      "summary": "Reading Berry inspires my students to better order their wayward loves and to then go to work enacting them.",
-      "url": "https://www.thegospelcoalition.org/article/wendell-berry-change-you/"
-    },
-    {
       "category": "AI",
       "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
       "source": "OpenAI News",
@@ -212,19 +212,19 @@
     },
     {
       "category": "AI",
-      "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-      "source": "OpenAI News",
-      "date": "Thu, 03 Sep 2026 12:00:00 GMT",
-      "summary": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
-      "url": "https://openai.com/index/legora-financial-statement-review-with-astra"
-    },
-    {
-      "category": "AI",
       "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
       "source": "OpenAI News",
       "date": "Thu, 03 Sep 2026 12:00:00 GMT",
       "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
       "url": "https://openai.com/index/playco-game-prototyping-with-astra"
+    },
+    {
+      "category": "AI",
+      "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+      "source": "OpenAI News",
+      "date": "Thu, 03 Sep 2026 12:00:00 GMT",
+      "summary": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
+      "url": "https://openai.com/index/legora-financial-statement-review-with-astra"
     },
     {
       "category": "Biblical Studies",
