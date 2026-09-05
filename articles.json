@@ -1,54 +1,54 @@
 {
-  "lastUpdated": "2026-09-05T17:50:12.129Z",
-  "articleCount": 36,
+  "lastUpdated": "2026-09-05T23:28:40.413Z",
+  "articleCount": 39,
   "articles": [
     {
-      "category": "Science",
-      "title": "US study tests psilocybin to fight cancer side effects",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sat, 05 Sep 2026 13:30:01 EDT",
-      "summary": "Here's a novel idea for countering the painful side effects of chemotherapy: Beforehand, take the hallucinogenic drug found in magic mushrooms.",
-      "url": "https://phys.org/news/2026-09-psilocybin-cancer-side-effects.html"
-    },
-    {
-      "category": "Science",
-      "title": "A black hole as light as 40 tons can exist inside a star if dark matter helps",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sat, 05 Sep 2026 13:00:01 EDT",
-      "summary": "In 1974, Stephen Hawking made a prediction that transformed our understanding of black holes. Black holes, he showed, are not truly black: They slowly lose energy through a quantum process now known as Hawking radiation. The lighter the black hole, the faster it evaporates.",
-      "url": "https://phys.org/news/2026-09-black-hole-tons-star-dark.html"
+      "category": "AI",
+      "title": "OKF Agent Memory – Git-native persistent memory for AI coding agents",
+      "source": "Hacker News: Front Page",
+      "date": "Sat, 05 Sep 2026 22:15:52 +0000",
+      "summary": "Article URL: https://github.com/okf-memory/okf-agent-memory\nComments URL: https://news.ycombinator.com/item?id=49581240\nPoints: 5\n# Comments: 0",
+      "url": "https://github.com/okf-memory/okf-agent-memory"
     },
     {
       "category": "AI",
-      "title": "Flock used >100 times to track veteran who recorded traffic stop",
+      "title": "Falsehoods Programmers Believe About LANs",
       "source": "Hacker News: Front Page",
-      "date": "Sat, 05 Sep 2026 16:48:13 +0000",
-      "summary": "Article URL: https://reason.com/2026/09/02/wisconsin-cops-used-flock-over-100-times-to-track-a-navy-veteran-after-he-lawfully-recorded-a-traffic-stop/\nComments URL: https://news.ycombinator.com/item?id=49578310\nPoints: 161\n# Comments: 58",
-      "url": "https://reason.com/2026/09/02/wisconsin-cops-used-flock-over-100-times-to-track-a-navy-veteran-after-he-lawfully-recorded-a-traffic-stop/"
+      "date": "Sat, 05 Sep 2026 22:08:16 +0000",
+      "summary": "Article URL: https://dreamstation.systems/personal/lanfalsehoods.html\nComments URL: https://news.ycombinator.com/item?id=49581179\nPoints: 24\n# Comments: 22",
+      "url": "https://dreamstation.systems/personal/lanfalsehoods.html"
     },
     {
       "category": "AI",
-      "title": "Bob and Van",
+      "title": "America's two largest school districts impose AI moratoriums",
       "source": "Hacker News: Front Page",
-      "date": "Sat, 05 Sep 2026 16:30:35 +0000",
-      "summary": "Article URL: https://marco.org/2026/09/04/bob-and-van\nComments URL: https://news.ycombinator.com/item?id=49578136\nPoints: 16\n# Comments: 13",
-      "url": "https://marco.org/2026/09/04/bob-and-van"
-    },
-    {
-      "category": "AI",
-      "title": "How the Tobacco Industry Drove the Rise of Ultra-Processed Foods (2025)",
-      "source": "Hacker News: Front Page",
-      "date": "Sat, 05 Sep 2026 16:14:34 +0000",
-      "summary": "Article URL: https://vcresearch.berkeley.edu/news/how-tobacco-industry-drove-rise-ultra-processed-foods\nComments URL: https://news.ycombinator.com/item?id=49577985\nPoints: 80\n# Comments: 32",
-      "url": "https://vcresearch.berkeley.edu/news/how-tobacco-industry-drove-rise-ultra-processed-foods"
+      "date": "Sat, 05 Sep 2026 21:43:22 +0000",
+      "summary": "Article URL: https://www.techpolicy.press/americas-two-largest-school-districts-impose-ai-moratoriums/\nComments URL: https://news.ycombinator.com/item?id=49580980\nPoints: 28\n# Comments: 17",
+      "url": "https://www.techpolicy.press/americas-two-largest-school-districts-impose-ai-moratoriums/"
     },
     {
       "category": "Science",
-      "title": "Tree species diversity protects forests from climate extremes, study finds",
+      "title": "Breaking through AlphaFold's limits to predict how proteins change shape",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Sat, 05 Sep 2026 12:00:01 EDT",
-      "summary": "New research has found that tree species diversity can play a crucial role in protecting forests from the growing threat of extreme climate events. The study analyzed data from 88,116 separate forest plots across the United States to investigate the impact of \"compound climate extremes,\" when events such as drought and extreme heat occur at the same time.",
-      "url": "https://phys.org/news/2026-09-tree-species-diversity-forests-climate.html"
+      "date": "Sat, 05 Sep 2026 17:00:05 EDT",
+      "summary": "Conformational changes in proteins are vital to their function yet remain challenging for state-of-the-art artificial intelligence, such as AlphaFold3, to predict. Researchers at the Institute for Molecular Science (IMS), and the Graduate University for Advanced Studies, SOKENDAI introduced a repulsive force between predicted structures, allowing AlphaFold3 to sample the multiple conformational states that its default settings rarely capture.",
+      "url": "https://phys.org/news/2026-09-alphafold-limits-proteins.html"
+    },
+    {
+      "category": "Science",
+      "title": "How much clearcutting can nature sustain? A study determines the ecological limit for boreal forest birds",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sat, 05 Sep 2026 16:30:01 EDT",
+      "summary": "A study led by the University of Jyväskylä in Finland evaluated, for the first time, an ecological threshold for the amount of clearcutting in boreal forests. According to the results, maintaining populations of bird species specialized in old-growth forests requires either a forest rotation period of at least 90 years on average or that approximately one-fifth of the forest area be excluded from clearcut management. The study provides a concrete target for the ecologically sustainable use of forests.",
+      "url": "https://phys.org/news/2026-09-clearcutting-nature-sustain-ecological-limit.html"
+    },
+    {
+      "category": "Science",
+      "title": "FAST finds two mysterious hydrogen clouds with no visible stars",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sat, 05 Sep 2026 14:40:02 EDT",
+      "summary": "Astronomers have found two clouds of hydrogen near the Whirlpool galaxy that appear to contain almost no stars. The clouds, discovered with China's FAST radio telescope, each contain roughly 3 million times the mass of the sun in hydrogen but have no detectable optical counterpart. Their properties are outlined in a new paper published in the Astronomy & Astrophysics  journal on Aug. 4.",
+      "url": "https://phys.org/news/2026-09-fast-mysterious-hydrogen-clouds-visible.html"
     },
     {
       "category": "AI",
@@ -92,10 +92,10 @@
     },
     {
       "category": "Space",
-      "title": " Watch Isar Aerospace try to make history today with launch from Norway ",
+      "title": " Private German rocket makes history, reaches orbit from European soil ",
       "source": " Latest from Space.com ",
       "date": "Sat, 05 Sep 2026 14:00:00 +0000",
-      "summary": "Isar Aerospace's Spectrum rocket will attempt to become the first vehicle to reach orbit from European soil today (Sept. 5), and you can watch the action live.",
+      "summary": "Isar Aerospace's Spectrum rocket made history today (Sept. 5), becoming the first vehicle ever to reach orbit from European soil.",
       "url": "https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket"
     },
     {
@@ -113,6 +113,14 @@
       "date": "Sat, 05 Sep 2026 01:25:54 EDT",
       "summary": "Researchers at UC San Diego have demonstrated that a key cellular enzyme can accurately read an eight-letter genetic alphabet, doubling the four letters used by all known life on Earth. Detailed imaging revealed that RNA polymerase handles synthetic DNA letters in surprisingly similar ways to natural ones. The finding brings scientists closer to building expanded genetic systems that could perform entirely new biological functions.",
       "url": "https://www.sciencedaily.com/releases/2026/09/260904000310.htm"
+    },
+    {
+      "category": "Space",
+      "title": "APOD: 2026 September 5 – Chasing the Moon’s Shadow",
+      "source": "NASA",
+      "date": "Sat, 05 Sep 2026 04:05:00 +0000",
+      "summary": "APOD Science APOD APOD: 2026 September 5 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Chasing the Moon’s […]",
+      "url": "https://science.nasa.gov/image-article/apod-2026-september-5-chasing-the-moons-shadow/"
     },
     {
       "category": "Theology",
@@ -137,6 +145,22 @@
       "date": "Fri, 04 Sep 2026 22:17:36 +0000",
       "summary": "In all, 3,700 internal agents posted 18,000 messages discussing cheating on a test.",
       "url": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/"
+    },
+    {
+      "category": "Space",
+      "title": "NASA Ames Fire Department Aircraft Firefighting Training",
+      "source": "NASA",
+      "date": "Fri, 04 Sep 2026 19:51:56 +0000",
+      "summary": "The fire department at NASA’s Ames Research Center in California’s Silicon Valley will perform training on the Moffett Federal Airfield beginning Tuesday, Sept. 8 through Friday, Sept. 11. The training will involve the use of a propane-fueled aircraft fire simulator and be conducted from 8 a.m. to 8 p.m. PDT. Because the aircraft simulator is […]",
+      "url": "https://www.nasa.gov/news-release/nasa-ames-fire-department-aircraft-firefighting-training/"
+    },
+    {
+      "category": "Space",
+      "title": "NASA Hosts Virtual Artemis Webinar for Blind, Low-Vision Community",
+      "source": "NASA",
+      "date": "Fri, 04 Sep 2026 16:48:59 +0000",
+      "summary": "NASA will host a virtual webinar at 2 p.m. EDT on Friday, Oct. 2, titled “The RS-25 Engine and the Future of Artemis Missions: An Accessible Webinar for the Blind and Low-Vision Community.” This webinar is open to the public, however it is tailored specifically for a blind and low-vision audience. The webinar will last about two hours and […]",
+      "url": "https://www.nasa.gov/general/nasa-hosts-virtual-artemis-webinar-for-blind-low-vision-community/"
     },
     {
       "category": "Theology",
