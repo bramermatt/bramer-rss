@@ -1,46 +1,102 @@
 {
-  "lastUpdated": "2026-09-06T13:19:18.634Z",
-  "articleCount": 36,
+  "lastUpdated": "2026-09-06T17:54:44.149Z",
+  "articleCount": 39,
   "articles": [
     {
+      "category": "AI",
+      "title": "Any Nix package, live in the browser",
+      "source": "Hacker News: Front Page",
+      "date": "Sun, 06 Sep 2026 17:00:56 +0000",
+      "summary": "Article URL: https://fzakaria.com/2026/09/04/any-nix-package-live-in-your-browser\nComments URL: https://news.ycombinator.com/item?id=49588475\nPoints: 26\n# Comments: 6",
+      "url": "https://fzakaria.com/2026/09/04/any-nix-package-live-in-your-browser"
+    },
+    {
+      "category": "AI",
+      "title": "Opalite Health (YC W26) Is Hiring – Founding GTM",
+      "source": "Hacker News: Front Page",
+      "date": "Sun, 06 Sep 2026 17:00:28 +0000",
+      "summary": "Article URL: https://www.ycombinator.com/companies/opalite-health/jobs/bNedVAD-founding-gtm\nComments URL: https://news.ycombinator.com/item?id=49588466\nPoints: 0\n# Comments: 0",
+      "url": "https://www.ycombinator.com/companies/opalite-health/jobs/bNedVAD-founding-gtm"
+    },
+    {
       "category": "Science",
-      "title": "How algorithms are making our environments bland",
+      "title": "Six unusual structures identified at Earth's core-mantle boundary with the help of deep learning",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Sun, 06 Sep 2026 09:00:02 EDT",
-      "summary": "The Pantone color of the year for 2026 is white. It's called Cloud Dancer, which is described as a \"lofty white.\" This choice reflects a growing trend away from color in our visual world.",
-      "url": "https://phys.org/news/2026-09-algorithms-environments-bland.html"
+      "date": "Sun, 06 Sep 2026 13:00:01 EDT",
+      "summary": "Since scientists can't drill 2,900 km (1,800 miles) to the boundary between Earth's core and deep mantle, they must use information relayed by seismic waves recorded during earthquakes to study this region. In a new study published in the journal JGR Solid Earth, a group of scientists used deep learning to study a large set of a specific type of seismic wave. The analysis revealed six continuous bands of irregularities at the core-mantle boundary (CMB) that had previously appeared only as sparse patches.",
+      "url": "https://phys.org/news/2026-09-unusual-earth-core-mantle-boundary.html"
     },
     {
       "category": "AI",
-      "title": "Schemy Lisp En DOS",
+      "title": "We monitor internal coding agents for misalignment",
       "source": "Hacker News: Front Page",
-      "date": "Sun, 06 Sep 2026 12:58:54 +0000",
-      "summary": "Article URL: https://sled.neocities.org/\nComments URL: https://news.ycombinator.com/item?id=49586139\nPoints: 3\n# Comments: 0",
-      "url": "https://sled.neocities.org/"
+      "date": "Sun, 06 Sep 2026 16:37:55 +0000",
+      "summary": "Article URL: https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment/\nComments URL: https://news.ycombinator.com/item?id=49588214\nPoints: 24\n# Comments: 10",
+      "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment/"
+    },
+    {
+      "category": "Space",
+      "title": " On this day in space! Sept. 6, 1947: The US Navy launches 1st V-2 rocket at sea in ballistic missile test ",
+      "source": " Latest from Space.com ",
+      "date": "Sun, 06 Sep 2026 16:23:04 +0000",
+      "summary": "On Sept. 6, 1947, a V-2 rocket launched from an U.S. Navy aircraft carrier for the first time. Here's why it mattered.",
+      "url": "https://www.space.com/space-exploration/on-this-day-in-space-september-6-2026"
     },
     {
       "category": "Science",
-      "title": "'Quiet' pulsar suddenly reveals three glitches in 15 years of observations",
+      "title": " AI's water use is a problem, but shifting from electricity to solar or wind power could help ",
+      "source": " Latest from Live Science ",
+      "date": "Sun, 06 Sep 2026 16:05:00 +0000",
+      "summary": "It depends. Though water consumption by data centers pales in comparison to that of some other industries, it's a problem in water-stressed regions. Water-saving cooling technologies could help.",
+      "url": "https://www.livescience.com/planet-earth/artificial-intelligence/ais-water-use-is-a-problem-but-shifting-from-electricity-to-solar-or-wind-power-could-help"
+    },
+    {
+      "category": "Science",
+      "title": " Ancient Egyptian tomb holding the king's 'keeper of secrets' unearthed at Saqqara ",
+      "source": " Latest from Live Science ",
+      "date": "Sun, 06 Sep 2026 16:05:00 +0000",
+      "summary": "The tomb of a pyramid-age official has been found at Saqqara in Egypt.",
+      "url": "https://www.livescience.com/archaeology/ancient-egyptians/ancient-egyptian-tomb-holding-the-kings-keeper-of-secrets-unearthed-at-saqqara"
+    },
+    {
+      "category": "Space",
+      "title": " SpaceX Falcon 9 rocket launches 27 Starlink satellites, lands on ship at sea (video) ",
+      "source": " Latest from Space.com ",
+      "date": "Sun, 06 Sep 2026 15:54:11 +0000",
+      "summary": "SpaceX launched yet another batch of its Starlink internet satellites today (Sept. 6), sending them up from California's central coast.",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink/group-15-24-launch-ocisly"
+    },
+    {
+      "category": "Science",
+      "title": "The extinct American 'cheetah' was not a cheetah after all",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Sun, 06 Sep 2026 08:40:03 EDT",
-      "summary": "Using more than 15 years of observations from the Parkes radio telescope, astronomers detected three rotational glitches in the pulsar PSR J1637−4642—a young neutron star that had shown no signs of glitches since its discovery. The three glitches included one that changed its rotation rate by nearly 3 parts per million. Their paper was posted to the arXiv preprint server on Aug. 20. It has been accepted for publication in the Astrophysical Journal Letters.",
-      "url": "https://phys.org/news/2026-09-quiet-pulsar-suddenly-reveals-glitches.html"
+      "date": "Sun, 06 Sep 2026 11:00:01 EDT",
+      "summary": "With their slender bodies and long front legs, Miracinonyx trumani—often nicknamed the \"American cheetah\"—was long thought to be a North American analog of the African big cat. But in a new study published in the journal Current Biology, researchers reveal that the extinct cat was more closely related to pumas. Some populations living near the Arctic preyed almost exclusively on fish, challenging the long-held assumption that these \"cheetahs\" chased fast-running prey, such as pronghorns.",
+      "url": "https://phys.org/news/2026-09-extinct-american-cheetah.html"
     },
     {
-      "category": "AI",
-      "title": "The pencil case model of creativity",
-      "source": "Hacker News: Front Page",
-      "date": "Sun, 06 Sep 2026 12:05:34 +0000",
-      "summary": "Article URL: https://dub.uu.nl/en/column/pencil-case-model-creativity\nComments URL: https://news.ycombinator.com/item?id=49585703\nPoints: 10\n# Comments: 0",
-      "url": "https://dub.uu.nl/en/column/pencil-case-model-creativity"
+      "category": "Space",
+      "title": " Feel the Force with these 10 out-of-this-world Lego Star Wars starships ",
+      "source": " Latest from Space.com ",
+      "date": "Sun, 06 Sep 2026 15:00:00 +0000",
+      "summary": "Whether you're a Jedi or a Sith, if you love Star Wars' iconic vessels you'll want to own these ten Lego Star Wars starships.",
+      "url": "https://www.space.com/entertainment/space-toys-lego/feel-the-force-with-these-ten-out-of-this-world-lego-star-wars-starships"
     },
     {
-      "category": "AI",
-      "title": "Intellectual Fly Is Open",
-      "source": "Hacker News: Front Page",
-      "date": "Sun, 06 Sep 2026 11:56:43 +0000",
-      "summary": "Article URL: https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/\nComments URL: https://news.ycombinator.com/item?id=49585644\nPoints: 79\n# Comments: 43",
-      "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/"
+      "category": "Science",
+      "title": "Extreme pressure turns blue pigment into record-long single-atom copper chains",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sun, 06 Sep 2026 10:20:01 EDT",
+      "summary": "As the electronics in our technology keep shrinking, traditional silicon-based chips are approaching their fundamental physical limits. Yet the wires connecting them might be able to shrink beyond conventional dimensions, as scientists have created one of the longest single-atom copper chains to date that could serve as molecular wires.",
+      "url": "https://phys.org/news/2026-09-extreme-pressure-blue-pigment-atom.html"
+    },
+    {
+      "category": "Science",
+      "title": " Stunning Roman-era mosaic discovered in Turkey features 'Emerald' the cat and 'Ocean' the dog ",
+      "source": " Latest from Live Science ",
+      "date": "Sun, 06 Sep 2026 13:30:00 +0000",
+      "summary": "A cat named Emerald and a dog named Ocean were memorialized in a Roman mosaic over 1,800 years ago.",
+      "url": "https://www.livescience.com/archaeology/romans/stunning-roman-era-mosaic-discovered-in-turkey-features-emerald-the-cat-and-ocean-the-dog"
     },
     {
       "category": "AI",
@@ -51,14 +107,6 @@
       "url": "https://arstechnica.com/space/2026/09/german-company-becomes-first-in-europe-to-launch-fully-commercial-orbital-rocket/"
     },
     {
-      "category": "Science",
-      "title": " 'Extreme' transistor can withstand heat of 1000-plus F — priming it for use in Venus-bound probes ",
-      "source": " Latest from Live Science ",
-      "date": "Sun, 06 Sep 2026 11:00:00 +0000",
-      "summary": "The silicon carbide transistor is designed to avoid low controllability and current leakage, which typically become problems at high temperatures.",
-      "url": "https://www.livescience.com/technology/electronics/extreme-transistor-can-withstand-heat-of-1000-plus-f-priming-it-for-use-in-venus-bound-probes"
-    },
-    {
       "category": "AI",
       "title": "Farmed salmon may not be as nutritious as it once was, new research suggests",
       "source": "Ars Technica - All content",
@@ -67,36 +115,20 @@
       "url": "https://arstechnica.com/science/2026/09/farmed-salmon-may-not-be-as-nutritious-as-it-once-was-new-research-suggests/"
     },
     {
-      "category": "Science",
-      "title": " James Webb telescope finds one of our galaxy's rarest stars inside the 'Treasure Chest' globule — Space photo of the week ",
-      "source": " Latest from Live Science ",
-      "date": "Sun, 06 Sep 2026 10:00:00 +0000",
-      "summary": "A dazzling new James Webb Space Telescope image reveals about 70 newborn stars buried inside a strangely shaped cloud in the Carina Nebula.",
-      "url": "https://www.livescience.com/space/astronomy/james-webb-telescope-finds-one-of-our-galaxys-rarest-stars-inside-the-treasure-chest-globule-space-photo-of-the-week"
+      "category": "AI",
+      "title": "An Alien Mind",
+      "source": "OpenAI News",
+      "date": "Sun, 06 Sep 2026 09:00:00 GMT",
+      "summary": "Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination.",
+      "url": "https://openai.com/index/an-alien-mind"
     },
     {
-      "category": "Space",
-      "title": " NASA expands Deep Space Network with giant new dish in California desert ",
-      "source": " Latest from Space.com ",
-      "date": "Sun, 06 Sep 2026 10:00:00 +0000",
-      "summary": "The new antenna will boost capacity on NASA's increasingly strained deep-space communications network as Artemis and other missions drive up demand.",
-      "url": "https://www.space.com/astronomy/nasa-expands-deep-space-network-with-giant-new-dish-in-california-desert"
-    },
-    {
-      "category": "Science",
-      "title": " How small can a transistor get? ",
-      "source": " Latest from Live Science ",
-      "date": "Sun, 06 Sep 2026 09:00:00 +0000",
-      "summary": "How small can a transistor actually get? And is smaller even still the goal?",
-      "url": "https://www.livescience.com/technology/electronics/how-small-can-a-transistor-get"
-    },
-    {
-      "category": "Science",
-      "title": "Germany's Isar Aerospace launches rocket into orbit from Norway",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sun, 06 Sep 2026 04:00:01 EDT",
-      "summary": "Germany's Isar Aerospace launched a rocket into orbit from Norway on Saturday as Europe races to boost its ability to economically send satellites into space independently of the United States.",
-      "url": "https://phys.org/news/2026-09-germany-isar-aerospace-rocket-orbit.html"
+      "category": "AI",
+      "title": "Research acceleration: The view inside OpenAI",
+      "source": "OpenAI News",
+      "date": "Sun, 06 Sep 2026 08:00:00 GMT",
+      "summary": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.",
+      "url": "https://openai.com/index/research-acceleration-view-inside-openai"
     },
     {
       "category": "Science",
@@ -132,19 +164,11 @@
     },
     {
       "category": "Space",
-      "title": " Venus is disappearing from the evening sky — here's how to see it while you can ",
-      "source": " Latest from Space.com ",
-      "date": "Sat, 05 Sep 2026 15:00:00 +0000",
-      "summary": "Venus is sinking lower into the sunset this September, but the brilliant Evening Star won't be gone for long.",
-      "url": "https://www.space.com/stargazing/venus-is-disappearing-from-the-evening-sky-heres-how-to-see-it-while-you-can"
-    },
-    {
-      "category": "Space",
-      "title": " This Lego Star Wars UCS AT-ST set is cheaper than ever — I'll always love this chicken walker ",
-      "source": " Latest from Space.com ",
-      "date": "Sat, 05 Sep 2026 14:00:00 +0000",
-      "summary": "Forget the AT-AT, the AT-ST is my favorite Star Wars land vehicle. Now, this massive Lego Star Wars Ultimate Collector Series AT-ST is $39 off at Amazon, its lowest ever price.",
-      "url": "https://www.space.com/entertainment/space-toys-lego/this-lego-star-wars-ucs-at-st-set-is-cheaper-than-ever-and-ill-always-love-this-chicken-walker"
+      "title": "APOD: 2026 September 5 – Chasing the Moon’s Shadow",
+      "source": "NASA",
+      "date": "Sat, 05 Sep 2026 04:05:00 +0000",
+      "summary": "APOD Science APOD APOD: 2026 September 5 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Chasing the Moon’s […]",
+      "url": "https://science.nasa.gov/image-article/apod-2026-september-5-chasing-the-moons-shadow/"
     },
     {
       "category": "Theology",
@@ -153,6 +177,22 @@
       "date": "Sat, 05 Sep 2026 04:02:00 +0000",
       "summary": "John Piper explains why he likes the ESV, how many copies he has, and what Bible translation he uses for his personal devotions.",
       "url": "https://www.thegospelcoalition.org/article/birthday-esv-john-piper/"
+    },
+    {
+      "category": "Space",
+      "title": "NASA Ames Fire Department Aircraft Firefighting Training",
+      "source": "NASA",
+      "date": "Fri, 04 Sep 2026 19:51:56 +0000",
+      "summary": "The fire department at NASA’s Ames Research Center in California’s Silicon Valley will perform training on the Moffett Federal Airfield beginning Tuesday, Sept. 8 through Friday, Sept. 11. The training will involve the use of a propane-fueled aircraft fire simulator and be conducted from 8 a.m. to 8 p.m. PDT. Because the aircraft simulator is […]",
+      "url": "https://www.nasa.gov/news-release/nasa-ames-fire-department-aircraft-firefighting-training/"
+    },
+    {
+      "category": "Space",
+      "title": "NASA Hosts Virtual Artemis Webinar for Blind, Low-Vision Community",
+      "source": "NASA",
+      "date": "Fri, 04 Sep 2026 16:48:59 +0000",
+      "summary": "NASA will host a virtual webinar at 2 p.m. EDT on Friday, Oct. 2, titled “The RS-25 Engine and the Future of Artemis Missions: An Accessible Webinar for the Blind and Low-Vision Community.” This webinar is open to the public, however it is tailored specifically for a blind and low-vision audience. The webinar will last about two hours and […]",
+      "url": "https://www.nasa.gov/general/nasa-hosts-virtual-artemis-webinar-for-blind-low-vision-community/"
     },
     {
       "category": "Theology",
@@ -185,22 +225,6 @@
       "date": "Thu, 03 Sep 2026 13:15:00 GMT",
       "summary": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services.",
       "url": "https://openai.com/index/daybreak-for-frontline-defenders"
-    },
-    {
-      "category": "AI",
-      "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
-      "source": "OpenAI News",
-      "date": "Thu, 03 Sep 2026 12:00:00 GMT",
-      "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
-      "url": "https://openai.com/index/playco-game-prototyping-with-astra"
-    },
-    {
-      "category": "AI",
-      "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-      "source": "OpenAI News",
-      "date": "Thu, 03 Sep 2026 12:00:00 GMT",
-      "summary": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
-      "url": "https://openai.com/index/legora-financial-statement-review-with-astra"
     },
     {
       "category": "Biblical Studies",
