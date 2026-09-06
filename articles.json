@@ -1,38 +1,70 @@
 {
-  "lastUpdated": "2026-09-06T17:54:44.149Z",
-  "articleCount": 39,
+  "lastUpdated": "2026-09-06T23:22:34.767Z",
+  "articleCount": 36,
   "articles": [
     {
       "category": "AI",
-      "title": "Any Nix package, live in the browser",
+      "title": "Political meddling at the Census Bureau damages the US statistical system",
       "source": "Hacker News: Front Page",
-      "date": "Sun, 06 Sep 2026 17:00:56 +0000",
-      "summary": "Article URL: https://fzakaria.com/2026/09/04/any-nix-package-live-in-your-browser\nComments URL: https://news.ycombinator.com/item?id=49588475\nPoints: 26\n# Comments: 6",
-      "url": "https://fzakaria.com/2026/09/04/any-nix-package-live-in-your-browser"
+      "date": "Sun, 06 Sep 2026 22:36:07 +0000",
+      "summary": "Article URL: https://www.piie.com/blogs/realtime-economics/2026/political-meddling-census-bureau-damages-entire-us-statistical-system\nComments URL: https://news.ycombinator.com/item?id=49591620\nPoints: 5\n# Comments: 0",
+      "url": "https://www.piie.com/blogs/realtime-economics/2026/political-meddling-census-bureau-damages-entire-us-statistical-system"
     },
     {
-      "category": "AI",
-      "title": "Opalite Health (YC W26) Is Hiring – Founding GTM",
-      "source": "Hacker News: Front Page",
-      "date": "Sun, 06 Sep 2026 17:00:28 +0000",
-      "summary": "Article URL: https://www.ycombinator.com/companies/opalite-health/jobs/bNedVAD-founding-gtm\nComments URL: https://news.ycombinator.com/item?id=49588466\nPoints: 0\n# Comments: 0",
-      "url": "https://www.ycombinator.com/companies/opalite-health/jobs/bNedVAD-founding-gtm"
+      "category": "History",
+      "title": "One Nation Under Law: The Meaning of the Declaration of Independence",
+      "source": "Journal of the American Revolution",
+      "date": "Sun, 06 Sep 2026 22:00:23 +0000",
+      "summary": "BOOK REVIEW: One Nation Under Law: The Meaning of the Declaration of Independence by Carlton F.W. Larson (Cambridge: Cambridge University Press, 2026. $33.00 paperback) Carlton F.W. Larson’s monograph One Nation Under Law: The Meaning of the Declaration of Independence published by Cambridge University Press, discusses the origins of the Declaration of Independence. Through looking at […]\nThe post One Nation Under Law: The Meaning of the Declaration of Independence appeared first on Journal of the American Revolution.",
+      "url": "https://allthingsliberty.com/2026/09/one-nation-under-law-the-meaning-of-the-declaration-of-independence/"
     },
     {
       "category": "Science",
-      "title": "Six unusual structures identified at Earth's core-mantle boundary with the help of deep learning",
+      "title": "Advanced optical imaging reveals hidden activity in blood immune cells",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Sun, 06 Sep 2026 13:00:01 EDT",
-      "summary": "Since scientists can't drill 2,900 km (1,800 miles) to the boundary between Earth's core and deep mantle, they must use information relayed by seismic waves recorded during earthquakes to study this region. In a new study published in the journal JGR Solid Earth, a group of scientists used deep learning to study a large set of a specific type of seismic wave. The analysis revealed six continuous bands of irregularities at the core-mantle boundary (CMB) that had previously appeared only as sparse patches.",
-      "url": "https://phys.org/news/2026-09-unusual-earth-core-mantle-boundary.html"
+      "date": "Sun, 06 Sep 2026 17:30:01 EDT",
+      "summary": "A routine blood sample contains a diverse collection of immune cells that can reveal important clues about health and disease. These cells, known as peripheral blood mononuclear cells (PBMCs), are widely used to study infections, autoimmune disorders, cancer and the immune system's response to treatment. Scientists typically identify these cells using fluorescent labels that attach to specific surface markers. While effective, those methods provide limited information about how the cells are functioning and can alter the cells during preparation. As reported in Biophotonics Discovery, a recent study shows how advanced optical imaging can reveal a previously inaccessible layer of information: the metabolic activity of individual immune cells within a complex blood sample.",
+      "url": "https://phys.org/news/2026-09-advanced-optical-imaging-reveals-hidden.html"
+    },
+    {
+      "category": "Science",
+      "title": "Popular brain supplement linked to shorter lifespan in men",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Sun, 06 Sep 2026 17:21:25 EDT",
+      "summary": "A large study involving more than 270,000 people has linked higher blood levels of the amino acid tyrosine to a shorter lifespan in men. Using both observational data and genetic analysis, researchers found that elevated tyrosine could potentially reduce male life expectancy by nearly a year, while no significant effect appeared in women. Tyrosine is found naturally in protein-rich foods and is also sold as a supplement for boosting focus and mental performance, making the finding especially intriguing.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260904000330.htm"
     },
     {
       "category": "AI",
-      "title": "We monitor internal coding agents for misalignment",
+      "title": "Windows 11's \"special\" developer edition looks like another marketing misfire",
       "source": "Hacker News: Front Page",
-      "date": "Sun, 06 Sep 2026 16:37:55 +0000",
-      "summary": "Article URL: https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment/\nComments URL: https://news.ycombinator.com/item?id=49588214\nPoints: 24\n# Comments: 10",
-      "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment/"
+      "date": "Sun, 06 Sep 2026 21:16:10 +0000",
+      "summary": "Article URL: https://www.neowin.net/opinions/windows-11s-special-developer-edition-sounds-like-yet-another-marketing-misfire/\nComments URL: https://news.ycombinator.com/item?id=49591036\nPoints: 32\n# Comments: 16",
+      "url": "https://www.neowin.net/opinions/windows-11s-special-developer-edition-sounds-like-yet-another-marketing-misfire/"
+    },
+    {
+      "category": "Science",
+      "title": "How bird movements are helping researchers track a global virus",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sun, 06 Sep 2026 17:00:01 EDT",
+      "summary": "While the highly virulent avian influenza strain has only recently been discovered on Australian shores, researchers at Deakin University have been working behind the scenes for years, anticipating what an outbreak might look like.",
+      "url": "https://phys.org/news/2026-08-bird-movements-track-global-virus.html"
+    },
+    {
+      "category": "AI",
+      "title": "Show HN: Mador – Make any DOM reactive with a tiny 80-line Proxy state tuple",
+      "source": "Hacker News: Front Page",
+      "date": "Sun, 06 Sep 2026 20:45:13 +0000",
+      "summary": "Article URL: https://github.com/marsbos/mador\nComments URL: https://news.ycombinator.com/item?id=49590738\nPoints: 47\n# Comments: 19",
+      "url": "https://github.com/marsbos/mador"
+    },
+    {
+      "category": "Science",
+      "title": "Small molecular substitutions reshape energy pathways behind aggregation-induced emission",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sun, 06 Sep 2026 14:30:01 EDT",
+      "summary": "Certain chemical substances, broadly called luminogens, have an inherent ability to emit light. Most fluorescent molecules emit light in solution but lose their emission in the solid state, where the molecules aggregate.",
+      "url": "https://phys.org/news/2026-09-small-molecular-substitutions-reshape-energy.html"
     },
     {
       "category": "Space",
@@ -67,28 +99,12 @@
       "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink/group-15-24-launch-ocisly"
     },
     {
-      "category": "Science",
-      "title": "The extinct American 'cheetah' was not a cheetah after all",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sun, 06 Sep 2026 11:00:01 EDT",
-      "summary": "With their slender bodies and long front legs, Miracinonyx trumani—often nicknamed the \"American cheetah\"—was long thought to be a North American analog of the African big cat. But in a new study published in the journal Current Biology, researchers reveal that the extinct cat was more closely related to pumas. Some populations living near the Arctic preyed almost exclusively on fish, challenging the long-held assumption that these \"cheetahs\" chased fast-running prey, such as pronghorns.",
-      "url": "https://phys.org/news/2026-09-extinct-american-cheetah.html"
-    },
-    {
       "category": "Space",
       "title": " Feel the Force with these 10 out-of-this-world Lego Star Wars starships ",
       "source": " Latest from Space.com ",
       "date": "Sun, 06 Sep 2026 15:00:00 +0000",
       "summary": "Whether you're a Jedi or a Sith, if you love Star Wars' iconic vessels you'll want to own these ten Lego Star Wars starships.",
       "url": "https://www.space.com/entertainment/space-toys-lego/feel-the-force-with-these-ten-out-of-this-world-lego-star-wars-starships"
-    },
-    {
-      "category": "Science",
-      "title": "Extreme pressure turns blue pigment into record-long single-atom copper chains",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sun, 06 Sep 2026 10:20:01 EDT",
-      "summary": "As the electronics in our technology keep shrinking, traditional silicon-based chips are approaching their fundamental physical limits. Yet the wires connecting them might be able to shrink beyond conventional dimensions, as scientists have created one of the longest single-atom copper chains to date that could serve as molecular wires.",
-      "url": "https://phys.org/news/2026-09-extreme-pressure-blue-pigment-atom.html"
     },
     {
       "category": "Science",
@@ -131,14 +147,6 @@
       "url": "https://openai.com/index/research-acceleration-view-inside-openai"
     },
     {
-      "category": "Science",
-      "title": "Indonesia’s most dangerous fires are burning underground",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Sun, 06 Sep 2026 03:57:45 EDT",
-      "summary": "Indonesia’s dangerous peat fires are surging early in the 2026 fire season as a strengthening El Niño and severe drought dry out wetlands that can burn underground for months. These slow smoldering fires are especially destructive because they release far more fine particles and several pollutants than typical tropical forest fires, while thick smoke can make them difficult for satellites to detect.",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260904000318.htm"
-    },
-    {
       "category": "Theology",
       "title": "‘No Tyndale, No Shakespeare’: How the Bible Made Modern English",
       "source": "The Gospel Coalition",
@@ -163,36 +171,12 @@
       "url": "https://arstechnica.com/cars/2026/09/teslas-cybercab-has-been-deployed-and-its-already-under-investigation/"
     },
     {
-      "category": "Space",
-      "title": "APOD: 2026 September 5 – Chasing the Moon’s Shadow",
-      "source": "NASA",
-      "date": "Sat, 05 Sep 2026 04:05:00 +0000",
-      "summary": "APOD Science APOD APOD: 2026 September 5 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Chasing the Moon’s […]",
-      "url": "https://science.nasa.gov/image-article/apod-2026-september-5-chasing-the-moons-shadow/"
-    },
-    {
       "category": "Theology",
       "title": "Happy 25th Birthday, ESV: Reflections from John Piper",
       "source": "The Gospel Coalition",
       "date": "Sat, 05 Sep 2026 04:02:00 +0000",
       "summary": "John Piper explains why he likes the ESV, how many copies he has, and what Bible translation he uses for his personal devotions.",
       "url": "https://www.thegospelcoalition.org/article/birthday-esv-john-piper/"
-    },
-    {
-      "category": "Space",
-      "title": "NASA Ames Fire Department Aircraft Firefighting Training",
-      "source": "NASA",
-      "date": "Fri, 04 Sep 2026 19:51:56 +0000",
-      "summary": "The fire department at NASA’s Ames Research Center in California’s Silicon Valley will perform training on the Moffett Federal Airfield beginning Tuesday, Sept. 8 through Friday, Sept. 11. The training will involve the use of a propane-fueled aircraft fire simulator and be conducted from 8 a.m. to 8 p.m. PDT. Because the aircraft simulator is […]",
-      "url": "https://www.nasa.gov/news-release/nasa-ames-fire-department-aircraft-firefighting-training/"
-    },
-    {
-      "category": "Space",
-      "title": "NASA Hosts Virtual Artemis Webinar for Blind, Low-Vision Community",
-      "source": "NASA",
-      "date": "Fri, 04 Sep 2026 16:48:59 +0000",
-      "summary": "NASA will host a virtual webinar at 2 p.m. EDT on Friday, Oct. 2, titled “The RS-25 Engine and the Future of Artemis Missions: An Accessible Webinar for the Blind and Low-Vision Community.” This webinar is open to the public, however it is tailored specifically for a blind and low-vision audience. The webinar will last about two hours and […]",
-      "url": "https://www.nasa.gov/general/nasa-hosts-virtual-artemis-webinar-for-blind-low-vision-community/"
     },
     {
       "category": "Theology",
@@ -273,14 +257,6 @@
       "date": "Mon, 31 Aug 2026 21:48:15 +0000",
       "summary": "If God threw down a proud angel from heaven, would he want a proud preacher in the pulpit? \nThe post Richard Baxter’s Advice to Pastors appeared first on 9Marks.",
       "url": "https://www.9marks.org/article/richard-baxters-advice-to-pastors/?utm_source=rss&utm_medium=rss&utm_campaign=richard-baxters-advice-to-pastors"
-    },
-    {
-      "category": "History",
-      "title": "Revolutionary War Soldiers of the Southern States",
-      "source": "Journal of the American Revolution",
-      "date": "Mon, 31 Aug 2026 13:33:06 +0000",
-      "summary": "BOOK REVIEW: Revolutionary War Soldiers of the Southern States, A Demographic View by Douglas R. Dorney Jr. (JAR Books Series/Westholme, 2026, $34.95 cloth) This text represents seven years of research, analysis and writing involving the examination and study of 8,579 Revolutionary War pension applications from four southern states, Virginia, North Carolina, South Carolina and Georgia. […]\nThe post Revolutionary War Soldiers of the Southern States appeared first on Journal of the American Revolution.",
-      "url": "https://allthingsliberty.com/2026/08/revolutionary-war-soldiers-of-the-southern-states/"
     },
     {
       "category": "Theology",
