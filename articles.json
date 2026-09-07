@@ -1,14 +1,150 @@
 {
-  "lastUpdated": "2026-09-06T23:22:34.767Z",
-  "articleCount": 36,
+  "lastUpdated": "2026-09-07T15:25:29.555Z",
+  "articleCount": 39,
   "articles": [
     {
+      "category": "Science",
+      "title": "A vital native bee highway can start in your own backyard",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Mon, 07 Sep 2026 11:20:05 EDT",
+      "summary": "When it comes to bees, most of us can identify the ubiquitous honey bee (Apis mellifera) and that's about it.",
+      "url": "https://phys.org/news/2026-09-vital-native-bee-highway-backyard.html"
+    },
+    {
+      "category": "Science",
+      "title": "How 'hyperselection' is making modern life efficient, pleasant—and boring",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Mon, 07 Sep 2026 11:20:03 EDT",
+      "summary": "It's difficult to imagine a song like Queen's 1975 \"Bohemian Rhapsody\" topping the charts today. Almost six minutes long, it moves through several radically different musical sections and famously ignores the conventional structure of a pop song. It seems almost designed to break the rules of what a hit single should be.",
+      "url": "https://phys.org/news/2026-09-hyperselection-modern-life-efficient-pleasant.html"
+    },
+    {
+      "category": "Science",
+      "title": "Two-color X-ray pulses capture the same nanoparticle at two moments in time",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Mon, 07 Sep 2026 11:00:07 EDT",
+      "summary": "One big dream of ultrafast science has been to watch changes in nanoparticles or biomolecules on their natural timescale. Experimentally, this can be realized by taking two snapshots of the same object only femtoseconds apart. However, no detector is fast enough to record the two snapshots separately—they end up on top of each other in a single image.",
+      "url": "https://phys.org/news/2026-09-ray-pulses-capture-nanoparticle-moments.html"
+    },
+    {
+      "category": "Space",
+      "title": " On this day in space! Sept. 7, 1995: NASA launches its 100th astronaut flight on space shuttle Endeavour's STS-69 mission ",
+      "source": " Latest from Space.com ",
+      "date": "Mon, 07 Sep 2026 14:47:05 +0000",
+      "summary": "On Sept. 7, 1995, the space shuttle Endeavour launched on mission STS-69, NASA's 100th astronaut flight. Here's why it mattered.",
+      "url": "https://www.space.com/space-exploration/on-this-day-in-space-september-7-2026"
+    },
+    {
+      "category": "Space",
+      "title": " Galaxies tangled in science and spirit | Space photo of the day for Sept. 7, 2026 ",
+      "source": " Latest from Space.com ",
+      "date": "Mon, 07 Sep 2026 14:00:00 +0000",
+      "summary": "\"Astronomy is not just science or spirit; it's both at the same time.\"",
+      "url": "https://www.space.com/astronomy/galaxies/galaxies-tangled-in-science-and-spirit-space-photo-of-the-day-for-sept-7-2026"
+    },
+    {
       "category": "AI",
-      "title": "Political meddling at the Census Bureau damages the US statistical system",
+      "title": "bzip3",
       "source": "Hacker News: Front Page",
-      "date": "Sun, 06 Sep 2026 22:36:07 +0000",
-      "summary": "Article URL: https://www.piie.com/blogs/realtime-economics/2026/political-meddling-census-bureau-damages-entire-us-statistical-system\nComments URL: https://news.ycombinator.com/item?id=49591620\nPoints: 5\n# Comments: 0",
-      "url": "https://www.piie.com/blogs/realtime-economics/2026/political-meddling-census-bureau-damages-entire-us-statistical-system"
+      "date": "Mon, 07 Sep 2026 13:35:13 +0000",
+      "summary": "Article URL: https://github.com/iczelia/bzip3\nComments URL: https://news.ycombinator.com/item?id=49598291\nPoints: 77\n# Comments: 21",
+      "url": "https://github.com/iczelia/bzip3"
+    },
+    {
+      "category": "AI",
+      "title": "De-Brainrot Vacations",
+      "source": "Hacker News: Front Page",
+      "date": "Mon, 07 Sep 2026 13:00:48 +0000",
+      "summary": "Article URL: https://devz.cl/posts/i-spent-my-vacations-de-brainrotting/\nComments URL: https://news.ycombinator.com/item?id=49597907\nPoints: 215\n# Comments: 84",
+      "url": "https://devz.cl/posts/i-spent-my-vacations-de-brainrotting/"
+    },
+    {
+      "category": "Space",
+      "title": " The future of Earth observation: Private satellites and AI bring benefits but also pose risks ",
+      "source": " Latest from Space.com ",
+      "date": "Mon, 07 Sep 2026 13:00:00 +0000",
+      "summary": "We've entered a new world of Earth observation, in which artificial intelligence helps researchers make sense of an ever-glowing glut of privately gathered data.",
+      "url": "https://www.space.com/astronomy/earth/the-future-of-earth-observation-private-satellites-and-ai-bring-benefits-but-also-pose-risks"
+    },
+    {
+      "category": "AI",
+      "title": "Splash-free urinals (2025)",
+      "source": "Hacker News: Front Page",
+      "date": "Mon, 07 Sep 2026 12:58:57 +0000",
+      "summary": "Article URL: https://academic.oup.com/pnasnexus/article/4/4/pgaf087/8098745?login=false\nComments URL: https://news.ycombinator.com/item?id=49597895\nPoints: 120\n# Comments: 59",
+      "url": "https://academic.oup.com/pnasnexus/article/4/4/pgaf087/8098745?login=false"
+    },
+    {
+      "category": "Science",
+      "title": " Are there nuclear weapons hidden in space? Why a 60-year ban on space nukes has been impossible to enforce ",
+      "source": " Latest from Live Science ",
+      "date": "Mon, 07 Sep 2026 12:00:00 +0000",
+      "summary": "Nuclear weapons have been banned from space for nearly 60 years. A new detection method could help verify whether nations are keeping that promise.",
+      "url": "https://www.livescience.com/space/space-exploration/are-there-nuclear-weapons-hidden-in-space-why-a-60-year-ban-on-space-nukes-has-been-impossible-to-enforce"
+    },
+    {
+      "category": "AI",
+      "title": "The complex corporate web behind a $3.2 billion AI data center",
+      "source": "Ars Technica - All content",
+      "date": "Mon, 07 Sep 2026 11:00:03 +0000",
+      "summary": "When multiple companies are behind one project, who bears responsibility for problems?",
+      "url": "https://arstechnica.com/ai/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/"
+    },
+    {
+      "category": "Biblical Studies",
+      "title": "Were the Greek Gods Actually Minoan?",
+      "source": "Biblical Archaeology Society",
+      "date": "Mon, 07 Sep 2026 10:45:16 +0000",
+      "summary": "Long before the world of classical Greece, the island of Crete was home to the Minoans, one of the great civilizations of the Bronze Age Mediterranean. […]\nThe post Were the Greek Gods Actually Minoan? appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/were-greek-gods-actually-minoan/"
+    },
+    {
+      "category": "Science",
+      "title": " Guldhøj folding chair: The only completely preserved chair from Bronze Age Europe ",
+      "source": " Latest from Live Science ",
+      "date": "Mon, 07 Sep 2026 10:00:00 +0000",
+      "summary": "The remarkably preserved wooden folding chair was likely a status symbol and was found in the grave of a Bronze Age chieftain.",
+      "url": "https://www.livescience.com/archaeology/guldhoj-folding-chair-the-only-completely-preserved-chair-from-bronze-age-europe"
+    },
+    {
+      "category": "Space",
+      "title": "APOD: 2026 September 7 – The Pelican Nebula in Gas, Dust, and Stars",
+      "source": "NASA",
+      "date": "Mon, 07 Sep 2026 04:05:00 +0000",
+      "summary": "APOD Science APOD APOD: 2026 September 7 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. The Pelican […]",
+      "url": "https://science.nasa.gov/image-article/apod-2026-september-7-the-pelican-nebula-in-gas-dust-and-stars/"
+    },
+    {
+      "category": "Theology",
+      "title": "Planning a Preaching Calendar",
+      "source": "The Gospel Coalition",
+      "date": "Mon, 07 Sep 2026 04:04:43 +0000",
+      "summary": "Matt Smethurst and Ligon Duncan discuss how thoughtful preaching calendars help pastors faithfully feed their people, preach the whole counsel of God, and plan ahead without quenching the Spirit.",
+      "url": "https://www.thegospelcoalition.org/podcasts/everyday-pastor/planning-preaching-calendar/"
+    },
+    {
+      "category": "Space",
+      "title": "A Bright Spot at Mount Michael",
+      "source": "NASA",
+      "date": "Mon, 07 Sep 2026 04:01:00 +0000",
+      "summary": "With austral winter nearing its end, clouds cleared for a satellite view of volcanic activity in the remote South Atlantic.",
+      "url": "https://science.nasa.gov/earth/earth-observatory/a-bright-spot-at-mount-michael/"
+    },
+    {
+      "category": "Theology",
+      "title": "Hire Wisely from a Stack of AI Résumés",
+      "source": "The Gospel Coalition",
+      "date": "Mon, 07 Sep 2026 04:00:00 +0000",
+      "summary": "From 2021 to 2024, the number of applications per hire tripled—many of them created using AI. Managers say this has added another layer of discernment to the hiring process.",
+      "url": "https://www.thegospelcoalition.org/article/wisely-hire-ai-resumes/"
+    },
+    {
+      "category": "AI",
+      "title": "Supporting independent journalism in Ukraine",
+      "source": "OpenAI News",
+      "date": "Mon, 07 Sep 2026 00:00:00 GMT",
+      "summary": "OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism.",
+      "url": "https://openai.com/index/supporting-independent-journalism-in-ukraine"
     },
     {
       "category": "History",
@@ -20,14 +156,6 @@
     },
     {
       "category": "Science",
-      "title": "Advanced optical imaging reveals hidden activity in blood immune cells",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sun, 06 Sep 2026 17:30:01 EDT",
-      "summary": "A routine blood sample contains a diverse collection of immune cells that can reveal important clues about health and disease. These cells, known as peripheral blood mononuclear cells (PBMCs), are widely used to study infections, autoimmune disorders, cancer and the immune system's response to treatment. Scientists typically identify these cells using fluorescent labels that attach to specific surface markers. While effective, those methods provide limited information about how the cells are functioning and can alter the cells during preparation. As reported in Biophotonics Discovery, a recent study shows how advanced optical imaging can reveal a previously inaccessible layer of information: the metabolic activity of individual immune cells within a complex blood sample.",
-      "url": "https://phys.org/news/2026-09-advanced-optical-imaging-reveals-hidden.html"
-    },
-    {
-      "category": "Science",
       "title": "Popular brain supplement linked to shorter lifespan in men",
       "source": "All Top News -- ScienceDaily",
       "date": "Sun, 06 Sep 2026 17:21:25 EDT",
@@ -35,84 +163,12 @@
       "url": "https://www.sciencedaily.com/releases/2026/09/260904000330.htm"
     },
     {
-      "category": "AI",
-      "title": "Windows 11's \"special\" developer edition looks like another marketing misfire",
-      "source": "Hacker News: Front Page",
-      "date": "Sun, 06 Sep 2026 21:16:10 +0000",
-      "summary": "Article URL: https://www.neowin.net/opinions/windows-11s-special-developer-edition-sounds-like-yet-another-marketing-misfire/\nComments URL: https://news.ycombinator.com/item?id=49591036\nPoints: 32\n# Comments: 16",
-      "url": "https://www.neowin.net/opinions/windows-11s-special-developer-edition-sounds-like-yet-another-marketing-misfire/"
-    },
-    {
-      "category": "Science",
-      "title": "How bird movements are helping researchers track a global virus",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sun, 06 Sep 2026 17:00:01 EDT",
-      "summary": "While the highly virulent avian influenza strain has only recently been discovered on Australian shores, researchers at Deakin University have been working behind the scenes for years, anticipating what an outbreak might look like.",
-      "url": "https://phys.org/news/2026-08-bird-movements-track-global-virus.html"
-    },
-    {
-      "category": "AI",
-      "title": "Show HN: Mador – Make any DOM reactive with a tiny 80-line Proxy state tuple",
-      "source": "Hacker News: Front Page",
-      "date": "Sun, 06 Sep 2026 20:45:13 +0000",
-      "summary": "Article URL: https://github.com/marsbos/mador\nComments URL: https://news.ycombinator.com/item?id=49590738\nPoints: 47\n# Comments: 19",
-      "url": "https://github.com/marsbos/mador"
-    },
-    {
-      "category": "Science",
-      "title": "Small molecular substitutions reshape energy pathways behind aggregation-induced emission",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sun, 06 Sep 2026 14:30:01 EDT",
-      "summary": "Certain chemical substances, broadly called luminogens, have an inherent ability to emit light. Most fluorescent molecules emit light in solution but lose their emission in the solid state, where the molecules aggregate.",
-      "url": "https://phys.org/news/2026-09-small-molecular-substitutions-reshape-energy.html"
-    },
-    {
-      "category": "Space",
-      "title": " On this day in space! Sept. 6, 1947: The US Navy launches 1st V-2 rocket at sea in ballistic missile test ",
-      "source": " Latest from Space.com ",
-      "date": "Sun, 06 Sep 2026 16:23:04 +0000",
-      "summary": "On Sept. 6, 1947, a V-2 rocket launched from an U.S. Navy aircraft carrier for the first time. Here's why it mattered.",
-      "url": "https://www.space.com/space-exploration/on-this-day-in-space-september-6-2026"
-    },
-    {
       "category": "Science",
       "title": " AI's water use is a problem, but shifting from electricity to solar or wind power could help ",
       "source": " Latest from Live Science ",
       "date": "Sun, 06 Sep 2026 16:05:00 +0000",
-      "summary": "It depends. Though water consumption by data centers pales in comparison to that of some other industries, it's a problem in water-stressed regions. Water-saving cooling technologies could help.",
+      "summary": "Though water consumption by data centers pales in comparison to that of some other industries, it's a problem in water-stressed regions. Water-saving cooling technologies could help.",
       "url": "https://www.livescience.com/planet-earth/artificial-intelligence/ais-water-use-is-a-problem-but-shifting-from-electricity-to-solar-or-wind-power-could-help"
-    },
-    {
-      "category": "Science",
-      "title": " Ancient Egyptian tomb holding the king's 'keeper of secrets' unearthed at Saqqara ",
-      "source": " Latest from Live Science ",
-      "date": "Sun, 06 Sep 2026 16:05:00 +0000",
-      "summary": "The tomb of a pyramid-age official has been found at Saqqara in Egypt.",
-      "url": "https://www.livescience.com/archaeology/ancient-egyptians/ancient-egyptian-tomb-holding-the-kings-keeper-of-secrets-unearthed-at-saqqara"
-    },
-    {
-      "category": "Space",
-      "title": " SpaceX Falcon 9 rocket launches 27 Starlink satellites, lands on ship at sea (video) ",
-      "source": " Latest from Space.com ",
-      "date": "Sun, 06 Sep 2026 15:54:11 +0000",
-      "summary": "SpaceX launched yet another batch of its Starlink internet satellites today (Sept. 6), sending them up from California's central coast.",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink/group-15-24-launch-ocisly"
-    },
-    {
-      "category": "Space",
-      "title": " Feel the Force with these 10 out-of-this-world Lego Star Wars starships ",
-      "source": " Latest from Space.com ",
-      "date": "Sun, 06 Sep 2026 15:00:00 +0000",
-      "summary": "Whether you're a Jedi or a Sith, if you love Star Wars' iconic vessels you'll want to own these ten Lego Star Wars starships.",
-      "url": "https://www.space.com/entertainment/space-toys-lego/feel-the-force-with-these-ten-out-of-this-world-lego-star-wars-starships"
-    },
-    {
-      "category": "Science",
-      "title": " Stunning Roman-era mosaic discovered in Turkey features 'Emerald' the cat and 'Ocean' the dog ",
-      "source": " Latest from Live Science ",
-      "date": "Sun, 06 Sep 2026 13:30:00 +0000",
-      "summary": "A cat named Emerald and a dog named Ocean were memorialized in a Roman mosaic over 1,800 years ago.",
-      "url": "https://www.livescience.com/archaeology/romans/stunning-roman-era-mosaic-discovered-in-turkey-features-emerald-the-cat-and-ocean-the-dog"
     },
     {
       "category": "AI",
@@ -163,28 +219,12 @@
       "url": "https://www.sciencedaily.com/releases/2026/09/260904000328.htm"
     },
     {
-      "category": "AI",
-      "title": "Tesla’s Cybercab has been deployed, and it’s already under investigation",
-      "source": "Ars Technica - All content",
-      "date": "Sat, 05 Sep 2026 15:17:36 +0000",
-      "summary": "The US government is investigating whether the Cybercab meets vehicle safety standards.",
-      "url": "https://arstechnica.com/cars/2026/09/teslas-cybercab-has-been-deployed-and-its-already-under-investigation/"
-    },
-    {
-      "category": "Theology",
-      "title": "Happy 25th Birthday, ESV: Reflections from John Piper",
-      "source": "The Gospel Coalition",
-      "date": "Sat, 05 Sep 2026 04:02:00 +0000",
-      "summary": "John Piper explains why he likes the ESV, how many copies he has, and what Bible translation he uses for his personal devotions.",
-      "url": "https://www.thegospelcoalition.org/article/birthday-esv-john-piper/"
-    },
-    {
-      "category": "Theology",
-      "title": "Update on Our Content and Editorial Standards",
-      "source": "The Gospel Coalition",
-      "date": "Fri, 04 Sep 2026 16:00:53 +0000",
-      "summary": "TGC’s Board recommended bringing all our content under the same editorial standards.",
-      "url": "https://www.thegospelcoalition.org/article/update-content-editorial-standards/"
+      "category": "Space",
+      "title": "APOD: 2026 September 5 – Chasing the Moon’s Shadow",
+      "source": "NASA",
+      "date": "Sat, 05 Sep 2026 04:05:00 +0000",
+      "summary": "APOD Science APOD APOD: 2026 September 5 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Chasing the Moon’s […]",
+      "url": "https://science.nasa.gov/image-article/apod-2026-september-5-chasing-the-moons-shadow/"
     },
     {
       "category": "Science",
@@ -203,28 +243,12 @@
       "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-egypt/lost-city-found-on-egypts-way-of-horus/"
     },
     {
-      "category": "AI",
-      "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
-      "source": "OpenAI News",
-      "date": "Thu, 03 Sep 2026 13:15:00 GMT",
-      "summary": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services.",
-      "url": "https://openai.com/index/daybreak-for-frontline-defenders"
-    },
-    {
       "category": "Biblical Studies",
       "title": "Antiochus Epiphanes—The Bible’s Most Notoriously Forgotten Villain",
       "source": "Biblical Archaeology Society",
       "date": "Thu, 03 Sep 2026 11:00:29 +0000",
       "summary": "Many names come to mind when someone mentions the great “villains” of the Bible. Some are foreign powers, like the Pharaoh of the Exodus or […]\nThe post Antiochus Epiphanes—The Bible’s Most Notoriously Forgotten Villain appeared first on Biblical Archaeology Society.",
       "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-israel/antiochus-epiphanes-the-bibles-most-notoriously-forgotten-villain/"
-    },
-    {
-      "category": "Biblical Studies",
-      "title": "Paul and the Slave Girl in Philippi",
-      "source": "Biblical Archaeology Society",
-      "date": "Thu, 03 Sep 2026 11:00:21 +0000",
-      "summary": "Some may be surprised that a passage in the Bible has a connection to Python from Greek mythology. \nThe post Paul and the Slave Girl in Philippi appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/daily/people-cultures-in-the-bible/people-in-the-bible/paul-and-the-slave-girl-in-philippi/"
     },
     {
       "category": "History",
