@@ -1,54 +1,166 @@
 {
-  "lastUpdated": "2026-09-07T23:53:03.831Z",
-  "articleCount": 36,
+  "lastUpdated": "2026-09-08T14:01:42.344Z",
+  "articleCount": 39,
   "articles": [
     {
       "category": "Science",
-      "title": "How Indigenous Protected Areas became a vital way to protect nature in Australia",
+      "title": "Superfluid qubit could help scale up quantum computers",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Mon, 07 Sep 2026 19:20:01 EDT",
-      "summary": "When you think of conservation in Australia, chances are you'll think of a national park.",
-      "url": "https://phys.org/news/2026-09-indigenous-areas-vital-nature-australia.html"
-    },
-    {
-      "category": "AI",
-      "title": "Show HN: Stuxnet – A reconstructed source code of the infamous cyber-weapon",
-      "source": "Hacker News: Front Page",
-      "date": "Mon, 07 Sep 2026 22:12:38 +0000",
-      "summary": "Stuxnet! Here reproduced by me. Only researchs educations purposes.\nComments URL: https://news.ycombinator.com/item?id=49603546\nPoints: 14\n# Comments: 3",
-      "url": "https://github.com/Sadpainy/Stuxnet"
+      "date": "Tue, 08 Sep 2026 10:00:05 EDT",
+      "summary": "Superfluid helium could offer a new way to tackle one of the biggest challenges in scaling up quantum computers, say researchers from the University of Surrey. The research team has introduced a conceptual design for a new type of qubit that could be much less vulnerable to errors.",
+      "url": "https://phys.org/news/2026-09-superfluid-qubit-scale-quantum.html"
     },
     {
       "category": "Science",
-      "title": "Park rangers and residents speak up to save Togo's last national park",
+      "title": "First national map reveals where Ireland's coast is most exposed to erosion and flooding",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Mon, 07 Sep 2026 18:00:09 EDT",
-      "summary": "A few years ago, I drove with an old friend from Togo, West Africa, towards the country's last remaining large protected area, Fazao-Malfakassa National Park. Our destination was the Hotel Fazao, where his uncle had once worked as a professional chef after its opening in 1980. For decades, while the park was managed by the Swiss Franz Weber Foundation (FWF), the hotel had hosted tourists from around the world who came to see elephants, monkeys, and other wildlife for which Africa is famous.",
-      "url": "https://phys.org/news/2026-09-rangers-residents-togo-national.html"
+      "date": "Tue, 08 Sep 2026 10:00:03 EDT",
+      "summary": "The first national map of Ireland's exposure to climate hazards, including rising sea levels and storm surges, has identified the stretches of coastline facing the greatest pressures, providing critical new evidence to support coastal management and climate adaptation.",
+      "url": "https://phys.org/news/2026-09-national-reveals-ireland-coast-exposed.html"
     },
     {
       "category": "Science",
-      "title": "AI governance model inspired by Pope Leo XIV aims to put ethics first",
+      "title": "Scientists discover a powerful new antivenom hidden in rattlesnake blood",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Tue, 08 Sep 2026 09:54:56 EDT",
+      "summary": "Researchers discovered that combinations of toxin-blocking proteins naturally found in rattlesnake blood can powerfully neutralize venom from several dangerous snake species. In lab tests, the mixtures were about 10 times more potent than a current commercial antivenom, pointing toward a new generation of nature-inspired snakebite treatments.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260907201605.htm"
+    },
+    {
+      "category": "Science",
+      "title": "Plateau pikas, long considered pests, can help livestock eat well",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Mon, 07 Sep 2026 17:40:02 EDT",
-      "summary": "Researchers at the John Paul II Catholic University of Lublin (KUL) and the University of Eastern Finland have developed a new model of artificial intelligence governance inspired by the teachings of Pope Leo XIV as set out in his encyclical Magnifica Humanitas. The new model is intended to ensure that AI technologies are developed and used safely, fairly and with full respect for human rights.",
-      "url": "https://phys.org/news/2026-09-ai-pope-leo-xiv-aims.html"
+      "date": "Tue, 08 Sep 2026 09:40:04 EDT",
+      "summary": "Small mammals called plateau pikas are often treated as pests because they compete with livestock for food, but research from China shows they can improve the quality of vegetation for grazing yaks.",
+      "url": "https://phys.org/news/2026-09-plateau-pikas-pests-livestock.html"
     },
     {
       "category": "AI",
-      "title": "The Education of a Doomer",
+      "title": "DaVinci Resolve 21.1",
       "source": "Hacker News: Front Page",
-      "date": "Mon, 07 Sep 2026 21:19:12 +0000",
-      "summary": "Article URL: https://borretti.me/article/the-education-of-a-doomer\nComments URL: https://news.ycombinator.com/item?id=49603092\nPoints: 45\n# Comments: 35",
-      "url": "https://borretti.me/article/the-education-of-a-doomer"
+      "date": "Tue, 08 Sep 2026 13:36:53 +0000",
+      "summary": "Article URL: https://www.blackmagicdesign.com/media/release/20260908-03\nComments URL: https://news.ycombinator.com/item?id=49610181\nPoints: 5\n# Comments: 0",
+      "url": "https://www.blackmagicdesign.com/media/release/20260908-03"
     },
     {
       "category": "AI",
-      "title": "Working on Economics with Fable 5",
+      "title": "Show HN: Copperhead – Hardware as Fast as Software",
       "source": "Hacker News: Front Page",
-      "date": "Mon, 07 Sep 2026 21:18:15 +0000",
-      "summary": "Article URL: https://wilsoniumite.com/2026/08/03/working-on-economics-with-fable-5/\nComments URL: https://news.ycombinator.com/item?id=49603086\nPoints: 32\n# Comments: 16",
-      "url": "https://wilsoniumite.com/2026/08/03/working-on-economics-with-fable-5/"
+      "date": "Tue, 08 Sep 2026 13:26:45 +0000",
+      "summary": "Article URL: https://copperhead.sh/\nComments URL: https://news.ycombinator.com/item?id=49610059\nPoints: 15\n# Comments: 1",
+      "url": "https://copperhead.sh/"
+    },
+    {
+      "category": "Space",
+      "title": " The rise of 'quantum gravity?' Einstein's theory seen in the quantum realm for 1st time ",
+      "source": " Latest from Space.com ",
+      "date": "Tue, 08 Sep 2026 13:00:00 +0000",
+      "summary": "Scientists have spotted the first hints that Einstein's formulation of gravity operates in the quantum realm.",
+      "url": "https://www.space.com/science/particle-physics/the-rise-of-quantum-gravity-einsteins-theory-seen-in-the-quantum-realm-for-1st-time"
+    },
+    {
+      "category": "AI",
+      "title": "The Work Now Within Reach",
+      "source": "OpenAI News",
+      "date": "Tue, 08 Sep 2026 13:00:00 GMT",
+      "summary": "Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical.",
+      "url": "https://openai.com/index/the-work-now-within-reach"
+    },
+    {
+      "category": "Science",
+      "title": "Ozempic and Wegovy may have an unexpected mental health benefit",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Tue, 08 Sep 2026 08:59:00 EDT",
+      "summary": "Semaglutide, the drug behind Ozempic and Wegovy, may have benefits that extend well beyond weight loss and diabetes. In a large Swedish study of nearly 15,000 people with bipolar disorder, its use was linked to a 21% lower risk of psychiatric hospitalization. Researchers think effects on inflammation and brain-related biological pathways could help stabilize mood, though other GLP-1 drugs did not show the same association.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260907201601.htm"
+    },
+    {
+      "category": "Science",
+      "title": "Giant new dinosaur discovered beneath construction site in Brazil",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Tue, 08 Sep 2026 08:42:29 EDT",
+      "summary": "Scientists have identified a giant new dinosaur from Brazil that reached about 20 meters long and lived 120 million years ago. Its surprising evolutionary ties to a Spanish dinosaur suggest its ancestors crossed ancient land connections between Europe, Africa, and South America.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260907201603.htm"
+    },
+    {
+      "category": "AI",
+      "title": "PISA 2025 Students' reading and mathematics performance declined across the OECD",
+      "source": "Hacker News: Front Page",
+      "date": "Tue, 08 Sep 2026 11:13:03 +0000",
+      "summary": "Article URL: https://www.oecd.org/en/about/news/press-releases/2026/09/pisa-2025-students-reading-and-mathematics-performance-declined-sharply-across-the-oecd.html\nComments URL: https://news.ycombinator.com/item?id=49608697\nPoints: 69\n# Comments: 59",
+      "url": "https://www.oecd.org/en/about/news/press-releases/2026/09/pisa-2025-students-reading-and-mathematics-performance-declined-sharply-across-the-oecd.html"
+    },
+    {
+      "category": "Space",
+      "title": " The Vela Incident: Did an American satellite detect a secret nuclear test in 1979? ",
+      "source": " Latest from Space.com ",
+      "date": "Tue, 08 Sep 2026 10:00:00 +0000",
+      "summary": "Was an usual flash detected off the coast of South Africa by an American satellite caused by a secretive atmospheric nuclear test?",
+      "url": "https://www.space.com/space-exploration/satellites/the-vela-incident-did-an-american-satellite-detect-a-secret-nuclear-test-in-1979"
+    },
+    {
+      "category": "Science",
+      "title": " 25 years ago, a NASA astronaut captured this haunting photo of the 9/11 attacks — Earth from space ",
+      "source": " Latest from Live Science ",
+      "date": "Tue, 08 Sep 2026 07:00:00 +0000",
+      "summary": "During the Sept. 11 attacks, NASA astronaut Frank Culbertson — the only American not on Earth at the time — snapped a \"sobering\" shot of smoke pouring across New York City as the second tower fell.",
+      "url": "https://www.livescience.com/planet-earth/25-years-ago-a-nasa-astronaut-captured-this-haunting-photo-of-the-9-11-attacks-earth-from-space"
+    },
+    {
+      "category": "Science",
+      "title": " Eerily humanlike AI-powered robot enters mass production in China — its makers say it could soon be helping you out at home ",
+      "source": " Latest from Live Science ",
+      "date": "Tue, 08 Sep 2026 06:00:00 +0000",
+      "summary": "Xpeng's engineers have designed a humanoid robot that they say is the first in the world that will walk itself off the production line.",
+      "url": "https://www.livescience.com/technology/robotics/eerily-humanlike-ai-powered-robot-enters-mass-production-in-china-its-makers-say-it-could-soon-be-helping-you-out-at-home"
+    },
+    {
+      "category": "Space",
+      "title": "APOD: 2026 September 8 – Hubble: Decagon Around Saturn’s South Pole",
+      "source": "NASA",
+      "date": "Tue, 08 Sep 2026 04:05:00 +0000",
+      "summary": "APOD Science APOD APOD: 2026 September 8 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Hubble: Decagon Around […]",
+      "url": "https://science.nasa.gov/image-article/apod-2026-september-8-hubble-decagon-around-saturns-south-pole/"
+    },
+    {
+      "category": "Theology",
+      "title": "Why AI Will Write Your Next Sermon",
+      "source": "The Gospel Coalition",
+      "date": "Tue, 08 Sep 2026 04:04:50 +0000",
+      "summary": "Collin Hansen explains the vision that guided AI pioneers and the pastoral pressures that drive AI adoption, including for composing sermons.",
+      "url": "https://www.thegospelcoalition.org/podcasts/gospelbound/ai-write-next-sermon/"
+    },
+    {
+      "category": "Theology",
+      "title": "Why Adult Children Are Cutting Off Their Parents",
+      "source": "The Gospel Coalition",
+      "date": "Tue, 08 Sep 2026 04:02:00 +0000",
+      "summary": "In ‘No Contact,’ Mering reminds us that our hope isn’t in getting our parenting right but in the renewal of all things through the cross and resurrection.",
+      "url": "https://www.thegospelcoalition.org/reviews/no-contact-break-family/"
+    },
+    {
+      "category": "Space",
+      "title": "The Otherworldly Geology of Vasquez Rocks",
+      "source": "NASA",
+      "date": "Tue, 08 Sep 2026 04:01:00 +0000",
+      "summary": "Layers of sedimentary rock that jut from the Soledad Basin at surprising angles have long enthralled television and film producers, including the team behind Star Trek.",
+      "url": "https://science.nasa.gov/earth/earth-observatory/the-otherworldly-geology-of-vasquez-rocks/"
+    },
+    {
+      "category": "Theology",
+      "title": "Young Adult Sorrows Need an Ancient Remedy",
+      "source": "The Gospel Coalition",
+      "date": "Tue, 08 Sep 2026 04:00:00 +0000",
+      "summary": "We don’t need God to answer all our anxious whys and what ifs. We need to see him more clearly for who he is.",
+      "url": "https://www.thegospelcoalition.org/article/young-adult-sorrows-remedy/"
+    },
+    {
+      "category": "AI",
+      "title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
+      "source": "OpenAI News",
+      "date": "Tue, 08 Sep 2026 00:00:00 GMT",
+      "summary": "OpenAI is expanding support for journalism with tools, training, and partnerships for students, educators, journalists, and news organizations.",
+      "url": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms"
     },
     {
       "category": "Space",
@@ -65,22 +177,6 @@
       "date": "Mon, 07 Sep 2026 17:36:09 +0000",
       "summary": "On a brisk day in February of 1786, John Adams stepped into the home of Sidi Haji Abdrahaman, the envoy from the Barbary State of Tripoli. Adams spent much of his political and diplomatic career being taken as a nobody, described by his former friend turned political enemy Jonathan Sewall as having, “none of the […]\nThe post Smoke, Coffee, and Piracy: Adams and the 1786 Barbary Negotiations appeared first on Journal of the American Revolution.",
       "url": "https://allthingsliberty.com/2026/09/smoke-coffee-and-piracy-adams-and-the-1786-barbary-negotiations/"
-    },
-    {
-      "category": "Space",
-      "title": " The moon will hide Jupiter in broad daylight on Sept.8 — here's how to see it ",
-      "source": " Latest from Space.com ",
-      "date": "Mon, 07 Sep 2026 16:00:00 +0000",
-      "summary": "The moon and Jupiter will meet before dawn on Sept. 8, before the moon hides the giant planet from view in a rare daytime occultation.",
-      "url": "https://www.space.com/stargazing/the-moon-will-hide-jupiter-in-broad-daylight-on-sept-8-2026-here-is-how-to-see-it"
-    },
-    {
-      "category": "Space",
-      "title": " Earth's moon could have formed in just 5 hours after giant impact ",
-      "source": " Latest from Space.com ",
-      "date": "Mon, 07 Sep 2026 16:00:00 +0000",
-      "summary": "One day in history about 4.5 billion years ago was a dramatic one for Earth, potentially giving our planet an instant moon and an almighty headache all in one go.",
-      "url": "https://www.space.com/astronomy/moon/earths-moon-could-have-formed-in-just-5-hours-after-giant-impact"
     },
     {
       "category": "Science",
@@ -107,28 +203,12 @@
       "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/were-greek-gods-actually-minoan/"
     },
     {
-      "category": "Science",
-      "title": " Guldhøj folding chair: The only completely preserved chair from Bronze Age Europe ",
-      "source": " Latest from Live Science ",
-      "date": "Mon, 07 Sep 2026 10:00:00 +0000",
-      "summary": "The remarkably preserved wooden folding chair was likely a status symbol and was found in the grave of a Bronze Age chieftain.",
-      "url": "https://www.livescience.com/archaeology/guldhoj-folding-chair-the-only-completely-preserved-chair-from-bronze-age-europe"
-    },
-    {
-      "category": "Theology",
-      "title": "Planning a Preaching Calendar",
-      "source": "The Gospel Coalition",
-      "date": "Mon, 07 Sep 2026 04:04:43 +0000",
-      "summary": "Matt Smethurst and Ligon Duncan discuss how thoughtful preaching calendars help pastors faithfully feed their people, preach the whole counsel of God, and plan ahead without quenching the Spirit.",
-      "url": "https://www.thegospelcoalition.org/podcasts/everyday-pastor/planning-preaching-calendar/"
-    },
-    {
-      "category": "Theology",
-      "title": "Hire Wisely from a Stack of AI Résumés",
-      "source": "The Gospel Coalition",
-      "date": "Mon, 07 Sep 2026 04:00:00 +0000",
-      "summary": "From 2021 to 2024, the number of applications per hire tripled—many of them created using AI. Managers say this has added another layer of discernment to the hiring process.",
-      "url": "https://www.thegospelcoalition.org/article/wisely-hire-ai-resumes/"
+      "category": "Space",
+      "title": "APOD: 2026 September 7 – The Pelican Nebula in Gas, Dust, and Stars",
+      "source": "NASA",
+      "date": "Mon, 07 Sep 2026 04:05:00 +0000",
+      "summary": "APOD Science APOD APOD: 2026 September 7 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. The Pelican […]",
+      "url": "https://science.nasa.gov/image-article/apod-2026-september-7-the-pelican-nebula-in-gas-dust-and-stars/"
     },
     {
       "category": "AI",
@@ -145,22 +225,6 @@
       "date": "Sun, 06 Sep 2026 22:00:23 +0000",
       "summary": "BOOK REVIEW: One Nation Under Law: The Meaning of the Declaration of Independence by Carlton F.W. Larson (Cambridge: Cambridge University Press, 2026. $33.00 paperback) Carlton F.W. Larson’s monograph One Nation Under Law: The Meaning of the Declaration of Independence published by Cambridge University Press, discusses the origins of the Declaration of Independence. Through looking at […]\nThe post One Nation Under Law: The Meaning of the Declaration of Independence appeared first on Journal of the American Revolution.",
       "url": "https://allthingsliberty.com/2026/09/one-nation-under-law-the-meaning-of-the-declaration-of-independence/"
-    },
-    {
-      "category": "Science",
-      "title": "Popular brain supplement linked to shorter lifespan in men",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Sun, 06 Sep 2026 17:21:25 EDT",
-      "summary": "A large study involving more than 270,000 people has linked higher blood levels of the amino acid tyrosine to a shorter lifespan in men. Using both observational data and genetic analysis, researchers found that elevated tyrosine could potentially reduce male life expectancy by nearly a year, while no significant effect appeared in women. Tyrosine is found naturally in protein-rich foods and is also sold as a supplement for boosting focus and mental performance, making the finding especially intriguing.",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260904000330.htm"
-    },
-    {
-      "category": "Science",
-      "title": " AI's water use is a problem, but shifting from electricity to solar or wind power could help ",
-      "source": " Latest from Live Science ",
-      "date": "Sun, 06 Sep 2026 16:05:00 +0000",
-      "summary": "Though water consumption by data centers pales in comparison to that of some other industries, it's a problem in water-stressed regions. Water-saving cooling technologies could help.",
-      "url": "https://www.livescience.com/planet-earth/artificial-intelligence/ais-water-use-is-a-problem-but-shifting-from-electricity-to-solar-or-wind-power-could-help"
     },
     {
       "category": "AI",
@@ -187,52 +251,12 @@
       "url": "https://arstechnica.com/science/2026/09/farmed-salmon-may-not-be-as-nutritious-as-it-once-was-new-research-suggests/"
     },
     {
-      "category": "AI",
-      "title": "An Alien Mind",
-      "source": "OpenAI News",
-      "date": "Sun, 06 Sep 2026 09:00:00 GMT",
-      "summary": "Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination.",
-      "url": "https://openai.com/index/an-alien-mind"
-    },
-    {
-      "category": "AI",
-      "title": "Research acceleration: The view inside OpenAI",
-      "source": "OpenAI News",
-      "date": "Sun, 06 Sep 2026 08:00:00 GMT",
-      "summary": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.",
-      "url": "https://openai.com/index/research-acceleration-view-inside-openai"
-    },
-    {
-      "category": "Theology",
-      "title": "‘No Tyndale, No Shakespeare’: How the Bible Made Modern English",
-      "source": "The Gospel Coalition",
-      "date": "Sun, 06 Sep 2026 04:00:00 +0000",
-      "summary": "The flowering of English at the end of the 16th century would have been impossible without the linguistic wheels that Tyndale set in motion at the beginning of the century.",
-      "url": "https://www.thegospelcoalition.org/article/tyndale-bible-modern-english/"
-    },
-    {
-      "category": "Science",
-      "title": "A mysterious signal around Earth could be dark matter",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Sat, 05 Sep 2026 20:58:46 EDT",
-      "summary": "Scientists used Earth’s magnetic field and atmosphere as a planet-sized detector to search for some of the lightest proposed forms of dark matter. The approach dramatically improved limits on ultralight axions and uncovered several intriguing dark photon signals that still need to be explained.",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260904000328.htm"
-    },
-    {
       "category": "Biblical Studies",
       "title": "Antiochus Epiphanes—The Bible’s Most Notoriously Forgotten Villain",
       "source": "Biblical Archaeology Society",
       "date": "Sat, 05 Sep 2026 11:00:29 +0000",
       "summary": "Many names come to mind when someone mentions the great “villains” of the Bible. Some are foreign powers, like the Pharaoh of the Exodus or […]\nThe post Antiochus Epiphanes—The Bible’s Most Notoriously Forgotten Villain appeared first on Biblical Archaeology Society.",
       "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-israel/antiochus-epiphanes-the-bibles-most-notoriously-forgotten-villain/"
-    },
-    {
-      "category": "Science",
-      "title": "A longer exhale may push your brain toward bolder decisions",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Fri, 04 Sep 2026 07:33:12 EDT",
-      "summary": "Slow breathing with a prolonged exhale made people more willing to take risks by changing heart activity and increasing the brain’s sensitivity to rewards. The findings suggest that something as simple as controlling your breath can directly influence how you evaluate choices.",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260904000320.htm"
     },
     {
       "category": "History",
