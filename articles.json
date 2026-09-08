@@ -1,22 +1,94 @@
 {
-  "lastUpdated": "2026-09-08T19:10:04.264Z",
-  "articleCount": 39,
+  "lastUpdated": "2026-09-08T23:47:21.172Z",
+  "articleCount": 33,
   "articles": [
     {
       "category": "Science",
-      "title": "Quebec wildfire smoke left forest moths with deformed wings, research finds",
+      "title": "Germany's 15-year-olds post lowest PISA results since testing began 25 years ago",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Tue, 08 Sep 2026 15:00:13 EDT",
-      "summary": "Over the course of the summer of 2023, Quebec experienced its worst wildfire season on record. By its end, some 4.5 million hectares (11.1 million acres) of the province's boreal forest had burned. While the effects of the toxic smoke on humans have been thoroughly studied, our knowledge of the impact on local fauna—including insects—is lacking.",
-      "url": "https://phys.org/news/2026-09-quebec-wildfire-left-forest-moths.html"
+      "date": "Tue, 08 Sep 2026 19:40:06 EDT",
+      "summary": "The PISA study regularly assesses 15-year-olds' ability to understand and solve real-life problems in reading, mathematics and science toward the end of their compulsory education. It demonstrates the extent to which young people are prepared for the demands of a knowledge-based society and can participate in social life on their own terms.",
+      "url": "https://phys.org/news/2026-09-germany-year-olds-lowest-pisa.html"
     },
     {
       "category": "Science",
-      "title": "Star-fingered toads use fingertip lobules to detect prey in murky water",
+      "title": "Researchers rewire ribosomes to specialize in one protein",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Tue, 08 Sep 2026 15:00:09 EDT",
-      "summary": "Surinam toads (Pipa pipa) are strange, flat frogs with minuscule eyes that live in the murky waters of the Amazon basin and carry their eggs on their backs. The way they catch prey is even weirder. They lie in wait with outstretched forelimbs until a small fish approaches, then snap open their jaws to create enough suction to draw the fish into their tongueless mouths and swallow it whole, all in a few hundredths of a second. But how do these frogs hunt in low visibility with poor vision?",
-      "url": "https://phys.org/news/2026-09-star-fingered-toads-fingertip-lobules.html"
+      "date": "Tue, 08 Sep 2026 19:40:01 EDT",
+      "summary": "Every cell relies on ribosomes, the molecular machines that read genetic instructions and use them to assemble proteins. A cell needs thousands of types of proteins at any one time, so ribosomes must be generalists, capable of using instructions to produce any protein.",
+      "url": "https://phys.org/news/2026-09-rewire-ribosomes-specialize-protein.html"
+    },
+    {
+      "category": "Science",
+      "title": "When disaster strikes, what happens to our pets?",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Tue, 08 Sep 2026 19:20:06 EDT",
+      "summary": "As large-scale disasters—including earthquakes, torrential rains, typhoons and wildfires—become increasingly frequent, ensuring that pets as well as their owners can evacuate safely and receive appropriate care has become an important part of disaster preparedness.",
+      "url": "https://phys.org/news/2026-09-disaster-pets.html"
+    },
+    {
+      "category": "AI",
+      "title": "A Topological Picture Book, Rendered",
+      "source": "Hacker News: Front Page",
+      "date": "Tue, 08 Sep 2026 22:28:14 +0000",
+      "summary": "Article URL: https://e-infinity.space/picture-book/\nComments URL: https://news.ycombinator.com/item?id=49618050\nPoints: 13\n# Comments: 0",
+      "url": "https://e-infinity.space/picture-book/"
+    },
+    {
+      "category": "Science",
+      "title": " Google scientists removed a critical 'consciousness safeguard' from AI models. What happened next? ",
+      "source": " Latest from Live Science ",
+      "date": "Tue, 08 Sep 2026 22:23:55 +0000",
+      "summary": "A new study shows that measures to stop AI's claims of consciousness have unintended consequences for non-human entities.",
+      "url": "https://www.livescience.com/technology/artificial-intelligence/if-ai-thinks-its-conscious-its-more-likely-to-believe-in-vampires-karma-and-ghosts-new-study-shows-what-does-it-mean-for-how-we-use-it"
+    },
+    {
+      "category": "AI",
+      "title": "Large language models develop novel social biases through adaptive exploration",
+      "source": "Hacker News: Front Page",
+      "date": "Tue, 08 Sep 2026 21:47:38 +0000",
+      "summary": "Article URL: https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH\nComments URL: https://news.ycombinator.com/item?id=49617581\nPoints: 57\n# Comments: 21",
+      "url": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH"
+    },
+    {
+      "category": "AI",
+      "title": "How to build a printer",
+      "source": "Hacker News: Front Page",
+      "date": "Tue, 08 Sep 2026 21:22:11 +0000",
+      "summary": "Article URL: https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/\nComments URL: https://news.ycombinator.com/item?id=49617255\nPoints: 61\n# Comments: 5",
+      "url": "https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/"
+    },
+    {
+      "category": "Space",
+      "title": " Did Venus eat its own moon? ",
+      "source": " Latest from Space.com ",
+      "date": "Tue, 08 Sep 2026 21:00:00 +0000",
+      "summary": "Scientists may finally know why Venus, Earth's twin, lacks a moon, finding that the hottest planet in the solar system may have consumed its own natural satellite.",
+      "url": "https://www.space.com/astronomy/venus/did-venus-eat-its-own-moon"
+    },
+    {
+      "category": "AI",
+      "title": "Supreme Court forces TV stations to sell more election ads at steep discounts",
+      "source": "Ars Technica - All content",
+      "date": "Tue, 08 Sep 2026 19:50:00 +0000",
+      "summary": "Republican victory means stations must offer lowest ad prices to political parties.",
+      "url": "https://arstechnica.com/tech-policy/2026/09/supreme-court-forces-tv-stations-to-sell-more-election-ads-at-steep-discounts/"
+    },
+    {
+      "category": "Space",
+      "title": " Stoke Space raises $1 billion for fully reusable rockets, targets 'early 2027' for 1st-ever launch ",
+      "source": " Latest from Space.com ",
+      "date": "Tue, 08 Sep 2026 19:23:56 +0000",
+      "summary": "Stoke Space announced a $1 billion round of funding to support development of its fully reusable Nova rockets, including the newly revealed Nova Block 2, which will be capable of delivering 15-ton payloads to low Earth orbit.",
+      "url": "https://www.space.com/space-exploration/private-spaceflight/stoke-space-raises-usd1-billion-for-fully-reusable-rockets-targets-early-2027-for-1st-ever-launch"
+    },
+    {
+      "category": "AI",
+      "title": "Top chipmakers embrace ASML’s $400M machines, agree to crucial chipmaking change",
+      "source": "Ars Technica - All content",
+      "date": "Tue, 08 Sep 2026 19:12:53 +0000",
+      "summary": "Chipmaking changes could boost productivity of new ASML machines by 40 percent.",
+      "url": "https://arstechnica.com/gadgets/2026/09/top-chipmakers-embrace-asmls-400m-machines-agree-to-crucial-chipmaking-change/"
     },
     {
       "category": "Space",
@@ -27,92 +99,20 @@
       "url": "https://www.space.com/entertainment/space-movies-shows/star-trek-imagined-strange-new-worlds-60-years-ago-but-are-real-exoplanets-even-stranger"
     },
     {
-      "category": "Science",
-      "title": "New molecular magnet design boosts performance for ultrahigh-density data storage",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Tue, 08 Sep 2026 14:40:09 EDT",
-      "summary": "Researchers at The University of Manchester and the Australian National University have developed a new class of molecular magnets that combines the most successful features of previous designs, resulting in some of the strongest magnetic memory properties reported to date.",
-      "url": "https://phys.org/news/2026-09-molecular-magnet-boosts-ultrahigh-density.html"
-    },
-    {
       "category": "AI",
-      "title": "ChatGPT Images 2.5",
-      "source": "Hacker News: Front Page",
-      "date": "Tue, 08 Sep 2026 18:37:51 +0000",
-      "summary": "Article URL: https://openai.com/index/introducing-chatgpt-images-2-5/\nComments URL: https://news.ycombinator.com/item?id=49614720\nPoints: 62\n# Comments: 18",
-      "url": "https://openai.com/index/introducing-chatgpt-images-2-5/"
-    },
-    {
-      "category": "AI",
-      "title": "100s of flights cancelled at UK airports due to ATC issue",
-      "source": "Hacker News: Front Page",
-      "date": "Tue, 08 Sep 2026 18:26:27 +0000",
-      "summary": "Article URL: https://www.bbc.com/news/live/c6x2z0yy32ejt\nComments URL: https://news.ycombinator.com/item?id=49614557\nPoints: 9\n# Comments: 3",
-      "url": "https://www.bbc.com/news/live/c6x2z0yy32ejt"
-    },
-    {
-      "category": "Space",
-      "title": " Astrophotographer captures jaw-dropping view of the Crescent Nebula ",
-      "source": " Latest from Space.com ",
-      "date": "Tue, 08 Sep 2026 18:00:00 +0000",
-      "summary": "Astrophotographer Kevin Boardman spent more than 16 hours capturing the intricate filaments of the  Crescent Nebula.",
-      "url": "https://www.space.com/stargazing/astrophotography/astrophotographer-captures-jaw-dropping-view-of-the-crescent-nebula"
-    },
-    {
-      "category": "Science",
-      "title": " ​​If AI thinks it's conscious, it's more likely to believe in vampires, karma and ghosts, new study shows. What does it mean for how we use it? ",
-      "source": " Latest from Live Science ",
-      "date": "Tue, 08 Sep 2026 17:37:33 +0000",
-      "summary": "A new study shows that measures to stop AI's claims of consciousness have unintended consequences for non-human entities",
-      "url": "https://www.livescience.com/technology/artificial-intelligence/if-ai-thinks-its-conscious-its-more-likely-to-believe-in-vampires-karma-and-ghosts-new-study-shows-what-does-it-mean-for-how-we-use-it"
-    },
-    {
-      "category": "Space",
-      "title": " On this day in space! Sept. 8, 2004: NASA's Genesis spacecraft crashed in the Utah desert, shattering its samples of solar wind particles from the sun ",
-      "source": " Latest from Space.com ",
-      "date": "Tue, 08 Sep 2026 17:17:42 +0000",
-      "summary": "On Sept. 8, 2004, NASA's Genesis spacecraft crash-landed in Utah after its parachutes failed to deploy.  Here's why it mattered.",
-      "url": "https://www.space.com/space-exploration/on-this-day-in-space-september-8-2026"
-    },
-    {
-      "category": "AI",
-      "title": "On the Navier–Stokes Millennium Prize Problem",
-      "source": "Hacker News: Front Page",
-      "date": "Tue, 08 Sep 2026 17:13:21 +0000",
-      "summary": "Article URL: https://openai.com/index/navier-stokes-solution/\nComments URL: https://news.ycombinator.com/item?id=49613262\nPoints: 551\n# Comments: 388",
-      "url": "https://openai.com/index/navier-stokes-solution/"
-    },
-    {
-      "category": "AI",
-      "title": "Google complies with EU rules for travel searches, says the new results stink",
+      "title": "Godzilla Minus Zero IMAX trailer teases King Ghidorah",
       "source": "Ars Technica - All content",
-      "date": "Tue, 08 Sep 2026 16:49:55 +0000",
-      "summary": "The EU continues to go after Google search practices it sees as anticompetitive.",
-      "url": "https://arstechnica.com/gadgets/2026/09/google-says-europe-is-making-it-roll-out-degraded-travel-search-results/"
-    },
-    {
-      "category": "Space",
-      "title": "Superbubble in the Large Magellanic Cloud",
-      "source": "NASA",
-      "date": "Tue, 08 Sep 2026 16:49:15 +0000",
-      "summary": "NASA’s Hubble Space Telescope captures a photogenic nebula, N44, in the Large Magellanic Cloud in this Sept. 3, 2026, image. N44 is dominated by two features: a vast central void and a shell of dense, dusty gas. The central void is a ‘superbubble’ spanning roughly 210 by 140 light-years across. The glittering stars at the […]",
-      "url": "https://www.nasa.gov/image-article/superbubble-in-the-large-magellanic-cloud/"
+      "date": "Tue, 08 Sep 2026 18:53:23 +0000",
+      "summary": "Director Takashi Yamazaki's hotly anticipated sequel takes place two years after 2023 film's events.",
+      "url": "https://arstechnica.com/culture/2026/09/godzilla-minus-zero-imax-trailer-teases-king-ghidorah/"
     },
     {
       "category": "AI",
-      "title": "The White House made a \"Tetris\" clone. The Tetris Company was not amused.",
-      "source": "Ars Technica - All content",
-      "date": "Tue, 08 Sep 2026 16:31:21 +0000",
-      "summary": "Trump admin's propaganda \"arcade\" hits some apparent legal limits.",
-      "url": "https://arstechnica.com/gaming/2026/09/the-white-house-made-a-tetris-clone-the-tetris-company-was-not-amused/"
-    },
-    {
-      "category": "AI",
-      "title": "The secret to protecting next-gen spacecraft might be eggshells",
-      "source": "Ars Technica - All content",
-      "date": "Tue, 08 Sep 2026 16:20:58 +0000",
-      "summary": "3D-printed aluminum eggshell arrays filled with water proved more effective at impact resistance.",
-      "url": "https://arstechnica.com/science/2026/09/how-eggshells-can-protect-spacecraft-from-space-debris/"
+      "title": "How GPT-5.6 Sol helps run quantum computing experiments",
+      "source": "OpenAI News",
+      "date": "Tue, 08 Sep 2026 17:00:00 GMT",
+      "summary": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.",
+      "url": "https://openai.com/index/codex-quantum-computing-experiments"
     },
     {
       "category": "Science",
@@ -129,22 +129,6 @@
       "date": "Tue, 08 Sep 2026 15:34:05 +0000",
       "summary": "New research finds that western Siberia is becoming wetter as the world warms, while eastern Siberia seems to be getting drier. And both these conditions are fueling a rise in methane emissions, spelling trouble for the climate.",
       "url": "https://www.livescience.com/planet-earth/climate-change/arctic-warming-fuels-2-distinct-climate-regimes-in-siberia-that-could-wake-up-a-methane-sleeping-giant"
-    },
-    {
-      "category": "Space",
-      "title": "NASA Technique for Manipulating Satellite Photos Now Reveals Ancient Images  ",
-      "source": "NASA",
-      "date": "Tue, 08 Sep 2026 15:15:56 +0000",
-      "summary": "Algorithm NASA first applied to satellite imagery is now used to peer into antiquity",
-      "url": "https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-technique-for-manipulating-satellite-photos-now-reveals-ancient-images/"
-    },
-    {
-      "category": "Space",
-      "title": "1,000 Museum Visitors Dive Into NASA Sea Level Science on World Ocean Day",
-      "source": "NASA",
-      "date": "Tue, 08 Sep 2026 14:06:52 +0000",
-      "summary": "More than 1,000 visitors explored NASA sea level science firsthand during World Ocean Day at the University of Georgia Aquarium on Skidaway Island on June 6, 2026.",
-      "url": "https://science.nasa.gov/learning-resources/science-activation/1000-museum-visitors-dive-into-nasa-sea-level-science-on-world-ocean-day/"
     },
     {
       "category": "Science",
@@ -203,14 +187,6 @@
       "url": "https://www.biblicalarchaeology.org/daily/the-temple-on-mount-gerizim-in-the-bible-and-archaeology/"
     },
     {
-      "category": "AI",
-      "title": "On the Navier–Stokes Millennium Prize Problem",
-      "source": "OpenAI News",
-      "date": "Tue, 08 Sep 2026 10:00:00 GMT",
-      "summary": "We’re sharing an AI-generated solution to the Navier–Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean.",
-      "url": "https://openai.com/index/navier-stokes-solution"
-    },
-    {
       "category": "Theology",
       "title": "Why AI Will Write Your Next Sermon",
       "source": "The Gospel Coalition",
@@ -265,30 +241,6 @@
       "date": "Wed, 02 Sep 2026 22:00:29 +0000",
       "summary": "When Thomas Jefferson arrived in Paris in 1784, he carried with him the ideals of the American Revolution. Buoyed by the success of a revolution against the British empire, the soon-to-be appointed Minister to France found himself attempting to reconcile Republican principles with the complex political realities of Paris. It marked an intriguing reversal for […]\nThe post A Tale of Two Revolutions: Jefferson, Lafayette, and the Empire of Liberty appeared first on Journal of the American Revolution.",
       "url": "https://allthingsliberty.com/2026/09/a-tale-of-two-revolutions-jefferson-lafayette-and-the-empire-of-liberty/"
-    },
-    {
-      "category": "Theology",
-      "title": "Counsel for a Young Pastor of a Long-Established Congregation",
-      "source": "9Marks",
-      "date": "Wed, 02 Sep 2026 20:36:48 +0000",
-      "summary": "For a young pastor, consistency becomes one of the primary ways to demonstrate that you are not there to disrupt for disruption’s sake, but to shepherd with care and conviction according to the Word of God.\nThe post Counsel for a Young Pastor of a Long-Established Congregation appeared first on 9Marks.",
-      "url": "https://www.9marks.org/article/counsel-for-a-young-pastor-of-a-long-established-congregation/?utm_source=rss&utm_medium=rss&utm_campaign=counsel-for-a-young-pastor-of-a-long-established-congregation"
-    },
-    {
-      "category": "Theology",
-      "title": "Richard Baxter’s Advice to Pastors",
-      "source": "9Marks",
-      "date": "Mon, 31 Aug 2026 21:48:15 +0000",
-      "summary": "If God threw down a proud angel from heaven, would he want a proud preacher in the pulpit? \nThe post Richard Baxter’s Advice to Pastors appeared first on 9Marks.",
-      "url": "https://www.9marks.org/article/richard-baxters-advice-to-pastors/?utm_source=rss&utm_medium=rss&utm_campaign=richard-baxters-advice-to-pastors"
-    },
-    {
-      "category": "Theology",
-      "title": "Caring for Aging Parents",
-      "source": "9Marks",
-      "date": "Fri, 28 Aug 2026 17:46:38 +0000",
-      "summary": "Every pastor’s parents are getting older and closer to the day when they will stand before the Lord. \nThe post Caring for Aging Parents appeared first on 9Marks.",
-      "url": "https://www.9marks.org/article/caring-for-aging-parents/?utm_source=rss&utm_medium=rss&utm_campaign=caring-for-aging-parents"
     },
     {
       "category": "History",
