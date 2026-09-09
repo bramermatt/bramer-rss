@@ -1,42 +1,194 @@
 {
-  "lastUpdated": "2026-09-08T23:47:21.172Z",
-  "articleCount": 33,
+  "lastUpdated": "2026-09-09T14:03:59.374Z",
+  "articleCount": 39,
   "articles": [
     {
       "category": "Science",
-      "title": "Germany's 15-year-olds post lowest PISA results since testing began 25 years ago",
+      "title": "Anak Krakatau erupts, disrupting 300,000 travelers as 1883 disaster looms large",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Tue, 08 Sep 2026 19:40:06 EDT",
-      "summary": "The PISA study regularly assesses 15-year-olds' ability to understand and solve real-life problems in reading, mathematics and science toward the end of their compulsory education. It demonstrates the extent to which young people are prepared for the demands of a knowledge-based society and can participate in social life on their own terms.",
-      "url": "https://phys.org/news/2026-09-germany-year-olds-lowest-pisa.html"
+      "date": "Wed, 09 Sep 2026 10:03:16 EDT",
+      "summary": "Indonesia's Mount Anak Krakatau has erupted again this week, sending plumes of volcanic ash high into the sky and disrupting hundreds of flights. More than 300,000 passengers have been affected.",
+      "url": "https://phys.org/news/2026-09-anak-krakatau-erupts-disrupting-disaster.html"
     },
     {
       "category": "Science",
-      "title": "Researchers rewire ribosomes to specialize in one protein",
+      "title": "Hidden microplastic pollution in Swiss waters uncovered",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Tue, 08 Sep 2026 19:40:01 EDT",
-      "summary": "Every cell relies on ribosomes, the molecular machines that read genetic instructions and use them to assemble proteins. A cell needs thousands of types of proteins at any one time, so ribosomes must be generalists, capable of using instructions to produce any protein.",
-      "url": "https://phys.org/news/2026-09-rewire-ribosomes-specialize-protein.html"
+      "date": "Wed, 09 Sep 2026 10:00:16 EDT",
+      "summary": "Microplastics are plastic particles smaller than 5 millimeters that originate either from manufactured products or from the breakdown of larger plastic items. They can now be found everywhere, from oceans and rivers to soils and indoor air. Because most plastics degrade very slowly, these particles can remain in the environment for decades or centuries.",
+      "url": "https://phys.org/news/2026-09-hidden-microplastic-pollution-swiss-uncovered.html"
     },
     {
       "category": "Science",
-      "title": "When disaster strikes, what happens to our pets?",
+      "title": "More than numbers: First global dataset shows who is immigrating",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Tue, 08 Sep 2026 19:20:06 EDT",
-      "summary": "As large-scale disasters—including earthquakes, torrential rains, typhoons and wildfires—become increasingly frequent, ensuring that pets as well as their owners can evacuate safely and receive appropriate care has become an important part of disaster preparedness.",
-      "url": "https://phys.org/news/2026-09-disaster-pets.html"
+      "date": "Wed, 09 Sep 2026 10:00:06 EDT",
+      "summary": "As countries compete for skilled workers and grapple with aging populations and labor shortages, understanding who is moving across borders is increasingly important. A new study provides the first global data set of immigration composition disaggregated simultaneously by age, sex and educational attainment, offering a new basis for tracking brain gain and brain drain and improving population projections.",
+      "url": "https://phys.org/news/2026-09-global-dataset-immigrating.html"
+    },
+    {
+      "category": "Space",
+      "title": " On this day in space! Sept. 9, 1982: The 1st private rocket, called Conestoga 1, launches from a Texas cattle ranch ",
+      "source": " Latest from Space.com ",
+      "date": "Wed, 09 Sep 2026 14:00:00 +0000",
+      "summary": "On Sept. 9, 1982, the first private rocket, Conestoga 1, launched into space from a Texas cattle ranch. Here's why it mattered.",
+      "url": "https://www.space.com/space-exploration/on-this-day-in-space-september-9-2026"
+    },
+    {
+      "category": "Space",
+      "title": " Indonesian volcanic eruption spotted from space | Space photo of the day for Sept. 9, 2026 ",
+      "source": " Latest from Space.com ",
+      "date": "Wed, 09 Sep 2026 14:00:00 +0000",
+      "summary": "Anak Krakatau erupted, and satellites were watching.",
+      "url": "https://www.space.com/astronomy/earth/indonesian-volcanic-eruption-spotted-from-space-space-photo-of-the-day-for-sept-9-2026"
+    },
+    {
+      "category": "Science",
+      "title": "Scientists find a bone-building switch that could fight osteoporosis",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Wed, 09 Sep 2026 09:52:53 EDT",
+      "summary": "An experimental compound called AP503 significantly strengthened bones in mice by activating GPR133, a receptor that boosts bone formation while slowing bone loss. Because the same treatment has also been linked to stronger muscles, researchers see intriguing potential for combating age-related decline and osteoporosis.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260909005305.htm"
     },
     {
       "category": "AI",
-      "title": "A Topological Picture Book, Rendered",
+      "title": "Ask HN: Anyone still coding like 2021? Where do you work?",
       "source": "Hacker News: Front Page",
-      "date": "Tue, 08 Sep 2026 22:28:14 +0000",
-      "summary": "Article URL: https://e-infinity.space/picture-book/\nComments URL: https://news.ycombinator.com/item?id=49618050\nPoints: 13\n# Comments: 0",
-      "url": "https://e-infinity.space/picture-book/"
+      "date": "Wed, 09 Sep 2026 13:41:55 +0000",
+      "summary": "I can close an eye on using LLMs for research only.\nThese days I feel I am the only one that hasn’t changed their way of writing software at all. I’d honestly switch careers rather than manage agents. But I’m currently out of work (contract ended) and wondering if there is still a sane place to work, or is it truly time to pivot to another career.\nComments URL: https://news.ycombinator.com/item?id=49626431\nPoints: 5\n# Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=49626431"
+    },
+    {
+      "category": "AI",
+      "title": "Tailwind Labs is joining Shopify",
+      "source": "Hacker News: Front Page",
+      "date": "Wed, 09 Sep 2026 13:27:11 +0000",
+      "summary": "Article URL: https://tailwindcss.com/blog/tailwind-is-joining-shopify\nComments URL: https://news.ycombinator.com/item?id=49626190\nPoints: 79\n# Comments: 30",
+      "url": "https://tailwindcss.com/blog/tailwind-is-joining-shopify"
+    },
+    {
+      "category": "Space",
+      "title": "NASA Names Two Artemis II Astronauts to Emeritus Program",
+      "source": "NASA",
+      "date": "Wed, 09 Sep 2026 13:24:37 +0000",
+      "summary": "Following their landmark Artemis II mission earlier this year, distinguished NASA astronauts Victor Glover and Reid Wiseman are transitioning in September to emeritus status at the agency’s Johnson Space Center in Houston. In an emeritus role, individuals with a high degree of technical and professional knowledge can continue to support the agency by donating their […]",
+      "url": "https://www.nasa.gov/news-release/nasa-names-two-artemis-ii-astronauts-to-emeritus-program/"
+    },
+    {
+      "category": "AI",
+      "title": "One woman's Tesla was remotely controlled by an abusive ex-partner",
+      "source": "Hacker News: Front Page",
+      "date": "Wed, 09 Sep 2026 13:16:45 +0000",
+      "summary": "Article URL: https://www.theguardian.com/australia-news/2026/sep/09/how-one-womans-tesla-was-remotely-controlled-and-harass-by-her-abusive-ex-partner-ntwnfb\nComments URL: https://news.ycombinator.com/item?id=49626052\nPoints: 12\n# Comments: 2",
+      "url": "https://www.theguardian.com/australia-news/2026/sep/09/how-one-womans-tesla-was-remotely-controlled-and-harass-by-her-abusive-ex-partner-ntwnfb"
+    },
+    {
+      "category": "Space",
+      "title": " A photon from the biggest cosmic explosion since the Big Bang appears to have defied Einstein. Scientists may finally know how ",
+      "source": " Latest from Space.com ",
+      "date": "Wed, 09 Sep 2026 13:00:00 +0000",
+      "summary": "A photon from the biggest cosmic explosion since the Big Bang, the gamma-ray burst nicknamed \"the BOAT,\" should not have reached Earth, according to Einstein. Now scientists may know how it did.",
+      "url": "https://www.space.com/science/astrophysics/a-photon-from-the-biggest-cosmic-explosion-since-the-big-bang-appears-to-have-defied-einstein-scientists-may-finally-know-how"
     },
     {
       "category": "Science",
-      "title": " Google scientists removed a critical 'consciousness safeguard' from AI models. What happened next? ",
+      "title": "Have we found alien life? Hundreds of scientists weigh in",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Wed, 09 Sep 2026 07:13:30 EDT",
+      "summary": "Two major alien-life announcements in 2025 generated enormous excitement, but most astrobiologists remained unconvinced. Only 6.6% of surveyed experts thought possible biological molecules on K2-18b probably represented extraterrestrial life, while 15.1% said the same about intriguing mineral patterns in a Martian rock.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260909005212.htm"
+    },
+    {
+      "category": "AI",
+      "title": "Man told ChatGPT he was feeling delusional. ChatGPT insisted he was Jesus.",
+      "source": "Ars Technica - All content",
+      "date": "Wed, 09 Sep 2026 11:00:10 +0000",
+      "summary": "Man with bipolar disorder sued OpenAI after surviving ChatGPT-linked suicide attempt.",
+      "url": "https://arstechnica.com/tech-policy/2026/09/man-told-chatgpt-he-was-feeling-delusional-chatgpt-insisted-he-was-jesus/"
+    },
+    {
+      "category": "Biblical Studies",
+      "title": "Sacred Circles in Christianity and Buddhism",
+      "source": "Biblical Archaeology Society",
+      "date": "Wed, 09 Sep 2026 10:45:42 +0000",
+      "summary": "Archaeologists have discovered dozens of eight-spoked wheels scratched into the floors, walls, and architectural elements of Greco-Roman temples, fountains, and street intersections. A circle divided […]\nThe post Sacred Circles in Christianity and Buddhism appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-rome/sacred-circles-in-christianity-and-buddhism/"
+    },
+    {
+      "category": "Biblical Studies",
+      "title": "Tracing the Justinian Plague",
+      "source": "Biblical Archaeology Society",
+      "date": "Wed, 09 Sep 2026 10:00:08 +0000",
+      "summary": "The Justinian Plague (c. 541–750 CE) was one of the deadliest pandemics in human history. The Byzantine chronicler Procopius recorded that the plague claimed the […]\nThe post Tracing the Justinian Plague appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-rome/tracing-the-justinian-plague/"
+    },
+    {
+      "category": "Science",
+      "title": " Diagnostic dilemma: Fisher's colon punctured by eel that snuck in through his rectum ",
+      "source": " Latest from Live Science ",
+      "date": "Wed, 09 Sep 2026 10:00:00 +0000",
+      "summary": "A man's intestines were perforated in an \"exceedingly rare\" medical case involving a live eel.",
+      "url": "https://www.livescience.com/health/diagnostic-dilemma-fishers-colon-punctured-by-eel-that-snuck-in-through-his-rectum"
+    },
+    {
+      "category": "Science",
+      "title": " 'Drops in the ocean can make waves': How the grassroots climate movement took off in the US ",
+      "source": " Latest from Live Science ",
+      "date": "Wed, 09 Sep 2026 08:55:51 +0000",
+      "summary": "In this excerpt from \"The Carbon Wave,\" author Leah Stokes explores the lead up to that moment, and the wave of environmental action that followed.",
+      "url": "https://www.livescience.com/planet-earth/climate-change/drops-in-the-ocean-can-make-waves-how-the-grassroots-climate-movement-took-off-in-the-us"
+    },
+    {
+      "category": "Science",
+      "title": "Interstellar comet 3I/ATLAS is bursting with methanol",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Wed, 09 Sep 2026 04:47:39 EDT",
+      "summary": "Interstellar comet 3I/ATLAS contains exceptionally high levels of methanol, suggesting it formed under conditions very different from those that shaped most comets in our solar system. ALMA also revealed that tiny icy grains around the comet are releasing methanol like miniature comets, giving astronomers an unusually detailed look at an object from another star system.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260909005217.htm"
+    },
+    {
+      "category": "Space",
+      "title": "Curiosity Blog, Sols 4995-5001: 5,000 (Martian) Days on Mars",
+      "source": "NASA",
+      "date": "Wed, 09 Sep 2026 06:20:49 +0000",
+      "summary": "Written by William Farrand, Senior Research Scientist, Space Science Institute Earth planning date: Friday, Aug. 28, 2026 The span of sols spanned by this blog post is noteworthy in several ways. First, Curiosity became a world-class (for Mars at least) mountaineer by passing the 1 kilometer mark of elevation from its landing site on the floor […]",
+      "url": "https://science.nasa.gov/blog/curiosity-blog-sols-4995-5001-5000-martian-days-on-mars/"
+    },
+    {
+      "category": "Theology",
+      "title": "AI Can Assist Your Work. But Should It?",
+      "source": "The Gospel Coalition",
+      "date": "Wed, 09 Sep 2026 04:03:00 +0000",
+      "summary": "AI tools can potentially take us many places. But we need to ask and answer which places we should rightly go.",
+      "url": "https://www.thegospelcoalition.org/article/ai-tools-work-demands/"
+    },
+    {
+      "category": "Theology",
+      "title": "4 Misconceptions About the 4 Senses",
+      "source": "The Gospel Coalition",
+      "date": "Wed, 09 Sep 2026 04:02:00 +0000",
+      "summary": "The best iterations of the four senses in no way reject the grammatical-historical sense; they affirm it.",
+      "url": "https://www.thegospelcoalition.org/article/four-misconceptions-four-senses/"
+    },
+    {
+      "category": "Space",
+      "title": "Anak Krakatau Rumbles Again",
+      "source": "NASA",
+      "date": "Wed, 09 Sep 2026 04:01:00 +0000",
+      "summary": "A powerful eruption from the Indonesian volcano lofted ash into the atmosphere, disrupting thousands of flights and degrading air quality.",
+      "url": "https://science.nasa.gov/earth/earth-observatory/anak-krakatau-rumbles-again/"
+    },
+    {
+      "category": "Theology",
+      "title": "Let’s Reclaim ‘Evangelical’ for the Sake of the Global Church",
+      "source": "The Gospel Coalition",
+      "date": "Wed, 09 Sep 2026 04:00:00 +0000",
+      "summary": "Intentionally returning to the global evangelical family will cause American Christians to embody a renewed passion for the good news to unify God’s people, while sanctifying each of us with the unique joys and pressures in our corner of the globe.",
+      "url": "https://www.thegospelcoalition.org/article/retain-evangelical-global-church/"
+    },
+    {
+      "category": "Science",
+      "title": " Google scientists removed a critical 'consciousness safeguard' from AI in new study. What happened next? ",
       "source": " Latest from Live Science ",
       "date": "Tue, 08 Sep 2026 22:23:55 +0000",
       "summary": "A new study shows that measures to stop AI's claims of consciousness have unintended consequences for non-human entities.",
@@ -44,67 +196,19 @@
     },
     {
       "category": "AI",
-      "title": "Large language models develop novel social biases through adaptive exploration",
-      "source": "Hacker News: Front Page",
-      "date": "Tue, 08 Sep 2026 21:47:38 +0000",
-      "summary": "Article URL: https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH\nComments URL: https://news.ycombinator.com/item?id=49617581\nPoints: 57\n# Comments: 21",
-      "url": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH"
-    },
-    {
-      "category": "AI",
-      "title": "How to build a printer",
-      "source": "Hacker News: Front Page",
-      "date": "Tue, 08 Sep 2026 21:22:11 +0000",
-      "summary": "Article URL: https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/\nComments URL: https://news.ycombinator.com/item?id=49617255\nPoints: 61\n# Comments: 5",
-      "url": "https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/"
-    },
-    {
-      "category": "Space",
-      "title": " Did Venus eat its own moon? ",
-      "source": " Latest from Space.com ",
-      "date": "Tue, 08 Sep 2026 21:00:00 +0000",
-      "summary": "Scientists may finally know why Venus, Earth's twin, lacks a moon, finding that the hottest planet in the solar system may have consumed its own natural satellite.",
-      "url": "https://www.space.com/astronomy/venus/did-venus-eat-its-own-moon"
-    },
-    {
-      "category": "AI",
-      "title": "Supreme Court forces TV stations to sell more election ads at steep discounts",
+      "title": "LG TV shown scanning LAN for third-party phones and other devices",
       "source": "Ars Technica - All content",
-      "date": "Tue, 08 Sep 2026 19:50:00 +0000",
-      "summary": "Republican victory means stations must offer lowest ad prices to political parties.",
-      "url": "https://arstechnica.com/tech-policy/2026/09/supreme-court-forces-tv-stations-to-sell-more-election-ads-at-steep-discounts/"
-    },
-    {
-      "category": "Space",
-      "title": " Stoke Space raises $1 billion for fully reusable rockets, targets 'early 2027' for 1st-ever launch ",
-      "source": " Latest from Space.com ",
-      "date": "Tue, 08 Sep 2026 19:23:56 +0000",
-      "summary": "Stoke Space announced a $1 billion round of funding to support development of its fully reusable Nova rockets, including the newly revealed Nova Block 2, which will be capable of delivering 15-ton payloads to low Earth orbit.",
-      "url": "https://www.space.com/space-exploration/private-spaceflight/stoke-space-raises-usd1-billion-for-fully-reusable-rockets-targets-early-2027-for-1st-ever-launch"
+      "date": "Tue, 08 Sep 2026 21:52:29 +0000",
+      "summary": "“It doesn’t cost a lot to store text forever.”",
+      "url": "https://arstechnica.com/gadgets/2026/09/lg-tv-shown-capable-of-tracking-user-activity-even-when-offline/"
     },
     {
       "category": "AI",
-      "title": "Top chipmakers embrace ASML’s $400M machines, agree to crucial chipmaking change",
+      "title": "GOG brings back \"big box\" PC games, one printable template at a time",
       "source": "Ars Technica - All content",
-      "date": "Tue, 08 Sep 2026 19:12:53 +0000",
-      "summary": "Chipmaking changes could boost productivity of new ASML machines by 40 percent.",
-      "url": "https://arstechnica.com/gadgets/2026/09/top-chipmakers-embrace-asmls-400m-machines-agree-to-crucial-chipmaking-change/"
-    },
-    {
-      "category": "Space",
-      "title": " 'Star Trek' imagined strange new worlds 60 years ago, but are real exoplanets even stranger? ",
-      "source": " Latest from Space.com ",
-      "date": "Tue, 08 Sep 2026 19:00:00 +0000",
-      "summary": "\"To explore strange new worlds; to seek out new life and new civilizations; to boldly go where no one has gone before!\"",
-      "url": "https://www.space.com/entertainment/space-movies-shows/star-trek-imagined-strange-new-worlds-60-years-ago-but-are-real-exoplanets-even-stranger"
-    },
-    {
-      "category": "AI",
-      "title": "Godzilla Minus Zero IMAX trailer teases King Ghidorah",
-      "source": "Ars Technica - All content",
-      "date": "Tue, 08 Sep 2026 18:53:23 +0000",
-      "summary": "Director Takashi Yamazaki's hotly anticipated sequel takes place two years after 2023 film's events.",
-      "url": "https://arstechnica.com/culture/2026/09/godzilla-minus-zero-imax-trailer-teases-king-ghidorah/"
+      "date": "Tue, 08 Sep 2026 21:23:13 +0000",
+      "summary": "Preservation \"goodies\" also include downloadable 3D models for desktop perusal.",
+      "url": "https://arstechnica.com/gaming/2026/09/gog-brings-back-big-box-pc-games-one-printable-template-at-a-time/"
     },
     {
       "category": "AI",
@@ -115,52 +219,12 @@
       "url": "https://openai.com/index/codex-quantum-computing-experiments"
     },
     {
-      "category": "Science",
-      "title": " Where on Earth is safest from global catastrophe? ",
-      "source": " Latest from Live Science ",
-      "date": "Tue, 08 Sep 2026 15:39:21 +0000",
-      "summary": "Researchers have worked out the safest, most resilient country to be in during an apocalyptic event.",
-      "url": "https://www.livescience.com/planet-earth/where-on-earth-is-safest-from-global-catastrophe"
-    },
-    {
-      "category": "Science",
-      "title": " Arctic warming fuels 2 distinct climate regimes in Siberia that could wake up a methane 'sleeping giant' ",
-      "source": " Latest from Live Science ",
-      "date": "Tue, 08 Sep 2026 15:34:05 +0000",
-      "summary": "New research finds that western Siberia is becoming wetter as the world warms, while eastern Siberia seems to be getting drier. And both these conditions are fueling a rise in methane emissions, spelling trouble for the climate.",
-      "url": "https://www.livescience.com/planet-earth/climate-change/arctic-warming-fuels-2-distinct-climate-regimes-in-siberia-that-could-wake-up-a-methane-sleeping-giant"
-    },
-    {
-      "category": "Science",
-      "title": "Scientists discover a powerful new antivenom hidden in rattlesnake blood",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Tue, 08 Sep 2026 09:54:56 EDT",
-      "summary": "Researchers discovered that combinations of toxin-blocking proteins naturally found in rattlesnake blood can powerfully neutralize venom from several dangerous snake species. In lab tests, the mixtures were about 10 times more potent than a current commercial antivenom, pointing toward a new generation of nature-inspired snakebite treatments.",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260907201605.htm"
-    },
-    {
       "category": "AI",
       "title": "The Work Now Within Reach",
       "source": "OpenAI News",
       "date": "Tue, 08 Sep 2026 13:00:00 GMT",
       "summary": "Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical.",
       "url": "https://openai.com/index/the-work-now-within-reach"
-    },
-    {
-      "category": "Science",
-      "title": "Ozempic and Wegovy may have an unexpected mental health benefit",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Tue, 08 Sep 2026 08:59:00 EDT",
-      "summary": "Semaglutide, the drug behind Ozempic and Wegovy, may have benefits that extend well beyond weight loss and diabetes. In a large Swedish study of nearly 15,000 people with bipolar disorder, its use was linked to a 21% lower risk of psychiatric hospitalization. Researchers think effects on inflammation and brain-related biological pathways could help stabilize mood, though other GLP-1 drugs did not show the same association.",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260907201601.htm"
-    },
-    {
-      "category": "Science",
-      "title": "Giant new dinosaur discovered beneath construction site in Brazil",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Tue, 08 Sep 2026 08:42:29 EDT",
-      "summary": "Scientists have identified a giant new dinosaur from Brazil that reached about 20 meters long and lived 120 million years ago. Its surprising evolutionary ties to a Spanish dinosaur suggest its ancestors crossed ancient land connections between Europe, Africa, and South America.",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260907201603.htm"
     },
     {
       "category": "AI",
@@ -179,52 +243,12 @@
       "url": "https://www.biblicalarchaeology.org/daily/news/qumran-community-364-day-calendar/"
     },
     {
-      "category": "Biblical Studies",
-      "title": "The Temple on Mount Gerizim—In the Bible and Archaeology",
-      "source": "Biblical Archaeology Society",
-      "date": "Tue, 08 Sep 2026 11:00:05 +0000",
-      "summary": "Temples have been found throughout the ancient Near East. What went on at these sites? Along with reconstructing architectural remains, can scholars piece together ancient worship practices? […]\nThe post The Temple on Mount Gerizim—In the Bible and Archaeology appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/daily/the-temple-on-mount-gerizim-in-the-bible-and-archaeology/"
-    },
-    {
-      "category": "Theology",
-      "title": "Why AI Will Write Your Next Sermon",
-      "source": "The Gospel Coalition",
-      "date": "Tue, 08 Sep 2026 04:04:50 +0000",
-      "summary": "Collin Hansen explains the vision that guided AI pioneers and the pastoral pressures that drive AI adoption, including for composing sermons.",
-      "url": "https://www.thegospelcoalition.org/podcasts/gospelbound/ai-write-next-sermon/"
-    },
-    {
-      "category": "Theology",
-      "title": "Why Adult Children Are Cutting Off Their Parents",
-      "source": "The Gospel Coalition",
-      "date": "Tue, 08 Sep 2026 04:02:00 +0000",
-      "summary": "In ‘No Contact,’ Mering reminds us that our hope isn’t in getting our parenting right but in the renewal of all things through the cross and resurrection.",
-      "url": "https://www.thegospelcoalition.org/reviews/no-contact-break-family/"
-    },
-    {
-      "category": "Theology",
-      "title": "Young Adult Sorrows Need an Ancient Remedy",
-      "source": "The Gospel Coalition",
-      "date": "Tue, 08 Sep 2026 04:00:00 +0000",
-      "summary": "We don’t need God to answer all our anxious whys and what ifs. We need to see him more clearly for who he is.",
-      "url": "https://www.thegospelcoalition.org/article/young-adult-sorrows-remedy/"
-    },
-    {
       "category": "History",
       "title": "Smoke, Coffee, and Piracy: Adams and the 1786 Barbary Negotiations",
       "source": "Journal of the American Revolution",
       "date": "Mon, 07 Sep 2026 17:36:09 +0000",
       "summary": "On a brisk day in February of 1786, John Adams stepped into the home of Sidi Haji Abdrahaman, the envoy from the Barbary State of Tripoli. Adams spent much of his political and diplomatic career being taken as a nobody, described by his former friend turned political enemy Jonathan Sewall as having, “none of the […]\nThe post Smoke, Coffee, and Piracy: Adams and the 1786 Barbary Negotiations appeared first on Journal of the American Revolution.",
       "url": "https://allthingsliberty.com/2026/09/smoke-coffee-and-piracy-adams-and-the-1786-barbary-negotiations/"
-    },
-    {
-      "category": "Biblical Studies",
-      "title": "Were the Greek Gods Actually Minoan?",
-      "source": "Biblical Archaeology Society",
-      "date": "Mon, 07 Sep 2026 10:45:16 +0000",
-      "summary": "Long before the world of classical Greece, the island of Crete was home to the Minoans, one of the great civilizations of the Bronze Age Mediterranean. […]\nThe post Were the Greek Gods Actually Minoan? appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/were-greek-gods-actually-minoan/"
     },
     {
       "category": "History",
@@ -241,6 +265,30 @@
       "date": "Wed, 02 Sep 2026 22:00:29 +0000",
       "summary": "When Thomas Jefferson arrived in Paris in 1784, he carried with him the ideals of the American Revolution. Buoyed by the success of a revolution against the British empire, the soon-to-be appointed Minister to France found himself attempting to reconcile Republican principles with the complex political realities of Paris. It marked an intriguing reversal for […]\nThe post A Tale of Two Revolutions: Jefferson, Lafayette, and the Empire of Liberty appeared first on Journal of the American Revolution.",
       "url": "https://allthingsliberty.com/2026/09/a-tale-of-two-revolutions-jefferson-lafayette-and-the-empire-of-liberty/"
+    },
+    {
+      "category": "Theology",
+      "title": "Counsel for a Young Pastor of a Long-Established Congregation",
+      "source": "9Marks",
+      "date": "Wed, 02 Sep 2026 20:36:48 +0000",
+      "summary": "For a young pastor, consistency becomes one of the primary ways to demonstrate that you are not there to disrupt for disruption’s sake, but to shepherd with care and conviction according to the Word of God.\nThe post Counsel for a Young Pastor of a Long-Established Congregation appeared first on 9Marks.",
+      "url": "https://www.9marks.org/article/counsel-for-a-young-pastor-of-a-long-established-congregation/?utm_source=rss&utm_medium=rss&utm_campaign=counsel-for-a-young-pastor-of-a-long-established-congregation"
+    },
+    {
+      "category": "Theology",
+      "title": "Richard Baxter’s Advice to Pastors",
+      "source": "9Marks",
+      "date": "Mon, 31 Aug 2026 21:48:15 +0000",
+      "summary": "If God threw down a proud angel from heaven, would he want a proud preacher in the pulpit? \nThe post Richard Baxter’s Advice to Pastors appeared first on 9Marks.",
+      "url": "https://www.9marks.org/article/richard-baxters-advice-to-pastors/?utm_source=rss&utm_medium=rss&utm_campaign=richard-baxters-advice-to-pastors"
+    },
+    {
+      "category": "Theology",
+      "title": "Caring for Aging Parents",
+      "source": "9Marks",
+      "date": "Fri, 28 Aug 2026 17:46:38 +0000",
+      "summary": "Every pastor’s parents are getting older and closer to the day when they will stand before the Lord. \nThe post Caring for Aging Parents appeared first on 9Marks.",
+      "url": "https://www.9marks.org/article/caring-for-aging-parents/?utm_source=rss&utm_medium=rss&utm_campaign=caring-for-aging-parents"
     },
     {
       "category": "History",
