@@ -1,126 +1,190 @@
 {
-  "lastUpdated": "2026-09-09T23:43:22.513Z",
-  "articleCount": 36,
+  "lastUpdated": "2026-09-10T13:58:52.338Z",
+  "articleCount": 39,
   "articles": [
     {
       "category": "Science",
-      "title": "Electrical fingerprint on tiny cell particles could offer new way to spot pancreatic cancer signals",
+      "title": "Veterinarian outlines practical steps to protect pets from bird flu",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Wed, 09 Sep 2026 19:40:09 EDT",
-      "summary": "An electrical fingerprint found on tiny particles in the blood may help detect signs of pancreatic cancer that are often overlooked, according to new research from Rice University. The researchers developed a device that separates these particles based on their electrical charge, making cancer-associated signals more visible.",
-      "url": "https://phys.org/news/2026-09-electrical-fingerprint-tiny-cell-particles.html"
+      "date": "Thu, 10 Sep 2026 09:40:10 EDT",
+      "summary": "As a veterinarian who studies infectious diseases in cats, I've been repeatedly asked whether Australia's outbreak of the H5 bird flu poses a risk to pets. The short answer is yes.",
+      "url": "https://phys.org/news/2026-09-veterinarian-outlines-pets-bird-flu.html"
     },
     {
       "category": "Science",
-      "title": "Rising sea levels could cost Australians at least $855 billion by 2100",
+      "title": "Hungry scent detection dogs more likely to 'cry wolf'",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Wed, 09 Sep 2026 19:40:04 EDT",
-      "summary": "Rising sea levels and storm surges could cost $855 billion in economic losses across Australia by the end of the century, according to new research, the first of its kind in Australia.",
-      "url": "https://phys.org/news/2026-09-sea-australians-billion.html"
-    },
-    {
-      "category": "Science",
-      "title": "What really drives tourists to choose a hotel? New global study reveals the answer",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Wed, 09 Sep 2026 19:20:06 EDT",
-      "summary": "Why do travelers choose one hotel over another, and what makes them return?",
-      "url": "https://phys.org/news/2026-09-tourists-hotel-global-reveals.html"
+      "date": "Thu, 10 Sep 2026 09:40:01 EDT",
+      "summary": "Dogs trained in scent detection may be better at sniffing out the right smell after breakfast, with new research finding hungry dogs working for treats are more likely to falsely identify the wrong scent. The study, led by researchers from the University of Waikato and Adelaide University, explored how meal timing affected dogs' accuracy in detecting target scents.",
+      "url": "https://phys.org/news/2026-09-hungry-scent-dogs-cry-wolf.html"
     },
     {
       "category": "AI",
-      "title": "South Park creators rename show 'South America'",
+      "title": "Tell HN: OpenAI keeps re-enabling the 'allow training' setting",
       "source": "Hacker News: Front Page",
-      "date": "Wed, 09 Sep 2026 21:53:43 +0000",
-      "summary": "Article URL: https://www.bbc.co.uk/news/articles/cp9340rg7k8o\nComments URL: https://news.ycombinator.com/item?id=49634966\nPoints: 76\n# Comments: 14",
-      "url": "https://www.bbc.co.uk/news/articles/cp9340rg7k8o"
+      "date": "Thu, 10 Sep 2026 13:39:53 +0000",
+      "summary": "I've reset this more than once and the last time I made a careful note of when I did it and to my surprise I found it re-enabled when I checked just now. Make sure you check this thing to see if it hasn't been re-enabled if you believe it to be off right now.\nComments URL: https://news.ycombinator.com/item?id=49643556\nPoints: 8\n# Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=49643556"
+    },
+    {
+      "category": "AI",
+      "title": "AI Doomlord Jacob Coxon's Media Tour Has Begun",
+      "source": "Hacker News: Front Page",
+      "date": "Thu, 10 Sep 2026 13:21:50 +0000",
+      "summary": "Article URL: https://gizmodo.com/ai-doomlord-jacob-coxons-media-tour-has-begun-2000809720\nComments URL: https://news.ycombinator.com/item?id=49643299\nPoints: 11\n# Comments: 5",
+      "url": "https://gizmodo.com/ai-doomlord-jacob-coxons-media-tour-has-begun-2000809720"
     },
     {
       "category": "Science",
-      "title": " 'America's Nobel' prizes go to sleep and hemophilia researchers, and to Michael J. Fox for Parkinson's advocacy ",
+      "title": "AI watermarks may turn workplace praise and apologies into trust tests",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Thu, 10 Sep 2026 09:20:06 EDT",
+      "summary": "Imagine a manager sends a thoughtful message to one of her hard-working employees after a particularly exhausting week in the office. The message communicates personal warmth, but when the recipient discovers it was generated by AI, it somehow feels less genuine.",
+      "url": "https://phys.org/news/2026-09-ai-watermarks-workplace.html"
+    },
+    {
+      "category": "AI",
+      "title": "Another researcher says OpenAI trained on conversations, then claimed breakthrou",
+      "source": "Hacker News: Front Page",
+      "date": "Thu, 10 Sep 2026 13:07:14 +0000",
+      "summary": "Article URL: https://bsky.app/profile/did:plc:ckaz32jwl6t2cno6fmuw2nhn/post/3mv4mt4ikss2d\nComments URL: https://news.ycombinator.com/item?id=49643112\nPoints: 76\n# Comments: 30",
+      "url": "https://bsky.app/profile/did:plc:ckaz32jwl6t2cno6fmuw2nhn/post/3mv4mt4ikss2d"
+    },
+    {
+      "category": "Science",
+      "title": " Mercury may have shrunk much more than we thought, new study hints ",
       "source": " Latest from Live Science ",
-      "date": "Wed, 09 Sep 2026 21:47:17 +0000",
-      "summary": "The Lasker Foundation has announced the winners of its 2026 awards for basic medical research, clinical science and public service.",
-      "url": "https://www.livescience.com/health/americas-nobel-prizes-go-to-sleep-and-hemophilia-researchers-and-to-michael-j-fox-for-parkinsons-advocacy"
+      "date": "Thu, 10 Sep 2026 13:00:00 +0000",
+      "summary": "Mercury may be shrinking much faster than we thought — and that could reveal new clues about its violent origins.",
+      "url": "https://www.livescience.com/space/mercury/mercury-may-have-shrunk-much-more-than-we-thought-new-study-hints"
+    },
+    {
+      "category": "Science",
+      "title": " Powerful new AI model will map the moon's surface in more detail than ever, NASA and IBM scientists say ",
+      "source": " Latest from Live Science ",
+      "date": "Thu, 10 Sep 2026 12:00:00 +0000",
+      "summary": "IBM and NASA have partnered to create the Lunar Foundation Model, a new AI capable of processing decades of lunar data so we can more accurately map the moon's surface.",
+      "url": "https://www.livescience.com/technology/artificial-intelligence/moons-surface-will-be-mapped-in-incredible-detail-using-first-of-its-kind-ai-nasa-and-ibm-reveal"
     },
     {
       "category": "Space",
-      "title": " This 'impossible' black hole merger may be explained by a warp in spacetime ",
+      "title": " What comes after the moon? Artemis II commander and pilot shift to 'emeritus' status at NASA ",
       "source": " Latest from Space.com ",
-      "date": "Wed, 09 Sep 2026 21:00:00 +0000",
-      "summary": "A \"forbidden\" merger between two black holes may not have been quite as impossible as previously thought. New research that suggests the black holes involved were smaller than first calculated.",
-      "url": "https://www.space.com/astronomy/black-holes/this-impossible-black-hole-merger-may-be-explained-by-a-warp-in-spacetime"
+      "date": "Thu, 10 Sep 2026 12:00:00 +0000",
+      "summary": "Artemis II astronauts Reid Wiseman, Victor Glover and Jeremy Hansen are planning new journeys after their April 2026 moon mission.",
+      "url": "https://www.space.com/space-exploration/artemis/what-comes-after-the-moon-artemis-ii-commander-and-pilot-shift-to-emeritus-status-at-nasa"
     },
     {
       "category": "AI",
-      "title": "Six Chinese AI firms accused of aggressively copying US frontier models",
+      "title": "Artemis II commander and pilot become NASA's first astronaut emeriti",
       "source": "Ars Technica - All content",
-      "date": "Wed, 09 Sep 2026 20:06:28 +0000",
-      "summary": "US urges AI firms to ID, then secretly switch, Chinese users to less-capable models.",
-      "url": "https://arstechnica.com/tech-policy/2026/09/six-chinese-ai-firms-accused-of-aggressively-copying-us-frontier-models/"
+      "date": "Thu, 10 Sep 2026 11:30:42 +0000",
+      "summary": "\"Artemis II is done.\"",
+      "url": "https://arstechnica.com/space/2026/09/artemis-ii-commander-and-pilot-become-nasas-first-astronaut-emeriti/"
     },
     {
-      "category": "Space",
-      "title": " International Space Station astronaut gives out of this world tribute to honor Star Trek’s 60th anniversary ",
-      "source": " Latest from Space.com ",
-      "date": "Wed, 09 Sep 2026 20:00:00 +0000",
-      "summary": "European Space Agency astronaut Sophie Adenot paid tribute to Star Trek’s real-world contributions to science and exploration by wearing Captain Pike’s Starfleet badge aboard the International Space Station on the show’s 60th anniversary.",
-      "url": "https://www.space.com/space-exploration/international-space-station-astronaut-gives-out-of-this-world-tribute-to-honor-star-treks-60th-anniversary"
+      "category": "Biblical Studies",
+      "title": "10 Great Biblical Artifacts at the Bible Lands Museum Jerusalem",
+      "source": "Biblical Archaeology Society",
+      "date": "Thu, 10 Sep 2026 11:00:38 +0000",
+      "summary": "10 The Bible Lands Museum Jerusalem houses one of the world’s most important collections of Biblical artifacts.\nThe post 10 Great Biblical Artifacts at the Bible Lands Museum Jerusalem appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/daily/biblical-artifacts/artifacts-and-the-bible/10-great-biblical-artifacts-at-the-bible-lands-museum-jerusalem/"
+    },
+    {
+      "category": "Biblical Studies",
+      "title": "King Hezekiah in the Bible: Royal Seal of Hezekiah Comes to Light",
+      "source": "Biblical Archaeology Society",
+      "date": "Thu, 10 Sep 2026 11:00:28 +0000",
+      "summary": "For the first time, the royal seal of King Hezekiah in the Bible has been found in an archaeological excavation. \nThe post King Hezekiah in the Bible: Royal Seal of Hezekiah Comes to Light appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/daily/news/king-hezekiah-in-the-bible-royal-seal-of-hezekiah-comes-to-light/"
     },
     {
       "category": "Science",
-      "title": " Watch the first-ever footage of a rare deep-sea squid in the northeastern Pacific ",
+      "title": " Canon RF 20mm f/1.4L VCM review: Wide, bright and built for the dark ",
       "source": " Latest from Live Science ",
-      "date": "Wed, 09 Sep 2026 19:58:56 +0000",
-      "summary": "A rare sighting of a bigfin squid near an underwater mountain off California is the first confirmed live observation of the bizarre animal in the northeastern Pacific, researchers say.",
-      "url": "https://www.livescience.com/animals/squids/watch-the-first-ever-footage-of-a-rare-deep-sea-squid-in-the-northeastern-pacific"
+      "date": "Thu, 10 Sep 2026 11:00:00 +0000",
+      "summary": "With a bright f/1.4 aperture and wide field of view, this L-series prime lens is aimed at photographers who regularly shoot in low light",
+      "url": "https://www.livescience.com/products/optics/canon-rf-20mm-f-1-4l-vcm-review"
     },
     {
-      "category": "AI",
-      "title": "Apple's long-rumored foldable becomes reality with the $2,000 iPhone Duo",
-      "source": "Ars Technica - All content",
-      "date": "Wed, 09 Sep 2026 19:42:00 +0000",
-      "summary": "Apple's first foldable can be yours next month.",
-      "url": "https://arstechnica.com/gadgets/2026/09/apples-long-rumored-foldable-becomes-reality-with-the-2000-iphone-duo/"
-    },
-    {
-      "category": "AI",
-      "title": "When it comes to Beatles references, scientists can't let it be",
-      "source": "Ars Technica - All content",
-      "date": "Wed, 09 Sep 2026 19:31:55 +0000",
-      "summary": "New study detects 3,200 references to Beatles song titles and lyrics in academic papers.",
-      "url": "https://arstechnica.com/science/2026/09/scientists-really-love-to-reference-the-beatles-in-their-work/"
-    },
-    {
-      "category": "Science",
-      "title": " 'Why would you ruin your career?': OpenAI claims to have cracked one of math's greatest unsolved problems, but mathematicians allege it played dirty ",
-      "source": " Latest from Live Science ",
-      "date": "Wed, 09 Sep 2026 19:25:51 +0000",
-      "summary": "A breakthrough on the Navier-Stokes equations could be worth a $1 million prize, but a mathematician has serious questions about how OpenAI got there so fast.",
-      "url": "https://www.livescience.com/physics-mathematics/mathematics/why-would-you-ruin-your-career-openai-claims-to-have-cracked-one-of-maths-greatest-unsolved-problems-but-mathematicians-allege-it-played-dirty"
+      "category": "History",
+      "title": "Washington’s Invalid Corps: Wounded Warriors Still Served the Revolutionary Cause",
+      "source": "Journal of the American Revolution",
+      "date": "Thu, 10 Sep 2026 10:00:07 +0000",
+      "summary": "Although some readers may be familiar with the Civil War’s Invalid Corps, which wrought value and service from even grievously wounded men during that conflict, few probably know that America’s first such organization appeared during the Revolutionary War. Like its later counterpart, Washington’s Corps of Invalids provided the nation valuable service and roles for men […]\nThe post Washington’s Invalid Corps: Wounded Warriors Still Served the Revolutionary Cause appeared first on Journal of the American Revolution.",
+      "url": "https://allthingsliberty.com/2026/09/washingtons-invalid-corps-wounded-warriors-still-served-the-revolutionary-cause/"
     },
     {
       "category": "Space",
-      "title": " Astronomers discover two stars that joined together to form a binary system just 60 years ago ",
+      "title": " Strange 'fast radio bursts' across the universe could help solve major cosmic mysteries: 'It's only the beginning' ",
       "source": " Latest from Space.com ",
-      "date": "Wed, 09 Sep 2026 19:00:00 +0000",
-      "summary": "Using ALMA, astronomers have watched as two stars come together to form a massive stellar binary, finding chaos that indicates they emerged from different backgrounds.",
-      "url": "https://www.space.com/astronomy/stars/astronomers-discover-two-stars-that-joined-together-to-form-a-binary-system-just-60-years-ago"
+      "date": "Thu, 10 Sep 2026 10:00:00 +0000",
+      "summary": "Though their origins may be shrouded in mystery, fast radio bursts could be used to probe some of the universe's biggest puzzles, including the nature of dark matter and dark energy.",
+      "url": "https://www.space.com/astronomy/black-holes/strange-fast-radio-bursts-across-the-universe-could-help-solve-major-cosmic-mysteries-its-only-the-beginning"
+    },
+    {
+      "category": "Space",
+      "title": "APOD: 2026 September 10 – LDN 1295: The Giraffe Nebula",
+      "source": "NASA",
+      "date": "Thu, 10 Sep 2026 04:05:00 +0000",
+      "summary": "APOD Science APOD APOD: 2026 September 10 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. LDN 1295: The […]",
+      "url": "https://science.nasa.gov/image-article/apod-2026-september-10-ldn-1295-the-giraffe-nebula/"
+    },
+    {
+      "category": "Space",
+      "title": " Watch SpaceX launch classified mission for the US Space Force today ",
+      "source": " Latest from Space.com ",
+      "date": "Thu, 10 Sep 2026 04:05:00 +0000",
+      "summary": "SpaceX will launch the classified USSF-153 mission for the U.S. Space Force today (Sept. 10), and you can watch the action live.",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launch-classified-space-force-mission-ussf-153"
+    },
+    {
+      "category": "Theology",
+      "title": "Why ‘The Uprising’ Is a Fitting September 11 Release",
+      "source": "The Gospel Coalition",
+      "date": "Thu, 10 Sep 2026 04:02:00 +0000",
+      "summary": "It’s been 20 years since director Paul Greengrass released ‘United 93,’ but that film helps us understand his latest drama about a violent clash.",
+      "url": "https://www.thegospelcoalition.org/article/uprising-september-11/"
+    },
+    {
+      "category": "Space",
+      "title": "Dust Storm Sweeps Over Mali",
+      "source": "NASA",
+      "date": "Thu, 10 Sep 2026 04:00:00 +0000",
+      "summary": "At a time of year when dust storm activity winds down, a plume of dust blanketed parts of the West African nation and its neighbors.",
+      "url": "https://science.nasa.gov/earth/earth-observatory/dust-storm-sweeps-over-mali/"
+    },
+    {
+      "category": "Theology",
+      "title": "C. S. Lewis on Why God Seems Silent",
+      "source": "The Gospel Coalition",
+      "date": "Thu, 10 Sep 2026 04:00:00 +0000",
+      "summary": "In ‘Till We Have Faces,’ C. S. Lewis shows that we must admit our sin before we can truly encounter God.",
+      "url": "https://www.thegospelcoalition.org/article/lewis-till-we-have-faces/"
     },
     {
       "category": "AI",
-      "title": "iPhone Duo",
-      "source": "Hacker News: Front Page",
-      "date": "Wed, 09 Sep 2026 18:15:43 +0000",
-      "summary": "Article URL: https://www.apple.com/iphone-duo/\nComments URL: https://news.ycombinator.com/item?id=49630931\nPoints: 780\n# Comments: 1543",
-      "url": "https://www.apple.com/iphone-duo/"
+      "title": "Four groups caught using the same Chrome and Windows exploit kit",
+      "source": "Ars Technica - All content",
+      "date": "Wed, 09 Sep 2026 20:55:02 +0000",
+      "summary": "A patch gap and the hastened pace of AI-based vulnerability discovery are likely contributors.",
+      "url": "https://arstechnica.com/information-technology/2026/09/4-groups-caught-using-the-same-chrome-and-windows-exploit-kit/"
     },
     {
       "category": "AI",
-      "title": "Show HN: Self-hosted company OS, Claude Code and Codex agents in departments",
-      "source": "Hacker News: Front Page",
-      "date": "Wed, 09 Sep 2026 17:57:55 +0000",
-      "summary": "Hi HN, I am Dimitris. \nThis is a company OS that I built and use to run my business and anyone can install it and self host it for free. Think of it as Claude Code, Cowork and the cloud sessions in one self hosted application.\nIt is a Multi-tenant application by design where many people can collaborate on the company agents with 4 different modes of collaboration, and it runs with your Anthropic or OpenAi subscription or even with local models.\nEvery agent can run on Claude Code or Codex CLI running as a persistent process on your server in a kernel sandbox (bubblewrap) with network isolation always on (pasta), with its own workspace, memory, schedules and tools. The same agents can also be configured to run identical on any remote computer through one outbound WebSocket (no inbound ports, no VPN needed).\nThe agent already have lots of built in features, as an example they can answer and place phone calls through Twilio or your own Asterisk, they can edit videos and excel, word, ppt files and preview them directly inside the chat with collabora and many more.\nTrying it is one install script and a docker compose, no signup. The license is Fair Source, all the code is public and self hosting is free up to 5 users. 1.6.0 went out today.\nAI Disclaimer: large parts of OtoDock are written using OtoDock itself, running Claude Code.\nI would love people to read the code, take a look in the sandbox model, and tell me what would stop you from running this on your own hardware.\nGitHub: https://github.com/OtoDock/oto-dock\nWebsite: https://otodock.io\nComments URL: https://news.ycombinator.com/item?id=49630606\nPoints: 35\n# Comments: 8",
-      "url": "https://github.com/OtoDock/oto-dock"
+      "title": "Europe may finally have found a space entrepreneur who is meeting the moment",
+      "source": "Ars Technica - All content",
+      "date": "Wed, 09 Sep 2026 20:27:40 +0000",
+      "summary": "\"We will not be relevant without a massive rocket at a massive cadence.\"",
+      "url": "https://arstechnica.com/space/2026/09/as-europe-flounders-in-space-a-rising-french-star-may-show-the-way/"
+    },
+    {
+      "category": "Space",
+      "title": "NASA Adds Relativity Space’s Terran R to Launch Services Contract",
+      "source": "NASA",
+      "date": "Wed, 09 Sep 2026 20:11:58 +0000",
+      "summary": "A NASA Launch Services (NLS) II contract has been awarded by the agency to Relativity Space Inc., and its Terran R launch service in accordance with the contract’s on-ramp provision. The Terran R launch service will be available to NASA’s launch services to use for future missions. The NLS II contracts are multiple-award, indefinite-delivery/indefinite-quantity contracts […]",
+      "url": "https://www.nasa.gov/news-release/nasa-adds-relativity-spaces-terran-r-to-launch-services-contract/"
     },
     {
       "category": "AI",
@@ -137,6 +201,14 @@
       "date": "Wed, 09 Sep 2026 09:52:53 EDT",
       "summary": "An experimental compound called AP503 significantly strengthened bones in mice by activating GPR133, a receptor that boosts bone formation while slowing bone loss. Because the same treatment has also been linked to stronger muscles, researchers see intriguing potential for combating age-related decline and osteoporosis.",
       "url": "https://www.sciencedaily.com/releases/2026/09/260909005305.htm"
+    },
+    {
+      "category": "AI",
+      "title": "The AI policy window is open. We need to act.",
+      "source": "OpenAI News",
+      "date": "Wed, 09 Sep 2026 13:00:00 GMT",
+      "summary": "Chris Lehane argues that stronger AI capabilities require stronger safety evidence, shared standards, and durable policy action while the policy window remains open.",
+      "url": "https://openai.com/index/ai-policy-window"
     },
     {
       "category": "Science",
@@ -163,14 +235,6 @@
       "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-rome/sacred-circles-in-christianity-and-buddhism/"
     },
     {
-      "category": "Biblical Studies",
-      "title": "Tracing the Justinian Plague",
-      "source": "Biblical Archaeology Society",
-      "date": "Wed, 09 Sep 2026 10:00:08 +0000",
-      "summary": "The Justinian Plague (c. 541–750 CE) was one of the deadliest pandemics in human history. The Byzantine chronicler Procopius recorded that the plague claimed the […]\nThe post Tracing the Justinian Plague appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-rome/tracing-the-justinian-plague/"
-    },
-    {
       "category": "Science",
       "title": "Interstellar comet 3I/ATLAS is bursting with methanol",
       "source": "All Top News -- ScienceDaily",
@@ -187,38 +251,6 @@
       "url": "https://www.thegospelcoalition.org/article/ai-tools-work-demands/"
     },
     {
-      "category": "Theology",
-      "title": "4 Misconceptions About the 4 Senses",
-      "source": "The Gospel Coalition",
-      "date": "Wed, 09 Sep 2026 04:02:00 +0000",
-      "summary": "The best iterations of the four senses in no way reject the grammatical-historical sense; they affirm it.",
-      "url": "https://www.thegospelcoalition.org/article/four-misconceptions-four-senses/"
-    },
-    {
-      "category": "Theology",
-      "title": "Let’s Reclaim ‘Evangelical’ for the Sake of the Global Church",
-      "source": "The Gospel Coalition",
-      "date": "Wed, 09 Sep 2026 04:00:00 +0000",
-      "summary": "Intentionally returning to the global evangelical family will cause American Christians to embody a renewed passion for the good news to unify God’s people, while sanctifying each of us with the unique joys and pressures in our corner of the globe.",
-      "url": "https://www.thegospelcoalition.org/article/retain-evangelical-global-church/"
-    },
-    {
-      "category": "AI",
-      "title": "How GPT-5.6 Sol helps run quantum computing experiments",
-      "source": "OpenAI News",
-      "date": "Tue, 08 Sep 2026 17:00:00 GMT",
-      "summary": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.",
-      "url": "https://openai.com/index/codex-quantum-computing-experiments"
-    },
-    {
-      "category": "Biblical Studies",
-      "title": "Deciphered Dead Sea Scroll Reveals 364-Day Calendar",
-      "source": "Biblical Archaeology Society",
-      "date": "Tue, 08 Sep 2026 11:00:19 +0000",
-      "summary": "Researchers recently deciphered one of the last two remaining Dead Sea Scrolls. Written in code, the scroll describes a 364-day calendar used by the Qumran community that lived in the Judean Desert.\nThe post Deciphered Dead Sea Scroll Reveals 364-Day Calendar appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/daily/news/qumran-community-364-day-calendar/"
-    },
-    {
       "category": "History",
       "title": "Smoke, Coffee, and Piracy: Adams and the 1786 Barbary Negotiations",
       "source": "Journal of the American Revolution",
@@ -233,14 +265,6 @@
       "date": "Sun, 06 Sep 2026 22:00:23 +0000",
       "summary": "BOOK REVIEW: One Nation Under Law: The Meaning of the Declaration of Independence by Carlton F.W. Larson (Cambridge: Cambridge University Press, 2026. $33.00 paperback) Carlton F.W. Larson’s monograph One Nation Under Law: The Meaning of the Declaration of Independence published by Cambridge University Press, discusses the origins of the Declaration of Independence. Through looking at […]\nThe post One Nation Under Law: The Meaning of the Declaration of Independence appeared first on Journal of the American Revolution.",
       "url": "https://allthingsliberty.com/2026/09/one-nation-under-law-the-meaning-of-the-declaration-of-independence/"
-    },
-    {
-      "category": "History",
-      "title": "A Tale of Two Revolutions: Jefferson, Lafayette, and the Empire of Liberty",
-      "source": "Journal of the American Revolution",
-      "date": "Wed, 02 Sep 2026 22:00:29 +0000",
-      "summary": "When Thomas Jefferson arrived in Paris in 1784, he carried with him the ideals of the American Revolution. Buoyed by the success of a revolution against the British empire, the soon-to-be appointed Minister to France found himself attempting to reconcile Republican principles with the complex political realities of Paris. It marked an intriguing reversal for […]\nThe post A Tale of Two Revolutions: Jefferson, Lafayette, and the Empire of Liberty appeared first on Journal of the American Revolution.",
-      "url": "https://allthingsliberty.com/2026/09/a-tale-of-two-revolutions-jefferson-lafayette-and-the-empire-of-liberty/"
     },
     {
       "category": "Theology",
