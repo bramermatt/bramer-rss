@@ -1,30 +1,94 @@
 {
-  "lastUpdated": "2026-09-10T18:52:08.713Z",
-  "articleCount": 39,
+  "lastUpdated": "2026-09-10T23:35:50.805Z",
+  "articleCount": 36,
   "articles": [
     {
       "category": "Science",
-      "title": "Ultrathin silicon structures can tune mid-IR light in billionths of a second",
+      "title": "Rare bird fossils from Bavaria reveal new species, including an eagle",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Thu, 10 Sep 2026 14:40:07 EDT",
-      "summary": "Light in the mid-infrared (mid-IR) portion of the electromagnetic spectrum plays a key role in modern sensing. Because molecules interact with this kind of light in specific ways, researchers use technologies like mid-IR spectroscopy to identify biological materials, drugs and pollutants. Mid-IR light can also serve as a carrier of information in free-space optical communications, where data are transmitted through the air without using cables or fibers. Better control of mid-IR light could therefore lead to more sensitive detectors and faster communications.",
-      "url": "https://phys.org/news/2026-09-ultrathin-silicon-tune-mid-ir.html"
+      "date": "Thu, 10 Sep 2026 19:20:05 EDT",
+      "summary": "The Hammerschmiede clay pit near Pforzen in the eastern Allgäu is famous for its wealth of finds: Besides fossils of two early anthropoid apes, the remains of numerous vertebrate species have been uncovered in 11.6-million-year-old river sediments—but until now, very few birds.",
+      "url": "https://phys.org/news/2026-09-rare-bird-fossils-bavaria-reveal.html"
     },
     {
       "category": "Science",
-      "title": "Focus on biodiversity conservation may offer a less divisive path to climate action in Japan",
+      "title": "Has gentle parenting gone too far?",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Thu, 10 Sep 2026 14:40:01 EDT",
-      "summary": "If you want to drum up support for environmental action, putting climate change front and center may not always be the best strategy. A new study by Aya Takagi and Ryosuke Nakadai of Yokohama National University suggests that support for policies that emphasize biodiversity conservation, including conservation measures that also contribute to climate goals, may be less divided along cultural lines than measures explicitly associated with climate change.",
-      "url": "https://phys.org/news/2026-09-focus-biodiversity-divisive-path-climate.html"
+      "date": "Thu, 10 Sep 2026 19:20:01 EDT",
+      "summary": "To be or not to be a gentle parent? That is the question. There is so much controversy these days about gentle parenting. What is it, and what is it not?",
+      "url": "https://phys.org/news/2026-09-gentle-parenting.html"
     },
     {
       "category": "Science",
-      "title": "Gondwana really was a supercontinent—and it may have helped kickstart life on Earth",
+      "title": "Ultra-cold quantum sensors cut X-ray uncertainty, improving nuclear material assessments",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Thu, 10 Sep 2026 14:20:10 EDT",
-      "summary": "Some 550 million years ago, Earth looked very different than it does today. The Southern Hemisphere was dominated by an enormous single continent known as Gondwana.",
-      "url": "https://phys.org/news/2026-09-gondwana-supercontinent-kickstart-life-earth.html"
+      "date": "Thu, 10 Sep 2026 19:00:01 EDT",
+      "summary": "To monitor the amount and type of nuclear material at power plants and weapons facilities, scientists look for a special signal—the unique pattern of gamma rays emitted by specific radioactive elements. However, some of these elements also emit X-rays in the same energy range as the gamma-ray emissions, masking the signal and making nuclear stockpiles harder to assess.",
+      "url": "https://phys.org/news/2026-09-ultra-cold-quantum-sensors-ray.html"
+    },
+    {
+      "category": "Theology",
+      "title": "Before Transitioning to a Plurality of Elders, Know Your Church’s History",
+      "source": "9Marks",
+      "date": "Thu, 10 Sep 2026 22:35:50 +0000",
+      "summary": "To shepherd a flock well, we need to understand that flock, and part of doing that is understanding where they have been and the events that have shaped them.\nThe post Before Transitioning to a Plurality of Elders, Know Your Church’s History appeared first on 9Marks.",
+      "url": "https://www.9marks.org/article/before-transitioning-to-a-plurality-of-elders-know-your-churchs-history/?utm_source=rss&utm_medium=rss&utm_campaign=before-transitioning-to-a-plurality-of-elders-know-your-churchs-history"
+    },
+    {
+      "category": "AI",
+      "title": "Boy developed \"toasted skin\" condition from using a laptop every day",
+      "source": "Ars Technica - All content",
+      "date": "Thu, 10 Sep 2026 22:16:05 +0000",
+      "summary": "Laptops don't usually get hot enough to burn—but they can still be harmful.",
+      "url": "https://arstechnica.com/health/2026/09/boy-developed-toasted-skin-condition-from-using-a-laptop-every-day/"
+    },
+    {
+      "category": "AI",
+      "title": "OpenAI’s Navier-Stokes release included a Lean 4 formal proof",
+      "source": "Hacker News: Front Page",
+      "date": "Thu, 10 Sep 2026 21:22:59 +0000",
+      "summary": "Article URL: https://www.johndcook.com/blog/2026/09/09/formal-method-revolution/\nComments URL: https://news.ycombinator.com/item?id=49650326\nPoints: 113\n# Comments: 109",
+      "url": "https://www.johndcook.com/blog/2026/09/09/formal-method-revolution/"
+    },
+    {
+      "category": "AI",
+      "title": "LinkedIn beats \"BrowserGate\" lawsuits over scanning users' Chrome extensions",
+      "source": "Ars Technica - All content",
+      "date": "Thu, 10 Sep 2026 20:55:29 +0000",
+      "summary": "Judge tosses lawsuits, says plaintiffs didn't allege any real privacy violation.",
+      "url": "https://arstechnica.com/tech-policy/2026/09/linkedin-beats-browsergate-lawsuits-over-scanning-users-chrome-extensions/"
+    },
+    {
+      "category": "AI",
+      "title": "Bodily Oddities",
+      "source": "Hacker News: Front Page",
+      "date": "Thu, 10 Sep 2026 20:33:11 +0000",
+      "summary": "Article URL: https://vester.si/bodily-oddities/\nComments URL: https://news.ycombinator.com/item?id=49649789\nPoints: 31\n# Comments: 23",
+      "url": "https://vester.si/bodily-oddities/"
+    },
+    {
+      "category": "Space",
+      "title": " The Summer Triangle — 3 stars, 1 seasonal mystery ",
+      "source": " Latest from Space.com ",
+      "date": "Thu, 10 Sep 2026 20:00:00 +0000",
+      "summary": "The Summer Triangle dominates the night sky long after summer begins to fade. So what makes Vega, Altair and Deneb a distinctly summer sight?",
+      "url": "https://www.space.com/stargazing/the-summer-triangle-3-stars-1-seasonal-mystery"
+    },
+    {
+      "category": "AI",
+      "title": "Proof of Capture: Apple Reference Image, but open source and using steganography",
+      "source": "Hacker News: Front Page",
+      "date": "Thu, 10 Sep 2026 19:44:15 +0000",
+      "summary": "Article URL: https://merybenavente.me/blog/proof-of-capture\nComments URL: https://news.ycombinator.com/item?id=49649222\nPoints: 47\n# Comments: 36",
+      "url": "https://merybenavente.me/blog/proof-of-capture"
+    },
+    {
+      "category": "AI",
+      "title": "Europe will go it alone on Venus mission after NASA yanks radar instrument",
+      "source": "Ars Technica - All content",
+      "date": "Thu, 10 Sep 2026 19:09:29 +0000",
+      "summary": "Europe is looking inward, and perhaps to China, as the White House tries to cancel some NASA partnerships.",
+      "url": "https://arstechnica.com/space/2026/09/europe-will-go-it-alone-on-venus-mission-after-nasa-yanks-radar-instrument/"
     },
     {
       "category": "Space",
@@ -43,60 +107,12 @@
       "url": "https://www.space.com/space-exploration/missions/link-spacecraft-gets-close-to-nasas-swift-observatory-but-not-close-enough-to-save-it"
     },
     {
-      "category": "AI",
-      "title": "JEP 544: Ahead-of-Time Code Compilation",
-      "source": "Hacker News: Front Page",
-      "date": "Thu, 10 Sep 2026 17:30:39 +0000",
-      "summary": "Article URL: https://openjdk.org/jeps/544\nComments URL: https://news.ycombinator.com/item?id=49647404\nPoints: 13\n# Comments: 9",
-      "url": "https://openjdk.org/jeps/544"
-    },
-    {
-      "category": "Space",
-      "title": "NASA, NFL Team Up to Showcase Space, Aeronautics Innovation",
-      "source": "NASA",
-      "date": "Thu, 10 Sep 2026 17:28:13 +0000",
-      "summary": "Through a new collaboration between NASA and the National Football League (NFL), the agency will soon bring America’s strengths in space exploration and aeronautics innovation to the football field. NASA will conduct flyovers, astronaut appearances, and fan engagement at NFL games across the United States as part of its new Inspiration Tour. “This is the […]",
-      "url": "https://www.nasa.gov/news-release/nasa-nfl-team-up-to-showcase-space-aeronautics-innovation/"
-    },
-    {
-      "category": "AI",
-      "title": "Music Theory for the 21st-Century Classroom",
-      "source": "Hacker News: Front Page",
-      "date": "Thu, 10 Sep 2026 17:14:12 +0000",
-      "summary": "Article URL: https://musictheory.pugetsound.edu/mt21c/MusicTheory.html\nComments URL: https://news.ycombinator.com/item?id=49647134\nPoints: 21\n# Comments: 5",
-      "url": "https://musictheory.pugetsound.edu/mt21c/MusicTheory.html"
-    },
-    {
       "category": "Science",
       "title": " Infectious diseases will seed new ground as the planet warms — here's where they'll spread ",
       "source": " Latest from Live Science ",
       "date": "Thu, 10 Sep 2026 17:00:15 +0000",
       "summary": "Climate change will increase our exposure to myriad infections, from tick-borne diseases to drug-resistant bacterial infections.",
       "url": "https://www.livescience.com/planet-earth/climate-change/infectious-diseases-will-seed-new-ground-as-the-planet-warms-heres-where-theyll-spread"
-    },
-    {
-      "category": "AI",
-      "title": "Cognition's SWE-2 achieves 92.8 on Terminal-Bench 2.1",
-      "source": "Hacker News: Front Page",
-      "date": "Thu, 10 Sep 2026 16:52:11 +0000",
-      "summary": "Article URL: https://tokenstead.ai/models/swe-2\nComments URL: https://news.ycombinator.com/item?id=49646778\nPoints: 15\n# Comments: 4",
-      "url": "https://tokenstead.ai/models/swe-2"
-    },
-    {
-      "category": "Space",
-      "title": "Dust and Water in Sagittarius A*",
-      "source": "NASA",
-      "date": "Thu, 10 Sep 2026 16:14:03 +0000",
-      "summary": "A brilliant concentration of stars takes center stage in this Aug. 11, 2026, image taken by NASA’s James Webb Space Telescope. Webb observed IRS 3, a star near the end of its life cycle, located within this starfield. Webb’s mid-infrared data revealed the clear signature of oxygen-rich silicate dust, as well as, for the first […]",
-      "url": "https://www.nasa.gov/image-article/dust-and-water-in-sagittarius-a/"
-    },
-    {
-      "category": "Space",
-      "title": " Scientists study 3,000 supernovas and discover that dark energy may be evolving ",
-      "source": " Latest from Space.com ",
-      "date": "Thu, 10 Sep 2026 16:00:00 +0000",
-      "summary": "A catalog of almost 3,000 white dwarfs that exploded as type Ia supernovas after overfeeding on companion stars indicates that dark energy is changing over time.",
-      "url": "https://www.space.com/astronomy/dark-universe/scientists-study-3-000-supernovas-and-discover-that-dark-energy-may-be-evolving"
     },
     {
       "category": "AI",
@@ -131,14 +147,6 @@
       "url": "https://www.livescience.com/space/mercury/mercury-may-have-shrunk-much-more-than-we-thought-new-study-hints"
     },
     {
-      "category": "AI",
-      "title": "Artemis II commander and pilot become NASA's first astronaut emeriti",
-      "source": "Ars Technica - All content",
-      "date": "Thu, 10 Sep 2026 11:30:42 +0000",
-      "summary": "\"Artemis II is done.\"",
-      "url": "https://arstechnica.com/space/2026/09/artemis-ii-commander-and-pilot-become-nasas-first-astronaut-emeriti/"
-    },
-    {
       "category": "Biblical Studies",
       "title": "10 Great Biblical Artifacts at the Bible Lands Museum Jerusalem",
       "source": "Biblical Archaeology Society",
@@ -171,14 +179,6 @@
       "url": "https://openai.com/index/introducing-chatgpt-financial-services"
     },
     {
-      "category": "Space",
-      "title": "APOD: 2026 September 10 – LDN 1295: The Giraffe Nebula",
-      "source": "NASA",
-      "date": "Thu, 10 Sep 2026 04:05:00 +0000",
-      "summary": "APOD Science APOD APOD: 2026 September 10 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. LDN 1295: The […]",
-      "url": "https://science.nasa.gov/image-article/apod-2026-september-10-ldn-1295-the-giraffe-nebula/"
-    },
-    {
       "category": "Theology",
       "title": "Why ‘The Uprising’ Is a Fitting September 11 Release",
       "source": "The Gospel Coalition",
@@ -193,22 +193,6 @@
       "date": "Thu, 10 Sep 2026 04:00:00 +0000",
       "summary": "In ‘Till We Have Faces,’ C. S. Lewis shows that we must admit our sin before we can truly encounter God.",
       "url": "https://www.thegospelcoalition.org/article/lewis-till-we-have-faces/"
-    },
-    {
-      "category": "AI",
-      "title": "Four groups caught using the same Chrome and Windows exploit kit",
-      "source": "Ars Technica - All content",
-      "date": "Wed, 09 Sep 2026 20:55:02 +0000",
-      "summary": "A patch gap and the hastened pace of AI-based vulnerability discovery are likely contributors.",
-      "url": "https://arstechnica.com/information-technology/2026/09/4-groups-caught-using-the-same-chrome-and-windows-exploit-kit/"
-    },
-    {
-      "category": "AI",
-      "title": "Europe may finally have found a space entrepreneur who is meeting the moment",
-      "source": "Ars Technica - All content",
-      "date": "Wed, 09 Sep 2026 20:27:40 +0000",
-      "summary": "\"We will not be relevant without a massive rocket at a massive cadence.\"",
-      "url": "https://arstechnica.com/space/2026/09/as-europe-flounders-in-space-a-rising-french-star-may-show-the-way/"
     },
     {
       "category": "Science",
@@ -281,14 +265,6 @@
       "date": "Mon, 31 Aug 2026 21:48:15 +0000",
       "summary": "If God threw down a proud angel from heaven, would he want a proud preacher in the pulpit? \nThe post Richard Baxter’s Advice to Pastors appeared first on 9Marks.",
       "url": "https://www.9marks.org/article/richard-baxters-advice-to-pastors/?utm_source=rss&utm_medium=rss&utm_campaign=richard-baxters-advice-to-pastors"
-    },
-    {
-      "category": "Theology",
-      "title": "Caring for Aging Parents",
-      "source": "9Marks",
-      "date": "Fri, 28 Aug 2026 17:46:38 +0000",
-      "summary": "Every pastor’s parents are getting older and closer to the day when they will stand before the Lord. \nThe post Caring for Aging Parents appeared first on 9Marks.",
-      "url": "https://www.9marks.org/article/caring-for-aging-parents/?utm_source=rss&utm_medium=rss&utm_campaign=caring-for-aging-parents"
     },
     {
       "category": "History",
