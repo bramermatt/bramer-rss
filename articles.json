@@ -1,38 +1,102 @@
 {
-  "lastUpdated": "2026-09-11T18:54:28.947Z",
-  "articleCount": 39,
+  "lastUpdated": "2026-09-11T23:44:49.200Z",
+  "articleCount": 36,
   "articles": [
     {
       "category": "Science",
-      "title": "Scientists discover a strange new form of ice that could help explain the interiors of Neptune and Uranus",
+      "title": "How big can the universe's first starbursts get?",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Fri, 11 Sep 2026 14:40:08 EDT",
-      "summary": "Scientists have discovered that there is ice deep inside planets like Neptune and Uranus and want to find out what form it takes and how it behaves. They cannot dig for it and transport it all the way back to Earth, so they do the next best thing: recreate those extreme conditions in the lab.",
-      "url": "https://phys.org/news/2026-09-scientists-strange-ice-interiors-neptune.html"
-    },
-    {
-      "category": "Science",
-      "title": "Smart pen detects pressure and movement to identify children's writing difficulties sooner",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Fri, 11 Sep 2026 14:40:02 EDT",
-      "summary": "A study by Politecnico di Milano and the University of Insubria (Varese and Como) has been published in PLOS Digital Health. The study involved more than 700 children from primary and lower secondary school. The participants used the THInkPen (Tele-Health Ink Pen) while completing two BVSCO-3 tasks from the Battery for the Clinical Assessment of Writing and Orthographic Skills. This is the most widely used test in Italy for assessing writing difficulties, dysgraphia and dysorthography.",
-      "url": "https://phys.org/news/2026-09-smart-pen-pressure-movement-children.html"
+      "date": "Fri, 11 Sep 2026 19:20:01 EDT",
+      "summary": "As our telescopes have improved and we've been able to peer farther back in time, we've begun finding more fascinating features of the universe. But one thing we haven't found for sure is Population III (Pop III) stars. These were the earliest stars in the universe, formed completely from pristine hydrogen and helium, with no \"metals\" (i.e., elements heavier than those two) polluting their processes.",
+      "url": "https://phys.org/news/2026-09-big-universe-starbursts.html"
     },
     {
       "category": "AI",
-      "title": "Declassified 9/11 related President's Daily Brief products",
+      "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
       "source": "Hacker News: Front Page",
-      "date": "Fri, 11 Sep 2026 18:30:07 +0000",
-      "summary": "Article URL: https://www.cia.gov/stories/story/cia-releases-presidents-daily-briefs-in-commemoration-of-the-25th-anniversary-of-9-11/seventy-one-declassified-presidents-daily-brief-products/\nComments URL: https://news.ycombinator.com/item?id=49663054\nPoints: 3\n# Comments: 0",
-      "url": "https://www.cia.gov/stories/story/cia-releases-presidents-daily-briefs-in-commemoration-of-the-25th-anniversary-of-9-11/seventy-one-declassified-presidents-daily-brief-products/"
+      "date": "Fri, 11 Sep 2026 23:17:42 +0000",
+      "summary": "Article URL: https://www.rubyhack.ai/\nComments URL: https://news.ycombinator.com/item?id=49666735\nPoints: 5\n# Comments: 2",
+      "url": "https://www.rubyhack.ai/"
+    },
+    {
+      "category": "AI",
+      "title": "DeCloudflare",
+      "source": "Hacker News: Front Page",
+      "date": "Fri, 11 Sep 2026 22:59:09 +0000",
+      "summary": "Article URL: https://0xacab.org/dCF/deCloudflare/-/blob/master/README.md\nComments URL: https://news.ycombinator.com/item?id=49666587\nPoints: 18\n# Comments: 24",
+      "url": "https://0xacab.org/dCF/deCloudflare/-/blob/master/README.md"
     },
     {
       "category": "Science",
-      "title": "Fertilizers and extreme heat are damaging coral reefs in the Gulf of Mexico, isotope analyses reveal",
+      "title": "Smart, self-healing packaging uses AI to detect food spoilage in real time",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Fri, 11 Sep 2026 14:20:06 EDT",
-      "summary": "Who isn't familiar with the colorful coral reefs from movies like \"Finding Nemo\" or \"The Little Mermaid\"? Unfortunately, the reality is often quite different, as these vital ecosystems are under pressure worldwide. Climate change and pollution are causing corals to bleach and die. Even the most resilient coral reefs of the United States are now threatened.",
-      "url": "https://phys.org/news/2026-09-fertilizers-extreme-coral-reefs-gulf.html"
+      "date": "Fri, 11 Sep 2026 18:20:05 EDT",
+      "summary": "Packaging already tells us where food comes from, when it was made, what's in it and how many calories it contains. But researchers see a future where packaging can \"see,\" in real time, what's happening inside and translate that into information that producers and consumers can act on.",
+      "url": "https://phys.org/news/2026-09-smart-packaging-ai-food-spoilage.html"
+    },
+    {
+      "category": "Science",
+      "title": "Single nanostructure enables independent control of two light resonance modes",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Fri, 11 Sep 2026 18:20:01 EDT",
+      "summary": "Metallic nanostructures are exceptionally effective at concentrating light into tiny volumes, while dielectric nanostructures excel at storing light with minimal energy loss. Combining these complementary properties has traditionally required complicated hybrid structures in which the two optical modes become mixed, making them difficult to control independently.",
+      "url": "https://phys.org/news/2026-09-nanostructure-enables-independent-resonance-modes.html"
+    },
+    {
+      "category": "AI",
+      "title": "QueryBrew: System-Agnostic SQL-to-SQL Query Optimization [pdf]",
+      "source": "Hacker News: Front Page",
+      "date": "Fri, 11 Sep 2026 22:16:15 +0000",
+      "summary": "Article URL: https://www.vldb.org/pvldb/vol19/p4494-schmidt.pdf\nComments URL: https://news.ycombinator.com/item?id=49666155\nPoints: 9\n# Comments: 0",
+      "url": "https://www.vldb.org/pvldb/vol19/p4494-schmidt.pdf"
+    },
+    {
+      "category": "Space",
+      "title": " Rocket Lab protests NASA's decision to award Blue Origin $700 million Mars orbiter contract ",
+      "source": " Latest from Space.com ",
+      "date": "Fri, 11 Sep 2026 22:06:42 +0000",
+      "summary": "Rocket Lab has filed a protest against NASA's decision to award Blue Origin a $700 million Mars orbiter contract, saying it's inconsistent with the eligibility rules laid out by Congress.",
+      "url": "https://www.space.com/space-exploration/missions/rocket-lab-protests-nasas-decision-to-award-blue-origin-usd700-million-mars-orbiter-contract"
+    },
+    {
+      "category": "AI",
+      "title": "Random rewards enrich classic game-theory contests",
+      "source": "Ars Technica - All content",
+      "date": "Fri, 11 Sep 2026 21:41:16 +0000",
+      "summary": "Simple games gain rich strategies in the face of noise.",
+      "url": "https://arstechnica.com/science/2026/09/random-rewards-enrich-classic-game-theory-contests/"
+    },
+    {
+      "category": "AI",
+      "title": "Bouncy castle launches horrifying MRSA outbreak, striking 48 kids in Ireland",
+      "source": "Ars Technica - All content",
+      "date": "Fri, 11 Sep 2026 21:14:26 +0000",
+      "summary": "The strain lurking in the inflatable structure was hypervirulent.",
+      "url": "https://arstechnica.com/health/2026/09/bouncy-castle-launches-horrifying-mrsa-outbreak-striking-48-kids-in-ireland/"
+    },
+    {
+      "category": "Space",
+      "title": " I've chased the 'false dawn' for years — this is the week to find and photograph it ",
+      "source": " Latest from Space.com ",
+      "date": "Fri, 11 Sep 2026 21:00:00 +0000",
+      "summary": "September's new moon opens a dark window for seeing zodiacal light, the ghostly cone of interplanetary dust that rises above the eastern horizon before dawn.",
+      "url": "https://www.space.com/stargazing/ive-chased-the-false-dawn-for-years-this-is-the-week-to-find-and-photograph-it"
+    },
+    {
+      "category": "AI",
+      "title": "Trump's forced coal plant extensions thrown out by judge",
+      "source": "Ars Technica - All content",
+      "date": "Fri, 11 Sep 2026 20:32:59 +0000",
+      "summary": "The Department of Energy declared an \"emergency\" when none existed.",
+      "url": "https://arstechnica.com/science/2026/09/court-rejects-governments-energy-emergency-that-kept-coal-plant-open/"
+    },
+    {
+      "category": "Space",
+      "title": " A star is exploding 45 million light-years away — here's how you can see it ",
+      "source": " Latest from Space.com ",
+      "date": "Fri, 11 Sep 2026 20:00:00 +0000",
+      "summary": "The newly discovered Type Ia supernova SN 2026aaiv in NGC 7331 offers amateur astronomers and astrophotographers a rare opportunity to observe and image an exploding star before it fades.",
+      "url": "https://www.space.com/stargazing/a-star-is-exploding-45-million-light-years-away-heres-how-you-can-see-it"
     },
     {
       "category": "Science",
@@ -43,30 +107,6 @@
       "url": "https://www.livescience.com/animals/extinct-species/oddly-shaped-rock-unearthed-in-california-turns-out-to-be-immaculate-mastodon-molar"
     },
     {
-      "category": "AI",
-      "title": "Litelm: LiteLLM Without the Bloat",
-      "source": "Hacker News: Front Page",
-      "date": "Fri, 11 Sep 2026 18:10:20 +0000",
-      "summary": "Article URL: https://github.com/kennethwolters/litelm\nComments URL: https://news.ycombinator.com/item?id=49662767\nPoints: 17\n# Comments: 3",
-      "url": "https://github.com/kennethwolters/litelm"
-    },
-    {
-      "category": "AI",
-      "title": "Top mathematicians are outraged by OpenAI's methods",
-      "source": "Hacker News: Front Page",
-      "date": "Fri, 11 Sep 2026 18:07:08 +0000",
-      "summary": "Article URL: https://www.economist.com/science-and-technology/2026/09/11/top-mathematicians-are-outraged-by-openais-methods\nComments URL: https://news.ycombinator.com/item?id=49662698\nPoints: 31\n# Comments: 5",
-      "url": "https://www.economist.com/science-and-technology/2026/09/11/top-mathematicians-are-outraged-by-openais-methods"
-    },
-    {
-      "category": "Space",
-      "title": " Stream every single Star Trek show from anywhere, and save up to 75% with this VPN deal ",
-      "source": " Latest from Space.com ",
-      "date": "Fri, 11 Sep 2026 18:00:00 +0000",
-      "summary": "NordVPN is recommended as one of the best VPN services, offering online security and convenience, and is now up to $370 cheaper.",
-      "url": "https://www.space.com/entertainment/space-movies-shows/stream-every-single-star-trek-show-from-anywhere-and-save-up-to-75-percent-with-this-vpn-deal"
-    },
-    {
       "category": "Science",
       "title": " 'There are no easy answers here': New study forecasts a dire dip in food production if key Atlantic currents collapse ",
       "source": " Latest from Live Science ",
@@ -75,60 +115,12 @@
       "url": "https://www.livescience.com/planet-earth/climate-change/there-are-no-easy-answers-here-new-study-forecasts-a-dire-dip-in-food-production-if-key-atlantic-currents-collapse"
     },
     {
-      "category": "Space",
-      "title": "NASA’s Chandra Spots Galactic Gem",
-      "source": "NASA",
-      "date": "Fri, 11 Sep 2026 17:19:47 +0000",
-      "summary": "Two galaxies merge at a furious rate in this Aug. 25, 2026, image of the II Zw 096 system. This and several other images of both visually and scientifically interesting galaxies were released by NASA’s Chandra X-ray Observatory and other telescopes. Chandra X-ray data (magenta) pinpoint powerful black hole activity and hot gas, while optical […]",
-      "url": "https://www.nasa.gov/image-article/nasas-chandra-spots-galactic-gem/"
-    },
-    {
       "category": "Science",
       "title": " 'Maybe that is how Transformers started': Readers react to the possibility of AI becoming self-aware ",
       "source": " Latest from Live Science ",
       "date": "Fri, 11 Sep 2026 17:07:09 +0000",
       "summary": "Could AI become conscious? Live Science readers revealed their thoughts about this technological possibility.",
       "url": "https://www.livescience.com/technology/artificial-intelligence/maybe-that-is-how-transformers-started-readers-react-to-the-possibility-of-ai-becoming-self-aware"
-    },
-    {
-      "category": "AI",
-      "title": "NASA moving at warp speed to set up US Space Academy",
-      "source": "Ars Technica - All content",
-      "date": "Fri, 11 Sep 2026 16:20:43 +0000",
-      "summary": "NASA asks US states to show them the money.",
-      "url": "https://arstechnica.com/space/2026/09/nasa-moving-at-warp-speed-to-set-up-us-space-academy/"
-    },
-    {
-      "category": "Space",
-      "title": " The sun may once have swallowed a super-Earth planet and could still be hiding the evidence ",
-      "source": " Latest from Space.com ",
-      "date": "Fri, 11 Sep 2026 16:00:00 +0000",
-      "summary": "The sun may have swallowed a super-Earth planet in its early history, and our star may still be hiding the evidence, new research suggests.",
-      "url": "https://www.space.com/astronomy/sun/the-sun-may-once-have-swallowed-a-super-earth-planet-and-could-still-be-hiding-the-evidence"
-    },
-    {
-      "category": "Space",
-      "title": "NASA’s SpaceX Crew-12 to Discuss Station Mission, Upcoming Return",
-      "source": "NASA",
-      "date": "Fri, 11 Sep 2026 15:05:20 +0000",
-      "summary": "Media are invited to hear from NASA’s SpaceX Crew-12 astronauts during a news conference beginning at 2:45 p.m. EDT, Wednesday, Sept. 16, from the International Space Station. NASA astronauts Jessica Meir and Jack Hathaway, ESA (European Space Agency) astronaut Sophie Adenot, and Roscosmos cosmonaut Andrey Fedyaev will discuss their upcoming return to Earth. Learn where […]",
-      "url": "https://www.nasa.gov/news-release/nasas-spacex-crew-12-to-discuss-station-mission-upcoming-return/"
-    },
-    {
-      "category": "Space",
-      "title": " 60 years of Star Trek uniforms: Looking back at the everchanging wardrobe of Starfleet ",
-      "source": " Latest from Space.com ",
-      "date": "Fri, 11 Sep 2026 15:00:00 +0000",
-      "summary": "Federation fashions have gone through many evolutions over the last six decades, from pastel pajamas to back-breaking Spandex.",
-      "url": "https://www.space.com/entertainment/space-movies-shows/60-years-of-star-trek-uniforms-looking-back-at-the-everchanging-wardrobe-of-starfleet"
-    },
-    {
-      "category": "Space",
-      "title": "NASA Boosts Open Science, Data Sharing with Artemis Accords",
-      "source": "NASA",
-      "date": "Fri, 11 Sep 2026 14:56:25 +0000",
-      "summary": "The science from every Moon rock sample, lunar dataset, and discovery produced through NASA’s Artemis program will be shared by the agency with the global scientific community. That commitment is upheld by all 71 countries that have signed the Artemis Accords, a set of principles for safe and transparent civil space exploration. NASA put those […]",
-      "url": "https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-boosts-open-science-data-sharing-with-artemis-accords/"
     },
     {
       "category": "Theology",
@@ -147,28 +139,12 @@
       "url": "https://www.biblicalarchaeology.org/daily/people-cultures-in-the-bible/people-in-the-bible/who-was-cornelius-centurion/"
     },
     {
-      "category": "AI",
-      "title": "Claude users found ways around safeguards for bioweapons research",
-      "source": "Ars Technica - All content",
-      "date": "Fri, 11 Sep 2026 13:02:35 +0000",
-      "summary": "Some dangerous biology looks much like legitimate research, complicating AI safeguards.",
-      "url": "https://arstechnica.com/ai/2026/09/claude-users-found-ways-around-safeguards-for-bioweapons-research/"
-    },
-    {
       "category": "Science",
       "title": "Wasps are disappearing this summer, and scientists are worried",
       "source": "All Top News -- ScienceDaily",
       "date": "Fri, 11 Sep 2026 07:38:35 EDT",
       "summary": "Britain’s wasps have become mysteriously scarce this summer, and scientists suspect an unusual combination of temperature swings, heatwaves, and food shortages may be responsible. Even the wasps that remain appear unusually small, potentially offering a glimpse of how extreme heat could reshape insect populations.",
       "url": "https://www.sciencedaily.com/releases/2026/09/260911003901.htm"
-    },
-    {
-      "category": "AI",
-      "title": "ClickFix attacks infecting PCs and Macs are going viral",
-      "source": "Ars Technica - All content",
-      "date": "Fri, 11 Sep 2026 11:30:58 +0000",
-      "summary": "Simplicity—combined with the difficulty of getting stuff done—makes ClickFix ideal.",
-      "url": "https://arstechnica.com/security/2026/09/clickfix-attacks-infecting-pcs-and-macs-are-going-viral/"
     },
     {
       "category": "Theology",
