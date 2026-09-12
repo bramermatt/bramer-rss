@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-12T18:00:17.294Z",
-  "articleCount": 39,
+  "lastUpdated": "2026-09-12T23:38:09.959Z",
+  "articleCount": 36,
   "articles": [
     {
       "category": "AI",
@@ -12,51 +12,51 @@
     },
     {
       "category": "Science",
-      "title": "Southern Ocean may flip from carbon sink to carbon source under mitigation scenarios",
+      "title": "Magnetic nanoparticles detect amoxicillin allergy with 98% sensitivity in early tests",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Sat, 12 Sep 2026 13:20:01 EDT",
-      "summary": "Plans to limit the global temperature rise to 1.5°C above preindustrial levels depend on reaching net-zero emissions and, in many cases, actively removing carbon dioxide (CO2) from the air. While this helps limit extreme weather, sea level rise, ecosystem loss and the risk of triggering irreversible climate tipping points, a new study, published in Science Advances, finds that reducing CO2 levels may have an unexpected effect. Climate simulations used in the study suggest that the Southern Ocean around Antarctica may switch from being an important carbon sink to being a prolific source of carbon.",
-      "url": "https://phys.org/news/2026-09-southern-ocean-flip-carbon-source.html"
-    },
-    {
-      "category": "AI",
-      "title": "Will There Be a 7G?",
-      "source": "Hacker News: Front Page",
-      "date": "Sat, 12 Sep 2026 17:05:31 +0000",
-      "summary": "Article URL: https://arxiv.org/abs/2609.01877\nComments URL: https://news.ycombinator.com/item?id=49674498\nPoints: 19\n# Comments: 17",
-      "url": "https://arxiv.org/abs/2609.01877"
-    },
-    {
-      "category": "AI",
-      "title": "How SaaS startup guys get first 100 customers first, make fkn $500k ARR fast?",
-      "source": "Hacker News: Front Page",
-      "date": "Sat, 12 Sep 2026 16:56:54 +0000",
-      "summary": "I am running a small AI company that has been building an offline security audit app, simply a fine-tuned small language model powering an Electron app that can audit GitHub and local code repos for security stuff. I always see these LinkedIn or X guys making $500k ARR or $1m ARR within months; how the fkk do they get that many customers without spending on ads? I can't even get 5 customers; damn it, I do suck at sales\nComments URL: https://news.ycombinator.com/item?id=49674396\nPoints: 4\n# Comments: 10",
-      "url": "https://news.ycombinator.com/item?id=49674396"
+      "date": "Sat, 12 Sep 2026 19:30:01 EDT",
+      "summary": "A multidisciplinary scientific team at the University of Malaga has developed a new technology based on magnetic nanoparticles that enables precise, rapid and reliable diagnosis of allergy to beta-lactam antibiotics, including amoxicillin and other penicillins.",
+      "url": "https://phys.org/news/2026-09-magnetic-nanoparticles-amoxicillin-allergy-sensitivity.html"
     },
     {
       "category": "Science",
-      "title": "Why do some salivary glands fail? Researchers point to hidden cell stress",
+      "title": "Six ways people have used magic to protect their homes throughout history—from witch bottles to 'hag stones'",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Sat, 12 Sep 2026 12:30:01 EDT",
-      "summary": "For cancer patients undergoing head and neck radiation therapy, people living with Sjögren's syndrome, people with diabetes or older people, reduced saliva production and the resulting dry mouth are far more than uncomfortable. They can have major consequences for quality of life, making it difficult to eat, speak and swallow, altering taste perception, and increasing the risk of dental cavities and oral infections.",
-      "url": "https://phys.org/news/2026-09-salivary-glands-hidden-cell-stress.html"
+      "date": "Sat, 12 Sep 2026 18:30:01 EDT",
+      "summary": "Virtually all cultures and eras fizz with magic. You might call it a secret ingredient of human life because magic takes so many forms and serves so many functions.",
+      "url": "https://phys.org/news/2026-09-ways-people-magic-homes-history.html"
     },
     {
       "category": "AI",
-      "title": "Make Your First Edit to OpenStreetMap in the Next 15 Minutes",
+      "title": "Killing with a car costs $1.6M, California requires drivers to carry $30K",
       "source": "Hacker News: Front Page",
-      "date": "Sat, 12 Sep 2026 16:25:08 +0000",
-      "summary": "Article URL: https://high5apps.github.io/josm-plugin-website-wizard/\nComments URL: https://news.ycombinator.com/item?id=49674050\nPoints: 42\n# Comments: 17",
-      "url": "https://high5apps.github.io/josm-plugin-website-wizard/"
+      "date": "Sat, 12 Sep 2026 22:22:31 +0000",
+      "summary": "Article URL: https://maxmautner.com/2026/09/11/liability-coverage.html\nComments URL: https://news.ycombinator.com/item?id=49677836\nPoints: 14\n# Comments: 3",
+      "url": "https://maxmautner.com/2026/09/11/liability-coverage.html"
+    },
+    {
+      "category": "AI",
+      "title": "StarCraft returns in 2030 as an open-world shooter",
+      "source": "Hacker News: Front Page",
+      "date": "Sat, 12 Sep 2026 22:07:19 +0000",
+      "summary": "Article URL: https://www.theverge.com/games/994371/starcraft-returns-in-2030-as-an-open-world-shooter\nComments URL: https://news.ycombinator.com/item?id=49677715\nPoints: 20\n# Comments: 15",
+      "url": "https://www.theverge.com/games/994371/starcraft-returns-in-2030-as-an-open-world-shooter"
+    },
+    {
+      "category": "AI",
+      "title": "Financial Times' 404 Page not Found",
+      "source": "Hacker News: Front Page",
+      "date": "Sat, 12 Sep 2026 21:28:08 +0000",
+      "summary": "Article URL: https://www.ft.com/article/404\nComments URL: https://news.ycombinator.com/item?id=49677391\nPoints: 26\n# Comments: 5",
+      "url": "https://www.ft.com/article/404"
     },
     {
       "category": "Science",
-      "title": "Human embryo base editing can reach all cells but causes unpredictable genetic changes",
+      "title": "Japan's Hayabusa2 achieves first-ever laser ranging experiment with an asteroid",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Sat, 12 Sep 2026 12:00:01 EDT",
-      "summary": "A study by researchers at Columbia University Vagelos College of Physicians and Surgeons has found that new cutting-edge techniques can accurately edit genes in human embryos—giving scientists indispensable tools for understanding normal human development—but has also uncovered important risks that currently preclude the use of the techniques in the clinic.",
-      "url": "https://phys.org/news/2026-09-human-embryo-base-cells-unpredictable.html"
+      "date": "Sat, 12 Sep 2026 17:00:02 EDT",
+      "summary": "The Japan Aerospace Exploration Agency's (JAXA) Hayabusa2 spacecraft reached another milestone this summer, a first for space agencies. On Sunday, July 5, the probe conducted the first successful laser-ranging experiment during a flyby of asteroid Torifune, the first exploration target of Hayabusa2's Extended Mission. This latest milestone will advance the capabilities of JAXA and other space agencies as they pursue future missions involving near-Earth asteroids (NEAs) and other deep-space objects.",
+      "url": "https://phys.org/news/2026-09-japan-hayabusa2-laser-ranging-asteroid.html"
     },
     {
       "category": "Science",
@@ -163,36 +163,12 @@
       "url": "https://arstechnica.com/science/2026/09/random-rewards-enrich-classic-game-theory-contests/"
     },
     {
-      "category": "Space",
-      "title": "Help Refine Data from Space Telescopes with Artifact InSPECtor",
-      "source": "NASA",
-      "date": "Fri, 11 Sep 2026 19:48:09 +0000",
-      "summary": "How do scientists studying space with data from a telescope hundreds of thousands of miles away know that what they are seeing is real? A new NASA project, Artifact InSPECtor, invites you to find out – and by doing so, to help missions like Euclid and NASA’s new Nancy Grace Roman Space Telescope answer fundamental […]",
-      "url": "https://science.nasa.gov/get-involved/citizen-science/help-refine-data-from-space-telescopes-with-artifact-inspector/"
-    },
-    {
-      "category": "Space",
-      "title": "NASA’s Chandra Spots Galactic Gem",
-      "source": "NASA",
-      "date": "Fri, 11 Sep 2026 17:19:47 +0000",
-      "summary": "Two galaxies merge at a furious rate in this Aug. 25, 2026, image of the II Zw 096 system. This and several other images of both visually and scientifically interesting galaxies were released by NASA’s Chandra X-ray Observatory and other telescopes. Chandra X-ray data (magenta) pinpoint powerful black hole activity and hot gas, while optical […]",
-      "url": "https://www.nasa.gov/image-article/nasas-chandra-spots-galactic-gem/"
-    },
-    {
       "category": "AI",
       "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
       "source": "OpenAI News",
       "date": "Fri, 11 Sep 2026 16:00:00 GMT",
       "summary": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.",
       "url": "https://openai.com/index/cognition-devin-testing-with-astra"
-    },
-    {
-      "category": "Space",
-      "title": "NASA’s SpaceX Crew-12 to Discuss Station Mission, Upcoming Return",
-      "source": "NASA",
-      "date": "Fri, 11 Sep 2026 15:05:20 +0000",
-      "summary": "Media are invited to hear from NASA’s SpaceX Crew-12 astronauts during a news conference beginning at 2:45 p.m. EDT, Wednesday, Sept. 16, from the International Space Station. NASA astronauts Jessica Meir and Jack Hathaway, ESA (European Space Agency) astronaut Sophie Adenot, and Roscosmos cosmonaut Andrey Fedyaev will discuss their upcoming return to Earth. Learn where […]",
-      "url": "https://www.nasa.gov/news-release/nasas-spacex-crew-12-to-discuss-station-mission-upcoming-return/"
     },
     {
       "category": "Theology",
