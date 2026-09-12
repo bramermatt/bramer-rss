@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-12T13:16:41.871Z",
+  "lastUpdated": "2026-09-12T18:00:17.294Z",
   "articleCount": 39,
   "articles": [
     {
@@ -11,6 +11,94 @@
       "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra"
     },
     {
+      "category": "Science",
+      "title": "Southern Ocean may flip from carbon sink to carbon source under mitigation scenarios",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sat, 12 Sep 2026 13:20:01 EDT",
+      "summary": "Plans to limit the global temperature rise to 1.5°C above preindustrial levels depend on reaching net-zero emissions and, in many cases, actively removing carbon dioxide (CO2) from the air. While this helps limit extreme weather, sea level rise, ecosystem loss and the risk of triggering irreversible climate tipping points, a new study, published in Science Advances, finds that reducing CO2 levels may have an unexpected effect. Climate simulations used in the study suggest that the Southern Ocean around Antarctica may switch from being an important carbon sink to being a prolific source of carbon.",
+      "url": "https://phys.org/news/2026-09-southern-ocean-flip-carbon-source.html"
+    },
+    {
+      "category": "AI",
+      "title": "Will There Be a 7G?",
+      "source": "Hacker News: Front Page",
+      "date": "Sat, 12 Sep 2026 17:05:31 +0000",
+      "summary": "Article URL: https://arxiv.org/abs/2609.01877\nComments URL: https://news.ycombinator.com/item?id=49674498\nPoints: 19\n# Comments: 17",
+      "url": "https://arxiv.org/abs/2609.01877"
+    },
+    {
+      "category": "AI",
+      "title": "How SaaS startup guys get first 100 customers first, make fkn $500k ARR fast?",
+      "source": "Hacker News: Front Page",
+      "date": "Sat, 12 Sep 2026 16:56:54 +0000",
+      "summary": "I am running a small AI company that has been building an offline security audit app, simply a fine-tuned small language model powering an Electron app that can audit GitHub and local code repos for security stuff. I always see these LinkedIn or X guys making $500k ARR or $1m ARR within months; how the fkk do they get that many customers without spending on ads? I can't even get 5 customers; damn it, I do suck at sales\nComments URL: https://news.ycombinator.com/item?id=49674396\nPoints: 4\n# Comments: 10",
+      "url": "https://news.ycombinator.com/item?id=49674396"
+    },
+    {
+      "category": "Science",
+      "title": "Why do some salivary glands fail? Researchers point to hidden cell stress",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sat, 12 Sep 2026 12:30:01 EDT",
+      "summary": "For cancer patients undergoing head and neck radiation therapy, people living with Sjögren's syndrome, people with diabetes or older people, reduced saliva production and the resulting dry mouth are far more than uncomfortable. They can have major consequences for quality of life, making it difficult to eat, speak and swallow, altering taste perception, and increasing the risk of dental cavities and oral infections.",
+      "url": "https://phys.org/news/2026-09-salivary-glands-hidden-cell-stress.html"
+    },
+    {
+      "category": "AI",
+      "title": "Make Your First Edit to OpenStreetMap in the Next 15 Minutes",
+      "source": "Hacker News: Front Page",
+      "date": "Sat, 12 Sep 2026 16:25:08 +0000",
+      "summary": "Article URL: https://high5apps.github.io/josm-plugin-website-wizard/\nComments URL: https://news.ycombinator.com/item?id=49674050\nPoints: 42\n# Comments: 17",
+      "url": "https://high5apps.github.io/josm-plugin-website-wizard/"
+    },
+    {
+      "category": "Science",
+      "title": "Human embryo base editing can reach all cells but causes unpredictable genetic changes",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sat, 12 Sep 2026 12:00:01 EDT",
+      "summary": "A study by researchers at Columbia University Vagelos College of Physicians and Surgeons has found that new cutting-edge techniques can accurately edit genes in human embryos—giving scientists indispensable tools for understanding normal human development—but has also uncovered important risks that currently preclude the use of the techniques in the clinic.",
+      "url": "https://phys.org/news/2026-09-human-embryo-base-cells-unpredictable.html"
+    },
+    {
+      "category": "Science",
+      "title": " Scientists got diamond's melting point wrong by more than 1,000 degrees, crushing new laser experiment reveals ",
+      "source": " Latest from Live Science ",
+      "date": "Sat, 12 Sep 2026 14:00:00 +0000",
+      "summary": "Scientists blasted diamonds with lasers to get the best measurement of the mineral's melting point yet. The new, more accurate numbers could help improve fusion experiments and studies of giant planets.",
+      "url": "https://www.livescience.com/physics-mathematics/scientists-got-diamonds-melting-point-wrong-by-more-than-1-000-degrees-crushing-new-laser-experiment-reveals"
+    },
+    {
+      "category": "Space",
+      "title": " Trump is proposing a US Space Academy — if created, it could blur the lines between NASA and the military (op-ed) ",
+      "source": " Latest from Space.com ",
+      "date": "Sat, 12 Sep 2026 14:00:00 +0000",
+      "summary": "As a space policy expert, I see several open questions and potential problems related to the vision of a U.S. Space Academy laid out by President Trump’s recent executive order.",
+      "url": "https://www.space.com/space-exploration/trump-is-proposing-a-us-space-academy-if-created-it-could-blur-the-lines-between-nasa-and-the-military-op-ed"
+    },
+    {
+      "category": "Space",
+      "title": " On this day in space! NASA astronaut Mae Jemison makes history as the 1st Black woman in space ",
+      "source": " Latest from Space.com ",
+      "date": "Sat, 12 Sep 2026 14:00:00 +0000",
+      "summary": "On Sept. 12, 1992, NASA astronaut Mae Jemison became the first African American woman to go to space. Here's why it mattered.",
+      "url": "https://www.space.com/space-exploration/on-this-day-in-space-september-12-2026"
+    },
+    {
+      "category": "Science",
+      "title": "Scientists find Ozempic may slow aging itself",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Sat, 12 Sep 2026 09:52:50 EDT",
+      "summary": "Semaglutide helped older healthy mice live longer while improving memory, muscle function, blood sugar control, and several biological signs of aging. Its effects went beyond those seen with calorie restriction, raising the possibility that GLP-1 drugs could tap into a separate biological pathway linked to longevity.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260911214238.htm"
+    },
+    {
+      "category": "Science",
+      "title": "Researchers find a Wordle strategy that wins 99% of the time",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Sat, 12 Sep 2026 09:35:56 EDT",
+      "summary": "Researchers at Binghamton University have developed a mathematical strategy that can solve Wordle with a 99% success rate. Instead of simply guessing words packed with common letters or choosing the most likely answer, the method uses Shannon entropy, a measure from information theory, to identify guesses that reveal the most useful information. Each guess is designed to rapidly shrink the pool of possible answers, even when the guessed word itself seems unlikely to be correct.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260911204910.htm"
+    },
+    {
       "category": "Space",
       "title": " This Week In Space podcast: Episode 227 — Trekmania ",
       "source": " Latest from Space.com ",
@@ -19,68 +107,12 @@
       "url": "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-227-trekmania"
     },
     {
-      "category": "Space",
-      "title": " The best 'Star Trek' spaceships: 14 classic vessels from the Federation and beyond ",
-      "source": " Latest from Space.com ",
-      "date": "Sat, 12 Sep 2026 13:00:00 +0000",
-      "summary": "If you're going to boldly go where no one has gone before, you may as well do it in a kick-ass spaceship.",
-      "url": "https://www.space.com/entertainment/space-movies-shows/the-best-star-trek-spaceships-14-classic-vessels-from-the-federation-and-beyond"
-    },
-    {
-      "category": "Science",
-      "title": "Why are the stars around our galaxy's black hole missing their companions?",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sat, 12 Sep 2026 08:40:01 EDT",
-      "summary": "A new study suggests that the young stars orbiting the Milky Way's central black hole may have a surprisingly ordinary origin. But the black hole's influence may be what makes their origin look more exotic than it really is. Along with shaping their orbits, it may also destroy their stellar companions. The paper outlining this work was published in Astronomy & Astrophysics on Aug. 11.",
-      "url": "https://phys.org/news/2026-09-stars-galaxy-black-hole-companions.html"
-    },
-    {
-      "category": "AI",
-      "title": "Show HN: Liniora – Ever thought about replacing your project manager?",
-      "source": "Hacker News: Front Page",
-      "date": "Sat, 12 Sep 2026 12:15:12 +0000",
-      "summary": "Hi HN, the title could be a little bit aggressive sorry for that... Basically i am Computer engineer graduated recently but i was and still working remotely for approx. 3 years with the same foreign company in EU. and i noticed that we are always somehow lose the context of a ticket -- even though we are using the popular project management systems -- so i decided why not build something that can fix our context loosing problems and with some improvements. here i created Liniora. an AI powered project management system. basically the core idea is to link the tools that we use to gather information about tickets in one place. i integrated Google meet for the meetings transcripts so you do your meeting it automatically got registered and indexed. You discuss about a bug in Slack thread so you mention @Liniora app and it will handle the bug context and create a ticket for you. We have the version control also connected so you create a ticket with ability of creating a separate branch with one-click for both Gitlab and Github. you have as well the Pull request controlled in our place inside the app. lets suppose you have a ticket and you created a branch called 'USER-325-create-login-form' then you merged to staging or production ? it will be automatically flagged with staging/production badge so you know what tickets are done. there are a lot of interesting features i wanted to describe but i will just let you guys discover and i will be very happy about your feedback. Thanks\nComments URL: https://news.ycombinator.com/item?id=49671542\nPoints: 5\n# Comments: 3",
-      "url": "https://liniora.com"
-    },
-    {
-      "category": "Science",
-      "title": "Rubin observatory peers deep into the famous COSMOS field",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sat, 12 Sep 2026 08:00:08 EDT",
-      "summary": "The COSMOS field, or Cosmic Evolution Survey Deep Field, is one of the most famous patches of the universe observed by astronomers. Located in the constellation Sextans, this region was photographed by the Hubble Space Telescope (HST) in segments from 2003 to 2005 using its Advanced Camera for Surveys (ACS). With support from ground-based and other space-based telescopes, the resulting images were then stitched together to create a stunning picture of cosmic evolution.",
-      "url": "https://phys.org/news/2026-09-rubin-observatory-peers-deep-famous.html"
-    },
-    {
       "category": "Science",
       "title": " AI trained to 'think' like human pathologists may be better at spotting cancer ",
       "source": " Latest from Live Science ",
       "date": "Sat, 12 Sep 2026 12:00:00 +0000",
       "summary": "Researchers trained AI on how expert pathologists look for signs of cancer in patient samples, improving the algorithm's effectiveness.",
       "url": "https://www.livescience.com/health/cancer/ai-trained-to-think-like-human-pathologists-may-be-better-at-spotting-cancer"
-    },
-    {
-      "category": "Space",
-      "title": " Perseid meteors meet mesmerizing star trails over Egypt's Western Desert ",
-      "source": " Latest from Space.com ",
-      "date": "Sat, 12 Sep 2026 12:00:00 +0000",
-      "summary": "Osama Fathi captured this breathtaking view of Perseids cutting through star trails from Egypt's Western Desert on Aug. 13-14.",
-      "url": "https://www.space.com/stargazing/astrophotography/perseid-meteors-meet-mesmerizing-star-trails-over-egypts-western-desert"
-    },
-    {
-      "category": "AI",
-      "title": "Fuck it, make it anyway",
-      "source": "Hacker News: Front Page",
-      "date": "Sat, 12 Sep 2026 11:42:32 +0000",
-      "summary": "Article URL: https://www.joelotter.com/posts/2026/09/make-it-anyway/\nComments URL: https://news.ycombinator.com/item?id=49671329\nPoints: 119\n# Comments: 76",
-      "url": "https://www.joelotter.com/posts/2026/09/make-it-anyway/"
-    },
-    {
-      "category": "AI",
-      "title": "Crypto farm in Mexican mountains puts spotlight on cartel funding",
-      "source": "Hacker News: Front Page",
-      "date": "Sat, 12 Sep 2026 11:37:22 +0000",
-      "summary": "Article URL: https://www.reuters.com/world/americas/hidden-crypto-farm-mexican-mountains-puts-spotlight-cartel-funding-2026-09-12/\nComments URL: https://news.ycombinator.com/item?id=49671296\nPoints: 17\n# Comments: 0",
-      "url": "https://www.reuters.com/world/americas/hidden-crypto-farm-mexican-mountains-puts-spotlight-cartel-funding-2026-09-12/"
     },
     {
       "category": "AI",
@@ -99,14 +131,6 @@
       "url": "https://www.livescience.com/products/optics/celestron-starsense-explorer-dx-130az-review"
     },
     {
-      "category": "Science",
-      "title": " Why is Venus hotter than Mercury, when Mercury is closer to the sun? ",
-      "source": " Latest from Live Science ",
-      "date": "Sat, 12 Sep 2026 09:00:00 +0000",
-      "summary": "Despite being farther from the sun, Venus is the hottest planet in the solar system, and the reason has little to do with proximity to a star.",
-      "url": "https://www.livescience.com/space/venus/why-is-venus-hotter-than-mercury-when-mercury-is-closer-to-the-sun"
-    },
-    {
       "category": "Theology",
       "title": "Cancel Culture Has Forgotten How to Forgive",
       "source": "The Gospel Coalition",
@@ -121,30 +145,6 @@
       "date": "Sat, 12 Sep 2026 04:00:00 +0000",
       "summary": "If AI does go wrong, the ultimate blame is on us, because we’ve trained it on ourselves.",
       "url": "https://www.thegospelcoalition.org/article/ais-confessions-teach-us/"
-    },
-    {
-      "category": "Science",
-      "title": "As antibiotic resistance grows, researchers turn to copper to fight infections",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Fri, 11 Sep 2026 22:40:02 EDT",
-      "summary": "When bacteria invade the urinary tract, the body has its own arsenal for fighting back. Among those weapons is an unlikely tool: copper. Researchers at the Texas A&M College of Veterinary Medicine and Biomedical Sciences (VMBS) are investigating how the body uses the essential trace mineral to fight urinary tract infections (UTIs), how bacteria manage to survive that attack and whether those discoveries could eventually lead to new ways of treating infections that are increasingly difficult to control with antibiotics.",
-      "url": "https://phys.org/news/2026-09-antibiotic-resistance-copper-infections.html"
-    },
-    {
-      "category": "Science",
-      "title": "The secret to longer life may be hidden in bat DNA",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Fri, 11 Sep 2026 20:25:05 EDT",
-      "summary": "Long-lived bats appear to combine powerful immune defenses with unusual strategies for eliminating damaged cells, potentially helping them avoid cancer and disease for decades. Researchers hope these genetic tricks could eventually reveal new ways to protect human health during aging.",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260911003852.htm"
-    },
-    {
-      "category": "Science",
-      "title": "66-million-year-old feather in dinosaur poop may reveal why birds survived the asteroid",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Fri, 11 Sep 2026 19:47:16 EDT",
-      "summary": "A feather discovered inside 66-million-year-old fossilized dinosaur poop may help explain why modern birds survived the asteroid catastrophe. The extinct bird it came from had more primitive insulating feathers, suggesting superior plumage may have helped the ancestors of living birds endure the deadly impact winter.",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260911003849.htm"
     },
     {
       "category": "AI",
