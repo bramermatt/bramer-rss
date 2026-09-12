@@ -1,126 +1,198 @@
 {
-  "lastUpdated": "2026-09-11T23:44:49.200Z",
-  "articleCount": 36,
+  "lastUpdated": "2026-09-12T13:16:41.871Z",
+  "articleCount": 39,
   "articles": [
     {
-      "category": "Science",
-      "title": "How big can the universe's first starbursts get?",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Fri, 11 Sep 2026 19:20:01 EDT",
-      "summary": "As our telescopes have improved and we've been able to peer farther back in time, we've begun finding more fascinating features of the universe. But one thing we haven't found for sure is Population III (Pop III) stars. These were the earliest stars in the universe, formed completely from pristine hydrogen and helium, with no \"metals\" (i.e., elements heavier than those two) polluting their processes.",
-      "url": "https://phys.org/news/2026-09-big-universe-starbursts.html"
-    },
-    {
       "category": "AI",
-      "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
-      "source": "Hacker News: Front Page",
-      "date": "Fri, 11 Sep 2026 23:17:42 +0000",
-      "summary": "Article URL: https://www.rubyhack.ai/\nComments URL: https://news.ycombinator.com/item?id=49666735\nPoints: 5\n# Comments: 2",
-      "url": "https://www.rubyhack.ai/"
-    },
-    {
-      "category": "AI",
-      "title": "DeCloudflare",
-      "source": "Hacker News: Front Page",
-      "date": "Fri, 11 Sep 2026 22:59:09 +0000",
-      "summary": "Article URL: https://0xacab.org/dCF/deCloudflare/-/blob/master/README.md\nComments URL: https://news.ycombinator.com/item?id=49666587\nPoints: 18\n# Comments: 24",
-      "url": "https://0xacab.org/dCF/deCloudflare/-/blob/master/README.md"
-    },
-    {
-      "category": "Science",
-      "title": "Smart, self-healing packaging uses AI to detect food spoilage in real time",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Fri, 11 Sep 2026 18:20:05 EDT",
-      "summary": "Packaging already tells us where food comes from, when it was made, what's in it and how many calories it contains. But researchers see a future where packaging can \"see,\" in real time, what's happening inside and translate that into information that producers and consumers can act on.",
-      "url": "https://phys.org/news/2026-09-smart-packaging-ai-food-spoilage.html"
-    },
-    {
-      "category": "Science",
-      "title": "Single nanostructure enables independent control of two light resonance modes",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Fri, 11 Sep 2026 18:20:01 EDT",
-      "summary": "Metallic nanostructures are exceptionally effective at concentrating light into tiny volumes, while dielectric nanostructures excel at storing light with minimal energy loss. Combining these complementary properties has traditionally required complicated hybrid structures in which the two optical modes become mixed, making them difficult to control independently.",
-      "url": "https://phys.org/news/2026-09-nanostructure-enables-independent-resonance-modes.html"
-    },
-    {
-      "category": "AI",
-      "title": "QueryBrew: System-Agnostic SQL-to-SQL Query Optimization [pdf]",
-      "source": "Hacker News: Front Page",
-      "date": "Fri, 11 Sep 2026 22:16:15 +0000",
-      "summary": "Article URL: https://www.vldb.org/pvldb/vol19/p4494-schmidt.pdf\nComments URL: https://news.ycombinator.com/item?id=49666155\nPoints: 9\n# Comments: 0",
-      "url": "https://www.vldb.org/pvldb/vol19/p4494-schmidt.pdf"
+      "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+      "source": "OpenAI News",
+      "date": "Mon, 14 Sep 2026 00:00:00 GMT",
+      "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
+      "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra"
     },
     {
       "category": "Space",
-      "title": " Rocket Lab protests NASA's decision to award Blue Origin $700 million Mars orbiter contract ",
+      "title": " This Week In Space podcast: Episode 227 — Trekmania ",
       "source": " Latest from Space.com ",
-      "date": "Fri, 11 Sep 2026 22:06:42 +0000",
-      "summary": "Rocket Lab has filed a protest against NASA's decision to award Blue Origin a $700 million Mars orbiter contract, saying it's inconsistent with the eligibility rules laid out by Congress.",
-      "url": "https://www.space.com/space-exploration/missions/rocket-lab-protests-nasas-decision-to-award-blue-origin-usd700-million-mars-orbiter-contract"
+      "date": "Sat, 12 Sep 2026 13:04:50 +0000",
+      "summary": "On Episode 227 of This Week In Space, Rod Pyle and Tariq Malik are joined by Michael Okuda, who with wife and others have been central to the look, feel, and substance of the Star Trek universe.",
+      "url": "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-227-trekmania"
+    },
+    {
+      "category": "Space",
+      "title": " The best 'Star Trek' spaceships: 14 classic vessels from the Federation and beyond ",
+      "source": " Latest from Space.com ",
+      "date": "Sat, 12 Sep 2026 13:00:00 +0000",
+      "summary": "If you're going to boldly go where no one has gone before, you may as well do it in a kick-ass spaceship.",
+      "url": "https://www.space.com/entertainment/space-movies-shows/the-best-star-trek-spaceships-14-classic-vessels-from-the-federation-and-beyond"
+    },
+    {
+      "category": "Science",
+      "title": "Why are the stars around our galaxy's black hole missing their companions?",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sat, 12 Sep 2026 08:40:01 EDT",
+      "summary": "A new study suggests that the young stars orbiting the Milky Way's central black hole may have a surprisingly ordinary origin. But the black hole's influence may be what makes their origin look more exotic than it really is. Along with shaping their orbits, it may also destroy their stellar companions. The paper outlining this work was published in Astronomy & Astrophysics on Aug. 11.",
+      "url": "https://phys.org/news/2026-09-stars-galaxy-black-hole-companions.html"
     },
     {
       "category": "AI",
-      "title": "Random rewards enrich classic game-theory contests",
+      "title": "Show HN: Liniora – Ever thought about replacing your project manager?",
+      "source": "Hacker News: Front Page",
+      "date": "Sat, 12 Sep 2026 12:15:12 +0000",
+      "summary": "Hi HN, the title could be a little bit aggressive sorry for that... Basically i am Computer engineer graduated recently but i was and still working remotely for approx. 3 years with the same foreign company in EU. and i noticed that we are always somehow lose the context of a ticket -- even though we are using the popular project management systems -- so i decided why not build something that can fix our context loosing problems and with some improvements. here i created Liniora. an AI powered project management system. basically the core idea is to link the tools that we use to gather information about tickets in one place. i integrated Google meet for the meetings transcripts so you do your meeting it automatically got registered and indexed. You discuss about a bug in Slack thread so you mention @Liniora app and it will handle the bug context and create a ticket for you. We have the version control also connected so you create a ticket with ability of creating a separate branch with one-click for both Gitlab and Github. you have as well the Pull request controlled in our place inside the app. lets suppose you have a ticket and you created a branch called 'USER-325-create-login-form' then you merged to staging or production ? it will be automatically flagged with staging/production badge so you know what tickets are done. there are a lot of interesting features i wanted to describe but i will just let you guys discover and i will be very happy about your feedback. Thanks\nComments URL: https://news.ycombinator.com/item?id=49671542\nPoints: 5\n# Comments: 3",
+      "url": "https://liniora.com"
+    },
+    {
+      "category": "Science",
+      "title": "Rubin observatory peers deep into the famous COSMOS field",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sat, 12 Sep 2026 08:00:08 EDT",
+      "summary": "The COSMOS field, or Cosmic Evolution Survey Deep Field, is one of the most famous patches of the universe observed by astronomers. Located in the constellation Sextans, this region was photographed by the Hubble Space Telescope (HST) in segments from 2003 to 2005 using its Advanced Camera for Surveys (ACS). With support from ground-based and other space-based telescopes, the resulting images were then stitched together to create a stunning picture of cosmic evolution.",
+      "url": "https://phys.org/news/2026-09-rubin-observatory-peers-deep-famous.html"
+    },
+    {
+      "category": "Science",
+      "title": " AI trained to 'think' like human pathologists may be better at spotting cancer ",
+      "source": " Latest from Live Science ",
+      "date": "Sat, 12 Sep 2026 12:00:00 +0000",
+      "summary": "Researchers trained AI on how expert pathologists look for signs of cancer in patient samples, improving the algorithm's effectiveness.",
+      "url": "https://www.livescience.com/health/cancer/ai-trained-to-think-like-human-pathologists-may-be-better-at-spotting-cancer"
+    },
+    {
+      "category": "Space",
+      "title": " Perseid meteors meet mesmerizing star trails over Egypt's Western Desert ",
+      "source": " Latest from Space.com ",
+      "date": "Sat, 12 Sep 2026 12:00:00 +0000",
+      "summary": "Osama Fathi captured this breathtaking view of Perseids cutting through star trails from Egypt's Western Desert on Aug. 13-14.",
+      "url": "https://www.space.com/stargazing/astrophotography/perseid-meteors-meet-mesmerizing-star-trails-over-egypts-western-desert"
+    },
+    {
+      "category": "AI",
+      "title": "Fuck it, make it anyway",
+      "source": "Hacker News: Front Page",
+      "date": "Sat, 12 Sep 2026 11:42:32 +0000",
+      "summary": "Article URL: https://www.joelotter.com/posts/2026/09/make-it-anyway/\nComments URL: https://news.ycombinator.com/item?id=49671329\nPoints: 119\n# Comments: 76",
+      "url": "https://www.joelotter.com/posts/2026/09/make-it-anyway/"
+    },
+    {
+      "category": "AI",
+      "title": "Crypto farm in Mexican mountains puts spotlight on cartel funding",
+      "source": "Hacker News: Front Page",
+      "date": "Sat, 12 Sep 2026 11:37:22 +0000",
+      "summary": "Article URL: https://www.reuters.com/world/americas/hidden-crypto-farm-mexican-mountains-puts-spotlight-cartel-funding-2026-09-12/\nComments URL: https://news.ycombinator.com/item?id=49671296\nPoints: 17\n# Comments: 0",
+      "url": "https://www.reuters.com/world/americas/hidden-crypto-farm-mexican-mountains-puts-spotlight-cartel-funding-2026-09-12/"
+    },
+    {
+      "category": "AI",
+      "title": "I spent $4,000 on a robot dog from China",
+      "source": "Ars Technica - All content",
+      "date": "Sat, 12 Sep 2026 11:00:53 +0000",
+      "summary": "Unitree might be the world’s most important robotics company.",
+      "url": "https://arstechnica.com/gadgets/2026/09/i-spent-4000-on-a-robot-dog-from-china/"
+    },
+    {
+      "category": "Science",
+      "title": " Celestron StarSense Explorer DX 130AZ review ",
+      "source": " Latest from Live Science ",
+      "date": "Sat, 12 Sep 2026 11:00:00 +0000",
+      "summary": "A sharp, wide-field and genuinely portable 130mm reflector whose phone-guided pointing makes star-hopping optional, offering stunning views of the solar system and brighter deep-sky objects.",
+      "url": "https://www.livescience.com/products/optics/celestron-starsense-explorer-dx-130az-review"
+    },
+    {
+      "category": "Science",
+      "title": " Why is Venus hotter than Mercury, when Mercury is closer to the sun? ",
+      "source": " Latest from Live Science ",
+      "date": "Sat, 12 Sep 2026 09:00:00 +0000",
+      "summary": "Despite being farther from the sun, Venus is the hottest planet in the solar system, and the reason has little to do with proximity to a star.",
+      "url": "https://www.livescience.com/space/venus/why-is-venus-hotter-than-mercury-when-mercury-is-closer-to-the-sun"
+    },
+    {
+      "category": "Theology",
+      "title": "Cancel Culture Has Forgotten How to Forgive",
+      "source": "The Gospel Coalition",
+      "date": "Sat, 12 Sep 2026 04:02:00 +0000",
+      "summary": "‘Forgiveness’ points readers to the gospel in hopes of healing a culture shaped by anger and bitterness.",
+      "url": "https://www.thegospelcoalition.org/reviews/forgiveness-culture-outrage/"
+    },
+    {
+      "category": "Theology",
+      "title": "What AI’s ‘Confessions’ Teach Us About Us",
+      "source": "The Gospel Coalition",
+      "date": "Sat, 12 Sep 2026 04:00:00 +0000",
+      "summary": "If AI does go wrong, the ultimate blame is on us, because we’ve trained it on ourselves.",
+      "url": "https://www.thegospelcoalition.org/article/ais-confessions-teach-us/"
+    },
+    {
+      "category": "Science",
+      "title": "As antibiotic resistance grows, researchers turn to copper to fight infections",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Fri, 11 Sep 2026 22:40:02 EDT",
+      "summary": "When bacteria invade the urinary tract, the body has its own arsenal for fighting back. Among those weapons is an unlikely tool: copper. Researchers at the Texas A&M College of Veterinary Medicine and Biomedical Sciences (VMBS) are investigating how the body uses the essential trace mineral to fight urinary tract infections (UTIs), how bacteria manage to survive that attack and whether those discoveries could eventually lead to new ways of treating infections that are increasingly difficult to control with antibiotics.",
+      "url": "https://phys.org/news/2026-09-antibiotic-resistance-copper-infections.html"
+    },
+    {
+      "category": "Science",
+      "title": "The secret to longer life may be hidden in bat DNA",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Fri, 11 Sep 2026 20:25:05 EDT",
+      "summary": "Long-lived bats appear to combine powerful immune defenses with unusual strategies for eliminating damaged cells, potentially helping them avoid cancer and disease for decades. Researchers hope these genetic tricks could eventually reveal new ways to protect human health during aging.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260911003852.htm"
+    },
+    {
+      "category": "Science",
+      "title": "66-million-year-old feather in dinosaur poop may reveal why birds survived the asteroid",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Fri, 11 Sep 2026 19:47:16 EDT",
+      "summary": "A feather discovered inside 66-million-year-old fossilized dinosaur poop may help explain why modern birds survived the asteroid catastrophe. The extinct bird it came from had more primitive insulating feathers, suggesting superior plumage may have helped the ancestors of living birds endure the deadly impact winter.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260911003849.htm"
+    },
+    {
+      "category": "AI",
+      "title": "Some satellite companies still have an appetite for boutique launch services",
+      "source": "Ars Technica - All content",
+      "date": "Fri, 11 Sep 2026 23:34:45 +0000",
+      "summary": "\"Dedicated launch is pretty essential for us for most of our missions.\"",
+      "url": "https://arstechnica.com/space/2026/09/some-satellite-companies-still-have-an-appetite-for-boutique-launch-services/"
+    },
+    {
+      "category": "AI",
+      "title": "Random rewards enrich classic game-theory insights",
       "source": "Ars Technica - All content",
       "date": "Fri, 11 Sep 2026 21:41:16 +0000",
       "summary": "Simple games gain rich strategies in the face of noise.",
       "url": "https://arstechnica.com/science/2026/09/random-rewards-enrich-classic-game-theory-contests/"
     },
     {
-      "category": "AI",
-      "title": "Bouncy castle launches horrifying MRSA outbreak, striking 48 kids in Ireland",
-      "source": "Ars Technica - All content",
-      "date": "Fri, 11 Sep 2026 21:14:26 +0000",
-      "summary": "The strain lurking in the inflatable structure was hypervirulent.",
-      "url": "https://arstechnica.com/health/2026/09/bouncy-castle-launches-horrifying-mrsa-outbreak-striking-48-kids-in-ireland/"
+      "category": "Space",
+      "title": "Help Refine Data from Space Telescopes with Artifact InSPECtor",
+      "source": "NASA",
+      "date": "Fri, 11 Sep 2026 19:48:09 +0000",
+      "summary": "How do scientists studying space with data from a telescope hundreds of thousands of miles away know that what they are seeing is real? A new NASA project, Artifact InSPECtor, invites you to find out – and by doing so, to help missions like Euclid and NASA’s new Nancy Grace Roman Space Telescope answer fundamental […]",
+      "url": "https://science.nasa.gov/get-involved/citizen-science/help-refine-data-from-space-telescopes-with-artifact-inspector/"
     },
     {
       "category": "Space",
-      "title": " I've chased the 'false dawn' for years — this is the week to find and photograph it ",
-      "source": " Latest from Space.com ",
-      "date": "Fri, 11 Sep 2026 21:00:00 +0000",
-      "summary": "September's new moon opens a dark window for seeing zodiacal light, the ghostly cone of interplanetary dust that rises above the eastern horizon before dawn.",
-      "url": "https://www.space.com/stargazing/ive-chased-the-false-dawn-for-years-this-is-the-week-to-find-and-photograph-it"
+      "title": "NASA’s Chandra Spots Galactic Gem",
+      "source": "NASA",
+      "date": "Fri, 11 Sep 2026 17:19:47 +0000",
+      "summary": "Two galaxies merge at a furious rate in this Aug. 25, 2026, image of the II Zw 096 system. This and several other images of both visually and scientifically interesting galaxies were released by NASA’s Chandra X-ray Observatory and other telescopes. Chandra X-ray data (magenta) pinpoint powerful black hole activity and hot gas, while optical […]",
+      "url": "https://www.nasa.gov/image-article/nasas-chandra-spots-galactic-gem/"
     },
     {
       "category": "AI",
-      "title": "Trump's forced coal plant extensions thrown out by judge",
-      "source": "Ars Technica - All content",
-      "date": "Fri, 11 Sep 2026 20:32:59 +0000",
-      "summary": "The Department of Energy declared an \"emergency\" when none existed.",
-      "url": "https://arstechnica.com/science/2026/09/court-rejects-governments-energy-emergency-that-kept-coal-plant-open/"
+      "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
+      "source": "OpenAI News",
+      "date": "Fri, 11 Sep 2026 16:00:00 GMT",
+      "summary": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.",
+      "url": "https://openai.com/index/cognition-devin-testing-with-astra"
     },
     {
       "category": "Space",
-      "title": " A star is exploding 45 million light-years away — here's how you can see it ",
-      "source": " Latest from Space.com ",
-      "date": "Fri, 11 Sep 2026 20:00:00 +0000",
-      "summary": "The newly discovered Type Ia supernova SN 2026aaiv in NGC 7331 offers amateur astronomers and astrophotographers a rare opportunity to observe and image an exploding star before it fades.",
-      "url": "https://www.space.com/stargazing/a-star-is-exploding-45-million-light-years-away-heres-how-you-can-see-it"
-    },
-    {
-      "category": "Science",
-      "title": " 'Oddly shaped rock' unearthed in California turns out to be 'immaculate' mastodon molar ",
-      "source": " Latest from Live Science ",
-      "date": "Fri, 11 Sep 2026 18:11:48 +0000",
-      "summary": "A field survey in San Mateo County, California, has revealed the fossilized tooth of an adult Pacific mastodon, an ice-age giant that was probably native to the West Coast.",
-      "url": "https://www.livescience.com/animals/extinct-species/oddly-shaped-rock-unearthed-in-california-turns-out-to-be-immaculate-mastodon-molar"
-    },
-    {
-      "category": "Science",
-      "title": " 'There are no easy answers here': New study forecasts a dire dip in food production if key Atlantic currents collapse ",
-      "source": " Latest from Live Science ",
-      "date": "Fri, 11 Sep 2026 17:32:31 +0000",
-      "summary": "Researchers have examined how weakening currents in the Atlantic Ocean could impact global agriculture — and the results are concerning.",
-      "url": "https://www.livescience.com/planet-earth/climate-change/there-are-no-easy-answers-here-new-study-forecasts-a-dire-dip-in-food-production-if-key-atlantic-currents-collapse"
-    },
-    {
-      "category": "Science",
-      "title": " 'Maybe that is how Transformers started': Readers react to the possibility of AI becoming self-aware ",
-      "source": " Latest from Live Science ",
-      "date": "Fri, 11 Sep 2026 17:07:09 +0000",
-      "summary": "Could AI become conscious? Live Science readers revealed their thoughts about this technological possibility.",
-      "url": "https://www.livescience.com/technology/artificial-intelligence/maybe-that-is-how-transformers-started-readers-react-to-the-possibility-of-ai-becoming-self-aware"
+      "title": "NASA’s SpaceX Crew-12 to Discuss Station Mission, Upcoming Return",
+      "source": "NASA",
+      "date": "Fri, 11 Sep 2026 15:05:20 +0000",
+      "summary": "Media are invited to hear from NASA’s SpaceX Crew-12 astronauts during a news conference beginning at 2:45 p.m. EDT, Wednesday, Sept. 16, from the International Space Station. NASA astronauts Jessica Meir and Jack Hathaway, ESA (European Space Agency) astronaut Sophie Adenot, and Roscosmos cosmonaut Andrey Fedyaev will discuss their upcoming return to Earth. Learn where […]",
+      "url": "https://www.nasa.gov/news-release/nasas-spacex-crew-12-to-discuss-station-mission-upcoming-return/"
     },
     {
       "category": "Theology",
@@ -171,14 +243,6 @@
       "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one"
     },
     {
-      "category": "Science",
-      "title": "Physicists just found a tiny glitch in time itself",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Fri, 11 Sep 2026 01:18:44 EDT",
-      "summary": "Unconventional quantum theories may imply that time itself has a tiny fundamental uncertainty, placing an ultimate limit on how precisely any clock could measure it. The effect is far beyond current detection, but it could reveal a hidden connection between quantum mechanics, gravity, and spacetime.",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260910225251.htm"
-    },
-    {
       "category": "Theology",
       "title": "The Subversive Gospel in a Polarized World (Part 1)",
       "source": "The Gospel Coalition",
@@ -188,43 +252,11 @@
     },
     {
       "category": "Theology",
-      "title": "Should the Bible Be Taught in Public Schools? Yes.",
-      "source": "The Gospel Coalition",
-      "date": "Fri, 11 Sep 2026 04:03:00 +0000",
-      "summary": "A curriculum that deliberately eliminates any references to the Bible would do its students a disservice.",
-      "url": "https://www.thegospelcoalition.org/article/bible-public-schools-yes/"
-    },
-    {
-      "category": "Theology",
-      "title": "Should the Bible Be Taught in Public Schools? No.",
-      "source": "The Gospel Coalition",
-      "date": "Fri, 11 Sep 2026 04:01:00 +0000",
-      "summary": "The question that divides us isn’t whether the Bible deserves a central place in the formation of children but whether a state curriculum is capable of giving it the place it deserves.",
-      "url": "https://www.thegospelcoalition.org/article/bible-public-schools-no/"
-    },
-    {
-      "category": "Theology",
       "title": "Before Transitioning to a Plurality of Elders, Know Your Church’s History",
       "source": "9Marks",
       "date": "Thu, 10 Sep 2026 22:35:50 +0000",
       "summary": "To shepherd a flock well, we need to understand that flock, and part of doing that is understanding where they have been and the events that have shaped them.\nThe post Before Transitioning to a Plurality of Elders, Know Your Church’s History appeared first on 9Marks.",
       "url": "https://www.9marks.org/article/before-transitioning-to-a-plurality-of-elders-know-your-churchs-history/?utm_source=rss&utm_medium=rss&utm_campaign=before-transitioning-to-a-plurality-of-elders-know-your-churchs-history"
-    },
-    {
-      "category": "AI",
-      "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
-      "source": "OpenAI News",
-      "date": "Thu, 10 Sep 2026 16:00:00 GMT",
-      "summary": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections.",
-      "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials"
-    },
-    {
-      "category": "AI",
-      "title": "Now everyone can put data to work",
-      "source": "OpenAI News",
-      "date": "Thu, 10 Sep 2026 15:00:00 GMT",
-      "summary": "Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language.",
-      "url": "https://openai.com/index/put-data-to-work"
     },
     {
       "category": "Biblical Studies",
@@ -241,14 +273,6 @@
       "date": "Thu, 10 Sep 2026 10:00:07 +0000",
       "summary": "Although some readers may be familiar with the Civil War’s Invalid Corps, which wrought value and service from even grievously wounded men during that conflict, few probably know that America’s first such organization appeared during the Revolutionary War. Like its later counterpart, Washington’s Corps of Invalids provided the nation valuable service and roles for men […]\nThe post Washington’s Invalid Corps: Wounded Warriors Still Served the Revolutionary Cause appeared first on Journal of the American Revolution.",
       "url": "https://allthingsliberty.com/2026/09/washingtons-invalid-corps-wounded-warriors-still-served-the-revolutionary-cause/"
-    },
-    {
-      "category": "Science",
-      "title": "UNESCO warns there’s close to a 100% chance of a Mediterranean tsunami",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Thu, 10 Sep 2026 02:35:49 EDT",
-      "summary": "The Mediterranean may seem far removed from the world’s major tsunami zones, but history and modern modeling show that destructive waves can strike the French Riviera with surprisingly little warning. Some tsunamis could reach shore in under 10 minutes, while past events have produced waves around two meters high, powerful currents, damage, and deaths.",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260910022149.htm"
     },
     {
       "category": "History",
