@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-13T14:00:21.280Z",
+  "lastUpdated": "2026-09-13T18:26:56.466Z",
   "articleCount": 39,
   "articles": [
     {
@@ -12,27 +12,83 @@
     },
     {
       "category": "Science",
+      "title": "AI automates 3D membrane mapping, matching manual results in a fraction of time",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sun, 13 Sep 2026 14:00:06 EDT",
+      "summary": "Cell membranes and the proteins within them control many vital processes and play a key role in health and disease. But studying them in 3D images of cells has so far meant slow, manual work. A team from Helmholtz Munich, the Technical University of Munich (TUM) and the Biozentrum of the University of Basel has developed MemBrain v2, an AI tool that automates this task—cutting work that once took weeks down to a few hours. The study is published in Nature Methods.",
+      "url": "https://phys.org/news/2026-09-ai-automates-3d-membrane-manual.html"
+    },
+    {
+      "category": "Science",
+      "title": "Saltwater flooding could radically change which crops are worth growing",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sun, 13 Sep 2026 14:00:01 EDT",
+      "summary": "Saltwater isn't something most people associate with English farmland. But in parts of eastern England, it's becoming a growing problem, not just for crops but for farm incomes too.",
+      "url": "https://phys.org/news/2026-09-saltwater-radically-crops-worth.html"
+    },
+    {
+      "category": "Space",
+      "title": " On this day in space! Sept. 13, 2007: Japan launches Kaguya spacecraft to the moon to map the lunar surface in HD ",
+      "source": " Latest from Space.com ",
+      "date": "Sun, 13 Sep 2026 17:45:21 +0000",
+      "summary": "On Sept. 13, 2007, Japan launched the Kaguya spacecraft on a mission to the moon.  Here's why it mattered.",
+      "url": "https://www.space.com/space-exploration/on-this-day-in-space-september-13-2026"
+    },
+    {
+      "category": "AI",
+      "title": "Why is Google still serving dodgy ads?",
+      "source": "Hacker News: Front Page",
+      "date": "Sun, 13 Sep 2026 17:37:44 +0000",
+      "summary": "Article URL: https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads\nComments URL: https://news.ycombinator.com/item?id=49686445\nPoints: 27\n# Comments: 9",
+      "url": "https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads"
+    },
+    {
+      "category": "AI",
+      "title": "Ask HN: What are you working on? (September 2026)",
+      "source": "Hacker News: Front Page",
+      "date": "Sun, 13 Sep 2026 17:31:38 +0000",
+      "summary": "What are you working on? What have you been curious about lately?\nComments URL: https://news.ycombinator.com/item?id=49686380\nPoints: 17\n# Comments: 29",
+      "url": "https://news.ycombinator.com/item?id=49686380"
+    },
+    {
+      "category": "AI",
+      "title": "Ask HN: How can I browse HN in dark mode?",
+      "source": "Hacker News: Front Page",
+      "date": "Sun, 13 Sep 2026 17:18:41 +0000",
+      "summary": "For the fellow parents, some fun context: My toddler is asleep on me, and this light is blinding.\nComments URL: https://news.ycombinator.com/item?id=49686233\nPoints: 19\n# Comments: 24",
+      "url": "https://news.ycombinator.com/item?id=49686233"
+    },
+    {
+      "category": "Science",
+      "title": "Luminescence dating pushes age of South Dakota's Mammoth Site back by more than 100,000 years",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sun, 13 Sep 2026 12:40:02 EDT",
+      "summary": "Deep within an ancient sinkhole lie the remains of dozens of mammoths, prehistoric wanderers who waded into the warm springs to their deaths. These deaths had long been accepted as having occurred roughly 26,000 years ago, but new dates published in the journal Quaternary Research suggest these ice-age giants were more than 160,000 years old.",
+      "url": "https://phys.org/news/2026-09-luminescence-dating-age-south-dakota.html"
+    },
+    {
+      "category": "Space",
+      "title": " The 10 best underground sci-fi movies to dig into now that 'Silo' season 3 has ended ",
+      "source": " Latest from Space.com ",
+      "date": "Sun, 13 Sep 2026 15:00:00 +0000",
+      "summary": "We're going deeper underground; there's too much panic in this town.",
+      "url": "https://www.space.com/entertainment/best-underground-sci-fi-movies"
+    },
+    {
+      "category": "Space",
+      "title": " NASA astronaut Jessica Meir shares zero-G curly hair tips from the ISS (video) ",
+      "source": " Latest from Space.com ",
+      "date": "Sun, 13 Sep 2026 14:00:00 +0000",
+      "summary": "In a great moment for curly-haired folks around the world, NASA astronaut Jessica Meir just shared some styling tips from the ISS.",
+      "url": "https://www.space.com/space-exploration/international-space-station/nasa-astronaut-jessica-meir-shares-zero-g-curly-hair-tips-from-the-iss-video"
+    },
+    {
+      "category": "Science",
       "title": "Scientists find a new layer of Alzheimer’s hidden in the genome",
       "source": "All Top News -- ScienceDaily",
       "date": "Sun, 13 Sep 2026 09:56:06 EDT",
       "summary": "Scientists found that the 3D organization of DNA is disrupted in several types of brain cells affected by Alzheimer’s disease, altering how important genes are switched on and off. The discovery reveals a previously underexplored layer of the disease that could open new paths for understanding and eventually treating Alzheimer’s.",
       "url": "https://www.sciencedaily.com/releases/2026/09/260912220051.htm"
-    },
-    {
-      "category": "AI",
-      "title": "US Customs supervisor busted for stealing hardware from Homeland Security PCs",
-      "source": "Hacker News: Front Page",
-      "date": "Sun, 13 Sep 2026 13:24:28 +0000",
-      "summary": "Article URL: https://www.tomshardware.com/pc-components/us-customs-supervisor-busted-for-stealing-core-i7-cpus-ram-and-hard-drives-from-homeland-security-pcs-stolen-tech-swapped-with-inferior-hardware-and-cashed-out-on-newegg\nComments URL: https://news.ycombinator.com/item?id=49683729\nPoints: 8\n# Comments: 4",
-      "url": "https://www.tomshardware.com/pc-components/us-customs-supervisor-busted-for-stealing-core-i7-cpus-ram-and-hard-drives-from-homeland-security-pcs-stolen-tech-swapped-with-inferior-hardware-and-cashed-out-on-newegg"
-    },
-    {
-      "category": "Science",
-      "title": "Cataract surgery will be needed in space, surgeon predicts",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sun, 13 Sep 2026 09:20:01 EDT",
-      "summary": "An eye surgeon with a passion for space since childhood predicts that as astronauts start to make journeys to the moon and Mars in the near future, eye surgery in space will eventually become a necessity.",
-      "url": "https://phys.org/news/2026-09-cataract-surgery-space-surgeon.html"
     },
     {
       "category": "Science",
@@ -41,38 +97,6 @@
       "date": "Sun, 13 Sep 2026 09:15:56 EDT",
       "summary": "A massive worldwide survey of physicists has revealed surprisingly little agreement about some of the universe’s biggest mysteries. No majority backed the standard cosmological model, a leading explanation for dark matter, or any single theory of quantum gravity. One area of stronger agreement stood out: 68% said the Big Bang does not necessarily represent the beginning of time. Researchers say the divisions show just how alive and unsettled the frontiers of physics remain.",
       "url": "https://www.sciencedaily.com/releases/2026/09/260912220041.htm"
-    },
-    {
-      "category": "Science",
-      "title": "A 1,000-fold longer charge lifetime helps organic catalyst produce solar hydrogen faster",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sun, 13 Sep 2026 09:00:08 EDT",
-      "summary": "Researchers from the Ningbo Institute of Materials Technology and Engineering (NIMTE) of the Chinese Academy of Sciences (CAS), in collaboration with researchers from the Technical Institute of Physics and Chemistry of CAS, have developed a coumarin-linked covalent organic framework (COF) that enables high-efficiency photocatalytic water splitting for hydrogen production.",
-      "url": "https://phys.org/news/2026-09-longer-lifetime-catalyst-solar-hydrogen.html"
-    },
-    {
-      "category": "Science",
-      "title": "NASA's next great observatory could spot oceans on distant worlds",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sun, 13 Sep 2026 09:00:04 EDT",
-      "summary": "We've found more than 5,500 exoplanets so far. Dozens of them are in the habitable zones of their parent stars, where, at least in theory, they could host an ocean. But we've never definitively found a liquid ocean on another planet.",
-      "url": "https://phys.org/news/2026-09-nasa-great-observatory-oceans-distant.html"
-    },
-    {
-      "category": "Space",
-      "title": " James Webb Space Telescope discovers the rings of tiny solar system body Chariklo are changing ",
-      "source": " Latest from Space.com ",
-      "date": "Sun, 13 Sep 2026 13:00:00 +0000",
-      "summary": "Using the James Webb Space Telescope, astronomers have discovered that the ring system of the tiny solar system body is even more interesting than they knew.",
-      "url": "https://www.space.com/astronomy/james-webb-space-telescope/james-webb-space-telescope-discovers-the-rings-of-tiny-solar-system-body-chariklo-are-changing"
-    },
-    {
-      "category": "AI",
-      "title": "'Fingerprints' inside the Sun could reveal if it once swallowed a planet",
-      "source": "Hacker News: Front Page",
-      "date": "Sun, 13 Sep 2026 12:01:52 +0000",
-      "summary": "Article URL: https://ras.ac.uk/news-and-press/research-highlights/fingerprints-inside-sun-could-reveal-if-it-once-swallowed-planet\nComments URL: https://news.ycombinator.com/item?id=49683033\nPoints: 24\n# Comments: 11",
-      "url": "https://ras.ac.uk/news-and-press/research-highlights/fingerprints-inside-sun-could-reveal-if-it-once-swallowed-planet"
     },
     {
       "category": "AI",
@@ -91,28 +115,12 @@
       "url": "https://www.sciencedaily.com/releases/2026/09/260912222856.htm"
     },
     {
-      "category": "AI",
-      "title": "Nvidia dismisses \"circular financing\", says every $1 it invests brings back $100",
-      "source": "Hacker News: Front Page",
-      "date": "Sun, 13 Sep 2026 10:29:18 +0000",
-      "summary": "Article URL: https://invezz.com/news/2026/09/11/nvidia-says-every-1-it-invests-brings-back-100-so-why-does-the-stock-keep-falling/\nComments URL: https://news.ycombinator.com/item?id=49682319\nPoints: 106\n# Comments: 139",
-      "url": "https://invezz.com/news/2026/09/11/nvidia-says-every-1-it-invests-brings-back-100-so-why-does-the-stock-keep-falling/"
-    },
-    {
       "category": "Science",
       "title": " Haunting Hubble telescope image captures cosmic cycle of destruction and creation —‬ Space photo of the week ",
       "source": " Latest from Live Science ",
       "date": "Sun, 13 Sep 2026 10:00:00 +0000",
       "summary": "A spectacular new Hubble Space Telescope image reveals almost 30,000 newborn stars around an enormous cavity carved into a stellar nursery in a neighboring galaxy.",
       "url": "https://www.livescience.com/space/haunting-hubble-telescope-image-captures-cosmic-cycle-of-destruction-and-creation-space-photo-of-the-week"
-    },
-    {
-      "category": "Space",
-      "title": " Don't miss Venus shine beside the crescent moon at sunset tonight ",
-      "source": " Latest from Space.com ",
-      "date": "Sun, 13 Sep 2026 10:00:00 +0000",
-      "summary": "Venus will shine close to the waxing crescent moon at sunset on Sept. 13.",
-      "url": "https://www.space.com/stargazing/dont-miss-venus-shine-beside-the-crescent-moon-at-sunset-tonight"
     },
     {
       "category": "Science",
@@ -145,14 +153,6 @@
       "date": "Sat, 12 Sep 2026 14:00:00 +0000",
       "summary": "Scientists blasted diamonds with lasers to get the best measurement of the mineral's melting point yet. The new, more accurate numbers could help improve fusion experiments and studies of giant planets.",
       "url": "https://www.livescience.com/physics-mathematics/scientists-got-diamonds-melting-point-wrong-by-more-than-1-000-degrees-crushing-new-laser-experiment-reveals"
-    },
-    {
-      "category": "Space",
-      "title": " Trump is proposing a US Space Academy — if created, it could blur the lines between NASA and the military (op-ed) ",
-      "source": " Latest from Space.com ",
-      "date": "Sat, 12 Sep 2026 14:00:00 +0000",
-      "summary": "As a space policy expert, I see several open questions and potential problems related to the vision of a U.S. Space Academy laid out by President Trump’s recent executive order.",
-      "url": "https://www.space.com/space-exploration/trump-is-proposing-a-us-space-academy-if-created-it-could-blur-the-lines-between-nasa-and-the-military-op-ed"
     },
     {
       "category": "AI",
