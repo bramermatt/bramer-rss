@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-13T18:26:56.466Z",
+  "lastUpdated": "2026-09-13T23:49:18.665Z",
   "articleCount": 39,
   "articles": [
     {
@@ -11,20 +11,76 @@
       "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra"
     },
     {
-      "category": "Science",
-      "title": "AI automates 3D membrane mapping, matching manual results in a fraction of time",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sun, 13 Sep 2026 14:00:06 EDT",
-      "summary": "Cell membranes and the proteins within them control many vital processes and play a key role in health and disease. But studying them in 3D images of cells has so far meant slow, manual work. A team from Helmholtz Munich, the Technical University of Munich (TUM) and the Biozentrum of the University of Basel has developed MemBrain v2, an AI tool that automates this task—cutting work that once took weeks down to a few hours. The study is published in Nature Methods.",
-      "url": "https://phys.org/news/2026-09-ai-automates-3d-membrane-manual.html"
+      "category": "AI",
+      "title": "Due to concerns about malicious applications, GPT2 will not be released (2019)",
+      "source": "Hacker News: Front Page",
+      "date": "Sun, 13 Sep 2026 23:11:17 +0000",
+      "summary": "Article URL: https://openai.com/index/better-language-models/\nComments URL: https://news.ycombinator.com/item?id=49689706\nPoints: 12\n# Comments: 2",
+      "url": "https://openai.com/index/better-language-models/"
+    },
+    {
+      "category": "AI",
+      "title": "The Contagion of Fear",
+      "source": "Hacker News: Front Page",
+      "date": "Sun, 13 Sep 2026 22:38:18 +0000",
+      "summary": "Article URL: https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/\nComments URL: https://news.ycombinator.com/item?id=49689460\nPoints: 43\n# Comments: 16",
+      "url": "https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/"
     },
     {
       "category": "Science",
-      "title": "Saltwater flooding could radically change which crops are worth growing",
+      "title": "JWST ruled out finding tiny moons around an exoplanet—that's great news",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Sun, 13 Sep 2026 14:00:01 EDT",
-      "summary": "Saltwater isn't something most people associate with English farmland. But in parts of eastern England, it's becoming a growing problem, not just for crops but for farm incomes too.",
-      "url": "https://phys.org/news/2026-09-saltwater-radically-crops-worth.html"
+      "date": "Sun, 13 Sep 2026 18:30:05 EDT",
+      "summary": "The James Webb Space Telescope (JWST) has opened many wonders of the cosmos to scientists since it began science operations a few years ago. But one thing it hasn't done is find an \"exomoon.\" These still-theoretical moons orbit exoplanets in other star systems, and JWST was supposed to find a plethora of them.",
+      "url": "https://phys.org/news/2026-09-jwst-tiny-moons-exoplanet-great.html"
+    },
+    {
+      "category": "AI",
+      "title": "Unvaccinated Pennsylvania woman died of measles complications, coroner says",
+      "source": "Ars Technica - All content",
+      "date": "Sun, 13 Sep 2026 21:56:52 +0000",
+      "summary": "The 40-year-old unvaccinated woman reportedly had underlying health conditions.",
+      "url": "https://arstechnica.com/health/2026/09/unvaccinated-pennsylvania-woman-died-of-measles-complications-coroner-says/"
+    },
+    {
+      "category": "AI",
+      "title": "Registration without a phone number on Signal will use zero-knowledge proofs",
+      "source": "Hacker News: Front Page",
+      "date": "Sun, 13 Sep 2026 21:47:04 +0000",
+      "summary": "Article URL: https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10\nComments URL: https://news.ycombinator.com/item?id=49689048\nPoints: 16\n# Comments: 2",
+      "url": "https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10"
+    },
+    {
+      "category": "Space",
+      "title": " SpaceX launches 3 telecom satellites to orbit on 700th Falcon mission of all time (video) ",
+      "source": " Latest from Space.com ",
+      "date": "Sun, 13 Sep 2026 21:41:26 +0000",
+      "summary": "SpaceX lofted three of SES's O3b mPOWER communications satellites to orbit today (Sept. 13), on the 700th mission to date for the Falcon rocket family.",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-3-telecom-satellites-to-orbit-on-700th-falcon-mission-of-all-time-video"
+    },
+    {
+      "category": "Science",
+      "title": "Astronomers unmask a supernova impostor",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sun, 13 Sep 2026 17:00:03 EDT",
+      "summary": "A distant star has captured astronomers' attention over the past decade, teasing them with indications that it will soon explode as a supernova. But new research shows that something else entirely is behind the star's outbursts. Rather than an impending catastrophic explosion, a previously unseen companion may be responsible for the star's behavior.",
+      "url": "https://phys.org/news/2026-09-astronomers-unmask-supernova-impostor.html"
+    },
+    {
+      "category": "Science",
+      "title": "AI helps microscopes find the most informative nanoscale features in a sample",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sun, 13 Sep 2026 16:00:01 EDT",
+      "summary": "Researchers at the Department of Energy's Oak Ridge National Laboratory (ORNL) have developed an artificial intelligence framework that helps researchers use atomic force microscopes to identify important nanoscale features while autonomously targeting the most informative areas of a sample for closer study.",
+      "url": "https://phys.org/news/2026-09-ai-microscopes-nanoscale-features-sample.html"
+    },
+    {
+      "category": "Science",
+      "title": " Fall stargazing 2026: The best skywatching sights in autumn (and how to see them) ",
+      "source": " Latest from Live Science ",
+      "date": "Sun, 13 Sep 2026 19:24:52 +0000",
+      "summary": "As longer nights draw in over the fall, we see the return of some stargazing favorites, including the Andromeda Galaxy, the Pleiades star cluster and the first supermoon of the season.",
+      "url": "https://www.livescience.com/products/optics/fall-stargazing-2026"
     },
     {
       "category": "Space",
@@ -35,52 +91,12 @@
       "url": "https://www.space.com/space-exploration/on-this-day-in-space-september-13-2026"
     },
     {
-      "category": "AI",
-      "title": "Why is Google still serving dodgy ads?",
-      "source": "Hacker News: Front Page",
-      "date": "Sun, 13 Sep 2026 17:37:44 +0000",
-      "summary": "Article URL: https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads\nComments URL: https://news.ycombinator.com/item?id=49686445\nPoints: 27\n# Comments: 9",
-      "url": "https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads"
-    },
-    {
-      "category": "AI",
-      "title": "Ask HN: What are you working on? (September 2026)",
-      "source": "Hacker News: Front Page",
-      "date": "Sun, 13 Sep 2026 17:31:38 +0000",
-      "summary": "What are you working on? What have you been curious about lately?\nComments URL: https://news.ycombinator.com/item?id=49686380\nPoints: 17\n# Comments: 29",
-      "url": "https://news.ycombinator.com/item?id=49686380"
-    },
-    {
-      "category": "AI",
-      "title": "Ask HN: How can I browse HN in dark mode?",
-      "source": "Hacker News: Front Page",
-      "date": "Sun, 13 Sep 2026 17:18:41 +0000",
-      "summary": "For the fellow parents, some fun context: My toddler is asleep on me, and this light is blinding.\nComments URL: https://news.ycombinator.com/item?id=49686233\nPoints: 19\n# Comments: 24",
-      "url": "https://news.ycombinator.com/item?id=49686233"
-    },
-    {
-      "category": "Science",
-      "title": "Luminescence dating pushes age of South Dakota's Mammoth Site back by more than 100,000 years",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sun, 13 Sep 2026 12:40:02 EDT",
-      "summary": "Deep within an ancient sinkhole lie the remains of dozens of mammoths, prehistoric wanderers who waded into the warm springs to their deaths. These deaths had long been accepted as having occurred roughly 26,000 years ago, but new dates published in the journal Quaternary Research suggest these ice-age giants were more than 160,000 years old.",
-      "url": "https://phys.org/news/2026-09-luminescence-dating-age-south-dakota.html"
-    },
-    {
       "category": "Space",
       "title": " The 10 best underground sci-fi movies to dig into now that 'Silo' season 3 has ended ",
       "source": " Latest from Space.com ",
       "date": "Sun, 13 Sep 2026 15:00:00 +0000",
       "summary": "We're going deeper underground; there's too much panic in this town.",
       "url": "https://www.space.com/entertainment/best-underground-sci-fi-movies"
-    },
-    {
-      "category": "Space",
-      "title": " NASA astronaut Jessica Meir shares zero-G curly hair tips from the ISS (video) ",
-      "source": " Latest from Space.com ",
-      "date": "Sun, 13 Sep 2026 14:00:00 +0000",
-      "summary": "In a great moment for curly-haired folks around the world, NASA astronaut Jessica Meir just shared some styling tips from the ISS.",
-      "url": "https://www.space.com/space-exploration/international-space-station/nasa-astronaut-jessica-meir-shares-zero-g-curly-hair-tips-from-the-iss-video"
     },
     {
       "category": "Science",
@@ -147,14 +163,6 @@
       "url": "https://www.thegospelcoalition.org/article/sex-cocaine-crystals-jesus/"
     },
     {
-      "category": "Science",
-      "title": " Scientists got diamond's melting point wrong by more than 1,000 degrees, crushing new laser experiment reveals ",
-      "source": " Latest from Live Science ",
-      "date": "Sat, 12 Sep 2026 14:00:00 +0000",
-      "summary": "Scientists blasted diamonds with lasers to get the best measurement of the mineral's melting point yet. The new, more accurate numbers could help improve fusion experiments and studies of giant planets.",
-      "url": "https://www.livescience.com/physics-mathematics/scientists-got-diamonds-melting-point-wrong-by-more-than-1-000-degrees-crushing-new-laser-experiment-reveals"
-    },
-    {
       "category": "AI",
       "title": "I spent $4,000 on a robot dog from China",
       "source": "Ars Technica - All content",
@@ -177,14 +185,6 @@
       "date": "Sat, 12 Sep 2026 04:00:00 +0000",
       "summary": "If AI does go wrong, the ultimate blame is on us, because we’ve trained it on ourselves.",
       "url": "https://www.thegospelcoalition.org/article/ais-confessions-teach-us/"
-    },
-    {
-      "category": "AI",
-      "title": "Some satellite companies still have an appetite for boutique launch services",
-      "source": "Ars Technica - All content",
-      "date": "Fri, 11 Sep 2026 23:34:45 +0000",
-      "summary": "\"Dedicated launch is pretty essential for us for most of our missions.\"",
-      "url": "https://arstechnica.com/space/2026/09/some-satellite-companies-still-have-an-appetite-for-boutique-launch-services/"
     },
     {
       "category": "Space",
