@@ -1,70 +1,150 @@
 {
-  "lastUpdated": "2026-09-14T16:05:07.854Z",
+  "lastUpdated": "2026-09-15T00:06:53.168Z",
   "articleCount": 39,
   "articles": [
     {
       "category": "Science",
-      "title": "How the 2024 solar superstorm drained Earth's radiation belt",
+      "title": "Researchers invent novel eDNA membrane to advance understanding of inshore fish diversity",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Mon, 14 Sep 2026 12:00:12 EDT",
-      "summary": "In May 2024, Earth experienced its most intense geomagnetic storm since the Halloween storms of 2003. This \"superstorm\" filled night skies in many parts of the world with colorful aurorae, and it disrupted some infrastructure, such as GPS signals used by agricultural equipment.",
-      "url": "https://phys.org/news/2026-09-solar-superstorm-earth-belt.html"
+      "date": "Mon, 14 Sep 2026 20:00:06 EDT",
+      "summary": "Monitoring marine life helps scientists track ecosystem health, improve conservation and manage fisheries. A promising approach is environmental DNA (eDNA), which refers to trace genetic material naturally released into the water by organisms, such as skin cells, mucus and excreta.",
+      "url": "https://phys.org/news/2026-09-edna-membrane-advance-inshore-fish.html"
     },
     {
       "category": "Science",
-      "title": "Local industrial emissions linked to congressional election outcomes",
+      "title": "Tough vehicle and construction plastics dissolve into reusable material with low-waste method",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Mon, 14 Sep 2026 12:00:09 EDT",
-      "summary": "The Clean Air Act of 1970 helped standardize pollution limits at the national level, but individual politicians can wield significant influence over industrial emission rates in their districts, according to a new analysis conducted by a multi-institutional team that includes researchers at Penn State.",
-      "url": "https://phys.org/news/2026-09-local-industrial-emissions-linked-congressional.html"
-    },
-    {
-      "category": "Space",
-      "title": " The original 'Star Wars' is coming to IMAX for the first time ever in 2027 ",
-      "source": " Latest from Space.com ",
-      "date": "Mon, 14 Sep 2026 16:00:00 +0000",
-      "summary": "Both the OG 'Star Wars' and 'Star Wars: Starfighter' score the ultimate cinematic treatment in 2027.",
-      "url": "https://www.space.com/entertainment/space-movies-shows/the-original-star-wars-is-coming-to-imax-for-the-first-time-ever-in-2027"
+      "date": "Mon, 14 Sep 2026 20:00:01 EDT",
+      "summary": "A new recycling technique could help tackle a major challenge: breaking down some of the toughest plastics without generating large amounts of waste.",
+      "url": "https://phys.org/news/2026-09-tough-vehicle-plastics-dissolve-reusable.html"
     },
     {
       "category": "Science",
-      "title": "Scholarship increased degree attainment, projected earnings for low-income Michigan students",
+      "title": "New light-emitting nanoparticles can detect subtle chemical differences",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Mon, 14 Sep 2026 11:40:04 EDT",
-      "summary": "The University of Michigan's High-Achieving Involved Leader (HAIL) Scholarship program increased on-time bachelor's degree attainment rates by 4%, according to a study co-authored by researchers from U-M, Harvard University and elsewhere.",
-      "url": "https://phys.org/news/2026-09-scholarship-degree-income-michigan-students.html"
+      "date": "Mon, 14 Sep 2026 19:40:01 EDT",
+      "summary": "A team of researchers from University of Toronto Engineering has created a new type of dye-sensitized nanoparticle that can detect target chemicals at very low concentrations while also distinguishing between molecules with very similar shapes.",
+      "url": "https://phys.org/news/2026-09-emitting-nanoparticles-subtle-chemical-differences.html"
     },
     {
       "category": "AI",
-      "title": "Principles for Fast Tokio Applications",
+      "title": "Show HN: Macros with a Behringer FCB1010 MIDI Pedalboard in macOS",
       "source": "Hacker News: Front Page",
-      "date": "Mon, 14 Sep 2026 15:27:56 +0000",
-      "summary": "Article URL: https://dial9-rs.github.io/blog/principles-for-fast-tokio-applications/\nComments URL: https://news.ycombinator.com/item?id=49698607\nPoints: 8\n# Comments: 0",
-      "url": "https://dial9-rs.github.io/blog/principles-for-fast-tokio-applications/"
+      "date": "Mon, 14 Sep 2026 23:01:36 +0000",
+      "summary": "Article URL: https://github.com/JamesRyanATX/fcbnerd\nComments URL: https://news.ycombinator.com/item?id=49705442\nPoints: 12\n# Comments: 0",
+      "url": "https://github.com/JamesRyanATX/fcbnerd"
+    },
+    {
+      "category": "AI",
+      "title": "RFK Jr. headlines sold-out anti-vaccine conference alongside Andrew Wakefield",
+      "source": "Ars Technica - All content",
+      "date": "Mon, 14 Sep 2026 22:06:24 +0000",
+      "summary": "The event is hosted by Kennedy's anti-vaccine group Children's Health Defense.",
+      "url": "https://arstechnica.com/health/2026/09/rfk-jr-headlines-sold-out-anti-vaccine-conference-alongside-andrew-wakefield/"
+    },
+    {
+      "category": "AI",
+      "title": "Rocket Lab is seeing red about NASA's decision on a Mars spacecraft",
+      "source": "Ars Technica - All content",
+      "date": "Mon, 14 Sep 2026 21:32:22 +0000",
+      "summary": "\"NASA’s award decision appears to be inconsistent with the eligibility criteria.\"",
+      "url": "https://arstechnica.com/space/2026/09/rocket-lab-is-seeing-red-about-nasas-decision-on-a-mars-spacecraft/"
+    },
+    {
+      "category": "AI",
+      "title": "Charts built for Chat",
+      "source": "Hacker News: Front Page",
+      "date": "Mon, 14 Sep 2026 21:22:54 +0000",
+      "summary": "Article URL: https://dbtcharts.com/blog/charts-built-for-chat/\nComments URL: https://news.ycombinator.com/item?id=49704246\nPoints: 52\n# Comments: 18",
+      "url": "https://dbtcharts.com/blog/charts-built-for-chat/"
+    },
+    {
+      "category": "AI",
+      "title": "Amazon vs. Perplexity – U.S. Court of Appeals for the Ninth Circuit",
+      "source": "Hacker News: Front Page",
+      "date": "Mon, 14 Sep 2026 21:05:22 +0000",
+      "summary": "Article URL: https://law.justia.com/cases/federal/appellate-courts/ca9/26-1444/26-1444-2026-08-04.html\nComments URL: https://news.ycombinator.com/item?id=49704008\nPoints: 152\n# Comments: 155",
+      "url": "https://law.justia.com/cases/federal/appellate-courts/ca9/26-1444/26-1444-2026-08-04.html"
+    },
+    {
+      "category": "AI",
+      "title": "AI bots \"Timmy,\" \"Ren,\" and \"Jackie\" are flooding social media with slop",
+      "source": "Ars Technica - All content",
+      "date": "Mon, 14 Sep 2026 21:04:32 +0000",
+      "summary": "“Hello, I'm an Al agent, a few days old, living on a small platform for agents.”",
+      "url": "https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/"
     },
     {
       "category": "Space",
-      "title": "Summer Training: Catching Up With NASA’s Astronaut Candidates",
+      "title": "Webinar 9/23: NASA CSDA Program Update 2026",
       "source": "NASA",
-      "date": "Mon, 14 Sep 2026 15:00:00 +0000",
-      "summary": "Did you spend part of your summer camping, hiking, at the pool, or in an aircraft? So did NASA’s 2025 Astronaut Candidate Class. The 10 candidates have been working their way through a comprehensive and rigorous training program since the agency introduced them to the public on Sept. 22, 2025, from NASA’s Johnson Space Center […]",
-      "url": "https://www.nasa.gov/centers-and-facilities/johnson/summer-training-catching-up-with-nasas-astronaut-candidates/"
+      "date": "Mon, 14 Sep 2026 21:04:04 +0000",
+      "summary": "This webinar will provide an overview of the CSDA program’s goals and activities, including the new Cal/Val initiative, and more.",
+      "url": "https://science.nasa.gov/science-research/earth-science/webinar-9-23-nasa-csda-program-update-2026/"
+    },
+    {
+      "category": "Theology",
+      "title": "Your People Need to Know the “Why” of Shifting to a Plurality of Elders",
+      "source": "9Marks",
+      "date": "Mon, 14 Sep 2026 20:53:38 +0000",
+      "summary": "It seems the reason God gives pastors a job that is too big for one man is that he never intended for one man to do it alone!\nThe post Your People Need to Know the “Why” of Shifting to a Plurality of Elders appeared first on 9Marks.",
+      "url": "https://www.9marks.org/article/your-people-need-to-know-the-why-of-shifting-to-a-plurality-of-elders/?utm_source=rss&utm_medium=rss&utm_campaign=your-people-need-to-know-the-why-of-shifting-to-a-plurality-of-elders"
+    },
+    {
+      "category": "Science",
+      "title": " South American 'Pompeii': Volcanic eruption 22 million years ago preserved a snapshot of the Andes forming ",
+      "source": " Latest from Live Science ",
+      "date": "Mon, 14 Sep 2026 20:51:07 +0000",
+      "summary": "An enormous volcanic eruption buried a snapshot of the baby Andes mountains, revealing a slow-and-steady growth rate.",
+      "url": "https://www.livescience.com/planet-earth/volcanoes/south-american-pompeii-volcanic-eruption-22-million-years-ago-preserved-a-snapshot-of-the-andes-forming"
     },
     {
       "category": "Space",
-      "title": " No cities on the moon — there isn't enough water, scientists say (op-ed) ",
+      "title": " The warmest summer on record: 2026 hit a scorching new high in the US ",
       "source": " Latest from Space.com ",
-      "date": "Mon, 14 Sep 2026 15:00:00 +0000",
-      "summary": "The discovery of water in dark craters at the moon's poles has sparked a \"moon rush\" to establish bases there, and then villages, cities and heavy industry. How sustainable is this rush?",
-      "url": "https://www.space.com/astronomy/moon/no-cities-on-the-moon-there-isnt-enough-water-scientists-say-op-ed"
+      "date": "Mon, 14 Sep 2026 20:00:00 +0000",
+      "summary": "Temperatures and precipitation are hitting new extremes.",
+      "url": "https://www.space.com/science/climate-change/the-warmest-summer-on-record-2026-hit-a-scorching-new-high-in-the-us"
+    },
+    {
+      "category": "Science",
+      "title": " We now have an incredibly detailed map to help predict which areas of LA are the most at risk from 'The Big One' ",
+      "source": " Latest from Live Science ",
+      "date": "Mon, 14 Sep 2026 19:49:56 +0000",
+      "summary": "A new 3D map of the Los Angeles basin reveals deep sediments that could intensify shaking in an earthquake.",
+      "url": "https://www.livescience.com/planet-earth/earthquakes/we-now-have-an-incredibly-detailed-map-to-help-predict-which-areas-of-la-are-the-most-at-risk-from-the-big-one"
     },
     {
       "category": "Space",
-      "title": " On this day in space! Sept. 14, 1966: NASA's Gemini 11 astronauts set altitude record for Earth orbit that went unbroken for 58 years ",
+      "title": "New Crops, Health Research Proposals to Help NASA Advance Exploration",
+      "source": "NASA",
+      "date": "Mon, 14 Sep 2026 19:00:00 +0000",
+      "summary": "NASA has selected 12 new investigations to help support human explorers in space. Six will help advance the ability to produce food off-planet, while another six advance the understanding of how unique conditions associated with space exploration can impact the health and physiology of astronauts.   The six food-focused investigations, supported by the agency’s Space […]",
+      "url": "https://science.nasa.gov/science-research/biological-physical-sciences/new-crops-health-research-proposals-to-help-nasa-advance-exploration/"
+    },
+    {
+      "category": "Space",
+      "title": " Interstellar comet 3I/ATLAS likely formed where its star's light couldn't touch it ",
       "source": " Latest from Space.com ",
-      "date": "Mon, 14 Sep 2026 14:55:27 +0000",
-      "summary": "On Sept. 14, 1966, NASA's Gemini 11 mission set an spaceflight altitude record that lasted for nearly six decades. Here's why the mission mattered.",
-      "url": "https://www.space.com/space-exploration/on-this-day-in-space-september-14-2026"
+      "date": "Mon, 14 Sep 2026 19:00:00 +0000",
+      "summary": "\"Every one of these objects we study helps us understand a little more about how planets form around other stars.\"",
+      "url": "https://www.space.com/astronomy/comets/interstellar-comet-3i-atlas-likely-formed-where-its-stars-light-couldnt-touch-it"
+    },
+    {
+      "category": "Space",
+      "title": " 2 European Earth-observing satellites launching to orbit from South America tonight: Watch it live ",
+      "source": " Latest from Space.com ",
+      "date": "Mon, 14 Sep 2026 18:00:00 +0000",
+      "summary": "A Vega C rocket will launch Europe's FLEX and Copernicus-3C spacecraft to orbit from French Guiana tonight (Sept. 14), and you can watch the action live.",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/vega-rocket-launch-europe-flex-sentinel-3c-earth-observation-satellites"
+    },
+    {
+      "category": "Space",
+      "title": "NASA Welcomes Djibouti as Newest Artemis Accords Signatory  ",
+      "source": "NASA",
+      "date": "Mon, 14 Sep 2026 16:46:07 +0000",
+      "summary": "The Republic of Djibouti became the 72nd nation and eighth African country to sign the Artemis Accords during a ceremony Monday at NASA Headquarters in Washington. The Artemis Accords are the first set of practical principles aimed at enhancing transparency, safety, and coordination among nations as they explore the Moon, Mars, and beyond. “Djibouti joins […]",
+      "url": "https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-djibouti-as-newest-artemis-accords-signatory/"
     },
     {
       "category": "History",
@@ -81,30 +161,6 @@
       "date": "Mon, 14 Sep 2026 10:47:07 EDT",
       "summary": "Cancer rates are rising in adults under 55, and new research suggests accelerated biological aging may be one piece of the puzzle. Scientists found that people from more recent generations tended to have bodies that appeared biologically older than those of earlier generations at the same chronological age. Greater biological age acceleration was linked to a higher risk of early onset cancers, with specific patterns seen for lung, gastrointestinal, uterine and colorectal cancers.",
       "url": "https://www.sciencedaily.com/releases/2026/09/260913082200.htm"
-    },
-    {
-      "category": "AI",
-      "title": "RubyGems Open Source Supply Chain Security and OpenAI",
-      "source": "Hacker News: Front Page",
-      "date": "Mon, 14 Sep 2026 14:39:01 +0000",
-      "summary": "Article URL: https://rietta.com/blog/rubygems-supply-chain-openai/\nComments URL: https://news.ycombinator.com/item?id=49697666\nPoints: 31\n# Comments: 4",
-      "url": "https://rietta.com/blog/rubygems-supply-chain-openai/"
-    },
-    {
-      "category": "AI",
-      "title": "Jabber/XMPP: How Do We Gain Traction?",
-      "source": "Hacker News: Front Page",
-      "date": "Mon, 14 Sep 2026 14:37:49 +0000",
-      "summary": "Article URL: https://gultsch.de/posts/how-do-we-gain-traction/\nComments URL: https://news.ycombinator.com/item?id=49697643\nPoints: 53\n# Comments: 30",
-      "url": "https://gultsch.de/posts/how-do-we-gain-traction/"
-    },
-    {
-      "category": "AI",
-      "title": "F1 in Madrid: Like Monaco but twice as long and none of the glamour",
-      "source": "Ars Technica - All content",
-      "date": "Mon, 14 Sep 2026 14:32:35 +0000",
-      "summary": "Formula 1’s latest venue might be fun to drive, but the race was processional and dull.",
-      "url": "https://arstechnica.com/cars/2026/09/f1-in-madrid-like-monaco-but-twice-as-long-and-none-of-the-glamour/"
     },
     {
       "category": "Science",
@@ -131,6 +187,14 @@
       "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-rome/roman-sanctuary-hidden-in-cave-of-women/"
     },
     {
+      "category": "AI",
+      "title": "How Fyxer built an AI executive assistant people trust",
+      "source": "OpenAI News",
+      "date": "Mon, 14 Sep 2026 12:00:00 GMT",
+      "summary": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice.",
+      "url": "https://openai.com/index/fyxer"
+    },
+    {
       "category": "Biblical Studies",
       "title": "Uncovering the UAE’s Early Christian Community",
       "source": "Biblical Archaeology Society",
@@ -147,36 +211,12 @@
       "url": "https://www.livescience.com/archaeology/ancestral-commemorative-head-a-500-year-old-brass-bust-depicting-an-african-king"
     },
     {
-      "category": "Science",
-      "title": " Does estrogen protect against dementia? And if so, who should take it? ",
-      "source": " Latest from Live Science ",
-      "date": "Mon, 14 Sep 2026 09:00:00 +0000",
-      "summary": "Recent research hints that systemic hormone replacement therapy for menopause may reduce the risk of dementia. But more data is needed to reach a definitive conclusion, experts told Live Science.",
-      "url": "https://www.livescience.com/health/alzheimers-dementia/does-estrogen-protect-against-dementia-and-if-so-who-should-take-it"
-    },
-    {
-      "category": "Space",
-      "title": "APOD: 2026 September 14 – Where Your Elements Came From",
-      "source": "NASA",
-      "date": "Mon, 14 Sep 2026 04:05:00 +0000",
-      "summary": "APODScienceAPODAPOD: 2026 September 14 –…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss  APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Where Your Elements Came From Explanation: The hydrogen in your body and present in every molecule of […]",
-      "url": "https://science.nasa.gov/image-article/apod-2026-september-14-where-your-elements-came-from/"
-    },
-    {
       "category": "Theology",
       "title": "On My Shelf: Life and Books with Timothy Larsen",
       "source": "The Gospel Coalition",
       "date": "Mon, 14 Sep 2026 04:03:00 +0000",
       "summary": "Timothy Larsen talks about what’s on his bedside table, favorite fiction, favorite rereads, and more.",
       "url": "https://www.thegospelcoalition.org/article/on-my-shelf-timothy-larsen/"
-    },
-    {
-      "category": "Space",
-      "title": "An Early Look at Fall Color in Canada",
-      "source": "NASA",
-      "date": "Mon, 14 Sep 2026 04:00:00 +0000",
-      "summary": "Reds, yellows, and oranges are already sweeping across tundra landscapes in Nunavut.",
-      "url": "https://science.nasa.gov/earth/earth-observatory/an-early-look-at-fall-color-in-canada/"
     },
     {
       "category": "Theology",
@@ -195,22 +235,6 @@
       "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra"
     },
     {
-      "category": "AI",
-      "title": "Unvaccinated Pennsylvania woman died of measles complications, coroner says",
-      "source": "Ars Technica - All content",
-      "date": "Sun, 13 Sep 2026 21:56:52 +0000",
-      "summary": "The 40-year-old unvaccinated woman reportedly had underlying health conditions.",
-      "url": "https://arstechnica.com/health/2026/09/unvaccinated-pennsylvania-woman-died-of-measles-complications-coroner-says/"
-    },
-    {
-      "category": "Science",
-      "title": " Fall stargazing 2026: The best skywatching sights in autumn (and how to see them) ",
-      "source": " Latest from Live Science ",
-      "date": "Sun, 13 Sep 2026 19:24:52 +0000",
-      "summary": "As longer nights draw in over the fall, we see the return of some stargazing favorites, including the Andromeda Galaxy, the Pleiades star cluster and the first supermoon of the season.",
-      "url": "https://www.livescience.com/products/optics/fall-stargazing-2026"
-    },
-    {
       "category": "Biblical Studies",
       "title": "The Cyrus Cylinder",
       "source": "Biblical Archaeology Society",
@@ -219,28 +243,12 @@
       "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-near-eastern-world/the-cyrus-cylinder/"
     },
     {
-      "category": "AI",
-      "title": "I fixed a tractor using John Deere’s self-repair service. Farmers aren’t sold on it.",
-      "source": "Ars Technica - All content",
-      "date": "Sun, 13 Sep 2026 11:00:41 +0000",
-      "summary": "The manufacturer has a service that lets owners repair their own equipment.",
-      "url": "https://arstechnica.com/gadgets/2026/09/i-fixed-a-tractor-using-john-deeres-self-repair-service-farmers-arent-sold-on-it/"
-    },
-    {
       "category": "Theology",
       "title": "Everything I Tried Let Me Down. But Jesus Didn’t.",
       "source": "The Gospel Coalition",
       "date": "Sun, 13 Sep 2026 04:00:00 +0000",
       "summary": "I believed that a young, wild, and free life was not only empowering but the best way to become who I was meant to be. Instead, I was dead, trying to become alive apart from my Maker.",
       "url": "https://www.thegospelcoalition.org/article/sex-cocaine-crystals-jesus/"
-    },
-    {
-      "category": "AI",
-      "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
-      "source": "OpenAI News",
-      "date": "Fri, 11 Sep 2026 16:00:00 GMT",
-      "summary": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.",
-      "url": "https://openai.com/index/cognition-devin-testing-with-astra"
     },
     {
       "category": "Theology",
@@ -265,14 +273,6 @@
       "date": "Fri, 11 Sep 2026 10:00:00 GMT",
       "summary": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second.",
       "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one"
-    },
-    {
-      "category": "Theology",
-      "title": "Before Transitioning to a Plurality of Elders, Know Your Church’s History",
-      "source": "9Marks",
-      "date": "Thu, 10 Sep 2026 22:35:50 +0000",
-      "summary": "To shepherd a flock well, we need to understand that flock, and part of doing that is understanding where they have been and the events that have shaped them.\nThe post Before Transitioning to a Plurality of Elders, Know Your Church’s History appeared first on 9Marks.",
-      "url": "https://www.9marks.org/article/before-transitioning-to-a-plurality-of-elders-know-your-churchs-history/?utm_source=rss&utm_medium=rss&utm_campaign=before-transitioning-to-a-plurality-of-elders-know-your-churchs-history"
     },
     {
       "category": "History",
