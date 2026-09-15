@@ -1,22 +1,158 @@
 {
-  "lastUpdated": "2026-09-15T14:34:46.762Z",
+  "lastUpdated": "2026-09-15T19:23:35.101Z",
   "articleCount": 39,
   "articles": [
     {
       "category": "Science",
-      "title": "Children trust what they hear over what they see, study finds",
+      "title": "Great Salt Lake's ancient past reveals how quickly fresh water can disappear",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Tue, 15 Sep 2026 10:20:08 EDT",
-      "summary": "New research from our Department of Psychology has revealed that children are far more likely than adults to judge a person's emotions by what they hear rather than what they see.",
-      "url": "https://phys.org/news/2026-09-children.html"
+      "date": "Tue, 15 Sep 2026 15:20:06 EDT",
+      "summary": "From a mountainside overlooking Utah's Great Salt Lake, a time traveler turning back the clock 20,000 years would watch a dramatic transformation of the landscape. The shallow, salty lake below would swell into an immense body of fresh water, at one point reaching nearly 1,000 feet (305 meters) deep and covering more than 10 times the lake's modern area. Mountain ranges would become islands, and the new shoreline would move far beyond its current boundary.",
+      "url": "https://phys.org/news/2026-09-great-salt-lake-ancient-reveals.html"
     },
     {
       "category": "Science",
-      "title": "Bubbles the food-stealing dolphin finds shortcut to easy meal",
+      "title": "New peanut genome map uncovers hidden gene, boosts dense-planting yields 20%",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Tue, 15 Sep 2026 10:20:06 EDT",
-      "summary": "A dolphin that harasses fish until they regurgitate their food—then swoops in to steal it—has astonished University of the Sunshine Coast researchers who have documented this novel feeding strategy.",
-      "url": "https://phys.org/news/2026-09-food-dolphin-shortcut-easy-meal.html"
+      "date": "Tue, 15 Sep 2026 15:10:01 EDT",
+      "summary": "An international team that includes researchers from Murdoch University's Centre for Crop and Food Innovation (CCFI) has built the most comprehensive genetic map of the peanut yet and used this new genomic resource to breed a higher-yielding dwarf peanut line.",
+      "url": "https://phys.org/news/2026-09-peanut-genome-uncovers-hidden-gene.html"
+    },
+    {
+      "category": "Science",
+      "title": "Not all roads lead to Rome: Research challenges what we think we know about Roman roads",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Tue, 15 Sep 2026 15:00:04 EDT",
+      "summary": "A multidisciplinary team of researchers from Aarhus University in Denmark, Queen Mary University of London and other European institutions analyzed a data set representing almost 300,000 kilometers (186,000 miles) of Roman roads across the former empire, creating the most detailed quantitative picture yet of how the Roman road network was structured.",
+      "url": "https://phys.org/news/2026-09-roads-rome-roman.html"
+    },
+    {
+      "category": "Space",
+      "title": "NASA Invites Media to International Observe the Moon Night",
+      "source": "NASA",
+      "date": "Tue, 15 Sep 2026 18:55:33 +0000",
+      "summary": "NASA will host an International Observe the Moon Night celebration from 5:30 to 8 p.m. CST on Saturday, Sept. 19, at the U.S. Space & Rocket Center, the official visitor center for NASA’s Marshall Space Flight Center in Huntsville, Alabama. International Observe the Moon Night celebrates the Moon, the science behind it, and its connection […]",
+      "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-international-observe-the-moon-night/"
+    },
+    {
+      "category": "Space",
+      "title": " SpaceX's next Starship launch will lift off on Sept. 22 and aim to reach orbit for 1st time ",
+      "source": " Latest from Space.com ",
+      "date": "Tue, 15 Sep 2026 18:33:25 +0000",
+      "summary": "SpaceX is targeting Sept. 22 for Starship's first-ever orbital launch, a landmark flight that will deploy 26 Starlink satellites and last about 10 hours.",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacexs-next-starship-launch-will-lift-off-on-sept-22-and-aim-to-reach-orbit-for-1st-time"
+    },
+    {
+      "category": "AI",
+      "title": "Boston dumps Flock, says it shared data nationwide in violation of contract",
+      "source": "Ars Technica - All content",
+      "date": "Tue, 15 Sep 2026 18:14:11 +0000",
+      "summary": "City: Flock enabled \"nationwide lookup\" despite contract requiring it to be disabled.",
+      "url": "https://arstechnica.com/tech-policy/2026/09/boston-dumps-flock-says-it-shared-data-nationwide-in-violation-of-contract/"
+    },
+    {
+      "category": "AI",
+      "title": "We got admin access to Baseten's production GitHub in 25 minutes",
+      "source": "Hacker News: Front Page",
+      "date": "Tue, 15 Sep 2026 18:11:24 +0000",
+      "summary": "Article URL: https://www.strix.ai/blog/baseten-harbor-github-pat-takeover\nComments URL: https://news.ycombinator.com/item?id=49716476\nPoints: 76\n# Comments: 25",
+      "url": "https://www.strix.ai/blog/baseten-harbor-github-pat-takeover"
+    },
+    {
+      "category": "Space",
+      "title": " Microscopic alien technology may be hidden in moon dust, scientists say ",
+      "source": " Latest from Space.com ",
+      "date": "Tue, 15 Sep 2026 18:00:00 +0000",
+      "summary": "Could we find alien technology embedded in moon dust?",
+      "url": "https://www.space.com/space-exploration/search-for-life/microscopic-alien-technology-may-be-hidden-in-moon-dust-scientists-say"
+    },
+    {
+      "category": "AI",
+      "title": "Demand for EV chargers is outstripping supply, says ChargePoint report",
+      "source": "Ars Technica - All content",
+      "date": "Tue, 15 Sep 2026 17:58:09 +0000",
+      "summary": "EV growth is happening, even in the US, and those EVs will need plugs to charge.",
+      "url": "https://arstechnica.com/cars/2026/09/ev-charging-infrastructure-is-still-lagging-adoption-report-says/"
+    },
+    {
+      "category": "AI",
+      "title": "Hugging Face is billing OpenAI $100M for hacking it",
+      "source": "Hacker News: Front Page",
+      "date": "Tue, 15 Sep 2026 17:56:10 +0000",
+      "summary": "Article URL: https://thenextweb.com/news/hugging-face-delangue-openai-100m-compute-traces-demand\nComments URL: https://news.ycombinator.com/item?id=49716241\nPoints: 58\n# Comments: 18",
+      "url": "https://thenextweb.com/news/hugging-face-delangue-openai-100m-compute-traces-demand"
+    },
+    {
+      "category": "AI",
+      "title": "An Update on Wayback Machine Access",
+      "source": "Hacker News: Front Page",
+      "date": "Tue, 15 Sep 2026 17:52:18 +0000",
+      "summary": "Article URL: https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/\nComments URL: https://news.ycombinator.com/item?id=49716176\nPoints: 117\n# Comments: 56",
+      "url": "https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/"
+    },
+    {
+      "category": "Space",
+      "title": " 'Captain EO' at 40: Michael Jackson's wild sci-fi movie that you could only watch at Disney theme parks ",
+      "source": " Latest from Space.com ",
+      "date": "Tue, 15 Sep 2026 17:00:00 +0000",
+      "summary": "Remember when the King of Pop joined forces with Coppola, Lucas and Disney for an inspiring 3D space musical?",
+      "url": "https://www.space.com/entertainment/space-movies-shows/captain-eo-at-40-michael-jacksons-wild-sci-fi-movie-that-you-could-only-watch-at-disney-theme-parks"
+    },
+    {
+      "category": "Space",
+      "title": "Celebrate International Observe the Moon Night with NASA",
+      "source": "NASA",
+      "date": "Tue, 15 Sep 2026 16:15:12 +0000",
+      "summary": "In April, the world watched as four humans circled the Moon for the first time in over 50 years with NASA’s Artemis II mission. On Saturday, Sept. 19, the public is invited to look up again with NASA events across the country, including the International Observe the Moon Night celebration held at NASA’s Goddard Space […]",
+      "url": "https://www.nasa.gov/centers-and-facilities/goddard/celebrate-international-observe-the-moon-night-with-nasa/"
+    },
+    {
+      "category": "Science",
+      "title": " 'Maybe robots can maintain houseplants': Readers react to letting humanoid robots take over their housework ",
+      "source": " Latest from Live Science ",
+      "date": "Tue, 15 Sep 2026 16:14:37 +0000",
+      "summary": "Would you let a humanoid robot do your chores? Live Science readers shared their thoughts in a recent poll.",
+      "url": "https://www.livescience.com/technology/robotics/maybe-robots-can-maintain-houseplants-readers-react-to-letting-humanoid-robots-take-over-their-housework"
+    },
+    {
+      "category": "Space",
+      "title": "Artemis III Crew Visits NASA Kennedy’s Vehicle Assembly Building",
+      "source": "NASA",
+      "date": "Tue, 15 Sep 2026 16:14:24 +0000",
+      "summary": "NASA astronaut Randy Bresnik (left) and ESA (European Space Agency) astronaut Luca Parmitano view progress on the solid rocket booster integration in High Bay 3 inside the Vehicle Assembly Building at NASA’s Kennedy Space Center in Florida on Wednesday, Sept. 2, 2026. Bresnik, Parmitano, and NASA astronauts Andre Douglas, Frank Rubio, and Bob Hines made […]",
+      "url": "https://www.nasa.gov/image-article/artemis-iii-crew-visits-nasa-kennedys-vehicle-assembly-building/"
+    },
+    {
+      "category": "Science",
+      "title": "Smelling chocolate helped men complete more reps without feeling more tired",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Tue, 15 Sep 2026 11:03:54 EDT",
+      "summary": "Simply smelling chocolate helped men complete more leg extension repetitions without making the workout feel harder, with dark chocolate producing the strongest effect. The researchers think familiar food aromas may influence appetite and motivation by making the brain anticipate eating.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260914102445.htm"
+    },
+    {
+      "category": "Science",
+      "title": " Did 'all roads lead to Rome'? New study finds other cities in the empire were better connected. ",
+      "source": " Latest from Live Science ",
+      "date": "Tue, 15 Sep 2026 15:00:00 +0000",
+      "summary": "Rome was the Roman Empire's capital, but other cities in the empire were better connected by road.",
+      "url": "https://www.livescience.com/archaeology/romans/did-all-roads-lead-to-rome-new-study-finds-other-cities-in-the-empire-were-better-connected"
+    },
+    {
+      "category": "Science",
+      "title": "This Australian cave hid 25,000 years of ritual secrets",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Tue, 15 Sep 2026 10:43:23 EDT",
+      "summary": "Microscopic plant remains are revealing how GunaiKurnai ancestors used Cloggs Cave for ritual practices over thousands of years. People deliberately gathered whole grasses, carried them into the dark cave, and burned them in thin layers, leaving behind traces that may span 25,000 years. A standing stone erected around 2,000 years ago and other ritual objects strengthen the evidence that the cave was a long-lived spiritual site.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260914102443.htm"
+    },
+    {
+      "category": "Science",
+      "title": "Scientists discover a major brain shift between ages 50 and 75",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Tue, 15 Sep 2026 10:28:38 EDT",
+      "summary": "Scientists have uncovered sweeping changes in how the human brain controls and organizes its genome beginning in midlife, offering new clues to why aging sharply increases the risk of Alzheimer’s and other neurodegenerative diseases. One of the biggest shifts occurred between about ages 50 and 75, when many of the brain’s original immune cells declined and were replaced by cells with more inflammatory characteristics. Researchers also found weakening of cells that help maintain the blood-brain barrier, along with widespread deterioration in the genome’s three-dimensional organization.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260914102441.htm"
     },
     {
       "category": "Science",
@@ -28,91 +164,11 @@
     },
     {
       "category": "AI",
-      "title": "Global bond yields hit 2008 highs, raising stakes for big borrowers",
-      "source": "Hacker News: Front Page",
-      "date": "Tue, 15 Sep 2026 14:07:01 +0000",
-      "summary": "Article URL: https://www.reuters.com/world/asia-pacific/bond-selloff-drives-us-benchmark-beyond-5-stocks-rattled-2026-09-15/\nComments URL: https://news.ycombinator.com/item?id=49712746\nPoints: 11\n# Comments: 0",
-      "url": "https://www.reuters.com/world/asia-pacific/bond-selloff-drives-us-benchmark-beyond-5-stocks-rattled-2026-09-15/"
-    },
-    {
-      "category": "AI",
-      "title": "Show HN: Jexxa: High Speed on Device Dictation",
-      "source": "Hacker News: Front Page",
-      "date": "Tue, 15 Sep 2026 14:05:42 +0000",
-      "summary": "Jexxa Demo: https://lnkd.in/p/gvpF4nJN\nComments URL: https://news.ycombinator.com/item?id=49712720\nPoints: 5\n# Comments: 3",
-      "url": "https://jexxa.org"
-    },
-    {
-      "category": "Science",
-      "title": "Invasive little fire ants prefer cooked beef, seeds over tuna",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Tue, 15 Sep 2026 10:00:03 EDT",
-      "summary": "If you are trying to detect or bait little fire ants in your backyard, scientists at the University of Hawaiʻi at Mānoa suggest swapping tuna for cooked beef and sunflower seeds. The study, published in the Journal of Applied Entomology by researchers at the UH Mānoa College of Tropical Agriculture and Human Resilience (CTAHR), revealed that the little fire ant's (Wasmannia auropunctata) preferred diet is not what scientists and homeowners previously thought. In laboratory food-choice tests, the tiny, stinging pests overwhelmingly chose cooked beef and sunflower seeds over water-packed tuna.",
-      "url": "https://phys.org/news/2026-09-invasive-ants-cooked-beef-seeds.html"
-    },
-    {
-      "category": "Space",
-      "title": " Curiosity rover spots odd 'footprints' on Mars | Space photo of the day for Sept. 15, 2026 ",
-      "source": " Latest from Space.com ",
-      "date": "Tue, 15 Sep 2026 14:00:00 +0000",
-      "summary": "\"Both of our workspaces this week contained features unlike quite anything we have seen in the past.\"",
-      "url": "https://www.space.com/astronomy/mars/curiosity-rover-spots-odd-footprints-on-mars-space-photo-of-the-day-for-sept-15-2026"
-    },
-    {
-      "category": "Space",
-      "title": " On this day in space! Sept. 15, 1968: Russian tortoises (& other critters) launch around the moon on Zond 5 spacecraft in wild first circumlunar flight ",
-      "source": " Latest from Space.com ",
-      "date": "Tue, 15 Sep 2026 14:00:00 +0000",
-      "summary": "On Sept. 15, 1968, the Soviet Union launched the Zond 5 spacecraft carrying tortoises and more on a mission to loop around the moon and return to Earth. Here's why it mattered.",
-      "url": "https://www.space.com/space-exploration/on-this-day-in-space-september-15-2026"
-    },
-    {
-      "category": "AI",
-      "title": "Show HN: Panel – A research workspace where the agent can build its own panes",
-      "source": "Hacker News: Front Page",
-      "date": "Tue, 15 Sep 2026 13:58:37 +0000",
-      "summary": "Article URL: https://github.com/greentfrapp/panel\nComments URL: https://news.ycombinator.com/item?id=49712621\nPoints: 8\n# Comments: 1",
-      "url": "https://github.com/greentfrapp/panel"
-    },
-    {
-      "category": "Space",
-      "title": "Travel",
-      "source": "NASA",
-      "date": "Tue, 15 Sep 2026 13:38:56 +0000",
-      "summary": "The NSSC provides travel reimbursement services for all authorized Agency travel including: domestic, foreign, local, ETDY, and Change of Station (COS). References Federal Travel Regulations (FTR) Traveler Extended TDY and Taxes Domestic Per Diem Rates Foreign Per Diem Rates Change of Station NSSC Travel now has another way that a transferee Traveler may submit his […]",
-      "url": "https://www.nasa.gov/centers-and-facilities/nssc/travel/"
-    },
-    {
-      "category": "Space",
-      "title": " International Observe the Moon Night 2026 is on Sept. 19: Here's how to join in ",
-      "source": " Latest from Space.com ",
-      "date": "Tue, 15 Sep 2026 13:04:11 +0000",
-      "summary": "International Observe the Moon Night 2026 occurs on Sept. 19 as the lunar disk is well placed for exploring its craters, mountains and ancient lava plains.",
-      "url": "https://www.space.com/stargazing/international-observe-the-moon-night-2026-is-on-sept-19-heres-how-to-join-in"
-    },
-    {
-      "category": "AI",
-      "title": "This Atlantic hurricane season is about to do something that hasn't happened in 175 years",
+      "title": "Trump EPA moves to wipe out climate rules for power plants",
       "source": "Ars Technica - All content",
-      "date": "Tue, 15 Sep 2026 12:36:11 +0000",
-      "summary": "But there may be a price to pay for a quiet Atlantic hurricane season.",
-      "url": "https://arstechnica.com/science/2026/09/this-is-by-far-the-most-peaceful-atlantic-hurricane-season-weve-ever-seen/"
-    },
-    {
-      "category": "Science",
-      "title": "Supermassive black hole winds are 100 times more powerful than scientists thought",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Tue, 15 Sep 2026 08:33:50 EDT",
-      "summary": "Astronomers have discovered that winds from a supermassive black hole are about 100 times more powerful than previously thought. XRISM observations showed the resulting turbulence spreading roughly 300,000 light-years, extending far beyond the black hole’s host galaxy. The energy involved rivals several billion supernova explosions, revealing just how dramatically black holes can influence the space around them.",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260914102429.htm"
-    },
-    {
-      "category": "AI",
-      "title": "Exclusive: Paying for frontier AI models buys 4-month head start at 5x the cost",
-      "source": "Ars Technica - All content",
-      "date": "Tue, 15 Sep 2026 12:00:41 +0000",
-      "summary": "Ars previewed Mozilla’s report on how cheap open models caught up on capability.",
-      "url": "https://arstechnica.com/ai/2026/09/exclusive-open-chinese-models-close-gap-with-silicon-valleys-frontier-ai-models/"
+      "date": "Tue, 15 Sep 2026 13:43:51 +0000",
+      "summary": "EPA says power plant emissions have no material impact on climate change.",
+      "url": "https://arstechnica.com/science/2026/09/epa-seeks-to-eliminate-remaining-greenhouse-gas-rules-for-power-plants/"
     },
     {
       "category": "Biblical Studies",
@@ -131,44 +187,12 @@
       "url": "https://www.biblicalarchaeology.org/daily/people-cultures-in-the-bible/jesus-historical-jesus/jesus-holding-a-magic-wand/"
     },
     {
-      "category": "Science",
-      "title": " 'That could push them over the edge': How climate change could fuel impulsive behavior ",
-      "source": " Latest from Live Science ",
-      "date": "Tue, 15 Sep 2026 10:52:48 +0000",
-      "summary": "In this exclusive video, we explore how climate change and rising temperatures can affect mental health.",
-      "url": "https://www.livescience.com/planet-earth/climate-change/that-could-push-them-over-the-edge-how-climate-change-could-fuel-impulsive-behavior"
-    },
-    {
-      "category": "Science",
-      "title": " Peculiar land bridge separates a pair of colorful lakes in Patagonia — Earth from space ",
-      "source": " Latest from Live Science ",
-      "date": "Tue, 15 Sep 2026 10:47:33 +0000",
-      "summary": "A 2020 astronaut photo shows the unusual point where two contrastingly colored Patagonian lakes meet. The duo was originally a single body of water but was split by a narrow land bridge.",
-      "url": "https://www.livescience.com/planet-earth/peculiar-land-bridge-separates-a-pair-of-colorful-lakes-in-patagonia-earth-from-space"
-    },
-    {
       "category": "History",
       "title": "An Irruption into Canada: The Planned Winter Campaign of 1778",
       "source": "Journal of the American Revolution",
       "date": "Tue, 15 Sep 2026 09:00:00 +0000",
       "summary": "Just a few months after the Revolutionary War began, Congress authorized the invasion of Canada. After some initial success, the invading forces were defeated at the Battle of Quebec in December 1775 and were forced out of Canada entirely the following June. Despite this failure, many still expected Canada to join the union as the […]\nThe post An Irruption into Canada: The Planned Winter Campaign of 1778 appeared first on Journal of the American Revolution.",
       "url": "https://allthingsliberty.com/2026/09/an-irruption-into-canada-the-planned-winter-campaign-of-1778/"
-    },
-    {
-      "category": "AI",
-      "title": "Volvo increases the batteries for 2028 XC60 and XC90 plug-in refresh",
-      "source": "Ars Technica - All content",
-      "date": "Tue, 15 Sep 2026 07:00:30 +0000",
-      "summary": "The refreshed Volvos also get new infotainment systems with Gemini onboard.",
-      "url": "https://arstechnica.com/cars/2026/09/volvo-bigs-up-the-batteries-for-2028-xc60-and-xc90-plug-in-refresh/"
-    },
-    {
-      "category": "Space",
-      "title": "APOD: 2026 September 15 – A Daytime Eclipse: Moon Occults Venus",
-      "source": "NASA",
-      "date": "Tue, 15 Sep 2026 04:05:00 +0000",
-      "summary": "APOD Science APOD APOD: 2026 September 15 – A… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. A Daytime […]",
-      "url": "https://science.nasa.gov/image-article/apod-2026-september-15-a-daytime-eclipse-moon-occults-venus/"
     },
     {
       "category": "Theology",
@@ -193,30 +217,6 @@
       "date": "Tue, 15 Sep 2026 04:00:00 +0000",
       "summary": "When your children watch you sit with a hard question rather than shut down or ignore it, they see the Christian faith in action.",
       "url": "https://www.thegospelcoalition.org/article/ways-fail-your-child/"
-    },
-    {
-      "category": "Science",
-      "title": "Nearly 10,000 patients reveal what works best for knee arthritis pain relief",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Mon, 14 Sep 2026 23:57:43 EDT",
-      "summary": "A major analysis of 139 clinical trials involving nearly 10,000 people suggests that some of the simplest treatments may work best for knee osteoarthritis. Knee braces ranked highest overall for reducing pain, stiffness, and mobility problems, while water-based therapy was especially effective for pain and regular exercise consistently improved both pain and physical function. More high-tech approaches, including ultrasound, generally performed worse.",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260913082208.htm"
-    },
-    {
-      "category": "Science",
-      "title": "Plague was killing entire families thousands of years before the Black Death",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Mon, 14 Sep 2026 22:54:45 EDT",
-      "summary": "Ancient DNA reveals that plague was already killing hunter-gatherers in Siberia 5,500 years ago, long before cities and flea-driven epidemics. The prehistoric strains may have been especially dangerous because they carried a genetic factor capable of provoking severe immune reactions.",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260913082203.htm"
-    },
-    {
-      "category": "Space",
-      "title": "Webinar 9/23: NASA CSDA Program Update 2026",
-      "source": "NASA",
-      "date": "Mon, 14 Sep 2026 21:04:04 +0000",
-      "summary": "This webinar will provide an overview of the CSDA program’s goals and activities, including the new Cal/Val initiative, and more.",
-      "url": "https://science.nasa.gov/science-research/earth-science/webinar-9-23-nasa-csda-program-update-2026/"
     },
     {
       "category": "Theology",
