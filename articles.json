@@ -1,30 +1,126 @@
 {
-  "lastUpdated": "2026-09-15T19:23:35.101Z",
+  "lastUpdated": "2026-09-15T23:52:51.330Z",
   "articleCount": 39,
   "articles": [
     {
       "category": "Science",
-      "title": "Great Salt Lake's ancient past reveals how quickly fresh water can disappear",
+      "title": "High-resolution weather data could pinpoint neighborhoods facing greatest heat stress",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Tue, 15 Sep 2026 15:20:06 EDT",
-      "summary": "From a mountainside overlooking Utah's Great Salt Lake, a time traveler turning back the clock 20,000 years would watch a dramatic transformation of the landscape. The shallow, salty lake below would swell into an immense body of fresh water, at one point reaching nearly 1,000 feet (305 meters) deep and covering more than 10 times the lake's modern area. Mountain ranges would become islands, and the new shoreline would move far beyond its current boundary.",
-      "url": "https://phys.org/news/2026-09-great-salt-lake-ancient-reveals.html"
+      "date": "Tue, 15 Sep 2026 19:20:01 EDT",
+      "summary": "Heat stress is a leading cause of weather-related deaths and can be especially dangerous in cities, where phenomena like urban heat islands drive temperatures higher than in surrounding rural areas. Now, a new dataset developed by the U.S. National Science Foundation National Center for Atmospheric Research (NSF NCAR) aims to provide city governments and health officials with information that could minimize heat impacts on residents.",
+      "url": "https://phys.org/news/2026-09-high-resolution-weather-neighborhoods-greatest.html"
+    },
+    {
+      "category": "AI",
+      "title": "Saving Jet Fuel",
+      "source": "Hacker News: Front Page",
+      "date": "Tue, 15 Sep 2026 23:17:20 +0000",
+      "summary": "Article URL: https://tech.marksblogg.com/scikit-decide-openap-optimal-flight-planning.html\nComments URL: https://news.ycombinator.com/item?id=49720164\nPoints: 3\n# Comments: 0",
+      "url": "https://tech.marksblogg.com/scikit-decide-openap-optimal-flight-planning.html"
     },
     {
       "category": "Science",
-      "title": "New peanut genome map uncovers hidden gene, boosts dense-planting yields 20%",
+      "title": "New species of 240-million-year-old prehistoric animal could reshape dinosaur origins timeline",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Tue, 15 Sep 2026 15:10:01 EDT",
-      "summary": "An international team that includes researchers from Murdoch University's Centre for Crop and Food Innovation (CCFI) has built the most comprehensive genetic map of the peanut yet and used this new genomic resource to breed a higher-yielding dwarf peanut line.",
-      "url": "https://phys.org/news/2026-09-peanut-genome-uncovers-hidden-gene.html"
+      "date": "Tue, 15 Sep 2026 19:10:01 EDT",
+      "summary": "A new prehistoric animal species from Tanzania dating to around 240 million years ago, during the Triassic period, has been described by an international team of researchers. Led by the University of Bristol, the new species, named Dinodontosaurus isiyavamanda, could help scientists refine the age of one of the world's most significant fossil sites and reshape the timeline of early dinosaur evolution.",
+      "url": "https://phys.org/news/2026-09-species-million-year-prehistoric-animal.html"
     },
     {
       "category": "Science",
-      "title": "Not all roads lead to Rome: Research challenges what we think we know about Roman roads",
+      "title": "Plasma and electricity convert CO₂ into methanol, butane and other useful chemicals",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Tue, 15 Sep 2026 15:00:04 EDT",
-      "summary": "A multidisciplinary team of researchers from Aarhus University in Denmark, Queen Mary University of London and other European institutions analyzed a data set representing almost 300,000 kilometers (186,000 miles) of Roman roads across the former empire, creating the most detailed quantitative picture yet of how the Roman road network was structured.",
-      "url": "https://phys.org/news/2026-09-roads-rome-roman.html"
+      "date": "Tue, 15 Sep 2026 18:40:01 EDT",
+      "summary": "Carbon dioxide (CO₂) can be harmful to the environment in large amounts but can be used in the production of fuels and other useful chemicals. Doing so isn't easy, though. Now, Yale researchers have developed a new way to combine electrocatalysis and plasma to efficiently and practically generate a number of valuable products from the gas. The results are published in Nature Catalysis.",
+      "url": "https://phys.org/news/2026-09-plasma-electricity-methanol-butane-chemicals.html"
+    },
+    {
+      "category": "AI",
+      "title": "The Roman telescope has enough gas for 22 years, double NASA's expectations",
+      "source": "Ars Technica - All content",
+      "date": "Tue, 15 Sep 2026 22:26:32 +0000",
+      "summary": "The Nancy Grace Roman Space Telescope is the first NASA observatory designed for in-space refueling.",
+      "url": "https://arstechnica.com/space/2026/09/the-roman-telescope-has-enough-gas-for-22-years-double-nasas-expectations/"
+    },
+    {
+      "category": "Space",
+      "title": " 22 years of science! NASA's Roman Space Telescope doubles its lifetime with super-precise engine burn ",
+      "source": " Latest from Space.com ",
+      "date": "Tue, 15 Sep 2026 21:24:37 +0000",
+      "summary": "Originally planned to have a primary five-year mission followed by a five-year extended mission, the Nancy Grace Roman Space Telescope will now operate for over two decades.",
+      "url": "https://www.space.com/astronomy/22-years-of-science-nasas-roman-space-telescope-doubles-its-lifetime-with-super-precise-engine-burn"
+    },
+    {
+      "category": "AI",
+      "title": "German Rheinmetall open-sources its Battlesuite connected weapon system protcol",
+      "source": "Hacker News: Front Page",
+      "date": "Tue, 15 Sep 2026 21:07:47 +0000",
+      "summary": "Article URL: https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html\nComments URL: https://news.ycombinator.com/item?id=49718928\nPoints: 100\n# Comments: 23",
+      "url": "https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html"
+    },
+    {
+      "category": "Science",
+      "title": " Strange 'centaur' object between Saturn and Uranus has mysterious, changing rings, James Webb telescope study hints ",
+      "source": " Latest from Live Science ",
+      "date": "Tue, 15 Sep 2026 21:01:34 +0000",
+      "summary": "James Webb Space Telescope observations of Chariklo, one of the smallest ringed worlds in the solar system, reveal some inexplicable changes.",
+      "url": "https://www.livescience.com/space/astronomy/strange-centaur-object-between-saturn-and-uranus-has-mysterious-changing-rings-james-webb-telescope-study-hints"
+    },
+    {
+      "category": "AI",
+      "title": "Jean-Pierre Serre is 100 years old today",
+      "source": "Hacker News: Front Page",
+      "date": "Tue, 15 Sep 2026 20:57:18 +0000",
+      "summary": "Article URL: https://mathshistory.st-andrews.ac.uk/Biographies/Serre/\nComments URL: https://news.ycombinator.com/item?id=49718822\nPoints: 74\n# Comments: 11",
+      "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Serre/"
+    },
+    {
+      "category": "Science",
+      "title": " We're not about to awaken an evil digital god — AI is far more likely to end in a great disappointment ",
+      "source": " Latest from Live Science ",
+      "date": "Tue, 15 Sep 2026 20:39:00 +0000",
+      "summary": "AI is unlikely to launch a Hollywood-style war against us. Rather, the biggest danger of AI is that it will disappoint us, says  Andrew Rogoyski.",
+      "url": "https://www.livescience.com/archaeology/human-evolution/the-real-ai-danger-is-not-superintelligence-it-is-premature-trust-opinion"
+    },
+    {
+      "category": "Science",
+      "title": " Are you worried about the US deploying weapons in space? ",
+      "source": " Latest from Live Science ",
+      "date": "Tue, 15 Sep 2026 20:29:46 +0000",
+      "summary": "The U.S. has confirmed that it has weapons in orbit, raising new concerns about the future of military competition. Live Science asks our readers what they think about this latest development.",
+      "url": "https://www.livescience.com/space/are-you-worried-about-the-us-deploying-weapons-in-space"
+    },
+    {
+      "category": "AI",
+      "title": "“Filmmaker” suing PassThePopcorn may be banned user out for revenge",
+      "source": "Ars Technica - All content",
+      "date": "Tue, 15 Sep 2026 20:19:17 +0000",
+      "summary": "Allegedly fake filmmaker targeted trackers like PassThePopcorn, BroadcasTheNet, and HDBits.",
+      "url": "https://arstechnica.com/tech-policy/2026/09/filmmaker-suing-passthepopcorn-may-be-banned-user-out-for-revenge/"
+    },
+    {
+      "category": "Space",
+      "title": " New 'StarCraft' game announced, but it's a grim open-world shooter and it's not coming until 2030 ",
+      "source": " Latest from Space.com ",
+      "date": "Tue, 15 Sep 2026 20:00:00 +0000",
+      "summary": "Blizzard Entertainment is returning to StarCraft with an all-new game that's leaving the series' real-time strategy roots behind.",
+      "url": "https://www.space.com/entertainment/space-games/new-starcraft-game-announced-but-its-a-grim-open-world-shooter-and-its-not-coming-until-2030"
+    },
+    {
+      "category": "Space",
+      "title": " US Space Force says it operates weapons in orbit: 'Our aim is deterrence' ",
+      "source": " Latest from Space.com ",
+      "date": "Tue, 15 Sep 2026 19:54:56 +0000",
+      "summary": "The U.S. Space Force is opening up about its operation of orbital weapons, \"that can defend the joint force against space-enabled attacks.\"",
+      "url": "https://www.space.com/space-exploration/satellites/us-space-force-says-it-operates-weapons-in-orbit-our-aim-is-deterrence"
+    },
+    {
+      "category": "AI",
+      "title": "18-year-old dies of measles in PA from severe neurological complication",
+      "source": "Ars Technica - All content",
+      "date": "Tue, 15 Sep 2026 18:58:09 +0000",
+      "summary": "Teen developed acute disseminated encephalomyelitis, a known measles complication.",
+      "url": "https://arstechnica.com/health/2026/09/measles-kills-18-year-old-in-pa-fourth-death-as-state-outbreak-nears-700-cases/"
     },
     {
       "category": "Space",
@@ -36,83 +132,11 @@
     },
     {
       "category": "Space",
-      "title": " SpaceX's next Starship launch will lift off on Sept. 22 and aim to reach orbit for 1st time ",
-      "source": " Latest from Space.com ",
-      "date": "Tue, 15 Sep 2026 18:33:25 +0000",
-      "summary": "SpaceX is targeting Sept. 22 for Starship's first-ever orbital launch, a landmark flight that will deploy 26 Starlink satellites and last about 10 hours.",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacexs-next-starship-launch-will-lift-off-on-sept-22-and-aim-to-reach-orbit-for-1st-time"
-    },
-    {
-      "category": "AI",
-      "title": "Boston dumps Flock, says it shared data nationwide in violation of contract",
-      "source": "Ars Technica - All content",
-      "date": "Tue, 15 Sep 2026 18:14:11 +0000",
-      "summary": "City: Flock enabled \"nationwide lookup\" despite contract requiring it to be disabled.",
-      "url": "https://arstechnica.com/tech-policy/2026/09/boston-dumps-flock-says-it-shared-data-nationwide-in-violation-of-contract/"
-    },
-    {
-      "category": "AI",
-      "title": "We got admin access to Baseten's production GitHub in 25 minutes",
-      "source": "Hacker News: Front Page",
-      "date": "Tue, 15 Sep 2026 18:11:24 +0000",
-      "summary": "Article URL: https://www.strix.ai/blog/baseten-harbor-github-pat-takeover\nComments URL: https://news.ycombinator.com/item?id=49716476\nPoints: 76\n# Comments: 25",
-      "url": "https://www.strix.ai/blog/baseten-harbor-github-pat-takeover"
-    },
-    {
-      "category": "Space",
-      "title": " Microscopic alien technology may be hidden in moon dust, scientists say ",
-      "source": " Latest from Space.com ",
-      "date": "Tue, 15 Sep 2026 18:00:00 +0000",
-      "summary": "Could we find alien technology embedded in moon dust?",
-      "url": "https://www.space.com/space-exploration/search-for-life/microscopic-alien-technology-may-be-hidden-in-moon-dust-scientists-say"
-    },
-    {
-      "category": "AI",
-      "title": "Demand for EV chargers is outstripping supply, says ChargePoint report",
-      "source": "Ars Technica - All content",
-      "date": "Tue, 15 Sep 2026 17:58:09 +0000",
-      "summary": "EV growth is happening, even in the US, and those EVs will need plugs to charge.",
-      "url": "https://arstechnica.com/cars/2026/09/ev-charging-infrastructure-is-still-lagging-adoption-report-says/"
-    },
-    {
-      "category": "AI",
-      "title": "Hugging Face is billing OpenAI $100M for hacking it",
-      "source": "Hacker News: Front Page",
-      "date": "Tue, 15 Sep 2026 17:56:10 +0000",
-      "summary": "Article URL: https://thenextweb.com/news/hugging-face-delangue-openai-100m-compute-traces-demand\nComments URL: https://news.ycombinator.com/item?id=49716241\nPoints: 58\n# Comments: 18",
-      "url": "https://thenextweb.com/news/hugging-face-delangue-openai-100m-compute-traces-demand"
-    },
-    {
-      "category": "AI",
-      "title": "An Update on Wayback Machine Access",
-      "source": "Hacker News: Front Page",
-      "date": "Tue, 15 Sep 2026 17:52:18 +0000",
-      "summary": "Article URL: https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/\nComments URL: https://news.ycombinator.com/item?id=49716176\nPoints: 117\n# Comments: 56",
-      "url": "https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/"
-    },
-    {
-      "category": "Space",
-      "title": " 'Captain EO' at 40: Michael Jackson's wild sci-fi movie that you could only watch at Disney theme parks ",
-      "source": " Latest from Space.com ",
-      "date": "Tue, 15 Sep 2026 17:00:00 +0000",
-      "summary": "Remember when the King of Pop joined forces with Coppola, Lucas and Disney for an inspiring 3D space musical?",
-      "url": "https://www.space.com/entertainment/space-movies-shows/captain-eo-at-40-michael-jacksons-wild-sci-fi-movie-that-you-could-only-watch-at-disney-theme-parks"
-    },
-    {
-      "category": "Space",
       "title": "Celebrate International Observe the Moon Night with NASA",
       "source": "NASA",
       "date": "Tue, 15 Sep 2026 16:15:12 +0000",
       "summary": "In April, the world watched as four humans circled the Moon for the first time in over 50 years with NASA’s Artemis II mission. On Saturday, Sept. 19, the public is invited to look up again with NASA events across the country, including the International Observe the Moon Night celebration held at NASA’s Goddard Space […]",
       "url": "https://www.nasa.gov/centers-and-facilities/goddard/celebrate-international-observe-the-moon-night-with-nasa/"
-    },
-    {
-      "category": "Science",
-      "title": " 'Maybe robots can maintain houseplants': Readers react to letting humanoid robots take over their housework ",
-      "source": " Latest from Live Science ",
-      "date": "Tue, 15 Sep 2026 16:14:37 +0000",
-      "summary": "Would you let a humanoid robot do your chores? Live Science readers shared their thoughts in a recent poll.",
-      "url": "https://www.livescience.com/technology/robotics/maybe-robots-can-maintain-houseplants-readers-react-to-letting-humanoid-robots-take-over-their-housework"
     },
     {
       "category": "Space",
@@ -132,14 +156,6 @@
     },
     {
       "category": "Science",
-      "title": " Did 'all roads lead to Rome'? New study finds other cities in the empire were better connected. ",
-      "source": " Latest from Live Science ",
-      "date": "Tue, 15 Sep 2026 15:00:00 +0000",
-      "summary": "Rome was the Roman Empire's capital, but other cities in the empire were better connected by road.",
-      "url": "https://www.livescience.com/archaeology/romans/did-all-roads-lead-to-rome-new-study-finds-other-cities-in-the-empire-were-better-connected"
-    },
-    {
-      "category": "Science",
       "title": "This Australian cave hid 25,000 years of ritual secrets",
       "source": "All Top News -- ScienceDaily",
       "date": "Tue, 15 Sep 2026 10:43:23 EDT",
@@ -153,22 +169,6 @@
       "date": "Tue, 15 Sep 2026 10:28:38 EDT",
       "summary": "Scientists have uncovered sweeping changes in how the human brain controls and organizes its genome beginning in midlife, offering new clues to why aging sharply increases the risk of Alzheimer’s and other neurodegenerative diseases. One of the biggest shifts occurred between about ages 50 and 75, when many of the brain’s original immune cells declined and were replaced by cells with more inflammatory characteristics. Researchers also found weakening of cells that help maintain the blood-brain barrier, along with widespread deterioration in the genome’s three-dimensional organization.",
       "url": "https://www.sciencedaily.com/releases/2026/09/260914102441.htm"
-    },
-    {
-      "category": "Science",
-      "title": " Fossils of iconic long-necked dinosaur Diplodocus found in Europe for first time — and it may have traveled there via land bridge ",
-      "source": " Latest from Live Science ",
-      "date": "Tue, 15 Sep 2026 14:11:51 +0000",
-      "summary": "Fossils of the long-necked dinosaur Diplodocus have been discovered in Spain, marking the first time remains of this iconic Jurassic-period dino have been found outside the U.S.",
-      "url": "https://www.livescience.com/animals/dinosaurs/fossils-of-iconic-long-necked-dinosaur-diplodocus-found-in-europe-for-first-time-and-it-may-have-traveled-there-via-land-bridge"
-    },
-    {
-      "category": "AI",
-      "title": "Trump EPA moves to wipe out climate rules for power plants",
-      "source": "Ars Technica - All content",
-      "date": "Tue, 15 Sep 2026 13:43:51 +0000",
-      "summary": "EPA says power plant emissions have no material impact on climate change.",
-      "url": "https://arstechnica.com/science/2026/09/epa-seeks-to-eliminate-remaining-greenhouse-gas-rules-for-power-plants/"
     },
     {
       "category": "Biblical Studies",
