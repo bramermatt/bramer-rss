@@ -1,78 +1,158 @@
 {
-  "lastUpdated": "2026-09-16T14:29:51.426Z",
-  "articleCount": 39,
+  "lastUpdated": "2026-09-16T19:15:01.587Z",
+  "articleCount": 36,
   "articles": [
     {
       "category": "Science",
-      "title": "Double dip: Sampling contaminants of emerging concern two ways improves accuracy",
+      "title": "Dog-guided cameras uncover weasels across Georgia, including regions unseen for 30 years",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Wed, 16 Sep 2026 10:20:15 EDT",
-      "summary": "Two are better than one when it comes to sampling methods for tracking the location and timing of toxic chemical contamination in waterways, according to researchers at Penn State. The team tested two typical sampling approaches and found that both are needed to accurately assess the variety and concentration of contaminants of emerging concern—pharmaceuticals, personal care products, livestock manure-borne hormones, veterinary antibiotics and pesticides—in a watershed.",
-      "url": "https://phys.org/news/2026-09-dip-sampling-contaminants-emerging-ways.html"
+      "date": "Wed, 16 Sep 2026 15:00:11 EDT",
+      "summary": "University of Georgia researchers recently located the mammal equivalent of a needle in a haystack: weasels. Weasels are extremely difficult to find, so not much is known about their preferred habitats and overall population health in the Southeast.",
+      "url": "https://phys.org/news/2026-09-dog-cameras-uncover-weasels-georgia.html"
     },
     {
       "category": "Science",
-      "title": "New species of egg-eating snake discovered in Ethiopia's Harenna Forest",
+      "title": "Why do some chimpanzee mothers carry their dead infants for months?",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Wed, 16 Sep 2026 10:20:12 EDT",
-      "summary": "A new species of snake that feeds exclusively on birds' eggs has been discovered in the Harenna Forest in Ethiopia, one of the last substantial tracts of natural forest left in the Horn of Africa.",
-      "url": "https://phys.org/news/2026-09-species-egg-snake-ethiopia-harenna.html"
+      "date": "Wed, 16 Sep 2026 15:00:07 EDT",
+      "summary": "Chimpanzee and bonobo mothers sometimes continue to carry their infants after they have died, a behavior known as infant corpse carrying (ICC). It is widely documented, and many explanations have been proposed, but few have been quantitatively tested.",
+      "url": "https://phys.org/news/2026-09-chimpanzee-mothers-dead-infants-months.html"
+    },
+    {
+      "category": "AI",
+      "title": "Accurate Models of AMD Matrix Cores",
+      "source": "Hacker News: Front Page",
+      "date": "Wed, 16 Sep 2026 18:56:05 +0000",
+      "summary": "Article URL: https://arxiv.org/abs/2609.14845\nComments URL: https://news.ycombinator.com/item?id=49731360\nPoints: 4\n# Comments: 0",
+      "url": "https://arxiv.org/abs/2609.14845"
+    },
+    {
+      "category": "AI",
+      "title": "Show HN: Friday – Self-hosted persistent memory for AI coding agents (MCP)",
+      "source": "Hacker News: Front Page",
+      "date": "Wed, 16 Sep 2026 18:55:09 +0000",
+      "summary": "Article URL: https://github.com/itskie/friday\nComments URL: https://news.ycombinator.com/item?id=49731353\nPoints: 3\n# Comments: 0",
+      "url": "https://github.com/itskie/friday"
     },
     {
       "category": "Science",
-      "title": "Growing up in poverty triples young people's likelihood of becoming NEET",
+      "title": "Iron Age seeds reveal the origins of Iberian wine",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Wed, 16 Sep 2026 10:00:13 EDT",
-      "summary": "Young people who grow up experiencing persistent poverty are more than three times as likely to be not in education, employment or training (NEET) at 17 or 23 (3.3 and 3.4 times, respectively), according to new analysis of the UK Millennium Cohort Study by the University of Liverpool and the University of Manchester, commissioned by the Joseph Rowntree Foundation.",
-      "url": "https://phys.org/news/2026-09-poverty-triples-young-people-likelihood.html"
-    },
-    {
-      "category": "Space",
-      "title": " Colossal cosmic cloud revealed in insane new image from the James Webb Space Telescope | Space photo of the day for Sept. 16, 2026 ",
-      "source": " Latest from Space.com ",
-      "date": "Wed, 16 Sep 2026 14:00:00 +0000",
-      "summary": "James Webb Space Telescope spies colossal cosmic cloud | Space photo of the day for Sept. 16, 2026",
-      "url": "https://www.space.com/astronomy/james-webb-space-telescope/colossal-cosmic-cloud-revealed-in-insane-new-image-from-the-james-webb-space-telescope-space-photo-of-the-day-for-sept-16-2026"
-    },
-    {
-      "category": "Space",
-      "title": " 'Lost in Space': Celebrity astrophysicist Neil deGrasse Tyson on his lavish new encyclopedia of the cosmos (interview) ",
-      "source": " Latest from Space.com ",
-      "date": "Wed, 16 Sep 2026 14:00:00 +0000",
-      "summary": "Neil deGrasse Tyson discusses his latest book, \"Lost in Space,\" a gorgeously illustrated 400-page odyssey around the heavens.",
-      "url": "https://www.space.com/entertainment/space-books/lost-in-space-celebrity-astrophysicist-neil-degrasse-tyson-on-his-lavish-new-encyclopedia-of-the-cosmos-interview"
+      "date": "Wed, 16 Sep 2026 14:50:02 EDT",
+      "summary": "Spain and Portugal are two of the world's most popular wine-growing countries, with regions such as Rioja and the Douro Valley producing millions of bottles every year. This winemaking tradition dates back thousands of years, but its exact origins remain a mystery. To understand how it all started, scientists led by Carolina Royo of the Instituto de Ciencias de la Vid y del Vino in Spain took a step back into the past and studied ancient grape seeds.",
+      "url": "https://phys.org/news/2026-09-iron-age-seeds-reveal-iberian.html"
     },
     {
       "category": "AI",
-      "title": "OpenAI Expands ChatGPT Ads with Sponsored Agents",
+      "title": "We've created the first vectorized Quicksort",
       "source": "Hacker News: Front Page",
-      "date": "Wed, 16 Sep 2026 13:51:15 +0000",
-      "summary": "Article URL: https://openai.com/index/reimagining-advertising-with-ai/\nComments URL: https://news.ycombinator.com/item?id=49727041\nPoints: 12\n# Comments: 6",
-      "url": "https://openai.com/index/reimagining-advertising-with-ai/"
+      "date": "Wed, 16 Sep 2026 18:31:35 +0000",
+      "summary": "Article URL: https://opensource.googleblog.com/2022/06/Vectorized%20and%20performance%20portable%20Quicksort.html\nComments URL: https://news.ycombinator.com/item?id=49731054\nPoints: 69\n# Comments: 8",
+      "url": "https://opensource.googleblog.com/2022/06/Vectorized%20and%20performance%20portable%20Quicksort.html"
     },
     {
-      "category": "AI",
-      "title": "DeepMind Paper: Dream-RSI: Recursive Self-Improvement Through Evolving Worlds",
-      "source": "Hacker News: Front Page",
-      "date": "Wed, 16 Sep 2026 13:44:40 +0000",
-      "summary": "Article URL: https://arxiv.org/abs/2609.14858\nComments URL: https://news.ycombinator.com/item?id=49726955\nPoints: 6\n# Comments: 1",
-      "url": "https://arxiv.org/abs/2609.14858"
+      "category": "Science",
+      "title": " Scientists finally figured out the temperature of T. rex's blood ‪— and it was as hot as ours ",
+      "source": " Latest from Live Science ",
+      "date": "Wed, 16 Sep 2026 18:00:00 +0000",
+      "summary": "Tooth analysis has revealed that the king of the dinosaurs was as warm-blooded as a human or an elephant",
+      "url": "https://www.livescience.com/animals/dinosaurs/scientists-finally-figured-out-the-temperature-of-t-rexs-blood-and-it-was-as-hot-as-ours"
     },
     {
-      "category": "AI",
-      "title": "Hackers Got Inside a Flock Camera. Its Data Shows How the System Works",
-      "source": "Hacker News: Front Page",
-      "date": "Wed, 16 Sep 2026 13:18:47 +0000",
-      "summary": "Article URL: https://www.wired.com/story/hackers-flock-camera-data-shows-how-system-works/\nComments URL: https://news.ycombinator.com/item?id=49726586\nPoints: 74\n# Comments: 15",
-      "url": "https://www.wired.com/story/hackers-flock-camera-data-shows-how-system-works/"
+      "category": "Science",
+      "title": " New trick could reveal text on 2,000-year-old scrolls charred by eruption of Mount Vesuvius ",
+      "source": " Latest from Live Science ",
+      "date": "Wed, 16 Sep 2026 18:00:00 +0000",
+      "summary": "Using X-ray technologies and custom-made software, researchers were able to read text they wrote on a fake ancient scroll designed to mimic those destroyed at Herculaneum in A.D. 79.",
+      "url": "https://www.livescience.com/archaeology/romans/new-trick-could-reveal-text-on-2-000-year-old-scrolls-charred-by-eruption-of-mount-vesuvius"
     },
     {
       "category": "Space",
-      "title": " Steven Spielberg's alien conspiracy movie 'Disclosure Day' finally hits a streaming service in October ",
+      "title": " Roman Space Telescope starts waking up as NASA powers on instruments for the 1st time ",
       "source": " Latest from Space.com ",
-      "date": "Wed, 16 Sep 2026 13:00:00 +0000",
-      "summary": "This summer's sci-fi mystery about alien conspiracies finally lands on the streamer next month.",
-      "url": "https://www.space.com/entertainment/space-movies-shows/steven-spielbergs-alien-conspiracy-movie-disclosure-day-finally-hits-streaming-service-in-october"
+      "date": "Wed, 16 Sep 2026 18:00:00 +0000",
+      "summary": "NASA has begun flipping on the instruments aboard the Roman Space Telescope to prepare the observatory for its scientific mission as it travels nearly a million miles to its final destination in orbit.",
+      "url": "https://www.space.com/space-exploration/missions/roman-space-telescope-starts-waking-up-as-nasa-powers-on-instruments-for-the-1st-time"
+    },
+    {
+      "category": "History",
+      "title": "This Week on Dispatches: Davis Richardson on Lafayette, Jefferson, and Revolutionary Ideas",
+      "source": "Journal of the American Revolution",
+      "date": "Wed, 16 Sep 2026 17:49:38 +0000",
+      "summary": "On this week’s Dispatches, host Brady Crytzer interviews JAR contributor and historian Davis Richardson about the correspondence between the Marquis de Lafayette and Thomas Jefferson in the wake of the American Revolution and the coming French Revolution. New episodes of Dispatches are available for free every Sunday evening(Eastern United States Time), first on iTunes, Stitcher, […]\nThe post This Week on Dispatches: Davis Richardson on Lafayette, Jefferson, and Revolutionary Ideas appeared first on Journal of the American Revolution.",
+      "url": "https://allthingsliberty.com/2026/09/this-week-on-dispatches-davis-richardson-on-lafayette-jefferson-and-revolutionary-ideas/"
+    },
+    {
+      "category": "AI",
+      "title": "It’s OK to tell ICE their actions will haunt them, judge rules in speech fight",
+      "source": "Ars Technica - All content",
+      "date": "Wed, 16 Sep 2026 17:06:06 +0000",
+      "summary": "Man wins fight to block ICE threat over off-the-cuff angry email.",
+      "url": "https://arstechnica.com/tech-policy/2026/09/its-ok-to-tell-ice-their-actions-will-haunt-them-judge-rules-in-speech-fight/"
+    },
+    {
+      "category": "AI",
+      "title": "Iran strikes on Amazon data centers caused permanent loss of customer data",
+      "source": "Ars Technica - All content",
+      "date": "Wed, 16 Sep 2026 16:40:11 +0000",
+      "summary": "War damage to data centers exceeded what AWS services are designed to withstand.",
+      "url": "https://arstechnica.com/gadgets/2026/09/iran-strikes-on-amazon-data-centers-caused-permanent-loss-of-customer-data/"
+    },
+    {
+      "category": "Space",
+      "title": " The universe's most extreme dead stars can form from vampire white dwarfs — and scientists finally know how ",
+      "source": " Latest from Space.com ",
+      "date": "Wed, 16 Sep 2026 16:00:00 +0000",
+      "summary": "Some vampire white dwarfs that feed on companion stars can transform into neutron stars, but like a cosmic Goldilocks, conditions must be \"just right\" for this extreme makeover.",
+      "url": "https://www.space.com/astronomy/stars/the-universes-most-extreme-dead-stars-can-form-from-vampire-white-dwarfs-and-scientists-finally-know-how"
+    },
+    {
+      "category": "AI",
+      "title": "Helping older adults use AI in everyday life",
+      "source": "OpenAI News",
+      "date": "Wed, 16 Sep 2026 16:00:00 GMT",
+      "summary": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.",
+      "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life"
+    },
+    {
+      "category": "Science",
+      "title": " Was there a 'before' the Big Bang? Jim Al-Khalili on the mind-bogglingness of time ",
+      "source": " Latest from Live Science ",
+      "date": "Wed, 16 Sep 2026 15:56:08 +0000",
+      "summary": "In this excerpt from \"On Time: The Physics That Makes the Universe Tick,\" author and theoretical physicist Jim Al-Khalili examines the possibility of time starting before the Big Bang, with the cosmological theory of eternal inflation.",
+      "url": "https://www.livescience.com/physics-mathematics/was-there-a-before-the-big-bang-jim-al-khalili-on-the-mind-bogglingness-of-time"
+    },
+    {
+      "category": "AI",
+      "title": "What happens when neutrinos swap identities inside a supernova?",
+      "source": "Ars Technica - All content",
+      "date": "Wed, 16 Sep 2026 15:17:43 +0000",
+      "summary": "Identity-fluid particles may carry some energy out, leading to direct collapse.",
+      "url": "https://arstechnica.com/science/2026/09/what-happens-when-neutrinos-swap-identities-inside-a-supernova/"
+    },
+    {
+      "category": "Space",
+      "title": " On this day in space! Sept. 16, 1949: A US launch of a V-2 rocket explodes, killing its monkey passenger Albert III ",
+      "source": " Latest from Space.com ",
+      "date": "Wed, 16 Sep 2026 15:00:00 +0000",
+      "summary": "On Sept. 16, 1949, the U.S. launched a V-2 rocket with a monkey named Albert III on board. Here's how it happened and why it mattered.",
+      "url": "https://www.space.com/space-exploration/on-this-day-in-space-september-16-2026"
+    },
+    {
+      "category": "Science",
+      "title": "Scientists find an immune “false alarm” that may drive rapid aging",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Wed, 16 Sep 2026 10:05:35 EDT",
+      "summary": "Scientists have discovered that some severe genetic disorders linked to rapid aging may be driven not just by damaged DNA, but by the body’s overreaction to that damage. When broken DNA fragments leak into the wrong part of a cell, an immune sensor called cGAS can mistake them for signs of a viral infection, triggering chronic inflammation and even interfering with DNA repair itself.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260915232130.htm"
+    },
+    {
+      "category": "Science",
+      "title": "A 240-million-year-old fossil just changed the dinosaur timeline",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Wed, 16 Sep 2026 09:48:08 EDT",
+      "summary": "A newly identified 240-million-year-old animal from Tanzania is forcing scientists to rethink the early dinosaur timeline. Dinodontosaurus isiyavamanda belongs to a group previously known only from South America, linking fossil deposits on the two continents. That connection suggests Tanzania’s supposed oldest dinosaur fossils may actually be millions of years younger than previously thought.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260915232128.htm"
     },
     {
       "category": "AI",
@@ -81,6 +161,14 @@
       "date": "Wed, 16 Sep 2026 13:00:00 GMT",
       "summary": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
       "url": "https://openai.com/index/reimagining-advertising-with-ai"
+    },
+    {
+      "category": "Science",
+      "title": "Scientists “truly astonished” by discovery that challenges Earth’s origin story",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Wed, 16 Sep 2026 07:03:10 EDT",
+      "summary": "A new study suggests Earth formed almost entirely from material in the inner Solar System, challenging the idea that water-rich material from beyond Jupiter played a major role. If correct, Earth’s water may have been present much closer to the young Sun than scientists previously thought.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260915232132.htm"
     },
     {
       "category": "Biblical Studies",
@@ -99,28 +187,12 @@
       "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-rome/medusa-etruscan-tomb/"
     },
     {
-      "category": "Science",
-      "title": " Diagnostic dilemma: A man's sudden fainting episodes landed him in the hospital — and a hair dye was to blame ",
-      "source": " Latest from Live Science ",
-      "date": "Wed, 16 Sep 2026 10:00:00 +0000",
-      "summary": "A man's fainting spells and collapsing blood pressure sent doctors searching for signs of a stroke or heart attack before they found a far more ordinary culprit.",
-      "url": "https://www.livescience.com/health/immune-system/diagnostic-dilemma-a-mans-sudden-fainting-episodes-landed-him-in-the-hospital-and-a-hair-dye-was-to-blame"
-    },
-    {
-      "category": "Science",
-      "title": " New laptop ditches noisy fans and heat sinks for tiny 'cooling chips' — it's much thinner and lighter than you'd expect ",
-      "source": " Latest from Live Science ",
-      "date": "Wed, 16 Sep 2026 09:40:00 +0000",
-      "summary": "This first-of-its-kind concept laptop integrates near-silent cooling technology to remove waste heat.",
-      "url": "https://www.livescience.com/technology/computing/new-laptop-ditches-noisy-fans-and-heat-sinks-for-tiny-cooling-chips-its-much-thinner-and-lighter-than-youd-expect"
-    },
-    {
-      "category": "Space",
-      "title": "APOD: 2026 September 16 – Webb’s View of M64",
-      "source": "NASA",
-      "date": "Wed, 16 Sep 2026 04:05:00 +0000",
-      "summary": "APOD Science APOD APOD: 2026 September 16 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Hubble + WebbHubble […]",
-      "url": "https://science.nasa.gov/image-article/apod-2026-september-16-webbs-view-of-m64/"
+      "category": "AI",
+      "title": "How workers are unlocking new ways of working",
+      "source": "OpenAI News",
+      "date": "Wed, 16 Sep 2026 09:00:00 GMT",
+      "summary": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.",
+      "url": "https://openai.com/index/unlocking-new-ways-of-working"
     },
     {
       "category": "Theology",
@@ -131,84 +203,12 @@
       "url": "https://www.thegospelcoalition.org/article/no-ivf-yes-embryo-adoption/"
     },
     {
-      "category": "AI",
-      "title": "How chimps teach their kids tool tricks",
-      "source": "Ars Technica - All content",
-      "date": "Wed, 16 Sep 2026 04:00:39 +0000",
-      "summary": "Adults first demonstrate tool use, then hand over the implements to their infants, who copy the behavior.",
-      "url": "https://arstechnica.com/science/2026/09/how-chimps-teach-their-kids-tool-tricks/"
-    },
-    {
       "category": "Theology",
       "title": "C. S. Lewis’s Overlooked Apologetics Strategy",
       "source": "The Gospel Coalition",
       "date": "Wed, 16 Sep 2026 04:00:00 +0000",
       "summary": "C. S. Lewis proposed a new path of apologetics as ‘the first step’ toward turning modern minds in the direction of Christian faith.",
       "url": "https://www.thegospelcoalition.org/article/overlooked-apologetics-strategy/"
-    },
-    {
-      "category": "Space",
-      "title": "NASA Ames Stars of the Month: September 2026",
-      "source": "NASA",
-      "date": "Tue, 15 Sep 2026 23:46:11 +0000",
-      "summary": "The NASA Ames Science Directorate recognizes the outstanding contributions of (pictured left to right) Steve Ormsby, Aphrodite Kostakis, Alejando Borlaff, Sarah Nickerson, Martina Caussi, Keiko Nomura, and Stephen Broccardo. Their commitment to the NASA mission represents the entrepreneurial spirit, technical expertise, and collaborative disposition needed to explore this world and beyond. Space Biosciences Star: Steve […]",
-      "url": "https://www.nasa.gov/general/nasa-ames-stars-of-the-month-september-2026/"
-    },
-    {
-      "category": "AI",
-      "title": "The Roman telescope has enough gas for 22 years, double NASA's expectations",
-      "source": "Ars Technica - All content",
-      "date": "Tue, 15 Sep 2026 22:26:32 +0000",
-      "summary": "The Nancy Grace Roman Space Telescope is the first NASA observatory designed for in-space refueling.",
-      "url": "https://arstechnica.com/space/2026/09/the-roman-telescope-has-enough-gas-for-22-years-double-nasas-expectations/"
-    },
-    {
-      "category": "Science",
-      "title": " Strange 'centaur' object between Saturn and Uranus has mysterious, changing rings, James Webb telescope study hints ",
-      "source": " Latest from Live Science ",
-      "date": "Tue, 15 Sep 2026 21:01:34 +0000",
-      "summary": "James Webb Space Telescope observations of Chariklo, one of the smallest ringed worlds in the solar system, reveal some inexplicable changes.",
-      "url": "https://www.livescience.com/space/astronomy/strange-centaur-object-between-saturn-and-uranus-has-mysterious-changing-rings-james-webb-telescope-study-hints"
-    },
-    {
-      "category": "AI",
-      "title": "“Filmmaker” suing PassThePopcorn may be banned user out for revenge",
-      "source": "Ars Technica - All content",
-      "date": "Tue, 15 Sep 2026 20:19:17 +0000",
-      "summary": "Allegedly fake filmmaker targeted trackers like PassThePopcorn, BroadcasTheNet, and HDBits.",
-      "url": "https://arstechnica.com/tech-policy/2026/09/filmmaker-suing-passthepopcorn-may-be-banned-user-out-for-revenge/"
-    },
-    {
-      "category": "Space",
-      "title": "NASA Invites Media to International Observe the Moon Night",
-      "source": "NASA",
-      "date": "Tue, 15 Sep 2026 18:55:33 +0000",
-      "summary": "NASA will host an International Observe the Moon Night celebration from 5:30 to 8 p.m. CST on Saturday, Sept. 19, at the U.S. Space & Rocket Center, the official visitor center for NASA’s Marshall Space Flight Center in Huntsville, Alabama. International Observe the Moon Night celebrates the Moon, the science behind it, and its connection […]",
-      "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-international-observe-the-moon-night/"
-    },
-    {
-      "category": "Science",
-      "title": "Smelling chocolate helped men complete more reps without feeling more tired",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Tue, 15 Sep 2026 11:03:54 EDT",
-      "summary": "Simply smelling chocolate helped men complete more leg extension repetitions without making the workout feel harder, with dark chocolate producing the strongest effect. The researchers think familiar food aromas may influence appetite and motivation by making the brain anticipate eating.",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260914102445.htm"
-    },
-    {
-      "category": "Science",
-      "title": "This Australian cave hid 25,000 years of ritual secrets",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Tue, 15 Sep 2026 10:43:23 EDT",
-      "summary": "Microscopic plant remains are revealing how GunaiKurnai ancestors used Cloggs Cave for ritual practices over thousands of years. People deliberately gathered whole grasses, carried them into the dark cave, and burned them in thin layers, leaving behind traces that may span 25,000 years. A standing stone erected around 2,000 years ago and other ritual objects strengthen the evidence that the cave was a long-lived spiritual site.",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260914102443.htm"
-    },
-    {
-      "category": "Science",
-      "title": "Scientists discover a major brain shift between ages 50 and 75",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Tue, 15 Sep 2026 10:28:38 EDT",
-      "summary": "Scientists have uncovered sweeping changes in how the human brain controls and organizes its genome beginning in midlife, offering new clues to why aging sharply increases the risk of Alzheimer’s and other neurodegenerative diseases. One of the biggest shifts occurred between about ages 50 and 75, when many of the brain’s original immune cells declined and were replaced by cells with more inflammatory characteristics. Researchers also found weakening of cells that help maintain the blood-brain barrier, along with widespread deterioration in the genome’s three-dimensional organization.",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260914102441.htm"
     },
     {
       "category": "Biblical Studies",
@@ -251,22 +251,6 @@
       "url": "https://allthingsliberty.com/2026/09/when-the-declaration-of-independence-was-news/"
     },
     {
-      "category": "AI",
-      "title": "How Fyxer built an AI executive assistant people trust",
-      "source": "OpenAI News",
-      "date": "Mon, 14 Sep 2026 12:00:00 GMT",
-      "summary": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice.",
-      "url": "https://openai.com/index/fyxer"
-    },
-    {
-      "category": "AI",
-      "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
-      "source": "OpenAI News",
-      "date": "Mon, 14 Sep 2026 00:00:00 GMT",
-      "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
-      "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra"
-    },
-    {
       "category": "Theology",
       "title": "How God Prepared Our Church for 9/11 Through Sermon Planning",
       "source": "9Marks",
@@ -281,14 +265,6 @@
       "date": "Fri, 11 Sep 2026 10:10:18 +0000",
       "summary": "May God use these tragic events in our lives, and in the lives of those around us, to remind us of the brevity of this life, and the certainty of judgment.\nThe post Mark Dever’s Remarks on the Sunday after 9/11 appeared first on 9Marks.",
       "url": "https://www.9marks.org/article/mark-devers-remarks-the-sunday-after-9-11/?utm_source=rss&utm_medium=rss&utm_campaign=mark-devers-remarks-the-sunday-after-9-11"
-    },
-    {
-      "category": "History",
-      "title": "Washington’s Invalid Corps: Wounded Warriors Still Served the Revolutionary Cause",
-      "source": "Journal of the American Revolution",
-      "date": "Thu, 10 Sep 2026 10:00:07 +0000",
-      "summary": "Although some readers may be familiar with the Civil War’s Invalid Corps, which wrought value and service from even grievously wounded men during that conflict, few probably know that America’s first such organization appeared during the Revolutionary War. Like its later counterpart, Washington’s Corps of Invalids provided the nation valuable service and roles for men […]\nThe post Washington’s Invalid Corps: Wounded Warriors Still Served the Revolutionary Cause appeared first on Journal of the American Revolution.",
-      "url": "https://allthingsliberty.com/2026/09/washingtons-invalid-corps-wounded-warriors-still-served-the-revolutionary-cause/"
     },
     {
       "category": "History",
