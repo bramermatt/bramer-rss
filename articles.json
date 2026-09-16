@@ -1,38 +1,158 @@
 {
-  "lastUpdated": "2026-09-15T23:52:51.330Z",
+  "lastUpdated": "2026-09-16T14:29:51.426Z",
   "articleCount": 39,
   "articles": [
     {
       "category": "Science",
-      "title": "High-resolution weather data could pinpoint neighborhoods facing greatest heat stress",
+      "title": "Double dip: Sampling contaminants of emerging concern two ways improves accuracy",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Tue, 15 Sep 2026 19:20:01 EDT",
-      "summary": "Heat stress is a leading cause of weather-related deaths and can be especially dangerous in cities, where phenomena like urban heat islands drive temperatures higher than in surrounding rural areas. Now, a new dataset developed by the U.S. National Science Foundation National Center for Atmospheric Research (NSF NCAR) aims to provide city governments and health officials with information that could minimize heat impacts on residents.",
-      "url": "https://phys.org/news/2026-09-high-resolution-weather-neighborhoods-greatest.html"
+      "date": "Wed, 16 Sep 2026 10:20:15 EDT",
+      "summary": "Two are better than one when it comes to sampling methods for tracking the location and timing of toxic chemical contamination in waterways, according to researchers at Penn State. The team tested two typical sampling approaches and found that both are needed to accurately assess the variety and concentration of contaminants of emerging concern—pharmaceuticals, personal care products, livestock manure-borne hormones, veterinary antibiotics and pesticides—in a watershed.",
+      "url": "https://phys.org/news/2026-09-dip-sampling-contaminants-emerging-ways.html"
+    },
+    {
+      "category": "Science",
+      "title": "New species of egg-eating snake discovered in Ethiopia's Harenna Forest",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Wed, 16 Sep 2026 10:20:12 EDT",
+      "summary": "A new species of snake that feeds exclusively on birds' eggs has been discovered in the Harenna Forest in Ethiopia, one of the last substantial tracts of natural forest left in the Horn of Africa.",
+      "url": "https://phys.org/news/2026-09-species-egg-snake-ethiopia-harenna.html"
+    },
+    {
+      "category": "Science",
+      "title": "Growing up in poverty triples young people's likelihood of becoming NEET",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Wed, 16 Sep 2026 10:00:13 EDT",
+      "summary": "Young people who grow up experiencing persistent poverty are more than three times as likely to be not in education, employment or training (NEET) at 17 or 23 (3.3 and 3.4 times, respectively), according to new analysis of the UK Millennium Cohort Study by the University of Liverpool and the University of Manchester, commissioned by the Joseph Rowntree Foundation.",
+      "url": "https://phys.org/news/2026-09-poverty-triples-young-people-likelihood.html"
+    },
+    {
+      "category": "Space",
+      "title": " Colossal cosmic cloud revealed in insane new image from the James Webb Space Telescope | Space photo of the day for Sept. 16, 2026 ",
+      "source": " Latest from Space.com ",
+      "date": "Wed, 16 Sep 2026 14:00:00 +0000",
+      "summary": "James Webb Space Telescope spies colossal cosmic cloud | Space photo of the day for Sept. 16, 2026",
+      "url": "https://www.space.com/astronomy/james-webb-space-telescope/colossal-cosmic-cloud-revealed-in-insane-new-image-from-the-james-webb-space-telescope-space-photo-of-the-day-for-sept-16-2026"
+    },
+    {
+      "category": "Space",
+      "title": " 'Lost in Space': Celebrity astrophysicist Neil deGrasse Tyson on his lavish new encyclopedia of the cosmos (interview) ",
+      "source": " Latest from Space.com ",
+      "date": "Wed, 16 Sep 2026 14:00:00 +0000",
+      "summary": "Neil deGrasse Tyson discusses his latest book, \"Lost in Space,\" a gorgeously illustrated 400-page odyssey around the heavens.",
+      "url": "https://www.space.com/entertainment/space-books/lost-in-space-celebrity-astrophysicist-neil-degrasse-tyson-on-his-lavish-new-encyclopedia-of-the-cosmos-interview"
     },
     {
       "category": "AI",
-      "title": "Saving Jet Fuel",
+      "title": "OpenAI Expands ChatGPT Ads with Sponsored Agents",
       "source": "Hacker News: Front Page",
-      "date": "Tue, 15 Sep 2026 23:17:20 +0000",
-      "summary": "Article URL: https://tech.marksblogg.com/scikit-decide-openap-optimal-flight-planning.html\nComments URL: https://news.ycombinator.com/item?id=49720164\nPoints: 3\n# Comments: 0",
-      "url": "https://tech.marksblogg.com/scikit-decide-openap-optimal-flight-planning.html"
+      "date": "Wed, 16 Sep 2026 13:51:15 +0000",
+      "summary": "Article URL: https://openai.com/index/reimagining-advertising-with-ai/\nComments URL: https://news.ycombinator.com/item?id=49727041\nPoints: 12\n# Comments: 6",
+      "url": "https://openai.com/index/reimagining-advertising-with-ai/"
+    },
+    {
+      "category": "AI",
+      "title": "DeepMind Paper: Dream-RSI: Recursive Self-Improvement Through Evolving Worlds",
+      "source": "Hacker News: Front Page",
+      "date": "Wed, 16 Sep 2026 13:44:40 +0000",
+      "summary": "Article URL: https://arxiv.org/abs/2609.14858\nComments URL: https://news.ycombinator.com/item?id=49726955\nPoints: 6\n# Comments: 1",
+      "url": "https://arxiv.org/abs/2609.14858"
+    },
+    {
+      "category": "AI",
+      "title": "Hackers Got Inside a Flock Camera. Its Data Shows How the System Works",
+      "source": "Hacker News: Front Page",
+      "date": "Wed, 16 Sep 2026 13:18:47 +0000",
+      "summary": "Article URL: https://www.wired.com/story/hackers-flock-camera-data-shows-how-system-works/\nComments URL: https://news.ycombinator.com/item?id=49726586\nPoints: 74\n# Comments: 15",
+      "url": "https://www.wired.com/story/hackers-flock-camera-data-shows-how-system-works/"
+    },
+    {
+      "category": "Space",
+      "title": " Steven Spielberg's alien conspiracy movie 'Disclosure Day' finally hits a streaming service in October ",
+      "source": " Latest from Space.com ",
+      "date": "Wed, 16 Sep 2026 13:00:00 +0000",
+      "summary": "This summer's sci-fi mystery about alien conspiracies finally lands on the streamer next month.",
+      "url": "https://www.space.com/entertainment/space-movies-shows/steven-spielbergs-alien-conspiracy-movie-disclosure-day-finally-hits-streaming-service-in-october"
+    },
+    {
+      "category": "AI",
+      "title": "Reimagining advertising with AI",
+      "source": "OpenAI News",
+      "date": "Wed, 16 Sep 2026 13:00:00 GMT",
+      "summary": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
+      "url": "https://openai.com/index/reimagining-advertising-with-ai"
+    },
+    {
+      "category": "Biblical Studies",
+      "title": "Four Early Rabbis You Should Know",
+      "source": "Biblical Archaeology Society",
+      "date": "Wed, 16 Sep 2026 10:45:31 +0000",
+      "summary": "Following the destruction of the Second Temple in 70 CE, Judaism underwent a radical transformation. In the wake of the crisis, a new question loomed […]\nThe post Four Early Rabbis You Should Know appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/daily/biblical-topics/bible-interpretation/four-early-rabbis-you-should-know/"
+    },
+    {
+      "category": "Biblical Studies",
+      "title": "Medusa in an Etruscan Tomb",
+      "source": "Biblical Archaeology Society",
+      "date": "Wed, 16 Sep 2026 10:00:37 +0000",
+      "summary": "During routine conservation work at the Palazzone necropolis, outside of Perugia in central Italy, archaeologists made a fascinating discovery: a burial urn decorated with the […]\nThe post Medusa in an Etruscan Tomb appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-rome/medusa-etruscan-tomb/"
     },
     {
       "category": "Science",
-      "title": "New species of 240-million-year-old prehistoric animal could reshape dinosaur origins timeline",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Tue, 15 Sep 2026 19:10:01 EDT",
-      "summary": "A new prehistoric animal species from Tanzania dating to around 240 million years ago, during the Triassic period, has been described by an international team of researchers. Led by the University of Bristol, the new species, named Dinodontosaurus isiyavamanda, could help scientists refine the age of one of the world's most significant fossil sites and reshape the timeline of early dinosaur evolution.",
-      "url": "https://phys.org/news/2026-09-species-million-year-prehistoric-animal.html"
+      "title": " Diagnostic dilemma: A man's sudden fainting episodes landed him in the hospital — and a hair dye was to blame ",
+      "source": " Latest from Live Science ",
+      "date": "Wed, 16 Sep 2026 10:00:00 +0000",
+      "summary": "A man's fainting spells and collapsing blood pressure sent doctors searching for signs of a stroke or heart attack before they found a far more ordinary culprit.",
+      "url": "https://www.livescience.com/health/immune-system/diagnostic-dilemma-a-mans-sudden-fainting-episodes-landed-him-in-the-hospital-and-a-hair-dye-was-to-blame"
     },
     {
       "category": "Science",
-      "title": "Plasma and electricity convert CO₂ into methanol, butane and other useful chemicals",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Tue, 15 Sep 2026 18:40:01 EDT",
-      "summary": "Carbon dioxide (CO₂) can be harmful to the environment in large amounts but can be used in the production of fuels and other useful chemicals. Doing so isn't easy, though. Now, Yale researchers have developed a new way to combine electrocatalysis and plasma to efficiently and practically generate a number of valuable products from the gas. The results are published in Nature Catalysis.",
-      "url": "https://phys.org/news/2026-09-plasma-electricity-methanol-butane-chemicals.html"
+      "title": " New laptop ditches noisy fans and heat sinks for tiny 'cooling chips' — it's much thinner and lighter than you'd expect ",
+      "source": " Latest from Live Science ",
+      "date": "Wed, 16 Sep 2026 09:40:00 +0000",
+      "summary": "This first-of-its-kind concept laptop integrates near-silent cooling technology to remove waste heat.",
+      "url": "https://www.livescience.com/technology/computing/new-laptop-ditches-noisy-fans-and-heat-sinks-for-tiny-cooling-chips-its-much-thinner-and-lighter-than-youd-expect"
+    },
+    {
+      "category": "Space",
+      "title": "APOD: 2026 September 16 – Webb’s View of M64",
+      "source": "NASA",
+      "date": "Wed, 16 Sep 2026 04:05:00 +0000",
+      "summary": "APOD Science APOD APOD: 2026 September 16 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Hubble + WebbHubble […]",
+      "url": "https://science.nasa.gov/image-article/apod-2026-september-16-webbs-view-of-m64/"
+    },
+    {
+      "category": "Theology",
+      "title": "Why We Said ‘No’ to IVF and ‘Yes’ to Embryo Adoption",
+      "source": "The Gospel Coalition",
+      "date": "Wed, 16 Sep 2026 04:02:00 +0000",
+      "summary": "I spent my last year of seminary researching infertility and in vitro fertilization. Two years later, it suddenly applied to my own life. I was—and wasn’t—prepared.",
+      "url": "https://www.thegospelcoalition.org/article/no-ivf-yes-embryo-adoption/"
+    },
+    {
+      "category": "AI",
+      "title": "How chimps teach their kids tool tricks",
+      "source": "Ars Technica - All content",
+      "date": "Wed, 16 Sep 2026 04:00:39 +0000",
+      "summary": "Adults first demonstrate tool use, then hand over the implements to their infants, who copy the behavior.",
+      "url": "https://arstechnica.com/science/2026/09/how-chimps-teach-their-kids-tool-tricks/"
+    },
+    {
+      "category": "Theology",
+      "title": "C. S. Lewis’s Overlooked Apologetics Strategy",
+      "source": "The Gospel Coalition",
+      "date": "Wed, 16 Sep 2026 04:00:00 +0000",
+      "summary": "C. S. Lewis proposed a new path of apologetics as ‘the first step’ toward turning modern minds in the direction of Christian faith.",
+      "url": "https://www.thegospelcoalition.org/article/overlooked-apologetics-strategy/"
+    },
+    {
+      "category": "Space",
+      "title": "NASA Ames Stars of the Month: September 2026",
+      "source": "NASA",
+      "date": "Tue, 15 Sep 2026 23:46:11 +0000",
+      "summary": "The NASA Ames Science Directorate recognizes the outstanding contributions of (pictured left to right) Steve Ormsby, Aphrodite Kostakis, Alejando Borlaff, Sarah Nickerson, Martina Caussi, Keiko Nomura, and Stephen Broccardo. Their commitment to the NASA mission represents the entrepreneurial spirit, technical expertise, and collaborative disposition needed to explore this world and beyond. Space Biosciences Star: Steve […]",
+      "url": "https://www.nasa.gov/general/nasa-ames-stars-of-the-month-september-2026/"
     },
     {
       "category": "AI",
@@ -41,22 +161,6 @@
       "date": "Tue, 15 Sep 2026 22:26:32 +0000",
       "summary": "The Nancy Grace Roman Space Telescope is the first NASA observatory designed for in-space refueling.",
       "url": "https://arstechnica.com/space/2026/09/the-roman-telescope-has-enough-gas-for-22-years-double-nasas-expectations/"
-    },
-    {
-      "category": "Space",
-      "title": " 22 years of science! NASA's Roman Space Telescope doubles its lifetime with super-precise engine burn ",
-      "source": " Latest from Space.com ",
-      "date": "Tue, 15 Sep 2026 21:24:37 +0000",
-      "summary": "Originally planned to have a primary five-year mission followed by a five-year extended mission, the Nancy Grace Roman Space Telescope will now operate for over two decades.",
-      "url": "https://www.space.com/astronomy/22-years-of-science-nasas-roman-space-telescope-doubles-its-lifetime-with-super-precise-engine-burn"
-    },
-    {
-      "category": "AI",
-      "title": "German Rheinmetall open-sources its Battlesuite connected weapon system protcol",
-      "source": "Hacker News: Front Page",
-      "date": "Tue, 15 Sep 2026 21:07:47 +0000",
-      "summary": "Article URL: https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html\nComments URL: https://news.ycombinator.com/item?id=49718928\nPoints: 100\n# Comments: 23",
-      "url": "https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html"
     },
     {
       "category": "Science",
@@ -68,30 +172,6 @@
     },
     {
       "category": "AI",
-      "title": "Jean-Pierre Serre is 100 years old today",
-      "source": "Hacker News: Front Page",
-      "date": "Tue, 15 Sep 2026 20:57:18 +0000",
-      "summary": "Article URL: https://mathshistory.st-andrews.ac.uk/Biographies/Serre/\nComments URL: https://news.ycombinator.com/item?id=49718822\nPoints: 74\n# Comments: 11",
-      "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Serre/"
-    },
-    {
-      "category": "Science",
-      "title": " We're not about to awaken an evil digital god — AI is far more likely to end in a great disappointment ",
-      "source": " Latest from Live Science ",
-      "date": "Tue, 15 Sep 2026 20:39:00 +0000",
-      "summary": "AI is unlikely to launch a Hollywood-style war against us. Rather, the biggest danger of AI is that it will disappoint us, says  Andrew Rogoyski.",
-      "url": "https://www.livescience.com/archaeology/human-evolution/the-real-ai-danger-is-not-superintelligence-it-is-premature-trust-opinion"
-    },
-    {
-      "category": "Science",
-      "title": " Are you worried about the US deploying weapons in space? ",
-      "source": " Latest from Live Science ",
-      "date": "Tue, 15 Sep 2026 20:29:46 +0000",
-      "summary": "The U.S. has confirmed that it has weapons in orbit, raising new concerns about the future of military competition. Live Science asks our readers what they think about this latest development.",
-      "url": "https://www.livescience.com/space/are-you-worried-about-the-us-deploying-weapons-in-space"
-    },
-    {
-      "category": "AI",
       "title": "“Filmmaker” suing PassThePopcorn may be banned user out for revenge",
       "source": "Ars Technica - All content",
       "date": "Tue, 15 Sep 2026 20:19:17 +0000",
@@ -100,51 +180,11 @@
     },
     {
       "category": "Space",
-      "title": " New 'StarCraft' game announced, but it's a grim open-world shooter and it's not coming until 2030 ",
-      "source": " Latest from Space.com ",
-      "date": "Tue, 15 Sep 2026 20:00:00 +0000",
-      "summary": "Blizzard Entertainment is returning to StarCraft with an all-new game that's leaving the series' real-time strategy roots behind.",
-      "url": "https://www.space.com/entertainment/space-games/new-starcraft-game-announced-but-its-a-grim-open-world-shooter-and-its-not-coming-until-2030"
-    },
-    {
-      "category": "Space",
-      "title": " US Space Force says it operates weapons in orbit: 'Our aim is deterrence' ",
-      "source": " Latest from Space.com ",
-      "date": "Tue, 15 Sep 2026 19:54:56 +0000",
-      "summary": "The U.S. Space Force is opening up about its operation of orbital weapons, \"that can defend the joint force against space-enabled attacks.\"",
-      "url": "https://www.space.com/space-exploration/satellites/us-space-force-says-it-operates-weapons-in-orbit-our-aim-is-deterrence"
-    },
-    {
-      "category": "AI",
-      "title": "18-year-old dies of measles in PA from severe neurological complication",
-      "source": "Ars Technica - All content",
-      "date": "Tue, 15 Sep 2026 18:58:09 +0000",
-      "summary": "Teen developed acute disseminated encephalomyelitis, a known measles complication.",
-      "url": "https://arstechnica.com/health/2026/09/measles-kills-18-year-old-in-pa-fourth-death-as-state-outbreak-nears-700-cases/"
-    },
-    {
-      "category": "Space",
       "title": "NASA Invites Media to International Observe the Moon Night",
       "source": "NASA",
       "date": "Tue, 15 Sep 2026 18:55:33 +0000",
       "summary": "NASA will host an International Observe the Moon Night celebration from 5:30 to 8 p.m. CST on Saturday, Sept. 19, at the U.S. Space & Rocket Center, the official visitor center for NASA’s Marshall Space Flight Center in Huntsville, Alabama. International Observe the Moon Night celebrates the Moon, the science behind it, and its connection […]",
       "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-international-observe-the-moon-night/"
-    },
-    {
-      "category": "Space",
-      "title": "Celebrate International Observe the Moon Night with NASA",
-      "source": "NASA",
-      "date": "Tue, 15 Sep 2026 16:15:12 +0000",
-      "summary": "In April, the world watched as four humans circled the Moon for the first time in over 50 years with NASA’s Artemis II mission. On Saturday, Sept. 19, the public is invited to look up again with NASA events across the country, including the International Observe the Moon Night celebration held at NASA’s Goddard Space […]",
-      "url": "https://www.nasa.gov/centers-and-facilities/goddard/celebrate-international-observe-the-moon-night-with-nasa/"
-    },
-    {
-      "category": "Space",
-      "title": "Artemis III Crew Visits NASA Kennedy’s Vehicle Assembly Building",
-      "source": "NASA",
-      "date": "Tue, 15 Sep 2026 16:14:24 +0000",
-      "summary": "NASA astronaut Randy Bresnik (left) and ESA (European Space Agency) astronaut Luca Parmitano view progress on the solid rocket booster integration in High Bay 3 inside the Vehicle Assembly Building at NASA’s Kennedy Space Center in Florida on Wednesday, Sept. 2, 2026. Bresnik, Parmitano, and NASA astronauts Andre Douglas, Frank Rubio, and Bob Hines made […]",
-      "url": "https://www.nasa.gov/image-article/artemis-iii-crew-visits-nasa-kennedys-vehicle-assembly-building/"
     },
     {
       "category": "Science",
@@ -179,14 +219,6 @@
       "url": "https://www.biblicalarchaeology.org/daily/biblical-sites-places/biblical-archaeology-sites/church-of-laodicea-in-the-bible-and-archaeology/"
     },
     {
-      "category": "Biblical Studies",
-      "title": "Jesus Holding a Magic Wand?",
-      "source": "Biblical Archaeology Society",
-      "date": "Tue, 15 Sep 2026 11:00:36 +0000",
-      "summary": "Did Jesus use a magic wand when performing his miracles? It seems so—if we are to judge by some of the earliest depictions of Jesus […]\nThe post Jesus Holding a Magic Wand? appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/daily/people-cultures-in-the-bible/jesus-historical-jesus/jesus-holding-a-magic-wand/"
-    },
-    {
       "category": "History",
       "title": "An Irruption into Canada: The Planned Winter Campaign of 1778",
       "source": "Journal of the American Revolution",
@@ -204,22 +236,6 @@
     },
     {
       "category": "Theology",
-      "title": "Why Our Baptist Forebears Wouldn’t Support Blasphemy Laws",
-      "source": "The Gospel Coalition",
-      "date": "Tue, 15 Sep 2026 04:02:00 +0000",
-      "summary": "The freedom to speak against current cultural dogmas protects us today, allows us to push for change tomorrow, and ensures we can spread the gospel that alone will save in the end.",
-      "url": "https://www.thegospelcoalition.org/article/baptist-forebears-blasphemy-laws/"
-    },
-    {
-      "category": "Theology",
-      "title": "2 Ways to Fail Your Child",
-      "source": "The Gospel Coalition",
-      "date": "Tue, 15 Sep 2026 04:00:00 +0000",
-      "summary": "When your children watch you sit with a hard question rather than shut down or ignore it, they see the Christian faith in action.",
-      "url": "https://www.thegospelcoalition.org/article/ways-fail-your-child/"
-    },
-    {
-      "category": "Theology",
       "title": "Your People Need to Know the “Why” of Shifting to a Plurality of Elders",
       "source": "9Marks",
       "date": "Mon, 14 Sep 2026 20:53:38 +0000",
@@ -233,14 +249,6 @@
       "date": "Mon, 14 Sep 2026 14:54:20 +0000",
       "summary": "BOOK REVIEW: When the Declaration of Independence Was News by Emily Sneff. (Oxford University Press, 2026) $29.99 hardcover Most accounts of the Declaration of Independence focus on the events leading up to the pivotal July 2, 1776, vote on independence. Taking a different tack, historian Emily Sneff, in a book based on her Ph.D. thesis, […]\nThe post When the Declaration of Independence Was News appeared first on Journal of the American Revolution.",
       "url": "https://allthingsliberty.com/2026/09/when-the-declaration-of-independence-was-news/"
-    },
-    {
-      "category": "Biblical Studies",
-      "title": "Roman Sanctuary Hidden in “Cave of the Women”",
-      "source": "Biblical Archaeology Society",
-      "date": "Mon, 14 Sep 2026 12:47:54 +0000",
-      "summary": "Recent discoveries at Cova Dones, in Spain’s province of Valencia, offer a fascinating glimpse into Roman religious practice, and potentially women-centered worship. Archaeologists have identified […]\nThe post Roman Sanctuary Hidden in “Cave of the Women” appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-rome/roman-sanctuary-hidden-in-cave-of-women/"
     },
     {
       "category": "AI",
@@ -273,14 +281,6 @@
       "date": "Fri, 11 Sep 2026 10:10:18 +0000",
       "summary": "May God use these tragic events in our lives, and in the lives of those around us, to remind us of the brevity of this life, and the certainty of judgment.\nThe post Mark Dever’s Remarks on the Sunday after 9/11 appeared first on 9Marks.",
       "url": "https://www.9marks.org/article/mark-devers-remarks-the-sunday-after-9-11/?utm_source=rss&utm_medium=rss&utm_campaign=mark-devers-remarks-the-sunday-after-9-11"
-    },
-    {
-      "category": "AI",
-      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
-      "source": "OpenAI News",
-      "date": "Fri, 11 Sep 2026 10:00:00 GMT",
-      "summary": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second.",
-      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one"
     },
     {
       "category": "History",
