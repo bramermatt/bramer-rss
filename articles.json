@@ -1,62 +1,134 @@
 {
-  "lastUpdated": "2026-09-16T19:15:01.587Z",
-  "articleCount": 36,
+  "lastUpdated": "2026-09-16T23:59:34.319Z",
+  "articleCount": 39,
   "articles": [
     {
       "category": "Science",
-      "title": "Dog-guided cameras uncover weasels across Georgia, including regions unseen for 30 years",
+      "title": "Long-term oyster reef restoration shows clear success in murky waters",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Wed, 16 Sep 2026 15:00:11 EDT",
-      "summary": "University of Georgia researchers recently located the mammal equivalent of a needle in a haystack: weasels. Weasels are extremely difficult to find, so not much is known about their preferred habitats and overall population health in the Southeast.",
-      "url": "https://phys.org/news/2026-09-dog-cameras-uncover-weasels-georgia.html"
+      "date": "Wed, 16 Sep 2026 19:50:01 EDT",
+      "summary": "Large-scale oyster reef restoration in the Chesapeake Bay is successfully creating three-dimensional habitats that support larger, more diverse fish communities, according to new research from scientists at the University of Maryland, Baltimore County (UMBC), the Smithsonian Environmental Research Center and the National Oceanic and Atmospheric Administration (NOAA). The study, published in Ecosphere, provides compelling evidence that restoration efforts are shifting underwater ecosystems from communities dominated by small, transient schooling fish to those supporting larger, resident species.",
+      "url": "https://phys.org/news/2026-09-term-oyster-reef-success-murky.html"
     },
     {
       "category": "Science",
-      "title": "Why do some chimpanzee mothers carry their dead infants for months?",
+      "title": "Device simulates natural conditions to grow biofilms and test their antibiotic susceptibility more accurately",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Wed, 16 Sep 2026 15:00:07 EDT",
-      "summary": "Chimpanzee and bonobo mothers sometimes continue to carry their infants after they have died, a behavior known as infant corpse carrying (ICC). It is widely documented, and many explanations have been proposed, but few have been quantitatively tested.",
-      "url": "https://phys.org/news/2026-09-chimpanzee-mothers-dead-infants-months.html"
-    },
-    {
-      "category": "AI",
-      "title": "Accurate Models of AMD Matrix Cores",
-      "source": "Hacker News: Front Page",
-      "date": "Wed, 16 Sep 2026 18:56:05 +0000",
-      "summary": "Article URL: https://arxiv.org/abs/2609.14845\nComments URL: https://news.ycombinator.com/item?id=49731360\nPoints: 4\n# Comments: 0",
-      "url": "https://arxiv.org/abs/2609.14845"
-    },
-    {
-      "category": "AI",
-      "title": "Show HN: Friday – Self-hosted persistent memory for AI coding agents (MCP)",
-      "source": "Hacker News: Front Page",
-      "date": "Wed, 16 Sep 2026 18:55:09 +0000",
-      "summary": "Article URL: https://github.com/itskie/friday\nComments URL: https://news.ycombinator.com/item?id=49731353\nPoints: 3\n# Comments: 0",
-      "url": "https://github.com/itskie/friday"
+      "date": "Wed, 16 Sep 2026 19:40:05 EDT",
+      "summary": "Biofilms are complex microbial communities that adhere to a surface and encase themselves in a viscous matrix they produce. This structure protects bacteria from antibiotics and the immune system far more effectively than if they lived in a free-floating state, making biofilms one of the most common causes of hard-to-treat chronic infections—such as respiratory infections in people with cystic fibrosis and chronic obstructive pulmonary disease (COPD), chronic wounds, or infections associated with catheters and prosthetic devices. Added to this is the global rise in antibiotic resistance, which makes it increasingly urgent to have tools capable of predicting which treatment will work in each case.",
+      "url": "https://phys.org/news/2026-09-device-simulates-natural-conditions-biofilms.html"
     },
     {
       "category": "Science",
-      "title": "Iron Age seeds reveal the origins of Iberian wine",
+      "title": "Hot electrons reveal electronic collisions may raise resistance in twisted graphene",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Wed, 16 Sep 2026 14:50:02 EDT",
-      "summary": "Spain and Portugal are two of the world's most popular wine-growing countries, with regions such as Rioja and the Douro Valley producing millions of bottles every year. This winemaking tradition dates back thousands of years, but its exact origins remain a mystery. To understand how it all started, scientists led by Carolina Royo of the Instituto de Ciencias de la Vid y del Vino in Spain took a step back into the past and studied ancient grape seeds.",
-      "url": "https://phys.org/news/2026-09-iron-age-seeds-reveal-iberian.html"
+      "date": "Wed, 16 Sep 2026 19:40:01 EDT",
+      "summary": "When a material heats up, its electrical resistance often rises. The harder question is what, exactly, is getting in the way. The electrons carrying the current may be scattered by vibrations of the material's atomic lattice, known as phonons. They may also collide with one another. Frustratingly, a conventional temperature test warms the electrons and the lattice together, so the effects arrive tangled in the same resistance measurement.",
+      "url": "https://phys.org/news/2026-09-hot-electrons-reveal-electronic-collisions.html"
     },
     {
       "category": "AI",
-      "title": "We've created the first vectorized Quicksort",
+      "title": "OpenSpec – A lightweight and configurable AI spec framework",
       "source": "Hacker News: Front Page",
-      "date": "Wed, 16 Sep 2026 18:31:35 +0000",
-      "summary": "Article URL: https://opensource.googleblog.com/2022/06/Vectorized%20and%20performance%20portable%20Quicksort.html\nComments URL: https://news.ycombinator.com/item?id=49731054\nPoints: 69\n# Comments: 8",
-      "url": "https://opensource.googleblog.com/2022/06/Vectorized%20and%20performance%20portable%20Quicksort.html"
+      "date": "Wed, 16 Sep 2026 23:06:39 +0000",
+      "summary": "Article URL: https://openspec.dev/\nComments URL: https://news.ycombinator.com/item?id=49734264\nPoints: 22\n# Comments: 3",
+      "url": "https://openspec.dev/"
+    },
+    {
+      "category": "AI",
+      "title": "Australia says it could follow Canada in forging deeper ties with EU",
+      "source": "Hacker News: Front Page",
+      "date": "Wed, 16 Sep 2026 22:56:48 +0000",
+      "summary": "Article URL: https://www.independent.co.uk/news/world/australasia/canda-eu-membership-australia-us-trade-b3050227.html\nComments URL: https://news.ycombinator.com/item?id=49734171\nPoints: 46\n# Comments: 7",
+      "url": "https://www.independent.co.uk/news/world/australasia/canda-eu-membership-australia-us-trade-b3050227.html"
+    },
+    {
+      "category": "AI",
+      "title": "Apple reportedly building server packed with M-series Ultra chips for AI",
+      "source": "Ars Technica - All content",
+      "date": "Wed, 16 Sep 2026 22:02:46 +0000",
+      "summary": "Planned 2029 debut could make this Apple’s first enterprise server in decades.",
+      "url": "https://arstechnica.com/ai/2026/09/apple-reportedly-building-server-packed-with-m-series-ultra-chips-for-ai/"
+    },
+    {
+      "category": "History",
+      "title": "From Roxbury to Exeter: The Evolution of a Revolutionary Song",
+      "source": "Journal of the American Revolution",
+      "date": "Wed, 16 Sep 2026 22:00:37 +0000",
+      "summary": "Revolutionary patriotic songs did not always remain fixed after entering circulation. Soldiers, civilians, and families copied and performed them in manuscripts and other informal settings, allowing their wording and content to change over time.[1] A small manuscript ledger kept in rural Exeter, Rhode Island, between approximately 1793 and 1798 preserves evidence of this process. Amid […]\nThe post From Roxbury to Exeter: The Evolution of a Revolutionary Song appeared first on Journal of the American Revolution.",
+      "url": "https://allthingsliberty.com/2026/09/from-roxbury-to-exeter-the-evolution-of-a-revolutionary-song/"
+    },
+    {
+      "category": "Space",
+      "title": " Space weather caused a 16-minute train delay in 1848: 'Our research has a hint of a detective story' ",
+      "source": " Latest from Space.com ",
+      "date": "Wed, 16 Sep 2026 22:00:00 +0000",
+      "summary": "A storm sent a surge of current through telegraph wires that caused a train on one of Britain's early railway lines to be delayed by 16 minutes.",
+      "url": "https://www.space.com/astronomy/sun/space-weather-caused-a-16-minute-train-delay-in-1848-our-research-has-a-hint-of-a-detective-story"
+    },
+    {
+      "category": "AI",
+      "title": "Epstein had huge cache of child sex pics; victims sue to find out who's in them",
+      "source": "Ars Technica - All content",
+      "date": "Wed, 16 Sep 2026 21:42:09 +0000",
+      "summary": "Survivors appalled nobody will tell them if they’re in Epstein’s CSAM collection.",
+      "url": "https://arstechnica.com/tech-policy/2026/09/lawsuit-trump-doj-notified-very-few-victims-in-epsteins-stash-of-child-sex-images/"
+    },
+    {
+      "category": "AI",
+      "title": "Nonprofit that tracks meteors taken down by \"critical blow\" from a cyberattack",
+      "source": "Ars Technica - All content",
+      "date": "Wed, 16 Sep 2026 21:08:14 +0000",
+      "summary": "Group plans to be largely out of commission for several weeks.",
+      "url": "https://arstechnica.com/security/2026/09/nonprofit-that-tracks-meteors-taken-down-by-critical-blow-from-a-cyberattack/"
+    },
+    {
+      "category": "Space",
+      "title": "Passion Meets Precision at NASA’s Flight Research Lab",
+      "source": "NASA",
+      "date": "Wed, 16 Sep 2026 21:06:08 +0000",
+      "summary": "Long before they helped shape NASA’s future aerospace breakthroughs, Derek Abramson, Justin Hall, and Justin Link were in their garages and homes building radio‑controlled aircraft, testing new ideas, and flying their creations at hobby events. That early passion now fuels the work of NASA’s Dale Reed Subscale Flight Research Laboratory at the agency’s Armstrong Flight […]",
+      "url": "https://www.nasa.gov/people-of-nasa/armstrong-people/passion-meets-precision-at-nasas-flight-research-lab/"
+    },
+    {
+      "category": "Space",
+      "title": " The battlefield now extends all the way to the moon, U.S. military's highest-ranking officer says ",
+      "source": " Latest from Space.com ",
+      "date": "Wed, 16 Sep 2026 21:00:00 +0000",
+      "summary": "The battlefield that the U.S. military must prepare for and excel in now extends from the seafloor all the way out to the moon, according to Gen. Dan Caine, chairman of the Joint Chiefs of Staff.",
+      "url": "https://www.space.com/technology/aerospace/the-battlefield-now-extends-all-the-way-to-the-moon-u-s-militarys-highest-ranking-officer-says"
+    },
+    {
+      "category": "AI",
+      "title": "Breaking the 1.58-bit Barrier for Ternary LLMs",
+      "source": "Hacker News: Front Page",
+      "date": "Wed, 16 Sep 2026 20:59:24 +0000",
+      "summary": "Article URL: https://arxiv.org/abs/2609.16338\nComments URL: https://news.ycombinator.com/item?id=49732931\nPoints: 110\n# Comments: 10",
+      "url": "https://arxiv.org/abs/2609.16338"
     },
     {
       "category": "Science",
-      "title": " Scientists finally figured out the temperature of T. rex's blood ‪— and it was as hot as ours ",
+      "title": " 1,700-year-old fragment of the 'Odyssey' discovered between pages of Dutch library book ",
       "source": " Latest from Live Science ",
-      "date": "Wed, 16 Sep 2026 18:00:00 +0000",
-      "summary": "Tooth analysis has revealed that the king of the dinosaurs was as warm-blooded as a human or an elephant",
-      "url": "https://www.livescience.com/animals/dinosaurs/scientists-finally-figured-out-the-temperature-of-t-rexs-blood-and-it-was-as-hot-as-ours"
+      "date": "Wed, 16 Sep 2026 20:12:40 +0000",
+      "summary": "The fragment is from Book 12, when Zeus curses Odysseus' men for killing and eating Helios' sacred cattle.",
+      "url": "https://www.livescience.com/archaeology/1-700-year-old-fragment-of-the-odyssey-discovered-between-pages-of-dutch-library-book"
+    },
+    {
+      "category": "Space",
+      "title": " SpaceX Falcon 9 rocket-landing team gets 1st-ever Neil Armstrong Space Prize ",
+      "source": " Latest from Space.com ",
+      "date": "Wed, 16 Sep 2026 20:00:00 +0000",
+      "summary": "The SpaceX Falcon 9 Booster Landing Team received the first-ever Neil Armstrong Space Prize during a ceremony in Washington, D.C. on Tuesday night (Sept. 15).",
+      "url": "https://www.space.com/space-exploration/spacex-falcon-9-rocket-landing-team-gets-1st-ever-neil-armstrong-space-prize"
+    },
+    {
+      "category": "Space",
+      "title": "NASA’s Moon Orbiter Spots New, ‘Once-in-Century’ Moon Crater",
+      "source": "NASA",
+      "date": "Wed, 16 Sep 2026 18:06:35 +0000",
+      "summary": "It started as a routine data-quality check. But as Robert Wagner, a scientist with NASA’s Lunar Reconnaissance Orbiter (LRO), scanned a giant Moon map on his computer screen, an unusually large bright spot circled by a dark halo caught his eye, as it implied that surface material in that area had been shaken up. “I […]",
+      "url": "https://science.nasa.gov/solar-system/moon/nasas-moon-orbiter-spots-new-once-in-century-moon-crater/"
     },
     {
       "category": "Science",
@@ -67,12 +139,12 @@
       "url": "https://www.livescience.com/archaeology/romans/new-trick-could-reveal-text-on-2-000-year-old-scrolls-charred-by-eruption-of-mount-vesuvius"
     },
     {
-      "category": "Space",
-      "title": " Roman Space Telescope starts waking up as NASA powers on instruments for the 1st time ",
-      "source": " Latest from Space.com ",
+      "category": "Science",
+      "title": " Scientists finally figured out the temperature of T. rex's blood ‪— and it was as hot as ours ",
+      "source": " Latest from Live Science ",
       "date": "Wed, 16 Sep 2026 18:00:00 +0000",
-      "summary": "NASA has begun flipping on the instruments aboard the Roman Space Telescope to prepare the observatory for its scientific mission as it travels nearly a million miles to its final destination in orbit.",
-      "url": "https://www.space.com/space-exploration/missions/roman-space-telescope-starts-waking-up-as-nasa-powers-on-instruments-for-the-1st-time"
+      "summary": "Tooth analysis has revealed that the king of the dinosaurs was as warm-blooded as a human or an elephant",
+      "url": "https://www.livescience.com/animals/dinosaurs/scientists-finally-figured-out-the-temperature-of-t-rexs-blood-and-it-was-as-hot-as-ours"
     },
     {
       "category": "History",
@@ -83,28 +155,12 @@
       "url": "https://allthingsliberty.com/2026/09/this-week-on-dispatches-davis-richardson-on-lafayette-jefferson-and-revolutionary-ideas/"
     },
     {
-      "category": "AI",
-      "title": "It’s OK to tell ICE their actions will haunt them, judge rules in speech fight",
-      "source": "Ars Technica - All content",
-      "date": "Wed, 16 Sep 2026 17:06:06 +0000",
-      "summary": "Man wins fight to block ICE threat over off-the-cuff angry email.",
-      "url": "https://arstechnica.com/tech-policy/2026/09/its-ok-to-tell-ice-their-actions-will-haunt-them-judge-rules-in-speech-fight/"
-    },
-    {
-      "category": "AI",
-      "title": "Iran strikes on Amazon data centers caused permanent loss of customer data",
-      "source": "Ars Technica - All content",
-      "date": "Wed, 16 Sep 2026 16:40:11 +0000",
-      "summary": "War damage to data centers exceeded what AWS services are designed to withstand.",
-      "url": "https://arstechnica.com/gadgets/2026/09/iran-strikes-on-amazon-data-centers-caused-permanent-loss-of-customer-data/"
-    },
-    {
       "category": "Space",
-      "title": " The universe's most extreme dead stars can form from vampire white dwarfs — and scientists finally know how ",
-      "source": " Latest from Space.com ",
-      "date": "Wed, 16 Sep 2026 16:00:00 +0000",
-      "summary": "Some vampire white dwarfs that feed on companion stars can transform into neutron stars, but like a cosmic Goldilocks, conditions must be \"just right\" for this extreme makeover.",
-      "url": "https://www.space.com/astronomy/stars/the-universes-most-extreme-dead-stars-can-form-from-vampire-white-dwarfs-and-scientists-finally-know-how"
+      "title": "NASA Celebrates Restoration of Guam Station Damaged by Typhoon Mawar ",
+      "source": "NASA",
+      "date": "Wed, 16 Sep 2026 16:12:01 +0000",
+      "summary": "NASA celebrated the full restoration of its Guam Remote Station with a ribbon-cutting on Sept. 10, closing out more than three years of recovery after Super Typhoon Mawar devastated the site in 2023. Engineers from across the agency completed the final and most complex step of the rebuild on July 1, when they returned the […]",
+      "url": "https://www.nasa.gov/technology/space-comms/nasa-celebrates-restoration-of-guam-station-damaged-by-typhoon-mawar/"
     },
     {
       "category": "AI",
@@ -113,30 +169,6 @@
       "date": "Wed, 16 Sep 2026 16:00:00 GMT",
       "summary": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.",
       "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life"
-    },
-    {
-      "category": "Science",
-      "title": " Was there a 'before' the Big Bang? Jim Al-Khalili on the mind-bogglingness of time ",
-      "source": " Latest from Live Science ",
-      "date": "Wed, 16 Sep 2026 15:56:08 +0000",
-      "summary": "In this excerpt from \"On Time: The Physics That Makes the Universe Tick,\" author and theoretical physicist Jim Al-Khalili examines the possibility of time starting before the Big Bang, with the cosmological theory of eternal inflation.",
-      "url": "https://www.livescience.com/physics-mathematics/was-there-a-before-the-big-bang-jim-al-khalili-on-the-mind-bogglingness-of-time"
-    },
-    {
-      "category": "AI",
-      "title": "What happens when neutrinos swap identities inside a supernova?",
-      "source": "Ars Technica - All content",
-      "date": "Wed, 16 Sep 2026 15:17:43 +0000",
-      "summary": "Identity-fluid particles may carry some energy out, leading to direct collapse.",
-      "url": "https://arstechnica.com/science/2026/09/what-happens-when-neutrinos-swap-identities-inside-a-supernova/"
-    },
-    {
-      "category": "Space",
-      "title": " On this day in space! Sept. 16, 1949: A US launch of a V-2 rocket explodes, killing its monkey passenger Albert III ",
-      "source": " Latest from Space.com ",
-      "date": "Wed, 16 Sep 2026 15:00:00 +0000",
-      "summary": "On Sept. 16, 1949, the U.S. launched a V-2 rocket with a monkey named Albert III on board. Here's how it happened and why it mattered.",
-      "url": "https://www.space.com/space-exploration/on-this-day-in-space-september-16-2026"
     },
     {
       "category": "Science",
@@ -163,6 +195,14 @@
       "url": "https://openai.com/index/reimagining-advertising-with-ai"
     },
     {
+      "category": "AI",
+      "title": "How to connect AI usage to business value",
+      "source": "OpenAI News",
+      "date": "Wed, 16 Sep 2026 12:00:00 GMT",
+      "summary": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.",
+      "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value"
+    },
+    {
       "category": "Science",
       "title": "Scientists “truly astonished” by discovery that challenges Earth’s origin story",
       "source": "All Top News -- ScienceDaily",
@@ -185,14 +225,6 @@
       "date": "Wed, 16 Sep 2026 10:00:37 +0000",
       "summary": "During routine conservation work at the Palazzone necropolis, outside of Perugia in central Italy, archaeologists made a fascinating discovery: a burial urn decorated with the […]\nThe post Medusa in an Etruscan Tomb appeared first on Biblical Archaeology Society.",
       "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-rome/medusa-etruscan-tomb/"
-    },
-    {
-      "category": "AI",
-      "title": "How workers are unlocking new ways of working",
-      "source": "OpenAI News",
-      "date": "Wed, 16 Sep 2026 09:00:00 GMT",
-      "summary": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.",
-      "url": "https://openai.com/index/unlocking-new-ways-of-working"
     },
     {
       "category": "Theology",
@@ -241,14 +273,6 @@
       "date": "Mon, 14 Sep 2026 20:53:38 +0000",
       "summary": "It seems the reason God gives pastors a job that is too big for one man is that he never intended for one man to do it alone!\nThe post Your People Need to Know the “Why” of Shifting to a Plurality of Elders appeared first on 9Marks.",
       "url": "https://www.9marks.org/article/your-people-need-to-know-the-why-of-shifting-to-a-plurality-of-elders/?utm_source=rss&utm_medium=rss&utm_campaign=your-people-need-to-know-the-why-of-shifting-to-a-plurality-of-elders"
-    },
-    {
-      "category": "History",
-      "title": "When the Declaration of Independence Was News",
-      "source": "Journal of the American Revolution",
-      "date": "Mon, 14 Sep 2026 14:54:20 +0000",
-      "summary": "BOOK REVIEW: When the Declaration of Independence Was News by Emily Sneff. (Oxford University Press, 2026) $29.99 hardcover Most accounts of the Declaration of Independence focus on the events leading up to the pivotal July 2, 1776, vote on independence. Taking a different tack, historian Emily Sneff, in a book based on her Ph.D. thesis, […]\nThe post When the Declaration of Independence Was News appeared first on Journal of the American Revolution.",
-      "url": "https://allthingsliberty.com/2026/09/when-the-declaration-of-independence-was-news/"
     },
     {
       "category": "Theology",
