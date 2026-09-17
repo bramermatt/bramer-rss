@@ -1,46 +1,150 @@
 {
-  "lastUpdated": "2026-09-16T23:59:34.319Z",
-  "articleCount": 39,
+  "lastUpdated": "2026-09-17T14:34:05.589Z",
+  "articleCount": 36,
   "articles": [
     {
       "category": "Science",
-      "title": "Long-term oyster reef restoration shows clear success in murky waters",
+      "title": "Temperature measurement error may cause climate-impact studies to understate impacts by 15% or more",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Wed, 16 Sep 2026 19:50:01 EDT",
-      "summary": "Large-scale oyster reef restoration in the Chesapeake Bay is successfully creating three-dimensional habitats that support larger, more diverse fish communities, according to new research from scientists at the University of Maryland, Baltimore County (UMBC), the Smithsonian Environmental Research Center and the National Oceanic and Atmospheric Administration (NOAA). The study, published in Ecosphere, provides compelling evidence that restoration efforts are shifting underwater ecosystems from communities dominated by small, transient schooling fish to those supporting larger, resident species.",
-      "url": "https://phys.org/news/2026-09-term-oyster-reef-success-murky.html"
+      "date": "Thu, 17 Sep 2026 10:20:06 EDT",
+      "summary": "When policymakers and city officials plan for climate change, they rely on economic studies showing how extreme heat affects violent crime, public health, energy grids and crop yields.",
+      "url": "https://phys.org/news/2026-09-temperature-error-climate-impact-understate.html"
     },
     {
       "category": "Science",
-      "title": "Device simulates natural conditions to grow biofilms and test their antibiotic susceptibility more accurately",
+      "title": "Beaver reintroduction improves peatland water storage and drought resilience",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Wed, 16 Sep 2026 19:40:05 EDT",
-      "summary": "Biofilms are complex microbial communities that adhere to a surface and encase themselves in a viscous matrix they produce. This structure protects bacteria from antibiotics and the immune system far more effectively than if they lived in a free-floating state, making biofilms one of the most common causes of hard-to-treat chronic infections—such as respiratory infections in people with cystic fibrosis and chronic obstructive pulmonary disease (COPD), chronic wounds, or infections associated with catheters and prosthetic devices. Added to this is the global rise in antibiotic resistance, which makes it increasingly urgent to have tools capable of predicting which treatment will work in each case.",
-      "url": "https://phys.org/news/2026-09-device-simulates-natural-conditions-biofilms.html"
+      "date": "Thu, 17 Sep 2026 10:20:01 EDT",
+      "summary": "A study led by a doctoral researcher at the University of Liverpool has found that beavers may help restore degraded peatlands by keeping landscapes wetter and making them more resilient to drought.",
+      "url": "https://phys.org/news/2026-09-beaver-reintroduction-peatland-storage-drought.html"
     },
     {
       "category": "Science",
-      "title": "Hot electrons reveal electronic collisions may raise resistance in twisted graphene",
+      "title": "Is dark matter 'natural?' Physicist puts the question to the test",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Wed, 16 Sep 2026 19:40:01 EDT",
-      "summary": "When a material heats up, its electrical resistance often rises. The harder question is what, exactly, is getting in the way. The electrons carrying the current may be scattered by vibrations of the material's atomic lattice, known as phonons. They may also collide with one another. Frustratingly, a conventional temperature test warms the electrons and the lattice together, so the effects arrive tangled in the same resistance measurement.",
-      "url": "https://phys.org/news/2026-09-hot-electrons-reveal-electronic-collisions.html"
+      "date": "Thu, 17 Sep 2026 10:10:01 EDT",
+      "summary": "Dark matter is one of the oldest open problems in physics. It makes up most of the matter in the universe and shapes how galaxies form and move, yet no one has ever directly detected it. Physicists have proposed dozens of candidates to explain it: exotic new particles, black holes formed moments after the Big Bang and more.",
+      "url": "https://phys.org/news/2026-09-dark-natural-physicist.html"
+    },
+    {
+      "category": "Science",
+      "title": " 1,000-year-old 'snake amulet' featuring a Christian saint and 'Medusa' discovered in Russia ",
+      "source": " Latest from Live Science ",
+      "date": "Thu, 17 Sep 2026 13:59:01 +0000",
+      "summary": "Archaeologists discovered the two-sided pendant, which features a snake-slaying saint and a snake-haired woman, during an excavation in northwestern Russia.",
+      "url": "https://www.livescience.com/archaeology/1-000-year-old-snake-amulet-featuring-a-christian-saint-and-medusa-discovered-in-russia"
     },
     {
       "category": "AI",
-      "title": "OpenSpec – A lightweight and configurable AI spec framework",
+      "title": "Canada welcomes EU proposal to become 'associate member'",
       "source": "Hacker News: Front Page",
-      "date": "Wed, 16 Sep 2026 23:06:39 +0000",
-      "summary": "Article URL: https://openspec.dev/\nComments URL: https://news.ycombinator.com/item?id=49734264\nPoints: 22\n# Comments: 3",
-      "url": "https://openspec.dev/"
+      "date": "Thu, 17 Sep 2026 13:30:37 +0000",
+      "summary": "Article URL: https://www.bbc.com/news/articles/cwly7vkke4jxo\nComments URL: https://news.ycombinator.com/item?id=49740507\nPoints: 130\n# Comments: 87",
+      "url": "https://www.bbc.com/news/articles/cwly7vkke4jxo"
     },
     {
       "category": "AI",
-      "title": "Australia says it could follow Canada in forging deeper ties with EU",
+      "title": "I had Gemini train its own replacement for $9",
       "source": "Hacker News: Front Page",
-      "date": "Wed, 16 Sep 2026 22:56:48 +0000",
-      "summary": "Article URL: https://www.independent.co.uk/news/world/australasia/canda-eu-membership-australia-us-trade-b3050227.html\nComments URL: https://news.ycombinator.com/item?id=49734171\nPoints: 46\n# Comments: 7",
-      "url": "https://www.independent.co.uk/news/world/australasia/canda-eu-membership-australia-us-trade-b3050227.html"
+      "date": "Thu, 17 Sep 2026 13:17:16 +0000",
+      "summary": "Article URL: https://www.petervijeh.com/projects/reddit-ner\nComments URL: https://news.ycombinator.com/item?id=49740330\nPoints: 34\n# Comments: 9",
+      "url": "https://www.petervijeh.com/projects/reddit-ner"
+    },
+    {
+      "category": "AI",
+      "title": "The American Religion of Self-Storage Facilities",
+      "source": "Hacker News: Front Page",
+      "date": "Thu, 17 Sep 2026 13:12:28 +0000",
+      "summary": "Article URL: https://www.newyorker.com/magazine/2026/09/21/the-american-religion-of-self-storage-facilities\nComments URL: https://news.ycombinator.com/item?id=49740260\nPoints: 45\n# Comments: 35",
+      "url": "https://www.newyorker.com/magazine/2026/09/21/the-american-religion-of-self-storage-facilities"
+    },
+    {
+      "category": "Science",
+      "title": "Astronomers just found the youngest known planet ever",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Thu, 17 Sep 2026 09:00:19 EDT",
+      "summary": "Astronomers have confirmed a Jupiter-size planet less than a million years old, making Elias 2-24 b the youngest known planet and giving scientists a rare look at a world still being born. Its surprisingly rapid formation challenges leading theories about how giant planets come together, especially so far from their stars.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260917003712.htm"
+    },
+    {
+      "category": "Science",
+      "title": "JWST’s mysterious little red dots may be black holes growing at incredible speeds",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Thu, 17 Sep 2026 08:45:48 EDT",
+      "summary": "New supercomputer simulations suggest JWST’s puzzling Little Red Dots are rapidly growing black holes from the early Universe. Extreme radiation may have helped create unusually massive black hole seeds, while dense surrounding gas allowed them to grow dozens of times faster than black holes can today. The simulated objects closely resemble the Little Red Dots seen by Webb. If correct, they could solve the mystery of how enormous black holes formed so soon after the Big Bang.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260917003703.htm"
+    },
+    {
+      "category": "Science",
+      "title": " 'At some point we're going to have to react': How El Niño, climate change, and crime are pushing the Amazon rainforest over the brink ",
+      "source": " Latest from Live Science ",
+      "date": "Thu, 17 Sep 2026 12:40:08 +0000",
+      "summary": "Live Science spoke with Amazon researcher Bernardo Flores about how El Niño could help drive Earth's largest tropical rainforest past a globe-altering tipping point.",
+      "url": "https://www.livescience.com/planet-earth/climate-change/at-some-point-were-going-to-have-to-react-how-el-nino-climate-change-and-crime-are-pushing-the-amazon-rainforest-over-the-brink"
+    },
+    {
+      "category": "Biblical Studies",
+      "title": "The Epic of Gilgamesh",
+      "source": "Biblical Archaeology Society",
+      "date": "Thu, 17 Sep 2026 11:00:32 +0000",
+      "summary": "The Epic of Gilgamesh is an ancient Mesopotamian literary work that tells a fantastic story of King Gilgamesh’s failed quest for immortality. Set in early […]\nThe post The Epic of Gilgamesh appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/daily/the-epic-of-gilgamesh/"
+    },
+    {
+      "category": "Biblical Studies",
+      "title": "First Person: Misogyny in the Bible",
+      "source": "Biblical Archaeology Society",
+      "date": "Thu, 17 Sep 2026 11:00:31 +0000",
+      "summary": "According to scholar Christopher Rollston, there are many examples of the marginalization of women in the Bible. \nThe post First Person: Misogyny in the Bible appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/daily/biblical-topics/bible-interpretation/first-person-misogyny-in-the-bible/"
+    },
+    {
+      "category": "Space",
+      "title": "APOD: 2026 September 17 – A Treasure Chest in the Carina Nebula",
+      "source": "NASA",
+      "date": "Thu, 17 Sep 2026 04:05:00 +0000",
+      "summary": "APOD Science APOD APOD: 2026 September 17 – A… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. A Treasure […]",
+      "url": "https://science.nasa.gov/image-article/apod-2026-september-17-a-treasure-chest-in-the-carina-nebula/"
+    },
+    {
+      "category": "Theology",
+      "title": "Why Kids’ Books Matter (with Jen Wilkin)",
+      "source": "The Gospel Coalition",
+      "date": "Thu, 17 Sep 2026 04:04:17 +0000",
+      "summary": "Melissa and Courtney talk with Jen Wilkin about their mutual love of children’s books and why reading to children can be a key part of discipleship (as well as a delight!).",
+      "url": "https://www.thegospelcoalition.org/podcasts/deep-dish/kids-books-matter/"
+    },
+    {
+      "category": "Science",
+      "title": "NASA’s New Horizons spots signs of liquid nitrogen flowing on Pluto",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Thu, 17 Sep 2026 00:02:29 EDT",
+      "summary": "Scientists have found the first evidence that liquid may have flowed across Pluto’s surface in the recent past. Dark features on the enormous Sputnik Planitia glacier appear consistent with liquid nitrogen rising through cracks from deep beneath the ice. Computer models show that nitrogen could melt at the glacier’s base and travel upward like fluid through small conduits. The finding reveals that Pluto may be much more geologically active than its frozen appearance suggests.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260916232525.htm"
+    },
+    {
+      "category": "Theology",
+      "title": "Live, Laugh, Love, and Blame Christian Women",
+      "source": "The Gospel Coalition",
+      "date": "Thu, 17 Sep 2026 04:02:00 +0000",
+      "summary": "In her attempt to offer a definitive account of how the evangelical subculture’s feminine elements caused the rise of Trump and Christian nationalism, Du Mez tells us more about her political preferences than about the history of evangelicalism.",
+      "url": "https://www.thegospelcoalition.org/reviews/live-laugh-love-influencer/"
+    },
+    {
+      "category": "Space",
+      "title": "Summer Goes Out With a Heat Dome",
+      "source": "NASA",
+      "date": "Thu, 17 Sep 2026 04:01:00 +0000",
+      "summary": "Temperature records toppled across the central and southern U.S. as the autumnal equinox approached.",
+      "url": "https://science.nasa.gov/earth/earth-observatory/summer-goes-out-with-a-heat-dome/"
+    },
+    {
+      "category": "Theology",
+      "title": "How Privatized Spirituality Makes Us Lonely",
+      "source": "The Gospel Coalition",
+      "date": "Thu, 17 Sep 2026 04:00:00 +0000",
+      "summary": "When radical individualism takes over spirituality, it leaves people confused, anxious, and alone. But the church has something better to offer.",
+      "url": "https://www.thegospelcoalition.org/article/privatized-spirituality-lonely/"
     },
     {
       "category": "AI",
@@ -57,14 +161,6 @@
       "date": "Wed, 16 Sep 2026 22:00:37 +0000",
       "summary": "Revolutionary patriotic songs did not always remain fixed after entering circulation. Soldiers, civilians, and families copied and performed them in manuscripts and other informal settings, allowing their wording and content to change over time.[1] A small manuscript ledger kept in rural Exeter, Rhode Island, between approximately 1793 and 1798 preserves evidence of this process. Amid […]\nThe post From Roxbury to Exeter: The Evolution of a Revolutionary Song appeared first on Journal of the American Revolution.",
       "url": "https://allthingsliberty.com/2026/09/from-roxbury-to-exeter-the-evolution-of-a-revolutionary-song/"
-    },
-    {
-      "category": "Space",
-      "title": " Space weather caused a 16-minute train delay in 1848: 'Our research has a hint of a detective story' ",
-      "source": " Latest from Space.com ",
-      "date": "Wed, 16 Sep 2026 22:00:00 +0000",
-      "summary": "A storm sent a surge of current through telegraph wires that caused a train on one of Britain's early railway lines to be delayed by 16 minutes.",
-      "url": "https://www.space.com/astronomy/sun/space-weather-caused-a-16-minute-train-delay-in-1848-our-research-has-a-hint-of-a-detective-story"
     },
     {
       "category": "AI",
@@ -91,60 +187,12 @@
       "url": "https://www.nasa.gov/people-of-nasa/armstrong-people/passion-meets-precision-at-nasas-flight-research-lab/"
     },
     {
-      "category": "Space",
-      "title": " The battlefield now extends all the way to the moon, U.S. military's highest-ranking officer says ",
-      "source": " Latest from Space.com ",
-      "date": "Wed, 16 Sep 2026 21:00:00 +0000",
-      "summary": "The battlefield that the U.S. military must prepare for and excel in now extends from the seafloor all the way out to the moon, according to Gen. Dan Caine, chairman of the Joint Chiefs of Staff.",
-      "url": "https://www.space.com/technology/aerospace/the-battlefield-now-extends-all-the-way-to-the-moon-u-s-militarys-highest-ranking-officer-says"
-    },
-    {
-      "category": "AI",
-      "title": "Breaking the 1.58-bit Barrier for Ternary LLMs",
-      "source": "Hacker News: Front Page",
-      "date": "Wed, 16 Sep 2026 20:59:24 +0000",
-      "summary": "Article URL: https://arxiv.org/abs/2609.16338\nComments URL: https://news.ycombinator.com/item?id=49732931\nPoints: 110\n# Comments: 10",
-      "url": "https://arxiv.org/abs/2609.16338"
-    },
-    {
       "category": "Science",
-      "title": " 1,700-year-old fragment of the 'Odyssey' discovered between pages of Dutch library book ",
+      "title": " 1,700-year-old fragment of the 'Odyssey' discovered in Dutch library ",
       "source": " Latest from Live Science ",
       "date": "Wed, 16 Sep 2026 20:12:40 +0000",
-      "summary": "The fragment is from Book 12, when Zeus curses Odysseus' men for killing and eating Helios' sacred cattle.",
+      "summary": "An expert in ancient Greek literature identified a fragment of the \"Odyssey\" among a collection of manuscripts in a Dutch university library.",
       "url": "https://www.livescience.com/archaeology/1-700-year-old-fragment-of-the-odyssey-discovered-between-pages-of-dutch-library-book"
-    },
-    {
-      "category": "Space",
-      "title": " SpaceX Falcon 9 rocket-landing team gets 1st-ever Neil Armstrong Space Prize ",
-      "source": " Latest from Space.com ",
-      "date": "Wed, 16 Sep 2026 20:00:00 +0000",
-      "summary": "The SpaceX Falcon 9 Booster Landing Team received the first-ever Neil Armstrong Space Prize during a ceremony in Washington, D.C. on Tuesday night (Sept. 15).",
-      "url": "https://www.space.com/space-exploration/spacex-falcon-9-rocket-landing-team-gets-1st-ever-neil-armstrong-space-prize"
-    },
-    {
-      "category": "Space",
-      "title": "NASA’s Moon Orbiter Spots New, ‘Once-in-Century’ Moon Crater",
-      "source": "NASA",
-      "date": "Wed, 16 Sep 2026 18:06:35 +0000",
-      "summary": "It started as a routine data-quality check. But as Robert Wagner, a scientist with NASA’s Lunar Reconnaissance Orbiter (LRO), scanned a giant Moon map on his computer screen, an unusually large bright spot circled by a dark halo caught his eye, as it implied that surface material in that area had been shaken up. “I […]",
-      "url": "https://science.nasa.gov/solar-system/moon/nasas-moon-orbiter-spots-new-once-in-century-moon-crater/"
-    },
-    {
-      "category": "Science",
-      "title": " New trick could reveal text on 2,000-year-old scrolls charred by eruption of Mount Vesuvius ",
-      "source": " Latest from Live Science ",
-      "date": "Wed, 16 Sep 2026 18:00:00 +0000",
-      "summary": "Using X-ray technologies and custom-made software, researchers were able to read text they wrote on a fake ancient scroll designed to mimic those destroyed at Herculaneum in A.D. 79.",
-      "url": "https://www.livescience.com/archaeology/romans/new-trick-could-reveal-text-on-2-000-year-old-scrolls-charred-by-eruption-of-mount-vesuvius"
-    },
-    {
-      "category": "Science",
-      "title": " Scientists finally figured out the temperature of T. rex's blood ‪— and it was as hot as ours ",
-      "source": " Latest from Live Science ",
-      "date": "Wed, 16 Sep 2026 18:00:00 +0000",
-      "summary": "Tooth analysis has revealed that the king of the dinosaurs was as warm-blooded as a human or an elephant",
-      "url": "https://www.livescience.com/animals/dinosaurs/scientists-finally-figured-out-the-temperature-of-t-rexs-blood-and-it-was-as-hot-as-ours"
     },
     {
       "category": "History",
@@ -155,36 +203,12 @@
       "url": "https://allthingsliberty.com/2026/09/this-week-on-dispatches-davis-richardson-on-lafayette-jefferson-and-revolutionary-ideas/"
     },
     {
-      "category": "Space",
-      "title": "NASA Celebrates Restoration of Guam Station Damaged by Typhoon Mawar ",
-      "source": "NASA",
-      "date": "Wed, 16 Sep 2026 16:12:01 +0000",
-      "summary": "NASA celebrated the full restoration of its Guam Remote Station with a ribbon-cutting on Sept. 10, closing out more than three years of recovery after Super Typhoon Mawar devastated the site in 2023. Engineers from across the agency completed the final and most complex step of the rebuild on July 1, when they returned the […]",
-      "url": "https://www.nasa.gov/technology/space-comms/nasa-celebrates-restoration-of-guam-station-damaged-by-typhoon-mawar/"
-    },
-    {
       "category": "AI",
       "title": "Helping older adults use AI in everyday life",
       "source": "OpenAI News",
       "date": "Wed, 16 Sep 2026 16:00:00 GMT",
       "summary": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.",
       "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life"
-    },
-    {
-      "category": "Science",
-      "title": "Scientists find an immune “false alarm” that may drive rapid aging",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Wed, 16 Sep 2026 10:05:35 EDT",
-      "summary": "Scientists have discovered that some severe genetic disorders linked to rapid aging may be driven not just by damaged DNA, but by the body’s overreaction to that damage. When broken DNA fragments leak into the wrong part of a cell, an immune sensor called cGAS can mistake them for signs of a viral infection, triggering chronic inflammation and even interfering with DNA repair itself.",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260915232130.htm"
-    },
-    {
-      "category": "Science",
-      "title": "A 240-million-year-old fossil just changed the dinosaur timeline",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Wed, 16 Sep 2026 09:48:08 EDT",
-      "summary": "A newly identified 240-million-year-old animal from Tanzania is forcing scientists to rethink the early dinosaur timeline. Dinodontosaurus isiyavamanda belongs to a group previously known only from South America, linking fossil deposits on the two continents. That connection suggests Tanzania’s supposed oldest dinosaur fossils may actually be millions of years younger than previously thought.",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260915232128.htm"
     },
     {
       "category": "AI",
@@ -203,14 +227,6 @@
       "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value"
     },
     {
-      "category": "Science",
-      "title": "Scientists “truly astonished” by discovery that challenges Earth’s origin story",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Wed, 16 Sep 2026 07:03:10 EDT",
-      "summary": "A new study suggests Earth formed almost entirely from material in the inner Solar System, challenging the idea that water-rich material from beyond Jupiter played a major role. If correct, Earth’s water may have been present much closer to the young Sun than scientists previously thought.",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260915232132.htm"
-    },
-    {
       "category": "Biblical Studies",
       "title": "Four Early Rabbis You Should Know",
       "source": "Biblical Archaeology Society",
@@ -219,52 +235,12 @@
       "url": "https://www.biblicalarchaeology.org/daily/biblical-topics/bible-interpretation/four-early-rabbis-you-should-know/"
     },
     {
-      "category": "Biblical Studies",
-      "title": "Medusa in an Etruscan Tomb",
-      "source": "Biblical Archaeology Society",
-      "date": "Wed, 16 Sep 2026 10:00:37 +0000",
-      "summary": "During routine conservation work at the Palazzone necropolis, outside of Perugia in central Italy, archaeologists made a fascinating discovery: a burial urn decorated with the […]\nThe post Medusa in an Etruscan Tomb appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-rome/medusa-etruscan-tomb/"
-    },
-    {
-      "category": "Theology",
-      "title": "Why We Said ‘No’ to IVF and ‘Yes’ to Embryo Adoption",
-      "source": "The Gospel Coalition",
-      "date": "Wed, 16 Sep 2026 04:02:00 +0000",
-      "summary": "I spent my last year of seminary researching infertility and in vitro fertilization. Two years later, it suddenly applied to my own life. I was—and wasn’t—prepared.",
-      "url": "https://www.thegospelcoalition.org/article/no-ivf-yes-embryo-adoption/"
-    },
-    {
-      "category": "Theology",
-      "title": "C. S. Lewis’s Overlooked Apologetics Strategy",
-      "source": "The Gospel Coalition",
-      "date": "Wed, 16 Sep 2026 04:00:00 +0000",
-      "summary": "C. S. Lewis proposed a new path of apologetics as ‘the first step’ toward turning modern minds in the direction of Christian faith.",
-      "url": "https://www.thegospelcoalition.org/article/overlooked-apologetics-strategy/"
-    },
-    {
-      "category": "Biblical Studies",
-      "title": "The Church of Laodicea in the Bible and Archaeology",
-      "source": "Biblical Archaeology Society",
-      "date": "Tue, 15 Sep 2026 11:00:57 +0000",
-      "summary": "Laodicea was a wealthy city in western Turkey that flourished for centuries. Why does the author of the Book of Revelation call the church of Laodicea “lukewarm”—neither hot nor cold? Recent excavations at the site might provide the answer. \nThe post The Church of Laodicea in the Bible and Archaeology appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/daily/biblical-sites-places/biblical-archaeology-sites/church-of-laodicea-in-the-bible-and-archaeology/"
-    },
-    {
       "category": "History",
       "title": "An Irruption into Canada: The Planned Winter Campaign of 1778",
       "source": "Journal of the American Revolution",
       "date": "Tue, 15 Sep 2026 09:00:00 +0000",
       "summary": "Just a few months after the Revolutionary War began, Congress authorized the invasion of Canada. After some initial success, the invading forces were defeated at the Battle of Quebec in December 1775 and were forced out of Canada entirely the following June. Despite this failure, many still expected Canada to join the union as the […]\nThe post An Irruption into Canada: The Planned Winter Campaign of 1778 appeared first on Journal of the American Revolution.",
       "url": "https://allthingsliberty.com/2026/09/an-irruption-into-canada-the-planned-winter-campaign-of-1778/"
-    },
-    {
-      "category": "Theology",
-      "title": "AI: Empire or Infinity Machine?",
-      "source": "The Gospel Coalition",
-      "date": "Tue, 15 Sep 2026 04:03:00 +0000",
-      "summary": "Both books have the same secret sauce. They’re marvelously readable, and often gripping, for the simple reason that they tell a fantastic story.",
-      "url": "https://www.thegospelcoalition.org/reviews/empire-infinity-machine/"
     },
     {
       "category": "Theology",
