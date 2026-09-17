@@ -1,30 +1,62 @@
 {
-  "lastUpdated": "2026-09-17T19:26:56.309Z",
+  "lastUpdated": "2026-09-17T23:49:58.886Z",
   "articleCount": 36,
   "articles": [
     {
       "category": "Science",
-      "title": "Tons of fishing gear and plastic are washing up on Seychelles beaches. We tracked where it was coming from",
+      "title": "A finely tuned mess—how disorder can make networks more stable",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Thu, 17 Sep 2026 15:20:22 EDT",
-      "summary": "Vast quantities of plastic and fishing gear are washing up along the shores of the Seychelles, destroying fragile ecosystems and causing significant economic problems.",
-      "url": "https://phys.org/news/2026-09-tons-fishing-gear-plastic-seychelles.html"
+      "date": "Thu, 17 Sep 2026 19:40:04 EDT",
+      "summary": "Perfection is overrated—at least when it comes to complex systems like the power grid, food webs and advanced materials. For decades, scientists generally assumed that networks function most reliably when their individual components are as similar as possible. But real-world networks are rarely uniform.",
+      "url": "https://phys.org/news/2026-09-finely-tuned-mess-disorder-networks.html"
     },
     {
       "category": "Science",
-      "title": "Two spike 'keys' work together to let SARS-CoV-2 enter cells, study reveals",
+      "title": "Developing new asymmetric catalytic reactions for the synthesis of complex molecules",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Thu, 17 Sep 2026 15:20:13 EDT",
-      "summary": "To enter cells, the COVID-19 virus fuses its surrounding membrane with the membrane of the target cell. This is where the fusion peptides of the spike protein come into play. These regions function as molecular keys that allow the virus to open the door to the target cell and initiate fusion between the two membranes.",
-      "url": "https://phys.org/news/2026-09-spike-keys-sars-cov-cells.html"
+      "date": "Thu, 17 Sep 2026 19:40:01 EDT",
+      "summary": "Do Hyun Ryu's research team in the Department of Chemistry at Sungkyunkwan University (SKKU) has developed two new asymmetric catalytic methods for the precise synthesis of complex molecules using chiral organic catalysts.",
+      "url": "https://phys.org/news/2026-09-asymmetric-catalytic-reactions-synthesis-complex.html"
     },
     {
       "category": "Science",
-      "title": "Activated learning-and-memory protein forms growing molecular chains, imaging reveals",
+      "title": "Report on global water resources: Worldwide continents are drying up",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Thu, 17 Sep 2026 15:10:05 EDT",
-      "summary": "Researchers at the Nano Life Science Institute (WPI-NanoLSI) at Kanazawa University, Kyoto University, SOKENDAI and the National Institute for Physiological Sciences have revealed how CaMKIIα—a key brain protein involved in learning and memory—organizes itself into chain-like structures.",
-      "url": "https://phys.org/news/2026-09-memory-protein-molecular-chains-imaging.html"
+      "date": "Thu, 17 Sep 2026 19:20:05 EDT",
+      "summary": "The global water cycle is becoming increasingly unbalanced. Extreme droughts and floods are the result. This is shown in this year's report by the World Meteorological Organization (WMO) on the state of global water resources, \"State of Global Water Resources 2025,\" which was published today.",
+      "url": "https://phys.org/news/2026-09-global-resources-worldwide-continents-drying.html"
+    },
+    {
+      "category": "AI",
+      "title": "How to Write with an LLM",
+      "source": "Hacker News: Front Page",
+      "date": "Thu, 17 Sep 2026 21:48:38 +0000",
+      "summary": "Article URL: https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/\nComments URL: https://news.ycombinator.com/item?id=49747070\nPoints: 35\n# Comments: 20",
+      "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/"
+    },
+    {
+      "category": "AI",
+      "title": "Sex, AI, and the Apocalypse",
+      "source": "Hacker News: Front Page",
+      "date": "Thu, 17 Sep 2026 21:15:52 +0000",
+      "summary": "Article URL: https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/\nComments URL: https://news.ycombinator.com/item?id=49746654\nPoints: 90\n# Comments: 60",
+      "url": "https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/"
+    },
+    {
+      "category": "AI",
+      "title": "How Uber Protects Against Retry Storms",
+      "source": "Hacker News: Front Page",
+      "date": "Thu, 17 Sep 2026 21:14:32 +0000",
+      "summary": "Article URL: https://www.uber.com/us/en/blog/protecting-against-retry-storms/\nComments URL: https://news.ycombinator.com/item?id=49746628\nPoints: 18\n# Comments: 9",
+      "url": "https://www.uber.com/us/en/blog/protecting-against-retry-storms/"
+    },
+    {
+      "category": "Space",
+      "title": "NASA Awards Launch Services for StarBurst Gamma-Ray Detector",
+      "source": "NASA",
+      "date": "Thu, 17 Sep 2026 20:37:09 +0000",
+      "summary": "NASA has selected SpaceX to provide launch services for the agency’s StarBurst mission, a small satellite designed to investigate neutron star mergers and the origins of short gamma-ray bursts. StarBurst will launch aboard a Bandwagon rideshare mission on a Falcon 9 rocket from Space Launch Complex 40 at Cape Canaveral Space Force Station in Florida […]",
+      "url": "https://www.nasa.gov/news-release/nasa-awards-launch-services-for-starburst-gamma-ray-detector/"
     },
     {
       "category": "Space",
@@ -51,36 +83,12 @@
       "url": "https://www.livescience.com/health/cancer/scientists-identify-rare-genetic-mutation-that-dramatically-raises-risk-of-lung-cancer-in-nonsmokers"
     },
     {
-      "category": "AI",
-      "title": "Don't Make Job Referrals Public",
-      "source": "Hacker News: Front Page",
-      "date": "Thu, 17 Sep 2026 18:16:38 +0000",
-      "summary": "Article URL: https://blog.melashri.net/micro/public-job-referral/\nComments URL: https://news.ycombinator.com/item?id=49744530\nPoints: 7\n# Comments: 0",
-      "url": "https://blog.melashri.net/micro/public-job-referral/"
-    },
-    {
       "category": "Science",
       "title": " This million-year-old 'baby planet' is the youngest world scientists have ever discovered ",
       "source": " Latest from Live Science ",
       "date": "Thu, 17 Sep 2026 18:10:12 +0000",
       "summary": "Astronomers have confirmed a large exoplanet is forming in the cloud of debris around a young star. At less than a million years old, it's the youngest exoplanet found so far.",
       "url": "https://www.livescience.com/space/exoplanets/this-million-year-old-baby-planet-is-the-youngest-world-scientists-have-ever-discovered"
-    },
-    {
-      "category": "AI",
-      "title": "Stallman: Thousands Dead, Millions Deprived of Liberties (2001)",
-      "source": "Hacker News: Front Page",
-      "date": "Thu, 17 Sep 2026 17:20:14 +0000",
-      "summary": "Article URL: https://news.slashdot.org/story/01/09/17/1758231/stallman-thousands-dead-millions-deprived-of-liberties\nComments URL: https://news.ycombinator.com/item?id=49743756\nPoints: 79\n# Comments: 25",
-      "url": "https://news.slashdot.org/story/01/09/17/1758231/stallman-thousands-dead-millions-deprived-of-liberties"
-    },
-    {
-      "category": "AI",
-      "title": "Economic policy for AGI",
-      "source": "Hacker News: Front Page",
-      "date": "Thu, 17 Sep 2026 17:12:51 +0000",
-      "summary": "Article URL: https://institute.deepmind.com/essays/economic-policy-for-agi/\nComments URL: https://news.ycombinator.com/item?id=49743685\nPoints: 32\n# Comments: 24",
-      "url": "https://institute.deepmind.com/essays/economic-policy-for-agi/"
     },
     {
       "category": "Space",
@@ -131,14 +139,6 @@
       "url": "https://www.biblicalarchaeology.org/daily/biblical-topics/bible-interpretation/first-person-misogyny-in-the-bible/"
     },
     {
-      "category": "Space",
-      "title": "APOD: 2026 September 17 – A Treasure Chest in the Carina Nebula",
-      "source": "NASA",
-      "date": "Thu, 17 Sep 2026 04:05:00 +0000",
-      "summary": "APOD Science APOD APOD: 2026 September 17 – A… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. A Treasure […]",
-      "url": "https://science.nasa.gov/image-article/apod-2026-september-17-a-treasure-chest-in-the-carina-nebula/"
-    },
-    {
       "category": "Theology",
       "title": "Why Kids’ Books Matter (with Jen Wilkin)",
       "source": "The Gospel Coalition",
@@ -161,6 +161,14 @@
       "date": "Thu, 17 Sep 2026 04:00:00 +0000",
       "summary": "When radical individualism takes over spirituality, it leaves people confused, anxious, and alone. But the church has something better to offer.",
       "url": "https://www.thegospelcoalition.org/article/privatized-spirituality-lonely/"
+    },
+    {
+      "category": "AI",
+      "title": "Introducing Astra for Law",
+      "source": "OpenAI News",
+      "date": "Thu, 17 Sep 2026 00:00:00 GMT",
+      "summary": "OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work.",
+      "url": "https://openai.com/index/astra-for-law"
     },
     {
       "category": "AI",
@@ -217,14 +225,6 @@
       "date": "Wed, 16 Sep 2026 13:00:00 GMT",
       "summary": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
       "url": "https://openai.com/index/reimagining-advertising-with-ai"
-    },
-    {
-      "category": "AI",
-      "title": "How to connect AI usage to business value",
-      "source": "OpenAI News",
-      "date": "Wed, 16 Sep 2026 12:00:00 GMT",
-      "summary": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.",
-      "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value"
     },
     {
       "category": "Biblical Studies",
