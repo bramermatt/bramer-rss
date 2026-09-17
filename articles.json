@@ -1,62 +1,102 @@
 {
-  "lastUpdated": "2026-09-17T14:34:05.589Z",
+  "lastUpdated": "2026-09-17T19:26:56.309Z",
   "articleCount": 36,
   "articles": [
     {
       "category": "Science",
-      "title": "Temperature measurement error may cause climate-impact studies to understate impacts by 15% or more",
+      "title": "Tons of fishing gear and plastic are washing up on Seychelles beaches. We tracked where it was coming from",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Thu, 17 Sep 2026 10:20:06 EDT",
-      "summary": "When policymakers and city officials plan for climate change, they rely on economic studies showing how extreme heat affects violent crime, public health, energy grids and crop yields.",
-      "url": "https://phys.org/news/2026-09-temperature-error-climate-impact-understate.html"
+      "date": "Thu, 17 Sep 2026 15:20:22 EDT",
+      "summary": "Vast quantities of plastic and fishing gear are washing up along the shores of the Seychelles, destroying fragile ecosystems and causing significant economic problems.",
+      "url": "https://phys.org/news/2026-09-tons-fishing-gear-plastic-seychelles.html"
     },
     {
       "category": "Science",
-      "title": "Beaver reintroduction improves peatland water storage and drought resilience",
+      "title": "Two spike 'keys' work together to let SARS-CoV-2 enter cells, study reveals",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Thu, 17 Sep 2026 10:20:01 EDT",
-      "summary": "A study led by a doctoral researcher at the University of Liverpool has found that beavers may help restore degraded peatlands by keeping landscapes wetter and making them more resilient to drought.",
-      "url": "https://phys.org/news/2026-09-beaver-reintroduction-peatland-storage-drought.html"
+      "date": "Thu, 17 Sep 2026 15:20:13 EDT",
+      "summary": "To enter cells, the COVID-19 virus fuses its surrounding membrane with the membrane of the target cell. This is where the fusion peptides of the spike protein come into play. These regions function as molecular keys that allow the virus to open the door to the target cell and initiate fusion between the two membranes.",
+      "url": "https://phys.org/news/2026-09-spike-keys-sars-cov-cells.html"
     },
     {
       "category": "Science",
-      "title": "Is dark matter 'natural?' Physicist puts the question to the test",
+      "title": "Activated learning-and-memory protein forms growing molecular chains, imaging reveals",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Thu, 17 Sep 2026 10:10:01 EDT",
-      "summary": "Dark matter is one of the oldest open problems in physics. It makes up most of the matter in the universe and shapes how galaxies form and move, yet no one has ever directly detected it. Physicists have proposed dozens of candidates to explain it: exotic new particles, black holes formed moments after the Big Bang and more.",
-      "url": "https://phys.org/news/2026-09-dark-natural-physicist.html"
+      "date": "Thu, 17 Sep 2026 15:10:05 EDT",
+      "summary": "Researchers at the Nano Life Science Institute (WPI-NanoLSI) at Kanazawa University, Kyoto University, SOKENDAI and the National Institute for Physiological Sciences have revealed how CaMKIIα—a key brain protein involved in learning and memory—organizes itself into chain-like structures.",
+      "url": "https://phys.org/news/2026-09-memory-protein-molecular-chains-imaging.html"
+    },
+    {
+      "category": "Space",
+      "title": "NASA Invites Media to SpaceX’s 35th Resupply Launch to Space Station",
+      "source": "NASA",
+      "date": "Thu, 17 Sep 2026 18:32:30 +0000",
+      "summary": "Media accreditation is open for the next cargo launch that will deliver NASA science investigations, supplies, and equipment to the International Space Station. The 35th SpaceX commercial resupply services mission to the orbital laboratory for NASA will lift off on a Falcon 9 rocket. NASA and SpaceX are targeting no earlier than October to launch […]",
+      "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-spacexs-35th-resupply-launch-to-space-station/"
     },
     {
       "category": "Science",
-      "title": " 1,000-year-old 'snake amulet' featuring a Christian saint and 'Medusa' discovered in Russia ",
+      "title": " A space shark, 'royal' auroras and a 'Venusian pearl': See the winners of the 2026 ZWO Astronomy Photographer of the Year contest ",
       "source": " Latest from Live Science ",
-      "date": "Thu, 17 Sep 2026 13:59:01 +0000",
-      "summary": "Archaeologists discovered the two-sided pendant, which features a snake-slaying saint and a snake-haired woman, during an excavation in northwestern Russia.",
-      "url": "https://www.livescience.com/archaeology/1-000-year-old-snake-amulet-featuring-a-christian-saint-and-medusa-discovered-in-russia"
+      "date": "Thu, 17 Sep 2026 18:30:00 +0000",
+      "summary": "A Royal Observatory Greenwich contest showcased work from around the night sky and the solar system, with prize-winning photos spanning topics ranging from auroras to planets.",
+      "url": "https://www.livescience.com/space/astronomy/a-space-shark-royal-auroras-and-a-venusian-pearl-see-the-winners-of-the-2026-zwo-astronomy-photographer-of-the-year-contest"
+    },
+    {
+      "category": "Science",
+      "title": " Scientists identify rare genetic mutation that dramatically raises risk of lung cancer in nonsmokers ",
+      "source": " Latest from Live Science ",
+      "date": "Thu, 17 Sep 2026 18:27:36 +0000",
+      "summary": "A genetic mutation that raises lung cancer risk was much more common among those born in Southeastern states than elsewhere in the U.S.",
+      "url": "https://www.livescience.com/health/cancer/scientists-identify-rare-genetic-mutation-that-dramatically-raises-risk-of-lung-cancer-in-nonsmokers"
     },
     {
       "category": "AI",
-      "title": "Canada welcomes EU proposal to become 'associate member'",
+      "title": "Don't Make Job Referrals Public",
       "source": "Hacker News: Front Page",
-      "date": "Thu, 17 Sep 2026 13:30:37 +0000",
-      "summary": "Article URL: https://www.bbc.com/news/articles/cwly7vkke4jxo\nComments URL: https://news.ycombinator.com/item?id=49740507\nPoints: 130\n# Comments: 87",
-      "url": "https://www.bbc.com/news/articles/cwly7vkke4jxo"
+      "date": "Thu, 17 Sep 2026 18:16:38 +0000",
+      "summary": "Article URL: https://blog.melashri.net/micro/public-job-referral/\nComments URL: https://news.ycombinator.com/item?id=49744530\nPoints: 7\n# Comments: 0",
+      "url": "https://blog.melashri.net/micro/public-job-referral/"
+    },
+    {
+      "category": "Science",
+      "title": " This million-year-old 'baby planet' is the youngest world scientists have ever discovered ",
+      "source": " Latest from Live Science ",
+      "date": "Thu, 17 Sep 2026 18:10:12 +0000",
+      "summary": "Astronomers have confirmed a large exoplanet is forming in the cloud of debris around a young star. At less than a million years old, it's the youngest exoplanet found so far.",
+      "url": "https://www.livescience.com/space/exoplanets/this-million-year-old-baby-planet-is-the-youngest-world-scientists-have-ever-discovered"
     },
     {
       "category": "AI",
-      "title": "I had Gemini train its own replacement for $9",
+      "title": "Stallman: Thousands Dead, Millions Deprived of Liberties (2001)",
       "source": "Hacker News: Front Page",
-      "date": "Thu, 17 Sep 2026 13:17:16 +0000",
-      "summary": "Article URL: https://www.petervijeh.com/projects/reddit-ner\nComments URL: https://news.ycombinator.com/item?id=49740330\nPoints: 34\n# Comments: 9",
-      "url": "https://www.petervijeh.com/projects/reddit-ner"
+      "date": "Thu, 17 Sep 2026 17:20:14 +0000",
+      "summary": "Article URL: https://news.slashdot.org/story/01/09/17/1758231/stallman-thousands-dead-millions-deprived-of-liberties\nComments URL: https://news.ycombinator.com/item?id=49743756\nPoints: 79\n# Comments: 25",
+      "url": "https://news.slashdot.org/story/01/09/17/1758231/stallman-thousands-dead-millions-deprived-of-liberties"
     },
     {
       "category": "AI",
-      "title": "The American Religion of Self-Storage Facilities",
+      "title": "Economic policy for AGI",
       "source": "Hacker News: Front Page",
-      "date": "Thu, 17 Sep 2026 13:12:28 +0000",
-      "summary": "Article URL: https://www.newyorker.com/magazine/2026/09/21/the-american-religion-of-self-storage-facilities\nComments URL: https://news.ycombinator.com/item?id=49740260\nPoints: 45\n# Comments: 35",
-      "url": "https://www.newyorker.com/magazine/2026/09/21/the-american-religion-of-self-storage-facilities"
+      "date": "Thu, 17 Sep 2026 17:12:51 +0000",
+      "summary": "Article URL: https://institute.deepmind.com/essays/economic-policy-for-agi/\nComments URL: https://news.ycombinator.com/item?id=49743685\nPoints: 32\n# Comments: 24",
+      "url": "https://institute.deepmind.com/essays/economic-policy-for-agi/"
+    },
+    {
+      "category": "Space",
+      "title": "NASA Unveils Enterprise, the First Space Shuttle",
+      "source": "NASA",
+      "date": "Thu, 17 Sep 2026 15:22:42 +0000",
+      "summary": "Fifty years ago, on Sept. 17, 1976—Constitution Day of America’s bicentennial year—NASA unveiled its first space shuttle orbiter, OV-101, to the public. NASA had originally planned to name the vehicle Constitution, but a letter-writing campaign changed the agency’s plans. Nearly 100,000 fans of the Star Trek television series wrote the White House urging that the […]",
+      "url": "https://www.nasa.gov/image-article/nasa-unveils-enterprise-the-first-space-shuttle/"
+    },
+    {
+      "category": "Science",
+      "title": "Scientists discover a mysterious new frog hiding in the Amazon",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Thu, 17 Sep 2026 10:08:44 EDT",
+      "summary": "Scientists discovered a new frog species in the flooded forests of the western Amazon, distinguishing it from nearly identical relatives through DNA and its unique call. Adenomera varcena highlights how much Amazonian biodiversity remains hidden even as habitat loss and climate change threaten these poorly understood species.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260917003737.htm"
     },
     {
       "category": "Science",
@@ -73,14 +113,6 @@
       "date": "Thu, 17 Sep 2026 08:45:48 EDT",
       "summary": "New supercomputer simulations suggest JWST’s puzzling Little Red Dots are rapidly growing black holes from the early Universe. Extreme radiation may have helped create unusually massive black hole seeds, while dense surrounding gas allowed them to grow dozens of times faster than black holes can today. The simulated objects closely resemble the Little Red Dots seen by Webb. If correct, they could solve the mystery of how enormous black holes formed so soon after the Big Bang.",
       "url": "https://www.sciencedaily.com/releases/2026/09/260917003703.htm"
-    },
-    {
-      "category": "Science",
-      "title": " 'At some point we're going to have to react': How El Niño, climate change, and crime are pushing the Amazon rainforest over the brink ",
-      "source": " Latest from Live Science ",
-      "date": "Thu, 17 Sep 2026 12:40:08 +0000",
-      "summary": "Live Science spoke with Amazon researcher Bernardo Flores about how El Niño could help drive Earth's largest tropical rainforest past a globe-altering tipping point.",
-      "url": "https://www.livescience.com/planet-earth/climate-change/at-some-point-were-going-to-have-to-react-how-el-nino-climate-change-and-crime-are-pushing-the-amazon-rainforest-over-the-brink"
     },
     {
       "category": "Biblical Studies",
@@ -115,28 +147,12 @@
       "url": "https://www.thegospelcoalition.org/podcasts/deep-dish/kids-books-matter/"
     },
     {
-      "category": "Science",
-      "title": "NASA’s New Horizons spots signs of liquid nitrogen flowing on Pluto",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Thu, 17 Sep 2026 00:02:29 EDT",
-      "summary": "Scientists have found the first evidence that liquid may have flowed across Pluto’s surface in the recent past. Dark features on the enormous Sputnik Planitia glacier appear consistent with liquid nitrogen rising through cracks from deep beneath the ice. Computer models show that nitrogen could melt at the glacier’s base and travel upward like fluid through small conduits. The finding reveals that Pluto may be much more geologically active than its frozen appearance suggests.",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260916232525.htm"
-    },
-    {
       "category": "Theology",
       "title": "Live, Laugh, Love, and Blame Christian Women",
       "source": "The Gospel Coalition",
       "date": "Thu, 17 Sep 2026 04:02:00 +0000",
       "summary": "In her attempt to offer a definitive account of how the evangelical subculture’s feminine elements caused the rise of Trump and Christian nationalism, Du Mez tells us more about her political preferences than about the history of evangelicalism.",
       "url": "https://www.thegospelcoalition.org/reviews/live-laugh-love-influencer/"
-    },
-    {
-      "category": "Space",
-      "title": "Summer Goes Out With a Heat Dome",
-      "source": "NASA",
-      "date": "Thu, 17 Sep 2026 04:01:00 +0000",
-      "summary": "Temperature records toppled across the central and southern U.S. as the autumnal equinox approached.",
-      "url": "https://science.nasa.gov/earth/earth-observatory/summer-goes-out-with-a-heat-dome/"
     },
     {
       "category": "Theology",
@@ -177,22 +193,6 @@
       "date": "Wed, 16 Sep 2026 21:08:14 +0000",
       "summary": "Group plans to be largely out of commission for several weeks.",
       "url": "https://arstechnica.com/security/2026/09/nonprofit-that-tracks-meteors-taken-down-by-critical-blow-from-a-cyberattack/"
-    },
-    {
-      "category": "Space",
-      "title": "Passion Meets Precision at NASA’s Flight Research Lab",
-      "source": "NASA",
-      "date": "Wed, 16 Sep 2026 21:06:08 +0000",
-      "summary": "Long before they helped shape NASA’s future aerospace breakthroughs, Derek Abramson, Justin Hall, and Justin Link were in their garages and homes building radio‑controlled aircraft, testing new ideas, and flying their creations at hobby events. That early passion now fuels the work of NASA’s Dale Reed Subscale Flight Research Laboratory at the agency’s Armstrong Flight […]",
-      "url": "https://www.nasa.gov/people-of-nasa/armstrong-people/passion-meets-precision-at-nasas-flight-research-lab/"
-    },
-    {
-      "category": "Science",
-      "title": " 1,700-year-old fragment of the 'Odyssey' discovered in Dutch library ",
-      "source": " Latest from Live Science ",
-      "date": "Wed, 16 Sep 2026 20:12:40 +0000",
-      "summary": "An expert in ancient Greek literature identified a fragment of the \"Odyssey\" among a collection of manuscripts in a Dutch university library.",
-      "url": "https://www.livescience.com/archaeology/1-700-year-old-fragment-of-the-odyssey-discovered-between-pages-of-dutch-library-book"
     },
     {
       "category": "History",
