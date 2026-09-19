@@ -1,22 +1,62 @@
 {
-  "lastUpdated": "2026-09-19T13:36:52.570Z",
+  "lastUpdated": "2026-09-19T18:19:20.379Z",
   "articleCount": 36,
   "articles": [
     {
       "category": "Science",
-      "title": "Rethinking how we assess students could improve their well-being",
+      "title": "Australia's vast Nullarbor Plain hides deep caves that can teach us about alien worlds",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Sat, 19 Sep 2026 09:30:01 EDT",
-      "summary": "When you were in school, what stressed you out the most? For many students, classroom assessments—graded tests, quizzes, group work, presentations, labs and the like—would be near the top of the list.",
-      "url": "https://phys.org/news/2026-09-rethinking-students.html"
+      "date": "Sat, 19 Sep 2026 14:00:01 EDT",
+      "summary": "Stretching more than 200,000 square kilometers (77,000 square miles) across southern Australia, the vast, flat plains of the Nullarbor mark one of the world's largest regions of limestone. It formed when an ancient shallow sea retreated some 14 million years ago.",
+      "url": "https://phys.org/news/2026-09-australia-vast-nullarbor-plain-deep.html"
+    },
+    {
+      "category": "AI",
+      "title": "People who know the most often sound the least certain",
+      "source": "Hacker News: Front Page",
+      "date": "Sat, 19 Sep 2026 17:42:43 +0000",
+      "summary": "Article URL: https://vrash.substack.com/p/the-people-who-know-the-most-often\nComments URL: https://news.ycombinator.com/item?id=49768606\nPoints: 7\n# Comments: 0",
+      "url": "https://vrash.substack.com/p/the-people-who-know-the-most-often"
+    },
+    {
+      "category": "AI",
+      "title": "Supabase (YC S20) Is Hiring for OrioleDB",
+      "source": "Hacker News: Front Page",
+      "date": "Sat, 19 Sep 2026 17:01:30 +0000",
+      "summary": "Article URL: https://supabase.link/orioledbjob\nComments URL: https://news.ycombinator.com/item?id=49768220\nPoints: 0\n# Comments: 0",
+      "url": "https://supabase.link/orioledbjob"
     },
     {
       "category": "Science",
-      "title": "Florida scrub-jays attempt to breed at unusually young age after large-scale translocation",
+      "title": "Bringing ice sheets to life: Releasing a dynamic ice sheet modeling workflow for Australia's climate model",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Sat, 19 Sep 2026 08:40:01 EDT",
-      "summary": "For nearly two decades, biologist Lauren Deaner has worked with Florida scrub-jays, contributing to population recovery efforts and translocations. Now, as a doctoral researcher in UCF's integrative biology program, she is using that field experience to investigate how genetics, behavior and population dynamics influence the long-term recovery of imperiled species.",
-      "url": "https://phys.org/news/2026-09-florida-jays-unusually-young-age.html"
+      "date": "Sat, 19 Sep 2026 13:00:02 EDT",
+      "summary": "Ice sheets are fundamental components of the Earth system. Antarctica and Greenland, the two ice sheets currently on Earth, don't just affect their own regions: What happens on these vast masses of land ice influences weather, climate, society and the environment around the planet.",
+      "url": "https://phys.org/news/2026-09-ice-sheets-life-dynamic-sheet.html"
+    },
+    {
+      "category": "AI",
+      "title": "Almost Never Use AI to Write Anything Substantive",
+      "source": "Hacker News: Front Page",
+      "date": "Sat, 19 Sep 2026 16:35:24 +0000",
+      "summary": "Article URL: https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai\nComments URL: https://news.ycombinator.com/item?id=49767937\nPoints: 39\n# Comments: 19",
+      "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai"
+    },
+    {
+      "category": "Science",
+      "title": "Global population dataset uses buildings to reveal people's daily movement patterns",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sat, 19 Sep 2026 12:00:02 EDT",
+      "summary": "Researchers at the Department of Energy's (DOE) Oak Ridge National Laboratory (ORNL) have released LandScan Mosaic, a next-generation global population distribution dataset that estimates where people are by modeling how buildings are used and occupied throughout the day. Built on the foundation of ORNL's widely used LandScan Global, one of the world's most accurate population distribution datasets, Mosaic's enhancements will improve disaster response, humanitarian assistance, infrastructure planning and national security missions worldwide.",
+      "url": "https://phys.org/news/2026-09-global-population-dataset-reveal-people.html"
+    },
+    {
+      "category": "Science",
+      "title": " Scientists build a DNA computer that can perform calculations in a drop of water ",
+      "source": " Latest from Live Science ",
+      "date": "Sat, 19 Sep 2026 14:00:00 +0000",
+      "summary": "This programmable DNA computer can perform arithmetic without the continuous energy input needed by other systems.",
+      "url": "https://www.livescience.com/technology/computing/scientists-build-a-dna-computer-that-can-perform-calculations-in-a-drop-of-water"
     },
     {
       "category": "Science",
@@ -25,14 +65,6 @@
       "date": "Sat, 19 Sep 2026 12:00:00 +0000",
       "summary": "New research suggests that a perplexing signal created by a pair of colliding black holes may have been warped by a space-time phenomenon known as gravitational lensing. This theory could finally explain the \"impossible\" size of the merging singularities, but it also poses a new problem.",
       "url": "https://www.livescience.com/space/astronomy/an-impossible-black-hole-merger-may-finally-be-solved-thanks-to-einsteins-relativity-but-it-raises-an-even-bigger-mystery"
-    },
-    {
-      "category": "Science",
-      "title": "Protein map reveals how red blood cells rapidly adjust to low oxygen",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sat, 19 Sep 2026 07:40:01 EDT",
-      "summary": "Scientists map the hidden protein network that helps red blood cells adapt to oxygen",
-      "url": "https://phys.org/news/2026-09-protein-reveals-red-blood-cells.html"
     },
     {
       "category": "AI",
@@ -44,27 +76,11 @@
     },
     {
       "category": "AI",
-      "title": "Laya the open source version of Jev",
-      "source": "Hacker News: Front Page",
-      "date": "Sat, 19 Sep 2026 10:46:58 +0000",
-      "summary": "Article URL: https://laya.convaiinnovations.com/\nComments URL: https://news.ycombinator.com/item?id=49765348\nPoints: 165\n# Comments: 23",
-      "url": "https://laya.convaiinnovations.com/"
-    },
-    {
-      "category": "AI",
       "title": "Rings around a tiny body have changed over the past decade",
       "source": "Ars Technica - All content",
       "date": "Sat, 19 Sep 2026 10:00:06 +0000",
       "summary": "Chariklo is only about 250 km across, but it has two rings, and they're changing.",
       "url": "https://arstechnica.com/science/2026/09/rings-around-a-tiny-body-have-changed-over-the-past-decade/"
-    },
-    {
-      "category": "AI",
-      "title": "AI-generated posters don’t have to be horrible",
-      "source": "Hacker News: Front Page",
-      "date": "Sat, 19 Sep 2026 09:20:58 +0000",
-      "summary": "Article URL: https://john.hartnup.uk/2026/06/07/ai-event-posters.html\nComments URL: https://news.ycombinator.com/item?id=49764791\nPoints: 421\n# Comments: 278",
-      "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html"
     },
     {
       "category": "Science",
@@ -73,14 +89,6 @@
       "date": "Sat, 19 Sep 2026 09:00:00 +0000",
       "summary": "Some children have blond hair that darkens as they grow up. What causes this change?",
       "url": "https://www.livescience.com/health/why-does-blond-hair-tend-to-darken-with-age"
-    },
-    {
-      "category": "AI",
-      "title": "GPT-6 Astra Solves a WWI German Radio Cipher",
-      "source": "Hacker News: Front Page",
-      "date": "Sat, 19 Sep 2026 06:41:44 +0000",
-      "summary": "Article URL: https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio\nComments URL: https://news.ycombinator.com/item?id=49763987\nPoints: 181\n# Comments: 101",
-      "url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio"
     },
     {
       "category": "Space",
@@ -121,14 +129,6 @@
       "date": "Fri, 18 Sep 2026 18:02:53 +0000",
       "summary": "Using data from the Japan-led XRISM (X-ray Imaging and Spectroscopy Mission) observatory, astronomers have directly observed a giant star’s outflow, called a stellar wind, being captured by its compact companion and providing the power source for strong X-ray flares. The research is part of NASA’s exploration of the extreme universe to better understand how the […]",
       "url": "https://science.nasa.gov/missions/xrism/xrism-sees-pulsar-gathering-companions-wind/"
-    },
-    {
-      "category": "Science",
-      "title": " 'Of course I am worried': Live Science readers react to US weapons in space ",
-      "source": " Latest from Live Science ",
-      "date": "Fri, 18 Sep 2026 15:46:02 +0000",
-      "summary": "Are you worried about an arms race in space? Live Science readers shared their thoughts.",
-      "url": "https://www.livescience.com/space/of-course-i-am-worried-live-science-readers-react-to-us-weapons-in-space"
     },
     {
       "category": "Science",
