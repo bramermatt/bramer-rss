@@ -1,46 +1,102 @@
 {
-  "lastUpdated": "2026-09-18T23:47:14.780Z",
+  "lastUpdated": "2026-09-19T13:36:52.570Z",
   "articleCount": 36,
   "articles": [
     {
-      "category": "AI",
-      "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
-      "source": "Hacker News: Front Page",
-      "date": "Fri, 18 Sep 2026 23:04:17 +0000",
-      "summary": "Article URL: https://spectrum.ieee.org/llms-for-chip-design\nComments URL: https://news.ycombinator.com/item?id=49761432\nPoints: 10\n# Comments: 7",
-      "url": "https://spectrum.ieee.org/llms-for-chip-design"
-    },
-    {
-      "category": "AI",
-      "title": "US troop deaths during Iran war exceed Pentagon count by at least four",
-      "source": "Hacker News: Front Page",
-      "date": "Fri, 18 Sep 2026 22:35:10 +0000",
-      "summary": "Article URL: https://www.reuters.com/world/middle-east/us-troop-deaths-iran-war-exceed-pentagon-count-by-least-four-washington-post-2026-09-18/\nComments URL: https://news.ycombinator.com/item?id=49761178\nPoints: 93\n# Comments: 42",
-      "url": "https://www.reuters.com/world/middle-east/us-troop-deaths-iran-war-exceed-pentagon-count-by-least-four-washington-post-2026-09-18/"
-    },
-    {
-      "category": "AI",
-      "title": "The US 'Kill Chain' That Destroyed an Iranian School",
-      "source": "Hacker News: Front Page",
-      "date": "Fri, 18 Sep 2026 22:29:16 +0000",
-      "summary": "Article URL: https://www.bloomberg.com/graphics/2026-iran-school-attack\nComments URL: https://news.ycombinator.com/item?id=49761106\nPoints: 34\n# Comments: 2",
-      "url": "https://www.bloomberg.com/graphics/2026-iran-school-attack"
+      "category": "Science",
+      "title": "Rethinking how we assess students could improve their well-being",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sat, 19 Sep 2026 09:30:01 EDT",
+      "summary": "When you were in school, what stressed you out the most? For many students, classroom assessments—graded tests, quizzes, group work, presentations, labs and the like—would be near the top of the list.",
+      "url": "https://phys.org/news/2026-09-rethinking-students.html"
     },
     {
       "category": "Science",
-      "title": "Scientists hope deeper-rooted soybeans can withstand climate extremes and store more carbon",
+      "title": "Florida scrub-jays attempt to breed at unusually young age after large-scale translocation",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Fri, 18 Sep 2026 18:20:02 EDT",
-      "summary": "Research scientist Ashish Rajurkar kneels in the dirt, lifting a large clod of soil tangled around a soybean plant. He knocks away pieces of earth from the plant's roots, which slope straight down instead of out to the side like typical soybean plants.",
-      "url": "https://phys.org/news/2026-09-scientists-deeper-rooted-soybeans-climate.html"
+      "date": "Sat, 19 Sep 2026 08:40:01 EDT",
+      "summary": "For nearly two decades, biologist Lauren Deaner has worked with Florida scrub-jays, contributing to population recovery efforts and translocations. Now, as a doctoral researcher in UCF's integrative biology program, she is using that field experience to investigate how genetics, behavior and population dynamics influence the long-term recovery of imperiled species.",
+      "url": "https://phys.org/news/2026-09-florida-jays-unusually-young-age.html"
     },
     {
       "category": "Science",
-      "title": "North Korea's nuclear testing may have triggered hundreds of earthquakes over several years",
+      "title": " An 'impossible' black hole merger may finally be solved thanks to Einstein's relativity — but it raises an even bigger mystery ",
+      "source": " Latest from Live Science ",
+      "date": "Sat, 19 Sep 2026 12:00:00 +0000",
+      "summary": "New research suggests that a perplexing signal created by a pair of colliding black holes may have been warped by a space-time phenomenon known as gravitational lensing. This theory could finally explain the \"impossible\" size of the merging singularities, but it also poses a new problem.",
+      "url": "https://www.livescience.com/space/astronomy/an-impossible-black-hole-merger-may-finally-be-solved-thanks-to-einsteins-relativity-but-it-raises-an-even-bigger-mystery"
+    },
+    {
+      "category": "Science",
+      "title": "Protein map reveals how red blood cells rapidly adjust to low oxygen",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Fri, 18 Sep 2026 17:00:01 EDT",
-      "summary": "Between 2006 and 2017, North Korea conducted six underground nuclear tests at its vast testing site at Mount Mantap in North Hamgyong province. Typically, underground explosions trigger an intense burst of minor earthquakes that die down once testing stops. But geologists have detected far more seismic activity after the final detonation, and it has persisted for years.",
-      "url": "https://phys.org/news/2026-09-north-korea-nuclear-triggered-hundreds.html"
+      "date": "Sat, 19 Sep 2026 07:40:01 EDT",
+      "summary": "Scientists map the hidden protein network that helps red blood cells adapt to oxygen",
+      "url": "https://phys.org/news/2026-09-protein-reveals-red-blood-cells.html"
+    },
+    {
+      "category": "AI",
+      "title": "Learning another language may be one of the best ways to keep your brain healthy",
+      "source": "Ars Technica - All content",
+      "date": "Sat, 19 Sep 2026 11:10:43 +0000",
+      "summary": "Research suggests that bilingualism can offer cognitive benefits.",
+      "url": "https://arstechnica.com/science/2026/09/learning-another-language-may-be-one-of-the-best-ways-to-keep-your-brain-healthy/"
+    },
+    {
+      "category": "AI",
+      "title": "Laya the open source version of Jev",
+      "source": "Hacker News: Front Page",
+      "date": "Sat, 19 Sep 2026 10:46:58 +0000",
+      "summary": "Article URL: https://laya.convaiinnovations.com/\nComments URL: https://news.ycombinator.com/item?id=49765348\nPoints: 165\n# Comments: 23",
+      "url": "https://laya.convaiinnovations.com/"
+    },
+    {
+      "category": "AI",
+      "title": "Rings around a tiny body have changed over the past decade",
+      "source": "Ars Technica - All content",
+      "date": "Sat, 19 Sep 2026 10:00:06 +0000",
+      "summary": "Chariklo is only about 250 km across, but it has two rings, and they're changing.",
+      "url": "https://arstechnica.com/science/2026/09/rings-around-a-tiny-body-have-changed-over-the-past-decade/"
+    },
+    {
+      "category": "AI",
+      "title": "AI-generated posters don’t have to be horrible",
+      "source": "Hacker News: Front Page",
+      "date": "Sat, 19 Sep 2026 09:20:58 +0000",
+      "summary": "Article URL: https://john.hartnup.uk/2026/06/07/ai-event-posters.html\nComments URL: https://news.ycombinator.com/item?id=49764791\nPoints: 421\n# Comments: 278",
+      "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html"
+    },
+    {
+      "category": "Science",
+      "title": " Why does blond hair tend to darken with age? ",
+      "source": " Latest from Live Science ",
+      "date": "Sat, 19 Sep 2026 09:00:00 +0000",
+      "summary": "Some children have blond hair that darkens as they grow up. What causes this change?",
+      "url": "https://www.livescience.com/health/why-does-blond-hair-tend-to-darken-with-age"
+    },
+    {
+      "category": "AI",
+      "title": "GPT-6 Astra Solves a WWI German Radio Cipher",
+      "source": "Hacker News: Front Page",
+      "date": "Sat, 19 Sep 2026 06:41:44 +0000",
+      "summary": "Article URL: https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio\nComments URL: https://news.ycombinator.com/item?id=49763987\nPoints: 181\n# Comments: 101",
+      "url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio"
+    },
+    {
+      "category": "Space",
+      "title": "APOD: 2026 September 19 – A Zodiacal Night",
+      "source": "NASA",
+      "date": "Sat, 19 Sep 2026 04:05:00 +0000",
+      "summary": "APOD Science APOD APOD: 2026 September 19 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Night SkyAnnotation A […]",
+      "url": "https://science.nasa.gov/image-article/apod-2026-september-19-a-zodiacal-night/"
+    },
+    {
+      "category": "Theology",
+      "title": "How to Grieve When Loved Ones Leave for the Mission Field",
+      "source": "The Gospel Coalition",
+      "date": "Sat, 19 Sep 2026 04:00:00 +0000",
+      "summary": "These wonderful people in your life aren’t yours to keep. They’re God’s gift to you, and they’re his to send on mission.",
+      "url": "https://www.thegospelcoalition.org/article/grieve-loved-ones-mission/"
     },
     {
       "category": "AI",
@@ -59,44 +115,12 @@
       "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-albania-artemis-accords-signing-ceremony/"
     },
     {
-      "category": "AI",
-      "title": "FAA tees up $875M AI tool to help manage air traffic congestion",
-      "source": "Ars Technica - All content",
-      "date": "Fri, 18 Sep 2026 19:20:50 +0000",
-      "summary": "FAA plans for AI tool to help manage DC air traffic before a nationwide rollout.",
-      "url": "https://arstechnica.com/ai/2026/09/faa-tees-up-875m-ai-tool-to-help-manage-air-traffic-congestion/"
-    },
-    {
-      "category": "Science",
-      "title": "Medieval Chinese skeleton may reveal first evidence of a brutal punishment",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Fri, 18 Sep 2026 15:20:05 EDT",
-      "summary": "Ancient Chinese authorities used many creative ways to punish people, often with methods designed to mark them for life. One brutal example mentioned repeatedly in historical texts is cutting off a person's nose. However, archaeologists in China have never found skeletal evidence to prove that it occurred. But that may have changed following the discovery of a skeleton of a woman who lived in China about 700 years ago.",
-      "url": "https://phys.org/news/2026-09-medieval-chinese-skeleton-reveal-evidence.html"
-    },
-    {
       "category": "Space",
       "title": "NASA-JAXA XRISM Mission Sees Pulsar Gathering Companion’s ‘Wind’",
       "source": "NASA",
       "date": "Fri, 18 Sep 2026 18:02:53 +0000",
       "summary": "Using data from the Japan-led XRISM (X-ray Imaging and Spectroscopy Mission) observatory, astronomers have directly observed a giant star’s outflow, called a stellar wind, being captured by its compact companion and providing the power source for strong X-ray flares. The research is part of NASA’s exploration of the extreme universe to better understand how the […]",
       "url": "https://science.nasa.gov/missions/xrism/xrism-sees-pulsar-gathering-companions-wind/"
-    },
-    {
-      "category": "AI",
-      "title": "FCC lets Paramount sell 49.5% equity stake to Saudi Arabia, UAE, and Qatar",
-      "source": "Ars Technica - All content",
-      "date": "Fri, 18 Sep 2026 17:57:41 +0000",
-      "summary": "FCC rejects concerns about repressive governments buying influence over CBS owner.",
-      "url": "https://arstechnica.com/tech-policy/2026/09/fcc-lets-paramount-sell-49-5-equity-stake-to-saudi-arabia-uae-and-qatar/"
-    },
-    {
-      "category": "Space",
-      "title": "NASA Awards SpaceX Three Crew Flights to Space Station",
-      "source": "NASA",
-      "date": "Fri, 18 Sep 2026 16:02:31 +0000",
-      "summary": "To continue regular crew transportation to the International Space Station, NASA has awarded SpaceX three additional missions through a contract modification.",
-      "url": "https://www.nasa.gov/missions/station/commercial-crew/nasa-awards-spacex-three-crew-flights-to-space-station/"
     },
     {
       "category": "Science",
@@ -113,6 +137,14 @@
       "date": "Fri, 18 Sep 2026 08:07:03 EDT",
       "summary": "A newly discovered snake from New Guinea has been named after Guns N’ Roses guitarist Slash, who has loved reptiles since childhood. Genetic testing and physical differences confirmed that the reddish-brown groundsnake, Lielaphis slashi, is a species scientists had never formally recognized before. The nonvenomous snake may use large rear teeth to catch slippery lizards and reptile eggs.",
       "url": "https://www.sciencedaily.com/releases/2026/09/260918024816.htm"
+    },
+    {
+      "category": "AI",
+      "title": "Introducing the Australian Youth Safety Blueprint",
+      "source": "OpenAI News",
+      "date": "Fri, 18 Sep 2026 12:00:00 GMT",
+      "summary": "OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people.",
+      "url": "https://openai.com/index/australian-youth-safety-blueprint"
     },
     {
       "category": "Science",
@@ -147,22 +179,6 @@
       "url": "https://www.biblicalarchaeology.org/daily/biblical-sites-places/jerusalem/jewish-pilgrimage-second-temple-jerusalem/"
     },
     {
-      "category": "Science",
-      "title": " Climate change will harm our health. Here's what could protect us. ",
-      "source": " Latest from Live Science ",
-      "date": "Fri, 18 Sep 2026 09:35:43 +0000",
-      "summary": "The impacts of climate change on health are becoming clearer. What can we do to respond?",
-      "url": "https://www.livescience.com/planet-earth/climate-change/climate-change-will-harm-our-health-heres-what-could-protect-us"
-    },
-    {
-      "category": "Science",
-      "title": " AI agents resorted to crime and self-destruction to survive in a simulated world — but does this mean they would do the same in the real world? ",
-      "source": " Latest from Live Science ",
-      "date": "Fri, 18 Sep 2026 09:00:00 +0000",
-      "summary": "A unique AI test environment resulted in crimes and self-destruction, and its makers say it's the best way to figure out how AI can behave in the real world.",
-      "url": "https://www.livescience.com/technology/artificial-intelligence/ai-agents-resorted-to-crime-and-self-destruction-to-survive-in-a-simulated-world-but-does-this-mean-they-would-do-the-same-in-the-real-world"
-    },
-    {
       "category": "Theology",
       "title": "The Subversive Gospel in a Polarized World (Part 2)",
       "source": "The Gospel Coalition",
@@ -177,14 +193,6 @@
       "date": "Fri, 18 Sep 2026 04:01:00 +0000",
       "summary": "The American government needs a moral people, but that doesn’t mean it should be entrusted to guard the beliefs that make a people moral.",
       "url": "https://www.thegospelcoalition.org/article/not-christian-nationalist/"
-    },
-    {
-      "category": "Theology",
-      "title": "What AI Is Teaching My Youth Group Girls",
-      "source": "The Gospel Coalition",
-      "date": "Fri, 18 Sep 2026 04:00:00 +0000",
-      "summary": "I wasn’t expecting the hyperdependence on AI that I was hearing from these sweet 13-to-15-year-old girls.",
-      "url": "https://www.thegospelcoalition.org/article/ai-youth-group-girls/"
     },
     {
       "category": "AI",
@@ -225,14 +233,6 @@
       "date": "Wed, 16 Sep 2026 17:49:38 +0000",
       "summary": "On this week’s Dispatches, host Brady Crytzer interviews JAR contributor and historian Davis Richardson about the correspondence between the Marquis de Lafayette and Thomas Jefferson in the wake of the American Revolution and the coming French Revolution. New episodes of Dispatches are available for free every Sunday evening(Eastern United States Time), first on iTunes, Stitcher, […]\nThe post This Week on Dispatches: Davis Richardson on Lafayette, Jefferson, and Revolutionary Ideas appeared first on Journal of the American Revolution.",
       "url": "https://allthingsliberty.com/2026/09/this-week-on-dispatches-davis-richardson-on-lafayette-jefferson-and-revolutionary-ideas/"
-    },
-    {
-      "category": "AI",
-      "title": "Helping older adults use AI in everyday life",
-      "source": "OpenAI News",
-      "date": "Wed, 16 Sep 2026 16:00:00 GMT",
-      "summary": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.",
-      "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life"
     },
     {
       "category": "History",
