@@ -1,54 +1,54 @@
 {
-  "lastUpdated": "2026-09-19T18:19:20.379Z",
-  "articleCount": 36,
+  "lastUpdated": "2026-09-19T23:48:57.950Z",
+  "articleCount": 33,
   "articles": [
     {
       "category": "Science",
-      "title": "Australia's vast Nullarbor Plain hides deep caves that can teach us about alien worlds",
+      "title": "At an old steel site in Pittsburgh, bacteria evolved to survive—and eat—industrial pollution",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Sat, 19 Sep 2026 14:00:01 EDT",
-      "summary": "Stretching more than 200,000 square kilometers (77,000 square miles) across southern Australia, the vast, flat plains of the Nullarbor mark one of the world's largest regions of limestone. It formed when an ancient shallow sea retreated some 14 million years ago.",
-      "url": "https://phys.org/news/2026-09-australia-vast-nullarbor-plain-deep.html"
+      "date": "Sat, 19 Sep 2026 19:30:01 EDT",
+      "summary": "Across Appalachia and the Rust Belt region, including throughout the city of Pittsburgh, former industrial sites are being transformed into new neighborhoods, research centers and technology hubs.",
+      "url": "https://phys.org/news/2026-09-steel-site-pittsburgh-bacteria-evolved.html"
     },
     {
       "category": "AI",
-      "title": "People who know the most often sound the least certain",
+      "title": "Mayday Mysteries",
       "source": "Hacker News: Front Page",
-      "date": "Sat, 19 Sep 2026 17:42:43 +0000",
-      "summary": "Article URL: https://vrash.substack.com/p/the-people-who-know-the-most-often\nComments URL: https://news.ycombinator.com/item?id=49768606\nPoints: 7\n# Comments: 0",
-      "url": "https://vrash.substack.com/p/the-people-who-know-the-most-often"
+      "date": "Sat, 19 Sep 2026 21:43:09 +0000",
+      "summary": "Article URL: http://www.maydaymystery.org/mayday/\nComments URL: https://news.ycombinator.com/item?id=49770362\nPoints: 17\n# Comments: 3",
+      "url": "http://www.maydaymystery.org/mayday/"
     },
     {
       "category": "AI",
-      "title": "Supabase (YC S20) Is Hiring for OrioleDB",
+      "title": "How Hacker News ranking works: scoring, controversy, and penalties (2013)",
       "source": "Hacker News: Front Page",
-      "date": "Sat, 19 Sep 2026 17:01:30 +0000",
-      "summary": "Article URL: https://supabase.link/orioledbjob\nComments URL: https://news.ycombinator.com/item?id=49768220\nPoints: 0\n# Comments: 0",
-      "url": "https://supabase.link/orioledbjob"
+      "date": "Sat, 19 Sep 2026 21:30:59 +0000",
+      "summary": "Article URL: https://www.righto.com/2013/11/how-hacker-news-ranking-really-works.html\nComments URL: https://news.ycombinator.com/item?id=49770293\nPoints: 61\n# Comments: 28",
+      "url": "https://www.righto.com/2013/11/how-hacker-news-ranking-really-works.html"
+    },
+    {
+      "category": "AI",
+      "title": "You can defeat the Dream Devourer from Chrono Trigger using an int overflow",
+      "source": "Hacker News: Front Page",
+      "date": "Sat, 19 Sep 2026 21:25:29 +0000",
+      "summary": "Article URL: https://chrono.fandom.com/wiki/Dream_Devourer\nComments URL: https://news.ycombinator.com/item?id=49770256\nPoints: 16\n# Comments: 8",
+      "url": "https://chrono.fandom.com/wiki/Dream_Devourer"
     },
     {
       "category": "Science",
-      "title": "Bringing ice sheets to life: Releasing a dynamic ice sheet modeling workflow for Australia's climate model",
+      "title": "How the malaria parasite boosts its transmission potential under stress conditions",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Sat, 19 Sep 2026 13:00:02 EDT",
-      "summary": "Ice sheets are fundamental components of the Earth system. Antarctica and Greenland, the two ice sheets currently on Earth, don't just affect their own regions: What happens on these vast masses of land ice influences weather, climate, society and the environment around the planet.",
-      "url": "https://phys.org/news/2026-09-ice-sheets-life-dynamic-sheet.html"
-    },
-    {
-      "category": "AI",
-      "title": "Almost Never Use AI to Write Anything Substantive",
-      "source": "Hacker News: Front Page",
-      "date": "Sat, 19 Sep 2026 16:35:24 +0000",
-      "summary": "Article URL: https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai\nComments URL: https://news.ycombinator.com/item?id=49767937\nPoints: 39\n# Comments: 19",
-      "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai"
+      "date": "Sat, 19 Sep 2026 17:00:05 EDT",
+      "summary": "The malaria parasite is able to detect changes in its host's environment and respond by increasing the production of sexual forms capable of being transmitted to mosquitoes. A study led by the Barcelona Institute for Global Health (ISGlobal) identifies the molecular mechanism underlying this process. The findings, published in Nature Microbiology, answer what has been one of the major unanswered questions in malaria research for decades.",
+      "url": "https://phys.org/news/2026-09-malaria-parasite-boosts-transmission-potential.html"
     },
     {
       "category": "Science",
-      "title": "Global population dataset uses buildings to reveal people's daily movement patterns",
+      "title": "Sacred springs of South Africa—pure waters or polluted? We found tiny bits of plastic in the samples we tested",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Sat, 19 Sep 2026 12:00:02 EDT",
-      "summary": "Researchers at the Department of Energy's (DOE) Oak Ridge National Laboratory (ORNL) have released LandScan Mosaic, a next-generation global population distribution dataset that estimates where people are by modeling how buildings are used and occupied throughout the day. Built on the foundation of ORNL's widely used LandScan Global, one of the world's most accurate population distribution datasets, Mosaic's enhancements will improve disaster response, humanitarian assistance, infrastructure planning and national security missions worldwide.",
-      "url": "https://phys.org/news/2026-09-global-population-dataset-reveal-people.html"
+      "date": "Sat, 19 Sep 2026 17:00:01 EDT",
+      "summary": "Across South Africa, natural springs are more than sources of freshwater. Some are places of healing, spiritual cleansing and rituals, where communities collect water and maintain longstanding cultural connections with the environment. For example, during cleansing rituals, people bathe in or collect spring water as a way of seeking spiritual renewal, healing and protection. These are known as sacred springs.",
+      "url": "https://phys.org/news/2026-09-sacred-south-africa-pure-polluted.html"
     },
     {
       "category": "Science",
@@ -91,14 +91,6 @@
       "url": "https://www.livescience.com/health/why-does-blond-hair-tend-to-darken-with-age"
     },
     {
-      "category": "Space",
-      "title": "APOD: 2026 September 19 – A Zodiacal Night",
-      "source": "NASA",
-      "date": "Sat, 19 Sep 2026 04:05:00 +0000",
-      "summary": "APOD Science APOD APOD: 2026 September 19 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Night SkyAnnotation A […]",
-      "url": "https://science.nasa.gov/image-article/apod-2026-september-19-a-zodiacal-night/"
-    },
-    {
       "category": "Theology",
       "title": "How to Grieve When Loved Ones Leave for the Mission Field",
       "source": "The Gospel Coalition",
@@ -113,22 +105,6 @@
       "date": "Fri, 18 Sep 2026 20:26:33 +0000",
       "summary": "But the military's overall use of AI seems to be accelerating.",
       "url": "https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report/"
-    },
-    {
-      "category": "Space",
-      "title": "NASA Invites Media to Albania Artemis Accords Signing Ceremony",
-      "source": "NASA",
-      "date": "Fri, 18 Sep 2026 19:56:08 +0000",
-      "summary": "The Republic of Albania will sign the Artemis Accords during a ceremony at 12 p.m. EDT on Monday, Sept. 21, at NASA Headquarters in Washington, becoming the 73rd country signatory. NASA Deputy Administrator Matt Anderson will host Albania’s Minister for Europe and Foreign Affairs Ferit Hoxha and Ambassador of the Republic of Albania to the […]",
-      "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-albania-artemis-accords-signing-ceremony/"
-    },
-    {
-      "category": "Space",
-      "title": "NASA-JAXA XRISM Mission Sees Pulsar Gathering Companion’s ‘Wind’",
-      "source": "NASA",
-      "date": "Fri, 18 Sep 2026 18:02:53 +0000",
-      "summary": "Using data from the Japan-led XRISM (X-ray Imaging and Spectroscopy Mission) observatory, astronomers have directly observed a giant star’s outflow, called a stellar wind, being captured by its compact companion and providing the power source for strong X-ray flares. The research is part of NASA’s exploration of the extreme universe to better understand how the […]",
-      "url": "https://science.nasa.gov/missions/xrism/xrism-sees-pulsar-gathering-companions-wind/"
     },
     {
       "category": "Science",
