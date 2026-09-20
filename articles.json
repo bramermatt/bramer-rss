@@ -1,7 +1,111 @@
 {
-  "lastUpdated": "2026-09-19T23:48:57.950Z",
-  "articleCount": 33,
+  "lastUpdated": "2026-09-20T13:50:43.170Z",
+  "articleCount": 36,
   "articles": [
+    {
+      "category": "Science",
+      "title": "Satellites show Earth lost more than 12 trillion tons of ice from Greenland, Antarctica in 47 years",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sun, 20 Sep 2026 09:30:01 EDT",
+      "summary": "About 12.5 trillion tons (11.3 trillion metric tons) of ice from glaciers in Greenland and Antarctica have melted since 1979, which is enough frozen water to stack ice 5 feet (1.5 meters) deep across the continental United States, according to a major scientific report.",
+      "url": "https://phys.org/news/2026-09-satellites-earth-lost-trillion-tons.html"
+    },
+    {
+      "category": "AI",
+      "title": "Chat-based Large Language Models replicate the mechanisms of a psychic's con",
+      "source": "Hacker News: Front Page",
+      "date": "Sun, 20 Sep 2026 12:20:13 +0000",
+      "summary": "Article URL: https://softwarecrisis.dev/letters/llmentalist/\nComments URL: https://news.ycombinator.com/item?id=49775104\nPoints: 29\n# Comments: 13",
+      "url": "https://softwarecrisis.dev/letters/llmentalist/"
+    },
+    {
+      "category": "AI",
+      "title": "The Millennium Problems for Biology",
+      "source": "Hacker News: Front Page",
+      "date": "Sun, 20 Sep 2026 12:17:54 +0000",
+      "summary": "Article URL: https://millenniumproblems.bio/\nComments URL: https://news.ycombinator.com/item?id=49775082\nPoints: 17\n# Comments: 12",
+      "url": "https://millenniumproblems.bio/"
+    },
+    {
+      "category": "AI",
+      "title": "An undercover Google analyst infiltrated a notorious supply-chain hacking gang",
+      "source": "Ars Technica - All content",
+      "date": "Sun, 20 Sep 2026 11:07:00 +0000",
+      "summary": "Google’s threat intelligence group said it had a mole inside TeamPCP's inner circle.",
+      "url": "https://arstechnica.com/security/2026/09/an-undercover-google-analyst-infiltrated-a-notorious-supply-chain-hacking-gang/"
+    },
+    {
+      "category": "AI",
+      "title": "Why Do We Need Human Mathematicians Anymore?",
+      "source": "Hacker News: Front Page",
+      "date": "Sun, 20 Sep 2026 10:49:58 +0000",
+      "summary": "Article URL: https://terrytao.wordpress.com/2026/09/19/why-do-we-need-human-mathematicians-anymore/\nComments URL: https://news.ycombinator.com/item?id=49774521\nPoints: 48\n# Comments: 51",
+      "url": "https://terrytao.wordpress.com/2026/09/19/why-do-we-need-human-mathematicians-anymore/"
+    },
+    {
+      "category": "Science",
+      "title": "Scientists opened a sealed envelope after 10 years. Gravity still didn’t make sense",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Sun, 20 Sep 2026 06:30:31 EDT",
+      "summary": "A decade-long NIST experiment has produced a new measurement of the universal gravitational constant that differs unexpectedly from another leading result, deepening a 225-year-old physics puzzle. The discrepancy is tiny, but for one of nature’s most fundamental constants, it is large enough to keep scientists wondering whether hidden experimental errors or something more surprising is involved.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260920032049.htm"
+    },
+    {
+      "category": "AI",
+      "title": "Don't call it an SUV: The Ferrari Purosangue review",
+      "source": "Ars Technica - All content",
+      "date": "Sun, 20 Sep 2026 10:00:02 +0000",
+      "summary": "Unlike previous Ferrari four-seaters, this one is better for humans than cargo.",
+      "url": "https://arstechnica.com/cars/2026/09/dont-call-it-an-suv-the-ferrari-purosangue-review/"
+    },
+    {
+      "category": "Science",
+      "title": " 'We are on our way to groundbreaking science': Stars turn neon-green in first test image from NASA's Roman telescope — Space photo of the week ",
+      "source": " Latest from Live Science ",
+      "date": "Sun, 20 Sep 2026 10:00:00 +0000",
+      "summary": "This week, NASA turned on the Nancy Grace Roman Space Telescope's powerful 300-megapixel camera for the first time. The debut test image promises \"groundbreaking science\" to come with NASA already talking about doubling the mission's lifespan.",
+      "url": "https://www.livescience.com/space/astronomy/we-are-on-our-way-to-groundbreaking-science-stars-turn-neon-green-in-first-test-image-from-nasas-roman-telescope-space-photo-of-the-week"
+    },
+    {
+      "category": "AI",
+      "title": "T. rex teeth indicate it ran as warm as an elephant",
+      "source": "Ars Technica - All content",
+      "date": "Sun, 20 Sep 2026 09:00:11 +0000",
+      "summary": "Isotope ratios provide a hint that the giants were actively managing temperatures.",
+      "url": "https://arstechnica.com/science/2026/09/t-rex-teeth-indicate-it-ran-as-warm-as-an-elephant/"
+    },
+    {
+      "category": "Science",
+      "title": " Did the Vikings really shoot fiery arrows at funeral boats? ",
+      "source": " Latest from Live Science ",
+      "date": "Sun, 20 Sep 2026 09:00:00 +0000",
+      "summary": "The idea of Vikings using fire arrows to set funeral boats ablaze is seen frequently in popular culture. But did it really happen?",
+      "url": "https://www.livescience.com/archaeology/vikings/did-the-vikings-really-shoot-fiery-arrows-at-funeral-boats"
+    },
+    {
+      "category": "Science",
+      "title": "Hurricane Hunters reveal 4 warning signs that a storm is about to strengthen",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Sun, 20 Sep 2026 00:29:23 EDT",
+      "summary": "Nearly three decades of Hurricane Hunter data reveal four features that can help a tilted tropical cyclone straighten its circulation and become capable of intensifying. The findings could give forecasters an earlier warning that a seemingly disorganized storm is becoming primed to strengthen.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260919031037.htm"
+    },
+    {
+      "category": "Space",
+      "title": "APOD: 2026 September 20 – Analemma over the Callanish Stones",
+      "source": "NASA",
+      "date": "Sun, 20 Sep 2026 04:05:00 +0000",
+      "summary": "APOD Science APOD APOD: 2026 September 20 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Analemma over the […]",
+      "url": "https://science.nasa.gov/image-article/apod-2026-september-20-analemma-over-the-callanish-stones/"
+    },
+    {
+      "category": "Theology",
+      "title": "The Parable of the Cancer Cell",
+      "source": "The Gospel Coalition",
+      "date": "Sun, 20 Sep 2026 04:00:00 +0000",
+      "summary": "Cancer is a remarkable parable for sin, in both its disastrous nature and its available cure.",
+      "url": "https://www.thegospelcoalition.org/article/parable-cancer-cell/"
+    },
     {
       "category": "Science",
       "title": "At an old steel site in Pittsburgh, bacteria evolved to survive—and eat—industrial pollution",
@@ -9,30 +113,6 @@
       "date": "Sat, 19 Sep 2026 19:30:01 EDT",
       "summary": "Across Appalachia and the Rust Belt region, including throughout the city of Pittsburgh, former industrial sites are being transformed into new neighborhoods, research centers and technology hubs.",
       "url": "https://phys.org/news/2026-09-steel-site-pittsburgh-bacteria-evolved.html"
-    },
-    {
-      "category": "AI",
-      "title": "Mayday Mysteries",
-      "source": "Hacker News: Front Page",
-      "date": "Sat, 19 Sep 2026 21:43:09 +0000",
-      "summary": "Article URL: http://www.maydaymystery.org/mayday/\nComments URL: https://news.ycombinator.com/item?id=49770362\nPoints: 17\n# Comments: 3",
-      "url": "http://www.maydaymystery.org/mayday/"
-    },
-    {
-      "category": "AI",
-      "title": "How Hacker News ranking works: scoring, controversy, and penalties (2013)",
-      "source": "Hacker News: Front Page",
-      "date": "Sat, 19 Sep 2026 21:30:59 +0000",
-      "summary": "Article URL: https://www.righto.com/2013/11/how-hacker-news-ranking-really-works.html\nComments URL: https://news.ycombinator.com/item?id=49770293\nPoints: 61\n# Comments: 28",
-      "url": "https://www.righto.com/2013/11/how-hacker-news-ranking-really-works.html"
-    },
-    {
-      "category": "AI",
-      "title": "You can defeat the Dream Devourer from Chrono Trigger using an int overflow",
-      "source": "Hacker News: Front Page",
-      "date": "Sat, 19 Sep 2026 21:25:29 +0000",
-      "summary": "Article URL: https://chrono.fandom.com/wiki/Dream_Devourer\nComments URL: https://news.ycombinator.com/item?id=49770256\nPoints: 16\n# Comments: 8",
-      "url": "https://chrono.fandom.com/wiki/Dream_Devourer"
     },
     {
       "category": "Science",
@@ -44,14 +124,6 @@
     },
     {
       "category": "Science",
-      "title": "Sacred springs of South Africa—pure waters or polluted? We found tiny bits of plastic in the samples we tested",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sat, 19 Sep 2026 17:00:01 EDT",
-      "summary": "Across South Africa, natural springs are more than sources of freshwater. Some are places of healing, spiritual cleansing and rituals, where communities collect water and maintain longstanding cultural connections with the environment. For example, during cleansing rituals, people bathe in or collect spring water as a way of seeking spiritual renewal, healing and protection. These are known as sacred springs.",
-      "url": "https://phys.org/news/2026-09-sacred-south-africa-pure-polluted.html"
-    },
-    {
-      "category": "Science",
       "title": " Scientists build a DNA computer that can perform calculations in a drop of water ",
       "source": " Latest from Live Science ",
       "date": "Sat, 19 Sep 2026 14:00:00 +0000",
@@ -60,35 +132,19 @@
     },
     {
       "category": "Science",
-      "title": " An 'impossible' black hole merger may finally be solved thanks to Einstein's relativity — but it raises an even bigger mystery ",
-      "source": " Latest from Live Science ",
-      "date": "Sat, 19 Sep 2026 12:00:00 +0000",
-      "summary": "New research suggests that a perplexing signal created by a pair of colliding black holes may have been warped by a space-time phenomenon known as gravitational lensing. This theory could finally explain the \"impossible\" size of the merging singularities, but it also poses a new problem.",
-      "url": "https://www.livescience.com/space/astronomy/an-impossible-black-hole-merger-may-finally-be-solved-thanks-to-einsteins-relativity-but-it-raises-an-even-bigger-mystery"
+      "title": "A giant crater may reveal the origin of Mars’ doomed moon",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Sat, 19 Sep 2026 08:12:41 EDT",
+      "summary": "A massive crater on Mars’ moon Phobos may hide a dense region of compressed material that could reveal whether the moon is a captured asteroid or debris from an ancient impact on Mars. Japan’s upcoming MMX sample return mission could provide the measurements and physical evidence needed to solve the mystery.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260919031040.htm"
     },
     {
-      "category": "AI",
-      "title": "Learning another language may be one of the best ways to keep your brain healthy",
-      "source": "Ars Technica - All content",
-      "date": "Sat, 19 Sep 2026 11:10:43 +0000",
-      "summary": "Research suggests that bilingualism can offer cognitive benefits.",
-      "url": "https://arstechnica.com/science/2026/09/learning-another-language-may-be-one-of-the-best-ways-to-keep-your-brain-healthy/"
-    },
-    {
-      "category": "AI",
-      "title": "Rings around a tiny body have changed over the past decade",
-      "source": "Ars Technica - All content",
-      "date": "Sat, 19 Sep 2026 10:00:06 +0000",
-      "summary": "Chariklo is only about 250 km across, but it has two rings, and they're changing.",
-      "url": "https://arstechnica.com/science/2026/09/rings-around-a-tiny-body-have-changed-over-the-past-decade/"
-    },
-    {
-      "category": "Science",
-      "title": " Why does blond hair tend to darken with age? ",
-      "source": " Latest from Live Science ",
-      "date": "Sat, 19 Sep 2026 09:00:00 +0000",
-      "summary": "Some children have blond hair that darkens as they grow up. What causes this change?",
-      "url": "https://www.livescience.com/health/why-does-blond-hair-tend-to-darken-with-age"
+      "category": "Space",
+      "title": "APOD: 2026 September 19 – A Zodiacal Night",
+      "source": "NASA",
+      "date": "Sat, 19 Sep 2026 04:05:00 +0000",
+      "summary": "APOD Science APOD APOD: 2026 September 19 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Night SkyAnnotation A […]",
+      "url": "https://science.nasa.gov/image-article/apod-2026-september-19-a-zodiacal-night/"
     },
     {
       "category": "Theology",
@@ -99,20 +155,12 @@
       "url": "https://www.thegospelcoalition.org/article/grieve-loved-ones-mission/"
     },
     {
-      "category": "AI",
-      "title": "AI hallucination of Chinese nuclear components almost led to US military attack",
-      "source": "Ars Technica - All content",
-      "date": "Fri, 18 Sep 2026 20:26:33 +0000",
-      "summary": "But the military's overall use of AI seems to be accelerating.",
-      "url": "https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report/"
-    },
-    {
-      "category": "Science",
-      "title": "Scientists just named a new snake after Guns N’ Roses legend Slash",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Fri, 18 Sep 2026 08:07:03 EDT",
-      "summary": "A newly discovered snake from New Guinea has been named after Guns N’ Roses guitarist Slash, who has loved reptiles since childhood. Genetic testing and physical differences confirmed that the reddish-brown groundsnake, Lielaphis slashi, is a species scientists had never formally recognized before. The nonvenomous snake may use large rear teeth to catch slippery lizards and reptile eggs.",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260918024816.htm"
+      "category": "Space",
+      "title": "NASA Invites Media to Albania Artemis Accords Signing Ceremony",
+      "source": "NASA",
+      "date": "Fri, 18 Sep 2026 19:56:08 +0000",
+      "summary": "The Republic of Albania will sign the Artemis Accords during a ceremony at 12 p.m. EDT on Monday, Sept. 21, at NASA Headquarters in Washington, becoming the 73rd country signatory. NASA Deputy Administrator Matt Anderson will host Albania’s Minister for Europe and Foreign Affairs Ferit Hoxha and Ambassador of the Republic of Albania to the […]",
+      "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-albania-artemis-accords-signing-ceremony/"
     },
     {
       "category": "AI",
@@ -121,22 +169,6 @@
       "date": "Fri, 18 Sep 2026 12:00:00 GMT",
       "summary": "OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people.",
       "url": "https://openai.com/index/australian-youth-safety-blueprint"
-    },
-    {
-      "category": "Science",
-      "title": "NASA’s Roman Space Telescope could last more than twice as long as planned",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Fri, 18 Sep 2026 07:31:56 EDT",
-      "summary": "NASA’s Roman Space Telescope may now have enough fuel for at least 22 years of science, more than double its original 10 year design life. An extremely precise course correction, extra fuel at launch, and additional expected savings could keep the powerful observatory studying the universe for decades.",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260918024802.htm"
-    },
-    {
-      "category": "Science",
-      "title": "Scientists are about to test Einstein’s gravity with exotic matter",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Fri, 18 Sep 2026 07:07:25 EDT",
-      "summary": "Scientists have found a new way to create a controlled beam of muonium, an exotic atom containing a heavier cousin of the electron. The advance could allow researchers to test for the first time whether gravity acts on second-generation particles exactly as Einstein’s theory predicts. Any unexpected difference would be a major surprise and could potentially point toward new physics, including a hypothetical fifth force.",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260918024808.htm"
     },
     {
       "category": "Biblical Studies",
@@ -161,14 +193,6 @@
       "date": "Fri, 18 Sep 2026 04:04:00 +0000",
       "summary": "Does the gospel have the power to bridge the chasms within a polarized church?",
       "url": "https://www.thegospelcoalition.org/podcasts/tgc-podcast/subversive-gospel-polarized-world-2/"
-    },
-    {
-      "category": "Theology",
-      "title": "Why I’m Not a Christian Nationalist",
-      "source": "The Gospel Coalition",
-      "date": "Fri, 18 Sep 2026 04:01:00 +0000",
-      "summary": "The American government needs a moral people, but that doesn’t mean it should be entrusted to guard the beliefs that make a people moral.",
-      "url": "https://www.thegospelcoalition.org/article/not-christian-nationalist/"
     },
     {
       "category": "AI",
