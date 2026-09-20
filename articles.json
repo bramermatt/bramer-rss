@@ -1,54 +1,62 @@
 {
-  "lastUpdated": "2026-09-20T18:24:30.083Z",
+  "lastUpdated": "2026-09-20T23:45:34.087Z",
   "articleCount": 36,
   "articles": [
     {
-      "category": "AI",
-      "title": "A Necessary History of the Oddest Letter: W",
-      "source": "Hacker News: Front Page",
-      "date": "Sun, 20 Sep 2026 17:55:57 +0000",
-      "summary": "Article URL: https://lithub.com/a-necessary-history-of-the-oddest-letter-w/\nComments URL: https://news.ycombinator.com/item?id=49778195\nPoints: 9\n# Comments: 1",
-      "url": "https://lithub.com/a-necessary-history-of-the-oddest-letter-w/"
-    },
-    {
-      "category": "AI",
-      "title": "I turned Jev into a (lousy) chatbot",
-      "source": "Hacker News: Front Page",
-      "date": "Sun, 20 Sep 2026 17:51:27 +0000",
-      "summary": "Article URL: https://github.com/kyle-pena-nlp/jevchat/\nComments URL: https://news.ycombinator.com/item?id=49778162\nPoints: 10\n# Comments: 0",
-      "url": "https://github.com/kyle-pena-nlp/jevchat/"
-    },
-    {
-      "category": "AI",
-      "title": "Self-hosted inference orchestrators compared: LocalAI, exo, GPUStack, vLLM",
-      "source": "Hacker News: Front Page",
-      "date": "Sun, 20 Sep 2026 17:43:35 +0000",
-      "summary": "Article URL: https://www.nexlab.net/articles/self-hosted-inference-orchestrators-compared-2026/\nComments URL: https://news.ycombinator.com/item?id=49778078\nPoints: 3\n# Comments: 0",
-      "url": "https://www.nexlab.net/articles/self-hosted-inference-orchestrators-compared-2026/"
+      "category": "Science",
+      "title": " 'Nothing short of a minor miracle': 'Rusty treasure' found in the Danube is full of 2,000-year-old iron bars that could equip an entire army with weapons ",
+      "source": " Latest from Live Science ",
+      "date": "Sun, 20 Sep 2026 23:01:00 +0000",
+      "summary": "Archaeologists in Austria have analyzed a collection of 500 iron bars that were likely lost in a Danube shipwreck 2,200 years ago.",
+      "url": "https://www.livescience.com/archaeology/nothing-short-of-a-minor-miracle-rusty-treasure-found-in-the-danube-is-full-of-2-000-year-old-iron-bars-that-could-equip-an-entire-army-with-weapons"
     },
     {
       "category": "Science",
-      "title": "To understand the solar cycle, notice how the sun sleeps",
+      "title": "'Rusty treasure' find revealed as Europe's largest assemblage of prehistoric iron bars",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Sun, 20 Sep 2026 13:20:01 EDT",
-      "summary": "The sun is such a constant in our lives that it can be difficult to imagine our star ever changing. But the sun can be quite variable. There are times when its magnetic field is turbulent and generates many sunspots and other times when it is quiet and dormant. Since the 1800s, we've known that these active and passive periods follow an 11-year pattern known as the solar cycle. But even after centuries of observation, we still have a difficult time predicting exactly when solar maximum will occur and just how intense it will be. This is important because solar activity can have a significant impact on our modern technological infrastructure.",
-      "url": "https://phys.org/news/2026-09-solar-sun.html"
+      "date": "Sun, 20 Sep 2026 19:00:02 EDT",
+      "summary": "Analysis of a \"rusty treasure\" excavated during industrial gravel extraction at Deinham, Austria, reveals it is the largest mass find of prehistoric iron bars in Europe, pointing to iron production and trade during the Iron Age on an unprecedented scale.",
+      "url": "https://phys.org/news/2026-09-rusty-treasure-revealed-europe-largest.html"
+    },
+    {
+      "category": "AI",
+      "title": "What Happened to the Snowden Archive",
+      "source": "Hacker News: Front Page",
+      "date": "Sun, 20 Sep 2026 22:35:49 +0000",
+      "summary": "Article URL: https://libroot.org/posts/what-happened-to-the-snowden-archive\nComments URL: https://news.ycombinator.com/item?id=49780820\nPoints: 45\n# Comments: 6",
+      "url": "https://libroot.org/posts/what-happened-to-the-snowden-archive"
+    },
+    {
+      "category": "AI",
+      "title": "Google's Open Agentic Orchestrator",
+      "source": "Hacker News: Front Page",
+      "date": "Sun, 20 Sep 2026 22:32:43 +0000",
+      "summary": "Article URL: https://agentexecutor.io\nComments URL: https://news.ycombinator.com/item?id=49780797\nPoints: 53\n# Comments: 10",
+      "url": "https://agentexecutor.io"
+    },
+    {
+      "category": "AI",
+      "title": "Bill to Ban Private Equity from Owning Medical Practices",
+      "source": "Hacker News: Front Page",
+      "date": "Sun, 20 Sep 2026 22:13:46 +0000",
+      "summary": "Article URL: https://truthout.org/articles/warren-introduces-bill-to-ban-private-equity-from-owning-medical-practices/\nComments URL: https://news.ycombinator.com/item?id=49780630\nPoints: 85\n# Comments: 42",
+      "url": "https://truthout.org/articles/warren-introduces-bill-to-ban-private-equity-from-owning-medical-practices/"
     },
     {
       "category": "Science",
-      "title": "Virtual cells built from 4D AI models and 'digital twins' could speed up drug discovery",
+      "title": "Cooling liquids reveal self-limiting particle clusters behind glass transition",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Sun, 20 Sep 2026 12:00:05 EDT",
-      "summary": "Mitochondria—tiny structures that convert nutrients into energy—are often depicted as discrete kidney bean-shaped objects. But in reality, they form a dynamic, interconnected network throughout the entire cell, rapidly splitting and fusing as they're transported to where energy is needed most.",
-      "url": "https://phys.org/news/2026-09-virtual-cells-built-4d-ai.html"
+      "date": "Sun, 20 Sep 2026 17:30:01 EDT",
+      "summary": "Before diving into the mystery of glass, theoretical physicist Corentin Laudicina takes us back to high school physics for a moment. Although he has spent years studying exactly what happens in a material during the glass transition, he also understands that his research is not the easiest thing to explain off the cuff at the cafeteria table.",
+      "url": "https://phys.org/news/2026-09-cooling-liquids-reveal-limiting-particle.html"
     },
     {
       "category": "Science",
-      "title": "The story of Little Italy's Feast of San Gennaro is the story of how Italian immigrants became American",
+      "title": "Tiny beach-dwelling crustaceans are big-time sand movers, shaping the California coast",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Sun, 20 Sep 2026 12:00:01 EDT",
-      "summary": "For two weeks in September, everyone wants to be Italian—at least judging by the crowds at the annual Feast of San Gennaro in New York City's Little Italy.",
-      "url": "https://phys.org/news/2026-09-story-italy-feast-san-gennaro.html"
+      "date": "Sun, 20 Sep 2026 16:20:01 EDT",
+      "summary": "Stand on the damp sand on a California beach and chances are you're standing on top of an active earthworks site. Sand hoppers (Megalorchestia spp.), the tiny, shrimp-like creatures commonly found eating away at kelp on the shore, have been found to move massive amounts of sand, excavating up to 50 kg (110 pounds) of sand per meter (3.3 feet) of shoreline per day.",
+      "url": "https://phys.org/news/2026-09-tiny-beach-crustaceans-big-sand.html"
     },
     {
       "category": "AI",
@@ -121,14 +129,6 @@
       "date": "Sun, 20 Sep 2026 04:00:00 +0000",
       "summary": "Cancer is a remarkable parable for sin, in both its disastrous nature and its available cure.",
       "url": "https://www.thegospelcoalition.org/article/parable-cancer-cell/"
-    },
-    {
-      "category": "Science",
-      "title": " Scientists build a DNA computer that can perform calculations in a drop of water ",
-      "source": " Latest from Live Science ",
-      "date": "Sat, 19 Sep 2026 14:00:00 +0000",
-      "summary": "This programmable DNA computer can perform arithmetic without the continuous energy input needed by other systems.",
-      "url": "https://www.livescience.com/technology/computing/scientists-build-a-dna-computer-that-can-perform-calculations-in-a-drop-of-water"
     },
     {
       "category": "Science",
