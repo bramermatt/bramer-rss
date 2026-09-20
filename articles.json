@@ -1,30 +1,54 @@
 {
-  "lastUpdated": "2026-09-20T13:50:43.170Z",
+  "lastUpdated": "2026-09-20T18:24:30.083Z",
   "articleCount": 36,
   "articles": [
     {
+      "category": "AI",
+      "title": "A Necessary History of the Oddest Letter: W",
+      "source": "Hacker News: Front Page",
+      "date": "Sun, 20 Sep 2026 17:55:57 +0000",
+      "summary": "Article URL: https://lithub.com/a-necessary-history-of-the-oddest-letter-w/\nComments URL: https://news.ycombinator.com/item?id=49778195\nPoints: 9\n# Comments: 1",
+      "url": "https://lithub.com/a-necessary-history-of-the-oddest-letter-w/"
+    },
+    {
+      "category": "AI",
+      "title": "I turned Jev into a (lousy) chatbot",
+      "source": "Hacker News: Front Page",
+      "date": "Sun, 20 Sep 2026 17:51:27 +0000",
+      "summary": "Article URL: https://github.com/kyle-pena-nlp/jevchat/\nComments URL: https://news.ycombinator.com/item?id=49778162\nPoints: 10\n# Comments: 0",
+      "url": "https://github.com/kyle-pena-nlp/jevchat/"
+    },
+    {
+      "category": "AI",
+      "title": "Self-hosted inference orchestrators compared: LocalAI, exo, GPUStack, vLLM",
+      "source": "Hacker News: Front Page",
+      "date": "Sun, 20 Sep 2026 17:43:35 +0000",
+      "summary": "Article URL: https://www.nexlab.net/articles/self-hosted-inference-orchestrators-compared-2026/\nComments URL: https://news.ycombinator.com/item?id=49778078\nPoints: 3\n# Comments: 0",
+      "url": "https://www.nexlab.net/articles/self-hosted-inference-orchestrators-compared-2026/"
+    },
+    {
       "category": "Science",
-      "title": "Satellites show Earth lost more than 12 trillion tons of ice from Greenland, Antarctica in 47 years",
+      "title": "To understand the solar cycle, notice how the sun sleeps",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Sun, 20 Sep 2026 09:30:01 EDT",
-      "summary": "About 12.5 trillion tons (11.3 trillion metric tons) of ice from glaciers in Greenland and Antarctica have melted since 1979, which is enough frozen water to stack ice 5 feet (1.5 meters) deep across the continental United States, according to a major scientific report.",
-      "url": "https://phys.org/news/2026-09-satellites-earth-lost-trillion-tons.html"
+      "date": "Sun, 20 Sep 2026 13:20:01 EDT",
+      "summary": "The sun is such a constant in our lives that it can be difficult to imagine our star ever changing. But the sun can be quite variable. There are times when its magnetic field is turbulent and generates many sunspots and other times when it is quiet and dormant. Since the 1800s, we've known that these active and passive periods follow an 11-year pattern known as the solar cycle. But even after centuries of observation, we still have a difficult time predicting exactly when solar maximum will occur and just how intense it will be. This is important because solar activity can have a significant impact on our modern technological infrastructure.",
+      "url": "https://phys.org/news/2026-09-solar-sun.html"
     },
     {
-      "category": "AI",
-      "title": "Chat-based Large Language Models replicate the mechanisms of a psychic's con",
-      "source": "Hacker News: Front Page",
-      "date": "Sun, 20 Sep 2026 12:20:13 +0000",
-      "summary": "Article URL: https://softwarecrisis.dev/letters/llmentalist/\nComments URL: https://news.ycombinator.com/item?id=49775104\nPoints: 29\n# Comments: 13",
-      "url": "https://softwarecrisis.dev/letters/llmentalist/"
+      "category": "Science",
+      "title": "Virtual cells built from 4D AI models and 'digital twins' could speed up drug discovery",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sun, 20 Sep 2026 12:00:05 EDT",
+      "summary": "Mitochondria—tiny structures that convert nutrients into energy—are often depicted as discrete kidney bean-shaped objects. But in reality, they form a dynamic, interconnected network throughout the entire cell, rapidly splitting and fusing as they're transported to where energy is needed most.",
+      "url": "https://phys.org/news/2026-09-virtual-cells-built-4d-ai.html"
     },
     {
-      "category": "AI",
-      "title": "The Millennium Problems for Biology",
-      "source": "Hacker News: Front Page",
-      "date": "Sun, 20 Sep 2026 12:17:54 +0000",
-      "summary": "Article URL: https://millenniumproblems.bio/\nComments URL: https://news.ycombinator.com/item?id=49775082\nPoints: 17\n# Comments: 12",
-      "url": "https://millenniumproblems.bio/"
+      "category": "Science",
+      "title": "The story of Little Italy's Feast of San Gennaro is the story of how Italian immigrants became American",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sun, 20 Sep 2026 12:00:01 EDT",
+      "summary": "For two weeks in September, everyone wants to be Italian—at least judging by the crowds at the annual Feast of San Gennaro in New York City's Little Italy.",
+      "url": "https://phys.org/news/2026-09-story-italy-feast-san-gennaro.html"
     },
     {
       "category": "AI",
@@ -33,14 +57,6 @@
       "date": "Sun, 20 Sep 2026 11:07:00 +0000",
       "summary": "Google’s threat intelligence group said it had a mole inside TeamPCP's inner circle.",
       "url": "https://arstechnica.com/security/2026/09/an-undercover-google-analyst-infiltrated-a-notorious-supply-chain-hacking-gang/"
-    },
-    {
-      "category": "AI",
-      "title": "Why Do We Need Human Mathematicians Anymore?",
-      "source": "Hacker News: Front Page",
-      "date": "Sun, 20 Sep 2026 10:49:58 +0000",
-      "summary": "Article URL: https://terrytao.wordpress.com/2026/09/19/why-do-we-need-human-mathematicians-anymore/\nComments URL: https://news.ycombinator.com/item?id=49774521\nPoints: 48\n# Comments: 51",
-      "url": "https://terrytao.wordpress.com/2026/09/19/why-do-we-need-human-mathematicians-anymore/"
     },
     {
       "category": "Science",
@@ -105,22 +121,6 @@
       "date": "Sun, 20 Sep 2026 04:00:00 +0000",
       "summary": "Cancer is a remarkable parable for sin, in both its disastrous nature and its available cure.",
       "url": "https://www.thegospelcoalition.org/article/parable-cancer-cell/"
-    },
-    {
-      "category": "Science",
-      "title": "At an old steel site in Pittsburgh, bacteria evolved to survive—and eat—industrial pollution",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sat, 19 Sep 2026 19:30:01 EDT",
-      "summary": "Across Appalachia and the Rust Belt region, including throughout the city of Pittsburgh, former industrial sites are being transformed into new neighborhoods, research centers and technology hubs.",
-      "url": "https://phys.org/news/2026-09-steel-site-pittsburgh-bacteria-evolved.html"
-    },
-    {
-      "category": "Science",
-      "title": "How the malaria parasite boosts its transmission potential under stress conditions",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sat, 19 Sep 2026 17:00:05 EDT",
-      "summary": "The malaria parasite is able to detect changes in its host's environment and respond by increasing the production of sexual forms capable of being transmitted to mosquitoes. A study led by the Barcelona Institute for Global Health (ISGlobal) identifies the molecular mechanism underlying this process. The findings, published in Nature Microbiology, answer what has been one of the major unanswered questions in malaria research for decades.",
-      "url": "https://phys.org/news/2026-09-malaria-parasite-boosts-transmission-potential.html"
     },
     {
       "category": "Science",
