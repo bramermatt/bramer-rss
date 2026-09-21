@@ -1,126 +1,182 @@
 {
-  "lastUpdated": "2026-09-20T23:45:34.087Z",
-  "articleCount": 36,
+  "lastUpdated": "2026-09-21T16:07:19.564Z",
+  "articleCount": 33,
   "articles": [
     {
       "category": "Science",
-      "title": " 'Nothing short of a minor miracle': 'Rusty treasure' found in the Danube is full of 2,000-year-old iron bars that could equip an entire army with weapons ",
+      "title": "Family interactions can help young beetles cope with climate stress, study finds",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Mon, 21 Sep 2026 12:00:03 EDT",
+      "summary": "Climate change is one of the most complex challenges of our time and places considerable strain on a wide range of animal groups. A research team at the University of Bayreuth has used burying beetles to investigate the extent to which social interactions among family members can buffer the effects of environmental stress.",
+      "url": "https://phys.org/news/2026-09-family-interactions-young-beetles-cope.html"
+    },
+    {
+      "category": "Science",
+      "title": "Quantum communication protocol enables three users to establish a shared secure key",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Mon, 21 Sep 2026 12:00:01 EDT",
+      "summary": "Quantum key distribution allows two users to establish secret keys whose security is grounded in the laws of quantum mechanics. Extending this capability to multiple users is an essential step toward quantum networks that support secure communication among many participants. Quantum cryptographic conferencing addresses this need by enabling multiple users to share the same secure key, which they can then use to protect group communications.",
+      "url": "https://phys.org/news/2026-09-quantum-communication-protocol-enables-users.html"
+    },
+    {
+      "category": "Science",
+      "title": "New review outlines a governance roadmap for Europe's growing flood risks",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Mon, 21 Sep 2026 11:40:04 EDT",
+      "summary": "In 2024 alone, flood-related disasters around the world caused more than 8,700 deaths and economic losses exceeding 450 billion euros, with cumulative global losses of about 2.7 trillion euros over the previous decade. Against this backdrop, Europe's recent floods—from riverine events in large basins to flash floods in dense urban areas—have exposed the limits of existing protection systems and emergency responses.",
+      "url": "https://phys.org/news/2026-09-outlines-roadmap-europe.html"
+    },
+    {
+      "category": "AI",
+      "title": "Good people refuse to do bad things",
+      "source": "Hacker News: Front Page",
+      "date": "Mon, 21 Sep 2026 15:31:47 +0000",
+      "summary": "Article URL: https://carette.xyz/posts/good_people_refuse_to_do_bad_things/\nComments URL: https://news.ycombinator.com/item?id=49788592\nPoints: 21\n# Comments: 2",
+      "url": "https://carette.xyz/posts/good_people_refuse_to_do_bad_things/"
+    },
+    {
+      "category": "AI",
+      "title": "Meta bans ads for Virginia Woolf play in Spain",
+      "source": "Hacker News: Front Page",
+      "date": "Mon, 21 Sep 2026 14:30:39 +0000",
+      "summary": "Article URL: https://www.theguardian.com/technology/2026/sep/21/meta-ban-virginia-woolf-a-room-of-ones-own-barcelona-teatre-raval\nComments URL: https://news.ycombinator.com/item?id=49787767\nPoints: 93\n# Comments: 51",
+      "url": "https://www.theguardian.com/technology/2026/sep/21/meta-ban-virginia-woolf-a-room-of-ones-own-barcelona-teatre-raval"
+    },
+    {
+      "category": "AI",
+      "title": "The Claude Delusion",
+      "source": "Hacker News: Front Page",
+      "date": "Mon, 21 Sep 2026 14:30:24 +0000",
+      "summary": "Article URL: https://pluralistic.net/2026/09/21/sunsetting/\nComments URL: https://news.ycombinator.com/item?id=49787765\nPoints: 43\n# Comments: 31",
+      "url": "https://pluralistic.net/2026/09/21/sunsetting/"
+    },
+    {
+      "category": "AI",
+      "title": "Review: Neagley is a worthy spinoff to megahit Reacher",
+      "source": "Ars Technica - All content",
+      "date": "Mon, 21 Sep 2026 13:53:46 +0000",
+      "summary": "It's a bit uneven in execution but still delivers as fast-paced, entertaining escapist fare.",
+      "url": "https://arstechnica.com/culture/2026/09/review-neagley-is-a-worthy-spinoff-to-megahit-reacher/"
+    },
+    {
+      "category": "Science",
+      "title": "A new process turns plastic waste into gasoline and diesel fuel",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Mon, 21 Sep 2026 09:08:40 EDT",
+      "summary": "Scientists at Oak Ridge National Laboratory have developed a surprisingly simple way to turn polyethylene, the common plastic used in shopping bags and cutting boards, into gasoline and diesel-like fuels. The process uses inexpensive aluminum-based molten salts to break long plastic molecules into smaller hydrocarbons, producing about 60% gasoline under relatively mild conditions.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260920222405.htm"
+    },
+    {
+      "category": "AI",
+      "title": "Apple Mac mini review: The new M6 impresses, but the price hike is rough",
+      "source": "Ars Technica - All content",
+      "date": "Mon, 21 Sep 2026 13:00:24 +0000",
+      "summary": "The M4 Mac mini was one of Apple's best values. The $899 M6 mini, not so much.",
+      "url": "https://arstechnica.com/gadgets/2026/09/apple-m6-mac-mini-review-300-price-hike-spoils-a-nice-upgrade/"
+    },
+    {
+      "category": "AI",
+      "title": "Googlebooks launch October 4 starting at $899—here are the five models you can preorder today",
+      "source": "Ars Technica - All content",
+      "date": "Mon, 21 Sep 2026 13:00:11 +0000",
+      "summary": "Googlebooks offer premium hardware and deep smartphone integration, but you may not like the price.",
+      "url": "https://arstechnica.com/gadgets/2026/09/googlebook-laptops-launch-october-4-starting-at-899-preorders-for-five-models-live-today/"
+    },
+    {
+      "category": "Science",
+      "title": "Scientists create a needle-thin brain implant that can do three jobs at once",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Mon, 21 Sep 2026 08:25:22 EDT",
+      "summary": "A new needle-thin brain implant can record neural activity, deliver drugs, and stimulate multiple brain regions using a single flexible fiber. Successful tests in mice suggest it could give scientists a more precise, less invasive way to study the brain and may eventually help treat neurological disorders such as epilepsy.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260920222416.htm"
+    },
+    {
+      "category": "Science",
+      "title": "NASA just powered up Roman’s massive 300-megapixel camera",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Mon, 21 Sep 2026 08:10:58 EDT",
+      "summary": "NASA’s Roman Space Telescope has successfully activated its 300-megapixel infrared camera, which will capture enormous stretches of the cosmos with Hubble-like sharpness. Its planet-hunting coronagraph is also working as expected, putting Roman another major step closer to beginning science operations in 2027.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260921081058.htm"
+    },
+    {
+      "category": "History",
+      "title": "American Patriarch: The Life of George Washington by H. W. Brands",
+      "source": "Journal of the American Revolution",
+      "date": "Mon, 21 Sep 2026 11:58:18 +0000",
+      "summary": "American Patriarch: The Life of George Washington by H. W. Brands (New York, NY: Doubleday, 2026) $40.00 hardcover. The prolific historian H. W. Brands has added to his Revolutionary Era portfolio (previous books include Founding Partisans, Heirs of the Founders and Our First Civil War) with his biography of His Excellency, American Patriarch: The Life […]\nThe post American Patriarch: The Life of George Washington by H. W. Brands appeared first on Journal of the American Revolution.",
+      "url": "https://allthingsliberty.com/2026/09/american-patriarch-the-life-of-george-washington-by-h-w-brands/"
+    },
+    {
+      "category": "Biblical Studies",
+      "title": "Rings Before Marriage in Hellenistic Jerusalem?",
+      "source": "Biblical Archaeology Society",
+      "date": "Mon, 21 Sep 2026 10:45:43 +0000",
+      "summary": "A recent ‘Atiqot article draws attention to a small number of remarkable finds from Hellenistic Jerusalem: four gold ornaments and three bronze earrings recovered from […]\nThe post Rings Before Marriage in Hellenistic Jerusalem? appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/rings-before-marriage-in-hellenistic-jerusalem/"
+    },
+    {
+      "category": "Biblical Studies",
+      "title": "Understanding the Jewish Calendar",
+      "source": "Biblical Archaeology Society",
+      "date": "Mon, 21 Sep 2026 10:00:18 +0000",
+      "summary": "Ever wondered why the days for holidays like Hanukkah and Passover seem to shift around from year to year? The simple answer is that these […]\nThe post Understanding the Jewish Calendar appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/daily/understanding-the-jewish-calendar/"
+    },
+    {
+      "category": "Science",
+      "title": " Funeral mask: A 2,000-year-old gold face covering designed to confuse the deceased's spirit so it didn't torment the living ",
+      "source": " Latest from Live Science ",
+      "date": "Mon, 21 Sep 2026 10:00:00 +0000",
+      "summary": "This death mask is a spectacular example of goldwork from prehistoric Java,  Indonesia.",
+      "url": "https://www.livescience.com/archaeology/funeral-mask-a-2-000-year-old-gold-face-covering-designed-to-confuse-the-deceaseds-spirit-so-it-didnt-torment-the-living"
+    },
+    {
+      "category": "Science",
+      "title": " The devastating Nepal floods highlighted the danger of glaciers. Here's where the next disaster may occur. ",
+      "source": " Latest from Live Science ",
+      "date": "Mon, 21 Sep 2026 09:00:00 +0000",
+      "summary": "The glacial collapse that killed 1,400 people in Nepal in August highlighted one epicenter for such disasters — but there are other hotspots that experts are worried about.",
+      "url": "https://www.livescience.com/planet-earth/climate-change/the-devastating-nepal-floods-highlighted-the-danger-of-glaciers-heres-where-the-next-disaster-may-occur"
+    },
+    {
+      "category": "Theology",
+      "title": "When Your Christian Workplace Isn’t Very Christian",
+      "source": "The Gospel Coalition",
+      "date": "Mon, 21 Sep 2026 04:02:00 +0000",
+      "summary": "If God doesn’t immediately move the mountain of improving our workplace culture, maybe he’s calling us to chip away at the mountain instead.",
+      "url": "https://www.thegospelcoalition.org/article/christian-workplace-not-christian/"
+    },
+    {
+      "category": "Theology",
+      "title": "How Your Story of Sorrow Fits into the Gospel Story",
+      "source": "The Gospel Coalition",
+      "date": "Mon, 21 Sep 2026 04:00:00 +0000",
+      "summary": "If you place Jesus at the center of your life, his presence will not make the absences you feel go away. But you will find that the things that once gave you joy have their ultimate home in him.",
+      "url": "https://www.thegospelcoalition.org/article/sorrow-fits-gospel-story/"
+    },
+    {
+      "category": "AI",
+      "title": "How V7 gives AI agents institutional memory",
+      "source": "OpenAI News",
+      "date": "Mon, 21 Sep 2026 00:00:00 GMT",
+      "summary": "Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work.",
+      "url": "https://openai.com/index/v7"
+    },
+    {
+      "category": "Science",
+      "title": " 'Nothing short of a minor miracle': 'Rusty treasure' found in the Danube is full of 2,200-year-old iron bars that could equip an entire army with weapons ",
       "source": " Latest from Live Science ",
       "date": "Sun, 20 Sep 2026 23:01:00 +0000",
       "summary": "Archaeologists in Austria have analyzed a collection of 500 iron bars that were likely lost in a Danube shipwreck 2,200 years ago.",
       "url": "https://www.livescience.com/archaeology/nothing-short-of-a-minor-miracle-rusty-treasure-found-in-the-danube-is-full-of-2-000-year-old-iron-bars-that-could-equip-an-entire-army-with-weapons"
     },
     {
-      "category": "Science",
-      "title": "'Rusty treasure' find revealed as Europe's largest assemblage of prehistoric iron bars",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sun, 20 Sep 2026 19:00:02 EDT",
-      "summary": "Analysis of a \"rusty treasure\" excavated during industrial gravel extraction at Deinham, Austria, reveals it is the largest mass find of prehistoric iron bars in Europe, pointing to iron production and trade during the Iron Age on an unprecedented scale.",
-      "url": "https://phys.org/news/2026-09-rusty-treasure-revealed-europe-largest.html"
-    },
-    {
-      "category": "AI",
-      "title": "What Happened to the Snowden Archive",
-      "source": "Hacker News: Front Page",
-      "date": "Sun, 20 Sep 2026 22:35:49 +0000",
-      "summary": "Article URL: https://libroot.org/posts/what-happened-to-the-snowden-archive\nComments URL: https://news.ycombinator.com/item?id=49780820\nPoints: 45\n# Comments: 6",
-      "url": "https://libroot.org/posts/what-happened-to-the-snowden-archive"
-    },
-    {
-      "category": "AI",
-      "title": "Google's Open Agentic Orchestrator",
-      "source": "Hacker News: Front Page",
-      "date": "Sun, 20 Sep 2026 22:32:43 +0000",
-      "summary": "Article URL: https://agentexecutor.io\nComments URL: https://news.ycombinator.com/item?id=49780797\nPoints: 53\n# Comments: 10",
-      "url": "https://agentexecutor.io"
-    },
-    {
-      "category": "AI",
-      "title": "Bill to Ban Private Equity from Owning Medical Practices",
-      "source": "Hacker News: Front Page",
-      "date": "Sun, 20 Sep 2026 22:13:46 +0000",
-      "summary": "Article URL: https://truthout.org/articles/warren-introduces-bill-to-ban-private-equity-from-owning-medical-practices/\nComments URL: https://news.ycombinator.com/item?id=49780630\nPoints: 85\n# Comments: 42",
-      "url": "https://truthout.org/articles/warren-introduces-bill-to-ban-private-equity-from-owning-medical-practices/"
-    },
-    {
-      "category": "Science",
-      "title": "Cooling liquids reveal self-limiting particle clusters behind glass transition",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sun, 20 Sep 2026 17:30:01 EDT",
-      "summary": "Before diving into the mystery of glass, theoretical physicist Corentin Laudicina takes us back to high school physics for a moment. Although he has spent years studying exactly what happens in a material during the glass transition, he also understands that his research is not the easiest thing to explain off the cuff at the cafeteria table.",
-      "url": "https://phys.org/news/2026-09-cooling-liquids-reveal-limiting-particle.html"
-    },
-    {
-      "category": "Science",
-      "title": "Tiny beach-dwelling crustaceans are big-time sand movers, shaping the California coast",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sun, 20 Sep 2026 16:20:01 EDT",
-      "summary": "Stand on the damp sand on a California beach and chances are you're standing on top of an active earthworks site. Sand hoppers (Megalorchestia spp.), the tiny, shrimp-like creatures commonly found eating away at kelp on the shore, have been found to move massive amounts of sand, excavating up to 50 kg (110 pounds) of sand per meter (3.3 feet) of shoreline per day.",
-      "url": "https://phys.org/news/2026-09-tiny-beach-crustaceans-big-sand.html"
-    },
-    {
-      "category": "AI",
-      "title": "An undercover Google analyst infiltrated a notorious supply-chain hacking gang",
-      "source": "Ars Technica - All content",
-      "date": "Sun, 20 Sep 2026 11:07:00 +0000",
-      "summary": "Google’s threat intelligence group said it had a mole inside TeamPCP's inner circle.",
-      "url": "https://arstechnica.com/security/2026/09/an-undercover-google-analyst-infiltrated-a-notorious-supply-chain-hacking-gang/"
-    },
-    {
-      "category": "Science",
-      "title": "Scientists opened a sealed envelope after 10 years. Gravity still didn’t make sense",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Sun, 20 Sep 2026 06:30:31 EDT",
-      "summary": "A decade-long NIST experiment has produced a new measurement of the universal gravitational constant that differs unexpectedly from another leading result, deepening a 225-year-old physics puzzle. The discrepancy is tiny, but for one of nature’s most fundamental constants, it is large enough to keep scientists wondering whether hidden experimental errors or something more surprising is involved.",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260920032049.htm"
-    },
-    {
-      "category": "AI",
-      "title": "Don't call it an SUV: The Ferrari Purosangue review",
-      "source": "Ars Technica - All content",
-      "date": "Sun, 20 Sep 2026 10:00:02 +0000",
-      "summary": "Unlike previous Ferrari four-seaters, this one is better for humans than cargo.",
-      "url": "https://arstechnica.com/cars/2026/09/dont-call-it-an-suv-the-ferrari-purosangue-review/"
-    },
-    {
-      "category": "Science",
-      "title": " 'We are on our way to groundbreaking science': Stars turn neon-green in first test image from NASA's Roman telescope — Space photo of the week ",
-      "source": " Latest from Live Science ",
-      "date": "Sun, 20 Sep 2026 10:00:00 +0000",
-      "summary": "This week, NASA turned on the Nancy Grace Roman Space Telescope's powerful 300-megapixel camera for the first time. The debut test image promises \"groundbreaking science\" to come with NASA already talking about doubling the mission's lifespan.",
-      "url": "https://www.livescience.com/space/astronomy/we-are-on-our-way-to-groundbreaking-science-stars-turn-neon-green-in-first-test-image-from-nasas-roman-telescope-space-photo-of-the-week"
-    },
-    {
-      "category": "AI",
-      "title": "T. rex teeth indicate it ran as warm as an elephant",
-      "source": "Ars Technica - All content",
-      "date": "Sun, 20 Sep 2026 09:00:11 +0000",
-      "summary": "Isotope ratios provide a hint that the giants were actively managing temperatures.",
-      "url": "https://arstechnica.com/science/2026/09/t-rex-teeth-indicate-it-ran-as-warm-as-an-elephant/"
-    },
-    {
-      "category": "Science",
-      "title": " Did the Vikings really shoot fiery arrows at funeral boats? ",
-      "source": " Latest from Live Science ",
-      "date": "Sun, 20 Sep 2026 09:00:00 +0000",
-      "summary": "The idea of Vikings using fire arrows to set funeral boats ablaze is seen frequently in popular culture. But did it really happen?",
-      "url": "https://www.livescience.com/archaeology/vikings/did-the-vikings-really-shoot-fiery-arrows-at-funeral-boats"
-    },
-    {
-      "category": "Science",
-      "title": "Hurricane Hunters reveal 4 warning signs that a storm is about to strengthen",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Sun, 20 Sep 2026 00:29:23 EDT",
-      "summary": "Nearly three decades of Hurricane Hunter data reveal four features that can help a tilted tropical cyclone straighten its circulation and become capable of intensifying. The findings could give forecasters an earlier warning that a seemingly disorganized storm is becoming primed to strengthen.",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260919031037.htm"
-    },
-    {
-      "category": "Space",
-      "title": "APOD: 2026 September 20 – Analemma over the Callanish Stones",
-      "source": "NASA",
-      "date": "Sun, 20 Sep 2026 04:05:00 +0000",
-      "summary": "APOD Science APOD APOD: 2026 September 20 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Analemma over the […]",
-      "url": "https://science.nasa.gov/image-article/apod-2026-september-20-analemma-over-the-callanish-stones/"
+      "category": "Biblical Studies",
+      "title": "The History of the Tetragrammaton",
+      "source": "Biblical Archaeology Society",
+      "date": "Sun, 20 Sep 2026 11:00:38 +0000",
+      "summary": "There is a famous movie scene in which the world’s most notorious archaeologist, Indiana Jones, must pass a series of harrowing trials in order […]\nThe post The History of the Tetragrammaton appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/daily/biblical-artifacts/inscriptions/the-history-of-the-tetragrammaton/"
     },
     {
       "category": "Theology",
@@ -131,38 +187,6 @@
       "url": "https://www.thegospelcoalition.org/article/parable-cancer-cell/"
     },
     {
-      "category": "Science",
-      "title": "A giant crater may reveal the origin of Mars’ doomed moon",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Sat, 19 Sep 2026 08:12:41 EDT",
-      "summary": "A massive crater on Mars’ moon Phobos may hide a dense region of compressed material that could reveal whether the moon is a captured asteroid or debris from an ancient impact on Mars. Japan’s upcoming MMX sample return mission could provide the measurements and physical evidence needed to solve the mystery.",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260919031040.htm"
-    },
-    {
-      "category": "Space",
-      "title": "APOD: 2026 September 19 – A Zodiacal Night",
-      "source": "NASA",
-      "date": "Sat, 19 Sep 2026 04:05:00 +0000",
-      "summary": "APOD Science APOD APOD: 2026 September 19 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Night SkyAnnotation A […]",
-      "url": "https://science.nasa.gov/image-article/apod-2026-september-19-a-zodiacal-night/"
-    },
-    {
-      "category": "Theology",
-      "title": "How to Grieve When Loved Ones Leave for the Mission Field",
-      "source": "The Gospel Coalition",
-      "date": "Sat, 19 Sep 2026 04:00:00 +0000",
-      "summary": "These wonderful people in your life aren’t yours to keep. They’re God’s gift to you, and they’re his to send on mission.",
-      "url": "https://www.thegospelcoalition.org/article/grieve-loved-ones-mission/"
-    },
-    {
-      "category": "Space",
-      "title": "NASA Invites Media to Albania Artemis Accords Signing Ceremony",
-      "source": "NASA",
-      "date": "Fri, 18 Sep 2026 19:56:08 +0000",
-      "summary": "The Republic of Albania will sign the Artemis Accords during a ceremony at 12 p.m. EDT on Monday, Sept. 21, at NASA Headquarters in Washington, becoming the 73rd country signatory. NASA Deputy Administrator Matt Anderson will host Albania’s Minister for Europe and Foreign Affairs Ferit Hoxha and Ambassador of the Republic of Albania to the […]",
-      "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-albania-artemis-accords-signing-ceremony/"
-    },
-    {
       "category": "AI",
       "title": "Introducing the Australian Youth Safety Blueprint",
       "source": "OpenAI News",
@@ -171,52 +195,12 @@
       "url": "https://openai.com/index/australian-youth-safety-blueprint"
     },
     {
-      "category": "Biblical Studies",
-      "title": "Snakes and Lizards as Food and Foe",
-      "source": "Biblical Archaeology Society",
-      "date": "Fri, 18 Sep 2026 10:45:17 +0000",
-      "summary": "The Bible has a complicated relationship with snakes and lizards. The serpent tempts Eve in Genesis 3. Fiery serpents afflict the Israelites in Numbers 21. […]\nThe post Snakes and Lizards as Food and Foe appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/daily-life-and-practice/snakes-and-lizards-as-food-and-foe/"
-    },
-    {
-      "category": "Biblical Studies",
-      "title": "Jewish Pilgrimage in Second Temple Jerusalem",
-      "source": "Biblical Archaeology Society",
-      "date": "Fri, 18 Sep 2026 10:00:37 +0000",
-      "summary": "The biblical command to appear before God on the three major festivals every year (Deuteronomy 16:16) meant that Jerusalem received thousands of pilgrims at Passover […]\nThe post Jewish Pilgrimage in Second Temple Jerusalem appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/daily/biblical-sites-places/jerusalem/jewish-pilgrimage-second-temple-jerusalem/"
-    },
-    {
-      "category": "Theology",
-      "title": "The Subversive Gospel in a Polarized World (Part 2)",
-      "source": "The Gospel Coalition",
-      "date": "Fri, 18 Sep 2026 04:04:00 +0000",
-      "summary": "Does the gospel have the power to bridge the chasms within a polarized church?",
-      "url": "https://www.thegospelcoalition.org/podcasts/tgc-podcast/subversive-gospel-polarized-world-2/"
-    },
-    {
       "category": "AI",
       "title": "How Cooley is accelerating IPO work with ChatGPT",
       "source": "OpenAI News",
       "date": "Thu, 17 Sep 2026 12:00:00 GMT",
       "summary": "Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters most.",
       "url": "https://openai.com/index/cooley-gopublic"
-    },
-    {
-      "category": "Biblical Studies",
-      "title": "The Epic of Gilgamesh",
-      "source": "Biblical Archaeology Society",
-      "date": "Thu, 17 Sep 2026 11:00:32 +0000",
-      "summary": "The Epic of Gilgamesh is an ancient Mesopotamian literary work that tells a fantastic story of King Gilgamesh’s failed quest for immortality. Set in early […]\nThe post The Epic of Gilgamesh appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/daily/the-epic-of-gilgamesh/"
-    },
-    {
-      "category": "AI",
-      "title": "Introducing Astra for Law",
-      "source": "OpenAI News",
-      "date": "Thu, 17 Sep 2026 00:00:00 GMT",
-      "summary": "OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work.",
-      "url": "https://openai.com/index/astra-for-law"
     },
     {
       "category": "History",
@@ -233,14 +217,6 @@
       "date": "Wed, 16 Sep 2026 17:49:38 +0000",
       "summary": "On this week’s Dispatches, host Brady Crytzer interviews JAR contributor and historian Davis Richardson about the correspondence between the Marquis de Lafayette and Thomas Jefferson in the wake of the American Revolution and the coming French Revolution. New episodes of Dispatches are available for free every Sunday evening(Eastern United States Time), first on iTunes, Stitcher, […]\nThe post This Week on Dispatches: Davis Richardson on Lafayette, Jefferson, and Revolutionary Ideas appeared first on Journal of the American Revolution.",
       "url": "https://allthingsliberty.com/2026/09/this-week-on-dispatches-davis-richardson-on-lafayette-jefferson-and-revolutionary-ideas/"
-    },
-    {
-      "category": "History",
-      "title": "An Irruption into Canada: The Planned Winter Campaign of 1778",
-      "source": "Journal of the American Revolution",
-      "date": "Tue, 15 Sep 2026 09:00:00 +0000",
-      "summary": "Just a few months after the Revolutionary War began, Congress authorized the invasion of Canada. After some initial success, the invading forces were defeated at the Battle of Quebec in December 1775 and were forced out of Canada entirely the following June. Despite this failure, many still expected Canada to join the union as the […]\nThe post An Irruption into Canada: The Planned Winter Campaign of 1778 appeared first on Journal of the American Revolution.",
-      "url": "https://allthingsliberty.com/2026/09/an-irruption-into-canada-the-planned-winter-campaign-of-1778/"
     },
     {
       "category": "Theology",
