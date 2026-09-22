@@ -1,62 +1,102 @@
 {
-  "lastUpdated": "2026-09-21T16:07:19.564Z",
+  "lastUpdated": "2026-09-22T00:27:23.723Z",
   "articleCount": 33,
   "articles": [
     {
       "category": "Science",
-      "title": "Family interactions can help young beetles cope with climate stress, study finds",
+      "title": "Fairness-based pathways shift emissions cuts while preserving global climate goals",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Mon, 21 Sep 2026 12:00:03 EDT",
-      "summary": "Climate change is one of the most complex challenges of our time and places considerable strain on a wide range of animal groups. A research team at the University of Bayreuth has used burying beetles to investigate the extent to which social interactions among family members can buffer the effects of environmental stress.",
-      "url": "https://phys.org/news/2026-09-family-interactions-young-beetles-cope.html"
+      "date": "Mon, 21 Sep 2026 20:20:01 EDT",
+      "summary": "Who cuts emissions fastest, and who supports others in doing so, are central questions in global climate action. New IIASA-led research shows that building fairness into climate models from the start can inform deliberations without changing the overall climate goal.",
+      "url": "https://phys.org/news/2026-09-fairness-based-pathways-shift-emissions.html"
     },
     {
       "category": "Science",
-      "title": "Quantum communication protocol enables three users to establish a shared secure key",
+      "title": "Urban segregation study traces how history and ecology shape inequality in southern Chile",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Mon, 21 Sep 2026 12:00:01 EDT",
-      "summary": "Quantum key distribution allows two users to establish secret keys whose security is grounded in the laws of quantum mechanics. Extending this capability to multiple users is an essential step toward quantum networks that support secure communication among many participants. Quantum cryptographic conferencing addresses this need by enabling multiple users to share the same secure key, which they can then use to protect group communications.",
-      "url": "https://phys.org/news/2026-09-quantum-communication-protocol-enables-users.html"
+      "date": "Mon, 21 Sep 2026 20:00:01 EDT",
+      "summary": "Segregation is a multidimensional phenomenon deeply intertwined with historical, social and ecological contexts. Yet this more integrated perspective has received limited attention in the Global South. A recent study focusing on the city of Valdivia offers an exception, examining three key historical moments: colonization, the devastating 1960 earthquake and current struggles to protect urban wetlands.",
+      "url": "https://phys.org/news/2026-09-urban-segregation-history-ecology-inequality.html"
+    },
+    {
+      "category": "AI",
+      "title": "7 out of 9 Planetary Boundaries are breached",
+      "source": "Hacker News: Front Page",
+      "date": "Mon, 21 Sep 2026 23:53:36 +0000",
+      "summary": "Article URL: https://www.planetaryhealthcheck.org/\nComments URL: https://news.ycombinator.com/item?id=49795019\nPoints: 11\n# Comments: 4",
+      "url": "https://www.planetaryhealthcheck.org/"
     },
     {
       "category": "Science",
-      "title": "New review outlines a governance roadmap for Europe's growing flood risks",
+      "title": "Circular mRNA helps cell factories make up to six times as much protein",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Mon, 21 Sep 2026 11:40:04 EDT",
-      "summary": "In 2024 alone, flood-related disasters around the world caused more than 8,700 deaths and economic losses exceeding 450 billion euros, with cumulative global losses of about 2.7 trillion euros over the previous decade. Against this backdrop, Europe's recent floods—from riverine events in large basins to flash floods in dense urban areas—have exposed the limits of existing protection systems and emergency responses.",
-      "url": "https://phys.org/news/2026-09-outlines-roadmap-europe.html"
+      "date": "Mon, 21 Sep 2026 19:40:06 EDT",
+      "summary": "A synthetic biology technology has been developed that converts easily degraded messenger RNA (mRNA) into a ring-shaped form inside microbial cells, increasing protein production.",
+      "url": "https://phys.org/news/2026-09-circular-mrna-cell-factories-protein.html"
     },
     {
       "category": "AI",
-      "title": "Good people refuse to do bad things",
+      "title": "Looking forward to Git 2.56 – and 3.0",
       "source": "Hacker News: Front Page",
-      "date": "Mon, 21 Sep 2026 15:31:47 +0000",
-      "summary": "Article URL: https://carette.xyz/posts/good_people_refuse_to_do_bad_things/\nComments URL: https://news.ycombinator.com/item?id=49788592\nPoints: 21\n# Comments: 2",
-      "url": "https://carette.xyz/posts/good_people_refuse_to_do_bad_things/"
+      "date": "Mon, 21 Sep 2026 23:16:51 +0000",
+      "summary": "Article URL: https://lwn.net/SubscriberLink/1094575/2385e98583715c2b/\nComments URL: https://news.ycombinator.com/item?id=49794736\nPoints: 7\n# Comments: 1",
+      "url": "https://lwn.net/SubscriberLink/1094575/2385e98583715c2b/"
     },
     {
       "category": "AI",
-      "title": "Meta bans ads for Virginia Woolf play in Spain",
+      "title": "Spymarks, Not Watermarks",
       "source": "Hacker News: Front Page",
-      "date": "Mon, 21 Sep 2026 14:30:39 +0000",
-      "summary": "Article URL: https://www.theguardian.com/technology/2026/sep/21/meta-ban-virginia-woolf-a-room-of-ones-own-barcelona-teatre-raval\nComments URL: https://news.ycombinator.com/item?id=49787767\nPoints: 93\n# Comments: 51",
-      "url": "https://www.theguardian.com/technology/2026/sep/21/meta-ban-virginia-woolf-a-room-of-ones-own-barcelona-teatre-raval"
+      "date": "Mon, 21 Sep 2026 23:03:49 +0000",
+      "summary": "Article URL: https://brand.io/article/spymarks/\nComments URL: https://news.ycombinator.com/item?id=49794615\nPoints: 35\n# Comments: 10",
+      "url": "https://brand.io/article/spymarks/"
     },
     {
       "category": "AI",
-      "title": "The Claude Delusion",
-      "source": "Hacker News: Front Page",
-      "date": "Mon, 21 Sep 2026 14:30:24 +0000",
-      "summary": "Article URL: https://pluralistic.net/2026/09/21/sunsetting/\nComments URL: https://news.ycombinator.com/item?id=49787765\nPoints: 43\n# Comments: 31",
-      "url": "https://pluralistic.net/2026/09/21/sunsetting/"
-    },
-    {
-      "category": "AI",
-      "title": "Review: Neagley is a worthy spinoff to megahit Reacher",
+      "title": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
       "source": "Ars Technica - All content",
-      "date": "Mon, 21 Sep 2026 13:53:46 +0000",
-      "summary": "It's a bit uneven in execution but still delivers as fast-paced, entertaining escapist fare.",
-      "url": "https://arstechnica.com/culture/2026/09/review-neagley-is-a-worthy-spinoff-to-megahit-reacher/"
+      "date": "Mon, 21 Sep 2026 22:24:38 +0000",
+      "summary": "A simple ClickFix attack is only one way to completely hijack the new agent.",
+      "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/"
+    },
+    {
+      "category": "Science",
+      "title": " What are you most excited for NASA's Roman Space Telescope to find? ",
+      "source": " Latest from Live Science ",
+      "date": "Mon, 21 Sep 2026 22:20:36 +0000",
+      "summary": "NASA's Nancy Grace Roman Space Telescope has taken its first pictures of space as it heads toward its orbital location. From there, it will begin scanning deep space to uncover more about our universe.",
+      "url": "https://www.livescience.com/space/astronomy/what-are-you-most-excited-for-nasas-roman-space-telescope-to-find"
+    },
+    {
+      "category": "AI",
+      "title": "Military milestone: Ukrainian naval drone sinks Russian kamikaze drone boat",
+      "source": "Ars Technica - All content",
+      "date": "Mon, 21 Sep 2026 21:07:05 +0000",
+      "summary": "Drone boat battle occurs as Ukraine and Russia target Black Sea ports and ships.",
+      "url": "https://arstechnica.com/gadgets/2026/09/military-milestone-ukrainian-naval-drone-sinks-russian-kamikaze-drone-boat/"
+    },
+    {
+      "category": "AI",
+      "title": "Saudi Arabia wants a car industry, launches Ceer with two EVs",
+      "source": "Ars Technica - All content",
+      "date": "Mon, 21 Sep 2026 20:55:36 +0000",
+      "summary": "The new carmaker is a joint venture between the Saudi PIF and Foxconn.",
+      "url": "https://arstechnica.com/cars/2026/09/saudi-arabia-wants-a-car-industry-launches-ceer-with-two-evs/"
+    },
+    {
+      "category": "Science",
+      "title": " Spaceflight may harm the reproductive system of astronauts' kids and grandkids, early mouse study suggests ",
+      "source": " Latest from Live Science ",
+      "date": "Mon, 21 Sep 2026 20:10:00 +0000",
+      "summary": "The offspring of mice that spend time on the International Space Station are more vulnerable to external stressors, a new study finds. More work is needed to understand potential health impacts on human astronauts' families.",
+      "url": "https://www.livescience.com/health/reproductive-health/spaceflight-may-harm-the-reproductive-system-of-astronauts-kids-and-grandkids-early-mouse-study-suggests"
+    },
+    {
+      "category": "Science",
+      "title": " Scientists made a paper battery you can swallow to power internal medical devices ",
+      "source": " Latest from Live Science ",
+      "date": "Mon, 21 Sep 2026 18:30:00 +0000",
+      "summary": "A paper-based, ingestible battery powered medical devices inside pigs for up to three days before gradually breaking down, a new study reported.",
+      "url": "https://www.livescience.com/health/scientists-made-a-paper-battery-you-can-swallow-to-power-internal-medical-devices"
     },
     {
       "category": "Science",
@@ -65,22 +105,6 @@
       "date": "Mon, 21 Sep 2026 09:08:40 EDT",
       "summary": "Scientists at Oak Ridge National Laboratory have developed a surprisingly simple way to turn polyethylene, the common plastic used in shopping bags and cutting boards, into gasoline and diesel-like fuels. The process uses inexpensive aluminum-based molten salts to break long plastic molecules into smaller hydrocarbons, producing about 60% gasoline under relatively mild conditions.",
       "url": "https://www.sciencedaily.com/releases/2026/09/260920222405.htm"
-    },
-    {
-      "category": "AI",
-      "title": "Apple Mac mini review: The new M6 impresses, but the price hike is rough",
-      "source": "Ars Technica - All content",
-      "date": "Mon, 21 Sep 2026 13:00:24 +0000",
-      "summary": "The M4 Mac mini was one of Apple's best values. The $899 M6 mini, not so much.",
-      "url": "https://arstechnica.com/gadgets/2026/09/apple-m6-mac-mini-review-300-price-hike-spoils-a-nice-upgrade/"
-    },
-    {
-      "category": "AI",
-      "title": "Googlebooks launch October 4 starting at $899—here are the five models you can preorder today",
-      "source": "Ars Technica - All content",
-      "date": "Mon, 21 Sep 2026 13:00:11 +0000",
-      "summary": "Googlebooks offer premium hardware and deep smartphone integration, but you may not like the price.",
-      "url": "https://arstechnica.com/gadgets/2026/09/googlebook-laptops-launch-october-4-starting-at-899-preorders-for-five-models-live-today/"
     },
     {
       "category": "Science",
@@ -97,6 +121,22 @@
       "date": "Mon, 21 Sep 2026 08:10:58 EDT",
       "summary": "NASA’s Roman Space Telescope has successfully activated its 300-megapixel infrared camera, which will capture enormous stretches of the cosmos with Hubble-like sharpness. Its planet-hunting coronagraph is also working as expected, putting Roman another major step closer to beginning science operations in 2027.",
       "url": "https://www.sciencedaily.com/releases/2026/09/260921081058.htm"
+    },
+    {
+      "category": "AI",
+      "title": "Advisory Group on Mathematics and Artificial Intelligence",
+      "source": "OpenAI News",
+      "date": "Mon, 21 Sep 2026 12:00:00 GMT",
+      "summary": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
+      "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai"
+    },
+    {
+      "category": "AI",
+      "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+      "source": "OpenAI News",
+      "date": "Mon, 21 Sep 2026 12:00:00 GMT",
+      "summary": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.",
+      "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra"
     },
     {
       "category": "History",
@@ -123,20 +163,12 @@
       "url": "https://www.biblicalarchaeology.org/daily/understanding-the-jewish-calendar/"
     },
     {
-      "category": "Science",
-      "title": " Funeral mask: A 2,000-year-old gold face covering designed to confuse the deceased's spirit so it didn't torment the living ",
-      "source": " Latest from Live Science ",
-      "date": "Mon, 21 Sep 2026 10:00:00 +0000",
-      "summary": "This death mask is a spectacular example of goldwork from prehistoric Java,  Indonesia.",
-      "url": "https://www.livescience.com/archaeology/funeral-mask-a-2-000-year-old-gold-face-covering-designed-to-confuse-the-deceaseds-spirit-so-it-didnt-torment-the-living"
-    },
-    {
-      "category": "Science",
-      "title": " The devastating Nepal floods highlighted the danger of glaciers. Here's where the next disaster may occur. ",
-      "source": " Latest from Live Science ",
-      "date": "Mon, 21 Sep 2026 09:00:00 +0000",
-      "summary": "The glacial collapse that killed 1,400 people in Nepal in August highlighted one epicenter for such disasters — but there are other hotspots that experts are worried about.",
-      "url": "https://www.livescience.com/planet-earth/climate-change/the-devastating-nepal-floods-highlighted-the-danger-of-glaciers-heres-where-the-next-disaster-may-occur"
+      "category": "AI",
+      "title": "Building standards for the next phase of AI",
+      "source": "OpenAI News",
+      "date": "Mon, 21 Sep 2026 10:00:00 GMT",
+      "summary": "OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety.",
+      "url": "https://openai.com/index/building-standards-next-phase-ai"
     },
     {
       "category": "Theology",
@@ -155,22 +187,6 @@
       "url": "https://www.thegospelcoalition.org/article/sorrow-fits-gospel-story/"
     },
     {
-      "category": "AI",
-      "title": "How V7 gives AI agents institutional memory",
-      "source": "OpenAI News",
-      "date": "Mon, 21 Sep 2026 00:00:00 GMT",
-      "summary": "Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work.",
-      "url": "https://openai.com/index/v7"
-    },
-    {
-      "category": "Science",
-      "title": " 'Nothing short of a minor miracle': 'Rusty treasure' found in the Danube is full of 2,200-year-old iron bars that could equip an entire army with weapons ",
-      "source": " Latest from Live Science ",
-      "date": "Sun, 20 Sep 2026 23:01:00 +0000",
-      "summary": "Archaeologists in Austria have analyzed a collection of 500 iron bars that were likely lost in a Danube shipwreck 2,200 years ago.",
-      "url": "https://www.livescience.com/archaeology/nothing-short-of-a-minor-miracle-rusty-treasure-found-in-the-danube-is-full-of-2-000-year-old-iron-bars-that-could-equip-an-entire-army-with-weapons"
-    },
-    {
       "category": "Biblical Studies",
       "title": "The History of the Tetragrammaton",
       "source": "Biblical Archaeology Society",
@@ -185,22 +201,6 @@
       "date": "Sun, 20 Sep 2026 04:00:00 +0000",
       "summary": "Cancer is a remarkable parable for sin, in both its disastrous nature and its available cure.",
       "url": "https://www.thegospelcoalition.org/article/parable-cancer-cell/"
-    },
-    {
-      "category": "AI",
-      "title": "Introducing the Australian Youth Safety Blueprint",
-      "source": "OpenAI News",
-      "date": "Fri, 18 Sep 2026 12:00:00 GMT",
-      "summary": "OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people.",
-      "url": "https://openai.com/index/australian-youth-safety-blueprint"
-    },
-    {
-      "category": "AI",
-      "title": "How Cooley is accelerating IPO work with ChatGPT",
-      "source": "OpenAI News",
-      "date": "Thu, 17 Sep 2026 12:00:00 GMT",
-      "summary": "Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters most.",
-      "url": "https://openai.com/index/cooley-gopublic"
     },
     {
       "category": "History",
