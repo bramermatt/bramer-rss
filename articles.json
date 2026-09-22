@@ -1,54 +1,126 @@
 {
-  "lastUpdated": "2026-09-22T19:26:41.418Z",
-  "articleCount": 33,
+  "lastUpdated": "2026-09-22T23:56:10.025Z",
+  "articleCount": 36,
   "articles": [
     {
       "category": "Science",
-      "title": "The mosquito's transition from vegan to bloodsucker explained",
+      "title": "The secret to a perfect crystal may be a precisely calibrated extra turn",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Tue, 22 Sep 2026 15:20:01 EDT",
-      "summary": "Scents govern most key events in the lives of mosquitoes, and there is extensive research on their sense of smell. A new study reveals how a young female mosquito shifts from focusing entirely on nectar to seeking only blood. An odor receptor that reacts to camphor was found to play a key role.",
-      "url": "https://phys.org/news/2026-09-mosquito-transition-vegan-bloodsucker.html"
-    },
-    {
-      "category": "AI",
-      "title": "Pentagon: Palantir AI Overreliance Led to Strike Killing 123 Iranian Children",
-      "source": "Hacker News: Front Page",
-      "date": "Tue, 22 Sep 2026 19:03:38 +0000",
-      "summary": "Article URL: https://gizmodo.com/pentagon-investigators-say-overreliance-on-palantir-ai-tech-contributed-to-u-s-strike-that-killed-123-iranian-children-2000814477\nComments URL: https://news.ycombinator.com/item?id=49806430\nPoints: 29\n# Comments: 7",
-      "url": "https://gizmodo.com/pentagon-investigators-say-overreliance-on-palantir-ai-tech-contributed-to-u-s-strike-that-killed-123-iranian-children-2000814477"
+      "date": "Tue, 22 Sep 2026 19:20:05 EDT",
+      "summary": "Creating a perfect crystal sounds straightforward: Arrange identical building blocks into a repeating, orderly structure. At the microscopic scale, though, even subtle biases in how particles interact can push them in preferred directions, making it harder to form uniform crystalline materials.",
+      "url": "https://phys.org/news/2026-09-secret-crystal-precisely-calibrated-extra.html"
     },
     {
       "category": "Science",
-      "title": "How families can support children's early mathematics learning at home",
+      "title": "Queasy plesiosaurs swam to shore to vomit, Jurassic fossils reveal",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Tue, 22 Sep 2026 15:00:04 EDT",
-      "summary": "For parents whose children have just entered kindergarten or first grade, new fall routines can bring excitement—and some anxiety.",
-      "url": "https://phys.org/news/2026-09-families-children-early-mathematics-home.html"
+      "date": "Tue, 22 Sep 2026 19:00:01 EDT",
+      "summary": "Plesiosaurs swam into river deltas to vomit up shells and other indigestible elements of their marine meals, suggests new research published by Cambridge University Press. The behavior resembles that of today's fur seals and marine crocodiles.",
+      "url": "https://phys.org/news/2026-09-queasy-plesiosaurs-swam-shore-vomit.html"
     },
     {
       "category": "Science",
-      "title": "Earth's chorus waves show limited link to rapid electron loss from radiation belts",
+      "title": "Injectable nanoparticles make blind retinas respond to light in preclinical study",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Tue, 22 Sep 2026 15:00:01 EDT",
-      "summary": "The Van Allen radiation belts are huge, doughnut-shaped regions of highly energetic charged particles trapped by Earth's magnetosphere. These charged particles play a major role in space weather, so studying them is important for predicting and managing risks to satellites, astronauts, power grids and other infrastructure.",
-      "url": "https://phys.org/news/2026-09-earth-chorus-limited-link-rapid.html"
+      "date": "Tue, 22 Sep 2026 18:40:02 EDT",
+      "summary": "An international research team has developed microscopic particles that can make blind retinas respond to light. The particles act as tiny light receptors. Researchers inject them into the eye, where they settle close to nerve cells in the retina. When light hits the particles, it triggers electrical and chemical processes that can activate the nerve cells and prompt them to send signals toward the brain.",
+      "url": "https://phys.org/news/2026-09-nanoparticles-retinas-preclinical.html"
     },
     {
       "category": "AI",
-      "title": "SAML: A Fractal of Bad Design",
+      "title": "The current balance of power in open models",
       "source": "Hacker News: Front Page",
-      "date": "Tue, 22 Sep 2026 18:57:17 +0000",
-      "summary": "Article URL: https://blog.trailofbits.com/2026/09/21/saml-a-fractal-of-bad-design/\nComments URL: https://news.ycombinator.com/item?id=49806335\nPoints: 6\n# Comments: 0",
-      "url": "https://blog.trailofbits.com/2026/09/21/saml-a-fractal-of-bad-design/"
+      "date": "Tue, 22 Sep 2026 22:03:46 +0000",
+      "summary": "Article URL: https://www.interconnects.ai/p/the-current-balance-of-power-in-open\nComments URL: https://news.ycombinator.com/item?id=49808816\nPoints: 13\n# Comments: 2",
+      "url": "https://www.interconnects.ai/p/the-current-balance-of-power-in-open"
     },
     {
       "category": "AI",
-      "title": "Unreal Agent",
+      "title": "Woman's brain worm infection confirmed after eggs grow tails in lab test",
+      "source": "Ars Technica - All content",
+      "date": "Tue, 22 Sep 2026 21:42:14 +0000",
+      "summary": "There is no single definitive test for these worms, but the tail is fairly convincing.",
+      "url": "https://arstechnica.com/health/2026/09/womans-brain-worm-infection-confirmed-after-eggs-grow-tails-in-lab-test/"
+    },
+    {
+      "category": "AI",
+      "title": "New Anthropic, OpenAI models make same promise: A little more for a lot less money",
+      "source": "Ars Technica - All content",
+      "date": "Tue, 22 Sep 2026 21:25:18 +0000",
+      "summary": "The frontier AI model race has entered its comparison shopping phase.",
+      "url": "https://arstechnica.com/ai/2026/09/new-anthropic-openai-models-make-same-promise-a-little-more-for-a-lot-less-money/"
+    },
+    {
+      "category": "Science",
+      "title": " 'There was something bigger in the ground here': Metal detectorist in Germany discovers giant Roman-era hoard from time of emperor Hadrian ",
+      "source": " Latest from Live Science ",
+      "date": "Tue, 22 Sep 2026 21:13:32 +0000",
+      "summary": "More than 900 Roman silver coins from the time of the Emperor Hadrian were found in Germany by a metal detectorist.",
+      "url": "https://www.livescience.com/archaeology/romans/there-was-something-bigger-in-the-ground-here-metal-detectorist-in-germany-discovers-giant-roman-era-hoard-from-time-of-emperor-hadrian"
+    },
+    {
+      "category": "AI",
+      "title": "Microsoft killed FoxPro in 2007. Anyway, here's FoxPro revived",
       "source": "Hacker News: Front Page",
-      "date": "Tue, 22 Sep 2026 18:15:53 +0000",
-      "summary": "https://github.com/unreallabsai/unreal-agent\nComments URL: https://news.ycombinator.com/item?id=49805748\nPoints: 14\n# Comments: 2",
-      "url": "https://unreallabs.ai/blog/unreal-agent/"
+      "date": "Tue, 22 Sep 2026 21:00:30 +0000",
+      "summary": "Article URL: https://foxscript.org/\nComments URL: https://news.ycombinator.com/item?id=49808023\nPoints: 125\n# Comments: 91",
+      "url": "https://foxscript.org/"
+    },
+    {
+      "category": "AI",
+      "title": "Better prompt caching for GPT-6",
+      "source": "OpenAI News",
+      "date": "Tue, 22 Sep 2026 21:00:00 GMT",
+      "summary": "Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs.",
+      "url": "https://openai.com/index/better-prompt-caching-for-gpt-6"
+    },
+    {
+      "category": "AI",
+      "title": "Cities across US oppose Trump FCC plan to preempt local broadband rules",
+      "source": "Ars Technica - All content",
+      "date": "Tue, 22 Sep 2026 20:38:30 +0000",
+      "summary": "Cities defend permit requirements, say ISPs aren't building networks fast enough.",
+      "url": "https://arstechnica.com/tech-policy/2026/09/cities-across-us-oppose-trump-fcc-plan-to-preempt-local-broadband-rules/"
+    },
+    {
+      "category": "Theology",
+      "title": "We Were Waiting to Die: Suffering as a Missionary for the Sake of the Name",
+      "source": "9Marks",
+      "date": "Tue, 22 Sep 2026 20:30:15 +0000",
+      "summary": "I am here to testify that God is with his people in the midst of their suffering. Jesus promised to be with his people to the end of the age (Matt. 28:20), and he is faithful. \nThe post We Were Waiting to Die: Suffering as a Missionary for the Sake of the Name appeared first on 9Marks.",
+      "url": "https://www.9marks.org/article/we-were-waiting-to-die-suffering-as-a-missionary-for-the-sake-of-the-name/?utm_source=rss&utm_medium=rss&utm_campaign=we-were-waiting-to-die-suffering-as-a-missionary-for-the-sake-of-the-name"
+    },
+    {
+      "category": "AI",
+      "title": "The JavaScript Midlife Crisis",
+      "source": "Hacker News: Front Page",
+      "date": "Tue, 22 Sep 2026 19:58:47 +0000",
+      "summary": "Article URL: https://maroun-baydoun.com/blog/javascript-midlife-crisis/\nComments URL: https://news.ycombinator.com/item?id=49807248\nPoints: 29\n# Comments: 9",
+      "url": "https://maroun-baydoun.com/blog/javascript-midlife-crisis/"
+    },
+    {
+      "category": "Science",
+      "title": " Fragment of world's oldest peace treaty unearthed in Turkey ",
+      "source": " Latest from Live Science ",
+      "date": "Tue, 22 Sep 2026 19:57:51 +0000",
+      "summary": "Archaeologists excavating in the ancient Hittite capital of Hattusha have uncovered a fragment of the world's oldest peace treaty, signed around 1269 B.C.",
+      "url": "https://www.livescience.com/archaeology/ancient-egyptians/we-have-found-traces-of-peace-thousands-of-years-old-fragment-of-worlds-oldest-known-peace-treaty-found-in-turkey"
+    },
+    {
+      "category": "Science",
+      "title": " Newfound 'fire amoeba from the Cascades' sets record for the hottest temperature complex life can survive at ",
+      "source": " Latest from Live Science ",
+      "date": "Tue, 22 Sep 2026 19:50:45 +0000",
+      "summary": "The newly-described amoeba Incendiamoeba cascadensis can survive at a sweltering 145 degrees Fahrenheit.",
+      "url": "https://www.livescience.com/planet-earth/evolution/newfound-fire-amoeba-from-the-cascades-sets-record-for-the-hottest-temperature-complex-life-can-survive-at"
+    },
+    {
+      "category": "Space",
+      "title": "Risks of Decompression Sickness and Venous Thromboembolism during Spaceflight and Patent Foramen Ovale Implications",
+      "source": "NASA",
+      "date": "Tue, 22 Sep 2026 19:19:45 +0000",
+      "summary": "NASA’s Office of the Chief Health and Medical Officer formed a working group in August 2026 to review the most recent data related to extravehicular activity (EVA) prebreathe testing and decompression sickness (DCS) events, venous thromboembolism (VTE) in-flight occurrences, and patent foramen ovale (PFO) implication as they relate to NASA’s Artemis (lunar and beyond) missions. The recommendations from this working group are built upon and integrate the outcomes of previous working groups hosted by OCHMO.",
+      "url": "https://www.nasa.gov/organizations/ochmo/risks-of-decompression-sickness-and-venous-thromboembolism-during-spaceflight-and-patent-foramen-ovale-implications/"
     },
     {
       "category": "AI",
@@ -59,52 +131,28 @@
       "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna"
     },
     {
-      "category": "AI",
-      "title": "Review: Resident Evil is the fresh take this flagging franchise really needed",
-      "source": "Ars Technica - All content",
-      "date": "Tue, 22 Sep 2026 17:30:07 +0000",
-      "summary": "Director Zach Cregger's clever reboot strikes perfect balance between horror, humor, and over-the-top gore.",
-      "url": "https://arstechnica.com/culture/2026/09/review-resident-evil-is-the-fresh-take-this-flagging-franchise-really-needed/"
+      "category": "Space",
+      "title": "NASA-Funded Research Finds Complex Life Defying Record Heat",
+      "source": "NASA",
+      "date": "Tue, 22 Sep 2026 17:33:10 +0000",
+      "summary": "Lee esta historia en español aquí. NASA-supported scientists have discovered an organism that lives at extreme temperatures previously thought impossible for complex life. High temperatures can cause the destruction of necessary cell components, which is a big problem for cells with complex parts like a nucleus encasing delicate genetic information. In the heated waters of […]",
+      "url": "https://science.nasa.gov/science-research/planetary-science/nasa-funded-research-finds-complex-life-defying-record-heat/"
     },
     {
-      "category": "Science",
-      "title": " Vera C. Rubin Observatory detects one of the smallest and faintest satellite galaxies ever seen ",
-      "source": " Latest from Live Science ",
-      "date": "Tue, 22 Sep 2026 17:12:25 +0000",
-      "summary": "Astronomers looking at Vera C. Rubin Observatory test data have discovered 'Aquarius IV', believed to be a brand new satellite galaxy of the Milky Way located 350,000 light-years away.",
-      "url": "https://www.livescience.com/space/astronomy/vera-rubin-observatory-detects-one-of-the-smallest-and-faintest-satellite-galaxies-ever-seen-before-the-telescopes-mission-even-began"
-    },
-    {
-      "category": "AI",
-      "title": "Toyota orders workers to train humanoid robots but says humans won't be replaced",
-      "source": "Ars Technica - All content",
-      "date": "Tue, 22 Sep 2026 17:06:16 +0000",
-      "summary": "Toyota's push comes as automakers race to develop and deploy humanoid robots.",
-      "url": "https://arstechnica.com/ai/2026/09/toyota-claims-plan-for-400000-factory-robots-wont-replace-human-workers/"
+      "category": "Space",
+      "title": "NASA’s Chandra Finds Unusual Objects in Pinwheel Galaxy",
+      "source": "NASA",
+      "date": "Tue, 22 Sep 2026 15:40:48 +0000",
+      "summary": "Using NASA’s Chandra X-ray Observatory, researchers found mysterious objects that give off unusually low-energy X-rays but intense levels of ultraviolet radiation. One of the galaxies they studied, M101, is pictured here in this image released on Sept. 9, 2026. Astronomers suggest these newly spotted objects in other galaxies may help solve not one, but two […]",
+      "url": "https://www.nasa.gov/image-article/nasas-chandra-finds-unusual-objects-in-pinwheel-galaxy/"
     },
     {
       "category": "AI",
-      "title": "IT mistake erases 11 years of viewing history for hospitals’ maternity records",
-      "source": "Ars Technica - All content",
-      "date": "Tue, 22 Sep 2026 16:55:40 +0000",
-      "summary": "The English hospitals recovered patient care data only.",
-      "url": "https://arstechnica.com/information-technology/2026/09/it-mistake-erases-11-years-of-viewing-history-for-hospitals-maternity-records/"
-    },
-    {
-      "category": "Science",
-      "title": " US heading for unprecedented El Niño winter: Here's what to expect ",
-      "source": " Latest from Live Science ",
-      "date": "Tue, 22 Sep 2026 16:08:06 +0000",
-      "summary": "A supercharged El Niño is associated with extreme winter weather.",
-      "url": "https://www.livescience.com/planet-earth/climate-change/us-heading-for-unprecedented-el-nino-winter-heres-what-to-expect"
-    },
-    {
-      "category": "Science",
-      "title": " Scientists identify 'sweet spot' for early stage of life on Earth that preceded LUCA, the ancestor of all living things ",
-      "source": " Latest from Live Science ",
-      "date": "Tue, 22 Sep 2026 15:47:28 +0000",
-      "summary": "New research has pinned down the onset of the \"RNA World,\" a hypothetical time in Earth's very early history when RNA was the primary replicating substance.",
-      "url": "https://www.livescience.com/planet-earth/evolution/scientists-identify-sweet-spot-for-early-stage-of-life-on-earth-that-preceded-luca-the-ancestor-of-all-living-things"
+      "title": "Parallel cut research time and cost in half with GPT‑6 Astra",
+      "source": "OpenAI News",
+      "date": "Tue, 22 Sep 2026 12:00:00 GMT",
+      "summary": "GPT‑6 Astra allowed Parallel’s agents to research and synthesize labor-market data in half the time and at half the cost vs. prior models.",
+      "url": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra"
     },
     {
       "category": "Science",
@@ -179,22 +227,6 @@
       "url": "https://www.sciencedaily.com/releases/2026/09/260921081116.htm"
     },
     {
-      "category": "AI",
-      "title": "Priorities and principles for effective third party assessments",
-      "source": "OpenAI News",
-      "date": "Tue, 22 Sep 2026 00:00:00 GMT",
-      "summary": "OpenAI outlines priorities and principles for rigorous, secure, and independent third-party AI safety assessments of frontier models and safeguards.",
-      "url": "https://openai.com/index/priorities-principles-third-party-assessments"
-    },
-    {
-      "category": "AI",
-      "title": "Advisory Group on Mathematics and Artificial Intelligence",
-      "source": "OpenAI News",
-      "date": "Mon, 21 Sep 2026 12:00:00 GMT",
-      "summary": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
-      "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai"
-    },
-    {
       "category": "History",
       "title": "American Patriarch: The Life of George Washington by H. W. Brands",
       "source": "Journal of the American Revolution",
@@ -233,14 +265,6 @@
       "date": "Fri, 11 Sep 2026 14:05:14 +0000",
       "summary": "The Lord can work his wisdom into our plans long before we realize how great our need will be or when it will arrive.\nThe post How God Prepared Our Church for 9/11 Through Sermon Planning appeared first on 9Marks.",
       "url": "https://www.9marks.org/article/how-god-prepared-our-church-for-9-11-through-sermon-planning/?utm_source=rss&utm_medium=rss&utm_campaign=how-god-prepared-our-church-for-9-11-through-sermon-planning"
-    },
-    {
-      "category": "Theology",
-      "title": "Mark Dever’s Remarks on the Sunday after 9/11",
-      "source": "9Marks",
-      "date": "Fri, 11 Sep 2026 10:10:18 +0000",
-      "summary": "May God use these tragic events in our lives, and in the lives of those around us, to remind us of the brevity of this life, and the certainty of judgment.\nThe post Mark Dever’s Remarks on the Sunday after 9/11 appeared first on 9Marks.",
-      "url": "https://www.9marks.org/article/mark-devers-remarks-the-sunday-after-9-11/?utm_source=rss&utm_medium=rss&utm_campaign=mark-devers-remarks-the-sunday-after-9-11"
     },
     {
       "category": "History",
