@@ -1,70 +1,110 @@
 {
-  "lastUpdated": "2026-09-22T14:16:31.385Z",
+  "lastUpdated": "2026-09-22T19:26:41.418Z",
   "articleCount": 33,
   "articles": [
     {
       "category": "Science",
-      "title": "Follow the fish: How marine life is helping reveal hidden shipwrecks",
+      "title": "The mosquito's transition from vegan to bloodsucker explained",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Tue, 22 Sep 2026 10:14:32 EDT",
-      "summary": "In September 2026, 20 Australian university students departed Brisbane for Fiji aboard the CSIRO research vessel (RV) Investigator on a CAPSTAN sea training voyage. While in coastal waters off Queensland, the students were involved in several shipwreck surveys that led to an intriguing observation: A shipwreck surrounded by mysterious holes on the seafloor. For some aboard, this wasn't the first time they'd seen such a thing.",
-      "url": "https://phys.org/news/2026-09-fish-marine-life-reveal-hidden.html"
+      "date": "Tue, 22 Sep 2026 15:20:01 EDT",
+      "summary": "Scents govern most key events in the lives of mosquitoes, and there is extensive research on their sense of smell. A new study reveals how a young female mosquito shifts from focusing entirely on nectar to seeking only blood. An odor receptor that reacts to camphor was found to play a key role.",
+      "url": "https://phys.org/news/2026-09-mosquito-transition-vegan-bloodsucker.html"
+    },
+    {
+      "category": "AI",
+      "title": "Pentagon: Palantir AI Overreliance Led to Strike Killing 123 Iranian Children",
+      "source": "Hacker News: Front Page",
+      "date": "Tue, 22 Sep 2026 19:03:38 +0000",
+      "summary": "Article URL: https://gizmodo.com/pentagon-investigators-say-overreliance-on-palantir-ai-tech-contributed-to-u-s-strike-that-killed-123-iranian-children-2000814477\nComments URL: https://news.ycombinator.com/item?id=49806430\nPoints: 29\n# Comments: 7",
+      "url": "https://gizmodo.com/pentagon-investigators-say-overreliance-on-palantir-ai-tech-contributed-to-u-s-strike-that-killed-123-iranian-children-2000814477"
     },
     {
       "category": "Science",
-      "title": " Giant caves beneath sinkhole reveal origin of mystery trenches that score Australia's Nullarbor Plain ",
+      "title": "How families can support children's early mathematics learning at home",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Tue, 22 Sep 2026 15:00:04 EDT",
+      "summary": "For parents whose children have just entered kindergarten or first grade, new fall routines can bring excitement—and some anxiety.",
+      "url": "https://phys.org/news/2026-09-families-children-early-mathematics-home.html"
+    },
+    {
+      "category": "Science",
+      "title": "Earth's chorus waves show limited link to rapid electron loss from radiation belts",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Tue, 22 Sep 2026 15:00:01 EDT",
+      "summary": "The Van Allen radiation belts are huge, doughnut-shaped regions of highly energetic charged particles trapped by Earth's magnetosphere. These charged particles play a major role in space weather, so studying them is important for predicting and managing risks to satellites, astronauts, power grids and other infrastructure.",
+      "url": "https://phys.org/news/2026-09-earth-chorus-limited-link-rapid.html"
+    },
+    {
+      "category": "AI",
+      "title": "SAML: A Fractal of Bad Design",
+      "source": "Hacker News: Front Page",
+      "date": "Tue, 22 Sep 2026 18:57:17 +0000",
+      "summary": "Article URL: https://blog.trailofbits.com/2026/09/21/saml-a-fractal-of-bad-design/\nComments URL: https://news.ycombinator.com/item?id=49806335\nPoints: 6\n# Comments: 0",
+      "url": "https://blog.trailofbits.com/2026/09/21/saml-a-fractal-of-bad-design/"
+    },
+    {
+      "category": "AI",
+      "title": "Unreal Agent",
+      "source": "Hacker News: Front Page",
+      "date": "Tue, 22 Sep 2026 18:15:53 +0000",
+      "summary": "https://github.com/unreallabsai/unreal-agent\nComments URL: https://news.ycombinator.com/item?id=49805748\nPoints: 14\n# Comments: 2",
+      "url": "https://unreallabs.ai/blog/unreal-agent/"
+    },
+    {
+      "category": "AI",
+      "title": "Introducing GPT-6 Sol and Luna",
+      "source": "OpenAI News",
+      "date": "Tue, 22 Sep 2026 18:00:00 GMT",
+      "summary": "Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost.",
+      "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna"
+    },
+    {
+      "category": "AI",
+      "title": "Review: Resident Evil is the fresh take this flagging franchise really needed",
+      "source": "Ars Technica - All content",
+      "date": "Tue, 22 Sep 2026 17:30:07 +0000",
+      "summary": "Director Zach Cregger's clever reboot strikes perfect balance between horror, humor, and over-the-top gore.",
+      "url": "https://arstechnica.com/culture/2026/09/review-resident-evil-is-the-fresh-take-this-flagging-franchise-really-needed/"
+    },
+    {
+      "category": "Science",
+      "title": " Vera C. Rubin Observatory detects one of the smallest and faintest satellite galaxies ever seen ",
       "source": " Latest from Live Science ",
-      "date": "Tue, 22 Sep 2026 14:12:18 +0000",
-      "summary": "When giant systems of ancient caves far below the surface of Australia collapsed, it left distinctive clues at the surface.",
-      "url": "https://www.livescience.com/planet-earth/geology/giant-caves-beneath-sinkhole-reveal-origin-of-mystery-trenches-that-score-australias-nullarbor-plain"
-    },
-    {
-      "category": "Science",
-      "title": "Planetary crises deepen global health inequality, paper warns",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Tue, 22 Sep 2026 10:10:42 EDT",
-      "summary": "The global inequality in health opportunities is being further heightened by the triple planetary crisis—climate change, biodiversity loss and environmental pollution. Addressing it is more than a question for health systems; it must be embedded as a central concern in climate and environmental policy. This is being urged by scientists from Heidelberg University whose research focuses, among other things, on global health, environment-related diseases and climate action. They advocate not only countering this inequality at the individual level but also removing its structural causes. In a paper published in the journal Nature Human Behaviour, they explain the approaches required in research and policymaking.",
-      "url": "https://phys.org/news/2026-09-planetary-crises-deepen-global-health.html"
-    },
-    {
-      "category": "Science",
-      "title": "Five ways teachers can respond to residential school denialism in the classroom",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Tue, 22 Sep 2026 10:00:14 EDT",
-      "summary": "Residential school denialism is entering or circulating within school communities across Canada in worrisome ways.",
-      "url": "https://phys.org/news/2026-09-ways-teachers-residential-school-denialism.html"
+      "date": "Tue, 22 Sep 2026 17:12:25 +0000",
+      "summary": "Astronomers looking at Vera C. Rubin Observatory test data have discovered 'Aquarius IV', believed to be a brand new satellite galaxy of the Milky Way located 350,000 light-years away.",
+      "url": "https://www.livescience.com/space/astronomy/vera-rubin-observatory-detects-one-of-the-smallest-and-faintest-satellite-galaxies-ever-seen-before-the-telescopes-mission-even-began"
     },
     {
       "category": "AI",
-      "title": "Stanford R&DE Uses AI to Race Swap Students for Advertising",
-      "source": "Hacker News: Front Page",
-      "date": "Tue, 22 Sep 2026 13:52:56 +0000",
-      "summary": "Article URL: https://stanfordreview.org/stanford-r-de-uses-ai-to-race-swap-students-for-advertising/\nComments URL: https://news.ycombinator.com/item?id=49801330\nPoints: 3\n# Comments: 0",
-      "url": "https://stanfordreview.org/stanford-r-de-uses-ai-to-race-swap-students-for-advertising/"
+      "title": "Toyota orders workers to train humanoid robots but says humans won't be replaced",
+      "source": "Ars Technica - All content",
+      "date": "Tue, 22 Sep 2026 17:06:16 +0000",
+      "summary": "Toyota's push comes as automakers race to develop and deploy humanoid robots.",
+      "url": "https://arstechnica.com/ai/2026/09/toyota-claims-plan-for-400000-factory-robots-wont-replace-human-workers/"
     },
     {
       "category": "AI",
-      "title": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
-      "source": "Hacker News: Front Page",
-      "date": "Tue, 22 Sep 2026 13:52:15 +0000",
-      "summary": "Article URL: https://www.cryptocellar.org/bgac/the-mvueh-break.html\nComments URL: https://news.ycombinator.com/item?id=49801324\nPoints: 20\n# Comments: 3",
-      "url": "https://www.cryptocellar.org/bgac/the-mvueh-break.html"
-    },
-    {
-      "category": "AI",
-      "title": "People Training OpenAI's AI Fired for Using AI to Train the AI",
-      "source": "Hacker News: Front Page",
-      "date": "Tue, 22 Sep 2026 13:27:29 +0000",
-      "summary": "Article URL: https://www.404media.co/people-training-openais-ai-fired-for-using-ai-to-train-the-ai/\nComments URL: https://news.ycombinator.com/item?id=49800953\nPoints: 12\n# Comments: 2",
-      "url": "https://www.404media.co/people-training-openais-ai-fired-for-using-ai-to-train-the-ai/"
+      "title": "IT mistake erases 11 years of viewing history for hospitals’ maternity records",
+      "source": "Ars Technica - All content",
+      "date": "Tue, 22 Sep 2026 16:55:40 +0000",
+      "summary": "The English hospitals recovered patient care data only.",
+      "url": "https://arstechnica.com/information-technology/2026/09/it-mistake-erases-11-years-of-viewing-history-for-hospitals-maternity-records/"
     },
     {
       "category": "Science",
-      "title": " Nearly 2,400-year-old school where Aristotle taught Alexander the Great discovered in Greece ",
+      "title": " US heading for unprecedented El Niño winter: Here's what to expect ",
       "source": " Latest from Live Science ",
-      "date": "Tue, 22 Sep 2026 12:00:00 +0000",
-      "summary": "A school where Aristotle taught Alexander the Great has been found in northern Greece.",
-      "url": "https://www.livescience.com/archaeology/nearly-2-400-year-old-school-where-aristotle-taught-alexander-the-great-discovered-in-greece"
+      "date": "Tue, 22 Sep 2026 16:08:06 +0000",
+      "summary": "A supercharged El Niño is associated with extreme winter weather.",
+      "url": "https://www.livescience.com/planet-earth/climate-change/us-heading-for-unprecedented-el-nino-winter-heres-what-to-expect"
+    },
+    {
+      "category": "Science",
+      "title": " Scientists identify 'sweet spot' for early stage of life on Earth that preceded LUCA, the ancestor of all living things ",
+      "source": " Latest from Live Science ",
+      "date": "Tue, 22 Sep 2026 15:47:28 +0000",
+      "summary": "New research has pinned down the onset of the \"RNA World,\" a hypothetical time in Earth's very early history when RNA was the primary replicating substance.",
+      "url": "https://www.livescience.com/planet-earth/evolution/scientists-identify-sweet-spot-for-early-stage-of-life-on-earth-that-preceded-luca-the-ancestor-of-all-living-things"
     },
     {
       "category": "Science",
@@ -75,28 +115,12 @@
       "url": "https://www.sciencedaily.com/releases/2026/09/260921081105.htm"
     },
     {
-      "category": "Science",
-      "title": " 'Once every 130 years': A huge new crater on the moon could be a giant leap for lunar science, researcher says ",
-      "source": " Latest from Live Science ",
-      "date": "Tue, 22 Sep 2026 11:30:00 +0000",
-      "summary": "Scientists using NASA's Lunar Reconnaissance Orbiter (LRO) have discovered McGetchin crater, a giant new impact structure measuring more than 700 feet wide. LRO investigator Julie Stopar explains what the discovery could mean for humanity's future on the moon.",
-      "url": "https://www.livescience.com/space/the-moon/we-only-expect-to-encounter-that-once-every-130-years-a-huge-new-crater-on-the-moon-could-mean-a-giant-leap-for-lunar-science-veteran-researcher-says"
-    },
-    {
       "category": "Biblical Studies",
       "title": "Was Jesus a Jew?",
       "source": "Biblical Archaeology Society",
       "date": "Tue, 22 Sep 2026 11:00:41 +0000",
       "summary": "Was Jesus a Jew? Some people claim that Jesus was a Christian. Some have claimed that he was an Aryan Christian. But in recent decades scholars have been returning to ancient historical settings and discovering the Jewish Jesus. \nThe post Was Jesus a Jew? appeared first on Biblical Archaeology Society.",
       "url": "https://www.biblicalarchaeology.org/daily/people-cultures-in-the-bible/was-jesus-a-jew/"
-    },
-    {
-      "category": "AI",
-      "title": "NASA chief: I'm only interested in \"good deals\" from international partners",
-      "source": "Ars Technica - All content",
-      "date": "Tue, 22 Sep 2026 11:00:37 +0000",
-      "summary": "\"There was absolutely a time where we were trying to make everyone happy.\"",
-      "url": "https://arstechnica.com/space/2026/09/nasa-chief-im-only-interested-in-good-deals-from-international-partners/"
     },
     {
       "category": "Biblical Studies",
@@ -156,19 +180,11 @@
     },
     {
       "category": "AI",
-      "title": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
-      "source": "Ars Technica - All content",
-      "date": "Mon, 21 Sep 2026 22:24:38 +0000",
-      "summary": "A simple ClickFix attack is only one way to completely hijack the new agent.",
-      "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/"
-    },
-    {
-      "category": "AI",
-      "title": "Military milestone: Ukrainian naval drone sinks Russian kamikaze drone boat",
-      "source": "Ars Technica - All content",
-      "date": "Mon, 21 Sep 2026 21:07:05 +0000",
-      "summary": "Drone boat battle occurs as Ukraine and Russia target Black Sea ports and ships.",
-      "url": "https://arstechnica.com/gadgets/2026/09/military-milestone-ukrainian-naval-drone-sinks-russian-kamikaze-drone-boat/"
+      "title": "Priorities and principles for effective third party assessments",
+      "source": "OpenAI News",
+      "date": "Tue, 22 Sep 2026 00:00:00 GMT",
+      "summary": "OpenAI outlines priorities and principles for rigorous, secure, and independent third-party AI safety assessments of frontier models and safeguards.",
+      "url": "https://openai.com/index/priorities-principles-third-party-assessments"
     },
     {
       "category": "AI",
@@ -177,14 +193,6 @@
       "date": "Mon, 21 Sep 2026 12:00:00 GMT",
       "summary": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
       "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai"
-    },
-    {
-      "category": "AI",
-      "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
-      "source": "OpenAI News",
-      "date": "Mon, 21 Sep 2026 12:00:00 GMT",
-      "summary": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.",
-      "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra"
     },
     {
       "category": "History",
@@ -201,14 +209,6 @@
       "date": "Mon, 21 Sep 2026 10:45:43 +0000",
       "summary": "A recent ‘Atiqot article draws attention to a small number of remarkable finds from Hellenistic Jerusalem: four gold ornaments and three bronze earrings recovered from […]\nThe post Rings Before Marriage in Hellenistic Jerusalem? appeared first on Biblical Archaeology Society.",
       "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/rings-before-marriage-in-hellenistic-jerusalem/"
-    },
-    {
-      "category": "AI",
-      "title": "Building standards for the next phase of AI",
-      "source": "OpenAI News",
-      "date": "Mon, 21 Sep 2026 10:00:00 GMT",
-      "summary": "OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety.",
-      "url": "https://openai.com/index/building-standards-next-phase-ai"
     },
     {
       "category": "History",
