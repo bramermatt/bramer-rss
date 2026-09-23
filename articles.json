@@ -1,70 +1,166 @@
 {
-  "lastUpdated": "2026-09-22T23:56:10.025Z",
-  "articleCount": 36,
+  "lastUpdated": "2026-09-23T14:35:19.564Z",
+  "articleCount": 33,
   "articles": [
     {
       "category": "Science",
-      "title": "The secret to a perfect crystal may be a precisely calibrated extra turn",
+      "title": "Building a self-powered, smart warning system to detect local floods",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Tue, 22 Sep 2026 19:20:05 EDT",
-      "summary": "Creating a perfect crystal sounds straightforward: Arrange identical building blocks into a repeating, orderly structure. At the microscopic scale, though, even subtle biases in how particles interact can push them in preferred directions, making it harder to form uniform crystalline materials.",
-      "url": "https://phys.org/news/2026-09-secret-crystal-precisely-calibrated-extra.html"
+      "date": "Wed, 23 Sep 2026 10:20:05 EDT",
+      "summary": "When sudden rainstorms roll across Texas, flooding can erupt in a matter of minutes. From coastal bends facing storm surges to low-water crossings in San Antonio, flood risks often spike block by block long before regional alerts sound. That means some people could have ankle-deep water in their yards by the time a flash flood warning sounds on their phones.",
+      "url": "https://phys.org/news/2026-09-powered-smart-local.html"
     },
     {
       "category": "Science",
-      "title": "Queasy plesiosaurs swam to shore to vomit, Jurassic fossils reveal",
+      "title": "Buy, wear, return: Retail fraud and abuse explored in new study",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Tue, 22 Sep 2026 19:00:01 EDT",
-      "summary": "Plesiosaurs swam into river deltas to vomit up shells and other indigestible elements of their marine meals, suggests new research published by Cambridge University Press. The behavior resembles that of today's fur seals and marine crocodiles.",
-      "url": "https://phys.org/news/2026-09-queasy-plesiosaurs-swam-shore-vomit.html"
+      "date": "Wed, 23 Sep 2026 10:20:03 EDT",
+      "summary": "New research reveals retailers are losing money through two kinds of problematic returns: deliberate fraud and opportunistic abuse of generous return policies.",
+      "url": "https://phys.org/news/2026-09-buy-retail-fraud-abuse-explored.html"
     },
     {
       "category": "Science",
-      "title": "Injectable nanoparticles make blind retinas respond to light in preclinical study",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Tue, 22 Sep 2026 18:40:02 EDT",
-      "summary": "An international research team has developed microscopic particles that can make blind retinas respond to light. The particles act as tiny light receptors. Researchers inject them into the eye, where they settle close to nerve cells in the retina. When light hits the particles, it triggers electrical and chemical processes that can activate the nerve cells and prompt them to send signals toward the brain.",
-      "url": "https://phys.org/news/2026-09-nanoparticles-retinas-preclinical.html"
-    },
-    {
-      "category": "AI",
-      "title": "The current balance of power in open models",
-      "source": "Hacker News: Front Page",
-      "date": "Tue, 22 Sep 2026 22:03:46 +0000",
-      "summary": "Article URL: https://www.interconnects.ai/p/the-current-balance-of-power-in-open\nComments URL: https://news.ycombinator.com/item?id=49808816\nPoints: 13\n# Comments: 2",
-      "url": "https://www.interconnects.ai/p/the-current-balance-of-power-in-open"
-    },
-    {
-      "category": "AI",
-      "title": "Woman's brain worm infection confirmed after eggs grow tails in lab test",
-      "source": "Ars Technica - All content",
-      "date": "Tue, 22 Sep 2026 21:42:14 +0000",
-      "summary": "There is no single definitive test for these worms, but the tail is fairly convincing.",
-      "url": "https://arstechnica.com/health/2026/09/womans-brain-worm-infection-confirmed-after-eggs-grow-tails-in-lab-test/"
-    },
-    {
-      "category": "AI",
-      "title": "New Anthropic, OpenAI models make same promise: A little more for a lot less money",
-      "source": "Ars Technica - All content",
-      "date": "Tue, 22 Sep 2026 21:25:18 +0000",
-      "summary": "The frontier AI model race has entered its comparison shopping phase.",
-      "url": "https://arstechnica.com/ai/2026/09/new-anthropic-openai-models-make-same-promise-a-little-more-for-a-lot-less-money/"
-    },
-    {
-      "category": "Science",
-      "title": " 'There was something bigger in the ground here': Metal detectorist in Germany discovers giant Roman-era hoard from time of emperor Hadrian ",
+      "title": " Google DeepMind's latest AI tool promises a new era for genetics research, but experts warn to take its predictions with caution ",
       "source": " Latest from Live Science ",
-      "date": "Tue, 22 Sep 2026 21:13:32 +0000",
-      "summary": "More than 900 Roman silver coins from the time of the Emperor Hadrian were found in Germany by a metal detectorist.",
-      "url": "https://www.livescience.com/archaeology/romans/there-was-something-bigger-in-the-ground-here-metal-detectorist-in-germany-discovers-giant-roman-era-hoard-from-time-of-emperor-hadrian"
+      "date": "Wed, 23 Sep 2026 14:12:22 +0000",
+      "summary": "AlphaGenome Atlas could make it easier for geneticists to access powerful AI, but its predictions aren't always accurate.",
+      "url": "https://www.livescience.com/technology/artificial-intelligence/google-deepminds-latest-ai-tool-promises-a-new-era-for-genetics-research-but-experts-warn-to-take-its-predictions-with-caution"
+    },
+    {
+      "category": "Science",
+      "title": "Seabed surveys around the Isles of Scilly find more than 90 species across habitats poorly captured by classifications",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Wed, 23 Sep 2026 10:00:10 EDT",
+      "summary": "Scientists have conducted an unprecedented assessment of the seabed around the Isles of Scilly, revealing complex mosaics of sediment that support a wide range of habitat-building species. The research, led by the University of Plymouth, used a range of techniques to monitor sediments around the archipelago and explore the diversity of species living within them.",
+      "url": "https://phys.org/news/2026-09-seabed-surveys-isles-scilly-species.html"
     },
     {
       "category": "AI",
-      "title": "Microsoft killed FoxPro in 2007. Anyway, here's FoxPro revived",
+      "title": "Comma's hands-off driving tech under investigation after 2 fatal crashes",
       "source": "Hacker News: Front Page",
-      "date": "Tue, 22 Sep 2026 21:00:30 +0000",
-      "summary": "Article URL: https://foxscript.org/\nComments URL: https://news.ycombinator.com/item?id=49808023\nPoints: 125\n# Comments: 91",
-      "url": "https://foxscript.org/"
+      "date": "Wed, 23 Sep 2026 13:50:12 +0000",
+      "summary": "Article URL: https://techcrunch.com/2026/09/23/commas-hands-off-driving-tech-under-investigation-after-2-fatal-crashes/\nComments URL: https://news.ycombinator.com/item?id=49816176\nPoints: 7\n# Comments: 0",
+      "url": "https://techcrunch.com/2026/09/23/commas-hands-off-driving-tech-under-investigation-after-2-fatal-crashes/"
+    },
+    {
+      "category": "AI",
+      "title": "America gave up its rare earth edge. China took full advantage.",
+      "source": "Ars Technica - All content",
+      "date": "Wed, 23 Sep 2026 13:37:05 +0000",
+      "summary": "Decades of cheaper imports left US dependent on China for crucial rare earth processing.",
+      "url": "https://arstechnica.com/reviews/2026/09/how-the-us-handed-china-control-of-the-rare-earth-supply-chain/"
+    },
+    {
+      "category": "AI",
+      "title": "The Price of Intelligence Is Falling Rapidly",
+      "source": "Hacker News: Front Page",
+      "date": "Wed, 23 Sep 2026 13:08:59 +0000",
+      "summary": "Article URL: https://marginalrevolution.com/marginalrevolution/2026/09/the-price-of-intelligence-is-falling.html\nComments URL: https://news.ycombinator.com/item?id=49815526\nPoints: 19\n# Comments: 13",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/the-price-of-intelligence-is-falling.html"
+    },
+    {
+      "category": "AI",
+      "title": "The GitHub wiki is an anti-pattern",
+      "source": "Hacker News: Front Page",
+      "date": "Wed, 23 Sep 2026 13:05:49 +0000",
+      "summary": "Article URL: https://michaelheap.com/github-wiki-is-an-antipattern/\nComments URL: https://news.ycombinator.com/item?id=49815484\nPoints: 46\n# Comments: 31",
+      "url": "https://michaelheap.com/github-wiki-is-an-antipattern/"
+    },
+    {
+      "category": "Science",
+      "title": " 3,000-year-old burial of ancient Egyptian horse found — and a nearby stone carving depicts a captured prisoner ",
+      "source": " Latest from Live Science ",
+      "date": "Wed, 23 Sep 2026 13:00:00 +0000",
+      "summary": "Archaeologists unearthed a horse burial dating back more than three millennia in an ancient Egyptian fortress.",
+      "url": "https://www.livescience.com/archaeology/ancient-egyptians/3-000-year-old-burial-of-ancient-egyptian-horse-found-and-a-nearby-stone-carving-depicts-a-captured-prisoner"
+    },
+    {
+      "category": "AI",
+      "title": "OpenAI extends cyber access to Ukraine for civilian defense",
+      "source": "OpenAI News",
+      "date": "Wed, 23 Sep 2026 13:00:00 GMT",
+      "summary": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure.",
+      "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense"
+    },
+    {
+      "category": "Science",
+      "title": " Earth's crust is 'unzipping' beneath Italy — and that could explain most of the earthquakes in the region ",
+      "source": " Latest from Live Science ",
+      "date": "Wed, 23 Sep 2026 12:00:00 +0000",
+      "summary": "The peeling away of Earth's crust beneath Italy may explain a lot of the seismic activity in the mountains that run along the spine of the country.",
+      "url": "https://www.livescience.com/planet-earth/earths-crust-is-unzipping-beneath-italy-and-that-could-explain-most-of-the-earthquakes-in-the-region"
+    },
+    {
+      "category": "AI",
+      "title": "Small undersea volcanoes may unleash outsized tsunamis",
+      "source": "Ars Technica - All content",
+      "date": "Wed, 23 Sep 2026 11:15:30 +0000",
+      "summary": "Post-eruption imaging of the Hunga caldera gives new details of its collapse.",
+      "url": "https://arstechnica.com/science/2026/09/small-undersea-volcanoes-may-unleash-outsized-tsunamis/"
+    },
+    {
+      "category": "AI",
+      "title": "A new report from Europe raises serious alarms about orbital collisions",
+      "source": "Ars Technica - All content",
+      "date": "Wed, 23 Sep 2026 11:00:17 +0000",
+      "summary": "\"I think we are going to lose the ability to use certain orbits.\"",
+      "url": "https://arstechnica.com/space/2026/09/there-are-now-17000-satellites-in-orbit-and-growing-should-we-be-concerned/"
+    },
+    {
+      "category": "Biblical Studies",
+      "title": "Mind the Gap!",
+      "source": "Biblical Archaeology Society",
+      "date": "Wed, 23 Sep 2026 10:45:58 +0000",
+      "summary": "If one were to open a modern printed edition of the Hebrew Bible to a random page, one would encounter a complex layering of information. […]\nThe post Mind the Gap! appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/daily/biblical-artifacts/dead-sea-scrolls/mind-gap/"
+    },
+    {
+      "category": "Biblical Studies",
+      "title": "The Galilee and the Last Great Jewish Revolt",
+      "source": "Biblical Archaeology Society",
+      "date": "Wed, 23 Sep 2026 10:00:27 +0000",
+      "summary": "Excavations in an underground complex at the site of Huqoq in the Galilee revealed a surprising find: a bronze coin hoard dating to the Gallus […]\nThe post The Galilee and the Last Great Jewish Revolt appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-israel/galilee-last-great-jewish-revolt/"
+    },
+    {
+      "category": "Theology",
+      "title": "Pastor Roundup: How to Prepare a Preaching Calendar",
+      "source": "The Gospel Coalition",
+      "date": "Wed, 23 Sep 2026 04:02:00 +0000",
+      "summary": "I don’t remember 99 percent of the meals I’ve eaten, but they’ve kept me alive. In the same way, God uses faithful, forgettable sermons to nourish his Bride.",
+      "url": "https://www.thegospelcoalition.org/article/roundup-preaching-calendar/"
+    },
+    {
+      "category": "Theology",
+      "title": "4 Missionary Insights for Workplace Evangelism",
+      "source": "The Gospel Coalition",
+      "date": "Wed, 23 Sep 2026 04:00:00 +0000",
+      "summary": "How would closed-country missionaries evangelize if they were placed in my job, in my secular workplace?",
+      "url": "https://www.thegospelcoalition.org/article/missionary-insights-workplace-evangelism/"
+    },
+    {
+      "category": "Science",
+      "title": "The LHC just ruled out another hiding place for quantum black holes",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Tue, 22 Sep 2026 23:32:54 EDT",
+      "summary": "Physicists searching through Large Hadron Collider data found no evidence that the machine has been producing microscopic quantum black holes, but the result sharply narrows where such exotic physics could still be hiding. These hypothetical black holes could form if extra spatial dimensions make gravity much stronger at extremely tiny scales, potentially offering clues toward the long-sought theory of quantum gravity.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260922005649.htm"
+    },
+    {
+      "category": "Science",
+      "title": "One of America’s largest reservoirs just hit a record low",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Tue, 22 Sep 2026 22:01:16 EDT",
+      "summary": "Lake Powell has fallen to its lowest level on record after an exceptionally dry and warm winter left the Colorado River Basin with little mountain snow to melt. Lake Mead also reached record lows, raising concerns for a river system that supplies water and power to more than 40 million people. Federal officials have taken emergency steps to stabilize Lake Powell, including sending in water from another reservoir and reducing releases downstream.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260922005701.htm"
+    },
+    {
+      "category": "AI",
+      "title": "Grab and OpenAI bring practical AI skills to Southeast Asia",
+      "source": "OpenAI News",
+      "date": "Wed, 23 Sep 2026 00:00:00 GMT",
+      "summary": "OpenAI and Grab launch GO Forward with AI, a regional programme helping 30,000 partners build practical AI skills across Southeast Asia.",
+      "url": "https://openai.com/index/grab-openai-ai-skills-southeast-asia"
     },
     {
       "category": "AI",
@@ -75,14 +171,6 @@
       "url": "https://openai.com/index/better-prompt-caching-for-gpt-6"
     },
     {
-      "category": "AI",
-      "title": "Cities across US oppose Trump FCC plan to preempt local broadband rules",
-      "source": "Ars Technica - All content",
-      "date": "Tue, 22 Sep 2026 20:38:30 +0000",
-      "summary": "Cities defend permit requirements, say ISPs aren't building networks fast enough.",
-      "url": "https://arstechnica.com/tech-policy/2026/09/cities-across-us-oppose-trump-fcc-plan-to-preempt-local-broadband-rules/"
-    },
-    {
       "category": "Theology",
       "title": "We Were Waiting to Die: Suffering as a Missionary for the Sake of the Name",
       "source": "9Marks",
@@ -91,92 +179,12 @@
       "url": "https://www.9marks.org/article/we-were-waiting-to-die-suffering-as-a-missionary-for-the-sake-of-the-name/?utm_source=rss&utm_medium=rss&utm_campaign=we-were-waiting-to-die-suffering-as-a-missionary-for-the-sake-of-the-name"
     },
     {
-      "category": "AI",
-      "title": "The JavaScript Midlife Crisis",
-      "source": "Hacker News: Front Page",
-      "date": "Tue, 22 Sep 2026 19:58:47 +0000",
-      "summary": "Article URL: https://maroun-baydoun.com/blog/javascript-midlife-crisis/\nComments URL: https://news.ycombinator.com/item?id=49807248\nPoints: 29\n# Comments: 9",
-      "url": "https://maroun-baydoun.com/blog/javascript-midlife-crisis/"
-    },
-    {
-      "category": "Science",
-      "title": " Fragment of world's oldest peace treaty unearthed in Turkey ",
-      "source": " Latest from Live Science ",
-      "date": "Tue, 22 Sep 2026 19:57:51 +0000",
-      "summary": "Archaeologists excavating in the ancient Hittite capital of Hattusha have uncovered a fragment of the world's oldest peace treaty, signed around 1269 B.C.",
-      "url": "https://www.livescience.com/archaeology/ancient-egyptians/we-have-found-traces-of-peace-thousands-of-years-old-fragment-of-worlds-oldest-known-peace-treaty-found-in-turkey"
-    },
-    {
-      "category": "Science",
-      "title": " Newfound 'fire amoeba from the Cascades' sets record for the hottest temperature complex life can survive at ",
-      "source": " Latest from Live Science ",
-      "date": "Tue, 22 Sep 2026 19:50:45 +0000",
-      "summary": "The newly-described amoeba Incendiamoeba cascadensis can survive at a sweltering 145 degrees Fahrenheit.",
-      "url": "https://www.livescience.com/planet-earth/evolution/newfound-fire-amoeba-from-the-cascades-sets-record-for-the-hottest-temperature-complex-life-can-survive-at"
-    },
-    {
-      "category": "Space",
-      "title": "Risks of Decompression Sickness and Venous Thromboembolism during Spaceflight and Patent Foramen Ovale Implications",
-      "source": "NASA",
-      "date": "Tue, 22 Sep 2026 19:19:45 +0000",
-      "summary": "NASA’s Office of the Chief Health and Medical Officer formed a working group in August 2026 to review the most recent data related to extravehicular activity (EVA) prebreathe testing and decompression sickness (DCS) events, venous thromboembolism (VTE) in-flight occurrences, and patent foramen ovale (PFO) implication as they relate to NASA’s Artemis (lunar and beyond) missions. The recommendations from this working group are built upon and integrate the outcomes of previous working groups hosted by OCHMO.",
-      "url": "https://www.nasa.gov/organizations/ochmo/risks-of-decompression-sickness-and-venous-thromboembolism-during-spaceflight-and-patent-foramen-ovale-implications/"
-    },
-    {
-      "category": "AI",
-      "title": "Introducing GPT-6 Sol and Luna",
-      "source": "OpenAI News",
-      "date": "Tue, 22 Sep 2026 18:00:00 GMT",
-      "summary": "Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost.",
-      "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna"
-    },
-    {
-      "category": "Space",
-      "title": "NASA-Funded Research Finds Complex Life Defying Record Heat",
-      "source": "NASA",
-      "date": "Tue, 22 Sep 2026 17:33:10 +0000",
-      "summary": "Lee esta historia en español aquí. NASA-supported scientists have discovered an organism that lives at extreme temperatures previously thought impossible for complex life. High temperatures can cause the destruction of necessary cell components, which is a big problem for cells with complex parts like a nucleus encasing delicate genetic information. In the heated waters of […]",
-      "url": "https://science.nasa.gov/science-research/planetary-science/nasa-funded-research-finds-complex-life-defying-record-heat/"
-    },
-    {
-      "category": "Space",
-      "title": "NASA’s Chandra Finds Unusual Objects in Pinwheel Galaxy",
-      "source": "NASA",
-      "date": "Tue, 22 Sep 2026 15:40:48 +0000",
-      "summary": "Using NASA’s Chandra X-ray Observatory, researchers found mysterious objects that give off unusually low-energy X-rays but intense levels of ultraviolet radiation. One of the galaxies they studied, M101, is pictured here in this image released on Sept. 9, 2026. Astronomers suggest these newly spotted objects in other galaxies may help solve not one, but two […]",
-      "url": "https://www.nasa.gov/image-article/nasas-chandra-finds-unusual-objects-in-pinwheel-galaxy/"
-    },
-    {
-      "category": "AI",
-      "title": "Parallel cut research time and cost in half with GPT‑6 Astra",
-      "source": "OpenAI News",
-      "date": "Tue, 22 Sep 2026 12:00:00 GMT",
-      "summary": "GPT‑6 Astra allowed Parallel’s agents to research and synthesize labor-market data in half the time and at half the cost vs. prior models.",
-      "url": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra"
-    },
-    {
-      "category": "Science",
-      "title": "This new concrete is stronger and pulls CO2 from the air",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Tue, 22 Sep 2026 07:46:55 EDT",
-      "summary": "Researchers have created a concrete mixture that is both stronger and capable of absorbing carbon dioxide. The best formula, combining zeolite with bamboo biochar, boosted compressive strength by 7.48% and tensile strength by 15% compared with conventional concrete. It also captured about 1.2 grams of CO₂ per day in laboratory testing.",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260921081105.htm"
-    },
-    {
       "category": "Biblical Studies",
       "title": "Was Jesus a Jew?",
       "source": "Biblical Archaeology Society",
       "date": "Tue, 22 Sep 2026 11:00:41 +0000",
       "summary": "Was Jesus a Jew? Some people claim that Jesus was a Christian. Some have claimed that he was an Aryan Christian. But in recent decades scholars have been returning to ancient historical settings and discovering the Jewish Jesus. \nThe post Was Jesus a Jew? appeared first on Biblical Archaeology Society.",
       "url": "https://www.biblicalarchaeology.org/daily/people-cultures-in-the-bible/was-jesus-a-jew/"
-    },
-    {
-      "category": "Biblical Studies",
-      "title": "Jesus and the Cross",
-      "source": "Biblical Archaeology Society",
-      "date": "Tue, 22 Sep 2026 11:00:28 +0000",
-      "summary": "Most scholars believe that early Christians did not use the cross as an image of their religion. So how did the cross become modern Christianity’s most popular symbol?\nThe post Jesus and the Cross appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/daily/biblical-topics/crucifixion/jesus-and-the-cross/"
     },
     {
       "category": "History",
@@ -203,44 +211,12 @@
       "url": "https://www.thegospelcoalition.org/podcasts/gospelbound/how-children-remember-you/"
     },
     {
-      "category": "Theology",
-      "title": "Editor’s Pick: Children’s Discipleship Resources",
-      "source": "The Gospel Coalition",
-      "date": "Tue, 22 Sep 2026 04:02:00 +0000",
-      "summary": "As part of an ongoing effort to serve local churches, we’re highlighting some recently released books that can serve families and churches well as they seek to disciple their children.",
-      "url": "https://www.thegospelcoalition.org/reviews/editors-pick-childrens-discipleship-resources/"
-    },
-    {
-      "category": "Theology",
-      "title": "Before Your Church Plants, Ask Why",
-      "source": "The Gospel Coalition",
-      "date": "Tue, 22 Sep 2026 04:00:00 +0000",
-      "summary": "Let God’s glory be the weight at the center, with every other motivation in orbit around it.",
-      "url": "https://www.thegospelcoalition.org/article/before-plant-ask-why/"
-    },
-    {
-      "category": "Science",
-      "title": "Stem cells reverse stroke damage and restore movement in mice",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Mon, 21 Sep 2026 21:49:32 EDT",
-      "summary": "Stem cell transplants helped regenerate stroke-damaged brain tissue in mice, producing new neurons and restoring lost motor function. The treatment also improved blood vessels, inflammation, and the blood-brain barrier, raising hopes that a similar approach could eventually help repair the human brain after stroke.",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260921081116.htm"
-    },
-    {
       "category": "History",
       "title": "American Patriarch: The Life of George Washington by H. W. Brands",
       "source": "Journal of the American Revolution",
       "date": "Mon, 21 Sep 2026 11:58:18 +0000",
       "summary": "American Patriarch: The Life of George Washington by H. W. Brands (New York, NY: Doubleday, 2026) $40.00 hardcover. The prolific historian H. W. Brands has added to his Revolutionary Era portfolio (previous books include Founding Partisans, Heirs of the Founders and Our First Civil War) with his biography of His Excellency, American Patriarch: The Life […]\nThe post American Patriarch: The Life of George Washington by H. W. Brands appeared first on Journal of the American Revolution.",
       "url": "https://allthingsliberty.com/2026/09/american-patriarch-the-life-of-george-washington-by-h-w-brands/"
-    },
-    {
-      "category": "Biblical Studies",
-      "title": "Rings Before Marriage in Hellenistic Jerusalem?",
-      "source": "Biblical Archaeology Society",
-      "date": "Mon, 21 Sep 2026 10:45:43 +0000",
-      "summary": "A recent ‘Atiqot article draws attention to a small number of remarkable finds from Hellenistic Jerusalem: four gold ornaments and three bronze earrings recovered from […]\nThe post Rings Before Marriage in Hellenistic Jerusalem? appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/rings-before-marriage-in-hellenistic-jerusalem/"
     },
     {
       "category": "History",
