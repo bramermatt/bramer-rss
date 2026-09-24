@@ -1,38 +1,86 @@
 {
-  "lastUpdated": "2026-09-24T14:32:58.214Z",
-  "articleCount": 36,
+  "lastUpdated": "2026-09-24T19:40:27.589Z",
+  "articleCount": 33,
   "articles": [
     {
       "category": "Science",
-      "title": "What rises from the ash? How an island changed in the aftermath of the Anak Krakatau eruption",
+      "title": "Engineers just designed a better 'shock absorber' for spacecraft",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Thu, 24 Sep 2026 10:20:15 EDT",
-      "summary": "The eruption of the Anak Krakatau volcano in early September 2026 had effects far beyond the rumbling ground and ash that blanketed nearby areas.",
-      "url": "https://phys.org/news/2026-09-ash-island-aftermath-anak-krakatau.html"
+      "date": "Thu, 24 Sep 2026 15:40:04 EDT",
+      "summary": "Rocket launches are among the most violent ways humans have devised to travel. They generate millions of pounds of thrust and subject passengers to intense g-forces. Humans must undergo serious training to withstand those forces, while machines must be designed to survive them. If a delicate mirror or solder joint cracks before a multibillion-dollar satellite even begins its mission, the years of effort that went into its design and assembly could be lost. Now, researchers in Switzerland have come up with an ingenious way to make that less likely.",
+      "url": "https://phys.org/news/2026-09-absorber-spacecraft.html"
     },
     {
       "category": "Science",
-      "title": "Whirlpool in a water tank reveals long-predicted wave turbulence",
+      "title": "Scientists find a carbon cycle hiding in desert minerals",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Thu, 24 Sep 2026 10:20:09 EDT",
-      "summary": "When water drains from a bathtub, a whirlpool often forms above the drain, and its narrow core can start to wobble and twist. For almost 150 years, physicists have predicted that these wobbles can become turbulent, passing energy from large ripples down to ever smaller ones. Until now, however, this \"Kelvin-wave turbulence\" had never been seen directly in an experiment.",
-      "url": "https://phys.org/news/2026-09-whirlpool-tank-reveals-turbulence.html"
+      "date": "Thu, 24 Sep 2026 15:40:01 EDT",
+      "summary": "On the surface, the arid expanses of the Mojave Desert may seem inhospitable and largely removed from the global carbon cycle. But beneath the surface, its mineral-rich soils are running a carbon cycle of their own—one that could account for a surprisingly large share of the planet's annual carbon exchange.",
+      "url": "https://phys.org/news/2026-09-scientists-carbon-minerals.html"
     },
     {
       "category": "Science",
-      "title": "'They wouldn't say it in person': Young gamers reveal their personal experiences in online multiplayer gaming",
+      "title": "Machine learning helps identify chemicals that repel honey bees from pesticides",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Thu, 24 Sep 2026 10:00:09 EDT",
-      "summary": "A new UEL research project is exploring practical ways to reduce antisocial and harmful behavior in online gaming while helping platforms create more positive and inclusive experiences for young players.",
-      "url": "https://phys.org/news/2026-09-wouldnt-person-young-gamers-reveal.html"
+      "date": "Thu, 24 Sep 2026 15:30:01 EDT",
+      "summary": "In a win for pollinator conservation, researchers at the University of California, Riverside, have developed a machine learning-based method to identify chemical compounds that can safely repel honey bees from pesticide-treated crops. The research offers a potential solution to one of agriculture's most urgent ecological challenges: the ongoing decline in honey bee populations, driven in part by pesticide exposure. The paper is published in the journal eLife.",
+      "url": "https://phys.org/news/2026-09-machine-chemicals-repel-honey-bees.html"
     },
     {
-      "category": "Space",
-      "title": "NASA to Study Human Health, Performance During Crew-13 Mission",
-      "source": "NASA",
-      "date": "Thu, 24 Sep 2026 13:53:48 +0000",
-      "summary": "During NASA’s SpaceX Crew‑13 mission aboard the International Space Station, astronauts will support a series of biomedical and human performance investigations, including a new collaborative effort to study how spaceflight affects blood flow and clotting. NASA also is testing crew members’ manual piloting skills, evaluating methods to counter vision and brain changes, gathering essential health […]",
-      "url": "https://www.nasa.gov/humans-in-space/nasa-to-study-human-health-performance-during-crew-13-mission/"
+      "category": "AI",
+      "title": "We have a trailer for Musk documentary Elon called a \"hit piece\"",
+      "source": "Ars Technica - All content",
+      "date": "Thu, 24 Sep 2026 18:52:23 +0000",
+      "summary": "Oscar-winning documentarian Alex Gibney focuses on the world's wealthiest man.",
+      "url": "https://arstechnica.com/culture/2026/09/we-have-a-trailer-for-musk-documentary-elon-called-a-hit-piece/"
+    },
+    {
+      "category": "AI",
+      "title": "Robots make combat airdrops, clear mines as Ukraine defeats Russian pincer",
+      "source": "Ars Technica - All content",
+      "date": "Thu, 24 Sep 2026 18:39:47 +0000",
+      "summary": "Ukraine’s Operation Vivaldi has erased Russian gains with the help of robots.",
+      "url": "https://arstechnica.com/gadgets/2026/09/robots-make-combat-airdrops-clear-mines-as-ukraine-defeats-russian-pincer/"
+    },
+    {
+      "category": "AI",
+      "title": "Show HN: Radix – Visual UI for agentic programming",
+      "source": "Hacker News: Front Page",
+      "date": "Thu, 24 Sep 2026 18:35:20 +0000",
+      "summary": "Hey HN, I'm Jordan from Radix.\nRadix is a UI tool for programming agents. You prompt your agent to generate a workspace for a task you're working on and get an interactive widget that persists locally on disk.\nI built Radix because I always needed tools while I was writing code: tools to test little experiments, to play around with UI, to visualise results etc. Sometimes these would end up as python tools that read and plotted data, or separate React apps spun up just to test a single feature. Lately obviously I've been using Claude artifacts but these are quite limited.\nI wanted a system where it was easy to leave comments or adapt an artifact without having to give vague descriptions back to the agent, and where ideally I could actually shift away from a chat window as the main interface.\nI've got a pro version of Radix which I will launch soon. This current version is entirely free and is definitely a beta -- there will be rough edges!\nNote: There's no telemetry or data captured. Your messages run entirely through your own agent. I require a key but that's just to get an idea of how many people are using it. Everything is stored locally (the workspaces are actually just React apps which you can edit \"artisanally\" if you want).\nIf you have any questions please reply here or email me hello@radix-os.com\nThank you!\nComments URL: https://news.ycombinator.com/item?id=49834964\nPoints: 5\n# Comments: 4",
+      "url": "https://radix-os.com"
+    },
+    {
+      "category": "AI",
+      "title": "Stable (YC W20) Is Hiring Product Engineers",
+      "source": "Hacker News: Front Page",
+      "date": "Thu, 24 Sep 2026 18:29:18 +0000",
+      "summary": "Article URL: https://www.usestable.com/careers/product-engineer\nComments URL: https://news.ycombinator.com/item?id=49834893\nPoints: 0\n# Comments: 0",
+      "url": "https://www.usestable.com/careers/product-engineer"
+    },
+    {
+      "category": "AI",
+      "title": "Creatine uptake enhances antitumor immunity",
+      "source": "Hacker News: Front Page",
+      "date": "Thu, 24 Sep 2026 18:24:52 +0000",
+      "summary": "Article URL: https://www.cell.com/iscience/fulltext/S2589-0042(26)00811-4\nComments URL: https://news.ycombinator.com/item?id=49834825\nPoints: 77\n# Comments: 78",
+      "url": "https://www.cell.com/iscience/fulltext/S2589-0042(26)00811-4"
+    },
+    {
+      "category": "AI",
+      "title": "New Jersey fines data center $1.1M after drone pics expose 62 gas generators",
+      "source": "Ars Technica - All content",
+      "date": "Thu, 24 Sep 2026 18:20:58 +0000",
+      "summary": "Million-dollar fines won’t end billionaires’ data center pollution, neighbors fear.",
+      "url": "https://arstechnica.com/tech-policy/2026/09/new-jersey-fines-data-center-1-1m-after-satellite-pics-expose-62-gas-generators/"
+    },
+    {
+      "category": "Science",
+      "title": " Rare armored dinosaur found in Japan may have ancestors that migrated across a land bridge 100 million years ago ",
+      "source": " Latest from Live Science ",
+      "date": "Thu, 24 Sep 2026 17:42:28 +0000",
+      "summary": "The newly described dinosaur is only the third nodosaurid fossil found in Asia. Researchers say its ancestors may have migrated from North America.",
+      "url": "https://www.livescience.com/animals/dinosaurs/rare-armored-dinosaur-found-in-japan-may-have-ancestors-that-migrated-across-a-land-bridge-100-million-years-ago"
     },
     {
       "category": "Science",
@@ -43,22 +91,6 @@
       "url": "https://www.sciencedaily.com/releases/2026/09/260924020353.htm"
     },
     {
-      "category": "AI",
-      "title": "Oracle Cites 'Force Majeure' to Shield Itself on Controversial Data Center",
-      "source": "Hacker News: Front Page",
-      "date": "Thu, 24 Sep 2026 13:04:21 +0000",
-      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-09-24/oracle-cites-force-majeure-to-shield-itself-on-controversial-data-center\nComments URL: https://news.ycombinator.com/item?id=49830037\nPoints: 21\n# Comments: 7",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-24/oracle-cites-force-majeure-to-shield-itself-on-controversial-data-center"
-    },
-    {
-      "category": "AI",
-      "title": "Owners mourn spoiled food after firmware update bricks Samsung smart fridges",
-      "source": "Hacker News: Front Page",
-      "date": "Thu, 24 Sep 2026 12:58:08 +0000",
-      "summary": "Article URL: https://arstechnica.com/gadgets/2026/09/owners-mourn-spoiled-food-after-firmware-update-bricks-samsung-smart-fridges/\nComments URL: https://news.ycombinator.com/item?id=49829960\nPoints: 99\n# Comments: 86",
-      "url": "https://arstechnica.com/gadgets/2026/09/owners-mourn-spoiled-food-after-firmware-update-bricks-samsung-smart-fridges/"
-    },
-    {
       "category": "Science",
       "title": "Scientists find two tiny new snails with shells that close like doors",
       "source": "All Top News -- ScienceDaily",
@@ -67,28 +99,12 @@
       "url": "https://www.sciencedaily.com/releases/2026/09/260923035936.htm"
     },
     {
-      "category": "AI",
-      "title": "Hackers influence ChatGPT and Gemini to direct users to scam centers",
-      "source": "Hacker News: Front Page",
-      "date": "Thu, 24 Sep 2026 11:54:38 +0000",
-      "summary": "Article URL: https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073\nComments URL: https://news.ycombinator.com/item?id=49829387\nPoints: 53\n# Comments: 16",
-      "url": "https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073"
-    },
-    {
       "category": "Science",
       "title": "“We just need to go back” – Uranus’ moon Ariel may have hidden a 100-mile-deep ocean",
       "source": "All Top News -- ScienceDaily",
       "date": "Thu, 24 Sep 2026 07:19:19 EDT",
       "summary": "Ariel, one of Uranus’ moons, may once have contained a subsurface ocean more than 100 miles deep beneath its fractured icy shell. The finding, combined with similar evidence from Miranda, suggests the distant Uranian system could harbor multiple hidden ocean worlds.",
       "url": "https://www.sciencedaily.com/releases/2026/09/260923035951.htm"
-    },
-    {
-      "category": "AI",
-      "title": "There's a new way to break RSA that's faster than anything we've seen before",
-      "source": "Ars Technica - All content",
-      "date": "Thu, 24 Sep 2026 11:15:44 +0000",
-      "summary": "Until now, cryptographers thought factoring was the only way to break RSA. Not anymore.",
-      "url": "https://arstechnica.com/security/2026/09/theres-a-new-way-to-break-rsa-thats-faster-than-anything-weve-seen-before/"
     },
     {
       "category": "Biblical Studies",
@@ -105,14 +121,6 @@
       "date": "Thu, 24 Sep 2026 11:00:55 +0000",
       "summary": "Were sons and daughters sacrificed in ancient times? Is there any archaeological evidence?\nThe post First Person: Human Sacrifice to an Ammonite God? appeared first on Biblical Archaeology Society.",
       "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/daily-life-and-practice/first-person-human-sacrifice-to-an-ammonite-god/"
-    },
-    {
-      "category": "AI",
-      "title": "Review: Apple's hyper-pricey M5 Ultra Mac Studio made me into a vibe coder",
-      "source": "Ars Technica - All content",
-      "date": "Thu, 24 Sep 2026 11:00:04 +0000",
-      "summary": "Usable local AI is a lot of fun, but how much would you pay for it?",
-      "url": "https://arstechnica.com/gadgets/2026/09/review-apples-hyper-pricey-m5-ultra-mac-studio-made-me-into-a-vibe-coder/"
     },
     {
       "category": "Science",
@@ -139,14 +147,6 @@
       "url": "https://allthingsliberty.com/2026/09/the-long-sad-life-of-the-continental-frigate-delaware/"
     },
     {
-      "category": "Space",
-      "title": "APOD: 2026 September 24 – The Ghosts of Five Supernovas",
-      "source": "NASA",
-      "date": "Thu, 24 Sep 2026 04:05:00 +0000",
-      "summary": "APOD Science APOD APOD: 2026 September 24 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. OriginalAnnotated The Ghosts […]",
-      "url": "https://science.nasa.gov/image-article/apod-2026-september-24-the-ghosts-of-five-supernovas/"
-    },
-    {
       "category": "Theology",
       "title": "Tim Keller’s Final Exhortation: Notice the Stories that Shape You",
       "source": "The Gospel Coalition",
@@ -155,36 +155,12 @@
       "url": "https://www.thegospelcoalition.org/reviews/stories-we-live-by/"
     },
     {
-      "category": "Space",
-      "title": "Cloudy Cloak Over the Northwest",
-      "source": "NASA",
-      "date": "Thu, 24 Sep 2026 04:01:00 +0000",
-      "summary": "A low-lying cloud layer brought autumn ambience to western Washington and Oregon, while mountainous areas near the coast remained above the pall.",
-      "url": "https://science.nasa.gov/earth/earth-observatory/cloudy-cloak-over-the-northwest/"
-    },
-    {
       "category": "Theology",
       "title": "Impossible for Apostates to Return? The True Meaning of Hebrews 6:4–6",
       "source": "The Gospel Coalition",
       "date": "Thu, 24 Sep 2026 04:00:00 +0000",
       "summary": "By God’s design, the path between the old and new covenants is one way only.",
       "url": "https://www.thegospelcoalition.org/article/impossible-apostates-return/"
-    },
-    {
-      "category": "AI",
-      "title": "RFK Jr.'s CDC isn’t letting states order COVID-19 shots for kids, blocking access",
-      "source": "Ars Technica - All content",
-      "date": "Wed, 23 Sep 2026 22:17:25 +0000",
-      "summary": "US health deptartment said it wants to ensure the vaccine orders are \"appropriate.\"",
-      "url": "https://arstechnica.com/health/2026/09/rfk-jr-s-cdc-isnt-letting-states-order-covid-19-shots-for-kids-blocking-access/"
-    },
-    {
-      "category": "Science",
-      "title": " Hurricane Polo exploded in intensity in just 24 hours. Is the 'super' El Niño to blame? ",
-      "source": " Latest from Live Science ",
-      "date": "Wed, 23 Sep 2026 18:46:21 +0000",
-      "summary": "Hurricane Polo exploded from a tropical storm into a powerful Category 5 hurricane in less than 24 hours and is one of the strongest Pacific hurricanes on record.",
-      "url": "https://www.livescience.com/planet-earth/how-did-hurricane-polo-get-so-powerful"
     },
     {
       "category": "AI",
