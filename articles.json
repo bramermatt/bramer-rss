@@ -1,30 +1,102 @@
 {
-  "lastUpdated": "2026-09-23T19:22:09.442Z",
+  "lastUpdated": "2026-09-24T00:09:24.116Z",
   "articleCount": 36,
   "articles": [
     {
       "category": "Science",
-      "title": "Two new reports show that Canada needs to do much more to tackle climate change",
+      "title": "Crown-of-thorns starfish can help reefs thrive",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Wed, 23 Sep 2026 15:20:05 EDT",
-      "summary": "Global warming is expected to cross the 1.5°C temperature threshold—the lower limit of the Paris Agreement temperature goal—within a handful of years. This temperature increase shows no signs of slowing, and on our current trajectory, Canada is likely to experience temperatures 5°C above preindustrial levels by the end of the century.",
-      "url": "https://phys.org/news/2026-09-canada-tackle-climate.html"
+      "date": "Wed, 23 Sep 2026 20:00:04 EDT",
+      "summary": "Crown-of-thorns starfish (COTS) are infamous in the marine world. Their toxin-loaded thorns give them a menacing appearance, and they have a reputation as destroyers of coral reefs. New research from the University of Sydney challenges the perception of COTS as purely destructive. The findings suggest controlled populations can have a positive impact on coral prevalence and diversity.",
+      "url": "https://phys.org/news/2026-09-crown-thorns-starfish-reefs.html"
     },
     {
       "category": "Science",
-      "title": "Study reveals how biological echo chambers form—and what can break them",
+      "title": "GenAI use among online adult learners associated with academic performance and technology confidence",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Wed, 23 Sep 2026 15:20:01 EDT",
-      "summary": "Tropical army ants are known to form devastating armadas that march through forests eating other insects and small creatures. As they march, they deposit chemical trails of pheromones that others behind them sense and follow. But occasionally one of these ants will walk in a circle, prompting a subset of ants behind them to follow until they all collapse and die.",
-      "url": "https://phys.org/news/2026-09-reveals-biological-echo-chambers.html"
+      "date": "Wed, 23 Sep 2026 20:00:01 EDT",
+      "summary": "University of Phoenix scholars have published research examining how nontraditional undergraduate students use generative artificial intelligence (GenAI) in online higher education. The study found that more frequent GenAI use was significantly associated with higher academic performance and stronger confidence in technology skills. Lower confidence in reading, writing and math, and greater time demands from work, study or family responsibilities, did not significantly predict use.",
+      "url": "https://phys.org/news/2026-09-genai-online-adult-learners-academic.html"
+    },
+    {
+      "category": "AI",
+      "title": "Meta VR Glasses",
+      "source": "Hacker News: Front Page",
+      "date": "Wed, 23 Sep 2026 23:47:56 +0000",
+      "summary": "Article URL: https://www.meta.com/vr-glasses/\nComments URL: https://news.ycombinator.com/item?id=49824268\nPoints: 33\n# Comments: 11",
+      "url": "https://www.meta.com/vr-glasses/"
     },
     {
       "category": "Science",
-      "title": "Earth shifted among five 'mega-climate' states over 539 million years, with extinctions spiking near transitions",
+      "title": "How lawyers can better support clients living with dementia",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Wed, 23 Sep 2026 15:00:07 EDT",
-      "summary": "Earth's climate has undergone dramatic changes throughout its history, but new research suggests those changes may not have been as random as previously thought. A study led by an international team of researchers, including University of New Mexico paleobiologist Corinne \"Cori\" Myers, found that Earth's climate over the past 539 million years tended to remain within a small number of recurring climate states. The research also found that periods of elevated extinction, including the five major mass extinction events in Earth's history, frequently occurred as the planet transitioned between those states.",
-      "url": "https://phys.org/news/2026-09-earth-shifted-mega-climate-states.html"
+      "date": "Wed, 23 Sep 2026 19:40:09 EDT",
+      "summary": "Lawyers play a critical role in helping people with dementia plan for the future. A recent study identifies knowledge gaps in the legal profession and key capabilities needed to better support people with dementia.",
+      "url": "https://phys.org/news/2026-09-lawyers-clients-dementia.html"
+    },
+    {
+      "category": "AI",
+      "title": "We've Turned Starlink into a Planetary Barometer",
+      "source": "Hacker News: Front Page",
+      "date": "Wed, 23 Sep 2026 23:10:22 +0000",
+      "summary": "Article URL: https://www.spaceweather.com/starlink/starlink_drag_explainer.html\nComments URL: https://news.ycombinator.com/item?id=49823922\nPoints: 8\n# Comments: 2",
+      "url": "https://www.spaceweather.com/starlink/starlink_drag_explainer.html"
+    },
+    {
+      "category": "AI",
+      "title": "ArXiv receives multiyear commitments to support it as an independent nonprofit",
+      "source": "Hacker News: Front Page",
+      "date": "Wed, 23 Sep 2026 22:45:49 +0000",
+      "summary": "Article URL: https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment/\nComments URL: https://news.ycombinator.com/item?id=49823664\nPoints: 17\n# Comments: 0",
+      "url": "https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment/"
+    },
+    {
+      "category": "AI",
+      "title": "RFK Jr.'s CDC isn’t letting states order COVID-19 shots for kids, blocking access",
+      "source": "Ars Technica - All content",
+      "date": "Wed, 23 Sep 2026 22:17:25 +0000",
+      "summary": "US health deptartment said it wants to ensure the vaccine orders are \"appropriate.\"",
+      "url": "https://arstechnica.com/health/2026/09/rfk-jr-s-cdc-isnt-letting-states-order-covid-19-shots-for-kids-blocking-access/"
+    },
+    {
+      "category": "Space",
+      "title": "NASA Modernizes Commercial Airline Systems",
+      "source": "NASA",
+      "date": "Wed, 23 Sep 2026 22:08:54 +0000",
+      "summary": "NASA’s researchers know that when you settle into your seat on a commercial flight, you expect a smooth takeoff, views over the clouds, a steady descent, and hopefully an early arrival at your destination. But when your flight gets delayed on the tarmac instead of lifting off, or it ends up in a holding pattern […]",
+      "url": "https://www.nasa.gov/directorates/armd/aosp/nasa-modernizes-commercial-airline-systems/"
+    },
+    {
+      "category": "AI",
+      "title": "FBI rushes to investigate if ShinyHunters hack of thousands of employees is real",
+      "source": "Ars Technica - All content",
+      "date": "Wed, 23 Sep 2026 21:46:36 +0000",
+      "summary": "It's unclear what will happen if FBI misses ShinyHunters' deadline.",
+      "url": "https://arstechnica.com/tech-policy/2026/09/fbi-rushes-to-investigate-if-shinyhunters-hack-of-thousands-of-employees-is-real/"
+    },
+    {
+      "category": "AI",
+      "title": "Disney+ and Hulu raise prices by up to 13 percent after doubling profits",
+      "source": "Ars Technica - All content",
+      "date": "Wed, 23 Sep 2026 21:18:53 +0000",
+      "summary": "The Disney+ ad-free plan is now more expensive than Netflix's.",
+      "url": "https://arstechnica.com/gadgets/2026/09/disney-and-hulu-raise-prices-by-up-to-13-percent-after-doubling-profits/"
+    },
+    {
+      "category": "Space",
+      "title": "NASA Welcomes Croatia as Newest Artemis Accords Signatory",
+      "source": "NASA",
+      "date": "Wed, 23 Sep 2026 20:37:19 +0000",
+      "summary": "The Republic of Croatia became the 74th signatory to the Artemis Accords on Wednesday during a ceremony in the capital city of Zagreb with NASA and U.S. Department of State officials present. “It is my privilege to welcome the Republic of Croatia as the latest signatory of the Artemis Accords,” said NASA Deputy Matt Anderson […]",
+      "url": "https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-croatia-as-newest-artemis-accords-signatory/"
+    },
+    {
+      "category": "Space",
+      "title": "NASA Selects Far-Infrared Telescope as First in New Mission Class",
+      "source": "NASA",
+      "date": "Wed, 23 Sep 2026 20:09:42 +0000",
+      "summary": "NASA announced Wednesday a mission to explore the history and evolution of the universe, PRIMA (PRobe far-Infrared Mission for Astrophysics), is advancing to the next phase of development. This space telescope is the first in a new class of NASA astrophysics missions, called Probe Explorers, within the agency’s longstanding Explorers Program. “The PRIMA mission is […]",
+      "url": "https://www.nasa.gov/news-release/nasa-selects-far-infrared-telescope-as-first-in-new-mission-class/"
     },
     {
       "category": "Science",
@@ -33,46 +105,6 @@
       "date": "Wed, 23 Sep 2026 18:46:21 +0000",
       "summary": "Hurricane Polo exploded from a tropical storm into a powerful Category 5 hurricane in less than 24 hours on Tuesday.",
       "url": "https://www.livescience.com/planet-earth/how-did-hurricane-polo-get-so-powerful"
-    },
-    {
-      "category": "Space",
-      "title": "NASA’s Hubble Telescope Reaches Milestone, Looks for Elusive Supernova",
-      "source": "NASA",
-      "date": "Wed, 23 Sep 2026 18:43:43 +0000",
-      "summary": "NASA’s Hubble Space Telescope captured this image of massive galaxy cluster MACS J0417 (left of center) on Sept. 19, 2026. This galaxy cluster acts as a gravitational lens, bending and magnifying light from objects far behind it. Supernova Athena, discovered by NASA’s James Webb Space Telescope in 2025, is predicted to reappear between now and […]",
-      "url": "https://www.nasa.gov/image-article/nasas-hubble-telescope-reaches-milestone-looks-for-elusive-supernova/"
-    },
-    {
-      "category": "AI",
-      "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
-      "source": "Hacker News: Front Page",
-      "date": "Wed, 23 Sep 2026 18:06:47 +0000",
-      "summary": "Article URL: https://www.anthropic.com/news/claude-discovers-novel-enzyme-system\nComments URL: https://news.ycombinator.com/item?id=49820134\nPoints: 70\n# Comments: 41",
-      "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system"
-    },
-    {
-      "category": "AI",
-      "title": "A brief history of Windows scroll bar shortcuts",
-      "source": "Hacker News: Front Page",
-      "date": "Wed, 23 Sep 2026 18:02:08 +0000",
-      "summary": "Article URL: https://devblogs.microsoft.com/oldnewthing/20260922-00/?p=112719/\nComments URL: https://news.ycombinator.com/item?id=49820065\nPoints: 24\n# Comments: 7",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20260922-00/?p=112719/"
-    },
-    {
-      "category": "AI",
-      "title": "UK military jamming other nations' satellites to defend itself, BBC told",
-      "source": "Hacker News: Front Page",
-      "date": "Wed, 23 Sep 2026 17:45:30 +0000",
-      "summary": "Article URL: https://www.bbc.com/news/articles/c32l8y8kygdvo\nComments URL: https://news.ycombinator.com/item?id=49819814\nPoints: 57\n# Comments: 77",
-      "url": "https://www.bbc.com/news/articles/c32l8y8kygdvo"
-    },
-    {
-      "category": "Space",
-      "title": "Arctic Sea Ice Reaches 2026 Annual Minimum Extent",
-      "source": "NASA",
-      "date": "Wed, 23 Sep 2026 17:15:32 +0000",
-      "summary": "Arctic sea ice reached its annual minimum extent on Sept. 12, according to NASA and the National Snow and Ice Data Center (NSIDC) at the University of Colorado Boulder. The ice covered an estimated 1.78 million square miles (4.6 million square kilometers), tying 2008, 2010, and 2025 for the 10th-lowest minimum in the satellite record. […]",
-      "url": "https://science.nasa.gov/science-research/earth-science/climate-science/sea-ice/arctic-sea-ice-2026-min/"
     },
     {
       "category": "Science",
@@ -91,36 +123,12 @@
       "url": "https://www.livescience.com/archaeology/romans/missing-celtic-fort-annihilated-by-julius-caesar-finally-found-under-paris-hospital"
     },
     {
-      "category": "Space",
-      "title": "Shannon Lucid’s Record-Setting Mission Aboard Mir",
-      "source": "NASA",
-      "date": "Wed, 23 Sep 2026 16:03:37 +0000",
-      "summary": "Shannon Lucid’s Record-Setting Mission Aboard Mir  Three days before returning to Earth, Shannon W. Lucid—who joined NASA in 1978 as one of its first six female astronauts—checked in on wheat growing in the Svet greenhouse aboard the Russian space station Mir. For six months, Lucid lived and worked alongside two Russian cosmonauts conducting life science […]",
-      "url": "https://www.nasa.gov/image-article/shannon-lucids-record-setting-mission-aboard-mir/"
-    },
-    {
       "category": "AI",
       "title": "Two years of OpenAI Academy",
       "source": "OpenAI News",
       "date": "Wed, 23 Sep 2026 16:00:00 GMT",
       "summary": "Marking two years of OpenAI Academy and bringing AI skills to even more communities.",
       "url": "https://openai.com/index/two-years-of-openai-academy"
-    },
-    {
-      "category": "AI",
-      "title": "After multiple deaths and injuries, NHTSA is investigating comma.ai",
-      "source": "Ars Technica - All content",
-      "date": "Wed, 23 Sep 2026 14:20:23 +0000",
-      "summary": "Feds know of 5 crashes where cars using comma.ai devices hit slow or stopped vehicles.",
-      "url": "https://arstechnica.com/cars/2026/09/aftermarket-driver-assist-under-federal-probe-following-fatal-crashes/"
-    },
-    {
-      "category": "AI",
-      "title": "America gave up its rare earth edge. China took full advantage.",
-      "source": "Ars Technica - All content",
-      "date": "Wed, 23 Sep 2026 13:37:05 +0000",
-      "summary": "Decades of cheaper imports left US dependent on China for crucial rare earth processing.",
-      "url": "https://arstechnica.com/reviews/2026/09/how-the-us-handed-china-control-of-the-rare-earth-supply-chain/"
     },
     {
       "category": "AI",
@@ -132,19 +140,11 @@
     },
     {
       "category": "AI",
-      "title": "How invideo improves color grading 3x with GPT‑6 Astra",
+      "title": "Sam Altman’s remarks at the United Nations Security Council",
       "source": "OpenAI News",
       "date": "Wed, 23 Sep 2026 12:00:00 GMT",
-      "summary": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
-      "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra"
-    },
-    {
-      "category": "AI",
-      "title": "Small undersea volcanoes may unleash outsized tsunamis",
-      "source": "Ars Technica - All content",
-      "date": "Wed, 23 Sep 2026 11:15:30 +0000",
-      "summary": "Post-eruption imaging of the Hunga caldera gives new details of its collapse.",
-      "url": "https://arstechnica.com/science/2026/09/small-undersea-volcanoes-may-unleash-outsized-tsunamis/"
+      "summary": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
+      "url": "https://openai.com/index/sam-altman-un-security-council-remarks"
     },
     {
       "category": "Biblical Studies",
