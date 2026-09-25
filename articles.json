@@ -1,78 +1,110 @@
 {
-  "lastUpdated": "2026-09-24T19:40:27.589Z",
-  "articleCount": 33,
+  "lastUpdated": "2026-09-25T00:11:22.205Z",
+  "articleCount": 36,
   "articles": [
     {
       "category": "Science",
-      "title": "Engineers just designed a better 'shock absorber' for spacecraft",
+      "title": "Biodiversity in production forests: Both costs and benefits shape the financial picture",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Thu, 24 Sep 2026 15:40:04 EDT",
-      "summary": "Rocket launches are among the most violent ways humans have devised to travel. They generate millions of pounds of thrust and subject passengers to intense g-forces. Humans must undergo serious training to withstand those forces, while machines must be designed to survive them. If a delicate mirror or solder joint cracks before a multibillion-dollar satellite even begins its mission, the years of effort that went into its design and assembly could be lost. Now, researchers in Switzerland have come up with an ingenious way to make that less likely.",
-      "url": "https://phys.org/news/2026-09-absorber-spacecraft.html"
+      "date": "Thu, 24 Sep 2026 20:00:01 EDT",
+      "summary": "Forests provide timber as well as many other ecosystem services. An important question is how measures to conserve biodiversity affect the profitability of forest operations focused on wood production. Researchers from Wageningen University & Research and the University of Freiburg reviewed studies worldwide that compared forest management with biodiversity conservation measures against business-as-usual management without those measures. The work is published in the journal Current Forestry Reports.",
+      "url": "https://phys.org/news/2026-09-biodiversity-production-forests-benefits-financial.html"
     },
     {
       "category": "Science",
-      "title": "Scientists find a carbon cycle hiding in desert minerals",
+      "title": "Patriot parking predictions putting students in the proper spot",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Thu, 24 Sep 2026 15:40:01 EDT",
-      "summary": "On the surface, the arid expanses of the Mojave Desert may seem inhospitable and largely removed from the global carbon cycle. But beneath the surface, its mineral-rich soils are running a carbon cycle of their own—one that could account for a surprisingly large share of the planet's annual carbon exchange.",
-      "url": "https://phys.org/news/2026-09-scientists-carbon-minerals.html"
+      "date": "Thu, 24 Sep 2026 19:40:08 EDT",
+      "summary": "College students are already under stress from classes, tests and presentations. So when something as \"easy\" as finding a parking spot is anything but, it can cause a bad start to an already challenging day.",
+      "url": "https://phys.org/news/2026-09-patriot-students-proper.html"
     },
     {
       "category": "Science",
-      "title": "Machine learning helps identify chemicals that repel honey bees from pesticides",
+      "title": "US-India satellite captures time-lapse video of volcanic eruption",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Thu, 24 Sep 2026 15:30:01 EDT",
-      "summary": "In a win for pollinator conservation, researchers at the University of California, Riverside, have developed a machine learning-based method to identify chemical compounds that can safely repel honey bees from pesticide-treated crops. The research offers a potential solution to one of agriculture's most urgent ecological challenges: the ongoing decline in honey bee populations, driven in part by pesticide exposure. The paper is published in the journal eLife.",
-      "url": "https://phys.org/news/2026-09-machine-chemicals-repel-honey-bees.html"
+      "date": "Thu, 24 Sep 2026 19:40:05 EDT",
+      "summary": "Like tendrils on a vine, lava spreads out from the northern crater of Krasheninnikov, a volcano pair on the Pacific coast of Russia's Kamchatka Peninsula. On July 30, 2025, an 8.8-magnitude earthquake struck in the nearby ocean, apparently jolting one of the two volcanoes awake. A few days later, for the first time in nearly five centuries, Krasheninnikov started erupting. Since then, the northern volcano has been spilling a steady, eastward-flowing field of molten rock and debris, and the NASA-ISRO Synthetic Aperture Radar (NISAR) mission has been tracking the changes in the landscape.",
+      "url": "https://phys.org/news/2026-09-india-satellite-captures-lapse-video.html"
     },
     {
       "category": "AI",
-      "title": "We have a trailer for Musk documentary Elon called a \"hit piece\"",
-      "source": "Ars Technica - All content",
-      "date": "Thu, 24 Sep 2026 18:52:23 +0000",
-      "summary": "Oscar-winning documentarian Alex Gibney focuses on the world's wealthiest man.",
-      "url": "https://arstechnica.com/culture/2026/09/we-have-a-trailer-for-musk-documentary-elon-called-a-hit-piece/"
-    },
-    {
-      "category": "AI",
-      "title": "Robots make combat airdrops, clear mines as Ukraine defeats Russian pincer",
-      "source": "Ars Technica - All content",
-      "date": "Thu, 24 Sep 2026 18:39:47 +0000",
-      "summary": "Ukraine’s Operation Vivaldi has erased Russian gains with the help of robots.",
-      "url": "https://arstechnica.com/gadgets/2026/09/robots-make-combat-airdrops-clear-mines-as-ukraine-defeats-russian-pincer/"
-    },
-    {
-      "category": "AI",
-      "title": "Show HN: Radix – Visual UI for agentic programming",
+      "title": "GitLab Outage",
       "source": "Hacker News: Front Page",
-      "date": "Thu, 24 Sep 2026 18:35:20 +0000",
-      "summary": "Hey HN, I'm Jordan from Radix.\nRadix is a UI tool for programming agents. You prompt your agent to generate a workspace for a task you're working on and get an interactive widget that persists locally on disk.\nI built Radix because I always needed tools while I was writing code: tools to test little experiments, to play around with UI, to visualise results etc. Sometimes these would end up as python tools that read and plotted data, or separate React apps spun up just to test a single feature. Lately obviously I've been using Claude artifacts but these are quite limited.\nI wanted a system where it was easy to leave comments or adapt an artifact without having to give vague descriptions back to the agent, and where ideally I could actually shift away from a chat window as the main interface.\nI've got a pro version of Radix which I will launch soon. This current version is entirely free and is definitely a beta -- there will be rough edges!\nNote: There's no telemetry or data captured. Your messages run entirely through your own agent. I require a key but that's just to get an idea of how many people are using it. Everything is stored locally (the workspaces are actually just React apps which you can edit \"artisanally\" if you want).\nIf you have any questions please reply here or email me hello@radix-os.com\nThank you!\nComments URL: https://news.ycombinator.com/item?id=49834964\nPoints: 5\n# Comments: 4",
-      "url": "https://radix-os.com"
+      "date": "Thu, 24 Sep 2026 23:10:44 +0000",
+      "summary": "Article URL: https://status.gitlab.com/\nComments URL: https://news.ycombinator.com/item?id=49838034\nPoints: 32\n# Comments: 10",
+      "url": "https://status.gitlab.com/"
     },
     {
       "category": "AI",
-      "title": "Stable (YC W20) Is Hiring Product Engineers",
-      "source": "Hacker News: Front Page",
-      "date": "Thu, 24 Sep 2026 18:29:18 +0000",
-      "summary": "Article URL: https://www.usestable.com/careers/product-engineer\nComments URL: https://news.ycombinator.com/item?id=49834893\nPoints: 0\n# Comments: 0",
-      "url": "https://www.usestable.com/careers/product-engineer"
-    },
-    {
-      "category": "AI",
-      "title": "Creatine uptake enhances antitumor immunity",
-      "source": "Hacker News: Front Page",
-      "date": "Thu, 24 Sep 2026 18:24:52 +0000",
-      "summary": "Article URL: https://www.cell.com/iscience/fulltext/S2589-0042(26)00811-4\nComments URL: https://news.ycombinator.com/item?id=49834825\nPoints: 77\n# Comments: 78",
-      "url": "https://www.cell.com/iscience/fulltext/S2589-0042(26)00811-4"
-    },
-    {
-      "category": "AI",
-      "title": "New Jersey fines data center $1.1M after drone pics expose 62 gas generators",
+      "title": "CDC opens state ordering for COVID-19 vaccines after unexplained delay",
       "source": "Ars Technica - All content",
-      "date": "Thu, 24 Sep 2026 18:20:58 +0000",
-      "summary": "Million-dollar fines won’t end billionaires’ data center pollution, neighbors fear.",
-      "url": "https://arstechnica.com/tech-policy/2026/09/new-jersey-fines-data-center-1-1m-after-satellite-pics-expose-62-gas-generators/"
+      "date": "Thu, 24 Sep 2026 22:29:48 +0000",
+      "summary": "Health department previously blamed delay on \"not yet finalized procurement decisions.\"",
+      "url": "https://arstechnica.com/health/2026/09/cdc-opens-state-ordering-for-covid-19-vaccines-after-unexplained-delay/"
+    },
+    {
+      "category": "AI",
+      "title": "Back and shoulder surgery is often worse than useless",
+      "source": "Hacker News: Front Page",
+      "date": "Thu, 24 Sep 2026 22:15:58 +0000",
+      "summary": "https://archive.ph/j6oeD\nComments URL: https://news.ycombinator.com/item?id=49837473\nPoints: 35\n# Comments: 22",
+      "url": "https://www.economist.com/leaders/2026/09/24/back-and-shoulder-surgery-is-often-worse-than-useless"
+    },
+    {
+      "category": "AI",
+      "title": "Donald Duck's uncle was partly based on Wernher von Braun",
+      "source": "Ars Technica - All content",
+      "date": "Thu, 24 Sep 2026 21:40:07 +0000",
+      "summary": "Introducing the \"world-famous authority on outer space...\"",
+      "url": "https://arstechnica.com/space/2026/09/disneys-ludwig-von-drake-was-inspired-by-rocket-scientists-65-years-ago/"
+    },
+    {
+      "category": "AI",
+      "title": "Show HN: Koi.rest – watch some fish and regain your balance",
+      "source": "Hacker News: Front Page",
+      "date": "Thu, 24 Sep 2026 21:33:03 +0000",
+      "summary": "Hi there. My name is Paul. I’m a developer, an explorer and I’ve got ADHD. As of the beginning of August, I’m also unemployed.\nThis last part, along with everything else this past year, has caused me a great deal of stress.\nWhile our balcony zen garden project is yet to be completed, I had an idea to create a virtual one that everyone can use.\nIt's an idea that, unfortunately, I’ve been postponing for a while now, mostly because I have no fucking idea how to do it as I don’t know JavaScript, and I don't have the capacity to learn it right now.\nSo I let perfect be the enemy of good and, well... just kept the idea to myself.\nThen I said \"fuck it\" and used AI to make the thing I really wanted to make.\nI realized I didn't want \"perfect\". I wanted \"good enough\".\nI tweaked, added, removed, drew, researched, questioned, tested... I just wasn't the one coding it.\nSo now, instead of occupying my brain, it now lives on the internet for others to enjoy.\nYes, there’s something noble about making something entirely on your own, but what good is an idea that just sits in my head?\nSo here I am. I made the thing. The weird, little, quiet koi pond.\nThe silly project of passion. The little corner of the internet to let strangers watch fish quietly, together.\nI hope this pond helps you as much as it helped me.\nComments URL: https://news.ycombinator.com/item?id=49837006\nPoints: 100\n# Comments: 24",
+      "url": "https://koi.rest"
+    },
+    {
+      "category": "Space",
+      "title": "NASA Welcomes Côte d’Ivoire as Newest Artemis Accords Signatory",
+      "source": "NASA",
+      "date": "Thu, 24 Sep 2026 21:27:17 +0000",
+      "summary": "Côte d’Ivoire signed the Artemis Accords on Thursday as the 75th signatory during a signing ceremony in the nation’s largest city Abidjan, marking the largest milestone yet for the international coalition of like-minded countries committed to peaceful and responsible space exploration. “The United States and Côte d’Ivoire already cooperate on Earth,” said NASA’s Deputy Administrator […]",
+      "url": "https://www.nasa.gov/organizations/oiir/nasa-welcomes-cote-divoire-as-newest-artemis-accords-signatory/"
+    },
+    {
+      "category": "Space",
+      "title": "NASA Shares SpaceX Crew-14 Assignments for Space Station Mission",
+      "source": "NASA",
+      "date": "Thu, 24 Sep 2026 21:15:46 +0000",
+      "summary": "Four crew members from three space agencies will launch to the International Space Station no earlier than spring 2027 for a long-duration science expedition as part of NASA’s SpaceX Crew-14 mission. NASA astronauts Kayla Barron and Chris Birch will serve as spacecraft commander and pilot, with JAXA (Japan Aerospace Exploration Agency) astronaut Makoto Suwa, and Roscosmos cosmonaut […]",
+      "url": "https://www.nasa.gov/news-release/nasa-shares-spacex-crew-14-assignments-for-space-station-mission/"
+    },
+    {
+      "category": "Science",
+      "title": " Archaeologists discover 'tomb of the very highest rank' in 2,700-year-old Etruscan cemetery ",
+      "source": " Latest from Live Science ",
+      "date": "Thu, 24 Sep 2026 20:59:43 +0000",
+      "summary": "Archaeologists have discovered a massive Etruscan burial mound with a vast assortment of grave goods north of Rome.",
+      "url": "https://www.livescience.com/archaeology/archaeologists-discover-tomb-of-the-very-highest-rank-in-2-700-year-old-etruscan-cemetery"
+    },
+    {
+      "category": "AI",
+      "title": "F-Droid gets its biggest update in a decade with new UI and smoother app installs",
+      "source": "Ars Technica - All content",
+      "date": "Thu, 24 Sep 2026 19:30:42 +0000",
+      "summary": "F-Droid's Android app store has been rebuilt from the ground up.",
+      "url": "https://arstechnica.com/gadgets/2026/09/f-droid-gets-its-biggest-update-in-a-decade-with-new-ui-and-smoother-app-installs/"
+    },
+    {
+      "category": "Space",
+      "title": "Travel",
+      "source": "NASA",
+      "date": "Thu, 24 Sep 2026 18:06:14 +0000",
+      "summary": "The NSSC provides travel reimbursement services for all authorized Agency travel including: domestic, foreign, local, ETDY, and Change of Station (COS). References Federal Travel Regulations (FTR) Traveler Extended TDY and Taxes Domestic Per Diem Rates Foreign Per Diem Rates Change of Station NSSC Travel now has another way that a transferee Traveler may submit his […]",
+      "url": "https://www.nasa.gov/centers-and-facilities/nssc/travel/"
     },
     {
       "category": "Science",
@@ -129,14 +161,6 @@
       "date": "Thu, 24 Sep 2026 10:00:00 +0000",
       "summary": "No evidence has been found linking 3I/ATLAS to aliens. But the interstellar object, just the third of its kind to be found, shows that life's molecular precursors are abundant in the Milky Way.",
       "url": "https://www.livescience.com/space/comets/could-comet-3i-atlas-teach-us-about-life-beyond-earth-scientists-say-the-storys-not-over-yet"
-    },
-    {
-      "category": "Science",
-      "title": " Japan switches on its first full-stack room-temperature quantum computer — and scientists plan to scale it up to 10,000 qubits ",
-      "source": " Latest from Live Science ",
-      "date": "Thu, 24 Sep 2026 09:30:00 +0000",
-      "summary": "Japan's new quantum system, Shunkai, uses \"optical tweezers\" to trap and rearrange atoms, and will be available to researchers working on quantum error correction.",
-      "url": "https://www.livescience.com/technology/quantum/japan-switches-on-its-first-full-stack-room-temperature-quantum-computer-and-scientists-plan-to-scale-it-up-to-10-000-qubits"
     },
     {
       "category": "History",
