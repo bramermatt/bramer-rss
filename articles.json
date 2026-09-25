@@ -1,30 +1,94 @@
 {
-  "lastUpdated": "2026-09-25T14:53:36.117Z",
-  "articleCount": 36,
+  "lastUpdated": "2026-09-25T19:44:18.456Z",
+  "articleCount": 33,
   "articles": [
     {
       "category": "Science",
-      "title": "Teen loneliness may follow young people into the workplace",
+      "title": "Ultrathin materials could make quantum light circuits programmable",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Fri, 25 Sep 2026 10:40:10 EDT",
-      "summary": "What happens when loneliness follows a young person from the school hallway into the workplace? New research suggests that feeling lonely during adolescence may be linked to a greater risk of unstable or less secure employment in young adulthood.",
-      "url": "https://phys.org/news/2026-09-teen-loneliness-young-people-workplace.html"
+      "date": "Fri, 25 Sep 2026 15:40:01 EDT",
+      "summary": "Quantum photonics could be a pivotal part of future quantum technology if the right materials can be created, a new review paper has found.",
+      "url": "https://phys.org/news/2026-09-ultrathin-materials-quantum-circuits-programmable.html"
+    },
+    {
+      "category": "AI",
+      "title": "Review: The iPhone 18 Pro is Apple's coolest smartphone (but only literally)",
+      "source": "Ars Technica - All content",
+      "date": "Fri, 25 Sep 2026 19:34:42 +0000",
+      "summary": "Better thermals and battery life make this iterative update nicer to use.",
+      "url": "https://arstechnica.com/apple/2026/09/review-the-iphone-18-pro-is-apples-coolest-smartphone-but-only-literally/"
+    },
+    {
+      "category": "AI",
+      "title": "Supreme Court permits states to use SAVE database for citizenship checks",
+      "source": "Hacker News: Front Page",
+      "date": "Fri, 25 Sep 2026 19:28:30 +0000",
+      "summary": "Article URL: https://cyberscoop.com/supreme-court-save-database-voter-citizenship/\nComments URL: https://news.ycombinator.com/item?id=49848844\nPoints: 11\n# Comments: 0",
+      "url": "https://cyberscoop.com/supreme-court-save-database-voter-citizenship/"
     },
     {
       "category": "Science",
-      "title": "Modification of magnetic nanoparticles improves RNA isolation",
+      "title": "An overlooked era of cosmology is stealing the show in the quest to understand the cosmos",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Fri, 25 Sep 2026 10:40:04 EDT",
-      "summary": "The COVID-19 pandemic clearly demonstrated the importance of rapid and reliable diagnostic methods for detecting and monitoring infectious diseases. Nucleic acids, including RNA, are key biomarkers used in the detection, monitoring and treatment of a wide range of diseases. However, isolating nucleic acids from biological samples can be challenging, particularly when they are present at very low concentrations.",
-      "url": "https://phys.org/news/2026-09-modification-magnetic-nanoparticles-rna-isolation.html"
+      "date": "Fri, 25 Sep 2026 15:20:01 EDT",
+      "summary": "Could you imagine if pagers made a comeback? Sure, your smartphone would still be your notepad-flashlight-camera-personal assistant-MP3 player-wallet-social media browser. But imagine if pagers made it so easy to do that one important thing—pinging your friends and associates—that we all brought them back into our lives, or adopted them for the first time.",
+      "url": "https://phys.org/news/2026-09-overlooked-era-cosmology-quest-cosmos.html"
+    },
+    {
+      "category": "AI",
+      "title": "Advice to a Beginning Graduate Student (2001)",
+      "source": "Hacker News: Front Page",
+      "date": "Fri, 25 Sep 2026 19:12:45 +0000",
+      "summary": "Article URL: https://www.cs.cmu.edu/~mblum/research/pdf/grad.html\nComments URL: https://news.ycombinator.com/item?id=49848680\nPoints: 15\n# Comments: 2",
+      "url": "https://www.cs.cmu.edu/~mblum/research/pdf/grad.html"
+    },
+    {
+      "category": "AI",
+      "title": "AI was supposed to hit new grads hard. So far, unemployment data says otherwise.",
+      "source": "Ars Technica - All content",
+      "date": "Fri, 25 Sep 2026 19:11:05 +0000",
+      "summary": "\"There is no evidence of any significant, widespread displacement or reduction in hiring”",
+      "url": "https://arstechnica.com/ai/2026/09/ai-was-supposed-to-hit-new-grads-hard-so-far-unemployment-data-says-otherwise/"
     },
     {
       "category": "Science",
-      "title": "Climate overshoot will leave lasting impacts even after global temperatures fall",
+      "title": "Laser light enables detection of colorectal cancer biomarker in blood within minutes",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Fri, 25 Sep 2026 10:20:05 EDT",
-      "summary": "Returning global temperatures to a climate target does not necessarily undo the damage caused by exceeding it, new Concordia-led research published in the journal Communications Earth & Environment finds.",
-      "url": "https://phys.org/news/2026-09-climate-overshoot-impacts-global-temperatures.html"
+      "date": "Fri, 25 Sep 2026 15:00:01 EDT",
+      "summary": "Researchers often use antibodies to detect specific molecules or biological markers because they are remarkably precise at recognizing their targets. However, finding the faint signals of cancer in blood samples is a challenge even for the most reliable techniques.",
+      "url": "https://phys.org/news/2026-09-laser-enables-colorectal-cancer-biomarker.html"
+    },
+    {
+      "category": "AI",
+      "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
+      "source": "OpenAI News",
+      "date": "Fri, 25 Sep 2026 19:00:00 GMT",
+      "summary": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.",
+      "url": "https://openai.com/index/proaction"
+    },
+    {
+      "category": "AI",
+      "title": "Zelensky says Russia has widened attacks to hit Ukraine's data centres",
+      "source": "Hacker News: Front Page",
+      "date": "Fri, 25 Sep 2026 18:56:36 +0000",
+      "summary": "Article URL: https://www.bbc.com/news/articles/c84gkwgk7d06o\nComments URL: https://news.ycombinator.com/item?id=49848495\nPoints: 55\n# Comments: 34",
+      "url": "https://www.bbc.com/news/articles/c84gkwgk7d06o"
+    },
+    {
+      "category": "AI",
+      "title": "Paramount/WBD merger conditions give the public \"virtually nothing,\" judge is told",
+      "source": "Ars Technica - All content",
+      "date": "Fri, 25 Sep 2026 18:42:57 +0000",
+      "summary": "US judge reviews deal with California, says it must not be result of collusion.",
+      "url": "https://arstechnica.com/tech-policy/2026/09/paramount-wbd-merger-conditions-give-the-public-virtually-nothing-judge-is-told/"
+    },
+    {
+      "category": "Science",
+      "title": " 'Everything we know about space travel is going to change within a decade': The fusion breakthrough that could unlock a path to the stars ",
+      "source": " Latest from Live Science ",
+      "date": "Fri, 25 Sep 2026 15:00:00 +0000",
+      "summary": "Several companies have made significant headway toward nuclear fusion propulsion drives. Is humanity on the brink of a revolution in spaceflight?",
+      "url": "https://www.livescience.com/space/space-exploration/everything-we-know-about-space-travel-is-going-to-change-within-a-decade-the-fusion-breakthrough-that-could-unlock-a-path-to-the-stars"
     },
     {
       "category": "Science",
@@ -35,36 +99,12 @@
       "url": "https://www.livescience.com/products/optics/best-binoculars-the-ultimate-buying-guide"
     },
     {
-      "category": "AI",
-      "title": "Tell HN: AGI Is Here",
-      "source": "Hacker News: Front Page",
-      "date": "Fri, 25 Sep 2026 14:11:59 +0000",
-      "summary": "Whether by your strict definition or not AGI is here is immaterial. For 90%+ of humanity AGI is here today, they act like it does and they use it as if it is. Geoffrey Hinton in a recent interview said that according to him it is still a year or so out, but that seems to ignore the fact that he's one of the smartest people on the planet, so he is one of the last to be 'caught up with'.\nIf you have the knowledge of a very significant fraction of humanity at your fingertips, reasonably strong reasoning abilities, if you can speedread at 1500 words / minute without dropping a beat and if you can write at 200+ characters per second you can get more done in an hour than a normal person can get done in a day.\nSo I would suggest we start thinking about how to do all those things that we should have done years ago (such as to create ways to safely deploy this tech) now. It's not going to go away, like every other technology bad version 1.0 will give way to much improved version 2.0 and so on, and in five years time you won't recognize the landscape.\nStop waiting for 'your' AGI. You most likely are in that top 10%.\nComments URL: https://news.ycombinator.com/item?id=49844960\nPoints: 4\n# Comments: 3",
-      "url": "https://news.ycombinator.com/item?id=49844960"
-    },
-    {
-      "category": "AI",
-      "title": "Allow Carriers on Planes",
-      "source": "Hacker News: Front Page",
-      "date": "Fri, 25 Sep 2026 14:00:10 +0000",
-      "summary": "Article URL: https://www.jefftk.com/p/allow-carriers-on-planes\nComments URL: https://news.ycombinator.com/item?id=49844786\nPoints: 53\n# Comments: 31",
-      "url": "https://www.jefftk.com/p/allow-carriers-on-planes"
-    },
-    {
       "category": "Science",
       "title": "Scientists discovered two bizarre new sea spiders that are “nightmare fuel”",
       "source": "All Top News -- ScienceDaily",
       "date": "Fri, 25 Sep 2026 09:56:06 EDT",
       "summary": "Scientists discovered two strange new sea spider species in the Salish Sea, including a hairy-legged, red-eyed species that can groom itself with comb-like appendages. Another is frequently covered in tiny parasites, and researchers say many more undiscovered sea spiders may still be hiding in the region.",
       "url": "https://www.sciencedaily.com/releases/2026/09/260925005412.htm"
-    },
-    {
-      "category": "AI",
-      "title": "First Principles Thinking",
-      "source": "Hacker News: Front Page",
-      "date": "Fri, 25 Sep 2026 13:55:37 +0000",
-      "summary": "Article URL: https://sunilsadasivan.com/writing/first-principles-thinking/\nComments URL: https://news.ycombinator.com/item?id=49844736\nPoints: 9\n# Comments: 0",
-      "url": "https://sunilsadasivan.com/writing/first-principles-thinking/"
     },
     {
       "category": "Science",
@@ -115,28 +155,12 @@
       "url": "https://www.thegospelcoalition.org/article/heart-beast-christian-movie-review/"
     },
     {
-      "category": "Space",
-      "title": "APOD: 2026 September 25 – Globular Star Cluster Omega Centauri",
-      "source": "NASA",
-      "date": "Fri, 25 Sep 2026 04:05:00 +0000",
-      "summary": "APOD Science APOD APOD: 2026 September 25 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Globular Cluster Omega […]",
-      "url": "https://science.nasa.gov/image-article/apod-2026-september-25-globular-star-cluster-omega-centauri/"
-    },
-    {
       "category": "Theology",
       "title": "Better Together: Men and Women in the Church",
       "source": "The Gospel Coalition",
       "date": "Fri, 25 Sep 2026 04:04:00 +0000",
       "summary": "When men and women work together toward a shared mission and vision in Christ’s church, we get a fuller representation of what it means to bear the image of God.",
       "url": "https://www.thegospelcoalition.org/podcasts/tgc-podcast/better-together-men-women-church/"
-    },
-    {
-      "category": "Space",
-      "title": "Explosive Intensification for Hurricane Polo",
-      "source": "NASA",
-      "date": "Fri, 25 Sep 2026 04:01:00 +0000",
-      "summary": "Several ingredients came together off the Pacific coast of Mexico to generate one of the strongest storms the eastern Pacific basin has ever seen.",
-      "url": "https://science.nasa.gov/earth/earth-observatory/explosive-intensification-for-hurricane-polo/"
     },
     {
       "category": "Theology",
@@ -153,46 +177,6 @@
       "date": "Fri, 25 Sep 2026 03:25:56 +0000",
       "summary": "It is easy to get lost in wanting to lead out in change just so we can say we did it, or out of concern to our reputation. But our motivation for change should be to bring greater glory to God and greater health to his church.\nThe post Finish the Race: Final Steps in the Transition to a Plurality of Elders appeared first on 9Marks.",
       "url": "https://www.9marks.org/article/finish-the-race-final-steps-in-the-transition-to-a-plurality-of-elders/?utm_source=rss&utm_medium=rss&utm_campaign=finish-the-race-final-steps-in-the-transition-to-a-plurality-of-elders"
-    },
-    {
-      "category": "AI",
-      "title": "CDC opens state ordering for COVID-19 vaccines after unexplained delay",
-      "source": "Ars Technica - All content",
-      "date": "Thu, 24 Sep 2026 22:29:48 +0000",
-      "summary": "Health department previously blamed delay on \"not yet finalized procurement decisions.\"",
-      "url": "https://arstechnica.com/health/2026/09/cdc-opens-state-ordering-for-covid-19-vaccines-after-unexplained-delay/"
-    },
-    {
-      "category": "AI",
-      "title": "Donald Duck's uncle was partly based on Wernher von Braun",
-      "source": "Ars Technica - All content",
-      "date": "Thu, 24 Sep 2026 21:40:07 +0000",
-      "summary": "Introducing the \"world-famous authority on outer space...\"",
-      "url": "https://arstechnica.com/space/2026/09/disneys-ludwig-von-drake-was-inspired-by-rocket-scientists-65-years-ago/"
-    },
-    {
-      "category": "Space",
-      "title": "NASA Welcomes Côte d’Ivoire as Newest Artemis Accords Signatory",
-      "source": "NASA",
-      "date": "Thu, 24 Sep 2026 21:27:17 +0000",
-      "summary": "Côte d’Ivoire signed the Artemis Accords on Thursday, becoming the 75th signatory and marking a major milestone for this growing coalition. With the signing ceremony in the nation’s largest city, Abidjan, Côte d’Ivoire joined other like-minded nations and committed to the peaceful, transparent, and responsible exploration of the Moon, Mars, and beyond. “The United States […]",
-      "url": "https://www.nasa.gov/organizations/oiir/nasa-welcomes-cote-divoire-as-newest-artemis-accords-signatory/"
-    },
-    {
-      "category": "Science",
-      "title": " Archaeologists discover 'tomb of the very highest rank' in 2,700-year-old Etruscan cemetery ",
-      "source": " Latest from Live Science ",
-      "date": "Thu, 24 Sep 2026 20:59:43 +0000",
-      "summary": "Archaeologists have discovered a massive Etruscan burial mound with a vast assortment of grave goods north of Rome.",
-      "url": "https://www.livescience.com/archaeology/archaeologists-discover-tomb-of-the-very-highest-rank-in-2-700-year-old-etruscan-cemetery"
-    },
-    {
-      "category": "AI",
-      "title": "F-Droid gets its biggest update in a decade with new UI and smoother app installs",
-      "source": "Ars Technica - All content",
-      "date": "Thu, 24 Sep 2026 19:30:42 +0000",
-      "summary": "F-Droid's Android app store has been rebuilt from the ground up.",
-      "url": "https://arstechnica.com/gadgets/2026/09/f-droid-gets-its-biggest-update-in-a-decade-with-new-ui-and-smoother-app-installs/"
     },
     {
       "category": "Biblical Studies",
@@ -225,14 +209,6 @@
       "date": "Wed, 23 Sep 2026 13:00:00 GMT",
       "summary": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure.",
       "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense"
-    },
-    {
-      "category": "AI",
-      "title": "Sam Altman’s remarks at the United Nations Security Council",
-      "source": "OpenAI News",
-      "date": "Wed, 23 Sep 2026 12:00:00 GMT",
-      "summary": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
-      "url": "https://openai.com/index/sam-altman-un-security-council-remarks"
     },
     {
       "category": "Theology",
