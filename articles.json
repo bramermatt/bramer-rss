@@ -1,14 +1,70 @@
 {
-  "lastUpdated": "2026-09-25T19:44:18.456Z",
+  "lastUpdated": "2026-09-26T00:17:55.470Z",
   "articleCount": 33,
   "articles": [
     {
       "category": "Science",
-      "title": "Ultrathin materials could make quantum light circuits programmable",
+      "title": "Climate crisis is affecting children's nutrition",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Fri, 25 Sep 2026 15:40:01 EDT",
-      "summary": "Quantum photonics could be a pivotal part of future quantum technology if the right materials can be created, a new review paper has found.",
-      "url": "https://phys.org/news/2026-09-ultrathin-materials-quantum-circuits-programmable.html"
+      "date": "Fri, 25 Sep 2026 20:00:01 EDT",
+      "summary": "Wildfires, floods and other extreme weather events are no longer the only ways climate change affects children around the world. Increasingly, it also affects their diets. Droughts reduce agricultural production, floods cut off roads and disrupt supply chains, and rising prices limit families' access to fruits, vegetables and other fresh foods.",
+      "url": "https://phys.org/news/2026-09-climate-crisis-affecting-children-nutrition.html"
+    },
+    {
+      "category": "AI",
+      "title": "Tell HN: Codex Is Down [fixed]",
+      "source": "Hacker News: Front Page",
+      "date": "Fri, 25 Sep 2026 22:51:44 +0000",
+      "summary": "Shows an Incorrect API Key error...which is weird. Nothing on the status page. (EDIT: Added to incident page: https://status.openai.com/incidents/01M3DCNWMW57HYK8FJ5FBFPA...)\nPer Twitter/X this appears to be widespread\nhttps://status.openai.com/incidents/01M3DCNWMW57HYK8FJ5FBFPA...\nComments URL: https://news.ycombinator.com/item?id=49851032\nPoints: 60\n# Comments: 63",
+      "url": "https://news.ycombinator.com/item?id=49851032"
+    },
+    {
+      "category": "Science",
+      "title": "Breaking and entering: How parasites prepare host cells for invasion",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Fri, 25 Sep 2026 17:40:01 EDT",
+      "summary": "Before the parasite Toxoplasma gondii can invade a cell, it has to know it has reached the right place. New research from the Whitehead Institute reveals that the parasite doesn't simply recognize a ready-made doorway into the cell. Instead, it helps create the conditions for its own entry.",
+      "url": "https://phys.org/news/2026-09-parasites-host-cells-invasion.html"
+    },
+    {
+      "category": "AI",
+      "title": "What even is an OS now?",
+      "source": "Hacker News: Front Page",
+      "date": "Fri, 25 Sep 2026 21:36:56 +0000",
+      "summary": "Article URL: https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/\nComments URL: https://news.ycombinator.com/item?id=49850305\nPoints: 62\n# Comments: 72",
+      "url": "https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/"
+    },
+    {
+      "category": "Science",
+      "title": "How cells rapidly detect viruses that fuse with their membranes",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Fri, 25 Sep 2026 17:20:13 EDT",
+      "summary": "Researchers have figured out a missing piece of the puzzle of how human cells detect invading viruses and mount an immune response within an hour.",
+      "url": "https://phys.org/news/2026-09-cells-rapidly-viruses-fuse-membranes.html"
+    },
+    {
+      "category": "AI",
+      "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
+      "source": "Hacker News: Front Page",
+      "date": "Fri, 25 Sep 2026 21:09:27 +0000",
+      "summary": "Article URL: https://swarmtraces.org/\nComments URL: https://news.ycombinator.com/item?id=49849985\nPoints: 128\n# Comments: 85",
+      "url": "https://swarmtraces.org/"
+    },
+    {
+      "category": "Science",
+      "title": " NASA teases new PRIMA telescope that could see what even the James Webb telescope can't ",
+      "source": " Latest from Live Science ",
+      "date": "Fri, 25 Sep 2026 20:56:29 +0000",
+      "summary": "NASA has announced that a new telescope concept called PRIMA is moving forward in consideration for a 2033 launch to look at the origins of planets and galaxies.",
+      "url": "https://www.livescience.com/space/space-exploration/nasa-teases-new-prima-telescope-that-could-peer-even-deeper-into-the-infrared-universe-than-the-james-webb-space-telescope"
+    },
+    {
+      "category": "Science",
+      "title": " New kind of AI audio chip transforms earbuds into always-on 'intelligent' devices that run without a smartphone. How does it work? ",
+      "source": " Latest from Live Science ",
+      "date": "Fri, 25 Sep 2026 20:35:00 +0000",
+      "summary": "A new AI audio chip will give future headphones on-device apps and sensors that gather data about your daily movements to feed AI \"agents\" that will speak directly into your ear.",
+      "url": "https://www.livescience.com/technology/electronics/new-kind-of-ai-audio-chip-transforms-earbuds-into-always-on-intelligent-devices-that-run-without-a-smartphone-how-does-it-work"
     },
     {
       "category": "AI",
@@ -20,43 +76,11 @@
     },
     {
       "category": "AI",
-      "title": "Supreme Court permits states to use SAVE database for citizenship checks",
-      "source": "Hacker News: Front Page",
-      "date": "Fri, 25 Sep 2026 19:28:30 +0000",
-      "summary": "Article URL: https://cyberscoop.com/supreme-court-save-database-voter-citizenship/\nComments URL: https://news.ycombinator.com/item?id=49848844\nPoints: 11\n# Comments: 0",
-      "url": "https://cyberscoop.com/supreme-court-save-database-voter-citizenship/"
-    },
-    {
-      "category": "Science",
-      "title": "An overlooked era of cosmology is stealing the show in the quest to understand the cosmos",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Fri, 25 Sep 2026 15:20:01 EDT",
-      "summary": "Could you imagine if pagers made a comeback? Sure, your smartphone would still be your notepad-flashlight-camera-personal assistant-MP3 player-wallet-social media browser. But imagine if pagers made it so easy to do that one important thing—pinging your friends and associates—that we all brought them back into our lives, or adopted them for the first time.",
-      "url": "https://phys.org/news/2026-09-overlooked-era-cosmology-quest-cosmos.html"
-    },
-    {
-      "category": "AI",
-      "title": "Advice to a Beginning Graduate Student (2001)",
-      "source": "Hacker News: Front Page",
-      "date": "Fri, 25 Sep 2026 19:12:45 +0000",
-      "summary": "Article URL: https://www.cs.cmu.edu/~mblum/research/pdf/grad.html\nComments URL: https://news.ycombinator.com/item?id=49848680\nPoints: 15\n# Comments: 2",
-      "url": "https://www.cs.cmu.edu/~mblum/research/pdf/grad.html"
-    },
-    {
-      "category": "AI",
       "title": "AI was supposed to hit new grads hard. So far, unemployment data says otherwise.",
       "source": "Ars Technica - All content",
       "date": "Fri, 25 Sep 2026 19:11:05 +0000",
       "summary": "\"There is no evidence of any significant, widespread displacement or reduction in hiring”",
       "url": "https://arstechnica.com/ai/2026/09/ai-was-supposed-to-hit-new-grads-hard-so-far-unemployment-data-says-otherwise/"
-    },
-    {
-      "category": "Science",
-      "title": "Laser light enables detection of colorectal cancer biomarker in blood within minutes",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Fri, 25 Sep 2026 15:00:01 EDT",
-      "summary": "Researchers often use antibodies to detect specific molecules or biological markers because they are remarkably precise at recognizing their targets. However, finding the faint signals of cancer in blood samples is a challenge even for the most reliable techniques.",
-      "url": "https://phys.org/news/2026-09-laser-enables-colorectal-cancer-biomarker.html"
     },
     {
       "category": "AI",
@@ -65,14 +89,6 @@
       "date": "Fri, 25 Sep 2026 19:00:00 GMT",
       "summary": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.",
       "url": "https://openai.com/index/proaction"
-    },
-    {
-      "category": "AI",
-      "title": "Zelensky says Russia has widened attacks to hit Ukraine's data centres",
-      "source": "Hacker News: Front Page",
-      "date": "Fri, 25 Sep 2026 18:56:36 +0000",
-      "summary": "Article URL: https://www.bbc.com/news/articles/c84gkwgk7d06o\nComments URL: https://news.ycombinator.com/item?id=49848495\nPoints: 55\n# Comments: 34",
-      "url": "https://www.bbc.com/news/articles/c84gkwgk7d06o"
     },
     {
       "category": "AI",
@@ -89,14 +105,6 @@
       "date": "Fri, 25 Sep 2026 15:00:00 +0000",
       "summary": "Several companies have made significant headway toward nuclear fusion propulsion drives. Is humanity on the brink of a revolution in spaceflight?",
       "url": "https://www.livescience.com/space/space-exploration/everything-we-know-about-space-travel-is-going-to-change-within-a-decade-the-fusion-breakthrough-that-could-unlock-a-path-to-the-stars"
-    },
-    {
-      "category": "Science",
-      "title": " Best binoculars 2026: The ultimate buying guide for birdwatching, stargazing and more ",
-      "source": " Latest from Live Science ",
-      "date": "Fri, 25 Sep 2026 14:16:22 +0000",
-      "summary": "We tested these binoculars to bring you the models that deliver the best views, with expert advice on features, specs and real-world performance.",
-      "url": "https://www.livescience.com/products/optics/best-binoculars-the-ultimate-buying-guide"
     },
     {
       "category": "Science",
@@ -129,14 +137,6 @@
       "date": "Fri, 25 Sep 2026 10:45:12 +0000",
       "summary": "On World Peace Day, the Turkish Ministry of Culture and Tourism announced a spectacular find from the world’s oldest surviving peace treaty. A portion of […]\nThe post Fragment of World’s Oldest Peace Treaty Found appeared first on Biblical Archaeology Society.",
       "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/fragment-of-worlds-oldest-peace-treaty-found/"
-    },
-    {
-      "category": "Science",
-      "title": " Author Rose George dives into the dark depths of the fishing industry ",
-      "source": " Latest from Live Science ",
-      "date": "Fri, 25 Sep 2026 10:03:40 +0000",
-      "summary": "Live Science spoke with Rose George, journalist and author of \"Every Last Fish\" about her book on the fishing industry.",
-      "url": "https://www.livescience.com/animals/fish/if-you-do-want-to-be-a-criminal-there-is-no-better-place-to-do-it-author-rose-george-dives-into-the-dark-depths-of-the-fishing-industry"
     },
     {
       "category": "Biblical Studies",
