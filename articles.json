@@ -1,86 +1,134 @@
 {
-  "lastUpdated": "2026-09-26T00:17:55.470Z",
-  "articleCount": 33,
+  "lastUpdated": "2026-09-26T13:58:54.685Z",
+  "articleCount": 36,
   "articles": [
     {
       "category": "Science",
-      "title": "Climate crisis is affecting children's nutrition",
+      "title": "Lead isotopes trace Malawi's mysterious copper ingot hoard to Congo's Kipushi mine",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Fri, 25 Sep 2026 20:00:01 EDT",
-      "summary": "Wildfires, floods and other extreme weather events are no longer the only ways climate change affects children around the world. Increasingly, it also affects their diets. Droughts reduce agricultural production, floods cut off roads and disrupt supply chains, and rising prices limit families' access to fruits, vegetables and other fresh foods.",
-      "url": "https://phys.org/news/2026-09-climate-crisis-affecting-children-nutrition.html"
+      "date": "Sat, 26 Sep 2026 09:40:02 EDT",
+      "summary": "In 1967, a Malawian farmer stumbled upon a hidden hoard of eight copper ingots buried beneath a tree. Now, more than half a century later, scientists have traced the metal to its source: a copper mine nearly 800 km (500 miles) away.",
+      "url": "https://phys.org/news/2026-09-isotopes-malawi-mysterious-copper-ingot.html"
     },
     {
       "category": "AI",
-      "title": "Tell HN: Codex Is Down [fixed]",
+      "title": "Understanding the Impact of LLM Watermarking on AI Agent Behavior",
       "source": "Hacker News: Front Page",
-      "date": "Fri, 25 Sep 2026 22:51:44 +0000",
-      "summary": "Shows an Incorrect API Key error...which is weird. Nothing on the status page. (EDIT: Added to incident page: https://status.openai.com/incidents/01M3DCNWMW57HYK8FJ5FBFPA...)\nPer Twitter/X this appears to be widespread\nhttps://status.openai.com/incidents/01M3DCNWMW57HYK8FJ5FBFPA...\nComments URL: https://news.ycombinator.com/item?id=49851032\nPoints: 60\n# Comments: 63",
-      "url": "https://news.ycombinator.com/item?id=49851032"
-    },
-    {
-      "category": "Science",
-      "title": "Breaking and entering: How parasites prepare host cells for invasion",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Fri, 25 Sep 2026 17:40:01 EDT",
-      "summary": "Before the parasite Toxoplasma gondii can invade a cell, it has to know it has reached the right place. New research from the Whitehead Institute reveals that the parasite doesn't simply recognize a ready-made doorway into the cell. Instead, it helps create the conditions for its own entry.",
-      "url": "https://phys.org/news/2026-09-parasites-host-cells-invasion.html"
+      "date": "Sat, 26 Sep 2026 13:05:36 +0000",
+      "summary": "Article URL: https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior\nComments URL: https://news.ycombinator.com/item?id=49856149\nPoints: 24\n# Comments: 3",
+      "url": "https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior"
     },
     {
       "category": "AI",
-      "title": "What even is an OS now?",
+      "title": "CEO of Mistral: AI is software. It can be controlled",
       "source": "Hacker News: Front Page",
-      "date": "Fri, 25 Sep 2026 21:36:56 +0000",
-      "summary": "Article URL: https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/\nComments URL: https://news.ycombinator.com/item?id=49850305\nPoints: 62\n# Comments: 72",
-      "url": "https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/"
+      "date": "Sat, 26 Sep 2026 12:52:04 +0000",
+      "summary": "Article URL: https://www.lemonde.fr/en/economy/article/2026/09/24/arthur-mensch-ceo-of-french-start-up-mistral-ai-ai-is-software-it-can-be-controlled_6757890_19.html\nComments URL: https://news.ycombinator.com/item?id=49856034\nPoints: 52\n# Comments: 34",
+      "url": "https://www.lemonde.fr/en/economy/article/2026/09/24/arthur-mensch-ceo-of-french-start-up-mistral-ai-ai-is-software-it-can-be-controlled_6757890_19.html"
     },
     {
       "category": "Science",
-      "title": "How cells rapidly detect viruses that fuse with their membranes",
+      "title": "Molecular 'self-destruct' switch discovered: How stressed cells decide between survival and death",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Fri, 25 Sep 2026 17:20:13 EDT",
-      "summary": "Researchers have figured out a missing piece of the puzzle of how human cells detect invading viruses and mount an immune response within an hour.",
-      "url": "https://phys.org/news/2026-09-cells-rapidly-viruses-fuse-membranes.html"
-    },
-    {
-      "category": "AI",
-      "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
-      "source": "Hacker News: Front Page",
-      "date": "Fri, 25 Sep 2026 21:09:27 +0000",
-      "summary": "Article URL: https://swarmtraces.org/\nComments URL: https://news.ycombinator.com/item?id=49849985\nPoints: 128\n# Comments: 85",
-      "url": "https://swarmtraces.org/"
+      "date": "Sat, 26 Sep 2026 08:00:07 EDT",
+      "summary": "A new study from Ben-Gurion University of the Negev (BGU) has identified a molecular switch that controls whether stressed human cells activate a survival mechanism or trigger programmed cell death (apoptosis). The findings, published in Redox Biology, provide insights that could help overcome chemotherapy resistance in aggressive tumors.",
+      "url": "https://phys.org/news/2026-09-molecular-destruct-stressed-cells-survival.html"
     },
     {
       "category": "Science",
-      "title": " NASA teases new PRIMA telescope that could see what even the James Webb telescope can't ",
+      "title": "Digital textbooks significantly boost students' intrinsic learning motivation",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sat, 26 Sep 2026 08:00:05 EDT",
+      "summary": "A research team from The Education University of Hong Kong (EdUHK) and East China Normal University (ECNU) has published a meta-analysis demonstrating the impact of digital textbooks (DTs) on student motivation. Synthesizing 27 experimental and quasi-experimental studies conducted between 2000 and 2024 with 3,590 participants, the study confirms that DTs significantly enhance students' intrinsic learning motivation compared with traditional paper textbooks.",
+      "url": "https://phys.org/news/2026-09-digital-textbooks-significantly-boost-students.html"
+    },
+    {
+      "category": "Science",
+      "title": " Why the tomb of the 'Disturber of the Universe' remains hidden after 800 years ",
       "source": " Latest from Live Science ",
-      "date": "Fri, 25 Sep 2026 20:56:29 +0000",
-      "summary": "NASA has announced that a new telescope concept called PRIMA is moving forward in consideration for a 2033 launch to look at the origins of planets and galaxies.",
-      "url": "https://www.livescience.com/space/space-exploration/nasa-teases-new-prima-telescope-that-could-peer-even-deeper-into-the-infrared-universe-than-the-james-webb-space-telescope"
+      "date": "Sat, 26 Sep 2026 12:00:00 +0000",
+      "summary": "The enduring mystery of Genghis Khan's final resting place — and the extreme lengths his followers took to hide it.",
+      "url": "https://www.livescience.com/archaeology/call-it-genghis-khans-final-victory-why-the-tomb-of-the-disturber-of-the-universe-remains-hidden-after-800-years"
+    },
+    {
+      "category": "AI",
+      "title": "Breaking Up with Google Play: Why Conversations Is Now Free",
+      "source": "Hacker News: Front Page",
+      "date": "Sat, 26 Sep 2026 10:55:56 +0000",
+      "summary": "Article URL: https://gultsch.de/posts/breaking-up-with-google-play/\nComments URL: https://news.ycombinator.com/item?id=49855315\nPoints: 228\n# Comments: 85",
+      "url": "https://gultsch.de/posts/breaking-up-with-google-play/"
     },
     {
       "category": "Science",
-      "title": " New kind of AI audio chip transforms earbuds into always-on 'intelligent' devices that run without a smartphone. How does it work? ",
+      "title": " Harvest Moon 2026: See the first full moon of autumn rise alongside Saturn tonight ",
       "source": " Latest from Live Science ",
-      "date": "Fri, 25 Sep 2026 20:35:00 +0000",
-      "summary": "A new AI audio chip will give future headphones on-device apps and sensors that gather data about your daily movements to feed AI \"agents\" that will speak directly into your ear.",
-      "url": "https://www.livescience.com/technology/electronics/new-kind-of-ai-audio-chip-transforms-earbuds-into-always-on-intelligent-devices-that-run-without-a-smartphone-how-does-it-work"
+      "date": "Sat, 26 Sep 2026 10:30:00 +0000",
+      "summary": "The famous Harvest Moon will be the first full moon of autumn when it rises on Saturday, Sept. 26. Here's how to get the best view of it, and where to look for bright Saturn nearby.",
+      "url": "https://www.livescience.com/space/the-moon/the-full-harvest-moon-rises-with-saturn-this-weekend-heres-how-to-get-the-best-views"
+    },
+    {
+      "category": "Science",
+      "title": " Why does lithium work against bipolar disorder? ",
+      "source": " Latest from Live Science ",
+      "date": "Sat, 26 Sep 2026 09:00:00 +0000",
+      "summary": "Lithium remains the gold standard for one of the most complex psychiatric conditions. Scientists are still getting to grips with why.",
+      "url": "https://www.livescience.com/health/medicine-drugs/why-does-lithium-work-against-bipolar-disorder"
+    },
+    {
+      "category": "Space",
+      "title": "APOD: 2026 September 26 – Mirrored Meteor and Milky Way",
+      "source": "NASA",
+      "date": "Sat, 26 Sep 2026 04:05:00 +0000",
+      "summary": "APOD Science APOD APOD: 2026 September 26 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Mirrored Meteor and […]",
+      "url": "https://science.nasa.gov/image-article/apod-2026-september-26-mirrored-meteor-and-milky-way/"
+    },
+    {
+      "category": "Theology",
+      "title": "Looksmaxxing Is a Crisis of Modern Masculinity. The Church Has a Cure. ",
+      "source": "The Gospel Coalition",
+      "date": "Sat, 26 Sep 2026 04:00:00 +0000",
+      "summary": "A crisis of discipleship is happening inside modern masculinity, and it’s time for church leaders to pay attention.",
+      "url": "https://www.thegospelcoalition.org/article/looksmaxxing-modern-masculinity-church/"
     },
     {
       "category": "AI",
-      "title": "Review: The iPhone 18 Pro is Apple's coolest smartphone (but only literally)",
+      "title": "Can Trump ever be wrong? His pick to lead FDA refused to say.",
       "source": "Ars Technica - All content",
-      "date": "Fri, 25 Sep 2026 19:34:42 +0000",
-      "summary": "Better thermals and battery life make this iterative update nicer to use.",
-      "url": "https://arstechnica.com/apple/2026/09/review-the-iphone-18-pro-is-apples-coolest-smartphone-but-only-literally/"
+      "date": "Fri, 25 Sep 2026 23:00:26 +0000",
+      "summary": "Heidi Overton faced questions focused on vaccines, birth control, and vapes.",
+      "url": "https://arstechnica.com/health/2026/09/can-trump-ever-be-wrong-his-pick-to-lead-fda-refused-to-say/"
+    },
+    {
+      "category": "Space",
+      "title": "NASA, Boeing to Provide Update on Starliner Development",
+      "source": "NASA",
+      "date": "Fri, 25 Sep 2026 22:06:50 +0000",
+      "summary": "During a news conference at 3 p.m. EDT on Monday, Sept. 28, NASA and Boeing leadership will discuss Starliner’s development and plans for regular crew flights to and from the International Space Station. Learn where to watch online: https://www.nasa.gov/live The briefing participants include: Media already credentialed for Crew-13 may participate in person at NASA’s Kennedy […]",
+      "url": "https://www.nasa.gov/news-release/nasa-boeing-to-provide-update-on-starliner-development/"
     },
     {
       "category": "AI",
-      "title": "AI was supposed to hit new grads hard. So far, unemployment data says otherwise.",
+      "title": "Court rules Pentagon can blacklist Anthropic for refusing to enable Claude features",
       "source": "Ars Technica - All content",
-      "date": "Fri, 25 Sep 2026 19:11:05 +0000",
-      "summary": "\"There is no evidence of any significant, widespread displacement or reduction in hiring”",
-      "url": "https://arstechnica.com/ai/2026/09/ai-was-supposed-to-hit-new-grads-hard-so-far-unemployment-data-says-otherwise/"
+      "date": "Fri, 25 Sep 2026 21:36:20 +0000",
+      "summary": "\"Overly constrained AI models\" could cause military operations to fail, judges say.",
+      "url": "https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features/"
+    },
+    {
+      "category": "AI",
+      "title": "Tesla workers balk at training Optimus humanoid robots as replacements",
+      "source": "Ars Technica - All content",
+      "date": "Fri, 25 Sep 2026 21:10:51 +0000",
+      "summary": "Despite challenges, Tesla aims for 1,000 Optimus robots per week by end of 2026.",
+      "url": "https://arstechnica.com/ai/2026/09/tesla-workers-balk-at-training-optimus-humanoid-robots-as-replacements/"
+    },
+    {
+      "category": "Space",
+      "title": "NASA Welcomes San Marino Signing the Artemis Accords  ",
+      "source": "NASA",
+      "date": "Fri, 25 Sep 2026 19:53:03 +0000",
+      "summary": "The Republic of San Marino became the 76th signatory to the Artemis Accords during a ceremony in the city of Rimini on Friday with NASA and U.S. Department of State officials present.   “San Marino joins a growing coalition of like-minded nations committed to the peaceful, transparent, and responsible exploration of space,” said NASA Deputy Administrator […]",
+      "url": "https://www.nasa.gov/organizations/oiir/nasa-welcomes-san-marino-signing-the-artemis-accords/"
     },
     {
       "category": "AI",
@@ -89,22 +137,6 @@
       "date": "Fri, 25 Sep 2026 19:00:00 GMT",
       "summary": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.",
       "url": "https://openai.com/index/proaction"
-    },
-    {
-      "category": "AI",
-      "title": "Paramount/WBD merger conditions give the public \"virtually nothing,\" judge is told",
-      "source": "Ars Technica - All content",
-      "date": "Fri, 25 Sep 2026 18:42:57 +0000",
-      "summary": "US judge reviews deal with California, says it must not be result of collusion.",
-      "url": "https://arstechnica.com/tech-policy/2026/09/paramount-wbd-merger-conditions-give-the-public-virtually-nothing-judge-is-told/"
-    },
-    {
-      "category": "Science",
-      "title": " 'Everything we know about space travel is going to change within a decade': The fusion breakthrough that could unlock a path to the stars ",
-      "source": " Latest from Live Science ",
-      "date": "Fri, 25 Sep 2026 15:00:00 +0000",
-      "summary": "Several companies have made significant headway toward nuclear fusion propulsion drives. Is humanity on the brink of a revolution in spaceflight?",
-      "url": "https://www.livescience.com/space/space-exploration/everything-we-know-about-space-travel-is-going-to-change-within-a-decade-the-fusion-breakthrough-that-could-unlock-a-path-to-the-stars"
     },
     {
       "category": "Science",
@@ -161,14 +193,6 @@
       "date": "Fri, 25 Sep 2026 04:04:00 +0000",
       "summary": "When men and women work together toward a shared mission and vision in Christ’s church, we get a fuller representation of what it means to bear the image of God.",
       "url": "https://www.thegospelcoalition.org/podcasts/tgc-podcast/better-together-men-women-church/"
-    },
-    {
-      "category": "Theology",
-      "title": "Criticize like a Christian",
-      "source": "The Gospel Coalition",
-      "date": "Fri, 25 Sep 2026 04:00:00 +0000",
-      "summary": "If love means wanting the best for others, am I loving this person with my critique?",
-      "url": "https://www.thegospelcoalition.org/article/criticize-like-christian/"
     },
     {
       "category": "Theology",
