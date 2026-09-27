@@ -1,62 +1,110 @@
 {
-  "lastUpdated": "2026-09-27T00:05:11.812Z",
+  "lastUpdated": "2026-09-27T14:55:09.117Z",
   "articleCount": 33,
   "articles": [
     {
       "category": "AI",
-      "title": "Claude Deleted 48k Files",
+      "title": "In an $80 Motel Room, a Discovery to Shed Light on the Origins of Life",
       "source": "Hacker News: Front Page",
-      "date": "Sat, 26 Sep 2026 23:42:06 +0000",
-      "summary": "Article URL: https://web.archive.org/web/20260920145334/https://www.reddit.com/r/ClaudeAI/comments/1wl5cgo/code_just_deleted_48k_files_this_cant_be_real/?solution=7a8eb446d9dfaf1c7a8eb446d9dfaf1c&js_challenge=1&jsc_token=7afd7253fec22262ff1c52b1703fe9ecebcc8a5a54d4e96f970086c157293d95&jsc_orig_r=\nComments URL: https://news.ycombinator.com/item?id=49861717\nPoints: 6\n# Comments: 0",
-      "url": "https://web.archive.org/web/20260920145334/https://www.reddit.com/r/ClaudeAI/comments/1wl5cgo/code_just_deleted_48k_files_this_cant_be_real/?solution=7a8eb446d9dfaf1c7a8eb446d9dfaf1c&js_challenge=1&jsc_token=7afd7253fec22262ff1c52b1703fe9ecebcc8a5a54d4e96f970086c157293d95&jsc_orig_r="
+      "date": "Sun, 27 Sep 2026 14:30:55 +0000",
+      "summary": "Article URL: https://www.nytimes.com/2026/09/26/science/motel-science-discovery.html\nComments URL: https://news.ycombinator.com/item?id=49866951\nPoints: 4\n# Comments: 2",
+      "url": "https://www.nytimes.com/2026/09/26/science/motel-science-discovery.html"
     },
     {
       "category": "Science",
-      "title": "NEET with a disability: What's holding back visually impaired young people who want to work",
+      "title": "Waste bulrush transformed into copper-enhanced material for dye removal from wastewater",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Sat, 26 Sep 2026 18:30:02 EDT",
-      "summary": "I have been fortunate in my research to follow 80 young people with vision impairment over 11 years. I tracked their journeys from school into adulthood, speaking with them at regular intervals to learn what had happened since we last spoke, what had gone well and what could have been improved.",
-      "url": "https://phys.org/news/2026-09-neet-disability-visually-impaired-young.html"
+      "date": "Sun, 27 Sep 2026 10:30:05 EDT",
+      "summary": "Industrial activities such as textile manufacturing, paper production, leather processing and food processing can generate wastewater containing synthetic dyes. Because many synthetic dyes are chemically stable, difficult to biodegrade and environmentally persistent, their release into waterways can pose risks to aquatic ecosystems and human health.",
+      "url": "https://phys.org/news/2026-09-bulrush-copper-material-dye-wastewater.html"
     },
     {
       "category": "Science",
-      "title": "Looking for #womenshealth information on Instagram? 4 out of 10 posts are ads",
+      "title": "Astronomers discover a radio galaxy with evidence of four separate jet outbursts",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Sat, 26 Sep 2026 17:00:07 EDT",
-      "summary": "A woman in her 40s scrolls through Instagram. Between photos of friends, recipes and vacation photos, she comes across a video about perimenopause. The woman on screen explains that perimenopause is to blame for feeling tired, having trouble remembering things, struggling to sleep or gaining weight.",
-      "url": "https://phys.org/news/2026-09-womenshealth-instagram-ads.html"
+      "date": "Sun, 27 Sep 2026 10:20:05 EDT",
+      "summary": "Astronomers have identified what may be the first example of a new class of radio galaxy, one whose central black hole appears to have launched powerful jets on four separate occasions. High-resolution observations with the upgraded Giant Metrewave Radio Telescope (GMRT), combined with data from MeerKAT and the Very Large Array, reveal four pairs of radio structures arranged symmetrically around the central galaxy.",
+      "url": "https://phys.org/news/2026-09-astronomers-radio-galaxy-evidence-jet.html"
     },
     {
       "category": "Science",
-      "title": "Black hole jets reach far beyond galaxies' visible edges, potentially deciding their fate",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sat, 26 Sep 2026 17:00:01 EDT",
-      "summary": "Galaxies are enormous and hold hundreds of billions of stars. These stars form from cold, dense gas. Every large galaxy, including the Milky Way, is wrapped in a huge envelope of gas called the circumgalactic medium, or CGM. This reservoir of raw material stretches 10–20 times the size of the visible portion of the galaxy.",
-      "url": "https://phys.org/news/2026-09-black-hole-jets-galaxies-visible.html"
-    },
-    {
-      "category": "AI",
-      "title": "Welcome to the Medical Clinic at the Interplanetary Relay Station",
-      "source": "Hacker News: Front Page",
-      "date": "Sat, 26 Sep 2026 20:08:50 +0000",
-      "summary": "Article URL: https://www.lightspeedmagazine.com/fiction/welcome-to-the-medical-clinic-at-the-interplanetary-relay-station/\nComments URL: https://news.ycombinator.com/item?id=49860074\nPoints: 37\n# Comments: 5",
-      "url": "https://www.lightspeedmagazine.com/fiction/welcome-to-the-medical-clinic-at-the-interplanetary-relay-station/"
-    },
-    {
-      "category": "AI",
-      "title": "HomeBody: A humanoid that explores, remembers, and acts on its own",
-      "source": "Hacker News: Front Page",
-      "date": "Sat, 26 Sep 2026 18:42:10 +0000",
-      "summary": "Article URL: https://tml.stanford.edu/homebody/\nComments URL: https://news.ycombinator.com/item?id=49859299\nPoints: 5\n# Comments: 0",
-      "url": "https://tml.stanford.edu/homebody/"
-    },
-    {
-      "category": "Science",
-      "title": "Scientists may have misread a 2-billion-year-old clue about Earth",
+      "title": "Glucosamine, a popular joint supplement, linked to faster Alzheimer’s progression",
       "source": "All Top News -- ScienceDaily",
-      "date": "Sat, 26 Sep 2026 10:38:02 EDT",
-      "summary": "Scientists have found that a famous 2-billion-year-old chemical signature, once thought to record a massive global change in Earth’s carbon cycle, may instead have been produced by local magma, hydrocarbons, and methane-eating microbes. The discovery raises new questions about what was really happening as oxygen transformed the young planet.",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260925093201.htm"
+      "date": "Sun, 27 Sep 2026 09:53:39 EDT",
+      "summary": "A large health-record analysis found that glucosamine use was associated with a 25% higher likelihood of mild cognitive impairment progressing to dementia. Lab experiments suggest the popular joint supplement may intensify an abnormal sugar-tagging process in the Alzheimer’s brain, although researchers say clinical trials are needed to determine whether it actually causes harm.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260927033754.htm"
+    },
+    {
+      "category": "AI",
+      "title": "Replacing the old battery on rechargeable bike lights",
+      "source": "Hacker News: Front Page",
+      "date": "Sun, 27 Sep 2026 13:30:11 +0000",
+      "summary": "Article URL: https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/\nComments URL: https://news.ycombinator.com/item?id=49866515\nPoints: 15\n# Comments: 3",
+      "url": "https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/"
+    },
+    {
+      "category": "Science",
+      "title": "DNA reveals chemosynthesis genes in bacteria living on coral reef fish gills",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sun, 27 Sep 2026 08:00:05 EDT",
+      "summary": "Chemosynthetic bacteria have been documented in various marine environments and in association with invertebrate hosts such as annelid worms and mollusks, but their presence in fish appears to be a new discovery. The findings show that fish gills host a complex and specialized microbiome that is not yet well understood but could play an important role in fish metabolism, immunity and health.",
+      "url": "https://phys.org/news/2026-09-dna-reveals-chemosynthesis-genes-bacteria.html"
+    },
+    {
+      "category": "Science",
+      "title": " A giant cosmic 'fart' is making a wobbling zombie star repeatedly flash us, 'groundbreaking' observations reveal ",
+      "source": " Latest from Live Science ",
+      "date": "Sun, 27 Sep 2026 12:00:00 +0000",
+      "summary": "A very strange binary star system keeps flashing Earth with X-ray flares. Scientists now understand why.",
+      "url": "https://www.livescience.com/space/astronomy/a-giant-cosmic-fart-is-making-a-wobbling-zombie-star-repeatedly-flash-us-groundbreaking-observations-reveal"
+    },
+    {
+      "category": "AI",
+      "title": "How the Smithsonian became the latest front in Trump’s culture war",
+      "source": "Ars Technica - All content",
+      "date": "Sun, 27 Sep 2026 11:00:12 +0000",
+      "summary": "The Smithsonian has faced withering pressure from the Trump administration.",
+      "url": "https://arstechnica.com/tech-policy/2026/09/how-the-smithsonian-became-the-latest-front-in-trumps-culture-war/"
+    },
+    {
+      "category": "Science",
+      "title": "Why rheumatoid arthritis pain may persist even when inflammation is under control",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Sun, 27 Sep 2026 06:49:13 EDT",
+      "summary": "Pain and fatigue in rheumatoid arthritis can persist even after inflammation improves, with depression, poor sleep, obesity, smoking, and chronic pain potentially helping sustain symptoms. Researchers say identifying these hidden drivers could prevent unnecessary medication changes and lead to more personalized treatment.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260925093208.htm"
+    },
+    {
+      "category": "AI",
+      "title": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
+      "source": "Hacker News: Front Page",
+      "date": "Sun, 27 Sep 2026 10:26:25 +0000",
+      "summary": "Article URL: https://arxiv.org/abs/2609.25021\nComments URL: https://news.ycombinator.com/item?id=49865343\nPoints: 78\n# Comments: 74",
+      "url": "https://arxiv.org/abs/2609.25021"
+    },
+    {
+      "category": "Science",
+      "title": " James Webb telescope shares one of its biggest images ever, with record-breaking stars hiding in the dust  ",
+      "source": " Latest from Live Science ",
+      "date": "Sun, 27 Sep 2026 10:00:00 +0000",
+      "summary": "One of the largest images from the James Webb Space Telescope so far reveals an intricate landscape of dwarf stars and spectacular clouds.",
+      "url": "https://www.livescience.com/space/astronomy/james-webb-telescope-shares-one-of-its-biggest-images-ever-with-record-breaking-stars-hiding-in-the-dust-space-photo-of-the-week"
+    },
+    {
+      "category": "Science",
+      "title": " What is the closest any object has gotten to the sun? ",
+      "source": " Latest from Live Science ",
+      "date": "Sun, 27 Sep 2026 09:00:00 +0000",
+      "summary": "Approaching the sun is a perilous process, but many objects have successfully pulled off this feat.",
+      "url": "https://www.livescience.com/space/astronomy/what-is-the-closest-any-object-has-gotten-to-the-sun"
+    },
+    {
+      "category": "Theology",
+      "title": "The Case for (Sometimes) Wordless Evangelism",
+      "source": "The Gospel Coalition",
+      "date": "Sun, 27 Sep 2026 04:00:00 +0000",
+      "summary": "By his grace, I’d sought to love this server well for Christ’s sake, and she saw the beauty of the gospel in my wordless proclamation.",
+      "url": "https://www.thegospelcoalition.org/article/use-words-necessary/"
     },
     {
       "category": "Science",
@@ -67,44 +115,12 @@
       "url": "https://www.sciencedaily.com/releases/2026/09/260925093210.htm"
     },
     {
-      "category": "Science",
-      "title": " Why the tomb of the 'Disturber of the Universe' remains hidden after 800 years ",
-      "source": " Latest from Live Science ",
-      "date": "Sat, 26 Sep 2026 12:00:00 +0000",
-      "summary": "The enduring mystery of Genghis Khan's final resting place — and the extreme lengths his followers took to hide it.",
-      "url": "https://www.livescience.com/archaeology/call-it-genghis-khans-final-victory-why-the-tomb-of-the-disturber-of-the-universe-remains-hidden-after-800-years"
-    },
-    {
-      "category": "Science",
-      "title": "REM sleep paradox: Dreaming may drain the brain’s energy even as fuel supply rises",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Sat, 26 Sep 2026 07:30:49 EDT",
-      "summary": "Scientists discovered a surprising energy paradox in the brain during REM sleep, the stage most closely associated with dreaming. Blood supply to the brain begins increasing even before REM starts, but neurons’ immediately available energy, measured as ATP, then drops. The finding suggests that dreaming may require such intense internal processing that neurons consume energy faster than it can be replenished.",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260925093206.htm"
-    },
-    {
       "category": "AI",
       "title": "Tesla’s big electric truck faces an even bigger infrastructure challenge",
       "source": "Ars Technica - All content",
       "date": "Sat, 26 Sep 2026 10:45:09 +0000",
       "summary": "The 500-mile Semi arrives as charging gaps still limit electric trucking.",
       "url": "https://arstechnica.com/cars/2026/09/teslas-big-electric-truck-faces-an-even-bigger-infrastructure-challenge/"
-    },
-    {
-      "category": "Science",
-      "title": " Harvest Moon 2026: See the first full moon of autumn rise alongside Saturn tonight ",
-      "source": " Latest from Live Science ",
-      "date": "Sat, 26 Sep 2026 10:30:00 +0000",
-      "summary": "The famous Harvest Moon will be the first full moon of autumn when it rises on Saturday, Sept. 26. Here's how to get the best view of it, and where to look for bright Saturn nearby.",
-      "url": "https://www.livescience.com/space/the-moon/the-full-harvest-moon-rises-with-saturn-this-weekend-heres-how-to-get-the-best-views"
-    },
-    {
-      "category": "Science",
-      "title": " Why does lithium work against bipolar disorder? ",
-      "source": " Latest from Live Science ",
-      "date": "Sat, 26 Sep 2026 09:00:00 +0000",
-      "summary": "Lithium remains the gold standard for one of the most complex psychiatric conditions. Scientists are still getting to grips with why.",
-      "url": "https://www.livescience.com/health/medicine-drugs/why-does-lithium-work-against-bipolar-disorder"
     },
     {
       "category": "Theology",
@@ -121,14 +137,6 @@
       "date": "Fri, 25 Sep 2026 23:00:26 +0000",
       "summary": "Heidi Overton faced questions focused on vaccines, birth control, and vapes.",
       "url": "https://arstechnica.com/health/2026/09/can-trump-ever-be-wrong-his-pick-to-lead-fda-refused-to-say/"
-    },
-    {
-      "category": "AI",
-      "title": "Court rules Pentagon can blacklist Anthropic for refusing to enable Claude features",
-      "source": "Ars Technica - All content",
-      "date": "Fri, 25 Sep 2026 21:36:20 +0000",
-      "summary": "\"Overly constrained AI models\" could cause military operations to fail, judges say.",
-      "url": "https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features/"
     },
     {
       "category": "AI",
@@ -156,19 +164,19 @@
     },
     {
       "category": "Theology",
+      "title": "Youth Ministry Deconstructed",
+      "source": "9Marks",
+      "date": "Fri, 25 Sep 2026 05:22:25 +0000",
+      "summary": "One way the church can minister to teenagers is by discipling their parents to be mature followers of Jesus.\nThe post Youth Ministry Deconstructed appeared first on 9Marks.",
+      "url": "https://www.9marks.org/review/youth-ministry-deconstructed/?utm_source=rss&utm_medium=rss&utm_campaign=youth-ministry-deconstructed"
+    },
+    {
+      "category": "Theology",
       "title": "‘Heart of the Beast’ Shows Why Man Should Not Be Alone",
       "source": "The Gospel Coalition",
       "date": "Fri, 25 Sep 2026 04:05:03 +0000",
       "summary": "The ‘freedom’ of the solitary path rarely heals our pain. It is not good that man is alone.",
       "url": "https://www.thegospelcoalition.org/article/heart-beast-christian-movie-review/"
-    },
-    {
-      "category": "Theology",
-      "title": "Better Together: Men and Women in the Church",
-      "source": "The Gospel Coalition",
-      "date": "Fri, 25 Sep 2026 04:04:00 +0000",
-      "summary": "When men and women work together toward a shared mission and vision in Christ’s church, we get a fuller representation of what it means to bear the image of God.",
-      "url": "https://www.thegospelcoalition.org/podcasts/tgc-podcast/better-together-men-women-church/"
     },
     {
       "category": "Theology",
@@ -233,14 +241,6 @@
       "date": "Mon, 21 Sep 2026 11:58:18 +0000",
       "summary": "American Patriarch: The Life of George Washington by H. W. Brands (New York, NY: Doubleday, 2026) $40.00 hardcover. The prolific historian H. W. Brands has added to his Revolutionary Era portfolio (previous books include Founding Partisans, Heirs of the Founders and Our First Civil War) with his biography of His Excellency, American Patriarch: The Life […]\nThe post American Patriarch: The Life of George Washington by H. W. Brands appeared first on Journal of the American Revolution.",
       "url": "https://allthingsliberty.com/2026/09/american-patriarch-the-life-of-george-washington-by-h-w-brands/"
-    },
-    {
-      "category": "Theology",
-      "title": "Your People Need to Know the “Why” of Shifting to a Plurality of Elders",
-      "source": "9Marks",
-      "date": "Mon, 14 Sep 2026 20:53:38 +0000",
-      "summary": "It seems the reason God gives pastors a job that is too big for one man is that he never intended for one man to do it alone!\nThe post Your People Need to Know the “Why” of Shifting to a Plurality of Elders appeared first on 9Marks.",
-      "url": "https://www.9marks.org/article/your-people-need-to-know-the-why-of-shifting-to-a-plurality-of-elders/?utm_source=rss&utm_medium=rss&utm_campaign=your-people-need-to-know-the-why-of-shifting-to-a-plurality-of-elders"
     },
     {
       "category": "History",
