@@ -1,30 +1,54 @@
 {
-  "lastUpdated": "2026-09-27T14:55:09.117Z",
-  "articleCount": 33,
+  "lastUpdated": "2026-09-27T19:26:34.130Z",
+  "articleCount": 36,
   "articles": [
     {
+      "category": "Science",
+      "title": "Why volcanic crystals are black boxes for tracking magma's journey to the Earth's surface",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sun, 27 Sep 2026 15:00:01 EDT",
+      "summary": "When we think of a volcanic eruption, rivers of glowing lava or giant columns of ash come to mind. But beneath Earth's surface, a more complex story is unfolding. Magma deep within volcanoes is more than molten rock. It is a thick mixture of melted rock and solid mineral crystals known as \"magma mush\". To picture it, imagine a semi-frozen granita: a slushy blend of solid ice crystals suspended in sweet liquid syrup.",
+      "url": "https://phys.org/news/2026-09-volcanic-crystals-black-tracking-magma.html"
+    },
+    {
       "category": "AI",
-      "title": "In an $80 Motel Room, a Discovery to Shed Light on the Origins of Life",
+      "title": "Show HN: Lofi Cities – Pixel-art city nights with browser-generated lofi",
       "source": "Hacker News: Front Page",
-      "date": "Sun, 27 Sep 2026 14:30:55 +0000",
-      "summary": "Article URL: https://www.nytimes.com/2026/09/26/science/motel-science-discovery.html\nComments URL: https://news.ycombinator.com/item?id=49866951\nPoints: 4\n# Comments: 2",
-      "url": "https://www.nytimes.com/2026/09/26/science/motel-science-discovery.html"
+      "date": "Sun, 27 Sep 2026 18:44:30 +0000",
+      "summary": "Article URL: https://loficities.com/\nComments URL: https://news.ycombinator.com/item?id=49869574\nPoints: 25\n# Comments: 4",
+      "url": "https://loficities.com/"
+    },
+    {
+      "category": "AI",
+      "title": "Oral history of John Chowning, inventor of FM synthesis [video]",
+      "source": "Hacker News: Front Page",
+      "date": "Sun, 27 Sep 2026 18:02:43 +0000",
+      "summary": "https://en.wikipedia.org/wiki/John_Chowning\nComments URL: https://news.ycombinator.com/item?id=49869142\nPoints: 4\n# Comments: 0",
+      "url": "https://www.youtube.com/watch?v=e1Xn3030IvM"
     },
     {
       "category": "Science",
-      "title": "Waste bulrush transformed into copper-enhanced material for dye removal from wastewater",
+      "title": "Finding homes for whales and dolphins when parks close isn't easy—sea sanctuaries aren't the answer",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Sun, 27 Sep 2026 10:30:05 EDT",
-      "summary": "Industrial activities such as textile manufacturing, paper production, leather processing and food processing can generate wastewater containing synthetic dyes. Because many synthetic dyes are chemically stable, difficult to biodegrade and environmentally persistent, their release into waterways can pose risks to aquatic ecosystems and human health.",
-      "url": "https://phys.org/news/2026-09-bulrush-copper-material-dye-wastewater.html"
+      "date": "Sun, 27 Sep 2026 14:00:06 EDT",
+      "summary": "When Marineland Canada in Niagara Falls, Ontario, closed in September 2024, it had no regular income to support the care of the 30 belugas and four dolphins housed there. To ensure their welfare, the Association of Zoos and Aquariums led an international effort to relocate the animals to the United States and Spain.",
+      "url": "https://phys.org/news/2026-09-homes-whales-dolphins-isnt-easy.html"
     },
     {
       "category": "Science",
-      "title": "Astronomers discover a radio galaxy with evidence of four separate jet outbursts",
+      "title": "Can Bionic Reading really help you read faster? Scientists put it to the test",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Sun, 27 Sep 2026 10:20:05 EDT",
-      "summary": "Astronomers have identified what may be the first example of a new class of radio galaxy, one whose central black hole appears to have launched powerful jets on four separate occasions. High-resolution observations with the upgraded Giant Metrewave Radio Telescope (GMRT), combined with data from MeerKAT and the Very Large Array, reveal four pairs of radio structures arranged symmetrically around the central galaxy.",
-      "url": "https://phys.org/news/2026-09-astronomers-radio-galaxy-evidence-jet.html"
+      "date": "Sun, 27 Sep 2026 13:40:01 EDT",
+      "summary": "Bionic Reading is a method of bolding certain letters in words that is purported to facilitate reading speed and comprehension. The idea is that guiding the eyes to focus on highlighted initial letters lets the brain complete the word. But does steering someone's gaze actually help them read?",
+      "url": "https://phys.org/news/2026-09-bionic-faster-scientists.html"
+    },
+    {
+      "category": "AI",
+      "title": "SNL Weekend Update: Anthropic CEO Dario Amodei on A.I.'S Threat to Humanity [video]",
+      "source": "Hacker News: Front Page",
+      "date": "Sun, 27 Sep 2026 17:32:02 +0000",
+      "summary": "Article URL: https://www.youtube.com/watch?v=-Nvne3LzBls\nComments URL: https://news.ycombinator.com/item?id=49868831\nPoints: 143\n# Comments: 40",
+      "url": "https://www.youtube.com/watch?v=-Nvne3LzBls"
     },
     {
       "category": "Science",
@@ -33,22 +57,6 @@
       "date": "Sun, 27 Sep 2026 09:53:39 EDT",
       "summary": "A large health-record analysis found that glucosamine use was associated with a 25% higher likelihood of mild cognitive impairment progressing to dementia. Lab experiments suggest the popular joint supplement may intensify an abnormal sugar-tagging process in the Alzheimer’s brain, although researchers say clinical trials are needed to determine whether it actually causes harm.",
       "url": "https://www.sciencedaily.com/releases/2026/09/260927033754.htm"
-    },
-    {
-      "category": "AI",
-      "title": "Replacing the old battery on rechargeable bike lights",
-      "source": "Hacker News: Front Page",
-      "date": "Sun, 27 Sep 2026 13:30:11 +0000",
-      "summary": "Article URL: https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/\nComments URL: https://news.ycombinator.com/item?id=49866515\nPoints: 15\n# Comments: 3",
-      "url": "https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/"
-    },
-    {
-      "category": "Science",
-      "title": "DNA reveals chemosynthesis genes in bacteria living on coral reef fish gills",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sun, 27 Sep 2026 08:00:05 EDT",
-      "summary": "Chemosynthetic bacteria have been documented in various marine environments and in association with invertebrate hosts such as annelid worms and mollusks, but their presence in fish appears to be a new discovery. The findings show that fish gills host a complex and specialized microbiome that is not yet well understood but could play an important role in fish metabolism, immunity and health.",
-      "url": "https://phys.org/news/2026-09-dna-reveals-chemosynthesis-genes-bacteria.html"
     },
     {
       "category": "Science",
@@ -75,14 +83,6 @@
       "url": "https://www.sciencedaily.com/releases/2026/09/260925093208.htm"
     },
     {
-      "category": "AI",
-      "title": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
-      "source": "Hacker News: Front Page",
-      "date": "Sun, 27 Sep 2026 10:26:25 +0000",
-      "summary": "Article URL: https://arxiv.org/abs/2609.25021\nComments URL: https://news.ycombinator.com/item?id=49865343\nPoints: 78\n# Comments: 74",
-      "url": "https://arxiv.org/abs/2609.25021"
-    },
-    {
       "category": "Science",
       "title": " James Webb telescope shares one of its biggest images ever, with record-breaking stars hiding in the dust  ",
       "source": " Latest from Live Science ",
@@ -97,6 +97,14 @@
       "date": "Sun, 27 Sep 2026 09:00:00 +0000",
       "summary": "Approaching the sun is a perilous process, but many objects have successfully pulled off this feat.",
       "url": "https://www.livescience.com/space/astronomy/what-is-the-closest-any-object-has-gotten-to-the-sun"
+    },
+    {
+      "category": "Space",
+      "title": "APOD: 2026 September 27 – Andromeda Before and After Photoshop",
+      "source": "NASA",
+      "date": "Sun, 27 Sep 2026 04:05:00 +0000",
+      "summary": "APOD Science APOD APOD: 2026 September 27 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. BeforeAfter Andromeda Before […]",
+      "url": "https://science.nasa.gov/image-article/apod-2026-september-27-andromeda-before-photoshop/"
     },
     {
       "category": "Theology",
@@ -123,6 +131,14 @@
       "url": "https://arstechnica.com/cars/2026/09/teslas-big-electric-truck-faces-an-even-bigger-infrastructure-challenge/"
     },
     {
+      "category": "Space",
+      "title": "APOD: 2026 September 26 – Mirrored Meteor and Milky Way",
+      "source": "NASA",
+      "date": "Sat, 26 Sep 2026 04:05:00 +0000",
+      "summary": "APOD Science APOD APOD: 2026 September 26 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Mirrored Meteor and […]",
+      "url": "https://science.nasa.gov/image-article/apod-2026-september-26-mirrored-meteor-and-milky-way/"
+    },
+    {
       "category": "Theology",
       "title": "Looksmaxxing Is a Crisis of Modern Masculinity. The Church Has a Cure. ",
       "source": "The Gospel Coalition",
@@ -137,6 +153,14 @@
       "date": "Fri, 25 Sep 2026 23:00:26 +0000",
       "summary": "Heidi Overton faced questions focused on vaccines, birth control, and vapes.",
       "url": "https://arstechnica.com/health/2026/09/can-trump-ever-be-wrong-his-pick-to-lead-fda-refused-to-say/"
+    },
+    {
+      "category": "Space",
+      "title": "NASA, Boeing to Provide Update on Starliner Development",
+      "source": "NASA",
+      "date": "Fri, 25 Sep 2026 22:06:50 +0000",
+      "summary": "During a news conference at 3 p.m. EDT on Monday, Sept. 28, NASA and Boeing leadership will discuss Starliner’s development and plans for regular crew flights to and from the International Space Station. Learn where to watch online: https://www.nasa.gov/live The briefing participants include: Media already credentialed for Crew-13 may participate in person at NASA’s Kennedy […]",
+      "url": "https://www.nasa.gov/news-release/nasa-boeing-to-provide-update-on-starliner-development/"
     },
     {
       "category": "AI",
