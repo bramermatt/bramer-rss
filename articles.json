@@ -1,142 +1,214 @@
 {
-  "lastUpdated": "2026-09-28T00:11:25.078Z",
-  "articleCount": 33,
+  "lastUpdated": "2026-09-28T17:54:14.551Z",
+  "articleCount": 36,
   "articles": [
     {
-      "category": "AI",
-      "title": "Lunar Terminator Paradox",
-      "source": "Hacker News: Front Page",
-      "date": "Sun, 27 Sep 2026 21:06:17 +0000",
-      "summary": "Article URL: https://notes.secretsauce.net/notes/2026/09/27_lunar-terminator-paradox.html\nComments URL: https://news.ycombinator.com/item?id=49870837\nPoints: 35\n# Comments: 23",
-      "url": "https://notes.secretsauce.net/notes/2026/09/27_lunar-terminator-paradox.html"
-    },
-    {
       "category": "Science",
-      "title": "Who is responsible for limiting global warming to 1.5°?",
+      "title": "New model explains why glass becomes less transparent to terahertz light",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Sun, 27 Sep 2026 17:00:01 EDT",
-      "summary": "Even if industry rapidly becomes more sustainable, households will still need to change their lifestyles to meet climate targets. Industrial ecologist Stephanie Cap warns that households cannot do this alone: Businesses and governments must create the conditions to make these changes possible. Cap defends her dissertation titled \"Everything Must Change: 1.5°C decarbonisation scenarios across industries and households\" on Oct. 1.",
-      "url": "https://phys.org/news/2026-09-responsible-limiting-global.html"
+      "date": "Mon, 28 Sep 2026 13:47:23 EDT",
+      "summary": "Electromagnetic waves in the gigahertz (GHz) range, such as those used in mobile communications, can readily pass through many types of glass. However, transmission decreases significantly at terahertz frequencies above a characteristic threshold.",
+      "url": "https://phys.org/news/2026-09-glass-transparent-terahertz.html"
     },
     {
       "category": "AI",
-      "title": "My Recent Woodworking Projects",
-      "source": "Hacker News: Front Page",
-      "date": "Sun, 27 Sep 2026 20:33:55 +0000",
-      "summary": "Article URL: https://notoriousbfg.com/recent-woodworking-projects/\nComments URL: https://news.ycombinator.com/item?id=49870541\nPoints: 15\n# Comments: 4",
-      "url": "https://notoriousbfg.com/recent-woodworking-projects/"
-    },
-    {
-      "category": "AI",
-      "title": "Show HN: Cartopolis, interactive globe-sized 3D world",
-      "source": "Hacker News: Front Page",
-      "date": "Sun, 27 Sep 2026 20:14:53 +0000",
-      "summary": "Article URL: https://code.garage44.eu/jeroen/cartopolis\nComments URL: https://news.ycombinator.com/item?id=49870394\nPoints: 9\n# Comments: 0",
-      "url": "https://code.garage44.eu/jeroen/cartopolis"
-    },
-    {
-      "category": "Science",
-      "title": "Japan's 2011 tsunami sparked fish hybridization, but species boundaries largely held",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sun, 27 Sep 2026 16:00:01 EDT",
-      "summary": "How are species boundaries maintained in the face of environmental disturbance? This is not only a fundamental question in evolutionary biology but also an increasingly important one as human activities and climate change alter habitats and bring previously separated species into contact.",
-      "url": "https://phys.org/news/2026-09-japan-tsunami-fish-hybridization-species.html"
-    },
-    {
-      "category": "Science",
-      "title": "Why volcanic crystals are black boxes for tracking magma's journey to the Earth's surface",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sun, 27 Sep 2026 15:00:01 EDT",
-      "summary": "When we think of a volcanic eruption, rivers of glowing lava or giant columns of ash come to mind. But beneath Earth's surface, a more complex story is unfolding. Magma deep within volcanoes is more than molten rock. It is a thick mixture of melted rock and solid mineral crystals known as \"magma mush\". To picture it, imagine a semi-frozen granita: a slushy blend of solid ice crystals suspended in sweet liquid syrup.",
-      "url": "https://phys.org/news/2026-09-volcanic-crystals-black-tracking-magma.html"
-    },
-    {
-      "category": "Science",
-      "title": "Glucosamine, a popular joint supplement, linked to faster Alzheimer’s progression",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Sun, 27 Sep 2026 09:53:39 EDT",
-      "summary": "A large health-record analysis found that glucosamine use was associated with a 25% higher likelihood of mild cognitive impairment progressing to dementia. Lab experiments suggest the popular joint supplement may intensify an abnormal sugar-tagging process in the Alzheimer’s brain, although researchers say clinical trials are needed to determine whether it actually causes harm.",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260927033754.htm"
-    },
-    {
-      "category": "Science",
-      "title": " A giant cosmic 'fart' is making a wobbling zombie star repeatedly flash us, 'groundbreaking' observations reveal ",
-      "source": " Latest from Live Science ",
-      "date": "Sun, 27 Sep 2026 12:00:00 +0000",
-      "summary": "A very strange binary star system keeps flashing Earth with X-ray flares. Scientists now understand why.",
-      "url": "https://www.livescience.com/space/astronomy/a-giant-cosmic-fart-is-making-a-wobbling-zombie-star-repeatedly-flash-us-groundbreaking-observations-reveal"
-    },
-    {
-      "category": "AI",
-      "title": "How the Smithsonian became the latest front in Trump’s culture war",
+      "title": "F1 in Azerbaijan: That was almost a close-run thing",
       "source": "Ars Technica - All content",
-      "date": "Sun, 27 Sep 2026 11:00:12 +0000",
-      "summary": "The Smithsonian has faced withering pressure from the Trump administration.",
-      "url": "https://arstechnica.com/tech-policy/2026/09/how-the-smithsonian-became-the-latest-front-in-trumps-culture-war/"
+      "date": "Mon, 28 Sep 2026 17:41:35 +0000",
+      "summary": "Kimi Antonelli could not repeat his Monza magic after a crash in qualifying.",
+      "url": "https://arstechnica.com/cars/2026/09/f1-in-azerbaijan-that-was-almost-a-close-run-thing/"
     },
     {
       "category": "Science",
-      "title": "Why rheumatoid arthritis pain may persist even when inflammation is under control",
+      "title": "Scientists find lunar 'magnetic fossil' in Chang'e-6 samples",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Mon, 28 Sep 2026 13:40:10 EDT",
+      "summary": "The moon no longer has a global magnetic field, but lunar rocks and soils still contain records of ancient magnetism. Studying the magnetic minerals in these samples can help scientists understand how the moon's magnetic field evolved over time.",
+      "url": "https://phys.org/news/2026-09-scientists-lunar-magnetic-fossil-samples.html"
+    },
+    {
+      "category": "Science",
+      "title": "Neuroproteins are potential diagnostic tool for sick foals",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Mon, 28 Sep 2026 13:40:06 EDT",
+      "summary": "Researchers from North Carolina State University have found that blood serum concentrations of neuroproteins and neurosteroids are associated with neonatal maladjustment syndrome (NMS) in newborn foals. The work could lead to better diagnostic tools and potential therapies.",
+      "url": "https://phys.org/news/2026-09-neuroproteins-potential-diagnostic-tool-sick.html"
+    },
+    {
+      "category": "Science",
+      "title": " SpaceX's Starship reaches orbit for the first time, then returns early and explodes ",
+      "source": " Latest from Live Science ",
+      "date": "Mon, 28 Sep 2026 17:35:48 +0000",
+      "summary": "SpaceX got its Starship rocket into orbit, but after a tense few minutes of comms and the loss of an engine, the call was made to end the mission early.",
+      "url": "https://www.livescience.com/space/space-exploration/spacexs-starship-reaches-orbit-for-the-first-time-then-returns-early-and-blows-up-in-a-fiery-explosion"
+    },
+    {
+      "category": "AI",
+      "title": "OpenAI still doesn't seem to have a handle on all of its rogue AI activity",
+      "source": "Hacker News: Front Page",
+      "date": "Mon, 28 Sep 2026 17:33:34 +0000",
+      "summary": "Article URL: https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/\nComments URL: https://news.ycombinator.com/item?id=49881484\nPoints: 5\n# Comments: 0",
+      "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/"
+    },
+    {
+      "category": "AI",
+      "title": "How Pew Research Center is – and is not – using AI in our work",
+      "source": "Hacker News: Front Page",
+      "date": "Mon, 28 Sep 2026 17:08:06 +0000",
+      "summary": "Article URL: https://www.pewresearch.org/decoded/2026/09/28/how-pew-research-center-is-and-is-not-using-ai-in-our-work-2/\nComments URL: https://news.ycombinator.com/item?id=49881135\nPoints: 9\n# Comments: 2",
+      "url": "https://www.pewresearch.org/decoded/2026/09/28/how-pew-research-center-is-and-is-not-using-ai-in-our-work-2/"
+    },
+    {
+      "category": "AI",
+      "title": "Driver Ticketed for No Insurance Just Because Flock (YC 2017) Said She Didn't",
+      "source": "Hacker News: Front Page",
+      "date": "Mon, 28 Sep 2026 16:58:25 +0000",
+      "summary": "Article URL: https://www.techdirt.com/2026/09/28/driver-ticketed-for-no-insurance-despite-having-insurance-just-because-flock-said-she-didnt/\nComments URL: https://news.ycombinator.com/item?id=49880992\nPoints: 27\n# Comments: 3",
+      "url": "https://www.techdirt.com/2026/09/28/driver-ticketed-for-no-insurance-despite-having-insurance-just-because-flock-said-she-didnt/"
+    },
+    {
+      "category": "AI",
+      "title": "OpenAI halts frontier-model training amid string of agent misalignment incidents",
+      "source": "Ars Technica - All content",
+      "date": "Mon, 28 Sep 2026 16:43:18 +0000",
+      "summary": "US Government websites among \"dozens of third parties\" OpenAI has recently notified.",
+      "url": "https://arstechnica.com/ai/2026/09/openai-halts-frontier-model-training-amid-string-of-agent-misalignment-incidents/"
+    },
+    {
+      "category": "Space",
+      "title": "NASA Celebrates as Artemis Accords Surpasses 75 Signatories ",
+      "source": "NASA",
+      "date": "Mon, 28 Sep 2026 16:26:45 +0000",
+      "summary": "Marking a significant expansion in the number of signatories to the Artemis Accords, NASA welcomed Albania, Croatia, Côte d’Ivoire, and San Marino, bringing total participation to 76 countries.  “Our momentum reflects a growing commitment to peaceful, responsible exploration and a shared understanding that the future in space will be shaped by those willing to lead,” […]",
+      "url": "https://www.nasa.gov/news-release/nasa-celebrates-as-artemis-accords-surpasses-75-signatories/"
+    },
+    {
+      "category": "Science",
+      "title": " US Cold War-era spy satellite explodes above Earth — and nobody knows why ",
+      "source": " Latest from Live Science ",
+      "date": "Mon, 28 Sep 2026 16:19:28 +0000",
+      "summary": "The defunct USA 32 (or Farrah III) satellite, which launched in 1988, broke apart without warning on Sept. 13, around 480 miles above Earth's surface. Experts are still unsure what caused this sudden fragmentation, how many pieces it created, or how the debris might impact other nearby spacecraft.",
+      "url": "https://www.livescience.com/space/space-exploration/an-american-cold-war-era-spy-satellite-just-exploded-above-earth-and-nobody-knows-why"
+    },
+    {
+      "category": "Space",
+      "title": "Meet NASA’s Artemis II Crew During Houston Public Event",
+      "source": "NASA",
+      "date": "Mon, 28 Sep 2026 16:16:40 +0000",
+      "summary": "The four astronauts of NASA’s Artemis II mission will participate in an event hosted by industry and community partners at the University of Houston to discuss their mission around the Moon aboard the Orion spacecraft. It will be the first event in Houston for the public following their lunar mission earlier this year and marks […]",
+      "url": "https://www.nasa.gov/news-release/meet-nasas-artemis-ii-crew-during-houston-public-event/"
+    },
+    {
+      "category": "Space",
+      "title": "What You Need to Know About NASA’s SpaceX Crew-13 Mission",
+      "source": "NASA",
+      "date": "Mon, 28 Sep 2026 16:09:09 +0000",
+      "summary": "Four crew members are set to launch to the International Space Station as part of NASA’s SpaceX Crew-13 mission to perform research, technology demonstrations, and maintenance aboard the orbiting laboratory.",
+      "url": "https://www.nasa.gov/missions/station/commercial-crew/what-you-need-to-know-about-nasas-spacex-crew-13-mission/"
+    },
+    {
+      "category": "AI",
+      "title": "NASA, for the time being, is unable to move the space station's large robotic arm",
+      "source": "Ars Technica - All content",
+      "date": "Mon, 28 Sep 2026 16:03:50 +0000",
+      "summary": "NASA isn't saying much. The problem may be temporary.",
+      "url": "https://arstechnica.com/space/2026/09/nasa-for-the-time-being-is-unable-to-move-the-space-stations-large-robotic-armthe-large-robotic-arm-on-the-international-space-station-has-stopped-working/"
+    },
+    {
+      "category": "Science",
+      "title": " 'It is something we must know before we go where no man has gone before': Readers react to NASA's Roman telescope mission ",
+      "source": " Latest from Live Science ",
+      "date": "Mon, 28 Sep 2026 15:47:51 +0000",
+      "summary": "NASA's Nancy Grace Roman Space Telescope is about to begin scanning our universe as it journeys through space. Live Science readers shared their thoughts about what they're most excited to see from the new space telescope.",
+      "url": "https://www.livescience.com/space/astronomy/it-is-something-we-must-know-before-we-go-where-no-man-has-gone-before-readers-react-to-nasas-roman-telescope-mission"
+    },
+    {
+      "category": "Science",
+      "title": "Scientists just discovered what coffee really does to your gut and brain",
       "source": "All Top News -- ScienceDaily",
-      "date": "Sun, 27 Sep 2026 06:49:13 EDT",
-      "summary": "Pain and fatigue in rheumatoid arthritis can persist even after inflammation improves, with depression, poor sleep, obesity, smoking, and chronic pain potentially helping sustain symptoms. Researchers say identifying these hidden drivers could prevent unnecessary medication changes and lead to more personalized treatment.",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260925093208.htm"
+      "date": "Mon, 28 Sep 2026 09:37:05 EDT",
+      "summary": "A new study suggests coffee may influence mood and brain function by changing the activity of microbes in the gut. Both caffeinated and decaf coffee were linked to lower stress, depression, and impulsivity, while also producing measurable changes in gut bacteria and metabolites. Decaf was associated with better learning and memory, while caffeinated coffee appeared to reduce anxiety and improve attention.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260927034331.htm"
     },
     {
       "category": "Science",
-      "title": " James Webb telescope shares one of its biggest images ever, with record-breaking stars hiding in the dust  ",
-      "source": " Latest from Live Science ",
-      "date": "Sun, 27 Sep 2026 10:00:00 +0000",
-      "summary": "One of the largest images from the James Webb Space Telescope so far reveals an intricate landscape of dwarf stars and spectacular clouds.",
-      "url": "https://www.livescience.com/space/astronomy/james-webb-telescope-shares-one-of-its-biggest-images-ever-with-record-breaking-stars-hiding-in-the-dust-space-photo-of-the-week"
+      "title": "Blood tests reveal why astronauts get constipated in space",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Mon, 28 Sep 2026 08:49:59 EDT",
+      "summary": "Spaceflight may dramatically change the gut within weeks, causing bacteria to break down more protein as food moves more slowly through the intestines. The shift could help explain astronaut constipation and may have wider effects on health, making it an important concern for future missions to Mars.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260927225030.htm"
     },
     {
-      "category": "Science",
-      "title": " What is the closest any object has gotten to the sun? ",
-      "source": " Latest from Live Science ",
-      "date": "Sun, 27 Sep 2026 09:00:00 +0000",
-      "summary": "Approaching the sun is a perilous process, but many objects have successfully pulled off this feat.",
-      "url": "https://www.livescience.com/space/astronomy/what-is-the-closest-any-object-has-gotten-to-the-sun"
+      "category": "Biblical Studies",
+      "title": "Second Temple Era Mikveh Found…then Moved",
+      "source": "Biblical Archaeology Society",
+      "date": "Mon, 28 Sep 2026 10:45:44 +0000",
+      "summary": "A remarkable archaeological discovery has been made in Kiryat Gat (southern Israel), during excavations ahead of construction in the new Carmei Gat neighborhood. The Israel […]\nThe post Second Temple Era Mikveh Found…then Moved appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/daily-life-and-practice/second-temple-era-mikveh-found-then-moved/"
+    },
+    {
+      "category": "Biblical Studies",
+      "title": "The Chariots of Israel",
+      "source": "Biblical Archaeology Society",
+      "date": "Mon, 28 Sep 2026 10:00:21 +0000",
+      "summary": "Early eighth-century BCE Megiddo is famous for two massive stable complexes, thought by early excavators to be the stables of Solomon. Covering a large portion […]\nThe post The Chariots of Israel appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-israel/the-chariots-of-israel/"
+    },
+    {
+      "category": "History",
+      "title": "Closing the Ring: George Washington’s War in the North, 1778–1781",
+      "source": "Journal of the American Revolution",
+      "date": "Mon, 28 Sep 2026 09:00:32 +0000",
+      "summary": "BOOK REVIEW: Closing the Ring: George Washington’s War in the North 1778–1781 by Jeffrey A Denman (Havertown, PA: Casemate, 2026) $34.95 hardcover. When historians and the general public consider the more prominent moments of the American Revolution, they surely think of Lexington and Concord, the battles of Bunker Hill, Trenton, Saratoga, and the Siege of […]\nThe post Closing the Ring: George Washington’s War in the North, 1778–1781 appeared first on Journal of the American Revolution.",
+      "url": "https://allthingsliberty.com/2026/09/closing-the-ring-george-washingtons-war-in-the-north-1778-1781/"
+    },
+    {
+      "category": "AI",
+      "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+      "source": "OpenAI News",
+      "date": "Mon, 28 Sep 2026 07:00:00 GMT",
+      "summary": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support.",
+      "url": "https://openai.com/index/lenfest-ai-collaborative-expansion"
     },
     {
       "category": "Theology",
-      "title": "The Case for (Sometimes) Wordless Evangelism",
+      "title": "The Pastor and Discouragement",
       "source": "The Gospel Coalition",
-      "date": "Sun, 27 Sep 2026 04:00:00 +0000",
-      "summary": "By his grace, I’d sought to love this server well for Christ’s sake, and she saw the beauty of the gospel in my wordless proclamation.",
-      "url": "https://www.thegospelcoalition.org/article/use-words-necessary/"
-    },
-    {
-      "category": "Science",
-      "title": "Zepbound and Mounjaro may turn on the body’s calorie-burning brown fat",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Sat, 26 Sep 2026 08:31:07 EDT",
-      "summary": "Tirzepatide, sold as Mounjaro and Zepbound, activated calorie-burning brown fat in obese mice, revealing a potential metabolic effect beyond appetite suppression. If confirmed in humans, the finding could help explain the drug’s powerful benefits and inspire more comprehensive treatments for obesity and diabetes.",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260925093210.htm"
-    },
-    {
-      "category": "AI",
-      "title": "Tesla’s big electric truck faces an even bigger infrastructure challenge",
-      "source": "Ars Technica - All content",
-      "date": "Sat, 26 Sep 2026 10:45:09 +0000",
-      "summary": "The 500-mile Semi arrives as charging gaps still limit electric trucking.",
-      "url": "https://arstechnica.com/cars/2026/09/teslas-big-electric-truck-faces-an-even-bigger-infrastructure-challenge/"
+      "date": "Mon, 28 Sep 2026 04:04:18 +0000",
+      "summary": "Matt Smethurst and Ligon Duncan offer hope for discouraged pastors, showing how realistic expectations, faithful friendships, long-term perspective, and confidence in God’s sovereignty can sustain them.",
+      "url": "https://www.thegospelcoalition.org/podcasts/everyday-pastor/pastor-discouragement/"
     },
     {
       "category": "Theology",
-      "title": "Looksmaxxing Is a Crisis of Modern Masculinity. The Church Has a Cure. ",
+      "title": "On My Shelf: Life and Books with Chris Watkin",
       "source": "The Gospel Coalition",
-      "date": "Sat, 26 Sep 2026 04:00:00 +0000",
-      "summary": "A crisis of discipleship is happening inside modern masculinity, and it’s time for church leaders to pay attention.",
-      "url": "https://www.thegospelcoalition.org/article/looksmaxxing-modern-masculinity-church/"
+      "date": "Mon, 28 Sep 2026 04:02:00 +0000",
+      "summary": "Chris Watkin talks about what’s on his bedside table, favorite fiction, favorite rereads, and more.",
+      "url": "https://www.thegospelcoalition.org/article/on-my-shelf-chris-watkin/"
     },
     {
-      "category": "AI",
-      "title": "Can Trump ever be wrong? His pick to lead FDA refused to say.",
-      "source": "Ars Technica - All content",
-      "date": "Fri, 25 Sep 2026 23:00:26 +0000",
-      "summary": "Heidi Overton faced questions focused on vaccines, birth control, and vapes.",
-      "url": "https://arstechnica.com/health/2026/09/can-trump-ever-be-wrong-his-pick-to-lead-fda-refused-to-say/"
+      "category": "Theology",
+      "title": "Should We Say ‘Please’ and ‘Thank You’ to AI Chatbots?",
+      "source": "The Gospel Coalition",
+      "date": "Mon, 28 Sep 2026 04:00:00 +0000",
+      "summary": "Because formation matters, I’m not rude to AI. Because categories matter, I don’t treat it as an equal.",
+      "url": "https://www.thegospelcoalition.org/article/please-thank-you-ai-chatbots/"
+    },
+    {
+      "category": "Science",
+      "title": "Is the universe infinite? The answer gets weird fast",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Sun, 27 Sep 2026 23:18:42 EDT",
+      "summary": "Measurements of ancient light from the cosmic microwave background suggest that the universe is remarkably flat. But that does not prove it is infinite, because the observable cosmos could be only a small patch of a much larger curved universe. Space could even be flat while wrapping around on itself in exotic ways.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260927225041.htm"
+    },
+    {
+      "category": "Biblical Studies",
+      "title": "The Origin of Christianity",
+      "source": "Biblical Archaeology Society",
+      "date": "Sun, 27 Sep 2026 11:00:03 +0000",
+      "summary": "Geza Vermes explores the origin of Christianity by examining the characteristics of the Jewish Jesus movement to see how it developed into a distinctly gentile religion.\nThe post The Origin of Christianity appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/daily/biblical-topics/new-testament/the-origin-of-christianity/"
     },
     {
       "category": "AI",
@@ -145,22 +217,6 @@
       "date": "Fri, 25 Sep 2026 19:00:00 GMT",
       "summary": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.",
       "url": "https://openai.com/index/proaction"
-    },
-    {
-      "category": "Biblical Studies",
-      "title": "Fragment of World’s Oldest Peace Treaty Found",
-      "source": "Biblical Archaeology Society",
-      "date": "Fri, 25 Sep 2026 10:45:12 +0000",
-      "summary": "On World Peace Day, the Turkish Ministry of Culture and Tourism announced a spectacular find from the world’s oldest surviving peace treaty. A portion of […]\nThe post Fragment of World’s Oldest Peace Treaty Found appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/fragment-of-worlds-oldest-peace-treaty-found/"
-    },
-    {
-      "category": "Biblical Studies",
-      "title": "Jerusalem Through the Ages",
-      "source": "Biblical Archaeology Society",
-      "date": "Fri, 25 Sep 2026 10:00:34 +0000",
-      "summary": "Jerusalem Through the Ages: From Its Beginnings to the Crusades By Jodi Magness (New York: Oxford Univ. Press, 2024), x + 614 pp., 157 b/w […]\nThe post Jerusalem Through the Ages appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/reviews/jerusalem-through-the-ages/"
     },
     {
       "category": "Theology",
@@ -172,27 +228,11 @@
     },
     {
       "category": "Theology",
-      "title": "‘Heart of the Beast’ Shows Why Man Should Not Be Alone",
-      "source": "The Gospel Coalition",
-      "date": "Fri, 25 Sep 2026 04:05:03 +0000",
-      "summary": "The ‘freedom’ of the solitary path rarely heals our pain. It is not good that man is alone.",
-      "url": "https://www.thegospelcoalition.org/article/heart-beast-christian-movie-review/"
-    },
-    {
-      "category": "Theology",
       "title": "Finish the Race: Final Steps in the Transition to a Plurality of Elders",
       "source": "9Marks",
       "date": "Fri, 25 Sep 2026 03:25:56 +0000",
       "summary": "It is easy to get lost in wanting to lead out in change just so we can say we did it, or out of concern to our reputation. But our motivation for change should be to bring greater glory to God and greater health to his church.\nThe post Finish the Race: Final Steps in the Transition to a Plurality of Elders appeared first on 9Marks.",
       "url": "https://www.9marks.org/article/finish-the-race-final-steps-in-the-transition-to-a-plurality-of-elders/?utm_source=rss&utm_medium=rss&utm_campaign=finish-the-race-final-steps-in-the-transition-to-a-plurality-of-elders"
-    },
-    {
-      "category": "Biblical Studies",
-      "title": "When Was Jesus Born—B.C. or A.D.?",
-      "source": "Biblical Archaeology Society",
-      "date": "Thu, 24 Sep 2026 11:00:58 +0000",
-      "summary": "In which year was Jesus born? While this is sometimes debated, the majority of New Testament scholars place Jesus’ birth in 4 B.C. or before. \nThe post When Was Jesus Born—B.C. or A.D.? appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/daily/people-cultures-in-the-bible/jesus-historical-jesus/when-was-jesus-born-bc-or-ad/"
     },
     {
       "category": "History",
@@ -211,14 +251,6 @@
       "url": "https://openai.com/index/two-years-of-openai-academy"
     },
     {
-      "category": "AI",
-      "title": "OpenAI extends cyber access to Ukraine for civilian defense",
-      "source": "OpenAI News",
-      "date": "Wed, 23 Sep 2026 13:00:00 GMT",
-      "summary": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure.",
-      "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense"
-    },
-    {
       "category": "Theology",
       "title": "We Were Waiting to Die: Suffering as a Missionary for the Sake of the Name",
       "source": "9Marks",
@@ -233,14 +265,6 @@
       "date": "Tue, 22 Sep 2026 09:00:56 +0000",
       "summary": "Recovering James Wilson’s Constitutional Vision Few figures of the American founding exhibit a greater disparity between historical significance and public recognition than James Wilson. A signer of both the Declaration of Independence and the United States Constitution, one of the Constitutional Convention’s most influential delegates, and an original Associate Justice of the Supreme Court, Wilson […]\nThe post James Wilson and Popular Sovereignty: Recovering the Democratic Foundations of the American Constitution appeared first on Journal of the American Revolution.",
       "url": "https://allthingsliberty.com/2026/09/james-wilson-and-popular-sovereignty-recovering-the-democratic-foundations-of-the-american-constitution/"
-    },
-    {
-      "category": "History",
-      "title": "American Patriarch: The Life of George Washington by H. W. Brands",
-      "source": "Journal of the American Revolution",
-      "date": "Mon, 21 Sep 2026 11:58:18 +0000",
-      "summary": "American Patriarch: The Life of George Washington by H. W. Brands (New York, NY: Doubleday, 2026) $40.00 hardcover. The prolific historian H. W. Brands has added to his Revolutionary Era portfolio (previous books include Founding Partisans, Heirs of the Founders and Our First Civil War) with his biography of His Excellency, American Patriarch: The Life […]\nThe post American Patriarch: The Life of George Washington by H. W. Brands appeared first on Journal of the American Revolution.",
-      "url": "https://allthingsliberty.com/2026/09/american-patriarch-the-life-of-george-washington-by-h-w-brands/"
     },
     {
       "category": "History",
