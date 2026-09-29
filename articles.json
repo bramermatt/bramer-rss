@@ -1,38 +1,110 @@
 {
-  "lastUpdated": "2026-09-28T17:54:14.551Z",
+  "lastUpdated": "2026-09-29T01:22:29.481Z",
   "articleCount": 36,
   "articles": [
     {
       "category": "Science",
-      "title": "New model explains why glass becomes less transparent to terahertz light",
+      "title": "Study across 40 countries: Political activism linked to representation",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Mon, 28 Sep 2026 13:47:23 EDT",
-      "summary": "Electromagnetic waves in the gigahertz (GHz) range, such as those used in mobile communications, can readily pass through many types of glass. However, transmission decreases significantly at terahertz frequencies above a characteristic threshold.",
-      "url": "https://phys.org/news/2026-09-glass-transparent-terahertz.html"
+      "date": "Mon, 28 Sep 2026 21:00:01 EDT",
+      "summary": "Not happy with the election result? Don't worry. Election Day is not the only opportunity to influence politics.",
+      "url": "https://phys.org/news/2026-09-countries-political-linked-representation.html"
     },
     {
       "category": "AI",
-      "title": "F1 in Azerbaijan: That was almost a close-run thing",
+      "title": "OpenAI Says It Will Not Release Newest A.I. Model Over Safety Concerns",
+      "source": "Hacker News: Front Page",
+      "date": "Tue, 29 Sep 2026 00:34:27 +0000",
+      "summary": "Article URL: https://www.nytimes.com/2026/09/28/technology/openai-astra-safety.html\nComments URL: https://news.ycombinator.com/item?id=49886416\nPoints: 20\n# Comments: 10",
+      "url": "https://www.nytimes.com/2026/09/28/technology/openai-astra-safety.html"
+    },
+    {
+      "category": "Science",
+      "title": "How Bolsonaro's statements destroyed the rainforest",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Mon, 28 Sep 2026 20:20:01 EDT",
+      "summary": "Former Brazilian President Jair Bolsonaro contributed to deforestation through statements opposing forest conservation, according to an international study led by the University of Bonn. The study found that destruction of the Amazon rainforest accelerated when Bolsonaro and his ministers posted messages opposing forest conservation on Twitter. Brazil's environmental authorities were greatly weakened during Bolsonaro's presidency, but the analysis suggests that even a perceived low risk of punishment was a driver of deforestation. The researchers estimate that the statements contributed to the destruction of up to 1,700 square kilometers (660 square miles) of forest—almost double the area of Berlin. The results were published in The Journal of Politics.",
+      "url": "https://phys.org/news/2026-09-bolsonaro-statements-destroyed-rainforest.html"
+    },
+    {
+      "category": "AI",
+      "title": "Humanos – Help Building the Human Operating System",
+      "source": "Hacker News: Front Page",
+      "date": "Tue, 29 Sep 2026 00:12:25 +0000",
+      "summary": "Article URL: https://tryhumanos.com\nComments URL: https://news.ycombinator.com/item?id=49886247\nPoints: 4\n# Comments: 3",
+      "url": "https://tryhumanos.com"
+    },
+    {
+      "category": "AI",
+      "title": "1996 chat room simulator connected to Win95 and System 7 web desktops",
+      "source": "Hacker News: Front Page",
+      "date": "Tue, 29 Sep 2026 00:06:48 +0000",
+      "summary": "Article URL: https://lolchat.rip/\nComments URL: https://news.ycombinator.com/item?id=49886195\nPoints: 8\n# Comments: 3",
+      "url": "https://lolchat.rip/"
+    },
+    {
+      "category": "Science",
+      "title": "When microbial DNA is scarce, new profiling method helps separate genuine signals from contamination",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Mon, 28 Sep 2026 20:00:01 EDT",
+      "summary": "In acute, life-threatening infections, rapidly characterizing the microorganisms in a patient sample can help guide diagnosis and treatment. Computational methods known as taxonomic profilers can analyze metagenome sequencing data generated from the microorganisms' genomic information and compare it with reference genomes of individual microorganisms. However, taxonomic profilers are still under development and are not yet in common use. Current methods can produce false-positive results or inaccurate abundance estimates.",
+      "url": "https://phys.org/news/2026-09-microbial-dna-scarce-profiling-method.html"
+    },
+    {
+      "category": "Space",
+      "title": "October’s Night Sky Notes: Spooky Stargazing",
+      "source": "NASA",
+      "date": "Mon, 28 Sep 2026 22:48:56 +0000",
+      "summary": "The Ghoul Located within the constellation Perseus lies a star called Algol, also known as ‘Demon Star’ or ‘The Ghoul’. You can spot this star during the autumn months, along with Cassiopeia and Andromeda in the northeastern sky, beginning after 9 PM. In Greek mythology, this star represents the ‘blinking eye’ of the gorgon Medusa. […]",
+      "url": "https://science.nasa.gov/solar-system/skywatching/night-sky-network/spooky-stargazing/"
+    },
+    {
+      "category": "AI",
+      "title": "Boeing \"incredibly excited\" to serve as nation's only astronaut transportation",
       "source": "Ars Technica - All content",
-      "date": "Mon, 28 Sep 2026 17:41:35 +0000",
-      "summary": "Kimi Antonelli could not repeat his Monza magic after a crash in qualifying.",
-      "url": "https://arstechnica.com/cars/2026/09/f1-in-azerbaijan-that-was-almost-a-close-run-thing/"
+      "date": "Mon, 28 Sep 2026 22:24:33 +0000",
+      "summary": "\"We couldn't provide detailed pricing to the CLD suppliers.\"",
+      "url": "https://arstechnica.com/space/2026/09/boeing-incredibly-excited-to-serve-as-nations-only-astronaut-transportation/"
+    },
+    {
+      "category": "AI",
+      "title": "Experts worry about Nvidia's AI chip sales in China and influence over Trump",
+      "source": "Ars Technica - All content",
+      "date": "Mon, 28 Sep 2026 21:49:10 +0000",
+      "summary": "China is reportedly mulling letting ByteDance, Alibaba buy banned Nvidia chips.",
+      "url": "https://arstechnica.com/tech-policy/2026/09/nvidia-may-sell-more-chips-in-china-as-jensen-huangs-influence-over-trump-grows/"
+    },
+    {
+      "category": "AI",
+      "title": "SpaceX's Starship goes orbital, deploying first next-gen Starlinks",
+      "source": "Ars Technica - All content",
+      "date": "Mon, 28 Sep 2026 21:26:19 +0000",
+      "summary": "Starship had already flown 99 percent of the way to low-Earth orbit. Monday's flight added the last bit.",
+      "url": "https://arstechnica.com/space/2026/09/starships-first-orbital-launch-gives-lift-to-spacexs-next-gen-starlinks/"
     },
     {
       "category": "Science",
-      "title": "Scientists find lunar 'magnetic fossil' in Chang'e-6 samples",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Mon, 28 Sep 2026 13:40:10 EDT",
-      "summary": "The moon no longer has a global magnetic field, but lunar rocks and soils still contain records of ancient magnetism. Studying the magnetic minerals in these samples can help scientists understand how the moon's magnetic field evolved over time.",
-      "url": "https://phys.org/news/2026-09-scientists-lunar-magnetic-fossil-samples.html"
+      "title": " 'Listen, father!': 1,700-year-old tomb discovered in Egypt contains a poem in ancient Greek and spells to protect the dead ",
+      "source": " Latest from Live Science ",
+      "date": "Mon, 28 Sep 2026 19:44:23 +0000",
+      "summary": "A tomb dating back to the time the Romans controlled Egypt contains a funerary poem in ancient Greek.",
+      "url": "https://www.livescience.com/archaeology/ancient-egyptians/listen-father-1-700-year-old-tomb-discovered-in-egypt-contains-a-poem-in-ancient-greek-and-spells-to-protect-the-dead"
     },
     {
-      "category": "Science",
-      "title": "Neuroproteins are potential diagnostic tool for sick foals",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Mon, 28 Sep 2026 13:40:06 EDT",
-      "summary": "Researchers from North Carolina State University have found that blood serum concentrations of neuroproteins and neurosteroids are associated with neonatal maladjustment syndrome (NMS) in newborn foals. The work could lead to better diagnostic tools and potential therapies.",
-      "url": "https://phys.org/news/2026-09-neuroproteins-potential-diagnostic-tool-sick.html"
+      "category": "Space",
+      "title": "NASA, Boeing Share Update on Commercial Starliner Development Plans",
+      "source": "NASA",
+      "date": "Mon, 28 Sep 2026 19:26:57 +0000",
+      "summary": "On Monday, NASA and Boeing provided an update on the company’s Starliner spacecraft, including adding additional crew missions and certifying a new rocket for crew transportation to low Earth orbit. “We are living through the most exciting era of space exploration since Apollo,” said NASA Administrator Jared Isaacman. “As this domain continues to open, there […]",
+      "url": "https://www.nasa.gov/news-release/nasa-boeing-share-update-on-commercial-starliner-development-plans/"
+    },
+    {
+      "category": "Space",
+      "title": "NASA Armstrong Celebrates 80 Years of Flight Innovation",
+      "source": "NASA",
+      "date": "Mon, 28 Sep 2026 19:20:01 +0000",
+      "summary": "On Sept. 30, 1946, five National Advisory Committee of Aeronautics (NACA) engineers arrived at Muroc Army Airfield in California’s high desert to achieve supersonic flight for the first time. In less than two years, NACA flew the X-1 aircraft faster than the speed of sound, marking an important milestone in aviation history. Fast forward 80 […]",
+      "url": "https://www.nasa.gov/news-release/nasa-armstrong-celebrates-80-years-of-flight-innovation/"
     },
     {
       "category": "Science",
@@ -43,84 +115,12 @@
       "url": "https://www.livescience.com/space/space-exploration/spacexs-starship-reaches-orbit-for-the-first-time-then-returns-early-and-blows-up-in-a-fiery-explosion"
     },
     {
-      "category": "AI",
-      "title": "OpenAI still doesn't seem to have a handle on all of its rogue AI activity",
-      "source": "Hacker News: Front Page",
-      "date": "Mon, 28 Sep 2026 17:33:34 +0000",
-      "summary": "Article URL: https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/\nComments URL: https://news.ycombinator.com/item?id=49881484\nPoints: 5\n# Comments: 0",
-      "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/"
-    },
-    {
-      "category": "AI",
-      "title": "How Pew Research Center is – and is not – using AI in our work",
-      "source": "Hacker News: Front Page",
-      "date": "Mon, 28 Sep 2026 17:08:06 +0000",
-      "summary": "Article URL: https://www.pewresearch.org/decoded/2026/09/28/how-pew-research-center-is-and-is-not-using-ai-in-our-work-2/\nComments URL: https://news.ycombinator.com/item?id=49881135\nPoints: 9\n# Comments: 2",
-      "url": "https://www.pewresearch.org/decoded/2026/09/28/how-pew-research-center-is-and-is-not-using-ai-in-our-work-2/"
-    },
-    {
-      "category": "AI",
-      "title": "Driver Ticketed for No Insurance Just Because Flock (YC 2017) Said She Didn't",
-      "source": "Hacker News: Front Page",
-      "date": "Mon, 28 Sep 2026 16:58:25 +0000",
-      "summary": "Article URL: https://www.techdirt.com/2026/09/28/driver-ticketed-for-no-insurance-despite-having-insurance-just-because-flock-said-she-didnt/\nComments URL: https://news.ycombinator.com/item?id=49880992\nPoints: 27\n# Comments: 3",
-      "url": "https://www.techdirt.com/2026/09/28/driver-ticketed-for-no-insurance-despite-having-insurance-just-because-flock-said-she-didnt/"
-    },
-    {
-      "category": "AI",
-      "title": "OpenAI halts frontier-model training amid string of agent misalignment incidents",
-      "source": "Ars Technica - All content",
-      "date": "Mon, 28 Sep 2026 16:43:18 +0000",
-      "summary": "US Government websites among \"dozens of third parties\" OpenAI has recently notified.",
-      "url": "https://arstechnica.com/ai/2026/09/openai-halts-frontier-model-training-amid-string-of-agent-misalignment-incidents/"
-    },
-    {
-      "category": "Space",
-      "title": "NASA Celebrates as Artemis Accords Surpasses 75 Signatories ",
-      "source": "NASA",
-      "date": "Mon, 28 Sep 2026 16:26:45 +0000",
-      "summary": "Marking a significant expansion in the number of signatories to the Artemis Accords, NASA welcomed Albania, Croatia, Côte d’Ivoire, and San Marino, bringing total participation to 76 countries.  “Our momentum reflects a growing commitment to peaceful, responsible exploration and a shared understanding that the future in space will be shaped by those willing to lead,” […]",
-      "url": "https://www.nasa.gov/news-release/nasa-celebrates-as-artemis-accords-surpasses-75-signatories/"
-    },
-    {
       "category": "Science",
       "title": " US Cold War-era spy satellite explodes above Earth — and nobody knows why ",
       "source": " Latest from Live Science ",
       "date": "Mon, 28 Sep 2026 16:19:28 +0000",
       "summary": "The defunct USA 32 (or Farrah III) satellite, which launched in 1988, broke apart without warning on Sept. 13, around 480 miles above Earth's surface. Experts are still unsure what caused this sudden fragmentation, how many pieces it created, or how the debris might impact other nearby spacecraft.",
       "url": "https://www.livescience.com/space/space-exploration/an-american-cold-war-era-spy-satellite-just-exploded-above-earth-and-nobody-knows-why"
-    },
-    {
-      "category": "Space",
-      "title": "Meet NASA’s Artemis II Crew During Houston Public Event",
-      "source": "NASA",
-      "date": "Mon, 28 Sep 2026 16:16:40 +0000",
-      "summary": "The four astronauts of NASA’s Artemis II mission will participate in an event hosted by industry and community partners at the University of Houston to discuss their mission around the Moon aboard the Orion spacecraft. It will be the first event in Houston for the public following their lunar mission earlier this year and marks […]",
-      "url": "https://www.nasa.gov/news-release/meet-nasas-artemis-ii-crew-during-houston-public-event/"
-    },
-    {
-      "category": "Space",
-      "title": "What You Need to Know About NASA’s SpaceX Crew-13 Mission",
-      "source": "NASA",
-      "date": "Mon, 28 Sep 2026 16:09:09 +0000",
-      "summary": "Four crew members are set to launch to the International Space Station as part of NASA’s SpaceX Crew-13 mission to perform research, technology demonstrations, and maintenance aboard the orbiting laboratory.",
-      "url": "https://www.nasa.gov/missions/station/commercial-crew/what-you-need-to-know-about-nasas-spacex-crew-13-mission/"
-    },
-    {
-      "category": "AI",
-      "title": "NASA, for the time being, is unable to move the space station's large robotic arm",
-      "source": "Ars Technica - All content",
-      "date": "Mon, 28 Sep 2026 16:03:50 +0000",
-      "summary": "NASA isn't saying much. The problem may be temporary.",
-      "url": "https://arstechnica.com/space/2026/09/nasa-for-the-time-being-is-unable-to-move-the-space-stations-large-robotic-armthe-large-robotic-arm-on-the-international-space-station-has-stopped-working/"
-    },
-    {
-      "category": "Science",
-      "title": " 'It is something we must know before we go where no man has gone before': Readers react to NASA's Roman telescope mission ",
-      "source": " Latest from Live Science ",
-      "date": "Mon, 28 Sep 2026 15:47:51 +0000",
-      "summary": "NASA's Nancy Grace Roman Space Telescope is about to begin scanning our universe as it journeys through space. Live Science readers shared their thoughts about what they're most excited to see from the new space telescope.",
-      "url": "https://www.livescience.com/space/astronomy/it-is-something-we-must-know-before-we-go-where-no-man-has-gone-before-readers-react-to-nasas-roman-telescope-mission"
     },
     {
       "category": "Science",
@@ -203,20 +203,28 @@
       "url": "https://www.sciencedaily.com/releases/2026/09/260927225041.htm"
     },
     {
+      "category": "AI",
+      "title": "Are you a Codex Original?",
+      "source": "OpenAI News",
+      "date": "Mon, 28 Sep 2026 00:00:00 GMT",
+      "summary": "We’re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things. If you want to be a part of the next chapter of the Codex Originals program, tell us more about your story and project below.",
+      "url": "https://openai.com/form/codex-originals"
+    },
+    {
+      "category": "AI",
+      "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
+      "source": "OpenAI News",
+      "date": "Mon, 28 Sep 2026 00:00:00 GMT",
+      "summary": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use.",
+      "url": "https://openai.com/index/basis-tax-workbook-with-astra"
+    },
+    {
       "category": "Biblical Studies",
       "title": "The Origin of Christianity",
       "source": "Biblical Archaeology Society",
       "date": "Sun, 27 Sep 2026 11:00:03 +0000",
       "summary": "Geza Vermes explores the origin of Christianity by examining the characteristics of the Jewish Jesus movement to see how it developed into a distinctly gentile religion.\nThe post The Origin of Christianity appeared first on Biblical Archaeology Society.",
       "url": "https://www.biblicalarchaeology.org/daily/biblical-topics/new-testament/the-origin-of-christianity/"
-    },
-    {
-      "category": "AI",
-      "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
-      "source": "OpenAI News",
-      "date": "Fri, 25 Sep 2026 19:00:00 GMT",
-      "summary": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.",
-      "url": "https://openai.com/index/proaction"
     },
     {
       "category": "Theology",
@@ -241,14 +249,6 @@
       "date": "Thu, 24 Sep 2026 09:00:54 +0000",
       "summary": "On October 13, 1775, Congress resolved to buy four merchant ships and convert them to warships. Three more ships were soon acquired. A naval committee was established. The Continental Navy was created. On December 11 Congress authorized a new committee to devise ways and means of developing the navy. A member of the congress from […]\nThe post The Long, Sad Life of the Continental Frigate <i>Delaware</i> appeared first on Journal of the American Revolution.",
       "url": "https://allthingsliberty.com/2026/09/the-long-sad-life-of-the-continental-frigate-delaware/"
-    },
-    {
-      "category": "AI",
-      "title": "Two years of OpenAI Academy",
-      "source": "OpenAI News",
-      "date": "Wed, 23 Sep 2026 16:00:00 GMT",
-      "summary": "Marking two years of OpenAI Academy and bringing AI skills to even more communities.",
-      "url": "https://openai.com/index/two-years-of-openai-academy"
     },
     {
       "category": "Theology",
