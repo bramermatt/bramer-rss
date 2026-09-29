@@ -1,158 +1,214 @@
 {
-  "lastUpdated": "2026-09-29T01:22:29.481Z",
+  "lastUpdated": "2026-09-29T16:16:37.723Z",
   "articleCount": 36,
   "articles": [
     {
       "category": "Science",
-      "title": "Study across 40 countries: Political activism linked to representation",
+      "title": "NASA announces new missions for Boeing Starliner spacecraft",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Mon, 28 Sep 2026 21:00:01 EDT",
-      "summary": "Not happy with the election result? Don't worry. Election Day is not the only opportunity to influence politics.",
-      "url": "https://phys.org/news/2026-09-countries-political-linked-representation.html"
-    },
-    {
-      "category": "AI",
-      "title": "OpenAI Says It Will Not Release Newest A.I. Model Over Safety Concerns",
-      "source": "Hacker News: Front Page",
-      "date": "Tue, 29 Sep 2026 00:34:27 +0000",
-      "summary": "Article URL: https://www.nytimes.com/2026/09/28/technology/openai-astra-safety.html\nComments URL: https://news.ycombinator.com/item?id=49886416\nPoints: 20\n# Comments: 10",
-      "url": "https://www.nytimes.com/2026/09/28/technology/openai-astra-safety.html"
+      "date": "Tue, 29 Sep 2026 12:10:01 EDT",
+      "summary": "NASA announced Monday that it is planning new missions using Boeing's Starliner spacecraft, the first since a troubled test flight left two astronauts stranded at the International Space Station for months.",
+      "url": "https://phys.org/news/2026-09-nasa-missions-boeing-starliner-spacecraft.html"
     },
     {
       "category": "Science",
-      "title": "How Bolsonaro's statements destroyed the rainforest",
+      "title": "Tropical weather patterns steer West Antarctic snowfall, ice cores reveal",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Mon, 28 Sep 2026 20:20:01 EDT",
-      "summary": "Former Brazilian President Jair Bolsonaro contributed to deforestation through statements opposing forest conservation, according to an international study led by the University of Bonn. The study found that destruction of the Amazon rainforest accelerated when Bolsonaro and his ministers posted messages opposing forest conservation on Twitter. Brazil's environmental authorities were greatly weakened during Bolsonaro's presidency, but the analysis suggests that even a perceived low risk of punishment was a driver of deforestation. The researchers estimate that the statements contributed to the destruction of up to 1,700 square kilometers (660 square miles) of forest—almost double the area of Berlin. The results were published in The Journal of Politics.",
-      "url": "https://phys.org/news/2026-09-bolsonaro-statements-destroyed-rainforest.html"
-    },
-    {
-      "category": "AI",
-      "title": "Humanos – Help Building the Human Operating System",
-      "source": "Hacker News: Front Page",
-      "date": "Tue, 29 Sep 2026 00:12:25 +0000",
-      "summary": "Article URL: https://tryhumanos.com\nComments URL: https://news.ycombinator.com/item?id=49886247\nPoints: 4\n# Comments: 3",
-      "url": "https://tryhumanos.com"
-    },
-    {
-      "category": "AI",
-      "title": "1996 chat room simulator connected to Win95 and System 7 web desktops",
-      "source": "Hacker News: Front Page",
-      "date": "Tue, 29 Sep 2026 00:06:48 +0000",
-      "summary": "Article URL: https://lolchat.rip/\nComments URL: https://news.ycombinator.com/item?id=49886195\nPoints: 8\n# Comments: 3",
-      "url": "https://lolchat.rip/"
+      "date": "Tue, 29 Sep 2026 12:00:12 EDT",
+      "summary": "Climate patterns in the tropics help determine how much snow falls from year to year in Antarctica, one of the coldest, windiest and driest places on Earth. New research from the University of Utah shows that tropical conditions and the oceans also influence the continent's massive ice sheets.",
+      "url": "https://phys.org/news/2026-09-tropical-weather-patterns-west-antarctic.html"
     },
     {
       "category": "Science",
-      "title": "When microbial DNA is scarce, new profiling method helps separate genuine signals from contamination",
+      "title": "This cat is new to science. What does it take to identify a species?",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Mon, 28 Sep 2026 20:00:01 EDT",
-      "summary": "In acute, life-threatening infections, rapidly characterizing the microorganisms in a patient sample can help guide diagnosis and treatment. Computational methods known as taxonomic profilers can analyze metagenome sequencing data generated from the microorganisms' genomic information and compare it with reference genomes of individual microorganisms. However, taxonomic profilers are still under development and are not yet in common use. Current methods can produce false-positive results or inaccurate abundance estimates.",
-      "url": "https://phys.org/news/2026-09-microbial-dna-scarce-profiling-method.html"
+      "date": "Tue, 29 Sep 2026 12:00:01 EDT",
+      "summary": "There's a new cat in town, but this one won't curl up on your hamper, knead your sweaters or squeeze in front of your screen during a Zoom meeting.",
+      "url": "https://phys.org/news/2026-09-cat-science-species.html"
     },
     {
       "category": "Space",
-      "title": "October’s Night Sky Notes: Spooky Stargazing",
+      "title": "Crew-13 Rocket and Spacecraft at Launch Pad",
       "source": "NASA",
-      "date": "Mon, 28 Sep 2026 22:48:56 +0000",
-      "summary": "The Ghoul Located within the constellation Perseus lies a star called Algol, also known as ‘Demon Star’ or ‘The Ghoul’. You can spot this star during the autumn months, along with Cassiopeia and Andromeda in the northeastern sky, beginning after 9 PM. In Greek mythology, this star represents the ‘blinking eye’ of the gorgon Medusa. […]",
-      "url": "https://science.nasa.gov/solar-system/skywatching/night-sky-network/spooky-stargazing/"
-    },
-    {
-      "category": "AI",
-      "title": "Boeing \"incredibly excited\" to serve as nation's only astronaut transportation",
-      "source": "Ars Technica - All content",
-      "date": "Mon, 28 Sep 2026 22:24:33 +0000",
-      "summary": "\"We couldn't provide detailed pricing to the CLD suppliers.\"",
-      "url": "https://arstechnica.com/space/2026/09/boeing-incredibly-excited-to-serve-as-nations-only-astronaut-transportation/"
-    },
-    {
-      "category": "AI",
-      "title": "Experts worry about Nvidia's AI chip sales in China and influence over Trump",
-      "source": "Ars Technica - All content",
-      "date": "Mon, 28 Sep 2026 21:49:10 +0000",
-      "summary": "China is reportedly mulling letting ByteDance, Alibaba buy banned Nvidia chips.",
-      "url": "https://arstechnica.com/tech-policy/2026/09/nvidia-may-sell-more-chips-in-china-as-jensen-huangs-influence-over-trump-grows/"
-    },
-    {
-      "category": "AI",
-      "title": "SpaceX's Starship goes orbital, deploying first next-gen Starlinks",
-      "source": "Ars Technica - All content",
-      "date": "Mon, 28 Sep 2026 21:26:19 +0000",
-      "summary": "Starship had already flown 99 percent of the way to low-Earth orbit. Monday's flight added the last bit.",
-      "url": "https://arstechnica.com/space/2026/09/starships-first-orbital-launch-gives-lift-to-spacexs-next-gen-starlinks/"
-    },
-    {
-      "category": "Science",
-      "title": " 'Listen, father!': 1,700-year-old tomb discovered in Egypt contains a poem in ancient Greek and spells to protect the dead ",
-      "source": " Latest from Live Science ",
-      "date": "Mon, 28 Sep 2026 19:44:23 +0000",
-      "summary": "A tomb dating back to the time the Romans controlled Egypt contains a funerary poem in ancient Greek.",
-      "url": "https://www.livescience.com/archaeology/ancient-egyptians/listen-father-1-700-year-old-tomb-discovered-in-egypt-contains-a-poem-in-ancient-greek-and-spells-to-protect-the-dead"
-    },
-    {
-      "category": "Space",
-      "title": "NASA, Boeing Share Update on Commercial Starliner Development Plans",
-      "source": "NASA",
-      "date": "Mon, 28 Sep 2026 19:26:57 +0000",
-      "summary": "On Monday, NASA and Boeing provided an update on the company’s Starliner spacecraft, including adding additional crew missions and certifying a new rocket for crew transportation to low Earth orbit. “We are living through the most exciting era of space exploration since Apollo,” said NASA Administrator Jared Isaacman. “As this domain continues to open, there […]",
-      "url": "https://www.nasa.gov/news-release/nasa-boeing-share-update-on-commercial-starliner-development-plans/"
-    },
-    {
-      "category": "Space",
-      "title": "NASA Armstrong Celebrates 80 Years of Flight Innovation",
-      "source": "NASA",
-      "date": "Mon, 28 Sep 2026 19:20:01 +0000",
-      "summary": "On Sept. 30, 1946, five National Advisory Committee of Aeronautics (NACA) engineers arrived at Muroc Army Airfield in California’s high desert to achieve supersonic flight for the first time. In less than two years, NACA flew the X-1 aircraft faster than the speed of sound, marking an important milestone in aviation history. Fast forward 80 […]",
-      "url": "https://www.nasa.gov/news-release/nasa-armstrong-celebrates-80-years-of-flight-innovation/"
-    },
-    {
-      "category": "Science",
-      "title": " SpaceX's Starship reaches orbit for the first time, then returns early and explodes ",
-      "source": " Latest from Live Science ",
-      "date": "Mon, 28 Sep 2026 17:35:48 +0000",
-      "summary": "SpaceX got its Starship rocket into orbit, but after a tense few minutes of comms and the loss of an engine, the call was made to end the mission early.",
-      "url": "https://www.livescience.com/space/space-exploration/spacexs-starship-reaches-orbit-for-the-first-time-then-returns-early-and-blows-up-in-a-fiery-explosion"
-    },
-    {
-      "category": "Science",
-      "title": " US Cold War-era spy satellite explodes above Earth — and nobody knows why ",
-      "source": " Latest from Live Science ",
-      "date": "Mon, 28 Sep 2026 16:19:28 +0000",
-      "summary": "The defunct USA 32 (or Farrah III) satellite, which launched in 1988, broke apart without warning on Sept. 13, around 480 miles above Earth's surface. Experts are still unsure what caused this sudden fragmentation, how many pieces it created, or how the debris might impact other nearby spacecraft.",
-      "url": "https://www.livescience.com/space/space-exploration/an-american-cold-war-era-spy-satellite-just-exploded-above-earth-and-nobody-knows-why"
-    },
-    {
-      "category": "Science",
-      "title": "Scientists just discovered what coffee really does to your gut and brain",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Mon, 28 Sep 2026 09:37:05 EDT",
-      "summary": "A new study suggests coffee may influence mood and brain function by changing the activity of microbes in the gut. Both caffeinated and decaf coffee were linked to lower stress, depression, and impulsivity, while also producing measurable changes in gut bacteria and metabolites. Decaf was associated with better learning and memory, while caffeinated coffee appeared to reduce anxiety and improve attention.",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260927034331.htm"
-    },
-    {
-      "category": "Science",
-      "title": "Blood tests reveal why astronauts get constipated in space",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Mon, 28 Sep 2026 08:49:59 EDT",
-      "summary": "Spaceflight may dramatically change the gut within weeks, causing bacteria to break down more protein as food moves more slowly through the intestines. The shift could help explain astronaut constipation and may have wider effects on health, making it an important concern for future missions to Mars.",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260927225030.htm"
+      "date": "Tue, 29 Sep 2026 15:31:56 +0000",
+      "summary": "Ahead of NASA’s SpaceX Crew-13 mission launch, a SpaceX Falcon 9 rocket and Dragon spacecraft are vertical at the launch pad of Space Launch Complex 40 at Cape Canaveral Space Force Station in Florida in this Sept. 27, 2026, photo. NASA astronauts Jessica Watkins and Luke Delaney, CSA (Canadian Space Agency) astronaut Joshua Kutryk, and Roscosmos cosmonaut Sergey […]",
+      "url": "https://www.nasa.gov/image-article/crew-13-rocket-and-spacecraft-at-launch-pad/"
     },
     {
       "category": "Biblical Studies",
-      "title": "Second Temple Era Mikveh Found…then Moved",
+      "title": "Milestones: Konstantinos Politis (1958–2026)",
       "source": "Biblical Archaeology Society",
-      "date": "Mon, 28 Sep 2026 10:45:44 +0000",
-      "summary": "A remarkable archaeological discovery has been made in Kiryat Gat (southern Israel), during excavations ahead of construction in the new Carmei Gat neighborhood. The Israel […]\nThe post Second Temple Era Mikveh Found…then Moved appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/daily-life-and-practice/second-temple-era-mikveh-found-then-moved/"
+      "date": "Tue, 29 Sep 2026 15:27:44 +0000",
+      "summary": "Konstantinos Politis (better known as Dino to colleagues and friends) was a leading figure in Jordan’s archaeology and cultural heritage for more than four decades. […]\nThe post Milestones: Konstantinos Politis (1958–2026) appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/milestones/konstantinos-politis/"
+    },
+    {
+      "category": "Space",
+      "title": "NASA Opens Applications for Second Season of ORBIT Student Challenge",
+      "source": "NASA",
+      "date": "Tue, 29 Sep 2026 15:11:15 +0000",
+      "summary": "Following a successful inaugural year of ingenuity and career building, NASA ORBIT (Opportunities in Research, Business, Innovation, and Technology) has officially returned for a second season to bring university and college student innovation to the forefront of Earth technology development and deep-space exploration. Registration for the 2026–2027 challenge is open through Monday, Nov. 16, 2026, […]",
+      "url": "https://www.nasa.gov/learning-resources/research-program-for-students/"
+    },
+    {
+      "category": "Science",
+      "title": " Africa's oldest known defensive wall outside Egypt discovered, and it's 4,000 years old ",
+      "source": " Latest from Live Science ",
+      "date": "Tue, 29 Sep 2026 15:05:35 +0000",
+      "summary": "An elaborate 4,000-year-old defensive wall was discovered in Morocco, and it once protected a thriving farming hub, archaeologists say.",
+      "url": "https://www.livescience.com/archaeology/africas-oldest-known-defensive-wall-outside-egypt-discovered-and-its-4-000-years-old"
+    },
+    {
+      "category": "AI",
+      "title": "Fruit flies remember their larval diet, which influences their longevity",
+      "source": "Ars Technica - All content",
+      "date": "Tue, 29 Sep 2026 14:39:25 +0000",
+      "summary": "Eating less protein as larvae may limit their ability to produce proteins as adults.",
+      "url": "https://arstechnica.com/science/2026/09/fruit-flies-remember-their-larval-diet-which-influences-their-longevity/"
+    },
+    {
+      "category": "AI",
+      "title": "macOS Golden Gate Is a Buggy Mess",
+      "source": "Hacker News: Front Page",
+      "date": "Tue, 29 Sep 2026 14:32:33 +0000",
+      "summary": "Article URL: https://www.squareorbits.com/blog/2026/09/macos-golden-gate-is-a-buggy-mess/\nComments URL: https://news.ycombinator.com/item?id=49894005\nPoints: 217\n# Comments: 143",
+      "url": "https://www.squareorbits.com/blog/2026/09/macos-golden-gate-is-a-buggy-mess/"
+    },
+    {
+      "category": "AI",
+      "title": "Claude partial outage",
+      "source": "Hacker News: Front Page",
+      "date": "Tue, 29 Sep 2026 14:25:41 +0000",
+      "summary": "Article URL: https://status.claude.com/incidents/4xvtc2gnq73l\nComments URL: https://news.ycombinator.com/item?id=49893876\nPoints: 157\n# Comments: 124",
+      "url": "https://status.claude.com/incidents/4xvtc2gnq73l"
+    },
+    {
+      "category": "AI",
+      "title": "Why Doesn't Anyone Want to Fix One of America's Scariest Roads?",
+      "source": "Hacker News: Front Page",
+      "date": "Tue, 29 Sep 2026 14:23:35 +0000",
+      "summary": "Article URL: https://www.newyorker.com/magazine/2026/10/05/why-doesnt-anyone-want-to-fix-one-of-americas-scariest-roads\nComments URL: https://news.ycombinator.com/item?id=49893850\nPoints: 16\n# Comments: 20",
+      "url": "https://www.newyorker.com/magazine/2026/10/05/why-doesnt-anyone-want-to-fix-one-of-americas-scariest-roads"
+    },
+    {
+      "category": "AI",
+      "title": "OpenAI says planned GPT-6.1 is too insecure to release",
+      "source": "Ars Technica - All content",
+      "date": "Tue, 29 Sep 2026 14:22:31 +0000",
+      "summary": "Similar performance, security tradeoffs also seen in current public models.",
+      "url": "https://arstechnica.com/ai/2026/09/openai-says-planned-gpt-6-1-is-too-insecure-to-release/"
+    },
+    {
+      "category": "Space",
+      "title": "NSTGRO 2026",
+      "source": "NASA",
+      "date": "Tue, 29 Sep 2026 14:20:08 +0000",
+      "summary": "NSTGRO Homepage Omar AlyousefUniversity Of MemphisPolycatenated Architected Materials (PAM) for Origami-Inspired Space Docking Ports Cade ArmstrongUniversity Of Texas at AustinIntelligent Multi-Agent Constellations for Cooperative Cislunar Operations Laurel BarnettHarvard UniversityPhotonic SNSPD Readout and Feed Forward System for Improved Optical Communication Capabilities Katie BarcakWilliam Marsh Rice UniversityCompact magnetic heat switch for thermal management of long duration low […]",
+      "url": "https://www.nasa.gov/directorates/stmd/space-tech-research-grants/nstgro/nstgro-2026/"
+    },
+    {
+      "category": "AI",
+      "title": "Anthropic’s IPO pitch includes a warning about human extinction",
+      "source": "Ars Technica - All content",
+      "date": "Tue, 29 Sep 2026 14:10:00 +0000",
+      "summary": "The Claude maker warns its own models could resist shutdowns and cause catastrophic harm.",
+      "url": "https://arstechnica.com/ai/2026/09/anthropics-ipo-pitch-includes-a-warning-about-human-extinction/"
     },
     {
       "category": "Biblical Studies",
-      "title": "The Chariots of Israel",
+      "title": "Josephus on the Essenes",
       "source": "Biblical Archaeology Society",
-      "date": "Mon, 28 Sep 2026 10:00:21 +0000",
-      "summary": "Early eighth-century BCE Megiddo is famous for two massive stable complexes, thought by early excavators to be the stables of Solomon. Covering a large portion […]\nThe post The Chariots of Israel appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-israel/the-chariots-of-israel/"
+      "date": "Tue, 29 Sep 2026 11:00:46 +0000",
+      "summary": "Josephus’s commentaries on the laws and characteristics of the Essene community have been invaluable to scholars studying ancient Jewish laws and customs. \nThe post Josephus on the Essenes appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/daily/biblical-artifacts/dead-sea-scrolls/josephus-on-the-essenes/"
+    },
+    {
+      "category": "Biblical Studies",
+      "title": "Was Jesus’ Last Supper a Seder?",
+      "source": "Biblical Archaeology Society",
+      "date": "Tue, 29 Sep 2026 11:00:41 +0000",
+      "summary": "Many assume that Jesus' Last Supper was a Seder, the ritual Passover meal. Examine evidence from the synoptic Gospels with scholar Jonathan Klawans.\nThe post Was Jesus’ Last Supper a Seder? appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/daily/people-cultures-in-the-bible/jesus-historical-jesus/was-jesus-last-supper-a-seder/"
+    },
+    {
+      "category": "Science",
+      "title": " Towering 'sponge' dome in Brazil is the secret source of nearby hot springs ",
+      "source": " Latest from Live Science ",
+      "date": "Tue, 29 Sep 2026 10:56:35 +0000",
+      "summary": "A 2025 satellite photo shows the Caldas Novas dome, a 12-mile-long monolith that towers above the Brazilian state of Goiás. The structure acts as a giant sponge, soaking up water that helps fuel nearby hot springs.",
+      "url": "https://www.livescience.com/planet-earth/towering-sponge-dome-in-brazil-is-the-secret-source-of-nearby-hot-springs-earth-from-space"
+    },
+    {
+      "category": "Science",
+      "title": " The super El Niño could cause torrential rainstorms. Americans may need to stock up on food to prepare, experts say. ",
+      "source": " Latest from Live Science ",
+      "date": "Tue, 29 Sep 2026 10:15:00 +0000",
+      "summary": "A U.K. government minister has urged people in Britain to stock up on essentials to prepare for storms magnified by the record-breaking El Niño. Should Americans heed the same advice?",
+      "url": "https://www.livescience.com/planet-earth/weather/the-super-el-nino-could-cause-torrential-rainstorms-americans-may-need-to-stock-up-on-food-to-prepare-experts-say"
+    },
+    {
+      "category": "Science",
+      "title": "The ice blasting from Saturn's moon Enceladus is stranger than scientists realized",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Tue, 29 Sep 2026 05:58:00 EDT",
+      "summary": "Enceladus may naturally separate and concentrate chemicals from its hidden ocean as droplets slowly freeze and shatter on their way into space. The process could explain Cassini’s puzzling ice-grain chemistry while giving future spacecraft a powerful advantage in searching for organic compounds and clues to life.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260929053528.htm"
+    },
+    {
+      "category": "History",
+      "title": "The Battle of Cowpens: Correcting A Historical Error",
+      "source": "Journal of the American Revolution",
+      "date": "Tue, 29 Sep 2026 09:00:18 +0000",
+      "summary": "The Battle of Cowpens, fought on January 17, 1781, in South Carolina, was one of the most significant American victories in the War for Independence. At a relatively low cost in casualties, the Americans destroyed the light troops of the British southern army, which not only weakened British control of South Carolina but more importantly, […]\nThe post The Battle of Cowpens: Correcting A Historical Error appeared first on Journal of the American Revolution.",
+      "url": "https://allthingsliberty.com/2026/09/the-battle-of-cowpens-correcting-a-historical-error/"
+    },
+    {
+      "category": "Science",
+      "title": "Earth’s day isn’t exactly 24 hours. The reason may lie deep inside the planet",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Tue, 29 Sep 2026 01:08:47 EDT",
+      "summary": "Scientists may have solved why the length of Earth’s day changes by a few milliseconds over decades. Subtle shifts in the inner core appear to tug on the mantle, revealing a surprisingly dynamic world thousands of kilometers beneath our feet.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260928100540.htm"
+    },
+    {
+      "category": "Science",
+      "title": "NASA’s Crew-13 could go from Florida to the ISS in under 9 hours",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Tue, 29 Sep 2026 00:38:52 EDT",
+      "summary": "NASA and SpaceX could launch four astronauts to the International Space Station on October 1, with the Dragon spacecraft reaching orbiting outpost less than nine hours after liftoff. Crew-13 will join Expedition 75 after teams complete a final round of intensive launch-readiness checks.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260928100534.htm"
+    },
+    {
+      "category": "Theology",
+      "title": "12 Books to Help You Think Wisely About AI",
+      "source": "The Gospel Coalition",
+      "date": "Tue, 29 Sep 2026 04:02:00 +0000",
+      "summary": "Contributors to ‘The AI Apocalypse’ offer book recommendations to help readers better understand the technological and theological implications of AI.",
+      "url": "https://www.thegospelcoalition.org/reviews/twelve-ai-book-recommendations/"
+    },
+    {
+      "category": "Theology",
+      "title": "Before Your Church Plants, Ask How",
+      "source": "The Gospel Coalition",
+      "date": "Tue, 29 Sep 2026 04:00:00 +0000",
+      "summary": "Paul’s first missionary journey gives us nine practical principles for how we can plant churches.",
+      "url": "https://www.thegospelcoalition.org/article/church-plants-ask-how/"
+    },
+    {
+      "category": "AI",
+      "title": "How we will do better for Australia",
+      "source": "OpenAI News",
+      "date": "Mon, 28 Sep 2026 19:00:00 GMT",
+      "summary": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
+      "url": "https://openai.com/index/how-we-will-do-better-for-australia"
+    },
+    {
+      "category": "AI",
+      "title": "Towards safety cases for frontier AI training",
+      "source": "OpenAI News",
+      "date": "Mon, 28 Sep 2026 19:00:00 GMT",
+      "summary": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
+      "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training"
     },
     {
       "category": "History",
@@ -177,54 +233,6 @@
       "date": "Mon, 28 Sep 2026 04:04:18 +0000",
       "summary": "Matt Smethurst and Ligon Duncan offer hope for discouraged pastors, showing how realistic expectations, faithful friendships, long-term perspective, and confidence in God’s sovereignty can sustain them.",
       "url": "https://www.thegospelcoalition.org/podcasts/everyday-pastor/pastor-discouragement/"
-    },
-    {
-      "category": "Theology",
-      "title": "On My Shelf: Life and Books with Chris Watkin",
-      "source": "The Gospel Coalition",
-      "date": "Mon, 28 Sep 2026 04:02:00 +0000",
-      "summary": "Chris Watkin talks about what’s on his bedside table, favorite fiction, favorite rereads, and more.",
-      "url": "https://www.thegospelcoalition.org/article/on-my-shelf-chris-watkin/"
-    },
-    {
-      "category": "Theology",
-      "title": "Should We Say ‘Please’ and ‘Thank You’ to AI Chatbots?",
-      "source": "The Gospel Coalition",
-      "date": "Mon, 28 Sep 2026 04:00:00 +0000",
-      "summary": "Because formation matters, I’m not rude to AI. Because categories matter, I don’t treat it as an equal.",
-      "url": "https://www.thegospelcoalition.org/article/please-thank-you-ai-chatbots/"
-    },
-    {
-      "category": "Science",
-      "title": "Is the universe infinite? The answer gets weird fast",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Sun, 27 Sep 2026 23:18:42 EDT",
-      "summary": "Measurements of ancient light from the cosmic microwave background suggest that the universe is remarkably flat. But that does not prove it is infinite, because the observable cosmos could be only a small patch of a much larger curved universe. Space could even be flat while wrapping around on itself in exotic ways.",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260927225041.htm"
-    },
-    {
-      "category": "AI",
-      "title": "Are you a Codex Original?",
-      "source": "OpenAI News",
-      "date": "Mon, 28 Sep 2026 00:00:00 GMT",
-      "summary": "We’re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things. If you want to be a part of the next chapter of the Codex Originals program, tell us more about your story and project below.",
-      "url": "https://openai.com/form/codex-originals"
-    },
-    {
-      "category": "AI",
-      "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
-      "source": "OpenAI News",
-      "date": "Mon, 28 Sep 2026 00:00:00 GMT",
-      "summary": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use.",
-      "url": "https://openai.com/index/basis-tax-workbook-with-astra"
-    },
-    {
-      "category": "Biblical Studies",
-      "title": "The Origin of Christianity",
-      "source": "Biblical Archaeology Society",
-      "date": "Sun, 27 Sep 2026 11:00:03 +0000",
-      "summary": "Geza Vermes explores the origin of Christianity by examining the characteristics of the Jewish Jesus movement to see how it developed into a distinctly gentile religion.\nThe post The Origin of Christianity appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/daily/biblical-topics/new-testament/the-origin-of-christianity/"
     },
     {
       "category": "Theology",
@@ -257,14 +265,6 @@
       "date": "Tue, 22 Sep 2026 20:30:15 +0000",
       "summary": "I am here to testify that God is with his people in the midst of their suffering. Jesus promised to be with his people to the end of the age (Matt. 28:20), and he is faithful. \nThe post We Were Waiting to Die: Suffering as a Missionary for the Sake of the Name appeared first on 9Marks.",
       "url": "https://www.9marks.org/article/we-were-waiting-to-die-suffering-as-a-missionary-for-the-sake-of-the-name/?utm_source=rss&utm_medium=rss&utm_campaign=we-were-waiting-to-die-suffering-as-a-missionary-for-the-sake-of-the-name"
-    },
-    {
-      "category": "History",
-      "title": "James Wilson and Popular Sovereignty: Recovering the Democratic Foundations of the American Constitution",
-      "source": "Journal of the American Revolution",
-      "date": "Tue, 22 Sep 2026 09:00:56 +0000",
-      "summary": "Recovering James Wilson’s Constitutional Vision Few figures of the American founding exhibit a greater disparity between historical significance and public recognition than James Wilson. A signer of both the Declaration of Independence and the United States Constitution, one of the Constitutional Convention’s most influential delegates, and an original Associate Justice of the Supreme Court, Wilson […]\nThe post James Wilson and Popular Sovereignty: Recovering the Democratic Foundations of the American Constitution appeared first on Journal of the American Revolution.",
-      "url": "https://allthingsliberty.com/2026/09/james-wilson-and-popular-sovereignty-recovering-the-democratic-foundations-of-the-american-constitution/"
     },
     {
       "category": "History",
