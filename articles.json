@@ -1,46 +1,182 @@
 {
-  "lastUpdated": "2026-09-30T00:56:14.246Z",
-  "articleCount": 33,
+  "lastUpdated": "2026-09-30T16:11:18.586Z",
+  "articleCount": 36,
   "articles": [
     {
       "category": "Science",
-      "title": "Small fields, great diversity: How a diverse patchwork of crops helps birds",
+      "title": "Dark kitchens are popping up everywhere, but what are they and why does it matter?",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Tue, 29 Sep 2026 20:20:05 EDT",
-      "summary": "Birds are not only beautiful to look at and listen to; they also play important roles in nature. They eat pests and disperse seeds. They are generally considered indicators of a healthy environment. When birds thrive, soil and water quality often benefit as well. A new study published in the journal Landscape Ecology shows that growing a variety of crops in small field patches creates better habitats for birds.",
-      "url": "https://phys.org/news/2026-09-small-fields-great-diversity-diverse.html"
+      "date": "Wed, 30 Sep 2026 12:00:07 EDT",
+      "summary": "When you order food through an app, how much do you know about where you're buying it from? It could be a restaurant on the local main street or one located in a warehouse in a faraway industrial park.",
+      "url": "https://phys.org/news/2026-09-dark-kitchens.html"
     },
     {
       "category": "Science",
-      "title": "Engineered coating lets mitochondria retain their ability to produce energy",
+      "title": "Earth and Mars: Built from different cosmic recipes",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Tue, 29 Sep 2026 19:40:07 EDT",
-      "summary": "Researchers have coated mitochondria with innovative materials without compromising their function, according to a study by IRCCS Fondazione Istituto Neurologico Carlo Besta (FINCB) and Politecnico di Milano. The research was conducted as part of the BraiNs joint laboratory, inaugurated in 2023.",
-      "url": "https://phys.org/news/2026-09-coating-mitochondria-retain-ability-energy.html"
+      "date": "Wed, 30 Sep 2026 12:00:01 EDT",
+      "summary": "Four and a half billion years ago, Earth and Mars were born in the rotating cloud of gas and dust that would eventually become our solar system. Yet exactly how the planets formed remains one of the most disputed questions in planetary science.",
+      "url": "https://phys.org/news/2026-09-earth-mars-built-cosmic-recipes.html"
+    },
+    {
+      "category": "AI",
+      "title": "The AI Race Just Got Awkward",
+      "source": "Hacker News: Front Page",
+      "date": "Wed, 30 Sep 2026 15:50:11 +0000",
+      "summary": "Article URL: https://insufferable.dev/posts/the-ai-race-just-got-awkward/\nComments URL: https://news.ycombinator.com/item?id=49910553\nPoints: 6\n# Comments: 0",
+      "url": "https://insufferable.dev/posts/the-ai-race-just-got-awkward/"
     },
     {
       "category": "Science",
-      "title": "NYC delivery workers injured at more than five times national rate under intense labor control by apps, survey finds",
+      "title": "Cities across the world are sinking because of groundwater depletion, but the process can be reversed",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Tue, 29 Sep 2026 19:40:04 EDT",
-      "summary": "More than half of New York City's app-based food delivery workers have been injured on the job, and 40% meet the criteria for severe psychological distress, according to a new study from the CUNY Graduate School of Public Health and Health Policy (CUNY SPH), in partnership with the Worker's Justice Project (WJP).",
-      "url": "https://phys.org/news/2026-09-nyc-delivery-workers-national-intense.html"
+      "date": "Wed, 30 Sep 2026 11:40:10 EDT",
+      "summary": "Many cities around the world are sinking because too much water is extracted from the groundwater reservoirs beneath them. This sinking makes these coastal cities more exposed to rising seas as the climate warms. But as our new research shows, this process can work in reverse: When groundwater is replenished, cities can rise.",
+      "url": "https://phys.org/news/2026-09-cities-world-groundwater-depletion-reversed.html"
     },
     {
       "category": "AI",
-      "title": "How our vibe coded website looks like a designer made it",
+      "title": "A Brief History of the Bloomberg Terminal",
       "source": "Hacker News: Front Page",
-      "date": "Tue, 29 Sep 2026 22:59:28 +0000",
-      "summary": "Article URL: https://railcode.dev/blog/vibe-coded-website\nComments URL: https://news.ycombinator.com/item?id=49901973\nPoints: 52\n# Comments: 32",
-      "url": "https://railcode.dev/blog/vibe-coded-website"
+      "date": "Wed, 30 Sep 2026 14:34:07 +0000",
+      "summary": "Article URL: https://spectrum.ieee.org/bloomberg-terminal\nComments URL: https://news.ycombinator.com/item?id=49909583\nPoints: 17\n# Comments: 0",
+      "url": "https://spectrum.ieee.org/bloomberg-terminal"
+    },
+    {
+      "category": "Science",
+      "title": " Regular exercise reshapes the immune system at a cellular level, study suggests ",
+      "source": " Latest from Live Science ",
+      "date": "Wed, 30 Sep 2026 14:10:00 +0000",
+      "summary": "Regular exercise makes our immune cells more vigilant, potentially contributing to better long-term health, a new study finds.",
+      "url": "https://www.livescience.com/health/immune-system/regular-exercise-reshapes-the-immune-system-at-a-cellular-level-study-suggests"
     },
     {
       "category": "AI",
-      "title": "Livenerf: Has Opus 5.5 been nerfed yet?",
+      "title": "SDF vs. MSDF vs. Slug: GPU Text Rendering",
       "source": "Hacker News: Front Page",
-      "date": "Tue, 29 Sep 2026 22:36:14 +0000",
-      "summary": "Article URL: https://github.com/ninjahawk/livenerf\nComments URL: https://news.ycombinator.com/item?id=49901736\nPoints: 163\n# Comments: 87",
-      "url": "https://github.com/ninjahawk/livenerf"
+      "date": "Wed, 30 Sep 2026 13:50:50 +0000",
+      "summary": "Article URL: https://alphapixeldev.com/sdf-vs-msdf-vs-slug-vs-rive-gpu-text-rendering/\nComments URL: https://news.ycombinator.com/item?id=49908962\nPoints: 52\n# Comments: 30",
+      "url": "https://alphapixeldev.com/sdf-vs-msdf-vs-slug-vs-rive-gpu-text-rendering/"
+    },
+    {
+      "category": "Science",
+      "title": "Cannabis users were twice as likely to commit violence, review finds",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Wed, 30 Sep 2026 08:49:01 EDT",
+      "summary": "A review of more than 265,000 people found that cannabis use was associated with higher rates of both committing violence and becoming a victim of it. The researchers say the link is significant but does not prove cannabis itself is the cause.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260930020255.htm"
+    },
+    {
+      "category": "Science",
+      "title": "A record-breaking X-ray flash may reveal the birth of a magnetar",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Wed, 30 Sep 2026 08:27:27 EDT",
+      "summary": "Astronomers have found strong evidence that some mysterious, minutes-long X-ray flashes are produced when two neutron stars collide and create a magnetar. One record-setting event glowed in X-rays for nearly 10 minutes, potentially opening a new way to find these extreme cosmic mergers.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260930020252.htm"
+    },
+    {
+      "category": "AI",
+      "title": "Cloudflare plans to issue quantum-safe TLS certificates",
+      "source": "Ars Technica - All content",
+      "date": "Wed, 30 Sep 2026 11:15:14 +0000",
+      "summary": "The move will be part of a major overhaul of the ecosystem for website authentication.",
+      "url": "https://arstechnica.com/security/2026/09/cloudflare-plans-to-issue-quantum-safe-tls-certificates/"
+    },
+    {
+      "category": "Biblical Studies",
+      "title": "Piety and Prestige in Late Second Temple Jerusalem",
+      "source": "Biblical Archaeology Society",
+      "date": "Wed, 30 Sep 2026 10:45:45 +0000",
+      "summary": "For centuries, travelers and pilgrims entering Jerusalem from the north and east had gazed upon the monumental tombs cut into the cliffs of the Kidron […]\nThe post Piety and Prestige in Late Second Temple Jerusalem appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/daily/biblical-sites-places/piety-and-prestige-in-late-second-temple-jerusalem/"
+    },
+    {
+      "category": "Biblical Studies",
+      "title": "Adriatic Shipwreck Reveals Details of Roman Trade",
+      "source": "Biblical Archaeology Society",
+      "date": "Wed, 30 Sep 2026 10:00:32 +0000",
+      "summary": "Excavators with Croatia’s International Centre for Underwater Archaeology in Zadar have spent years carefully excavating a well-preserved Roman merchant ship that sank in Barbir Bay, […]\nThe post Adriatic Shipwreck Reveals Details of Roman Trade appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-rome/adriatic-shipwreck-reveals-details-of-roman-trade/"
+    },
+    {
+      "category": "Science",
+      "title": " Now is the best time to see Saturn all year — yes, even with the naked eye ",
+      "source": " Latest from Live Science ",
+      "date": "Wed, 30 Sep 2026 10:00:00 +0000",
+      "summary": "Saturn will put on a show this week as it enters opposition and its famous rings return to looking their best.",
+      "url": "https://www.livescience.com/space/saturn/this-week-is-the-best-time-to-see-saturn-all-year-yes-even-with-the-naked-eye"
+    },
+    {
+      "category": "Science",
+      "title": " Woman's 5-year struggle with balance and walking was caused by a 'one-in-a-million' disorder ",
+      "source": " Latest from Live Science ",
+      "date": "Wed, 30 Sep 2026 10:00:00 +0000",
+      "summary": "A woman developed severe stiffness in her knees, along with a range of other symptoms. Blood tests revealed her very rare disorder.",
+      "url": "https://www.livescience.com/health/immune-system/diagnostic-dilemma-womans-5-year-struggle-with-balance-and-walking-was-caused-by-a-one-in-a-million-disorder"
+    },
+    {
+      "category": "AI",
+      "title": "Helping small businesses put AI to work",
+      "source": "OpenAI News",
+      "date": "Wed, 30 Sep 2026 10:00:00 GMT",
+      "summary": "OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI.",
+      "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work"
+    },
+    {
+      "category": "Biblical Studies",
+      "title": "Milestones: Yuval Goren (1956–2026)",
+      "source": "Biblical Archaeology Society",
+      "date": "Wed, 30 Sep 2026 09:30:33 +0000",
+      "summary": "Yuval Goren, a professor of archaeology at Ben-Gurion University of the Negev, was a pioneer in the fields of archaeometry and microarchaeological research. Born in […]\nThe post Milestones: Yuval Goren (1956–2026) appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/milestones/yuval-goren/"
+    },
+    {
+      "category": "Science",
+      "title": "Watch Live: NASA’s Crew-13 could make the fastest U.S. trip to the ISS ever",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Wed, 30 Sep 2026 04:36:42 EDT",
+      "summary": "NASA’s SpaceX Crew-13 mission is scheduled to launch four astronauts to the International Space Station on October 1. The Dragon could reach the orbiting laboratory in just 7 hours and 50 minutes, making it the fastest U.S. spacecraft journey to the ISS in history.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260930020312.htm"
+    },
+    {
+      "category": "Space",
+      "title": "APOD: 2026 September 30 – Arp 78: Peculiar Galaxy in Aries",
+      "source": "NASA",
+      "date": "Wed, 30 Sep 2026 04:05:00 +0000",
+      "summary": "APOD Science APOD APOD: 2026 September 30 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Arp 78: Peculiar […]",
+      "url": "https://science.nasa.gov/image-article/apod-2026-september-30-arp-78-peculiar-galaxy-in-aries/"
+    },
+    {
+      "category": "Theology",
+      "title": "Introducing ‘Your Corner of the World’",
+      "source": "The Gospel Coalition",
+      "date": "Wed, 30 Sep 2026 04:03:00 +0000",
+      "summary": "Dan Doriani and Mark Vroegop talk with Christians from a wide range of professions about how biblical wisdom shapes the way we work, lead, serve, and live faithfully in our corner of the world.",
+      "url": "https://www.thegospelcoalition.org/podcasts/your-corner-of-the-world/introducing-your-corner-world/"
+    },
+    {
+      "category": "Theology",
+      "title": "Life Is a Canvas: Create Something Beautiful",
+      "source": "The Gospel Coalition",
+      "date": "Wed, 30 Sep 2026 04:02:00 +0000",
+      "summary": "God stretches the canvas of life for us, and we’re to make something beautiful, by his grace.",
+      "url": "https://www.thegospelcoalition.org/article/life-canvas-create-beautiful/"
+    },
+    {
+      "category": "Space",
+      "title": "Powerful Storms Continue to Prowl the Pacific",
+      "source": "NASA",
+      "date": "Wed, 30 Sep 2026 04:01:00 +0000",
+      "summary": "Hurricanes Polo and Nolo sent destructive effects ashore amid an active season in the northeastern and central Pacific.",
+      "url": "https://science.nasa.gov/earth/earth-observatory/powerful-storms-continue-to-prowl-the-pacific/"
+    },
+    {
+      "category": "Theology",
+      "title": "How Can Disciples Walk Faithfully in a Postliterate Era?",
+      "source": "The Gospel Coalition",
+      "date": "Wed, 30 Sep 2026 04:00:00 +0000",
+      "summary": "Even if statistics appear grim, followers of Christ shouldn’t lose heart.",
+      "url": "https://www.thegospelcoalition.org/article/disciples-postliterate-era/"
     },
     {
       "category": "AI",
@@ -49,14 +185,6 @@
       "date": "Tue, 29 Sep 2026 22:30:37 +0000",
       "summary": "Retatrutide is a triple-hormone obesity drug simulating GLP-1, GIP, and glucagon.",
       "url": "https://arstechnica.com/health/2026/09/most-powerful-obesity-drug-yet-people-lost-up-to-25-of-weight-in-trial/"
-    },
-    {
-      "category": "AI",
-      "title": "UnoDOS",
-      "source": "Hacker News: Front Page",
-      "date": "Tue, 29 Sep 2026 22:10:23 +0000",
-      "summary": "Article URL: https://github.com/hmofet/unodos\nComments URL: https://news.ycombinator.com/item?id=49901437\nPoints: 14\n# Comments: 7",
-      "url": "https://github.com/hmofet/unodos"
     },
     {
       "category": "AI",
@@ -75,84 +203,12 @@
       "url": "https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/nasa-opens-2027-human-lander-challenge-for-lunar-communications/"
     },
     {
-      "category": "AI",
-      "title": "AMD acquires World Labs AI startup, upping the ante against Nvidia",
-      "source": "Ars Technica - All content",
-      "date": "Tue, 29 Sep 2026 21:14:49 +0000",
-      "summary": "The deal, which is expected to close by year's end, is worth $8.2 billion.",
-      "url": "https://arstechnica.com/ai/2026/09/amd-acquires-world-labs-ai-pioneer-fei-fei-lis-world-models-startup/"
-    },
-    {
-      "category": "Space",
-      "title": "NASA Awards Orbital Safety Analysis Support Services Contract",
-      "source": "NASA",
-      "date": "Tue, 29 Sep 2026 21:00:00 +0000",
-      "summary": "NASA has awarded a contract to Omitron Inc. for the acquisition of orbital safety analysis services, which provide for critical protection of NASA spaceflight assets and astronaut lives. This indefinite-delivery contract is valued at approximately $23.5 million over a five-year period of performance and entails conjunction assessment screening services for all NASA uncrewed spacecraft, support […]",
-      "url": "https://www.nasa.gov/news-release/nasa-awards-orbital-safety-analysis-support-services-contract/"
-    },
-    {
-      "category": "Space",
-      "title": "NASA Features Exploration, Science at International Space Conference ",
-      "source": "NASA",
-      "date": "Tue, 29 Sep 2026 20:55:24 +0000",
-      "summary": "NASA will participate in the 77th International Astronautical Congress (IAC) in Antalya, Türkiye, from Monday, Oct. 5, to Friday, Oct. 9, highlighting America’s leadership in human exploration to the Moon and Mars, advancing responsible exploration under the Artemis Accords, world-changing science, and support for the commercial space sector.  The IAC, organized by the International Astronautical […]",
-      "url": "https://www.nasa.gov/news-release/nasa-features-exploration-science-at-international-space-conference/"
-    },
-    {
-      "category": "Science",
-      "title": " 'We're rapidly running out of time': 7 of Earth's 9 life support systems already breached, and the situation is getting worse, report warns ",
-      "source": " Latest from Live Science ",
-      "date": "Tue, 29 Sep 2026 17:11:35 +0000",
-      "summary": "Our planet has had its annual health check, and the prognosis is pretty grim. Despite breached planetary boundaries, however, scientists argue that Earth can still have a safe and sustainable future.",
-      "url": "https://www.livescience.com/planet-earth/were-rapidly-running-out-of-time-7-of-earths-9-life-support-systems-already-breached-and-the-situation-is-getting-worse-report-warns"
-    },
-    {
-      "category": "Science",
-      "title": " Remarkably preserved feathered dinosaur discovered in China reveals new secrets of flying predator evolution ",
-      "source": " Latest from Live Science ",
-      "date": "Tue, 29 Sep 2026 16:47:59 +0000",
-      "summary": "A newly discovered feathered dinosaur named Norellraptor barsboldi had sharply curved teeth and claws, as well as four wings, and it adds evidence to the idea that flight evolved several times in different dinosaur groups.",
-      "url": "https://www.livescience.com/animals/dinosaurs/remarkably-preserved-feathered-dinosaur-discovered-in-china-reveals-new-secrets-of-flying-predator-evolution"
-    },
-    {
-      "category": "Biblical Studies",
-      "title": "Milestones: Konstantinos Politis (1958–2026)",
-      "source": "Biblical Archaeology Society",
-      "date": "Tue, 29 Sep 2026 15:27:44 +0000",
-      "summary": "Konstantinos Politis (better known as Dino to colleagues and friends) was a leading figure in Jordan’s archaeology and cultural heritage for more than four decades. […]\nThe post Milestones: Konstantinos Politis (1958–2026) appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/milestones/konstantinos-politis/"
-    },
-    {
-      "category": "Science",
-      "title": " Africa's oldest known defensive wall outside Egypt discovered, and it's 4,000 years old ",
-      "source": " Latest from Live Science ",
-      "date": "Tue, 29 Sep 2026 15:05:35 +0000",
-      "summary": "An elaborate 4,000-year-old defensive wall was discovered in Morocco, and it once protected a thriving farming hub, archaeologists say.",
-      "url": "https://www.livescience.com/archaeology/africas-oldest-known-defensive-wall-outside-egypt-discovered-and-its-4-000-years-old"
-    },
-    {
-      "category": "Biblical Studies",
-      "title": "Josephus on the Essenes",
-      "source": "Biblical Archaeology Society",
-      "date": "Tue, 29 Sep 2026 11:00:46 +0000",
-      "summary": "Josephus’s commentaries on the laws and characteristics of the Essene community have been invaluable to scholars studying ancient Jewish laws and customs. \nThe post Josephus on the Essenes appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/daily/biblical-artifacts/dead-sea-scrolls/josephus-on-the-essenes/"
-    },
-    {
-      "category": "Biblical Studies",
-      "title": "Was Jesus’ Last Supper a Seder?",
-      "source": "Biblical Archaeology Society",
-      "date": "Tue, 29 Sep 2026 11:00:41 +0000",
-      "summary": "Many assume that Jesus' Last Supper was a Seder, the ritual Passover meal. Examine evidence from the synoptic Gospels with scholar Jonathan Klawans.\nThe post Was Jesus’ Last Supper a Seder? appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/daily/people-cultures-in-the-bible/jesus-historical-jesus/was-jesus-last-supper-a-seder/"
-    },
-    {
-      "category": "AI",
-      "title": "Introducing GPT-6.1 Sol",
-      "source": "OpenAI News",
-      "date": "Tue, 29 Sep 2026 10:00:00 GMT",
-      "summary": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
-      "url": "https://openai.com/index/introducing-gpt-6-1-sol"
+      "category": "Theology",
+      "title": "Eight Enemies of Pastoral Friendship",
+      "source": "9Marks",
+      "date": "Tue, 29 Sep 2026 20:54:47 +0000",
+      "summary": "Biblical friendship is not a luxury for pastors. It is one of God's ordinary means of sustaining us for long-term ministry.\nThe post Eight Enemies of Pastoral Friendship appeared first on 9Marks.",
+      "url": "https://www.9marks.org/article/eight-enemies-of-pastoral-friendship/?utm_source=rss&utm_medium=rss&utm_campaign=eight-enemies-of-pastoral-friendship"
     },
     {
       "category": "AI",
@@ -163,12 +219,12 @@
       "url": "https://openai.com/index/devday-2026-recap"
     },
     {
-      "category": "Science",
-      "title": "The ice blasting from Saturn's moon Enceladus is stranger than scientists realized",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Tue, 29 Sep 2026 05:58:00 EDT",
-      "summary": "Enceladus may naturally separate and concentrate chemicals from its hidden ocean as droplets slowly freeze and shatter on their way into space. The process could explain Cassini’s puzzling ice-grain chemistry while giving future spacecraft a powerful advantage in searching for organic compounds and clues to life.",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260929053528.htm"
+      "category": "AI",
+      "title": "Introducing GPT-6.1 Sol",
+      "source": "OpenAI News",
+      "date": "Tue, 29 Sep 2026 10:00:00 GMT",
+      "summary": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
+      "url": "https://openai.com/index/introducing-gpt-6-1-sol"
     },
     {
       "category": "History",
@@ -177,46 +233,6 @@
       "date": "Tue, 29 Sep 2026 09:00:18 +0000",
       "summary": "The Battle of Cowpens, fought on January 17, 1781, in South Carolina, was one of the most significant American victories in the War for Independence. At a relatively low cost in casualties, the Americans destroyed the light troops of the British southern army, which not only weakened British control of South Carolina but more importantly, […]\nThe post The Battle of Cowpens: Correcting A Historical Error appeared first on Journal of the American Revolution.",
       "url": "https://allthingsliberty.com/2026/09/the-battle-of-cowpens-correcting-a-historical-error/"
-    },
-    {
-      "category": "Science",
-      "title": "Earth’s day isn’t exactly 24 hours. The reason may lie deep inside the planet",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Tue, 29 Sep 2026 01:08:47 EDT",
-      "summary": "Scientists may have solved why the length of Earth’s day changes by a few milliseconds over decades. Subtle shifts in the inner core appear to tug on the mantle, revealing a surprisingly dynamic world thousands of kilometers beneath our feet.",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260928100540.htm"
-    },
-    {
-      "category": "Science",
-      "title": "NASA’s Crew-13 could go from Florida to the ISS in under 9 hours",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Tue, 29 Sep 2026 00:38:52 EDT",
-      "summary": "NASA and SpaceX could launch four astronauts to the International Space Station on October 1, with the Dragon spacecraft reaching orbiting outpost less than nine hours after liftoff. Crew-13 will join Expedition 75 after teams complete a final round of intensive launch-readiness checks.",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260928100534.htm"
-    },
-    {
-      "category": "Theology",
-      "title": "12 Books to Help You Think Wisely About AI",
-      "source": "The Gospel Coalition",
-      "date": "Tue, 29 Sep 2026 04:02:00 +0000",
-      "summary": "Contributors to ‘The AI Apocalypse’ offer book recommendations to help readers better understand the technological and theological implications of AI.",
-      "url": "https://www.thegospelcoalition.org/reviews/twelve-ai-book-recommendations/"
-    },
-    {
-      "category": "Theology",
-      "title": "Before Your Church Plants, Ask How",
-      "source": "The Gospel Coalition",
-      "date": "Tue, 29 Sep 2026 04:00:00 +0000",
-      "summary": "Paul’s first missionary journey gives us nine practical principles for how we can plant churches.",
-      "url": "https://www.thegospelcoalition.org/article/church-plants-ask-how/"
-    },
-    {
-      "category": "AI",
-      "title": "Introducing dots",
-      "source": "OpenAI News",
-      "date": "Tue, 29 Sep 2026 00:00:00 GMT",
-      "summary": "Dots by OpenAI are proactive assistants that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.",
-      "url": "https://openai.com/index/introducing-dots"
     },
     {
       "category": "History",
@@ -228,11 +244,19 @@
     },
     {
       "category": "Theology",
-      "title": "The Pastor and Discouragement",
-      "source": "The Gospel Coalition",
-      "date": "Mon, 28 Sep 2026 04:04:18 +0000",
-      "summary": "Matt Smethurst and Ligon Duncan offer hope for discouraged pastors, showing how realistic expectations, faithful friendships, long-term perspective, and confidence in God’s sovereignty can sustain them.",
-      "url": "https://www.thegospelcoalition.org/podcasts/everyday-pastor/pastor-discouragement/"
+      "title": "Youth Ministry Deconstructed",
+      "source": "9Marks",
+      "date": "Fri, 25 Sep 2026 05:22:25 +0000",
+      "summary": "One way the church can minister to teenagers is by discipling their parents to be mature followers of Jesus.\nThe post Youth Ministry Deconstructed appeared first on 9Marks.",
+      "url": "https://www.9marks.org/review/youth-ministry-deconstructed/?utm_source=rss&utm_medium=rss&utm_campaign=youth-ministry-deconstructed"
+    },
+    {
+      "category": "Theology",
+      "title": "Finish the Race: Final Steps in the Transition to a Plurality of Elders",
+      "source": "9Marks",
+      "date": "Fri, 25 Sep 2026 03:25:56 +0000",
+      "summary": "It is easy to get lost in wanting to lead out in change just so we can say we did it, or out of concern to our reputation. But our motivation for change should be to bring greater glory to God and greater health to his church.\nThe post Finish the Race: Final Steps in the Transition to a Plurality of Elders appeared first on 9Marks.",
+      "url": "https://www.9marks.org/article/finish-the-race-final-steps-in-the-transition-to-a-plurality-of-elders/?utm_source=rss&utm_medium=rss&utm_campaign=finish-the-race-final-steps-in-the-transition-to-a-plurality-of-elders"
     },
     {
       "category": "History",
