@@ -1,38 +1,118 @@
 {
-  "lastUpdated": "2026-09-29T16:16:37.723Z",
-  "articleCount": 36,
+  "lastUpdated": "2026-09-30T00:56:14.246Z",
+  "articleCount": 33,
   "articles": [
     {
       "category": "Science",
-      "title": "NASA announces new missions for Boeing Starliner spacecraft",
+      "title": "Small fields, great diversity: How a diverse patchwork of crops helps birds",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Tue, 29 Sep 2026 12:10:01 EDT",
-      "summary": "NASA announced Monday that it is planning new missions using Boeing's Starliner spacecraft, the first since a troubled test flight left two astronauts stranded at the International Space Station for months.",
-      "url": "https://phys.org/news/2026-09-nasa-missions-boeing-starliner-spacecraft.html"
+      "date": "Tue, 29 Sep 2026 20:20:05 EDT",
+      "summary": "Birds are not only beautiful to look at and listen to; they also play important roles in nature. They eat pests and disperse seeds. They are generally considered indicators of a healthy environment. When birds thrive, soil and water quality often benefit as well. A new study published in the journal Landscape Ecology shows that growing a variety of crops in small field patches creates better habitats for birds.",
+      "url": "https://phys.org/news/2026-09-small-fields-great-diversity-diverse.html"
     },
     {
       "category": "Science",
-      "title": "Tropical weather patterns steer West Antarctic snowfall, ice cores reveal",
+      "title": "Engineered coating lets mitochondria retain their ability to produce energy",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Tue, 29 Sep 2026 12:00:12 EDT",
-      "summary": "Climate patterns in the tropics help determine how much snow falls from year to year in Antarctica, one of the coldest, windiest and driest places on Earth. New research from the University of Utah shows that tropical conditions and the oceans also influence the continent's massive ice sheets.",
-      "url": "https://phys.org/news/2026-09-tropical-weather-patterns-west-antarctic.html"
+      "date": "Tue, 29 Sep 2026 19:40:07 EDT",
+      "summary": "Researchers have coated mitochondria with innovative materials without compromising their function, according to a study by IRCCS Fondazione Istituto Neurologico Carlo Besta (FINCB) and Politecnico di Milano. The research was conducted as part of the BraiNs joint laboratory, inaugurated in 2023.",
+      "url": "https://phys.org/news/2026-09-coating-mitochondria-retain-ability-energy.html"
     },
     {
       "category": "Science",
-      "title": "This cat is new to science. What does it take to identify a species?",
+      "title": "NYC delivery workers injured at more than five times national rate under intense labor control by apps, survey finds",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Tue, 29 Sep 2026 12:00:01 EDT",
-      "summary": "There's a new cat in town, but this one won't curl up on your hamper, knead your sweaters or squeeze in front of your screen during a Zoom meeting.",
-      "url": "https://phys.org/news/2026-09-cat-science-species.html"
+      "date": "Tue, 29 Sep 2026 19:40:04 EDT",
+      "summary": "More than half of New York City's app-based food delivery workers have been injured on the job, and 40% meet the criteria for severe psychological distress, according to a new study from the CUNY Graduate School of Public Health and Health Policy (CUNY SPH), in partnership with the Worker's Justice Project (WJP).",
+      "url": "https://phys.org/news/2026-09-nyc-delivery-workers-national-intense.html"
+    },
+    {
+      "category": "AI",
+      "title": "How our vibe coded website looks like a designer made it",
+      "source": "Hacker News: Front Page",
+      "date": "Tue, 29 Sep 2026 22:59:28 +0000",
+      "summary": "Article URL: https://railcode.dev/blog/vibe-coded-website\nComments URL: https://news.ycombinator.com/item?id=49901973\nPoints: 52\n# Comments: 32",
+      "url": "https://railcode.dev/blog/vibe-coded-website"
+    },
+    {
+      "category": "AI",
+      "title": "Livenerf: Has Opus 5.5 been nerfed yet?",
+      "source": "Hacker News: Front Page",
+      "date": "Tue, 29 Sep 2026 22:36:14 +0000",
+      "summary": "Article URL: https://github.com/ninjahawk/livenerf\nComments URL: https://news.ycombinator.com/item?id=49901736\nPoints: 163\n# Comments: 87",
+      "url": "https://github.com/ninjahawk/livenerf"
+    },
+    {
+      "category": "AI",
+      "title": "Most powerful obesity drug yet: People lost up to 25% of weight in trial",
+      "source": "Ars Technica - All content",
+      "date": "Tue, 29 Sep 2026 22:30:37 +0000",
+      "summary": "Retatrutide is a triple-hormone obesity drug simulating GLP-1, GIP, and glucagon.",
+      "url": "https://arstechnica.com/health/2026/09/most-powerful-obesity-drug-yet-people-lost-up-to-25-of-weight-in-trial/"
+    },
+    {
+      "category": "AI",
+      "title": "UnoDOS",
+      "source": "Hacker News: Front Page",
+      "date": "Tue, 29 Sep 2026 22:10:23 +0000",
+      "summary": "Article URL: https://github.com/hmofet/unodos\nComments URL: https://news.ycombinator.com/item?id=49901437\nPoints: 14\n# Comments: 7",
+      "url": "https://github.com/hmofet/unodos"
+    },
+    {
+      "category": "AI",
+      "title": "Protests against OpenAI get increasingly creative",
+      "source": "Ars Technica - All content",
+      "date": "Tue, 29 Sep 2026 21:52:58 +0000",
+      "summary": "New sculpture depicts AI leaders escaping a sinking ship.",
+      "url": "https://arstechnica.com/ai/2026/09/what-iceberg-bay-area-artists-target-openai-with-titanic-themed-protest-art/"
     },
     {
       "category": "Space",
-      "title": "Crew-13 Rocket and Spacecraft at Launch Pad",
+      "title": "NASA Opens 2027 Human Lander Challenge for Lunar Communications",
       "source": "NASA",
-      "date": "Tue, 29 Sep 2026 15:31:56 +0000",
-      "summary": "Ahead of NASA’s SpaceX Crew-13 mission launch, a SpaceX Falcon 9 rocket and Dragon spacecraft are vertical at the launch pad of Space Launch Complex 40 at Cape Canaveral Space Force Station in Florida in this Sept. 27, 2026, photo. NASA astronauts Jessica Watkins and Luke Delaney, CSA (Canadian Space Agency) astronaut Joshua Kutryk, and Roscosmos cosmonaut Sergey […]",
-      "url": "https://www.nasa.gov/image-article/crew-13-rocket-and-spacecraft-at-launch-pad/"
+      "date": "Tue, 29 Sep 2026 21:27:56 +0000",
+      "summary": "NASA’s 2027 Human Lander Challenge is seeking ideas from college and university students to help address one of the most critical needs for sustained lunar exploration: reliable communications. As NASA prepares for long-term human presence on the Moon through the Artemis and Moon Base programs, communications systems will be just as important as spacecraft and […]",
+      "url": "https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/nasa-opens-2027-human-lander-challenge-for-lunar-communications/"
+    },
+    {
+      "category": "AI",
+      "title": "AMD acquires World Labs AI startup, upping the ante against Nvidia",
+      "source": "Ars Technica - All content",
+      "date": "Tue, 29 Sep 2026 21:14:49 +0000",
+      "summary": "The deal, which is expected to close by year's end, is worth $8.2 billion.",
+      "url": "https://arstechnica.com/ai/2026/09/amd-acquires-world-labs-ai-pioneer-fei-fei-lis-world-models-startup/"
+    },
+    {
+      "category": "Space",
+      "title": "NASA Awards Orbital Safety Analysis Support Services Contract",
+      "source": "NASA",
+      "date": "Tue, 29 Sep 2026 21:00:00 +0000",
+      "summary": "NASA has awarded a contract to Omitron Inc. for the acquisition of orbital safety analysis services, which provide for critical protection of NASA spaceflight assets and astronaut lives. This indefinite-delivery contract is valued at approximately $23.5 million over a five-year period of performance and entails conjunction assessment screening services for all NASA uncrewed spacecraft, support […]",
+      "url": "https://www.nasa.gov/news-release/nasa-awards-orbital-safety-analysis-support-services-contract/"
+    },
+    {
+      "category": "Space",
+      "title": "NASA Features Exploration, Science at International Space Conference ",
+      "source": "NASA",
+      "date": "Tue, 29 Sep 2026 20:55:24 +0000",
+      "summary": "NASA will participate in the 77th International Astronautical Congress (IAC) in Antalya, Türkiye, from Monday, Oct. 5, to Friday, Oct. 9, highlighting America’s leadership in human exploration to the Moon and Mars, advancing responsible exploration under the Artemis Accords, world-changing science, and support for the commercial space sector.  The IAC, organized by the International Astronautical […]",
+      "url": "https://www.nasa.gov/news-release/nasa-features-exploration-science-at-international-space-conference/"
+    },
+    {
+      "category": "Science",
+      "title": " 'We're rapidly running out of time': 7 of Earth's 9 life support systems already breached, and the situation is getting worse, report warns ",
+      "source": " Latest from Live Science ",
+      "date": "Tue, 29 Sep 2026 17:11:35 +0000",
+      "summary": "Our planet has had its annual health check, and the prognosis is pretty grim. Despite breached planetary boundaries, however, scientists argue that Earth can still have a safe and sustainable future.",
+      "url": "https://www.livescience.com/planet-earth/were-rapidly-running-out-of-time-7-of-earths-9-life-support-systems-already-breached-and-the-situation-is-getting-worse-report-warns"
+    },
+    {
+      "category": "Science",
+      "title": " Remarkably preserved feathered dinosaur discovered in China reveals new secrets of flying predator evolution ",
+      "source": " Latest from Live Science ",
+      "date": "Tue, 29 Sep 2026 16:47:59 +0000",
+      "summary": "A newly discovered feathered dinosaur named Norellraptor barsboldi had sharply curved teeth and claws, as well as four wings, and it adds evidence to the idea that flight evolved several times in different dinosaur groups.",
+      "url": "https://www.livescience.com/animals/dinosaurs/remarkably-preserved-feathered-dinosaur-discovered-in-china-reveals-new-secrets-of-flying-predator-evolution"
     },
     {
       "category": "Biblical Studies",
@@ -43,76 +123,12 @@
       "url": "https://www.biblicalarchaeology.org/milestones/konstantinos-politis/"
     },
     {
-      "category": "Space",
-      "title": "NASA Opens Applications for Second Season of ORBIT Student Challenge",
-      "source": "NASA",
-      "date": "Tue, 29 Sep 2026 15:11:15 +0000",
-      "summary": "Following a successful inaugural year of ingenuity and career building, NASA ORBIT (Opportunities in Research, Business, Innovation, and Technology) has officially returned for a second season to bring university and college student innovation to the forefront of Earth technology development and deep-space exploration. Registration for the 2026–2027 challenge is open through Monday, Nov. 16, 2026, […]",
-      "url": "https://www.nasa.gov/learning-resources/research-program-for-students/"
-    },
-    {
       "category": "Science",
       "title": " Africa's oldest known defensive wall outside Egypt discovered, and it's 4,000 years old ",
       "source": " Latest from Live Science ",
       "date": "Tue, 29 Sep 2026 15:05:35 +0000",
       "summary": "An elaborate 4,000-year-old defensive wall was discovered in Morocco, and it once protected a thriving farming hub, archaeologists say.",
       "url": "https://www.livescience.com/archaeology/africas-oldest-known-defensive-wall-outside-egypt-discovered-and-its-4-000-years-old"
-    },
-    {
-      "category": "AI",
-      "title": "Fruit flies remember their larval diet, which influences their longevity",
-      "source": "Ars Technica - All content",
-      "date": "Tue, 29 Sep 2026 14:39:25 +0000",
-      "summary": "Eating less protein as larvae may limit their ability to produce proteins as adults.",
-      "url": "https://arstechnica.com/science/2026/09/fruit-flies-remember-their-larval-diet-which-influences-their-longevity/"
-    },
-    {
-      "category": "AI",
-      "title": "macOS Golden Gate Is a Buggy Mess",
-      "source": "Hacker News: Front Page",
-      "date": "Tue, 29 Sep 2026 14:32:33 +0000",
-      "summary": "Article URL: https://www.squareorbits.com/blog/2026/09/macos-golden-gate-is-a-buggy-mess/\nComments URL: https://news.ycombinator.com/item?id=49894005\nPoints: 217\n# Comments: 143",
-      "url": "https://www.squareorbits.com/blog/2026/09/macos-golden-gate-is-a-buggy-mess/"
-    },
-    {
-      "category": "AI",
-      "title": "Claude partial outage",
-      "source": "Hacker News: Front Page",
-      "date": "Tue, 29 Sep 2026 14:25:41 +0000",
-      "summary": "Article URL: https://status.claude.com/incidents/4xvtc2gnq73l\nComments URL: https://news.ycombinator.com/item?id=49893876\nPoints: 157\n# Comments: 124",
-      "url": "https://status.claude.com/incidents/4xvtc2gnq73l"
-    },
-    {
-      "category": "AI",
-      "title": "Why Doesn't Anyone Want to Fix One of America's Scariest Roads?",
-      "source": "Hacker News: Front Page",
-      "date": "Tue, 29 Sep 2026 14:23:35 +0000",
-      "summary": "Article URL: https://www.newyorker.com/magazine/2026/10/05/why-doesnt-anyone-want-to-fix-one-of-americas-scariest-roads\nComments URL: https://news.ycombinator.com/item?id=49893850\nPoints: 16\n# Comments: 20",
-      "url": "https://www.newyorker.com/magazine/2026/10/05/why-doesnt-anyone-want-to-fix-one-of-americas-scariest-roads"
-    },
-    {
-      "category": "AI",
-      "title": "OpenAI says planned GPT-6.1 is too insecure to release",
-      "source": "Ars Technica - All content",
-      "date": "Tue, 29 Sep 2026 14:22:31 +0000",
-      "summary": "Similar performance, security tradeoffs also seen in current public models.",
-      "url": "https://arstechnica.com/ai/2026/09/openai-says-planned-gpt-6-1-is-too-insecure-to-release/"
-    },
-    {
-      "category": "Space",
-      "title": "NSTGRO 2026",
-      "source": "NASA",
-      "date": "Tue, 29 Sep 2026 14:20:08 +0000",
-      "summary": "NSTGRO Homepage Omar AlyousefUniversity Of MemphisPolycatenated Architected Materials (PAM) for Origami-Inspired Space Docking Ports Cade ArmstrongUniversity Of Texas at AustinIntelligent Multi-Agent Constellations for Cooperative Cislunar Operations Laurel BarnettHarvard UniversityPhotonic SNSPD Readout and Feed Forward System for Improved Optical Communication Capabilities Katie BarcakWilliam Marsh Rice UniversityCompact magnetic heat switch for thermal management of long duration low […]",
-      "url": "https://www.nasa.gov/directorates/stmd/space-tech-research-grants/nstgro/nstgro-2026/"
-    },
-    {
-      "category": "AI",
-      "title": "Anthropic’s IPO pitch includes a warning about human extinction",
-      "source": "Ars Technica - All content",
-      "date": "Tue, 29 Sep 2026 14:10:00 +0000",
-      "summary": "The Claude maker warns its own models could resist shutdowns and cause catastrophic harm.",
-      "url": "https://arstechnica.com/ai/2026/09/anthropics-ipo-pitch-includes-a-warning-about-human-extinction/"
     },
     {
       "category": "Biblical Studies",
@@ -131,20 +147,20 @@
       "url": "https://www.biblicalarchaeology.org/daily/people-cultures-in-the-bible/jesus-historical-jesus/was-jesus-last-supper-a-seder/"
     },
     {
-      "category": "Science",
-      "title": " Towering 'sponge' dome in Brazil is the secret source of nearby hot springs ",
-      "source": " Latest from Live Science ",
-      "date": "Tue, 29 Sep 2026 10:56:35 +0000",
-      "summary": "A 2025 satellite photo shows the Caldas Novas dome, a 12-mile-long monolith that towers above the Brazilian state of Goiás. The structure acts as a giant sponge, soaking up water that helps fuel nearby hot springs.",
-      "url": "https://www.livescience.com/planet-earth/towering-sponge-dome-in-brazil-is-the-secret-source-of-nearby-hot-springs-earth-from-space"
+      "category": "AI",
+      "title": "Introducing GPT-6.1 Sol",
+      "source": "OpenAI News",
+      "date": "Tue, 29 Sep 2026 10:00:00 GMT",
+      "summary": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
+      "url": "https://openai.com/index/introducing-gpt-6-1-sol"
     },
     {
-      "category": "Science",
-      "title": " The super El Niño could cause torrential rainstorms. Americans may need to stock up on food to prepare, experts say. ",
-      "source": " Latest from Live Science ",
-      "date": "Tue, 29 Sep 2026 10:15:00 +0000",
-      "summary": "A U.K. government minister has urged people in Britain to stock up on essentials to prepare for storms magnified by the record-breaking El Niño. Should Americans heed the same advice?",
-      "url": "https://www.livescience.com/planet-earth/weather/the-super-el-nino-could-cause-torrential-rainstorms-americans-may-need-to-stock-up-on-food-to-prepare-experts-say"
+      "category": "AI",
+      "title": "DevDay 2026 Recap",
+      "source": "OpenAI News",
+      "date": "Tue, 29 Sep 2026 10:00:00 GMT",
+      "summary": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
+      "url": "https://openai.com/index/devday-2026-recap"
     },
     {
       "category": "Science",
@@ -196,19 +212,11 @@
     },
     {
       "category": "AI",
-      "title": "How we will do better for Australia",
+      "title": "Introducing dots",
       "source": "OpenAI News",
-      "date": "Mon, 28 Sep 2026 19:00:00 GMT",
-      "summary": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
-      "url": "https://openai.com/index/how-we-will-do-better-for-australia"
-    },
-    {
-      "category": "AI",
-      "title": "Towards safety cases for frontier AI training",
-      "source": "OpenAI News",
-      "date": "Mon, 28 Sep 2026 19:00:00 GMT",
-      "summary": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
-      "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training"
+      "date": "Tue, 29 Sep 2026 00:00:00 GMT",
+      "summary": "Dots by OpenAI are proactive assistants that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.",
+      "url": "https://openai.com/index/introducing-dots"
     },
     {
       "category": "History",
@@ -219,14 +227,6 @@
       "url": "https://allthingsliberty.com/2026/09/closing-the-ring-george-washingtons-war-in-the-north-1778-1781/"
     },
     {
-      "category": "AI",
-      "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
-      "source": "OpenAI News",
-      "date": "Mon, 28 Sep 2026 07:00:00 GMT",
-      "summary": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support.",
-      "url": "https://openai.com/index/lenfest-ai-collaborative-expansion"
-    },
-    {
       "category": "Theology",
       "title": "The Pastor and Discouragement",
       "source": "The Gospel Coalition",
@@ -235,36 +235,12 @@
       "url": "https://www.thegospelcoalition.org/podcasts/everyday-pastor/pastor-discouragement/"
     },
     {
-      "category": "Theology",
-      "title": "Youth Ministry Deconstructed",
-      "source": "9Marks",
-      "date": "Fri, 25 Sep 2026 05:22:25 +0000",
-      "summary": "One way the church can minister to teenagers is by discipling their parents to be mature followers of Jesus.\nThe post Youth Ministry Deconstructed appeared first on 9Marks.",
-      "url": "https://www.9marks.org/review/youth-ministry-deconstructed/?utm_source=rss&utm_medium=rss&utm_campaign=youth-ministry-deconstructed"
-    },
-    {
-      "category": "Theology",
-      "title": "Finish the Race: Final Steps in the Transition to a Plurality of Elders",
-      "source": "9Marks",
-      "date": "Fri, 25 Sep 2026 03:25:56 +0000",
-      "summary": "It is easy to get lost in wanting to lead out in change just so we can say we did it, or out of concern to our reputation. But our motivation for change should be to bring greater glory to God and greater health to his church.\nThe post Finish the Race: Final Steps in the Transition to a Plurality of Elders appeared first on 9Marks.",
-      "url": "https://www.9marks.org/article/finish-the-race-final-steps-in-the-transition-to-a-plurality-of-elders/?utm_source=rss&utm_medium=rss&utm_campaign=finish-the-race-final-steps-in-the-transition-to-a-plurality-of-elders"
-    },
-    {
       "category": "History",
       "title": "The Long, Sad Life of the Continental Frigate Delaware",
       "source": "Journal of the American Revolution",
       "date": "Thu, 24 Sep 2026 09:00:54 +0000",
       "summary": "On October 13, 1775, Congress resolved to buy four merchant ships and convert them to warships. Three more ships were soon acquired. A naval committee was established. The Continental Navy was created. On December 11 Congress authorized a new committee to devise ways and means of developing the navy. A member of the congress from […]\nThe post The Long, Sad Life of the Continental Frigate <i>Delaware</i> appeared first on Journal of the American Revolution.",
       "url": "https://allthingsliberty.com/2026/09/the-long-sad-life-of-the-continental-frigate-delaware/"
-    },
-    {
-      "category": "Theology",
-      "title": "We Were Waiting to Die: Suffering as a Missionary for the Sake of the Name",
-      "source": "9Marks",
-      "date": "Tue, 22 Sep 2026 20:30:15 +0000",
-      "summary": "I am here to testify that God is with his people in the midst of their suffering. Jesus promised to be with his people to the end of the age (Matt. 28:20), and he is faithful. \nThe post We Were Waiting to Die: Suffering as a Missionary for the Sake of the Name appeared first on 9Marks.",
-      "url": "https://www.9marks.org/article/we-were-waiting-to-die-suffering-as-a-missionary-for-the-sake-of-the-name/?utm_source=rss&utm_medium=rss&utm_campaign=we-were-waiting-to-die-suffering-as-a-missionary-for-the-sake-of-the-name"
     },
     {
       "category": "History",
