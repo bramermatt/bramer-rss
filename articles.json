@@ -1,62 +1,126 @@
 {
-  "lastUpdated": "2026-09-30T16:11:18.586Z",
+  "lastUpdated": "2026-10-01T00:57:43.337Z",
   "articleCount": 36,
   "articles": [
     {
       "category": "Science",
-      "title": "Dark kitchens are popping up everywhere, but what are they and why does it matter?",
+      "title": "Celebrity Traitors: Research suggests that some contestants will find the game tougher than it looks",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Wed, 30 Sep 2026 12:00:07 EDT",
-      "summary": "When you order food through an app, how much do you know about where you're buying it from? It could be a restaurant on the local main street or one located in a warehouse in a faraway industrial park.",
-      "url": "https://phys.org/news/2026-09-dark-kitchens.html"
+      "date": "Wed, 30 Sep 2026 20:20:01 EDT",
+      "summary": "\"The Traitors\" has become essential viewing for millions of fans. The TV game show, in which a group of \"faithfuls\" try to identify a smaller number of hidden traitors, is all about truth and lies.",
+      "url": "https://phys.org/news/2026-09-celebrity-traitors-contestants-game-tougher.html"
     },
     {
       "category": "Science",
-      "title": "Earth and Mars: Built from different cosmic recipes",
+      "title": "Fine-tuning cobalt for cleaner chemical transformations",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Wed, 30 Sep 2026 12:00:01 EDT",
-      "summary": "Four and a half billion years ago, Earth and Mars were born in the rotating cloud of gas and dust that would eventually become our solar system. Yet exactly how the planets formed remains one of the most disputed questions in planetary science.",
-      "url": "https://phys.org/news/2026-09-earth-mars-built-cosmic-recipes.html"
+      "date": "Wed, 30 Sep 2026 19:40:01 EDT",
+      "summary": "Finding alternatives to precious metals in chemical manufacturing may be less like sourcing a substitute and more like tuning an instrument already in hand.",
+      "url": "https://phys.org/news/2026-09-fine-tuning-cobalt-cleaner-chemical.html"
+    },
+    {
+      "category": "Space",
+      "title": "Curiosity Blog, Sols 5016–5021: Fantastic Minerals and How To Detect Them",
+      "source": "NASA",
+      "date": "Wed, 30 Sep 2026 23:37:47 +0000",
+      "summary": "Written by Lucy Lim, Planetary Scientist at NASA Goddard Space Flight Center Earth planning date: Friday, Sept. 18, 2026 Curiosity surprised us at the beginning of the week with a change in rock texture — instead of the finely layered bedrock blocks we’ve been seeing in our recent sulfate unit workspaces, suddenly we were looking […]",
+      "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5016-5021-fantastic-minerals-and-how-to-detect-them/"
+    },
+    {
+      "category": "Science",
+      "title": "Bacteria can make plant-based foods healthier for humans and animals",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Wed, 30 Sep 2026 19:20:07 EDT",
+      "summary": "New research from the DTU National Food Institute and Aarhus University shows that microorganisms can be used to specifically alter the amino acid composition of plant-based foods, making them more nutritious and therefore healthier.",
+      "url": "https://phys.org/news/2026-09-bacteria-based-foods-healthier-humans.html"
     },
     {
       "category": "AI",
-      "title": "The AI Race Just Got Awkward",
+      "title": "EDG C++ Compiler is open source",
       "source": "Hacker News: Front Page",
-      "date": "Wed, 30 Sep 2026 15:50:11 +0000",
-      "summary": "Article URL: https://insufferable.dev/posts/the-ai-race-just-got-awkward/\nComments URL: https://news.ycombinator.com/item?id=49910553\nPoints: 6\n# Comments: 0",
-      "url": "https://insufferable.dev/posts/the-ai-race-just-got-awkward/"
-    },
-    {
-      "category": "Science",
-      "title": "Cities across the world are sinking because of groundwater depletion, but the process can be reversed",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Wed, 30 Sep 2026 11:40:10 EDT",
-      "summary": "Many cities around the world are sinking because too much water is extracted from the groundwater reservoirs beneath them. This sinking makes these coastal cities more exposed to rising seas as the climate warms. But as our new research shows, this process can work in reverse: When groundwater is replenished, cities can rise.",
-      "url": "https://phys.org/news/2026-09-cities-world-groundwater-depletion-reversed.html"
+      "date": "Wed, 30 Sep 2026 22:48:44 +0000",
+      "summary": "Article URL: https://github.com/edgcpp/compiler\nComments URL: https://news.ycombinator.com/item?id=49915484\nPoints: 24\n# Comments: 1",
+      "url": "https://github.com/edgcpp/compiler"
     },
     {
       "category": "AI",
-      "title": "A Brief History of the Bloomberg Terminal",
+      "title": "56k.rip – the 1996 dial-up internet experience",
       "source": "Hacker News: Front Page",
-      "date": "Wed, 30 Sep 2026 14:34:07 +0000",
-      "summary": "Article URL: https://spectrum.ieee.org/bloomberg-terminal\nComments URL: https://news.ycombinator.com/item?id=49909583\nPoints: 17\n# Comments: 0",
-      "url": "https://spectrum.ieee.org/bloomberg-terminal"
+      "date": "Wed, 30 Sep 2026 22:08:50 +0000",
+      "summary": "Article URL: https://56k.rip/\nComments URL: https://news.ycombinator.com/item?id=49915126\nPoints: 24\n# Comments: 8",
+      "url": "https://56k.rip/"
+    },
+    {
+      "category": "AI",
+      "title": "Automating Wi-Fi setup testing on the ESP32",
+      "source": "Hacker News: Front Page",
+      "date": "Wed, 30 Sep 2026 22:07:51 +0000",
+      "summary": "Article URL: https://groundrun.io/blog/automating-wi-fi-setup-testing-on-the-esp32/\nComments URL: https://news.ycombinator.com/item?id=49915119\nPoints: 11\n# Comments: 0",
+      "url": "https://groundrun.io/blog/automating-wi-fi-setup-testing-on-the-esp32/"
+    },
+    {
+      "category": "AI",
+      "title": "Dinosaur-killing impact crater might have been teeming with life",
+      "source": "Ars Technica - All content",
+      "date": "Wed, 30 Sep 2026 21:54:12 +0000",
+      "summary": "Hot, nutrient water might have lasted for over 5 million years after the impact.",
+      "url": "https://arstechnica.com/science/2026/09/dinosaur-killing-impact-crater-might-have-been-teeming-with-life/"
+    },
+    {
+      "category": "AI",
+      "title": "Fifth unvaccinated person dies of measles; CDC still not counting all deaths",
+      "source": "Ars Technica - All content",
+      "date": "Wed, 30 Sep 2026 21:37:54 +0000",
+      "summary": "State health officials race to vaccinate residents by giving over 8,500 doses.",
+      "url": "https://arstechnica.com/health/2026/09/fifth-unvaccinated-person-dies-of-measles-cdc-still-not-counting-all-deaths/"
     },
     {
       "category": "Science",
-      "title": " Regular exercise reshapes the immune system at a cellular level, study suggests ",
+      "title": " CHIME telescope unlocks new way to study the universe's bafflign expansion ",
       "source": " Latest from Live Science ",
-      "date": "Wed, 30 Sep 2026 14:10:00 +0000",
-      "summary": "Regular exercise makes our immune cells more vigilant, potentially contributing to better long-term health, a new study finds.",
-      "url": "https://www.livescience.com/health/immune-system/regular-exercise-reshapes-the-immune-system-at-a-cellular-level-study-suggests"
+      "date": "Wed, 30 Sep 2026 21:28:51 +0000",
+      "summary": "After seven years of work, Canada's CHIME telescope has a measurement of dark energy from 2019. More detailed studies are planned to expand the research.",
+      "url": "https://www.livescience.com/space/astronomy/ancient-hydrogen-spotted-in-the-early-universe-could-open-a-new-way-to-study-spaces-baffling-expansion"
     },
     {
       "category": "AI",
-      "title": "SDF vs. MSDF vs. Slug: GPU Text Rendering",
-      "source": "Hacker News: Front Page",
-      "date": "Wed, 30 Sep 2026 13:50:50 +0000",
-      "summary": "Article URL: https://alphapixeldev.com/sdf-vs-msdf-vs-slug-vs-rive-gpu-text-rendering/\nComments URL: https://news.ycombinator.com/item?id=49908962\nPoints: 52\n# Comments: 30",
-      "url": "https://alphapixeldev.com/sdf-vs-msdf-vs-slug-vs-rive-gpu-text-rendering/"
+      "title": "Returning from vacation? The government can search your phone without a warrant.",
+      "source": "Ars Technica - All content",
+      "date": "Wed, 30 Sep 2026 21:19:56 +0000",
+      "summary": "Reminder: The \"border exemption\" to your rights is real.",
+      "url": "https://arstechnica.com/tech-policy/2026/09/immigration-advocate-sues-border-agents-for-demanding-his-cell-phone/"
+    },
+    {
+      "category": "Space",
+      "title": "Help Overlap Zoo Reveal Cosmic Dust",
+      "source": "NASA",
+      "date": "Wed, 30 Sep 2026 21:19:33 +0000",
+      "summary": "Galaxies, vast collections of billions of stars, gas, and dust held together by gravity, are scattered across the immensity of space. But every so often, a coincidence occurs: Two galaxies line up from our point of view on Earth (or from a space telescope) and appear to overlap in the sky. These rare overlapping galaxies […]",
+      "url": "https://science.nasa.gov/get-involved/citizen-science/help-overlap-zoo-reveal-cosmic-dust/"
+    },
+    {
+      "category": "Space",
+      "title": "NASA Adds New Science Investigations for Moon Base",
+      "source": "NASA",
+      "date": "Wed, 30 Sep 2026 21:11:23 +0000",
+      "summary": "Editor’s note: This release was updated on Sept. 30, 2026, to correct the name of the DISCO payload. NASA selected three new scientific investigations and their payload suites to advance our knowledge of the Moon and help pave the way for building humanity’s first lunar outpost, Moon Base. The suite of science instruments and technologies […]",
+      "url": "https://www.nasa.gov/news-release/nasa-adds-new-science-investigations-for-moon-base/"
+    },
+    {
+      "category": "Science",
+      "title": " Powerful 'Kelvin wave' triggered by super El Niño threatens to raise sea levels off the California coast for months ",
+      "source": " Latest from Live Science ",
+      "date": "Wed, 30 Sep 2026 16:10:59 +0000",
+      "summary": "A disturbance characterized by above-normal sea levels is spreading up the Pacific coast of Central and North America, and it could make the damage from predicted storms this winter much worse.",
+      "url": "https://www.livescience.com/planet-earth/rivers-oceans/powerful-kelvin-wave-triggered-by-super-el-nino-threatens-to-raise-sea-levels-off-the-california-coast-for-months"
+    },
+    {
+      "category": "Science",
+      "title": " Astronomers discover 'backward' planet orbiting its star in the wrong direction ",
+      "source": " Latest from Live Science ",
+      "date": "Wed, 30 Sep 2026 16:07:27 +0000",
+      "summary": "A newly discovered exoplanet orbits its star backward, and it's a mystery why. The system and others like it could shed light on how some complex planetary systems form.",
+      "url": "https://www.livescience.com/space/exoplanets/we-may-need-to-think-differently-star-system-with-backward-planet-moving-the-wrong-way-around-its-star-has-scientists-puzzled"
     },
     {
       "category": "Science",
@@ -75,14 +139,6 @@
       "url": "https://www.sciencedaily.com/releases/2026/09/260930020252.htm"
     },
     {
-      "category": "AI",
-      "title": "Cloudflare plans to issue quantum-safe TLS certificates",
-      "source": "Ars Technica - All content",
-      "date": "Wed, 30 Sep 2026 11:15:14 +0000",
-      "summary": "The move will be part of a major overhaul of the ecosystem for website authentication.",
-      "url": "https://arstechnica.com/security/2026/09/cloudflare-plans-to-issue-quantum-safe-tls-certificates/"
-    },
-    {
       "category": "Biblical Studies",
       "title": "Piety and Prestige in Late Second Temple Jerusalem",
       "source": "Biblical Archaeology Society",
@@ -91,28 +147,20 @@
       "url": "https://www.biblicalarchaeology.org/daily/biblical-sites-places/piety-and-prestige-in-late-second-temple-jerusalem/"
     },
     {
+      "category": "AI",
+      "title": "Disrupting a coordinated model-distillation campaign",
+      "source": "OpenAI News",
+      "date": "Wed, 30 Sep 2026 10:30:00 GMT",
+      "summary": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.",
+      "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign"
+    },
+    {
       "category": "Biblical Studies",
       "title": "Adriatic Shipwreck Reveals Details of Roman Trade",
       "source": "Biblical Archaeology Society",
       "date": "Wed, 30 Sep 2026 10:00:32 +0000",
       "summary": "Excavators with Croatia’s International Centre for Underwater Archaeology in Zadar have spent years carefully excavating a well-preserved Roman merchant ship that sank in Barbir Bay, […]\nThe post Adriatic Shipwreck Reveals Details of Roman Trade appeared first on Biblical Archaeology Society.",
       "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-rome/adriatic-shipwreck-reveals-details-of-roman-trade/"
-    },
-    {
-      "category": "Science",
-      "title": " Now is the best time to see Saturn all year — yes, even with the naked eye ",
-      "source": " Latest from Live Science ",
-      "date": "Wed, 30 Sep 2026 10:00:00 +0000",
-      "summary": "Saturn will put on a show this week as it enters opposition and its famous rings return to looking their best.",
-      "url": "https://www.livescience.com/space/saturn/this-week-is-the-best-time-to-see-saturn-all-year-yes-even-with-the-naked-eye"
-    },
-    {
-      "category": "Science",
-      "title": " Woman's 5-year struggle with balance and walking was caused by a 'one-in-a-million' disorder ",
-      "source": " Latest from Live Science ",
-      "date": "Wed, 30 Sep 2026 10:00:00 +0000",
-      "summary": "A woman developed severe stiffness in her knees, along with a range of other symptoms. Blood tests revealed her very rare disorder.",
-      "url": "https://www.livescience.com/health/immune-system/diagnostic-dilemma-womans-5-year-struggle-with-balance-and-walking-was-caused-by-a-one-in-a-million-disorder"
     },
     {
       "category": "AI",
@@ -139,14 +187,6 @@
       "url": "https://www.sciencedaily.com/releases/2026/09/260930020312.htm"
     },
     {
-      "category": "Space",
-      "title": "APOD: 2026 September 30 – Arp 78: Peculiar Galaxy in Aries",
-      "source": "NASA",
-      "date": "Wed, 30 Sep 2026 04:05:00 +0000",
-      "summary": "APOD Science APOD APOD: 2026 September 30 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Arp 78: Peculiar […]",
-      "url": "https://science.nasa.gov/image-article/apod-2026-september-30-arp-78-peculiar-galaxy-in-aries/"
-    },
-    {
       "category": "Theology",
       "title": "Introducing ‘Your Corner of the World’",
       "source": "The Gospel Coalition",
@@ -163,14 +203,6 @@
       "url": "https://www.thegospelcoalition.org/article/life-canvas-create-beautiful/"
     },
     {
-      "category": "Space",
-      "title": "Powerful Storms Continue to Prowl the Pacific",
-      "source": "NASA",
-      "date": "Wed, 30 Sep 2026 04:01:00 +0000",
-      "summary": "Hurricanes Polo and Nolo sent destructive effects ashore amid an active season in the northeastern and central Pacific.",
-      "url": "https://science.nasa.gov/earth/earth-observatory/powerful-storms-continue-to-prowl-the-pacific/"
-    },
-    {
       "category": "Theology",
       "title": "How Can Disciples Walk Faithfully in a Postliterate Era?",
       "source": "The Gospel Coalition",
@@ -179,44 +211,12 @@
       "url": "https://www.thegospelcoalition.org/article/disciples-postliterate-era/"
     },
     {
-      "category": "AI",
-      "title": "Most powerful obesity drug yet: People lost up to 25% of weight in trial",
-      "source": "Ars Technica - All content",
-      "date": "Tue, 29 Sep 2026 22:30:37 +0000",
-      "summary": "Retatrutide is a triple-hormone obesity drug simulating GLP-1, GIP, and glucagon.",
-      "url": "https://arstechnica.com/health/2026/09/most-powerful-obesity-drug-yet-people-lost-up-to-25-of-weight-in-trial/"
-    },
-    {
-      "category": "AI",
-      "title": "Protests against OpenAI get increasingly creative",
-      "source": "Ars Technica - All content",
-      "date": "Tue, 29 Sep 2026 21:52:58 +0000",
-      "summary": "New sculpture depicts AI leaders escaping a sinking ship.",
-      "url": "https://arstechnica.com/ai/2026/09/what-iceberg-bay-area-artists-target-openai-with-titanic-themed-protest-art/"
-    },
-    {
-      "category": "Space",
-      "title": "NASA Opens 2027 Human Lander Challenge for Lunar Communications",
-      "source": "NASA",
-      "date": "Tue, 29 Sep 2026 21:27:56 +0000",
-      "summary": "NASA’s 2027 Human Lander Challenge is seeking ideas from college and university students to help address one of the most critical needs for sustained lunar exploration: reliable communications. As NASA prepares for long-term human presence on the Moon through the Artemis and Moon Base programs, communications systems will be just as important as spacecraft and […]",
-      "url": "https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/nasa-opens-2027-human-lander-challenge-for-lunar-communications/"
-    },
-    {
       "category": "Theology",
       "title": "Eight Enemies of Pastoral Friendship",
       "source": "9Marks",
       "date": "Tue, 29 Sep 2026 20:54:47 +0000",
       "summary": "Biblical friendship is not a luxury for pastors. It is one of God's ordinary means of sustaining us for long-term ministry.\nThe post Eight Enemies of Pastoral Friendship appeared first on 9Marks.",
       "url": "https://www.9marks.org/article/eight-enemies-of-pastoral-friendship/?utm_source=rss&utm_medium=rss&utm_campaign=eight-enemies-of-pastoral-friendship"
-    },
-    {
-      "category": "AI",
-      "title": "DevDay 2026 Recap",
-      "source": "OpenAI News",
-      "date": "Tue, 29 Sep 2026 10:00:00 GMT",
-      "summary": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
-      "url": "https://openai.com/index/devday-2026-recap"
     },
     {
       "category": "AI",
