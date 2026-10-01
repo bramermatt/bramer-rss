@@ -1,142 +1,182 @@
 {
-  "lastUpdated": "2026-10-01T00:57:43.337Z",
-  "articleCount": 36,
+  "lastUpdated": "2026-10-01T16:48:36.113Z",
+  "articleCount": 33,
   "articles": [
     {
       "category": "Science",
-      "title": "Celebrity Traitors: Research suggests that some contestants will find the game tougher than it looks",
+      "title": "Largest-ever jaguar analysis identifies how populations are connected across the Americas",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Wed, 30 Sep 2026 20:20:01 EDT",
-      "summary": "\"The Traitors\" has become essential viewing for millions of fans. The TV game show, in which a group of \"faithfuls\" try to identify a smaller number of hidden traitors, is all about truth and lies.",
-      "url": "https://phys.org/news/2026-09-celebrity-traitors-contestants-game-tougher.html"
+      "date": "Thu, 01 Oct 2026 12:40:07 EDT",
+      "summary": "An international team of researchers has produced the most comprehensive assessment to date of connectivity across the jaguar's range, identifying key habitats and movement corridors that could help guide conservation efforts for the Americas' largest cat.",
+      "url": "https://phys.org/news/2026-10-largest-jaguar-analysis-populations-americas.html"
     },
     {
       "category": "Science",
-      "title": "Fine-tuning cobalt for cleaner chemical transformations",
+      "title": "Celebrity accounts reveal distinctive victim-blaming in deepfake sexual abuse",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Wed, 30 Sep 2026 19:40:01 EDT",
-      "summary": "Finding alternatives to precious metals in chemical manufacturing may be less like sourcing a substitute and more like tuning an instrument already in hand.",
-      "url": "https://phys.org/news/2026-09-fine-tuning-cobalt-cleaner-chemical.html"
+      "date": "Thu, 01 Oct 2026 12:40:01 EDT",
+      "summary": "Celebrity victim-survivors of deepfake sexual abuse face distinctive forms of victim-blaming, harassment and barriers to justice, according to new research led by Irish researchers.",
+      "url": "https://phys.org/news/2026-10-celebrity-accounts-reveal-distinctive-victim.html"
     },
     {
-      "category": "Space",
-      "title": "Curiosity Blog, Sols 5016–5021: Fantastic Minerals and How To Detect Them",
-      "source": "NASA",
-      "date": "Wed, 30 Sep 2026 23:37:47 +0000",
-      "summary": "Written by Lucy Lim, Planetary Scientist at NASA Goddard Space Flight Center Earth planning date: Friday, Sept. 18, 2026 Curiosity surprised us at the beginning of the week with a change in rock texture — instead of the finely layered bedrock blocks we’ve been seeing in our recent sulfate unit workspaces, suddenly we were looking […]",
-      "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5016-5021-fantastic-minerals-and-how-to-detect-them/"
+      "category": "AI",
+      "title": "With most information hidden, the game Stratego",
+      "source": "Ars Technica - All content",
+      "date": "Thu, 01 Oct 2026 16:28:04 +0000",
+      "summary": "Adding in a second neural network that guesses the identity of hidden pieces was key.",
+      "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/"
     },
     {
       "category": "Science",
-      "title": "Bacteria can make plant-based foods healthier for humans and animals",
+      "title": "Urban environments may be the ultimate training grounds for invasive species",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Wed, 30 Sep 2026 19:20:07 EDT",
-      "summary": "New research from the DTU National Food Institute and Aarhus University shows that microorganisms can be used to specifically alter the amino acid composition of plant-based foods, making them more nutritious and therefore healthier.",
-      "url": "https://phys.org/news/2026-09-bacteria-based-foods-healthier-humans.html"
+      "date": "Thu, 01 Oct 2026 12:20:09 EDT",
+      "summary": "As cities grow and urban sprawl expands, could these changing landscapes be giving invasive species a competitive edge? Scientists at the University of Florida Institute of Food and Agricultural Sciences (UF/IFAS) say the answer may be yes, according to a new study from the UF/IFAS Invasion Science Institute.",
+      "url": "https://phys.org/news/2026-10-urban-environments-ultimate-grounds-invasive.html"
     },
     {
       "category": "AI",
-      "title": "EDG C++ Compiler is open source",
+      "title": "Clef: our open-source decision models",
       "source": "Hacker News: Front Page",
-      "date": "Wed, 30 Sep 2026 22:48:44 +0000",
-      "summary": "Article URL: https://github.com/edgcpp/compiler\nComments URL: https://news.ycombinator.com/item?id=49915484\nPoints: 24\n# Comments: 1",
-      "url": "https://github.com/edgcpp/compiler"
+      "date": "Thu, 01 Oct 2026 16:18:57 +0000",
+      "summary": "Article URL: https://blog.cloudflare.com/clef-decision-models/\nComments URL: https://news.ycombinator.com/item?id=49923692\nPoints: 4\n# Comments: 0",
+      "url": "https://blog.cloudflare.com/clef-decision-models/"
+    },
+    {
+      "category": "Science",
+      "title": " Watch the world's smallest crocodiles snatch bats in their hidden underground lair ‪—‬ a behavior never seen before ",
+      "source": " Latest from Live Science ",
+      "date": "Thu, 01 Oct 2026 16:10:41 +0000",
+      "summary": "Live Science can exclusively reveal a video of Gabon's mysterious cave-dwelling dwarf crocodiles snatching bats in a never-before-seen hunting behavior, ahead of the series premiere of \"Africa: Earth's Wild Home.\"",
+      "url": "https://www.livescience.com/animals/alligators-crocodiles/watch-the-worlds-smallest-crocodiles-snatch-bats-in-their-hidden-underground-lair-a-behavior-never-seen-before"
     },
     {
       "category": "AI",
-      "title": "56k.rip – the 1996 dial-up internet experience",
+      "title": "Canada fast-tracks Pacific oil pipeline to reduce US dependence",
       "source": "Hacker News: Front Page",
-      "date": "Wed, 30 Sep 2026 22:08:50 +0000",
-      "summary": "Article URL: https://56k.rip/\nComments URL: https://news.ycombinator.com/item?id=49915126\nPoints: 24\n# Comments: 8",
-      "url": "https://56k.rip/"
+      "date": "Thu, 01 Oct 2026 16:10:00 +0000",
+      "summary": "Article URL: https://apnews.com/article/alberta-canada-carney-pipeline-68539133d6e0245fad3622263afd4aeb\nComments URL: https://news.ycombinator.com/item?id=49923575\nPoints: 5\n# Comments: 0",
+      "url": "https://apnews.com/article/alberta-canada-carney-pipeline-68539133d6e0245fad3622263afd4aeb"
     },
     {
       "category": "AI",
-      "title": "Automating Wi-Fi setup testing on the ESP32",
+      "title": "RIP, vector database",
       "source": "Hacker News: Front Page",
-      "date": "Wed, 30 Sep 2026 22:07:51 +0000",
-      "summary": "Article URL: https://groundrun.io/blog/automating-wi-fi-setup-testing-on-the-esp32/\nComments URL: https://news.ycombinator.com/item?id=49915119\nPoints: 11\n# Comments: 0",
-      "url": "https://groundrun.io/blog/automating-wi-fi-setup-testing-on-the-esp32/"
+      "date": "Thu, 01 Oct 2026 16:01:56 +0000",
+      "summary": "Article URL: https://turbopuffer.com/blog/rip-vector-database\nComments URL: https://news.ycombinator.com/item?id=49923466\nPoints: 33\n# Comments: 2",
+      "url": "https://turbopuffer.com/blog/rip-vector-database"
+    },
+    {
+      "category": "Science",
+      "title": " Adversity shaped our evolution as a species. People raised in it may have underrecognized strengths because of it. ",
+      "source": " Latest from Live Science ",
+      "date": "Thu, 01 Oct 2026 16:00:00 +0000",
+      "summary": "Psychologists have long studied the deficits associated with being raised in adversity. They're now discovering the hidden strengths that can emerge in those settings.",
+      "url": "https://www.livescience.com/human-behavior/adversity-shaped-our-evolution-as-a-species-people-raised-in-it-may-have-underrecognized-strengths-because-of-it"
     },
     {
       "category": "AI",
-      "title": "Dinosaur-killing impact crater might have been teeming with life",
-      "source": "Ars Technica - All content",
-      "date": "Wed, 30 Sep 2026 21:54:12 +0000",
-      "summary": "Hot, nutrient water might have lasted for over 5 million years after the impact.",
-      "url": "https://arstechnica.com/science/2026/09/dinosaur-killing-impact-crater-might-have-been-teeming-with-life/"
+      "title": "How Albertsons Companies is reimagining retail from the inside out",
+      "source": "OpenAI News",
+      "date": "Thu, 01 Oct 2026 16:00:00 GMT",
+      "summary": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.",
+      "url": "https://openai.com/index/albertsons-reimagining-retail"
+    },
+    {
+      "category": "Science",
+      "title": " 'This is what happened with Claude and me': AI's failed attempt to crack the Riemann hypothesis led mathematician to a breakthrough ",
+      "source": " Latest from Live Science ",
+      "date": "Thu, 01 Oct 2026 15:56:04 +0000",
+      "summary": "An attempt by Anthropic's Claude failed to prove the Riemann hypothesis, but it did produce something genuinely useful: inspiration.",
+      "url": "https://www.livescience.com/technology/artificial-intelligence/this-is-what-happened-with-claude-and-me-ais-failed-attempt-to-crack-the-riemann-hypothesis-led-mathematician-to-a-breakthrough"
     },
     {
       "category": "AI",
-      "title": "Fifth unvaccinated person dies of measles; CDC still not counting all deaths",
+      "title": "As US relations fray, Canada gets serious about its own launch industry",
       "source": "Ars Technica - All content",
-      "date": "Wed, 30 Sep 2026 21:37:54 +0000",
-      "summary": "State health officials race to vaccinate residents by giving over 8,500 doses.",
-      "url": "https://arstechnica.com/health/2026/09/fifth-unvaccinated-person-dies-of-measles-cdc-still-not-counting-all-deaths/"
+      "date": "Thu, 01 Oct 2026 15:30:49 +0000",
+      "summary": "The Canada Rocket Company gets serious about medium-lift launch.",
+      "url": "https://arstechnica.com/space/2026/10/as-us-relations-fray-canada-gets-serious-about-its-own-launch-industry/"
     },
     {
       "category": "Science",
-      "title": " CHIME telescope unlocks new way to study the universe's bafflign expansion ",
-      "source": " Latest from Live Science ",
-      "date": "Wed, 30 Sep 2026 21:28:51 +0000",
-      "summary": "After seven years of work, Canada's CHIME telescope has a measurement of dark energy from 2019. More detailed studies are planned to expand the research.",
-      "url": "https://www.livescience.com/space/astronomy/ancient-hydrogen-spotted-in-the-early-universe-could-open-a-new-way-to-study-spaces-baffling-expansion"
-    },
-    {
-      "category": "AI",
-      "title": "Returning from vacation? The government can search your phone without a warrant.",
-      "source": "Ars Technica - All content",
-      "date": "Wed, 30 Sep 2026 21:19:56 +0000",
-      "summary": "Reminder: The \"border exemption\" to your rights is real.",
-      "url": "https://arstechnica.com/tech-policy/2026/09/immigration-advocate-sues-border-agents-for-demanding-his-cell-phone/"
-    },
-    {
-      "category": "Space",
-      "title": "Help Overlap Zoo Reveal Cosmic Dust",
-      "source": "NASA",
-      "date": "Wed, 30 Sep 2026 21:19:33 +0000",
-      "summary": "Galaxies, vast collections of billions of stars, gas, and dust held together by gravity, are scattered across the immensity of space. But every so often, a coincidence occurs: Two galaxies line up from our point of view on Earth (or from a space telescope) and appear to overlap in the sky. These rare overlapping galaxies […]",
-      "url": "https://science.nasa.gov/get-involved/citizen-science/help-overlap-zoo-reveal-cosmic-dust/"
-    },
-    {
-      "category": "Space",
-      "title": "NASA Adds New Science Investigations for Moon Base",
-      "source": "NASA",
-      "date": "Wed, 30 Sep 2026 21:11:23 +0000",
-      "summary": "Editor’s note: This release was updated on Sept. 30, 2026, to correct the name of the DISCO payload. NASA selected three new scientific investigations and their payload suites to advance our knowledge of the Moon and help pave the way for building humanity’s first lunar outpost, Moon Base. The suite of science instruments and technologies […]",
-      "url": "https://www.nasa.gov/news-release/nasa-adds-new-science-investigations-for-moon-base/"
-    },
-    {
-      "category": "Science",
-      "title": " Powerful 'Kelvin wave' triggered by super El Niño threatens to raise sea levels off the California coast for months ",
-      "source": " Latest from Live Science ",
-      "date": "Wed, 30 Sep 2026 16:10:59 +0000",
-      "summary": "A disturbance characterized by above-normal sea levels is spreading up the Pacific coast of Central and North America, and it could make the damage from predicted storms this winter much worse.",
-      "url": "https://www.livescience.com/planet-earth/rivers-oceans/powerful-kelvin-wave-triggered-by-super-el-nino-threatens-to-raise-sea-levels-off-the-california-coast-for-months"
-    },
-    {
-      "category": "Science",
-      "title": " Astronomers discover 'backward' planet orbiting its star in the wrong direction ",
-      "source": " Latest from Live Science ",
-      "date": "Wed, 30 Sep 2026 16:07:27 +0000",
-      "summary": "A newly discovered exoplanet orbits its star backward, and it's a mystery why. The system and others like it could shed light on how some complex planetary systems form.",
-      "url": "https://www.livescience.com/space/exoplanets/we-may-need-to-think-differently-star-system-with-backward-planet-moving-the-wrong-way-around-its-star-has-scientists-puzzled"
-    },
-    {
-      "category": "Science",
-      "title": "Cannabis users were twice as likely to commit violence, review finds",
+      "title": "This diet may slow brain aging by 2.5 years",
       "source": "All Top News -- ScienceDaily",
-      "date": "Wed, 30 Sep 2026 08:49:01 EDT",
-      "summary": "A review of more than 265,000 people found that cannabis use was associated with higher rates of both committing violence and becoming a victim of it. The researchers say the link is significant but does not prove cannabis itself is the cause.",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260930020255.htm"
+      "date": "Thu, 01 Oct 2026 08:26:47 EDT",
+      "summary": "People who followed the MIND diet more closely showed slower brain shrinkage and less grey matter loss over time, with the strongest differences equivalent to about 2.5 years of delayed brain aging. Berries and poultry were linked with healthier brain changes, while sweets and fried fast foods were associated with greater tissue loss.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260930225503.htm"
+    },
+    {
+      "category": "AI",
+      "title": "PS5 emulation is suddenly making big strides on PC",
+      "source": "Ars Technica - All content",
+      "date": "Thu, 01 Oct 2026 11:30:41 +0000",
+      "summary": "Games like Astro Bot and Demon’s Souls are running ably without a console.",
+      "url": "https://arstechnica.com/gaming/2026/10/ps5-emulation-is-suddenly-making-big-strides-on-pc/"
+    },
+    {
+      "category": "Biblical Studies",
+      "title": "Roman Crucifixion Methods Reveal the History of Crucifixion",
+      "source": "Biblical Archaeology Society",
+      "date": "Thu, 01 Oct 2026 11:00:37 +0000",
+      "summary": "What do we know about the history of crucifixion? Hershel Shanks looks at evidence of Roman crucifixion methods  as analyzed from the remains found in Jerusalem of a young man crucified in the first century A.D.\nThe post Roman Crucifixion Methods Reveal the History of Crucifixion appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/daily/biblical-topics/crucifixion/roman-crucifixion-methods-reveal-the-history-of-crucifixion/"
+    },
+    {
+      "category": "Biblical Studies",
+      "title": "Understanding the Good Samaritan Parable",
+      "source": "Biblical Archaeology Society",
+      "date": "Thu, 01 Oct 2026 11:00:08 +0000",
+      "summary": "Who were the Samaritans? Dr. Amy-Jill Levine of Vanderbilt University explains how getting an accurate answer to this question can shed light on how shocking the Good Samaritan parable would have been for Jesus’ audience.\nThe post Understanding the Good Samaritan Parable appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/daily/archaeology-today/archaeologists-biblical-scholars-works/understanding-the-good-samaritan-parable/"
+    },
+    {
+      "category": "History",
+      "title": "America’s Original Stimulus Package: A Catalytic, Consequential Fishing Policy",
+      "source": "Journal of the American Revolution",
+      "date": "Thu, 01 Oct 2026 09:00:19 +0000",
+      "summary": "The heady days of the Declaration of Independence, struggle, victory, and a new Constitution were all behind him. Now, within weeks of taking office as President of the United States, George Washington presided over a toxic political atmosphere. Despite initial hopes for national unity, a vicious partisan press had emerged. Mobs on the frontier flirted […]\nThe post America’s Original Stimulus Package: A Catalytic, Consequential Fishing Policy appeared first on Journal of the American Revolution.",
+      "url": "https://allthingsliberty.com/2026/10/americas-original-stimulus-package-a-catalytic-consequential-fishing-policy/"
     },
     {
       "category": "Science",
-      "title": "A record-breaking X-ray flash may reveal the birth of a magnetar",
+      "title": "Could quitting ultra-processed food boost your mental health?",
       "source": "All Top News -- ScienceDaily",
-      "date": "Wed, 30 Sep 2026 08:27:27 EDT",
-      "summary": "Astronomers have found strong evidence that some mysterious, minutes-long X-ray flashes are produced when two neutron stars collide and create a magnetar. One record-setting event glowed in X-rays for nearly 10 minutes, potentially opening a new way to find these extreme cosmic mergers.",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260930020252.htm"
+      "date": "Thu, 01 Oct 2026 02:34:01 EDT",
+      "summary": "People with depression who dramatically cut ultra-processed foods experienced notable improvements in their symptoms in a small preliminary study. Researchers suspect healthier eating may benefit the brain partly by reducing gut damage and chronic inflammation.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260930225448.htm"
+    },
+    {
+      "category": "Science",
+      "title": "Alzheimer’s risk gene APOE4 may have a reversible weakness",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Thu, 01 Oct 2026 00:45:26 EDT",
+      "summary": "The Alzheimer’s risk gene APOE4 may actively damage brain blood vessels and sabotage the cellular systems that remove harmful proteins. Researchers were able to reverse some of these effects in experiments, revealing promising new targets for Alzheimer’s, Parkinson’s, and other neurodegenerative diseases.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260930225450.htm"
+    },
+    {
+      "category": "Theology",
+      "title": "The Deep Dish Live: Endurance in the Faith (with Nancy Guthrie and Jen Wilkin)",
+      "source": "The Gospel Coalition",
+      "date": "Thu, 01 Oct 2026 04:04:33 +0000",
+      "summary": "In this live recording from TGCW26, Courtney and Melissa talk with Nancy Guthrie and Jen Wilkin about how to persevere in faith for the rest of your life.",
+      "url": "https://www.thegospelcoalition.org/podcasts/deep-dish/live-endurance-faith/"
+    },
+    {
+      "category": "Theology",
+      "title": "‘Primetime’ Is a Morally Murky Mess",
+      "source": "The Gospel Coalition",
+      "date": "Thu, 01 Oct 2026 04:02:00 +0000",
+      "summary": "Gen-Z hit ‘Primetime’ offers a provocative cinematic experience that’s ultimately empty and far less interesting than it thinks it is.",
+      "url": "https://www.thegospelcoalition.org/article/primetime-christian-movie-review/"
+    },
+    {
+      "category": "Theology",
+      "title": "AI Promises Intimacy but Delivers Isolation",
+      "source": "The Gospel Coalition",
+      "date": "Thu, 01 Oct 2026 04:00:00 +0000",
+      "summary": "‘Artificial Intimacy’ reminds us of the value of real human relationships and should inspire Christians to make our churches and homes places where those relationships can flourish.",
+      "url": "https://www.thegospelcoalition.org/reviews/artificial-intimacy/"
     },
     {
       "category": "Biblical Studies",
@@ -155,14 +195,6 @@
       "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign"
     },
     {
-      "category": "Biblical Studies",
-      "title": "Adriatic Shipwreck Reveals Details of Roman Trade",
-      "source": "Biblical Archaeology Society",
-      "date": "Wed, 30 Sep 2026 10:00:32 +0000",
-      "summary": "Excavators with Croatia’s International Centre for Underwater Archaeology in Zadar have spent years carefully excavating a well-preserved Roman merchant ship that sank in Barbir Bay, […]\nThe post Adriatic Shipwreck Reveals Details of Roman Trade appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-rome/adriatic-shipwreck-reveals-details-of-roman-trade/"
-    },
-    {
       "category": "AI",
       "title": "Helping small businesses put AI to work",
       "source": "OpenAI News",
@@ -171,60 +203,12 @@
       "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work"
     },
     {
-      "category": "Biblical Studies",
-      "title": "Milestones: Yuval Goren (1956–2026)",
-      "source": "Biblical Archaeology Society",
-      "date": "Wed, 30 Sep 2026 09:30:33 +0000",
-      "summary": "Yuval Goren, a professor of archaeology at Ben-Gurion University of the Negev, was a pioneer in the fields of archaeometry and microarchaeological research. Born in […]\nThe post Milestones: Yuval Goren (1956–2026) appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/milestones/yuval-goren/"
-    },
-    {
-      "category": "Science",
-      "title": "Watch Live: NASA’s Crew-13 could make the fastest U.S. trip to the ISS ever",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Wed, 30 Sep 2026 04:36:42 EDT",
-      "summary": "NASA’s SpaceX Crew-13 mission is scheduled to launch four astronauts to the International Space Station on October 1. The Dragon could reach the orbiting laboratory in just 7 hours and 50 minutes, making it the fastest U.S. spacecraft journey to the ISS in history.",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260930020312.htm"
-    },
-    {
-      "category": "Theology",
-      "title": "Introducing ‘Your Corner of the World’",
-      "source": "The Gospel Coalition",
-      "date": "Wed, 30 Sep 2026 04:03:00 +0000",
-      "summary": "Dan Doriani and Mark Vroegop talk with Christians from a wide range of professions about how biblical wisdom shapes the way we work, lead, serve, and live faithfully in our corner of the world.",
-      "url": "https://www.thegospelcoalition.org/podcasts/your-corner-of-the-world/introducing-your-corner-world/"
-    },
-    {
-      "category": "Theology",
-      "title": "Life Is a Canvas: Create Something Beautiful",
-      "source": "The Gospel Coalition",
-      "date": "Wed, 30 Sep 2026 04:02:00 +0000",
-      "summary": "God stretches the canvas of life for us, and we’re to make something beautiful, by his grace.",
-      "url": "https://www.thegospelcoalition.org/article/life-canvas-create-beautiful/"
-    },
-    {
-      "category": "Theology",
-      "title": "How Can Disciples Walk Faithfully in a Postliterate Era?",
-      "source": "The Gospel Coalition",
-      "date": "Wed, 30 Sep 2026 04:00:00 +0000",
-      "summary": "Even if statistics appear grim, followers of Christ shouldn’t lose heart.",
-      "url": "https://www.thegospelcoalition.org/article/disciples-postliterate-era/"
-    },
-    {
       "category": "Theology",
       "title": "Eight Enemies of Pastoral Friendship",
       "source": "9Marks",
       "date": "Tue, 29 Sep 2026 20:54:47 +0000",
       "summary": "Biblical friendship is not a luxury for pastors. It is one of God's ordinary means of sustaining us for long-term ministry.\nThe post Eight Enemies of Pastoral Friendship appeared first on 9Marks.",
       "url": "https://www.9marks.org/article/eight-enemies-of-pastoral-friendship/?utm_source=rss&utm_medium=rss&utm_campaign=eight-enemies-of-pastoral-friendship"
-    },
-    {
-      "category": "AI",
-      "title": "Introducing GPT-6.1 Sol",
-      "source": "OpenAI News",
-      "date": "Tue, 29 Sep 2026 10:00:00 GMT",
-      "summary": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
-      "url": "https://openai.com/index/introducing-gpt-6-1-sol"
     },
     {
       "category": "History",
@@ -257,14 +241,6 @@
       "date": "Fri, 25 Sep 2026 03:25:56 +0000",
       "summary": "It is easy to get lost in wanting to lead out in change just so we can say we did it, or out of concern to our reputation. But our motivation for change should be to bring greater glory to God and greater health to his church.\nThe post Finish the Race: Final Steps in the Transition to a Plurality of Elders appeared first on 9Marks.",
       "url": "https://www.9marks.org/article/finish-the-race-final-steps-in-the-transition-to-a-plurality-of-elders/?utm_source=rss&utm_medium=rss&utm_campaign=finish-the-race-final-steps-in-the-transition-to-a-plurality-of-elders"
-    },
-    {
-      "category": "History",
-      "title": "The Long, Sad Life of the Continental Frigate Delaware",
-      "source": "Journal of the American Revolution",
-      "date": "Thu, 24 Sep 2026 09:00:54 +0000",
-      "summary": "On October 13, 1775, Congress resolved to buy four merchant ships and convert them to warships. Three more ships were soon acquired. A naval committee was established. The Continental Navy was created. On December 11 Congress authorized a new committee to devise ways and means of developing the navy. A member of the congress from […]\nThe post The Long, Sad Life of the Continental Frigate <i>Delaware</i> appeared first on Journal of the American Revolution.",
-      "url": "https://allthingsliberty.com/2026/09/the-long-sad-life-of-the-continental-frigate-delaware/"
     },
     {
       "category": "History",
