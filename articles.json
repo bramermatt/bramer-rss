@@ -1,86 +1,110 @@
 {
-  "lastUpdated": "2026-10-02T16:02:19.587Z",
-  "articleCount": 36,
+  "lastUpdated": "2026-10-03T00:51:33.535Z",
+  "articleCount": 33,
   "articles": [
     {
       "category": "Science",
-      "title": "What space travel teaches us about sleep and circadian rhythms",
+      "title": "Team selected for NASA program to explore potential lunar cave",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Fri, 02 Oct 2026 12:00:11 EDT",
-      "summary": "On Earth, most of us rarely have to think about the signals that keep our internal clocks aligned. The sun rises, daylight changes, darkness arrives and morning comes again.",
-      "url": "https://phys.org/news/2026-10-space-circadian-rhythms.html"
+      "date": "Fri, 02 Oct 2026 19:20:06 EDT",
+      "summary": "NASA has selected a Planetary Science Institute–led proposal to investigate whether a potentially large underground cave extends beyond the opening of a lunar pit. Such a cave may one day provide a safe haven for astronauts to escape the radiation and extreme temperature swings present at the lunar surface.",
+      "url": "https://phys.org/news/2026-10-team-nasa-explore-potential-lunar.html"
+    },
+    {
+      "category": "AI",
+      "title": "Debian Inference Portal",
+      "source": "Hacker News: Front Page",
+      "date": "Fri, 02 Oct 2026 22:43:01 +0000",
+      "summary": "Article URL: https://inference.debian.net/\nComments URL: https://news.ycombinator.com/item?id=49939513\nPoints: 6\n# Comments: 2",
+      "url": "https://inference.debian.net/"
     },
     {
       "category": "Science",
-      "title": "Iron Age skulls reveal some babies had flat head syndrome—long before the 'Back to Sleep' campaign",
+      "title": "Changes to platinum surface chemistry boost solar hydrogen production in organic photocatalysts",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Fri, 02 Oct 2026 12:00:01 EDT",
-      "summary": "Nearly 3,000 years ago, in central Italy, dozens of Picene people were laid to rest curled up on their sides, as if asleep. When their eternal slumber was disturbed thousands of years later, researchers noted a curiously familiar pattern, one many modern parents and doctors fret over: As infants, many of them had developed a flat spot on their heads.",
-      "url": "https://phys.org/news/2026-10-iron-age-skulls-reveal-babies.html"
-    },
-    {
-      "category": "AI",
-      "title": "Supabase Is Acquiring Turso",
-      "source": "Hacker News: Front Page",
-      "date": "Fri, 02 Oct 2026 15:43:03 +0000",
-      "summary": "Article URL: https://supabase.com/blog/supabase-is-acquiring-turso\nComments URL: https://news.ycombinator.com/item?id=49934784\nPoints: 6\n# Comments: 1",
-      "url": "https://supabase.com/blog/supabase-is-acquiring-turso"
+      "date": "Fri, 02 Oct 2026 18:20:01 EDT",
+      "summary": "Researchers from the LIMNO laboratory at EPFL have uncovered how different halides modify the surface chemistry of organic semiconductor nanoparticle photocatalysts. By controlling these phenomena, they have significantly improved the solar hydrogen production efficiency of these materials.",
+      "url": "https://phys.org/news/2026-10-platinum-surface-chemistry-boost-solar.html"
     },
     {
       "category": "Science",
-      "title": "New research shows how water would behave on the moon",
+      "title": "Researchers turn America's scattered local laws into a free searchable database covering all 50 states",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Fri, 02 Oct 2026 11:40:15 EDT",
-      "summary": "As humanity looks toward future bases on the moon, plant cultivation will be critical for sustaining life there. Plants can provide food, oxygen, medicine, water purification and waste recycling, making them indispensable for lunar development.",
-      "url": "https://phys.org/news/2026-10-moon.html"
+      "date": "Fri, 02 Oct 2026 17:40:09 EDT",
+      "summary": "America is a nation of local laws—millions of them. From noise ordinances and construction codes to rules about fishing licenses and roadside mango peddling, every town, city and county has its own set of regulations and unique way of doing things.",
+      "url": "https://phys.org/news/2026-10-america-local-laws-free-searchable.html"
     },
     {
       "category": "AI",
-      "title": "A 20-year-long permanent cookie: America.gov and tracking",
+      "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
       "source": "Hacker News: Front Page",
-      "date": "Fri, 02 Oct 2026 15:30:24 +0000",
-      "summary": "Article URL: https://www.biometricupdate.com/202610/america-gov-launches-with-privacy-pledge-as-login-gov-code-raises-tracking-questions\nComments URL: https://news.ycombinator.com/item?id=49934631\nPoints: 10\n# Comments: 1",
-      "url": "https://www.biometricupdate.com/202610/america-gov-launches-with-privacy-pledge-as-login-gov-code-raises-tracking-questions"
+      "date": "Fri, 02 Oct 2026 21:25:25 +0000",
+      "summary": "Article URL: https://allenai.org/blog/astabrief\nComments URL: https://news.ycombinator.com/item?id=49938783\nPoints: 17\n# Comments: 2",
+      "url": "https://allenai.org/blog/astabrief"
     },
     {
       "category": "AI",
-      "title": "Power approval set to delay Oracle's Wisconsin AI datacenter",
-      "source": "Hacker News: Front Page",
-      "date": "Fri, 02 Oct 2026 15:24:54 +0000",
-      "summary": "Article URL: https://www.theregister.com/on-prem/2026/10/02/power-approval-set-to-delay-oracles-wisconsin-ai-datacenter/5300832\nComments URL: https://news.ycombinator.com/item?id=49934569\nPoints: 8\n# Comments: 0",
-      "url": "https://www.theregister.com/on-prem/2026/10/02/power-approval-set-to-delay-oracles-wisconsin-ai-datacenter/5300832"
-    },
-    {
-      "category": "Science",
-      "title": " How prepared are you for a disaster? ",
-      "source": " Latest from Live Science ",
-      "date": "Fri, 02 Oct 2026 15:01:33 +0000",
-      "summary": "From emergency kits to evacuation plans, Live Science asks readers how prepared they are for the unexpected.",
-      "url": "https://www.livescience.com/planet-earth/how-prepared-are-you-for-a-disaster"
-    },
-    {
-      "category": "AI",
-      "title": "The 7-year-old Nvidia Shield TV is now $100 more expensive thanks to AI",
+      "title": "Someone got Doom in an SQL database",
       "source": "Ars Technica - All content",
-      "date": "Fri, 02 Oct 2026 14:52:16 +0000",
-      "summary": "Initially launched in 2019, the Nvidia Shield TV Pro now retails for $299.99.",
-      "url": "https://arstechnica.com/gadgets/2026/10/the-7-year-old-nvidia-shield-tv-is-now-100-more-expensive-thanks-to-ai/"
+      "date": "Fri, 02 Oct 2026 21:19:05 +0000",
+      "summary": "1,300 lines of SQL querying renders accurate bitmapped views of Hell at 35 fps.",
+      "url": "https://arstechnica.com/gaming/2026/10/can-it-run-doom-sql-database-edition/"
     },
     {
       "category": "AI",
-      "title": "Rocket Report: SpaceX completes launch triple-header; Rocket Lab nets big contract",
-      "source": "Ars Technica - All content",
-      "date": "Fri, 02 Oct 2026 13:54:34 +0000",
-      "summary": "Blue Origin seeks FAA approval for up to 50 New Glenn launches and 50 booster landings per year.",
-      "url": "https://arstechnica.com/space/2026/10/rocket-report-spacex-completes-launch-triple-header-rocket-lab-nets-big-contract/"
+      "title": "Every SaaS business will become a harness around a model",
+      "source": "Hacker News: Front Page",
+      "date": "Fri, 02 Oct 2026 21:06:56 +0000",
+      "summary": "Article URL: https://blog.sshh.io/p/the-harness-is-the-company\nComments URL: https://news.ycombinator.com/item?id=49938616\nPoints: 83\n# Comments: 60",
+      "url": "https://blog.sshh.io/p/the-harness-is-the-company"
     },
     {
       "category": "Science",
-      "title": " The ancestors of today's Indigenous people arrived in the Americas during the coldest part of the last ice age, study suggests ",
+      "title": " Rare two-headed turtle hatchling discovered on Cape Cod ",
       "source": " Latest from Live Science ",
-      "date": "Fri, 02 Oct 2026 11:00:00 +0000",
-      "summary": "The first people in the Americas arrived no earlier than 21,000 years ago, but 'there are huge gaps in our genetic dataset,' a new study reports.",
-      "url": "https://www.livescience.com/archaeology/americas/the-ancestors-of-todays-indigenous-people-arrived-in-the-americas-during-the-coldest-part-of-the-last-ice-age-study-suggests"
+      "date": "Fri, 02 Oct 2026 20:49:38 +0000",
+      "summary": "A two-headed turtle hatchling is one of three bicephalic terrapins that have been found on Cape Cod over the past five years.",
+      "url": "https://www.livescience.com/animals/turtles-tortoises/rare-two-headed-turtle-hatchling-discovered-on-cape-cod"
+    },
+    {
+      "category": "Science",
+      "title": " Colorful wildflowers bloom across Chile's Atacama Desert in wake of 'super' El Niño ",
+      "source": " Latest from Live Science ",
+      "date": "Fri, 02 Oct 2026 20:34:57 +0000",
+      "summary": "Chile's Atacama Desert is full of brilliant wildflower blooms thanks to this year's super El Niño.",
+      "url": "https://www.livescience.com/planet-earth/colorful-wildflowers-bloom-across-chiles-atacama-desert-in-wake-of-super-el-nino"
+    },
+    {
+      "category": "AI",
+      "title": "Amazon’s $1B plan to combat data center backlash draws more backlash",
+      "source": "Ars Technica - All content",
+      "date": "Fri, 02 Oct 2026 20:30:27 +0000",
+      "summary": "Amazon praised for ending NDAs but slammed for downplaying data center pollution.",
+      "url": "https://arstechnica.com/tech-policy/2026/10/amazons-1b-plan-to-combat-data-center-backlash-draws-more-backlash/"
+    },
+    {
+      "category": "AI",
+      "title": "Patient-zero drill put health facilities to the test—40% of them failed",
+      "source": "Ars Technica - All content",
+      "date": "Fri, 02 Oct 2026 20:07:59 +0000",
+      "summary": "Actors with makeup and fake symptoms staggered into 73 healthcare facilities.",
+      "url": "https://arstechnica.com/health/2026/10/patient-zero-drill-put-health-facilities-to-the-test-40-of-them-failed/"
+    },
+    {
+      "category": "Science",
+      "title": " Animals may have evolved 200 million years earlier than previously thought, new study suggests ",
+      "source": " Latest from Live Science ",
+      "date": "Fri, 02 Oct 2026 18:00:00 +0000",
+      "summary": "After using a technique called molecular clock analysis, researchers have proposed that the origin of animals could be 200 million years earlier than thought.",
+      "url": "https://www.livescience.com/planet-earth/evolution/animals-may-have-evolved-200-million-years-earlier-than-previously-thought-new-study-suggests"
+    },
+    {
+      "category": "AI",
+      "title": "A model guide for the GPT-6 family",
+      "source": "OpenAI News",
+      "date": "Fri, 02 Oct 2026 16:15:00 GMT",
+      "summary": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
+      "url": "https://openai.com/index/practical-guide-building-gpt-6"
     },
     {
       "category": "Biblical Studies",
@@ -91,36 +115,12 @@
       "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/mining-and-merchants-in-ancient-arabia/"
     },
     {
-      "category": "AI",
-      "title": "TCL is right to question Samsung’s use of the term “Mini LED”",
-      "source": "Ars Technica - All content",
-      "date": "Fri, 02 Oct 2026 10:30:11 +0000",
-      "summary": "Can it be Mini LED without a FALD backlight?",
-      "url": "https://arstechnica.com/gadgets/2026/10/tcl-is-right-to-question-samsungs-use-of-the-term-mini-led/"
-    },
-    {
-      "category": "Science",
-      "title": " 'A kind of Rosetta Stone': AI decodes 217-year-old secret letter ordered by Napoleon ",
-      "source": " Latest from Live Science ",
-      "date": "Fri, 02 Oct 2026 10:30:00 +0000",
-      "summary": "GPT-6 Astra has been used to solve a centuries-old cipher used to convey strategic military information between Napoleon's troops.",
-      "url": "https://www.livescience.com/technology/artificial-intelligence/a-kind-of-rosetta-stone-ai-decodes-217-year-old-secret-letter-ordered-by-napoleon"
-    },
-    {
       "category": "Biblical Studies",
       "title": "Thrown in a Late Roman Jail",
       "source": "Biblical Archaeology Society",
       "date": "Fri, 02 Oct 2026 10:00:53 +0000",
       "summary": "Although jails of various sorts would have been as normal in the Roman Empire as they are today, archaeologists have discovered fewer than you might […]\nThe post Thrown in a Late Roman Jail appeared first on Biblical Archaeology Society.",
       "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-rome/thrown-in-a-late-roman-jail/"
-    },
-    {
-      "category": "Space",
-      "title": "APOD: 2026 October 2 – The Complete Sharpless Catalog: 313 Nebulas",
-      "source": "NASA",
-      "date": "Fri, 02 Oct 2026 04:05:00 +0000",
-      "summary": "What does it take to image hundreds of nebulas? Today’s image contains the entire Sharpless Catalog of H II Regions, totaling 313 objects. Zoom in and explore!",
-      "url": "https://science.nasa.gov/image-article/apod-2026-october-2-the-complete-sharpless-catalog-313-nebulae/"
     },
     {
       "category": "Theology",
@@ -131,14 +131,6 @@
       "url": "https://www.thegospelcoalition.org/podcasts/tgc-podcast/turn-god-suffering/"
     },
     {
-      "category": "Space",
-      "title": "Rains Swamp the Gandak River",
-      "source": "NASA",
-      "date": "Fri, 02 Oct 2026 04:01:00 +0000",
-      "summary": "After days of torrential rain, the river rose to record-breaking levels in parts of Nepal and India.",
-      "url": "https://science.nasa.gov/earth/earth-observatory/rains-swamp-the-gandak-river/"
-    },
-    {
       "category": "Theology",
       "title": "Retrieve the Past. Retain the Truth.",
       "source": "The Gospel Coalition",
@@ -147,12 +139,12 @@
       "url": "https://www.thegospelcoalition.org/article/retrieve-past-retain-truth/"
     },
     {
-      "category": "Space",
-      "title": "10 Things: Movie Night",
-      "source": "NASA",
-      "date": "Fri, 02 Oct 2026 00:25:36 +0000",
-      "summary": "Join Us for Movie Night with NASA NASA’s mission is to pioneer the future in space exploration and scientific discovery. NASA+ documentaries allow you to come along for the ride. It’s free. It’s on demand. And no subscription is required. Grab some popcorn and come along for the journey. Other Worlds: Europa Cosmic Dawn Planetary […]",
-      "url": "https://science.nasa.gov/solar-system/10-things-movie-night/"
+      "category": "AI",
+      "title": "Chatham scales its capital markets expertise with OpenAI",
+      "source": "OpenAI News",
+      "date": "Fri, 02 Oct 2026 00:00:00 GMT",
+      "summary": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
+      "url": "https://openai.com/index/chatham-financial"
     },
     {
       "category": "AI",
@@ -161,14 +153,6 @@
       "date": "Thu, 01 Oct 2026 17:00:00 GMT",
       "summary": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.",
       "url": "https://openai.com/index/the-eternal-complement"
-    },
-    {
-      "category": "AI",
-      "title": "How Albertsons Companies is reimagining retail from the inside out",
-      "source": "OpenAI News",
-      "date": "Thu, 01 Oct 2026 16:00:00 GMT",
-      "summary": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.",
-      "url": "https://openai.com/index/albertsons-reimagining-retail"
     },
     {
       "category": "Science",
@@ -217,14 +201,6 @@
       "date": "Thu, 01 Oct 2026 04:04:33 +0000",
       "summary": "In this live recording from TGCW26, Courtney and Melissa talk with Nancy Guthrie and Jen Wilkin about how to persevere in faith for the rest of your life.",
       "url": "https://www.thegospelcoalition.org/podcasts/deep-dish/live-endurance-faith/"
-    },
-    {
-      "category": "AI",
-      "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
-      "source": "OpenAI News",
-      "date": "Thu, 01 Oct 2026 00:00:00 GMT",
-      "summary": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days.",
-      "url": "https://openai.com/index/the-den-family-social"
     },
     {
       "category": "Theology",
