@@ -1,46 +1,126 @@
 {
-  "lastUpdated": "2026-10-03T00:51:33.535Z",
-  "articleCount": 33,
+  "lastUpdated": "2026-10-03T14:29:17.383Z",
+  "articleCount": 36,
   "articles": [
     {
       "category": "Science",
-      "title": "Team selected for NASA program to explore potential lunar cave",
+      "title": "A short breath extends the mating calls of male tokay geckos",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Fri, 02 Oct 2026 19:20:06 EDT",
-      "summary": "NASA has selected a Planetary Science Institute–led proposal to investigate whether a potentially large underground cave extends beyond the opening of a lunar pit. Such a cave may one day provide a safe haven for astronauts to escape the radiation and extreme temperature swings present at the lunar surface.",
-      "url": "https://phys.org/news/2026-10-team-nasa-explore-potential-lunar.html"
+      "date": "Sat, 03 Oct 2026 10:00:06 EDT",
+      "summary": "Tokay geckos (Gekko gecko), large and mostly nocturnal geckos native to parts of Asia, are among the few nonbird reptiles that make sounds to attract potential mates, defend their territory and signal distress. Male tokay geckos' calls typically begin with quieter rattles, followed by louder two-part sounds that can sound like \"ge-ko\" or \"to-kay.\"",
+      "url": "https://phys.org/news/2026-09-short-male-tokay-geckos.html"
     },
     {
       "category": "AI",
-      "title": "Debian Inference Portal",
+      "title": "I Quit OpenAI Because Its Culture Is Broken",
       "source": "Hacker News: Front Page",
-      "date": "Fri, 02 Oct 2026 22:43:01 +0000",
-      "summary": "Article URL: https://inference.debian.net/\nComments URL: https://news.ycombinator.com/item?id=49939513\nPoints: 6\n# Comments: 2",
-      "url": "https://inference.debian.net/"
+      "date": "Sat, 03 Oct 2026 13:46:34 +0000",
+      "summary": "Article URL: https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/\nComments URL: https://news.ycombinator.com/item?id=49944227\nPoints: 21\n# Comments: 3",
+      "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/"
     },
     {
       "category": "Science",
-      "title": "Changes to platinum surface chemistry boost solar hydrogen production in organic photocatalysts",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Fri, 02 Oct 2026 18:20:01 EDT",
-      "summary": "Researchers from the LIMNO laboratory at EPFL have uncovered how different halides modify the surface chemistry of organic semiconductor nanoparticle photocatalysts. By controlling these phenomena, they have significantly improved the solar hydrogen production efficiency of these materials.",
-      "url": "https://phys.org/news/2026-10-platinum-surface-chemistry-boost-solar.html"
+      "title": "This protective enzyme could help stop fatty liver disease from getting worse",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Sat, 03 Oct 2026 09:46:11 EDT",
+      "summary": "Scientists have identified an enzyme that may act as a natural defense against the worsening of fatty liver disease, which affects an estimated 100 million Americans. The enzyme, called UBE2N, helps liver cells clear away damaged mitochondria and break down fat, potentially preventing the inflammation, scarring, and cell damage associated with the more dangerous condition MASH.",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261002080020.htm"
     },
     {
       "category": "Science",
-      "title": "Researchers turn America's scattered local laws into a free searchable database covering all 50 states",
+      "title": "ESA’s Juice just used Earth as a slingshot to Jupiter",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Sat, 03 Oct 2026 09:34:11 EDT",
+      "summary": "ESA’s Juice spacecraft raced past Earth on September 28, using our planet’s gravity to dramatically reshape its path toward Jupiter without burning much fuel. The flyby changed its direction by 20 degrees and increased its speed by 3.5 km/s, while also giving scientists a rare chance to test its instruments on Earth and the Moon.",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261001214102.htm"
+    },
+    {
+      "category": "Science",
+      "title": "Milky Way may have begun as thousands of galaxies, new simulations suggest",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Fri, 02 Oct 2026 17:40:09 EDT",
-      "summary": "America is a nation of local laws—millions of them. From noise ordinances and construction codes to rules about fishing licenses and roadside mango peddling, every town, city and county has its own set of regulations and unique way of doing things.",
-      "url": "https://phys.org/news/2026-10-america-local-laws-free-searchable.html"
+      "date": "Sat, 03 Oct 2026 09:00:07 EDT",
+      "summary": "In the early days of the universe, our home looked very different from how it does today. Back then, the region in our universe that would eventually become our Milky Way neighborhood was a collection of thousands of smaller galaxies—some pumping out tons of new stars, others filled only with gas or littered with dead stars and black holes.",
+      "url": "https://phys.org/news/2026-09-milky-begun-thousands-galaxies-simulations.html"
+    },
+    {
+      "category": "Science",
+      "title": "New interactive tool tracks private equity investments in health care across U.S.",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sat, 03 Oct 2026 08:40:04 EDT",
+      "summary": "A new interactive tool launched on Tuesday, Sept. 8, offers policymakers, researchers, journalists and the public a state-by-state look at private equity investments in U.S. health care.",
+      "url": "https://phys.org/news/2026-09-interactive-tool-tracks-private-equity.html"
     },
     {
       "category": "AI",
-      "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
+      "title": "Great Question (YC W21) Is Hiring Product Engineers in Canada (Remote)",
       "source": "Hacker News: Front Page",
-      "date": "Fri, 02 Oct 2026 21:25:25 +0000",
-      "summary": "Article URL: https://allenai.org/blog/astabrief\nComments URL: https://news.ycombinator.com/item?id=49938783\nPoints: 17\n# Comments: 2",
-      "url": "https://allenai.org/blog/astabrief"
+      "date": "Sat, 03 Oct 2026 12:02:10 +0000",
+      "summary": "Article URL: https://www.ycombinator.com/companies/great-question/jobs/agEqBYD-product-engineer-ai-full-stack\nComments URL: https://news.ycombinator.com/item?id=49943524\nPoints: 0\n# Comments: 0",
+      "url": "https://www.ycombinator.com/companies/great-question/jobs/agEqBYD-product-engineer-ai-full-stack"
+    },
+    {
+      "category": "AI",
+      "title": "The Escalation of War in Ethiopia",
+      "source": "Hacker News: Front Page",
+      "date": "Sat, 03 Oct 2026 11:54:24 +0000",
+      "summary": "Article URL: https://www.africanistperspective.com/p/on-the-escalation-of-war-in-ethiopia\nComments URL: https://news.ycombinator.com/item?id=49943451\nPoints: 59\n# Comments: 30",
+      "url": "https://www.africanistperspective.com/p/on-the-escalation-of-war-in-ethiopia"
+    },
+    {
+      "category": "AI",
+      "title": "The dawn of the age of the exoskeleton",
+      "source": "Ars Technica - All content",
+      "date": "Sat, 03 Oct 2026 11:15:33 +0000",
+      "summary": "The devices continue to show noticeable benefits for users in various real-world tasks.",
+      "url": "https://arstechnica.com/science/2026/10/the-dawn-of-the-age-of-the-exoskeleton/"
+    },
+    {
+      "category": "Science",
+      "title": "  What medieval people made of fossils before vertebrate paleontology ",
+      "source": " Latest from Live Science ",
+      "date": "Sat, 03 Oct 2026 11:00:00 +0000",
+      "summary": "In this excerpt from \"The Story of the Mammals in 25 Discoveries,\" author Donald R. Prothero looks at a time when the idea of extinction was blasphemous.",
+      "url": "https://www.livescience.com/animals/extinct-species/giant-tusks-from-siberia-were-thought-to-be-the-horns-of-the-mythical-unicorn-what-medieval-people-made-of-fossils-before-vertebrate-paleontology"
+    },
+    {
+      "category": "Science",
+      "title": " Could psilocybin treat brain injuries? Neuroscientist explains how psychedelics could fill a gap in head trauma care ",
+      "source": " Latest from Live Science ",
+      "date": "Sat, 03 Oct 2026 10:00:00 +0000",
+      "summary": "Live Science spoke with neuroscientist Argel Aguilar-Valles about recent research exploring psychedelics as a treatment for mild head trauma.",
+      "url": "https://www.livescience.com/health/neuroscience/could-psilocybin-treat-brain-injuries-neuroscientist-explains-how-psychedelics-could-fill-a-gap-in-head-trauma-care"
+    },
+    {
+      "category": "Science",
+      "title": " Could we ever create artificial gravity on a spaceship? ",
+      "source": " Latest from Live Science ",
+      "date": "Sat, 03 Oct 2026 09:00:00 +0000",
+      "summary": "Microgravity poses severe health risks for astronauts. But could there be a solution?",
+      "url": "https://www.livescience.com/space/space-exploration/could-we-ever-create-artificial-gravity-on-a-spaceship"
+    },
+    {
+      "category": "Space",
+      "title": "APOD: 2026 October 3 – Selfie at Vera Rubin Ridge",
+      "source": "NASA",
+      "date": "Sat, 03 Oct 2026 04:05:00 +0000",
+      "summary": "APOD Science APOD APOD: 2026 October 3 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Selfie at Vera […]",
+      "url": "https://science.nasa.gov/image-article/apod-2026-october-3-selfie-at-vera-rubin-ridge/"
+    },
+    {
+      "category": "Theology",
+      "title": "What’s the Right Amount of Rest?",
+      "source": "The Gospel Coalition",
+      "date": "Sat, 03 Oct 2026 04:00:00 +0000",
+      "summary": "Before we can get to the right answer, we need to ask the right question.",
+      "url": "https://www.thegospelcoalition.org/article/rest-each-day/"
+    },
+    {
+      "category": "AI",
+      "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
+      "source": "Ars Technica - All content",
+      "date": "Fri, 02 Oct 2026 23:03:16 +0000",
+      "summary": "Meta says FDA isn't sufficient to Muse reading messages. Apple begs to differ.",
+      "url": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/"
     },
     {
       "category": "AI",
@@ -51,52 +131,20 @@
       "url": "https://arstechnica.com/gaming/2026/10/can-it-run-doom-sql-database-edition/"
     },
     {
-      "category": "AI",
-      "title": "Every SaaS business will become a harness around a model",
-      "source": "Hacker News: Front Page",
-      "date": "Fri, 02 Oct 2026 21:06:56 +0000",
-      "summary": "Article URL: https://blog.sshh.io/p/the-harness-is-the-company\nComments URL: https://news.ycombinator.com/item?id=49938616\nPoints: 83\n# Comments: 60",
-      "url": "https://blog.sshh.io/p/the-harness-is-the-company"
+      "category": "Space",
+      "title": "NASA Astronaut Christina Koch to Join NFL Fans in Philadelphia",
+      "source": "NASA",
+      "date": "Fri, 02 Oct 2026 19:54:54 +0000",
+      "summary": "As part of NASA’s ongoing Inspiration Tour, NASA astronaut Christina Koch will highlight America’s strengths in space exploration and aeronautics innovation at the Philadelphia Eagles vs. Los Angeles Rams game in Philadelphia on Sunday, Oct. 4. A self-proclaimed Philadelphia sports fan, Koch is an explorer and engineer who spent a total of 338 days in […]",
+      "url": "https://www.nasa.gov/news-release/nasa-astronaut-christina-koch-to-join-nfl-fans-in-philadelphia/"
     },
     {
-      "category": "Science",
-      "title": " Rare two-headed turtle hatchling discovered on Cape Cod ",
-      "source": " Latest from Live Science ",
-      "date": "Fri, 02 Oct 2026 20:49:38 +0000",
-      "summary": "A two-headed turtle hatchling is one of three bicephalic terrapins that have been found on Cape Cod over the past five years.",
-      "url": "https://www.livescience.com/animals/turtles-tortoises/rare-two-headed-turtle-hatchling-discovered-on-cape-cod"
-    },
-    {
-      "category": "Science",
-      "title": " Colorful wildflowers bloom across Chile's Atacama Desert in wake of 'super' El Niño ",
-      "source": " Latest from Live Science ",
-      "date": "Fri, 02 Oct 2026 20:34:57 +0000",
-      "summary": "Chile's Atacama Desert is full of brilliant wildflower blooms thanks to this year's super El Niño.",
-      "url": "https://www.livescience.com/planet-earth/colorful-wildflowers-bloom-across-chiles-atacama-desert-in-wake-of-super-el-nino"
-    },
-    {
-      "category": "AI",
-      "title": "Amazon’s $1B plan to combat data center backlash draws more backlash",
-      "source": "Ars Technica - All content",
-      "date": "Fri, 02 Oct 2026 20:30:27 +0000",
-      "summary": "Amazon praised for ending NDAs but slammed for downplaying data center pollution.",
-      "url": "https://arstechnica.com/tech-policy/2026/10/amazons-1b-plan-to-combat-data-center-backlash-draws-more-backlash/"
-    },
-    {
-      "category": "AI",
-      "title": "Patient-zero drill put health facilities to the test—40% of them failed",
-      "source": "Ars Technica - All content",
-      "date": "Fri, 02 Oct 2026 20:07:59 +0000",
-      "summary": "Actors with makeup and fake symptoms staggered into 73 healthcare facilities.",
-      "url": "https://arstechnica.com/health/2026/10/patient-zero-drill-put-health-facilities-to-the-test-40-of-them-failed/"
-    },
-    {
-      "category": "Science",
-      "title": " Animals may have evolved 200 million years earlier than previously thought, new study suggests ",
-      "source": " Latest from Live Science ",
-      "date": "Fri, 02 Oct 2026 18:00:00 +0000",
-      "summary": "After using a technique called molecular clock analysis, researchers have proposed that the origin of animals could be 200 million years earlier than thought.",
-      "url": "https://www.livescience.com/planet-earth/evolution/animals-may-have-evolved-200-million-years-earlier-than-previously-thought-new-study-suggests"
+      "category": "Space",
+      "title": "Heading Home: NASA’s SpaceX Crew-12 Concludes Station Science Mission",
+      "source": "NASA",
+      "date": "Fri, 02 Oct 2026 19:30:00 +0000",
+      "summary": "NASA’s SpaceX Crew-12 mission is ending, with the crew scheduled to return in early October. NASA astronauts Jessica Meir and Jack Hathaway, ESA (European Space Agency) astronaut Sophie Adenot, and Roscosmos cosmonaut Andrey Fedyaev will head home from the International Space Station after supporting research that benefits life on Earth and prepares humans for missions […]",
+      "url": "https://www.nasa.gov/missions/station/iss-research/heading-home-nasas-spacex-crew-12-concludes-station-science-mission/"
     },
     {
       "category": "AI",
@@ -105,6 +153,14 @@
       "date": "Fri, 02 Oct 2026 16:15:00 GMT",
       "summary": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
       "url": "https://openai.com/index/practical-guide-building-gpt-6"
+    },
+    {
+      "category": "Science",
+      "title": "NASA’s Roman telescope just opened its planet-hunting eye",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Fri, 02 Oct 2026 08:21:30 EDT",
+      "summary": "NASA’s Roman Space Telescope has demonstrated remarkable pointing stability and given its powerful planet-imaging coronagraph its first look at the cosmos. The telescope can already stay locked on a target with precision comparable to aiming a laser at a dime from about 150 miles away. Its coronagraph also captured stars in the Large Magellanic Cloud, confirming that the instrument can produce focused images.",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261001214057.htm"
     },
     {
       "category": "Biblical Studies",
@@ -155,14 +211,6 @@
       "url": "https://openai.com/index/the-eternal-complement"
     },
     {
-      "category": "Science",
-      "title": "This diet may slow brain aging by 2.5 years",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Thu, 01 Oct 2026 08:26:47 EDT",
-      "summary": "People who followed the MIND diet more closely showed slower brain shrinkage and less grey matter loss over time, with the strongest differences equivalent to about 2.5 years of delayed brain aging. Berries and poultry were linked with healthier brain changes, while sweets and fried fast foods were associated with greater tissue loss.",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260930225503.htm"
-    },
-    {
       "category": "Biblical Studies",
       "title": "Roman Crucifixion Methods Reveal the History of Crucifixion",
       "source": "Biblical Archaeology Society",
@@ -177,30 +225,6 @@
       "date": "Thu, 01 Oct 2026 09:00:19 +0000",
       "summary": "The heady days of the Declaration of Independence, struggle, victory, and a new Constitution were all behind him. Now, within weeks of taking office as President of the United States, George Washington presided over a toxic political atmosphere. Despite initial hopes for national unity, a vicious partisan press had emerged. Mobs on the frontier flirted […]\nThe post America’s Original Stimulus Package: A Catalytic, Consequential Fishing Policy appeared first on Journal of the American Revolution.",
       "url": "https://allthingsliberty.com/2026/10/americas-original-stimulus-package-a-catalytic-consequential-fishing-policy/"
-    },
-    {
-      "category": "Science",
-      "title": "Could quitting ultra-processed food boost your mental health?",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Thu, 01 Oct 2026 02:34:01 EDT",
-      "summary": "People with depression who dramatically cut ultra-processed foods experienced notable improvements in their symptoms in a small preliminary study. Researchers suspect healthier eating may benefit the brain partly by reducing gut damage and chronic inflammation.",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260930225448.htm"
-    },
-    {
-      "category": "Science",
-      "title": "Alzheimer’s risk gene APOE4 may have a reversible weakness",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Thu, 01 Oct 2026 00:45:26 EDT",
-      "summary": "The Alzheimer’s risk gene APOE4 may actively damage brain blood vessels and sabotage the cellular systems that remove harmful proteins. Researchers were able to reverse some of these effects in experiments, revealing promising new targets for Alzheimer’s, Parkinson’s, and other neurodegenerative diseases.",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260930225450.htm"
-    },
-    {
-      "category": "Theology",
-      "title": "The Deep Dish Live: Endurance in the Faith (with Nancy Guthrie and Jen Wilkin)",
-      "source": "The Gospel Coalition",
-      "date": "Thu, 01 Oct 2026 04:04:33 +0000",
-      "summary": "In this live recording from TGCW26, Courtney and Melissa talk with Nancy Guthrie and Jen Wilkin about how to persevere in faith for the rest of your life.",
-      "url": "https://www.thegospelcoalition.org/podcasts/deep-dish/live-endurance-faith/"
     },
     {
       "category": "Theology",
