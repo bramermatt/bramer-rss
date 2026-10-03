@@ -1,22 +1,62 @@
 {
-  "lastUpdated": "2026-10-03T14:29:17.383Z",
+  "lastUpdated": "2026-10-03T18:55:27.186Z",
   "articleCount": 36,
   "articles": [
     {
-      "category": "Science",
-      "title": "A short breath extends the mating calls of male tokay geckos",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sat, 03 Oct 2026 10:00:06 EDT",
-      "summary": "Tokay geckos (Gekko gecko), large and mostly nocturnal geckos native to parts of Asia, are among the few nonbird reptiles that make sounds to attract potential mates, defend their territory and signal distress. Male tokay geckos' calls typically begin with quieter rattles, followed by louder two-part sounds that can sound like \"ge-ko\" or \"to-kay.\"",
-      "url": "https://phys.org/news/2026-09-short-male-tokay-geckos.html"
+      "category": "AI",
+      "title": "ADHD, autism or complex trauma? [pdf]",
+      "source": "Hacker News: Front Page",
+      "date": "Sat, 03 Oct 2026 18:08:28 +0000",
+      "summary": "Article URL: https://www.cambridge.org/core/services/aop-cambridge-core/content/view/30CC4826561366615BFAEC807CDE28A7/S0007125026108046a.pdf/adhd-autism-or-complex-trauma-the-complicated-nature-of-the-question.pdf\nComments URL: https://news.ycombinator.com/item?id=49946403\nPoints: 63\n# Comments: 8",
+      "url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/30CC4826561366615BFAEC807CDE28A7/S0007125026108046a.pdf/adhd-autism-or-complex-trauma-the-complicated-nature-of-the-question.pdf"
     },
     {
       "category": "AI",
-      "title": "I Quit OpenAI Because Its Culture Is Broken",
+      "title": "Hole Punch: Sling your spaceship around gravitational fields",
       "source": "Hacker News: Front Page",
-      "date": "Sat, 03 Oct 2026 13:46:34 +0000",
-      "summary": "Article URL: https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/\nComments URL: https://news.ycombinator.com/item?id=49944227\nPoints: 21\n# Comments: 3",
-      "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/"
+      "date": "Sat, 03 Oct 2026 18:06:45 +0000",
+      "summary": "Article URL: https://notoriousbfg.com/hole-punch/\nComments URL: https://news.ycombinator.com/item?id=49946393\nPoints: 15\n# Comments: 1",
+      "url": "https://notoriousbfg.com/hole-punch/"
+    },
+    {
+      "category": "Science",
+      "title": "Recovery after intimate partner violence: New study reveals what works",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sat, 03 Oct 2026 14:00:01 EDT",
+      "summary": "Violence in the home can range from intimidation to physical abuse. When it occurs there, we refer to it as domestic violence. Every year, more than 1 million people in the Netherlands age 16 and older experience domestic violence. This type of violence is often perpetrated by a current or former partner, in which case it is referred to as intimate partner violence.",
+      "url": "https://phys.org/news/2026-09-recovery-intimate-partner-violence-reveals.html"
+    },
+    {
+      "category": "AI",
+      "title": "Pop!_OS bans AI-generated code from much of its codebase",
+      "source": "Hacker News: Front Page",
+      "date": "Sat, 03 Oct 2026 17:57:03 +0000",
+      "summary": "Article URL: https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases/\nComments URL: https://news.ycombinator.com/item?id=49946321\nPoints: 6\n# Comments: 0",
+      "url": "https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases/"
+    },
+    {
+      "category": "Science",
+      "title": "Reading hidden topology in light, even when energy leaks away",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sat, 03 Oct 2026 13:40:01 EDT",
+      "summary": "When I explain topology to students, I start with a knot in a rope. You can stretch it, twist it or shake it, but the knot stays until you cut the rope. Physicists have found that some materials and devices carry similar \"knots\" in how waves move through them. These are topological properties, labeled by whole numbers that don't change under small imperfections. That robustness is why topology has become one of the central ideas in modern physics. It promises electronics, photonics and quantum devices that tolerate defects and noise.",
+      "url": "https://phys.org/news/2026-10-hidden-topology-energy-leaks.html"
+    },
+    {
+      "category": "Science",
+      "title": "Q&A: An Earth-like planet with two suns?",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sat, 03 Oct 2026 13:00:01 EDT",
+      "summary": "A nearby star system with two suns could potentially support an Earth-sized planet in a region where liquid water could exist, according to a new paper examining the dynamics of the system.",
+      "url": "https://phys.org/news/2026-09-qa-earth-planet-suns.html"
+    },
+    {
+      "category": "Science",
+      "title": " 1 in 8 cancer cases are caused by infections, underscoring the importance of vaccines, experts say ",
+      "source": " Latest from Live Science ",
+      "date": "Sat, 03 Oct 2026 16:00:00 +0000",
+      "summary": "Four pathogens account for most infection-related cancers, a new study highlights, but the tools to prevent them range from well-established vaccines to treatments still under development.",
+      "url": "https://www.livescience.com/health/cancer/1-in-8-cancer-cases-are-caused-by-infections-underscoring-the-importance-of-vaccines-experts-say"
     },
     {
       "category": "Science",
@@ -33,38 +73,6 @@
       "date": "Sat, 03 Oct 2026 09:34:11 EDT",
       "summary": "ESA’s Juice spacecraft raced past Earth on September 28, using our planet’s gravity to dramatically reshape its path toward Jupiter without burning much fuel. The flyby changed its direction by 20 degrees and increased its speed by 3.5 km/s, while also giving scientists a rare chance to test its instruments on Earth and the Moon.",
       "url": "https://www.sciencedaily.com/releases/2026/10/261001214102.htm"
-    },
-    {
-      "category": "Science",
-      "title": "Milky Way may have begun as thousands of galaxies, new simulations suggest",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sat, 03 Oct 2026 09:00:07 EDT",
-      "summary": "In the early days of the universe, our home looked very different from how it does today. Back then, the region in our universe that would eventually become our Milky Way neighborhood was a collection of thousands of smaller galaxies—some pumping out tons of new stars, others filled only with gas or littered with dead stars and black holes.",
-      "url": "https://phys.org/news/2026-09-milky-begun-thousands-galaxies-simulations.html"
-    },
-    {
-      "category": "Science",
-      "title": "New interactive tool tracks private equity investments in health care across U.S.",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sat, 03 Oct 2026 08:40:04 EDT",
-      "summary": "A new interactive tool launched on Tuesday, Sept. 8, offers policymakers, researchers, journalists and the public a state-by-state look at private equity investments in U.S. health care.",
-      "url": "https://phys.org/news/2026-09-interactive-tool-tracks-private-equity.html"
-    },
-    {
-      "category": "AI",
-      "title": "Great Question (YC W21) Is Hiring Product Engineers in Canada (Remote)",
-      "source": "Hacker News: Front Page",
-      "date": "Sat, 03 Oct 2026 12:02:10 +0000",
-      "summary": "Article URL: https://www.ycombinator.com/companies/great-question/jobs/agEqBYD-product-engineer-ai-full-stack\nComments URL: https://news.ycombinator.com/item?id=49943524\nPoints: 0\n# Comments: 0",
-      "url": "https://www.ycombinator.com/companies/great-question/jobs/agEqBYD-product-engineer-ai-full-stack"
-    },
-    {
-      "category": "AI",
-      "title": "The Escalation of War in Ethiopia",
-      "source": "Hacker News: Front Page",
-      "date": "Sat, 03 Oct 2026 11:54:24 +0000",
-      "summary": "Article URL: https://www.africanistperspective.com/p/on-the-escalation-of-war-in-ethiopia\nComments URL: https://news.ycombinator.com/item?id=49943451\nPoints: 59\n# Comments: 30",
-      "url": "https://www.africanistperspective.com/p/on-the-escalation-of-war-in-ethiopia"
     },
     {
       "category": "AI",
@@ -89,14 +97,6 @@
       "date": "Sat, 03 Oct 2026 10:00:00 +0000",
       "summary": "Live Science spoke with neuroscientist Argel Aguilar-Valles about recent research exploring psychedelics as a treatment for mild head trauma.",
       "url": "https://www.livescience.com/health/neuroscience/could-psilocybin-treat-brain-injuries-neuroscientist-explains-how-psychedelics-could-fill-a-gap-in-head-trauma-care"
-    },
-    {
-      "category": "Science",
-      "title": " Could we ever create artificial gravity on a spaceship? ",
-      "source": " Latest from Live Science ",
-      "date": "Sat, 03 Oct 2026 09:00:00 +0000",
-      "summary": "Microgravity poses severe health risks for astronauts. But could there be a solution?",
-      "url": "https://www.livescience.com/space/space-exploration/could-we-ever-create-artificial-gravity-on-a-spaceship"
     },
     {
       "category": "Space",
