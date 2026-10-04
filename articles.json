@@ -1,54 +1,110 @@
 {
-  "lastUpdated": "2026-10-04T00:16:48.462Z",
-  "articleCount": 36,
+  "lastUpdated": "2026-10-04T15:03:27.935Z",
+  "articleCount": 33,
   "articles": [
     {
-      "category": "AI",
-      "title": "OpenAI safety leader quits, warning AI company's culture is 'broken'",
-      "source": "Hacker News: Front Page",
-      "date": "Sat, 03 Oct 2026 22:18:13 +0000",
-      "summary": "Article URL: https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken\nComments URL: https://news.ycombinator.com/item?id=49948332\nPoints: 61\n# Comments: 17",
-      "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken"
-    },
-    {
-      "category": "AI",
-      "title": "Federal judge calls Flock 'indiscriminate mass surveillance'",
-      "source": "Hacker News: Front Page",
-      "date": "Sat, 03 Oct 2026 22:07:13 +0000",
-      "summary": "Article URL: https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/\nComments URL: https://news.ycombinator.com/item?id=49948254\nPoints: 201\n# Comments: 111",
-      "url": "https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/"
+      "category": "Science",
+      "title": "New research shows steep and continuing decline in prison population in the US",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sun, 04 Oct 2026 10:30:01 EDT",
+      "summary": "The U.S. prison population is declining at an accelerating rate, and prison admission rates are predicted to fall an additional 50% within the next two decades, according to new research from University at Albany professor Shawn Bushway.",
+      "url": "https://phys.org/news/2026-09-steep-decline-prison-population.html"
     },
     {
       "category": "Science",
-      "title": "Feeling secure in a group may help dissenters make stronger arguments",
+      "title": "Inka scattered sacred coca leaves over sacrificed llamas, excavation suggests",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Sat, 03 Oct 2026 17:00:06 EDT",
-      "summary": "When everyone in a meeting voices the same opinion, an organization can miss important warning signs and new ideas. A research team from KAIST suggests that when members feel securely accepted within their group, they can express dissenting opinions in greater detail and more persuasively, and other members may be more willing to use those opinions in decision-making.",
-      "url": "https://phys.org/news/2026-09-group-dissenters-stronger-arguments.html"
-    },
-    {
-      "category": "Science",
-      "title": "How can the same El Niño cause drought in one part of the world and floods in another?",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sat, 03 Oct 2026 17:00:01 EDT",
-      "summary": "The Pacific Ocean is warming unusually quickly, and this year's El Niño has already surpassed previous records. Forecasters expect it to strengthen even further before approaching its usual peak around December.",
-      "url": "https://phys.org/news/2026-09-el-nio-drought-world.html"
+      "date": "Sun, 04 Oct 2026 09:40:01 EDT",
+      "summary": "Deep in Peru's Acarí Valley lie the ruins of Tambo Viejo, an Inka provincial center where excavations have uncovered tasseled sacrificial llamas and brightly adorned guinea pigs. But save for a few seeds and some stored leaves, evidence of how the Inka used one of their most sacred plants in rituals remained elusive. Now, archaeologists have discovered coca leaves still stuck in the wool of some sacrificed llamas.",
+      "url": "https://phys.org/news/2026-09-inka-sacred-coca-sacrificed-llamas.html"
     },
     {
       "category": "AI",
-      "title": "Reasons I didn't become an EMT, ranked",
+      "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
       "source": "Hacker News: Front Page",
-      "date": "Sat, 03 Oct 2026 20:49:15 +0000",
-      "summary": "Article URL: https://ben.stolovitz.com/posts/reasons-not-emt-ranked/\nComments URL: https://news.ycombinator.com/item?id=49947631\nPoints: 57\n# Comments: 24",
-      "url": "https://ben.stolovitz.com/posts/reasons-not-emt-ranked/"
+      "date": "Sun, 04 Oct 2026 12:51:53 +0000",
+      "summary": "Article URL: https://github.com/Niko1221/Strata\nComments URL: https://news.ycombinator.com/item?id=49953495\nPoints: 146\n# Comments: 54",
+      "url": "https://github.com/Niko1221/Strata"
     },
     {
       "category": "Science",
-      "title": "Today's emissions choices could limit Antarctic ice loss and sea-level rise for coastal communities",
+      "title": "Scientists find a surprising clue to why the universe’s expansion doesn’t add up",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Sun, 04 Oct 2026 08:05:54 EDT",
+      "summary": "Tiny magnetic fields created shortly after the Big Bang may help explain the long-running disagreement over how fast the universe is expanding. Detailed simulations show that these primordial fields could have changed the formation of hydrogen in the early universe, affecting the cosmic microwave background and the expansion rate inferred from it.",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261002080026.htm"
+    },
+    {
+      "category": "Science",
+      "title": "Giant fluctuations of focused light reveal hidden correlations in opaque materials",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Sat, 03 Oct 2026 16:00:01 EDT",
-      "summary": "Cutting greenhouse gas emissions now may limit how much ice Antarctica loses this century and reduce the sea-level rise facing coastal communities, according to findings from a new study.",
-      "url": "https://phys.org/news/2026-10-today-emissions-choices-limit-antarctic.html"
+      "date": "Sun, 04 Oct 2026 08:00:01 EDT",
+      "summary": "When light travels through a strongly scattering material, such as biological tissue or other disordered opaque media, it follows many different paths and produces a seemingly random speckle pattern. Wavefront shaping makes it possible to control this complex interference and focus light through such materials.",
+      "url": "https://phys.org/news/2026-09-giant-fluctuations-focused-reveal-hidden.html"
+    },
+    {
+      "category": "Science",
+      "title": " Scientists recreate the universe's first moments and find something they didn't expect ",
+      "source": " Latest from Live Science ",
+      "date": "Sun, 04 Oct 2026 12:00:00 +0000",
+      "summary": "A particle collider experiment just revealed something unexpected about how the fiery soup of particles that filled the universe after the Big Bang coalesced into the protons and neutrons that make up matter today.",
+      "url": "https://www.livescience.com/physics-mathematics/particle-physics/particle-collider-experiment-recreates-the-big-bangs-primordial-soup-and-finds-an-unexpected-twist"
+    },
+    {
+      "category": "AI",
+      "title": "Rejection Sensitivity in Gifted and Twice-Exceptional Children",
+      "source": "Hacker News: Front Page",
+      "date": "Sun, 04 Oct 2026 11:58:47 +0000",
+      "summary": "Article URL: https://teachyourkids.substack.com/p/rejection-sensitivity-in-gifted-and\nComments URL: https://news.ycombinator.com/item?id=49953116\nPoints: 57\n# Comments: 21",
+      "url": "https://teachyourkids.substack.com/p/rejection-sensitivity-in-gifted-and"
+    },
+    {
+      "category": "AI",
+      "title": "All hail electrification. But let’s talk about the hard part.",
+      "source": "Ars Technica - All content",
+      "date": "Sun, 04 Oct 2026 11:05:53 +0000",
+      "summary": "The IEA and climate negotiators want to set a target for shifting the economy to run on electricity.",
+      "url": "https://arstechnica.com/science/2026/10/all-hail-electrification-but-lets-talk-about-the-hard-part/"
+    },
+    {
+      "category": "Science",
+      "title": " First photos from Smile spacecraft show Earth like you've never seen it before ",
+      "source": " Latest from Live Science ",
+      "date": "Sun, 04 Oct 2026 10:00:00 +0000",
+      "summary": "The joint European-Chinese Smile satellite officially began its science operations this week, sharing a ghostly image of Earth's sunlit North Pole ringed by giant auroras.",
+      "url": "https://www.livescience.com/space/astronomy/auroras-appear-in-broad-daylight-in-smile-spacecrafts-eerie-first-images-of-earth-space-photo-of-the-week"
+    },
+    {
+      "category": "AI",
+      "title": "Show HN: AI search for every photo and every frame of video on macOS",
+      "source": "Hacker News: Front Page",
+      "date": "Sun, 04 Oct 2026 09:24:52 +0000",
+      "summary": "Article URL: https://github.com/allenv0/SCM\nComments URL: https://news.ycombinator.com/item?id=49952111\nPoints: 39\n# Comments: 24",
+      "url": "https://github.com/allenv0/SCM"
+    },
+    {
+      "category": "Science",
+      "title": " Do animals experience schadenfreude? ",
+      "source": " Latest from Live Science ",
+      "date": "Sun, 04 Oct 2026 09:00:00 +0000",
+      "summary": "Schadenfreude, ‪or pleasure at seeing another's pain, is a complex emotion. So can animals besides humans experience it?",
+      "url": "https://www.livescience.com/animals/do-animals-experience-schadenfreude"
+    },
+    {
+      "category": "Theology",
+      "title": "What I’ve Learned in the Cancer School of Wisdom",
+      "source": "The Gospel Coalition",
+      "date": "Sun, 04 Oct 2026 04:05:00 +0000",
+      "summary": "In the effort to not waste my cancer, I need to keep learning the lessons only learned in the furnace and the fire.",
+      "url": "https://www.thegospelcoalition.org/article/learned-cancer-school-wisdom/"
+    },
+    {
+      "category": "Science",
+      "title": "Diet drinks work as well as water for weight loss, major trial finds",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Sat, 03 Oct 2026 22:10:59 EDT",
+      "summary": "A two-year randomized clinical trial involving 493 adults with overweight or obesity found that diet soft drinks were essentially as effective as water for long-term weight loss and weight maintenance. Participants drinking beverages sweetened with aspartame, acesulfame-K, or sucralose lost a similar amount of weight to those drinking water, while both groups also saw improvements in waist size, body composition, and several metabolic measures.",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261002080017.htm"
     },
     {
       "category": "AI",
@@ -60,27 +116,11 @@
     },
     {
       "category": "Science",
-      "title": " 1 in 8 cancer cases are caused by infections, underscoring the importance of vaccines, experts say ",
-      "source": " Latest from Live Science ",
-      "date": "Sat, 03 Oct 2026 16:00:00 +0000",
-      "summary": "Four pathogens account for most infection-related cancers, a new study highlights, but the tools to prevent them range from well-established vaccines to treatments still under development.",
-      "url": "https://www.livescience.com/health/cancer/1-in-8-cancer-cases-are-caused-by-infections-underscoring-the-importance-of-vaccines-experts-say"
-    },
-    {
-      "category": "Science",
       "title": "This protective enzyme could help stop fatty liver disease from getting worse",
       "source": "All Top News -- ScienceDaily",
       "date": "Sat, 03 Oct 2026 09:46:11 EDT",
       "summary": "Scientists have identified an enzyme that may act as a natural defense against the worsening of fatty liver disease, which affects an estimated 100 million Americans. The enzyme, called UBE2N, helps liver cells clear away damaged mitochondria and break down fat, potentially preventing the inflammation, scarring, and cell damage associated with the more dangerous condition MASH.",
       "url": "https://www.sciencedaily.com/releases/2026/10/261002080020.htm"
-    },
-    {
-      "category": "Science",
-      "title": "ESA’s Juice just used Earth as a slingshot to Jupiter",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Sat, 03 Oct 2026 09:34:11 EDT",
-      "summary": "ESA’s Juice spacecraft raced past Earth on September 28, using our planet’s gravity to dramatically reshape its path toward Jupiter without burning much fuel. The flyby changed its direction by 20 degrees and increased its speed by 3.5 km/s, while also giving scientists a rare chance to test its instruments on Earth and the Moon.",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261001214102.htm"
     },
     {
       "category": "AI",
@@ -89,30 +129,6 @@
       "date": "Sat, 03 Oct 2026 11:15:33 +0000",
       "summary": "The devices continue to show noticeable benefits for users in various real-world tasks.",
       "url": "https://arstechnica.com/science/2026/10/the-dawn-of-the-age-of-the-exoskeleton/"
-    },
-    {
-      "category": "Science",
-      "title": "  What medieval people made of fossils before vertebrate paleontology ",
-      "source": " Latest from Live Science ",
-      "date": "Sat, 03 Oct 2026 11:00:00 +0000",
-      "summary": "In this excerpt from \"The Story of the Mammals in 25 Discoveries,\" author Donald R. Prothero looks at a time when the idea of extinction was blasphemous.",
-      "url": "https://www.livescience.com/animals/extinct-species/giant-tusks-from-siberia-were-thought-to-be-the-horns-of-the-mythical-unicorn-what-medieval-people-made-of-fossils-before-vertebrate-paleontology"
-    },
-    {
-      "category": "Science",
-      "title": " Could psilocybin treat brain injuries? Neuroscientist explains how psychedelics could fill a gap in head trauma care ",
-      "source": " Latest from Live Science ",
-      "date": "Sat, 03 Oct 2026 10:00:00 +0000",
-      "summary": "Live Science spoke with neuroscientist Argel Aguilar-Valles about recent research exploring psychedelics as a treatment for mild head trauma.",
-      "url": "https://www.livescience.com/health/neuroscience/could-psilocybin-treat-brain-injuries-neuroscientist-explains-how-psychedelics-could-fill-a-gap-in-head-trauma-care"
-    },
-    {
-      "category": "Space",
-      "title": "APOD: 2026 October 3 – Selfie at Vera Rubin Ridge",
-      "source": "NASA",
-      "date": "Sat, 03 Oct 2026 04:05:00 +0000",
-      "summary": "APOD Science APOD APOD: 2026 October 3 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Selfie at Vera […]",
-      "url": "https://science.nasa.gov/image-article/apod-2026-october-3-selfie-at-vera-rubin-ridge/"
     },
     {
       "category": "Theology",
@@ -124,43 +140,11 @@
     },
     {
       "category": "AI",
-      "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
-      "source": "Ars Technica - All content",
-      "date": "Fri, 02 Oct 2026 23:03:16 +0000",
-      "summary": "Meta says FDA isn't sufficient to Muse reading messages. Apple begs to differ.",
-      "url": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/"
-    },
-    {
-      "category": "Space",
-      "title": "NASA Astronaut Christina Koch to Join NFL Fans in Philadelphia",
-      "source": "NASA",
-      "date": "Fri, 02 Oct 2026 19:54:54 +0000",
-      "summary": "As part of NASA’s ongoing Inspiration Tour, NASA astronaut Christina Koch will highlight America’s strengths in space exploration and aeronautics innovation at the Philadelphia Eagles vs. Los Angeles Rams game in Philadelphia on Sunday, Oct. 4. A self-proclaimed Philadelphia sports fan, Koch is an explorer and engineer who spent a total of 338 days in […]",
-      "url": "https://www.nasa.gov/news-release/nasa-astronaut-christina-koch-to-join-nfl-fans-in-philadelphia/"
-    },
-    {
-      "category": "Space",
-      "title": "Heading Home: NASA’s SpaceX Crew-12 Concludes Station Science Mission",
-      "source": "NASA",
-      "date": "Fri, 02 Oct 2026 19:30:00 +0000",
-      "summary": "NASA’s SpaceX Crew-12 mission is ending, with the crew scheduled to return in early October. NASA astronauts Jessica Meir and Jack Hathaway, ESA (European Space Agency) astronaut Sophie Adenot, and Roscosmos cosmonaut Andrey Fedyaev will head home from the International Space Station after supporting research that benefits life on Earth and prepares humans for missions […]",
-      "url": "https://www.nasa.gov/missions/station/iss-research/heading-home-nasas-spacex-crew-12-concludes-station-science-mission/"
-    },
-    {
-      "category": "AI",
       "title": "A model guide for the GPT-6 family",
       "source": "OpenAI News",
       "date": "Fri, 02 Oct 2026 16:15:00 GMT",
       "summary": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
       "url": "https://openai.com/index/practical-guide-building-gpt-6"
-    },
-    {
-      "category": "Science",
-      "title": "NASA’s Roman telescope just opened its planet-hunting eye",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Fri, 02 Oct 2026 08:21:30 EDT",
-      "summary": "NASA’s Roman Space Telescope has demonstrated remarkable pointing stability and given its powerful planet-imaging coronagraph its first look at the cosmos. The telescope can already stay locked on a target with precision comparable to aiming a laser at a dime from about 150 miles away. Its coronagraph also captured stars in the Large Magellanic Cloud, confirming that the instrument can produce focused images.",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261001214057.htm"
     },
     {
       "category": "Biblical Studies",
@@ -185,14 +169,6 @@
       "date": "Fri, 02 Oct 2026 04:04:00 +0000",
       "summary": "A lament is a prayer in pain that leads to trust.",
       "url": "https://www.thegospelcoalition.org/podcasts/tgc-podcast/turn-god-suffering/"
-    },
-    {
-      "category": "Theology",
-      "title": "Retrieve the Past. Retain the Truth.",
-      "source": "The Gospel Coalition",
-      "date": "Fri, 02 Oct 2026 04:00:00 +0000",
-      "summary": "We should show due deference to the Christian tradition, but Scripture still has pride of place as the sole, inspired, and inerrant Word of God.",
-      "url": "https://www.thegospelcoalition.org/article/retrieve-past-retain-truth/"
     },
     {
       "category": "AI",
