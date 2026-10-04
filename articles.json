@@ -1,30 +1,62 @@
 {
-  "lastUpdated": "2026-10-04T15:03:27.935Z",
-  "articleCount": 33,
+  "lastUpdated": "2026-10-04T18:54:40.392Z",
+  "articleCount": 36,
   "articles": [
     {
       "category": "Science",
-      "title": "New research shows steep and continuing decline in prison population in the US",
+      "title": "Taste shapes support for climate-friendly school meals",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Sun, 04 Oct 2026 10:30:01 EDT",
-      "summary": "The U.S. prison population is declining at an accelerating rate, and prison admission rates are predicted to fall an additional 50% within the next two decades, according to new research from University at Albany professor Shawn Bushway.",
-      "url": "https://phys.org/news/2026-09-steep-decline-prison-population.html"
-    },
-    {
-      "category": "Science",
-      "title": "Inka scattered sacred coca leaves over sacrificed llamas, excavation suggests",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sun, 04 Oct 2026 09:40:01 EDT",
-      "summary": "Deep in Peru's Acarí Valley lie the ruins of Tambo Viejo, an Inka provincial center where excavations have uncovered tasseled sacrificial llamas and brightly adorned guinea pigs. But save for a few seeds and some stored leaves, evidence of how the Inka used one of their most sacred plants in rituals remained elusive. Now, archaeologists have discovered coca leaves still stuck in the wool of some sacrificed llamas.",
-      "url": "https://phys.org/news/2026-09-inka-sacred-coca-sacrificed-llamas.html"
+      "date": "Sun, 04 Oct 2026 14:40:01 EDT",
+      "summary": "Students in a new study were neither clearly positive nor negative about more climate-friendly school meals. Whether the food tasted good, was filling and felt familiar played an important role. Students were somewhat more positive about reducing the amount of meat in recipes than about having more all-vegetarian days.",
+      "url": "https://phys.org/news/2026-10-climate-friendly-school-meals.html"
     },
     {
       "category": "AI",
-      "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
+      "title": "The CISA Alert: Security Beyond Solitary Confinement",
       "source": "Hacker News: Front Page",
-      "date": "Sun, 04 Oct 2026 12:51:53 +0000",
-      "summary": "Article URL: https://github.com/Niko1221/Strata\nComments URL: https://news.ycombinator.com/item?id=49953495\nPoints: 146\n# Comments: 54",
-      "url": "https://github.com/Niko1221/Strata"
+      "date": "Sun, 04 Oct 2026 18:19:24 +0000",
+      "summary": "Article URL: https://jnior.com/blog/the-cisa-alert-security-beyond-solitary-confinement/\nComments URL: https://news.ycombinator.com/item?id=49956416\nPoints: 4\n# Comments: 0",
+      "url": "https://jnior.com/blog/the-cisa-alert-security-beyond-solitary-confinement/"
+    },
+    {
+      "category": "AI",
+      "title": "Software Engineering Is Dead. Long Live Product Engineering",
+      "source": "Hacker News: Front Page",
+      "date": "Sun, 04 Oct 2026 18:13:01 +0000",
+      "summary": "Article URL: https://newsletter.chainofthought.show/p/software-engineering-is-dead-long\nComments URL: https://news.ycombinator.com/item?id=49956358\nPoints: 7\n# Comments: 0",
+      "url": "https://newsletter.chainofthought.show/p/software-engineering-is-dead-long"
+    },
+    {
+      "category": "Science",
+      "title": "One giant clam contains a month‑by‑month diary of the Great Barrier Reef's climate 200 years ago",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sun, 04 Oct 2026 14:00:01 EDT",
+      "summary": "When you swim through the azure waters of the Great Barrier Reef, there is one creature on the seafloor that's almost impossible to miss: the giant clam. Its huge, fluted shell frames a soft mantle shimmering with electric blue, green and gold.",
+      "url": "https://phys.org/news/2026-09-giant-clam-monthbymonth-diary-great.html"
+    },
+    {
+      "category": "AI",
+      "title": "Show HN: Dataviz, ranked daily from GitHub, NPM, PyPI and CRAN",
+      "source": "Hacker News: Front Page",
+      "date": "Sun, 04 Oct 2026 17:54:49 +0000",
+      "summary": "Article URL: https://awesomedataviz.com/\nComments URL: https://news.ycombinator.com/item?id=49956183\nPoints: 7\n# Comments: 1",
+      "url": "https://awesomedataviz.com/"
+    },
+    {
+      "category": "Science",
+      "title": "Hidden X-ray phase revealed in likely neutron star merger",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sun, 04 Oct 2026 13:00:02 EDT",
+      "summary": "An international team of astronomers, including researchers from the Department of Physics and the Hong Kong Institute for Astronomy and Astrophysics (HKIAA) at The University of Hong Kong (HKU), has discovered a previously hidden phase of high-energy activity following the merger of compact stars.",
+      "url": "https://phys.org/news/2026-09-hidden-ray-phase-revealed-neutron.html"
+    },
+    {
+      "category": "AI",
+      "title": "Lions and cheetahs and chimps, oh my: a spotlight on Africa's diverse wildlife",
+      "source": "Ars Technica - All content",
+      "date": "Sun, 04 Oct 2026 15:34:14 +0000",
+      "summary": "Wunmi Mosaku (Sinners, Loki) narrates NatGeo's new documentary Africa: Earth's Wild Home",
+      "url": "https://arstechnica.com/science/2026/10/lions-and-cheetahs-and-chimps-oh-my-a-spotlight-on-africas-diverse-wildlife/"
     },
     {
       "category": "Science",
@@ -36,27 +68,11 @@
     },
     {
       "category": "Science",
-      "title": "Giant fluctuations of focused light reveal hidden correlations in opaque materials",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sun, 04 Oct 2026 08:00:01 EDT",
-      "summary": "When light travels through a strongly scattering material, such as biological tissue or other disordered opaque media, it follows many different paths and produces a seemingly random speckle pattern. Wavefront shaping makes it possible to control this complex interference and focus light through such materials.",
-      "url": "https://phys.org/news/2026-09-giant-fluctuations-focused-reveal-hidden.html"
-    },
-    {
-      "category": "Science",
       "title": " Scientists recreate the universe's first moments and find something they didn't expect ",
       "source": " Latest from Live Science ",
       "date": "Sun, 04 Oct 2026 12:00:00 +0000",
       "summary": "A particle collider experiment just revealed something unexpected about how the fiery soup of particles that filled the universe after the Big Bang coalesced into the protons and neutrons that make up matter today.",
       "url": "https://www.livescience.com/physics-mathematics/particle-physics/particle-collider-experiment-recreates-the-big-bangs-primordial-soup-and-finds-an-unexpected-twist"
-    },
-    {
-      "category": "AI",
-      "title": "Rejection Sensitivity in Gifted and Twice-Exceptional Children",
-      "source": "Hacker News: Front Page",
-      "date": "Sun, 04 Oct 2026 11:58:47 +0000",
-      "summary": "Article URL: https://teachyourkids.substack.com/p/rejection-sensitivity-in-gifted-and\nComments URL: https://news.ycombinator.com/item?id=49953116\nPoints: 57\n# Comments: 21",
-      "url": "https://teachyourkids.substack.com/p/rejection-sensitivity-in-gifted-and"
     },
     {
       "category": "AI",
@@ -75,20 +91,20 @@
       "url": "https://www.livescience.com/space/astronomy/auroras-appear-in-broad-daylight-in-smile-spacecrafts-eerie-first-images-of-earth-space-photo-of-the-week"
     },
     {
-      "category": "AI",
-      "title": "Show HN: AI search for every photo and every frame of video on macOS",
-      "source": "Hacker News: Front Page",
-      "date": "Sun, 04 Oct 2026 09:24:52 +0000",
-      "summary": "Article URL: https://github.com/allenv0/SCM\nComments URL: https://news.ycombinator.com/item?id=49952111\nPoints: 39\n# Comments: 24",
-      "url": "https://github.com/allenv0/SCM"
-    },
-    {
       "category": "Science",
       "title": " Do animals experience schadenfreude? ",
       "source": " Latest from Live Science ",
       "date": "Sun, 04 Oct 2026 09:00:00 +0000",
       "summary": "Schadenfreude, ‪or pleasure at seeing another's pain, is a complex emotion. So can animals besides humans experience it?",
       "url": "https://www.livescience.com/animals/do-animals-experience-schadenfreude"
+    },
+    {
+      "category": "Space",
+      "title": "APOD: 2026 October 4 – Supernumerary Rainbows over New Jersey",
+      "source": "NASA",
+      "date": "Sun, 04 Oct 2026 04:05:00 +0000",
+      "summary": "APOD Science APOD APOD: 2026 October 4 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Supernumerary Rainbows over […]",
+      "url": "https://science.nasa.gov/image-article/apod-2026-october-4-supernumerary-rainbows-over-new-jersey/"
     },
     {
       "category": "Theology",
@@ -123,12 +139,12 @@
       "url": "https://www.sciencedaily.com/releases/2026/10/261002080020.htm"
     },
     {
-      "category": "AI",
-      "title": "The dawn of the age of the exoskeleton",
-      "source": "Ars Technica - All content",
-      "date": "Sat, 03 Oct 2026 11:15:33 +0000",
-      "summary": "The devices continue to show noticeable benefits for users in various real-world tasks.",
-      "url": "https://arstechnica.com/science/2026/10/the-dawn-of-the-age-of-the-exoskeleton/"
+      "category": "Space",
+      "title": "APOD: 2026 October 3 – Selfie at Vera Rubin Ridge",
+      "source": "NASA",
+      "date": "Sat, 03 Oct 2026 04:05:00 +0000",
+      "summary": "APOD Science APOD APOD: 2026 October 3 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Selfie at Vera […]",
+      "url": "https://science.nasa.gov/image-article/apod-2026-october-3-selfie-at-vera-rubin-ridge/"
     },
     {
       "category": "Theology",
@@ -137,6 +153,14 @@
       "date": "Sat, 03 Oct 2026 04:00:00 +0000",
       "summary": "Before we can get to the right answer, we need to ask the right question.",
       "url": "https://www.thegospelcoalition.org/article/rest-each-day/"
+    },
+    {
+      "category": "Space",
+      "title": "NASA Astronaut Christina Koch to Join NFL Fans in Philadelphia",
+      "source": "NASA",
+      "date": "Fri, 02 Oct 2026 19:54:54 +0000",
+      "summary": "As part of NASA’s ongoing Inspiration Tour, NASA astronaut Christina Koch will highlight America’s strengths in space exploration and aeronautics innovation at the Philadelphia Eagles vs. Los Angeles Rams game in Philadelphia on Sunday, Oct. 4. A self-proclaimed Philadelphia sports fan, Koch is an explorer and engineer who spent a total of 338 days in […]",
+      "url": "https://www.nasa.gov/news-release/nasa-astronaut-christina-koch-to-join-nfl-fans-in-philadelphia/"
     },
     {
       "category": "AI",
