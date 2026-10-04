@@ -1,54 +1,62 @@
 {
-  "lastUpdated": "2026-10-03T18:55:27.186Z",
+  "lastUpdated": "2026-10-04T00:16:48.462Z",
   "articleCount": 36,
   "articles": [
     {
       "category": "AI",
-      "title": "ADHD, autism or complex trauma? [pdf]",
+      "title": "OpenAI safety leader quits, warning AI company's culture is 'broken'",
       "source": "Hacker News: Front Page",
-      "date": "Sat, 03 Oct 2026 18:08:28 +0000",
-      "summary": "Article URL: https://www.cambridge.org/core/services/aop-cambridge-core/content/view/30CC4826561366615BFAEC807CDE28A7/S0007125026108046a.pdf/adhd-autism-or-complex-trauma-the-complicated-nature-of-the-question.pdf\nComments URL: https://news.ycombinator.com/item?id=49946403\nPoints: 63\n# Comments: 8",
-      "url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/30CC4826561366615BFAEC807CDE28A7/S0007125026108046a.pdf/adhd-autism-or-complex-trauma-the-complicated-nature-of-the-question.pdf"
+      "date": "Sat, 03 Oct 2026 22:18:13 +0000",
+      "summary": "Article URL: https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken\nComments URL: https://news.ycombinator.com/item?id=49948332\nPoints: 61\n# Comments: 17",
+      "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken"
     },
     {
       "category": "AI",
-      "title": "Hole Punch: Sling your spaceship around gravitational fields",
+      "title": "Federal judge calls Flock 'indiscriminate mass surveillance'",
       "source": "Hacker News: Front Page",
-      "date": "Sat, 03 Oct 2026 18:06:45 +0000",
-      "summary": "Article URL: https://notoriousbfg.com/hole-punch/\nComments URL: https://news.ycombinator.com/item?id=49946393\nPoints: 15\n# Comments: 1",
-      "url": "https://notoriousbfg.com/hole-punch/"
+      "date": "Sat, 03 Oct 2026 22:07:13 +0000",
+      "summary": "Article URL: https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/\nComments URL: https://news.ycombinator.com/item?id=49948254\nPoints: 201\n# Comments: 111",
+      "url": "https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/"
     },
     {
       "category": "Science",
-      "title": "Recovery after intimate partner violence: New study reveals what works",
+      "title": "Feeling secure in a group may help dissenters make stronger arguments",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Sat, 03 Oct 2026 14:00:01 EDT",
-      "summary": "Violence in the home can range from intimidation to physical abuse. When it occurs there, we refer to it as domestic violence. Every year, more than 1 million people in the Netherlands age 16 and older experience domestic violence. This type of violence is often perpetrated by a current or former partner, in which case it is referred to as intimate partner violence.",
-      "url": "https://phys.org/news/2026-09-recovery-intimate-partner-violence-reveals.html"
+      "date": "Sat, 03 Oct 2026 17:00:06 EDT",
+      "summary": "When everyone in a meeting voices the same opinion, an organization can miss important warning signs and new ideas. A research team from KAIST suggests that when members feel securely accepted within their group, they can express dissenting opinions in greater detail and more persuasively, and other members may be more willing to use those opinions in decision-making.",
+      "url": "https://phys.org/news/2026-09-group-dissenters-stronger-arguments.html"
+    },
+    {
+      "category": "Science",
+      "title": "How can the same El Niño cause drought in one part of the world and floods in another?",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sat, 03 Oct 2026 17:00:01 EDT",
+      "summary": "The Pacific Ocean is warming unusually quickly, and this year's El Niño has already surpassed previous records. Forecasters expect it to strengthen even further before approaching its usual peak around December.",
+      "url": "https://phys.org/news/2026-09-el-nio-drought-world.html"
     },
     {
       "category": "AI",
-      "title": "Pop!_OS bans AI-generated code from much of its codebase",
+      "title": "Reasons I didn't become an EMT, ranked",
       "source": "Hacker News: Front Page",
-      "date": "Sat, 03 Oct 2026 17:57:03 +0000",
-      "summary": "Article URL: https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases/\nComments URL: https://news.ycombinator.com/item?id=49946321\nPoints: 6\n# Comments: 0",
-      "url": "https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases/"
+      "date": "Sat, 03 Oct 2026 20:49:15 +0000",
+      "summary": "Article URL: https://ben.stolovitz.com/posts/reasons-not-emt-ranked/\nComments URL: https://news.ycombinator.com/item?id=49947631\nPoints: 57\n# Comments: 24",
+      "url": "https://ben.stolovitz.com/posts/reasons-not-emt-ranked/"
     },
     {
       "category": "Science",
-      "title": "Reading hidden topology in light, even when energy leaks away",
+      "title": "Today's emissions choices could limit Antarctic ice loss and sea-level rise for coastal communities",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Sat, 03 Oct 2026 13:40:01 EDT",
-      "summary": "When I explain topology to students, I start with a knot in a rope. You can stretch it, twist it or shake it, but the knot stays until you cut the rope. Physicists have found that some materials and devices carry similar \"knots\" in how waves move through them. These are topological properties, labeled by whole numbers that don't change under small imperfections. That robustness is why topology has become one of the central ideas in modern physics. It promises electronics, photonics and quantum devices that tolerate defects and noise.",
-      "url": "https://phys.org/news/2026-10-hidden-topology-energy-leaks.html"
+      "date": "Sat, 03 Oct 2026 16:00:01 EDT",
+      "summary": "Cutting greenhouse gas emissions now may limit how much ice Antarctica loses this century and reduce the sea-level rise facing coastal communities, according to findings from a new study.",
+      "url": "https://phys.org/news/2026-10-today-emissions-choices-limit-antarctic.html"
     },
     {
-      "category": "Science",
-      "title": "Q&A: An Earth-like planet with two suns?",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sat, 03 Oct 2026 13:00:01 EDT",
-      "summary": "A nearby star system with two suns could potentially support an Earth-sized planet in a region where liquid water could exist, according to a new paper examining the dynamics of the system.",
-      "url": "https://phys.org/news/2026-09-qa-earth-planet-suns.html"
+      "category": "AI",
+      "title": "Milt Windler, NASA flight director who helped save Apollo 13, dies at 94",
+      "source": "Ars Technica - All content",
+      "date": "Sat, 03 Oct 2026 19:45:17 +0000",
+      "summary": "\"...we were making history.\"",
+      "url": "https://arstechnica.com/space/2026/10/milt-windler-nasa-flight-director-who-helped-save-apollo-13-dies-at-94/"
     },
     {
       "category": "Science",
@@ -121,14 +129,6 @@
       "date": "Fri, 02 Oct 2026 23:03:16 +0000",
       "summary": "Meta says FDA isn't sufficient to Muse reading messages. Apple begs to differ.",
       "url": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/"
-    },
-    {
-      "category": "AI",
-      "title": "Someone got Doom in an SQL database",
-      "source": "Ars Technica - All content",
-      "date": "Fri, 02 Oct 2026 21:19:05 +0000",
-      "summary": "1,300 lines of SQL querying renders accurate bitmapped views of Hell at 35 fps.",
-      "url": "https://arstechnica.com/gaming/2026/10/can-it-run-doom-sql-database-edition/"
     },
     {
       "category": "Space",
