@@ -1,54 +1,54 @@
 {
-  "lastUpdated": "2026-10-04T18:54:40.392Z",
-  "articleCount": 36,
+  "lastUpdated": "2026-10-05T00:20:54.857Z",
+  "articleCount": 33,
   "articles": [
     {
-      "category": "Science",
-      "title": "Taste shapes support for climate-friendly school meals",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sun, 04 Oct 2026 14:40:01 EDT",
-      "summary": "Students in a new study were neither clearly positive nor negative about more climate-friendly school meals. Whether the food tasted good, was filling and felt familiar played an important role. Students were somewhat more positive about reducing the amount of meat in recipes than about having more all-vegetarian days.",
-      "url": "https://phys.org/news/2026-10-climate-friendly-school-meals.html"
-    },
-    {
       "category": "AI",
-      "title": "The CISA Alert: Security Beyond Solitary Confinement",
+      "title": "1 in 8 cancer cases are caused by infections",
       "source": "Hacker News: Front Page",
-      "date": "Sun, 04 Oct 2026 18:19:24 +0000",
-      "summary": "Article URL: https://jnior.com/blog/the-cisa-alert-security-beyond-solitary-confinement/\nComments URL: https://news.ycombinator.com/item?id=49956416\nPoints: 4\n# Comments: 0",
-      "url": "https://jnior.com/blog/the-cisa-alert-security-beyond-solitary-confinement/"
-    },
-    {
-      "category": "AI",
-      "title": "Software Engineering Is Dead. Long Live Product Engineering",
-      "source": "Hacker News: Front Page",
-      "date": "Sun, 04 Oct 2026 18:13:01 +0000",
-      "summary": "Article URL: https://newsletter.chainofthought.show/p/software-engineering-is-dead-long\nComments URL: https://news.ycombinator.com/item?id=49956358\nPoints: 7\n# Comments: 0",
-      "url": "https://newsletter.chainofthought.show/p/software-engineering-is-dead-long"
+      "date": "Mon, 05 Oct 2026 00:04:02 +0000",
+      "summary": "Article URL: https://www.livescience.com/health/cancer/1-in-8-cancer-cases-are-caused-by-infections-underscoring-the-importance-of-vaccines-experts-say\nComments URL: https://news.ycombinator.com/item?id=49959260\nPoints: 5\n# Comments: 0",
+      "url": "https://www.livescience.com/health/cancer/1-in-8-cancer-cases-are-caused-by-infections-underscoring-the-importance-of-vaccines-experts-say"
     },
     {
       "category": "Science",
-      "title": "One giant clam contains a month‑by‑month diary of the Great Barrier Reef's climate 200 years ago",
+      "title": "A climate threat may lurk beneath Antarctica's last great unknown",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Sun, 04 Oct 2026 14:00:01 EDT",
-      "summary": "When you swim through the azure waters of the Great Barrier Reef, there is one creature on the seafloor that's almost impossible to miss: the giant clam. Its huge, fluted shell frames a soft mantle shimmering with electric blue, green and gold.",
-      "url": "https://phys.org/news/2026-09-giant-clam-monthbymonth-diary-great.html"
+      "date": "Sun, 04 Oct 2026 19:00:01 EDT",
+      "summary": "A region of Antarctica with some of the greatest potential to reshape the natural world and human society is also the least scientifically understood and explored.",
+      "url": "https://phys.org/news/2026-09-climate-threat-lurk-beneath-antarctica.html"
     },
     {
       "category": "AI",
-      "title": "Show HN: Dataviz, ranked daily from GitHub, NPM, PyPI and CRAN",
+      "title": "Self-hosted HTTP tunnels with SSH and Nginx",
       "source": "Hacker News: Front Page",
-      "date": "Sun, 04 Oct 2026 17:54:49 +0000",
-      "summary": "Article URL: https://awesomedataviz.com/\nComments URL: https://news.ycombinator.com/item?id=49956183\nPoints: 7\n# Comments: 1",
-      "url": "https://awesomedataviz.com/"
+      "date": "Sun, 04 Oct 2026 22:25:10 +0000",
+      "summary": "Article URL: https://vincent.bernat.ch/en/blog/2026-http-over-ssh\nComments URL: https://news.ycombinator.com/item?id=49958569\nPoints: 30\n# Comments: 10",
+      "url": "https://vincent.bernat.ch/en/blog/2026-http-over-ssh"
+    },
+    {
+      "category": "AI",
+      "title": "In the wake of closure, a digital archive of animated materials appears online",
+      "source": "Hacker News: Front Page",
+      "date": "Sun, 04 Oct 2026 21:01:28 +0000",
+      "summary": "Article URL: https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/\nComments URL: https://news.ycombinator.com/item?id=49957812\nPoints: 6\n# Comments: 1",
+      "url": "https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/"
     },
     {
       "category": "Science",
-      "title": "Hidden X-ray phase revealed in likely neutron star merger",
+      "title": "Nanoneedle arrays map RNA in fresh tissue without sequencing or amplification",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Sun, 04 Oct 2026 13:00:02 EDT",
-      "summary": "An international team of astronomers, including researchers from the Department of Physics and the Hong Kong Institute for Astronomy and Astrophysics (HKIAA) at The University of Hong Kong (HKU), has discovered a previously hidden phase of high-energy activity following the merger of compact stars.",
-      "url": "https://phys.org/news/2026-09-hidden-ray-phase-revealed-neutron.html"
+      "date": "Sun, 04 Oct 2026 17:00:06 EDT",
+      "summary": "Recently, spatial omics has become a powerful tool, enabling researchers to see not only what molecules are present in a tissue, but also where they are located and how they are organized across cells, tissue structures and local microenvironments. This spatial context has deepened our understanding of cancer, neurobiology and immunology. Yet as the field advances, an important question remains: How many of these powerful technologies are ready for routine clinical use?",
+      "url": "https://phys.org/news/2026-09-nanoneedle-arrays-rna-fresh-tissue.html"
+    },
+    {
+      "category": "Science",
+      "title": "Informal businesses belong in entrepreneurial ecosystems, review argues",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sun, 04 Oct 2026 17:00:01 EDT",
+      "summary": "A systematic review of informal businesses published in the International Journal of Entrepreneurship and Small Business argues that they should be treated as part of the larger entrepreneurial ecosystem rather than as a peripheral feature of the economy.",
+      "url": "https://phys.org/news/2026-09-businesses-entrepreneurial-ecosystems.html"
     },
     {
       "category": "AI",
@@ -99,14 +99,6 @@
       "url": "https://www.livescience.com/animals/do-animals-experience-schadenfreude"
     },
     {
-      "category": "Space",
-      "title": "APOD: 2026 October 4 – Supernumerary Rainbows over New Jersey",
-      "source": "NASA",
-      "date": "Sun, 04 Oct 2026 04:05:00 +0000",
-      "summary": "APOD Science APOD APOD: 2026 October 4 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Supernumerary Rainbows over […]",
-      "url": "https://science.nasa.gov/image-article/apod-2026-october-4-supernumerary-rainbows-over-new-jersey/"
-    },
-    {
       "category": "Theology",
       "title": "What I’ve Learned in the Cancer School of Wisdom",
       "source": "The Gospel Coalition",
@@ -139,28 +131,12 @@
       "url": "https://www.sciencedaily.com/releases/2026/10/261002080020.htm"
     },
     {
-      "category": "Space",
-      "title": "APOD: 2026 October 3 – Selfie at Vera Rubin Ridge",
-      "source": "NASA",
-      "date": "Sat, 03 Oct 2026 04:05:00 +0000",
-      "summary": "APOD Science APOD APOD: 2026 October 3 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Selfie at Vera […]",
-      "url": "https://science.nasa.gov/image-article/apod-2026-october-3-selfie-at-vera-rubin-ridge/"
-    },
-    {
       "category": "Theology",
       "title": "What’s the Right Amount of Rest?",
       "source": "The Gospel Coalition",
       "date": "Sat, 03 Oct 2026 04:00:00 +0000",
       "summary": "Before we can get to the right answer, we need to ask the right question.",
       "url": "https://www.thegospelcoalition.org/article/rest-each-day/"
-    },
-    {
-      "category": "Space",
-      "title": "NASA Astronaut Christina Koch to Join NFL Fans in Philadelphia",
-      "source": "NASA",
-      "date": "Fri, 02 Oct 2026 19:54:54 +0000",
-      "summary": "As part of NASA’s ongoing Inspiration Tour, NASA astronaut Christina Koch will highlight America’s strengths in space exploration and aeronautics innovation at the Philadelphia Eagles vs. Los Angeles Rams game in Philadelphia on Sunday, Oct. 4. A self-proclaimed Philadelphia sports fan, Koch is an explorer and engineer who spent a total of 338 days in […]",
-      "url": "https://www.nasa.gov/news-release/nasa-astronaut-christina-koch-to-join-nfl-fans-in-philadelphia/"
     },
     {
       "category": "AI",
