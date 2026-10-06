@@ -1,54 +1,110 @@
 {
-  "lastUpdated": "2026-10-05T18:59:04.943Z",
-  "articleCount": 33,
+  "lastUpdated": "2026-10-06T01:59:42.785Z",
+  "articleCount": 36,
   "articles": [
     {
       "category": "Science",
-      "title": "New saber-toothed predator from Argentina suggests its lineage survived longer than believed",
+      "title": "Global review reveals major blind spots in our understanding of climate change impacts on Mediterranean ecosystems",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Mon, 05 Oct 2026 14:40:10 EDT",
-      "summary": "In 2014, members of a local museum found fragments of an ancient fossil dating to the end of the Pliocene or early Pleistocene epoch in a seaside cliff on the Argentine pampas. They belonged to a large predator, but the only group they fit, saber-toothed marsupial relatives, had supposedly gone extinct earlier, leaving the identity of the fossil a mystery. That was until Eric del Campo, a paleontologist at the Argentine Museum of Natural Sciences in Buenos Aires and lead author of the study, and his colleagues took a closer look.",
-      "url": "https://phys.org/news/2026-10-saber-toothed-predator-argentina-lineage.html"
+      "date": "Mon, 05 Oct 2026 21:40:01 EDT",
+      "summary": "A new global review of observed climate change impacts on plant communities reveals major gaps in where and how we monitor some of the world's most climate-vulnerable ecosystems.",
+      "url": "https://phys.org/news/2026-10-global-reveals-major-climate-impacts.html"
     },
     {
       "category": "Science",
-      "title": "How changing recipients of golden roses reflect centuries of evolving papal influence",
+      "title": "Neutrons, rotating black holes, and a galactic PeVatron at the center of the Milky Way",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Mon, 05 Oct 2026 14:40:01 EDT",
-      "summary": "Almost every ceremonial object or ornament of the medieval papal monarchy has disappeared or lost its original purpose. Yet one survives: the golden rose. On Sept. 26, 2026, during Pope Leo XIV's visit to France, he traveled to Lourdes, home to one of the world's most famous shrines to the Virgin Mary. After praying, Leo presented a golden rose to Our Lady of Lourdes—the fifth time he has dedicated a rose to a Marian shrine or image.",
-      "url": "https://phys.org/news/2026-10-recipients-golden-roses-centuries-evolving.html"
+      "date": "Mon, 05 Oct 2026 21:20:01 EDT",
+      "summary": "Galactic black holes are cosmic mitochondria, powerhouses of the universe. Most of the energy these supermassive black holes produce comes from the material surrounding them: superheated plasma in their accretion disks interacting with tremendous magnetic fields. But there is a more direct way to extract energy from a black hole. It's known as the Penrose process, and a new study asks whether we could discover a signature of this process.",
+      "url": "https://phys.org/news/2026-10-neutrons-rotating-black-holes-galactic.html"
     },
     {
-      "category": "AI",
-      "title": "Greenvolt begins building 600 MW/2.4 GWh BESS in Poland",
-      "source": "Hacker News: Front Page",
-      "date": "Mon, 05 Oct 2026 18:38:01 +0000",
-      "summary": "Article URL: https://www.ess-news.com/2026/09/25/greenvolt-begins-building-600-mw-2-4-gwh-bess-in-poland/\nComments URL: https://news.ycombinator.com/item?id=49968708\nPoints: 5\n# Comments: 2",
-      "url": "https://www.ess-news.com/2026/09/25/greenvolt-begins-building-600-mw-2-4-gwh-bess-in-poland/"
+      "category": "Space",
+      "title": "Curiosity Blog, Sols 5029-5035: Back in the Lab",
+      "source": "NASA",
+      "date": "Tue, 06 Oct 2026 01:04:01 +0000",
+      "summary": "Written by Michelle Minitti, MAHLI Deputy Principal Investigator Earth planning date: Friday, Oct. 1, 2026 The majority of Curiosity plans involve mosaics from Mastcam and ChemCam, chemistry analyses from ChemCam and APXS, images from MAHLI and MARDI, and systematic measurements from REMS, RAD, and DAN. It is only when we stop to drill that we […]",
+      "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5029-5035-back-in-the-lab/"
     },
     {
       "category": "Science",
-      "title": "Tracking uncovers $80 million spent on AI political ads, most without disclosure",
+      "title": "Why some Indigenous communities don't resist oil extraction in their territories",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Mon, 05 Oct 2026 14:20:11 EDT",
-      "summary": "The 2026 U.S. midterm campaigns are the first in which AI-generated political ads are regularly appearing on people's televisions and social media feeds. We are researchers who have been studying political advertising through the Wesleyan Media Project since 2010. This election cycle—using data from media reports, student coders and AdImpact, a firm that tracks political ad spending—we've tracked about $80 million in spending on almost 170 unique ads that use AI.",
-      "url": "https://phys.org/news/2026-10-tracking-uncovers-million-spent-ai.html"
+      "date": "Mon, 05 Oct 2026 21:00:01 EDT",
+      "summary": "More than half of the Ecuadorian Amazon has been marked for oil drilling, overlapping with Indigenous territories and areas of high biodiversity. The ecological and cultural impacts of oil extraction are well documented and have fueled some of Latin America's most prominent environmental movements. Yet at the local level, extraction is not always met with resistance.",
+      "url": "https://phys.org/news/2026-10-indigenous-communities-dont-resist-oil.html"
+    },
+    {
+      "category": "Space",
+      "title": "A Journey to the Depths of Ancient Mars?",
+      "source": "NASA",
+      "date": "Tue, 06 Oct 2026 00:48:54 +0000",
+      "summary": "Written by Alex Jones, Ph.D. candidate at Imperial College London Sept. 29, 2026 After spending the last six months exploring “Lac de Charmes,” a region of ancient rock beyond Jezero crater’s western rim, Perseverance has stumbled upon a vast field of light-toned rocks peppering the Martian surface.  Light-colored rocks are a strange sight on Mars, […]",
+      "url": "https://science.nasa.gov/blog/a-journey-to-the-depths-of-ancient-mars/"
     },
     {
       "category": "AI",
-      "title": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
+      "title": "AI Tutoring with Khanmigo in a Two-Year School Experiment",
       "source": "Hacker News: Front Page",
-      "date": "Mon, 05 Oct 2026 17:53:35 +0000",
-      "summary": "Article URL: https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects/\nComments URL: https://news.ycombinator.com/item?id=49968105\nPoints: 79\n# Comments: 41",
-      "url": "https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects/"
+      "date": "Tue, 06 Oct 2026 00:00:45 +0000",
+      "summary": "Article URL: https://edworkingpapers.com/ai26-1551\nComments URL: https://news.ycombinator.com/item?id=49972419\nPoints: 26\n# Comments: 15",
+      "url": "https://edworkingpapers.com/ai26-1551"
     },
     {
       "category": "AI",
-      "title": "US closely monitoring case of lab worker who possibly died of plague in Siberia",
+      "title": "Samon: Designing a Zen Garden Raking Puzzle",
       "source": "Hacker News: Front Page",
-      "date": "Mon, 05 Oct 2026 17:01:27 +0000",
-      "summary": "Article URL: https://www.theguardian.com/world/2026/oct/05/russia-lab-worker-possibly-dies-of-plague-siberia-quarantine-measures-irkutsk\nComments URL: https://news.ycombinator.com/item?id=49967444\nPoints: 131\n# Comments: 99",
-      "url": "https://www.theguardian.com/world/2026/oct/05/russia-lab-worker-possibly-dies-of-plague-siberia-quarantine-measures-irkutsk"
+      "date": "Mon, 05 Oct 2026 23:35:35 +0000",
+      "summary": "Article URL: https://gwern.net/doc/design/2026-10-03-gwern-samon.html\nComments URL: https://news.ycombinator.com/item?id=49972211\nPoints: 16\n# Comments: 6",
+      "url": "https://gwern.net/doc/design/2026-10-03-gwern-samon.html"
+    },
+    {
+      "category": "AI",
+      "title": "Ephemeral Testing",
+      "source": "Hacker News: Front Page",
+      "date": "Mon, 05 Oct 2026 23:06:36 +0000",
+      "summary": "Article URL: https://lemire.me/blog/2026/10/05/ephemeral-testing/\nComments URL: https://news.ycombinator.com/item?id=49972008\nPoints: 32\n# Comments: 12",
+      "url": "https://lemire.me/blog/2026/10/05/ephemeral-testing/"
+    },
+    {
+      "category": "AI",
+      "title": "MCP for agent-to-agent comms may be the riskiest protocol you've never heard of",
+      "source": "Ars Technica - All content",
+      "date": "Mon, 05 Oct 2026 22:26:35 +0000",
+      "summary": "Trust gaps in the new protocol spread malicious prompts from one agent to another.",
+      "url": "https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/"
+    },
+    {
+      "category": "Space",
+      "title": "NASA to Stream SpaceX Crew-12 Return, Splashdown Live",
+      "source": "NASA",
+      "date": "Mon, 05 Oct 2026 21:44:40 +0000",
+      "summary": "NASA and SpaceX are targeting no earlier than 8:05 a.m. EDT, Wednesday, Oct. 7, for the undocking of the agency’s SpaceX Crew-12 mission from the International Space Station, pending weather conditions. An Oct. 7 undock puts NASA astronauts Jessica Meir and Jack Hathaway, ESA (European Space Agency) astronaut Sophie Adenot, and Roscosmos cosmonaut Andrey Fedyaev […]",
+      "url": "https://www.nasa.gov/news-release/nasa-to-stream-spacex-crew-12-return-splashdown-live/"
+    },
+    {
+      "category": "AI",
+      "title": "Cable lobby to sue Trump FCC over repeal of national TV ownership cap",
+      "source": "Ars Technica - All content",
+      "date": "Mon, 05 Oct 2026 20:47:48 +0000",
+      "summary": "Cable industry to sue, says FCC can't repeal TV ownership limit set by Congress.",
+      "url": "https://arstechnica.com/tech-policy/2026/10/cable-lobby-to-sue-trump-fcc-over-repeal-of-national-tv-ownership-cap/"
+    },
+    {
+      "category": "AI",
+      "title": "Texas city demands $2M for public records on Flock usage",
+      "source": "Ars Technica - All content",
+      "date": "Mon, 05 Oct 2026 20:31:12 +0000",
+      "summary": "Prices of public records tracking cops' use of Flock go up as backlash swells.",
+      "url": "https://arstechnica.com/tech-policy/2026/10/texas-city-demands-2m-for-public-records-on-flock-usage/"
+    },
+    {
+      "category": "Science",
+      "title": " Jupiter will disappear behind the moon in a once-in-a-decade alignment tomorrow ",
+      "source": " Latest from Live Science ",
+      "date": "Mon, 05 Oct 2026 20:20:56 +0000",
+      "summary": "Skywatchers in the U.S. and eastern Canada can see a rare lunar occultation of Jupiter early on Oct. 6. Here are the exact times to see the giant planet vanish and reappear.",
+      "url": "https://www.livescience.com/space/jupiter/set-your-alarm-jupiter-will-disappear-behind-the-crescent-moon-in-a-once-in-a-decade-alignment-tomorrow"
     },
     {
       "category": "Science",
@@ -57,14 +113,6 @@
       "date": "Mon, 05 Oct 2026 16:40:38 +0000",
       "summary": "The ancient Egyptians practiced human sacrifice around 5,000 years ago, a new study finds.",
       "url": "https://www.livescience.com/archaeology/ancient-egyptians/ancient-egyptians-sacrificed-pharaohs-servants-so-they-could-continue-to-serve-their-king-in-the-afterlife-new-study-finds"
-    },
-    {
-      "category": "AI",
-      "title": "F1 in Bahrain... in Malaysia: The race needed a software update to start",
-      "source": "Ars Technica - All content",
-      "date": "Mon, 05 Oct 2026 16:09:07 +0000",
-      "summary": "A software bug waylaid half the field and required a race reboot.",
-      "url": "https://arstechnica.com/cars/2026/10/f1-in-bahrain-in-malaysia-the-race-needed-a-software-update-to-start/"
     },
     {
       "category": "Science",
@@ -76,27 +124,11 @@
     },
     {
       "category": "AI",
-      "title": "Mass quarantine issued in Russia after unexplained death of plague researcher",
-      "source": "Ars Technica - All content",
-      "date": "Mon, 05 Oct 2026 15:12:17 +0000",
-      "summary": "Unconfirmed reports have suggested there was a laboratory accident.",
-      "url": "https://arstechnica.com/health/2026/10/researchers-death-from-undisclosed-illness-sparks-mass-quarantine-in-russia/"
-    },
-    {
-      "category": "AI",
       "title": "Our approach to EU text provenance rules",
       "source": "OpenAI News",
       "date": "Mon, 05 Oct 2026 15:00:00 GMT",
       "summary": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.",
       "url": "https://openai.com/index/eu-text-provenance"
-    },
-    {
-      "category": "AI",
-      "title": "AI glasses face their first major government crackdown",
-      "source": "Ars Technica - All content",
-      "date": "Mon, 05 Oct 2026 13:39:30 +0000",
-      "summary": "Norway wants time to write permanent rules for glasses that can record bystanders.",
-      "url": "https://arstechnica.com/ai/2026/10/ai-glasses-face-their-first-major-government-crackdown/"
     },
     {
       "category": "Science",
@@ -129,14 +161,6 @@
       "date": "Mon, 05 Oct 2026 10:00:47 +0000",
       "summary": "The metal detector chirped as archaeological volunteer Edie Lipsman passed it by a large stone. Although no one knew in that moment what Lipsman had […]\nThe post Golden Treasure Trove Discovered at Hippos appeared first on Biblical Archaeology Society.",
       "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-israel/golden-treasure-trove-discovered-at-hippos/"
-    },
-    {
-      "category": "Science",
-      "title": " Urn with jaguars and skulls: A 1,400-year-old burial container depicting a deceased ruler's arrival to the Maya underworld ",
-      "source": " Latest from Live Science ",
-      "date": "Mon, 05 Oct 2026 10:00:00 +0000",
-      "summary": "This 1,400-year-old Maya urn features skulls, underworld gods, and a deceased ancestor dressed like a jaguar.",
-      "url": "https://www.livescience.com/archaeology/americas/urn-with-jaguars-and-skulls-a-1-400-year-old-burial-container-depicting-a-deceased-rulers-arrival-to-the-maya-underworld"
     },
     {
       "category": "AI",
