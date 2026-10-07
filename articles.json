@@ -1,102 +1,198 @@
 {
-  "lastUpdated": "2026-10-07T01:09:28.113Z",
-  "articleCount": 33,
+  "lastUpdated": "2026-10-07T17:08:03.618Z",
+  "articleCount": 36,
   "articles": [
     {
       "category": "Science",
-      "title": "Nobel winner Halzen says years of October 'misery' finally over",
+      "title": "A new hope for dogs with dementia: Researchers explore gene therapy",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Tue, 06 Oct 2026 21:00:01 EDT",
-      "summary": "Physicist Francis Halzen has an impressively long list of academic accolades—but every October, as the Nobel Prize rolled around, his failure to bag the biggest award of them all left him \"miserable,\" he admits.",
-      "url": "https://phys.org/news/2026-10-nobel-winner-halzen-years-october.html"
+      "date": "Wed, 07 Oct 2026 13:00:14 EDT",
+      "summary": "The moment Kate Heath saw her 12-year-old pug, Ivy, sitting silently and staring at a wall, she knew something was wrong.",
+      "url": "https://phys.org/news/2026-10-dogs-dementia-explore-gene-therapy.html"
     },
     {
       "category": "Science",
-      "title": "Computer scientist tracks satellites with automated observatory built from off-the-shelf technology",
+      "title": "One quantum material, two superconducting states: Stretching helps explain conflicting experiments",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Tue, 06 Oct 2026 20:20:01 EDT",
-      "summary": "Allen Schnibben's interest in space started when he was a child. \"I picked up some books about the solar system when I was in elementary school. In middle school, I got a telescope and I started observing the night sky as a hobby,\" said Schnibben, a computer scientist at Sandia National Laboratories. \"My entire life, I've had an interest in space.\" Now, Schnibben collects data on satellites at Sandia's SOHBRIT facility, a 12-foot-wide (3.7-meter-wide) observatory.",
-      "url": "https://phys.org/news/2026-10-scientist-tracks-satellites-automated-observatory.html"
+      "date": "Wed, 07 Oct 2026 13:00:09 EDT",
+      "summary": "Unconventional superconductors can host unusual electronic states, but understanding what drives their superconductivity becomes difficult when different forms of order coexist. The kagome metal CsV3Sb5 has become a particularly debated example.",
+      "url": "https://phys.org/news/2026-10-quantum-material-superconducting-states-conflicting.html"
     },
     {
       "category": "Science",
-      "title": "Study highlights the European waters at greatest risk of harmful light pollution",
+      "title": "Levitating glass sphere becomes entangled with light at room temperature",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Tue, 06 Oct 2026 20:00:01 EDT",
-      "summary": "Scientists have produced a first-of-its-kind assessment showing which coastal regions of Europe they believe are at greatest risk from harmful light pollution.",
-      "url": "https://phys.org/news/2026-10-highlights-european-greatest-pollution.html"
-    },
-    {
-      "category": "AI",
-      "title": "Stanford scientists found a way to regrow cartilage and stop arthritis",
-      "source": "Hacker News: Front Page",
-      "date": "Tue, 06 Oct 2026 23:54:35 +0000",
-      "summary": "Article URL: https://www.sciencedaily.com/releases/2026/10/261005011249.htm\nComments URL: https://news.ycombinator.com/item?id=49985905\nPoints: 28\n# Comments: 6",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261005011249.htm"
-    },
-    {
-      "category": "AI",
-      "title": "South Korea says AI agents appear to have been used to hack the country's banks",
-      "source": "Hacker News: Front Page",
-      "date": "Tue, 06 Oct 2026 23:50:33 +0000",
-      "summary": "Article URL: https://www.reuters.com/world/south-koreas-lee-says-ai-appears-have-been-used-bank-hacks-2026-10-06/\nComments URL: https://news.ycombinator.com/item?id=49985861\nPoints: 18\n# Comments: 2",
-      "url": "https://www.reuters.com/world/south-koreas-lee-says-ai-appears-have-been-used-bank-hacks-2026-10-06/"
-    },
-    {
-      "category": "AI",
-      "title": "AnyPS5: Port PS5 binaries to PC without emulation (87% system libraries mapped)",
-      "source": "Hacker News: Front Page",
-      "date": "Tue, 06 Oct 2026 23:28:08 +0000",
-      "summary": "Article URL: https://github.com/boykopovar/AnyPS5\nComments URL: https://news.ycombinator.com/item?id=49985664\nPoints: 49\n# Comments: 11",
-      "url": "https://github.com/boykopovar/AnyPS5"
-    },
-    {
-      "category": "AI",
-      "title": "Drones sink ships near NATO countries in “unacceptable” attacks, EU says",
-      "source": "Ars Technica - All content",
-      "date": "Tue, 06 Oct 2026 21:31:10 +0000",
-      "summary": "Two cargo ships have sunk, one ship was afire, and sailors are dead or missing.",
-      "url": "https://arstechnica.com/gadgets/2026/10/drone-strikes-likely-russian-sink-ships-in-nato-countries-economic-zones/"
-    },
-    {
-      "category": "AI",
-      "title": "OpenAI will watermark ChatGPT outputs by default—but only in the EU",
-      "source": "Ars Technica - All content",
-      "date": "Tue, 06 Oct 2026 20:50:32 +0000",
-      "summary": "Like other solutions, it is not especially reliable, and it's easy to circumvent.",
-      "url": "https://arstechnica.com/ai/2026/10/openai-will-watermark-chatgpt-outputs-by-default-but-only-in-the-eu/"
+      "date": "Wed, 07 Oct 2026 12:40:13 EDT",
+      "summary": "Today, many physicists are actively exploring how light could be used to link objects through quantum entanglement. By fully harnessing the effect, they hope to unlock a wide array of applications, from secure communication networks spanning vast distances to sensitive new tests of the fundamental laws of physics.",
+      "url": "https://phys.org/news/2026-10-levitating-glass-sphere-entangled-room.html"
     },
     {
       "category": "Science",
-      "title": " Earth is in the firing line of a strange new type of cosmic object, astronomers say ",
+      "title": " 'We stocked an RV as an emergency bugout vehicle': Readers share how prepared they are for a disaster ",
       "source": " Latest from Live Science ",
-      "date": "Tue, 06 Oct 2026 20:41:50 +0000",
-      "summary": "Astronomers may have discovered the first known microblazar, a long-theorized object firing a powerful beam of particles directly at Earth.",
-      "url": "https://www.livescience.com/space/black-holes/earth-is-in-the-firing-line-of-a-strange-new-type-of-cosmic-object-a-microblazar"
+      "date": "Wed, 07 Oct 2026 16:23:53 +0000",
+      "summary": "With extreme weather conditions becoming more frequent, having a disaster kit and other emergency plans can be beneficial. Live Science readers shared their thoughts about how prepared they are for these events. Do you agree with what they said?",
+      "url": "https://www.livescience.com/planet-earth/we-stocked-an-rv-as-an-emergency-bugout-vehicle-readers-share-how-prepared-they-are-for-a-disaster"
     },
     {
       "category": "AI",
-      "title": "HBO Max, Paramount+, and Discovery+ \"will unify into a single service”",
+      "title": "Study: Claude, ChatGPT Offer Different Shopping Prices Based on Wealth",
+      "source": "Hacker News: Front Page",
+      "date": "Wed, 07 Oct 2026 16:07:08 +0000",
+      "summary": "Article URL: https://www.bloomberg.com/news/newsletters/2026-10-07/study-claude-chatgpt-ai-bots-offer-different-shopping-prices-based-on-wealth\nComments URL: https://news.ycombinator.com/item?id=49994746\nPoints: 35\n# Comments: 4",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-10-07/study-claude-chatgpt-ai-bots-offer-different-shopping-prices-based-on-wealth"
+    },
+    {
+      "category": "AI",
+      "title": "A Cop's Case for Flock",
+      "source": "Hacker News: Front Page",
+      "date": "Wed, 07 Oct 2026 16:00:34 +0000",
+      "summary": "Article URL: https://worksinprogress.co/issue/a-cops-case-for-flock/\nComments URL: https://news.ycombinator.com/item?id=49994679\nPoints: 8\n# Comments: 11",
+      "url": "https://worksinprogress.co/issue/a-cops-case-for-flock/"
+    },
+    {
+      "category": "AI",
+      "title": "Jaguar Type 01 debuts; now, no one remembers the electric Ferrari",
       "source": "Ars Technica - All content",
-      "date": "Tue, 06 Oct 2026 20:32:12 +0000",
-      "summary": "A combined service could lead to higher prices.",
-      "url": "https://arstechnica.com/gadgets/2026/10/hbo-max-paramount-and-discovery-will-unify-into-a-single-service/"
+      "date": "Wed, 07 Oct 2026 15:48:01 +0000",
+      "summary": "Car design sure riles people up on the Internet these days. Goes double for EVs.",
+      "url": "https://arstechnica.com/cars/2026/10/jaguar-makes-its-controversial-all-ev-return-with-the-type-01/"
+    },
+    {
+      "category": "AI",
+      "title": "Open source 160 sound visualization experiments",
+      "source": "Hacker News: Front Page",
+      "date": "Wed, 07 Oct 2026 15:46:30 +0000",
+      "summary": "Article URL: https://www.kagan.in/iwrzwr/visual-archive/\nComments URL: https://news.ycombinator.com/item?id=49994481\nPoints: 9\n# Comments: 0",
+      "url": "https://www.kagan.in/iwrzwr/visual-archive/"
+    },
+    {
+      "category": "Space",
+      "title": "Artemis II Crew Moon Photo Annotations",
+      "source": "NASA",
+      "date": "Wed, 07 Oct 2026 15:44:59 +0000",
+      "summary": "A visualization of a dark Moon eclipsing the Sun is marked with handwritten notes in this April 6, 2026, screenshot from an Artemis II crew member’s tablet. NASA astronauts Reid Wiseman (in blue) and Victor “Ike” Glover (in green) and CSA (Canadian Space Agency) Jeremy Hansen (in red) observed impact flashes and their locations, which […]",
+      "url": "https://www.nasa.gov/image-article/artemis-ii-crew-moon-photo-annotations/"
     },
     {
       "category": "Science",
-      "title": " Archaeologists discover a child's skull built into the floor of a 2,500-year-old Scandinavian house ",
+      "title": " 'Completely unexpected': Astronomers spy never-before-seen 'phoenix planet' rising from the ashes of a dead star ",
       "source": " Latest from Live Science ",
-      "date": "Tue, 06 Oct 2026 20:22:45 +0000",
-      "summary": "A study of nearly 200 individuals buried in domestic contexts in ancient and Viking Age Scandinavia has revealed unusually high levels of violence.",
-      "url": "https://www.livescience.com/archaeology/vikings/archaeologists-discover-a-childs-skull-built-into-the-floor-of-a-2-500-year-old-scandinavian-house"
+      "date": "Wed, 07 Oct 2026 15:22:03 +0000",
+      "summary": "Astronomers have spotted a rare \"second-generation\" exoplanet closely orbiting the nearby white dwarf HS 0209+0832. An unusual mixture of heavy elements inside this zombie star suggests that \"this system has given birth to a new world using the foundations of the old one.\"",
+      "url": "https://www.livescience.com/space/exoplanets/completely-unexpected-astronomers-spy-never-before-seen-phoenix-planet-rising-from-the-ashes-of-a-dead-star"
     },
     {
       "category": "Science",
-      "title": " 'She knew she had something really important on her hands': Rosalind Franklin figured out DNA's helical structure before Watson and Crick, study suggests ",
+      "title": " 'Sexy Mantis,' obscene orangutan and prancing sparrowhawk feature in 2026 Nikon Comedy Wildlife Awards ",
       "source": " Latest from Live Science ",
-      "date": "Tue, 06 Oct 2026 17:33:06 +0000",
-      "summary": "Rosalind Franklin knew about DNA's helical structure ahead of Watson and Crick, a new study of her photos and notes reveals.",
-      "url": "https://www.livescience.com/health/she-knew-she-had-something-really-important-on-her-hands-rosalind-franklin-figured-out-dnas-helical-structure-before-watson-and-crick-study-suggests"
+      "date": "Wed, 07 Oct 2026 15:19:59 +0000",
+      "summary": "The Nikon Comedy Wildlife Awards has unveiled its finalists for 2026, so let's all have a good laugh at nature.",
+      "url": "https://www.livescience.com/animals/sexy-mantis-obscene-orangutan-and-prancing-sparrowhawk-feature-in-2026-nikon-comedy-wildlife-awards"
+    },
+    {
+      "category": "AI",
+      "title": "Trade group crunches numbers on Trump’s impossible push for 100% US-made tech",
+      "source": "Ars Technica - All content",
+      "date": "Wed, 07 Oct 2026 15:19:05 +0000",
+      "summary": "Trump's aggressive reshoring push could cost tech firms $230 billion, CTA estimates.",
+      "url": "https://arstechnica.com/tech-policy/2026/10/trade-group-crunches-numbers-on-trumps-impossible-push-for-100-us-made-tech/"
+    },
+    {
+      "category": "AI",
+      "title": "Mistral says \"Le Chonk\" can challenge the best AI models",
+      "source": "Ars Technica - All content",
+      "date": "Wed, 07 Oct 2026 14:12:37 +0000",
+      "summary": "Mistral says Le Chonk can rival top closed models while remaining open-weight.",
+      "url": "https://arstechnica.com/ai/2026/10/mistral-says-le-chonk-can-challenge-the-best-ai-models/"
+    },
+    {
+      "category": "Science",
+      "title": "NASA’s Webb finds signs of Mars-sized worlds smashing together",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Wed, 07 Oct 2026 09:09:15 EDT",
+      "summary": "NASA’s James Webb Space Telescope is giving astronomers a glimpse of the kinds of violent collisions that may have shaped our own solar system, including the giant impact thought to have created the Moon. By studying 21 rare “extreme debris disks” around young stars, researchers found that their dust can reveal the scale and intensity of planetary collisions.",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261007042108.htm"
+    },
+    {
+      "category": "Science",
+      "title": "Scientists changed how zoo lions eat. Their wild side came out",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Wed, 07 Oct 2026 08:46:44 EDT",
+      "summary": "Giving zoo lions whole carcasses on a feast-and-fast schedule appears to bring out more natural behavior. The lions spent nearly three times longer feeding, engaged in more tearing and manipulating of food, and rested more heavily after meals. Their activity then increased gradually during the fasting period, closely resembling the rhythm seen in wild lions.",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261005071535.htm"
+    },
+    {
+      "category": "AI",
+      "title": "Helping teens learn, plan, and shape the future of AI",
+      "source": "OpenAI News",
+      "date": "Wed, 07 Oct 2026 12:00:00 GMT",
+      "summary": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council.",
+      "url": "https://openai.com/index/teens-learn-and-plan"
+    },
+    {
+      "category": "Biblical Studies",
+      "title": "Love, War, and Diplomacy and the Bronze Age",
+      "source": "Biblical Archaeology Society",
+      "date": "Wed, 07 Oct 2026 10:45:05 +0000",
+      "summary": "Love, War, and Diplomacy The Discovery of the Amarna Letters and the Bronze Age World They Revealed By Eric H. Cline (Princeton: Princeton Univ. Press, […]\nThe post Love, War, and Diplomacy and the Bronze Age appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/reviews/love-war-and-diplomacy-and-the-bronze-age/"
+    },
+    {
+      "category": "Biblical Studies",
+      "title": "The Bible in Living Color",
+      "source": "Biblical Archaeology Society",
+      "date": "Wed, 07 Oct 2026 10:00:18 +0000",
+      "summary": "The Book of Esther Word for Word Bible Comic series (Bristol, United Kingdom: Word for Word Bible Comics, 2024), i–ix + 84 pp. Acts of […]\nThe post The Bible in Living Color appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/reviews/the-bible-in-living-color/"
+    },
+    {
+      "category": "Space",
+      "title": "APOD: 2026 October 7 – Supernova Remnant Pa 30",
+      "source": "NASA",
+      "date": "Wed, 07 Oct 2026 04:05:00 +0000",
+      "summary": "APOD Science APOD APOD: 2026 October 7 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Supernova Remnant Pa […]",
+      "url": "https://science.nasa.gov/image-article/apod-2026-october-7-supernova-remnant-pa-30/"
+    },
+    {
+      "category": "Theology",
+      "title": "Bridging the Gap Between the Pulpit and the Workplace",
+      "source": "The Gospel Coalition",
+      "date": "Wed, 07 Oct 2026 04:04:51 +0000",
+      "summary": "Dan Doriani and Mark Vroegop talk about how our Sunday morning worship should prepare us to love our neighbors and serve the common good Monday through Saturday.",
+      "url": "https://www.thegospelcoalition.org/podcasts/your-corner-of-the-world/bridging-gap-pulpit-workplace/"
+    },
+    {
+      "category": "Theology",
+      "title": "Why Churchgoers Escaped the ‘Sex Recession’",
+      "source": "The Gospel Coalition",
+      "date": "Wed, 07 Oct 2026 04:02:00 +0000",
+      "summary": "A new report found that religious married couples—those who attend church at least twice a month—are more sexually satisfied than their secular peers.",
+      "url": "https://www.thegospelcoalition.org/article/churchgoers-escaped-sex-recession/"
+    },
+    {
+      "category": "Space",
+      "title": "Arctic Sea Ice Shrinks to Its 2026 Minimum",
+      "source": "NASA",
+      "date": "Wed, 07 Oct 2026 04:00:00 +0000",
+      "summary": "Satellite records show Arctic sea ice covering less of the ocean in both winter and summer.",
+      "url": "https://science.nasa.gov/earth/earth-observatory/arctic-sea-ice-shrinks-to-its-2026-minimum/"
+    },
+    {
+      "category": "Theology",
+      "title": "Why We Need History More than Ever Before",
+      "source": "The Gospel Coalition",
+      "date": "Wed, 07 Oct 2026 04:00:00 +0000",
+      "summary": "By tending and keeping the past, Christians can equip ourselves to communicate the truth, goodness, and beauty of Jesus Christ to a confused and rootless world.",
+      "url": "https://www.thegospelcoalition.org/article/need-history-more-before/"
+    },
+    {
+      "category": "Science",
+      "title": "Humans may not be as hardwired for violence as we thought",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Tue, 06 Oct 2026 23:22:55 EDT",
+      "summary": "A study comparing 100 primate species, including humans, suggests that everyday aggression and lethal violence did not evolve as part of the same simple behavioral spectrum. Species that frequently fight or show mild aggression are not necessarily more likely to kill rivals, while extreme acts such as infanticide and lethal attacks appear to follow their own evolutionary patterns.",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261005071529.htm"
     },
     {
       "category": "Theology",
@@ -105,22 +201,6 @@
       "date": "Tue, 06 Oct 2026 15:42:44 +0000",
       "summary": "Worse than offending unbelievers is treating them like they are believers. Instead, we must aim to help sinners see their sin and confess their need for Christ. This spiritual clarity is not cruel, but kind.\nThe post Aiming for Conversion in Our Preaching appeared first on 9Marks.",
       "url": "https://www.9marks.org/article/aiming-for-conversion-in-our-preaching/?utm_source=rss&utm_medium=rss&utm_campaign=aiming-for-conversion-in-our-preaching"
-    },
-    {
-      "category": "Science",
-      "title": "Goodbye joint replacements? Stanford scientists found a way to regrow cartilage and stop arthritis",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Tue, 06 Oct 2026 09:03:47 EDT",
-      "summary": "Scientists have found a surprising way to regrow damaged knee cartilage by blocking a protein that becomes more abundant with age. In old mice, the treatment restored naturally lost cartilage and also helped prevent osteoarthritis after ACL-like knee injuries, while human cartilage taken from knee replacement patients began producing new, functional joint cartilage after exposure to the same inhibitor.",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261005011249.htm"
-    },
-    {
-      "category": "Science",
-      "title": "Physicists just saw quarks make waves in the Big Bang’s primordial soup",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Tue, 06 Oct 2026 08:04:50 EDT",
-      "summary": "Physicists at CERN’s Large Hadron Collider have captured the clearest evidence yet that quark-gluon plasma, the scorching-hot matter that filled the newborn universe, behaves like a true liquid. By tracking individual quarks as they blasted through the plasma, researchers saw them leave behind ripples, splashes, and swirling wakes much like a duck moving through water. The finding suggests this primordial “soup” is so dense that it can slow speeding quarks and respond collectively as a fluid.",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261004002556.htm"
     },
     {
       "category": "AI",
@@ -147,68 +227,12 @@
       "url": "https://www.biblicalarchaeology.org/daily/biblical-topics/hebrew-bible/the-nephilim-and-the-sons-of-god/"
     },
     {
-      "category": "Biblical Studies",
-      "title": "What Color Was Tekhelet?",
-      "source": "Biblical Archaeology Society",
-      "date": "Tue, 06 Oct 2026 11:00:28 +0000",
-      "summary": "In the Bible, a shade of blue called tekhelet was God’s chosen color for the ancient Israelites. Tekhelet drapes adorned Solomon’s Temple, and tekhelet robes were worn by Israel’s high priests. What was the actual color of ancient tekhelet and tzitzit?\nThe post What Color Was Tekhelet? appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/what-color-was-tekhelet/"
-    },
-    {
-      "category": "AI",
-      "title": "Advancing computer use with Ironclad",
-      "source": "OpenAI News",
-      "date": "Tue, 06 Oct 2026 10:00:00 GMT",
-      "summary": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work.",
-      "url": "https://openai.com/index/advancing-computer-use-with-ironclad"
-    },
-    {
       "category": "History",
       "title": "David Steele’s Macabre Medal",
       "source": "Journal of the American Revolution",
       "date": "Tue, 06 Oct 2026 09:00:36 +0000",
       "summary": "Introduction When most people think of medals, they think of portable discs often suspended from a ribbon and made of metal (frequently gold, silver, or bronze) that commemorate a deed, an event, or an achievement. Revolutionary War veteran David Steele’s medal was neither circular nor metal, embossed nor engraved. He received it not from the […]\nThe post David Steele’s Macabre Medal appeared first on Journal of the American Revolution.",
       "url": "https://allthingsliberty.com/2026/10/david-steeles-macabre-medal/"
-    },
-    {
-      "category": "Theology",
-      "title": "How North Korea Became the Most Religious Place on Earth (with Jonathan Cheng)",
-      "source": "The Gospel Coalition",
-      "date": "Tue, 06 Oct 2026 04:04:22 +0000",
-      "summary": "Jonathan Cheng explains to Collin Hansen how Pyongyang went from the ‘Jerusalem of the East’ to the center of North Korea’s communist Kim dynasty.",
-      "url": "https://www.thegospelcoalition.org/podcasts/gospelbound/north-korea-most-religious-place/"
-    },
-    {
-      "category": "Theology",
-      "title": "Why Jen Wilkin Wants Kids to Understand Genesis 2",
-      "source": "The Gospel Coalition",
-      "date": "Tue, 06 Oct 2026 04:02:00 +0000",
-      "summary": "In ‘Made like Me: A True Story from the Beginning of Everything,’ Jen Wilkin helps kids understand the beautiful truth from Genesis 2 that God made us to need and help each other.",
-      "url": "https://www.thegospelcoalition.org/reviews/why-jen-wilkin-wants-kids-to-understand-genesis-2/"
-    },
-    {
-      "category": "Theology",
-      "title": "How to Be Happy at Work",
-      "source": "The Gospel Coalition",
-      "date": "Tue, 06 Oct 2026 04:00:00 +0000",
-      "summary": "Research shows that when we’re doing and feeling good, we feel an interest in our work.",
-      "url": "https://www.thegospelcoalition.org/article/be-happy-work/"
-    },
-    {
-      "category": "Science",
-      "title": "Don't miss: Watch Saturn shine and Halley’s Comet debris streak across the sky",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Mon, 05 Oct 2026 07:59:17 EDT",
-      "summary": "October skywatchers can see Saturn at opposition, catch meteors from Halley’s Comet during the Orionid peak, and watch the Moon sweep past the famous Pleiades star cluster. Moonlight may obscure some Orionids, but the best viewing should come before dawn after the Moon sets.",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261005071523.htm"
-    },
-    {
-      "category": "Biblical Studies",
-      "title": "The Face of God",
-      "source": "Biblical Archaeology Society",
-      "date": "Mon, 05 Oct 2026 10:45:39 +0000",
-      "summary": "When people today say, “God sees me,” they are often communicating their sense that God knows what they are going through, e.g., they do not […]\nThe post The Face of God appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-near-eastern-world/face-of-god/"
     },
     {
       "category": "History",
