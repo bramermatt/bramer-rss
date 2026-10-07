@@ -1,30 +1,102 @@
 {
-  "lastUpdated": "2026-10-06T16:24:55.581Z",
+  "lastUpdated": "2026-10-07T01:09:28.113Z",
   "articleCount": 33,
   "articles": [
     {
       "category": "Science",
-      "title": "Unusual stars may not owe their origins to hypernovae after all",
+      "title": "Nobel winner Halzen says years of October 'misery' finally over",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Tue, 06 Oct 2026 12:20:17 EDT",
-      "summary": "Evidence for hypernovae, theorized to be the most powerful explosions in the universe, has been disputed in two papers by University College London (UCL) researchers.",
-      "url": "https://phys.org/news/2026-10-unusual-stars-owe-hypernovae.html"
+      "date": "Tue, 06 Oct 2026 21:00:01 EDT",
+      "summary": "Physicist Francis Halzen has an impressively long list of academic accolades—but every October, as the Nobel Prize rolled around, his failure to bag the biggest award of them all left him \"miserable,\" he admits.",
+      "url": "https://phys.org/news/2026-10-nobel-winner-halzen-years-october.html"
     },
     {
       "category": "Science",
-      "title": "Noncompetes suppress worker mobility and earnings without protecting trade secrets",
+      "title": "Computer scientist tracks satellites with automated observatory built from off-the-shelf technology",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Tue, 06 Oct 2026 12:20:14 EDT",
-      "summary": "Findings recently published in The Quarterly Journal of Economics provide, according to the study's authors, the clearest cause-and-effect evidence to date that noncompete agreements reduce worker mobility and earnings—while offering no measurable benefits in protecting sensitive business information.",
-      "url": "https://phys.org/news/2026-10-noncompetes-suppress-worker-mobility-secrets.html"
+      "date": "Tue, 06 Oct 2026 20:20:01 EDT",
+      "summary": "Allen Schnibben's interest in space started when he was a child. \"I picked up some books about the solar system when I was in elementary school. In middle school, I got a telescope and I started observing the night sky as a hobby,\" said Schnibben, a computer scientist at Sandia National Laboratories. \"My entire life, I've had an interest in space.\" Now, Schnibben collects data on satellites at Sandia's SOHBRIT facility, a 12-foot-wide (3.7-meter-wide) observatory.",
+      "url": "https://phys.org/news/2026-10-scientist-tracks-satellites-automated-observatory.html"
     },
     {
       "category": "Science",
-      "title": "Did the hot summer make more people worry about climate change?",
+      "title": "Study highlights the European waters at greatest risk of harmful light pollution",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Tue, 06 Oct 2026 12:00:24 EDT",
-      "summary": "This summer broke records around the U.K. for maximum temperatures and dry weather. According to the U.K.'s Met Office, while it was rare to hit 35°C (95°F) in the 20th century, that temperature has been surpassed in six out of the past 10 years. And temperatures are only expected to get higher.",
-      "url": "https://phys.org/news/2026-10-hot-summer-people-climate.html"
+      "date": "Tue, 06 Oct 2026 20:00:01 EDT",
+      "summary": "Scientists have produced a first-of-its-kind assessment showing which coastal regions of Europe they believe are at greatest risk from harmful light pollution.",
+      "url": "https://phys.org/news/2026-10-highlights-european-greatest-pollution.html"
+    },
+    {
+      "category": "AI",
+      "title": "Stanford scientists found a way to regrow cartilage and stop arthritis",
+      "source": "Hacker News: Front Page",
+      "date": "Tue, 06 Oct 2026 23:54:35 +0000",
+      "summary": "Article URL: https://www.sciencedaily.com/releases/2026/10/261005011249.htm\nComments URL: https://news.ycombinator.com/item?id=49985905\nPoints: 28\n# Comments: 6",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261005011249.htm"
+    },
+    {
+      "category": "AI",
+      "title": "South Korea says AI agents appear to have been used to hack the country's banks",
+      "source": "Hacker News: Front Page",
+      "date": "Tue, 06 Oct 2026 23:50:33 +0000",
+      "summary": "Article URL: https://www.reuters.com/world/south-koreas-lee-says-ai-appears-have-been-used-bank-hacks-2026-10-06/\nComments URL: https://news.ycombinator.com/item?id=49985861\nPoints: 18\n# Comments: 2",
+      "url": "https://www.reuters.com/world/south-koreas-lee-says-ai-appears-have-been-used-bank-hacks-2026-10-06/"
+    },
+    {
+      "category": "AI",
+      "title": "AnyPS5: Port PS5 binaries to PC without emulation (87% system libraries mapped)",
+      "source": "Hacker News: Front Page",
+      "date": "Tue, 06 Oct 2026 23:28:08 +0000",
+      "summary": "Article URL: https://github.com/boykopovar/AnyPS5\nComments URL: https://news.ycombinator.com/item?id=49985664\nPoints: 49\n# Comments: 11",
+      "url": "https://github.com/boykopovar/AnyPS5"
+    },
+    {
+      "category": "AI",
+      "title": "Drones sink ships near NATO countries in “unacceptable” attacks, EU says",
+      "source": "Ars Technica - All content",
+      "date": "Tue, 06 Oct 2026 21:31:10 +0000",
+      "summary": "Two cargo ships have sunk, one ship was afire, and sailors are dead or missing.",
+      "url": "https://arstechnica.com/gadgets/2026/10/drone-strikes-likely-russian-sink-ships-in-nato-countries-economic-zones/"
+    },
+    {
+      "category": "AI",
+      "title": "OpenAI will watermark ChatGPT outputs by default—but only in the EU",
+      "source": "Ars Technica - All content",
+      "date": "Tue, 06 Oct 2026 20:50:32 +0000",
+      "summary": "Like other solutions, it is not especially reliable, and it's easy to circumvent.",
+      "url": "https://arstechnica.com/ai/2026/10/openai-will-watermark-chatgpt-outputs-by-default-but-only-in-the-eu/"
+    },
+    {
+      "category": "Science",
+      "title": " Earth is in the firing line of a strange new type of cosmic object, astronomers say ",
+      "source": " Latest from Live Science ",
+      "date": "Tue, 06 Oct 2026 20:41:50 +0000",
+      "summary": "Astronomers may have discovered the first known microblazar, a long-theorized object firing a powerful beam of particles directly at Earth.",
+      "url": "https://www.livescience.com/space/black-holes/earth-is-in-the-firing-line-of-a-strange-new-type-of-cosmic-object-a-microblazar"
+    },
+    {
+      "category": "AI",
+      "title": "HBO Max, Paramount+, and Discovery+ \"will unify into a single service”",
+      "source": "Ars Technica - All content",
+      "date": "Tue, 06 Oct 2026 20:32:12 +0000",
+      "summary": "A combined service could lead to higher prices.",
+      "url": "https://arstechnica.com/gadgets/2026/10/hbo-max-paramount-and-discovery-will-unify-into-a-single-service/"
+    },
+    {
+      "category": "Science",
+      "title": " Archaeologists discover a child's skull built into the floor of a 2,500-year-old Scandinavian house ",
+      "source": " Latest from Live Science ",
+      "date": "Tue, 06 Oct 2026 20:22:45 +0000",
+      "summary": "A study of nearly 200 individuals buried in domestic contexts in ancient and Viking Age Scandinavia has revealed unusually high levels of violence.",
+      "url": "https://www.livescience.com/archaeology/vikings/archaeologists-discover-a-childs-skull-built-into-the-floor-of-a-2-500-year-old-scandinavian-house"
+    },
+    {
+      "category": "Science",
+      "title": " 'She knew she had something really important on her hands': Rosalind Franklin figured out DNA's helical structure before Watson and Crick, study suggests ",
+      "source": " Latest from Live Science ",
+      "date": "Tue, 06 Oct 2026 17:33:06 +0000",
+      "summary": "Rosalind Franklin knew about DNA's helical structure ahead of Watson and Crick, a new study of her photos and notes reveals.",
+      "url": "https://www.livescience.com/health/she-knew-she-had-something-really-important-on-her-hands-rosalind-franklin-figured-out-dnas-helical-structure-before-watson-and-crick-study-suggests"
     },
     {
       "category": "Theology",
@@ -35,60 +107,12 @@
       "url": "https://www.9marks.org/article/aiming-for-conversion-in-our-preaching/?utm_source=rss&utm_medium=rss&utm_campaign=aiming-for-conversion-in-our-preaching"
     },
     {
-      "category": "AI",
-      "title": "The Early History of Smalltalk",
-      "source": "Hacker News: Front Page",
-      "date": "Tue, 06 Oct 2026 15:19:57 +0000",
-      "summary": "Article URL: https://worrydream.com/EarlyHistoryOfSmalltalk/\nComments URL: https://news.ycombinator.com/item?id=49979845\nPoints: 25\n# Comments: 2",
-      "url": "https://worrydream.com/EarlyHistoryOfSmalltalk/"
-    },
-    {
-      "category": "Science",
-      "title": " Amazon Prime Big Deal Days 2026: Best stargazing deals on telescopes and binoculars ",
-      "source": " Latest from Live Science ",
-      "date": "Tue, 06 Oct 2026 14:50:56 +0000",
-      "summary": "It's World Space Week, and we've found the best deals on telescopes and binoculars in the Amazon Big Deal Days sale, helping you save money on the best stargazing gear ahead of winter.",
-      "url": "https://www.livescience.com/products/optics/amazon-prime-big-deal-days-2026-best-stargazing-deals-on-telescopes-and-binoculars"
-    },
-    {
-      "category": "AI",
-      "title": "Vibecoding isn't as fun as writing code by hand",
-      "source": "Hacker News: Front Page",
-      "date": "Tue, 06 Oct 2026 14:45:02 +0000",
-      "summary": "Article URL: https://www.autodidacts.io/vibecoding-isnt-as-fun-as-writing-code-by-hand/\nComments URL: https://news.ycombinator.com/item?id=49979306\nPoints: 117\n# Comments: 136",
-      "url": "https://www.autodidacts.io/vibecoding-isnt-as-fun-as-writing-code-by-hand/"
-    },
-    {
-      "category": "AI",
-      "title": "Tapo (Rust/Python library) now speaks TP-Link's TPAP protocol",
-      "source": "Hacker News: Front Page",
-      "date": "Tue, 06 Oct 2026 13:55:37 +0000",
-      "summary": "Article URL: https://mihai.dinculescu.dev/posts/tapo-speaks-tpap/\nComments URL: https://news.ycombinator.com/item?id=49978563\nPoints: 71\n# Comments: 12",
-      "url": "https://mihai.dinculescu.dev/posts/tapo-speaks-tpap/"
-    },
-    {
-      "category": "AI",
-      "title": "Big Oil asks Supreme Court to kill climate lawsuits before trial",
-      "source": "Ars Technica - All content",
-      "date": "Tue, 06 Oct 2026 13:29:46 +0000",
-      "summary": "Oil companies say federal law should block state climate deception claims.",
-      "url": "https://arstechnica.com/tech-policy/2026/10/big-oil-asks-supreme-court-to-kill-climate-lawsuits-before-trial/"
-    },
-    {
       "category": "Science",
       "title": "Goodbye joint replacements? Stanford scientists found a way to regrow cartilage and stop arthritis",
       "source": "All Top News -- ScienceDaily",
       "date": "Tue, 06 Oct 2026 09:03:47 EDT",
       "summary": "Scientists have found a surprising way to regrow damaged knee cartilage by blocking a protein that becomes more abundant with age. In old mice, the treatment restored naturally lost cartilage and also helped prevent osteoarthritis after ACL-like knee injuries, while human cartilage taken from knee replacement patients began producing new, functional joint cartilage after exposure to the same inhibitor.",
       "url": "https://www.sciencedaily.com/releases/2026/10/261005011249.htm"
-    },
-    {
-      "category": "AI",
-      "title": "OpenAI agents tried to hack Wikipedia tools and flooded it with traffic",
-      "source": "Ars Technica - All content",
-      "date": "Tue, 06 Oct 2026 12:21:53 +0000",
-      "summary": "The reports of OpenAI agents harming 3rd party sites keep coming.",
-      "url": "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/"
     },
     {
       "category": "Science",
@@ -100,11 +124,19 @@
     },
     {
       "category": "AI",
-      "title": "Licensing costs driving 90 percent of VMware users to explore options: Survey",
-      "source": "Ars Technica - All content",
-      "date": "Tue, 06 Oct 2026 12:00:31 +0000",
-      "summary": "Users want to \"reduce risk and avoid unnecessary disruption\" while making changes.",
-      "url": "https://arstechnica.com/information-technology/2026/10/operational-complexity-a-top-barrier-for-vmware-migrations-survey/"
+      "title": "How Jump Trading is scaling quant research with ChatGPT",
+      "source": "OpenAI News",
+      "date": "Tue, 06 Oct 2026 12:00:00 GMT",
+      "summary": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.",
+      "url": "https://openai.com/index/jump-trading"
+    },
+    {
+      "category": "AI",
+      "title": "Sharing AI progress in mathematics",
+      "source": "OpenAI News",
+      "date": "Tue, 06 Oct 2026 12:00:00 GMT",
+      "summary": "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub.",
+      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics"
     },
     {
       "category": "Biblical Studies",
@@ -123,20 +155,12 @@
       "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/what-color-was-tekhelet/"
     },
     {
-      "category": "Science",
-      "title": " Lost 'heart' of the Colorado River shines like a silver serpent in Utah ",
-      "source": " Latest from Live Science ",
-      "date": "Tue, 06 Oct 2026 10:30:36 +0000",
-      "summary": "A 2016 astronaut photo mosaic highlights a \"sunglint\" phenomenon that transformed Lake Powell into a winding metallic \"river.\" The artificial reservoir, which is the second-largest in the country, is home to many visible and long-lost geological wonders.",
-      "url": "https://www.livescience.com/planet-earth/sunlight-trick-transforms-lost-heart-of-the-colorado-river-into-a-giant-silver-serpent-earth-from-space"
-    },
-    {
-      "category": "Science",
-      "title": " Mpox is still spreading in the US — here's what to know about vaccines, symptoms and treatment ",
-      "source": " Latest from Live Science ",
-      "date": "Tue, 06 Oct 2026 10:00:00 +0000",
-      "summary": "Mpox continues to circulate in many countries, including the United States. Here's what to know about the infection and the vaccines that protect against it.",
-      "url": "https://www.livescience.com/health/viruses-infections-disease/mpox-is-still-spreading-in-the-us-heres-what-to-know-about-vaccines-symptoms-and-treatment"
+      "category": "AI",
+      "title": "Advancing computer use with Ironclad",
+      "source": "OpenAI News",
+      "date": "Tue, 06 Oct 2026 10:00:00 GMT",
+      "summary": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work.",
+      "url": "https://openai.com/index/advancing-computer-use-with-ironclad"
     },
     {
       "category": "History",
@@ -171,14 +195,6 @@
       "url": "https://www.thegospelcoalition.org/article/be-happy-work/"
     },
     {
-      "category": "AI",
-      "title": "Our approach to EU text provenance rules",
-      "source": "OpenAI News",
-      "date": "Mon, 05 Oct 2026 15:00:00 GMT",
-      "summary": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.",
-      "url": "https://openai.com/index/eu-text-provenance"
-    },
-    {
       "category": "Science",
       "title": "Don't miss: Watch Saturn shine and Halley’s Comet debris streak across the sky",
       "source": "All Top News -- ScienceDaily",
@@ -195,28 +211,12 @@
       "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-near-eastern-world/face-of-god/"
     },
     {
-      "category": "AI",
-      "title": "Building advertising for the way people use AI",
-      "source": "OpenAI News",
-      "date": "Mon, 05 Oct 2026 10:00:00 GMT",
-      "summary": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.",
-      "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement"
-    },
-    {
       "category": "History",
       "title": "The Loyalist Experience and Aftermath in Revolutionary Philadelphia",
       "source": "Journal of the American Revolution",
       "date": "Mon, 05 Oct 2026 09:00:21 +0000",
       "summary": "BOOK REVIEW: The Loyalist Experience and Aftermath in Revolutionary Philadelphia by Kimberly Nath (Brookline, 2026) $32.95 hardcover. In an 1813 letter to his former congressional colleague Thomas McKean, John Adams provided his own conjecture as to what percentage of the American population actively supported the American Revolution. Clarifying McKean’s own inexact claim that “the great […]\nThe post The Loyalist Experience and Aftermath in Revolutionary Philadelphia appeared first on Journal of the American Revolution.",
       "url": "https://allthingsliberty.com/2026/10/the-loyalist-experience-and-aftermath-in-revolutionary-philadelphia/"
-    },
-    {
-      "category": "AI",
-      "title": "A model guide for the GPT-6 family",
-      "source": "OpenAI News",
-      "date": "Fri, 02 Oct 2026 16:15:00 GMT",
-      "summary": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
-      "url": "https://openai.com/index/practical-guide-building-gpt-6"
     },
     {
       "category": "History",
