@@ -1,38 +1,174 @@
 {
-  "lastUpdated": "2026-10-08T01:27:37.093Z",
+  "lastUpdated": "2026-10-08T17:06:07.735Z",
   "articleCount": 33,
   "articles": [
     {
       "category": "Science",
-      "title": "Digital finance research maps psychology, algorithms, and risk",
+      "title": "One ancient swimming mammal fossil and two evolutionary surprises, including a third set of teeth",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Wed, 07 Oct 2026 21:20:02 EDT",
-      "summary": "A study of almost 1,000 research papers in the field of digital finance has mapped out how technology, investor behavior and financial market risk are connected. The work identified three distinct foundations rather than a single framework, with implications for understanding how psychological factors influence financial decisions and how to develop viable algorithms that provide automated investment guidance.",
-      "url": "https://phys.org/news/2026-10-digital-psychology-algorithms.html"
+      "date": "Thu, 08 Oct 2026 13:00:26 EDT",
+      "summary": "What may have looked like a cross between a platypus and a beaverlike rodent and lived around 120 million years ago? Dongoconodon platycauda, a newly discovered fossil mammal from northeastern China. Beyond its unusual features, such as evidence of webbed paddling feet and a rudderlike tail, this semiaquatic mammal had a surprise waiting for scientists in its jaw: a third generation of teeth.",
+      "url": "https://phys.org/news/2026-10-ancient-mammal-fossil-evolutionary-teeth.html"
     },
     {
       "category": "Science",
-      "title": "Rising seas threaten the world's migratory shorebirds",
+      "title": "What happens to language when machines start talking back?",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Wed, 07 Oct 2026 21:00:01 EDT",
-      "summary": "Birds undertake some of the world's most impressive migrations, traveling hundreds to thousands of kilometers every year in search of safe breeding grounds and seasonally abundant food resources. For many birds, migration is the key to their success. However, migration can also make species more vulnerable to threats.",
-      "url": "https://phys.org/news/2026-10-seas-threaten-world-migratory-shorebirds.html"
+      "date": "Thu, 08 Oct 2026 13:00:01 EDT",
+      "summary": "A few months ago, a friend posted something that caught my eye on social media. She struggled to listen to what she termed \"(literally) breathless AI voices for audiobooks.\"",
+      "url": "https://phys.org/news/2026-10-language-machines.html"
+    },
+    {
+      "category": "Science",
+      "title": "A biologist queries whether AI 'borrowed' his work to make major discovery—an expert explains the rules",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Thu, 08 Oct 2026 12:40:10 EDT",
+      "summary": "AI company Anthropic recently announced that its popular system Claude had identified an unusual family of biological molecules. These molecules were enzymes, a type of protein that speeds up chemical reactions in living organisms.",
+      "url": "https://phys.org/news/2026-10-biologist-queries-ai-major-discovery.html"
     },
     {
       "category": "AI",
-      "title": "Rust Port of TypeScript (Tsc)",
+      "title": "Step 5 Preview, a 1M-context MoE from StepFun, shows up on OpenRouter",
       "source": "Hacker News: Front Page",
-      "date": "Thu, 08 Oct 2026 00:46:00 +0000",
-      "summary": "Article URL: https://github.com/pingdotgg/ts-rust\nComments URL: https://news.ycombinator.com/item?id=50000676\nPoints: 7\n# Comments: 1",
-      "url": "https://github.com/pingdotgg/ts-rust"
+      "date": "Thu, 08 Oct 2026 16:20:20 +0000",
+      "summary": "Article URL: https://openrouter.ai/stepfun/step-5-preview\nComments URL: https://news.ycombinator.com/item?id=50007764\nPoints: 6\n# Comments: 1",
+      "url": "https://openrouter.ai/stepfun/step-5-preview"
     },
     {
       "category": "Science",
-      "title": "Five ways to enjoy fashion as a hobby without indulging in overconsumption",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Wed, 07 Oct 2026 20:40:01 EDT",
-      "summary": "Fashion lovers are generally associated with bursting wardrobes and chasing the latest trends. But that reputation is beginning to shift.",
-      "url": "https://phys.org/news/2026-10-ways-enjoy-fashion-hobby-indulging.html"
+      "title": " Would you trust AI to calculate your true 'biological age'? ",
+      "source": " Latest from Live Science ",
+      "date": "Thu, 08 Oct 2026 16:09:52 +0000",
+      "summary": "Scientists have developed various AI tools to measure people's biological ages. Would you use one?",
+      "url": "https://www.livescience.com/health/aging/would-you-trust-ai-to-calculate-your-true-biological-age-poll"
+    },
+    {
+      "category": "AI",
+      "title": "4-hour battery storage is cheaper to install than gas turbines all across globe",
+      "source": "Hacker News: Front Page",
+      "date": "Thu, 08 Oct 2026 16:03:33 +0000",
+      "summary": "Article URL: https://www.solarpowerworldonline.com/2026/10/4-hour-battery-storage-is-cheaper-to-install-than-gas-turbines-all-across-globe/\nComments URL: https://news.ycombinator.com/item?id=50007519\nPoints: 43\n# Comments: 13",
+      "url": "https://www.solarpowerworldonline.com/2026/10/4-hour-battery-storage-is-cheaper-to-install-than-gas-turbines-all-across-globe/"
+    },
+    {
+      "category": "Science",
+      "title": " The central Pacific Ocean just broke a temperature record. Experts say it might signal a new kind of El Niño. ",
+      "source": " Latest from Live Science ",
+      "date": "Thu, 08 Oct 2026 15:43:55 +0000",
+      "summary": "The sea surface temperature in a key El Niño region has exceeded 86 degrees F for the first time on record, hinting that the strength and location of some El Niño events are transforming.",
+      "url": "https://www.livescience.com/planet-earth/rivers-oceans/the-central-pacific-ocean-just-broke-a-temperature-record-experts-say-it-might-signal-a-new-kind-of-el-nino"
+    },
+    {
+      "category": "AI",
+      "title": "US suspends Microsoft, major IT firms from key green card program",
+      "source": "Hacker News: Front Page",
+      "date": "Thu, 08 Oct 2026 15:24:40 +0000",
+      "summary": "Article URL: https://www.reuters.com/business/us-suspending-permanent-residency-program-for-microsoft-vance-says-2026-10-08/\nComments URL: https://news.ycombinator.com/item?id=50006948\nPoints: 99\n# Comments: 49",
+      "url": "https://www.reuters.com/business/us-suspending-permanent-residency-program-for-microsoft-vance-says-2026-10-08/"
+    },
+    {
+      "category": "AI",
+      "title": "Internal files add to evidence of an ExxonMobil climate deception campaign",
+      "source": "Ars Technica - All content",
+      "date": "Thu, 08 Oct 2026 14:04:42 +0000",
+      "summary": "Court filings reveal new details about Exxon's decades of internal climate deliberations.",
+      "url": "https://arstechnica.com/tech-policy/2026/10/exxonmobils-own-scientists-doubted-climate-fixes-the-company-hyped/"
+    },
+    {
+      "category": "Science",
+      "title": "Scientists accidentally discover a genetic code that breaks the rules of life",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Thu, 08 Oct 2026 09:31:39 EDT",
+      "summary": "Scientists accidentally discovered a microscopic organism with a genetic code that breaks a rule researchers thought was nearly universal. While testing a new DNA sequencing technique, they examined a previously unknown protist collected from a freshwater pond at Oxford University. To their surprise, the organism uses two genetic signals that normally mark the end of a gene to encode two entirely different amino acids instead. These signals were previously thought to evolve together, making the discovery particularly remarkable.",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261007233136.htm"
+    },
+    {
+      "category": "Science",
+      "title": "This “golden tree” coral was too strange for any known family",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Thu, 08 Oct 2026 09:18:54 EDT",
+      "summary": "A brilliant yellow coral discovered off Costa Rica proved so unusual that scientists had to create an entirely new family to classify it. The meter-tall colonies rise from seafloors covered in brittle stars, inspiring the Tolkien-inspired name Laurinque elenya, or “golden tree of the stars.” Advanced genetic analysis revealed that the coral belongs to a previously unknown evolutionary lineage.",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261007042116.htm"
+    },
+    {
+      "category": "Science",
+      "title": "NASA is searching for hidden caves to build its first Moon base",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Thu, 08 Oct 2026 08:19:20 EDT",
+      "summary": "NASA is preparing for humanity’s first Moon base with three investigations that will hunt for underground shelters, uncover hidden ice, and track dangerous conditions on the lunar surface. The findings could reveal how astronauts can survive and thrive on the Moon while laying the groundwork for future journeys to Mars.",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261008005247.htm"
+    },
+    {
+      "category": "AI",
+      "title": "Nvidia's big bet on physical AI aims for safer robotaxis, humanoid robots",
+      "source": "Ars Technica - All content",
+      "date": "Thu, 08 Oct 2026 11:15:33 +0000",
+      "summary": "Full-stack safety solution for physical AI is being used by robotics companies.",
+      "url": "https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots/"
+    },
+    {
+      "category": "Biblical Studies",
+      "title": "The Enduring Symbolism of Doves",
+      "source": "Biblical Archaeology Society",
+      "date": "Thu, 08 Oct 2026 11:00:45 +0000",
+      "summary": "Few symbols have a tradition as long and as rich as the dove. Read about what it represents and how its use has been shared, adapted and reinterpreted across cultures and millennia to suit changing belief systems.\nThe post The Enduring Symbolism of Doves appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/daily-life-and-practice/the-enduring-symbolism-of-doves/"
+    },
+    {
+      "category": "AI",
+      "title": "A senator tried to ban gambling on prediction markets—now she's a Kalshi lobbyist",
+      "source": "Ars Technica - All content",
+      "date": "Thu, 08 Oct 2026 11:00:14 +0000",
+      "summary": "Sen. Blanche Lincoln wrote law that let US ban sports-event contracts. She lobbies for the other side now.",
+      "url": "https://arstechnica.com/tech-policy/2026/10/a-senator-tried-to-ban-gambling-on-prediction-markets-now-shes-a-kalshi-lobbyist/"
+    },
+    {
+      "category": "Biblical Studies",
+      "title": "What Happened to Cain in the Bible?",
+      "source": "Biblical Archaeology Society",
+      "date": "Thu, 08 Oct 2026 11:00:11 +0000",
+      "summary": "In the Book of Genesis, we are told about Cain’s birth, his violent act of fratricide and his subsequent exile. We learn that he married and had descendants, but the Bible is strangely mute about his death.\nThe post What Happened to Cain in the Bible? appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/daily/biblical-topics/bible-interpretation/what-happened-to-cain-in-the-bible/"
+    },
+    {
+      "category": "Science",
+      "title": " Why are dengue cases surging in Florida this year? An 'unlucky' combination of factors, experts say ",
+      "source": " Latest from Live Science ",
+      "date": "Thu, 08 Oct 2026 10:00:00 +0000",
+      "summary": "Dengue fever infections are booming in Florida this year, with more local cases than usual and the state's first dengue-related death in nearly a century. Why?",
+      "url": "https://www.livescience.com/health/viruses-infections-disease/why-are-dengue-cases-surging-in-florida-this-year-an-unlucky-combination-of-factors-experts-say"
+    },
+    {
+      "category": "Theology",
+      "title": "From TGC ‘National Conference’ to ‘Church Conference’: Behind the Name Change",
+      "source": "The Gospel Coalition",
+      "date": "Thu, 08 Oct 2026 04:05:58 +0000",
+      "summary": "Since 2007, TGC’s biennial conference has been our ‘national conference.’ But for TGC27, we changed the name to ‘church conference.’ Why?",
+      "url": "https://www.thegospelcoalition.org/article/tgc-church-conference-name-change/"
+    },
+    {
+      "category": "Theology",
+      "title": "On My Shelf: Life and Books with Alex Fogleman",
+      "source": "The Gospel Coalition",
+      "date": "Thu, 08 Oct 2026 04:02:00 +0000",
+      "summary": "Alex Fogleman talks about what’s on his bedside table, favorite fiction, favorite rereads, and more.",
+      "url": "https://www.thegospelcoalition.org/article/on-my-shelf-alex-fogleman/"
+    },
+    {
+      "category": "Theology",
+      "title": "‘The Social Reckoning’ Doesn’t Fully Reckon with the Problem",
+      "source": "The Gospel Coalition",
+      "date": "Thu, 08 Oct 2026 04:00:00 +0000",
+      "summary": "Social algorithms have trained us to filter reality through the lens of our political narrative. In his telling of the Facebook story, Aaron Sorkin does this too.",
+      "url": "https://www.thegospelcoalition.org/article/social-reckoning-christian-movie-review/"
+    },
+    {
+      "category": "AI",
+      "title": "Disrupting AI-enabled “false front” operations",
+      "source": "OpenAI News",
+      "date": "Thu, 08 Oct 2026 00:00:00 GMT",
+      "summary": "OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging.",
+      "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations"
     },
     {
       "category": "History",
@@ -41,86 +177,6 @@
       "date": "Wed, 07 Oct 2026 22:00:25 +0000",
       "summary": "The Marquis de Lafayette arrived in New York City to great fanfare on August 16, 1824. Two days later the sixty-six year old Frenchman and his entourage made their way across the East River to inspect the Brooklyn Navy Yard. Before returning to Manhattan, they paid a social call to the Brooklyn Heights home of […]\nThe post Trade, Land, Speculation: William Kerin Constable in the Age of Revolution appeared first on Journal of the American Revolution.",
       "url": "https://allthingsliberty.com/2026/10/trade-land-speculation-william-kerin-constable-in-the-age-of-revolution/"
-    },
-    {
-      "category": "AI",
-      "title": "“Software is over”: Bold AI developer takes aim at Adobe with open source clones",
-      "source": "Ars Technica - All content",
-      "date": "Wed, 07 Oct 2026 21:56:42 +0000",
-      "summary": "Opus-built Creative Cloud alternatives are ambitious, free, and nowhere near finished.",
-      "url": "https://arstechnica.com/ai/2026/10/software-is-over-bold-ai-developer-takes-aim-at-adobe-with-open-source-clones/"
-    },
-    {
-      "category": "AI",
-      "title": "Margaret Hamilton has died",
-      "source": "Hacker News: Front Page",
-      "date": "Wed, 07 Oct 2026 21:16:18 +0000",
-      "summary": "Article URL: https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007\nComments URL: https://news.ycombinator.com/item?id=49998895\nPoints: 633\n# Comments: 70",
-      "url": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007"
-    },
-    {
-      "category": "AI",
-      "title": "'Jonathan' is the oldest land animal on Earth",
-      "source": "Hacker News: Front Page",
-      "date": "Wed, 07 Oct 2026 20:01:37 +0000",
-      "summary": "Article URL: https://www.404media.co/oldest-living-land-animal-jonathan-the-tortoise/\nComments URL: https://news.ycombinator.com/item?id=49998066\nPoints: 42\n# Comments: 11",
-      "url": "https://www.404media.co/oldest-living-land-animal-jonathan-the-tortoise/"
-    },
-    {
-      "category": "AI",
-      "title": "PA measles outbreak tops 1,000 cases, largest since disease was eliminated",
-      "source": "Ars Technica - All content",
-      "date": "Wed, 07 Oct 2026 20:01:14 +0000",
-      "summary": "Pennsylvania reported 1,066 outbreak-linked cases on Wednesday.",
-      "url": "https://arstechnica.com/health/2026/10/pa-measles-outbreak-tops-1000-cases-largest-since-disease-was-eliminated/"
-    },
-    {
-      "category": "AI",
-      "title": "TP-Link problems in US grow amid FCC router ban and four state lawsuits",
-      "source": "Ars Technica - All content",
-      "date": "Wed, 07 Oct 2026 19:53:42 +0000",
-      "summary": "TP-Link can't sell latest routers in US, still needs exemption from FCC ban.",
-      "url": "https://arstechnica.com/tech-policy/2026/10/florida-sues-tp-link-claiming-it-hides-router-security-risks-and-links-to-china/"
-    },
-    {
-      "category": "Science",
-      "title": " Scientists discover the genetic secrets that may have helped Jonathan the tortoise live to 194 years old ",
-      "source": " Latest from Live Science ",
-      "date": "Wed, 07 Oct 2026 19:05:40 +0000",
-      "summary": "DNA samples from Jonathan the 194-year-old tortoise reveal gene variants and epigenetic changes that could contribute to his remarkable lifespan.",
-      "url": "https://www.livescience.com/animals/turtles-tortoises/scientists-discover-the-genetic-secrets-that-may-have-helped-jonathan-the-tortoise-live-to-194-years-old"
-    },
-    {
-      "category": "Science",
-      "title": " 'It looks like a chimera' — 168 million years ago, a strange platypus-like mammal relative lived in China alongside dinosaurs ",
-      "source": " Latest from Live Science ",
-      "date": "Wed, 07 Oct 2026 17:16:58 +0000",
-      "summary": "A predatory mammal-like animal from the Jurassic seems to have characteristics of both a platypus and an otter.",
-      "url": "https://www.livescience.com/animals/extinct-species/it-looks-like-a-chimera-168-million-years-ago-a-strange-platypus-like-mammal-relative-lived-in-china-alongside-dinosaurs"
-    },
-    {
-      "category": "Science",
-      "title": " 1,000-mile-long cloud that forms and vanishes on Mars every day obeys 'exotic physics' never seen on Earth ",
-      "source": " Latest from Live Science ",
-      "date": "Wed, 07 Oct 2026 17:08:09 +0000",
-      "summary": "New simulations suggest that the perplexing Arsia Mons Elongated Cloud (AMEC) repeatedly emerges in the Red Planet's skies thanks to a never-before-seen meteorological process.",
-      "url": "https://www.livescience.com/space/mars/1-000-mile-long-cloud-that-forms-and-vanishes-on-mars-every-day-obeys-exotic-physics-never-seen-on-earth"
-    },
-    {
-      "category": "Science",
-      "title": "NASA’s Webb finds signs of Mars-sized worlds smashing together",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Wed, 07 Oct 2026 09:09:15 EDT",
-      "summary": "NASA’s James Webb Space Telescope is giving astronomers a glimpse of the kinds of violent collisions that may have shaped our own solar system, including the giant impact thought to have created the Moon. By studying 21 rare “extreme debris disks” around young stars, researchers found that their dust can reveal the scale and intensity of planetary collisions.",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261007042108.htm"
-    },
-    {
-      "category": "Science",
-      "title": "Scientists changed how zoo lions eat. Their wild side came out",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Wed, 07 Oct 2026 08:46:44 EDT",
-      "summary": "Giving zoo lions whole carcasses on a feast-and-fast schedule appears to bring out more natural behavior. The lions spent nearly three times longer feeding, engaged in more tearing and manipulating of food, and rested more heavily after meals. Their activity then increased gradually during the fasting period, closely resembling the rhythm seen in wild lions.",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261005071535.htm"
     },
     {
       "category": "AI",
@@ -139,14 +195,6 @@
       "url": "https://www.biblicalarchaeology.org/reviews/love-war-and-diplomacy-and-the-bronze-age/"
     },
     {
-      "category": "Biblical Studies",
-      "title": "The Bible in Living Color",
-      "source": "Biblical Archaeology Society",
-      "date": "Wed, 07 Oct 2026 10:00:18 +0000",
-      "summary": "The Book of Esther Word for Word Bible Comic series (Bristol, United Kingdom: Word for Word Bible Comics, 2024), i–ix + 84 pp. Acts of […]\nThe post The Bible in Living Color appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/reviews/the-bible-in-living-color/"
-    },
-    {
       "category": "AI",
       "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
       "source": "OpenAI News",
@@ -156,59 +204,11 @@
     },
     {
       "category": "Theology",
-      "title": "Bridging the Gap Between the Pulpit and the Workplace",
-      "source": "The Gospel Coalition",
-      "date": "Wed, 07 Oct 2026 04:04:51 +0000",
-      "summary": "Dan Doriani and Mark Vroegop talk about how our Sunday morning worship should prepare us to love our neighbors and serve the common good Monday through Saturday.",
-      "url": "https://www.thegospelcoalition.org/podcasts/your-corner-of-the-world/bridging-gap-pulpit-workplace/"
-    },
-    {
-      "category": "Theology",
-      "title": "Why Churchgoers Escaped the ‘Sex Recession’",
-      "source": "The Gospel Coalition",
-      "date": "Wed, 07 Oct 2026 04:02:00 +0000",
-      "summary": "A new report found that religious married couples—those who attend church at least twice a month—are more sexually satisfied than their secular peers.",
-      "url": "https://www.thegospelcoalition.org/article/churchgoers-escaped-sex-recession/"
-    },
-    {
-      "category": "Theology",
-      "title": "Why We Need History More than Ever Before",
-      "source": "The Gospel Coalition",
-      "date": "Wed, 07 Oct 2026 04:00:00 +0000",
-      "summary": "By tending and keeping the past, Christians can equip ourselves to communicate the truth, goodness, and beauty of Jesus Christ to a confused and rootless world.",
-      "url": "https://www.thegospelcoalition.org/article/need-history-more-before/"
-    },
-    {
-      "category": "Science",
-      "title": "Humans may not be as hardwired for violence as we thought",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Tue, 06 Oct 2026 23:22:55 EDT",
-      "summary": "A study comparing 100 primate species, including humans, suggests that everyday aggression and lethal violence did not evolve as part of the same simple behavioral spectrum. Species that frequently fight or show mild aggression are not necessarily more likely to kill rivals, while extreme acts such as infanticide and lethal attacks appear to follow their own evolutionary patterns.",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261005071529.htm"
-    },
-    {
-      "category": "AI",
-      "title": "GPT-6 and Intelligent UI for everyone",
-      "source": "OpenAI News",
-      "date": "Wed, 07 Oct 2026 00:00:00 GMT",
-      "summary": "GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly.",
-      "url": "https://openai.com/index/gpt-6-for-everyone"
-    },
-    {
-      "category": "Theology",
       "title": "Aiming for Conversion in Our Preaching",
       "source": "9Marks",
       "date": "Tue, 06 Oct 2026 15:42:44 +0000",
       "summary": "Worse than offending unbelievers is treating them like they are believers. Instead, we must aim to help sinners see their sin and confess their need for Christ. This spiritual clarity is not cruel, but kind.\nThe post Aiming for Conversion in Our Preaching appeared first on 9Marks.",
       "url": "https://www.9marks.org/article/aiming-for-conversion-in-our-preaching/?utm_source=rss&utm_medium=rss&utm_campaign=aiming-for-conversion-in-our-preaching"
-    },
-    {
-      "category": "Biblical Studies",
-      "title": "The Nephilim and the Sons of God",
-      "source": "Biblical Archaeology Society",
-      "date": "Tue, 06 Oct 2026 11:00:30 +0000",
-      "summary": "Sandwiched between the genealogies of Adam’s descendants and the tale of Noah’s flood are a few enigmatic verses that leave many of us scratching our […]\nThe post The Nephilim and the Sons of God appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/daily/biblical-topics/hebrew-bible/the-nephilim-and-the-sons-of-god/"
     },
     {
       "category": "History",
