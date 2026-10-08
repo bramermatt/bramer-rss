@@ -1,110 +1,110 @@
 {
-  "lastUpdated": "2026-10-07T17:08:03.618Z",
-  "articleCount": 36,
+  "lastUpdated": "2026-10-08T01:27:37.093Z",
+  "articleCount": 33,
   "articles": [
     {
       "category": "Science",
-      "title": "A new hope for dogs with dementia: Researchers explore gene therapy",
+      "title": "Digital finance research maps psychology, algorithms, and risk",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Wed, 07 Oct 2026 13:00:14 EDT",
-      "summary": "The moment Kate Heath saw her 12-year-old pug, Ivy, sitting silently and staring at a wall, she knew something was wrong.",
-      "url": "https://phys.org/news/2026-10-dogs-dementia-explore-gene-therapy.html"
+      "date": "Wed, 07 Oct 2026 21:20:02 EDT",
+      "summary": "A study of almost 1,000 research papers in the field of digital finance has mapped out how technology, investor behavior and financial market risk are connected. The work identified three distinct foundations rather than a single framework, with implications for understanding how psychological factors influence financial decisions and how to develop viable algorithms that provide automated investment guidance.",
+      "url": "https://phys.org/news/2026-10-digital-psychology-algorithms.html"
     },
     {
       "category": "Science",
-      "title": "One quantum material, two superconducting states: Stretching helps explain conflicting experiments",
+      "title": "Rising seas threaten the world's migratory shorebirds",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Wed, 07 Oct 2026 13:00:09 EDT",
-      "summary": "Unconventional superconductors can host unusual electronic states, but understanding what drives their superconductivity becomes difficult when different forms of order coexist. The kagome metal CsV3Sb5 has become a particularly debated example.",
-      "url": "https://phys.org/news/2026-10-quantum-material-superconducting-states-conflicting.html"
+      "date": "Wed, 07 Oct 2026 21:00:01 EDT",
+      "summary": "Birds undertake some of the world's most impressive migrations, traveling hundreds to thousands of kilometers every year in search of safe breeding grounds and seasonally abundant food resources. For many birds, migration is the key to their success. However, migration can also make species more vulnerable to threats.",
+      "url": "https://phys.org/news/2026-10-seas-threaten-world-migratory-shorebirds.html"
+    },
+    {
+      "category": "AI",
+      "title": "Rust Port of TypeScript (Tsc)",
+      "source": "Hacker News: Front Page",
+      "date": "Thu, 08 Oct 2026 00:46:00 +0000",
+      "summary": "Article URL: https://github.com/pingdotgg/ts-rust\nComments URL: https://news.ycombinator.com/item?id=50000676\nPoints: 7\n# Comments: 1",
+      "url": "https://github.com/pingdotgg/ts-rust"
     },
     {
       "category": "Science",
-      "title": "Levitating glass sphere becomes entangled with light at room temperature",
+      "title": "Five ways to enjoy fashion as a hobby without indulging in overconsumption",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Wed, 07 Oct 2026 12:40:13 EDT",
-      "summary": "Today, many physicists are actively exploring how light could be used to link objects through quantum entanglement. By fully harnessing the effect, they hope to unlock a wide array of applications, from secure communication networks spanning vast distances to sensitive new tests of the fundamental laws of physics.",
-      "url": "https://phys.org/news/2026-10-levitating-glass-sphere-entangled-room.html"
+      "date": "Wed, 07 Oct 2026 20:40:01 EDT",
+      "summary": "Fashion lovers are generally associated with bursting wardrobes and chasing the latest trends. But that reputation is beginning to shift.",
+      "url": "https://phys.org/news/2026-10-ways-enjoy-fashion-hobby-indulging.html"
+    },
+    {
+      "category": "History",
+      "title": "Trade, Land, Speculation: William Kerin Constable in the Age of Revolution",
+      "source": "Journal of the American Revolution",
+      "date": "Wed, 07 Oct 2026 22:00:25 +0000",
+      "summary": "The Marquis de Lafayette arrived in New York City to great fanfare on August 16, 1824. Two days later the sixty-six year old Frenchman and his entourage made their way across the East River to inspect the Brooklyn Navy Yard. Before returning to Manhattan, they paid a social call to the Brooklyn Heights home of […]\nThe post Trade, Land, Speculation: William Kerin Constable in the Age of Revolution appeared first on Journal of the American Revolution.",
+      "url": "https://allthingsliberty.com/2026/10/trade-land-speculation-william-kerin-constable-in-the-age-of-revolution/"
+    },
+    {
+      "category": "AI",
+      "title": "“Software is over”: Bold AI developer takes aim at Adobe with open source clones",
+      "source": "Ars Technica - All content",
+      "date": "Wed, 07 Oct 2026 21:56:42 +0000",
+      "summary": "Opus-built Creative Cloud alternatives are ambitious, free, and nowhere near finished.",
+      "url": "https://arstechnica.com/ai/2026/10/software-is-over-bold-ai-developer-takes-aim-at-adobe-with-open-source-clones/"
+    },
+    {
+      "category": "AI",
+      "title": "Margaret Hamilton has died",
+      "source": "Hacker News: Front Page",
+      "date": "Wed, 07 Oct 2026 21:16:18 +0000",
+      "summary": "Article URL: https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007\nComments URL: https://news.ycombinator.com/item?id=49998895\nPoints: 633\n# Comments: 70",
+      "url": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007"
+    },
+    {
+      "category": "AI",
+      "title": "'Jonathan' is the oldest land animal on Earth",
+      "source": "Hacker News: Front Page",
+      "date": "Wed, 07 Oct 2026 20:01:37 +0000",
+      "summary": "Article URL: https://www.404media.co/oldest-living-land-animal-jonathan-the-tortoise/\nComments URL: https://news.ycombinator.com/item?id=49998066\nPoints: 42\n# Comments: 11",
+      "url": "https://www.404media.co/oldest-living-land-animal-jonathan-the-tortoise/"
+    },
+    {
+      "category": "AI",
+      "title": "PA measles outbreak tops 1,000 cases, largest since disease was eliminated",
+      "source": "Ars Technica - All content",
+      "date": "Wed, 07 Oct 2026 20:01:14 +0000",
+      "summary": "Pennsylvania reported 1,066 outbreak-linked cases on Wednesday.",
+      "url": "https://arstechnica.com/health/2026/10/pa-measles-outbreak-tops-1000-cases-largest-since-disease-was-eliminated/"
+    },
+    {
+      "category": "AI",
+      "title": "TP-Link problems in US grow amid FCC router ban and four state lawsuits",
+      "source": "Ars Technica - All content",
+      "date": "Wed, 07 Oct 2026 19:53:42 +0000",
+      "summary": "TP-Link can't sell latest routers in US, still needs exemption from FCC ban.",
+      "url": "https://arstechnica.com/tech-policy/2026/10/florida-sues-tp-link-claiming-it-hides-router-security-risks-and-links-to-china/"
     },
     {
       "category": "Science",
-      "title": " 'We stocked an RV as an emergency bugout vehicle': Readers share how prepared they are for a disaster ",
+      "title": " Scientists discover the genetic secrets that may have helped Jonathan the tortoise live to 194 years old ",
       "source": " Latest from Live Science ",
-      "date": "Wed, 07 Oct 2026 16:23:53 +0000",
-      "summary": "With extreme weather conditions becoming more frequent, having a disaster kit and other emergency plans can be beneficial. Live Science readers shared their thoughts about how prepared they are for these events. Do you agree with what they said?",
-      "url": "https://www.livescience.com/planet-earth/we-stocked-an-rv-as-an-emergency-bugout-vehicle-readers-share-how-prepared-they-are-for-a-disaster"
-    },
-    {
-      "category": "AI",
-      "title": "Study: Claude, ChatGPT Offer Different Shopping Prices Based on Wealth",
-      "source": "Hacker News: Front Page",
-      "date": "Wed, 07 Oct 2026 16:07:08 +0000",
-      "summary": "Article URL: https://www.bloomberg.com/news/newsletters/2026-10-07/study-claude-chatgpt-ai-bots-offer-different-shopping-prices-based-on-wealth\nComments URL: https://news.ycombinator.com/item?id=49994746\nPoints: 35\n# Comments: 4",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-10-07/study-claude-chatgpt-ai-bots-offer-different-shopping-prices-based-on-wealth"
-    },
-    {
-      "category": "AI",
-      "title": "A Cop's Case for Flock",
-      "source": "Hacker News: Front Page",
-      "date": "Wed, 07 Oct 2026 16:00:34 +0000",
-      "summary": "Article URL: https://worksinprogress.co/issue/a-cops-case-for-flock/\nComments URL: https://news.ycombinator.com/item?id=49994679\nPoints: 8\n# Comments: 11",
-      "url": "https://worksinprogress.co/issue/a-cops-case-for-flock/"
-    },
-    {
-      "category": "AI",
-      "title": "Jaguar Type 01 debuts; now, no one remembers the electric Ferrari",
-      "source": "Ars Technica - All content",
-      "date": "Wed, 07 Oct 2026 15:48:01 +0000",
-      "summary": "Car design sure riles people up on the Internet these days. Goes double for EVs.",
-      "url": "https://arstechnica.com/cars/2026/10/jaguar-makes-its-controversial-all-ev-return-with-the-type-01/"
-    },
-    {
-      "category": "AI",
-      "title": "Open source 160 sound visualization experiments",
-      "source": "Hacker News: Front Page",
-      "date": "Wed, 07 Oct 2026 15:46:30 +0000",
-      "summary": "Article URL: https://www.kagan.in/iwrzwr/visual-archive/\nComments URL: https://news.ycombinator.com/item?id=49994481\nPoints: 9\n# Comments: 0",
-      "url": "https://www.kagan.in/iwrzwr/visual-archive/"
-    },
-    {
-      "category": "Space",
-      "title": "Artemis II Crew Moon Photo Annotations",
-      "source": "NASA",
-      "date": "Wed, 07 Oct 2026 15:44:59 +0000",
-      "summary": "A visualization of a dark Moon eclipsing the Sun is marked with handwritten notes in this April 6, 2026, screenshot from an Artemis II crew member’s tablet. NASA astronauts Reid Wiseman (in blue) and Victor “Ike” Glover (in green) and CSA (Canadian Space Agency) Jeremy Hansen (in red) observed impact flashes and their locations, which […]",
-      "url": "https://www.nasa.gov/image-article/artemis-ii-crew-moon-photo-annotations/"
+      "date": "Wed, 07 Oct 2026 19:05:40 +0000",
+      "summary": "DNA samples from Jonathan the 194-year-old tortoise reveal gene variants and epigenetic changes that could contribute to his remarkable lifespan.",
+      "url": "https://www.livescience.com/animals/turtles-tortoises/scientists-discover-the-genetic-secrets-that-may-have-helped-jonathan-the-tortoise-live-to-194-years-old"
     },
     {
       "category": "Science",
-      "title": " 'Completely unexpected': Astronomers spy never-before-seen 'phoenix planet' rising from the ashes of a dead star ",
+      "title": " 'It looks like a chimera' — 168 million years ago, a strange platypus-like mammal relative lived in China alongside dinosaurs ",
       "source": " Latest from Live Science ",
-      "date": "Wed, 07 Oct 2026 15:22:03 +0000",
-      "summary": "Astronomers have spotted a rare \"second-generation\" exoplanet closely orbiting the nearby white dwarf HS 0209+0832. An unusual mixture of heavy elements inside this zombie star suggests that \"this system has given birth to a new world using the foundations of the old one.\"",
-      "url": "https://www.livescience.com/space/exoplanets/completely-unexpected-astronomers-spy-never-before-seen-phoenix-planet-rising-from-the-ashes-of-a-dead-star"
+      "date": "Wed, 07 Oct 2026 17:16:58 +0000",
+      "summary": "A predatory mammal-like animal from the Jurassic seems to have characteristics of both a platypus and an otter.",
+      "url": "https://www.livescience.com/animals/extinct-species/it-looks-like-a-chimera-168-million-years-ago-a-strange-platypus-like-mammal-relative-lived-in-china-alongside-dinosaurs"
     },
     {
       "category": "Science",
-      "title": " 'Sexy Mantis,' obscene orangutan and prancing sparrowhawk feature in 2026 Nikon Comedy Wildlife Awards ",
+      "title": " 1,000-mile-long cloud that forms and vanishes on Mars every day obeys 'exotic physics' never seen on Earth ",
       "source": " Latest from Live Science ",
-      "date": "Wed, 07 Oct 2026 15:19:59 +0000",
-      "summary": "The Nikon Comedy Wildlife Awards has unveiled its finalists for 2026, so let's all have a good laugh at nature.",
-      "url": "https://www.livescience.com/animals/sexy-mantis-obscene-orangutan-and-prancing-sparrowhawk-feature-in-2026-nikon-comedy-wildlife-awards"
-    },
-    {
-      "category": "AI",
-      "title": "Trade group crunches numbers on Trump’s impossible push for 100% US-made tech",
-      "source": "Ars Technica - All content",
-      "date": "Wed, 07 Oct 2026 15:19:05 +0000",
-      "summary": "Trump's aggressive reshoring push could cost tech firms $230 billion, CTA estimates.",
-      "url": "https://arstechnica.com/tech-policy/2026/10/trade-group-crunches-numbers-on-trumps-impossible-push-for-100-us-made-tech/"
-    },
-    {
-      "category": "AI",
-      "title": "Mistral says \"Le Chonk\" can challenge the best AI models",
-      "source": "Ars Technica - All content",
-      "date": "Wed, 07 Oct 2026 14:12:37 +0000",
-      "summary": "Mistral says Le Chonk can rival top closed models while remaining open-weight.",
-      "url": "https://arstechnica.com/ai/2026/10/mistral-says-le-chonk-can-challenge-the-best-ai-models/"
+      "date": "Wed, 07 Oct 2026 17:08:09 +0000",
+      "summary": "New simulations suggest that the perplexing Arsia Mons Elongated Cloud (AMEC) repeatedly emerges in the Red Planet's skies thanks to a never-before-seen meteorological process.",
+      "url": "https://www.livescience.com/space/mars/1-000-mile-long-cloud-that-forms-and-vanishes-on-mars-every-day-obeys-exotic-physics-never-seen-on-earth"
     },
     {
       "category": "Science",
@@ -147,12 +147,12 @@
       "url": "https://www.biblicalarchaeology.org/reviews/the-bible-in-living-color/"
     },
     {
-      "category": "Space",
-      "title": "APOD: 2026 October 7 – Supernova Remnant Pa 30",
-      "source": "NASA",
-      "date": "Wed, 07 Oct 2026 04:05:00 +0000",
-      "summary": "APOD Science APOD APOD: 2026 October 7 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Supernova Remnant Pa […]",
-      "url": "https://science.nasa.gov/image-article/apod-2026-october-7-supernova-remnant-pa-30/"
+      "category": "AI",
+      "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
+      "source": "OpenAI News",
+      "date": "Wed, 07 Oct 2026 07:00:00 GMT",
+      "summary": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips.",
+      "url": "https://openai.com/index/radisson"
     },
     {
       "category": "Theology",
@@ -171,14 +171,6 @@
       "url": "https://www.thegospelcoalition.org/article/churchgoers-escaped-sex-recession/"
     },
     {
-      "category": "Space",
-      "title": "Arctic Sea Ice Shrinks to Its 2026 Minimum",
-      "source": "NASA",
-      "date": "Wed, 07 Oct 2026 04:00:00 +0000",
-      "summary": "Satellite records show Arctic sea ice covering less of the ocean in both winter and summer.",
-      "url": "https://science.nasa.gov/earth/earth-observatory/arctic-sea-ice-shrinks-to-its-2026-minimum/"
-    },
-    {
       "category": "Theology",
       "title": "Why We Need History More than Ever Before",
       "source": "The Gospel Coalition",
@@ -195,28 +187,20 @@
       "url": "https://www.sciencedaily.com/releases/2026/10/261005071529.htm"
     },
     {
+      "category": "AI",
+      "title": "GPT-6 and Intelligent UI for everyone",
+      "source": "OpenAI News",
+      "date": "Wed, 07 Oct 2026 00:00:00 GMT",
+      "summary": "GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly.",
+      "url": "https://openai.com/index/gpt-6-for-everyone"
+    },
+    {
       "category": "Theology",
       "title": "Aiming for Conversion in Our Preaching",
       "source": "9Marks",
       "date": "Tue, 06 Oct 2026 15:42:44 +0000",
       "summary": "Worse than offending unbelievers is treating them like they are believers. Instead, we must aim to help sinners see their sin and confess their need for Christ. This spiritual clarity is not cruel, but kind.\nThe post Aiming for Conversion in Our Preaching appeared first on 9Marks.",
       "url": "https://www.9marks.org/article/aiming-for-conversion-in-our-preaching/?utm_source=rss&utm_medium=rss&utm_campaign=aiming-for-conversion-in-our-preaching"
-    },
-    {
-      "category": "AI",
-      "title": "How Jump Trading is scaling quant research with ChatGPT",
-      "source": "OpenAI News",
-      "date": "Tue, 06 Oct 2026 12:00:00 GMT",
-      "summary": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.",
-      "url": "https://openai.com/index/jump-trading"
-    },
-    {
-      "category": "AI",
-      "title": "Sharing AI progress in mathematics",
-      "source": "OpenAI News",
-      "date": "Tue, 06 Oct 2026 12:00:00 GMT",
-      "summary": "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub.",
-      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics"
     },
     {
       "category": "Biblical Studies",
@@ -241,14 +225,6 @@
       "date": "Mon, 05 Oct 2026 09:00:21 +0000",
       "summary": "BOOK REVIEW: The Loyalist Experience and Aftermath in Revolutionary Philadelphia by Kimberly Nath (Brookline, 2026) $32.95 hardcover. In an 1813 letter to his former congressional colleague Thomas McKean, John Adams provided his own conjecture as to what percentage of the American population actively supported the American Revolution. Clarifying McKean’s own inexact claim that “the great […]\nThe post The Loyalist Experience and Aftermath in Revolutionary Philadelphia appeared first on Journal of the American Revolution.",
       "url": "https://allthingsliberty.com/2026/10/the-loyalist-experience-and-aftermath-in-revolutionary-philadelphia/"
-    },
-    {
-      "category": "History",
-      "title": "America’s Original Stimulus Package: A Catalytic, Consequential Fishing Policy",
-      "source": "Journal of the American Revolution",
-      "date": "Thu, 01 Oct 2026 09:00:19 +0000",
-      "summary": "The heady days of the Declaration of Independence, struggle, victory, and a new Constitution were all behind him. Now, within weeks of taking office as President of the United States, George Washington presided over a toxic political atmosphere. Despite initial hopes for national unity, a vicious partisan press had emerged. Mobs on the frontier flirted […]\nThe post America’s Original Stimulus Package: A Catalytic, Consequential Fishing Policy appeared first on Journal of the American Revolution.",
-      "url": "https://allthingsliberty.com/2026/10/americas-original-stimulus-package-a-catalytic-consequential-fishing-policy/"
     },
     {
       "category": "Theology",
