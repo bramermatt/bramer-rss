@@ -1,62 +1,190 @@
 {
-  "lastUpdated": "2026-10-09T01:35:52.331Z",
+  "lastUpdated": "2026-10-09T16:44:12.558Z",
   "articleCount": 36,
   "articles": [
     {
       "category": "Science",
-      "title": "Introducing LGBT stories linked to more inclusive attitudes in primary schools",
+      "title": "Kīlauea's swelling summit helps scientists forecast lava fountain eruptions",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Thu, 08 Oct 2026 21:20:06 EDT",
-      "summary": "Can literature foster greater acceptance of LGBT people among elementary school students? This is the core question behind a study conducted by researchers Guillermo Soler, María Ribes and José Rovira-Collado from the Language and Literature Didactics area of the Department of Teaching Innovation and Training at the University of Alicante (UA).",
-      "url": "https://phys.org/news/2026-10-lgbt-stories-linked-inclusive-attitudes.html"
+      "date": "Fri, 09 Oct 2026 12:40:08 EDT",
+      "summary": "Episodic lava fountaining is a rare volcanic behavior in which repeated, hours-long bursts of molten lava and gas are spewed from volcanic vents, with quiet pauses lasting days to weeks between episodes. These lava fountains have been observed in active volcanoes in places like Hawaii, Iceland and Italy, but researchers still do not fully understand what starts, sustains or stops these individual fountain episodes.",
+      "url": "https://phys.org/news/2026-10-klauea-summit-scientists-lava-fountain.html"
     },
     {
       "category": "Science",
-      "title": "Study documents beef industry group's early efforts to counter climate concerns",
+      "title": "African antelopes spreading in New Mexico: How far could they go under climate change?",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Thu, 08 Oct 2026 20:40:11 EDT",
-      "summary": "A leading U.S. beef industry trade association knew by 1989 that cattle contributed to global warming but focused its response on protecting consumer demand through public relations, according to a new study that examined a decade of industry records.",
-      "url": "https://phys.org/news/2026-10-documents-beef-industry-group-early.html"
-    },
-    {
-      "category": "AI",
-      "title": "Show HN: Edi Life OS – self-hosted life dashboard with an MCP server for AI",
-      "source": "Hacker News: Front Page",
-      "date": "Fri, 09 Oct 2026 00:02:19 +0000",
-      "summary": "Article URL: https://github.com/edrisranjbar/lifeos\nComments URL: https://news.ycombinator.com/item?id=50014150\nPoints: 12\n# Comments: 2",
-      "url": "https://github.com/edrisranjbar/lifeos"
+      "date": "Fri, 09 Oct 2026 12:20:17 EDT",
+      "summary": "Majestic African antelopes known as gemsbok have been roaming the U.S. Southwest since their introduction in the 1960s and 1970s. Brought to New Mexico as a game species for hunting, gemsbok quickly settled in, expanding more than 100 kilometers (62 miles) from their introduction point. University of Illinois Urbana-Champaign researchers say that's due to their exceptional adaptations to arid conditions, which they predict will dramatically expand under climate change.",
+      "url": "https://phys.org/news/2026-10-african-antelopes-mexico-climate.html"
     },
     {
       "category": "Science",
-      "title": "Only 9% of major companies use biodiversity indicators, study finds",
+      "title": "Why faculty diversity at universities still lags far behind the changing demographics of college students",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Thu, 08 Oct 2026 19:40:14 EDT",
-      "summary": "Biodiversity indicators can help companies make more sustainable decisions. But only 9% of the world's largest companies in sectors with a major impact on biodiversity use such indicators, according to a new study from Lund University. The researchers also show that different indicators can lead to different conclusions and present seven recommendations for how they should be used.",
-      "url": "https://phys.org/news/2026-10-major-companies-biodiversity-indicators.html"
-    },
-    {
-      "category": "AI",
-      "title": "Show HN: SVG Spark – 10 client-side SVG design and dev tools",
-      "source": "Hacker News: Front Page",
-      "date": "Thu, 08 Oct 2026 23:32:49 +0000",
-      "summary": "Article URL: https://svg-spark.vercel.app/\nComments URL: https://news.ycombinator.com/item?id=50013931\nPoints: 23\n# Comments: 1",
-      "url": "https://svg-spark.vercel.app/"
-    },
-    {
-      "category": "AI",
-      "title": "OpenAI, the Partition Principle, and Mathematics",
-      "source": "Hacker News: Front Page",
-      "date": "Thu, 08 Oct 2026 23:29:43 +0000",
-      "summary": "Article URL: https://karagila.org/2026/openai-pp/\nComments URL: https://news.ycombinator.com/item?id=50013902\nPoints: 82\n# Comments: 91",
-      "url": "https://karagila.org/2026/openai-pp/"
+      "date": "Fri, 09 Oct 2026 12:20:11 EDT",
+      "summary": "U.S. colleges and universities have long struggled to increase the racial diversity of their faculty.",
+      "url": "https://phys.org/news/2026-10-faculty-diversity-universities-lags-demographics.html"
     },
     {
       "category": "Science",
-      "title": " Big dogs age faster at an epigenetic level, new study finds ",
+      "title": " Self-driving, solar-powered cars that talk to each other? What vehicles might look like in 10 years. ",
       "source": " Latest from Live Science ",
-      "date": "Thu, 08 Oct 2026 21:59:11 +0000",
-      "summary": "A new study that tracked dogs' aging by reading tiny chemical tags on their DNA found that larger dogs aged more quickly.",
-      "url": "https://www.livescience.com/animals/dogs/big-dogs-age-faster-at-an-epigenetic-level-new-study-finds"
+      "date": "Fri, 09 Oct 2026 16:00:00 +0000",
+      "summary": "Car technology is making rapid advances, and the car you will drive in 10 years may be very different from the one you're driving today.",
+      "url": "https://www.livescience.com/technology/electric-vehicles/self-driving-solar-powered-cars-that-talk-to-each-other-what-vehicles-might-look-like-in-10-years"
+    },
+    {
+      "category": "AI",
+      "title": "A statement on the Tor Project's relationship with Mullvad",
+      "source": "Hacker News: Front Page",
+      "date": "Fri, 09 Oct 2026 15:49:31 +0000",
+      "summary": "Article URL: https://blog.torproject.org/on-tor-relationship-with-mullvad/\nComments URL: https://news.ycombinator.com/item?id=50022266\nPoints: 25\n# Comments: 14",
+      "url": "https://blog.torproject.org/on-tor-relationship-with-mullvad/"
+    },
+    {
+      "category": "AI",
+      "title": "The super intelligence shit is a humiliation ritual for OpenAI",
+      "source": "Hacker News: Front Page",
+      "date": "Fri, 09 Oct 2026 15:18:59 +0000",
+      "summary": "Article URL: https://bsky.app/profile/opinionhaver.bsky.social/post/3mxfo2mdjqs2z\nComments URL: https://news.ycombinator.com/item?id=50021763\nPoints: 57\n# Comments: 36",
+      "url": "https://bsky.app/profile/opinionhaver.bsky.social/post/3mxfo2mdjqs2z"
+    },
+    {
+      "category": "AI",
+      "title": "Germany turning abandoned coal mines into 23 lakes, becoming artificial wetland",
+      "source": "Hacker News: Front Page",
+      "date": "Fri, 09 Oct 2026 15:05:24 +0000",
+      "summary": "Article URL: https://timesofindia.indiatimes.com/world/europe/germany-is-turning-abandoned-coal-mines-into-23-lakes-the-former-mining-landscape-is-becoming-europes-largest-artificial-wetland/articleshow/134725669.cms\nComments URL: https://news.ycombinator.com/item?id=50021540\nPoints: 58\n# Comments: 20",
+      "url": "https://timesofindia.indiatimes.com/world/europe/germany-is-turning-abandoned-coal-mines-into-23-lakes-the-former-mining-landscape-is-becoming-europes-largest-artificial-wetland/articleshow/134725669.cms"
+    },
+    {
+      "category": "Science",
+      "title": " Scientists have identified a 'protein signature' in blood that could predict healthy aging ",
+      "source": " Latest from Live Science ",
+      "date": "Fri, 09 Oct 2026 15:00:00 +0000",
+      "summary": "Having a certain ratio of proteins produced by immune cells in your blood is linked to a higher risk of age-related diseases, scientists report.",
+      "url": "https://www.livescience.com/health/aging/scientists-have-identified-a-protein-signature-in-blood-that-could-predict-healthy-aging"
+    },
+    {
+      "category": "Science",
+      "title": " Cool chemistry trick allows new tattoos to 'turn on and off' ",
+      "source": " Latest from Live Science ",
+      "date": "Fri, 09 Oct 2026 15:00:00 +0000",
+      "summary": "Researchers created multicolored tattoo inks that are activated by different wavelengths of light, allowing people to hide their tattoos in different scenarios.",
+      "url": "https://www.livescience.com/technology/cool-chemistry-trick-allows-new-tattoos-to-turn-on-and-off"
+    },
+    {
+      "category": "Space",
+      "title": "Cosmic House of Mirrors",
+      "source": "NASA",
+      "date": "Fri, 09 Oct 2026 13:57:24 +0000",
+      "summary": "Galaxies warp and multiply as if in a house of mirrors in this image from NASA’s James Webb Space Telescope released on Sept. 29, 2026. The brilliant golden galaxies seen here are part of a galaxy cluster called MACS J0454.1-0300. The orange galaxies bunched together on one side of the image, however, are not actually […]",
+      "url": "https://www.nasa.gov/image-article/cosmic-house-of-mirrors/"
+    },
+    {
+      "category": "AI",
+      "title": "Microsoft barred from sponsoring foreign workers for US residency",
+      "source": "Ars Technica - All content",
+      "date": "Fri, 09 Oct 2026 13:14:33 +0000",
+      "summary": "The US says Microsoft abused immigration rules; the company disputes the claim.",
+      "url": "https://arstechnica.com/tech-policy/2026/10/trump-administration-targets-microsoft-in-new-immigration-crackdown/"
+    },
+    {
+      "category": "AI",
+      "title": "Rocket Report: A rare Falcon 9 scrub; is it just about Vulcan's time to shine?",
+      "source": "Ars Technica - All content",
+      "date": "Fri, 09 Oct 2026 11:00:57 +0000",
+      "summary": "\"I can say we’re weeks away from launching on Vulcan.\"",
+      "url": "https://arstechnica.com/space/2026/10/rocket-report-a-rare-falcon-9-scrub-is-it-just-about-vulcans-time-to-shine/"
+    },
+    {
+      "category": "Biblical Studies",
+      "title": "Taylor Swift’s Babylon",
+      "source": "Biblical Archaeology Society",
+      "date": "Fri, 09 Oct 2026 10:45:10 +0000",
+      "summary": "Taylor Swift released a new song called “Babylon” on her album The Life of a Showgirl: The Encore. This puts what is arguably the most […]\nThe post Taylor Swift’s Babylon appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-israel/taylor-swifts-babylon/"
+    },
+    {
+      "category": "AI",
+      "title": "Volkswagen's replacement for the ID.4 crossover is here",
+      "source": "Ars Technica - All content",
+      "date": "Fri, 09 Oct 2026 10:00:59 +0000",
+      "summary": "The new EV’s digital cockpit can mimic instrument displays from VWs of old.",
+      "url": "https://arstechnica.com/cars/2026/10/volkswagens-replacement-for-the-id-4-crossover-is-here/"
+    },
+    {
+      "category": "Biblical Studies",
+      "title": "Advancing Marine Archaeology",
+      "source": "Biblical Archaeology Society",
+      "date": "Fri, 09 Oct 2026 10:00:13 +0000",
+      "summary": "The oceans and seas are the last great frontier for Near Eastern archaeology. Year after year, the Mediterranean Sea yields rich new data from prehistory […]\nThe post Advancing Marine Archaeology appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/daily/archaeology-today/arch-tech/advancing-marine-archaeology/"
+    },
+    {
+      "category": "AI",
+      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+      "source": "OpenAI News",
+      "date": "Fri, 09 Oct 2026 07:00:00 GMT",
+      "summary": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
+      "url": "https://openai.com/index/sophos"
+    },
+    {
+      "category": "Space",
+      "title": "APOD: 2026 October 9 – Stickney Crater",
+      "source": "NASA",
+      "date": "Fri, 09 Oct 2026 04:05:00 +0000",
+      "summary": "APOD Science APOD APOD: 2026 October 9… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Stickney Crater Explanation: Stickney […]",
+      "url": "https://science.nasa.gov/image-article/apod-2026-october-9-stickney-crater/"
+    },
+    {
+      "category": "Theology",
+      "title": "One Nation Under God? Responding to Christian Nationalism",
+      "source": "The Gospel Coalition",
+      "date": "Fri, 09 Oct 2026 04:03:00 +0000",
+      "summary": "Not everyone means the same thing when they talk about Christian nationalism.",
+      "url": "https://www.thegospelcoalition.org/podcasts/tgc-podcast/one-nation-under-god/"
+    },
+    {
+      "category": "Theology",
+      "title": "Caleb Flynn and the Deadly Sin of Greed",
+      "source": "The Gospel Coalition",
+      "date": "Fri, 09 Oct 2026 04:02:00 +0000",
+      "summary": "Caleb Flynn’s lust led him to commit adultery. But greed might have been what led him to commit murder.",
+      "url": "https://www.thegospelcoalition.org/article/caleb-flynn-greed/"
+    },
+    {
+      "category": "Space",
+      "title": "Floodwaters Overwhelm Thailand",
+      "source": "NASA",
+      "date": "Fri, 09 Oct 2026 04:01:00 +0000",
+      "summary": "Heavy rains since mid-September have caused widespread flooding that has affected millions of people across the country.",
+      "url": "https://science.nasa.gov/earth/earth-observatory/floodwaters-overwhelm-thailand/"
+    },
+    {
+      "category": "Theology",
+      "title": "How to Make Racism Sound Christian",
+      "source": "The Gospel Coalition",
+      "date": "Fri, 09 Oct 2026 04:00:00 +0000",
+      "summary": "When human rationalism, reasonable argument, and individual preference ground our morality, we’ll always struggle to clearly identify right from wrong.",
+      "url": "https://www.thegospelcoalition.org/article/make-racism-sound-christian/"
+    },
+    {
+      "category": "Science",
+      "title": "NASA astronauts splash down after 100 million miles in space",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Thu, 08 Oct 2026 23:56:28 EDT",
+      "summary": "NASA’s SpaceX Crew-12 astronauts have returned to Earth after 237 days in space, traveling more than 100 million miles and completing over 3,792 orbits while conducting research to prepare for future missions to the Moon and Mars. The mission also made history with record-setting spacewalk achievements and experiments that could transform medicine both in space and on Earth.",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261008232629.htm"
+    },
+    {
+      "category": "Science",
+      "title": "October’s night sky is full of cosmic tricks and treats",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Thu, 08 Oct 2026 22:37:22 EDT",
+      "summary": "October’s skies are packed with celestial surprises, from Jupiter disappearing behind the Moon to two meteor showers lighting up the darkness. NASA highlights four must-see events, including shooting stars from Halley’s Comet and a glowing Hunter’s Moon just before Halloween.",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261008102704.htm"
     },
     {
       "category": "Theology",
@@ -68,91 +196,11 @@
     },
     {
       "category": "AI",
-      "title": "SpaceX calls for better coordination in orbit after near-misses with Starlink",
-      "source": "Ars Technica - All content",
-      "date": "Thu, 08 Oct 2026 21:37:32 +0000",
-      "summary": "\"These led to conjunctions of tens of meters to hundreds of meters. Way too close to comfort.\"",
-      "url": "https://arstechnica.com/space/2026/10/spacex-calls-for-better-coordination-in-orbit-after-near-misses-with-starlink/"
-    },
-    {
-      "category": "Science",
-      "title": " 'Freakish' discovery of 9 million-year-old capybara tooth supports idea that Atacama wasn't always a desert ",
-      "source": " Latest from Live Science ",
-      "date": "Thu, 08 Oct 2026 21:19:31 +0000",
-      "summary": "A 9 million-year-old capybara tooth was found in the Atacama Desert, a surprising find given that these rodents love water.",
-      "url": "https://www.livescience.com/planet-earth/freakish-discovery-of-9-million-year-old-capybara-tooth-supports-idea-that-atacama-wasnt-always-a-desert"
-    },
-    {
-      "category": "AI",
-      "title": "Judge weighs if Trump can charge $100K for early access to Truth Social posts",
-      "source": "Ars Technica - All content",
-      "date": "Thu, 08 Oct 2026 20:53:01 +0000",
-      "summary": "Judge questioned if Trump delaying access to Truth Social posts by a second harms the press.",
-      "url": "https://arstechnica.com/tech-policy/2026/10/judge-weighs-if-trump-can-charge-100k-for-early-access-to-truth-social-posts/"
-    },
-    {
-      "category": "AI",
-      "title": "Trump Mobile hack and apparent lack of FCC authorization raise security alarms",
-      "source": "Ars Technica - All content",
-      "date": "Thu, 08 Oct 2026 20:39:31 +0000",
-      "summary": "After hack and data breach, senator asks why Trump Mobile lacks some FCC filings.",
-      "url": "https://arstechnica.com/tech-policy/2026/10/trump-mobile-doesnt-seem-to-have-fcc-authorization-for-phone-service-senator-says/"
-    },
-    {
-      "category": "Space",
-      "title": "NASA Briefing to Highlight Contributions to Martian Moons Mission",
-      "source": "NASA",
-      "date": "Thu, 08 Oct 2026 20:22:12 +0000",
-      "summary": "Media are invited to join NASA for a media teleconference at 4 p.m. EDT, Thursday, Oct. 15, to preview the agency’s contributions to JAXA’s (Japan Aerospace Exploration Agency) Martian Moons eXploration (MMX) mission. The mission is scheduled to launch from JAXA’s Tanegashima Space Center in Japan on Monday, Oct. 19 EDT (Tuesday, Oct. 20 JST). […]",
-      "url": "https://www.nasa.gov/news-release/nasa-briefing-to-highlight-contributions-to-martian-moons-mission/"
-    },
-    {
-      "category": "Space",
-      "title": "NASA Announces Bold Science Initiatives for America’s Golden Age Summit",
-      "source": "NASA",
-      "date": "Thu, 08 Oct 2026 19:40:00 +0000",
-      "summary": "NASA is launching two new science and technology initiatives to deepen scientific understanding and accelerate the innovation that will shape America’s future in space. The initiatives are announced in conjunction with the White House Office of Science and Technology Policy’s (OSTP) “Golden Age Summit” in Washington on Thursday with top U.S. agency leaders. The programs […]",
-      "url": "https://www.nasa.gov/news-release/nasa-announces-bold-science-initiatives-for-americas-golden-age-summit/"
-    },
-    {
-      "category": "Space",
-      "title": "NASA’s SSPICY Mission to Demonstrate In-Space Inspection Technologies",
-      "source": "NASA",
-      "date": "Thu, 08 Oct 2026 18:56:25 +0000",
-      "summary": "A new NASA-supported spacecraft will get up close to satellites that are no longer in service, demonstrating technologies that could support future in-space repairs and reduce orbital debris. The Small Spacecraft Propulsion and Inspection Capability (SSPICY) mission launched Oct. 1 from Vandenberg Space Force Base in California. The mission is a technology demonstration where an […]",
-      "url": "https://www.nasa.gov/centers-and-facilities/ames/nasas-sspicy-mission-to-demonstrate-in-space-inspection-technologies/"
-    },
-    {
-      "category": "Science",
-      "title": " James Webb telescope pinpoints the most distant 'fast radio burst' ever seen ",
-      "source": " Latest from Live Science ",
-      "date": "Thu, 08 Oct 2026 18:00:00 +0000",
-      "summary": "The James Webb Space Telescope has detected the farthest \"fast radio burst\" ever seen, providing more clues about these mysterious explosions.",
-      "url": "https://www.livescience.com/space/astronomy/james-webb-telescope-pinpoints-the-most-distant-fast-radio-burst-ever-seen-more-than-doubling-the-previous-record"
-    },
-    {
-      "category": "AI",
       "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
       "source": "OpenAI News",
       "date": "Thu, 08 Oct 2026 16:00:00 GMT",
       "summary": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
       "url": "https://openai.com/index/oracle"
-    },
-    {
-      "category": "Science",
-      "title": "Scientists accidentally discover a genetic code that breaks the rules of life",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Thu, 08 Oct 2026 09:31:39 EDT",
-      "summary": "Scientists accidentally discovered a microscopic organism with a genetic code that breaks a rule researchers thought was nearly universal. While testing a new DNA sequencing technique, they examined a previously unknown protist collected from a freshwater pond at Oxford University. To their surprise, the organism uses two genetic signals that normally mark the end of a gene to encode two entirely different amino acids instead. These signals were previously thought to evolve together, making the discovery particularly remarkable.",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261007233136.htm"
-    },
-    {
-      "category": "Science",
-      "title": "This “golden tree” coral was too strange for any known family",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Thu, 08 Oct 2026 09:18:54 EDT",
-      "summary": "A brilliant yellow coral discovered off Costa Rica proved so unusual that scientists had to create an entirely new family to classify it. The meter-tall colonies rise from seafloors covered in brittle stars, inspiring the Tolkien-inspired name Laurinque elenya, or “golden tree of the stars.” Advanced genetic analysis revealed that the coral belongs to a previously unknown evolutionary lineage.",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261007042116.htm"
     },
     {
       "category": "Science",
@@ -171,14 +219,6 @@
       "url": "https://openai.com/index/pollo-ai"
     },
     {
-      "category": "AI",
-      "title": "LegalOn halves Codex costs while maintaining development speed",
-      "source": "OpenAI News",
-      "date": "Thu, 08 Oct 2026 12:00:00 GMT",
-      "summary": "LegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and Luna to tasks and managed budgets strategically.",
-      "url": "https://openai.com/index/legalon-halves-codex-costs"
-    },
-    {
       "category": "Biblical Studies",
       "title": "The Enduring Symbolism of Doves",
       "source": "Biblical Archaeology Society",
@@ -187,52 +227,12 @@
       "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/daily-life-and-practice/the-enduring-symbolism-of-doves/"
     },
     {
-      "category": "Biblical Studies",
-      "title": "What Happened to Cain in the Bible?",
-      "source": "Biblical Archaeology Society",
-      "date": "Thu, 08 Oct 2026 11:00:11 +0000",
-      "summary": "In the Book of Genesis, we are told about Cain’s birth, his violent act of fratricide and his subsequent exile. We learn that he married and had descendants, but the Bible is strangely mute about his death.\nThe post What Happened to Cain in the Bible? appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/daily/biblical-topics/bible-interpretation/what-happened-to-cain-in-the-bible/"
-    },
-    {
-      "category": "Theology",
-      "title": "From TGC ‘National Conference’ to ‘Church Conference’: Behind the Name Change",
-      "source": "The Gospel Coalition",
-      "date": "Thu, 08 Oct 2026 04:05:58 +0000",
-      "summary": "Since 2007, TGC’s biennial conference has been our ‘national conference.’ But for TGC27, we changed the name to ‘church conference.’ Why?",
-      "url": "https://www.thegospelcoalition.org/article/tgc-church-conference-name-change/"
-    },
-    {
-      "category": "Theology",
-      "title": "On My Shelf: Life and Books with Alex Fogleman",
-      "source": "The Gospel Coalition",
-      "date": "Thu, 08 Oct 2026 04:02:00 +0000",
-      "summary": "Alex Fogleman talks about what’s on his bedside table, favorite fiction, favorite rereads, and more.",
-      "url": "https://www.thegospelcoalition.org/article/on-my-shelf-alex-fogleman/"
-    },
-    {
-      "category": "Theology",
-      "title": "‘The Social Reckoning’ Doesn’t Fully Reckon with the Problem",
-      "source": "The Gospel Coalition",
-      "date": "Thu, 08 Oct 2026 04:00:00 +0000",
-      "summary": "Social algorithms have trained us to filter reality through the lens of our political narrative. In his telling of the Facebook story, Aaron Sorkin does this too.",
-      "url": "https://www.thegospelcoalition.org/article/social-reckoning-christian-movie-review/"
-    },
-    {
       "category": "History",
       "title": "Trade, Land, Speculation: William Kerin Constable in the Age of Revolution",
       "source": "Journal of the American Revolution",
       "date": "Wed, 07 Oct 2026 22:00:25 +0000",
       "summary": "The Marquis de Lafayette arrived in New York City to great fanfare on August 16, 1824. Two days later the sixty-six year old Frenchman and his entourage made their way across the East River to inspect the Brooklyn Navy Yard. Before returning to Manhattan, they paid a social call to the Brooklyn Heights home of […]\nThe post Trade, Land, Speculation: William Kerin Constable in the Age of Revolution appeared first on Journal of the American Revolution.",
       "url": "https://allthingsliberty.com/2026/10/trade-land-speculation-william-kerin-constable-in-the-age-of-revolution/"
-    },
-    {
-      "category": "Biblical Studies",
-      "title": "Love, War, and Diplomacy and the Bronze Age",
-      "source": "Biblical Archaeology Society",
-      "date": "Wed, 07 Oct 2026 10:45:05 +0000",
-      "summary": "Love, War, and Diplomacy The Discovery of the Amarna Letters and the Bronze Age World They Revealed By Eric H. Cline (Princeton: Princeton Univ. Press, […]\nThe post Love, War, and Diplomacy and the Bronze Age appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/reviews/love-war-and-diplomacy-and-the-bronze-age/"
     },
     {
       "category": "Theology",
