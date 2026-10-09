@@ -1,78 +1,142 @@
 {
-  "lastUpdated": "2026-10-08T17:06:07.735Z",
-  "articleCount": 33,
+  "lastUpdated": "2026-10-09T01:35:52.331Z",
+  "articleCount": 36,
   "articles": [
     {
       "category": "Science",
-      "title": "One ancient swimming mammal fossil and two evolutionary surprises, including a third set of teeth",
+      "title": "Introducing LGBT stories linked to more inclusive attitudes in primary schools",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Thu, 08 Oct 2026 13:00:26 EDT",
-      "summary": "What may have looked like a cross between a platypus and a beaverlike rodent and lived around 120 million years ago? Dongoconodon platycauda, a newly discovered fossil mammal from northeastern China. Beyond its unusual features, such as evidence of webbed paddling feet and a rudderlike tail, this semiaquatic mammal had a surprise waiting for scientists in its jaw: a third generation of teeth.",
-      "url": "https://phys.org/news/2026-10-ancient-mammal-fossil-evolutionary-teeth.html"
+      "date": "Thu, 08 Oct 2026 21:20:06 EDT",
+      "summary": "Can literature foster greater acceptance of LGBT people among elementary school students? This is the core question behind a study conducted by researchers Guillermo Soler, María Ribes and José Rovira-Collado from the Language and Literature Didactics area of the Department of Teaching Innovation and Training at the University of Alicante (UA).",
+      "url": "https://phys.org/news/2026-10-lgbt-stories-linked-inclusive-attitudes.html"
     },
     {
       "category": "Science",
-      "title": "What happens to language when machines start talking back?",
+      "title": "Study documents beef industry group's early efforts to counter climate concerns",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Thu, 08 Oct 2026 13:00:01 EDT",
-      "summary": "A few months ago, a friend posted something that caught my eye on social media. She struggled to listen to what she termed \"(literally) breathless AI voices for audiobooks.\"",
-      "url": "https://phys.org/news/2026-10-language-machines.html"
-    },
-    {
-      "category": "Science",
-      "title": "A biologist queries whether AI 'borrowed' his work to make major discovery—an expert explains the rules",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Thu, 08 Oct 2026 12:40:10 EDT",
-      "summary": "AI company Anthropic recently announced that its popular system Claude had identified an unusual family of biological molecules. These molecules were enzymes, a type of protein that speeds up chemical reactions in living organisms.",
-      "url": "https://phys.org/news/2026-10-biologist-queries-ai-major-discovery.html"
+      "date": "Thu, 08 Oct 2026 20:40:11 EDT",
+      "summary": "A leading U.S. beef industry trade association knew by 1989 that cattle contributed to global warming but focused its response on protecting consumer demand through public relations, according to a new study that examined a decade of industry records.",
+      "url": "https://phys.org/news/2026-10-documents-beef-industry-group-early.html"
     },
     {
       "category": "AI",
-      "title": "Step 5 Preview, a 1M-context MoE from StepFun, shows up on OpenRouter",
+      "title": "Show HN: Edi Life OS – self-hosted life dashboard with an MCP server for AI",
       "source": "Hacker News: Front Page",
-      "date": "Thu, 08 Oct 2026 16:20:20 +0000",
-      "summary": "Article URL: https://openrouter.ai/stepfun/step-5-preview\nComments URL: https://news.ycombinator.com/item?id=50007764\nPoints: 6\n# Comments: 1",
-      "url": "https://openrouter.ai/stepfun/step-5-preview"
+      "date": "Fri, 09 Oct 2026 00:02:19 +0000",
+      "summary": "Article URL: https://github.com/edrisranjbar/lifeos\nComments URL: https://news.ycombinator.com/item?id=50014150\nPoints: 12\n# Comments: 2",
+      "url": "https://github.com/edrisranjbar/lifeos"
     },
     {
       "category": "Science",
-      "title": " Would you trust AI to calculate your true 'biological age'? ",
+      "title": "Only 9% of major companies use biodiversity indicators, study finds",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Thu, 08 Oct 2026 19:40:14 EDT",
+      "summary": "Biodiversity indicators can help companies make more sustainable decisions. But only 9% of the world's largest companies in sectors with a major impact on biodiversity use such indicators, according to a new study from Lund University. The researchers also show that different indicators can lead to different conclusions and present seven recommendations for how they should be used.",
+      "url": "https://phys.org/news/2026-10-major-companies-biodiversity-indicators.html"
+    },
+    {
+      "category": "AI",
+      "title": "Show HN: SVG Spark – 10 client-side SVG design and dev tools",
+      "source": "Hacker News: Front Page",
+      "date": "Thu, 08 Oct 2026 23:32:49 +0000",
+      "summary": "Article URL: https://svg-spark.vercel.app/\nComments URL: https://news.ycombinator.com/item?id=50013931\nPoints: 23\n# Comments: 1",
+      "url": "https://svg-spark.vercel.app/"
+    },
+    {
+      "category": "AI",
+      "title": "OpenAI, the Partition Principle, and Mathematics",
+      "source": "Hacker News: Front Page",
+      "date": "Thu, 08 Oct 2026 23:29:43 +0000",
+      "summary": "Article URL: https://karagila.org/2026/openai-pp/\nComments URL: https://news.ycombinator.com/item?id=50013902\nPoints: 82\n# Comments: 91",
+      "url": "https://karagila.org/2026/openai-pp/"
+    },
+    {
+      "category": "Science",
+      "title": " Big dogs age faster at an epigenetic level, new study finds ",
       "source": " Latest from Live Science ",
-      "date": "Thu, 08 Oct 2026 16:09:52 +0000",
-      "summary": "Scientists have developed various AI tools to measure people's biological ages. Would you use one?",
-      "url": "https://www.livescience.com/health/aging/would-you-trust-ai-to-calculate-your-true-biological-age-poll"
+      "date": "Thu, 08 Oct 2026 21:59:11 +0000",
+      "summary": "A new study that tracked dogs' aging by reading tiny chemical tags on their DNA found that larger dogs aged more quickly.",
+      "url": "https://www.livescience.com/animals/dogs/big-dogs-age-faster-at-an-epigenetic-level-new-study-finds"
+    },
+    {
+      "category": "Theology",
+      "title": "The Reason for Church: A Review",
+      "source": "9Marks",
+      "date": "Thu, 08 Oct 2026 21:49:22 +0000",
+      "summary": "Rescue us from ourselves? No. Jesus died to rescue us from God’s wrath. \nThe post The Reason for Church: A Review appeared first on 9Marks.",
+      "url": "https://www.9marks.org/review/the-reason-for-church-a-review/?utm_source=rss&utm_medium=rss&utm_campaign=the-reason-for-church-a-review"
     },
     {
       "category": "AI",
-      "title": "4-hour battery storage is cheaper to install than gas turbines all across globe",
-      "source": "Hacker News: Front Page",
-      "date": "Thu, 08 Oct 2026 16:03:33 +0000",
-      "summary": "Article URL: https://www.solarpowerworldonline.com/2026/10/4-hour-battery-storage-is-cheaper-to-install-than-gas-turbines-all-across-globe/\nComments URL: https://news.ycombinator.com/item?id=50007519\nPoints: 43\n# Comments: 13",
-      "url": "https://www.solarpowerworldonline.com/2026/10/4-hour-battery-storage-is-cheaper-to-install-than-gas-turbines-all-across-globe/"
-    },
-    {
-      "category": "Science",
-      "title": " The central Pacific Ocean just broke a temperature record. Experts say it might signal a new kind of El Niño. ",
-      "source": " Latest from Live Science ",
-      "date": "Thu, 08 Oct 2026 15:43:55 +0000",
-      "summary": "The sea surface temperature in a key El Niño region has exceeded 86 degrees F for the first time on record, hinting that the strength and location of some El Niño events are transforming.",
-      "url": "https://www.livescience.com/planet-earth/rivers-oceans/the-central-pacific-ocean-just-broke-a-temperature-record-experts-say-it-might-signal-a-new-kind-of-el-nino"
-    },
-    {
-      "category": "AI",
-      "title": "US suspends Microsoft, major IT firms from key green card program",
-      "source": "Hacker News: Front Page",
-      "date": "Thu, 08 Oct 2026 15:24:40 +0000",
-      "summary": "Article URL: https://www.reuters.com/business/us-suspending-permanent-residency-program-for-microsoft-vance-says-2026-10-08/\nComments URL: https://news.ycombinator.com/item?id=50006948\nPoints: 99\n# Comments: 49",
-      "url": "https://www.reuters.com/business/us-suspending-permanent-residency-program-for-microsoft-vance-says-2026-10-08/"
-    },
-    {
-      "category": "AI",
-      "title": "Internal files add to evidence of an ExxonMobil climate deception campaign",
+      "title": "SpaceX calls for better coordination in orbit after near-misses with Starlink",
       "source": "Ars Technica - All content",
-      "date": "Thu, 08 Oct 2026 14:04:42 +0000",
-      "summary": "Court filings reveal new details about Exxon's decades of internal climate deliberations.",
-      "url": "https://arstechnica.com/tech-policy/2026/10/exxonmobils-own-scientists-doubted-climate-fixes-the-company-hyped/"
+      "date": "Thu, 08 Oct 2026 21:37:32 +0000",
+      "summary": "\"These led to conjunctions of tens of meters to hundreds of meters. Way too close to comfort.\"",
+      "url": "https://arstechnica.com/space/2026/10/spacex-calls-for-better-coordination-in-orbit-after-near-misses-with-starlink/"
+    },
+    {
+      "category": "Science",
+      "title": " 'Freakish' discovery of 9 million-year-old capybara tooth supports idea that Atacama wasn't always a desert ",
+      "source": " Latest from Live Science ",
+      "date": "Thu, 08 Oct 2026 21:19:31 +0000",
+      "summary": "A 9 million-year-old capybara tooth was found in the Atacama Desert, a surprising find given that these rodents love water.",
+      "url": "https://www.livescience.com/planet-earth/freakish-discovery-of-9-million-year-old-capybara-tooth-supports-idea-that-atacama-wasnt-always-a-desert"
+    },
+    {
+      "category": "AI",
+      "title": "Judge weighs if Trump can charge $100K for early access to Truth Social posts",
+      "source": "Ars Technica - All content",
+      "date": "Thu, 08 Oct 2026 20:53:01 +0000",
+      "summary": "Judge questioned if Trump delaying access to Truth Social posts by a second harms the press.",
+      "url": "https://arstechnica.com/tech-policy/2026/10/judge-weighs-if-trump-can-charge-100k-for-early-access-to-truth-social-posts/"
+    },
+    {
+      "category": "AI",
+      "title": "Trump Mobile hack and apparent lack of FCC authorization raise security alarms",
+      "source": "Ars Technica - All content",
+      "date": "Thu, 08 Oct 2026 20:39:31 +0000",
+      "summary": "After hack and data breach, senator asks why Trump Mobile lacks some FCC filings.",
+      "url": "https://arstechnica.com/tech-policy/2026/10/trump-mobile-doesnt-seem-to-have-fcc-authorization-for-phone-service-senator-says/"
+    },
+    {
+      "category": "Space",
+      "title": "NASA Briefing to Highlight Contributions to Martian Moons Mission",
+      "source": "NASA",
+      "date": "Thu, 08 Oct 2026 20:22:12 +0000",
+      "summary": "Media are invited to join NASA for a media teleconference at 4 p.m. EDT, Thursday, Oct. 15, to preview the agency’s contributions to JAXA’s (Japan Aerospace Exploration Agency) Martian Moons eXploration (MMX) mission. The mission is scheduled to launch from JAXA’s Tanegashima Space Center in Japan on Monday, Oct. 19 EDT (Tuesday, Oct. 20 JST). […]",
+      "url": "https://www.nasa.gov/news-release/nasa-briefing-to-highlight-contributions-to-martian-moons-mission/"
+    },
+    {
+      "category": "Space",
+      "title": "NASA Announces Bold Science Initiatives for America’s Golden Age Summit",
+      "source": "NASA",
+      "date": "Thu, 08 Oct 2026 19:40:00 +0000",
+      "summary": "NASA is launching two new science and technology initiatives to deepen scientific understanding and accelerate the innovation that will shape America’s future in space. The initiatives are announced in conjunction with the White House Office of Science and Technology Policy’s (OSTP) “Golden Age Summit” in Washington on Thursday with top U.S. agency leaders. The programs […]",
+      "url": "https://www.nasa.gov/news-release/nasa-announces-bold-science-initiatives-for-americas-golden-age-summit/"
+    },
+    {
+      "category": "Space",
+      "title": "NASA’s SSPICY Mission to Demonstrate In-Space Inspection Technologies",
+      "source": "NASA",
+      "date": "Thu, 08 Oct 2026 18:56:25 +0000",
+      "summary": "A new NASA-supported spacecraft will get up close to satellites that are no longer in service, demonstrating technologies that could support future in-space repairs and reduce orbital debris. The Small Spacecraft Propulsion and Inspection Capability (SSPICY) mission launched Oct. 1 from Vandenberg Space Force Base in California. The mission is a technology demonstration where an […]",
+      "url": "https://www.nasa.gov/centers-and-facilities/ames/nasas-sspicy-mission-to-demonstrate-in-space-inspection-technologies/"
+    },
+    {
+      "category": "Science",
+      "title": " James Webb telescope pinpoints the most distant 'fast radio burst' ever seen ",
+      "source": " Latest from Live Science ",
+      "date": "Thu, 08 Oct 2026 18:00:00 +0000",
+      "summary": "The James Webb Space Telescope has detected the farthest \"fast radio burst\" ever seen, providing more clues about these mysterious explosions.",
+      "url": "https://www.livescience.com/space/astronomy/james-webb-telescope-pinpoints-the-most-distant-fast-radio-burst-ever-seen-more-than-doubling-the-previous-record"
+    },
+    {
+      "category": "AI",
+      "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+      "source": "OpenAI News",
+      "date": "Thu, 08 Oct 2026 16:00:00 GMT",
+      "summary": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
+      "url": "https://openai.com/index/oracle"
     },
     {
       "category": "Science",
@@ -100,11 +164,19 @@
     },
     {
       "category": "AI",
-      "title": "Nvidia's big bet on physical AI aims for safer robotaxis, humanoid robots",
-      "source": "Ars Technica - All content",
-      "date": "Thu, 08 Oct 2026 11:15:33 +0000",
-      "summary": "Full-stack safety solution for physical AI is being used by robotics companies.",
-      "url": "https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots/"
+      "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+      "source": "OpenAI News",
+      "date": "Thu, 08 Oct 2026 12:00:00 GMT",
+      "summary": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.",
+      "url": "https://openai.com/index/pollo-ai"
+    },
+    {
+      "category": "AI",
+      "title": "LegalOn halves Codex costs while maintaining development speed",
+      "source": "OpenAI News",
+      "date": "Thu, 08 Oct 2026 12:00:00 GMT",
+      "summary": "LegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and Luna to tasks and managed budgets strategically.",
+      "url": "https://openai.com/index/legalon-halves-codex-costs"
     },
     {
       "category": "Biblical Studies",
@@ -115,28 +187,12 @@
       "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/daily-life-and-practice/the-enduring-symbolism-of-doves/"
     },
     {
-      "category": "AI",
-      "title": "A senator tried to ban gambling on prediction markets—now she's a Kalshi lobbyist",
-      "source": "Ars Technica - All content",
-      "date": "Thu, 08 Oct 2026 11:00:14 +0000",
-      "summary": "Sen. Blanche Lincoln wrote law that let US ban sports-event contracts. She lobbies for the other side now.",
-      "url": "https://arstechnica.com/tech-policy/2026/10/a-senator-tried-to-ban-gambling-on-prediction-markets-now-shes-a-kalshi-lobbyist/"
-    },
-    {
       "category": "Biblical Studies",
       "title": "What Happened to Cain in the Bible?",
       "source": "Biblical Archaeology Society",
       "date": "Thu, 08 Oct 2026 11:00:11 +0000",
       "summary": "In the Book of Genesis, we are told about Cain’s birth, his violent act of fratricide and his subsequent exile. We learn that he married and had descendants, but the Bible is strangely mute about his death.\nThe post What Happened to Cain in the Bible? appeared first on Biblical Archaeology Society.",
       "url": "https://www.biblicalarchaeology.org/daily/biblical-topics/bible-interpretation/what-happened-to-cain-in-the-bible/"
-    },
-    {
-      "category": "Science",
-      "title": " Why are dengue cases surging in Florida this year? An 'unlucky' combination of factors, experts say ",
-      "source": " Latest from Live Science ",
-      "date": "Thu, 08 Oct 2026 10:00:00 +0000",
-      "summary": "Dengue fever infections are booming in Florida this year, with more local cases than usual and the state's first dengue-related death in nearly a century. Why?",
-      "url": "https://www.livescience.com/health/viruses-infections-disease/why-are-dengue-cases-surging-in-florida-this-year-an-unlucky-combination-of-factors-experts-say"
     },
     {
       "category": "Theology",
@@ -163,14 +219,6 @@
       "url": "https://www.thegospelcoalition.org/article/social-reckoning-christian-movie-review/"
     },
     {
-      "category": "AI",
-      "title": "Disrupting AI-enabled “false front” operations",
-      "source": "OpenAI News",
-      "date": "Thu, 08 Oct 2026 00:00:00 GMT",
-      "summary": "OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging.",
-      "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations"
-    },
-    {
       "category": "History",
       "title": "Trade, Land, Speculation: William Kerin Constable in the Age of Revolution",
       "source": "Journal of the American Revolution",
@@ -179,28 +227,12 @@
       "url": "https://allthingsliberty.com/2026/10/trade-land-speculation-william-kerin-constable-in-the-age-of-revolution/"
     },
     {
-      "category": "AI",
-      "title": "Helping teens learn, plan, and shape the future of AI",
-      "source": "OpenAI News",
-      "date": "Wed, 07 Oct 2026 12:00:00 GMT",
-      "summary": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council.",
-      "url": "https://openai.com/index/teens-learn-and-plan"
-    },
-    {
       "category": "Biblical Studies",
       "title": "Love, War, and Diplomacy and the Bronze Age",
       "source": "Biblical Archaeology Society",
       "date": "Wed, 07 Oct 2026 10:45:05 +0000",
       "summary": "Love, War, and Diplomacy The Discovery of the Amarna Letters and the Bronze Age World They Revealed By Eric H. Cline (Princeton: Princeton Univ. Press, […]\nThe post Love, War, and Diplomacy and the Bronze Age appeared first on Biblical Archaeology Society.",
       "url": "https://www.biblicalarchaeology.org/reviews/love-war-and-diplomacy-and-the-bronze-age/"
-    },
-    {
-      "category": "AI",
-      "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
-      "source": "OpenAI News",
-      "date": "Wed, 07 Oct 2026 07:00:00 GMT",
-      "summary": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips.",
-      "url": "https://openai.com/index/radisson"
     },
     {
       "category": "Theology",
@@ -233,14 +265,6 @@
       "date": "Tue, 29 Sep 2026 20:54:47 +0000",
       "summary": "Biblical friendship is not a luxury for pastors. It is one of God's ordinary means of sustaining us for long-term ministry.\nThe post Eight Enemies of Pastoral Friendship appeared first on 9Marks.",
       "url": "https://www.9marks.org/article/eight-enemies-of-pastoral-friendship/?utm_source=rss&utm_medium=rss&utm_campaign=eight-enemies-of-pastoral-friendship"
-    },
-    {
-      "category": "Theology",
-      "title": "Youth Ministry Deconstructed",
-      "source": "9Marks",
-      "date": "Fri, 25 Sep 2026 05:22:25 +0000",
-      "summary": "One way the church can minister to teenagers is by discipling their parents to be mature followers of Jesus.\nThe post Youth Ministry Deconstructed appeared first on 9Marks.",
-      "url": "https://www.9marks.org/review/youth-ministry-deconstructed/?utm_source=rss&utm_medium=rss&utm_campaign=youth-ministry-deconstructed"
     },
     {
       "category": "History",
