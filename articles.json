@@ -1,54 +1,110 @@
 {
-  "lastUpdated": "2026-10-10T01:25:18.419Z",
+  "lastUpdated": "2026-10-10T15:39:00.190Z",
   "articleCount": 36,
   "articles": [
     {
       "category": "Science",
-      "title": "Mountaineer: 'Tenzing biopic made me wonder what he would think if he could return to the mountain today'",
+      "title": "Preschool boys favor bigger groups while adults' choices hint at political attitudes",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Fri, 09 Oct 2026 21:20:01 EDT",
-      "summary": "Seventy-three years ago, Tenzing Norgay stood on top of Everest, known as Chomolungma in Tibetan, which roughly translates as \"Goddess Mother of the World.\"",
-      "url": "https://phys.org/news/2026-10-mountaineer-tenzing-biopic-mountain-today.html"
+      "date": "Sat, 10 Oct 2026 11:20:01 EDT",
+      "summary": "Two cartoon characters appear on a screen. One belongs to a group of three, and the other to a group of two. Which character would you rather play with?",
+      "url": "https://phys.org/news/2026-10-preschool-boys-favor-bigger-groups.html"
     },
     {
       "category": "AI",
-      "title": "REA Reverse – Engineer Anything",
+      "title": "My personal AI agent posted my bank details on company Slack",
       "source": "Hacker News: Front Page",
-      "date": "Sat, 10 Oct 2026 00:37:07 +0000",
-      "summary": "Article URL: https://rea.tools/\nComments URL: https://news.ycombinator.com/item?id=50028275\nPoints: 35\n# Comments: 8",
-      "url": "https://rea.tools/"
+      "date": "Sat, 10 Oct 2026 14:46:16 +0000",
+      "summary": "Article URL: https://www.businessinsider.com/personal-ai-agent-grok-bot-posted-bank-details-company-slack-2026-10\nComments URL: https://news.ycombinator.com/item?id=50033517\nPoints: 12\n# Comments: 9",
+      "url": "https://www.businessinsider.com/personal-ai-agent-grok-bot-posted-bank-details-company-slack-2026-10"
+    },
+    {
+      "category": "AI",
+      "title": "Bitwarden Dual License Model",
+      "source": "Hacker News: Front Page",
+      "date": "Sat, 10 Oct 2026 14:32:50 +0000",
+      "summary": "Article URL: https://community.bitwarden.com/t/published-version-update-in-app-stores/102750\nComments URL: https://news.ycombinator.com/item?id=50033407\nPoints: 73\n# Comments: 29",
+      "url": "https://community.bitwarden.com/t/published-version-update-in-app-stores/102750"
+    },
+    {
+      "category": "Space",
+      "title": "NASA to Conduct Flyover, Engage NFL Fans at MetLife Stadium",
+      "source": "NASA",
+      "date": "Sat, 10 Oct 2026 14:18:59 +0000",
+      "summary": "As part of the agency’s Inspiration Tour flyover, NASA Administrator Jared Isaacman will pilot one of three F-5 fighter jets to kick off the New York Jets vs. Cleveland Browns game in East Rutherford, New Jersey, on Sunday, Oct. 11. NASA team members will engage with fans at the agency’s Experience Zone, located at the […]",
+      "url": "https://www.nasa.gov/news-release/nasa-to-conduct-flyover-engage-nfl-fans-at-metlife-stadium/"
     },
     {
       "category": "Science",
-      "title": "Geologists uncover evidence of a missing Late Cretaceous magmatic arc in northwestern Iran",
+      "title": "Against the odds: Why some ecosystems thrive",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Fri, 09 Oct 2026 20:20:05 EDT",
-      "summary": "Mountains preserve evidence of ancient oceans, moving continents and tectonic processes that have shaped Earth over millions of years. Later deformation, erosion and burial, however, can obscure important parts of this geological record. An international research team led by Istanbul Technical University (ITU) has identified evidence of a previously unrecognized Late Cretaceous continental magmatic arc in northwestern Iran.",
-      "url": "https://phys.org/news/2026-10-geologists-uncover-evidence-late-cretaceous.html"
+      "date": "Sat, 10 Oct 2026 09:40:10 EDT",
+      "summary": "From coral reefs in Papua New Guinea to chimpanzees in West Africa, grizzly bears in Canada and albatross colonies off Tasmania, some ecosystems are thriving despite climate change, habitat loss and other environmental pressures.",
+      "url": "https://phys.org/news/2026-10-odds-ecosystems.html"
     },
     {
       "category": "AI",
-      "title": "11 of 23 Core Open Source Projects Run on 1 or 2 People",
+      "title": "Lobbying Is Corruption",
       "source": "Hacker News: Front Page",
-      "date": "Fri, 09 Oct 2026 23:56:55 +0000",
-      "summary": "Article URL: https://linuxstans.com/11-of-23-core-open-source-projects-run-on-1-or-2-people/\nComments URL: https://news.ycombinator.com/item?id=50028059\nPoints: 26\n# Comments: 11",
-      "url": "https://linuxstans.com/11-of-23-core-open-source-projects-run-on-1-or-2-people/"
-    },
-    {
-      "category": "AI",
-      "title": "Compiling Rust to readable C with Eurydice",
-      "source": "Hacker News: Front Page",
-      "date": "Fri, 09 Oct 2026 23:28:36 +0000",
-      "summary": "Article URL: https://lwn.net/Articles/1055211/\nComments URL: https://news.ycombinator.com/item?id=50027853\nPoints: 8\n# Comments: 2",
-      "url": "https://lwn.net/Articles/1055211/"
+      "date": "Sat, 10 Oct 2026 13:05:58 +0000",
+      "summary": "Article URL: https://carette.xyz/posts/lobbying_and_corruption/\nComments URL: https://news.ycombinator.com/item?id=50032556\nPoints: 337\n# Comments: 157",
+      "url": "https://carette.xyz/posts/lobbying_and_corruption/"
     },
     {
       "category": "Science",
-      "title": "Food testing reveals how diet can add to exposure to 'forever chemicals'",
+      "title": "Powerful waves lash California coast as storm threatens more damage",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Fri, 09 Oct 2026 19:00:01 EDT",
-      "summary": "Per- and polyfluoroalkyl substances (PFAS)—a vast family of chemicals used largely for their nonstick, water-repellent and grease-resistant properties—are called \"forever chemicals\" because of their remarkable resistance to degradation. They are now ubiquitous in our environment.",
-      "url": "https://phys.org/news/2026-10-food-reveals-diet-exposure-chemicals.html"
+      "date": "Sat, 10 Oct 2026 08:20:02 EDT",
+      "summary": "Powerful waves thrashed communities along California's southern coast Friday, damaging homes and sending water cascading through streets as residents braced for more potential damage wrought by Tropical Storm Rachel.",
+      "url": "https://phys.org/news/2026-10-powerful-lash-california-coast-storm.html"
+    },
+    {
+      "category": "AI",
+      "title": "One with the world? A new look at brains transformed by psychedelics.",
+      "source": "Ars Technica - All content",
+      "date": "Sat, 10 Oct 2026 11:15:35 +0000",
+      "summary": "Participants meditated inside an MRI tube, with and without psilocybin.",
+      "url": "https://arstechnica.com/science/2026/10/the-psychedelic-brain-looks-like-chaos-underneath-theres-order/"
+    },
+    {
+      "category": "Science",
+      "title": " Photojournalist Steve Winter on his iconic Hollywood puma image, the illegal tiger trade and having a black panther knock on his door  ",
+      "source": " Latest from Live Science ",
+      "date": "Sat, 10 Oct 2026 11:00:00 +0000",
+      "summary": "Live Science spoke with Steve Winter ahead of the release of \"Big Cats.\"",
+      "url": "https://www.livescience.com/animals/cats/photojournalist-steve-winter-on-his-iconic-hollywood-puma-image-the-illegal-tiger-trade-and-having-a-black-panther-knock-on-his-door"
+    },
+    {
+      "category": "Science",
+      "title": " Does written language speed up or slow down cultural change? ",
+      "source": " Latest from Live Science ",
+      "date": "Sat, 10 Oct 2026 09:00:00 +0000",
+      "summary": "The written word has been revolutionary in preserving ideas from the past, and transmitting new ones in the present. But does it favor tradition or change?",
+      "url": "https://www.livescience.com/technology/communications/does-written-language-speed-up-or-slow-down-cultural-change"
+    },
+    {
+      "category": "Space",
+      "title": "APOD: 2026 October 10 – Lunar Farside",
+      "source": "NASA",
+      "date": "Sat, 10 Oct 2026 04:05:00 +0000",
+      "summary": "APOD Science APOD APOD: 2026 October 10… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Lunar Farside Explanation: Tidally […]",
+      "url": "https://science.nasa.gov/image-article/apod-2026-october-10-lunar-farside/"
+    },
+    {
+      "category": "Theology",
+      "title": "Editor’s Pick: 7 Theology Books That Encourage Devotion",
+      "source": "The Gospel Coalition",
+      "date": "Sat, 10 Oct 2026 04:02:00 +0000",
+      "summary": "This list of recently published (or republished) theological texts includes books that can encourage Christians at various stages of spiritual maturity and equip them to serve the church.",
+      "url": "https://www.thegospelcoalition.org/reviews/editors-pick-systematic-theology/"
+    },
+    {
+      "category": "Theology",
+      "title": "In a World of More, We Need a Theology of Enough",
+      "source": "The Gospel Coalition",
+      "date": "Sat, 10 Oct 2026 04:00:00 +0000",
+      "summary": "A theology of enough is the foundation of contentment.",
+      "url": "https://www.thegospelcoalition.org/article/world-more-theology-enough/"
     },
     {
       "category": "AI",
@@ -67,14 +123,6 @@
       "url": "https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google/"
     },
     {
-      "category": "AI",
-      "title": "A Cray-1 supercomputer replica from 30 \"obsolete\" Mac Minis",
-      "source": "Ars Technica - All content",
-      "date": "Fri, 09 Oct 2026 21:51:12 +0000",
-      "summary": "Stylish upcycling, with a retro flare, at Spain's Museo de Historia de la Computación.",
-      "url": "https://arstechnica.com/gadgets/2026/10/a-cray-1-supercomputer-replica-from-30-obsolete-mac-minis/"
-    },
-    {
       "category": "Science",
       "title": " 'October is the ideal time to get vaccinated': Flu season is kicking off early, experts say ",
       "source": " Latest from Live Science ",
@@ -89,38 +137,6 @@
       "date": "Fri, 09 Oct 2026 18:11:44 +0000",
       "summary": "NASA is advancing American leadership in space by taking the next step toward a future where commercial space stations lead the way in low Earth orbit. On Friday, the agency released its final Request for Proposals inviting industry to submit plans for the next generation of commercial space stations. “In alignment with the President’s National […]",
       "url": "https://www.nasa.gov/news-release/nasa-seeks-us-industry-plans-for-commercial-space-stations/"
-    },
-    {
-      "category": "Space",
-      "title": "NASA Demonstrates Next-Generation Heat Shield Technologies",
-      "source": "NASA",
-      "date": "Fri, 09 Oct 2026 16:59:24 +0000",
-      "summary": "NASA is testing heat shields that can keep astronauts safe as they return from missions to the Moon and Mars in an unusual way: by taking out the trash. When Northrop Grumman 24th cargo resupply mission for NASA undocked from the International Space Station, it carried a fleet of 12 small, experimental capsules designed to […]",
-      "url": "https://www.nasa.gov/centers-and-facilities/ames/nasa-demonstrates-next-generation-heat-shield-technologies/"
-    },
-    {
-      "category": "Science",
-      "title": " Self-driving, solar-powered cars that talk to each other? What vehicles might look like in 10 years. ",
-      "source": " Latest from Live Science ",
-      "date": "Fri, 09 Oct 2026 16:00:00 +0000",
-      "summary": "Car technology is making rapid advances, and the car you will drive in 10 years may be very different from the one you're driving today.",
-      "url": "https://www.livescience.com/technology/electric-vehicles/self-driving-solar-powered-cars-that-talk-to-each-other-what-vehicles-might-look-like-in-10-years"
-    },
-    {
-      "category": "Science",
-      "title": " Cool chemistry trick allows new tattoos to 'turn on and off' ",
-      "source": " Latest from Live Science ",
-      "date": "Fri, 09 Oct 2026 15:00:00 +0000",
-      "summary": "Researchers created multicolored tattoo inks that are activated by different wavelengths of light, allowing people to hide their tattoos in different scenarios.",
-      "url": "https://www.livescience.com/technology/cool-chemistry-trick-allows-new-tattoos-to-turn-on-and-off"
-    },
-    {
-      "category": "Space",
-      "title": "Cosmic House of Mirrors",
-      "source": "NASA",
-      "date": "Fri, 09 Oct 2026 13:57:24 +0000",
-      "summary": "Galaxies warp and multiply as if in a house of mirrors in this image from NASA’s James Webb Space Telescope released on Sept. 29, 2026. The brilliant golden galaxies seen here are part of a galaxy cluster called MACS J0454.1-0300. The orange galaxies bunched together on one side of the image, however, are not actually […]",
-      "url": "https://www.nasa.gov/image-article/cosmic-house-of-mirrors/"
     },
     {
       "category": "Biblical Studies",
@@ -161,22 +177,6 @@
       "date": "Fri, 09 Oct 2026 04:03:00 +0000",
       "summary": "Not everyone means the same thing when they talk about Christian nationalism.",
       "url": "https://www.thegospelcoalition.org/podcasts/tgc-podcast/one-nation-under-god/"
-    },
-    {
-      "category": "Theology",
-      "title": "Caleb Flynn and the Deadly Sin of Greed",
-      "source": "The Gospel Coalition",
-      "date": "Fri, 09 Oct 2026 04:02:00 +0000",
-      "summary": "Caleb Flynn’s lust led him to commit adultery. But greed might have been what led him to commit murder.",
-      "url": "https://www.thegospelcoalition.org/article/caleb-flynn-greed/"
-    },
-    {
-      "category": "Theology",
-      "title": "How to Make Racism Sound Christian",
-      "source": "The Gospel Coalition",
-      "date": "Fri, 09 Oct 2026 04:00:00 +0000",
-      "summary": "When human rationalism, reasonable argument, and individual preference ground our morality, we’ll always struggle to clearly identify right from wrong.",
-      "url": "https://www.thegospelcoalition.org/article/make-racism-sound-christian/"
     },
     {
       "category": "Science",
