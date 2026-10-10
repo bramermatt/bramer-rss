@@ -1,62 +1,54 @@
 {
-  "lastUpdated": "2026-10-10T15:39:00.190Z",
-  "articleCount": 36,
+  "lastUpdated": "2026-10-10T19:39:13.982Z",
+  "articleCount": 33,
   "articles": [
     {
       "category": "Science",
-      "title": "Preschool boys favor bigger groups while adults' choices hint at political attitudes",
+      "title": "Adult acne is real, but there are ways to treat it. Here's what to know",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Sat, 10 Oct 2026 11:20:01 EDT",
-      "summary": "Two cartoon characters appear on a screen. One belongs to a group of three, and the other to a group of two. Which character would you rather play with?",
-      "url": "https://phys.org/news/2026-10-preschool-boys-favor-bigger-groups.html"
+      "date": "Sat, 10 Oct 2026 15:20:01 EDT",
+      "summary": "As a teenager, Gillian Maegan Montalbo's pimples weren't too bad—just a few bumps on her forehead and nose.",
+      "url": "https://phys.org/news/2026-10-adult-acne-real-ways.html"
     },
     {
       "category": "AI",
-      "title": "My personal AI agent posted my bank details on company Slack",
+      "title": "Takeshi's Castle",
       "source": "Hacker News: Front Page",
-      "date": "Sat, 10 Oct 2026 14:46:16 +0000",
-      "summary": "Article URL: https://www.businessinsider.com/personal-ai-agent-grok-bot-posted-bank-details-company-slack-2026-10\nComments URL: https://news.ycombinator.com/item?id=50033517\nPoints: 12\n# Comments: 9",
-      "url": "https://www.businessinsider.com/personal-ai-agent-grok-bot-posted-bank-details-company-slack-2026-10"
+      "date": "Sat, 10 Oct 2026 19:12:55 +0000",
+      "summary": "Article URL: https://en.wikipedia.org/wiki/Takeshi%27s_Castle\nComments URL: https://news.ycombinator.com/item?id=50036119\nPoints: 9\n# Comments: 4",
+      "url": "https://en.wikipedia.org/wiki/Takeshi%27s_Castle"
     },
     {
       "category": "AI",
-      "title": "Bitwarden Dual License Model",
+      "title": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
       "source": "Hacker News: Front Page",
-      "date": "Sat, 10 Oct 2026 14:32:50 +0000",
-      "summary": "Article URL: https://community.bitwarden.com/t/published-version-update-in-app-stores/102750\nComments URL: https://news.ycombinator.com/item?id=50033407\nPoints: 73\n# Comments: 29",
-      "url": "https://community.bitwarden.com/t/published-version-update-in-app-stores/102750"
+      "date": "Sat, 10 Oct 2026 18:48:35 +0000",
+      "summary": "Article URL: https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a\nComments URL: https://news.ycombinator.com/item?id=50035886\nPoints: 22\n# Comments: 10",
+      "url": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a"
     },
     {
-      "category": "Space",
-      "title": "NASA to Conduct Flyover, Engage NFL Fans at MetLife Stadium",
-      "source": "NASA",
-      "date": "Sat, 10 Oct 2026 14:18:59 +0000",
-      "summary": "As part of the agency’s Inspiration Tour flyover, NASA Administrator Jared Isaacman will pilot one of three F-5 fighter jets to kick off the New York Jets vs. Cleveland Browns game in East Rutherford, New Jersey, on Sunday, Oct. 11. NASA team members will engage with fans at the agency’s Experience Zone, located at the […]",
-      "url": "https://www.nasa.gov/news-release/nasa-to-conduct-flyover-engage-nfl-fans-at-metlife-stadium/"
+      "category": "AI",
+      "title": "Vibe coded browser ports of Halo, The Simpsons: Hit And Run, GTA work well",
+      "source": "Hacker News: Front Page",
+      "date": "Sat, 10 Oct 2026 18:11:58 +0000",
+      "summary": "Article URL: https://kotaku.com/we-might-be-cooked-as-these-vibe-coded-web-browser-ports-of-halo-the-simpsons-hit-and-run-and-gta-vice-city-seem-to-work-perfectly-2000743300\nComments URL: https://news.ycombinator.com/item?id=50035561\nPoints: 31\n# Comments: 22",
+      "url": "https://kotaku.com/we-might-be-cooked-as-these-vibe-coded-web-browser-ports-of-halo-the-simpsons-hit-and-run-and-gta-vice-city-seem-to-work-perfectly-2000743300"
     },
     {
       "category": "Science",
-      "title": "Against the odds: Why some ecosystems thrive",
+      "title": "Nearly 300,000 at risk from Himalayan floods, as flood zone building accelerates",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Sat, 10 Oct 2026 09:40:10 EDT",
-      "summary": "From coral reefs in Papua New Guinea to chimpanzees in West Africa, grizzly bears in Canada and albatross colonies off Tasmania, some ecosystems are thriving despite climate change, habitat loss and other environmental pressures.",
-      "url": "https://phys.org/news/2026-10-odds-ecosystems.html"
-    },
-    {
-      "category": "AI",
-      "title": "Lobbying Is Corruption",
-      "source": "Hacker News: Front Page",
-      "date": "Sat, 10 Oct 2026 13:05:58 +0000",
-      "summary": "Article URL: https://carette.xyz/posts/lobbying_and_corruption/\nComments URL: https://news.ycombinator.com/item?id=50032556\nPoints: 337\n# Comments: 157",
-      "url": "https://carette.xyz/posts/lobbying_and_corruption/"
+      "date": "Sat, 10 Oct 2026 14:00:06 EDT",
+      "summary": "Nearly 300,000 people may live in areas at risk of flooding in the Nepalese, Indian and Chinese areas of the Himalayas. The results, from a study published in Scientific Reports, also indicate that the total area covered by buildings within potential flood zones increased by approximately 45% between 2016 and 2023.",
+      "url": "https://phys.org/news/2026-10-himalayan-zone.html"
     },
     {
       "category": "Science",
-      "title": "Powerful waves lash California coast as storm threatens more damage",
+      "title": "New stability rules distinguish quantum phases of matter that an older method wrongly groups together",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Sat, 10 Oct 2026 08:20:02 EDT",
-      "summary": "Powerful waves thrashed communities along California's southern coast Friday, damaging homes and sending water cascading through streets as residents braced for more potential damage wrought by Tropical Storm Rachel.",
-      "url": "https://phys.org/news/2026-10-powerful-lash-california-coast-storm.html"
+      "date": "Sat, 10 Oct 2026 13:00:02 EDT",
+      "summary": "Most of us recognize basic phases of matter and their properties: solids maintain their shape, liquids flow freely with constant volume, and gases expand to fill their container. Quantum phases, on the other hand, are much harder to categorize, overturning traditional notions of what a phase even is and forcing physicists to rethink their definitions.",
+      "url": "https://phys.org/news/2026-10-stability-distinguish-quantum-phases-older.html"
     },
     {
       "category": "AI",
@@ -81,14 +73,6 @@
       "date": "Sat, 10 Oct 2026 09:00:00 +0000",
       "summary": "The written word has been revolutionary in preserving ideas from the past, and transmitting new ones in the present. But does it favor tradition or change?",
       "url": "https://www.livescience.com/technology/communications/does-written-language-speed-up-or-slow-down-cultural-change"
-    },
-    {
-      "category": "Space",
-      "title": "APOD: 2026 October 10 – Lunar Farside",
-      "source": "NASA",
-      "date": "Sat, 10 Oct 2026 04:05:00 +0000",
-      "summary": "APOD Science APOD APOD: 2026 October 10… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Lunar Farside Explanation: Tidally […]",
-      "url": "https://science.nasa.gov/image-article/apod-2026-october-10-lunar-farside/"
     },
     {
       "category": "Theology",
@@ -129,14 +113,6 @@
       "date": "Fri, 09 Oct 2026 19:10:00 +0000",
       "summary": "Flu tests are coming back positive at higher rates than is typical for early fall in several Western states, data suggests.",
       "url": "https://www.livescience.com/health/flu/october-is-the-ideal-time-to-get-vaccinated-flu-season-is-kicking-off-early-experts-say"
-    },
-    {
-      "category": "Space",
-      "title": "NASA Seeks US Industry Plans for Commercial Space Stations",
-      "source": "NASA",
-      "date": "Fri, 09 Oct 2026 18:11:44 +0000",
-      "summary": "NASA is advancing American leadership in space by taking the next step toward a future where commercial space stations lead the way in low Earth orbit. On Friday, the agency released its final Request for Proposals inviting industry to submit plans for the next generation of commercial space stations. “In alignment with the President’s National […]",
-      "url": "https://www.nasa.gov/news-release/nasa-seeks-us-industry-plans-for-commercial-space-stations/"
     },
     {
       "category": "Biblical Studies",
