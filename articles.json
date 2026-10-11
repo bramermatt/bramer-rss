@@ -1,62 +1,94 @@
 {
-  "lastUpdated": "2026-10-11T00:36:18.815Z",
-  "articleCount": 36,
+  "lastUpdated": "2026-10-11T16:04:49.798Z",
+  "articleCount": 33,
   "articles": [
     {
       "category": "Science",
-      "title": "Zimbabwe's dinosaurs were different from South Africa's: New species offers clues",
+      "title": "Jurassic fossil reveals ancient origins of how mammals drink milk",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Sat, 10 Oct 2026 20:30:01 EDT",
-      "summary": "Africa boasts up to 25% of Earth's animal and plant species. This diversity is driven by varied habitats: harsh deserts, vast grasslands, dense forests, towering mountains, lush coastlines and teeming seas. It is also due to deep evolutionary roots, as many animal and plant groups originated here in the distant past. Paleontologists have been excavating this material for nearly two centuries.",
-      "url": "https://phys.org/news/2026-10-zimbabwe-dinosaurs-south-africa-species.html"
-    },
-    {
-      "category": "AI",
-      "title": "Build your own decision model",
-      "source": "Hacker News: Front Page",
-      "date": "Sat, 10 Oct 2026 22:50:10 +0000",
-      "summary": "Article URL: https://nishtahir.com/build-your-own-decision-model/\nComments URL: https://news.ycombinator.com/item?id=50037949\nPoints: 62\n# Comments: 8",
-      "url": "https://nishtahir.com/build-your-own-decision-model/"
+      "date": "Sun, 11 Oct 2026 12:00:04 EDT",
+      "summary": "An international team of researchers has uncovered new evidence illuminating the evolutionary origins of one of the defining features of mammals: the ability to suckle and consume milk during infancy. Their findings, published in Nature, suggest that key anatomical structures required for mammalian suckling, swallowing and breastfeeding behaviors evolved nearly 165 million years ago, long before the appearance of modern mammals.",
+      "url": "https://phys.org/news/2026-10-jurassic-fossil-reveals-ancient-mammals.html"
     },
     {
       "category": "Science",
-      "title": "Ultraviolet laser pulses engineer diamond defects selectively, leaving quantum qubits intact",
+      "title": "Hurricane Simon strengthens as it nears western Mexico",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Sat, 10 Oct 2026 17:20:01 EDT",
-      "summary": "When we think about a diamond, we often think about a material whose value comes from its perfection. In my research, however, I am interested in something almost opposite: the tiny imperfections inside diamonds. These atomic-scale defects can give diamonds new optical and electronic properties, and some of them can serve as quantum systems. The challenge is learning how to control these defects without disturbing the others.",
-      "url": "https://phys.org/news/2026-10-ultraviolet-laser-pulses-diamond-defects.html"
+      "date": "Sun, 11 Oct 2026 12:00:01 EDT",
+      "summary": "Hurricane Simon strengthened into a powerful Category 4 storm and was expected to make landfall or skirt the coast of west-central Mexico on Sunday, according to the U.S. National Hurricane Center.",
+      "url": "https://phys.org/news/2026-10-hurricane-simon-nears-western-mexico.html"
     },
     {
       "category": "Science",
-      "title": "How to meal prep safely: A microbiologist's step‑by‑step guide",
+      "title": "South Korea completes trial of Arctic shipping route",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Sat, 10 Oct 2026 17:00:02 EDT",
-      "summary": "Meal prepping is a great way to save money, spend less time in the kitchen and stick to a meal plan. But while cooking meals for the week ahead may be convenient, there can be real risks associated with eating bulk-cooked meals.",
-      "url": "https://phys.org/news/2026-10-meal-prep-safely-microbiologist-stepbystep.html"
+      "date": "Sun, 11 Oct 2026 11:40:02 EDT",
+      "summary": "A South Korean container ship returned on Sunday from a trial voyage through the Arctic, testing an alternative route opened by melting sea ice as conflict in the Middle East disrupts global shipping.",
+      "url": "https://phys.org/news/2026-10-south-korea-trial-arctic-shipping.html"
     },
     {
       "category": "AI",
-      "title": "A city-building game in which the city would prefer you didn't",
+      "title": "Internal files add to evidence of an ExxonMobil climate deception campaign",
       "source": "Hacker News: Front Page",
-      "date": "Sat, 10 Oct 2026 20:31:50 +0000",
-      "summary": "Article URL: https://housing.over.pizza/\nComments URL: https://news.ycombinator.com/item?id=50036864\nPoints: 142\n# Comments: 49",
-      "url": "https://housing.over.pizza/"
+      "date": "Sun, 11 Oct 2026 14:28:39 +0000",
+      "summary": "Article URL: https://insideclimatenews.org/news/07102026/exxonmobil-climate-deception-new-evidence/\nComments URL: https://news.ycombinator.com/item?id=50043682\nPoints: 204\n# Comments: 101",
+      "url": "https://insideclimatenews.org/news/07102026/exxonmobil-climate-deception-new-evidence/"
     },
     {
       "category": "AI",
-      "title": "Takeshi's Castle",
+      "title": "Why Texas Is Making Data Centers Wait",
       "source": "Hacker News: Front Page",
-      "date": "Sat, 10 Oct 2026 19:12:55 +0000",
-      "summary": "Article URL: https://en.wikipedia.org/wiki/Takeshi%27s_Castle\nComments URL: https://news.ycombinator.com/item?id=50036119\nPoints: 93\n# Comments: 33",
-      "url": "https://en.wikipedia.org/wiki/Takeshi%27s_Castle"
+      "date": "Sun, 11 Oct 2026 14:21:31 +0000",
+      "summary": "Article URL: https://a16z.com/why-texas-is-making-data-centers-wait/\nComments URL: https://news.ycombinator.com/item?id=50043603\nPoints: 3\n# Comments: 1",
+      "url": "https://a16z.com/why-texas-is-making-data-centers-wait/"
     },
     {
-      "category": "Space",
-      "title": "NASA to Conduct Flyover, Engage NFL Fans at MetLife Stadium",
-      "source": "NASA",
-      "date": "Sat, 10 Oct 2026 14:18:59 +0000",
-      "summary": "As part of the agency’s Inspiration Tour flyover, NASA Administrator Jared Isaacman will pilot one of three F-5 fighter jets to kick off the New York Jets vs. Cleveland Browns game in East Rutherford, New Jersey, on Sunday, Oct. 11. NASA team members will engage with fans at the agency’s Experience Zone, located at the […]",
-      "url": "https://www.nasa.gov/news-release/nasa-to-conduct-flyover-engage-nfl-fans-at-metlife-stadium/"
+      "category": "AI",
+      "title": "Open-Source Microsoft Office Excel, PowerPoint, and Word Replications",
+      "source": "Hacker News: Front Page",
+      "date": "Sun, 11 Oct 2026 13:28:03 +0000",
+      "summary": "Article URL: https://www.tomshardware.com/software/microsoft-office/creator-of-free-adobe-clones-unveils-open-source-microsoft-office-excel-powerpoint-and-word-replications-autodesk-tools-and-other-subscription-based-services-may-come-next\nComments URL: https://news.ycombinator.com/item?id=50043110\nPoints: 34\n# Comments: 26",
+      "url": "https://www.tomshardware.com/software/microsoft-office/creator-of-free-adobe-clones-unveils-open-source-microsoft-office-excel-powerpoint-and-word-replications-autodesk-tools-and-other-subscription-based-services-may-come-next"
+    },
+    {
+      "category": "Science",
+      "title": " 'News reports tweaked the science to speak to contemporary anxieties': How Neanderthal extinction is a projection of our own, modern fears ",
+      "source": " Latest from Live Science ",
+      "date": "Sun, 11 Oct 2026 11:00:00 +0000",
+      "summary": "In this excerpt from \"Neanderthals Among Us,\" author Peter Sahlins looks at the way Neanderthal extinction theories are often engrained with our own societal fears.",
+      "url": "https://www.livescience.com/archaeology/neanderthals/news-reports-tweaked-the-science-to-speak-to-contemporary-anxieties-how-neanderthal-extinction-is-a-projection-of-our-own-modern-fears"
+    },
+    {
+      "category": "Science",
+      "title": " 'Swamp-like colors' on the moon: NASA report reveals strange sights from Artemis II mission ",
+      "source": " Latest from Live Science ",
+      "date": "Sun, 11 Oct 2026 10:00:00 +0000",
+      "summary": "Astronauts on NASA's Artemis II mission saw surprising \"jaundiced yellow\" and \"swampy green\" colors on the moon during their close lunar flyby, a new report reveals.",
+      "url": "https://www.livescience.com/space/the-moon/swamp-like-colors-on-the-moon-new-nasa-report-reveals-strange-sights-from-artemis-ii-mission-space-photo-of-the-week"
+    },
+    {
+      "category": "Science",
+      "title": " How did Roman aqueducts get water to go uphill? ",
+      "source": " Latest from Live Science ",
+      "date": "Sun, 11 Oct 2026 09:00:00 +0000",
+      "summary": "Roman aqueducts used gravity to transport water. So how did they get it to go uphill?",
+      "url": "https://www.livescience.com/archaeology/romans/how-did-roman-aqueducts-get-water-to-go-uphill"
+    },
+    {
+      "category": "Theology",
+      "title": "Christian, Be a Gardener",
+      "source": "The Gospel Coalition",
+      "date": "Sun, 11 Oct 2026 04:00:00 +0000",
+      "summary": "Scripture makes clear that God still plants a garden for himself, a kingdom of priests who put his rule on display in the world.",
+      "url": "https://www.thegospelcoalition.org/article/christian-be-gardener/"
+    },
+    {
+      "category": "Science",
+      "title": "Scientists build a nuclear clock that could make atomic clocks obsolete",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Sat, 10 Oct 2026 23:06:35 EDT",
+      "summary": "Scientists in Vienna have achieved a major breakthrough in timekeeping by creating the world’s first self-stabilizing nuclear clock, a technology that could eventually surpass even the most precise atomic clocks. Instead of relying on electrons in atoms, the clock uses the tiny nuclei of thorium atoms, which are far less sensitive to outside disturbances.",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261008102701.htm"
     },
     {
       "category": "AI",
@@ -65,30 +97,6 @@
       "date": "Sat, 10 Oct 2026 11:15:35 +0000",
       "summary": "Participants meditated inside an MRI tube, with and without psilocybin.",
       "url": "https://arstechnica.com/science/2026/10/the-psychedelic-brain-looks-like-chaos-underneath-theres-order/"
-    },
-    {
-      "category": "Science",
-      "title": " Photojournalist Steve Winter on his iconic Hollywood puma image, the illegal tiger trade and having a black panther knock on his door  ",
-      "source": " Latest from Live Science ",
-      "date": "Sat, 10 Oct 2026 11:00:00 +0000",
-      "summary": "Live Science spoke with Steve Winter ahead of the release of \"Big Cats.\"",
-      "url": "https://www.livescience.com/animals/cats/photojournalist-steve-winter-on-his-iconic-hollywood-puma-image-the-illegal-tiger-trade-and-having-a-black-panther-knock-on-his-door"
-    },
-    {
-      "category": "Science",
-      "title": " Does written language speed up or slow down cultural change? ",
-      "source": " Latest from Live Science ",
-      "date": "Sat, 10 Oct 2026 09:00:00 +0000",
-      "summary": "The written word has been revolutionary in preserving ideas from the past, and transmitting new ones in the present. But does it favor tradition or change?",
-      "url": "https://www.livescience.com/technology/communications/does-written-language-speed-up-or-slow-down-cultural-change"
-    },
-    {
-      "category": "Space",
-      "title": "APOD: 2026 October 10 – Lunar Farside",
-      "source": "NASA",
-      "date": "Sat, 10 Oct 2026 04:05:00 +0000",
-      "summary": "APOD Science APOD APOD: 2026 October 10… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Lunar Farside Explanation: Tidally […]",
-      "url": "https://science.nasa.gov/image-article/apod-2026-october-10-lunar-farside/"
     },
     {
       "category": "Theology",
@@ -123,22 +131,6 @@
       "url": "https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google/"
     },
     {
-      "category": "Science",
-      "title": " 'October is the ideal time to get vaccinated': Flu season is kicking off early, experts say ",
-      "source": " Latest from Live Science ",
-      "date": "Fri, 09 Oct 2026 19:10:00 +0000",
-      "summary": "Flu tests are coming back positive at higher rates than is typical for early fall in several Western states, data suggests.",
-      "url": "https://www.livescience.com/health/flu/october-is-the-ideal-time-to-get-vaccinated-flu-season-is-kicking-off-early-experts-say"
-    },
-    {
-      "category": "Space",
-      "title": "NASA Seeks US Industry Plans for Commercial Space Stations",
-      "source": "NASA",
-      "date": "Fri, 09 Oct 2026 18:11:44 +0000",
-      "summary": "NASA is advancing American leadership in space by taking the next step toward a future where commercial space stations lead the way in low Earth orbit. On Friday, the agency released its final Request for Proposals inviting industry to submit plans for the next generation of commercial space stations. “In alignment with the President’s National […]",
-      "url": "https://www.nasa.gov/news-release/nasa-seeks-us-industry-plans-for-commercial-space-stations/"
-    },
-    {
       "category": "Biblical Studies",
       "title": "Taylor Swift’s Babylon",
       "source": "Biblical Archaeology Society",
@@ -171,14 +163,6 @@
       "url": "https://openai.com/index/asana-browser-agent"
     },
     {
-      "category": "Theology",
-      "title": "One Nation Under God? Responding to Christian Nationalism",
-      "source": "The Gospel Coalition",
-      "date": "Fri, 09 Oct 2026 04:03:00 +0000",
-      "summary": "Not everyone means the same thing when they talk about Christian nationalism.",
-      "url": "https://www.thegospelcoalition.org/podcasts/tgc-podcast/one-nation-under-god/"
-    },
-    {
       "category": "Science",
       "title": "NASA astronauts splash down after 100 million miles in space",
       "source": "All Top News -- ScienceDaily",
@@ -209,14 +193,6 @@
       "date": "Thu, 08 Oct 2026 16:00:00 GMT",
       "summary": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
       "url": "https://openai.com/index/oracle"
-    },
-    {
-      "category": "Science",
-      "title": "NASA is searching for hidden caves to build its first Moon base",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Thu, 08 Oct 2026 08:19:20 EDT",
-      "summary": "NASA is preparing for humanity’s first Moon base with three investigations that will hunt for underground shelters, uncover hidden ice, and track dangerous conditions on the lunar surface. The findings could reveal how astronauts can survive and thrive on the Moon while laying the groundwork for future journeys to Mars.",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261008005247.htm"
     },
     {
       "category": "Biblical Studies",
