@@ -1,54 +1,62 @@
 {
-  "lastUpdated": "2026-10-10T19:39:13.982Z",
-  "articleCount": 33,
+  "lastUpdated": "2026-10-11T00:36:18.815Z",
+  "articleCount": 36,
   "articles": [
     {
       "category": "Science",
-      "title": "Adult acne is real, but there are ways to treat it. Here's what to know",
+      "title": "Zimbabwe's dinosaurs were different from South Africa's: New species offers clues",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Sat, 10 Oct 2026 15:20:01 EDT",
-      "summary": "As a teenager, Gillian Maegan Montalbo's pimples weren't too bad—just a few bumps on her forehead and nose.",
-      "url": "https://phys.org/news/2026-10-adult-acne-real-ways.html"
+      "date": "Sat, 10 Oct 2026 20:30:01 EDT",
+      "summary": "Africa boasts up to 25% of Earth's animal and plant species. This diversity is driven by varied habitats: harsh deserts, vast grasslands, dense forests, towering mountains, lush coastlines and teeming seas. It is also due to deep evolutionary roots, as many animal and plant groups originated here in the distant past. Paleontologists have been excavating this material for nearly two centuries.",
+      "url": "https://phys.org/news/2026-10-zimbabwe-dinosaurs-south-africa-species.html"
+    },
+    {
+      "category": "AI",
+      "title": "Build your own decision model",
+      "source": "Hacker News: Front Page",
+      "date": "Sat, 10 Oct 2026 22:50:10 +0000",
+      "summary": "Article URL: https://nishtahir.com/build-your-own-decision-model/\nComments URL: https://news.ycombinator.com/item?id=50037949\nPoints: 62\n# Comments: 8",
+      "url": "https://nishtahir.com/build-your-own-decision-model/"
+    },
+    {
+      "category": "Science",
+      "title": "Ultraviolet laser pulses engineer diamond defects selectively, leaving quantum qubits intact",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sat, 10 Oct 2026 17:20:01 EDT",
+      "summary": "When we think about a diamond, we often think about a material whose value comes from its perfection. In my research, however, I am interested in something almost opposite: the tiny imperfections inside diamonds. These atomic-scale defects can give diamonds new optical and electronic properties, and some of them can serve as quantum systems. The challenge is learning how to control these defects without disturbing the others.",
+      "url": "https://phys.org/news/2026-10-ultraviolet-laser-pulses-diamond-defects.html"
+    },
+    {
+      "category": "Science",
+      "title": "How to meal prep safely: A microbiologist's step‑by‑step guide",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sat, 10 Oct 2026 17:00:02 EDT",
+      "summary": "Meal prepping is a great way to save money, spend less time in the kitchen and stick to a meal plan. But while cooking meals for the week ahead may be convenient, there can be real risks associated with eating bulk-cooked meals.",
+      "url": "https://phys.org/news/2026-10-meal-prep-safely-microbiologist-stepbystep.html"
+    },
+    {
+      "category": "AI",
+      "title": "A city-building game in which the city would prefer you didn't",
+      "source": "Hacker News: Front Page",
+      "date": "Sat, 10 Oct 2026 20:31:50 +0000",
+      "summary": "Article URL: https://housing.over.pizza/\nComments URL: https://news.ycombinator.com/item?id=50036864\nPoints: 142\n# Comments: 49",
+      "url": "https://housing.over.pizza/"
     },
     {
       "category": "AI",
       "title": "Takeshi's Castle",
       "source": "Hacker News: Front Page",
       "date": "Sat, 10 Oct 2026 19:12:55 +0000",
-      "summary": "Article URL: https://en.wikipedia.org/wiki/Takeshi%27s_Castle\nComments URL: https://news.ycombinator.com/item?id=50036119\nPoints: 9\n# Comments: 4",
+      "summary": "Article URL: https://en.wikipedia.org/wiki/Takeshi%27s_Castle\nComments URL: https://news.ycombinator.com/item?id=50036119\nPoints: 93\n# Comments: 33",
       "url": "https://en.wikipedia.org/wiki/Takeshi%27s_Castle"
     },
     {
-      "category": "AI",
-      "title": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
-      "source": "Hacker News: Front Page",
-      "date": "Sat, 10 Oct 2026 18:48:35 +0000",
-      "summary": "Article URL: https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a\nComments URL: https://news.ycombinator.com/item?id=50035886\nPoints: 22\n# Comments: 10",
-      "url": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a"
-    },
-    {
-      "category": "AI",
-      "title": "Vibe coded browser ports of Halo, The Simpsons: Hit And Run, GTA work well",
-      "source": "Hacker News: Front Page",
-      "date": "Sat, 10 Oct 2026 18:11:58 +0000",
-      "summary": "Article URL: https://kotaku.com/we-might-be-cooked-as-these-vibe-coded-web-browser-ports-of-halo-the-simpsons-hit-and-run-and-gta-vice-city-seem-to-work-perfectly-2000743300\nComments URL: https://news.ycombinator.com/item?id=50035561\nPoints: 31\n# Comments: 22",
-      "url": "https://kotaku.com/we-might-be-cooked-as-these-vibe-coded-web-browser-ports-of-halo-the-simpsons-hit-and-run-and-gta-vice-city-seem-to-work-perfectly-2000743300"
-    },
-    {
-      "category": "Science",
-      "title": "Nearly 300,000 at risk from Himalayan floods, as flood zone building accelerates",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sat, 10 Oct 2026 14:00:06 EDT",
-      "summary": "Nearly 300,000 people may live in areas at risk of flooding in the Nepalese, Indian and Chinese areas of the Himalayas. The results, from a study published in Scientific Reports, also indicate that the total area covered by buildings within potential flood zones increased by approximately 45% between 2016 and 2023.",
-      "url": "https://phys.org/news/2026-10-himalayan-zone.html"
-    },
-    {
-      "category": "Science",
-      "title": "New stability rules distinguish quantum phases of matter that an older method wrongly groups together",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sat, 10 Oct 2026 13:00:02 EDT",
-      "summary": "Most of us recognize basic phases of matter and their properties: solids maintain their shape, liquids flow freely with constant volume, and gases expand to fill their container. Quantum phases, on the other hand, are much harder to categorize, overturning traditional notions of what a phase even is and forcing physicists to rethink their definitions.",
-      "url": "https://phys.org/news/2026-10-stability-distinguish-quantum-phases-older.html"
+      "category": "Space",
+      "title": "NASA to Conduct Flyover, Engage NFL Fans at MetLife Stadium",
+      "source": "NASA",
+      "date": "Sat, 10 Oct 2026 14:18:59 +0000",
+      "summary": "As part of the agency’s Inspiration Tour flyover, NASA Administrator Jared Isaacman will pilot one of three F-5 fighter jets to kick off the New York Jets vs. Cleveland Browns game in East Rutherford, New Jersey, on Sunday, Oct. 11. NASA team members will engage with fans at the agency’s Experience Zone, located at the […]",
+      "url": "https://www.nasa.gov/news-release/nasa-to-conduct-flyover-engage-nfl-fans-at-metlife-stadium/"
     },
     {
       "category": "AI",
@@ -73,6 +81,14 @@
       "date": "Sat, 10 Oct 2026 09:00:00 +0000",
       "summary": "The written word has been revolutionary in preserving ideas from the past, and transmitting new ones in the present. But does it favor tradition or change?",
       "url": "https://www.livescience.com/technology/communications/does-written-language-speed-up-or-slow-down-cultural-change"
+    },
+    {
+      "category": "Space",
+      "title": "APOD: 2026 October 10 – Lunar Farside",
+      "source": "NASA",
+      "date": "Sat, 10 Oct 2026 04:05:00 +0000",
+      "summary": "APOD Science APOD APOD: 2026 October 10… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Lunar Farside Explanation: Tidally […]",
+      "url": "https://science.nasa.gov/image-article/apod-2026-october-10-lunar-farside/"
     },
     {
       "category": "Theology",
@@ -113,6 +129,14 @@
       "date": "Fri, 09 Oct 2026 19:10:00 +0000",
       "summary": "Flu tests are coming back positive at higher rates than is typical for early fall in several Western states, data suggests.",
       "url": "https://www.livescience.com/health/flu/october-is-the-ideal-time-to-get-vaccinated-flu-season-is-kicking-off-early-experts-say"
+    },
+    {
+      "category": "Space",
+      "title": "NASA Seeks US Industry Plans for Commercial Space Stations",
+      "source": "NASA",
+      "date": "Fri, 09 Oct 2026 18:11:44 +0000",
+      "summary": "NASA is advancing American leadership in space by taking the next step toward a future where commercial space stations lead the way in low Earth orbit. On Friday, the agency released its final Request for Proposals inviting industry to submit plans for the next generation of commercial space stations. “In alignment with the President’s National […]",
+      "url": "https://www.nasa.gov/news-release/nasa-seeks-us-industry-plans-for-commercial-space-stations/"
     },
     {
       "category": "Biblical Studies",
