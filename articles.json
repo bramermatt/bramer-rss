@@ -1,54 +1,70 @@
 {
-  "lastUpdated": "2026-10-11T16:04:49.798Z",
+  "lastUpdated": "2026-10-12T00:52:42.114Z",
   "articleCount": 33,
   "articles": [
     {
       "category": "Science",
-      "title": "Jurassic fossil reveals ancient origins of how mammals drink milk",
+      "title": "Wildlife populations have declined 73% since 1970—but many of the world's animals still aren't being counted",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Sun, 11 Oct 2026 12:00:04 EDT",
-      "summary": "An international team of researchers has uncovered new evidence illuminating the evolutionary origins of one of the defining features of mammals: the ability to suckle and consume milk during infancy. Their findings, published in Nature, suggest that key anatomical structures required for mammalian suckling, swallowing and breastfeeding behaviors evolved nearly 165 million years ago, long before the appearance of modern mammals.",
-      "url": "https://phys.org/news/2026-10-jurassic-fossil-reveals-ancient-mammals.html"
+      "date": "Sun, 11 Oct 2026 20:30:01 EDT",
+      "summary": "Wildlife populations around the world have declined by an average of 73% since 1970. That's according to the WWF's new 2026 Living Planet Index—a major estimate, updated every two years, of the changing state of nature. This does not mean that 73% of the world's animals have disappeared. Rather, it is the average decline in the size of wildlife populations being monitored.",
+      "url": "https://phys.org/news/2026-10-wildlife-populations-declined-world-animals.html"
+    },
+    {
+      "category": "AI",
+      "title": "Local Indexing to reduce tool calling and token usage",
+      "source": "Hacker News: Front Page",
+      "date": "Mon, 12 Oct 2026 00:03:53 +0000",
+      "summary": "Article URL: https://tedhaley.ca/pensieve/\nComments URL: https://news.ycombinator.com/item?id=50049508\nPoints: 6\n# Comments: 0",
+      "url": "https://tedhaley.ca/pensieve/"
+    },
+    {
+      "category": "AI",
+      "title": "Whatever became of holography? (2011)",
+      "source": "Hacker News: Front Page",
+      "date": "Sun, 11 Oct 2026 23:50:34 +0000",
+      "summary": "Article URL: https://www.americanscientist.org/article/whatever-became-of-holography\nComments URL: https://news.ycombinator.com/item?id=50049411\nPoints: 38\n# Comments: 8",
+      "url": "https://www.americanscientist.org/article/whatever-became-of-holography"
+    },
+    {
+      "category": "AI",
+      "title": "Show HN: Plimsoll, a self-hosted sandbox for code your AI agent writes",
+      "source": "Hacker News: Front Page",
+      "date": "Sun, 11 Oct 2026 23:47:59 +0000",
+      "summary": "Article URL: https://github.com/plimsollmark/plimsoll\nComments URL: https://news.ycombinator.com/item?id=50049388\nPoints: 5\n# Comments: 1",
+      "url": "https://github.com/plimsollmark/plimsoll"
     },
     {
       "category": "Science",
-      "title": "Hurricane Simon strengthens as it nears western Mexico",
+      "title": "'DNA Typewriter' records cells' history in developing mouse embryo",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Sun, 11 Oct 2026 12:00:01 EDT",
-      "summary": "Hurricane Simon strengthened into a powerful Category 4 storm and was expected to make landfall or skirt the coast of west-central Mexico on Sunday, according to the U.S. National Hurricane Center.",
-      "url": "https://phys.org/news/2026-10-hurricane-simon-nears-western-mexico.html"
+      "date": "Sun, 11 Oct 2026 18:20:01 EDT",
+      "summary": "Scientists have succeeded in reconstructing the family tree of cells in a developing mouse embryo. They recorded cells' relationships, starting when the fertilized egg first split in two and ending after the body and its organs took shape. That period lasted 13.5 days. (Full gestation in mice is 19 to 21 days.)",
+      "url": "https://phys.org/news/2026-10-dna-typewriter-cells-history-mouse.html"
     },
     {
       "category": "Science",
-      "title": "South Korea completes trial of Arctic shipping route",
+      "title": "Quantum 'birthmarks' hold lasting traces of a system's past",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Sun, 11 Oct 2026 11:40:02 EDT",
-      "summary": "A South Korean container ship returned on Sunday from a trial voyage through the Arctic, testing an alternative route opened by melting sea ice as conflict in the Middle East disrupts global shipping.",
-      "url": "https://phys.org/news/2026-10-south-korea-trial-arctic-shipping.html"
+      "date": "Sun, 11 Oct 2026 14:20:01 EDT",
+      "summary": "Some classical physical systems can explore many configurations over time until their long-term behavior no longer reveals their starting conditions. The sampling of available configurations according to the appropriate statistical distribution is a property called ergodicity.",
+      "url": "https://phys.org/news/2026-10-quantum-birthmarks.html"
     },
     {
       "category": "AI",
-      "title": "Internal files add to evidence of an ExxonMobil climate deception campaign",
-      "source": "Hacker News: Front Page",
-      "date": "Sun, 11 Oct 2026 14:28:39 +0000",
-      "summary": "Article URL: https://insideclimatenews.org/news/07102026/exxonmobil-climate-deception-new-evidence/\nComments URL: https://news.ycombinator.com/item?id=50043682\nPoints: 204\n# Comments: 101",
-      "url": "https://insideclimatenews.org/news/07102026/exxonmobil-climate-deception-new-evidence/"
+      "title": "Review: 4-hour Musk documentary feels like two different films",
+      "source": "Ars Technica - All content",
+      "date": "Sun, 11 Oct 2026 18:10:54 +0000",
+      "summary": "Alex Gibney's provocative film is compelling but overlong, and there's not much new here for Ars readers.",
+      "url": "https://arstechnica.com/culture/2026/10/review-4-hour-musk-documentary-feels-like-two-different-films/"
     },
     {
       "category": "AI",
-      "title": "Why Texas Is Making Data Centers Wait",
-      "source": "Hacker News: Front Page",
-      "date": "Sun, 11 Oct 2026 14:21:31 +0000",
-      "summary": "Article URL: https://a16z.com/why-texas-is-making-data-centers-wait/\nComments URL: https://news.ycombinator.com/item?id=50043603\nPoints: 3\n# Comments: 1",
-      "url": "https://a16z.com/why-texas-is-making-data-centers-wait/"
-    },
-    {
-      "category": "AI",
-      "title": "Open-Source Microsoft Office Excel, PowerPoint, and Word Replications",
-      "source": "Hacker News: Front Page",
-      "date": "Sun, 11 Oct 2026 13:28:03 +0000",
-      "summary": "Article URL: https://www.tomshardware.com/software/microsoft-office/creator-of-free-adobe-clones-unveils-open-source-microsoft-office-excel-powerpoint-and-word-replications-autodesk-tools-and-other-subscription-based-services-may-come-next\nComments URL: https://news.ycombinator.com/item?id=50043110\nPoints: 34\n# Comments: 26",
-      "url": "https://www.tomshardware.com/software/microsoft-office/creator-of-free-adobe-clones-unveils-open-source-microsoft-office-excel-powerpoint-and-word-replications-autodesk-tools-and-other-subscription-based-services-may-come-next"
+      "title": "Prime Video unveils Blade Runner 2099 full trailer at NYCC",
+      "source": "Ars Technica - All content",
+      "date": "Sun, 11 Oct 2026 14:50:24 +0000",
+      "summary": "Also: new trailer for Godzilla Minus Zero, the sequel to Takashi Yamazaki’s kaiju epic Godzilla Minus One",
+      "url": "https://arstechnica.com/culture/2026/10/prime-video-unveils-blade-runner-2099-full-trailer-at-nycc/"
     },
     {
       "category": "Science",
@@ -75,6 +91,14 @@
       "url": "https://www.livescience.com/archaeology/romans/how-did-roman-aqueducts-get-water-to-go-uphill"
     },
     {
+      "category": "Space",
+      "title": "APOD: 2026 October 11 – Ice Fishing for Cosmic Neutrinos",
+      "source": "NASA",
+      "date": "Sun, 11 Oct 2026 04:05:00 +0000",
+      "summary": "APOD Science APOD APOD: 2026 October 11 – Ice… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Ice Fishing […]",
+      "url": "https://science.nasa.gov/image-article/apod-2026-october-11-ice-fishing-for-cosmic-neutrinos/"
+    },
+    {
       "category": "Theology",
       "title": "Christian, Be a Gardener",
       "source": "The Gospel Coalition",
@@ -91,12 +115,28 @@
       "url": "https://www.sciencedaily.com/releases/2026/10/261008102701.htm"
     },
     {
+      "category": "Space",
+      "title": "NASA to Conduct Flyover, Engage NFL Fans at MetLife Stadium",
+      "source": "NASA",
+      "date": "Sat, 10 Oct 2026 14:18:59 +0000",
+      "summary": "As part of the agency’s Inspiration Tour flyover, NASA Administrator Jared Isaacman will pilot one of three F-5 fighter jets to kick off the New York Jets vs. Cleveland Browns game in East Rutherford, New Jersey, on Sunday, Oct. 11. NASA team members will engage with fans at the agency’s Experience Zone, located at the […]",
+      "url": "https://www.nasa.gov/news-release/nasa-to-conduct-flyover-engage-nfl-fans-at-metlife-stadium/"
+    },
+    {
       "category": "AI",
       "title": "One with the world? A new look at brains transformed by psychedelics.",
       "source": "Ars Technica - All content",
       "date": "Sat, 10 Oct 2026 11:15:35 +0000",
       "summary": "Participants meditated inside an MRI tube, with and without psilocybin.",
       "url": "https://arstechnica.com/science/2026/10/the-psychedelic-brain-looks-like-chaos-underneath-theres-order/"
+    },
+    {
+      "category": "Space",
+      "title": "APOD: 2026 October 10 – Lunar Farside",
+      "source": "NASA",
+      "date": "Sat, 10 Oct 2026 04:05:00 +0000",
+      "summary": "APOD Science APOD APOD: 2026 October 10… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Lunar Farside Explanation: Tidally […]",
+      "url": "https://science.nasa.gov/image-article/apod-2026-october-10-lunar-farside/"
     },
     {
       "category": "Theology",
@@ -113,22 +153,6 @@
       "date": "Sat, 10 Oct 2026 04:00:00 +0000",
       "summary": "A theology of enough is the foundation of contentment.",
       "url": "https://www.thegospelcoalition.org/article/world-more-theology-enough/"
-    },
-    {
-      "category": "AI",
-      "title": "Neanderthal wooden tools from Spain found preserved in stone",
-      "source": "Ars Technica - All content",
-      "date": "Fri, 09 Oct 2026 22:34:03 +0000",
-      "summary": "Dissolved rock precipitated around the tools, which then decayed.",
-      "url": "https://arstechnica.com/science/2026/10/neanderthal-wooden-tools-from-spain-found-preserved-in-stone/"
-    },
-    {
-      "category": "AI",
-      "title": "Ukraine’s drones knock out AI data center belonging to \"Russia’s Google\"",
-      "source": "Ars Technica - All content",
-      "date": "Fri, 09 Oct 2026 22:04:07 +0000",
-      "summary": "One damaged data center has supercomputers used for training Yandex’s AI model.",
-      "url": "https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google/"
     },
     {
       "category": "Biblical Studies",
@@ -179,14 +203,6 @@
       "url": "https://www.sciencedaily.com/releases/2026/10/261008102704.htm"
     },
     {
-      "category": "Theology",
-      "title": "The Reason for Church: A Review",
-      "source": "9Marks",
-      "date": "Thu, 08 Oct 2026 21:49:22 +0000",
-      "summary": "Rescue us from ourselves? No. Jesus died to rescue us from God’s wrath. \nThe post The Reason for Church: A Review appeared first on 9Marks.",
-      "url": "https://www.9marks.org/review/the-reason-for-church-a-review/?utm_source=rss&utm_medium=rss&utm_campaign=the-reason-for-church-a-review"
-    },
-    {
       "category": "AI",
       "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
       "source": "OpenAI News",
@@ -211,14 +227,6 @@
       "url": "https://allthingsliberty.com/2026/10/trade-land-speculation-william-kerin-constable-in-the-age-of-revolution/"
     },
     {
-      "category": "Theology",
-      "title": "Aiming for Conversion in Our Preaching",
-      "source": "9Marks",
-      "date": "Tue, 06 Oct 2026 15:42:44 +0000",
-      "summary": "Worse than offending unbelievers is treating them like they are believers. Instead, we must aim to help sinners see their sin and confess their need for Christ. This spiritual clarity is not cruel, but kind.\nThe post Aiming for Conversion in Our Preaching appeared first on 9Marks.",
-      "url": "https://www.9marks.org/article/aiming-for-conversion-in-our-preaching/?utm_source=rss&utm_medium=rss&utm_campaign=aiming-for-conversion-in-our-preaching"
-    },
-    {
       "category": "History",
       "title": "David Steele’s Macabre Medal",
       "source": "Journal of the American Revolution",
@@ -233,14 +241,6 @@
       "date": "Mon, 05 Oct 2026 09:00:21 +0000",
       "summary": "BOOK REVIEW: The Loyalist Experience and Aftermath in Revolutionary Philadelphia by Kimberly Nath (Brookline, 2026) $32.95 hardcover. In an 1813 letter to his former congressional colleague Thomas McKean, John Adams provided his own conjecture as to what percentage of the American population actively supported the American Revolution. Clarifying McKean’s own inexact claim that “the great […]\nThe post The Loyalist Experience and Aftermath in Revolutionary Philadelphia appeared first on Journal of the American Revolution.",
       "url": "https://allthingsliberty.com/2026/10/the-loyalist-experience-and-aftermath-in-revolutionary-philadelphia/"
-    },
-    {
-      "category": "Theology",
-      "title": "Eight Enemies of Pastoral Friendship",
-      "source": "9Marks",
-      "date": "Tue, 29 Sep 2026 20:54:47 +0000",
-      "summary": "Biblical friendship is not a luxury for pastors. It is one of God's ordinary means of sustaining us for long-term ministry.\nThe post Eight Enemies of Pastoral Friendship appeared first on 9Marks.",
-      "url": "https://www.9marks.org/article/eight-enemies-of-pastoral-friendship/?utm_source=rss&utm_medium=rss&utm_campaign=eight-enemies-of-pastoral-friendship"
     },
     {
       "category": "History",
