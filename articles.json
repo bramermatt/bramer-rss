@@ -1,54 +1,94 @@
 {
-  "lastUpdated": "2026-10-12T19:32:19.570Z",
+  "lastUpdated": "2026-10-13T02:47:48.167Z",
   "articleCount": 39,
   "articles": [
     {
       "category": "Science",
-      "title": "What 2024's record-breaking rainfall says about the next El Niño",
+      "title": "Snakebites are a far bigger problem than we knew: new study maps the hidden dangers",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Mon, 12 Oct 2026 15:20:17 EDT",
-      "summary": "Though strong El Niños have occurred only four times in as many decades, 2024's intense El Niño is already getting a sequel. New UCLA research shows that 2024 broke the record for extreme rainfall, with 40% of that increase tied to global warming—and conditions are ripe for a repeat.",
-      "url": "https://phys.org/news/2026-10-rainfall-el-nio.html"
+      "date": "Mon, 12 Oct 2026 21:40:02 EDT",
+      "summary": "Not every snakebite injects venom. When venom enters the body, however, it can cause snake envenoming. This is a potentially fatal condition that mostly affects poor rural communities across tropical and subtropical regions where people don't have easy access to medical care.",
+      "url": "https://phys.org/news/2026-10-snakebites-bigger-problem-knew-hidden.html"
     },
     {
       "category": "Science",
-      "title": "Primordial helium further confirms our understanding of the Big Bang",
+      "title": "Stabilizing a simple amino acid opens a path to biodegradable sensors",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Mon, 12 Oct 2026 15:20:07 EDT",
-      "summary": "In the early moments of the big bang, two elements were forged: hydrogen and helium. Technically, the tiniest traces of light elements such as lithium were produced as well, but nothing of consequence. The early universe was about three parts hydrogen to one part helium. All the heavier elements, from the oxygen in your lungs to the iron in your blood, were created through astrophysical processes—fused in stars, formed in supernovae or scattered by the collisions of neutron stars. Even in the present cosmos, heavier elements are so cosmically rare that astronomers group them all as metals.",
-      "url": "https://phys.org/news/2026-10-primordial-helium-big.html"
+      "date": "Mon, 12 Oct 2026 19:40:01 EDT",
+      "summary": "The humble amino acid glycine—the simplest of all amino acids—is everywhere. The human body produces it, and it helps make up our skin, bones and ligaments. It's found in meats like beef and has even been discovered in comets returned from outer space.",
+      "url": "https://phys.org/news/2026-10-stabilizing-simple-amino-acid-path.html"
     },
     {
       "category": "AI",
-      "title": "Introducing OpenFatigue",
+      "title": "Blood cells from 80-year-old donor become stem cells with molecular age under 20",
       "source": "Hacker News: Front Page",
-      "date": "Mon, 12 Oct 2026 19:08:21 +0000",
-      "summary": "Article URL: https://openfatigue.ai/\nComments URL: https://news.ycombinator.com/item?id=50061278\nPoints: 7\n# Comments: 0",
-      "url": "https://openfatigue.ai/"
+      "date": "Mon, 12 Oct 2026 23:34:22 +0000",
+      "summary": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13634082/\nComments URL: https://news.ycombinator.com/item?id=50064536\nPoints: 103\n# Comments: 69",
+      "url": "https://doi.org/10.1111/acel.70751"
+    },
+    {
+      "category": "AI",
+      "title": "Show HN: An experimental pattern-first DAW that supports MCP",
+      "source": "Hacker News: Front Page",
+      "date": "Mon, 12 Oct 2026 23:21:12 +0000",
+      "summary": "Article URL: https://github.com/andrewfader/blokkily\nComments URL: https://news.ycombinator.com/item?id=50064438\nPoints: 19\n# Comments: 8",
+      "url": "https://github.com/andrewfader/blokkily"
     },
     {
       "category": "Science",
-      "title": "Escape rooms give health care students a safe place to get things wrong",
+      "title": "Gravity and quantum information linked through a derivation of Einstein's equations",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Mon, 12 Oct 2026 15:00:17 EDT",
-      "summary": "The buzzer goes off. Three occupational therapy students are convinced they have worked out what should happen to their patient next. They are wrong.",
-      "url": "https://phys.org/news/2026-10-rooms-health-students-safe-wrong.html"
+      "date": "Mon, 12 Oct 2026 19:20:01 EDT",
+      "summary": "Recent research shows that gravity and quantum information are deeply connected and that the shape of spacetime can be traced back to the way information is stored in quantum fields.",
+      "url": "https://phys.org/news/2026-10-gravity-quantum-linked-derivation-einstein.html"
     },
     {
       "category": "AI",
-      "title": "Codex CLI installs a persistent, self-updating background daemon by default",
+      "title": "I turned my unused Kindle into a photo frame with GPT-6 Astra",
       "source": "Hacker News: Front Page",
-      "date": "Mon, 12 Oct 2026 18:29:04 +0000",
-      "summary": "Article URL: https://github.com/openai/codex/issues/48195\nComments URL: https://news.ycombinator.com/item?id=50060694\nPoints: 121\n# Comments: 61",
-      "url": "https://github.com/openai/codex/issues/48195"
+      "date": "Mon, 12 Oct 2026 23:07:25 +0000",
+      "summary": "Article URL: https://nirajrajgor.com/blog/kindle-photo-frame-with-ai\nComments URL: https://news.ycombinator.com/item?id=50064318\nPoints: 125\n# Comments: 79",
+      "url": "https://nirajrajgor.com/blog/kindle-photo-frame-with-ai"
     },
     {
       "category": "AI",
-      "title": "Publishers Killed the Paperback, Then Blamed Readers",
-      "source": "Hacker News: Front Page",
-      "date": "Mon, 12 Oct 2026 18:27:26 +0000",
-      "summary": "Article URL: https://jacobin.com/2026/10/books-publishing-reading-mass-market-paperback\nComments URL: https://news.ycombinator.com/item?id=50060674\nPoints: 26\n# Comments: 10",
-      "url": "https://jacobin.com/2026/10/books-publishing-reading-mass-market-paperback"
+      "title": "39-year-old unvaccinated woman becomes 6th measles death in Pennsylvania",
+      "source": "Ars Technica - All content",
+      "date": "Mon, 12 Oct 2026 21:54:35 +0000",
+      "summary": "As of Friday, state health officials reported 1,136 cases across 41 counties.",
+      "url": "https://arstechnica.com/health/2026/10/39-year-old-unvaccinated-woman-becomes-6th-measles-death-in-pennsylvania/"
+    },
+    {
+      "category": "Space",
+      "title": " SpaceX launching 6,300 pounds of cargo to the ISS on Oct. 13: Watch it live ",
+      "source": " Latest from Space.com ",
+      "date": "Mon, 12 Oct 2026 21:00:00 +0000",
+      "summary": "SpaceX will launch more than 3 tons of cargo toward the International Space Station on Tuesday morning (Oct. 13), and you can watch the action live.",
+      "url": "https://www.space.com/space-exploration/international-space-station/spacex-crs-35-cargo-launch-international-space-station"
+    },
+    {
+      "category": "AI",
+      "title": "Epic Games reportedly pivoting to \"AI first\" game development model",
+      "source": "Ars Technica - All content",
+      "date": "Mon, 12 Oct 2026 20:59:50 +0000",
+      "summary": "\"No more hand-written code\" or AI-free art for delayed Marvel/Star Wars shooter.",
+      "url": "https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration/"
+    },
+    {
+      "category": "AI",
+      "title": "After a 10-year redemption arc, No Man's Sky is coming to the iPhone and iPad",
+      "source": "Ars Technica - All content",
+      "date": "Mon, 12 Oct 2026 20:26:14 +0000",
+      "summary": "You can get a universe in your pocket if you have an iPhone 11 or later.",
+      "url": "https://arstechnica.com/gaming/2026/10/after-a-10-year-redemption-arc-no-mans-sky-is-coming-to-the-iphone-and-ipad/"
+    },
+    {
+      "category": "Space",
+      "title": " Astronomers witness supermassive black hole gorge on a cosmic meal before 'burping' radio jets 300 days later ",
+      "source": " Latest from Space.com ",
+      "date": "Mon, 12 Oct 2026 20:00:00 +0000",
+      "summary": "Using the NASA spacecraft Swift, astronomers observed a supermassive black hole burping radio jets 300 days after a heavy cosmic meal.",
+      "url": "https://www.space.com/astronomy/black-holes/nasa-spacecraft-sees-supermassive-black-hole-gorge-on-a-cosmic-meal-before-burping-radio-jets-300-days-later"
     },
     {
       "category": "Space",
@@ -57,14 +97,6 @@
       "date": "Mon, 12 Oct 2026 18:00:00 +0000",
       "summary": "NASA is asking for ideas to stop static electricity from zapping astronauts or critical hardware during moon missions.",
       "url": "https://www.space.com/astronomy/moon/the-moon-could-turn-astronauts-into-walking-high-voltage-capacitors-that-accidentally-zap-spacecraft"
-    },
-    {
-      "category": "AI",
-      "title": "Russia was not ready for the data center war it started with Ukraine",
-      "source": "Ars Technica - All content",
-      "date": "Mon, 12 Oct 2026 17:52:36 +0000",
-      "summary": "Russian bloggers warn Russia’s hyper-centralized digital economy is vulnerable.",
-      "url": "https://arstechnica.com/gadgets/2026/10/russia-was-not-ready-for-the-data-center-war-it-started-with-ukraine/"
     },
     {
       "category": "Space",
@@ -81,38 +113,6 @@
       "date": "Mon, 12 Oct 2026 17:08:26 +0000",
       "summary": "Hacking incidents by AI agents are creating a legal minefield. The developers and deployers of rogue bots could be held liable.",
       "url": "https://www.livescience.com/technology/artificial-intelligence/autonomy-always-begins-with-something-a-human-hands-it-whos-responsible-when-an-ai-agent-goes-rogue"
-    },
-    {
-      "category": "AI",
-      "title": "Long-lost horror gaming cult classic P.T. gets a much-needed PC port",
-      "source": "Ars Technica - All content",
-      "date": "Mon, 12 Oct 2026 16:01:08 +0000",
-      "summary": "Kojima's discontinued \"playable trailer\" is no longer stuck on a few aging PS4 hard drives.",
-      "url": "https://arstechnica.com/gaming/2026/10/long-lost-horror-gaming-cult-classic-p-t-gets-a-much-needed-pc-port/"
-    },
-    {
-      "category": "Space",
-      "title": " The 'Halloween Fireballs' are coming. Here's what to expect from the Taurids this year ",
-      "source": " Latest from Space.com ",
-      "date": "Mon, 12 Oct 2026 16:00:00 +0000",
-      "summary": "The Southern and Northern Taurid meteor showers will produce occasional bright, slow-moving meteors worldwide during October and November, with moon-free peaks in 2026.",
-      "url": "https://www.space.com/stargazing/meteor-showers/the-halloween-fireballs-are-coming-heres-what-to-expect-from-the-taurids-this-year"
-    },
-    {
-      "category": "AI",
-      "title": "F1 in Singapore: There's a new fastest car now",
-      "source": "Ars Technica - All content",
-      "date": "Mon, 12 Oct 2026 14:43:14 +0000",
-      "summary": "Also, F1’s final sprint saw our first real wet racing of the year.",
-      "url": "https://arstechnica.com/cars/2026/10/f1-in-singapore-theres-a-new-fastest-car-now/"
-    },
-    {
-      "category": "Space",
-      "title": " On this day in space! Oct. 12, 1964: The Soviet Union launches Voskhod 1, the 1st multi-person cosmonaut crew, into space ",
-      "source": " Latest from Space.com ",
-      "date": "Mon, 12 Oct 2026 14:29:00 +0000",
-      "summary": "On Oct. 12, 1964, the Soviet Union launched Voskhod 1, a 24-hour crewed mission that achieved several \"firsts\" for human spaceflight. Here's why it mattered.",
-      "url": "https://www.space.com/space-exploration/on-this-day-in-space-october-12-2026"
     },
     {
       "category": "History",
@@ -204,19 +204,19 @@
     },
     {
       "category": "Biblical Studies",
-      "title": "Taylor Swift’s Babylon",
+      "title": "The Emmaus Trail",
       "source": "Biblical Archaeology Society",
-      "date": "Fri, 09 Oct 2026 10:45:10 +0000",
-      "summary": "Taylor Swift released a new song called “Babylon” on her album The Life of a Showgirl: The Encore. This puts what is arguably the most […]\nThe post Taylor Swift’s Babylon appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-israel/taylor-swifts-babylon/"
+      "date": "Sun, 11 Oct 2026 11:00:58 +0000",
+      "summary": "In this post, Henri Gourinard, master tour guide and lecturer at the Polis Institute in Jerusalem, describes the competing views on the location of Emmaus, […]\nThe post The Emmaus Trail appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/daily/biblical-sites-places/the-emmaus-trail/"
     },
     {
       "category": "Biblical Studies",
-      "title": "Advancing Marine Archaeology",
+      "title": "The Destruction of Pompeii—God’s Revenge?",
       "source": "Biblical Archaeology Society",
-      "date": "Fri, 09 Oct 2026 10:00:13 +0000",
-      "summary": "The oceans and seas are the last great frontier for Near Eastern archaeology. Year after year, the Mediterranean Sea yields rich new data from prehistory […]\nThe post Advancing Marine Archaeology appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/daily/archaeology-today/arch-tech/advancing-marine-archaeology/"
+      "date": "Sat, 10 Oct 2026 11:00:51 +0000",
+      "summary": "The eruption of Mt. Vesuvius destroyed the opulent vacation destinations of Roman elites in August 79 C.E.—almost exactly nine years after Roman troops destroyed the Temple in Jerusalem. Did this seem like more than mere coincidence to the ancients?\nThe post The Destruction of Pompeii—God’s Revenge? appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-near-eastern-world/the-destruction-of-pompeii-gods-revenge/"
     },
     {
       "category": "AI",
