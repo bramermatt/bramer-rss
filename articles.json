@@ -1,46 +1,150 @@
 {
-  "lastUpdated": "2026-10-13T17:16:36.724Z",
+  "lastUpdated": "2026-10-14T00:47:17.829Z",
   "articleCount": 39,
   "articles": [
     {
-      "category": "Space",
-      "title": " SpaceX rocket launch creates incredible 'space jellyfish' visible throughout US East Coast (photos) ",
-      "source": " Latest from Space.com ",
-      "date": "Tue, 13 Oct 2026 17:02:48 +0000",
-      "summary": "The SpaceX cargo launch to the International Space Station on Tuesday morning (Oct. 13) created a dazzling display seen up and down the US East Coast.",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-rocket-launch-creates-incredible-space-jellyfish-visible-throughout-us-east-coast-photos"
+      "category": "Science",
+      "title": "Simple cleaning steps could curb deadly fungal disease risks for Australia's wild reptiles",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Tue, 13 Oct 2026 20:20:01 EDT",
+      "summary": "With spring underway and the weather warming, reptiles are on the move in suburbs, parks and scrubland across Australia. Snake catchers and wildlife caregivers are responding to calls for help, and reptile enthusiasts—known as \"herpers\"—are heading outdoors in search of their next sighting.",
+      "url": "https://phys.org/news/2026-10-simple-curb-deadly-fungal-disease.html"
     },
     {
       "category": "Science",
-      "title": "Sexual violence survivors often expect systems to fail or harm them, study finds",
+      "title": "Ultrashort laser pulses offer a new way to probe electrons' quantum geometry",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Tue, 13 Oct 2026 13:02:14 EDT",
-      "summary": "University students who are survivors of sexual violence are forced to perform a constant, exhausting \"calculus\"—weighing risks, safety, stigma, emotional costs, institutional consequences and likelihood of being believed—when deciding whether and how to seek help.",
-      "url": "https://phys.org/news/2026-10-sexual-violence-survivors.html"
+      "date": "Tue, 13 Oct 2026 19:40:02 EDT",
+      "summary": "Researchers at Friedrich Schiller University Jena and the University of Regensburg have developed a method for determining, using light, a quantum property of electrons that has hitherto been difficult to access. The focus is on what is known as Berry curvature—a quantity that describes certain geometric properties of the quantum mechanical states of electrons. The researchers measured it in a layer of the semiconductor tungsten diselenide, just one atomic layer thick, using ultrashort laser pulses. The results have been published in the latest issue of the journal Nature Photonics.",
+      "url": "https://phys.org/news/2026-10-ultrashort-laser-pulses-probe-electrons.html"
     },
     {
       "category": "Science",
-      "title": "A small RNA switch with huge potential opens up new possibilities for synthetic biology",
+      "title": "Scientists discover 'D-rex', a giant fungus from Chinese forests whose unique lineage dates back 65 million years",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Tue, 13 Oct 2026 13:02:08 EDT",
-      "summary": "An international research team led by TU Darmstadt Professor Beatrix Süß, working in close collaboration with partners in Germany and Denmark, has elucidated how an RNA switch newly developed at TU Darmstadt recognizes the antibiotic doxycycline and thereby selectively activates or deactivates gene expression. This makes doxycycline a promising basis for synthetic biology and, potentially, for gene therapies as well. The team recently published its findings in Nature Communications.",
-      "url": "https://phys.org/news/2026-10-small-rna-huge-potential-possibilities.html"
+      "date": "Tue, 13 Oct 2026 19:20:10 EDT",
+      "summary": "Deep in the forests of Yunnan, China, scientists have discovered a \"fungal giant\" that challenges our understanding of how large fungi can become. The newly described species, Dianjunus rex, produces vertical fruiting bodies up to 50 cm (20 inches) high and weighing up to 2.2 kg (4.9 pounds)—the largest known within the phylum Ascomycota.",
+      "url": "https://phys.org/news/2026-10-scientists-d-rex-giant-fungus.html"
     },
     {
       "category": "AI",
-      "title": "Coris (YC S22) Is Hiring Back End Engineer",
+      "title": "Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine",
       "source": "Hacker News: Front Page",
-      "date": "Tue, 13 Oct 2026 17:00:39 +0000",
-      "summary": "Article URL: https://www.ycombinator.com/companies/coris/jobs/h0nDly8-backend-engineer-ai-native-risk-infrastructure-integrations\nComments URL: https://news.ycombinator.com/item?id=50074969\nPoints: 0\n# Comments: 0",
-      "url": "https://www.ycombinator.com/companies/coris/jobs/h0nDly8-backend-engineer-ai-native-risk-infrastructure-integrations"
+      "date": "Tue, 13 Oct 2026 23:13:23 +0000",
+      "summary": "Hi HN, I'm Niz. Pulse Local is a budgeting app for Mac (Apple Silicon, beta) that answers questions about your spending with models that run on your machine. Local mode needs no account. The ledger and your questions stay on the machine, and the app sends no analytics or crash logs.\nI felt there are not enough consumer apps that run locally with no calls to the outside world that help us manage sensitive corners of our lives. This app in its local variant only downloads a couple of models and occasional updates, it does not send any analytics nor data.\nFeatures-wise, Pulse local is a complete budgeting app that offers an assistant built on top of a fine-tuned model and thousands of rules embedded in the code itself. I'm sharing it for free with options to help me continue experimenting with fine-tuning and expanding along this direction.\nHow it works: you import a CSV from any bank, in any currency. When you ask a question, a tuned Qwen3 0.6B model reads it into a structured query, and code, not the model, does the money math against the ledger. A 4B checker model double-checks each money answer; when the two readings disagree, the app says it is not sure instead of guessing. That change took wrong answers from about one in five to 5 in 494 questions across our last three tests. The write-up covers how we test, the designs that failed, and the limits of the claim: https://pulseos.finance/pulse-local/writing/agree-or-not-sur...\nThe tuned weights are on Hugging Face (PulseOS/pulse-local-qwen3-0.6b).\nLimitations: the first start downloads about 2.9 GB of models. With the checker on, a money answer takes 12 to 14 seconds (you can turn the checker off). Small models can still misread an open-ended question. The app answers in English. Mac only for now; Windows is next.\nThe app is free. An optional Connected mode (Sync Pass, $29/year) syncs US banks through Plaid; transactions pass through our server's memory and are not stored.\nFeedback welcome, especially on wrong answers and on questions it should handle but does not.\nComments URL: https://news.ycombinator.com/item?id=50080275\nPoints: 24\n# Comments: 9",
+      "url": "https://pulseos.finance"
+    },
+    {
+      "category": "AI",
+      "title": "Martin Shkreli livestreamed himself violating lifetime pharma ban, FTC says",
+      "source": "Ars Technica - All content",
+      "date": "Tue, 13 Oct 2026 22:48:12 +0000",
+      "summary": "\"I can always find a couple of biotech stocks to smoke,\" Shkreli said in a livestream.",
+      "url": "https://arstechnica.com/health/2026/10/martin-shkreli-livestreamed-himself-violating-lifetime-pharma-ban-ftc-says/"
+    },
+    {
+      "category": "AI",
+      "title": "Recreational Programming",
+      "source": "Hacker News: Front Page",
+      "date": "Tue, 13 Oct 2026 22:33:33 +0000",
+      "summary": "Article URL: https://www.cphiri.dev/presentations/recreational-programming\nComments URL: https://news.ycombinator.com/item?id=50079865\nPoints: 25\n# Comments: 5",
+      "url": "https://www.cphiri.dev/presentations/recreational-programming"
+    },
+    {
+      "category": "AI",
+      "title": "AlphaNIST",
+      "source": "Hacker News: Front Page",
+      "date": "Tue, 13 Oct 2026 21:57:29 +0000",
+      "summary": "Article URL: https://alpha-nist.github.io/\nComments URL: https://news.ycombinator.com/item?id=50079464\nPoints: 28\n# Comments: 8",
+      "url": "https://alpha-nist.github.io/"
+    },
+    {
+      "category": "AI",
+      "title": "ESA targets Anbernic emulation handhelds as \"superfake\" piracy enablers",
+      "source": "Ars Technica - All content",
+      "date": "Tue, 13 Oct 2026 21:55:49 +0000",
+      "summary": "But third-party sellers, not Anbernic, are the ones routinely selling ROM-filled SD cards.",
+      "url": "https://arstechnica.com/gaming/2026/10/esa-targets-anbernic-emulation-handhelds-as-superfake-piracy-enablers/"
+    },
+    {
+      "category": "AI",
+      "title": "Topgolf saved over $11.3 million after leaving VMware",
+      "source": "Ars Technica - All content",
+      "date": "Tue, 13 Oct 2026 21:33:43 +0000",
+      "summary": "Topgolf and VMware \"ran deep\" before the migration.",
+      "url": "https://arstechnica.com/information-technology/2026/10/topgolf-saved-over-11-3-million-after-leaving-vmware/"
     },
     {
       "category": "Science",
-      "title": "A closer look at hard-to-see cells could answer new questions about nerve damage and recovery",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Tue, 13 Oct 2026 12:40:23 EDT",
-      "summary": "Under the microscope, mitochondria inside healthy terminal Schwann cells form a web of interconnected branches, with tiny doughnut-shaped loops appearing near where the cells branch and split.",
-      "url": "https://phys.org/news/2026-10-closer-hard-cells-nerve-recovery.html"
+      "title": " 2,000-year-old burial found in Russia near a human sacrifice and a cup to ward off magical threats ",
+      "source": " Latest from Live Science ",
+      "date": "Tue, 13 Oct 2026 21:10:41 +0000",
+      "summary": "A human sacrifice was found next to an elite warrior's 2,000-year-old burial in Russia.",
+      "url": "https://www.livescience.com/archaeology/2-000-year-old-burial-found-in-russia-near-a-human-sacrifice-and-a-cup-to-ward-off-magical-threats"
+    },
+    {
+      "category": "Space",
+      "title": " On this day in space! Oct. 13, 1773: Astronomer Charles Messier discovers the Whirlpool Galaxy before we ever knew it was a galaxy ",
+      "source": " Latest from Space.com ",
+      "date": "Tue, 13 Oct 2026 21:00:00 +0000",
+      "summary": "On Oct. 13, 1773, a French astronomer named Charles Messier discovered the \"Whirlpool Galaxy,\" also known as Messier 51, or M51.  Here's why it mattered.",
+      "url": "https://www.space.com/space-exploration/on-this-day-in-space-october-13-2026"
+    },
+    {
+      "category": "Space",
+      "title": "NASA Names Astronaut Christina Koch Acting Deputy Chief Engineer",
+      "source": "NASA",
+      "date": "Tue, 13 Oct 2026 20:41:11 +0000",
+      "summary": "NASA engineer and astronaut Christina Koch will serve as the agency’s acting deputy chief engineer beginning on Sunday, Nov. 1, following the retirement of Katherine Van Hooser, who will conclude more than 35 years of distinguished service to the agency on Wednesday, Oct. 21. In her new role, Koch will help lead NASA’s engineering community, […]",
+      "url": "https://www.nasa.gov/news-release/nasa-names-astronaut-christina-koch-acting-deputy-chief-engineer/"
+    },
+    {
+      "category": "Science",
+      "title": " 'I won't trust AI': Readers share mixed reaction to AI tools that calculate people's biological ages ",
+      "source": " Latest from Live Science ",
+      "date": "Tue, 13 Oct 2026 20:40:36 +0000",
+      "summary": "Scientists have developed AI tools to measure a person's true \"biological age.\" Live Science asked readers whether they would be comfortable using these tools.",
+      "url": "https://www.livescience.com/health/aging/i-wont-trust-ai-readers-share-mixed-reaction-to-ai-tools-that-calculate-peoples-biological-ages"
+    },
+    {
+      "category": "Space",
+      "title": " 'We basically did Top Gun in space': 'Star Trek Starfleet Academy' warps back into action in March 2027 for sophomore year in the final frontier ",
+      "source": " Latest from Space.com ",
+      "date": "Tue, 13 Oct 2026 20:00:00 +0000",
+      "summary": "The sophomore season of \"Star Trek: Starfleet Academy\" will warp back to the  small screen in March 2027 when the limited series returns for its final season on Paramount+.",
+      "url": "https://www.space.com/entertainment/space-movies-shows/we-basically-did-top-gun-in-space-star-trek-starfleet-academy-warps-back-into-action-in-march-2027-for-sophomore-year-in-the-final-frontier"
+    },
+    {
+      "category": "Space",
+      "title": " See the original Galileo shuttle from 'Star Trek' in its new home at the Original Series Set Tour in New York ",
+      "source": " Latest from Space.com ",
+      "date": "Tue, 13 Oct 2026 20:00:00 +0000",
+      "summary": "This iconic spaceship will now live long and prosper in its brand-new Star Trek Tour home.",
+      "url": "https://www.space.com/entertainment/star-treks-galileo-shuttle-warps-into-new-york-as-part-of-the-original-series-set-tour"
+    },
+    {
+      "category": "Theology",
+      "title": "What Conversion Looks Like in Messy People (Like Me)",
+      "source": "9Marks",
+      "date": "Tue, 13 Oct 2026 18:51:26 +0000",
+      "summary": "All sinners, regardless of past trauma, messiness of life, socioeconomic background, or educational attainment must be converted the same way—through repentance and faith in Christ alone. \nThe post What Conversion Looks Like in Messy People (Like Me) appeared first on 9Marks.",
+      "url": "https://www.9marks.org/article/what-conversion-looks-like-in-messy-people-like-me/?utm_source=rss&utm_medium=rss&utm_campaign=what-conversion-looks-like-in-messy-people-like-me"
+    },
+    {
+      "category": "Space",
+      "title": "Comparing Off-World Rover Driving Distances",
+      "source": "NASA",
+      "date": "Tue, 13 Oct 2026 17:56:08 +0000",
+      "summary": "Description This infographic illustrates the distances driven by various rovers on the surface of Earth’s Moon and Mars. Of the vehicles shown, the NASA Mars rovers Perseverance and Curiosity are still operational and moving across the surface; the figures shown for those two are distances driven as of Oct. 11, 2026. As of that date, […]",
+      "url": "https://science.nasa.gov/photojournal/comparing-off-world-rover-driving-distances/"
+    },
+    {
+      "category": "Space",
+      "title": "NASA’s Record-Setting Perseverance Rover Team",
+      "source": "NASA",
+      "date": "Tue, 13 Oct 2026 17:48:46 +0000",
+      "summary": "Description Members of NASA’s Perseverance Mars mission team gather in the Mars Yard at the agency’s Jet Propulsion Laboratory in Southern California with a certificate from Guinness World Records marking the rover distance record on the Red Planet. Positioned in front of the team is OPTIMISM (Operational Perseverance Twin for Integration of Mechanisms and Instruments […]",
+      "url": "https://science.nasa.gov/photojournal/nasas-record-setting-perseverance-rover-team/"
     },
     {
       "category": "Science",
@@ -52,59 +156,11 @@
     },
     {
       "category": "AI",
-      "title": "Cyberattack halts construction of tunnel between Denmark and Germany",
-      "source": "Hacker News: Front Page",
-      "date": "Tue, 13 Oct 2026 16:24:15 +0000",
-      "summary": "Article URL: https://ua.news/en/world/kiberataka-zupinila-budivnitstvo-tuneliu-mizh-daniieiu-ta-nimechchinoiu-rmf24\nComments URL: https://news.ycombinator.com/item?id=50074289\nPoints: 15\n# Comments: 5",
-      "url": "https://ua.news/en/world/kiberataka-zupinila-budivnitstvo-tuneliu-mizh-daniieiu-ta-nimechchinoiu-rmf24"
-    },
-    {
-      "category": "AI",
-      "title": "Gemini 4 Argon",
-      "source": "Hacker News: Front Page",
-      "date": "Tue, 13 Oct 2026 16:03:16 +0000",
-      "summary": "Article URL: https://deepmind.google/models/gemini/\nComments URL: https://news.ycombinator.com/item?id=50073879\nPoints: 277\n# Comments: 239",
-      "url": "https://deepmind.google/models/gemini/"
-    },
-    {
-      "category": "Space",
-      "title": " 2 spacecraft in orbit and 8 more coming soon: Varda has big plans for in-space manufacturing ",
-      "source": " Latest from Space.com ",
-      "date": "Tue, 13 Oct 2026 16:00:00 +0000",
-      "summary": "Reentry provider Varda Space Industries is currently flying two spacecraft in Earth orbit and has eight more missions planned in the next year.",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/2-spacecraft-in-orbit-and-8-more-coming-soon-varda-has-big-plans-for-in-space-manufacturing"
-    },
-    {
-      "category": "Space",
-      "title": "TB 26-08 Complex Modes in Lightly Damped Structural Systems: A Two-Mode Interaction Perspective",
-      "source": "NASA",
-      "date": "Tue, 13 Oct 2026 15:02:21 +0000",
-      "summary": "For more information, contact Joel W. Sills, Langley Research Center, joel.w.sills@nasa.gov Download the PDF version Complex mode shapes can emerge in a linear structure even when overall damping is low. This behavior can occur when two structural modes are closely spaced in frequency and are coupled through nonproportional damping. As the damping interaction increases, the […]",
-      "url": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-08-complex-modes-in-lightly-damped-structural-systemsa-two-mode-interaction-perspective/"
-    },
-    {
-      "category": "Space",
-      "title": " 'Space Gal' Emily Calandrelli launches into the Marvel Universe this week on Disney Jr.'s 'Iron Man' series (exclusive) ",
-      "source": " Latest from Space.com ",
-      "date": "Tue, 13 Oct 2026 15:00:00 +0000",
-      "summary": "Real-life astronaut and science communicator Emily Calandrelli will make a guest appearance in the upcoming episode of Disney Jr.'s animated \"Marvel's Iron Man and his Awesome Friends\" on Oct. 14.",
-      "url": "https://www.space.com/entertainment/space-movies-shows/space-gal-emily-calandrelli-launches-into-the-marvel-universe-this-week-on-disney-jr-s-iron-man-series-exclusive"
-    },
-    {
-      "category": "AI",
-      "title": "High-speed video reveals how honey bee stingers pump venom",
-      "source": "Ars Technica - All content",
-      "date": "Tue, 13 Oct 2026 13:03:45 +0000",
-      "summary": "Co-author: “The unique geometry of the valves is the key; they act as collapsible pistons\" to deliver venom.",
-      "url": "https://arstechnica.com/science/2026/10/honey-bee-stingers-are-double-piston-venom-pumps/"
-    },
-    {
-      "category": "Space",
-      "title": "NASA JPL Testing Readies Voyager Technologies Lander for Moon Mission",
-      "source": "NASA",
-      "date": "Tue, 13 Oct 2026 13:00:00 +0000",
-      "summary": "A commercial lander that will be at the forefront of NASA’s efforts to establish a Moon Base, humanity’s first lunar outpost, has passed a series of critical tests at the agency’s Jet Propulsion Laboratory in Southern California. The tests simulated the extreme temperatures and vacuum of space, as well as the intense shaking and ear-splitting […]",
-      "url": "https://www.nasa.gov/missions/moon-base/nasa-jpl-testing-readies-voyager-technologies-lander-for-moon-mission/"
+      "title": "Higgsfield takes AI video from 1 minute to over 10",
+      "source": "OpenAI News",
+      "date": "Tue, 13 Oct 2026 12:00:00 GMT",
+      "summary": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.",
+      "url": "https://openai.com/index/higgsfield-longer-videos-voice"
     },
     {
       "category": "Science",
@@ -113,14 +169,6 @@
       "date": "Tue, 13 Oct 2026 07:27:24 EDT",
       "summary": "NASA’s James Webb Space Telescope has revealed an ancient galaxy cluster with an unexpectedly dense concentration of dark matter, challenging theories about how the universe developed. The discovery also uncovered a surprising connection between scattered starlight and invisible dark matter that could transform how astronomers study the early cosmos.",
       "url": "https://www.sciencedaily.com/releases/2026/10/261012185021.htm"
-    },
-    {
-      "category": "Space",
-      "title": "NASA Science, Cargo Launch on 35th SpaceX Resupply Mission to Station",
-      "source": "NASA",
-      "date": "Tue, 13 Oct 2026 11:12:18 +0000",
-      "summary": "NASA’s SpaceX 35th commercial resupply mission lifted off at 6:33 a.m. EDT Tuesday aboard a Falcon 9 rocket from Space Launch Complex 40 at Cape Canaveral Space Force Station in Florida, carrying more than 6,300 pounds of supplies and hardware, bound for the International Space Station. Following its successful launch, the SpaceX Dragon spacecraft will […]",
-      "url": "https://www.nasa.gov/news-release/nasa-science-cargo-launch-on-35th-spacex-resupply-mission-to-station/"
     },
     {
       "category": "Biblical Studies",
@@ -139,28 +187,12 @@
       "url": "https://www.biblicalarchaeology.org/daily/biblical-sites-places/temple-at-jerusalem/the-stones-of-herods-temple-reveal-temple-mount-history/"
     },
     {
-      "category": "Science",
-      "title": " Multicolored 'mosaic' of mini farms surrounds Taiwan's largest river — Earth from space ",
-      "source": " Latest from Live Science ",
-      "date": "Tue, 13 Oct 2026 10:24:26 +0000",
-      "summary": "A recent satellite photo shows a patchwork of tens of thousands of size-restricted farms tightly crammed into Taiwan's Yunlin County, which grows a majority of the island's food.",
-      "url": "https://www.livescience.com/planet-earth/multicolored-mosaic-of-mini-farms-surrounds-taiwans-largest-river-earth-from-space"
-    },
-    {
       "category": "History",
       "title": "My Family Arrived at this Place: A Loyalist Ranger’s Road from Saratoga",
       "source": "Journal of the American Revolution",
       "date": "Tue, 13 Oct 2026 09:00:56 +0000",
       "summary": "“My Famely a Raived at this Place”—Lt. Henry Simmons, The Cascades, June 23, 1783 For the Loyalists who joined British General John Burgoyne’s army in the weeks and months leading up to the decisive battles at Saratoga in the fall of 1777, the British defeat meant far more than the loss of a battle. Men […]\nThe post My Family Arrived at this Place: A Loyalist Ranger’s Road from Saratoga appeared first on Journal of the American Revolution.",
       "url": "https://allthingsliberty.com/2026/10/my-family-arrived-at-this-place-a-loyalist-rangers-road-from-saratoga/"
-    },
-    {
-      "category": "Science",
-      "title": " 'The back of her head had been removed by a single blow from a sharp blade': Archaeological clues are revealing the horrific lives and deaths of the people enslaved by Vikings ",
-      "source": " Latest from Live Science ",
-      "date": "Tue, 13 Oct 2026 09:00:00 +0000",
-      "summary": "In this excerpt from \"The Sea-King and the Sorceress,\" author Neil Price looks at the lesser known lives of the people enslaved by Vikings: the thralls.",
-      "url": "https://www.livescience.com/archaeology/vikings/the-back-of-her-head-had-been-removed-by-a-single-blow-from-a-sharp-blade-archaeological-clues-are-revealing-the-horrific-lives-and-deaths-of-the-people-enslaved-by-vikings"
     },
     {
       "category": "Science",
@@ -193,22 +225,6 @@
       "date": "Mon, 12 Oct 2026 21:33:58 EDT",
       "summary": "Scientists have created a new coating for mitochondria that preserves their ability to produce energy, potentially opening the door to new treatments for diseases involving these tiny cellular powerhouses. The technology could one day help transfer healthy mitochondria into damaged cells, although its effectiveness in transplantation remains unproven.",
       "url": "https://www.sciencedaily.com/releases/2026/10/261012185008.htm"
-    },
-    {
-      "category": "AI",
-      "title": "39-year-old unvaccinated woman becomes 6th measles death in Pennsylvania",
-      "source": "Ars Technica - All content",
-      "date": "Mon, 12 Oct 2026 21:54:35 +0000",
-      "summary": "As of Friday, state health officials reported 1,136 cases across 41 counties.",
-      "url": "https://arstechnica.com/health/2026/10/39-year-old-unvaccinated-woman-becomes-6th-measles-death-in-pennsylvania/"
-    },
-    {
-      "category": "AI",
-      "title": "Epic Games reportedly pivoting to \"AI first\" game development model",
-      "source": "Ars Technica - All content",
-      "date": "Mon, 12 Oct 2026 20:59:50 +0000",
-      "summary": "\"No more hand-written code\" or AI-free art for delayed Marvel/Star Wars shooter.",
-      "url": "https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration/"
     },
     {
       "category": "History",
@@ -259,14 +275,6 @@
       "url": "https://www.9marks.org/review/the-reason-for-church-a-review/?utm_source=rss&utm_medium=rss&utm_campaign=the-reason-for-church-a-review"
     },
     {
-      "category": "AI",
-      "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
-      "source": "OpenAI News",
-      "date": "Thu, 08 Oct 2026 16:00:00 GMT",
-      "summary": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
-      "url": "https://openai.com/index/oracle"
-    },
-    {
       "category": "History",
       "title": "Trade, Land, Speculation: William Kerin Constable in the Age of Revolution",
       "source": "Journal of the American Revolution",
@@ -281,14 +289,6 @@
       "date": "Tue, 06 Oct 2026 15:42:44 +0000",
       "summary": "Worse than offending unbelievers is treating them like they are believers. Instead, we must aim to help sinners see their sin and confess their need for Christ. This spiritual clarity is not cruel, but kind.\nThe post Aiming for Conversion in Our Preaching appeared first on 9Marks.",
       "url": "https://www.9marks.org/article/aiming-for-conversion-in-our-preaching/?utm_source=rss&utm_medium=rss&utm_campaign=aiming-for-conversion-in-our-preaching"
-    },
-    {
-      "category": "Theology",
-      "title": "Eight Enemies of Pastoral Friendship",
-      "source": "9Marks",
-      "date": "Tue, 29 Sep 2026 20:54:47 +0000",
-      "summary": "Biblical friendship is not a luxury for pastors. It is one of God's ordinary means of sustaining us for long-term ministry.\nThe post Eight Enemies of Pastoral Friendship appeared first on 9Marks.",
-      "url": "https://www.9marks.org/article/eight-enemies-of-pastoral-friendship/?utm_source=rss&utm_medium=rss&utm_campaign=eight-enemies-of-pastoral-friendship"
     },
     {
       "category": "History",
