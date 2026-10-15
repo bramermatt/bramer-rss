@@ -1,46 +1,174 @@
 {
-  "lastUpdated": "2026-10-15T00:12:55.260Z",
+  "lastUpdated": "2026-10-15T14:34:51.768Z",
   "articleCount": 39,
   "articles": [
     {
       "category": "Science",
-      "title": "Green, pink and purple: Astronomers reveal the surprising true colors of white dwarf stars",
+      "title": "New smart patch could help detect and treat blood clots after spinal surgery",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Wed, 14 Oct 2026 20:10:01 EDT",
-      "summary": "University of Warwick astronomers have shown that white dwarf stars can glow in a range of colors, including the first star ever found that would appear green to the human eye.",
-      "url": "https://phys.org/news/2026-10-green-pink-purple-astronomers-reveal.html"
+      "date": "Thu, 15 Oct 2026 10:20:18 EDT",
+      "summary": "Blood clots that develop after spinal surgery can lead to serious complications. When blood accumulates around the spinal cord, it may increase pressure on surrounding nerves, potentially causing severe pain, muscle weakness or even paralysis. Early detection and timely treatment are therefore essential. However, continuously monitoring these complications remains challenging, and conventional treatments may require additional surgery.",
+      "url": "https://phys.org/news/2026-10-smart-patch-blood-clots-spinal.html"
     },
     {
       "category": "Science",
-      "title": "Researchers in exile thrive in new academic settings when they contribute knowledge, not just receive aid",
+      "title": "Fossil footprints reveal how dinosaur ancestors gradually shifted from sprawling to upright walking",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Wed, 14 Oct 2026 20:00:01 EDT",
-      "summary": "Publishing scientific articles requires more than knowledge of academic writing conventions; it also depends on access to networks that support the research and publication process. Academic networks provide opportunities to exchange knowledge, receive feedback and develop collaborations that can strengthen both research and careers. For researchers in vulnerable situations, such connections can be crucial.",
-      "url": "https://phys.org/news/2026-10-exile-academic-contribute-knowledge-aid.html"
+      "date": "Thu, 15 Oct 2026 10:20:15 EDT",
+      "summary": "A research team led by Dr. Lorenzo Marchetti of the Museum für Naturkunde Berlin described the earliest archosauriform footprints (Pachychirotherium gardenaensis) from the GEOPARC Bletterbach—UNESCO World Heritage Dolomites, Italy.",
+      "url": "https://phys.org/news/2026-10-fossil-footprints-reveal-dinosaur-ancestors.html"
     },
     {
-      "category": "AI",
-      "title": "LFM2.5-24B-A2B: Built for Fast On-Device Agents",
-      "source": "Hacker News: Front Page",
-      "date": "Wed, 14 Oct 2026 23:59:37 +0000",
-      "summary": "Article URL: https://www.liquid.ai/blog/lfm2-5-24b-a2b\nComments URL: https://news.ycombinator.com/item?id=50097369\nPoints: 8\n# Comments: 0",
-      "url": "https://www.liquid.ai/blog/lfm2-5-24b-a2b"
+      "category": "Space",
+      "title": "Chandra Finds Possible Origin of ‘Treble Clef’ Waves",
+      "source": "NASA",
+      "date": "Thu, 15 Oct 2026 14:19:06 +0000",
+      "summary": "A formation of radio waves looks remarkably like a treble clef in this Oct. 14, 2026, image from NASA’s Chandra X-Ray Observatory. Researchers used Chandra to find that the Treble Clef is likely caused by an outburst from a supermassive black hole, followed by a collision of two galaxy clusters. Read more about this discovery. […]",
+      "url": "https://www.nasa.gov/image-article/chandra-finds-possible-origin-of-treble-clef-waves/"
     },
     {
       "category": "Science",
-      "title": "One-third of food is lost or wasted: How to help farmers cut postharvest losses",
+      "title": "Drowned 5,000-year-old forests reborn as thriving peat reefs and biodiversity hotspots off Mozambique",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Wed, 14 Oct 2026 19:40:12 EDT",
-      "summary": "Agriculture in the Global South remains under pressure to produce more food while responding to climate change and resource constraints. Policy responses have focused on increasing production. But what about postharvest losses? Globally, about one-third of food produced for human consumption is estimated to be lost or wasted.",
-      "url": "https://phys.org/news/2026-10-food-lost-farmers-postharvest-losses.html"
+      "date": "Thu, 15 Oct 2026 10:00:16 EDT",
+      "summary": "Researchers from the Bazaruto Center for Scientific Studies (BCSS) Ocean Observatory have documented ancient forests that grew on the Mozambican coast thousands of years ago and have been found beneath the sea, where they now serve as hotspots teeming with marine life similar in biodiversity to coral reefs.",
+      "url": "https://phys.org/news/2026-10-year-forests-reborn-peat-reefs.html"
+    },
+    {
+      "category": "Space",
+      "title": " Windblown yardangs on Mars | Space photo of the day for Oct. 15, 2026 ",
+      "source": " Latest from Space.com ",
+      "date": "Thu, 15 Oct 2026 14:00:00 +0000",
+      "summary": "Martian sands blown by strong winds left rippled ridges on the surface of the Red Planet, as seen in this new image from the Mars Express spacecraft.",
+      "url": "https://www.space.com/astronomy/stars/windblown-yardangs-on-mars-space-photo-of-the-day-for-oct-15-2026"
     },
     {
       "category": "AI",
-      "title": "Tiny Little Office",
+      "title": "I know why Mathematicians weep",
       "source": "Hacker News: Front Page",
-      "date": "Wed, 14 Oct 2026 22:10:08 +0000",
-      "summary": "Article URL: https://tinylittleoffice.com/\nComments URL: https://news.ycombinator.com/item?id=50096142\nPoints: 80\n# Comments: 13",
-      "url": "https://tinylittleoffice.com/"
+      "date": "Thu, 15 Oct 2026 13:44:32 +0000",
+      "summary": "Article URL: https://www.derekthompson.org/p/i-know-why-the-mathematicians-weep\nComments URL: https://news.ycombinator.com/item?id=50103630\nPoints: 57\n# Comments: 59",
+      "url": "https://www.derekthompson.org/p/i-know-why-the-mathematicians-weep"
+    },
+    {
+      "category": "AI",
+      "title": "Wayland desktop for Linux with skeuomorphic design",
+      "source": "Hacker News: Front Page",
+      "date": "Thu, 15 Oct 2026 13:23:44 +0000",
+      "summary": "Article URL: https://github.com/fyzugx/DEsk\nComments URL: https://news.ycombinator.com/item?id=50103338\nPoints: 11\n# Comments: 0",
+      "url": "https://github.com/fyzugx/DEsk"
+    },
+    {
+      "category": "AI",
+      "title": "GridSnap – an open-source Divvy-style window snapper for macOS",
+      "source": "Hacker News: Front Page",
+      "date": "Thu, 15 Oct 2026 13:19:07 +0000",
+      "summary": "Article URL: https://github.com/konieczkow/gridsnap\nComments URL: https://news.ycombinator.com/item?id=50103263\nPoints: 7\n# Comments: 3",
+      "url": "https://github.com/konieczkow/gridsnap"
+    },
+    {
+      "category": "Space",
+      "title": " Beat light pollution with these six portable telescopes ",
+      "source": " Latest from Space.com ",
+      "date": "Thu, 15 Oct 2026 13:00:00 +0000",
+      "summary": "Sick of skyglow spoiling your stargazing? These six telescopes are portable enough that you can easily pack them away and seek out darker skies.",
+      "url": "https://www.space.com/stargazing/skywatching-kit/beat-light-pollution-with-these-six-portable-telescopes"
+    },
+    {
+      "category": "AI",
+      "title": "Teaching students to think and learn through questions",
+      "source": "OpenAI News",
+      "date": "Thu, 15 Oct 2026 13:00:00 GMT",
+      "summary": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
+      "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions"
+    },
+    {
+      "category": "Science",
+      "title": "Mysterious brain activity under anesthesia challenges what we know about consciousness",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Thu, 15 Oct 2026 08:52:05 EDT",
+      "summary": "Even under general anesthesia, the human brain can analyze language, recognize different types of words, and predict what comes next in a story, according to a surprising discovery by Baylor researchers. The findings challenge our understanding of consciousness and suggest that the unconscious brain is far more capable than scientists previously realized.",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261015003440.htm"
+    },
+    {
+      "category": "Science",
+      "title": "Arctic sea ice hits another troubling low in 2026",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Thu, 15 Oct 2026 08:40:44 EDT",
+      "summary": "Arctic sea ice is shrinking in both winter and summer, with satellite records revealing that the region's remaining ice is becoming thinner, younger, and more vulnerable to melting. Despite a recent slowdown in summer losses, scientists warn that the Arctic could experience a nearly ice-free summer before 2050.",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261015073212.htm"
+    },
+    {
+      "category": "Space",
+      "title": " Scientists discover 'chemical starter kit' for life in planetary birthplaces ",
+      "source": " Latest from Space.com ",
+      "date": "Thu, 15 Oct 2026 12:00:00 +0000",
+      "summary": "The discovery of surprising molecules of methanol and associated maser activity has expanded the inventory of the chemical starter kit that builds planets in young star systems.",
+      "url": "https://www.space.com/space-exploration/search-for-life/scientists-discover-chemical-starter-kit-for-life-in-planetary-birthplaces"
+    },
+    {
+      "category": "Science",
+      "title": "A fungus is threatening the world’s food supply. Scientists just found a new defense",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Thu, 15 Oct 2026 07:45:43 EDT",
+      "summary": "Scientists have discovered a potential new weapon against a devastating fungus that threatens rice, wheat, and barley worldwide. By engineering a special type of plant immune receptor, researchers created defenses capable of recognizing multiple fungal threats at once. The breakthrough could eventually lead to crops with powerful, long-lasting disease resistance, helping protect a global food supply increasingly threatened by spreading infections and climate change.",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261014015501.htm"
+    },
+    {
+      "category": "Biblical Studies",
+      "title": "Alternative Facts: Domitian’s Persecution of Christians",
+      "source": "Biblical Archaeology Society",
+      "date": "Thu, 15 Oct 2026 11:00:25 +0000",
+      "summary": "“Alternative facts” and “fake news” are not just a contemporary phenomenon. On occasion ancient writers similarly tried to spin their version of the truth. One such claim was that Roman emperor Domitian was a great persecutor of Christians.\nThe post Alternative Facts: Domitian’s Persecution of Christians appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/daily/biblical-topics/post-biblical-period/domitian-persecution-of-christians/"
+    },
+    {
+      "category": "Biblical Studies",
+      "title": "Where Are the Hanging Gardens of Babylon?",
+      "source": "Biblical Archaeology Society",
+      "date": "Thu, 15 Oct 2026 11:00:06 +0000",
+      "summary": "Where are the Hanging Gardens of Babylon? Today, the exact locations of six of the seven ancient Wonders of the World are known. Yet, the […]\nThe post Where Are the Hanging Gardens of Babylon? appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-near-eastern-world/hanging-gardens/"
+    },
+    {
+      "category": "Science",
+      "title": " Testosterone for menopause: The treatment is rising in popularity, but does it work? ",
+      "source": " Latest from Live Science ",
+      "date": "Thu, 15 Oct 2026 09:00:00 +0000",
+      "summary": "Women are using testosterone in the hope that it will treat their menopause symptoms, but little evidence supports the approach, experts say.",
+      "url": "https://www.livescience.com/health/reproductive-health/testosterone-for-menopause-the-treatment-is-rising-in-popularity-but-does-it-work"
+    },
+    {
+      "category": "Space",
+      "title": "APOD: 2026 October 15 – The Milky Way over Manhattan",
+      "source": "NASA",
+      "date": "Thu, 15 Oct 2026 04:05:00 +0000",
+      "summary": "APOD Science APOD APOD: 2026 October 15 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. The Milky […]",
+      "url": "https://science.nasa.gov/image-article/apod-2026-october-15-the-milky-way-over-manhattan/"
+    },
+    {
+      "category": "Theology",
+      "title": "Heaven: Do We Know Enough to Want to Go? (with Randy Alcorn)",
+      "source": "The Gospel Coalition",
+      "date": "Thu, 15 Oct 2026 04:04:10 +0000",
+      "summary": "Melissa and Courtney talk with Randy Alcorn about common misconceptions about heaven, and all we have to look forward to in the life to come.",
+      "url": "https://www.thegospelcoalition.org/podcasts/deep-dish/heaven-know-enough/"
+    },
+    {
+      "category": "Space",
+      "title": "Fires Arrive in the Amazon Rainforest",
+      "source": "NASA",
+      "date": "Thu, 15 Oct 2026 04:01:00 +0000",
+      "summary": "During El Niño, a cascade of fires across the tropics begins in equatorial Asia and continues in the central and eastern Amazon.",
+      "url": "https://science.nasa.gov/earth/earth-observatory/fires-arrive-in-the-amazon-rainforest/"
+    },
+    {
+      "category": "Theology",
+      "title": "AI Makes Sermon Prep Effortless. That’s the Problem.",
+      "source": "The Gospel Coalition",
+      "date": "Thu, 15 Oct 2026 04:00:00 +0000",
+      "summary": "When you’re considering whether to use AI in your sermon preparation, first ask, ‘What am I forfeiting by using AI to do this?’",
+      "url": "https://www.thegospelcoalition.org/article/sermon-prep-ai-problem/"
     },
     {
       "category": "History",
@@ -68,27 +196,11 @@
     },
     {
       "category": "AI",
-      "title": "We’re releasing Jev 1.14.0 along with experimental features for dreamers",
-      "source": "Hacker News: Front Page",
-      "date": "Wed, 14 Oct 2026 21:11:03 +0000",
-      "summary": "Article URL: https://typesafe.ai/blog/jev-1-14\nComments URL: https://news.ycombinator.com/item?id=50095353\nPoints: 145\n# Comments: 52",
-      "url": "https://typesafe.ai/blog/jev-1-14"
-    },
-    {
-      "category": "AI",
       "title": "NATO may redeploy anti-drone defenses as attacks sink more Black Sea shipping",
       "source": "Ars Technica - All content",
       "date": "Wed, 14 Oct 2026 21:03:11 +0000",
       "summary": "Suspected Russian drones have sunk or damaged 5 ships near Bulgaria and Romania.",
       "url": "https://arstechnica.com/gadgets/2026/10/nato-may-redeploy-anti-drone-defenses-as-attacks-sink-more-black-sea-shipping/"
-    },
-    {
-      "category": "Space",
-      "title": " Planetary genealogy: Milky Way worlds belong to 1 of 2 ‘families,’ scientists find ",
-      "source": " Latest from Space.com ",
-      "date": "Wed, 14 Oct 2026 21:00:00 +0000",
-      "summary": "Scientists have performed a cosmic genealogy on planetary systems in the Milky Way, finding two distinct families that influence the evolution and fate of these systems.",
-      "url": "https://www.space.com/astronomy/exoplanets/planetary-genealogy-milky-way-worlds-belong-to-1-of-2-families-scientists-find"
     },
     {
       "category": "Science",
@@ -99,60 +211,12 @@
       "url": "https://www.livescience.com/health/neuroscience/chronic-back-pain-may-activate-an-unexpected-brain-network-study-finds"
     },
     {
-      "category": "Space",
-      "title": "NASA to Host News Conference Previewing US Spacewalks 100, 101",
-      "source": "NASA",
-      "date": "Wed, 14 Oct 2026 20:13:29 +0000",
-      "summary": "NASA will preview two upcoming spacewalks to complete solar array installation and power augmentation of the International Space Station during a news conference at 2 p.m. EDT, Tuesday, Oct. 20, from NASA’s Johnson Space Center in Houston. NASA will stream the event through a variety of platforms. Learn where to watch online: https://www.nasa.gov/live NASA participants […]",
-      "url": "https://www.nasa.gov/news-release/nasa-to-host-news-conference-previewing-us-spacewalks-100-101/"
-    },
-    {
-      "category": "Space",
-      "title": " 'Dungeon Crawler Carl' author Matt Dinniman talks inspirations, success, and the upcoming Peacock TV series (interview) ",
-      "source": " Latest from Space.com ",
-      "date": "Wed, 14 Oct 2026 20:00:00 +0000",
-      "summary": "'Luckily I’m still in love with this story, and I am in love with writing it.'",
-      "url": "https://www.space.com/entertainment/space-books/dungeon-crawler-carl-author-matt-dinniman-talks-inspirations-success-and-the-upcoming-peacock-tv-series-interview"
-    },
-    {
       "category": "Science",
       "title": " DNA from centuries-old skeletons buried in Montreal reveals no genetic mixing between Indigenous people and French colonists ",
       "source": " Latest from Live Science ",
       "date": "Wed, 14 Oct 2026 19:46:12 +0000",
       "summary": "A study of DNA from early colonial-era skeletons in a Montreal cemetery has revealed that none of them had any Indigenous ancestry.",
       "url": "https://www.livescience.com/archaeology/americas/dna-from-centuries-old-skeletons-buried-in-montreal-reveals-no-genetic-mixing-between-indigenous-people-and-french-colonists"
-    },
-    {
-      "category": "Science",
-      "title": " Tapeworm drug could help treat endometriosis, mouse study hints ",
-      "source": " Latest from Live Science ",
-      "date": "Wed, 14 Oct 2026 19:34:46 +0000",
-      "summary": "A recent study in mice hints that a modified tapeworm medicine might help relieve painful lesions seen in endometriosis.",
-      "url": "https://www.livescience.com/health/reproductive-health/tapeworm-drug-could-help-treat-endometriosis-mouse-study-hints"
-    },
-    {
-      "category": "Space",
-      "title": "NASA Astronauts to Answer Questions from Florida Students",
-      "source": "NASA",
-      "date": "Wed, 14 Oct 2026 19:12:51 +0000",
-      "summary": "Students in Florida will hear from NASA astronauts Jessica Watkins and Luke Delaney as they answer prerecorded STEM questions while aboard the International Space Station. The Earth-to-space call will begin at 12 p.m. EDT Friday, Oct. 16, and will stream live on the agency’s Learn With NASA YouTube channel. This event is hosted by Sally Ride Elementary School […]",
-      "url": "https://www.nasa.gov/learning-resources/nasa-astronauts-to-answer-questions-from-florida-students/"
-    },
-    {
-      "category": "Space",
-      "title": " SpaceX's Starship just turned 10 years old. When will it go to Mars? ",
-      "source": " Latest from Space.com ",
-      "date": "Wed, 14 Oct 2026 18:00:00 +0000",
-      "summary": "A decade after Elon Musk publicly unveiled plans for the fully reusable megarocket, Starship has reached orbit. How far away is Mars?",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacexs-starship-just-turned-10-years-old-when-will-it-go-to-mars"
-    },
-    {
-      "category": "Space",
-      "title": "NASA’s Chandra Breaks Down ‘Treble Clef’s’ Galaxy Cluster Collision",
-      "source": "NASA",
-      "date": "Wed, 14 Oct 2026 16:46:58 +0000",
-      "summary": "Astronomers have used NASA’s Chandra X-ray Observatory to break down the cause of a remarkable formation of radio waves they have nicknamed the “Treble Clef” because its distinct shape strongly resembles the musical symbol. The researchers discovered the Treble Clef is likely caused by an outburst from a supermassive black hole, followed by a collision […]",
-      "url": "https://science.nasa.gov/missions/chandra/nasas-chandra-breaks-down-treble-clefs-galaxy-cluster-collision/"
     },
     {
       "category": "AI",
@@ -171,52 +235,12 @@
       "url": "https://openai.com/index/sentinelone"
     },
     {
-      "category": "Science",
-      "title": "The secret to easier exercise as an adult may start in childhood",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Wed, 14 Oct 2026 07:36:23 EDT",
-      "summary": "Exercise during childhood could have a surprising lifelong benefit, potentially making physical activity less exhausting in adulthood. In a study involving guinea fowl, researchers discovered that birds accustomed to carrying weights while growing up could carry those weights as adults without using extra energy, while untrained birds burned 23% more.",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261013015811.htm"
-    },
-    {
-      "category": "Science",
-      "title": "Scientists may have overlooked a hidden Alzheimer's culprit for decades",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Wed, 14 Oct 2026 07:06:19 EDT",
-      "summary": "For decades, scientists have focused on amyloid beta as a major culprit behind Alzheimer’s disease, spending billions of dollars developing treatments that have often delivered disappointing results. Now, researchers at UC Santa Cruz are drawing attention to a largely overlooked peptide called P3 that could also play a role in the disease. Previously believed to be harmless, P3 can form harmful-looking protein clumps even faster than amyloid beta and may also damage brain cells.",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261013015838.htm"
-    },
-    {
       "category": "Biblical Studies",
       "title": "Ancient Toilets, Timeless Troubles",
       "source": "Biblical Archaeology Society",
       "date": "Wed, 14 Oct 2026 10:45:55 +0000",
       "summary": "Gastrointestinal issues are a common part of the human experience, the most extreme of which can turn fatal if left untreated, an awareness that receives […]\nThe post Ancient Toilets, Timeless Troubles appeared first on Biblical Archaeology Society.",
       "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-israel/ancient-toilets-timeless-troubles/"
-    },
-    {
-      "category": "Biblical Studies",
-      "title": "Byzantine Synagogue Uncovered in the Golan",
-      "source": "Biblical Archaeology Society",
-      "date": "Wed, 14 Oct 2026 10:00:43 +0000",
-      "summary": "Archaeologists have long suspected that an ancient synagogue lay beneath the ruins of an abandoned village in the western Golan. Now, they have finally found […]\nThe post Byzantine Synagogue Uncovered in the Golan appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-israel/byzantine-synagogue-golan/"
-    },
-    {
-      "category": "AI",
-      "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
-      "source": "OpenAI News",
-      "date": "Wed, 14 Oct 2026 07:00:00 GMT",
-      "summary": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.",
-      "url": "https://openai.com/index/third-moment-research"
-    },
-    {
-      "category": "Science",
-      "title": "Gigantic prehistoric snake discovered in India may have been one of the largest ever",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Wed, 14 Oct 2026 01:44:39 EDT",
-      "summary": "A massive prehistoric snake discovered in India may have rivaled the largest snake ever known. Called Vasuki indicus, the 47-million-year-old giant could have reached up to 50 feet long, making it comparable to the legendary Titanoboa. Scientists believe its enormous body made it a slow-moving ambush predator, similar to a modern anaconda.",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261014001406.htm"
     },
     {
       "category": "Theology",
@@ -228,27 +252,11 @@
     },
     {
       "category": "Theology",
-      "title": "Skipping Secularism: 2 Clues from the End of the World",
-      "source": "The Gospel Coalition",
-      "date": "Wed, 14 Oct 2026 04:00:00 +0000",
-      "summary": "In this land, the light of gospel radiates more brightly than anywhere else in the Nordic region.",
-      "url": "https://www.thegospelcoalition.org/article/skipping-secularism-faroe/"
-    },
-    {
-      "category": "Theology",
       "title": "What Conversion Looks Like in Messy People (Like Me)",
       "source": "9Marks",
       "date": "Tue, 13 Oct 2026 18:51:26 +0000",
       "summary": "All sinners, regardless of past trauma, messiness of life, socioeconomic background, or educational attainment must be converted the same way—through repentance and faith in Christ alone. \nThe post What Conversion Looks Like in Messy People (Like Me) appeared first on 9Marks.",
       "url": "https://www.9marks.org/article/what-conversion-looks-like-in-messy-people-like-me/?utm_source=rss&utm_medium=rss&utm_campaign=what-conversion-looks-like-in-messy-people-like-me"
-    },
-    {
-      "category": "Biblical Studies",
-      "title": "What Did Herod’s Temple in Jerusalem Look Like?",
-      "source": "Biblical Archaeology Society",
-      "date": "Tue, 13 Oct 2026 11:00:54 +0000",
-      "summary": "Fifty years ago, leading Israeli scholar Michael Avi-Yonah constructed a now-iconic model of Herod’s Temple in Jerusalem. How accurate is it?\nThe post What Did Herod’s Temple in Jerusalem Look Like? appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/daily/biblical-sites-places/temple-at-jerusalem/what-did-herods-temple-in-jerusalem-look-like/"
     },
     {
       "category": "History",
@@ -257,14 +265,6 @@
       "date": "Tue, 13 Oct 2026 09:00:56 +0000",
       "summary": "“My Famely a Raived at this Place”—Lt. Henry Simmons, The Cascades, June 23, 1783 For the Loyalists who joined British General John Burgoyne’s army in the weeks and months leading up to the decisive battles at Saratoga in the fall of 1777, the British defeat meant far more than the loss of a battle. Men […]\nThe post My Family Arrived at this Place: A Loyalist Ranger’s Road from Saratoga appeared first on Journal of the American Revolution.",
       "url": "https://allthingsliberty.com/2026/10/my-family-arrived-at-this-place-a-loyalist-rangers-road-from-saratoga/"
-    },
-    {
-      "category": "Theology",
-      "title": "To Learn to Live on Earth, Think About Heaven",
-      "source": "The Gospel Coalition",
-      "date": "Tue, 13 Oct 2026 04:05:00 +0000",
-      "summary": "‘Finally Home’ is written from the heart of a pastor who loves his people and wants to help them connect what they’re going through to where they’re going.",
-      "url": "https://www.thegospelcoalition.org/reviews/finally-home-heaven/"
     },
     {
       "category": "History",
