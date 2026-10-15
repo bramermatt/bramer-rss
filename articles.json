@@ -1,78 +1,142 @@
 {
-  "lastUpdated": "2026-10-15T14:34:51.768Z",
+  "lastUpdated": "2026-10-15T19:35:56.807Z",
   "articleCount": 39,
   "articles": [
     {
-      "category": "Science",
-      "title": "New smart patch could help detect and treat blood clots after spinal surgery",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Thu, 15 Oct 2026 10:20:18 EDT",
-      "summary": "Blood clots that develop after spinal surgery can lead to serious complications. When blood accumulates around the spinal cord, it may increase pressure on surrounding nerves, potentially causing severe pain, muscle weakness or even paralysis. Early detection and timely treatment are therefore essential. However, continuously monitoring these complications remains challenging, and conventional treatments may require additional surgery.",
-      "url": "https://phys.org/news/2026-10-smart-patch-blood-clots-spinal.html"
+      "category": "AI",
+      "title": "Someone on Torrent Sites Kept Fucking with My Sonarr",
+      "source": "Hacker News: Front Page",
+      "date": "Thu, 15 Oct 2026 19:21:38 +0000",
+      "summary": "Article URL: https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup\nComments URL: https://news.ycombinator.com/item?id=50108872\nPoints: 3\n# Comments: 1",
+      "url": "https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup"
     },
     {
       "category": "Science",
-      "title": "Fossil footprints reveal how dinosaur ancestors gradually shifted from sprawling to upright walking",
+      "title": "Researchers find that some weeds get supercharged by an indirect hit of herbicide",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Thu, 15 Oct 2026 10:20:15 EDT",
-      "summary": "A research team led by Dr. Lorenzo Marchetti of the Museum für Naturkunde Berlin described the earliest archosauriform footprints (Pachychirotherium gardenaensis) from the GEOPARC Bletterbach—UNESCO World Heritage Dolomites, Italy.",
-      "url": "https://phys.org/news/2026-10-fossil-footprints-reveal-dinosaur-ancestors.html"
+      "date": "Thu, 15 Oct 2026 15:20:11 EDT",
+      "summary": "A brush with low doses of the herbicide dicamba spurs oxalis, a weed commonly known as wood sorrel, to produce more flowers, University of Michigan researchers have discovered. The finding suggests that farmers and homeowners are inadvertently making weeds growing around the perimeter of their fields or lawns stronger, the researchers say. The study results are published in the journal New Phytologist.",
+      "url": "https://phys.org/news/2026-10-weeds-supercharged-indirect-herbicide.html"
+    },
+    {
+      "category": "Science",
+      "title": "Better together? Coral fusion could throw bleached reefs a lifeline",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Thu, 15 Oct 2026 15:20:02 EDT",
+      "summary": "When corals are stressed by pollution, high water temperatures or other environmental changes, they can lose the microscopic algae living inside them and on which they depend for food. As a result, they turn white, a phenomenon known as coral bleaching. They will not die straight away, but it will be game over if the stress continues long enough for them to starve.",
+      "url": "https://phys.org/news/2026-10-coral-fusion-reefs-lifeline.html"
     },
     {
       "category": "Space",
-      "title": "Chandra Finds Possible Origin of ‘Treble Clef’ Waves",
+      "title": " On this day in space! Oct. 15, 1997: NASA launches Cassini-Hugyens probe on 7-year voyage to Saturn ",
+      "source": " Latest from Space.com ",
+      "date": "Thu, 15 Oct 2026 19:13:26 +0000",
+      "summary": "On this day in space! Oct. 15, 1997: NASA launches Cassini-Hugyens probe on 7-year voyage to Saturn",
+      "url": "https://www.space.com/space-exploration/on-this-day-in-space-october-15-2026"
+    },
+    {
+      "category": "Science",
+      "title": "Lion tracks from the ice age: How two ways of seeing brought ancient animals to life",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Thu, 15 Oct 2026 15:00:33 EDT",
+      "summary": "The coastline near the southern tip of Africa looked vastly different between about 400,000 years ago and 70,000 years ago, compared with today. At times it lay as much as 100km (62 miles) south of its present location, exposing the vast Palaeo-Agulhas Plain, which contained an extensive habitat for large mammals. At other times the sea level was briefly as much as 13 meters (43 feet) higher than today's mean level.",
+      "url": "https://phys.org/news/2026-10-lion-tracks-ice-age-ways.html"
+    },
+    {
+      "category": "AI",
+      "title": "E Ink Launches Latest Version of Color EPaper Platform, E Ink Kaleido 4",
+      "source": "Hacker News: Front Page",
+      "date": "Thu, 15 Oct 2026 18:38:16 +0000",
+      "summary": "Article URL: https://www.eink.com/news/detail/EInk-Launches-Latest-Version-of-Color-ePaper-Platform-E-Ink-Kaleido-4\nComments URL: https://news.ycombinator.com/item?id=50108229\nPoints: 14\n# Comments: 1",
+      "url": "https://www.eink.com/news/detail/EInk-Launches-Latest-Version-of-Color-ePaper-Platform-E-Ink-Kaleido-4"
+    },
+    {
+      "category": "AI",
+      "title": "Why We're Banning AI",
+      "source": "Hacker News: Front Page",
+      "date": "Thu, 15 Oct 2026 18:32:29 +0000",
+      "summary": "Article URL: https://www.currentaffairs.org/news/why-were-banning-ai\nComments URL: https://news.ycombinator.com/item?id=50108131\nPoints: 81\n# Comments: 58",
+      "url": "https://www.currentaffairs.org/news/why-were-banning-ai"
+    },
+    {
+      "category": "Space",
+      "title": " Watch SpaceX launch classified mission for the US Space Force today ",
+      "source": " Latest from Space.com ",
+      "date": "Thu, 15 Oct 2026 18:00:00 +0000",
+      "summary": "SpaceX will launch a classified mission for the U.S. Space Force from California this evening (Oct. 15), and you can watch the action live.",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-space-force-launch-ussf-481-vandenberg"
+    },
+    {
+      "category": "Space",
+      "title": "NASA Satellites Observe Historic 2026 El Niño",
       "source": "NASA",
-      "date": "Thu, 15 Oct 2026 14:19:06 +0000",
-      "summary": "A formation of radio waves looks remarkably like a treble clef in this Oct. 14, 2026, image from NASA’s Chandra X-Ray Observatory. Researchers used Chandra to find that the Treble Clef is likely caused by an outburst from a supermassive black hole, followed by a collision of two galaxy clusters. Read more about this discovery. […]",
-      "url": "https://www.nasa.gov/image-article/chandra-finds-possible-origin-of-treble-clef-waves/"
+      "date": "Thu, 15 Oct 2026 17:59:22 +0000",
+      "summary": "A phenomenon rarer than a solar eclipse and more powerful than any single storm system is unfolding this fall, and NASA is tracking it closely. El Niño is a natural climate pattern that emerges roughly every two to seven years marked by warmer-than-normal water temperatures in parts of the equatorial Pacific. NASA scientists are keeping […]",
+      "url": "https://science.nasa.gov/earth/nasa-satellites-observe-historic-2026-el-nino/"
+    },
+    {
+      "category": "Space",
+      "title": " Vaonis unveils Atlas, the world's 1st modular smart telescope system ",
+      "source": " Latest from Space.com ",
+      "date": "Thu, 15 Oct 2026 17:40:00 +0000",
+      "summary": "Pre-orders are now open for the Atlas, the new modular smart telescope from Vaonis which allows observation with two optical tubes.",
+      "url": "https://www.space.com/stargazing/skywatching-kit/modularity-is-here-vaonis-uveils-their-new-atlas-smart-telescope-system"
+    },
+    {
+      "category": "Space",
+      "title": "Power Up: Roll Out Solar Arrays Boost Space Station Power Supply",
+      "source": "NASA",
+      "date": "Thu, 15 Oct 2026 17:30:00 +0000",
+      "summary": "From the International Space Station’s unique position 250 miles above Earth, the Sun is a vital source of energy. Solar power supports the station’s life support systems, daily activities, and hundreds of research investigations that improve life on Earth and prepare humans for deep space exploration. Over the past five years, NASA augmented the station’s […]",
+      "url": "https://www.nasa.gov/missions/station/iss-research/power-up-roll-out-solar-arrays-boost-space-station-power-supply/"
+    },
+    {
+      "category": "AI",
+      "title": "Rocket Lab announces another delay for its medium-lift Neutron rocket",
+      "source": "Ars Technica - All content",
+      "date": "Thu, 15 Oct 2026 16:57:24 +0000",
+      "summary": "Rocket Lab announced the Neutron rocket in 2021, aiming for a first flight in 2024.",
+      "url": "https://arstechnica.com/space/2026/10/rocket-lab-announces-another-delay-for-its-medium-lift-neutron-rocket/"
+    },
+    {
+      "category": "Space",
+      "title": "NASA to Conduct Low-Altitude Flights Over Texas Farmland",
+      "source": "NASA",
+      "date": "Thu, 15 Oct 2026 16:42:10 +0000",
+      "summary": "A NASA Dynamic Aviation A200 aircraft will conduct low-flying research flights over farmland near Transit, Texas, from Thursday, Oct. 22, through Monday, Nov. 9. These flights will measure gaseous and particulate emissions from animal feeding operations. Agricultural emissions represent an important and understudied part of Earth’s land and atmosphere systems. The FarmFlux mission will deploy […]",
+      "url": "https://www.nasa.gov/general/nasa-to-conduct-low-altitude-flights-over-texas-farmland/"
     },
     {
       "category": "Science",
-      "title": "Drowned 5,000-year-old forests reborn as thriving peat reefs and biodiversity hotspots off Mozambique",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Thu, 15 Oct 2026 10:00:16 EDT",
-      "summary": "Researchers from the Bazaruto Center for Scientific Studies (BCSS) Ocean Observatory have documented ancient forests that grew on the Mozambican coast thousands of years ago and have been found beneath the sea, where they now serve as hotspots teeming with marine life similar in biodiversity to coral reefs.",
-      "url": "https://phys.org/news/2026-10-year-forests-reborn-peat-reefs.html"
-    },
-    {
-      "category": "Space",
-      "title": " Windblown yardangs on Mars | Space photo of the day for Oct. 15, 2026 ",
-      "source": " Latest from Space.com ",
-      "date": "Thu, 15 Oct 2026 14:00:00 +0000",
-      "summary": "Martian sands blown by strong winds left rippled ridges on the surface of the Red Planet, as seen in this new image from the Mars Express spacecraft.",
-      "url": "https://www.space.com/astronomy/stars/windblown-yardangs-on-mars-space-photo-of-the-day-for-oct-15-2026"
+      "title": " 'We're not a competitor to fusion. We are fusion': Inside the race to harness unlimited solar power in space ",
+      "source": " Latest from Live Science ",
+      "date": "Thu, 15 Oct 2026 16:00:00 +0000",
+      "summary": "Space-based solar power has the potential to meet Earth's energy needs many times over. Will it see the light of day?",
+      "url": "https://www.livescience.com/space/were-not-a-competitor-to-fusion-we-are-fusion-inside-the-race-to-harness-unlimited-solar-power-in-space"
     },
     {
       "category": "AI",
-      "title": "I know why Mathematicians weep",
-      "source": "Hacker News: Front Page",
-      "date": "Thu, 15 Oct 2026 13:44:32 +0000",
-      "summary": "Article URL: https://www.derekthompson.org/p/i-know-why-the-mathematicians-weep\nComments URL: https://news.ycombinator.com/item?id=50103630\nPoints: 57\n# Comments: 59",
-      "url": "https://www.derekthompson.org/p/i-know-why-the-mathematicians-weep"
+      "title": "Report: FTC probes Anthropic, OpenAI after Trump dismissed AI fears as “hoax”",
+      "source": "Ars Technica - All content",
+      "date": "Thu, 15 Oct 2026 15:43:24 +0000",
+      "summary": "FTC may fine AI firms on par with companies that delay data breach reports.",
+      "url": "https://arstechnica.com/tech-policy/2026/10/ftc-probes-if-openai-anthropic-security-incidents-harmed-americans-report-says/"
     },
     {
       "category": "AI",
-      "title": "Wayland desktop for Linux with skeuomorphic design",
-      "source": "Hacker News: Front Page",
-      "date": "Thu, 15 Oct 2026 13:23:44 +0000",
-      "summary": "Article URL: https://github.com/fyzugx/DEsk\nComments URL: https://news.ycombinator.com/item?id=50103338\nPoints: 11\n# Comments: 0",
-      "url": "https://github.com/fyzugx/DEsk"
+      "title": "Singer or clanker? YouTube Music will tell you with new gen AI labeling.",
+      "source": "Ars Technica - All content",
+      "date": "Thu, 15 Oct 2026 15:12:58 +0000",
+      "summary": "The AI music labels are rolling out now in YouTube Music and will come to YouTube soon.",
+      "url": "https://arstechnica.com/ai/2026/10/youtube-music-begins-labeling-ai-songs/"
     },
     {
-      "category": "AI",
-      "title": "GridSnap – an open-source Divvy-style window snapper for macOS",
-      "source": "Hacker News: Front Page",
-      "date": "Thu, 15 Oct 2026 13:19:07 +0000",
-      "summary": "Article URL: https://github.com/konieczkow/gridsnap\nComments URL: https://news.ycombinator.com/item?id=50103263\nPoints: 7\n# Comments: 3",
-      "url": "https://github.com/konieczkow/gridsnap"
-    },
-    {
-      "category": "Space",
-      "title": " Beat light pollution with these six portable telescopes ",
-      "source": " Latest from Space.com ",
-      "date": "Thu, 15 Oct 2026 13:00:00 +0000",
-      "summary": "Sick of skyglow spoiling your stargazing? These six telescopes are portable enough that you can easily pack them away and seek out darker skies.",
-      "url": "https://www.space.com/stargazing/skywatching-kit/beat-light-pollution-with-these-six-portable-telescopes"
+      "category": "Science",
+      "title": " Mysterious hole in Neanderthal shoulder blade may have been a 'kill shot' from a wooden spear, according to archaeologists ",
+      "source": " Latest from Live Science ",
+      "date": "Thu, 15 Oct 2026 15:00:00 +0000",
+      "summary": "A rare discovery reveals that 75,000 years ago, a Neanderthal from Shanidar Cave in Iraq died a grisly death, likely from a wooden spear.",
+      "url": "https://www.livescience.com/archaeology/neanderthals/mysterious-hole-in-neanderthal-shoulder-blade-may-have-been-a-kill-shot-from-a-wooden-spear-according-to-archaeologists"
     },
     {
       "category": "AI",
@@ -97,14 +161,6 @@
       "date": "Thu, 15 Oct 2026 08:40:44 EDT",
       "summary": "Arctic sea ice is shrinking in both winter and summer, with satellite records revealing that the region's remaining ice is becoming thinner, younger, and more vulnerable to melting. Despite a recent slowdown in summer losses, scientists warn that the Arctic could experience a nearly ice-free summer before 2050.",
       "url": "https://www.sciencedaily.com/releases/2026/10/261015073212.htm"
-    },
-    {
-      "category": "Space",
-      "title": " Scientists discover 'chemical starter kit' for life in planetary birthplaces ",
-      "source": " Latest from Space.com ",
-      "date": "Thu, 15 Oct 2026 12:00:00 +0000",
-      "summary": "The discovery of surprising molecules of methanol and associated maser activity has expanded the inventory of the chemical starter kit that builds planets in young star systems.",
-      "url": "https://www.space.com/space-exploration/search-for-life/scientists-discover-chemical-starter-kit-for-life-in-planetary-birthplaces"
     },
     {
       "category": "Science",
@@ -139,28 +195,12 @@
       "url": "https://www.livescience.com/health/reproductive-health/testosterone-for-menopause-the-treatment-is-rising-in-popularity-but-does-it-work"
     },
     {
-      "category": "Space",
-      "title": "APOD: 2026 October 15 – The Milky Way over Manhattan",
-      "source": "NASA",
-      "date": "Thu, 15 Oct 2026 04:05:00 +0000",
-      "summary": "APOD Science APOD APOD: 2026 October 15 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. The Milky […]",
-      "url": "https://science.nasa.gov/image-article/apod-2026-october-15-the-milky-way-over-manhattan/"
-    },
-    {
       "category": "Theology",
       "title": "Heaven: Do We Know Enough to Want to Go? (with Randy Alcorn)",
       "source": "The Gospel Coalition",
       "date": "Thu, 15 Oct 2026 04:04:10 +0000",
       "summary": "Melissa and Courtney talk with Randy Alcorn about common misconceptions about heaven, and all we have to look forward to in the life to come.",
       "url": "https://www.thegospelcoalition.org/podcasts/deep-dish/heaven-know-enough/"
-    },
-    {
-      "category": "Space",
-      "title": "Fires Arrive in the Amazon Rainforest",
-      "source": "NASA",
-      "date": "Thu, 15 Oct 2026 04:01:00 +0000",
-      "summary": "During El Niño, a cascade of fires across the tropics begins in equatorial Asia and continues in the central and eastern Amazon.",
-      "url": "https://science.nasa.gov/earth/earth-observatory/fires-arrive-in-the-amazon-rainforest/"
     },
     {
       "category": "Theology",
@@ -177,46 +217,6 @@
       "date": "Wed, 14 Oct 2026 22:00:22 +0000",
       "summary": "It should not be surprising to find Native American Patriots and men who intermarried into Native American families among the thousands of men who served during the American Revolution. Two of these men were James Bass and William Taburn, and today we can trace their relationship to the Nansemond Indian Nation. Linking these men with […]\nThe post James Bass & William Taburn, Nansemond Indian Nation Patriot Warriors: A Call for Research appeared first on Journal of the American Revolution.",
       "url": "https://allthingsliberty.com/2026/10/james-bass-william-taburn-nansemond-indian-nation-patriot-warriors-a-call-for-research/"
-    },
-    {
-      "category": "AI",
-      "title": "Fridge hack costing millions and sparking fires stemmed from poor security",
-      "source": "Ars Technica - All content",
-      "date": "Wed, 14 Oct 2026 21:35:09 +0000",
-      "summary": "Incident hitting 700 supermarkets exploited outdated devices exposed to the Internet.",
-      "url": "https://arstechnica.com/security/2026/10/fridge-hack-costing-millions-and-sparking-fires-stemmed-from-poor-security/"
-    },
-    {
-      "category": "AI",
-      "title": "Epic says its new vibe-coded Epic Games Launcher is faster than Steam",
-      "source": "Ars Technica - All content",
-      "date": "Wed, 14 Oct 2026 21:15:56 +0000",
-      "summary": "But the new \"Preview\" app \"will have some bugs,\" Epic warns.",
-      "url": "https://arstechnica.com/gaming/2026/10/programming-is-hard-epic-games-leans-on-vibe-coding-for-its-new-launcher-app/"
-    },
-    {
-      "category": "AI",
-      "title": "NATO may redeploy anti-drone defenses as attacks sink more Black Sea shipping",
-      "source": "Ars Technica - All content",
-      "date": "Wed, 14 Oct 2026 21:03:11 +0000",
-      "summary": "Suspected Russian drones have sunk or damaged 5 ships near Bulgaria and Romania.",
-      "url": "https://arstechnica.com/gadgets/2026/10/nato-may-redeploy-anti-drone-defenses-as-attacks-sink-more-black-sea-shipping/"
-    },
-    {
-      "category": "Science",
-      "title": " Chronic back pain may activate an unexpected brain network, study finds ",
-      "source": " Latest from Live Science ",
-      "date": "Wed, 14 Oct 2026 20:35:40 +0000",
-      "summary": "Movement-induced flares in chronic back pain activate brain regions involved in self-reflection, suggesting chronic pain may be processed differently than acute pain.",
-      "url": "https://www.livescience.com/health/neuroscience/chronic-back-pain-may-activate-an-unexpected-brain-network-study-finds"
-    },
-    {
-      "category": "Science",
-      "title": " DNA from centuries-old skeletons buried in Montreal reveals no genetic mixing between Indigenous people and French colonists ",
-      "source": " Latest from Live Science ",
-      "date": "Wed, 14 Oct 2026 19:46:12 +0000",
-      "summary": "A study of DNA from early colonial-era skeletons in a Montreal cemetery has revealed that none of them had any Indigenous ancestry.",
-      "url": "https://www.livescience.com/archaeology/americas/dna-from-centuries-old-skeletons-buried-in-montreal-reveals-no-genetic-mixing-between-indigenous-people-and-french-colonists"
     },
     {
       "category": "AI",
