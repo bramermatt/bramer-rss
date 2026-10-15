@@ -1,14 +1,118 @@
 {
-  "lastUpdated": "2026-10-14T19:53:52.146Z",
-  "articleCount": 36,
+  "lastUpdated": "2026-10-15T00:12:55.260Z",
+  "articleCount": 39,
   "articles": [
     {
       "category": "Science",
-      "title": "Rare particle decays hint at deviations from Standard Model predictions",
+      "title": "Green, pink and purple: Astronomers reveal the surprising true colors of white dwarf stars",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Wed, 14 Oct 2026 15:50:01 EDT",
-      "summary": "Studying rare processes is part and parcel of particle physics, providing stringent tests of the Standard Model. At the recent International Conference on High Energy Physics (ICHEP), the CMS and LHCb collaborations presented their latest research into one such process: the transformation of a beauty quark into a strange quark, a muon and the oppositely charged antimuon (b→sμ⁺μ⁻).",
-      "url": "https://phys.org/news/2026-10-rare-particle-decays-hint-deviations.html"
+      "date": "Wed, 14 Oct 2026 20:10:01 EDT",
+      "summary": "University of Warwick astronomers have shown that white dwarf stars can glow in a range of colors, including the first star ever found that would appear green to the human eye.",
+      "url": "https://phys.org/news/2026-10-green-pink-purple-astronomers-reveal.html"
+    },
+    {
+      "category": "Science",
+      "title": "Researchers in exile thrive in new academic settings when they contribute knowledge, not just receive aid",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Wed, 14 Oct 2026 20:00:01 EDT",
+      "summary": "Publishing scientific articles requires more than knowledge of academic writing conventions; it also depends on access to networks that support the research and publication process. Academic networks provide opportunities to exchange knowledge, receive feedback and develop collaborations that can strengthen both research and careers. For researchers in vulnerable situations, such connections can be crucial.",
+      "url": "https://phys.org/news/2026-10-exile-academic-contribute-knowledge-aid.html"
+    },
+    {
+      "category": "AI",
+      "title": "LFM2.5-24B-A2B: Built for Fast On-Device Agents",
+      "source": "Hacker News: Front Page",
+      "date": "Wed, 14 Oct 2026 23:59:37 +0000",
+      "summary": "Article URL: https://www.liquid.ai/blog/lfm2-5-24b-a2b\nComments URL: https://news.ycombinator.com/item?id=50097369\nPoints: 8\n# Comments: 0",
+      "url": "https://www.liquid.ai/blog/lfm2-5-24b-a2b"
+    },
+    {
+      "category": "Science",
+      "title": "One-third of food is lost or wasted: How to help farmers cut postharvest losses",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Wed, 14 Oct 2026 19:40:12 EDT",
+      "summary": "Agriculture in the Global South remains under pressure to produce more food while responding to climate change and resource constraints. Policy responses have focused on increasing production. But what about postharvest losses? Globally, about one-third of food produced for human consumption is estimated to be lost or wasted.",
+      "url": "https://phys.org/news/2026-10-food-lost-farmers-postharvest-losses.html"
+    },
+    {
+      "category": "AI",
+      "title": "Tiny Little Office",
+      "source": "Hacker News: Front Page",
+      "date": "Wed, 14 Oct 2026 22:10:08 +0000",
+      "summary": "Article URL: https://tinylittleoffice.com/\nComments URL: https://news.ycombinator.com/item?id=50096142\nPoints: 80\n# Comments: 13",
+      "url": "https://tinylittleoffice.com/"
+    },
+    {
+      "category": "History",
+      "title": "James Bass & William Taburn, Nansemond Indian Nation Patriot Warriors: A Call for Research",
+      "source": "Journal of the American Revolution",
+      "date": "Wed, 14 Oct 2026 22:00:22 +0000",
+      "summary": "It should not be surprising to find Native American Patriots and men who intermarried into Native American families among the thousands of men who served during the American Revolution. Two of these men were James Bass and William Taburn, and today we can trace their relationship to the Nansemond Indian Nation. Linking these men with […]\nThe post James Bass & William Taburn, Nansemond Indian Nation Patriot Warriors: A Call for Research appeared first on Journal of the American Revolution.",
+      "url": "https://allthingsliberty.com/2026/10/james-bass-william-taburn-nansemond-indian-nation-patriot-warriors-a-call-for-research/"
+    },
+    {
+      "category": "AI",
+      "title": "Fridge hack costing millions and sparking fires stemmed from poor security",
+      "source": "Ars Technica - All content",
+      "date": "Wed, 14 Oct 2026 21:35:09 +0000",
+      "summary": "Incident hitting 700 supermarkets exploited outdated devices exposed to the Internet.",
+      "url": "https://arstechnica.com/security/2026/10/fridge-hack-costing-millions-and-sparking-fires-stemmed-from-poor-security/"
+    },
+    {
+      "category": "AI",
+      "title": "Epic says its new vibe-coded Epic Games Launcher is faster than Steam",
+      "source": "Ars Technica - All content",
+      "date": "Wed, 14 Oct 2026 21:15:56 +0000",
+      "summary": "But the new \"Preview\" app \"will have some bugs,\" Epic warns.",
+      "url": "https://arstechnica.com/gaming/2026/10/programming-is-hard-epic-games-leans-on-vibe-coding-for-its-new-launcher-app/"
+    },
+    {
+      "category": "AI",
+      "title": "We’re releasing Jev 1.14.0 along with experimental features for dreamers",
+      "source": "Hacker News: Front Page",
+      "date": "Wed, 14 Oct 2026 21:11:03 +0000",
+      "summary": "Article URL: https://typesafe.ai/blog/jev-1-14\nComments URL: https://news.ycombinator.com/item?id=50095353\nPoints: 145\n# Comments: 52",
+      "url": "https://typesafe.ai/blog/jev-1-14"
+    },
+    {
+      "category": "AI",
+      "title": "NATO may redeploy anti-drone defenses as attacks sink more Black Sea shipping",
+      "source": "Ars Technica - All content",
+      "date": "Wed, 14 Oct 2026 21:03:11 +0000",
+      "summary": "Suspected Russian drones have sunk or damaged 5 ships near Bulgaria and Romania.",
+      "url": "https://arstechnica.com/gadgets/2026/10/nato-may-redeploy-anti-drone-defenses-as-attacks-sink-more-black-sea-shipping/"
+    },
+    {
+      "category": "Space",
+      "title": " Planetary genealogy: Milky Way worlds belong to 1 of 2 ‘families,’ scientists find ",
+      "source": " Latest from Space.com ",
+      "date": "Wed, 14 Oct 2026 21:00:00 +0000",
+      "summary": "Scientists have performed a cosmic genealogy on planetary systems in the Milky Way, finding two distinct families that influence the evolution and fate of these systems.",
+      "url": "https://www.space.com/astronomy/exoplanets/planetary-genealogy-milky-way-worlds-belong-to-1-of-2-families-scientists-find"
+    },
+    {
+      "category": "Science",
+      "title": " Chronic back pain may activate an unexpected brain network, study finds ",
+      "source": " Latest from Live Science ",
+      "date": "Wed, 14 Oct 2026 20:35:40 +0000",
+      "summary": "Movement-induced flares in chronic back pain activate brain regions involved in self-reflection, suggesting chronic pain may be processed differently than acute pain.",
+      "url": "https://www.livescience.com/health/neuroscience/chronic-back-pain-may-activate-an-unexpected-brain-network-study-finds"
+    },
+    {
+      "category": "Space",
+      "title": "NASA to Host News Conference Previewing US Spacewalks 100, 101",
+      "source": "NASA",
+      "date": "Wed, 14 Oct 2026 20:13:29 +0000",
+      "summary": "NASA will preview two upcoming spacewalks to complete solar array installation and power augmentation of the International Space Station during a news conference at 2 p.m. EDT, Tuesday, Oct. 20, from NASA’s Johnson Space Center in Houston. NASA will stream the event through a variety of platforms. Learn where to watch online: https://www.nasa.gov/live NASA participants […]",
+      "url": "https://www.nasa.gov/news-release/nasa-to-host-news-conference-previewing-us-spacewalks-100-101/"
+    },
+    {
+      "category": "Space",
+      "title": " 'Dungeon Crawler Carl' author Matt Dinniman talks inspirations, success, and the upcoming Peacock TV series (interview) ",
+      "source": " Latest from Space.com ",
+      "date": "Wed, 14 Oct 2026 20:00:00 +0000",
+      "summary": "'Luckily I’m still in love with this story, and I am in love with writing it.'",
+      "url": "https://www.space.com/entertainment/space-books/dungeon-crawler-carl-author-matt-dinniman-talks-inspirations-success-and-the-upcoming-peacock-tv-series-interview"
     },
     {
       "category": "Science",
@@ -20,22 +124,6 @@
     },
     {
       "category": "Science",
-      "title": "Sheep grazing in solar fields offers farmers economic, ecological gains",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Wed, 14 Oct 2026 15:40:07 EDT",
-      "summary": "Two new research papers shed light on the growing practice of grazing sheep in fields with solar arrays. One demonstrates that, in the right numbers, sheep grazing increases populations of beneficial insects like bees and lady beetles compared to mowing around solar panels. The other research describes a decision-making support tool to help farmers profitably grow their solar grazing herds.",
-      "url": "https://phys.org/news/2026-10-sheep-grazing-solar-fields-farmers.html"
-    },
-    {
-      "category": "Science",
-      "title": "Superheavy-element compound reveals weaker-than-expected bond due to relativistic effects",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Wed, 14 Oct 2026 15:40:02 EDT",
-      "summary": "An international collaboration led by a research group from GSI/FAIR in Darmstadt, Germany, has achieved the first measurement of the chemical stability of a superheavy element compound.",
-      "url": "https://phys.org/news/2026-10-superheavy-element-compound-reveals-weaker.html"
-    },
-    {
-      "category": "Science",
       "title": " Tapeworm drug could help treat endometriosis, mouse study hints ",
       "source": " Latest from Live Science ",
       "date": "Wed, 14 Oct 2026 19:34:46 +0000",
@@ -43,44 +131,12 @@
       "url": "https://www.livescience.com/health/reproductive-health/tapeworm-drug-could-help-treat-endometriosis-mouse-study-hints"
     },
     {
-      "category": "AI",
-      "title": "Private equity ownership affects dental practices",
-      "source": "Hacker News: Front Page",
-      "date": "Wed, 14 Oct 2026 19:11:25 +0000",
-      "summary": "Article URL: https://www.dentaleconomics.com/macro-op-ed/industry-news/news/55341670/how-does-private-equity-ownership-really-affect-dental-practices\nComments URL: https://news.ycombinator.com/item?id=50093298\nPoints: 3\n# Comments: 0",
-      "url": "https://www.dentaleconomics.com/macro-op-ed/industry-news/news/55341670/how-does-private-equity-ownership-really-affect-dental-practices"
-    },
-    {
-      "category": "AI",
-      "title": "Greta Gerwig channels Bowie in psychedelic The Magician's Nephew trailer",
-      "source": "Ars Technica - All content",
-      "date": "Wed, 14 Oct 2026 19:10:58 +0000",
-      "summary": "\"Have you ever seen a world born?\"",
-      "url": "https://arstechnica.com/culture/2026/10/greta-gerwig-channels-bowie-in-psychedelic-the-magicians-nephew-trailer/"
-    },
-    {
-      "category": "AI",
-      "title": "Suicide rates highest ever among middle-aged men",
-      "source": "Hacker News: Front Page",
-      "date": "Wed, 14 Oct 2026 19:03:58 +0000",
-      "summary": "Article URL: https://www.telegraph.co.uk/news/2026/10/13/suicide-rates-highest-ever-among-middle-aged-men/\nComments URL: https://news.ycombinator.com/item?id=50093180\nPoints: 17\n# Comments: 2",
-      "url": "https://www.telegraph.co.uk/news/2026/10/13/suicide-rates-highest-ever-among-middle-aged-men/"
-    },
-    {
-      "category": "AI",
-      "title": "Fire at Starlink site in Bulgaria after suspected sabotage in Poland",
-      "source": "Hacker News: Front Page",
-      "date": "Wed, 14 Oct 2026 18:37:21 +0000",
-      "summary": "Article URL: https://dpa-international.com/politics/urn:newsml:dpa.com:20090101:261014-930-839530/\nComments URL: https://news.ycombinator.com/item?id=50092730\nPoints: 110\n# Comments: 58",
-      "url": "https://dpa-international.com/politics/urn:newsml:dpa.com:20090101:261014-930-839530/"
-    },
-    {
-      "category": "Science",
-      "title": " Ancient Indigenous people in New Mexico lived through extreme climate change 23,000 years ago, study suggests ",
-      "source": " Latest from Live Science ",
-      "date": "Wed, 14 Oct 2026 18:19:41 +0000",
-      "summary": "Researchers have revealed the climate that some of the first people in North America experienced around 23,000 years ago, during the Last Glacial Maximum.",
-      "url": "https://www.livescience.com/archaeology/americas/ancient-indigenous-people-in-new-mexico-lived-through-extreme-climate-change-23-000-years-ago-study-suggests"
+      "category": "Space",
+      "title": "NASA Astronauts to Answer Questions from Florida Students",
+      "source": "NASA",
+      "date": "Wed, 14 Oct 2026 19:12:51 +0000",
+      "summary": "Students in Florida will hear from NASA astronauts Jessica Watkins and Luke Delaney as they answer prerecorded STEM questions while aboard the International Space Station. The Earth-to-space call will begin at 12 p.m. EDT Friday, Oct. 16, and will stream live on the agency’s Learn With NASA YouTube channel. This event is hosted by Sally Ride Elementary School […]",
+      "url": "https://www.nasa.gov/learning-resources/nasa-astronauts-to-answer-questions-from-florida-students/"
     },
     {
       "category": "Space",
@@ -91,36 +147,12 @@
       "url": "https://www.space.com/space-exploration/launches-spacecraft/spacexs-starship-just-turned-10-years-old-when-will-it-go-to-mars"
     },
     {
-      "category": "AI",
-      "title": "Researchers use AI to design proteins that cut up other proteins",
-      "source": "Ars Technica - All content",
-      "date": "Wed, 14 Oct 2026 17:10:15 +0000",
-      "summary": "AI design tools make proteins that break bonds that are stable for hundreds of years.",
-      "url": "https://arstechnica.com/science/2026/10/researchers-use-ai-to-design-proteins-that-cut-up-other-proteins/"
-    },
-    {
-      "category": "AI",
-      "title": "Recording device hidden in toilet paper found in top-secret OpenAI meeting room",
-      "source": "Ars Technica - All content",
-      "date": "Wed, 14 Oct 2026 16:41:49 +0000",
-      "summary": "OpenAI engineer faces 5 years and $250K fine as FBI lobs foreign spy charges.",
-      "url": "https://arstechnica.com/tech-policy/2026/10/fbi-arrests-openai-engineer-suspected-of-planting-bug-in-conference-room/"
-    },
-    {
       "category": "Space",
-      "title": " On this day in space! Oct. 14, 1947: Test pilot Chuck Yeager breaks the sound barrier in the Bell X-1, the first X-plane ",
-      "source": " Latest from Space.com ",
-      "date": "Wed, 14 Oct 2026 16:30:00 +0000",
-      "summary": "On Oct. 14, 1947, Chuck Yeager broke the sound barrier for the first time!  Here's why it mattered.",
-      "url": "https://www.space.com/space-exploration/on-this-day-in-space-october-14-2026"
-    },
-    {
-      "category": "Space",
-      "title": " Life after the moon: Artemis II's Christina Koch steps down from active astronaut duty ",
-      "source": " Latest from Space.com ",
-      "date": "Wed, 14 Oct 2026 16:00:00 +0000",
-      "summary": "Artemis II mission specialist Christina Koch will become NASA's acting deputy chief engineer on Nov. 1. All four Artemis II crewmates have now stepped away from active spaceflight duties.",
-      "url": "https://www.space.com/space-exploration/artemis/life-after-the-moon-artemis-iis-christina-koch-steps-down-from-active-astronaut-duty"
+      "title": "NASA’s Chandra Breaks Down ‘Treble Clef’s’ Galaxy Cluster Collision",
+      "source": "NASA",
+      "date": "Wed, 14 Oct 2026 16:46:58 +0000",
+      "summary": "Astronomers have used NASA’s Chandra X-ray Observatory to break down the cause of a remarkable formation of radio waves they have nicknamed the “Treble Clef” because its distinct shape strongly resembles the musical symbol. The researchers discovered the Treble Clef is likely caused by an outburst from a supermassive black hole, followed by a collision […]",
+      "url": "https://science.nasa.gov/missions/chandra/nasas-chandra-breaks-down-treble-clefs-galaxy-cluster-collision/"
     },
     {
       "category": "AI",
@@ -249,14 +281,6 @@
       "date": "Thu, 08 Oct 2026 21:49:22 +0000",
       "summary": "Rescue us from ourselves? No. Jesus died to rescue us from God’s wrath. \nThe post The Reason for Church: A Review appeared first on 9Marks.",
       "url": "https://www.9marks.org/review/the-reason-for-church-a-review/?utm_source=rss&utm_medium=rss&utm_campaign=the-reason-for-church-a-review"
-    },
-    {
-      "category": "History",
-      "title": "Trade, Land, Speculation: William Kerin Constable in the Age of Revolution",
-      "source": "Journal of the American Revolution",
-      "date": "Wed, 07 Oct 2026 22:00:25 +0000",
-      "summary": "The Marquis de Lafayette arrived in New York City to great fanfare on August 16, 1824. Two days later the sixty-six year old Frenchman and his entourage made their way across the East River to inspect the Brooklyn Navy Yard. Before returning to Manhattan, they paid a social call to the Brooklyn Heights home of […]\nThe post Trade, Land, Speculation: William Kerin Constable in the Age of Revolution appeared first on Journal of the American Revolution.",
-      "url": "https://allthingsliberty.com/2026/10/trade-land-speculation-william-kerin-constable-in-the-age-of-revolution/"
     },
     {
       "category": "Theology",
