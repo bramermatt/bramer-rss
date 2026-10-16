@@ -1,70 +1,78 @@
 {
-  "lastUpdated": "2026-10-15T19:35:56.807Z",
-  "articleCount": 39,
+  "lastUpdated": "2026-10-16T00:00:32.367Z",
+  "articleCount": 33,
   "articles": [
     {
+      "category": "Science",
+      "title": "Newly discovered viruses reveal an evolutionary missing link",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Thu, 15 Oct 2026 19:40:10 EDT",
+      "summary": "Researchers at the University of Miami have identified a group of previously unknown viruses that bridge an evolutionary gap between viruses and cellular protein compartments, a discovery with implications for both biotechnology and scientists' understanding of the origins of life.",
+      "url": "https://phys.org/news/2026-10-newly-viruses-reveal-evolutionary-link.html"
+    },
+    {
+      "category": "Science",
+      "title": "Rigorous analysis confirms NASA's Artemis II heat shield performance",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Thu, 15 Oct 2026 19:40:01 EDT",
+      "summary": "NASA's Artemis II mission sent four astronauts around the moon and brought them safely back to Earth, laying a foundation for crewed flights to the moon's surface.",
+      "url": "https://phys.org/news/2026-10-rigorous-analysis-nasa-artemis-ii.html"
+    },
+    {
+      "category": "Science",
+      "title": "White Sands footprints suggest humans experienced abrupt environmental shifts during the last ice age",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Thu, 15 Oct 2026 19:20:08 EDT",
+      "summary": "Expanded excavations at White Sands National Park in New Mexico have provided researchers an opportunity to refine the age of the oldest human footprints in North America and establish a deeper understanding of the landscape and environmental conditions at the time humans were present there.",
+      "url": "https://phys.org/news/2026-10-white-sands-footprints-humans-experienced.html"
+    },
+    {
       "category": "AI",
-      "title": "Someone on Torrent Sites Kept Fucking with My Sonarr",
-      "source": "Hacker News: Front Page",
-      "date": "Thu, 15 Oct 2026 19:21:38 +0000",
-      "summary": "Article URL: https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup\nComments URL: https://news.ycombinator.com/item?id=50108872\nPoints: 3\n# Comments: 1",
-      "url": "https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup"
+      "title": "Plex now helps sell movie theater tickets",
+      "source": "Ars Technica - All content",
+      "date": "Thu, 15 Oct 2026 21:22:15 +0000",
+      "summary": "Discovery data from Plex users will help studios, advertisers.",
+      "url": "https://arstechnica.com/gadgets/2026/10/plex-now-helps-sell-movie-theater-tickets/"
+    },
+    {
+      "category": "AI",
+      "title": "Hegseth’s dubious low-T screening may flag up to 25 percent of the Army",
+      "source": "Ars Technica - All content",
+      "date": "Thu, 15 Oct 2026 21:09:57 +0000",
+      "summary": "Medical experts explicitly recommend against blanket screenings.",
+      "url": "https://arstechnica.com/health/2026/10/hegseths-dubious-low-t-screening-may-flag-up-to-25-percent-of-the-army/"
+    },
+    {
+      "category": "AI",
+      "title": "Targeted ads delivered 0-click exploits to install mercenary malware",
+      "source": "Ars Technica - All content",
+      "date": "Thu, 15 Oct 2026 20:32:41 +0000",
+      "summary": "The incident is likely 1st confirmation of mercenary spyware delivered by targeted ads.",
+      "url": "https://arstechnica.com/security/2026/10/targeted-ads-delivered-0-click-exploits-to-install-mercenary-malware/"
     },
     {
       "category": "Science",
-      "title": "Researchers find that some weeds get supercharged by an indirect hit of herbicide",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Thu, 15 Oct 2026 15:20:11 EDT",
-      "summary": "A brush with low doses of the herbicide dicamba spurs oxalis, a weed commonly known as wood sorrel, to produce more flowers, University of Michigan researchers have discovered. The finding suggests that farmers and homeowners are inadvertently making weeds growing around the perimeter of their fields or lawns stronger, the researchers say. The study results are published in the journal New Phytologist.",
-      "url": "https://phys.org/news/2026-10-weeds-supercharged-indirect-herbicide.html"
-    },
-    {
-      "category": "Science",
-      "title": "Better together? Coral fusion could throw bleached reefs a lifeline",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Thu, 15 Oct 2026 15:20:02 EDT",
-      "summary": "When corals are stressed by pollution, high water temperatures or other environmental changes, they can lose the microscopic algae living inside them and on which they depend for food. As a result, they turn white, a phenomenon known as coral bleaching. They will not die straight away, but it will be game over if the stress continues long enough for them to starve.",
-      "url": "https://phys.org/news/2026-10-coral-fusion-reefs-lifeline.html"
+      "title": " 2 giant Ramesses II statues, one wearing a double crown, discovered by man in Egypt ",
+      "source": " Latest from Live Science ",
+      "date": "Thu, 15 Oct 2026 20:01:18 +0000",
+      "summary": "The remains of two Ramesses II statues — one of which would have originally stood around 28 feet tall — were found by a villager in Egypt.",
+      "url": "https://www.livescience.com/archaeology/ancient-egyptians/2-giant-ramesses-ii-statues-one-wearing-a-double-crown-discovered-by-man-in-egypt"
     },
     {
       "category": "Space",
-      "title": " On this day in space! Oct. 15, 1997: NASA launches Cassini-Hugyens probe on 7-year voyage to Saturn ",
-      "source": " Latest from Space.com ",
-      "date": "Thu, 15 Oct 2026 19:13:26 +0000",
-      "summary": "On this day in space! Oct. 15, 1997: NASA launches Cassini-Hugyens probe on 7-year voyage to Saturn",
-      "url": "https://www.space.com/space-exploration/on-this-day-in-space-october-15-2026"
-    },
-    {
-      "category": "Science",
-      "title": "Lion tracks from the ice age: How two ways of seeing brought ancient animals to life",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Thu, 15 Oct 2026 15:00:33 EDT",
-      "summary": "The coastline near the southern tip of Africa looked vastly different between about 400,000 years ago and 70,000 years ago, compared with today. At times it lay as much as 100km (62 miles) south of its present location, exposing the vast Palaeo-Agulhas Plain, which contained an extensive habitat for large mammals. At other times the sea level was briefly as much as 13 meters (43 feet) higher than today's mean level.",
-      "url": "https://phys.org/news/2026-10-lion-tracks-ice-age-ways.html"
+      "title": "NASA to Help Unlock Mysteries of Mars’ Moons in Upcoming Mission",
+      "source": "NASA",
+      "date": "Thu, 15 Oct 2026 19:58:08 +0000",
+      "summary": "NASA is playing an important role in JAXA’s (Japan Aerospace Exploration Agency) MMX (Martian Moons eXploration) mission, to advance our understanding of Mars’ moons and build on the agency’s long history of exploring the Red Planet. The mission aims to characterize and determine the origin of Mars’ moons Phobos and Deimos and deliver a sample […]",
+      "url": "https://science.nasa.gov/directorates/smd/planetary-science-division/nasa-to-help-unlock-mysteries-of-mars-moons-in-upcoming-mission/"
     },
     {
       "category": "AI",
-      "title": "E Ink Launches Latest Version of Color EPaper Platform, E Ink Kaleido 4",
-      "source": "Hacker News: Front Page",
-      "date": "Thu, 15 Oct 2026 18:38:16 +0000",
-      "summary": "Article URL: https://www.eink.com/news/detail/EInk-Launches-Latest-Version-of-Color-ePaper-Platform-E-Ink-Kaleido-4\nComments URL: https://news.ycombinator.com/item?id=50108229\nPoints: 14\n# Comments: 1",
-      "url": "https://www.eink.com/news/detail/EInk-Launches-Latest-Version-of-Color-ePaper-Platform-E-Ink-Kaleido-4"
-    },
-    {
-      "category": "AI",
-      "title": "Why We're Banning AI",
-      "source": "Hacker News: Front Page",
-      "date": "Thu, 15 Oct 2026 18:32:29 +0000",
-      "summary": "Article URL: https://www.currentaffairs.org/news/why-were-banning-ai\nComments URL: https://news.ycombinator.com/item?id=50108131\nPoints: 81\n# Comments: 58",
-      "url": "https://www.currentaffairs.org/news/why-were-banning-ai"
-    },
-    {
-      "category": "Space",
-      "title": " Watch SpaceX launch classified mission for the US Space Force today ",
-      "source": " Latest from Space.com ",
-      "date": "Thu, 15 Oct 2026 18:00:00 +0000",
-      "summary": "SpaceX will launch a classified mission for the U.S. Space Force from California this evening (Oct. 15), and you can watch the action live.",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-space-force-launch-ussf-481-vandenberg"
+      "title": "Bringing GPT-Rosalind to academic research labs",
+      "source": "OpenAI News",
+      "date": "Thu, 15 Oct 2026 19:00:00 GMT",
+      "summary": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
+      "url": "https://openai.com/index/introducing-the-rosalind-academic-plan"
     },
     {
       "category": "Space",
@@ -76,35 +84,11 @@
     },
     {
       "category": "Space",
-      "title": " Vaonis unveils Atlas, the world's 1st modular smart telescope system ",
-      "source": " Latest from Space.com ",
-      "date": "Thu, 15 Oct 2026 17:40:00 +0000",
-      "summary": "Pre-orders are now open for the Atlas, the new modular smart telescope from Vaonis which allows observation with two optical tubes.",
-      "url": "https://www.space.com/stargazing/skywatching-kit/modularity-is-here-vaonis-uveils-their-new-atlas-smart-telescope-system"
-    },
-    {
-      "category": "Space",
       "title": "Power Up: Roll Out Solar Arrays Boost Space Station Power Supply",
       "source": "NASA",
       "date": "Thu, 15 Oct 2026 17:30:00 +0000",
       "summary": "From the International Space Station’s unique position 250 miles above Earth, the Sun is a vital source of energy. Solar power supports the station’s life support systems, daily activities, and hundreds of research investigations that improve life on Earth and prepare humans for deep space exploration. Over the past five years, NASA augmented the station’s […]",
       "url": "https://www.nasa.gov/missions/station/iss-research/power-up-roll-out-solar-arrays-boost-space-station-power-supply/"
-    },
-    {
-      "category": "AI",
-      "title": "Rocket Lab announces another delay for its medium-lift Neutron rocket",
-      "source": "Ars Technica - All content",
-      "date": "Thu, 15 Oct 2026 16:57:24 +0000",
-      "summary": "Rocket Lab announced the Neutron rocket in 2021, aiming for a first flight in 2024.",
-      "url": "https://arstechnica.com/space/2026/10/rocket-lab-announces-another-delay-for-its-medium-lift-neutron-rocket/"
-    },
-    {
-      "category": "Space",
-      "title": "NASA to Conduct Low-Altitude Flights Over Texas Farmland",
-      "source": "NASA",
-      "date": "Thu, 15 Oct 2026 16:42:10 +0000",
-      "summary": "A NASA Dynamic Aviation A200 aircraft will conduct low-flying research flights over farmland near Transit, Texas, from Thursday, Oct. 22, through Monday, Nov. 9. These flights will measure gaseous and particulate emissions from animal feeding operations. Agricultural emissions represent an important and understudied part of Earth’s land and atmosphere systems. The FarmFlux mission will deploy […]",
-      "url": "https://www.nasa.gov/general/nasa-to-conduct-low-altitude-flights-over-texas-farmland/"
     },
     {
       "category": "Science",
@@ -113,22 +97,6 @@
       "date": "Thu, 15 Oct 2026 16:00:00 +0000",
       "summary": "Space-based solar power has the potential to meet Earth's energy needs many times over. Will it see the light of day?",
       "url": "https://www.livescience.com/space/were-not-a-competitor-to-fusion-we-are-fusion-inside-the-race-to-harness-unlimited-solar-power-in-space"
-    },
-    {
-      "category": "AI",
-      "title": "Report: FTC probes Anthropic, OpenAI after Trump dismissed AI fears as “hoax”",
-      "source": "Ars Technica - All content",
-      "date": "Thu, 15 Oct 2026 15:43:24 +0000",
-      "summary": "FTC may fine AI firms on par with companies that delay data breach reports.",
-      "url": "https://arstechnica.com/tech-policy/2026/10/ftc-probes-if-openai-anthropic-security-incidents-harmed-americans-report-says/"
-    },
-    {
-      "category": "AI",
-      "title": "Singer or clanker? YouTube Music will tell you with new gen AI labeling.",
-      "source": "Ars Technica - All content",
-      "date": "Thu, 15 Oct 2026 15:12:58 +0000",
-      "summary": "The AI music labels are rolling out now in YouTube Music and will come to YouTube soon.",
-      "url": "https://arstechnica.com/ai/2026/10/youtube-music-begins-labeling-ai-songs/"
     },
     {
       "category": "Science",
@@ -187,14 +155,6 @@
       "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-near-eastern-world/hanging-gardens/"
     },
     {
-      "category": "Science",
-      "title": " Testosterone for menopause: The treatment is rising in popularity, but does it work? ",
-      "source": " Latest from Live Science ",
-      "date": "Thu, 15 Oct 2026 09:00:00 +0000",
-      "summary": "Women are using testosterone in the hope that it will treat their menopause symptoms, but little evidence supports the approach, experts say.",
-      "url": "https://www.livescience.com/health/reproductive-health/testosterone-for-menopause-the-treatment-is-rising-in-popularity-but-does-it-work"
-    },
-    {
       "category": "Theology",
       "title": "Heaven: Do We Know Enough to Want to Go? (with Randy Alcorn)",
       "source": "The Gospel Coalition",
@@ -225,14 +185,6 @@
       "date": "Wed, 14 Oct 2026 12:00:00 GMT",
       "summary": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
       "url": "https://openai.com/index/amp-beyond-coding"
-    },
-    {
-      "category": "AI",
-      "title": "SentinelOne cuts malware analysis from weeks to hours",
-      "source": "OpenAI News",
-      "date": "Wed, 14 Oct 2026 12:00:00 GMT",
-      "summary": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.",
-      "url": "https://openai.com/index/sentinelone"
     },
     {
       "category": "Biblical Studies",
