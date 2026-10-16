@@ -1,70 +1,126 @@
 {
-  "lastUpdated": "2026-10-16T14:26:17.193Z",
+  "lastUpdated": "2026-10-16T19:09:35.610Z",
   "articleCount": 39,
   "articles": [
+    {
+      "category": "Science",
+      "title": "Automated essay assessment can grade writing more accurately across topics, study finds",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Fri, 16 Oct 2026 15:00:22 EDT",
+      "summary": "An artificial intelligence (AI) model can score English essays with improved accuracy across different writing topics, according to work published in the International Journal of Continuing Engineering Education and Life-Long Learning. The tool could help schools assess student work more efficiently while reducing inconsistencies in grading.",
+      "url": "https://phys.org/news/2026-10-automated-essay-grade-accurately-topics.html"
+    },
+    {
+      "category": "Science",
+      "title": "Spiny dogfish blood contains a hormone long thought absent in sharks",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Fri, 16 Oct 2026 15:00:01 EDT",
+      "summary": "Cortisol is a hormone that helps humans and many other animals regulate their energy use and respond to changing conditions. For a long time, sharks and rays were believed to rely on a different steroid hormone for these functions, without producing cortisol themselves. Now, a new study of North Pacific spiny dogfish, a species of small shark, challenges this view.",
+      "url": "https://phys.org/news/2026-10-spiny-dogfish-blood-hormone-thought.html"
+    },
+    {
+      "category": "AI",
+      "title": "Claude reveals ECDSA curve origins",
+      "source": "Hacker News: Front Page",
+      "date": "Fri, 16 Oct 2026 18:55:59 +0000",
+      "summary": "Article URL: https://www.anthropic.com/research/ecdsa-curve-origins\nComments URL: https://news.ycombinator.com/item?id=50122800\nPoints: 6\n# Comments: 0",
+      "url": "https://www.anthropic.com/research/ecdsa-curve-origins"
+    },
+    {
+      "category": "Science",
+      "title": "Maxwell's demon learns to turn concealed information into usable energy for microscopic systems",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Fri, 16 Oct 2026 14:50:01 EDT",
+      "summary": "Since its introduction more than 150 years ago, the thought-provoking idea of Maxwell's demon has profoundly shaped our understanding of the relationship between information and energy. Maxwell's demon is an imagined microscopic gatekeeper that exploits information at the microscopic scale to produce macroscopic work.",
+      "url": "https://phys.org/news/2026-10-maxwell-demon-concealed-usable-energy.html"
+    },
+    {
+      "category": "AI",
+      "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
+      "source": "Hacker News: Front Page",
+      "date": "Fri, 16 Oct 2026 18:32:35 +0000",
+      "summary": "Article URL: https://github.com/cobanov/PS5LM\nComments URL: https://news.ycombinator.com/item?id=50122431\nPoints: 17\n# Comments: 2",
+      "url": "https://github.com/cobanov/PS5LM"
+    },
+    {
+      "category": "AI",
+      "title": "Anthropic assigned highest junk credit rating in June",
+      "source": "Hacker News: Front Page",
+      "date": "Fri, 16 Oct 2026 18:11:42 +0000",
+      "summary": "Article URL: https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d\nComments URL: https://news.ycombinator.com/item?id=50122112\nPoints: 38\n# Comments: 9",
+      "url": "https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d"
+    },
+    {
+      "category": "Space",
+      "title": " Scientists find 'gemstones' in atmosphere of bizarre, scorching-hot 'marshmallow' exoplanet ",
+      "source": " Latest from Space.com ",
+      "date": "Fri, 16 Oct 2026 18:00:00 +0000",
+      "summary": "Using data from the James Webb Space Telescope, astronomers have unravelled some of the secrets of a bizarre, blisteringly hot exoplanet that has the consistency of marshmallow.",
+      "url": "https://www.space.com/astronomy/exoplanets/scientists-find-gemstones-in-atmosphere-of-bizarre-scorching-hot-marshmallow-exoplanet"
+    },
+    {
+      "category": "Space",
+      "title": " How to see the Orionid meteor shower 2026 peak this week — and when to look ",
+      "source": " Latest from Space.com ",
+      "date": "Fri, 16 Oct 2026 18:00:00 +0000",
+      "summary": "The Orionids peak around Oct. 21. Here's when and where to look for the best chance of spotting meteors.",
+      "url": "https://www.space.com/stargazing/meteor-showers/how-to-see-the-orionid-meteor-shower-2026-peak-this-week-and-when-to-look"
+    },
+    {
+      "category": "Space",
+      "title": " SpaceX thrusters just made a Tesla Roadster 'fly' (and Elon Musk's car is still out there in space) ",
+      "source": " Latest from Space.com ",
+      "date": "Fri, 16 Oct 2026 17:38:34 +0000",
+      "summary": "Tesla just unveiled its new Roadster with a spectacular stunt, using SpaceX thrusters to make the sleek vehicle \"fly.\"",
+      "url": "https://www.space.com/technology/spacex-thrusters-just-made-a-tesla-roadster-fly-and-elon-musks-car-is-still-out-there-in-space"
+    },
+    {
+      "category": "AI",
+      "title": "RFK Jr. proposes FDA look the other way on unproven peptides, report says",
+      "source": "Ars Technica - All content",
+      "date": "Fri, 16 Oct 2026 17:05:59 +0000",
+      "summary": "FDA scientists said none of the popular drugs have been proven safe or effective.",
+      "url": "https://arstechnica.com/health/2026/10/rfk-jr-proposes-fda-look-the-other-way-on-unproven-peptides-report-says/"
+    },
+    {
+      "category": "Space",
+      "title": "Artemis II Heat Shield After Splashdown",
+      "source": "NASA",
+      "date": "Fri, 16 Oct 2026 16:28:01 +0000",
+      "summary": "Shortly after NASA’s Artemis II mission splashed down on April 10, 2026, U.S. Navy divers captured underwater imagery of the Orion spacecraft’s heat shield. In the months after, the agency measured whether the thermal protection system effectively safeguarded the crew and Orion systems as the spacecraft reentered Earth’s atmosphere. This rigorous analysis confirmed that the […]",
+      "url": "https://www.nasa.gov/image-article/artemis-ii-heat-shield-after-splashdown/"
+    },
+    {
+      "category": "AI",
+      "title": "Meta may use sweeping new commercial TOS to avoid millions in AI licensing fees",
+      "source": "Ars Technica - All content",
+      "date": "Fri, 16 Oct 2026 15:41:00 +0000",
+      "summary": "Meta “streamlined” its commercial TOS. Legal experts warn it’s an AI power grab.",
+      "url": "https://arstechnica.com/tech-policy/2026/10/meta-may-use-sweeping-new-commercial-tos-to-avoid-millions-in-ai-licensing-fees/"
+    },
+    {
+      "category": "Science",
+      "title": " Fossil of 'unconquered female warrior' dinosaur with long claws found in UK museum drawer after 100 years ",
+      "source": " Latest from Live Science ",
+      "date": "Fri, 16 Oct 2026 14:56:18 +0000",
+      "summary": "The newly identified Invictibellatrix amberina lived about 120 million years ago and represents the first megaraptoran dinosaur found in Europe, according to a new study.",
+      "url": "https://www.livescience.com/animals/dinosaurs/fossil-of-unconquered-female-warrior-dinosaur-with-long-claws-found-in-uk-museum-drawer-after-100-years"
+    },
     {
       "category": "Space",
       "title": "I Am Artemis: Allison Mjoen",
       "source": "NASA",
       "date": "Fri, 16 Oct 2026 14:24:29 +0000",
-      "summary": "As the supercooled propellant flowed into the core stage, and NASA’s SLS (Space Launch System) rocket roared to life, Allison Mjoen and her family watched with awe and pride. Mjoen, NASA’s operations manager for the agency’s Exploration Ground Systems program, helped shape the systems and ground operations that will one day send humans back to […]",
+      "summary": "As the supercooled propellant flowed into the core stage, and NASA’s SLS (Space Launch System) rocket roared to life, Allison Mjoen and her family watched with awe and pride. Mjoen, NASA’s operations manager for the agency’s Exploration Ground Systems Program, helped shape the systems and ground operations that will one day send humans back to […]",
       "url": "https://www.nasa.gov/missions/station/i-am-artemis-allison-mjoen/"
     },
     {
-      "category": "Science",
-      "title": "Fully automated testing of bulk metals paves the way for AI-driven materials development",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Fri, 16 Oct 2026 10:20:09 EDT",
-      "summary": "Developing stronger and tougher structural metals such as steel requires exploring an enormous range of processing conditions. Even for the same alloy composition, heat treatment can dramatically change the material's microstructure and mechanical properties. If there were a way to automate the process, we could pinpoint ideal conditions much more efficiently. However, experiments on bulk metallic materials are difficult to automate because they require handling solid specimens and integrating large, specialized equipment.",
-      "url": "https://phys.org/news/2026-10-fully-automated-bulk-metals-paves.html"
-    },
-    {
-      "category": "Science",
-      "title": "Even or odd numbers: A single molecule makes all the difference in the quantum world",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Fri, 16 Oct 2026 10:20:06 EDT",
-      "summary": "The researchers in the Quantum Detection Microscopy group at CIC nanoGUNE, in collaboration with chemists at CiQUS of the University of Santiago de Compostela, have demonstrated that adding or removing a single molecule from a quantum chain can fundamentally change its interaction with a superconductor.",
-      "url": "https://phys.org/news/2026-10-odd-molecule-difference-quantum-world.html"
-    },
-    {
-      "category": "Science",
-      "title": "How do combined sewer overflows affect water quality in Philadelphia?",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Fri, 16 Oct 2026 10:00:09 EDT",
-      "summary": "In Philadelphia and many urban areas across the U.S. with sewer systems dating back to the 1800s, more frequent flooding is posing a threat not only to people and property but also to surrounding ecosystems. In these areas, stormwater and sewage drain into the same pipes, which are designed to spill into nearby waterways when flooding occurs rather than inundating streets.",
-      "url": "https://phys.org/news/2026-10-combined-sewer-affect-quality-philadelphia.html"
-    },
-    {
-      "category": "Space",
-      "title": " Supermassive black hole blasts out a neon 'treble clef' | Space photo of the day for Oct. 16, 2026 ",
-      "source": " Latest from Space.com ",
-      "date": "Fri, 16 Oct 2026 14:00:00 +0000",
-      "summary": "What looks like a neon pink treble clef floating out in space is actually a bizarre source of radio waves spotted deep in the cosmos.",
-      "url": "https://www.space.com/astronomy/black-holes/supermassive-black-hole-blasts-out-a-neon-treble-clef-space-photo-of-the-day-for-oct-16-2026"
-    },
-    {
-      "category": "Space",
-      "title": " 'We are getting a lot of pressure from the administrator himself': How NASA is racing to obey Trump's 'Super Intelligence' order ",
-      "source": " Latest from Space.com ",
-      "date": "Fri, 16 Oct 2026 13:55:13 +0000",
-      "summary": "Internal NASA documents and meeting recordings reveal how Trump's executive order to rename AI as \"super intelligence\" is reshaping agency communications and digital systems — and raising concerns among employees as top officials push to accelerate the changes.",
-      "url": "https://www.space.com/technology/we-are-getting-a-lot-of-pressure-from-the-administrator-himself-how-nasa-is-racing-to-obey-trumps-super-intelligence-order"
-    },
-    {
       "category": "AI",
-      "title": "Seized server Autistici/Inventati (A/I) in Amsterdam for U.S. authorities",
-      "source": "Hacker News: Front Page",
-      "date": "Fri, 16 Oct 2026 13:09:25 +0000",
-      "summary": "Article URL: https://nltimes.nl/2026/10/14/amsterdam-server-seized-request-us-authorities-antifa-allegations\nComments URL: https://news.ycombinator.com/item?id=50117952\nPoints: 12\n# Comments: 4",
-      "url": "https://nltimes.nl/2026/10/14/amsterdam-server-seized-request-us-authorities-antifa-allegations"
-    },
-    {
-      "category": "AI",
-      "title": "I Love Software Rendering",
-      "source": "Hacker News: Front Page",
-      "date": "Fri, 16 Oct 2026 12:52:08 +0000",
-      "summary": "Article URL: https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/\nComments URL: https://news.ycombinator.com/item?id=50117746\nPoints: 79\n# Comments: 47",
-      "url": "https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/"
+      "title": "Polymarket saw $600 million in election trades after the elections were over",
+      "source": "Ars Technica - All content",
+      "date": "Fri, 16 Oct 2026 14:19:22 +0000",
+      "summary": "Millions kept changing hands long after the election outcomes were effectively settled.",
+      "url": "https://arstechnica.com/tech-policy/2026/10/polymarket-saw-600-million-in-election-trades-after-the-elections-were-over/"
     },
     {
       "category": "Space",
@@ -83,38 +139,6 @@
       "url": "https://www.sciencedaily.com/releases/2026/10/261015073218.htm"
     },
     {
-      "category": "AI",
-      "title": "Bark: The Toll-Free BBS for 90s Teens",
-      "source": "Hacker News: Front Page",
-      "date": "Fri, 16 Oct 2026 12:22:13 +0000",
-      "summary": "Article URL: https://blog.bityard.net/articles/2026/October/bark-the-toll-free-bbs-for-90s-teens\nComments URL: https://news.ycombinator.com/item?id=50117504\nPoints: 7\n# Comments: 3",
-      "url": "https://blog.bityard.net/articles/2026/October/bark-the-toll-free-bbs-for-90s-teens"
-    },
-    {
-      "category": "AI",
-      "title": "The Surface Laptop Ultra delivers on most of Microsoft's promises",
-      "source": "Ars Technica - All content",
-      "date": "Fri, 16 Oct 2026 12:00:05 +0000",
-      "summary": "Microsoft promises one machine for dev, AI, and gaming, and mostly gets there.",
-      "url": "https://arstechnica.com/reviews/2026/10/the-surface-laptop-ultra-delivers-on-most-of-microsofts-promises/"
-    },
-    {
-      "category": "Space",
-      "title": " Rocket Lab pushes 1st launch of next-gen Neutron rocket to 2027 ",
-      "source": " Latest from Space.com ",
-      "date": "Fri, 16 Oct 2026 12:00:00 +0000",
-      "summary": "Rocket Lab has delayed the debut of its powerful, partially reusable Neutron launcher to 2027 due to a manufacturing issue.",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-pushes-1st-launch-of-next-gen-neutron-rocket-to-2027"
-    },
-    {
-      "category": "AI",
-      "title": "Rocket Report: FAA eyes more Starbase traffic; India's Skyroot snares US customer",
-      "source": "Ars Technica - All content",
-      "date": "Fri, 16 Oct 2026 11:00:53 +0000",
-      "summary": "The pioneering reusable upper stage for Stoke Space's Nova rocket ships out for testing.",
-      "url": "https://arstechnica.com/space/2026/10/rocket-report-faa-eyes-more-starbase-traffic-indias-skyroot-snares-us-customer/"
-    },
-    {
       "category": "Biblical Studies",
       "title": "Archive of Hittite Tablets Discovered",
       "source": "Biblical Archaeology Society",
@@ -123,12 +147,12 @@
       "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-near-eastern-world/archive-of-hittite-tablets-discovered/"
     },
     {
-      "category": "AI",
-      "title": "Blue Origin is going all in on the New Glenn rocket",
-      "source": "Ars Technica - All content",
-      "date": "Fri, 16 Oct 2026 10:00:54 +0000",
-      "summary": "The infrastructure is designed to support multiple flights per week by the end of the decade.",
-      "url": "https://arstechnica.com/space/2026/10/blue-origin-is-going-all-in-on-the-new-glenn-rocket/"
+      "category": "Biblical Studies",
+      "title": "Did Northern Scribes Help Write the Bible?",
+      "source": "Biblical Archaeology Society",
+      "date": "Fri, 16 Oct 2026 10:00:08 +0000",
+      "summary": "In the late eighth century BCE, the Assyrian Empire conducted a series of military campaigns that devastated the Northern Kingdom of Israel. The onslaught drove […]\nThe post Did Northern Scribes Help Write the Bible? appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-israel/did-northern-scribes-help-write-bible/"
     },
     {
       "category": "Science",
@@ -137,14 +161,6 @@
       "date": "Fri, 16 Oct 2026 10:00:00 +0000",
       "summary": "Stellar remnants called white dwarfs ‪appear to come in a rainbow of colors, according to a new study.",
       "url": "https://www.livescience.com/space/astronomy/white-dwarf-stars-can-be-purple-pink-and-even-green-surprising-new-study-finds"
-    },
-    {
-      "category": "Space",
-      "title": "APOD: 2026 October 16 – Chasing the International Space Station",
-      "source": "NASA",
-      "date": "Fri, 16 Oct 2026 04:05:00 +0000",
-      "summary": "APOD Science APOD APOD: 2026 October 16 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. To view this […]",
-      "url": "https://science.nasa.gov/image-article/apod-2026-october-16-chasing-the-international-space-station/"
     },
     {
       "category": "Theology",
@@ -195,14 +211,6 @@
       "url": "https://openai.com/index/introducing-the-rosalind-academic-plan"
     },
     {
-      "category": "Science",
-      "title": " 'We're not a competitor to fusion. We are fusion': Inside the race to harness unlimited solar power in space ",
-      "source": " Latest from Live Science ",
-      "date": "Thu, 15 Oct 2026 16:00:00 +0000",
-      "summary": "Space-based solar power has the potential to meet Earth's energy needs many times over. Will it see the light of day?",
-      "url": "https://www.livescience.com/space/were-not-a-competitor-to-fusion-we-are-fusion-inside-the-race-to-harness-unlimited-solar-power-in-space"
-    },
-    {
       "category": "AI",
       "title": "Teaching students to think and learn through questions",
       "source": "OpenAI News",
@@ -225,14 +233,6 @@
       "date": "Thu, 15 Oct 2026 11:00:25 +0000",
       "summary": "“Alternative facts” and “fake news” are not just a contemporary phenomenon. On occasion ancient writers similarly tried to spin their version of the truth. One such claim was that Roman emperor Domitian was a great persecutor of Christians.\nThe post Alternative Facts: Domitian’s Persecution of Christians appeared first on Biblical Archaeology Society.",
       "url": "https://www.biblicalarchaeology.org/daily/biblical-topics/post-biblical-period/domitian-persecution-of-christians/"
-    },
-    {
-      "category": "Biblical Studies",
-      "title": "Where Are the Hanging Gardens of Babylon?",
-      "source": "Biblical Archaeology Society",
-      "date": "Thu, 15 Oct 2026 11:00:06 +0000",
-      "summary": "Where are the Hanging Gardens of Babylon? Today, the exact locations of six of the seven ancient Wonders of the World are known. Yet, the […]\nThe post Where Are the Hanging Gardens of Babylon? appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-near-eastern-world/hanging-gardens/"
     },
     {
       "category": "AI",
