@@ -1,46 +1,86 @@
 {
-  "lastUpdated": "2026-10-17T13:23:27.378Z",
+  "lastUpdated": "2026-10-17T18:04:16.697Z",
   "articleCount": 36,
   "articles": [
     {
       "category": "Science",
-      "title": "Red-sensitive pigments in mantis shrimp eyes act as reversible light switches",
+      "title": "Quantum magic state cleanup cuts errors 40-fold in first successful hardware test",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Sat, 17 Oct 2026 09:00:01 EDT",
-      "summary": "With about 30 visual pigments, compared to just three in humans, mantis shrimp possess a visual system that remains a mystery. Researchers from ULiège and Humboldt University in Berlin have, for the first time, analyzed these pigments one by one and discovered that some detect red light that very few animals can perceive. This finding, published in Science Advances, has potential applications in optogenetics.",
-      "url": "https://phys.org/news/2026-10-red-sensitive-pigments-mantis-shrimp.html"
+      "date": "Sat, 17 Oct 2026 14:00:02 EDT",
+      "summary": "Qubits, the quantum equivalent of digital bits, are fragile and prone to errors. That makes building reliable quantum computers extremely difficult. One fix has been to use traditional magic state distillation, which filters out flaws, but it is extremely resource-intensive.",
+      "url": "https://phys.org/news/2026-10-quantum-magic-state-cleanup-errors.html"
     },
     {
       "category": "AI",
-      "title": "Show HN: Which Mac runs which LLM, and how fast",
+      "title": "Linux bugs fixed per release over time: >2× rise since 2026-04",
       "source": "Hacker News: Front Page",
-      "date": "Sat, 17 Oct 2026 12:15:57 +0000",
-      "summary": "Article URL: https://macyou.co/mac-llm-calculator\nComments URL: https://news.ycombinator.com/item?id=50130442\nPoints: 7\n# Comments: 3",
-      "url": "https://macyou.co/mac-llm-calculator"
+      "date": "Sat, 17 Oct 2026 17:14:12 +0000",
+      "summary": "Article URL: https://lwn.net/Articles/1088776/\nComments URL: https://news.ycombinator.com/item?id=50132950\nPoints: 14\n# Comments: 0",
+      "url": "https://lwn.net/Articles/1088776/"
+    },
+    {
+      "category": "AI",
+      "title": "Artie (YC S23) Is Hiring Enterprise AES and Senior Engineers",
+      "source": "Hacker News: Front Page",
+      "date": "Sat, 17 Oct 2026 17:02:50 +0000",
+      "summary": "Article URL: https://www.artie.com/careers\nComments URL: https://news.ycombinator.com/item?id=50132839\nPoints: 0\n# Comments: 0",
+      "url": "https://www.artie.com/careers"
     },
     {
       "category": "Science",
-      "title": "Electrical sliding switches graphene between magnetic states",
+      "title": "What an ancient volcanic eruption teaches us about resilience today",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Sat, 17 Oct 2026 08:00:06 EDT",
-      "summary": "In a discovery that could offer a new way to control quantum properties in two-dimensional materials, researchers at Cornell have found that electrically sliding the layers of ultrathin graphene can switch the material between distinct magnetic states that persist even after the voltage is removed.",
-      "url": "https://phys.org/news/2026-10-electrical-graphene-magnetic-states.html"
+      "date": "Sat, 17 Oct 2026 13:00:05 EDT",
+      "summary": "When a massive environmental disaster strikes, do societies simply collapse and disappear? Or do people find a way to adapt, rebuild and recover?",
+      "url": "https://phys.org/news/2026-10-ancient-volcanic-eruption-resilience-today.html"
+    },
+    {
+      "category": "AI",
+      "title": "OpenAI discloses four more rogue incidents",
+      "source": "Hacker News: Front Page",
+      "date": "Sat, 17 Oct 2026 16:31:12 +0000",
+      "summary": "Article URL: https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data/\nComments URL: https://news.ycombinator.com/item?id=50132502\nPoints: 43\n# Comments: 13",
+      "url": "https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data/"
     },
     {
       "category": "Science",
-      "title": "Global survey links financial hardship to lower trust in science",
+      "title": "Hand-cranked device tells blood type and red cell levels in 1 minute",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Sat, 17 Oct 2026 08:00:01 EDT",
-      "summary": "Poor access to health care, limited local influence over research priorities and an unequal distribution of scientific benefits are undermining public confidence in science, experts warn, following the release of a global trust survey.",
-      "url": "https://phys.org/news/2026-10-global-survey-links-financial-hardship.html"
+      "date": "Sat, 17 Oct 2026 12:00:01 EDT",
+      "summary": "When someone is badly injured, doctors urgently need two facts: the patient's blood type, so that a transfusion is safe, and their hematocrit, the share of the blood made up of red blood cells, which reveals blood loss or anemia. Hospitals measure both with large machines that need electricity and trained staff, which are often unavailable in ambulances, disaster zones or remote clinics.",
+      "url": "https://phys.org/news/2026-10-cranked-device-blood-red-cell.html"
     },
     {
       "category": "Space",
-      "title": " 'Lanterns' shocking finale left us with a lot of unanswered questions for a potential season 2 ",
+      "title": " On this day in space! Oct. 17, 2016: Private Antares rocket returns to flight after catastrophic launch explosion ",
       "source": " Latest from Space.com ",
-      "date": "Sat, 17 Oct 2026 12:00:00 +0000",
-      "summary": "John Stewart goes rogue in Sector 2814 and embraces fear hopefully leading into season 2",
-      "url": "https://www.space.com/entertainment/space-movies-shows/lanterns-shocking-finale-left-us-with-a-lot-of-unanswered-questions-for-a-potential-season-2"
+      "date": "Sat, 17 Oct 2026 14:49:01 +0000",
+      "summary": "On Oct. 17, 2016, the Antares rocket now built by Northrop Grumman Space Systems returned to flight to come back from a catastrophic explosion. Here's why it mattered.",
+      "url": "https://www.space.com/space-exploration/on-this-day-in-space-october-17-2026"
+    },
+    {
+      "category": "Space",
+      "title": " This Week In Space podcast: Episode 232 — The Lunar Dump ",
+      "source": " Latest from Space.com ",
+      "date": "Sat, 17 Oct 2026 14:17:38 +0000",
+      "summary": "On Episode 232 of This Week In Space, Rod Pyle and Tariq Malik are joined by Chelsea Gohd to talk about the recent large data dump from the Artemis II mission.",
+      "url": "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-232-the-lunar-dump"
+    },
+    {
+      "category": "Space",
+      "title": " 6 scientifically accurate star projectors to turn any room into a home planetarium ",
+      "source": " Latest from Space.com ",
+      "date": "Sat, 17 Oct 2026 14:00:00 +0000",
+      "summary": "These six realistic star projectors are much more than mood lighting. Their projections are scientifically accurate enough to serve as actual stargazing practice, perfect for budding astronomers, young and old.",
+      "url": "https://www.space.com/stargazing/skywatching-kit/six-scientifically-accurate-star-projectors-to-turn-any-room-into-a-home-planetarium"
+    },
+    {
+      "category": "Science",
+      "title": "NASA’s Roman Space Telescope exceeds expectations by nearly 30%",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Sat, 17 Oct 2026 09:28:13 EDT",
+      "summary": "NASA’s Nancy Grace Roman Space Telescope has exceeded expectations after engineers made incredibly tiny adjustments to sharpen its view of the universe. By moving a mirror just one-sixteenth the width of a human hair, the team helped bring its powerful instruments into near-perfect alignment. Roman’s Wide Field Instrument now produces image quality nearly 30% better than predicted, promising exceptionally sharp cosmic surveys.",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261016070630.htm"
     },
     {
       "category": "Science",
@@ -75,14 +115,6 @@
       "url": "https://www.livescience.com/health/neuroscience/is-the-brain-actually-2-nervous-systems-smooshed-together-a-new-study-claims-it-is"
     },
     {
-      "category": "Space",
-      "title": " The Orionid meteor shower peaks next week! Here's what to expect ",
-      "source": " Latest from Space.com ",
-      "date": "Sat, 17 Oct 2026 10:00:00 +0000",
-      "summary": "The Orionid meteor shower peaks overnight on Oct. 21-22, bringing a spectacular display of shooting stars to the autumn sky.",
-      "url": "https://www.space.com/stargazing/meteor-showers/the-orionid-meteor-shower-peaks-oct-21-22-2026-heres-what-to-expect"
-    },
-    {
       "category": "Science",
       "title": " New 4,300-mile-long internet cable will shuttle data along the ocean floor at 1 million gigabits per second ",
       "source": " Latest from Live Science ",
@@ -91,20 +123,12 @@
       "url": "https://www.livescience.com/technology/communications/new-4-300-mile-long-internet-cable-will-shuttle-data-along-the-ocean-floor-at-1-million-gigabits-per-second"
     },
     {
-      "category": "AI",
-      "title": "DeepSeek: DeepSeek v4.1 Flash 1017",
-      "source": "Hacker News: Front Page",
-      "date": "Sat, 17 Oct 2026 08:37:46 +0000",
-      "summary": "Article URL: https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017\nComments URL: https://news.ycombinator.com/item?id=50129121\nPoints: 309\n# Comments: 121",
-      "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017"
-    },
-    {
-      "category": "AI",
-      "title": "DeepSeek-v4.1-Flash-1017",
-      "source": "Hacker News: Front Page",
-      "date": "Sat, 17 Oct 2026 08:21:25 +0000",
-      "summary": "Article URL: https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017\nComments URL: https://news.ycombinator.com/item?id=50129045\nPoints: 254\n# Comments: 99",
-      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017"
+      "category": "Science",
+      "title": "Scientists discover how deep sleep builds muscle, burns fat, and boosts the brain",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Sat, 17 Oct 2026 01:14:50 EDT",
+      "summary": "Scientists have discovered a surprising two-way relationship between sleep and growth hormone, revealing how the brain carefully balances physical recovery with wakefulness. The findings could help explain why poor sleep harms metabolism and brain health, potentially opening the door to new treatments for sleep and neurological disorders.",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261016081140.htm"
     },
     {
       "category": "Theology",
@@ -115,12 +139,12 @@
       "url": "https://www.thegospelcoalition.org/article/sabbath-act-like-god/"
     },
     {
-      "category": "Space",
-      "title": " 'It really does change you': SpaceX Crew-12 commander wishes we could all see our fragile Earth from space ",
-      "source": " Latest from Space.com ",
-      "date": "Fri, 16 Oct 2026 22:00:00 +0000",
-      "summary": "The astronauts of SpaceX's Crew-12 mission wish that we could all see Earth as they just did —as a beautiful but fragile outpost of life in a vast void.",
-      "url": "https://www.space.com/space-exploration/international-space-station/it-really-does-change-you-spacex-crew-12-commander-wishes-we-could-all-see-our-fragile-earth-from-space"
+      "category": "Science",
+      "title": "Scientists predicted doomsday for November 13, 2026. Should we be worried?",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Fri, 16 Oct 2026 21:52:59 EDT",
+      "summary": "In 1960, scientists predicted that runaway population growth would bring humanity to the brink of destruction on November 13, 2026, and their mathematical forecasts remained surprisingly accurate for decades. But as birth rates declined and population growth slowed, the terrifying prediction unraveled, revealing how even convincing scientific models can fail when human behavior changes.",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261016070639.htm"
     },
     {
       "category": "AI",
@@ -137,14 +161,6 @@
       "date": "Fri, 16 Oct 2026 19:00:00 GMT",
       "summary": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
       "url": "https://openai.com/index/itau-generative-ai"
-    },
-    {
-      "category": "Science",
-      "title": "The uranium cubes that exposed Nazi Germany’s nuclear failure",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Fri, 16 Oct 2026 08:32:52 EDT",
-      "summary": "Scientists investigating Nazi Germany's secret nuclear program have uncovered evidence that its final experimental reactor was nowhere near as close to working as previously claimed. Analysis of surviving uranium cubes and wartime documents reveals that Germany lacked the enormous quantities of uranium and heavy water needed to make its reactor operational.",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261015073218.htm"
     },
     {
       "category": "Biblical Studies",
@@ -179,22 +195,6 @@
       "url": "https://www.thegospelcoalition.org/article/overcome-obstacles-discipling-relationships/"
     },
     {
-      "category": "Science",
-      "title": "“Crawzilla” was huge. Then scientists found an even bigger crayfish",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Thu, 15 Oct 2026 23:45:22 EDT",
-      "summary": "A nationwide search for giant crayfish uncovered a record-breaking Tennessee specimen and a surprising mystery about how big these freshwater creatures can grow. Scientists found that North American crayfish seem to hit a biological size limit, possibly because of their muscles or protective shells.",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261015073220.htm"
-    },
-    {
-      "category": "AI",
-      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-      "source": "OpenAI News",
-      "date": "Fri, 16 Oct 2026 00:00:00 GMT",
-      "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
-      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin"
-    },
-    {
       "category": "AI",
       "title": "Benefit Street Partners answers questions faster with Codex",
       "source": "OpenAI News",
@@ -203,12 +203,12 @@
       "url": "https://openai.com/index/benefit-street-partners"
     },
     {
-      "category": "Science",
-      "title": "Arctic sea ice hits another troubling low in 2026",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Thu, 15 Oct 2026 08:40:44 EDT",
-      "summary": "Arctic sea ice is shrinking in both winter and summer, with satellite records revealing that the region's remaining ice is becoming thinner, younger, and more vulnerable to melting. Despite a recent slowdown in summer losses, scientists warn that the Arctic could experience a nearly ice-free summer before 2050.",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261015073212.htm"
+      "category": "AI",
+      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "source": "OpenAI News",
+      "date": "Fri, 16 Oct 2026 00:00:00 GMT",
+      "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
+      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin"
     },
     {
       "category": "Biblical Studies",
