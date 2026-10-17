@@ -1,30 +1,118 @@
 {
-  "lastUpdated": "2026-10-17T00:04:54.092Z",
-  "articleCount": 39,
+  "lastUpdated": "2026-10-17T13:23:27.378Z",
+  "articleCount": 36,
   "articles": [
     {
       "category": "Science",
-      "title": "Scientists uncover mystery of how snail shells coil to the right or to the left",
+      "title": "Red-sensitive pigments in mantis shrimp eyes act as reversible light switches",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Fri, 16 Oct 2026 19:40:10 EDT",
-      "summary": "Scientists have discovered a gene that determines whether Japanese snails develop shells that are left- or right-coiling—with implications for understanding the underlying handedness of our own bodies. The researchers from the University of Nottingham and Tohoku University studied wild Euhadra snails in Japan to understand what makes one snail a mirror image of another.",
-      "url": "https://phys.org/news/2026-10-scientists-uncover-mystery-snail-shells.html"
+      "date": "Sat, 17 Oct 2026 09:00:01 EDT",
+      "summary": "With about 30 visual pigments, compared to just three in humans, mantis shrimp possess a visual system that remains a mystery. Researchers from ULiège and Humboldt University in Berlin have, for the first time, analyzed these pigments one by one and discovered that some detect red light that very few animals can perceive. This finding, published in Science Advances, has potential applications in optogenetics.",
+      "url": "https://phys.org/news/2026-10-red-sensitive-pigments-mantis-shrimp.html"
+    },
+    {
+      "category": "AI",
+      "title": "Show HN: Which Mac runs which LLM, and how fast",
+      "source": "Hacker News: Front Page",
+      "date": "Sat, 17 Oct 2026 12:15:57 +0000",
+      "summary": "Article URL: https://macyou.co/mac-llm-calculator\nComments URL: https://news.ycombinator.com/item?id=50130442\nPoints: 7\n# Comments: 3",
+      "url": "https://macyou.co/mac-llm-calculator"
     },
     {
       "category": "Science",
-      "title": "Rabbits were a medieval royal luxury in England—until the Black Death made them commonplace",
+      "title": "Electrical sliding switches graphene between magnetic states",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Fri, 16 Oct 2026 19:40:06 EDT",
-      "summary": "The European rabbit is a common sight in the British countryside today. Yet it was not always so. They are not native to the British Isles and are one of the most devastating invasive species.",
-      "url": "https://phys.org/news/2026-10-rabbits-medieval-royal-luxury-england.html"
+      "date": "Sat, 17 Oct 2026 08:00:06 EDT",
+      "summary": "In a discovery that could offer a new way to control quantum properties in two-dimensional materials, researchers at Cornell have found that electrically sliding the layers of ultrathin graphene can switch the material between distinct magnetic states that persist even after the voltage is removed.",
+      "url": "https://phys.org/news/2026-10-electrical-graphene-magnetic-states.html"
     },
     {
       "category": "Science",
-      "title": "Astronomer leads global team on NASA mission to create unprecedented view of the early universe",
+      "title": "Global survey links financial hardship to lower trust in science",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Fri, 16 Oct 2026 19:20:01 EDT",
-      "summary": "A University of Missouri astronomer is leading a team of 130 researchers from 62 institutions—including NASA, the California Institute of Technology, Princeton University and Harvard University—on an ambitious mission to capture an unprecedented view of the early universe.",
-      "url": "https://phys.org/news/2026-10-astronomer-global-team-nasa-mission.html"
+      "date": "Sat, 17 Oct 2026 08:00:01 EDT",
+      "summary": "Poor access to health care, limited local influence over research priorities and an unequal distribution of scientific benefits are undermining public confidence in science, experts warn, following the release of a global trust survey.",
+      "url": "https://phys.org/news/2026-10-global-survey-links-financial-hardship.html"
+    },
+    {
+      "category": "Space",
+      "title": " 'Lanterns' shocking finale left us with a lot of unanswered questions for a potential season 2 ",
+      "source": " Latest from Space.com ",
+      "date": "Sat, 17 Oct 2026 12:00:00 +0000",
+      "summary": "John Stewart goes rogue in Sector 2814 and embraces fear hopefully leading into season 2",
+      "url": "https://www.space.com/entertainment/space-movies-shows/lanterns-shocking-finale-left-us-with-a-lot-of-unanswered-questions-for-a-potential-season-2"
+    },
+    {
+      "category": "Science",
+      "title": " California redwoods are struggling in the heat — and it's not clear how much damage is being done ",
+      "source": " Latest from Live Science ",
+      "date": "Sat, 17 Oct 2026 11:45:00 +0000",
+      "summary": "When temperatures rise, California redwoods slow down their rate of photosynthesis, a discovery that could have implications for the long-term survival of the iconic species.",
+      "url": "https://www.livescience.com/planet-earth/plants/california-redwoods-are-struggling-in-the-heat-and-its-not-clear-how-much-damage-is-being-done"
+    },
+    {
+      "category": "AI",
+      "title": "Science says your boss should talk less in meetings",
+      "source": "Ars Technica - All content",
+      "date": "Sat, 17 Oct 2026 11:15:11 +0000",
+      "summary": "Research suggests listening more while talking less. Killing aimless meetings can help, too.",
+      "url": "https://arstechnica.com/science/2026/10/science-says-your-boss-should-talk-less-in-meetings/"
+    },
+    {
+      "category": "AI",
+      "title": "Why BioWare's Neverwinter Nights still has thousands of active players",
+      "source": "Ars Technica - All content",
+      "date": "Sat, 17 Oct 2026 11:00:21 +0000",
+      "summary": "The single-player is just OK, but according to the players, that doesn't matter.",
+      "url": "https://arstechnica.com/gaming/2026/10/why-biowares-neverwinter-nights-still-has-thousands-of-active-players/"
+    },
+    {
+      "category": "Science",
+      "title": " Is the brain actually 2 nervous systems smooshed together? A new study claims it is. ",
+      "source": " Latest from Live Science ",
+      "date": "Sat, 17 Oct 2026 11:00:00 +0000",
+      "summary": "A recent study may reshape our understanding of brain evolution and open new avenues for studying neurological diseases.",
+      "url": "https://www.livescience.com/health/neuroscience/is-the-brain-actually-2-nervous-systems-smooshed-together-a-new-study-claims-it-is"
+    },
+    {
+      "category": "Space",
+      "title": " The Orionid meteor shower peaks next week! Here's what to expect ",
+      "source": " Latest from Space.com ",
+      "date": "Sat, 17 Oct 2026 10:00:00 +0000",
+      "summary": "The Orionid meteor shower peaks overnight on Oct. 21-22, bringing a spectacular display of shooting stars to the autumn sky.",
+      "url": "https://www.space.com/stargazing/meteor-showers/the-orionid-meteor-shower-peaks-oct-21-22-2026-heres-what-to-expect"
+    },
+    {
+      "category": "Science",
+      "title": " New 4,300-mile-long internet cable will shuttle data along the ocean floor at 1 million gigabits per second ",
+      "source": " Latest from Live Science ",
+      "date": "Sat, 17 Oct 2026 09:00:00 +0000",
+      "summary": "Petal, the world's first petabit transoceanic fiber cable, could theoretically support simultaneous music streaming for 75% of the world's population.",
+      "url": "https://www.livescience.com/technology/communications/new-4-300-mile-long-internet-cable-will-shuttle-data-along-the-ocean-floor-at-1-million-gigabits-per-second"
+    },
+    {
+      "category": "AI",
+      "title": "DeepSeek: DeepSeek v4.1 Flash 1017",
+      "source": "Hacker News: Front Page",
+      "date": "Sat, 17 Oct 2026 08:37:46 +0000",
+      "summary": "Article URL: https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017\nComments URL: https://news.ycombinator.com/item?id=50129121\nPoints: 309\n# Comments: 121",
+      "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017"
+    },
+    {
+      "category": "AI",
+      "title": "DeepSeek-v4.1-Flash-1017",
+      "source": "Hacker News: Front Page",
+      "date": "Sat, 17 Oct 2026 08:21:25 +0000",
+      "summary": "Article URL: https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017\nComments URL: https://news.ycombinator.com/item?id=50129045\nPoints: 254\n# Comments: 99",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017"
+    },
+    {
+      "category": "Theology",
+      "title": "On the Sabbath, We Act like God",
+      "source": "The Gospel Coalition",
+      "date": "Sat, 17 Oct 2026 04:00:00 +0000",
+      "summary": "Sabbath isn’t an escape route or a coping mechanism. It’s a way we become like God and see time the way he does.",
+      "url": "https://www.thegospelcoalition.org/article/sabbath-act-like-god/"
     },
     {
       "category": "Space",
@@ -36,83 +124,11 @@
     },
     {
       "category": "AI",
-      "title": "Why harnesses matter for energy (and token) efficiency",
-      "source": "Hacker News: Front Page",
-      "date": "Fri, 16 Oct 2026 21:01:23 +0000",
-      "summary": "Article URL: https://neuralwatt.com/news/why-harnesses-matter-for-energy-efficiency\nComments URL: https://news.ycombinator.com/item?id=50124642\nPoints: 29\n# Comments: 10",
-      "url": "https://neuralwatt.com/news/why-harnesses-matter-for-energy-efficiency"
-    },
-    {
-      "category": "AI",
       "title": "OpenAI models hacked a crypto wallet and breached more websites",
       "source": "Ars Technica - All content",
       "date": "Fri, 16 Oct 2026 20:59:01 +0000",
       "summary": "The actions could have resulted in criminal charges had humans been behind the keyboard.",
       "url": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/"
-    },
-    {
-      "category": "Science",
-      "title": " Archaeologists discover the oldest dwelling in the Western Hemisphere at a 13,800-year-old site in Alaska ",
-      "source": " Latest from Live Science ",
-      "date": "Fri, 16 Oct 2026 20:54:58 +0000",
-      "summary": "Archaeologists have discovered an ancient base camp in Alaska that has evidence of the oldest dwelling and possibly the earliest domesticated dogs in the Americas.",
-      "url": "https://www.livescience.com/archaeology/americas/archaeologists-discover-the-oldest-dwelling-in-the-western-hemisphere-at-a-13-800-year-old-site-in-alaska"
-    },
-    {
-      "category": "Science",
-      "title": " Physicists froze a 'necklace' of atoms — and witnessed a quantum phenomenon predicted 100 years ago ",
-      "source": " Latest from Live Science ",
-      "date": "Fri, 16 Oct 2026 20:45:06 +0000",
-      "summary": "Atoms confined to a single line can bind into clusters called Bethe strings. A new experiment points to a mix of many such clusters, though the evidence is still indirect.",
-      "url": "https://www.livescience.com/physics-mathematics/physicists-froze-a-necklace-of-atoms-and-witnessed-a-quantum-phenomenon-predicted-100-years-ago"
-    },
-    {
-      "category": "AI",
-      "title": "I never authorized an integration that scans my secrets",
-      "source": "Hacker News: Front Page",
-      "date": "Fri, 16 Oct 2026 20:33:41 +0000",
-      "summary": "Article URL: https://github.com/home-assistant/home-assistant.io/issues/49314\nComments URL: https://news.ycombinator.com/item?id=50124251\nPoints: 158\n# Comments: 108",
-      "url": "https://github.com/home-assistant/home-assistant.io/issues/49314"
-    },
-    {
-      "category": "AI",
-      "title": "“thegentlemanpervert” producing AI CSAM is a NJ prosecutor, say cops",
-      "source": "Ars Technica - All content",
-      "date": "Fri, 16 Oct 2026 20:20:07 +0000",
-      "summary": "Discord user flagged AI CSAM, triggering arrest of New Jersey deputy AG.",
-      "url": "https://arstechnica.com/tech-policy/2026/10/thegentlemanpervert-producing-ai-csam-is-a-nj-prosecutor-say-cops/"
-    },
-    {
-      "category": "Space",
-      "title": "NASA Names Stephen Cash Marshall Space Flight Center Director",
-      "source": "NASA",
-      "date": "Fri, 16 Oct 2026 20:14:39 +0000",
-      "summary": "NASA Administrator Jared Isaacman has named Stephen Cash director of the agency’s Marshall Space Flight Center in Huntsville, Alabama, effective Monday, Oct. 19. Cash, a veteran NASA engineer and aerospace executive, returns to lead the center where he began his career more than four decades ago. “Marshall contributions to NASA’s missions are historic and it’s […]",
-      "url": "https://www.nasa.gov/news-release/nasa-names-stephen-cash-marshall-space-flight-center-director/"
-    },
-    {
-      "category": "Space",
-      "title": " When not to watch a meteor shower — why I'm not staying up for the Orionids ",
-      "source": " Latest from Space.com ",
-      "date": "Fri, 16 Oct 2026 20:00:00 +0000",
-      "summary": "The Orionid meteor shower peaks next week, but a bright moon makes much of the night less than ideal. Sometimes the sensible observing decision is knowing when to stay in bed — and when to get up early.",
-      "url": "https://www.space.com/stargazing/when-not-to-watch-a-meteor-shower-why-im-not-staying-up-for-the-orionids"
-    },
-    {
-      "category": "AI",
-      "title": "FLUX 3 Image Klein",
-      "source": "Hacker News: Front Page",
-      "date": "Fri, 16 Oct 2026 19:47:13 +0000",
-      "summary": "Article URL: https://bfl.ai/blog/flux-3-image-klein\nComments URL: https://news.ycombinator.com/item?id=50123580\nPoints: 89\n# Comments: 18",
-      "url": "https://bfl.ai/blog/flux-3-image-klein"
-    },
-    {
-      "category": "AI",
-      "title": "US Rep proposes bill to give video game buyers \"ownership,\" not \"a license\"",
-      "source": "Ars Technica - All content",
-      "date": "Fri, 16 Oct 2026 19:41:18 +0000",
-      "summary": "There are still significant hurdles ahead, both technical and legislative.",
-      "url": "https://arstechnica.com/gaming/2026/10/us-rep-proposes-bill-to-give-video-game-buyers-ownership-not-a-license/"
     },
     {
       "category": "AI",
@@ -121,38 +137,6 @@
       "date": "Fri, 16 Oct 2026 19:00:00 GMT",
       "summary": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
       "url": "https://openai.com/index/itau-generative-ai"
-    },
-    {
-      "category": "Space",
-      "title": " How to see the Orionid meteor shower 2026 peak this week — and when to look ",
-      "source": " Latest from Space.com ",
-      "date": "Fri, 16 Oct 2026 18:00:00 +0000",
-      "summary": "The Orionids peak around Oct. 21. Here's when and where to look for the best chance of spotting meteors.",
-      "url": "https://www.space.com/stargazing/meteor-showers/how-to-see-the-orionid-meteor-shower-2026-peak-this-week-and-when-to-look"
-    },
-    {
-      "category": "Space",
-      "title": "Artemis II Heat Shield After Splashdown",
-      "source": "NASA",
-      "date": "Fri, 16 Oct 2026 16:28:01 +0000",
-      "summary": "Shortly after NASA’s Artemis II mission splashed down on April 10, 2026, U.S. Navy divers captured underwater imagery of the Orion spacecraft’s heat shield. In the months after, the agency measured whether the thermal protection system effectively safeguarded the crew and Orion systems as the spacecraft reentered Earth’s atmosphere. This rigorous analysis confirmed that the […]",
-      "url": "https://www.nasa.gov/image-article/artemis-ii-heat-shield-after-splashdown/"
-    },
-    {
-      "category": "Science",
-      "title": " Fossil of 'unconquered female warrior' dinosaur with long claws found in UK museum drawer after 100 years ",
-      "source": " Latest from Live Science ",
-      "date": "Fri, 16 Oct 2026 14:56:18 +0000",
-      "summary": "The newly identified Invictibellatrix amberina lived about 120 million years ago and represents the first megaraptoran dinosaur found in Europe, according to a new study.",
-      "url": "https://www.livescience.com/animals/dinosaurs/fossil-of-unconquered-female-warrior-dinosaur-with-long-claws-found-in-uk-museum-drawer-after-100-years"
-    },
-    {
-      "category": "Space",
-      "title": "I Am Artemis: Allison Mjoen",
-      "source": "NASA",
-      "date": "Fri, 16 Oct 2026 14:24:29 +0000",
-      "summary": "As the supercooled propellant flowed into the core stage, and NASA’s SLS (Space Launch System) rocket roared to life, Allison Mjoen and her family watched with awe and pride. Mjoen, NASA’s operations manager for the agency’s Exploration Ground Systems Program, helped shape the systems and ground operations that will one day send humans back to […]",
-      "url": "https://www.nasa.gov/missions/station/i-am-artemis-allison-mjoen/"
     },
     {
       "category": "Science",
@@ -195,14 +179,6 @@
       "url": "https://www.thegospelcoalition.org/article/overcome-obstacles-discipling-relationships/"
     },
     {
-      "category": "Theology",
-      "title": "Is the Trinity in the Old Testament?",
-      "source": "The Gospel Coalition",
-      "date": "Fri, 16 Oct 2026 04:00:00 +0000",
-      "summary": "The idea of the Trinity in the Old Testament is clear because the two Testaments rely on each other to make the claim.",
-      "url": "https://www.thegospelcoalition.org/article/trinity-old-testament/"
-    },
-    {
       "category": "Science",
       "title": "“Crawzilla” was huge. Then scientists found an even bigger crayfish",
       "source": "All Top News -- ScienceDaily",
@@ -220,11 +196,11 @@
     },
     {
       "category": "AI",
-      "title": "Bringing GPT-Rosalind to academic research labs",
+      "title": "Benefit Street Partners answers questions faster with Codex",
       "source": "OpenAI News",
-      "date": "Thu, 15 Oct 2026 19:00:00 GMT",
-      "summary": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
-      "url": "https://openai.com/index/introducing-the-rosalind-academic-plan"
+      "date": "Fri, 16 Oct 2026 00:00:00 GMT",
+      "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
+      "url": "https://openai.com/index/benefit-street-partners"
     },
     {
       "category": "Science",
