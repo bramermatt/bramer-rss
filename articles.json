@@ -1,54 +1,54 @@
 {
-  "lastUpdated": "2026-10-17T18:04:16.697Z",
+  "lastUpdated": "2026-10-17T23:40:59.962Z",
   "articleCount": 36,
   "articles": [
     {
-      "category": "Science",
-      "title": "Quantum magic state cleanup cuts errors 40-fold in first successful hardware test",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sat, 17 Oct 2026 14:00:02 EDT",
-      "summary": "Qubits, the quantum equivalent of digital bits, are fragile and prone to errors. That makes building reliable quantum computers extremely difficult. One fix has been to use traditional magic state distillation, which filters out flaws, but it is extremely resource-intensive.",
-      "url": "https://phys.org/news/2026-10-quantum-magic-state-cleanup-errors.html"
-    },
-    {
       "category": "AI",
-      "title": "Linux bugs fixed per release over time: >2× rise since 2026-04",
+      "title": "JDK 28",
       "source": "Hacker News: Front Page",
-      "date": "Sat, 17 Oct 2026 17:14:12 +0000",
-      "summary": "Article URL: https://lwn.net/Articles/1088776/\nComments URL: https://news.ycombinator.com/item?id=50132950\nPoints: 14\n# Comments: 0",
-      "url": "https://lwn.net/Articles/1088776/"
-    },
-    {
-      "category": "AI",
-      "title": "Artie (YC S23) Is Hiring Enterprise AES and Senior Engineers",
-      "source": "Hacker News: Front Page",
-      "date": "Sat, 17 Oct 2026 17:02:50 +0000",
-      "summary": "Article URL: https://www.artie.com/careers\nComments URL: https://news.ycombinator.com/item?id=50132839\nPoints: 0\n# Comments: 0",
-      "url": "https://www.artie.com/careers"
+      "date": "Sat, 17 Oct 2026 21:37:07 +0000",
+      "summary": "Article URL: https://openjdk.org/projects/jdk/28/\nComments URL: https://news.ycombinator.com/item?id=50135379\nPoints: 15\n# Comments: 2",
+      "url": "https://openjdk.org/projects/jdk/28/"
     },
     {
       "category": "Science",
-      "title": "What an ancient volcanic eruption teaches us about resilience today",
+      "title": "What a worm's brain can teach us about sex differences in the nervous system",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Sat, 17 Oct 2026 13:00:05 EDT",
-      "summary": "When a massive environmental disaster strikes, do societies simply collapse and disappear? Or do people find a way to adapt, rebuild and recover?",
-      "url": "https://phys.org/news/2026-10-ancient-volcanic-eruption-resilience-today.html"
+      "date": "Sat, 17 Oct 2026 17:20:01 EDT",
+      "summary": "Ever wonder what goes on inside the brain of a worm—how it processes information, responds to stimuli and perceives the world around it? Northeastern University researchers have opened up that can of worms, specifically the one containing C. elegans, a tiny roundworm that's one of the most extensively studied animals in biology.",
+      "url": "https://phys.org/news/2026-10-worm-brain-sex-differences-nervous.html"
     },
     {
       "category": "AI",
-      "title": "OpenAI discloses four more rogue incidents",
+      "title": "Chrome and Edge are removing XSLT: what breaks and what does not",
       "source": "Hacker News: Front Page",
-      "date": "Sat, 17 Oct 2026 16:31:12 +0000",
-      "summary": "Article URL: https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data/\nComments URL: https://news.ycombinator.com/item?id=50132502\nPoints: 43\n# Comments: 13",
-      "url": "https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data/"
+      "date": "Sat, 17 Oct 2026 20:07:33 +0000",
+      "summary": "Article URL: https://doctor-seo.net/en/blog/news/chrome-edge-removing-xslt/\nComments URL: https://news.ycombinator.com/item?id=50134617\nPoints: 59\n# Comments: 60",
+      "url": "https://doctor-seo.net/en/blog/news/chrome-edge-removing-xslt/"
     },
     {
       "category": "Science",
-      "title": "Hand-cranked device tells blood type and red cell levels in 1 minute",
+      "title": "How one of Earth's worst volcanic disasters affected societies in prehistoric Japan",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Sat, 17 Oct 2026 12:00:01 EDT",
-      "summary": "When someone is badly injured, doctors urgently need two facts: the patient's blood type, so that a transfusion is safe, and their hematocrit, the share of the blood made up of red blood cells, which reveals blood loss or anemia. Hospitals measure both with large machines that need electricity and trained staff, which are often unavailable in ambulances, disaster zones or remote clinics.",
-      "url": "https://phys.org/news/2026-10-cranked-device-blood-red-cell.html"
+      "date": "Sat, 17 Oct 2026 16:00:01 EDT",
+      "summary": "A new international study led by Lund University examines what happened to population levels after the Kikai-Akahoya volcanic eruption in prehistoric Japan. The results paint a more complex picture than what had previously been believed. The paper is published in the journal Science Advances.",
+      "url": "https://phys.org/news/2026-10-earth-worst-volcanic-disasters-affected.html"
+    },
+    {
+      "category": "Science",
+      "title": "Simulations explore nuclear mitigation of asteroid threats",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sat, 17 Oct 2026 15:00:05 EDT",
+      "summary": "Lawrence Livermore National Laboratory (LLNL) researchers are developing three-dimensional simulations to examine how a nuclear device could be used to deflect or potentially disrupt an asteroid threatening Earth.",
+      "url": "https://phys.org/news/2026-10-simulations-explore-nuclear-mitigation-asteroid.html"
+    },
+    {
+      "category": "AI",
+      "title": "Microsoft and CMU team up to train early career software engineers",
+      "source": "Hacker News: Front Page",
+      "date": "Sat, 17 Oct 2026 18:45:07 +0000",
+      "summary": "Article URL: https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise\nComments URL: https://news.ycombinator.com/item?id=50133830\nPoints: 51\n# Comments: 56",
+      "url": "https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise"
     },
     {
       "category": "Space",
