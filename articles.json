@@ -1,270 +1,270 @@
 {
-  "lastUpdated": "2026-06-07T01:02:26.554Z",
-  "articleCount": 39,
+  "lastUpdated": "2026-10-17T13:23:27.378Z",
+  "articleCount": 36,
   "articles": [
     {
       "category": "Science",
-      "title": "Black teachers improve outcomes for all students, but the profession remains largely white",
+      "title": "Red-sensitive pigments in mantis shrimp eyes act as reversible light switches",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Sat, 06 Jun 2026 20:30:03 EDT",
-      "summary": "Having Black teachers and other educators of color improves students' classroom experiences, research shows. They often serve as role models, set high academic expectations and teach material that connects to students' lives outside of schools.",
-      "url": "https://phys.org/news/2026-06-black-teachers-outcomes-students-largely.html"
+      "date": "Sat, 17 Oct 2026 09:00:01 EDT",
+      "summary": "With about 30 visual pigments, compared to just three in humans, mantis shrimp possess a visual system that remains a mystery. Researchers from ULiège and Humboldt University in Berlin have, for the first time, analyzed these pigments one by one and discovered that some detect red light that very few animals can perceive. This finding, published in Science Advances, has potential applications in optogenetics.",
+      "url": "https://phys.org/news/2026-10-red-sensitive-pigments-mantis-shrimp.html"
+    },
+    {
+      "category": "AI",
+      "title": "Show HN: Which Mac runs which LLM, and how fast",
+      "source": "Hacker News: Front Page",
+      "date": "Sat, 17 Oct 2026 12:15:57 +0000",
+      "summary": "Article URL: https://macyou.co/mac-llm-calculator\nComments URL: https://news.ycombinator.com/item?id=50130442\nPoints: 7\n# Comments: 3",
+      "url": "https://macyou.co/mac-llm-calculator"
     },
     {
       "category": "Science",
-      "title": "Medieval pandemic left a hidden legacy in Europe's oldest trees",
+      "title": "Electrical sliding switches graphene between magnetic states",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Sat, 06 Jun 2026 19:40:01 EDT",
-      "summary": "A new study published in the Proceedings of the National Academy of Sciences demonstrates how radiocarbon dating can reveal the maximum lifespan of Mediterranean hardwoods, uncovering hidden links between human history and long-term ecosystem dynamics. By analyzing mature and ancient oak trees across Italy, researchers found that a millennium of age is attainable from the Mediterranean coast to mountain environments.",
-      "url": "https://phys.org/news/2026-06-medieval-pandemic-left-hidden-legacy.html"
-    },
-    {
-      "category": "AI",
-      "title": "Show HN: Ironwall, a safety-first native programming language and compiler",
-      "source": "Hacker News: Front Page",
-      "date": "Sat, 06 Jun 2026 23:21:20 +0000",
-      "summary": "Hi HN,\nI have been working on a new programming language and compiler.\nWebsite: https://ironwall-lang.dev\nGitHub: https://github.com/3WyUFvDOdCbBw7gOZHwcfgKF/ironwall\nWhy a new language is still needed:\nhttps://ironwall-lang.dev/en/motivation\nThe compiler is written in TypeScript at the moment, and work on a self-hosting compiler written in Ironwall is ongoing.\nI would be interested in feedback.\nThank you.\nComments URL: https://news.ycombinator.com/item?id=48430077\nPoints: 12\n# Comments: 3",
-      "url": "https://news.ycombinator.com/item?id=48430077"
-    },
-    {
-      "category": "AI",
-      "title": "Context Sculpting",
-      "source": "Hacker News: Front Page",
-      "date": "Sat, 06 Jun 2026 23:20:01 +0000",
-      "summary": "Article URL: https://perceptiontheory.bearblog.dev/context-sculpting/\nComments URL: https://news.ycombinator.com/item?id=48430070\nPoints: 8\n# Comments: 0",
-      "url": "https://perceptiontheory.bearblog.dev/context-sculpting/"
-    },
-    {
-      "category": "AI",
-      "title": "Show HN: Keybench – Scriptable, extensible performance tool for key value stores",
-      "source": "Hacker News: Front Page",
-      "date": "Sat, 06 Jun 2026 23:06:06 +0000",
-      "summary": "I've been working with storage engines for quite a while and really there was no similar tool to sysbench and or HammerDB for key-value storage engines.  Thus I introduce a POC called keybench.  I hope you check it out, and do give it a run to drive your favorite engine.\nCheers!\nComments URL: https://news.ycombinator.com/item?id=48429957\nPoints: 6\n# Comments: 0",
-      "url": "https://github.com/guycipher/keybench"
+      "date": "Sat, 17 Oct 2026 08:00:06 EDT",
+      "summary": "In a discovery that could offer a new way to control quantum properties in two-dimensional materials, researchers at Cornell have found that electrically sliding the layers of ultrathin graphene can switch the material between distinct magnetic states that persist even after the voltage is removed.",
+      "url": "https://phys.org/news/2026-10-electrical-graphene-magnetic-states.html"
     },
     {
       "category": "Science",
-      "title": "Q&A: Why are white-Black marriage rates so low?",
+      "title": "Global survey links financial hardship to lower trust in science",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Sat, 06 Jun 2026 18:30:02 EDT",
-      "summary": "Americans rarely marry outside of their race or class in a nation where residential segregation is relatively common. It is a dynamic widely viewed as a contributing factor to income inequality and intergenerational social mobility.",
-      "url": "https://phys.org/news/2026-06-qa-white-black-marriage.html"
+      "date": "Sat, 17 Oct 2026 08:00:01 EDT",
+      "summary": "Poor access to health care, limited local influence over research priorities and an unequal distribution of scientific benefits are undermining public confidence in science, experts warn, following the release of a global trust survey.",
+      "url": "https://phys.org/news/2026-10-global-survey-links-financial-hardship.html"
+    },
+    {
+      "category": "Space",
+      "title": " 'Lanterns' shocking finale left us with a lot of unanswered questions for a potential season 2 ",
+      "source": " Latest from Space.com ",
+      "date": "Sat, 17 Oct 2026 12:00:00 +0000",
+      "summary": "John Stewart goes rogue in Sector 2814 and embraces fear hopefully leading into season 2",
+      "url": "https://www.space.com/entertainment/space-movies-shows/lanterns-shocking-finale-left-us-with-a-lot-of-unanswered-questions-for-a-potential-season-2"
+    },
+    {
+      "category": "Science",
+      "title": " California redwoods are struggling in the heat — and it's not clear how much damage is being done ",
+      "source": " Latest from Live Science ",
+      "date": "Sat, 17 Oct 2026 11:45:00 +0000",
+      "summary": "When temperatures rise, California redwoods slow down their rate of photosynthesis, a discovery that could have implications for the long-term survival of the iconic species.",
+      "url": "https://www.livescience.com/planet-earth/plants/california-redwoods-are-struggling-in-the-heat-and-its-not-clear-how-much-damage-is-being-done"
     },
     {
       "category": "AI",
-      "title": "Scientists ejected from diabetes conference for distributing journal reprints",
+      "title": "Science says your boss should talk less in meetings",
       "source": "Ars Technica - All content",
-      "date": "Sat, 06 Jun 2026 20:53:07 +0000",
-      "summary": "Those ousted included ADA journal editor-in-chief Steven Kahn and former ADA president Desmond Schatz",
-      "url": "https://arstechnica.com/science/2026/06/scientists-ejected-from-diabetes-conference-for-distributing-journal-reprints/"
-    },
-    {
-      "category": "Science",
-      "title": " Stupid hot: Heat waves cause cognitive changes in animals, making them more aggressive and unable to complete basic tasks ",
-      "source": " Latest from Live Science ",
-      "date": "Sat, 06 Jun 2026 17:00:00 +0000",
-      "summary": "As temperatures rise, some creatures pick fights while others struggle to learn. The consequences of these behavioral changes may ripple through ecosystems.",
-      "url": "https://www.livescience.com/animals/stupid-hot-heat-waves-cause-cognitive-changes-in-animals-making-them-more-aggressive-and-unable-to-complete-basic-tasks"
-    },
-    {
-      "category": "Space",
-      "title": " How 'Spider-Noir' captured the multiverse in True-Hue Full Color and Authentic Black & White (interview) ",
-      "source": " Latest from Space.com ",
-      "date": "Sat, 06 Jun 2026 15:00:00 +0000",
-      "summary": "'It was such a great playground to play in, and I hope that it opens up more projects like this for creatives to embrace and trust.'",
-      "url": "https://www.space.com/entertainment/space-movies-shows/how-spider-noir-captured-the-multiverse-in-true-hue-full-color-and-authentic-black-and-white-interview"
-    },
-    {
-      "category": "Science",
-      "title": " Tump administration to remove 900 deep sea monitoring instruments that would have studied the collapsing Atlantic current ",
-      "source": " Latest from Live Science ",
-      "date": "Sat, 06 Jun 2026 14:00:00 +0000",
-      "summary": "The Ocean Observatories Initiative has been collecting data on physical, chemical, geological and biological conditions in the Atlantic and Pacific Oceans for the past decade",
-      "url": "https://www.livescience.com/planet-earth/rivers-oceans/tump-administration-to-remove-900-deep-sea-monitoring-instruments-that-would-have-studied-the-collapsing-atlantic-current"
-    },
-    {
-      "category": "Space",
-      "title": " Who is Lobo, the cigar-smoking alien bounty hunter in 'Supergirl'? ",
-      "source": " Latest from Space.com ",
-      "date": "Sat, 06 Jun 2026 14:00:00 +0000",
-      "summary": "Jason Momoa will star as the psycho space biker this summer, but who exactly is Lobo?",
-      "url": "https://www.space.com/entertainment/who-is-lobo-the-cigar-smoking-alien-bounty-hunter-in-supergirl"
-    },
-    {
-      "category": "Science",
-      "title": "Tiny X-ray telescope could unlock the Moon's hidden chemistry",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Sat, 06 Jun 2026 09:24:27 EDT",
-      "summary": "A lightweight new X-ray telescope could finally give scientists something they’ve never had before: a complete chemical map of the Moon. Researchers used detailed mission simulations to show that a compact telescope orbiting the Moon could identify key elements across the entire lunar surface, helping reveal how the Moon formed and evolved.",
-      "url": "https://www.sciencedaily.com/releases/2026/06/260606075508.htm"
-    },
-    {
-      "category": "Space",
-      "title": " This Week In Space podcast: Episode 213 — Live From ISDC With Gerry Griffin ",
-      "source": " Latest from Space.com ",
-      "date": "Sat, 06 Jun 2026 13:15:37 +0000",
-      "summary": "On Episode 212 of This Week In Space, Rod Pyle and Tariq Malik are joined by Apollo legend Gerry Griffin live from the International Space Development Conference (ISDC) in McLean, Virginia.",
-      "url": "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-213-live-from-isdc-with-gerry-griffin"
-    },
-    {
-      "category": "Science",
-      "title": "Scientists found a surprisingly simple way to create powerful quantum states",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Sat, 06 Jun 2026 09:02:19 EDT",
-      "summary": "A team at the University of Chicago has discovered a surprisingly simple way to create powerful quantum states that are normally difficult to produce. By making small adjustments to the energy levels of atoms inside an optical cavity, researchers can generate a wide variety of highly entangled states without adding complicated hardware.",
-      "url": "https://www.sciencedaily.com/releases/2026/06/260606075510.htm"
+      "date": "Sat, 17 Oct 2026 11:15:11 +0000",
+      "summary": "Research suggests listening more while talking less. Killing aimless meetings can help, too.",
+      "url": "https://arstechnica.com/science/2026/10/science-says-your-boss-should-talk-less-in-meetings/"
     },
     {
       "category": "AI",
-      "title": "Some ancient microbes frozen with Ötzi the Iceman are still growing",
+      "title": "Why BioWare's Neverwinter Nights still has thousands of active players",
       "source": "Ars Technica - All content",
-      "date": "Sat, 06 Jun 2026 11:15:51 +0000",
-      "summary": "What’s the difference between a person, an artifact, and an ecosystem?",
-      "url": "https://arstechnica.com/science/2026/06/otzis-mummified-body-is-home-to-ancient-strains-of-yeast-and-bacteria/"
+      "date": "Sat, 17 Oct 2026 11:00:21 +0000",
+      "summary": "The single-player is just OK, but according to the players, that doesn't matter.",
+      "url": "https://arstechnica.com/gaming/2026/10/why-biowares-neverwinter-nights-still-has-thousands-of-active-players/"
     },
     {
       "category": "Science",
-      "title": " Science news this week: Ötzi the Iceman used to make sourdough, Italian teenagers discover Roman villa under school, Google plans to release 64 million mosquitos, and RIP to NASA's Maven probe ",
+      "title": " Is the brain actually 2 nervous systems smooshed together? A new study claims it is. ",
       "source": " Latest from Live Science ",
-      "date": "Sat, 06 Jun 2026 11:00:00 +0000",
-      "summary": "June 6, 2026: Our weekly roundup of the latest science in the news, as well as a few fascinating articles to keep you entertained over the weekend",
-      "url": "https://www.livescience.com/space/science-news-this-week-otzi-the-iceman-used-to-make-sourdough-italian-teenagers-discover-roman-villa-under-school-google-plans-to-release-64-million-mosquitos-and-rip-to-nasas-maven-probe"
+      "date": "Sat, 17 Oct 2026 11:00:00 +0000",
+      "summary": "A recent study may reshape our understanding of brain evolution and open new avenues for studying neurological diseases.",
+      "url": "https://www.livescience.com/health/neuroscience/is-the-brain-actually-2-nervous-systems-smooshed-together-a-new-study-claims-it-is"
+    },
+    {
+      "category": "Space",
+      "title": " The Orionid meteor shower peaks next week! Here's what to expect ",
+      "source": " Latest from Space.com ",
+      "date": "Sat, 17 Oct 2026 10:00:00 +0000",
+      "summary": "The Orionid meteor shower peaks overnight on Oct. 21-22, bringing a spectacular display of shooting stars to the autumn sky.",
+      "url": "https://www.space.com/stargazing/meteor-showers/the-orionid-meteor-shower-peaks-oct-21-22-2026-heres-what-to-expect"
+    },
+    {
+      "category": "Science",
+      "title": " New 4,300-mile-long internet cable will shuttle data along the ocean floor at 1 million gigabits per second ",
+      "source": " Latest from Live Science ",
+      "date": "Sat, 17 Oct 2026 09:00:00 +0000",
+      "summary": "Petal, the world's first petabit transoceanic fiber cable, could theoretically support simultaneous music streaming for 75% of the world's population.",
+      "url": "https://www.livescience.com/technology/communications/new-4-300-mile-long-internet-cable-will-shuttle-data-along-the-ocean-floor-at-1-million-gigabits-per-second"
+    },
+    {
+      "category": "AI",
+      "title": "DeepSeek: DeepSeek v4.1 Flash 1017",
+      "source": "Hacker News: Front Page",
+      "date": "Sat, 17 Oct 2026 08:37:46 +0000",
+      "summary": "Article URL: https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017\nComments URL: https://news.ycombinator.com/item?id=50129121\nPoints: 309\n# Comments: 121",
+      "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017"
+    },
+    {
+      "category": "AI",
+      "title": "DeepSeek-v4.1-Flash-1017",
+      "source": "Hacker News: Front Page",
+      "date": "Sat, 17 Oct 2026 08:21:25 +0000",
+      "summary": "Article URL: https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017\nComments URL: https://news.ycombinator.com/item?id=50129045\nPoints: 254\n# Comments: 99",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017"
     },
     {
       "category": "Theology",
-      "title": "Packing for TGCW26? Leave Room for Discounted Books.",
+      "title": "On the Sabbath, We Act like God",
       "source": "The Gospel Coalition",
-      "date": "Sat, 06 Jun 2026 04:02:00 +0000",
-      "summary": "Booklovers at TGC’s 2026 Women’s Conference should check out our bookstore for a wide range of books, many at deep discounts.",
-      "url": "https://www.thegospelcoalition.org/article/tgcw26-discounted-books/"
+      "date": "Sat, 17 Oct 2026 04:00:00 +0000",
+      "summary": "Sabbath isn’t an escape route or a coping mechanism. It’s a way we become like God and see time the way he does.",
+      "url": "https://www.thegospelcoalition.org/article/sabbath-act-like-god/"
     },
     {
-      "category": "Theology",
-      "title": "Your Calling Is a Zigzag",
-      "source": "The Gospel Coalition",
-      "date": "Sat, 06 Jun 2026 04:00:00 +0000",
-      "summary": "Calling is rarely a straight, predictable line. Here are six lessons I’ve learned from my zigzag journey.",
-      "url": "https://www.thegospelcoalition.org/article/your-calling-zigzag/"
+      "category": "Space",
+      "title": " 'It really does change you': SpaceX Crew-12 commander wishes we could all see our fragile Earth from space ",
+      "source": " Latest from Space.com ",
+      "date": "Fri, 16 Oct 2026 22:00:00 +0000",
+      "summary": "The astronauts of SpaceX's Crew-12 mission wish that we could all see Earth as they just did —as a beautiful but fragile outpost of life in a vast void.",
+      "url": "https://www.space.com/space-exploration/international-space-station/it-really-does-change-you-spacex-crew-12-commander-wishes-we-could-all-see-our-fragile-earth-from-space"
     },
     {
       "category": "AI",
-      "title": "Baby botulism outbreak: FDA still doesn't know cause—or how to prevent it",
+      "title": "OpenAI models hacked a crypto wallet and breached more websites",
       "source": "Ars Technica - All content",
-      "date": "Fri, 05 Jun 2026 22:36:21 +0000",
-      "summary": "In the end, the three companies involved all point the finger at each other.",
-      "url": "https://arstechnica.com/health/2026/06/baby-botulism-outbreak-fda-still-doesnt-know-cause-or-how-to-prevent-it/"
+      "date": "Fri, 16 Oct 2026 20:59:01 +0000",
+      "summary": "The actions could have resulted in criminal charges had humans been behind the keyboard.",
+      "url": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/"
     },
     {
-      "category": "Space",
-      "title": "NASA’s X-59 Aircraft Flies Supersonic for First Time",
-      "source": "NASA",
-      "date": "Fri, 05 Jun 2026 20:44:57 +0000",
-      "summary": "NASA’s experimental X-59 aircraft marked a major milestone Friday, June 5, when it flew faster than the speed of sound for the first time, setting the stage for demonstrating its quiet supersonic capabilities later this year.  NASA test pilot Jim “Clue” Less took off and landed at Edwards Air Force Base in California, reaching a top speed of approximately Mach 1.1 (713 mph) and altitude of 43,400 feet. The X-59’s flight began at 11:08 a.m. PDT and lasted 81 minutes, with the team focusing on flying qualities at both subsonic and then […]",
-      "url": "https://www.nasa.gov/aeronautics/x-59-first-supersonic-flight/"
-    },
-    {
-      "category": "Space",
-      "title": "NASA Announces Winners of 2026 University Innovation Competition ",
-      "source": "NASA",
-      "date": "Fri, 05 Jun 2026 20:17:11 +0000",
-      "summary": "NASA announced the Massachusetts Institute of Technology project, Exploration-Class Lunar Integrated Power SystEm, as the first place winner for the 2026 Revolutionary Aerospace Systems Concepts – Academic Linkage (RASC-AL) competition, which challenges students to bridge gaps in aerospace technology by innovating new system concepts and prototypes.  Another team from the same university won second place overall for their project, Mars Exploration Layered Infrastructure for Operations, Research, and Advancement, while Virginia Polytechnic Institute and State University took third place with the Mars […]",
-      "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-announces-winners-of-2026-university-innovation-competition/"
-    },
-    {
-      "category": "Space",
-      "title": "NASA’s Artemis II Moon Mission Research Continues on Earth",
-      "source": "NASA",
-      "date": "Fri, 05 Jun 2026 19:16:48 +0000",
-      "summary": "Since NASA’s Artemis II crew members safely splashed down in the Pacific Ocean on April 10 after their record-setting mission around the Moon, science teams have been busy collecting more data and combing through observations collected on the test flight. Results from these science investigations will help support safe human exploration of deep space and […]",
-      "url": "https://science.nasa.gov/uncategorized/nasas-artemis-ii-moon-mission-research-continues-on-earth/"
-    },
-    {
-      "category": "Biblical Studies",
-      "title": "Rare Shell Seal Shows Moon Imagery in Israel",
-      "source": "Biblical Archaeology Society",
-      "date": "Fri, 05 Jun 2026 10:45:48 +0000",
-      "summary": "A rare shell seal has been discovered at Tel Hadid in central Israel with religious imagery involving a moon standard, a worshiper, and a possible […]\nThe post Rare Shell Seal Shows Moon Imagery in Israel appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-israel/rare-shell-seal-shows-moon-imagery-in-israel/"
+      "category": "AI",
+      "title": "How Itaú is building generative AI for its entire customer base",
+      "source": "OpenAI News",
+      "date": "Fri, 16 Oct 2026 19:00:00 GMT",
+      "summary": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
+      "url": "https://openai.com/index/itau-generative-ai"
     },
     {
       "category": "Science",
-      "title": "Giant fire tornadoes could clean up oil spills faster with less pollution",
+      "title": "The uranium cubes that exposed Nazi Germany’s nuclear failure",
       "source": "All Top News -- ScienceDaily",
-      "date": "Fri, 05 Jun 2026 02:34:20 EDT",
-      "summary": "Researchers have shown that controlled fire whirls can clean up oil spills faster and more cleanly than traditional burning methods. The spinning flames consumed up to 95% of the oil, cut soot emissions by 40%, and could help prevent spills from reaching sensitive marine habitats.",
-      "url": "https://www.sciencedaily.com/releases/2026/06/260605023420.htm"
+      "date": "Fri, 16 Oct 2026 08:32:52 EDT",
+      "summary": "Scientists investigating Nazi Germany's secret nuclear program have uncovered evidence that its final experimental reactor was nowhere near as close to working as previously claimed. Analysis of surviving uranium cubes and wartime documents reveals that Germany lacked the enormous quantities of uranium and heavy water needed to make its reactor operational.",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261015073218.htm"
+    },
+    {
+      "category": "Biblical Studies",
+      "title": "Archive of Hittite Tablets Discovered",
+      "source": "Biblical Archaeology Society",
+      "date": "Fri, 16 Oct 2026 10:45:03 +0000",
+      "summary": "Editor’s Note: This article includes a reference to infant death and may be distressing to some readers. International Archaeology Day is this weekend, and Bible […]\nThe post Archive of Hittite Tablets Discovered appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-near-eastern-world/archive-of-hittite-tablets-discovered/"
+    },
+    {
+      "category": "Biblical Studies",
+      "title": "Did Northern Scribes Help Write the Bible?",
+      "source": "Biblical Archaeology Society",
+      "date": "Fri, 16 Oct 2026 10:00:08 +0000",
+      "summary": "In the late eighth century BCE, the Assyrian Empire conducted a series of military campaigns that devastated the Northern Kingdom of Israel. The onslaught drove […]\nThe post Did Northern Scribes Help Write the Bible? appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-israel/did-northern-scribes-help-write-bible/"
     },
     {
       "category": "Theology",
-      "title": "What Pastors Need to Recover About Mental Health",
+      "title": "The Impact of Influencers on the Church",
       "source": "The Gospel Coalition",
-      "date": "Fri, 05 Jun 2026 04:05:00 +0000",
-      "summary": "In ‘Seeking Sanctuary, Finding Shalom,’ John Swinton provides meaningful vocabulary to speak about spiritual aspects of mental health without discounting psychiatry and medical interventions.",
-      "url": "https://www.thegospelcoalition.org/reviews/seeking-sanctuary-finding-shalom/"
+      "date": "Fri, 16 Oct 2026 04:04:00 +0000",
+      "summary": "Sometimes the most influential people in your church aren’t actually in your church.",
+      "url": "https://www.thegospelcoalition.org/podcasts/tgc-podcast/impact-influencers-church/"
     },
     {
-      "category": "History",
-      "title": "Colonel Smallwood Comes to Meeting",
-      "source": "Journal of the American Revolution",
-      "date": "Thu, 04 Jun 2026 14:37:41 +0000",
-      "summary": "William Penn founded the Province of Pennsylvania to be a haven for the Religious Society of Friends, “The People Called Quakers” as they described themselves. The new colony was intended as a “holy experiment,” an example to the world that people could govern themselves according to principles of truth, peace and harmony.[1] Friends’ dissenter religion […]\nThe post Colonel Smallwood Comes to Meeting appeared first on Journal of the American Revolution.",
-      "url": "https://allthingsliberty.com/2026/06/colonel-smallwood-comes-to-meeting/"
+      "category": "Theology",
+      "title": "Overcome Obstacles to Discipling Relationships",
+      "source": "The Gospel Coalition",
+      "date": "Fri, 16 Oct 2026 04:02:00 +0000",
+      "summary": "We prayed for mature Christians to guide us, and we asked several to disciple us. One after another, we were turned down.",
+      "url": "https://www.thegospelcoalition.org/article/overcome-obstacles-discipling-relationships/"
+    },
+    {
+      "category": "Science",
+      "title": "“Crawzilla” was huge. Then scientists found an even bigger crayfish",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Thu, 15 Oct 2026 23:45:22 EDT",
+      "summary": "A nationwide search for giant crayfish uncovered a record-breaking Tennessee specimen and a surprising mystery about how big these freshwater creatures can grow. Scientists found that North American crayfish seem to hit a biological size limit, possibly because of their muscles or protective shells.",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261015073220.htm"
     },
     {
       "category": "AI",
-      "title": "How Endava is redesigning software delivery around AI agents",
+      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
       "source": "OpenAI News",
-      "date": "Thu, 04 Jun 2026 12:00:00 GMT",
-      "summary": "Learn how Endava is using AI agents, ChatGPT Enterprise, and Codex to accelerate software delivery, automate workflows, and build an AI-native culture across the enterprise.",
-      "url": "https://openai.com/index/endava-frontiers"
+      "date": "Fri, 16 Oct 2026 00:00:00 GMT",
+      "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
+      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin"
+    },
+    {
+      "category": "AI",
+      "title": "Benefit Street Partners answers questions faster with Codex",
+      "source": "OpenAI News",
+      "date": "Fri, 16 Oct 2026 00:00:00 GMT",
+      "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
+      "url": "https://openai.com/index/benefit-street-partners"
+    },
+    {
+      "category": "Science",
+      "title": "Arctic sea ice hits another troubling low in 2026",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Thu, 15 Oct 2026 08:40:44 EDT",
+      "summary": "Arctic sea ice is shrinking in both winter and summer, with satellite records revealing that the region's remaining ice is becoming thinner, younger, and more vulnerable to melting. Despite a recent slowdown in summer losses, scientists warn that the Arctic could experience a nearly ice-free summer before 2050.",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261015073212.htm"
     },
     {
       "category": "Biblical Studies",
-      "title": "The Dead Sea Scrolls and the New Testament",
+      "title": "Alternative Facts: Domitian’s Persecution of Christians",
       "source": "Biblical Archaeology Society",
-      "date": "Thu, 04 Jun 2026 11:00:43 +0000",
-      "summary": "What do the Dead Sea Scrolls say about Jesus? What do they say about the world in which Jesus lived? In BAR, James C. VanderKam examines the overlap between the Dead Sea Scrolls and the New Testament.\nThe post The Dead Sea Scrolls and the New Testament appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/daily/biblical-artifacts/dead-sea-scrolls/the-dead-sea-scrolls-and-the-new-testament/"
-    },
-    {
-      "category": "Biblical Studies",
-      "title": "Minor Prophets in the Bible: Amos",
-      "source": "Biblical Archaeology Society",
-      "date": "Thu, 04 Jun 2026 11:00:22 +0000",
-      "summary": "Learn how to read the Book of Amos in context and how the prophet Amos’s message is relevant today.\nThe post Minor Prophets in the Bible: Amos appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/daily/people-cultures-in-the-bible/people-in-the-bible/minor-prophets-bible-amos/"
-    },
-    {
-      "category": "AI",
-      "title": "Dreaming: Better memory for a more helpful ChatGPT",
-      "source": "OpenAI News",
-      "date": "Thu, 04 Jun 2026 09:00:00 GMT",
-      "summary": "ChatGPT introduces a new memory system to better remember preferences, keeping context fresh and relevant across conversations.",
-      "url": "https://openai.com/index/chatgpt-memory-dreaming"
-    },
-    {
-      "category": "AI",
-      "title": "Biodefense in the Intelligence Age",
-      "source": "OpenAI News",
-      "date": "Thu, 04 Jun 2026 00:00:00 GMT",
-      "summary": "An action plan for AI-powered biological resilience",
-      "url": "https://openai.com/index/biodefense-in-the-intelligence-age"
+      "date": "Thu, 15 Oct 2026 11:00:25 +0000",
+      "summary": "“Alternative facts” and “fake news” are not just a contemporary phenomenon. On occasion ancient writers similarly tried to spin their version of the truth. One such claim was that Roman emperor Domitian was a great persecutor of Christians.\nThe post Alternative Facts: Domitian’s Persecution of Christians appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/daily/biblical-topics/post-biblical-period/domitian-persecution-of-christians/"
     },
     {
       "category": "History",
-      "title": "Nathaniel Ramsey in the Point of Woods and on the Monmouth Battle Monument",
+      "title": "James Bass & William Taburn, Nansemond Indian Nation Patriot Warriors: A Call for Research",
       "source": "Journal of the American Revolution",
-      "date": "Tue, 02 Jun 2026 10:00:26 +0000",
-      "summary": "Visitors to the Monmouth Battle Monument in Freehold, New Jersey, cannot help but be taken by its majesty. Its sheer size (ninety-four feet tall), its ornate design on top with Liberty Triumphant crowning its towering column which is also adorned with a cornice of flying eagles, and a base decorated with the coats of arms […]\nThe post Nathaniel Ramsey in the Point of Woods and on the Monmouth Battle Monument appeared first on Journal of the American Revolution.",
-      "url": "https://allthingsliberty.com/2026/06/nathaniel-ramsey-in-the-point-of-woods-and-on-the-monmouth-battle-monument/"
+      "date": "Wed, 14 Oct 2026 22:00:22 +0000",
+      "summary": "It should not be surprising to find Native American Patriots and men who intermarried into Native American families among the thousands of men who served during the American Revolution. Two of these men were James Bass and William Taburn, and today we can trace their relationship to the Nansemond Indian Nation. Linking these men with […]\nThe post James Bass & William Taburn, Nansemond Indian Nation Patriot Warriors: A Call for Research appeared first on Journal of the American Revolution.",
+      "url": "https://allthingsliberty.com/2026/10/james-bass-william-taburn-nansemond-indian-nation-patriot-warriors-a-call-for-research/"
+    },
+    {
+      "category": "Theology",
+      "title": "What Conversion Looks Like in Messy People (Like Me)",
+      "source": "9Marks",
+      "date": "Tue, 13 Oct 2026 18:51:26 +0000",
+      "summary": "All sinners, regardless of past trauma, messiness of life, socioeconomic background, or educational attainment must be converted the same way—through repentance and faith in Christ alone. \nThe post What Conversion Looks Like in Messy People (Like Me) appeared first on 9Marks.",
+      "url": "https://www.9marks.org/article/what-conversion-looks-like-in-messy-people-like-me/?utm_source=rss&utm_medium=rss&utm_campaign=what-conversion-looks-like-in-messy-people-like-me"
     },
     {
       "category": "History",
-      "title": "The Stamp Act and the American Revolution",
+      "title": "My Family Arrived at this Place: A Loyalist Ranger’s Road from Saratoga",
       "source": "Journal of the American Revolution",
-      "date": "Sun, 31 May 2026 16:00:29 +0000",
-      "summary": "BOOK REVIEW: The Stamp Act and the American Revolution by Ken Shumate. (Yardley, PA: Westholme Publishing, 2025) $29.95 hardcover. The American Revolution as a process of separation from Great Britain started long before April 1775 as once-proud English colonists in North America struggled with their place in the early empire. The story of that struggle […]\nThe post The Stamp Act and the American Revolution appeared first on Journal of the American Revolution.",
-      "url": "https://allthingsliberty.com/2026/05/the-stamp-act-and-the-american-revolution/"
+      "date": "Tue, 13 Oct 2026 09:00:56 +0000",
+      "summary": "“My Famely a Raived at this Place”—Lt. Henry Simmons, The Cascades, June 23, 1783 For the Loyalists who joined British General John Burgoyne’s army in the weeks and months leading up to the decisive battles at Saratoga in the fall of 1777, the British defeat meant far more than the loss of a battle. Men […]\nThe post My Family Arrived at this Place: A Loyalist Ranger’s Road from Saratoga appeared first on Journal of the American Revolution.",
+      "url": "https://allthingsliberty.com/2026/10/my-family-arrived-at-this-place-a-loyalist-rangers-road-from-saratoga/"
+    },
+    {
+      "category": "History",
+      "title": "Freedom Round the Globe: A World History of the American Revolution",
+      "source": "Journal of the American Revolution",
+      "date": "Mon, 12 Oct 2026 14:13:19 +0000",
+      "summary": "BOOK REVIEW: Freedom Round the Globe: A World History of the American Revolution by Sarah M.S. Pearsall (New York, NY: Doubleday, 2026) $35.00 hardcover. Johns Hopkins history professor Sarah M.S. Pearsall has given American Revolutionary War scholars a one-of-a-kind look at the Revolution and its role as a world event. Instead of describing how the […]\nThe post Freedom Round the Globe: A World History of the American Revolution appeared first on Journal of the American Revolution.",
+      "url": "https://allthingsliberty.com/2026/10/freedom-round-the-globe-a-world-history-of-the-american-revolution/"
+    },
+    {
+      "category": "Theology",
+      "title": "The Reason for Church: A Review",
+      "source": "9Marks",
+      "date": "Thu, 08 Oct 2026 21:49:22 +0000",
+      "summary": "Rescue us from ourselves? No. Jesus died to rescue us from God’s wrath. \nThe post The Reason for Church: A Review appeared first on 9Marks.",
+      "url": "https://www.9marks.org/review/the-reason-for-church-a-review/?utm_source=rss&utm_medium=rss&utm_campaign=the-reason-for-church-a-review"
+    },
+    {
+      "category": "Theology",
+      "title": "Aiming for Conversion in Our Preaching",
+      "source": "9Marks",
+      "date": "Tue, 06 Oct 2026 15:42:44 +0000",
+      "summary": "Worse than offending unbelievers is treating them like they are believers. Instead, we must aim to help sinners see their sin and confess their need for Christ. This spiritual clarity is not cruel, but kind.\nThe post Aiming for Conversion in Our Preaching appeared first on 9Marks.",
+      "url": "https://www.9marks.org/article/aiming-for-conversion-in-our-preaching/?utm_source=rss&utm_medium=rss&utm_campaign=aiming-for-conversion-in-our-preaching"
     },
     {
       "category": "History",
@@ -289,30 +289,6 @@
       "date": "Thu, 11 Apr 2024 13:08:00 +0000",
       "summary": ".image-13796819 {\n\tmax-height: 100%;\n\t--left: 40.91%;\n\t--top: 52.46%;\n\t} \n\tIn 2019 Will Grant embarked on a 142-day, 2,000-mile horseback journey from the Pony Express stables in St. Joseph, Mo., to trail’s end in Sacramento, Calif.",
       "url": "https://historynet.com/pony-express-ride-will-grant/"
-    },
-    {
-      "category": "Theology",
-      "title": "Expanding Reach of the 9Marks Journal",
-      "source": "9Marks",
-      "date": "Tue, 28 Aug 2018 14:20:11 +0000",
-      "summary": "Published quarterly, the 9Marks Journal features articles from pastors and for pastors. It focuses on a single topic—like  preaching, pastoral burnout, church discipline, the Reformation—and seeks to provide enlightening and encouraging instruction. And by God’s grace, it appears our journal is gaining traction. We released our summer edition—“Pastoral Burnout: Its Causes & Cures”—on July 17. Since then, it’s received over 15,000 views […]\nThe post Expanding Reach of the 9Marks Journal appeared first on 9Marks.",
-      "url": "https://www.9marks.org/2018/08/expanding-reach-of-the-9marks-journal/?utm_source=rss&utm_medium=rss&utm_campaign=expanding-reach-of-the-9marks-journal"
-    },
-    {
-      "category": "Theology",
-      "title": "Building Healthy Churches in Sub-Saharan Africa",
-      "source": "9Marks",
-      "date": "Tue, 28 Aug 2018 14:15:43 +0000",
-      "summary": "All across the great continent of Africa, men and women are coming to Christ. That’s what the reports say—and that’s what our friends on the ground say, too. This is wonderful news, but it raises some questions: How will they grow? Who will shepherd them? What will protect the gospel and keep them from bad […]\nThe post Building Healthy Churches in Sub-Saharan Africa appeared first on 9Marks.",
-      "url": "https://www.9marks.org/2018/08/building-healthy-churches-in-sub-saharan-africa/?utm_source=rss&utm_medium=rss&utm_campaign=building-healthy-churches-in-sub-saharan-africa"
-    },
-    {
-      "category": "Theology",
-      "title": "International Director’s Summer in Europe | Stay tuned",
-      "source": "9Marks",
-      "date": "Sat, 28 Jul 2018 14:18:28 +0000",
-      "summary": "This summer, our international director Rick Denham spent time with various European partners. Over two months, he traveled to ten countries where he formed new relationships, strengthened old ones, and observed God’s work through many different churches, ministries, and publishers. Dozens of stories could be told, and we’ll try to share just a few of […]\nThe post International Director’s Summer in Europe | Stay tuned appeared first on 9Marks.",
-      "url": "https://www.9marks.org/2018/07/international-directors-summer-in-europe-2/?utm_source=rss&utm_medium=rss&utm_campaign=international-directors-summer-in-europe-2"
     }
   ]
 }
