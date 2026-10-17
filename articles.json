@@ -1,62 +1,126 @@
 {
-  "lastUpdated": "2026-10-16T19:09:35.610Z",
+  "lastUpdated": "2026-10-17T00:04:54.092Z",
   "articleCount": 39,
   "articles": [
     {
       "category": "Science",
-      "title": "Automated essay assessment can grade writing more accurately across topics, study finds",
+      "title": "Scientists uncover mystery of how snail shells coil to the right or to the left",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Fri, 16 Oct 2026 15:00:22 EDT",
-      "summary": "An artificial intelligence (AI) model can score English essays with improved accuracy across different writing topics, according to work published in the International Journal of Continuing Engineering Education and Life-Long Learning. The tool could help schools assess student work more efficiently while reducing inconsistencies in grading.",
-      "url": "https://phys.org/news/2026-10-automated-essay-grade-accurately-topics.html"
+      "date": "Fri, 16 Oct 2026 19:40:10 EDT",
+      "summary": "Scientists have discovered a gene that determines whether Japanese snails develop shells that are left- or right-coiling—with implications for understanding the underlying handedness of our own bodies. The researchers from the University of Nottingham and Tohoku University studied wild Euhadra snails in Japan to understand what makes one snail a mirror image of another.",
+      "url": "https://phys.org/news/2026-10-scientists-uncover-mystery-snail-shells.html"
     },
     {
       "category": "Science",
-      "title": "Spiny dogfish blood contains a hormone long thought absent in sharks",
+      "title": "Rabbits were a medieval royal luxury in England—until the Black Death made them commonplace",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Fri, 16 Oct 2026 15:00:01 EDT",
-      "summary": "Cortisol is a hormone that helps humans and many other animals regulate their energy use and respond to changing conditions. For a long time, sharks and rays were believed to rely on a different steroid hormone for these functions, without producing cortisol themselves. Now, a new study of North Pacific spiny dogfish, a species of small shark, challenges this view.",
-      "url": "https://phys.org/news/2026-10-spiny-dogfish-blood-hormone-thought.html"
-    },
-    {
-      "category": "AI",
-      "title": "Claude reveals ECDSA curve origins",
-      "source": "Hacker News: Front Page",
-      "date": "Fri, 16 Oct 2026 18:55:59 +0000",
-      "summary": "Article URL: https://www.anthropic.com/research/ecdsa-curve-origins\nComments URL: https://news.ycombinator.com/item?id=50122800\nPoints: 6\n# Comments: 0",
-      "url": "https://www.anthropic.com/research/ecdsa-curve-origins"
+      "date": "Fri, 16 Oct 2026 19:40:06 EDT",
+      "summary": "The European rabbit is a common sight in the British countryside today. Yet it was not always so. They are not native to the British Isles and are one of the most devastating invasive species.",
+      "url": "https://phys.org/news/2026-10-rabbits-medieval-royal-luxury-england.html"
     },
     {
       "category": "Science",
-      "title": "Maxwell's demon learns to turn concealed information into usable energy for microscopic systems",
+      "title": "Astronomer leads global team on NASA mission to create unprecedented view of the early universe",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Fri, 16 Oct 2026 14:50:01 EDT",
-      "summary": "Since its introduction more than 150 years ago, the thought-provoking idea of Maxwell's demon has profoundly shaped our understanding of the relationship between information and energy. Maxwell's demon is an imagined microscopic gatekeeper that exploits information at the microscopic scale to produce macroscopic work.",
-      "url": "https://phys.org/news/2026-10-maxwell-demon-concealed-usable-energy.html"
-    },
-    {
-      "category": "AI",
-      "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
-      "source": "Hacker News: Front Page",
-      "date": "Fri, 16 Oct 2026 18:32:35 +0000",
-      "summary": "Article URL: https://github.com/cobanov/PS5LM\nComments URL: https://news.ycombinator.com/item?id=50122431\nPoints: 17\n# Comments: 2",
-      "url": "https://github.com/cobanov/PS5LM"
-    },
-    {
-      "category": "AI",
-      "title": "Anthropic assigned highest junk credit rating in June",
-      "source": "Hacker News: Front Page",
-      "date": "Fri, 16 Oct 2026 18:11:42 +0000",
-      "summary": "Article URL: https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d\nComments URL: https://news.ycombinator.com/item?id=50122112\nPoints: 38\n# Comments: 9",
-      "url": "https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d"
+      "date": "Fri, 16 Oct 2026 19:20:01 EDT",
+      "summary": "A University of Missouri astronomer is leading a team of 130 researchers from 62 institutions—including NASA, the California Institute of Technology, Princeton University and Harvard University—on an ambitious mission to capture an unprecedented view of the early universe.",
+      "url": "https://phys.org/news/2026-10-astronomer-global-team-nasa-mission.html"
     },
     {
       "category": "Space",
-      "title": " Scientists find 'gemstones' in atmosphere of bizarre, scorching-hot 'marshmallow' exoplanet ",
+      "title": " 'It really does change you': SpaceX Crew-12 commander wishes we could all see our fragile Earth from space ",
       "source": " Latest from Space.com ",
-      "date": "Fri, 16 Oct 2026 18:00:00 +0000",
-      "summary": "Using data from the James Webb Space Telescope, astronomers have unravelled some of the secrets of a bizarre, blisteringly hot exoplanet that has the consistency of marshmallow.",
-      "url": "https://www.space.com/astronomy/exoplanets/scientists-find-gemstones-in-atmosphere-of-bizarre-scorching-hot-marshmallow-exoplanet"
+      "date": "Fri, 16 Oct 2026 22:00:00 +0000",
+      "summary": "The astronauts of SpaceX's Crew-12 mission wish that we could all see Earth as they just did —as a beautiful but fragile outpost of life in a vast void.",
+      "url": "https://www.space.com/space-exploration/international-space-station/it-really-does-change-you-spacex-crew-12-commander-wishes-we-could-all-see-our-fragile-earth-from-space"
+    },
+    {
+      "category": "AI",
+      "title": "Why harnesses matter for energy (and token) efficiency",
+      "source": "Hacker News: Front Page",
+      "date": "Fri, 16 Oct 2026 21:01:23 +0000",
+      "summary": "Article URL: https://neuralwatt.com/news/why-harnesses-matter-for-energy-efficiency\nComments URL: https://news.ycombinator.com/item?id=50124642\nPoints: 29\n# Comments: 10",
+      "url": "https://neuralwatt.com/news/why-harnesses-matter-for-energy-efficiency"
+    },
+    {
+      "category": "AI",
+      "title": "OpenAI models hacked a crypto wallet and breached more websites",
+      "source": "Ars Technica - All content",
+      "date": "Fri, 16 Oct 2026 20:59:01 +0000",
+      "summary": "The actions could have resulted in criminal charges had humans been behind the keyboard.",
+      "url": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/"
+    },
+    {
+      "category": "Science",
+      "title": " Archaeologists discover the oldest dwelling in the Western Hemisphere at a 13,800-year-old site in Alaska ",
+      "source": " Latest from Live Science ",
+      "date": "Fri, 16 Oct 2026 20:54:58 +0000",
+      "summary": "Archaeologists have discovered an ancient base camp in Alaska that has evidence of the oldest dwelling and possibly the earliest domesticated dogs in the Americas.",
+      "url": "https://www.livescience.com/archaeology/americas/archaeologists-discover-the-oldest-dwelling-in-the-western-hemisphere-at-a-13-800-year-old-site-in-alaska"
+    },
+    {
+      "category": "Science",
+      "title": " Physicists froze a 'necklace' of atoms — and witnessed a quantum phenomenon predicted 100 years ago ",
+      "source": " Latest from Live Science ",
+      "date": "Fri, 16 Oct 2026 20:45:06 +0000",
+      "summary": "Atoms confined to a single line can bind into clusters called Bethe strings. A new experiment points to a mix of many such clusters, though the evidence is still indirect.",
+      "url": "https://www.livescience.com/physics-mathematics/physicists-froze-a-necklace-of-atoms-and-witnessed-a-quantum-phenomenon-predicted-100-years-ago"
+    },
+    {
+      "category": "AI",
+      "title": "I never authorized an integration that scans my secrets",
+      "source": "Hacker News: Front Page",
+      "date": "Fri, 16 Oct 2026 20:33:41 +0000",
+      "summary": "Article URL: https://github.com/home-assistant/home-assistant.io/issues/49314\nComments URL: https://news.ycombinator.com/item?id=50124251\nPoints: 158\n# Comments: 108",
+      "url": "https://github.com/home-assistant/home-assistant.io/issues/49314"
+    },
+    {
+      "category": "AI",
+      "title": "“thegentlemanpervert” producing AI CSAM is a NJ prosecutor, say cops",
+      "source": "Ars Technica - All content",
+      "date": "Fri, 16 Oct 2026 20:20:07 +0000",
+      "summary": "Discord user flagged AI CSAM, triggering arrest of New Jersey deputy AG.",
+      "url": "https://arstechnica.com/tech-policy/2026/10/thegentlemanpervert-producing-ai-csam-is-a-nj-prosecutor-say-cops/"
+    },
+    {
+      "category": "Space",
+      "title": "NASA Names Stephen Cash Marshall Space Flight Center Director",
+      "source": "NASA",
+      "date": "Fri, 16 Oct 2026 20:14:39 +0000",
+      "summary": "NASA Administrator Jared Isaacman has named Stephen Cash director of the agency’s Marshall Space Flight Center in Huntsville, Alabama, effective Monday, Oct. 19. Cash, a veteran NASA engineer and aerospace executive, returns to lead the center where he began his career more than four decades ago. “Marshall contributions to NASA’s missions are historic and it’s […]",
+      "url": "https://www.nasa.gov/news-release/nasa-names-stephen-cash-marshall-space-flight-center-director/"
+    },
+    {
+      "category": "Space",
+      "title": " When not to watch a meteor shower — why I'm not staying up for the Orionids ",
+      "source": " Latest from Space.com ",
+      "date": "Fri, 16 Oct 2026 20:00:00 +0000",
+      "summary": "The Orionid meteor shower peaks next week, but a bright moon makes much of the night less than ideal. Sometimes the sensible observing decision is knowing when to stay in bed — and when to get up early.",
+      "url": "https://www.space.com/stargazing/when-not-to-watch-a-meteor-shower-why-im-not-staying-up-for-the-orionids"
+    },
+    {
+      "category": "AI",
+      "title": "FLUX 3 Image Klein",
+      "source": "Hacker News: Front Page",
+      "date": "Fri, 16 Oct 2026 19:47:13 +0000",
+      "summary": "Article URL: https://bfl.ai/blog/flux-3-image-klein\nComments URL: https://news.ycombinator.com/item?id=50123580\nPoints: 89\n# Comments: 18",
+      "url": "https://bfl.ai/blog/flux-3-image-klein"
+    },
+    {
+      "category": "AI",
+      "title": "US Rep proposes bill to give video game buyers \"ownership,\" not \"a license\"",
+      "source": "Ars Technica - All content",
+      "date": "Fri, 16 Oct 2026 19:41:18 +0000",
+      "summary": "There are still significant hurdles ahead, both technical and legislative.",
+      "url": "https://arstechnica.com/gaming/2026/10/us-rep-proposes-bill-to-give-video-game-buyers-ownership-not-a-license/"
+    },
+    {
+      "category": "AI",
+      "title": "How Itaú is building generative AI for its entire customer base",
+      "source": "OpenAI News",
+      "date": "Fri, 16 Oct 2026 19:00:00 GMT",
+      "summary": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
+      "url": "https://openai.com/index/itau-generative-ai"
     },
     {
       "category": "Space",
@@ -68,35 +132,11 @@
     },
     {
       "category": "Space",
-      "title": " SpaceX thrusters just made a Tesla Roadster 'fly' (and Elon Musk's car is still out there in space) ",
-      "source": " Latest from Space.com ",
-      "date": "Fri, 16 Oct 2026 17:38:34 +0000",
-      "summary": "Tesla just unveiled its new Roadster with a spectacular stunt, using SpaceX thrusters to make the sleek vehicle \"fly.\"",
-      "url": "https://www.space.com/technology/spacex-thrusters-just-made-a-tesla-roadster-fly-and-elon-musks-car-is-still-out-there-in-space"
-    },
-    {
-      "category": "AI",
-      "title": "RFK Jr. proposes FDA look the other way on unproven peptides, report says",
-      "source": "Ars Technica - All content",
-      "date": "Fri, 16 Oct 2026 17:05:59 +0000",
-      "summary": "FDA scientists said none of the popular drugs have been proven safe or effective.",
-      "url": "https://arstechnica.com/health/2026/10/rfk-jr-proposes-fda-look-the-other-way-on-unproven-peptides-report-says/"
-    },
-    {
-      "category": "Space",
       "title": "Artemis II Heat Shield After Splashdown",
       "source": "NASA",
       "date": "Fri, 16 Oct 2026 16:28:01 +0000",
       "summary": "Shortly after NASA’s Artemis II mission splashed down on April 10, 2026, U.S. Navy divers captured underwater imagery of the Orion spacecraft’s heat shield. In the months after, the agency measured whether the thermal protection system effectively safeguarded the crew and Orion systems as the spacecraft reentered Earth’s atmosphere. This rigorous analysis confirmed that the […]",
       "url": "https://www.nasa.gov/image-article/artemis-ii-heat-shield-after-splashdown/"
-    },
-    {
-      "category": "AI",
-      "title": "Meta may use sweeping new commercial TOS to avoid millions in AI licensing fees",
-      "source": "Ars Technica - All content",
-      "date": "Fri, 16 Oct 2026 15:41:00 +0000",
-      "summary": "Meta “streamlined” its commercial TOS. Legal experts warn it’s an AI power grab.",
-      "url": "https://arstechnica.com/tech-policy/2026/10/meta-may-use-sweeping-new-commercial-tos-to-avoid-millions-in-ai-licensing-fees/"
     },
     {
       "category": "Science",
@@ -113,22 +153,6 @@
       "date": "Fri, 16 Oct 2026 14:24:29 +0000",
       "summary": "As the supercooled propellant flowed into the core stage, and NASA’s SLS (Space Launch System) rocket roared to life, Allison Mjoen and her family watched with awe and pride. Mjoen, NASA’s operations manager for the agency’s Exploration Ground Systems Program, helped shape the systems and ground operations that will one day send humans back to […]",
       "url": "https://www.nasa.gov/missions/station/i-am-artemis-allison-mjoen/"
-    },
-    {
-      "category": "AI",
-      "title": "Polymarket saw $600 million in election trades after the elections were over",
-      "source": "Ars Technica - All content",
-      "date": "Fri, 16 Oct 2026 14:19:22 +0000",
-      "summary": "Millions kept changing hands long after the election outcomes were effectively settled.",
-      "url": "https://arstechnica.com/tech-policy/2026/10/polymarket-saw-600-million-in-election-trades-after-the-elections-were-over/"
-    },
-    {
-      "category": "Space",
-      "title": "NASA’s Hubble Spies Spiral’s Edge",
-      "source": "NASA",
-      "date": "Fri, 16 Oct 2026 12:42:08 +0000",
-      "summary": "This NASA Hubble Space Telescope image features the edge-on, intermediate spiral galaxy NGC 1827, located roughly 37 million light-years away in the constellation Columba, the Dove.",
-      "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-spies-spirals-edge/"
     },
     {
       "category": "Science",
@@ -153,14 +177,6 @@
       "date": "Fri, 16 Oct 2026 10:00:08 +0000",
       "summary": "In the late eighth century BCE, the Assyrian Empire conducted a series of military campaigns that devastated the Northern Kingdom of Israel. The onslaught drove […]\nThe post Did Northern Scribes Help Write the Bible? appeared first on Biblical Archaeology Society.",
       "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-israel/did-northern-scribes-help-write-bible/"
-    },
-    {
-      "category": "Science",
-      "title": " Astronomers discover the first-ever green star, plus the reddest 'white dwarf' ever seen ",
-      "source": " Latest from Live Science ",
-      "date": "Fri, 16 Oct 2026 10:00:00 +0000",
-      "summary": "Stellar remnants called white dwarfs ‪appear to come in a rainbow of colors, according to a new study.",
-      "url": "https://www.livescience.com/space/astronomy/white-dwarf-stars-can-be-purple-pink-and-even-green-surprising-new-study-finds"
     },
     {
       "category": "Theology",
@@ -195,12 +211,12 @@
       "url": "https://www.sciencedaily.com/releases/2026/10/261015073220.htm"
     },
     {
-      "category": "Science",
-      "title": " 2 giant Ramesses II statues, one wearing a double crown, discovered by man in Egypt ",
-      "source": " Latest from Live Science ",
-      "date": "Thu, 15 Oct 2026 20:01:18 +0000",
-      "summary": "The remains of two Ramesses II statues — one of which would have originally stood around 28 feet tall — were found by a villager in Egypt.",
-      "url": "https://www.livescience.com/archaeology/ancient-egyptians/2-giant-ramesses-ii-statues-one-wearing-a-double-crown-discovered-by-man-in-egypt"
+      "category": "AI",
+      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "source": "OpenAI News",
+      "date": "Fri, 16 Oct 2026 00:00:00 GMT",
+      "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
+      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin"
     },
     {
       "category": "AI",
@@ -209,14 +225,6 @@
       "date": "Thu, 15 Oct 2026 19:00:00 GMT",
       "summary": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
       "url": "https://openai.com/index/introducing-the-rosalind-academic-plan"
-    },
-    {
-      "category": "AI",
-      "title": "Teaching students to think and learn through questions",
-      "source": "OpenAI News",
-      "date": "Thu, 15 Oct 2026 13:00:00 GMT",
-      "summary": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
-      "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions"
     },
     {
       "category": "Science",
@@ -233,14 +241,6 @@
       "date": "Thu, 15 Oct 2026 11:00:25 +0000",
       "summary": "“Alternative facts” and “fake news” are not just a contemporary phenomenon. On occasion ancient writers similarly tried to spin their version of the truth. One such claim was that Roman emperor Domitian was a great persecutor of Christians.\nThe post Alternative Facts: Domitian’s Persecution of Christians appeared first on Biblical Archaeology Society.",
       "url": "https://www.biblicalarchaeology.org/daily/biblical-topics/post-biblical-period/domitian-persecution-of-christians/"
-    },
-    {
-      "category": "AI",
-      "title": "Sullivan & Cromwell brings legal expertise into agreement review",
-      "source": "OpenAI News",
-      "date": "Thu, 15 Oct 2026 00:00:00 GMT",
-      "summary": "In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement.",
-      "url": "https://openai.com/index/sullivan-cromwell"
     },
     {
       "category": "History",
