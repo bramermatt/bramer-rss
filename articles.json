@@ -1,78 +1,118 @@
 {
-  "lastUpdated": "2026-10-17T23:40:59.962Z",
-  "articleCount": 36,
+  "lastUpdated": "2026-10-18T13:41:55.097Z",
+  "articleCount": 39,
   "articles": [
     {
-      "category": "AI",
-      "title": "JDK 28",
-      "source": "Hacker News: Front Page",
-      "date": "Sat, 17 Oct 2026 21:37:07 +0000",
-      "summary": "Article URL: https://openjdk.org/projects/jdk/28/\nComments URL: https://news.ycombinator.com/item?id=50135379\nPoints: 15\n# Comments: 2",
-      "url": "https://openjdk.org/projects/jdk/28/"
+      "category": "Science",
+      "title": " Black Death had dramatic effect on species diversity as humans abandoned farmland, study finds ",
+      "source": " Latest from Live Science ",
+      "date": "Sun, 18 Oct 2026 13:15:00 +0000",
+      "summary": "Researchers have found that during the Black Death, when a third of the population of Europe was wiped out, biodiversity fell. Understanding their farming practices could help us increase diversity in modern agriculture.",
+      "url": "https://www.livescience.com/planet-earth/plants/black-death-had-dramatic-effect-on-species-diversity-as-humans-abandoned-farmland-study-finds"
     },
     {
       "category": "Science",
-      "title": "What a worm's brain can teach us about sex differences in the nervous system",
+      "title": "Hybrid diamond chip strengthens interactions between light and quantum bits",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Sat, 17 Oct 2026 17:20:01 EDT",
-      "summary": "Ever wonder what goes on inside the brain of a worm—how it processes information, responds to stimuli and perceives the world around it? Northeastern University researchers have opened up that can of worms, specifically the one containing C. elegans, a tiny roundworm that's one of the most extensively studied animals in biology.",
-      "url": "https://phys.org/news/2026-10-worm-brain-sex-differences-nervous.html"
+      "date": "Sun, 18 Oct 2026 09:00:05 EDT",
+      "summary": "Researchers have developed and demonstrated a new hybrid photonic platform that integrates quantum emitters with photonic devices, providing a way to reliably control the interaction between photons and quantum information carriers. The chip-based platform, which combines gallium phosphide (GaP) with a diamond substrate, could help make quantum networks more practical by providing a way to connect quantum devices over long distances.",
+      "url": "https://phys.org/news/2026-10-hybrid-diamond-chip-interactions-quantum.html"
     },
     {
       "category": "AI",
-      "title": "Chrome and Edge are removing XSLT: what breaks and what does not",
+      "title": "Germany's 17M Immigrants: Where They Come From",
       "source": "Hacker News: Front Page",
-      "date": "Sat, 17 Oct 2026 20:07:33 +0000",
-      "summary": "Article URL: https://doctor-seo.net/en/blog/news/chrome-edge-removing-xslt/\nComments URL: https://news.ycombinator.com/item?id=50134617\nPoints: 59\n# Comments: 60",
-      "url": "https://doctor-seo.net/en/blog/news/chrome-edge-removing-xslt/"
+      "date": "Sun, 18 Oct 2026 12:46:35 +0000",
+      "summary": "Article URL: https://www.visualcapitalist.com/cp/where-germanys-immigrants-come-from/\nComments URL: https://news.ycombinator.com/item?id=50140638\nPoints: 6\n# Comments: 8",
+      "url": "https://www.visualcapitalist.com/cp/where-germanys-immigrants-come-from/"
     },
     {
       "category": "Science",
-      "title": "How one of Earth's worst volcanic disasters affected societies in prehistoric Japan",
+      "title": "Lion droppings yield previously unknown microbial species, exposing hidden diversity inside Africa's big cats",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Sat, 17 Oct 2026 16:00:01 EDT",
-      "summary": "A new international study led by Lund University examines what happened to population levels after the Kikai-Akahoya volcanic eruption in prehistoric Japan. The results paint a more complex picture than what had previously been believed. The paper is published in the journal Science Advances.",
-      "url": "https://phys.org/news/2026-10-earth-worst-volcanic-disasters-affected.html"
+      "date": "Sun, 18 Oct 2026 08:00:01 EDT",
+      "summary": "Scientists know a great deal about how lions hunt, breed and survive, but the microscopic communities living inside them have remained largely unexplored. Now, a study of wild lions in Namibia is beginning to change that, while revealing how much biology is still missing from the world's genomic databases.",
+      "url": "https://phys.org/news/2026-10-lion-yield-previously-unknown-microbial.html"
+    },
+    {
+      "category": "Space",
+      "title": " Astronomers want your help finding 'missing' black holes in the Milky Way ",
+      "source": " Latest from Space.com ",
+      "date": "Sun, 18 Oct 2026 12:00:00 +0000",
+      "summary": "A citizen science project is seeking volunteers to comb through NASA telescope data for telltale signs of the galaxy's hidden black holes.",
+      "url": "https://www.space.com/astronomy/black-holes/astronomers-want-your-help-finding-missing-black-holes-in-the-milky-way"
     },
     {
       "category": "Science",
-      "title": "Simulations explore nuclear mitigation of asteroid threats",
+      "title": "One million migrating raptors dodge illegal hunters above Georgia's Black Sea coast",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Sat, 17 Oct 2026 15:00:05 EDT",
-      "summary": "Lawrence Livermore National Laboratory (LLNL) researchers are developing three-dimensional simulations to examine how a nuclear device could be used to deflect or potentially disrupt an asteroid threatening Earth.",
-      "url": "https://phys.org/news/2026-10-simulations-explore-nuclear-mitigation-asteroid.html"
+      "date": "Sun, 18 Oct 2026 07:39:23 EDT",
+      "summary": "Standing on a verdant hill above Georgia's Black Sea coast, ornithologist Bart Hoekstra looked out over one of the world's greatest wildlife spectacles unfolding before him—then gunshots pierced the air.",
+      "url": "https://phys.org/news/2026-10-million-migrating-raptors-dodge-illegal.html"
     },
     {
       "category": "AI",
-      "title": "Microsoft and CMU team up to train early career software engineers",
+      "title": "Open MicroManipulator – A sub-micrometer 3D motion control plattform",
       "source": "Hacker News: Front Page",
-      "date": "Sat, 17 Oct 2026 18:45:07 +0000",
-      "summary": "Article URL: https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise\nComments URL: https://news.ycombinator.com/item?id=50133830\nPoints: 51\n# Comments: 56",
-      "url": "https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise"
+      "date": "Sun, 18 Oct 2026 11:16:22 +0000",
+      "summary": "Article URL: https://github.com/0x23/MicroManipulatorStepper\nComments URL: https://news.ycombinator.com/item?id=50140001\nPoints: 32\n# Comments: 3",
+      "url": "https://github.com/0x23/MicroManipulatorStepper"
+    },
+    {
+      "category": "AI",
+      "title": "Legal experts warn Meta's new terms still grant broad scraping permissions",
+      "source": "Hacker News: Front Page",
+      "date": "Sun, 18 Oct 2026 10:21:51 +0000",
+      "summary": "Article URL: https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/\nComments URL: https://news.ycombinator.com/item?id=50139692\nPoints: 40\n# Comments: 12",
+      "url": "https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/"
+    },
+    {
+      "category": "Science",
+      "title": " This 850-year-old 'firework' supernova is full of mysterious knots ",
+      "source": " Latest from Live Science ",
+      "date": "Sun, 18 Oct 2026 10:00:00 +0000",
+      "summary": "Pa 30, linked to a supernova seen in 1181, reveals chains of tiny gas knots in a new image from the Gemini North telescope in Hawaii.",
+      "url": "https://www.livescience.com/space/astronomy/famous-supernova-that-lit-up-skies-in-1181-is-now-full-of-mysterious-knots-space-photo-of-the-week"
     },
     {
       "category": "Space",
-      "title": " On this day in space! Oct. 17, 2016: Private Antares rocket returns to flight after catastrophic launch explosion ",
+      "title": " 10 best places to see the 2027 total solar eclipse in Spain ",
       "source": " Latest from Space.com ",
-      "date": "Sat, 17 Oct 2026 14:49:01 +0000",
-      "summary": "On Oct. 17, 2016, the Antares rocket now built by Northrop Grumman Space Systems returned to flight to come back from a catastrophic explosion. Here's why it mattered.",
-      "url": "https://www.space.com/space-exploration/on-this-day-in-space-october-17-2026"
+      "date": "Sun, 18 Oct 2026 10:00:00 +0000",
+      "summary": "From the Costa del Sol to whitewashed mountain villages, here are 10 of the best places in southern Spain to experience the Aug. 2, 2027 total solar eclipse.",
+      "url": "https://www.space.com/stargazing/solar-eclipses/10-best-places-to-see-the-2027-total-solar-eclipse-in-spain"
     },
     {
       "category": "Space",
-      "title": " This Week In Space podcast: Episode 232 — The Lunar Dump ",
+      "title": " 'Let's all choose to make tomorrow better', Artemis II astronauts honored with Stephen Hawking Medal at Starmus ",
       "source": " Latest from Space.com ",
-      "date": "Sat, 17 Oct 2026 14:17:38 +0000",
-      "summary": "On Episode 232 of This Week In Space, Rod Pyle and Tariq Malik are joined by Chelsea Gohd to talk about the recent large data dump from the Artemis II mission.",
-      "url": "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-232-the-lunar-dump"
+      "date": "Sun, 18 Oct 2026 09:12:51 +0000",
+      "summary": "The Artemis II crew have joined an impressive list of honourees, including Buzz Aldrin, Jane Goodall and David Attenborough.",
+      "url": "https://www.space.com/space-exploration/artemis/artemis-ii-astronauts-honored-with-stephen-hawking-medal-at-starmus"
+    },
+    {
+      "category": "Science",
+      "title": " Can cuttlefish hypnotize their prey? ",
+      "source": " Latest from Live Science ",
+      "date": "Sun, 18 Oct 2026 09:00:00 +0000",
+      "summary": "Cuttlefish use rapid color-change while hunting. The question is, does it actually hypnotize their prey?",
+      "url": "https://www.livescience.com/animals/mollusks/can-cuttlefish-hypnotize-their-prey"
     },
     {
       "category": "Space",
-      "title": " 6 scientifically accurate star projectors to turn any room into a home planetarium ",
-      "source": " Latest from Space.com ",
-      "date": "Sat, 17 Oct 2026 14:00:00 +0000",
-      "summary": "These six realistic star projectors are much more than mood lighting. Their projections are scientifically accurate enough to serve as actual stargazing practice, perfect for budding astronomers, young and old.",
-      "url": "https://www.space.com/stargazing/skywatching-kit/six-scientifically-accurate-star-projectors-to-turn-any-room-into-a-home-planetarium"
+      "title": "APOD: 2026 October 18 – Sonified: Eagle Nebula Pillars",
+      "source": "NASA",
+      "date": "Sun, 18 Oct 2026 04:05:00 +0000",
+      "summary": "APOD Science APOD APOD: 2026 October 18 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Sonified: Eagle Nebula […]",
+      "url": "https://science.nasa.gov/image-article/apod-2026-october-18-sonified-eagle-nebula-pillars/"
+    },
+    {
+      "category": "Theology",
+      "title": "Why the Seated Jesus Is Good News for Parents",
+      "source": "The Gospel Coalition",
+      "date": "Sun, 18 Oct 2026 04:00:00 +0000",
+      "summary": "Jesus’s heavenly dominion is the best news for my parenting, and for my children too.",
+      "url": "https://www.thegospelcoalition.org/article/seated-jesus-good-news-parents/"
     },
     {
       "category": "Science",
@@ -81,14 +121,6 @@
       "date": "Sat, 17 Oct 2026 09:28:13 EDT",
       "summary": "NASA’s Nancy Grace Roman Space Telescope has exceeded expectations after engineers made incredibly tiny adjustments to sharpen its view of the universe. By moving a mirror just one-sixteenth the width of a human hair, the team helped bring its powerful instruments into near-perfect alignment. Roman’s Wide Field Instrument now produces image quality nearly 30% better than predicted, promising exceptionally sharp cosmic surveys.",
       "url": "https://www.sciencedaily.com/releases/2026/10/261016070630.htm"
-    },
-    {
-      "category": "Science",
-      "title": " California redwoods are struggling in the heat — and it's not clear how much damage is being done ",
-      "source": " Latest from Live Science ",
-      "date": "Sat, 17 Oct 2026 11:45:00 +0000",
-      "summary": "When temperatures rise, California redwoods slow down their rate of photosynthesis, a discovery that could have implications for the long-term survival of the iconic species.",
-      "url": "https://www.livescience.com/planet-earth/plants/california-redwoods-are-struggling-in-the-heat-and-its-not-clear-how-much-damage-is-being-done"
     },
     {
       "category": "AI",
@@ -108,27 +140,19 @@
     },
     {
       "category": "Science",
-      "title": " Is the brain actually 2 nervous systems smooshed together? A new study claims it is. ",
-      "source": " Latest from Live Science ",
-      "date": "Sat, 17 Oct 2026 11:00:00 +0000",
-      "summary": "A recent study may reshape our understanding of brain evolution and open new avenues for studying neurological diseases.",
-      "url": "https://www.livescience.com/health/neuroscience/is-the-brain-actually-2-nervous-systems-smooshed-together-a-new-study-claims-it-is"
-    },
-    {
-      "category": "Science",
-      "title": " New 4,300-mile-long internet cable will shuttle data along the ocean floor at 1 million gigabits per second ",
-      "source": " Latest from Live Science ",
-      "date": "Sat, 17 Oct 2026 09:00:00 +0000",
-      "summary": "Petal, the world's first petabit transoceanic fiber cable, could theoretically support simultaneous music streaming for 75% of the world's population.",
-      "url": "https://www.livescience.com/technology/communications/new-4-300-mile-long-internet-cable-will-shuttle-data-along-the-ocean-floor-at-1-million-gigabits-per-second"
-    },
-    {
-      "category": "Science",
       "title": "Scientists discover how deep sleep builds muscle, burns fat, and boosts the brain",
       "source": "All Top News -- ScienceDaily",
       "date": "Sat, 17 Oct 2026 01:14:50 EDT",
       "summary": "Scientists have discovered a surprising two-way relationship between sleep and growth hormone, revealing how the brain carefully balances physical recovery with wakefulness. The findings could help explain why poor sleep harms metabolism and brain health, potentially opening the door to new treatments for sleep and neurological disorders.",
       "url": "https://www.sciencedaily.com/releases/2026/10/261016081140.htm"
+    },
+    {
+      "category": "Space",
+      "title": "APOD: 2026 October 17 – 3D 67P",
+      "source": "NASA",
+      "date": "Sat, 17 Oct 2026 04:05:00 +0000",
+      "summary": "APOD Science APOD APOD: 2026 October 17… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. 3D 67P Explanation: Put […]",
+      "url": "https://science.nasa.gov/image-article/apod-2026-october-17-3d-67p/"
     },
     {
       "category": "Theology",
@@ -153,6 +177,14 @@
       "date": "Fri, 16 Oct 2026 20:59:01 +0000",
       "summary": "The actions could have resulted in criminal charges had humans been behind the keyboard.",
       "url": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/"
+    },
+    {
+      "category": "Space",
+      "title": "NASA Names Stephen Cash Marshall Space Flight Center Director",
+      "source": "NASA",
+      "date": "Fri, 16 Oct 2026 20:14:39 +0000",
+      "summary": "NASA Administrator Jared Isaacman has named Stephen Cash director of the agency’s Marshall Space Flight Center in Huntsville, Alabama, effective Monday, Oct. 19. Cash, a veteran NASA engineer and aerospace executive, returns to lead the center where he began his career more than four decades ago. “Marshall contributions to NASA’s missions are historic and it’s […]",
+      "url": "https://www.nasa.gov/news-release/nasa-names-stephen-cash-marshall-space-flight-center-director/"
     },
     {
       "category": "AI",
@@ -185,14 +217,6 @@
       "date": "Fri, 16 Oct 2026 04:04:00 +0000",
       "summary": "Sometimes the most influential people in your church aren’t actually in your church.",
       "url": "https://www.thegospelcoalition.org/podcasts/tgc-podcast/impact-influencers-church/"
-    },
-    {
-      "category": "Theology",
-      "title": "Overcome Obstacles to Discipling Relationships",
-      "source": "The Gospel Coalition",
-      "date": "Fri, 16 Oct 2026 04:02:00 +0000",
-      "summary": "We prayed for mature Christians to guide us, and we asked several to disciple us. One after another, we were turned down.",
-      "url": "https://www.thegospelcoalition.org/article/overcome-obstacles-discipling-relationships/"
     },
     {
       "category": "AI",
