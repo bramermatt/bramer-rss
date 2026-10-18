@@ -1,54 +1,62 @@
 {
-  "lastUpdated": "2026-10-18T18:23:15.946Z",
+  "lastUpdated": "2026-10-18T23:49:41.440Z",
   "articleCount": 36,
   "articles": [
     {
       "category": "Science",
-      "title": "New monolithic ion trap opens quantum simulations to more researchers",
+      "title": "Ancient Nubian temple faience workshop reveals links between craft production and royal power",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Sun, 18 Oct 2026 14:00:06 EDT",
-      "summary": "Some quantum systems are so complex that even the most powerful supercomputers struggle to simulate their behavior. One solution is quantum simulation: building a controllable quantum system in the lab and tuning it to mimic the one researchers want to understand.",
-      "url": "https://phys.org/news/2026-10-monolithic-ion-quantum-simulations.html"
+      "date": "Sun, 18 Oct 2026 19:00:02 EDT",
+      "summary": "Archaeologists have discovered a faience workshop at a major temple complex in the ancient Nubian capital of Napata, showing how the rulers of ancient Kush used specialized craft production to reinforce royal power.",
+      "url": "https://phys.org/news/2026-10-ancient-nubian-temple-faience-workshop.html"
     },
     {
       "category": "Science",
-      "title": "A new way to detect stabilizing properties of optical devices",
+      "title": "Early humans in America endured climate chaos—new research",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Sun, 18 Oct 2026 14:00:01 EDT",
-      "summary": "In optical fibers, chips and other light-guiding devices, minor defects can scatter photons and disrupt their path. A new study demonstrates a way to reveal properties which, in certain systems, help light wave behavior withstand such flaws. The method could help speed up the search for new kinds of electronics and optical technologies, and contribute to more reliable quantum devices.",
-      "url": "https://phys.org/news/2026-10-stabilizing-properties-optical-devices.html"
+      "date": "Sun, 18 Oct 2026 17:40:01 EDT",
+      "summary": "Some 23,000 years ago, during the coldest part of the last ice age, people walked across the muddy margins of an ancient lake in what is now White Sands National Park, New Mexico.",
+      "url": "https://phys.org/news/2026-10-early-humans-america-climate-chaos.html"
+    },
+    {
+      "category": "AI",
+      "title": "Show HN: WhatsApp MCP running free on Cloudflare",
+      "source": "Hacker News: Front Page",
+      "date": "Sun, 18 Oct 2026 21:36:10 +0000",
+      "summary": "I wanted my humble Claude on mobile to access my WhatsApp messages but the only options I could find either required WhatsApp Business or an actual server to run Baileys on.\nI wanted to run it for free on ClaudeFlare and with my personal WhatsApp account, so I built this.\nImportant feature - it connects to your Google account as well as WhatsApp to grab the names of all your WhatsApp contacts, otherwise you get only phone numbers for many of them and search doesn't work properly.\nThis is a single user install because it's both gray area and very private - so point your agent at the repo and let it set things up.\nComments URL: https://news.ycombinator.com/item?id=50145715\nPoints: 21\n# Comments: 12",
+      "url": "https://github.com/finereli/whatsapp-mcp"
     },
     {
       "category": "Science",
-      "title": "Physicists prove a long-suspected quantum speed limit for thermalization",
+      "title": "Earth's oldest evidence of life is written in stone—but it's at risk of disappearing",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Sun, 18 Oct 2026 13:20:01 EDT",
-      "summary": "Whether we are waiting for a car windshield to defrost in winter or a warm drink to cool down, how long it takes for an object to settle into a stable, even temperature within its environment (thermal equilibrium) depends on numerous factors. These can include surface area, the material properties of an object and airflow.",
-      "url": "https://phys.org/news/2026-10-physicists-quantum-limit-thermalization.html"
+      "date": "Sun, 18 Oct 2026 17:00:01 EDT",
+      "summary": "Today, our planet is teeming with life, but it has not always looked the same. Long before forests reached skyward, animals walked on land and dinosaurs rose and fell, our planet was shaped by a much smaller, more unassuming form of life. And we can still find traces of it today.",
+      "url": "https://phys.org/news/2026-10-earth-oldest-evidence-life-written.html"
     },
     {
       "category": "AI",
-      "title": "Mitos editor is a fork of Helix",
+      "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
       "source": "Hacker News: Front Page",
-      "date": "Sun, 18 Oct 2026 17:19:34 +0000",
-      "summary": "Article URL: https://mitos.computer/\nComments URL: https://news.ycombinator.com/item?id=50143132\nPoints: 13\n# Comments: 14",
-      "url": "https://mitos.computer/"
+      "date": "Sun, 18 Oct 2026 20:48:14 +0000",
+      "summary": "https://x.com/Jiaru_Zou/status/2110400256647340476\nhttps://github.com/togethercomputer/HybridAgent\nhttps://huggingface.co/collections/togethercomputer/hybridag...\nEvaluations: https://arxiv.org/html/2610.18861v1#S5\nComments URL: https://news.ycombinator.com/item?id=50145337\nPoints: 147\n# Comments: 84",
+      "url": "https://arxiv.org/abs/2610.18861"
     },
     {
       "category": "AI",
-      "title": "Namecheap just seized and disabled all my domains",
+      "title": "Netflix vmaf: Perceptual video quality assessment based on multi-method fusion",
       "source": "Hacker News: Front Page",
-      "date": "Sun, 18 Oct 2026 16:56:56 +0000",
-      "summary": "Article URL: https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/\nComments URL: https://news.ycombinator.com/item?id=50142866\nPoints: 48\n# Comments: 15",
-      "url": "https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/"
+      "date": "Sun, 18 Oct 2026 20:43:40 +0000",
+      "summary": "Article URL: https://github.com/Netflix/vmaf\nComments URL: https://news.ycombinator.com/item?id=50145295\nPoints: 12\n# Comments: 5",
+      "url": "https://github.com/Netflix/vmaf"
     },
     {
-      "category": "AI",
-      "title": "Someone behind the software",
-      "source": "Hacker News: Front Page",
-      "date": "Sun, 18 Oct 2026 16:32:00 +0000",
-      "summary": "Article URL: https://karrisaarinen.com/posts/someone-behind-the-software/\nComments URL: https://news.ycombinator.com/item?id=50142573\nPoints: 74\n# Comments: 25",
-      "url": "https://karrisaarinen.com/posts/someone-behind-the-software/"
+      "category": "Space",
+      "title": " Returning the first samples from a Martian moon: Inside the science of Japan's bold MMX mission to Mars ",
+      "source": " Latest from Space.com ",
+      "date": "Sun, 18 Oct 2026 19:20:03 +0000",
+      "summary": "Japan's mission to Mars' moons could answer a decades old question dividing the origins of Phobos and Deimos between two conflicting theories, and make history as the first spacecraft to return to Earth from orbit of the Red Planet.",
+      "url": "https://www.space.com/space-exploration/missions/returning-samples-from-a-mars-moon-inside-the-science-of-japans-bold-mmx-mission"
     },
     {
       "category": "AI",
@@ -105,14 +113,6 @@
       "date": "Sun, 18 Oct 2026 08:52:13 EDT",
       "summary": "A psychedelic compound found in magic mushrooms appears to have an unexpected effect: calming highly aggressive fish. Researchers discovered that low doses of psilocybin significantly reduced aggressive attacks in mangrove rivulus fish without disrupting their normal social interactions. The findings suggest psilocybin may selectively calm escalating aggression rather than simply suppressing all behavior.",
       "url": "https://www.sciencedaily.com/releases/2026/10/261017230036.htm"
-    },
-    {
-      "category": "Space",
-      "title": " Astronomers want your help finding 'missing' black holes in the Milky Way ",
-      "source": " Latest from Space.com ",
-      "date": "Sun, 18 Oct 2026 12:00:00 +0000",
-      "summary": "A citizen science project is seeking volunteers to comb through NASA telescope data for telltale signs of the galaxy's hidden black holes.",
-      "url": "https://www.space.com/astronomy/black-holes/astronomers-want-your-help-finding-missing-black-holes-in-the-milky-way"
     },
     {
       "category": "Science",
