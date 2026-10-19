@@ -1,134 +1,206 @@
 {
-  "lastUpdated": "2026-10-18T23:49:41.440Z",
-  "articleCount": 36,
+  "lastUpdated": "2026-10-19T16:43:42.022Z",
+  "articleCount": 39,
   "articles": [
     {
       "category": "Science",
-      "title": "Ancient Nubian temple faience workshop reveals links between craft production and royal power",
+      "title": "Why the ugly history of IQ testing matters for AI and education",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Sun, 18 Oct 2026 19:00:02 EDT",
-      "summary": "Archaeologists have discovered a faience workshop at a major temple complex in the ancient Nubian capital of Napata, showing how the rulers of ancient Kush used specialized craft production to reinforce royal power.",
-      "url": "https://phys.org/news/2026-10-ancient-nubian-temple-faience-workshop.html"
+      "date": "Mon, 19 Oct 2026 12:40:13 EDT",
+      "summary": "OpenAI CEO Sam Altman has recently been discussing \"artificial general intelligence\" that matches or surpasses human capabilities. This is from the same person who has said children born today (including his own) will \"never be more intelligent than AI, from a 'raw IQ'\" (intelligence quotient) perspective.",
+      "url": "https://phys.org/news/2026-10-ugly-history-iq-ai.html"
     },
     {
       "category": "Science",
-      "title": "Early humans in America endured climate chaos—new research",
+      "title": "AI reads centuries-old handwriting to reveal Britain's vast historic shipping trade",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Sun, 18 Oct 2026 17:40:01 EDT",
-      "summary": "Some 23,000 years ago, during the coldest part of the last ice age, people walked across the muddy margins of an ancient lake in what is now White Sands National Park, New Mexico.",
-      "url": "https://phys.org/news/2026-10-early-humans-america-climate-chaos.html"
-    },
-    {
-      "category": "AI",
-      "title": "Show HN: WhatsApp MCP running free on Cloudflare",
-      "source": "Hacker News: Front Page",
-      "date": "Sun, 18 Oct 2026 21:36:10 +0000",
-      "summary": "I wanted my humble Claude on mobile to access my WhatsApp messages but the only options I could find either required WhatsApp Business or an actual server to run Baileys on.\nI wanted to run it for free on ClaudeFlare and with my personal WhatsApp account, so I built this.\nImportant feature - it connects to your Google account as well as WhatsApp to grab the names of all your WhatsApp contacts, otherwise you get only phone numbers for many of them and search doesn't work properly.\nThis is a single user install because it's both gray area and very private - so point your agent at the repo and let it set things up.\nComments URL: https://news.ycombinator.com/item?id=50145715\nPoints: 21\n# Comments: 12",
-      "url": "https://github.com/finereli/whatsapp-mcp"
-    },
-    {
-      "category": "Science",
-      "title": "Earth's oldest evidence of life is written in stone—but it's at risk of disappearing",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sun, 18 Oct 2026 17:00:01 EDT",
-      "summary": "Today, our planet is teeming with life, but it has not always looked the same. Long before forests reached skyward, animals walked on land and dinosaurs rose and fell, our planet was shaped by a much smaller, more unassuming form of life. And we can still find traces of it today.",
-      "url": "https://phys.org/news/2026-10-earth-oldest-evidence-life-written.html"
-    },
-    {
-      "category": "AI",
-      "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
-      "source": "Hacker News: Front Page",
-      "date": "Sun, 18 Oct 2026 20:48:14 +0000",
-      "summary": "https://x.com/Jiaru_Zou/status/2110400256647340476\nhttps://github.com/togethercomputer/HybridAgent\nhttps://huggingface.co/collections/togethercomputer/hybridag...\nEvaluations: https://arxiv.org/html/2610.18861v1#S5\nComments URL: https://news.ycombinator.com/item?id=50145337\nPoints: 147\n# Comments: 84",
-      "url": "https://arxiv.org/abs/2610.18861"
-    },
-    {
-      "category": "AI",
-      "title": "Netflix vmaf: Perceptual video quality assessment based on multi-method fusion",
-      "source": "Hacker News: Front Page",
-      "date": "Sun, 18 Oct 2026 20:43:40 +0000",
-      "summary": "Article URL: https://github.com/Netflix/vmaf\nComments URL: https://news.ycombinator.com/item?id=50145295\nPoints: 12\n# Comments: 5",
-      "url": "https://github.com/Netflix/vmaf"
+      "date": "Mon, 19 Oct 2026 12:40:08 EDT",
+      "summary": "Historians have created a first-of-its-kind online interactive map, using data from hundreds of thousands of pages of centuries-old port records to chart Britain's growth into a dominant global trading nation.",
+      "url": "https://phys.org/news/2026-10-ai-centuries-reveal-britain-vast.html"
     },
     {
       "category": "Space",
-      "title": " Returning the first samples from a Martian moon: Inside the science of Japan's bold MMX mission to Mars ",
-      "source": " Latest from Space.com ",
-      "date": "Sun, 18 Oct 2026 19:20:03 +0000",
-      "summary": "Japan's mission to Mars' moons could answer a decades old question dividing the origins of Phobos and Deimos between two conflicting theories, and make history as the first spacecraft to return to Earth from orbit of the Red Planet.",
-      "url": "https://www.space.com/space-exploration/missions/returning-samples-from-a-mars-moon-inside-the-science-of-japans-bold-mmx-mission"
+      "title": "Instrumentation",
+      "source": "NASA",
+      "date": "Mon, 19 Oct 2026 16:37:45 +0000",
+      "summary": "To measure airflow and sound, research teams at the NASA Glenn Research Center use special instrumentation like particle image velocimetry, hot wire anemometry, Raman spectroscopy, microphones in phased arrays or continuously rotating rakes. The global aviation noise reduction community relies on data from NASA GRC experiments to validate theory and noise prediction software. Rotating Rake […]",
+      "url": "https://www.nasa.gov/centers-and-facilities/glenn/instrumentation-2/"
     },
     {
       "category": "AI",
-      "title": "Anthropic gives outside AI watchdog “employee-like” access",
+      "title": "I no longer care to work on any Ruby gems so I've archived all my repositories",
+      "source": "Hacker News: Front Page",
+      "date": "Mon, 19 Oct 2026 16:37:10 +0000",
+      "summary": "Article URL: https://po-ru.com/2026/10/18/why-im-no-longer-updating-this-repository\nComments URL: https://news.ycombinator.com/item?id=50154518\nPoints: 7\n# Comments: 0",
+      "url": "https://po-ru.com/2026/10/18/why-im-no-longer-updating-this-repository"
+    },
+    {
+      "category": "Science",
+      "title": "Ancient technique can improve the bland taste of beans",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Mon, 19 Oct 2026 12:20:18 EDT",
+      "summary": "Faba beans are rich in protein and can easily be grown in Denmark—yet they are more often used as animal feed than as food for people. One of the main reasons is that their flavor does not meet consumer expectations compared with beef, pork or chicken.",
+      "url": "https://phys.org/news/2026-10-ancient-technique-bland-beans.html"
+    },
+    {
+      "category": "Space",
+      "title": "Martian Dawn",
+      "source": "NASA",
+      "date": "Mon, 19 Oct 2026 16:03:51 +0000",
+      "summary": "NASA’s Curiosity captures the dawn on Mars – as well as elongated ridges formed by wind erosion, or yardangs – in this close-up from a panorama released on Oct. 6, 2026. This is the most detailed view yet of distant, wind-carved Martian cliffs, highlighting features the mission’s scientists have long been waiting to see up […]",
+      "url": "https://www.nasa.gov/image-article/martian-dawn/"
+    },
+    {
+      "category": "AI",
+      "title": "Launch HN: Laminar (YC S24) – We trained a model to catch silent agent failures",
+      "source": "Hacker News: Front Page",
+      "date": "Mon, 19 Oct 2026 16:00:18 +0000",
+      "summary": "Hi HN, we’re Robert and Din from Laminar (https://laminar.sh). We’ve been building open-source observability for AI agents since 2024. Recently, we released flow-1, a model trained with RL to find errors in agent traces. On our benchmark (https://laminar.sh/blog/flow-1), it matches GPT-6-sol in detection quality while being 23x cheaper. This makes it affordable to analyze every production agent trace, without sampling.\nHere’s a one-minute walkthrough: https://youtu.be/KJa3h6ZJNLQ\nWe also put together a post with example traces and analyses from flow-1 and other models: https://laminar.sh/blog/flow-1-in-action\nAgent observability is crowded, so instead of a bullet list of how Laminar differs from X, we’ll explain how we’re solving agent observability from first principles.\nAgents now run for many steps and fail implicitly. An agent can click the wrong button or cite the wrong document while every call completes successfully. These errors are the most useful ones to catch and understand. To find them, you need to understand what the agent was trying to do and inspect its LLM calls and tool results. Simply looking at the final agent output is not enough.\nCollecting traces alone doesn’t solve this. A lot of agent observability platforms are still data collectors at their core. You can end up paying to store traces that nobody has time to read or extract value from.\nUsing another LLM to inspect traces is THE solution, but capable models are expensive at scale and cheaper ones often miss errors or flag unrelated things.\nSo we built our model to solve exactly this problem. We finetuned a small OSS model and then post trained it with RL on thousands of synthetic investigations of realistic agent workflows in software, legal, customer support, etc. We got a model that is both good at agent trace analysis and very cheap to run.\nflow-1 runs inside a harness we call Signals. It acts as a coding agent, treating an agent trace like a repo, with each span (an LLM call, tool call, etc.) as a file. It starts from a compressed string representation of a full agent trace and a user prompt, then greps across spans and reads the relevant ones in full.\nThe beauty of Signals is that it can respond to a general prompt. You can ask it to identify user frustration, check whether your browser agent completed a checkout, and so on. It’s not limited to raw error detection. It returns findings as JSON in a schema users can freely define. We call these signal events.\nOnce you’re analyzing every trace, you also have too many individual events to read. That’s why we automatically group similar signal events into clusters. You can see recurring problems and how often they happen, then drill into individual events and the traces behind them.\nYou can use traces from a cluster to build an eval dataset for that type of failure. You can then use your favourite coding agent to hillclimb on those evals and check that the fix works across these cases before shipping it to prod.\nTrace → analyze → catch errors and form clusters → fix → release. Making this loop easy is why we built Laminar.\nWe’ve put the same thought into the rest of Laminar. Our blog (https://laminar.sh/blog) explains how looking closely at how agents actually work led us to build 20x trace compression, a custom SQL query engine and automatic task extraction.\nLaminar is Apache 2.0 and self-hostable (https://github.com/lmnr-ai/lmnr). We make money from the managed cloud.\nWe’d love to hear how you track your agents’ performance today. How much do you learn from user feedback versus your own monitoring? And when you fix something, how do you check that it hasn’t introduced a different failure?\nComments URL: https://news.ycombinator.com/item?id=50154029\nPoints: 12\n# Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=50154029"
+    },
+    {
+      "category": "Science",
+      "title": " 'Cute demo, but totally impractical': Experts are skeptical that Tesla's 'rocket' Roadster could actually work in the real world ",
+      "source": " Latest from Live Science ",
+      "date": "Mon, 19 Oct 2026 16:00:00 +0000",
+      "summary": "Tesla has unveiled a new version of its Roadster EV that can briefly take to the air using SpaceX tech. Whether it actually qualifies as a flying car is another matter.",
+      "url": "https://www.livescience.com/technology/electric-vehicles/cute-demo-but-totally-impractical-experts-are-skeptical-that-teslas-rocket-roadster-could-actually-work-in-the-real-world"
+    },
+    {
+      "category": "AI",
+      "title": "Another day another GitHub incident",
+      "source": "Hacker News: Front Page",
+      "date": "Mon, 19 Oct 2026 15:52:26 +0000",
+      "summary": "Article URL: https://www.githubstatus.com/incidents/8tzbpcnl75jp\nComments URL: https://news.ycombinator.com/item?id=50153934\nPoints: 75\n# Comments: 51",
+      "url": "https://www.githubstatus.com/incidents/8tzbpcnl75jp"
+    },
+    {
+      "category": "Space",
+      "title": " 'They're kind of goth': NASA spacecraft gives mysterious brown dwarfs a close-up ",
+      "source": " Latest from Space.com ",
+      "date": "Mon, 19 Oct 2026 15:06:38 +0000",
+      "summary": "Using NASA’s SPHEREx spacecraft, astronomers have studied a horde of mysterious \"failed stars,\" or brown dwarfs, not-so-stellar loners that wander the darkness of space alone.",
+      "url": "https://www.space.com/astronomy/stars/theyre-kind-of-goth-nasa-spacecraft-gives-mysterious-brown-dwarfs-a-close-up"
+    },
+    {
+      "category": "AI",
+      "title": "Disney found a way to buy Character.AI without buying its lawsuits",
       "source": "Ars Technica - All content",
-      "date": "Sun, 18 Oct 2026 16:25:19 +0000",
-      "summary": "The outside watchdog can publish its findings without Anthropic's approval.",
-      "url": "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/"
+      "date": "Mon, 19 Oct 2026 14:45:43 +0000",
+      "summary": "Character.AI faces claims its bots encouraged minors to self-harm and kill their parents.",
+      "url": "https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits/"
+    },
+    {
+      "category": "AI",
+      "title": "A Chinese rocket deorbited over Minnesota and left this in a farmer's cornfield",
+      "source": "Ars Technica - All content",
+      "date": "Mon, 19 Oct 2026 14:35:01 +0000",
+      "summary": "All the evidence points to the debris being part of a Chinese Zhuque-2E rocket.",
+      "url": "https://arstechnica.com/space/2026/10/a-chinese-rocket-deorbited-over-minnesota-and-left-this-in-a-farmers-cornfield/"
     },
     {
       "category": "Space",
-      "title": " Computer scientist Margaret Hamilton was a problem-solver for the ages (op-ed) ",
+      "title": " Elephant Island is an icy sight from orbit | Space photo of the day for Oct. 19, 2026 ",
       "source": " Latest from Space.com ",
-      "date": "Sun, 18 Oct 2026 16:00:00 +0000",
-      "summary": "The world will miss Margaret Hamilton, the pioneering programmer who helped NASA land Apollo astronauts on the moon. But we will always have her example to inspire us.",
-      "url": "https://www.space.com/space-exploration/apollo/computer-scientist-margaret-hamilton-was-a-problem-solver-for-the-ages-op-ed"
+      "date": "Mon, 19 Oct 2026 14:00:00 +0000",
+      "summary": "The European Space Agency's Copernicus Sentinel-3 satellite mission captured a close-up of West Antarctica from its perch high above Earth.",
+      "url": "https://www.space.com/astronomy/earth/elephant-island-is-an-icy-sight-from-orbit-space-photo-of-the-day-for-oct-19-2026"
+    },
+    {
+      "category": "AI",
+      "title": "Review: Lanterns is a truly unique twist on the superhero genre",
+      "source": "Ars Technica - All content",
+      "date": "Mon, 19 Oct 2026 13:31:08 +0000",
+      "summary": "Gritty HBO series is a beacon for what's possible when one is allowed to get creative with the tropes.",
+      "url": "https://arstechnica.com/culture/2026/10/review-lanterns-is-a-truly-unique-twist-on-the-superhero-genre/"
     },
     {
       "category": "Science",
-      "title": " 'A uniquely direct route that might cause damage': Scientists uncover link between air pollution and eye diseases like glaucoma ",
+      "title": "Alaska’s monster tsunami sent water 1,580 feet up a mountain",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Mon, 19 Oct 2026 09:09:18 EDT",
+      "summary": "A massive landslide in Alaska triggered the second-highest tsunami ever recorded, sending water and debris 1,580 feet up a mountainside just hours after tourists visited the area. Scientists discovered that the disaster was preceded by several warning signs, including rapid glacier retreat, heavy rainfall, and thousands of tiny seismic tremors. As glaciers retreat, similar disasters could become a growing danger in mountainous coastal regions.",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261018205047.htm"
+    },
+    {
+      "category": "History",
+      "title": "A Dear-Bought Victory: The Battle of Bunker Hill and the Siege of Boston, 1775-1776",
+      "source": "Journal of the American Revolution",
+      "date": "Mon, 19 Oct 2026 13:06:01 +0000",
+      "summary": "BOOK REVIEW: A Dear-Bought Victory: The Battle of Bunker Hill and the Siege of Boston, 1775-1776 by Daniel T. Davis and Phillip S. Greenwalt (Savas Beatie, 2026) $16.95 Paperback Studies of Revolutionary War battles tend to focus disproportionately on only a few of the clashes that occurred during the eight-year-long war. The Battle of Bunker […]\nThe post A Dear-Bought Victory: The Battle of Bunker Hill and the Siege of Boston, 1775-1776 appeared first on Journal of the American Revolution.",
+      "url": "https://allthingsliberty.com/2026/10/a-dear-bought-victory-the-battle-of-bunker-hill-and-the-siege-of-boston-1775-1776/"
+    },
+    {
+      "category": "Science",
+      "title": "Why some people escape Alzheimer’s despite carrying a high-risk gene",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Mon, 19 Oct 2026 08:57:02 EDT",
+      "summary": "Scientists have discovered why some people with a high genetic risk of Alzheimer’s remain mentally sharp into their 80s, uncovering a rare mutation that protects the brain from harmful protein buildup. The findings reveal a potential new way to prevent early brain damage and could pave the way for treatments that mimic this natural defense.",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261018205044.htm"
+    },
+    {
+      "category": "Science",
+      "title": " Romans may have set fire to Celtic town during conquest to 'humiliate' the enemy, archaeologists find ",
       "source": " Latest from Live Science ",
-      "date": "Sun, 18 Oct 2026 15:00:00 +0000",
-      "summary": "A review of 41 studies found that higher exposure to air pollution was linked to greater odds of glaucoma and cataracts, with PM2.5 pollution showing the clearest association.",
-      "url": "https://www.livescience.com/health/a-uniquely-direct-route-that-might-cause-damage-scientists-uncover-link-between-air-pollution-and-eye-diseases-like-glaucoma"
+      "date": "Mon, 19 Oct 2026 12:00:00 +0000",
+      "summary": "Archaeologists discovered a first century B.C. military camp that was erected during Emperor Augustus's Cantabrian Wars.",
+      "url": "https://www.livescience.com/archaeology/romans/romans-may-have-set-fire-to-celtic-town-during-conquest-to-humiliate-the-enemy-archaeologists-find"
     },
     {
       "category": "Space",
-      "title": " On this day in space! Oct. 18, 1963: France's Félicette Becomes the 1st Cat in Space! >^..^< ",
+      "title": " Did a giant object collide with Earth to form the moon? ",
       "source": " Latest from Space.com ",
-      "date": "Sun, 18 Oct 2026 13:52:32 +0000",
-      "summary": "On Oct. 18, 1963, a cat went to space! Félicette was a French \"catstronaut\" who became the first and only feline to fly to space. Here's why it mattered.",
-      "url": "https://www.space.com/space-exploration/on-this-day-in-space-october-18-2026"
+      "date": "Mon, 19 Oct 2026 12:00:00 +0000",
+      "summary": "Known as the giant-impact hypothesis, this proposed event involves a collision between Earth and a hypothetical Mars-sized protoplanet astronomers call Theia.",
+      "url": "https://www.space.com/astronomy/moon/did-a-giant-object-collide-with-earth-to-form-the-moon"
     },
     {
       "category": "Science",
-      "title": "Physicists create a bizarre new quantum state called a fractional fermi sea",
+      "title": "Just 3,000 steps a day may help slow Alzheimer's, scientists find",
       "source": "All Top News -- ScienceDaily",
-      "date": "Sun, 18 Oct 2026 09:37:21 EDT",
-      "summary": "Physicists have discovered a strange new state of quantum matter in which ultracold atoms defy familiar organizational rules, forming a highly excited yet surprisingly orderly configuration called a \"fractional Fermi sea.\" The discovery challenges established quantum theories and hints at exotic quasiparticles that scientists have dubbed potential \"super-Fermions.\"",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261018084644.htm"
+      "date": "Mon, 19 Oct 2026 07:23:26 EDT",
+      "summary": "Walking just 3,000 steps a day could help slow Alzheimer’s-related brain changes, according to new research. Scientists discovered that physical activity was linked to less buildup of harmful tau proteins and nearly half the cognitive and functional decline, even in people already showing early signs of the disease. The strongest benefits appeared at 5,000 to 7,500 daily steps, suggesting that the popular 10,000-step goal may not be necessary.",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261018205058.htm"
+    },
+    {
+      "category": "Biblical Studies",
+      "title": "World’s Oldest Shipwreck Discovered",
+      "source": "Biblical Archaeology Society",
+      "date": "Mon, 19 Oct 2026 10:45:36 +0000",
+      "summary": "Remains of what appears to be the world’s oldest shipwreck have been found near the island of Kekova, off the southwest coast of Turkey. A […]\nThe post World’s Oldest Shipwreck Discovered appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-near-eastern-world/worlds-oldest-shipwreck-discovered/"
     },
     {
       "category": "Science",
-      "title": " Black Death had dramatic effect on species diversity as humans abandoned farmland, study finds ",
+      "title": " 'Birdman' copper plate: A 700-year-old depiction of a Native American warrior that may be a woman holding a weapon and a severed head ",
       "source": " Latest from Live Science ",
-      "date": "Sun, 18 Oct 2026 13:15:00 +0000",
-      "summary": "Researchers have found that during the Black Death, when a third of the population of Europe was wiped out, biodiversity fell. Understanding their farming practices could help us increase diversity in modern agriculture.",
-      "url": "https://www.livescience.com/planet-earth/plants/black-death-had-dramatic-effect-on-species-diversity-as-humans-abandoned-farmland-study-finds"
+      "date": "Mon, 19 Oct 2026 10:00:00 +0000",
+      "summary": "Discovered in an Indigenous grave in Georgia nearly 150 years ago, the \"Birdman\" copper plate may actually depict a woman ceremonially dressed as a warrior.",
+      "url": "https://www.livescience.com/archaeology/americas/birdman-copper-plate-a-700-year-old-depiction-of-a-native-american-warrior-that-may-be-a-woman-holding-a-weapon-and-a-severed-head"
     },
     {
-      "category": "Science",
-      "title": "Magic mushroom ingredient takes the fight out of aggressive fish",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Sun, 18 Oct 2026 08:52:13 EDT",
-      "summary": "A psychedelic compound found in magic mushrooms appears to have an unexpected effect: calming highly aggressive fish. Researchers discovered that low doses of psilocybin significantly reduced aggressive attacks in mangrove rivulus fish without disrupting their normal social interactions. The findings suggest psilocybin may selectively calm escalating aggression rather than simply suppressing all behavior.",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261017230036.htm"
+      "category": "Space",
+      "title": "APOD: 2026 October 19 – Treble Clef: Unusual X-ray Hot Radio Source",
+      "source": "NASA",
+      "date": "Mon, 19 Oct 2026 04:05:00 +0000",
+      "summary": "APOD Science APOD APOD: 2026 October 19 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Treble Clef: Unusual […]",
+      "url": "https://science.nasa.gov/image-article/apod-2026-october-19-treble-clef-unusual-x-ray-hot-radio-source/"
     },
     {
-      "category": "Science",
-      "title": " This 850-year-old 'firework' supernova is full of mysterious knots ",
-      "source": " Latest from Live Science ",
-      "date": "Sun, 18 Oct 2026 10:00:00 +0000",
-      "summary": "Pa 30, linked to a supernova seen in 1181, reveals chains of tiny gas knots in a new image from the Gemini North telescope in Hawaii.",
-      "url": "https://www.livescience.com/space/astronomy/famous-supernova-that-lit-up-skies-in-1181-is-now-full-of-mysterious-knots-space-photo-of-the-week"
+      "category": "Theology",
+      "title": "What Christianity Can Teach Democracy About Political Pluralism",
+      "source": "The Gospel Coalition",
+      "date": "Mon, 19 Oct 2026 04:05:00 +0000",
+      "summary": "‘Can Religion Save Democracy?’ is one of the first books I’d recommend to anyone who asks for an accessible retrieval of principled pluralism from a Christian and Muslim perspective.",
+      "url": "https://www.thegospelcoalition.org/reviews/religion-save-democracy/"
     },
     {
-      "category": "Science",
-      "title": "Scientists who discovered a third form of magnetism win major physics prize",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Sun, 18 Oct 2026 05:41:44 EDT",
-      "summary": "Physicists have uncovered a hidden third form of magnetism that challenges more than 100 years of established physics. Called altermagnetism, the discovery could transform future computing and electronics while opening an entirely new frontier in quantum research.",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261017230035.htm"
+      "category": "Theology",
+      "title": "Resist the Voyeuristic Spirit of the Age",
+      "source": "The Gospel Coalition",
+      "date": "Mon, 19 Oct 2026 04:00:00 +0000",
+      "summary": "Modern media cashes in on our fleshly appetites for sordid spectacle. But the spiritual reasons to resist voyeuristic media are clear.",
+      "url": "https://www.thegospelcoalition.org/article/resist-voyeuristic-spirit-age/"
     },
     {
       "category": "Theology",
@@ -137,30 +209,6 @@
       "date": "Sun, 18 Oct 2026 04:00:00 +0000",
       "summary": "Jesus’s heavenly dominion is the best news for my parenting, and for my children too.",
       "url": "https://www.thegospelcoalition.org/article/seated-jesus-good-news-parents/"
-    },
-    {
-      "category": "AI",
-      "title": "Science says your boss should talk less in meetings",
-      "source": "Ars Technica - All content",
-      "date": "Sat, 17 Oct 2026 11:15:11 +0000",
-      "summary": "Research suggests listening more while talking less. Killing aimless meetings can help, too.",
-      "url": "https://arstechnica.com/science/2026/10/science-says-your-boss-should-talk-less-in-meetings/"
-    },
-    {
-      "category": "AI",
-      "title": "Why BioWare's Neverwinter Nights still has thousands of active players",
-      "source": "Ars Technica - All content",
-      "date": "Sat, 17 Oct 2026 11:00:21 +0000",
-      "summary": "The single-player is just OK, but according to the players, that doesn't matter.",
-      "url": "https://arstechnica.com/gaming/2026/10/why-biowares-neverwinter-nights-still-has-thousands-of-active-players/"
-    },
-    {
-      "category": "Theology",
-      "title": "On the Sabbath, We Act like God",
-      "source": "The Gospel Coalition",
-      "date": "Sat, 17 Oct 2026 04:00:00 +0000",
-      "summary": "Sabbath isn’t an escape route or a coping mechanism. It’s a way we become like God and see time the way he does.",
-      "url": "https://www.thegospelcoalition.org/article/sabbath-act-like-god/"
     },
     {
       "category": "AI",
@@ -187,14 +235,6 @@
       "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-israel/did-northern-scribes-help-write-bible/"
     },
     {
-      "category": "Theology",
-      "title": "The Impact of Influencers on the Church",
-      "source": "The Gospel Coalition",
-      "date": "Fri, 16 Oct 2026 04:04:00 +0000",
-      "summary": "Sometimes the most influential people in your church aren’t actually in your church.",
-      "url": "https://www.thegospelcoalition.org/podcasts/tgc-podcast/impact-influencers-church/"
-    },
-    {
       "category": "AI",
       "title": "Benefit Street Partners answers questions faster with Codex",
       "source": "OpenAI News",
@@ -209,14 +249,6 @@
       "date": "Fri, 16 Oct 2026 00:00:00 GMT",
       "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
       "url": "https://openai.com/index/stack-overflow-chatgpt-plugin"
-    },
-    {
-      "category": "Biblical Studies",
-      "title": "Alternative Facts: Domitian’s Persecution of Christians",
-      "source": "Biblical Archaeology Society",
-      "date": "Thu, 15 Oct 2026 11:00:25 +0000",
-      "summary": "“Alternative facts” and “fake news” are not just a contemporary phenomenon. On occasion ancient writers similarly tried to spin their version of the truth. One such claim was that Roman emperor Domitian was a great persecutor of Christians.\nThe post Alternative Facts: Domitian’s Persecution of Christians appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/daily/biblical-topics/post-biblical-period/domitian-persecution-of-christians/"
     },
     {
       "category": "History",
@@ -241,14 +273,6 @@
       "date": "Tue, 13 Oct 2026 09:00:56 +0000",
       "summary": "“My Famely a Raived at this Place”—Lt. Henry Simmons, The Cascades, June 23, 1783 For the Loyalists who joined British General John Burgoyne’s army in the weeks and months leading up to the decisive battles at Saratoga in the fall of 1777, the British defeat meant far more than the loss of a battle. Men […]\nThe post My Family Arrived at this Place: A Loyalist Ranger’s Road from Saratoga appeared first on Journal of the American Revolution.",
       "url": "https://allthingsliberty.com/2026/10/my-family-arrived-at-this-place-a-loyalist-rangers-road-from-saratoga/"
-    },
-    {
-      "category": "History",
-      "title": "Freedom Round the Globe: A World History of the American Revolution",
-      "source": "Journal of the American Revolution",
-      "date": "Mon, 12 Oct 2026 14:13:19 +0000",
-      "summary": "BOOK REVIEW: Freedom Round the Globe: A World History of the American Revolution by Sarah M.S. Pearsall (New York, NY: Doubleday, 2026) $35.00 hardcover. Johns Hopkins history professor Sarah M.S. Pearsall has given American Revolutionary War scholars a one-of-a-kind look at the Revolution and its role as a world event. Instead of describing how the […]\nThe post Freedom Round the Globe: A World History of the American Revolution appeared first on Journal of the American Revolution.",
-      "url": "https://allthingsliberty.com/2026/10/freedom-round-the-globe-a-world-history-of-the-american-revolution/"
     },
     {
       "category": "Theology",
