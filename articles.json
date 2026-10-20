@@ -1,118 +1,142 @@
 {
-  "lastUpdated": "2026-10-19T16:43:42.022Z",
-  "articleCount": 39,
+  "lastUpdated": "2026-10-20T00:50:55.921Z",
+  "articleCount": 36,
   "articles": [
     {
       "category": "Science",
-      "title": "Why the ugly history of IQ testing matters for AI and education",
+      "title": "Students take up to 88 standardized tests before high school, but more testing doesn't improve learning",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Mon, 19 Oct 2026 12:40:13 EDT",
-      "summary": "OpenAI CEO Sam Altman has recently been discussing \"artificial general intelligence\" that matches or surpasses human capabilities. This is from the same person who has said children born today (including his own) will \"never be more intelligent than AI, from a 'raw IQ'\" (intelligence quotient) perspective.",
-      "url": "https://phys.org/news/2026-10-ugly-history-iq-ai.html"
-    },
-    {
-      "category": "Science",
-      "title": "AI reads centuries-old handwriting to reveal Britain's vast historic shipping trade",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Mon, 19 Oct 2026 12:40:08 EDT",
-      "summary": "Historians have created a first-of-its-kind online interactive map, using data from hundreds of thousands of pages of centuries-old port records to chart Britain's growth into a dominant global trading nation.",
-      "url": "https://phys.org/news/2026-10-ai-centuries-reveal-britain-vast.html"
-    },
-    {
-      "category": "Space",
-      "title": "Instrumentation",
-      "source": "NASA",
-      "date": "Mon, 19 Oct 2026 16:37:45 +0000",
-      "summary": "To measure airflow and sound, research teams at the NASA Glenn Research Center use special instrumentation like particle image velocimetry, hot wire anemometry, Raman spectroscopy, microphones in phased arrays or continuously rotating rakes. The global aviation noise reduction community relies on data from NASA GRC experiments to validate theory and noise prediction software. Rotating Rake […]",
-      "url": "https://www.nasa.gov/centers-and-facilities/glenn/instrumentation-2/"
+      "date": "Mon, 19 Oct 2026 20:20:01 EDT",
+      "summary": "The public K-12 school system in the United States has become pervasively shaped by standardized testing.",
+      "url": "https://phys.org/news/2026-10-students-standardized-high-school-doesnt.html"
     },
     {
       "category": "AI",
-      "title": "I no longer care to work on any Ruby gems so I've archived all my repositories",
+      "title": "France's Supermarket Fridges Were Vulnerable Online for Months",
       "source": "Hacker News: Front Page",
-      "date": "Mon, 19 Oct 2026 16:37:10 +0000",
-      "summary": "Article URL: https://po-ru.com/2026/10/18/why-im-no-longer-updating-this-repository\nComments URL: https://news.ycombinator.com/item?id=50154518\nPoints: 7\n# Comments: 0",
-      "url": "https://po-ru.com/2026/10/18/why-im-no-longer-updating-this-repository"
-    },
-    {
-      "category": "Science",
-      "title": "Ancient technique can improve the bland taste of beans",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Mon, 19 Oct 2026 12:20:18 EDT",
-      "summary": "Faba beans are rich in protein and can easily be grown in Denmark—yet they are more often used as animal feed than as food for people. One of the main reasons is that their flavor does not meet consumer expectations compared with beef, pork or chicken.",
-      "url": "https://phys.org/news/2026-10-ancient-technique-bland-beans.html"
-    },
-    {
-      "category": "Space",
-      "title": "Martian Dawn",
-      "source": "NASA",
-      "date": "Mon, 19 Oct 2026 16:03:51 +0000",
-      "summary": "NASA’s Curiosity captures the dawn on Mars – as well as elongated ridges formed by wind erosion, or yardangs – in this close-up from a panorama released on Oct. 6, 2026. This is the most detailed view yet of distant, wind-carved Martian cliffs, highlighting features the mission’s scientists have long been waiting to see up […]",
-      "url": "https://www.nasa.gov/image-article/martian-dawn/"
+      "date": "Tue, 20 Oct 2026 00:00:49 +0000",
+      "summary": "Article URL: https://ipinfo.io/blog/france-fridges-hack\nComments URL: https://news.ycombinator.com/item?id=50159616\nPoints: 21\n# Comments: 10",
+      "url": "https://ipinfo.io/blog/france-fridges-hack"
     },
     {
       "category": "AI",
-      "title": "Launch HN: Laminar (YC S24) – We trained a model to catch silent agent failures",
+      "title": "Token-maxxing is dead, OpenRouter's token usage plateaus",
       "source": "Hacker News: Front Page",
-      "date": "Mon, 19 Oct 2026 16:00:18 +0000",
-      "summary": "Hi HN, we’re Robert and Din from Laminar (https://laminar.sh). We’ve been building open-source observability for AI agents since 2024. Recently, we released flow-1, a model trained with RL to find errors in agent traces. On our benchmark (https://laminar.sh/blog/flow-1), it matches GPT-6-sol in detection quality while being 23x cheaper. This makes it affordable to analyze every production agent trace, without sampling.\nHere’s a one-minute walkthrough: https://youtu.be/KJa3h6ZJNLQ\nWe also put together a post with example traces and analyses from flow-1 and other models: https://laminar.sh/blog/flow-1-in-action\nAgent observability is crowded, so instead of a bullet list of how Laminar differs from X, we’ll explain how we’re solving agent observability from first principles.\nAgents now run for many steps and fail implicitly. An agent can click the wrong button or cite the wrong document while every call completes successfully. These errors are the most useful ones to catch and understand. To find them, you need to understand what the agent was trying to do and inspect its LLM calls and tool results. Simply looking at the final agent output is not enough.\nCollecting traces alone doesn’t solve this. A lot of agent observability platforms are still data collectors at their core. You can end up paying to store traces that nobody has time to read or extract value from.\nUsing another LLM to inspect traces is THE solution, but capable models are expensive at scale and cheaper ones often miss errors or flag unrelated things.\nSo we built our model to solve exactly this problem. We finetuned a small OSS model and then post trained it with RL on thousands of synthetic investigations of realistic agent workflows in software, legal, customer support, etc. We got a model that is both good at agent trace analysis and very cheap to run.\nflow-1 runs inside a harness we call Signals. It acts as a coding agent, treating an agent trace like a repo, with each span (an LLM call, tool call, etc.) as a file. It starts from a compressed string representation of a full agent trace and a user prompt, then greps across spans and reads the relevant ones in full.\nThe beauty of Signals is that it can respond to a general prompt. You can ask it to identify user frustration, check whether your browser agent completed a checkout, and so on. It’s not limited to raw error detection. It returns findings as JSON in a schema users can freely define. We call these signal events.\nOnce you’re analyzing every trace, you also have too many individual events to read. That’s why we automatically group similar signal events into clusters. You can see recurring problems and how often they happen, then drill into individual events and the traces behind them.\nYou can use traces from a cluster to build an eval dataset for that type of failure. You can then use your favourite coding agent to hillclimb on those evals and check that the fix works across these cases before shipping it to prod.\nTrace → analyze → catch errors and form clusters → fix → release. Making this loop easy is why we built Laminar.\nWe’ve put the same thought into the rest of Laminar. Our blog (https://laminar.sh/blog) explains how looking closely at how agents actually work led us to build 20x trace compression, a custom SQL query engine and automatic task extraction.\nLaminar is Apache 2.0 and self-hostable (https://github.com/lmnr-ai/lmnr). We make money from the managed cloud.\nWe’d love to hear how you track your agents’ performance today. How much do you learn from user feedback versus your own monitoring? And when you fix something, how do you check that it hasn’t introduced a different failure?\nComments URL: https://news.ycombinator.com/item?id=50154029\nPoints: 12\n# Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=50154029"
+      "date": "Mon, 19 Oct 2026 23:40:15 +0000",
+      "summary": "Article URL: https://openrouter.ai/rankings\nComments URL: https://news.ycombinator.com/item?id=50159464\nPoints: 21\n# Comments: 14",
+      "url": "https://openrouter.ai/rankings"
     },
     {
       "category": "Science",
-      "title": " 'Cute demo, but totally impractical': Experts are skeptical that Tesla's 'rocket' Roadster could actually work in the real world ",
+      "title": "New 4D biofabrication technology holds promise for tissue engineering, wound healing",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Mon, 19 Oct 2026 19:40:12 EDT",
+      "summary": "If you've ever created a snowflake by folding, cutting and unfolding a piece of paper, you've practiced the art of kirigami. Like origami, kirigami has inspired innovations far beyond the elementary school classroom, with applications ranging from deployable structures for spacecraft to semiconductors.",
+      "url": "https://phys.org/news/2026-10-4d-biofabrication-technology-tissue-wound.html"
+    },
+    {
+      "category": "Science",
+      "title": "Molecular switch controls how cells load cargo for recycling",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Mon, 19 Oct 2026 19:40:08 EDT",
+      "summary": "Cells constantly recycle proteins and other cellular components. But how do they ensure that the right cargo ends up in the right recycling vesicle—one of the cell's transport carriers? A team at the University of Basel has identified a molecular switch that controls this process. The small protein ARF-1 ensures that recyclable cargo is efficiently loaded into transport vesicles and returned to the cell's surface.",
+      "url": "https://phys.org/news/2026-10-molecular-cells-cargo-recycling.html"
+    },
+    {
+      "category": "AI",
+      "title": "“bonsoir, Elliot”: How abliterated models can get you pwned",
+      "source": "Hacker News: Front Page",
+      "date": "Mon, 19 Oct 2026 23:08:52 +0000",
+      "summary": "Article URL: https://projectdiscovery.io/research/how-abliterated-models-can-get-you-pwned\nComments URL: https://news.ycombinator.com/item?id=50159245\nPoints: 10\n# Comments: 6",
+      "url": "https://projectdiscovery.io/research/how-abliterated-models-can-get-you-pwned"
+    },
+    {
+      "category": "AI",
+      "title": "Pennsylvania issues alert on congenital measles—something US hasn't seen for decades",
+      "source": "Ars Technica - All content",
+      "date": "Mon, 19 Oct 2026 22:44:26 +0000",
+      "summary": "Congenital measles can be fatal, and survivors require monitoring for years.",
+      "url": "https://arstechnica.com/health/2026/10/pennsylvania-issues-alert-on-congenital-measles-something-us-hasnt-seen-for-decades/"
+    },
+    {
+      "category": "History",
+      "title": "Payback: Attack on the DeLancey House",
+      "source": "Journal of the American Revolution",
+      "date": "Mon, 19 Oct 2026 22:00:13 +0000",
+      "summary": "The night was dark. Clouds blotted out the stars; the waning quarter moon would not rise until nearly dawn. Whaleboats under Capt. John Buchanan slipped silently down the Hudson River from Tarrytown on the ebbing tide. As they approached Manhattan, they glided with muffled oars past His Majesty’s twenty-gun post ship Mercury, lying at anchor […]\nThe post Payback: Attack on the DeLancey House appeared first on Journal of the American Revolution.",
+      "url": "https://allthingsliberty.com/2026/10/payback-attack-on-the-delancey-house/"
+    },
+    {
+      "category": "Space",
+      "title": " New 'Blade Runner 2099' trailer is a space fan's dream with sinister starships and strange exoplanets (video) ",
+      "source": " Latest from Space.com ",
+      "date": "Mon, 19 Oct 2026 22:00:00 +0000",
+      "summary": "'More human than human. That's not a slogan; it's a shackle'",
+      "url": "https://www.space.com/entertainment/space-movies-shows/new-blade-runner-2099-trailer-is-a-space-fans-dream-with-sinister-starships-and-strange-exoplanets-video"
+    },
+    {
+      "category": "AI",
+      "title": "Russian spacecraft maneuvers in \"extreme proximity\" to satellite used by Ukraine",
+      "source": "Ars Technica - All content",
+      "date": "Mon, 19 Oct 2026 20:54:17 +0000",
+      "summary": "\"Kosmos 2612 closed from hundreds of kilometers away to extreme proximity to ICEYE-X36.\"",
+      "url": "https://arstechnica.com/space/2026/10/russian-spacecraft-maneuvers-in-extreme-proximity-to-satellite-used-by-ukraine/"
+    },
+    {
+      "category": "AI",
+      "title": "Accused OpenAI spy had folder called “Saudi Gov Docs,” FBI says",
+      "source": "Ars Technica - All content",
+      "date": "Mon, 19 Oct 2026 20:21:53 +0000",
+      "summary": "US fears Saudi government will help ex-OpenAI engineer flee spying charges.",
+      "url": "https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says/"
+    },
+    {
+      "category": "Space",
+      "title": " The X-Files Lego set is a wonderful bit of 90s sci-fi nostalgia ",
+      "source": " Latest from Space.com ",
+      "date": "Mon, 19 Oct 2026 20:00:00 +0000",
+      "summary": "Brick by brick ... the truth is out there. You can now own a little piece of that with this 1,478-piece Lego set",
+      "url": "https://www.space.com/entertainment/space-toys-lego/the-x-files-lego-set-is-a-wonderful-bit-of-90s-sci-fi-nostalgia"
+    },
+    {
+      "category": "Space",
+      "title": " Japan launches historic MMX sample-return mission to Mars' moon Phobos (video) ",
+      "source": " Latest from Space.com ",
+      "date": "Mon, 19 Oct 2026 19:53:21 +0000",
+      "summary": "Japan just launched an epic mission to Mars' moons that could make history as the first spacecraft to return to Earth from the Red Planet — and it plans to come back with samples onboard.",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/japan-launches-historic-mmx-sample-return-mission-to-mars-moon-phobos"
+    },
+    {
+      "category": "Science",
+      "title": " 11th-century 'pizza peel' discovered in Russia doubled as a medieval game board ",
       "source": " Latest from Live Science ",
-      "date": "Mon, 19 Oct 2026 16:00:00 +0000",
-      "summary": "Tesla has unveiled a new version of its Roadster EV that can briefly take to the air using SpaceX tech. Whether it actually qualifies as a flying car is another matter.",
-      "url": "https://www.livescience.com/technology/electric-vehicles/cute-demo-but-totally-impractical-experts-are-skeptical-that-teslas-rocket-roadster-could-actually-work-in-the-real-world"
+      "date": "Mon, 19 Oct 2026 19:38:16 +0000",
+      "summary": "Archaeologists in Russia unearthed a flat wooden \"pizza paddle\" that had a board game carved into it.",
+      "url": "https://www.livescience.com/archaeology/11th-century-pizza-peel-discovered-in-russia-doubled-as-a-medieval-game-board"
     },
     {
-      "category": "AI",
-      "title": "Another day another GitHub incident",
-      "source": "Hacker News: Front Page",
-      "date": "Mon, 19 Oct 2026 15:52:26 +0000",
-      "summary": "Article URL: https://www.githubstatus.com/incidents/8tzbpcnl75jp\nComments URL: https://news.ycombinator.com/item?id=50153934\nPoints: 75\n# Comments: 51",
-      "url": "https://www.githubstatus.com/incidents/8tzbpcnl75jp"
+      "category": "Science",
+      "title": " A gene variant triples the risk of getting Alzheimer's disease — fat buildup in brain cells may be to blame, study finds ",
+      "source": " Latest from Live Science ",
+      "date": "Mon, 19 Oct 2026 19:35:00 +0000",
+      "summary": "A gene variant called APOE4 is the biggest genetic risk factor for Alzheimer's disease. Scientists are finally figuring out how it works.",
+      "url": "https://www.livescience.com/health/alzheimers-dementia/a-gene-variant-triples-the-risk-of-getting-alzheimers-disease-fat-buildup-in-brain-cells-may-be-to-blame-study-finds"
     },
     {
-      "category": "Space",
-      "title": " 'They're kind of goth': NASA spacecraft gives mysterious brown dwarfs a close-up ",
-      "source": " Latest from Space.com ",
-      "date": "Mon, 19 Oct 2026 15:06:38 +0000",
-      "summary": "Using NASA’s SPHEREx spacecraft, astronomers have studied a horde of mysterious \"failed stars,\" or brown dwarfs, not-so-stellar loners that wander the darkness of space alone.",
-      "url": "https://www.space.com/astronomy/stars/theyre-kind-of-goth-nasa-spacecraft-gives-mysterious-brown-dwarfs-a-close-up"
+      "category": "Theology",
+      "title": "Unclear Evangelism Leads to Unclear (and False) Conversions",
+      "source": "9Marks",
+      "date": "Mon, 19 Oct 2026 19:22:22 +0000",
+      "summary": "When we appeal to people’s carnal desires, we should not be surprised when our “converts” are more in love with the world than with our Savior.\nThe post Unclear Evangelism Leads to Unclear (and False) Conversions appeared first on 9Marks.",
+      "url": "https://www.9marks.org/article/unclear-evangelism-leads-to-unclear-and-false-conversions/?utm_source=rss&utm_medium=rss&utm_campaign=unclear-evangelism-leads-to-unclear-and-false-conversions"
     },
     {
-      "category": "AI",
-      "title": "Disney found a way to buy Character.AI without buying its lawsuits",
-      "source": "Ars Technica - All content",
-      "date": "Mon, 19 Oct 2026 14:45:43 +0000",
-      "summary": "Character.AI faces claims its bots encouraged minors to self-harm and kill their parents.",
-      "url": "https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits/"
-    },
-    {
-      "category": "AI",
-      "title": "A Chinese rocket deorbited over Minnesota and left this in a farmer's cornfield",
-      "source": "Ars Technica - All content",
-      "date": "Mon, 19 Oct 2026 14:35:01 +0000",
-      "summary": "All the evidence points to the debris being part of a Chinese Zhuque-2E rocket.",
-      "url": "https://arstechnica.com/space/2026/10/a-chinese-rocket-deorbited-over-minnesota-and-left-this-in-a-farmers-cornfield/"
-    },
-    {
-      "category": "Space",
-      "title": " Elephant Island is an icy sight from orbit | Space photo of the day for Oct. 19, 2026 ",
-      "source": " Latest from Space.com ",
-      "date": "Mon, 19 Oct 2026 14:00:00 +0000",
-      "summary": "The European Space Agency's Copernicus Sentinel-3 satellite mission captured a close-up of West Antarctica from its perch high above Earth.",
-      "url": "https://www.space.com/astronomy/earth/elephant-island-is-an-icy-sight-from-orbit-space-photo-of-the-day-for-oct-19-2026"
-    },
-    {
-      "category": "AI",
-      "title": "Review: Lanterns is a truly unique twist on the superhero genre",
-      "source": "Ars Technica - All content",
-      "date": "Mon, 19 Oct 2026 13:31:08 +0000",
-      "summary": "Gritty HBO series is a beacon for what's possible when one is allowed to get creative with the tropes.",
-      "url": "https://arstechnica.com/culture/2026/10/review-lanterns-is-a-truly-unique-twist-on-the-superhero-genre/"
+      "category": "Science",
+      "title": " World's fastest AI-powered racing drone outflies the best human pilots ",
+      "source": " Latest from Live Science ",
+      "date": "Mon, 19 Oct 2026 16:40:15 +0000",
+      "summary": "An AI-operated drone learned to fly from scratch and navigated a race course at speeds over 60 mph, using a single camera.",
+      "url": "https://www.livescience.com/technology/robotics/the-worlds-fastest-ai-powered-racing-drone-outflies-the-best-human-drone-pilots"
     },
     {
       "category": "Science",
@@ -139,20 +163,12 @@
       "url": "https://www.sciencedaily.com/releases/2026/10/261018205044.htm"
     },
     {
-      "category": "Science",
-      "title": " Romans may have set fire to Celtic town during conquest to 'humiliate' the enemy, archaeologists find ",
-      "source": " Latest from Live Science ",
-      "date": "Mon, 19 Oct 2026 12:00:00 +0000",
-      "summary": "Archaeologists discovered a first century B.C. military camp that was erected during Emperor Augustus's Cantabrian Wars.",
-      "url": "https://www.livescience.com/archaeology/romans/romans-may-have-set-fire-to-celtic-town-during-conquest-to-humiliate-the-enemy-archaeologists-find"
-    },
-    {
-      "category": "Space",
-      "title": " Did a giant object collide with Earth to form the moon? ",
-      "source": " Latest from Space.com ",
-      "date": "Mon, 19 Oct 2026 12:00:00 +0000",
-      "summary": "Known as the giant-impact hypothesis, this proposed event involves a collision between Earth and a hypothetical Mars-sized protoplanet astronomers call Theia.",
-      "url": "https://www.space.com/astronomy/moon/did-a-giant-object-collide-with-earth-to-form-the-moon"
+      "category": "AI",
+      "title": "Advancing coding in low‑resource programming languages",
+      "source": "OpenAI News",
+      "date": "Mon, 19 Oct 2026 12:00:00 GMT",
+      "summary": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.",
+      "url": "https://openai.com/index/low-resource-programming-languages"
     },
     {
       "category": "Science",
@@ -169,22 +185,6 @@
       "date": "Mon, 19 Oct 2026 10:45:36 +0000",
       "summary": "Remains of what appears to be the world’s oldest shipwreck have been found near the island of Kekova, off the southwest coast of Turkey. A […]\nThe post World’s Oldest Shipwreck Discovered appeared first on Biblical Archaeology Society.",
       "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-near-eastern-world/worlds-oldest-shipwreck-discovered/"
-    },
-    {
-      "category": "Science",
-      "title": " 'Birdman' copper plate: A 700-year-old depiction of a Native American warrior that may be a woman holding a weapon and a severed head ",
-      "source": " Latest from Live Science ",
-      "date": "Mon, 19 Oct 2026 10:00:00 +0000",
-      "summary": "Discovered in an Indigenous grave in Georgia nearly 150 years ago, the \"Birdman\" copper plate may actually depict a woman ceremonially dressed as a warrior.",
-      "url": "https://www.livescience.com/archaeology/americas/birdman-copper-plate-a-700-year-old-depiction-of-a-native-american-warrior-that-may-be-a-woman-holding-a-weapon-and-a-severed-head"
-    },
-    {
-      "category": "Space",
-      "title": "APOD: 2026 October 19 – Treble Clef: Unusual X-ray Hot Radio Source",
-      "source": "NASA",
-      "date": "Mon, 19 Oct 2026 04:05:00 +0000",
-      "summary": "APOD Science APOD APOD: 2026 October 19 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Treble Clef: Unusual […]",
-      "url": "https://science.nasa.gov/image-article/apod-2026-october-19-treble-clef-unusual-x-ray-hot-radio-source/"
     },
     {
       "category": "Theology",
@@ -236,14 +236,6 @@
     },
     {
       "category": "AI",
-      "title": "Benefit Street Partners answers questions faster with Codex",
-      "source": "OpenAI News",
-      "date": "Fri, 16 Oct 2026 00:00:00 GMT",
-      "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
-      "url": "https://openai.com/index/benefit-street-partners"
-    },
-    {
-      "category": "AI",
       "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
       "source": "OpenAI News",
       "date": "Fri, 16 Oct 2026 00:00:00 GMT",
@@ -267,28 +259,12 @@
       "url": "https://www.9marks.org/article/what-conversion-looks-like-in-messy-people-like-me/?utm_source=rss&utm_medium=rss&utm_campaign=what-conversion-looks-like-in-messy-people-like-me"
     },
     {
-      "category": "History",
-      "title": "My Family Arrived at this Place: A Loyalist Ranger’s Road from Saratoga",
-      "source": "Journal of the American Revolution",
-      "date": "Tue, 13 Oct 2026 09:00:56 +0000",
-      "summary": "“My Famely a Raived at this Place”—Lt. Henry Simmons, The Cascades, June 23, 1783 For the Loyalists who joined British General John Burgoyne’s army in the weeks and months leading up to the decisive battles at Saratoga in the fall of 1777, the British defeat meant far more than the loss of a battle. Men […]\nThe post My Family Arrived at this Place: A Loyalist Ranger’s Road from Saratoga appeared first on Journal of the American Revolution.",
-      "url": "https://allthingsliberty.com/2026/10/my-family-arrived-at-this-place-a-loyalist-rangers-road-from-saratoga/"
-    },
-    {
       "category": "Theology",
       "title": "The Reason for Church: A Review",
       "source": "9Marks",
       "date": "Thu, 08 Oct 2026 21:49:22 +0000",
       "summary": "Rescue us from ourselves? No. Jesus died to rescue us from God’s wrath. \nThe post The Reason for Church: A Review appeared first on 9Marks.",
       "url": "https://www.9marks.org/review/the-reason-for-church-a-review/?utm_source=rss&utm_medium=rss&utm_campaign=the-reason-for-church-a-review"
-    },
-    {
-      "category": "Theology",
-      "title": "Aiming for Conversion in Our Preaching",
-      "source": "9Marks",
-      "date": "Tue, 06 Oct 2026 15:42:44 +0000",
-      "summary": "Worse than offending unbelievers is treating them like they are believers. Instead, we must aim to help sinners see their sin and confess their need for Christ. This spiritual clarity is not cruel, but kind.\nThe post Aiming for Conversion in Our Preaching appeared first on 9Marks.",
-      "url": "https://www.9marks.org/article/aiming-for-conversion-in-our-preaching/?utm_source=rss&utm_medium=rss&utm_campaign=aiming-for-conversion-in-our-preaching"
     },
     {
       "category": "History",
