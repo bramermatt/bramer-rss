@@ -1,22 +1,118 @@
 {
-  "lastUpdated": "2026-10-20T14:35:31.839Z",
+  "lastUpdated": "2026-10-20T19:45:54.955Z",
   "articleCount": 39,
   "articles": [
     {
       "category": "Science",
-      "title": "Study links gambling ads to betting activity, searches for help",
+      "title": "How a cold pulse in the Northwest Atlantic reshaped East Coast fisheries",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Tue, 20 Oct 2026 10:20:17 EDT",
-      "summary": "From social media feeds to sports broadcasts, gambling ads have become increasingly difficult to avoid. New CU Boulder research links gambling advertising to more gambling activity and more searches for help with problem gambling.",
-      "url": "https://phys.org/news/2026-10-links-gambling-ads.html"
+      "date": "Tue, 20 Oct 2026 15:40:15 EDT",
+      "summary": "Fishers in the Northeast began noticing an unusual shift in the summer of 2023. Some familiar catches, including shortfin and longfin squid, declined, while cold-water species such as mackerel bounced back from years of decline. A new study published in the Journal of Geophysical Research: Oceans finds that a pulse of cold, fresh water brought unusually cold conditions to the region, disrupting fisheries from New England to the Mid-Atlantic.",
+      "url": "https://phys.org/news/2026-10-cold-pulse-northwest-atlantic-reshaped.html"
     },
     {
       "category": "Science",
-      "title": "Peat bogs, the natural archives of mining fallout, reveal ancient Europe's hidden metal networks",
+      "title": "The bioeconomy is gaining ground worldwide, report shows",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Tue, 20 Oct 2026 10:20:12 EDT",
-      "summary": "For thousands of years, humans shaped their world with stone, wood and bone. Metallurgy, the art and science of working with metals such as copper, bronze and iron, marked a turning point in human history. The mining that fueled metalworking also shaped Europe's and the Mediterranean's economies and politics over centuries.",
-      "url": "https://phys.org/news/2026-10-peat-bogs-natural-archives-fallout.html"
+      "date": "Tue, 20 Oct 2026 15:40:10 EDT",
+      "summary": "Oil and natural gas still account for the vast majority of the world's energy and raw materials, with all the associated environmental and biodiversity consequences. The bioeconomy is an approach to overcoming this dependence: Instead of using fossil fuels, it uses renewable resources such as plants, microorganisms and organic waste. The goal is for economic growth to go hand in hand with protecting species, the climate and soils.",
+      "url": "https://phys.org/news/2026-10-bioeconomy-gaining-ground-worldwide.html"
+    },
+    {
+      "category": "Science",
+      "title": "Filling the gaps in global rainfall maps",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Tue, 20 Oct 2026 15:30:01 EDT",
+      "summary": "Global rainfall maps are built from observations collected by multiple satellites, but they have an important limitation. The satellites that provide these measurements cannot see the whole Earth at once. As a result, some regions of these maps can have no valid observations.",
+      "url": "https://phys.org/news/2026-10-gaps-global-rainfall.html"
+    },
+    {
+      "category": "AI",
+      "title": "SimCity, but with Permits",
+      "source": "Hacker News: Front Page",
+      "date": "Tue, 20 Oct 2026 18:29:09 +0000",
+      "summary": "Article URL: https://permit.petercai.com/\nComments URL: https://news.ycombinator.com/item?id=50170593\nPoints: 99\n# Comments: 49",
+      "url": "https://permit.petercai.com/"
+    },
+    {
+      "category": "Space",
+      "title": "NASA’s SR-1 Freedom Advances with Progress on Nuclear Power Module",
+      "source": "NASA",
+      "date": "Tue, 20 Oct 2026 18:11:33 +0000",
+      "summary": "Destined for Mars and beyond, NASA’s Space Reactor-1 (SR-1) Freedom will be humanity’s first fission-powered spacecraft to travel outside Earth’s orbit. Announced during NASA’s “Ignition” event, this mission will demonstrate nuclear electric propulsion in deep space, and progress is underway on its key element: the nuclear power module. To expedite development of the spacecraft, NASA […]",
+      "url": "https://www.nasa.gov/centers-and-facilities/glenn/sr-1-freedom-advances-with-progress-on-nuclear-power-module/"
+    },
+    {
+      "category": "Space",
+      "title": " Jeff Bezos is playing the long game with Blue Origin (op-ed) ",
+      "source": " Latest from Space.com ",
+      "date": "Tue, 20 Oct 2026 18:00:00 +0000",
+      "summary": "If Blue Origin goes public, it will have to meet the expectations of shareholders. Jeff Bezos may therefore want to establish a stronger business before committing to a listing.",
+      "url": "https://www.space.com/space-exploration/private-spaceflight/jeff-bezos-is-playing-the-long-game-with-blue-origin-op-ed"
+    },
+    {
+      "category": "AI",
+      "title": "Claude designed protein binders against scorpion neurotoxins",
+      "source": "Hacker News: Front Page",
+      "date": "Tue, 20 Oct 2026 17:48:29 +0000",
+      "summary": "Article URL: https://www.anthropic.com/research/claude-scorpion-toxin-binder-design\nComments URL: https://news.ycombinator.com/item?id=50170021\nPoints: 12\n# Comments: 2",
+      "url": "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design"
+    },
+    {
+      "category": "Space",
+      "title": " A supercomputer is about to launch to the moon for the 1st time, aboard a rover named FLIP ",
+      "source": " Latest from Space.com ",
+      "date": "Tue, 20 Oct 2026 17:42:41 +0000",
+      "summary": "And yes, it has AI.",
+      "url": "https://www.space.com/space-exploration/a-supercomputer-is-about-to-launch-to-the-moon-for-the-1st-time-aboard-a-rover-named-flip"
+    },
+    {
+      "category": "AI",
+      "title": "What shall I teach my son?",
+      "source": "Hacker News: Front Page",
+      "date": "Tue, 20 Oct 2026 17:25:07 +0000",
+      "summary": "Article URL: https://stevekrouse.com/ends\nComments URL: https://news.ycombinator.com/item?id=50169707\nPoints: 51\n# Comments: 63",
+      "url": "https://stevekrouse.com/ends"
+    },
+    {
+      "category": "Science",
+      "title": " The James Webb telescope is watching one of the earliest supernovas in the universe unfold ",
+      "source": " Latest from Live Science ",
+      "date": "Tue, 20 Oct 2026 16:45:34 +0000",
+      "summary": "Astronomers using the James Webb Space Telescope may have discovered a supernova erupting just 1.1 billion years after the Big Bang.",
+      "url": "https://www.livescience.com/space/cosmology/the-james-webb-telescope-is-watching-one-of-the-earliest-supernovas-in-the-universe-unfold"
+    },
+    {
+      "category": "Space",
+      "title": "NASA Experimental Mars Helicopter Blade Designs Target Longer Flights ",
+      "source": "NASA",
+      "date": "Tue, 20 Oct 2026 16:02:35 +0000",
+      "summary": "NASA researchers are developing the future of flight on Mars, laying the groundwork for helicopters with the ability to fly higher and farther while conducting science on the Red Planet. Using high-fidelity computer simulations and wind tunnel tests, engineers are reimagining the rotorcraft blades that could carry the next generation of Mars flyers.",
+      "url": "https://www.nasa.gov/science-research/aeronautics-research/nasa-experimental-mars-helicopter-blade-designs-target-longer-flights/"
+    },
+    {
+      "category": "Science",
+      "title": " Undeciphered Voynich manuscript may have been bound out of order, study finds ",
+      "source": " Latest from Live Science ",
+      "date": "Tue, 20 Oct 2026 15:34:47 +0000",
+      "summary": "Experts argue that the mysterious Voynich manuscript was incorrectly bound — a discovery that \"moves the ball\" in finally deciphering the 15th-century document.",
+      "url": "https://www.livescience.com/archaeology/undeciphered-voynich-manuscript-may-have-been-bound-out-of-order-study-finds"
+    },
+    {
+      "category": "Space",
+      "title": "NASA Provides Progress Update on Moon Base Rovers",
+      "source": "NASA",
+      "date": "Tue, 20 Oct 2026 15:00:10 +0000",
+      "summary": "As NASA works to build the Moon Base, crewed and robotic lunar rovers will play a crucial role during early development through technology demonstrations, astronaut transport, terrain mapping, scientific investigations, and resource prospecting. Data from these early missions will inform future mobility systems and infrastructure needed for astronauts to live and work on the Moon. […]",
+      "url": "https://www.nasa.gov/missions/moon-base/nasa-provides-progress-update-on-moon-base-rovers/"
+    },
+    {
+      "category": "AI",
+      "title": "Polestar tries to quantify what it’s like to drive a performance car",
+      "source": "Ars Technica - All content",
+      "date": "Tue, 20 Oct 2026 14:53:07 +0000",
+      "summary": "Drivers had electrodes strapped to their heads as they tested EVs on track.",
+      "url": "https://arstechnica.com/cars/2026/10/polestar-tries-to-quantify-what-its-like-to-drive-a-performance-car/"
     },
     {
       "category": "Science",
@@ -27,44 +123,12 @@
       "url": "https://www.livescience.com/health/neuroscience/ultrasound-waves-that-jiggle-deep-brain-structures-may-relieve-delusions-in-schizophrenia-small-trial-hints"
     },
     {
-      "category": "Science",
-      "title": "Octopus-inspired patch grips skin and reveals pulse through shifting colors",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Tue, 20 Oct 2026 10:00:16 EDT",
-      "summary": "It looks like a small, transparent patch with a rainbow on its surface—or for those old enough to remember, the back of a CD. The patch is the first of its kind in the world and, when combined with an ordinary smartphone camera, can measure two things: pulse and blood vessel stiffness.",
-      "url": "https://phys.org/news/2026-10-octopus-patch-skin-reveals-pulse.html"
-    },
-    {
-      "category": "Space",
-      "title": " The view from the edge of a sparkling spiral galaxy | Space photo of the day for Oct. 20, 2026 ",
-      "source": " Latest from Space.com ",
-      "date": "Tue, 20 Oct 2026 14:00:00 +0000",
-      "summary": "If you were approaching the edge of a spiral galaxy, arriving from afar through the cosmos, it might look something like this.",
-      "url": "https://www.space.com/astronomy/galaxies/the-view-from-the-edge-of-a-spiral-galaxy-space-photo-of-the-day-for-oct-20-2026"
-    },
-    {
       "category": "Space",
       "title": " Red light, white light: How to preserve your night vision while using stargazing apps ",
       "source": " Latest from Space.com ",
       "date": "Tue, 20 Oct 2026 14:00:00 +0000",
       "summary": "The right apps can take a lot of the work out of stargazing, but they can also stop your eyes from adjusting to the dark. Here's how to use them without ruining your skywatching.",
       "url": "https://www.space.com/stargazing/skywatching-kit/red-light-white-light-how-to-preserve-your-night-vision-while-using-stargazing-apps"
-    },
-    {
-      "category": "AI",
-      "title": "Tsrs: A Port of TypeScript to Rust",
-      "source": "Hacker News: Front Page",
-      "date": "Tue, 20 Oct 2026 13:18:07 +0000",
-      "summary": "Article URL: https://blog.cloudflare.com/typescript-rust-port/\nComments URL: https://news.ycombinator.com/item?id=50165953\nPoints: 12\n# Comments: 0",
-      "url": "https://blog.cloudflare.com/typescript-rust-port/"
-    },
-    {
-      "category": "AI",
-      "title": "Publish fake stats, get cited in LLMs",
-      "source": "Hacker News: Front Page",
-      "date": "Tue, 20 Oct 2026 13:06:22 +0000",
-      "summary": "Article URL: https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web\nComments URL: https://news.ycombinator.com/item?id=50165801\nPoints: 43\n# Comments: 22",
-      "url": "https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web"
     },
     {
       "category": "Science",
@@ -83,14 +147,6 @@
       "url": "https://www.sciencedaily.com/releases/2026/10/261019093443.htm"
     },
     {
-      "category": "AI",
-      "title": "NixOS is making me less afraid",
-      "source": "Hacker News: Front Page",
-      "date": "Tue, 20 Oct 2026 12:43:05 +0000",
-      "summary": "Article URL: https://entropicthoughts.com/nixos-is-making-me-less-afraid\nComments URL: https://news.ycombinator.com/item?id=50165484\nPoints: 59\n# Comments: 18",
-      "url": "https://entropicthoughts.com/nixos-is-making-me-less-afraid"
-    },
-    {
       "category": "Science",
       "title": "Astronomers uncover new secrets of the Universe’s first five minutes",
       "source": "All Top News -- ScienceDaily",
@@ -103,16 +159,8 @@
       "title": "Meta Muse exposes users' personal and business secrets when they share conversations",
       "source": "Ars Technica - All content",
       "date": "Tue, 20 Oct 2026 12:33:13 +0000",
-      "summary": "A single query is all that's required to find thousands of conversations listed by title.",
+      "summary": "Meta is suspending the sharing feature while it investigates its privacy.",
       "url": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/"
-    },
-    {
-      "category": "Space",
-      "title": " Could a $200K bond for satellites paid before launch prevent a space junk disaster in orbit? Here's why some scientists think so ",
-      "source": " Latest from Space.com ",
-      "date": "Tue, 20 Oct 2026 12:00:00 +0000",
-      "summary": "The space around Earth is turning into a junkyard. Researchers think a refundable deposit scheme could force satellite operators to clean up their act before a tipping point is reached.",
-      "url": "https://www.space.com/space-exploration/satellites/could-satellite-deorbit-deposits-prevent-a-space-debris-disaster"
     },
     {
       "category": "Biblical Studies",
@@ -139,36 +187,12 @@
       "url": "https://arstechnica.com/cars/2026/10/visiting-slates-first-showroom-as-its-25000-electric-truck-nears-production/"
     },
     {
-      "category": "Science",
-      "title": " 'We used to go to the climate conferences together. We are not anymore': ESA official Simonetta Cheli tells us how the political landscape for Earth observation is changing ",
-      "source": " Latest from Live Science ",
-      "date": "Tue, 20 Oct 2026 11:00:00 +0000",
-      "summary": "Live Science sat down with the European Space Agency's Simonetta Cheli to discuss the importance of Earth observation, how NASA budget cuts have changed the picture, and how the proliferation of private satellites could hinder our ability to view the planet.",
-      "url": "https://www.livescience.com/planet-earth/we-used-to-go-to-the-climate-conferences-together-we-are-not-anymore-esa-official-simonetta-cheli-tells-us-how-the-political-landscape-for-earth-observation-is-changing"
-    },
-    {
-      "category": "Science",
-      "title": " 'It makes me feel that we can do a lot about it': ESA official shares striking satellite snap of Europe's record-breaking summer heat waves ",
-      "source": " Latest from Live Science ",
-      "date": "Tue, 20 Oct 2026 11:00:00 +0000",
-      "summary": "The head of ESA's Earth observation program tells Live Science why a striking image of a recent heat wave scorching Southern Europe gives her hope that we can properly monitor ‪— and eventually prevent ‪— similar extreme weather events in the future.",
-      "url": "https://www.livescience.com/planet-earth/weather/it-makes-me-feel-that-we-can-do-a-lot-about-it-esa-official-shares-striking-satellite-snap-of-europes-record-breaking-summer-heat-waves-earth-from-space"
-    },
-    {
       "category": "AI",
-      "title": "Japan launches mission to bring home a piece of the Martian moon Phobos",
-      "source": "Ars Technica - All content",
-      "date": "Tue, 20 Oct 2026 05:59:56 +0000",
-      "summary": "The climax for MMX will come in 2029, when the spacecraft will attempt up to two landings on Phobos.",
-      "url": "https://arstechnica.com/space/2026/10/japan-launches-mission-to-bring-home-a-piece-of-the-martian-moon-phobos/"
-    },
-    {
-      "category": "Space",
-      "title": "APOD: 2026 October 20 – An Anticrepuscular Rainbow Fan",
-      "source": "NASA",
-      "date": "Tue, 20 Oct 2026 04:05:00 +0000",
-      "summary": "APOD Science APOD APOD: 2026 October 20 – An… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. An Anticrepuscular […]",
-      "url": "https://science.nasa.gov/image-article/apod-2026-october-20-an-anticrepuscular-rainbow-fan/"
+      "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+      "source": "OpenAI News",
+      "date": "Tue, 20 Oct 2026 10:00:00 GMT",
+      "summary": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.",
+      "url": "https://openai.com/index/ted-taylor-restaurant"
     },
     {
       "category": "Theology",
@@ -187,14 +211,6 @@
       "url": "https://www.thegospelcoalition.org/article/reasons-care-rule-law/"
     },
     {
-      "category": "Space",
-      "title": "The Human Fingerprint on Earth’s Water Cycle",
-      "source": "NASA",
-      "date": "Tue, 20 Oct 2026 04:01:00 +0000",
-      "summary": "Human activities have become intertwined with how water is distributed across the continents. A new study brings their effects into sharper focus.",
-      "url": "https://science.nasa.gov/earth/earth-observatory/the-human-fingerprint-on-earths-water-cycle/"
-    },
-    {
       "category": "Theology",
       "title": "How the Trinity Transforms Reading Scripture",
       "source": "The Gospel Coalition",
@@ -203,12 +219,12 @@
       "url": "https://www.thegospelcoalition.org/article/trinity-transforms-reading-scripture/"
     },
     {
-      "category": "Space",
-      "title": "Curiosity Blog, Sols 5036-5042: Watching the Clouds Go By",
-      "source": "NASA",
-      "date": "Tue, 20 Oct 2026 01:21:38 +0000",
-      "summary": "Written by Alex Innanen, Atmospheric Scientist at York University Earth planning date: Friday, Oct. 9, 2026 Happy New Mars Year! We mark the start of a new year on Mars at the beginning of the northern hemisphere spring, or the vernal equinox. We then keep track of the seasons by counting degrees of solar longitude […]",
-      "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5036-5042-watching-the-clouds-go-by/"
+      "category": "AI",
+      "title": "OpenAI acquires Orchestra Bio",
+      "source": "OpenAI News",
+      "date": "Tue, 20 Oct 2026 00:00:00 GMT",
+      "summary": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&D, helping biopharma teams accelerate drug development and advance new treatments.",
+      "url": "https://openai.com/index/openai-to-acquire-orchestra-bio"
     },
     {
       "category": "History",
@@ -249,22 +265,6 @@
       "date": "Mon, 19 Oct 2026 10:45:36 +0000",
       "summary": "Remains of what appears to be the world’s oldest shipwreck have been found near the island of Kekova, off the southwest coast of Turkey. A […]\nThe post World’s Oldest Shipwreck Discovered appeared first on Biblical Archaeology Society.",
       "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-near-eastern-world/worlds-oldest-shipwreck-discovered/"
-    },
-    {
-      "category": "AI",
-      "title": "How Itaú is building generative AI for its entire customer base",
-      "source": "OpenAI News",
-      "date": "Fri, 16 Oct 2026 19:00:00 GMT",
-      "summary": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
-      "url": "https://openai.com/index/itau-generative-ai"
-    },
-    {
-      "category": "AI",
-      "title": "Benefit Street Partners answers questions faster with Codex",
-      "source": "OpenAI News",
-      "date": "Fri, 16 Oct 2026 00:00:00 GMT",
-      "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
-      "url": "https://openai.com/index/benefit-street-partners"
     },
     {
       "category": "History",
