@@ -1,22 +1,102 @@
 {
-  "lastUpdated": "2026-10-21T14:47:04.955Z",
-  "articleCount": 39,
+  "lastUpdated": "2026-10-21T19:50:05.642Z",
+  "articleCount": 36,
   "articles": [
     {
       "category": "Science",
-      "title": "How climate change, new technology are shaping the future of extremes in peak power demands",
+      "title": "What faces in paintings can tell us about how we perceive emotion",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Wed, 21 Oct 2026 10:40:14 EDT",
-      "summary": "New research led by the University of Michigan provides utilities and policymakers with forecasts that can help them better prepare for future extremes in peak energy demand in the United States.",
-      "url": "https://phys.org/news/2026-10-climate-technology-future-extremes-peak.html"
+      "date": "Wed, 21 Oct 2026 15:40:16 EDT",
+      "summary": "Look closely at a face in a painting and you might think you know what emotion the person is experiencing. A smile suggests happiness. A furrowed brow might signal anger. Widened eyes could mean fear or surprise. But what happens when you ask lots of people the same question? Do they see the same emotion, or something more complicated?",
+      "url": "https://phys.org/news/2026-10-emotion.html"
     },
     {
       "category": "Science",
-      "title": "Bering Sea heat wave linked to a surprising boom in the number of hybrid crabs",
+      "title": "Serengeti hyenas manage to keep clans stable as climate change alters animal migrations",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Wed, 21 Oct 2026 10:30:02 EDT",
-      "summary": "Marine heat waves are usually seen as destructive events that can disrupt entire ocean ecosystems and trigger massive environmental damage. In 2018 and 2019, an extreme heat wave hit the Bering Sea, causing spring sea ice levels to plummet.",
-      "url": "https://phys.org/news/2026-10-bering-sea-linked-boom-hybrid.html"
+      "date": "Wed, 21 Oct 2026 15:40:08 EDT",
+      "summary": "Although the main prey of spotted hyenas (Crocuta crocuta), migratory ungulates such as blue wildebeest (Connochaetes taurinus), now spend substantially less time within hyena territories than they did 30 years ago, hyena clans in the central Serengeti have remained largely stable.",
+      "url": "https://phys.org/news/2026-10-serengeti-hyenas-clans-stable-climate.html"
+    },
+    {
+      "category": "AI",
+      "title": "Mistral Large 4",
+      "source": "Hacker News: Front Page",
+      "date": "Wed, 21 Oct 2026 19:20:55 +0000",
+      "summary": "Article URL: https://docs.mistral.ai/models/mistral-large-4-0\nComments URL: https://news.ycombinator.com/item?id=50186129\nPoints: 45\n# Comments: 0",
+      "url": "https://docs.mistral.ai/models/mistral-large-4-0"
+    },
+    {
+      "category": "Science",
+      "title": "Subsidence claims: After drought, ground can shrink, swell or even collapse when it rains—causing damage to homes",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Wed, 21 Oct 2026 15:20:16 EDT",
+      "summary": "A crack appears beside a window after weeks of scorching weather. As much as you might hope the ground beneath your house will recover with the first rain, the effects of a dry summer can continue long after temperatures fall.",
+      "url": "https://phys.org/news/2026-10-subsidence-drought-ground-collapse-homes.html"
+    },
+    {
+      "category": "AI",
+      "title": "Claude Duet",
+      "source": "Hacker News: Front Page",
+      "date": "Wed, 21 Oct 2026 19:14:01 +0000",
+      "summary": "Article URL: https://claude.com/product/claude-duet\nComments URL: https://news.ycombinator.com/item?id=50186037\nPoints: 71\n# Comments: 73",
+      "url": "https://claude.com/product/claude-duet"
+    },
+    {
+      "category": "AI",
+      "title": "Google's Rust Style Guide",
+      "source": "Hacker News: Front Page",
+      "date": "Wed, 21 Oct 2026 19:11:57 +0000",
+      "summary": "Article URL: https://google.github.io/styleguide/rustguide.html\nComments URL: https://news.ycombinator.com/item?id=50186010\nPoints: 10\n# Comments: 1",
+      "url": "https://google.github.io/styleguide/rustguide.html"
+    },
+    {
+      "category": "Space",
+      "title": " Sci-fi legend Alan Dean Foster on his new futuristic adventure 'Lost On Paradise': 'It's paradise until you get there, and then maybe you mess it up' (interview) ",
+      "source": " Latest from Space.com ",
+      "date": "Wed, 21 Oct 2026 18:00:00 +0000",
+      "summary": "'Maybe Paradise isn’t always Paradise.'",
+      "url": "https://www.space.com/entertainment/space-books/sci-fi-legend-alan-dean-foster-on-his-new-futuristic-adventure-lost-on-paradise-its-paradise-until-you-get-there-and-then-maybe-you-mess-it-up-interview"
+    },
+    {
+      "category": "AI",
+      "title": "How AT&T is rethinking in-house legal work with OpenAI",
+      "source": "OpenAI News",
+      "date": "Wed, 21 Oct 2026 17:00:00 GMT",
+      "summary": "AT&T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment.",
+      "url": "https://openai.com/index/att-legal"
+    },
+    {
+      "category": "AI",
+      "title": "SpaceX to attempt Starship catch on next flight, with eye on rapid cadence increase",
+      "source": "Ars Technica - All content",
+      "date": "Wed, 21 Oct 2026 16:46:19 +0000",
+      "summary": "\"We have had significant constructive engagement with the FAA.\"",
+      "url": "https://arstechnica.com/space/2026/10/spacex-will-attempt-to-reach-weekly-starship-launches-by-early-2027/"
+    },
+    {
+      "category": "Science",
+      "title": " Uranium from World War II reveals how close the Nazis were to an atomic bomb ",
+      "source": " Latest from Live Science ",
+      "date": "Wed, 21 Oct 2026 16:32:23 +0000",
+      "summary": "A new look at the uranium and heavy water used by the Nazis reveals whether they were close to making a reactor for an atomic bomb.",
+      "url": "https://www.livescience.com/physics-mathematics/uranium-from-world-war-ii-reveals-how-close-the-nazis-were-to-an-atomic-bomb"
+    },
+    {
+      "category": "Science",
+      "title": " 'The Russians were the problem in the end': Sailor Matt Rutherford on being intercepted by the FSB while attempting to circumnavigate the Arctic Ocean solo ",
+      "source": " Latest from Live Science ",
+      "date": "Wed, 21 Oct 2026 15:34:12 +0000",
+      "summary": "Live Science spoke with Matt Rutherford, a sailor and founder of the environmental nonprofit Ocean Research Project, about his attempt to circumnavigate the Arctic Ocean and why he'll have to try again next year.",
+      "url": "https://www.livescience.com/planet-earth/arctic/the-russians-were-the-problem-in-the-end-sailor-matt-rutherford-on-being-intercepted-by-the-fsb-while-attempting-to-circumnavigate-the-arctic-ocean-solo"
+    },
+    {
+      "category": "AI",
+      "title": "The $15 billion ad-powered AI startup your doctor may already be using",
+      "source": "Ars Technica - All content",
+      "date": "Wed, 21 Oct 2026 15:14:07 +0000",
+      "summary": "OpenEvidence is booming despite questions about accuracy and ads.",
+      "url": "https://arstechnica.com/ai/2026/10/the-15-billion-ad-powered-ai-startup-your-doctor-may-already-be-using/"
     },
     {
       "category": "Space",
@@ -25,38 +105,6 @@
       "date": "Wed, 21 Oct 2026 14:30:00 +0000",
       "summary": "The Viltrox AF 16mm f/1.8 FE is an impressive ultra-wide-angle prime lens offering great handling, build quality and image quality for an affordable price.",
       "url": "https://www.space.com/stargazing/astrophotography/a-great-budget-lens-for-astrophotography-the-sharpness-produced-at-f-1-8-and-f-2-8-is-exactly-what-you-want-viltrox-af-16mm-f-1-8-fe-lens-review"
-    },
-    {
-      "category": "Science",
-      "title": "Kissing bugs can spread potentially fatal Chagas disease when dogs eat them",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Wed, 21 Oct 2026 10:20:24 EDT",
-      "summary": "In the southern United States and across Latin America, kissing bugs can bite people and pets both outdoors and when they enter homes. While not every kissing bug carries disease, these insects can spread a parasite that causes Chagas disease, a tropical illness that can be fatal for both humans and animals.",
-      "url": "https://phys.org/news/2026-10-bugs-potentially-fatal-chagas-disease.html"
-    },
-    {
-      "category": "AI",
-      "title": "Patch the Planet",
-      "source": "Hacker News: Front Page",
-      "date": "Wed, 21 Oct 2026 14:08:40 +0000",
-      "summary": "Article URL: https://patchtheplanet.org/\nComments URL: https://news.ycombinator.com/item?id=50181265\nPoints: 13\n# Comments: 2",
-      "url": "https://patchtheplanet.org/"
-    },
-    {
-      "category": "AI",
-      "title": "OpenAI: Patch the Planet. Global response coordination as AI uncovers PHP vulns",
-      "source": "Hacker News: Front Page",
-      "date": "Wed, 21 Oct 2026 14:03:43 +0000",
-      "summary": "Article URL: https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/\nComments URL: https://news.ycombinator.com/item?id=50181175\nPoints: 38\n# Comments: 9",
-      "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/"
-    },
-    {
-      "category": "AI",
-      "title": "The No Kings Takedown Is Why You Shouldn't Rent Your Megaphone from Zuck",
-      "source": "Hacker News: Front Page",
-      "date": "Wed, 21 Oct 2026 14:01:25 +0000",
-      "summary": "Article URL: https://www.techdirt.com/2026/10/20/accident-or-not-the-no-kings-takedown-is-why-you-shouldnt-rent-your-megaphone-from-zuck/\nComments URL: https://news.ycombinator.com/item?id=50181137\nPoints: 33\n# Comments: 1",
-      "url": "https://www.techdirt.com/2026/10/20/accident-or-not-the-no-kings-takedown-is-why-you-shouldnt-rent-your-megaphone-from-zuck/"
     },
     {
       "category": "Space",
@@ -75,22 +123,6 @@
       "url": "https://www.sciencedaily.com/releases/2026/10/261020085023.htm"
     },
     {
-      "category": "Space",
-      "title": " When will SpaceX and Blue Origin fly to the moon? NASA reveals lunar lander timelines (and an Artemis III update) ",
-      "source": " Latest from Space.com ",
-      "date": "Wed, 21 Oct 2026 13:00:00 +0000",
-      "summary": "NASA has updated the timeline for its Artemis III mission and mapped out the expected progress for SpaceX and Blue Origin's respective moon landers.",
-      "url": "https://www.space.com/space-exploration/artemis/when-will-spacex-and-blue-origin-fly-to-the-moon-nasa-reveals-lunar-lander-timelines-and-an-artemis-iii-update"
-    },
-    {
-      "category": "AI",
-      "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
-      "source": "OpenAI News",
-      "date": "Wed, 21 Oct 2026 13:00:00 GMT",
-      "summary": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.",
-      "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries"
-    },
-    {
       "category": "Science",
       "title": "A train was delayed by a solar storm. But something didn't add up.",
       "source": "All Top News -- ScienceDaily",
@@ -99,20 +131,20 @@
       "url": "https://www.sciencedaily.com/releases/2026/10/261020085021.htm"
     },
     {
-      "category": "Space",
-      "title": "NASA’s CASALS Instrument Bridges Gaps in 3D Maps of Earth’s Surface",
-      "source": "NASA",
-      "date": "Wed, 21 Oct 2026 12:17:58 +0000",
-      "summary": "From orbit, today’s space-based laser instruments measure Earth’s forests and terrain one narrow line at a time. Between those lines are enormous gaps that include millions of acres of land scientists never directly measure. NASA’s CASALS instrument will blend machine learning with an ultra-compact lidar instrument to adaptively ‘sweep’ large swaths of Earth’s surface. This […]",
-      "url": "https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/nasas-casals-instrument-bridges-gaps-in-3d-maps-of-earths-surface/"
-    },
-    {
       "category": "AI",
       "title": "OpenAI models are coming to Google Cloud",
       "source": "OpenAI News",
       "date": "Wed, 21 Oct 2026 12:00:00 GMT",
       "summary": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.",
       "url": "https://openai.com/index/openai-models-google-cloud"
+    },
+    {
+      "category": "AI",
+      "title": "Review: Carrie is a triumphant remix with one major flaw",
+      "source": "Ars Technica - All content",
+      "date": "Wed, 21 Oct 2026 11:19:12 +0000",
+      "summary": "Mike Flanagan's re-imagining of Stephen King's classic is well worth watching.",
+      "url": "https://arstechnica.com/culture/2026/10/review-carrie-is-a-triumphant-remix-with-one-major-flaw/"
     },
     {
       "category": "Science",
@@ -139,20 +171,12 @@
       "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-egypt/new-kingdom-fortress-sinai/"
     },
     {
-      "category": "Science",
-      "title": " A fighter pilot had unexplained headaches for over a year. The cause was hiding in plain sight. ",
-      "source": " Latest from Live Science ",
-      "date": "Wed, 21 Oct 2026 10:00:00 +0000",
-      "summary": "A fighter pilot suddenly began experiencing intense headaches, and doctors' initial diagnoses of the problem were wrong.",
-      "url": "https://www.livescience.com/health/diagnostic-dilemma-a-fighter-pilot-had-unexplained-headaches-for-over-a-year-the-cause-was-hiding-in-plain-sight"
-    },
-    {
       "category": "AI",
-      "title": "Using thousands of AI agents to uncover new leads in biological data",
+      "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
       "source": "OpenAI News",
-      "date": "Wed, 21 Oct 2026 04:50:00 GMT",
-      "summary": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells.",
-      "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data"
+      "date": "Wed, 21 Oct 2026 07:00:00 GMT",
+      "summary": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source.",
+      "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities"
     },
     {
       "category": "Science",
@@ -163,14 +187,6 @@
       "url": "https://www.sciencedaily.com/releases/2026/10/261020085727.htm"
     },
     {
-      "category": "Space",
-      "title": "APOD: 2026 October 21 – New Ghosts Revealed in Cassiopeia",
-      "source": "NASA",
-      "date": "Wed, 21 Oct 2026 04:05:00 +0000",
-      "summary": "APOD Science APOD APOD: 2026 October 21 – New… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. OriginalAnnotated New […]",
-      "url": "https://science.nasa.gov/image-article/apod-2026-october-21-new-ghosts-revealed-in-cassiopeia/"
-    },
-    {
       "category": "Theology",
       "title": "Finding Meaning in Our Daily Work (with Denise Daniels)",
       "source": "The Gospel Coalition",
@@ -179,52 +195,12 @@
       "url": "https://www.thegospelcoalition.org/podcasts/your-corner-of-the-world/finding-meaning-daily-work/"
     },
     {
-      "category": "Space",
-      "title": "Extratropical Cyclone Whips Past Iceland",
-      "source": "NASA",
-      "date": "Wed, 21 Oct 2026 04:01:00 +0000",
-      "summary": "The powerful low-pressure system formed over the North Atlantic out of the remnants of Hurricane Isaias.",
-      "url": "https://science.nasa.gov/earth/earth-observatory/extratropical-cyclone-whips-past-iceland/"
-    },
-    {
       "category": "Theology",
       "title": "The Story Bible That Taught Me How to Teach Kids",
       "source": "The Gospel Coalition",
       "date": "Wed, 21 Oct 2026 04:00:00 +0000",
       "summary": "Vos consistently makes the gospel clear in language kids can understand. All who teach children should emulate her boldness and clarity.",
       "url": "https://www.thegospelcoalition.org/reviews/catherine-vos-teach-kids/"
-    },
-    {
-      "category": "AI",
-      "title": "PHP warns it plans to release 2 emergency patches imminently",
-      "source": "Ars Technica - All content",
-      "date": "Wed, 21 Oct 2026 02:12:18 +0000",
-      "summary": "Unconfirmed report claims PHP2Shell exploit remotely executes code on PHP sites.",
-      "url": "https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/"
-    },
-    {
-      "category": "Science",
-      "title": " Case of mysterious medieval skeleton buried in Roman-era sarcophagus at Westminster Abbey finally solved ",
-      "source": " Latest from Live Science ",
-      "date": "Tue, 20 Oct 2026 23:01:00 +0000",
-      "summary": "A sarcophagus in Westminster Abbey with Roman and Anglo-Saxon decorations baffled archaeologists, but now a 150-year-old mystery has finally been solved.",
-      "url": "https://www.livescience.com/archaeology/case-of-mysterious-medieval-skeleton-buried-in-roman-era-sarcophagus-at-westminster-abbey-finally-solved"
-    },
-    {
-      "category": "AI",
-      "title": "Merging SpaceX and Tesla would be a \"good idea,\" Musk says",
-      "source": "Ars Technica - All content",
-      "date": "Tue, 20 Oct 2026 22:04:54 +0000",
-      "summary": "\"I do think there's a lot of merit to combining the companies.\"",
-      "url": "https://arstechnica.com/space/2026/10/spacex-and-tesla-into-a-single-company-has-a-lot-of-merit-musk-says/"
-    },
-    {
-      "category": "AI",
-      "title": "Cops raid office of RFK Jr. allies planning “unethical” vaccine trial on babies",
-      "source": "Ars Technica - All content",
-      "date": "Tue, 20 Oct 2026 21:44:34 +0000",
-      "summary": "Guinea-Bissau police said hepatitis B vaccine doses were taken as part of an investigation.",
-      "url": "https://arstechnica.com/health/2026/10/cops-raid-office-of-rfk-jr-allies-planning-unethical-vaccine-trial-on-babies/"
     },
     {
       "category": "Biblical Studies",
