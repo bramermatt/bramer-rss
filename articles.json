@@ -1,38 +1,134 @@
 {
-  "lastUpdated": "2026-10-20T19:45:54.955Z",
+  "lastUpdated": "2026-10-21T00:17:07.252Z",
   "articleCount": 39,
   "articles": [
     {
       "category": "Science",
-      "title": "How a cold pulse in the Northwest Atlantic reshaped East Coast fisheries",
+      "title": "Researchers study how AI could improve weed management",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Tue, 20 Oct 2026 15:40:15 EDT",
-      "summary": "Fishers in the Northeast began noticing an unusual shift in the summer of 2023. Some familiar catches, including shortfin and longfin squid, declined, while cold-water species such as mackerel bounced back from years of decline. A new study published in the Journal of Geophysical Research: Oceans finds that a pulse of cold, fresh water brought unusually cold conditions to the region, disrupting fisheries from New England to the Mid-Atlantic.",
-      "url": "https://phys.org/news/2026-10-cold-pulse-northwest-atlantic-reshaped.html"
+      "date": "Tue, 20 Oct 2026 20:00:07 EDT",
+      "summary": "Advances in weed management technology could reduce reliance on herbicides and manual labor, but a new review from the University of Mississippi and Cornell University indicates those tools also bring steep costs and potential challenges.",
+      "url": "https://phys.org/news/2026-10-ai-weed.html"
     },
     {
       "category": "Science",
-      "title": "The bioeconomy is gaining ground worldwide, report shows",
+      "title": "Shipwrecks can become thriving reefs, but may contain hidden toxic time bombs",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Tue, 20 Oct 2026 15:40:10 EDT",
-      "summary": "Oil and natural gas still account for the vast majority of the world's energy and raw materials, with all the associated environmental and biodiversity consequences. The bioeconomy is an approach to overcoming this dependence: Instead of using fossil fuels, it uses renewable resources such as plants, microorganisms and organic waste. The goal is for economic growth to go hand in hand with protecting species, the climate and soils.",
-      "url": "https://phys.org/news/2026-10-bioeconomy-gaining-ground-worldwide.html"
+      "date": "Tue, 20 Oct 2026 19:40:12 EDT",
+      "summary": "Late last year, scientists in Germany published findings on a World War II munitions dump in the Baltic Sea. Some may dismiss the dump as hazardous waste, but to marine biologists it was something far more exciting: a thriving ecosystem.",
+      "url": "https://phys.org/news/2026-10-shipwrecks-reefs-hidden-toxic.html"
     },
     {
       "category": "Science",
-      "title": "Filling the gaps in global rainfall maps",
+      "title": "Forgotten samples from Greenland's Cold War base reveal warmer summers during ancient ice-free period",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Tue, 20 Oct 2026 15:30:01 EDT",
-      "summary": "Global rainfall maps are built from observations collected by multiple satellites, but they have an important limitation. The satellites that provide these measurements cannot see the whole Earth at once. As a result, some regions of these maps can have no valid observations.",
-      "url": "https://phys.org/news/2026-10-gaps-global-rainfall.html"
+      "date": "Tue, 20 Oct 2026 19:40:01 EDT",
+      "summary": "The site of a former U.S. military base in Greenland was ice-free at a time when summers were a few degrees warmer than today, according to a new University at Buffalo–led study of ancient sediment recovered from beneath the site in the 1960s.",
+      "url": "https://phys.org/news/2026-10-forgotten-samples-greenland-cold-war.html"
     },
     {
       "category": "AI",
-      "title": "SimCity, but with Permits",
+      "title": "The Other Epidemic: Trying to get off benzodiazepines",
       "source": "Hacker News: Front Page",
-      "date": "Tue, 20 Oct 2026 18:29:09 +0000",
-      "summary": "Article URL: https://permit.petercai.com/\nComments URL: https://news.ycombinator.com/item?id=50170593\nPoints: 99\n# Comments: 49",
-      "url": "https://permit.petercai.com/"
+      "date": "Tue, 20 Oct 2026 23:04:09 +0000",
+      "summary": "Article URL: https://www.thebeliever.net/the-other-epidemic/\nComments URL: https://news.ycombinator.com/item?id=50173891\nPoints: 25\n# Comments: 6",
+      "url": "https://www.thebeliever.net/the-other-epidemic/"
+    },
+    {
+      "category": "Science",
+      "title": " Case of mysterious medieval skeleton buried in Roman-era sarcophagus at Westminster Abbey finally solved ",
+      "source": " Latest from Live Science ",
+      "date": "Tue, 20 Oct 2026 23:01:00 +0000",
+      "summary": "A sarcophagus in Westminster Abbey with Roman and Anglo-Saxon decorations baffled archaeologists, but now a 150-year-old mystery has finally been solved.",
+      "url": "https://www.livescience.com/archaeology/case-of-mysterious-medieval-skeleton-buried-in-roman-era-sarcophagus-at-westminster-abbey-finally-solved"
+    },
+    {
+      "category": "Science",
+      "title": " Could 'body clocks' play a role in depression? Study proposes a new 'circadian' subtype ",
+      "source": " Latest from Live Science ",
+      "date": "Tue, 20 Oct 2026 23:00:00 +0000",
+      "summary": "Researchers propose a new subtype of depression linked to body-clock patterns.",
+      "url": "https://www.livescience.com/health/sleep/could-body-clocks-play-a-role-in-depression-study-proposes-a-new-circadian-subtype"
+    },
+    {
+      "category": "Science",
+      "title": " Will Tesla's 'flying car' ever hit the market, or is it a load of compressed air? ",
+      "source": " Latest from Live Science ",
+      "date": "Tue, 20 Oct 2026 22:32:17 +0000",
+      "summary": "Tesla just demonstrated a type of hover car. Live Science asks its readers whether they believe this type of technology will be widely available in five years.",
+      "url": "https://www.livescience.com/technology/will-teslas-flying-car-ever-hit-the-market-or-is-it-a-load-of-compressed-air"
+    },
+    {
+      "category": "Space",
+      "title": " SpaceX will attempt 1st-ever double Starship rocket catch on next test launch, a 'profound technology milestone,' Elon Musk says ",
+      "source": " Latest from Space.com ",
+      "date": "Tue, 20 Oct 2026 22:29:46 +0000",
+      "summary": "SpaceX will try to recover both Starship stages during the megarocket's next test flight, which is expected to take place in November, according to Elon Musk.",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-will-attempt-1st-ever-double-starship-rocket-catch-on-next-test-launch-a-profound-technology-milestone-elon-musk-says"
+    },
+    {
+      "category": "AI",
+      "title": "Feds suspect ransom negotiator ran ShinyHunters extortion site",
+      "source": "Hacker News: Front Page",
+      "date": "Tue, 20 Oct 2026 22:21:05 +0000",
+      "summary": "Article URL: https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/\nComments URL: https://news.ycombinator.com/item?id=50173487\nPoints: 52\n# Comments: 12",
+      "url": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/"
+    },
+    {
+      "category": "AI",
+      "title": "Merging SpaceX and Tesla would be a \"good idea,\" Musk says",
+      "source": "Ars Technica - All content",
+      "date": "Tue, 20 Oct 2026 22:04:54 +0000",
+      "summary": "\"I do think there's a lot of merit to combining the companies.\"",
+      "url": "https://arstechnica.com/space/2026/10/spacex-and-tesla-into-a-single-company-has-a-lot-of-merit-musk-says/"
+    },
+    {
+      "category": "AI",
+      "title": "Cops raid office of RFK Jr. allies planning “unethical” vaccine trial on babies",
+      "source": "Ars Technica - All content",
+      "date": "Tue, 20 Oct 2026 21:44:34 +0000",
+      "summary": "Guinea-Bissau police said hepatitis B vaccine doses were taken as part of an investigation.",
+      "url": "https://arstechnica.com/health/2026/10/cops-raid-office-of-rfk-jr-allies-planning-unethical-vaccine-trial-on-babies/"
+    },
+    {
+      "category": "AI",
+      "title": "Microsoft reportedly projects $1,200 to $1,800 price for 2028 Project Helix",
+      "source": "Ars Technica - All content",
+      "date": "Tue, 20 Oct 2026 21:14:33 +0000",
+      "summary": "Xbox maker is also apparently planning its own gaming handheld for next year.",
+      "url": "https://arstechnica.com/gaming/2026/10/report-microsofts-project-helix-planned-for-2028-at-1200-to-1800-price/"
+    },
+    {
+      "category": "Space",
+      "title": " On this day in space! Oct. 20, 1970: The Soviet Union launches last-ever Zond moon mission ",
+      "source": " Latest from Space.com ",
+      "date": "Tue, 20 Oct 2026 20:59:48 +0000",
+      "summary": "On Oct. 20, 1970, the Soviet Union launched the Zond 8 spacecraft on a mission to the moon. Here's why it mattered.",
+      "url": "https://www.space.com/space-exploration/on-this-day-in-space-october-20-2026"
+    },
+    {
+      "category": "Space",
+      "title": "NASA to Conduct Low-Altitude Flights Over Texas Farmland",
+      "source": "NASA",
+      "date": "Tue, 20 Oct 2026 20:21:36 +0000",
+      "summary": "Editor’s Note: This article was originally published on Oct. 15, 2026, and has been updated to correct the location of the flights. A NASA Dynamic Aviation A200 aircraft will conduct low-flying research flights over farmland near Amarillo, Texas, from Thursday, Oct. 22, through Monday, Nov. 9. These flights will measure gaseous and particulate emissions from […]",
+      "url": "https://www.nasa.gov/general/nasa-to-conduct-low-altitude-flights-over-texas-farmland/"
+    },
+    {
+      "category": "Space",
+      "title": " Can’t make it to the Lucas Museum of Narrative Art for the 'Star Wars' display? This is the companion book set you’re looking for! ",
+      "source": " Latest from Space.com ",
+      "date": "Tue, 20 Oct 2026 20:00:00 +0000",
+      "summary": "Prepare for a lightspeed tour of Lucas's lifetime collection ofpaintings, posters, comics, concept art, and illustrations",
+      "url": "https://www.space.com/entertainment/space-books/cant-make-it-to-the-lucas-museum-of-narrative-art-for-the-star-wars-display-this-is-the-companion-book-set-youre-looking-for"
+    },
+    {
+      "category": "AI",
+      "title": "Academics have a duty to defend open knowledge systems like Wikipedia",
+      "source": "Hacker News: Front Page",
+      "date": "Tue, 20 Oct 2026 18:51:40 +0000",
+      "summary": "Article URL: https://blogs.lse.ac.uk/impactofsocialsciences/2026/10/19/academics-have-a-duty-to-defend-open-knowledge-systems-like-wikipedia/\nComments URL: https://news.ycombinator.com/item?id=50170917\nPoints: 83\n# Comments: 38",
+      "url": "https://blogs.lse.ac.uk/impactofsocialsciences/2026/10/19/academics-have-a-duty-to-defend-open-knowledge-systems-like-wikipedia/"
     },
     {
       "category": "Space",
@@ -44,91 +140,11 @@
     },
     {
       "category": "Space",
-      "title": " Jeff Bezos is playing the long game with Blue Origin (op-ed) ",
-      "source": " Latest from Space.com ",
-      "date": "Tue, 20 Oct 2026 18:00:00 +0000",
-      "summary": "If Blue Origin goes public, it will have to meet the expectations of shareholders. Jeff Bezos may therefore want to establish a stronger business before committing to a listing.",
-      "url": "https://www.space.com/space-exploration/private-spaceflight/jeff-bezos-is-playing-the-long-game-with-blue-origin-op-ed"
-    },
-    {
-      "category": "AI",
-      "title": "Claude designed protein binders against scorpion neurotoxins",
-      "source": "Hacker News: Front Page",
-      "date": "Tue, 20 Oct 2026 17:48:29 +0000",
-      "summary": "Article URL: https://www.anthropic.com/research/claude-scorpion-toxin-binder-design\nComments URL: https://news.ycombinator.com/item?id=50170021\nPoints: 12\n# Comments: 2",
-      "url": "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design"
-    },
-    {
-      "category": "Space",
-      "title": " A supercomputer is about to launch to the moon for the 1st time, aboard a rover named FLIP ",
-      "source": " Latest from Space.com ",
-      "date": "Tue, 20 Oct 2026 17:42:41 +0000",
-      "summary": "And yes, it has AI.",
-      "url": "https://www.space.com/space-exploration/a-supercomputer-is-about-to-launch-to-the-moon-for-the-1st-time-aboard-a-rover-named-flip"
-    },
-    {
-      "category": "AI",
-      "title": "What shall I teach my son?",
-      "source": "Hacker News: Front Page",
-      "date": "Tue, 20 Oct 2026 17:25:07 +0000",
-      "summary": "Article URL: https://stevekrouse.com/ends\nComments URL: https://news.ycombinator.com/item?id=50169707\nPoints: 51\n# Comments: 63",
-      "url": "https://stevekrouse.com/ends"
-    },
-    {
-      "category": "Science",
-      "title": " The James Webb telescope is watching one of the earliest supernovas in the universe unfold ",
-      "source": " Latest from Live Science ",
-      "date": "Tue, 20 Oct 2026 16:45:34 +0000",
-      "summary": "Astronomers using the James Webb Space Telescope may have discovered a supernova erupting just 1.1 billion years after the Big Bang.",
-      "url": "https://www.livescience.com/space/cosmology/the-james-webb-telescope-is-watching-one-of-the-earliest-supernovas-in-the-universe-unfold"
-    },
-    {
-      "category": "Space",
       "title": "NASA Experimental Mars Helicopter Blade Designs Target Longer Flights ",
       "source": "NASA",
       "date": "Tue, 20 Oct 2026 16:02:35 +0000",
       "summary": "NASA researchers are developing the future of flight on Mars, laying the groundwork for helicopters with the ability to fly higher and farther while conducting science on the Red Planet. Using high-fidelity computer simulations and wind tunnel tests, engineers are reimagining the rotorcraft blades that could carry the next generation of Mars flyers.",
       "url": "https://www.nasa.gov/science-research/aeronautics-research/nasa-experimental-mars-helicopter-blade-designs-target-longer-flights/"
-    },
-    {
-      "category": "Science",
-      "title": " Undeciphered Voynich manuscript may have been bound out of order, study finds ",
-      "source": " Latest from Live Science ",
-      "date": "Tue, 20 Oct 2026 15:34:47 +0000",
-      "summary": "Experts argue that the mysterious Voynich manuscript was incorrectly bound — a discovery that \"moves the ball\" in finally deciphering the 15th-century document.",
-      "url": "https://www.livescience.com/archaeology/undeciphered-voynich-manuscript-may-have-been-bound-out-of-order-study-finds"
-    },
-    {
-      "category": "Space",
-      "title": "NASA Provides Progress Update on Moon Base Rovers",
-      "source": "NASA",
-      "date": "Tue, 20 Oct 2026 15:00:10 +0000",
-      "summary": "As NASA works to build the Moon Base, crewed and robotic lunar rovers will play a crucial role during early development through technology demonstrations, astronaut transport, terrain mapping, scientific investigations, and resource prospecting. Data from these early missions will inform future mobility systems and infrastructure needed for astronauts to live and work on the Moon. […]",
-      "url": "https://www.nasa.gov/missions/moon-base/nasa-provides-progress-update-on-moon-base-rovers/"
-    },
-    {
-      "category": "AI",
-      "title": "Polestar tries to quantify what it’s like to drive a performance car",
-      "source": "Ars Technica - All content",
-      "date": "Tue, 20 Oct 2026 14:53:07 +0000",
-      "summary": "Drivers had electrodes strapped to their heads as they tested EVs on track.",
-      "url": "https://arstechnica.com/cars/2026/10/polestar-tries-to-quantify-what-its-like-to-drive-a-performance-car/"
-    },
-    {
-      "category": "Science",
-      "title": " Ultrasound waves that jiggle deep brain structures may relieve delusions in schizophrenia, small trial hints ",
-      "source": " Latest from Live Science ",
-      "date": "Tue, 20 Oct 2026 14:10:00 +0000",
-      "summary": "In a new pilot study, 10 minutes of transcranial ultrasound stimulation reduced patients' delusion severity, scientists report.",
-      "url": "https://www.livescience.com/health/neuroscience/ultrasound-waves-that-jiggle-deep-brain-structures-may-relieve-delusions-in-schizophrenia-small-trial-hints"
-    },
-    {
-      "category": "Space",
-      "title": " Red light, white light: How to preserve your night vision while using stargazing apps ",
-      "source": " Latest from Space.com ",
-      "date": "Tue, 20 Oct 2026 14:00:00 +0000",
-      "summary": "The right apps can take a lot of the work out of stargazing, but they can also stop your eyes from adjusting to the dark. Here's how to use them without ruining your skywatching.",
-      "url": "https://www.space.com/stargazing/skywatching-kit/red-light-white-light-how-to-preserve-your-night-vision-while-using-stargazing-apps"
     },
     {
       "category": "Science",
@@ -155,14 +171,6 @@
       "url": "https://www.sciencedaily.com/releases/2026/10/261019093442.htm"
     },
     {
-      "category": "AI",
-      "title": "Meta Muse exposes users' personal and business secrets when they share conversations",
-      "source": "Ars Technica - All content",
-      "date": "Tue, 20 Oct 2026 12:33:13 +0000",
-      "summary": "Meta is suspending the sharing feature while it investigates its privacy.",
-      "url": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/"
-    },
-    {
       "category": "Biblical Studies",
       "title": "The Binding or Sacrifice of Isaac",
       "source": "Biblical Archaeology Society",
@@ -177,14 +185,6 @@
       "date": "Tue, 20 Oct 2026 11:00:19 +0000",
       "summary": "Paul’s first missionary journey took him from Cyprus into the heart of Anatolia. Explore the route with a web-exclusive slideshow.\nThe post Paul’s First Missionary Journey through Perga and Pisidian Antioch appeared first on Biblical Archaeology Society.",
       "url": "https://www.biblicalarchaeology.org/daily/biblical-topics/new-testament/pauls-first-missionary-journey-through-perga-and-pisidian-antioch/"
-    },
-    {
-      "category": "AI",
-      "title": "Visiting Slate’s first showroom as its $25,000 electric truck nears production",
-      "source": "Ars Technica - All content",
-      "date": "Tue, 20 Oct 2026 11:00:16 +0000",
-      "summary": "Slate's first showroom sells the promise. Mass production will determine the rest.",
-      "url": "https://arstechnica.com/cars/2026/10/visiting-slates-first-showroom-as-its-25000-electric-truck-nears-production/"
     },
     {
       "category": "AI",
