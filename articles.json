@@ -1,62 +1,206 @@
 {
-  "lastUpdated": "2026-10-22T00:20:21.862Z",
-  "articleCount": 36,
+  "lastUpdated": "2026-10-22T14:47:08.892Z",
+  "articleCount": 39,
   "articles": [
     {
       "category": "Science",
-      "title": "Africans reuse, repair, recycle and resell waste: What's needed to build on the circular economy basics",
+      "title": "There should be black holes in our neighborhood. Can we find them?",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Wed, 21 Oct 2026 20:00:01 EDT",
-      "summary": "In many African cities, a broken fridge is rarely thrown away immediately. It may be repaired and resold, dismantled for spare parts or collected for its metal components.",
-      "url": "https://phys.org/news/2026-10-africans-reuse-recycle-resell-circular.html"
-    },
-    {
-      "category": "AI",
-      "title": "mitmproxy adds --emudhra option",
-      "source": "Hacker News: Front Page",
-      "date": "Wed, 21 Oct 2026 23:51:37 +0000",
-      "summary": "Article URL: https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b\nComments URL: https://news.ycombinator.com/item?id=50189232\nPoints: 19\n# Comments: 3",
-      "url": "https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b"
+      "date": "Thu, 22 Oct 2026 10:40:07 EDT",
+      "summary": "Scientific estimates show that there should be between about 100 million and 1 billion stellar-mass black holes in the Milky Way. But they aren't easy to locate. They're not like supermassive black holes (SMBH) at the centers of galaxies. Those are usually easy to spot for different reasons.",
+      "url": "https://phys.org/news/2026-10-black-holes-neighborhood.html"
     },
     {
       "category": "Science",
-      "title": "AI listens to bee buzzes to monitor activity without lethal traps",
+      "title": "Curtain-like plasma structures explain solar jets' apparent spinning in simulations",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Wed, 21 Oct 2026 19:40:05 EDT",
-      "summary": "Populations of many pollinators, including bumblebees, have been crashing over the last few decades, thanks to the widespread use of chemical pesticides, loss of habitat and the acceleration of climate change. But it can be hard to know just how bad the problem is, or whether conservation strategies are helping, without relying on lethal traps—which can kill tens of thousands of bees in order to get an accurate count of their populations.",
-      "url": "https://phys.org/news/2026-10-ai-bee-lethal.html"
+      "date": "Thu, 22 Oct 2026 10:20:06 EDT",
+      "summary": "An international team of scientists from the University of Sheffield and the Indian Institute of Astrophysics, led by a postdoctoral research fellow from the University of Newcastle, Australia, has discovered that solar jets called spicules, which are 6–8 Mm long, take the form of warped, denser plasma sheets like pleated drapery.",
+      "url": "https://phys.org/news/2026-10-curtain-plasma-solar-jets-apparent.html"
     },
     {
       "category": "Science",
-      "title": "Venomous primate thought lost to science for nearly a century turns up in gardens and on roads across Indonesia",
+      "title": "Drone measurements reveal rapid early growth in eastern Australian humpback whales",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Wed, 21 Oct 2026 19:40:01 EDT",
-      "summary": "A big-eyed, venomous primate that had not been documented in scientific literature since the 1930s has been hiding in plain sight on the Indonesian island of Bangka, turning up in backyards, along roadsides and on power lines and prompting local residents who find them to call the Alobi Wildlife Rescue Center for help.",
-      "url": "https://phys.org/news/2026-10-venomous-primate-thought-lost-science.html"
+      "date": "Thu, 22 Oct 2026 10:20:01 EDT",
+      "summary": "Eastern Australian humpback whales reach nearly their full adult size quickly, a new Griffith University–led study has found, as shown by the first contemporary growth curves for this recovering whale population.",
+      "url": "https://phys.org/news/2026-10-drone-reveal-rapid-early-growth.html"
     },
     {
       "category": "AI",
-      "title": "Airbnb bans making guests do dishes and take out the trash",
+      "title": "What's Getting Pwned",
       "source": "Hacker News: Front Page",
-      "date": "Wed, 21 Oct 2026 23:38:32 +0000",
-      "summary": "Article URL: https://www.theverge.com/tech/1015844/airbnb-chores-house-rules-update\nComments URL: https://news.ycombinator.com/item?id=50189150\nPoints: 18\n# Comments: 4",
-      "url": "https://www.theverge.com/tech/1015844/airbnb-chores-house-rules-update"
+      "date": "Thu, 22 Oct 2026 14:08:12 +0000",
+      "summary": "Article URL: https://pwn.watch/\nComments URL: https://news.ycombinator.com/item?id=50195543\nPoints: 24\n# Comments: 4",
+      "url": "https://pwn.watch/"
+    },
+    {
+      "category": "Space",
+      "title": " Australia's bizarre 'Spider Crater' seen from orbit | Space photo of the day for Oct. 22, 2026 ",
+      "source": " Latest from Space.com ",
+      "date": "Thu, 22 Oct 2026 14:00:00 +0000",
+      "summary": "A satellite image of \"Spider Crater\" in Western Australia.",
+      "url": "https://www.space.com/astronomy/earth/australias-bizarre-spider-crater-seen-from-orbit-space-photo-of-the-day-for-oct-22-2026"
     },
     {
       "category": "AI",
-      "title": "Κ = 0.003 for integer multiplication crossed",
+      "title": "eMudhra to Exit Global SSL/TLS Certificate Business",
       "source": "Hacker News: Front Page",
-      "date": "Wed, 21 Oct 2026 23:22:21 +0000",
-      "summary": "Article URL: https://github.com/CrocSwap/integer-mult-bounds/pull/4441\nComments URL: https://news.ycombinator.com/item?id=50189023\nPoints: 5\n# Comments: 1",
-      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/4441"
+      "date": "Thu, 22 Oct 2026 13:33:39 +0000",
+      "summary": "Article URL: https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business\nComments URL: https://news.ycombinator.com/item?id=50195110\nPoints: 159\n# Comments: 86",
+      "url": "https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business"
     },
     {
       "category": "AI",
-      "title": "Xbox wants you to pay 24 to 40 cents per hour to stream games you already bought",
+      "title": "Crystal 1.22.0 Is Released",
+      "source": "Hacker News: Front Page",
+      "date": "Thu, 22 Oct 2026 13:20:13 +0000",
+      "summary": "Article URL: https://crystal-lang.org/2026/10/12/1.22.0-released/\nComments URL: https://news.ycombinator.com/item?id=50194938\nPoints: 41\n# Comments: 11",
+      "url": "https://crystal-lang.org/2026/10/12/1.22.0-released/"
+    },
+    {
+      "category": "AI",
+      "title": "Forget \"Malaise 2.0,\" GM says it's still all-in on EVs and autonomy",
       "source": "Ars Technica - All content",
-      "date": "Wed, 21 Oct 2026 22:06:07 +0000",
-      "summary": "Time-based a la carte charges come on top of the purchase price for the games themselves.",
-      "url": "https://arstechnica.com/gaming/2026/10/xbox-wants-you-to-pay-24-to-40-cents-per-hour-to-stream-games-you-already-bought/"
+      "date": "Thu, 22 Oct 2026 13:04:32 +0000",
+      "summary": "General Motors' plans will require quite a lot of customers' trust.",
+      "url": "https://arstechnica.com/cars/2026/10/forget-malaise-2-0-gm-says-its-still-all-in-on-evs-and-autonomy/"
+    },
+    {
+      "category": "Science",
+      "title": "Birds are more afraid of women than men. Scientists have no idea why",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Thu, 22 Oct 2026 08:06:14 EDT",
+      "summary": "Scientists have uncovered a strange pattern in urban bird behavior: Across five European countries and 37 species, birds consistently fled sooner when approached by women than men. Researchers have no clear explanation for the difference, raising intriguing questions about how birds recognize and respond to humans.",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261021231250.htm"
+    },
+    {
+      "category": "Space",
+      "title": " Next Mass Effect game cancelled as EA shuts down legendary sci-fi RPG studio BioWare ",
+      "source": " Latest from Space.com ",
+      "date": "Thu, 22 Oct 2026 12:00:00 +0000",
+      "summary": "The legendary RPG studio behind classics such as Star Wars: Knights of the Old Republic, Mass Effect, and Dragon Age is no more.",
+      "url": "https://www.space.com/entertainment/space-games/next-mass-effect-game-cancelled-as-ea-shuts-down-developer-bioware"
+    },
+    {
+      "category": "Science",
+      "title": "Oxford scientists discover how viruses build themselves without a blueprint",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Thu, 22 Oct 2026 07:42:05 EDT",
+      "summary": "Scientists have captured virus-like particles assembling themselves step by step, revealing how a surprisingly simple process of trial and error produces complex structures with remarkable precision. The discovery uncovers a crucial molecular turning point that speeds up assembly and could lead to new ways to disrupt viruses and develop vaccines.",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261021231248.htm"
+    },
+    {
+      "category": "AI",
+      "title": "333 Tor exit nodes hijacked to intercept SSH traffic and retrieve plaintext email",
+      "source": "Ars Technica - All content",
+      "date": "Thu, 22 Oct 2026 11:30:33 +0000",
+      "summary": "For 3 days this month, 333 exit nodes were hacked in hopes of stealing sensitive data.",
+      "url": "https://arstechnica.com/information-technology/2026/10/300-tor-exit-nodes-hijacked-to-intercept-ssh-traffic-and-retrieve-plaintext-email/"
+    },
+    {
+      "category": "AI",
+      "title": "UN says we're going to blow past 1.5º warming, offers a \"now what?\" answer",
+      "source": "Ars Technica - All content",
+      "date": "Thu, 22 Oct 2026 11:15:36 +0000",
+      "summary": "Best case is now an overshoot to 1.8º C, accompanied by massive carbon removal.",
+      "url": "https://arstechnica.com/science/2026/10/un-accepts-the-obvious-were-not-going-to-avoid-a-1-5o-c-warming/"
+    },
+    {
+      "category": "Science",
+      "title": "NASA’s Curiosity rover reveals a spectacular new view of Mars with a mystery on the horizon",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Thu, 22 Oct 2026 07:03:49 EDT",
+      "summary": "NASA’s Curiosity rover has revealed a spectacular new view of mysterious, wind-carved cliffs on Mars that may hold evidence of ancient volcanic activity. With the rover approaching these unusual formations, scientists hope to uncover the secrets behind their strange appearance in 2027.",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261021231238.htm"
+    },
+    {
+      "category": "Biblical Studies",
+      "title": "Is Jesus’ Crucifixion Reflected in Soil Deposition?",
+      "source": "Biblical Archaeology Society",
+      "date": "Thu, 22 Oct 2026 11:00:46 +0000",
+      "summary": "The Gospel of Matthew describes an earthquake during Jesus’ Crucifixion. Sediment disturbances mentioned in a recent article in the International Geology Review points to the Biblical earthquake and may give a concrete date of the crucifixion. Painting by James Jacques Tissot.\nThe post Is Jesus’ Crucifixion Reflected in Soil Deposition? appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/daily/biblical-topics/crucifixion/jesus-crucifixion-reflected-in-soil-deposition/"
+    },
+    {
+      "category": "Biblical Studies",
+      "title": "The 10 Strangest Foods in the Bible",
+      "source": "Biblical Archaeology Society",
+      "date": "Thu, 22 Oct 2026 11:00:16 +0000",
+      "summary": "Many Biblical stories are set within the context of a meal. While most of these are about regular meals, others refer to more bizarre, extreme or supernatural cases of eating and drinking.\nThe post The 10 Strangest Foods in the Bible appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-near-eastern-world/the-10-strangest-foods-in-the-bible/"
+    },
+    {
+      "category": "Science",
+      "title": " Climate change is literally altering the shape of our planet ",
+      "source": " Latest from Live Science ",
+      "date": "Thu, 22 Oct 2026 10:00:00 +0000",
+      "summary": "The melting of the poles is increasingly shifting Earth's shape at a faster rate, with the planet becoming more and more round.",
+      "url": "https://www.livescience.com/planet-earth/climate-change-is-literally-altering-the-shape-of-our-planet"
+    },
+    {
+      "category": "Space",
+      "title": " NASA giving update about Artemis moon plans on Oct. 23: Watch it live ",
+      "source": " Latest from Space.com ",
+      "date": "Thu, 22 Oct 2026 10:00:00 +0000",
+      "summary": "NASA will provide an update about its Artemis III mission and its plans to land astronauts on the moon during a press conference on Friday (Oct. 23). Here's how to watch it live.",
+      "url": "https://www.space.com/space-exploration/artemis/nasa-giving-update-about-artemis-moon-plans-on-oct-23-watch-it-live"
+    },
+    {
+      "category": "Science",
+      "title": " Surprising new pattern of groundwater loss may signal a turning point for the Colorado River Basin ",
+      "source": " Latest from Live Science ",
+      "date": "Thu, 22 Oct 2026 09:18:11 +0000",
+      "summary": "During an intense drought from 2020 to 2022, the Upper Colorado River Basin lost far more groundwater than the Lower Basin did, despite having much higher natural recharge.",
+      "url": "https://www.livescience.com/planet-earth/rivers-oceans/surprising-new-pattern-of-groundwater-loss-may-signal-a-turning-point-for-the-colorado-river-basin"
+    },
+    {
+      "category": "AI",
+      "title": "What FDE means at OpenAI",
+      "source": "OpenAI News",
+      "date": "Thu, 22 Oct 2026 06:00:00 GMT",
+      "summary": "What forward deployed engineering means at OpenAI",
+      "url": "https://openai.com/index/forward-deployed-engineering-means"
+    },
+    {
+      "category": "Space",
+      "title": "APOD: 2026 October 22 – The First Green Star, WD J1330+6435",
+      "source": "NASA",
+      "date": "Thu, 22 Oct 2026 04:05:00 +0000",
+      "summary": "APOD Science APOD APOD: 2026 October 22 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. The First […]",
+      "url": "https://science.nasa.gov/image-article/apod-2026-october-22-the-first-green-star-wd-j13306435/"
+    },
+    {
+      "category": "Theology",
+      "title": "‘Fjord’ Is the Best Movie of 2026 So Far",
+      "source": "The Gospel Coalition",
+      "date": "Thu, 22 Oct 2026 04:02:00 +0000",
+      "summary": "‘Fjord’ challenges ‘tolerant’ progressives to reflect on their intolerance of conservative evangelical Christians.",
+      "url": "https://www.thegospelcoalition.org/article/fjord-christian-movie-review/"
+    },
+    {
+      "category": "Space",
+      "title": "Fires Char New Guinea",
+      "source": "NASA",
+      "date": "Thu, 22 Oct 2026 04:01:00 +0000",
+      "summary": "Emissions on both sides of the island are unusually high as human-set fires spread in a landscape parched by drought.",
+      "url": "https://science.nasa.gov/earth/earth-observatory/fires-char-new-guinea/"
+    },
+    {
+      "category": "Theology",
+      "title": "Why Humans Pretend to Be Computers",
+      "source": "The Gospel Coalition",
+      "date": "Thu, 22 Oct 2026 04:00:59 +0000",
+      "summary": "The power behind AI is the perception of objectivity and infallibility.",
+      "url": "https://www.thegospelcoalition.org/article/why-humans-pretend-computers/"
+    },
+    {
+      "category": "Space",
+      "title": "Faster to Science: A Letter to the Science Community",
+      "source": "NASA",
+      "date": "Thu, 22 Oct 2026 00:00:16 +0000",
+      "summary": "NASA Science wants to deliver science faster, so we’re changing how we compete and select missions. On Monday, October 26, we will host a virtual NASA Science Town Hall.",
+      "url": "https://science.nasa.gov/directorates/smd/faster-to-science-a-letter-to-the-science-community/"
     },
     {
       "category": "History",
@@ -67,44 +211,12 @@
       "url": "https://allthingsliberty.com/2026/10/last-call-for-a-dram-seller-on-the-mohawk-river/"
     },
     {
-      "category": "AI",
-      "title": "Enterprises keep buying software upgrades that IT thinks will make things worse",
-      "source": "Ars Technica - All content",
-      "date": "Wed, 21 Oct 2026 21:48:52 +0000",
-      "summary": "Survey of 2,018 IT heads at big firms points to a lack of leverage.",
-      "url": "https://arstechnica.com/information-technology/2026/10/survey-enterprises-waste-28-percent-of-software-budgets-on-unwanted-upgrades/"
-    },
-    {
-      "category": "Space",
-      "title": " On this day in space! Oct. 21, 2008: India launches its 1st mission to the moon with Chandrayaan-1 ",
-      "source": " Latest from Space.com ",
-      "date": "Wed, 21 Oct 2026 21:41:37 +0000",
-      "summary": "On Oct. 21, 2008, the Indian Space Research Organization launched its first mission to the moon. Here's why it mattered.",
-      "url": "https://www.space.com/space-exploration/on-this-day-in-space-october-21-2026"
-    },
-    {
-      "category": "AI",
-      "title": "Tesla profits drop 43% in Q3",
-      "source": "Ars Technica - All content",
-      "date": "Wed, 21 Oct 2026 21:35:07 +0000",
-      "summary": "Tesla’s once-booming energy storage business also shrunk in Q3 2026.",
-      "url": "https://arstechnica.com/cars/2026/10/tesla-profits-drop-43-in-q3/"
-    },
-    {
       "category": "Science",
       "title": " James Webb telescope discovers surprising trove of metals around the Milky Way's supermassive black hole ",
       "source": " Latest from Live Science ",
       "date": "Wed, 21 Oct 2026 21:33:50 +0000",
       "summary": "New observations from the James Webb Space Telescope reveal a concentration of heavy metals near the Milky Way's central black hole. The discovery deepens a mystery about why our black hole behaves the way it does.",
       "url": "https://www.livescience.com/space/astronomy/james-webb-telescope-discovers-surprising-trove-of-metals-around-the-milky-ways-supermassive-black-hole"
-    },
-    {
-      "category": "Science",
-      "title": " Extremely rare Viking Age coin from the reign of 'Olaf the Holy' may have been 'held in the king's own hand' ",
-      "source": " Latest from Live Science ",
-      "date": "Wed, 21 Oct 2026 21:16:28 +0000",
-      "summary": "A massive Viking Age hoard that was discovered in Norway contains a rare silver coin featuring \"Olaf the Holy,\" one of the country's first Christian kings.",
-      "url": "https://www.livescience.com/archaeology/vikings/extremely-rare-viking-age-coin-from-the-reign-of-olaf-the-holy-may-have-been-held-in-the-kings-own-hand"
     },
     {
       "category": "AI",
@@ -115,60 +227,12 @@
       "url": "https://openai.com/index/broad-access-through-consistent-standards"
     },
     {
-      "category": "Space",
-      "title": " Sci-fi legend Alan Dean Foster on his new futuristic adventure 'Lost On Paradise': 'It's paradise until you get there, and then maybe you mess it up' (interview) ",
-      "source": " Latest from Space.com ",
-      "date": "Wed, 21 Oct 2026 18:00:00 +0000",
-      "summary": "'Maybe Paradise isn’t always Paradise.'",
-      "url": "https://www.space.com/entertainment/space-books/sci-fi-legend-alan-dean-foster-on-his-new-futuristic-adventure-lost-on-paradise-its-paradise-until-you-get-there-and-then-maybe-you-mess-it-up-interview"
-    },
-    {
       "category": "AI",
       "title": "How AT&T is rethinking in-house legal work with OpenAI",
       "source": "OpenAI News",
       "date": "Wed, 21 Oct 2026 17:00:00 GMT",
       "summary": "AT&T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment.",
       "url": "https://openai.com/index/att-legal"
-    },
-    {
-      "category": "Science",
-      "title": " Uranium from World War II reveals how close the Nazis were to an atomic bomb ",
-      "source": " Latest from Live Science ",
-      "date": "Wed, 21 Oct 2026 16:32:23 +0000",
-      "summary": "A new look at the uranium and heavy water used by the Nazis reveals whether they were close to making a reactor for an atomic bomb.",
-      "url": "https://www.livescience.com/physics-mathematics/uranium-from-world-war-ii-reveals-how-close-the-nazis-were-to-an-atomic-bomb"
-    },
-    {
-      "category": "Space",
-      "title": " \"A great budget lens for astrophotography, the sharpness produced at f/1.8 and f/2.8 is exactly what you want.\" Viltrox AF 16mm f/1.8 FE lens review ",
-      "source": " Latest from Space.com ",
-      "date": "Wed, 21 Oct 2026 14:30:00 +0000",
-      "summary": "The Viltrox AF 16mm f/1.8 FE is an impressive ultra-wide-angle prime lens offering great handling, build quality and image quality for an affordable price.",
-      "url": "https://www.space.com/stargazing/astrophotography/a-great-budget-lens-for-astrophotography-the-sharpness-produced-at-f-1-8-and-f-2-8-is-exactly-what-you-want-viltrox-af-16mm-f-1-8-fe-lens-review"
-    },
-    {
-      "category": "Science",
-      "title": "Too much RNA can starve cells of energy, scientists discover",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Wed, 21 Oct 2026 09:02:34 EDT",
-      "summary": "Scientists have uncovered an unexpected danger lurking inside cells: too much RNA can damage the structures responsible for producing energy. A new study found that excess RNA, including the normally essential messenger RNA (mRNA), can directly disrupt mitochondria without relying on the immune system. The discovery could help explain how viral infections and certain aging-related diseases damage cells.",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261020085023.htm"
-    },
-    {
-      "category": "Science",
-      "title": "A train was delayed by a solar storm. But something didn't add up.",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Wed, 21 Oct 2026 08:35:57 EDT",
-      "summary": "Scientists have cracked a 178-year-old mystery surrounding a train delayed by a solar storm, revealing that the famous incident happened in 1848 rather than 1841. The discovery rewrites the early history of space weather and highlights a threat that still endangers modern power grids, satellites, and communication systems.",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261020085021.htm"
-    },
-    {
-      "category": "AI",
-      "title": "OpenAI models are coming to Google Cloud",
-      "source": "OpenAI News",
-      "date": "Wed, 21 Oct 2026 12:00:00 GMT",
-      "summary": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.",
-      "url": "https://openai.com/index/openai-models-google-cloud"
     },
     {
       "category": "Biblical Studies",
@@ -179,52 +243,12 @@
       "url": "https://www.biblicalarchaeology.org/exhibits-events/ancient-cyprus-in-florida/"
     },
     {
-      "category": "Biblical Studies",
-      "title": "New Kingdom Fortress Discovered in Sinai",
-      "source": "Biblical Archaeology Society",
-      "date": "Wed, 21 Oct 2026 10:00:48 +0000",
-      "summary": "The Way of Horus was a critical trade route connecting ancient Egypt to the greater Near Eastern world. It was so important, in fact, that […]\nThe post New Kingdom Fortress Discovered in Sinai appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-egypt/new-kingdom-fortress-sinai/"
-    },
-    {
-      "category": "Science",
-      "title": "A massive asteroid slammed into the North Sea and unleashed a 330-foot tsunami",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Wed, 21 Oct 2026 00:08:28 EDT",
-      "summary": "A decades-long mystery beneath the North Sea has finally been solved. Scientists have confirmed that the Silverpit Crater, buried 700 meters below the seabed, was created when a 160-meter-wide asteroid struck Earth roughly 43 to 46 million years ago. The violent collision blasted a towering curtain of rock and water 1.5 kilometers into the air and triggered a tsunami more than 100 meters high.",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261020085727.htm"
-    },
-    {
       "category": "Theology",
       "title": "Finding Meaning in Our Daily Work (with Denise Daniels)",
       "source": "The Gospel Coalition",
       "date": "Wed, 21 Oct 2026 04:04:27 +0000",
       "summary": "Wheaton College’s Denise Daniels draws on research with thousands of American workers to help us have a more holistic vision of how our work matters to us, our neighbors, our families, and God.",
       "url": "https://www.thegospelcoalition.org/podcasts/your-corner-of-the-world/finding-meaning-daily-work/"
-    },
-    {
-      "category": "Theology",
-      "title": "The Story Bible That Taught Me How to Teach Kids",
-      "source": "The Gospel Coalition",
-      "date": "Wed, 21 Oct 2026 04:00:00 +0000",
-      "summary": "Vos consistently makes the gospel clear in language kids can understand. All who teach children should emulate her boldness and clarity.",
-      "url": "https://www.thegospelcoalition.org/reviews/catherine-vos-teach-kids/"
-    },
-    {
-      "category": "Biblical Studies",
-      "title": "The Binding or Sacrifice of Isaac",
-      "source": "Biblical Archaeology Society",
-      "date": "Tue, 20 Oct 2026 11:00:33 +0000",
-      "summary": "The story of the offering of Isaac is one of the most powerful narratives in the Hebrew Bible. But each tradition has understood and used the story differently and for varying purposes. \nThe post The Binding or Sacrifice of Isaac appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/daily/biblical-topics/bible-interpretation/binding-sacrifice-isaac/"
-    },
-    {
-      "category": "Theology",
-      "title": "The 2000s So Far in Four Eras",
-      "source": "The Gospel Coalition",
-      "date": "Tue, 20 Oct 2026 04:04:12 +0000",
-      "summary": "Collin Hansen reflects on four eras from the last 20 years, noting distinctive characteristics of ministry amid the changing tides.",
-      "url": "https://www.thegospelcoalition.org/podcasts/gospelbound/2000s-so-far-four-eras/"
     },
     {
       "category": "History",
