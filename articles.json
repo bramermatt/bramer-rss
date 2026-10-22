@@ -1,38 +1,126 @@
 {
-  "lastUpdated": "2026-10-22T14:47:08.892Z",
+  "lastUpdated": "2026-10-22T19:39:37.677Z",
   "articleCount": 39,
   "articles": [
     {
       "category": "Science",
-      "title": "There should be black holes in our neighborhood. Can we find them?",
+      "title": "More than 20 years of data challenge one-size-fits-all view of Arctic cloud-forming particles",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Thu, 22 Oct 2026 10:40:07 EDT",
-      "summary": "Scientific estimates show that there should be between about 100 million and 1 billion stellar-mass black holes in the Milky Way. But they aren't easy to locate. They're not like supermassive black holes (SMBH) at the centers of galaxies. Those are usually easy to spot for different reasons.",
-      "url": "https://phys.org/news/2026-10-black-holes-neighborhood.html"
+      "date": "Thu, 22 Oct 2026 15:20:18 EDT",
+      "summary": "As the climate gets warmer, the number of particles that make up clouds in the Arctic may increase or decrease, depending on the specific area. A new study indicates that the Arctic should be divided into three parts rather than considered as a whole.",
+      "url": "https://phys.org/news/2026-10-years-size-view-arctic-cloud.html"
     },
     {
       "category": "Science",
-      "title": "Curtain-like plasma structures explain solar jets' apparent spinning in simulations",
+      "title": "We must prepare entire cities for extreme heat. Our new study reveals how",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Thu, 22 Oct 2026 10:20:06 EDT",
-      "summary": "An international team of scientists from the University of Sheffield and the Indian Institute of Astrophysics, led by a postdoctoral research fellow from the University of Newcastle, Australia, has discovered that solar jets called spicules, which are 6–8 Mm long, take the form of warped, denser plasma sheets like pleated drapery.",
-      "url": "https://phys.org/news/2026-10-curtain-plasma-solar-jets-apparent.html"
+      "date": "Thu, 22 Oct 2026 15:20:02 EDT",
+      "summary": "In Australia, the days are growing longer and summer is fast approaching. But a very strong El Niño—a natural weather phenomenon that drives variations in temperature and winds across the Pacific—could make this summer a sweltering one.",
+      "url": "https://phys.org/news/2026-10-entire-cities-extreme-reveals.html"
     },
     {
       "category": "Science",
-      "title": "Drone measurements reveal rapid early growth in eastern Australian humpback whales",
+      "title": "The psychology that can lead investors to make bad financial decisions",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Thu, 22 Oct 2026 10:20:01 EDT",
-      "summary": "Eastern Australian humpback whales reach nearly their full adult size quickly, a new Griffith University–led study has found, as shown by the first contemporary growth curves for this recovering whale population.",
-      "url": "https://phys.org/news/2026-10-drone-reveal-rapid-early-growth.html"
+      "date": "Thu, 22 Oct 2026 15:00:25 EDT",
+      "summary": "Say you buy shares in a company. The price climbs and months later you sell for a healthy profit. Ask why it worked, and the answer is often some version of \"I made a good call.\" Now imagine the trade had lost money instead. Would you be as quick to blame your own judgment? Many of us wouldn't. We may point to bad timing, a jittery market, anything but ourselves.",
+      "url": "https://phys.org/news/2026-10-psychology-investors-bad-financial-decisions.html"
     },
     {
       "category": "AI",
-      "title": "What's Getting Pwned",
+      "title": "Hedra is a 3D open world game I wrote from scratch while in highschool",
       "source": "Hacker News: Front Page",
-      "date": "Thu, 22 Oct 2026 14:08:12 +0000",
-      "summary": "Article URL: https://pwn.watch/\nComments URL: https://news.ycombinator.com/item?id=50195543\nPoints: 24\n# Comments: 4",
-      "url": "https://pwn.watch/"
+      "date": "Thu, 22 Oct 2026 18:44:36 +0000",
+      "summary": "Article URL: https://github.com/maxilevi/project-hedra/tree/pre-ai\nComments URL: https://news.ycombinator.com/item?id=50199389\nPoints: 20\n# Comments: 4",
+      "url": "https://github.com/maxilevi/project-hedra/tree/pre-ai"
+    },
+    {
+      "category": "AI",
+      "title": "Show HN: Build a world on your phone, explore it in XR on Vision Pro and Quest",
+      "source": "Hacker News: Front Page",
+      "date": "Thu, 22 Oct 2026 18:39:39 +0000",
+      "summary": "Article URL: https://3d.camilleworld.com/play/\nComments URL: https://news.ycombinator.com/item?id=50199349\nPoints: 3\n# Comments: 0",
+      "url": "https://3d.camilleworld.com/play/"
+    },
+    {
+      "category": "AI",
+      "title": "Show HN: UI micro interactions prompts for AI",
+      "source": "Hacker News: Front Page",
+      "date": "Thu, 22 Oct 2026 18:32:57 +0000",
+      "summary": "Article URL: https://www.typeui.sh/micro-interactions\nComments URL: https://news.ycombinator.com/item?id=50199290\nPoints: 19\n# Comments: 3",
+      "url": "https://www.typeui.sh/micro-interactions"
+    },
+    {
+      "category": "Science",
+      "title": " Brain scans reveal 'number line' that's used to mentally compare values ",
+      "source": " Latest from Live Science ",
+      "date": "Thu, 22 Oct 2026 18:00:00 +0000",
+      "summary": "Although whole numbers and fractions are processed differently in the brain, when you compare their values, a single \"mental map\" akin to a number line lights up.",
+      "url": "https://www.livescience.com/health/neuroscience/brain-scans-reveal-number-line-thats-used-to-mentally-compare-values"
+    },
+    {
+      "category": "Space",
+      "title": " Van Gogh's 'The Starry Night' depicts the sky on July 22, 1889, researchers find ",
+      "source": " Latest from Space.com ",
+      "date": "Thu, 22 Oct 2026 18:00:00 +0000",
+      "summary": "Researchers think  they might have pinpointed the exact night sky that we see depicted in Vincent van Gogh's iconic painting \"The Starry Night.\"",
+      "url": "https://www.space.com/astronomy/van-goghs-the-starry-night-depicts-the-sky-on-july-22-1889-researchers-find"
+    },
+    {
+      "category": "Science",
+      "title": " Watch bizarre snake 'cartwheel' away from danger at more than 12 feet per second ",
+      "source": " Latest from Live Science ",
+      "date": "Thu, 22 Oct 2026 17:25:38 +0000",
+      "summary": "Researchers filmed dwarf reed snakes (Pseudorabdion) from different angles to better understand how the serpents pull off their remarkable rolling behavior.",
+      "url": "https://www.livescience.com/animals/snakes/watch-bizarre-snake-cartwheel-away-from-danger-at-more-than-12-feet-per-second"
+    },
+    {
+      "category": "AI",
+      "title": "Meta shocked by $25B fine after N.M. refused to join multistate settlement",
+      "source": "Ars Technica - All content",
+      "date": "Thu, 22 Oct 2026 17:04:31 +0000",
+      "summary": "Meta will appeal a ruling imposing the largest fine Mark Zuckerberg has ever seen.",
+      "url": "https://arstechnica.com/tech-policy/2026/10/meta-whines-new-mexico-is-impossible-to-please-after-historic-25-billion-fine/"
+    },
+    {
+      "category": "Science",
+      "title": " Japan launches world's first round-trip mission to Mars. ",
+      "source": " Latest from Live Science ",
+      "date": "Thu, 22 Oct 2026 16:46:36 +0000",
+      "summary": "The Martian Moons Exploration (MMX) mission, which launched from Japan on Oct. 19, is on its way to Mars. When it arrives, the probe will attempt to land on one of the Red Planet's twin moons and scoop up rocks to bring back to Earth. Experts tell Live Science what these \"transformative\" samples could teach us.",
+      "url": "https://www.livescience.com/space/space-exploration/worlds-first-round-trip-mission-to-mars-has-launched-why-it-could-be-a-transformative-leap-for-science"
+    },
+    {
+      "category": "AI",
+      "title": "US-backed vaccine trial on babies canceled after international outcry",
+      "source": "Ars Technica - All content",
+      "date": "Thu, 22 Oct 2026 16:37:00 +0000",
+      "summary": "The decried trial was canceled last week before police seized vaccine doses.",
+      "url": "https://arstechnica.com/health/2026/10/unethical-vaccine-trial-on-babies-backed-by-rfk-jr-is-formally-canceled/"
+    },
+    {
+      "category": "Space",
+      "title": "NASA’s Hubble Charts Path for Roman with Gravitational Lenses ",
+      "source": "NASA",
+      "date": "Thu, 22 Oct 2026 16:20:37 +0000",
+      "summary": "This observation is one of many gravitational lensing images taken by Hubble in preparation for science with the new Nancy Grace Roman Space Telescope.",
+      "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-charts-path-for-roman-with-gravitational-lenses/"
+    },
+    {
+      "category": "Space",
+      "title": " 'Cabin leak suspected': Artemis II astronaut reveals how a warning nearly derailed NASA's epic moon mission ",
+      "source": " Latest from Space.com ",
+      "date": "Thu, 22 Oct 2026 16:14:56 +0000",
+      "summary": "Victor Glover recalls how a suspected cabin leak warning came just 15 minutes before a crucial engine burn — and why receiving it just five minutes later could have changed everything.",
+      "url": "https://www.space.com/space-exploration/artemis/cabin-leak-suspected-artemis-ii-astronaut-reveals-how-a-warning-nearly-derailed-moon-mission"
+    },
+    {
+      "category": "AI",
+      "title": "This emulator reimagines Nintendo’s Virtual Boy with a full color display",
+      "source": "Ars Technica - All content",
+      "date": "Thu, 22 Oct 2026 15:59:40 +0000",
+      "summary": "Tile-based color palettes go way beyond the four shades of red on original hardware.",
+      "url": "https://arstechnica.com/gaming/2026/10/this-emulator-reimagines-nintendos-virtual-boy-with-a-full-color-display/"
     },
     {
       "category": "Space",
@@ -43,30 +131,6 @@
       "url": "https://www.space.com/astronomy/earth/australias-bizarre-spider-crater-seen-from-orbit-space-photo-of-the-day-for-oct-22-2026"
     },
     {
-      "category": "AI",
-      "title": "eMudhra to Exit Global SSL/TLS Certificate Business",
-      "source": "Hacker News: Front Page",
-      "date": "Thu, 22 Oct 2026 13:33:39 +0000",
-      "summary": "Article URL: https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business\nComments URL: https://news.ycombinator.com/item?id=50195110\nPoints: 159\n# Comments: 86",
-      "url": "https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business"
-    },
-    {
-      "category": "AI",
-      "title": "Crystal 1.22.0 Is Released",
-      "source": "Hacker News: Front Page",
-      "date": "Thu, 22 Oct 2026 13:20:13 +0000",
-      "summary": "Article URL: https://crystal-lang.org/2026/10/12/1.22.0-released/\nComments URL: https://news.ycombinator.com/item?id=50194938\nPoints: 41\n# Comments: 11",
-      "url": "https://crystal-lang.org/2026/10/12/1.22.0-released/"
-    },
-    {
-      "category": "AI",
-      "title": "Forget \"Malaise 2.0,\" GM says it's still all-in on EVs and autonomy",
-      "source": "Ars Technica - All content",
-      "date": "Thu, 22 Oct 2026 13:04:32 +0000",
-      "summary": "General Motors' plans will require quite a lot of customers' trust.",
-      "url": "https://arstechnica.com/cars/2026/10/forget-malaise-2-0-gm-says-its-still-all-in-on-evs-and-autonomy/"
-    },
-    {
       "category": "Science",
       "title": "Birds are more afraid of women than men. Scientists have no idea why",
       "source": "All Top News -- ScienceDaily",
@@ -75,36 +139,12 @@
       "url": "https://www.sciencedaily.com/releases/2026/10/261021231250.htm"
     },
     {
-      "category": "Space",
-      "title": " Next Mass Effect game cancelled as EA shuts down legendary sci-fi RPG studio BioWare ",
-      "source": " Latest from Space.com ",
-      "date": "Thu, 22 Oct 2026 12:00:00 +0000",
-      "summary": "The legendary RPG studio behind classics such as Star Wars: Knights of the Old Republic, Mass Effect, and Dragon Age is no more.",
-      "url": "https://www.space.com/entertainment/space-games/next-mass-effect-game-cancelled-as-ea-shuts-down-developer-bioware"
-    },
-    {
       "category": "Science",
       "title": "Oxford scientists discover how viruses build themselves without a blueprint",
       "source": "All Top News -- ScienceDaily",
       "date": "Thu, 22 Oct 2026 07:42:05 EDT",
       "summary": "Scientists have captured virus-like particles assembling themselves step by step, revealing how a surprisingly simple process of trial and error produces complex structures with remarkable precision. The discovery uncovers a crucial molecular turning point that speeds up assembly and could lead to new ways to disrupt viruses and develop vaccines.",
       "url": "https://www.sciencedaily.com/releases/2026/10/261021231248.htm"
-    },
-    {
-      "category": "AI",
-      "title": "333 Tor exit nodes hijacked to intercept SSH traffic and retrieve plaintext email",
-      "source": "Ars Technica - All content",
-      "date": "Thu, 22 Oct 2026 11:30:33 +0000",
-      "summary": "For 3 days this month, 333 exit nodes were hacked in hopes of stealing sensitive data.",
-      "url": "https://arstechnica.com/information-technology/2026/10/300-tor-exit-nodes-hijacked-to-intercept-ssh-traffic-and-retrieve-plaintext-email/"
-    },
-    {
-      "category": "AI",
-      "title": "UN says we're going to blow past 1.5º warming, offers a \"now what?\" answer",
-      "source": "Ars Technica - All content",
-      "date": "Thu, 22 Oct 2026 11:15:36 +0000",
-      "summary": "Best case is now an overshoot to 1.8º C, accompanied by massive carbon removal.",
-      "url": "https://arstechnica.com/science/2026/10/un-accepts-the-obvious-were-not-going-to-avoid-a-1-5o-c-warming/"
     },
     {
       "category": "Science",
@@ -129,30 +169,6 @@
       "date": "Thu, 22 Oct 2026 11:00:16 +0000",
       "summary": "Many Biblical stories are set within the context of a meal. While most of these are about regular meals, others refer to more bizarre, extreme or supernatural cases of eating and drinking.\nThe post The 10 Strangest Foods in the Bible appeared first on Biblical Archaeology Society.",
       "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-near-eastern-world/the-10-strangest-foods-in-the-bible/"
-    },
-    {
-      "category": "Science",
-      "title": " Climate change is literally altering the shape of our planet ",
-      "source": " Latest from Live Science ",
-      "date": "Thu, 22 Oct 2026 10:00:00 +0000",
-      "summary": "The melting of the poles is increasingly shifting Earth's shape at a faster rate, with the planet becoming more and more round.",
-      "url": "https://www.livescience.com/planet-earth/climate-change-is-literally-altering-the-shape-of-our-planet"
-    },
-    {
-      "category": "Space",
-      "title": " NASA giving update about Artemis moon plans on Oct. 23: Watch it live ",
-      "source": " Latest from Space.com ",
-      "date": "Thu, 22 Oct 2026 10:00:00 +0000",
-      "summary": "NASA will provide an update about its Artemis III mission and its plans to land astronauts on the moon during a press conference on Friday (Oct. 23). Here's how to watch it live.",
-      "url": "https://www.space.com/space-exploration/artemis/nasa-giving-update-about-artemis-moon-plans-on-oct-23-watch-it-live"
-    },
-    {
-      "category": "Science",
-      "title": " Surprising new pattern of groundwater loss may signal a turning point for the Colorado River Basin ",
-      "source": " Latest from Live Science ",
-      "date": "Thu, 22 Oct 2026 09:18:11 +0000",
-      "summary": "During an intense drought from 2020 to 2022, the Upper Colorado River Basin lost far more groundwater than the Lower Basin did, despite having much higher natural recharge.",
-      "url": "https://www.livescience.com/planet-earth/rivers-oceans/surprising-new-pattern-of-groundwater-loss-may-signal-a-turning-point-for-the-colorado-river-basin"
     },
     {
       "category": "AI",
@@ -195,12 +211,12 @@
       "url": "https://www.thegospelcoalition.org/article/why-humans-pretend-computers/"
     },
     {
-      "category": "Space",
-      "title": "Faster to Science: A Letter to the Science Community",
-      "source": "NASA",
-      "date": "Thu, 22 Oct 2026 00:00:16 +0000",
-      "summary": "NASA Science wants to deliver science faster, so we’re changing how we compete and select missions. On Monday, October 26, we will host a virtual NASA Science Town Hall.",
-      "url": "https://science.nasa.gov/directorates/smd/faster-to-science-a-letter-to-the-science-community/"
+      "category": "AI",
+      "title": "Uber brings ChatGPT Work to all employees with OpenAI",
+      "source": "OpenAI News",
+      "date": "Thu, 22 Oct 2026 00:00:00 GMT",
+      "summary": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows.",
+      "url": "https://openai.com/index/uber-chatgpt-work-rollout"
     },
     {
       "category": "History",
@@ -209,22 +225,6 @@
       "date": "Wed, 21 Oct 2026 22:00:36 +0000",
       "summary": "In the dead of winter, the commandant of the Continental Army’s garrison on the Mohawk River received an unwelcome visitor. A batteau from downriver in the direction of Albany appeared at Fort Schuyler’s landing unannounced and set down a man named Grant Cottle and a shipment of one-hundred-and-eleven gallons of spirituous liquors. In short order, […]\nThe post Last Call for a Dram Seller on the Mohawk River appeared first on Journal of the American Revolution.",
       "url": "https://allthingsliberty.com/2026/10/last-call-for-a-dram-seller-on-the-mohawk-river/"
-    },
-    {
-      "category": "Science",
-      "title": " James Webb telescope discovers surprising trove of metals around the Milky Way's supermassive black hole ",
-      "source": " Latest from Live Science ",
-      "date": "Wed, 21 Oct 2026 21:33:50 +0000",
-      "summary": "New observations from the James Webb Space Telescope reveal a concentration of heavy metals near the Milky Way's central black hole. The discovery deepens a mystery about why our black hole behaves the way it does.",
-      "url": "https://www.livescience.com/space/astronomy/james-webb-telescope-discovers-surprising-trove-of-metals-around-the-milky-ways-supermassive-black-hole"
-    },
-    {
-      "category": "AI",
-      "title": "Broad access through consistent standards",
-      "source": "OpenAI News",
-      "date": "Wed, 21 Oct 2026 21:00:00 GMT",
-      "summary": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.",
-      "url": "https://openai.com/index/broad-access-through-consistent-standards"
     },
     {
       "category": "AI",
