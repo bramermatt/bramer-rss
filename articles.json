@@ -1,54 +1,118 @@
 {
-  "lastUpdated": "2026-10-21T19:50:05.642Z",
+  "lastUpdated": "2026-10-22T00:20:21.862Z",
   "articleCount": 36,
   "articles": [
     {
       "category": "Science",
-      "title": "What faces in paintings can tell us about how we perceive emotion",
+      "title": "Africans reuse, repair, recycle and resell waste: What's needed to build on the circular economy basics",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Wed, 21 Oct 2026 15:40:16 EDT",
-      "summary": "Look closely at a face in a painting and you might think you know what emotion the person is experiencing. A smile suggests happiness. A furrowed brow might signal anger. Widened eyes could mean fear or surprise. But what happens when you ask lots of people the same question? Do they see the same emotion, or something more complicated?",
-      "url": "https://phys.org/news/2026-10-emotion.html"
+      "date": "Wed, 21 Oct 2026 20:00:01 EDT",
+      "summary": "In many African cities, a broken fridge is rarely thrown away immediately. It may be repaired and resold, dismantled for spare parts or collected for its metal components.",
+      "url": "https://phys.org/news/2026-10-africans-reuse-recycle-resell-circular.html"
+    },
+    {
+      "category": "AI",
+      "title": "mitmproxy adds --emudhra option",
+      "source": "Hacker News: Front Page",
+      "date": "Wed, 21 Oct 2026 23:51:37 +0000",
+      "summary": "Article URL: https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b\nComments URL: https://news.ycombinator.com/item?id=50189232\nPoints: 19\n# Comments: 3",
+      "url": "https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b"
     },
     {
       "category": "Science",
-      "title": "Serengeti hyenas manage to keep clans stable as climate change alters animal migrations",
+      "title": "AI listens to bee buzzes to monitor activity without lethal traps",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Wed, 21 Oct 2026 15:40:08 EDT",
-      "summary": "Although the main prey of spotted hyenas (Crocuta crocuta), migratory ungulates such as blue wildebeest (Connochaetes taurinus), now spend substantially less time within hyena territories than they did 30 years ago, hyena clans in the central Serengeti have remained largely stable.",
-      "url": "https://phys.org/news/2026-10-serengeti-hyenas-clans-stable-climate.html"
-    },
-    {
-      "category": "AI",
-      "title": "Mistral Large 4",
-      "source": "Hacker News: Front Page",
-      "date": "Wed, 21 Oct 2026 19:20:55 +0000",
-      "summary": "Article URL: https://docs.mistral.ai/models/mistral-large-4-0\nComments URL: https://news.ycombinator.com/item?id=50186129\nPoints: 45\n# Comments: 0",
-      "url": "https://docs.mistral.ai/models/mistral-large-4-0"
+      "date": "Wed, 21 Oct 2026 19:40:05 EDT",
+      "summary": "Populations of many pollinators, including bumblebees, have been crashing over the last few decades, thanks to the widespread use of chemical pesticides, loss of habitat and the acceleration of climate change. But it can be hard to know just how bad the problem is, or whether conservation strategies are helping, without relying on lethal traps—which can kill tens of thousands of bees in order to get an accurate count of their populations.",
+      "url": "https://phys.org/news/2026-10-ai-bee-lethal.html"
     },
     {
       "category": "Science",
-      "title": "Subsidence claims: After drought, ground can shrink, swell or even collapse when it rains—causing damage to homes",
+      "title": "Venomous primate thought lost to science for nearly a century turns up in gardens and on roads across Indonesia",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Wed, 21 Oct 2026 15:20:16 EDT",
-      "summary": "A crack appears beside a window after weeks of scorching weather. As much as you might hope the ground beneath your house will recover with the first rain, the effects of a dry summer can continue long after temperatures fall.",
-      "url": "https://phys.org/news/2026-10-subsidence-drought-ground-collapse-homes.html"
+      "date": "Wed, 21 Oct 2026 19:40:01 EDT",
+      "summary": "A big-eyed, venomous primate that had not been documented in scientific literature since the 1930s has been hiding in plain sight on the Indonesian island of Bangka, turning up in backyards, along roadsides and on power lines and prompting local residents who find them to call the Alobi Wildlife Rescue Center for help.",
+      "url": "https://phys.org/news/2026-10-venomous-primate-thought-lost-science.html"
     },
     {
       "category": "AI",
-      "title": "Claude Duet",
+      "title": "Airbnb bans making guests do dishes and take out the trash",
       "source": "Hacker News: Front Page",
-      "date": "Wed, 21 Oct 2026 19:14:01 +0000",
-      "summary": "Article URL: https://claude.com/product/claude-duet\nComments URL: https://news.ycombinator.com/item?id=50186037\nPoints: 71\n# Comments: 73",
-      "url": "https://claude.com/product/claude-duet"
+      "date": "Wed, 21 Oct 2026 23:38:32 +0000",
+      "summary": "Article URL: https://www.theverge.com/tech/1015844/airbnb-chores-house-rules-update\nComments URL: https://news.ycombinator.com/item?id=50189150\nPoints: 18\n# Comments: 4",
+      "url": "https://www.theverge.com/tech/1015844/airbnb-chores-house-rules-update"
     },
     {
       "category": "AI",
-      "title": "Google's Rust Style Guide",
+      "title": "Κ = 0.003 for integer multiplication crossed",
       "source": "Hacker News: Front Page",
-      "date": "Wed, 21 Oct 2026 19:11:57 +0000",
-      "summary": "Article URL: https://google.github.io/styleguide/rustguide.html\nComments URL: https://news.ycombinator.com/item?id=50186010\nPoints: 10\n# Comments: 1",
-      "url": "https://google.github.io/styleguide/rustguide.html"
+      "date": "Wed, 21 Oct 2026 23:22:21 +0000",
+      "summary": "Article URL: https://github.com/CrocSwap/integer-mult-bounds/pull/4441\nComments URL: https://news.ycombinator.com/item?id=50189023\nPoints: 5\n# Comments: 1",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/4441"
+    },
+    {
+      "category": "AI",
+      "title": "Xbox wants you to pay 24 to 40 cents per hour to stream games you already bought",
+      "source": "Ars Technica - All content",
+      "date": "Wed, 21 Oct 2026 22:06:07 +0000",
+      "summary": "Time-based a la carte charges come on top of the purchase price for the games themselves.",
+      "url": "https://arstechnica.com/gaming/2026/10/xbox-wants-you-to-pay-24-to-40-cents-per-hour-to-stream-games-you-already-bought/"
+    },
+    {
+      "category": "History",
+      "title": "Last Call for a Dram Seller on the Mohawk River",
+      "source": "Journal of the American Revolution",
+      "date": "Wed, 21 Oct 2026 22:00:36 +0000",
+      "summary": "In the dead of winter, the commandant of the Continental Army’s garrison on the Mohawk River received an unwelcome visitor. A batteau from downriver in the direction of Albany appeared at Fort Schuyler’s landing unannounced and set down a man named Grant Cottle and a shipment of one-hundred-and-eleven gallons of spirituous liquors. In short order, […]\nThe post Last Call for a Dram Seller on the Mohawk River appeared first on Journal of the American Revolution.",
+      "url": "https://allthingsliberty.com/2026/10/last-call-for-a-dram-seller-on-the-mohawk-river/"
+    },
+    {
+      "category": "AI",
+      "title": "Enterprises keep buying software upgrades that IT thinks will make things worse",
+      "source": "Ars Technica - All content",
+      "date": "Wed, 21 Oct 2026 21:48:52 +0000",
+      "summary": "Survey of 2,018 IT heads at big firms points to a lack of leverage.",
+      "url": "https://arstechnica.com/information-technology/2026/10/survey-enterprises-waste-28-percent-of-software-budgets-on-unwanted-upgrades/"
+    },
+    {
+      "category": "Space",
+      "title": " On this day in space! Oct. 21, 2008: India launches its 1st mission to the moon with Chandrayaan-1 ",
+      "source": " Latest from Space.com ",
+      "date": "Wed, 21 Oct 2026 21:41:37 +0000",
+      "summary": "On Oct. 21, 2008, the Indian Space Research Organization launched its first mission to the moon. Here's why it mattered.",
+      "url": "https://www.space.com/space-exploration/on-this-day-in-space-october-21-2026"
+    },
+    {
+      "category": "AI",
+      "title": "Tesla profits drop 43% in Q3",
+      "source": "Ars Technica - All content",
+      "date": "Wed, 21 Oct 2026 21:35:07 +0000",
+      "summary": "Tesla’s once-booming energy storage business also shrunk in Q3 2026.",
+      "url": "https://arstechnica.com/cars/2026/10/tesla-profits-drop-43-in-q3/"
+    },
+    {
+      "category": "Science",
+      "title": " James Webb telescope discovers surprising trove of metals around the Milky Way's supermassive black hole ",
+      "source": " Latest from Live Science ",
+      "date": "Wed, 21 Oct 2026 21:33:50 +0000",
+      "summary": "New observations from the James Webb Space Telescope reveal a concentration of heavy metals near the Milky Way's central black hole. The discovery deepens a mystery about why our black hole behaves the way it does.",
+      "url": "https://www.livescience.com/space/astronomy/james-webb-telescope-discovers-surprising-trove-of-metals-around-the-milky-ways-supermassive-black-hole"
+    },
+    {
+      "category": "Science",
+      "title": " Extremely rare Viking Age coin from the reign of 'Olaf the Holy' may have been 'held in the king's own hand' ",
+      "source": " Latest from Live Science ",
+      "date": "Wed, 21 Oct 2026 21:16:28 +0000",
+      "summary": "A massive Viking Age hoard that was discovered in Norway contains a rare silver coin featuring \"Olaf the Holy,\" one of the country's first Christian kings.",
+      "url": "https://www.livescience.com/archaeology/vikings/extremely-rare-viking-age-coin-from-the-reign-of-olaf-the-holy-may-have-been-held-in-the-kings-own-hand"
+    },
+    {
+      "category": "AI",
+      "title": "Broad access through consistent standards",
+      "source": "OpenAI News",
+      "date": "Wed, 21 Oct 2026 21:00:00 GMT",
+      "summary": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.",
+      "url": "https://openai.com/index/broad-access-through-consistent-standards"
     },
     {
       "category": "Space",
@@ -67,14 +131,6 @@
       "url": "https://openai.com/index/att-legal"
     },
     {
-      "category": "AI",
-      "title": "SpaceX to attempt Starship catch on next flight, with eye on rapid cadence increase",
-      "source": "Ars Technica - All content",
-      "date": "Wed, 21 Oct 2026 16:46:19 +0000",
-      "summary": "\"We have had significant constructive engagement with the FAA.\"",
-      "url": "https://arstechnica.com/space/2026/10/spacex-will-attempt-to-reach-weekly-starship-launches-by-early-2027/"
-    },
-    {
       "category": "Science",
       "title": " Uranium from World War II reveals how close the Nazis were to an atomic bomb ",
       "source": " Latest from Live Science ",
@@ -83,36 +139,12 @@
       "url": "https://www.livescience.com/physics-mathematics/uranium-from-world-war-ii-reveals-how-close-the-nazis-were-to-an-atomic-bomb"
     },
     {
-      "category": "Science",
-      "title": " 'The Russians were the problem in the end': Sailor Matt Rutherford on being intercepted by the FSB while attempting to circumnavigate the Arctic Ocean solo ",
-      "source": " Latest from Live Science ",
-      "date": "Wed, 21 Oct 2026 15:34:12 +0000",
-      "summary": "Live Science spoke with Matt Rutherford, a sailor and founder of the environmental nonprofit Ocean Research Project, about his attempt to circumnavigate the Arctic Ocean and why he'll have to try again next year.",
-      "url": "https://www.livescience.com/planet-earth/arctic/the-russians-were-the-problem-in-the-end-sailor-matt-rutherford-on-being-intercepted-by-the-fsb-while-attempting-to-circumnavigate-the-arctic-ocean-solo"
-    },
-    {
-      "category": "AI",
-      "title": "The $15 billion ad-powered AI startup your doctor may already be using",
-      "source": "Ars Technica - All content",
-      "date": "Wed, 21 Oct 2026 15:14:07 +0000",
-      "summary": "OpenEvidence is booming despite questions about accuracy and ads.",
-      "url": "https://arstechnica.com/ai/2026/10/the-15-billion-ad-powered-ai-startup-your-doctor-may-already-be-using/"
-    },
-    {
       "category": "Space",
       "title": " \"A great budget lens for astrophotography, the sharpness produced at f/1.8 and f/2.8 is exactly what you want.\" Viltrox AF 16mm f/1.8 FE lens review ",
       "source": " Latest from Space.com ",
       "date": "Wed, 21 Oct 2026 14:30:00 +0000",
       "summary": "The Viltrox AF 16mm f/1.8 FE is an impressive ultra-wide-angle prime lens offering great handling, build quality and image quality for an affordable price.",
       "url": "https://www.space.com/stargazing/astrophotography/a-great-budget-lens-for-astrophotography-the-sharpness-produced-at-f-1-8-and-f-2-8-is-exactly-what-you-want-viltrox-af-16mm-f-1-8-fe-lens-review"
-    },
-    {
-      "category": "Space",
-      "title": " Space botanist conducts plant experiments in orbit | Space photo of the day for Oct. 21, 2026 ",
-      "source": " Latest from Space.com ",
-      "date": "Wed, 21 Oct 2026 14:00:00 +0000",
-      "summary": "NASA astronaut Luke Delaney conducts botany experiments on the ISS.",
-      "url": "https://www.space.com/space-exploration/human-spaceflight/space-botanist-conducts-plant-experiments-in-orbit-space-photo-of-the-day-for-oct-21-2026"
     },
     {
       "category": "Science",
@@ -139,22 +171,6 @@
       "url": "https://openai.com/index/openai-models-google-cloud"
     },
     {
-      "category": "AI",
-      "title": "Review: Carrie is a triumphant remix with one major flaw",
-      "source": "Ars Technica - All content",
-      "date": "Wed, 21 Oct 2026 11:19:12 +0000",
-      "summary": "Mike Flanagan's re-imagining of Stephen King's classic is well worth watching.",
-      "url": "https://arstechnica.com/culture/2026/10/review-carrie-is-a-triumphant-remix-with-one-major-flaw/"
-    },
-    {
-      "category": "Science",
-      "title": " Lightest known pair of neutron stars proves Einstein right yet again ",
-      "source": " Latest from Live Science ",
-      "date": "Wed, 21 Oct 2026 11:00:00 +0000",
-      "summary": "Einstein's theory of relativity just got put to the test by the lightest binary neutron star system ever discovered.",
-      "url": "https://www.livescience.com/physics-mathematics/extreme-record-breaking-star-system-proves-einstein-right-yet-again"
-    },
-    {
       "category": "Biblical Studies",
       "title": "Ancient Cyprus in Florida",
       "source": "Biblical Archaeology Society",
@@ -169,14 +185,6 @@
       "date": "Wed, 21 Oct 2026 10:00:48 +0000",
       "summary": "The Way of Horus was a critical trade route connecting ancient Egypt to the greater Near Eastern world. It was so important, in fact, that […]\nThe post New Kingdom Fortress Discovered in Sinai appeared first on Biblical Archaeology Society.",
       "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-egypt/new-kingdom-fortress-sinai/"
-    },
-    {
-      "category": "AI",
-      "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
-      "source": "OpenAI News",
-      "date": "Wed, 21 Oct 2026 07:00:00 GMT",
-      "summary": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source.",
-      "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities"
     },
     {
       "category": "Science",
@@ -241,14 +249,6 @@
       "date": "Mon, 19 Oct 2026 13:06:01 +0000",
       "summary": "BOOK REVIEW: A Dear-Bought Victory: The Battle of Bunker Hill and the Siege of Boston, 1775-1776 by Daniel T. Davis and Phillip S. Greenwalt (Savas Beatie, 2026) $16.95 Paperback Studies of Revolutionary War battles tend to focus disproportionately on only a few of the clashes that occurred during the eight-year-long war. The Battle of Bunker […]\nThe post A Dear-Bought Victory: The Battle of Bunker Hill and the Siege of Boston, 1775-1776 appeared first on Journal of the American Revolution.",
       "url": "https://allthingsliberty.com/2026/10/a-dear-bought-victory-the-battle-of-bunker-hill-and-the-siege-of-boston-1775-1776/"
-    },
-    {
-      "category": "History",
-      "title": "James Bass & William Taburn, Nansemond Indian Nation Patriot Warriors: A Call for Research",
-      "source": "Journal of the American Revolution",
-      "date": "Wed, 14 Oct 2026 22:00:22 +0000",
-      "summary": "It should not be surprising to find Native American Patriots and men who intermarried into Native American families among the thousands of men who served during the American Revolution. Two of these men were James Bass and William Taburn, and today we can trace their relationship to the Nansemond Indian Nation. Linking these men with […]\nThe post James Bass & William Taburn, Nansemond Indian Nation Patriot Warriors: A Call for Research appeared first on Journal of the American Revolution.",
-      "url": "https://allthingsliberty.com/2026/10/james-bass-william-taburn-nansemond-indian-nation-patriot-warriors-a-call-for-research/"
     },
     {
       "category": "Theology",
