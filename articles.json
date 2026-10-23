@@ -1,30 +1,134 @@
 {
-  "lastUpdated": "2026-10-23T14:33:42.145Z",
+  "lastUpdated": "2026-10-23T19:40:41.053Z",
   "articleCount": 39,
   "articles": [
     {
       "category": "Science",
-      "title": "What makes glass good at conducting heat? Sound holds the key",
+      "title": "New marker panel and free web tool help track stem cells as they develop",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Fri, 23 Oct 2026 10:20:25 EDT",
-      "summary": "Glass can keep a drink safely contained, protect a smartphone screen, or serve as a foundation for electronic components. But when it comes to controlling heat, this familiar material still holds some scientific mysteries. Now, researchers have identified a key factor governing how efficiently heat travels through silicate glass, offering a new guideline for designing glass materials for next-generation electronic devices.",
-      "url": "https://phys.org/news/2026-10-glass-good-key.html"
+      "date": "Fri, 23 Oct 2026 15:40:08 EDT",
+      "summary": "How can the identity of pluripotent stem cells be determined more reliably during their differentiation? Researchers from the IUF—Leibniz Research Institute for Environmental Medicine and Heinrich Heine University Duesseldorf have systematically validated marker genes for this purpose and developed a web-based application for the automated classification of early cell fates. The study has been published in Stem Cell Reports.",
+      "url": "https://phys.org/news/2026-10-marker-panel-free-web-tool.html"
     },
     {
       "category": "Science",
-      "title": "How to speak whale: AI uses eight to ten click sequences to predict sperm whales' feeding dives",
+      "title": "Can we stop antibiotic resistance from ruining promising drugs before they reach patients?",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Fri, 23 Oct 2026 10:20:19 EDT",
-      "summary": "Arriving on the Caribbean island of Dominica for the first time \"feels a little bit like stepping into Jurassic Park,\" said Giovanni Petri, a professor in the Network Science Institute at Northeastern University London.",
-      "url": "https://phys.org/news/2026-10-whale-ai-ten-click-sequences.html"
+      "date": "Fri, 23 Oct 2026 15:40:01 EDT",
+      "summary": "What if we could predict early in drug development which antibiotics bacteria are most likely to become resistant to? In a review published in Nature Reviews Microbiology, researchers from the HUN-REN Biological Research Centre, Szeged (HUN-REN BRC Szeged) and the Hungarian Centre of Excellence for Molecular Medicine (HCEMM) in Szeged propose a five-step decision-making framework that could help identify resistance risks early, refine promising drug candidates and prevent costly failures.",
+      "url": "https://phys.org/news/2026-10-antibiotic-resistance-drugs-patients.html"
     },
     {
       "category": "Science",
-      "title": "From 'gentle' and 'graceful' to the 'cane toad of the sky': How Australia turned on the common myna",
+      "title": "Potatoes could be the secret to better plant-based meat, say food scientists",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Fri, 23 Oct 2026 10:10:02 EDT",
-      "summary": "The common myna is sometimes referred to as \"Australia's most hated bird.\" Originally from South and Central Asia, the introduced species from the starling family is abundant, raucous and bold.",
-      "url": "https://phys.org/news/2026-10-gentle-graceful-cane-toad-sky.html"
+      "date": "Fri, 23 Oct 2026 15:20:11 EDT",
+      "summary": "Potatoes could hold the key to making better gluten-free plant-based meat, according to a new study.",
+      "url": "https://phys.org/news/2026-10-potatoes-secret-based-meat-food.html"
+    },
+    {
+      "category": "Space",
+      "title": "RS-25 Engine Tests at NASA Stennis",
+      "source": "NASA",
+      "date": "Fri, 23 Oct 2026 18:57:04 +0000",
+      "summary": "Teams at NASA’s Stennis Space Center near Bay St. Louis, Mississippi tested RS-25 engine No. 10001 on Oct. 21, 2026. The hot fire test lasted for almost eight-and-a-half minutes (500 seconds), the same amount of time RS-25 engines fire during launch of NASA’s SLS (Space Launch System) rocket, with a 111% power level. For each […]",
+      "url": "https://www.nasa.gov/image-article/rs-25-engine-tests-at-nasa-stennis/"
+    },
+    {
+      "category": "AI",
+      "title": "Kimi K3.1 scores 55 on Artificial Analysis, placed on the Pareto line",
+      "source": "Hacker News: Front Page",
+      "date": "Fri, 23 Oct 2026 18:24:54 +0000",
+      "summary": "Article URL: https://artificialanalysis.ai/models/kimi-k3-1-pro\nComments URL: https://news.ycombinator.com/item?id=50213337\nPoints: 27\n# Comments: 0",
+      "url": "https://artificialanalysis.ai/models/kimi-k3-1-pro"
+    },
+    {
+      "category": "Space",
+      "title": " Halley's Comet dazzles from afar in spectacular astrophoto of Orionid meteor shower ",
+      "source": " Latest from Space.com ",
+      "date": "Fri, 23 Oct 2026 18:00:00 +0000",
+      "summary": "This incredible composite image of Orionid meteors was captured as Earth passed through the debris trail shed by Halley's Comet.",
+      "url": "https://www.space.com/stargazing/meteor-showers/halleys-comet-dazzles-from-afar-in-spectacular-astrophoto-of-orionid-meteor-shower"
+    },
+    {
+      "category": "Space",
+      "title": "NASA, Virginia Launch Power Partnership for Energy Security",
+      "source": "NASA",
+      "date": "Fri, 23 Oct 2026 17:50:21 +0000",
+      "summary": "NASA is helping to foster long-term energy security in Virginia.  NASA’s Langley Research Center in Hampton, Virginia, is partnering with the Virginia Department of Energy to support informed decisions for effective energy generation, delivery and use by providing solar, meteorological, and future weather risk datasets for energy system modeling and planning purposes. Under a new […]",
+      "url": "https://www.nasa.gov/centers-and-facilities/langley/nasa-power-energy-partnership/"
+    },
+    {
+      "category": "AI",
+      "title": "I turned my TV into a Game Boy Color with a Pokemon town as my home screen",
+      "source": "Hacker News: Front Page",
+      "date": "Fri, 23 Oct 2026 17:40:22 +0000",
+      "summary": "Article URL: https://twitter.com/robbietilton/status/2111936458923851923\nComments URL: https://news.ycombinator.com/item?id=50212668\nPoints: 27\n# Comments: 5",
+      "url": "https://twitter.com/robbietilton/status/2111936458923851923"
+    },
+    {
+      "category": "AI",
+      "title": "Crows can evaluate visual info twice as fast as mammals",
+      "source": "Ars Technica - All content",
+      "date": "Fri, 23 Oct 2026 17:32:58 +0000",
+      "summary": "Birds' compact nervous system seems to help them handle tasks very quickly.",
+      "url": "https://arstechnica.com/science/2026/10/crows-can-evaluate-visual-info-twice-as-fast-as-mammals/"
+    },
+    {
+      "category": "AI",
+      "title": "Air Purifiers as White Noise Machines",
+      "source": "Hacker News: Front Page",
+      "date": "Fri, 23 Oct 2026 17:28:36 +0000",
+      "summary": "Article URL: https://www.jefftk.com/p/air-purifiers-as-white-noise-machines\nComments URL: https://news.ycombinator.com/item?id=50212507\nPoints: 13\n# Comments: 15",
+      "url": "https://www.jefftk.com/p/air-purifiers-as-white-noise-machines"
+    },
+    {
+      "category": "AI",
+      "title": "Intel gets waiver after worries fuzzy US ban on foreign-made robots may hit fabs",
+      "source": "Ars Technica - All content",
+      "date": "Fri, 23 Oct 2026 17:18:31 +0000",
+      "summary": "Company says foreign-made robotic vehicles are crucial to US chip production.",
+      "url": "https://arstechnica.com/ai/2026/10/intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-robots-may-hit-fabs/"
+    },
+    {
+      "category": "AI",
+      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+      "source": "OpenAI News",
+      "date": "Fri, 23 Oct 2026 17:00:00 GMT",
+      "summary": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
+      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two"
+    },
+    {
+      "category": "AI",
+      "title": "RFK Jr.’s vaccine injury clinic could damage NIH hospital, board warns",
+      "source": "Ars Technica - All content",
+      "date": "Fri, 23 Oct 2026 16:58:39 +0000",
+      "summary": "\"Trust is slow to build and quick to lose,\" board chair Jack Leslie said.",
+      "url": "https://arstechnica.com/health/2026/10/rfk-jr-s-vaccine-injury-clinic-could-damage-nih-hospital-board-warns/"
+    },
+    {
+      "category": "Science",
+      "title": " 'Most people can't handle driving in 2 dimensions let alone 3': Readers respond to our poll about flying cars ",
+      "source": " Latest from Live Science ",
+      "date": "Fri, 23 Oct 2026 16:55:34 +0000",
+      "summary": "Tesla recently demonstrated its Rocket Roadster \"flying car.\" We  asked our readers whether they think flying cars will be widely available in the near future.",
+      "url": "https://www.livescience.com/technology/most-people-cant-handle-driving-in-2-dimensions-let-alone-3-readers-respond-to-our-poll-about-flying-cars"
+    },
+    {
+      "category": "Space",
+      "title": " Never finishing the fight: Where did Xbox go wrong with Halo? ",
+      "source": " Latest from Space.com ",
+      "date": "Fri, 23 Oct 2026 16:00:00 +0000",
+      "summary": "After a failed soft reboot and a remake of the original, the Halo universe is facing yet another major creative shift. But has Xbox learned any lessons this time?",
+      "url": "https://www.space.com/entertainment/space-games/never-finishing-the-fight-where-did-xbox-go-wrong-with-halo"
+    },
+    {
+      "category": "Theology",
+      "title": "Gospel Hope for Gen-Z Ministry",
+      "source": "The Gospel Coalition",
+      "date": "Fri, 23 Oct 2026 15:18:00 +0000",
+      "summary": "Many of us have seen the statistics that Gen Z is the least explicitly Christian or religious generation on record.",
+      "url": "https://www.thegospelcoalition.org/podcasts/tgc-podcast/gospel-hope-gen-z-ministry/"
     },
     {
       "category": "Space",
@@ -35,68 +139,12 @@
       "url": "https://www.space.com/space-exploration/private-griffin-moon-lander-gets-put-to-the-test-space-photo-of-the-day-for-oct-23-2026"
     },
     {
-      "category": "AI",
-      "title": "The reactor meant to showcase nuclear’s comeback keeps hitting problems",
-      "source": "Ars Technica - All content",
-      "date": "Fri, 23 Oct 2026 13:43:21 +0000",
-      "summary": "A contractor fell into a reactor cavity and a bundle of fuel rods almost fell over.",
-      "url": "https://arstechnica.com/tech-policy/2026/10/safety-concerns-cloud-americas-flagship-nuclear-restart/"
-    },
-    {
-      "category": "AI",
-      "title": "Investor-owned utilities charge 23% more for electricity than public providers",
-      "source": "Hacker News: Front Page",
-      "date": "Fri, 23 Oct 2026 13:41:10 +0000",
-      "summary": "Article URL: https://www.kadoa.com/energy-prices/insights/investor-owned-utilities\nComments URL: https://news.ycombinator.com/item?id=50208837\nPoints: 184\n# Comments: 124",
-      "url": "https://www.kadoa.com/energy-prices/insights/investor-owned-utilities"
-    },
-    {
-      "category": "AI",
-      "title": "Phone Is About to Stop Being Yours: 70 Days Until Lockdown",
-      "source": "Hacker News: Front Page",
-      "date": "Fri, 23 Oct 2026 13:19:42 +0000",
-      "summary": "Article URL: https://keepandroidopen.org/?\nComments URL: https://news.ycombinator.com/item?id=50208558\nPoints: 264\n# Comments: 140",
-      "url": "https://keepandroidopen.org/?"
-    },
-    {
-      "category": "AI",
-      "title": "Shitter – A Nitter Fork",
-      "source": "Hacker News: Front Page",
-      "date": "Fri, 23 Oct 2026 13:02:23 +0000",
-      "summary": "Article URL: https://codeberg.org/shitter/shitter\nComments URL: https://news.ycombinator.com/item?id=50208343\nPoints: 73\n# Comments: 29",
-      "url": "https://codeberg.org/shitter/shitter"
-    },
-    {
-      "category": "Space",
-      "title": " 'Stupendously large black holes' aren't a major component of dark matter, study finds ",
-      "source": " Latest from Space.com ",
-      "date": "Fri, 23 Oct 2026 12:00:00 +0000",
-      "summary": "Black holes more massive than entire galaxies are not a major component of dark matter, the mysterious stuff that's thought to make up most of the matter in the cosmos, a new study finds.",
-      "url": "https://www.space.com/astronomy/dark-universe/stupendously-large-black-holes-arent-a-major-component-of-dark-matter-study-finds"
-    },
-    {
-      "category": "AI",
-      "title": "Ukraine learns to fight without Starlink as Musk plays politics with satellites",
-      "source": "Ars Technica - All content",
-      "date": "Fri, 23 Oct 2026 11:30:22 +0000",
-      "summary": "Ukraine has changed drone and war-fighting tech to reduce reliance on Starlink.",
-      "url": "https://arstechnica.com/gadgets/2026/10/ukraine-learns-to-fight-without-starlink-as-musk-plays-politics-with-satellites/"
-    },
-    {
       "category": "Science",
       "title": "One of Earth’s most powerful supervolcanoes is refilling with fresh magma",
       "source": "All Top News -- ScienceDaily",
       "date": "Fri, 23 Oct 2026 07:23:19 EDT",
       "summary": "Deep beneath Japan’s Kikai caldera, a massive magma reservoir is refilling 7,300 years after one of the most powerful volcanic eruptions in Earth's recent geological history. Scientists used underwater seismic surveys to reveal a vast store of magma that appears to have accumulated since the ancient catastrophe. The discovery could help explain how supervolcanoes like Yellowstone and Toba rebuild their magma supplies.",
       "url": "https://www.sciencedaily.com/releases/2026/10/261023003214.htm"
-    },
-    {
-      "category": "AI",
-      "title": "Review: Crystal Lake suffers a bit from its obsession with Pam Voorhees",
-      "source": "Ars Technica - All content",
-      "date": "Fri, 23 Oct 2026 11:15:03 +0000",
-      "summary": "Friday the 13th prequel series based on Jason’s mom drags at first, then hits a vein.",
-      "url": "https://arstechnica.com/culture/2026/10/review-crystal-lake-suffers-a-bit-from-its-obsession-with-pam-voorhees/"
     },
     {
       "category": "Science",
@@ -107,20 +155,20 @@
       "url": "https://www.sciencedaily.com/releases/2026/10/261022081314.htm"
     },
     {
-      "category": "Space",
-      "title": " Rocket Lab launches 3 'Hawk' satellites to orbit to gather signals intelligence ",
-      "source": " Latest from Space.com ",
-      "date": "Fri, 23 Oct 2026 10:57:51 +0000",
-      "summary": "Rocket Lab launched a trio of private signals-intelligence satellites to orbit today (Oct. 21), the 19th mission of the year for the California-based company.",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-launches-3-hawk-satellites-to-orbit-to-gather-signals-intelligence"
-    },
-    {
       "category": "Biblical Studies",
       "title": "Ramesses the Great—and the Missing Exodus",
       "source": "Biblical Archaeology Society",
       "date": "Fri, 23 Oct 2026 10:45:29 +0000",
       "summary": "Ramses and the Pharaohs’ Gold, now at NEON at Battersea Power Station in London, opened earlier this year. The international exhibition features some 180 ancient […]\nThe post Ramesses the Great—and the Missing Exodus appeared first on Biblical Archaeology Society.",
       "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-egypt/ramesses-great-and-missing-exodus/"
+    },
+    {
+      "category": "AI",
+      "title": "Securing our frontier model training environment",
+      "source": "OpenAI News",
+      "date": "Fri, 23 Oct 2026 10:00:00 GMT",
+      "summary": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.",
+      "url": "https://openai.com/index/securing-our-frontier-model-training-environment"
     },
     {
       "category": "Science",
@@ -147,14 +195,6 @@
       "url": "https://www.thegospelcoalition.org/article/hebrew-roots-movement-explained/"
     },
     {
-      "category": "Space",
-      "title": "El Niño Then and Now",
-      "source": "NASA",
-      "date": "Fri, 23 Oct 2026 04:00:00 +0000",
-      "summary": "A 35-year satellite altimetry record lets scientists hold this year’s El Niño up against its strongest predecessors.",
-      "url": "https://science.nasa.gov/earth/earth-observatory/el-nino-then-and-now/"
-    },
-    {
       "category": "Theology",
       "title": "7 Keys for Thriving in Lifelong Ministry",
       "source": "The Gospel Coalition",
@@ -179,36 +219,12 @@
       "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership"
     },
     {
-      "category": "Space",
-      "title": "NASA Invites Media to 2026 von Braun Space Exploration Symposium",
-      "source": "NASA",
-      "date": "Thu, 22 Oct 2026 21:39:58 +0000",
-      "summary": "Members of the media are invited to join NASA at the 2026 von Braun Space Exploration Symposium from Monday, Oct. 26, to Wednesday, Oct. 28, at the University of Alabama in Huntsville. This year’s symposium is focused on humanity’s return to the Moon, sustainable lunar infrastructure, advanced space propulsion, and the evolving space workforce. Panels […]",
-      "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-2026-von-braun-space-exploration-symposium/"
-    },
-    {
       "category": "Science",
       "title": " 'We're never going to come home': Artemis II commander recalls the most terrifying moment of his 10-day trip around the moon ",
       "source": " Latest from Live Science ",
       "date": "Thu, 22 Oct 2026 20:00:00 +0000",
       "summary": "Artemis II Commander Reid Wiseman felt genuine fear when he saw the Orion spacecraft had gone farther from Earth than anticipated, the astronaut told an audience at the Starmus VIII festival this week.",
       "url": "https://www.livescience.com/space/space-exploration/were-never-going-to-come-home-artemis-ii-commander-recalls-the-most-terrifying-moment-of-his-10-day-trip-around-the-moon"
-    },
-    {
-      "category": "Science",
-      "title": " Crows may make lightning-fast decisions, sometimes twice as fast as humans, study hints ",
-      "source": " Latest from Live Science ",
-      "date": "Thu, 22 Oct 2026 19:34:26 +0000",
-      "summary": "Carrion crows made decisions about their visual environments significantly faster than humans and primates tend to, according to a comparison in a new study.",
-      "url": "https://www.livescience.com/animals/birds/crows-may-make-lightning-fast-decisions-sometimes-twice-as-fast-as-humans-study-hints"
-    },
-    {
-      "category": "AI",
-      "title": "Build more responsive apps with the Decisions API",
-      "source": "OpenAI News",
-      "date": "Thu, 22 Oct 2026 19:00:00 GMT",
-      "summary": "Fast, focused, low-cost decisions for any application.",
-      "url": "https://openai.com/index/decisions-api"
     },
     {
       "category": "Biblical Studies",
@@ -225,22 +241,6 @@
       "date": "Thu, 22 Oct 2026 11:00:16 +0000",
       "summary": "Many Biblical stories are set within the context of a meal. While most of these are about regular meals, others refer to more bizarre, extreme or supernatural cases of eating and drinking.\nThe post The 10 Strangest Foods in the Bible appeared first on Biblical Archaeology Society.",
       "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-near-eastern-world/the-10-strangest-foods-in-the-bible/"
-    },
-    {
-      "category": "AI",
-      "title": "What FDE means at OpenAI",
-      "source": "OpenAI News",
-      "date": "Thu, 22 Oct 2026 06:00:00 GMT",
-      "summary": "What forward deployed engineering means at OpenAI",
-      "url": "https://openai.com/index/forward-deployed-engineering-means"
-    },
-    {
-      "category": "Theology",
-      "title": "‘Fjord’ Is the Best Movie of 2026 So Far",
-      "source": "The Gospel Coalition",
-      "date": "Thu, 22 Oct 2026 04:02:00 +0000",
-      "summary": "‘Fjord’ challenges ‘tolerant’ progressives to reflect on their intolerance of conservative evangelical Christians.",
-      "url": "https://www.thegospelcoalition.org/article/fjord-christian-movie-review/"
     },
     {
       "category": "History",
