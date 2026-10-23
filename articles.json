@@ -1,86 +1,182 @@
 {
-  "lastUpdated": "2026-10-23T00:17:59.964Z",
-  "articleCount": 36,
+  "lastUpdated": "2026-10-23T14:33:42.145Z",
+  "articleCount": 39,
   "articles": [
     {
       "category": "Science",
-      "title": "Acupuncture and mutual exchange in Chinese and Soviet science",
+      "title": "What makes glass good at conducting heat? Sound holds the key",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Thu, 22 Oct 2026 20:00:05 EDT",
-      "summary": "Previous accounts of the scientific relationship between communist China and the Soviet Union have depicted it as one of subordination, with the Russians exporting knowledge to the Chinese or scavenging from their bodies of knowledge. A new article in Isis, however, posits that the relationship between Chinese and Soviet scientists was instead one of mutual exchange. In \"Brief Encounter: Acupuncture, Pavlov, and Scientific Exchange Between China and the Soviet Union, 1949-1961,\" authors Liang Wan, Simon Huxtable and Sarah Marks explore the role of acupuncture in uniting the Pavlovian science of the Soviets and traditional Chinese medicine, forming an arena for Sino-Soviet collaboration.",
-      "url": "https://phys.org/news/2026-10-acupuncture-mutual-exchange-chinese-soviet.html"
-    },
-    {
-      "category": "AI",
-      "title": "Mapping the Northern Sky",
-      "source": "Hacker News: Front Page",
-      "date": "Thu, 22 Oct 2026 23:56:39 +0000",
-      "summary": "Article URL: https://www.maps.com/star-map-charts-stars-and-constellations-of-northern-hemisphere/\nComments URL: https://news.ycombinator.com/item?id=50202766\nPoints: 4\n# Comments: 0",
-      "url": "https://www.maps.com/star-map-charts-stars-and-constellations-of-northern-hemisphere/"
+      "date": "Fri, 23 Oct 2026 10:20:25 EDT",
+      "summary": "Glass can keep a drink safely contained, protect a smartphone screen, or serve as a foundation for electronic components. But when it comes to controlling heat, this familiar material still holds some scientific mysteries. Now, researchers have identified a key factor governing how efficiently heat travels through silicate glass, offering a new guideline for designing glass materials for next-generation electronic devices.",
+      "url": "https://phys.org/news/2026-10-glass-good-key.html"
     },
     {
       "category": "Science",
-      "title": "Light-activated catalyst makes sustainable production of hydrogen peroxide more efficient",
+      "title": "How to speak whale: AI uses eight to ten click sequences to predict sperm whales' feeding dives",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Thu, 22 Oct 2026 19:40:06 EDT",
-      "summary": "Hydrogen peroxide (H₂O₂) is a versatile chemical feedstock whose industrial production relies predominantly on an energy-intensive process with a substantial environmental footprint. One alternative is to produce it using a catalyst activated by light. In an international research project involving the Max Planck Institute of Colloids and Interfaces, researchers have now developed a synthesis strategy that allows them to precisely control the spatial arrangement of ions in a carbon nitride. The resulting photocatalyst is three times as efficient as conventional green production methods. The findings have been published in Advanced Materials.",
-      "url": "https://phys.org/news/2026-10-catalyst-sustainable-production-hydrogen-peroxide.html"
+      "date": "Fri, 23 Oct 2026 10:20:19 EDT",
+      "summary": "Arriving on the Caribbean island of Dominica for the first time \"feels a little bit like stepping into Jurassic Park,\" said Giovanni Petri, a professor in the Network Science Institute at Northeastern University London.",
+      "url": "https://phys.org/news/2026-10-whale-ai-ten-click-sequences.html"
     },
     {
       "category": "Science",
-      "title": "Material substitution can increase the potential environmental impact of packaging systems",
+      "title": "From 'gentle' and 'graceful' to the 'cane toad of the sky': How Australia turned on the common myna",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Thu, 22 Oct 2026 19:40:01 EDT",
-      "summary": "New research suggests that replacing polyethylene (PE) packaging with paper, glass, aluminum or steel often does not reduce environmental impacts across a product's life cycle.",
-      "url": "https://phys.org/news/2026-10-material-substitution-potential-environmental-impact.html"
-    },
-    {
-      "category": "AI",
-      "title": "LLMs are making formal software verification feasible at a much larger scale",
-      "source": "Hacker News: Front Page",
-      "date": "Thu, 22 Oct 2026 22:54:43 +0000",
-      "summary": "Article URL: https://www.anthropic.com/research/formal-verification\nComments URL: https://news.ycombinator.com/item?id=50202217\nPoints: 22\n# Comments: 2",
-      "url": "https://www.anthropic.com/research/formal-verification"
-    },
-    {
-      "category": "AI",
-      "title": "Switch 2 security takes a hit as hackers unlock homebrew access",
-      "source": "Ars Technica - All content",
-      "date": "Thu, 22 Oct 2026 22:25:33 +0000",
-      "summary": "\"Userland\" exploit relies on integer overflow found in \"SmileBasic\" interpreter.",
-      "url": "https://arstechnica.com/gaming/2026/10/switch-2-jailbreak-gives-hackers-new-ways-to-run-homebrew-and-mod-games/"
-    },
-    {
-      "category": "AI",
-      "title": "Show HN: CATT 0.2.1: Test agents/services against a Muse/Instinct-alike, in CI",
-      "source": "Hacker News: Front Page",
-      "date": "Thu, 22 Oct 2026 22:18:40 +0000",
-      "summary": "Hey HN, we recently open sourced our Consumer Agent Testing Tool to help teams iterate against proprietary assistants like Muse and Instinct. We built this to reduce our own frustrations with building an MCP/API for these agents to consume.\nThe problem: testing against these tools is hard! Agent memory + account statefulness make reproducibility, in the ways required for repeatable/reliable outcomes, between agents and the APIs/MCPs they interact with very challenging.\nThe solution: CATT lets devs test their services against a surrogate Muse or Instinct agent (not affiliated with either of these companies). Testers define starting conditions, approvals, and success conditions for their service's state. CATT then records the full interaction (incl. tool calls, responses) so it can diff what happened from what the agent reports. Runs can be tested in local builds or via CI, with or without LLM backing.\nCATT is designed to emulate the important parts of personal assistant interactions. Its got:\n- Tool calls and command-line tool access\n- Simulated approvals for service actions\n- Outcomes tracking and comparison\n- Optional MCP profile based on an unofficial Muse template\nThere are limitations to how much we know about different assistant specific behaviors so the tool labels its assumptions as `documented`, `unofficial`, `assumed` or `unknown` for developer review. We'll do our best to keep the tool updated as new insights about the internal workings of these assistants come to light. It is an area of active research and interest, a good example is this recent report on how Instinct uses Exa for web search [0].\nAre you building a connector or MCP? If yes, we'd like to hear from you! Have you had assistants behave incoherently, use stale information, or procalim success without evidence? What else should we add tests for?\nThe best way to get started is...to point your coding assistant at the repo and ask it to integrate the tool with your CI or local testing pipeline!\nHope it's helpful!\n[0]: https://www.sunbeam.ai/thoughts/instinct-is-using-exa-for-we...\nComments URL: https://news.ycombinator.com/item?id=50201860\nPoints: 4\n# Comments: 0",
-      "url": "https://github.com/Coverage-Cat/consumer-agent-testing-tool"
-    },
-    {
-      "category": "AI",
-      "title": "Moderna and Merck say their mRNA cancer vaccine cut death, recurrence by 42%",
-      "source": "Ars Technica - All content",
-      "date": "Thu, 22 Oct 2026 22:12:19 +0000",
-      "summary": "Markers released top-line results today after previously reporting the trial succeeded.",
-      "url": "https://arstechnica.com/health/2026/10/personalized-mrna-cancer-vaccine-cut-melanoma-death-recurrence-by-42/"
+      "date": "Fri, 23 Oct 2026 10:10:02 EDT",
+      "summary": "The common myna is sometimes referred to as \"Australia's most hated bird.\" Originally from South and Central Asia, the introduced species from the starling family is abundant, raucous and bold.",
+      "url": "https://phys.org/news/2026-10-gentle-graceful-cane-toad-sky.html"
     },
     {
       "category": "Space",
-      "title": " Europe's Space Rider vehicle comes crashing down during drop test ",
+      "title": " Private Griffin moon lander gets put to the test | Space photo of the day for Oct. 23, 2026 ",
       "source": " Latest from Space.com ",
-      "date": "Thu, 22 Oct 2026 22:00:00 +0000",
-      "summary": "The full-scale prototype of Europe's Space Rider orbiter failed to deploy its parachute during a drop test earlier this month, but ESA officials hope the setback won't delay progress toward its first reusable spacecraft.",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/europes-space-rider-vehicle-comes-crashing-down-during-drop-test"
+      "date": "Fri, 23 Oct 2026 14:00:00 +0000",
+      "summary": "The robotic Griffin lunar lander has passed a host of critical tests ahead of its first-ever moon mission, which is scheduled to launch later this year.",
+      "url": "https://www.space.com/space-exploration/private-griffin-moon-lander-gets-put-to-the-test-space-photo-of-the-day-for-oct-23-2026"
     },
     {
       "category": "AI",
-      "title": "Latest estimate for Starship launches required to support a Moon landing? 22.",
+      "title": "The reactor meant to showcase nuclear’s comeback keeps hitting problems",
       "source": "Ars Technica - All content",
-      "date": "Thu, 22 Oct 2026 21:52:31 +0000",
-      "summary": "\"We need to keep our eyes on numerous required fuelings for the lander.\"",
-      "url": "https://arstechnica.com/space/2026/10/latest-estimate-for-starship-launches-required-to-support-a-moon-landing-22/"
+      "date": "Fri, 23 Oct 2026 13:43:21 +0000",
+      "summary": "A contractor fell into a reactor cavity and a bundle of fuel rods almost fell over.",
+      "url": "https://arstechnica.com/tech-policy/2026/10/safety-concerns-cloud-americas-flagship-nuclear-restart/"
+    },
+    {
+      "category": "AI",
+      "title": "Investor-owned utilities charge 23% more for electricity than public providers",
+      "source": "Hacker News: Front Page",
+      "date": "Fri, 23 Oct 2026 13:41:10 +0000",
+      "summary": "Article URL: https://www.kadoa.com/energy-prices/insights/investor-owned-utilities\nComments URL: https://news.ycombinator.com/item?id=50208837\nPoints: 184\n# Comments: 124",
+      "url": "https://www.kadoa.com/energy-prices/insights/investor-owned-utilities"
+    },
+    {
+      "category": "AI",
+      "title": "Phone Is About to Stop Being Yours: 70 Days Until Lockdown",
+      "source": "Hacker News: Front Page",
+      "date": "Fri, 23 Oct 2026 13:19:42 +0000",
+      "summary": "Article URL: https://keepandroidopen.org/?\nComments URL: https://news.ycombinator.com/item?id=50208558\nPoints: 264\n# Comments: 140",
+      "url": "https://keepandroidopen.org/?"
+    },
+    {
+      "category": "AI",
+      "title": "Shitter – A Nitter Fork",
+      "source": "Hacker News: Front Page",
+      "date": "Fri, 23 Oct 2026 13:02:23 +0000",
+      "summary": "Article URL: https://codeberg.org/shitter/shitter\nComments URL: https://news.ycombinator.com/item?id=50208343\nPoints: 73\n# Comments: 29",
+      "url": "https://codeberg.org/shitter/shitter"
+    },
+    {
+      "category": "Space",
+      "title": " 'Stupendously large black holes' aren't a major component of dark matter, study finds ",
+      "source": " Latest from Space.com ",
+      "date": "Fri, 23 Oct 2026 12:00:00 +0000",
+      "summary": "Black holes more massive than entire galaxies are not a major component of dark matter, the mysterious stuff that's thought to make up most of the matter in the cosmos, a new study finds.",
+      "url": "https://www.space.com/astronomy/dark-universe/stupendously-large-black-holes-arent-a-major-component-of-dark-matter-study-finds"
+    },
+    {
+      "category": "AI",
+      "title": "Ukraine learns to fight without Starlink as Musk plays politics with satellites",
+      "source": "Ars Technica - All content",
+      "date": "Fri, 23 Oct 2026 11:30:22 +0000",
+      "summary": "Ukraine has changed drone and war-fighting tech to reduce reliance on Starlink.",
+      "url": "https://arstechnica.com/gadgets/2026/10/ukraine-learns-to-fight-without-starlink-as-musk-plays-politics-with-satellites/"
+    },
+    {
+      "category": "Science",
+      "title": "One of Earth’s most powerful supervolcanoes is refilling with fresh magma",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Fri, 23 Oct 2026 07:23:19 EDT",
+      "summary": "Deep beneath Japan’s Kikai caldera, a massive magma reservoir is refilling 7,300 years after one of the most powerful volcanic eruptions in Earth's recent geological history. Scientists used underwater seismic surveys to reveal a vast store of magma that appears to have accumulated since the ancient catastrophe. The discovery could help explain how supervolcanoes like Yellowstone and Toba rebuild their magma supplies.",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261023003214.htm"
+    },
+    {
+      "category": "AI",
+      "title": "Review: Crystal Lake suffers a bit from its obsession with Pam Voorhees",
+      "source": "Ars Technica - All content",
+      "date": "Fri, 23 Oct 2026 11:15:03 +0000",
+      "summary": "Friday the 13th prequel series based on Jason’s mom drags at first, then hits a vein.",
+      "url": "https://arstechnica.com/culture/2026/10/review-crystal-lake-suffers-a-bit-from-its-obsession-with-pam-voorhees/"
+    },
+    {
+      "category": "Science",
+      "title": "Dental implants can hijack your immune system, scientists discover",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Fri, 23 Oct 2026 07:12:28 EDT",
+      "summary": "Researchers have uncovered a surprising reason dental implant infections often resist antibiotics: the implants themselves can contribute to the problem. Bacteria corrode titanium implants, releasing microscopic particles that hijack immune cells, trigger destructive inflammation, and accelerate jawbone loss.",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261022081314.htm"
+    },
+    {
+      "category": "Space",
+      "title": " Rocket Lab launches 3 'Hawk' satellites to orbit to gather signals intelligence ",
+      "source": " Latest from Space.com ",
+      "date": "Fri, 23 Oct 2026 10:57:51 +0000",
+      "summary": "Rocket Lab launched a trio of private signals-intelligence satellites to orbit today (Oct. 21), the 19th mission of the year for the California-based company.",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-launches-3-hawk-satellites-to-orbit-to-gather-signals-intelligence"
+    },
+    {
+      "category": "Biblical Studies",
+      "title": "Ramesses the Great—and the Missing Exodus",
+      "source": "Biblical Archaeology Society",
+      "date": "Fri, 23 Oct 2026 10:45:29 +0000",
+      "summary": "Ramses and the Pharaohs’ Gold, now at NEON at Battersea Power Station in London, opened earlier this year. The international exhibition features some 180 ancient […]\nThe post Ramesses the Great—and the Missing Exodus appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-egypt/ramesses-great-and-missing-exodus/"
+    },
+    {
+      "category": "Science",
+      "title": " Scientists can now 'watermark' AI-generated proteins to deter bioweapon creation. But will it really work? ",
+      "source": " Latest from Live Science ",
+      "date": "Fri, 23 Oct 2026 09:44:19 +0000",
+      "summary": "A new technology encodes an invisible mark into the structure of AI-generated proteins, but experts said the system's guardrails can still be bypassed.",
+      "url": "https://www.livescience.com/technology/artificial-intelligence/scientists-can-now-watermark-ai-generated-proteins-to-deter-bioweapon-creation-but-will-it-really-work"
+    },
+    {
+      "category": "Space",
+      "title": "APOD: 2026 October 23 – Andromeda in Southern Spring",
+      "source": "NASA",
+      "date": "Fri, 23 Oct 2026 04:05:00 +0000",
+      "summary": "APOD Science APOD APOD: 2026 October 23 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Andromeda in Southern […]",
+      "url": "https://science.nasa.gov/image-article/apod-2026-october-23-andromeda-in-southern-spring/"
+    },
+    {
+      "category": "Theology",
+      "title": "What You Should Know About the Hebrew Roots Movement",
+      "source": "The Gospel Coalition",
+      "date": "Fri, 23 Oct 2026 04:02:00 +0000",
+      "summary": "The Hebrew Roots Movement is a modern version of the New Testament Judaizers who were rebuked by Paul.",
+      "url": "https://www.thegospelcoalition.org/article/hebrew-roots-movement-explained/"
+    },
+    {
+      "category": "Space",
+      "title": "El Niño Then and Now",
+      "source": "NASA",
+      "date": "Fri, 23 Oct 2026 04:00:00 +0000",
+      "summary": "A 35-year satellite altimetry record lets scientists hold this year’s El Niño up against its strongest predecessors.",
+      "url": "https://science.nasa.gov/earth/earth-observatory/el-nino-then-and-now/"
+    },
+    {
+      "category": "Theology",
+      "title": "7 Keys for Thriving in Lifelong Ministry",
+      "source": "The Gospel Coalition",
+      "date": "Fri, 23 Oct 2026 04:00:00 +0000",
+      "summary": "Learn long-term planning from Joseph, artful delegation from Jethro, lifelong consistency from Daniel, and aged wisdom from John.",
+      "url": "https://www.thegospelcoalition.org/article/keys-thriving-lifelong-ministry/"
+    },
+    {
+      "category": "Science",
+      "title": "Cambridge scientists create a $10 chip that could put a medical lab on your wrist",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Thu, 22 Oct 2026 21:21:47 EDT",
+      "summary": "Cambridge researchers have created a groundbreaking $10 optical sensor that delivers the precision of laboratory equipment in a device small enough for wearable technology. It identified foods, plastics, and medicines with 100% accuracy in tests and demonstrated the ability to monitor blood glucose, alcohol, and other health markers without invasive procedures.",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261022081312.htm"
+    },
+    {
+      "category": "AI",
+      "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+      "source": "OpenAI News",
+      "date": "Fri, 23 Oct 2026 00:00:00 GMT",
+      "summary": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.",
+      "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership"
     },
     {
       "category": "Space",
@@ -89,30 +185,6 @@
       "date": "Thu, 22 Oct 2026 21:39:58 +0000",
       "summary": "Members of the media are invited to join NASA at the 2026 von Braun Space Exploration Symposium from Monday, Oct. 26, to Wednesday, Oct. 28, at the University of Alabama in Huntsville. This year’s symposium is focused on humanity’s return to the Moon, sustainable lunar infrastructure, advanced space propulsion, and the evolving space workforce. Panels […]",
       "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-2026-von-braun-space-exploration-symposium/"
-    },
-    {
-      "category": "Space",
-      "title": "Spiral’s Edge",
-      "source": "NASA",
-      "date": "Thu, 22 Oct 2026 21:35:38 +0000",
-      "summary": "This NASA Hubble Space Telescope image released on Oct. 16, 2026, features the edge-on, intermediate spiral galaxy NGC 1827, located roughly 37 million light-years away in the constellation Columba, the Dove. Hubble captured the image as part of a survey looking at 260 satellite galaxies around 22 Milky Way-like host galaxies within a radius of […]",
-      "url": "https://www.nasa.gov/image-article/spirals-edge/"
-    },
-    {
-      "category": "Space",
-      "title": " On this day in space! Oct. 22, 1992: Ashes of 'Star Trek' creator Gene Roddenberry launch into space on NASA shuttle ",
-      "source": " Latest from Space.com ",
-      "date": "Thu, 22 Oct 2026 21:08:26 +0000",
-      "summary": "On Oct. 22, 1992, the space shuttle Columbia launched into space with the ashes of Gene Roddenberry, the creator of \"Star Trek.\" Here's why it mattered.",
-      "url": "https://www.space.com/space-exploration/on-this-day-in-space-october-22-2026"
-    },
-    {
-      "category": "Space",
-      "title": " After Starshield interruption, Ukraine wants to build its own satellite communication network with ICEYE and Nokia ",
-      "source": " Latest from Space.com ",
-      "date": "Thu, 22 Oct 2026 20:28:04 +0000",
-      "summary": "Ukraine's military just signed a letter of intent with Nokia and the Finnish satellite maker ICEYE to look into developing a sovereign satellite-communication system for the war-torn nation.",
-      "url": "https://www.space.com/space-exploration/satellites/after-starshield-interruption-ukraine-wants-to-build-its-own-satellite-communication-network-with-iceye-and-nokia"
     },
     {
       "category": "Science",
@@ -137,46 +209,6 @@
       "date": "Thu, 22 Oct 2026 19:00:00 GMT",
       "summary": "Fast, focused, low-cost decisions for any application.",
       "url": "https://openai.com/index/decisions-api"
-    },
-    {
-      "category": "Science",
-      "title": " Brain scans reveal 'number line' that's used to mentally compare values ",
-      "source": " Latest from Live Science ",
-      "date": "Thu, 22 Oct 2026 18:00:00 +0000",
-      "summary": "Although whole numbers and fractions are processed differently in the brain, when you compare their values, a single \"mental map\" akin to a number line lights up.",
-      "url": "https://www.livescience.com/health/neuroscience/brain-scans-reveal-number-line-thats-used-to-mentally-compare-values"
-    },
-    {
-      "category": "Space",
-      "title": "NASA’s Hubble Charts Path for Roman with Gravitational Lenses ",
-      "source": "NASA",
-      "date": "Thu, 22 Oct 2026 16:20:37 +0000",
-      "summary": "This observation is one of many gravitational lensing images taken by Hubble in preparation for science with the new Nancy Grace Roman Space Telescope.",
-      "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-charts-path-for-roman-with-gravitational-lenses/"
-    },
-    {
-      "category": "Science",
-      "title": "Birds are more afraid of women than men. Scientists have no idea why",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Thu, 22 Oct 2026 08:06:14 EDT",
-      "summary": "Scientists have uncovered a strange pattern in urban bird behavior: Across five European countries and 37 species, birds consistently fled sooner when approached by women than men. Researchers have no clear explanation for the difference, raising intriguing questions about how birds recognize and respond to humans.",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261021231250.htm"
-    },
-    {
-      "category": "Science",
-      "title": "Oxford scientists discover how viruses build themselves without a blueprint",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Thu, 22 Oct 2026 07:42:05 EDT",
-      "summary": "Scientists have captured virus-like particles assembling themselves step by step, revealing how a surprisingly simple process of trial and error produces complex structures with remarkable precision. The discovery uncovers a crucial molecular turning point that speeds up assembly and could lead to new ways to disrupt viruses and develop vaccines.",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261021231248.htm"
-    },
-    {
-      "category": "Science",
-      "title": "NASA’s Curiosity rover reveals a spectacular new view of Mars with a mystery on the horizon",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Thu, 22 Oct 2026 07:03:49 EDT",
-      "summary": "NASA’s Curiosity rover has revealed a spectacular new view of mysterious, wind-carved cliffs on Mars that may hold evidence of ancient volcanic activity. With the rover approaching these unusual formations, scientists hope to uncover the secrets behind their strange appearance in 2027.",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261021231238.htm"
     },
     {
       "category": "Biblical Studies",
@@ -211,44 +243,12 @@
       "url": "https://www.thegospelcoalition.org/article/fjord-christian-movie-review/"
     },
     {
-      "category": "Theology",
-      "title": "Why Humans Pretend to Be Computers",
-      "source": "The Gospel Coalition",
-      "date": "Thu, 22 Oct 2026 04:00:59 +0000",
-      "summary": "The power behind AI is the perception of objectivity and infallibility.",
-      "url": "https://www.thegospelcoalition.org/article/why-humans-pretend-computers/"
-    },
-    {
-      "category": "AI",
-      "title": "Uber brings ChatGPT Work to all employees with OpenAI",
-      "source": "OpenAI News",
-      "date": "Thu, 22 Oct 2026 00:00:00 GMT",
-      "summary": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows.",
-      "url": "https://openai.com/index/uber-chatgpt-work-rollout"
-    },
-    {
       "category": "History",
       "title": "Last Call for a Dram Seller on the Mohawk River",
       "source": "Journal of the American Revolution",
       "date": "Wed, 21 Oct 2026 22:00:36 +0000",
       "summary": "In the dead of winter, the commandant of the Continental Army’s garrison on the Mohawk River received an unwelcome visitor. A batteau from downriver in the direction of Albany appeared at Fort Schuyler’s landing unannounced and set down a man named Grant Cottle and a shipment of one-hundred-and-eleven gallons of spirituous liquors. In short order, […]\nThe post Last Call for a Dram Seller on the Mohawk River appeared first on Journal of the American Revolution.",
       "url": "https://allthingsliberty.com/2026/10/last-call-for-a-dram-seller-on-the-mohawk-river/"
-    },
-    {
-      "category": "Biblical Studies",
-      "title": "Ancient Cyprus in Florida",
-      "source": "Biblical Archaeology Society",
-      "date": "Wed, 21 Oct 2026 10:45:15 +0000",
-      "summary": "The Ringling Museum of Art Sarasota, Florida ringling.org This head of a colossal male statue, which once may have stood nearly 15 feet tall, reportedly […]\nThe post Ancient Cyprus in Florida appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/exhibits-events/ancient-cyprus-in-florida/"
-    },
-    {
-      "category": "Theology",
-      "title": "Finding Meaning in Our Daily Work (with Denise Daniels)",
-      "source": "The Gospel Coalition",
-      "date": "Wed, 21 Oct 2026 04:04:27 +0000",
-      "summary": "Wheaton College’s Denise Daniels draws on research with thousands of American workers to help us have a more holistic vision of how our work matters to us, our neighbors, our families, and God.",
-      "url": "https://www.thegospelcoalition.org/podcasts/your-corner-of-the-world/finding-meaning-daily-work/"
     },
     {
       "category": "History",
@@ -259,12 +259,36 @@
       "url": "https://allthingsliberty.com/2026/10/payback-attack-on-the-delancey-house/"
     },
     {
+      "category": "Theology",
+      "title": "Unclear Evangelism Leads to Unclear (and False) Conversions",
+      "source": "9Marks",
+      "date": "Mon, 19 Oct 2026 19:22:22 +0000",
+      "summary": "When we appeal to people’s carnal desires, we should not be surprised when our “converts” are more in love with the world than with our Savior.\nThe post Unclear Evangelism Leads to Unclear (and False) Conversions appeared first on 9Marks.",
+      "url": "https://www.9marks.org/article/unclear-evangelism-leads-to-unclear-and-false-conversions/?utm_source=rss&utm_medium=rss&utm_campaign=unclear-evangelism-leads-to-unclear-and-false-conversions"
+    },
+    {
       "category": "History",
       "title": "A Dear-Bought Victory: The Battle of Bunker Hill and the Siege of Boston, 1775-1776",
       "source": "Journal of the American Revolution",
       "date": "Mon, 19 Oct 2026 13:06:01 +0000",
       "summary": "BOOK REVIEW: A Dear-Bought Victory: The Battle of Bunker Hill and the Siege of Boston, 1775-1776 by Daniel T. Davis and Phillip S. Greenwalt (Savas Beatie, 2026) $16.95 Paperback Studies of Revolutionary War battles tend to focus disproportionately on only a few of the clashes that occurred during the eight-year-long war. The Battle of Bunker […]\nThe post A Dear-Bought Victory: The Battle of Bunker Hill and the Siege of Boston, 1775-1776 appeared first on Journal of the American Revolution.",
       "url": "https://allthingsliberty.com/2026/10/a-dear-bought-victory-the-battle-of-bunker-hill-and-the-siege-of-boston-1775-1776/"
+    },
+    {
+      "category": "Theology",
+      "title": "What Conversion Looks Like in Messy People (Like Me)",
+      "source": "9Marks",
+      "date": "Tue, 13 Oct 2026 18:51:26 +0000",
+      "summary": "All sinners, regardless of past trauma, messiness of life, socioeconomic background, or educational attainment must be converted the same way—through repentance and faith in Christ alone. \nThe post What Conversion Looks Like in Messy People (Like Me) appeared first on 9Marks.",
+      "url": "https://www.9marks.org/article/what-conversion-looks-like-in-messy-people-like-me/?utm_source=rss&utm_medium=rss&utm_campaign=what-conversion-looks-like-in-messy-people-like-me"
+    },
+    {
+      "category": "Theology",
+      "title": "The Reason for Church: A Review",
+      "source": "9Marks",
+      "date": "Thu, 08 Oct 2026 21:49:22 +0000",
+      "summary": "Rescue us from ourselves? No. Jesus died to rescue us from God’s wrath. \nThe post The Reason for Church: A Review appeared first on 9Marks.",
+      "url": "https://www.9marks.org/review/the-reason-for-church-a-review/?utm_source=rss&utm_medium=rss&utm_campaign=the-reason-for-church-a-review"
     },
     {
       "category": "History",
