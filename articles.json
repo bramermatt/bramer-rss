@@ -1,54 +1,142 @@
 {
-  "lastUpdated": "2026-10-22T19:39:37.677Z",
-  "articleCount": 39,
+  "lastUpdated": "2026-10-23T00:17:59.964Z",
+  "articleCount": 36,
   "articles": [
     {
       "category": "Science",
-      "title": "More than 20 years of data challenge one-size-fits-all view of Arctic cloud-forming particles",
+      "title": "Acupuncture and mutual exchange in Chinese and Soviet science",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Thu, 22 Oct 2026 15:20:18 EDT",
-      "summary": "As the climate gets warmer, the number of particles that make up clouds in the Arctic may increase or decrease, depending on the specific area. A new study indicates that the Arctic should be divided into three parts rather than considered as a whole.",
-      "url": "https://phys.org/news/2026-10-years-size-view-arctic-cloud.html"
+      "date": "Thu, 22 Oct 2026 20:00:05 EDT",
+      "summary": "Previous accounts of the scientific relationship between communist China and the Soviet Union have depicted it as one of subordination, with the Russians exporting knowledge to the Chinese or scavenging from their bodies of knowledge. A new article in Isis, however, posits that the relationship between Chinese and Soviet scientists was instead one of mutual exchange. In \"Brief Encounter: Acupuncture, Pavlov, and Scientific Exchange Between China and the Soviet Union, 1949-1961,\" authors Liang Wan, Simon Huxtable and Sarah Marks explore the role of acupuncture in uniting the Pavlovian science of the Soviets and traditional Chinese medicine, forming an arena for Sino-Soviet collaboration.",
+      "url": "https://phys.org/news/2026-10-acupuncture-mutual-exchange-chinese-soviet.html"
+    },
+    {
+      "category": "AI",
+      "title": "Mapping the Northern Sky",
+      "source": "Hacker News: Front Page",
+      "date": "Thu, 22 Oct 2026 23:56:39 +0000",
+      "summary": "Article URL: https://www.maps.com/star-map-charts-stars-and-constellations-of-northern-hemisphere/\nComments URL: https://news.ycombinator.com/item?id=50202766\nPoints: 4\n# Comments: 0",
+      "url": "https://www.maps.com/star-map-charts-stars-and-constellations-of-northern-hemisphere/"
     },
     {
       "category": "Science",
-      "title": "We must prepare entire cities for extreme heat. Our new study reveals how",
+      "title": "Light-activated catalyst makes sustainable production of hydrogen peroxide more efficient",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Thu, 22 Oct 2026 15:20:02 EDT",
-      "summary": "In Australia, the days are growing longer and summer is fast approaching. But a very strong El Niño—a natural weather phenomenon that drives variations in temperature and winds across the Pacific—could make this summer a sweltering one.",
-      "url": "https://phys.org/news/2026-10-entire-cities-extreme-reveals.html"
+      "date": "Thu, 22 Oct 2026 19:40:06 EDT",
+      "summary": "Hydrogen peroxide (H₂O₂) is a versatile chemical feedstock whose industrial production relies predominantly on an energy-intensive process with a substantial environmental footprint. One alternative is to produce it using a catalyst activated by light. In an international research project involving the Max Planck Institute of Colloids and Interfaces, researchers have now developed a synthesis strategy that allows them to precisely control the spatial arrangement of ions in a carbon nitride. The resulting photocatalyst is three times as efficient as conventional green production methods. The findings have been published in Advanced Materials.",
+      "url": "https://phys.org/news/2026-10-catalyst-sustainable-production-hydrogen-peroxide.html"
     },
     {
       "category": "Science",
-      "title": "The psychology that can lead investors to make bad financial decisions",
+      "title": "Material substitution can increase the potential environmental impact of packaging systems",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Thu, 22 Oct 2026 15:00:25 EDT",
-      "summary": "Say you buy shares in a company. The price climbs and months later you sell for a healthy profit. Ask why it worked, and the answer is often some version of \"I made a good call.\" Now imagine the trade had lost money instead. Would you be as quick to blame your own judgment? Many of us wouldn't. We may point to bad timing, a jittery market, anything but ourselves.",
-      "url": "https://phys.org/news/2026-10-psychology-investors-bad-financial-decisions.html"
+      "date": "Thu, 22 Oct 2026 19:40:01 EDT",
+      "summary": "New research suggests that replacing polyethylene (PE) packaging with paper, glass, aluminum or steel often does not reduce environmental impacts across a product's life cycle.",
+      "url": "https://phys.org/news/2026-10-material-substitution-potential-environmental-impact.html"
     },
     {
       "category": "AI",
-      "title": "Hedra is a 3D open world game I wrote from scratch while in highschool",
+      "title": "LLMs are making formal software verification feasible at a much larger scale",
       "source": "Hacker News: Front Page",
-      "date": "Thu, 22 Oct 2026 18:44:36 +0000",
-      "summary": "Article URL: https://github.com/maxilevi/project-hedra/tree/pre-ai\nComments URL: https://news.ycombinator.com/item?id=50199389\nPoints: 20\n# Comments: 4",
-      "url": "https://github.com/maxilevi/project-hedra/tree/pre-ai"
+      "date": "Thu, 22 Oct 2026 22:54:43 +0000",
+      "summary": "Article URL: https://www.anthropic.com/research/formal-verification\nComments URL: https://news.ycombinator.com/item?id=50202217\nPoints: 22\n# Comments: 2",
+      "url": "https://www.anthropic.com/research/formal-verification"
     },
     {
       "category": "AI",
-      "title": "Show HN: Build a world on your phone, explore it in XR on Vision Pro and Quest",
-      "source": "Hacker News: Front Page",
-      "date": "Thu, 22 Oct 2026 18:39:39 +0000",
-      "summary": "Article URL: https://3d.camilleworld.com/play/\nComments URL: https://news.ycombinator.com/item?id=50199349\nPoints: 3\n# Comments: 0",
-      "url": "https://3d.camilleworld.com/play/"
+      "title": "Switch 2 security takes a hit as hackers unlock homebrew access",
+      "source": "Ars Technica - All content",
+      "date": "Thu, 22 Oct 2026 22:25:33 +0000",
+      "summary": "\"Userland\" exploit relies on integer overflow found in \"SmileBasic\" interpreter.",
+      "url": "https://arstechnica.com/gaming/2026/10/switch-2-jailbreak-gives-hackers-new-ways-to-run-homebrew-and-mod-games/"
     },
     {
       "category": "AI",
-      "title": "Show HN: UI micro interactions prompts for AI",
+      "title": "Show HN: CATT 0.2.1: Test agents/services against a Muse/Instinct-alike, in CI",
       "source": "Hacker News: Front Page",
-      "date": "Thu, 22 Oct 2026 18:32:57 +0000",
-      "summary": "Article URL: https://www.typeui.sh/micro-interactions\nComments URL: https://news.ycombinator.com/item?id=50199290\nPoints: 19\n# Comments: 3",
-      "url": "https://www.typeui.sh/micro-interactions"
+      "date": "Thu, 22 Oct 2026 22:18:40 +0000",
+      "summary": "Hey HN, we recently open sourced our Consumer Agent Testing Tool to help teams iterate against proprietary assistants like Muse and Instinct. We built this to reduce our own frustrations with building an MCP/API for these agents to consume.\nThe problem: testing against these tools is hard! Agent memory + account statefulness make reproducibility, in the ways required for repeatable/reliable outcomes, between agents and the APIs/MCPs they interact with very challenging.\nThe solution: CATT lets devs test their services against a surrogate Muse or Instinct agent (not affiliated with either of these companies). Testers define starting conditions, approvals, and success conditions for their service's state. CATT then records the full interaction (incl. tool calls, responses) so it can diff what happened from what the agent reports. Runs can be tested in local builds or via CI, with or without LLM backing.\nCATT is designed to emulate the important parts of personal assistant interactions. Its got:\n- Tool calls and command-line tool access\n- Simulated approvals for service actions\n- Outcomes tracking and comparison\n- Optional MCP profile based on an unofficial Muse template\nThere are limitations to how much we know about different assistant specific behaviors so the tool labels its assumptions as `documented`, `unofficial`, `assumed` or `unknown` for developer review. We'll do our best to keep the tool updated as new insights about the internal workings of these assistants come to light. It is an area of active research and interest, a good example is this recent report on how Instinct uses Exa for web search [0].\nAre you building a connector or MCP? If yes, we'd like to hear from you! Have you had assistants behave incoherently, use stale information, or procalim success without evidence? What else should we add tests for?\nThe best way to get started is...to point your coding assistant at the repo and ask it to integrate the tool with your CI or local testing pipeline!\nHope it's helpful!\n[0]: https://www.sunbeam.ai/thoughts/instinct-is-using-exa-for-we...\nComments URL: https://news.ycombinator.com/item?id=50201860\nPoints: 4\n# Comments: 0",
+      "url": "https://github.com/Coverage-Cat/consumer-agent-testing-tool"
+    },
+    {
+      "category": "AI",
+      "title": "Moderna and Merck say their mRNA cancer vaccine cut death, recurrence by 42%",
+      "source": "Ars Technica - All content",
+      "date": "Thu, 22 Oct 2026 22:12:19 +0000",
+      "summary": "Markers released top-line results today after previously reporting the trial succeeded.",
+      "url": "https://arstechnica.com/health/2026/10/personalized-mrna-cancer-vaccine-cut-melanoma-death-recurrence-by-42/"
+    },
+    {
+      "category": "Space",
+      "title": " Europe's Space Rider vehicle comes crashing down during drop test ",
+      "source": " Latest from Space.com ",
+      "date": "Thu, 22 Oct 2026 22:00:00 +0000",
+      "summary": "The full-scale prototype of Europe's Space Rider orbiter failed to deploy its parachute during a drop test earlier this month, but ESA officials hope the setback won't delay progress toward its first reusable spacecraft.",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/europes-space-rider-vehicle-comes-crashing-down-during-drop-test"
+    },
+    {
+      "category": "AI",
+      "title": "Latest estimate for Starship launches required to support a Moon landing? 22.",
+      "source": "Ars Technica - All content",
+      "date": "Thu, 22 Oct 2026 21:52:31 +0000",
+      "summary": "\"We need to keep our eyes on numerous required fuelings for the lander.\"",
+      "url": "https://arstechnica.com/space/2026/10/latest-estimate-for-starship-launches-required-to-support-a-moon-landing-22/"
+    },
+    {
+      "category": "Space",
+      "title": "NASA Invites Media to 2026 von Braun Space Exploration Symposium",
+      "source": "NASA",
+      "date": "Thu, 22 Oct 2026 21:39:58 +0000",
+      "summary": "Members of the media are invited to join NASA at the 2026 von Braun Space Exploration Symposium from Monday, Oct. 26, to Wednesday, Oct. 28, at the University of Alabama in Huntsville. This year’s symposium is focused on humanity’s return to the Moon, sustainable lunar infrastructure, advanced space propulsion, and the evolving space workforce. Panels […]",
+      "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-2026-von-braun-space-exploration-symposium/"
+    },
+    {
+      "category": "Space",
+      "title": "Spiral’s Edge",
+      "source": "NASA",
+      "date": "Thu, 22 Oct 2026 21:35:38 +0000",
+      "summary": "This NASA Hubble Space Telescope image released on Oct. 16, 2026, features the edge-on, intermediate spiral galaxy NGC 1827, located roughly 37 million light-years away in the constellation Columba, the Dove. Hubble captured the image as part of a survey looking at 260 satellite galaxies around 22 Milky Way-like host galaxies within a radius of […]",
+      "url": "https://www.nasa.gov/image-article/spirals-edge/"
+    },
+    {
+      "category": "Space",
+      "title": " On this day in space! Oct. 22, 1992: Ashes of 'Star Trek' creator Gene Roddenberry launch into space on NASA shuttle ",
+      "source": " Latest from Space.com ",
+      "date": "Thu, 22 Oct 2026 21:08:26 +0000",
+      "summary": "On Oct. 22, 1992, the space shuttle Columbia launched into space with the ashes of Gene Roddenberry, the creator of \"Star Trek.\" Here's why it mattered.",
+      "url": "https://www.space.com/space-exploration/on-this-day-in-space-october-22-2026"
+    },
+    {
+      "category": "Space",
+      "title": " After Starshield interruption, Ukraine wants to build its own satellite communication network with ICEYE and Nokia ",
+      "source": " Latest from Space.com ",
+      "date": "Thu, 22 Oct 2026 20:28:04 +0000",
+      "summary": "Ukraine's military just signed a letter of intent with Nokia and the Finnish satellite maker ICEYE to look into developing a sovereign satellite-communication system for the war-torn nation.",
+      "url": "https://www.space.com/space-exploration/satellites/after-starshield-interruption-ukraine-wants-to-build-its-own-satellite-communication-network-with-iceye-and-nokia"
+    },
+    {
+      "category": "Science",
+      "title": " 'We're never going to come home': Artemis II commander recalls the most terrifying moment of his 10-day trip around the moon ",
+      "source": " Latest from Live Science ",
+      "date": "Thu, 22 Oct 2026 20:00:00 +0000",
+      "summary": "Artemis II Commander Reid Wiseman felt genuine fear when he saw the Orion spacecraft had gone farther from Earth than anticipated, the astronaut told an audience at the Starmus VIII festival this week.",
+      "url": "https://www.livescience.com/space/space-exploration/were-never-going-to-come-home-artemis-ii-commander-recalls-the-most-terrifying-moment-of-his-10-day-trip-around-the-moon"
+    },
+    {
+      "category": "Science",
+      "title": " Crows may make lightning-fast decisions, sometimes twice as fast as humans, study hints ",
+      "source": " Latest from Live Science ",
+      "date": "Thu, 22 Oct 2026 19:34:26 +0000",
+      "summary": "Carrion crows made decisions about their visual environments significantly faster than humans and primates tend to, according to a comparison in a new study.",
+      "url": "https://www.livescience.com/animals/birds/crows-may-make-lightning-fast-decisions-sometimes-twice-as-fast-as-humans-study-hints"
+    },
+    {
+      "category": "AI",
+      "title": "Build more responsive apps with the Decisions API",
+      "source": "OpenAI News",
+      "date": "Thu, 22 Oct 2026 19:00:00 GMT",
+      "summary": "Fast, focused, low-cost decisions for any application.",
+      "url": "https://openai.com/index/decisions-api"
     },
     {
       "category": "Science",
@@ -60,75 +148,11 @@
     },
     {
       "category": "Space",
-      "title": " Van Gogh's 'The Starry Night' depicts the sky on July 22, 1889, researchers find ",
-      "source": " Latest from Space.com ",
-      "date": "Thu, 22 Oct 2026 18:00:00 +0000",
-      "summary": "Researchers think  they might have pinpointed the exact night sky that we see depicted in Vincent van Gogh's iconic painting \"The Starry Night.\"",
-      "url": "https://www.space.com/astronomy/van-goghs-the-starry-night-depicts-the-sky-on-july-22-1889-researchers-find"
-    },
-    {
-      "category": "Science",
-      "title": " Watch bizarre snake 'cartwheel' away from danger at more than 12 feet per second ",
-      "source": " Latest from Live Science ",
-      "date": "Thu, 22 Oct 2026 17:25:38 +0000",
-      "summary": "Researchers filmed dwarf reed snakes (Pseudorabdion) from different angles to better understand how the serpents pull off their remarkable rolling behavior.",
-      "url": "https://www.livescience.com/animals/snakes/watch-bizarre-snake-cartwheel-away-from-danger-at-more-than-12-feet-per-second"
-    },
-    {
-      "category": "AI",
-      "title": "Meta shocked by $25B fine after N.M. refused to join multistate settlement",
-      "source": "Ars Technica - All content",
-      "date": "Thu, 22 Oct 2026 17:04:31 +0000",
-      "summary": "Meta will appeal a ruling imposing the largest fine Mark Zuckerberg has ever seen.",
-      "url": "https://arstechnica.com/tech-policy/2026/10/meta-whines-new-mexico-is-impossible-to-please-after-historic-25-billion-fine/"
-    },
-    {
-      "category": "Science",
-      "title": " Japan launches world's first round-trip mission to Mars. ",
-      "source": " Latest from Live Science ",
-      "date": "Thu, 22 Oct 2026 16:46:36 +0000",
-      "summary": "The Martian Moons Exploration (MMX) mission, which launched from Japan on Oct. 19, is on its way to Mars. When it arrives, the probe will attempt to land on one of the Red Planet's twin moons and scoop up rocks to bring back to Earth. Experts tell Live Science what these \"transformative\" samples could teach us.",
-      "url": "https://www.livescience.com/space/space-exploration/worlds-first-round-trip-mission-to-mars-has-launched-why-it-could-be-a-transformative-leap-for-science"
-    },
-    {
-      "category": "AI",
-      "title": "US-backed vaccine trial on babies canceled after international outcry",
-      "source": "Ars Technica - All content",
-      "date": "Thu, 22 Oct 2026 16:37:00 +0000",
-      "summary": "The decried trial was canceled last week before police seized vaccine doses.",
-      "url": "https://arstechnica.com/health/2026/10/unethical-vaccine-trial-on-babies-backed-by-rfk-jr-is-formally-canceled/"
-    },
-    {
-      "category": "Space",
       "title": "NASA’s Hubble Charts Path for Roman with Gravitational Lenses ",
       "source": "NASA",
       "date": "Thu, 22 Oct 2026 16:20:37 +0000",
       "summary": "This observation is one of many gravitational lensing images taken by Hubble in preparation for science with the new Nancy Grace Roman Space Telescope.",
       "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-charts-path-for-roman-with-gravitational-lenses/"
-    },
-    {
-      "category": "Space",
-      "title": " 'Cabin leak suspected': Artemis II astronaut reveals how a warning nearly derailed NASA's epic moon mission ",
-      "source": " Latest from Space.com ",
-      "date": "Thu, 22 Oct 2026 16:14:56 +0000",
-      "summary": "Victor Glover recalls how a suspected cabin leak warning came just 15 minutes before a crucial engine burn — and why receiving it just five minutes later could have changed everything.",
-      "url": "https://www.space.com/space-exploration/artemis/cabin-leak-suspected-artemis-ii-astronaut-reveals-how-a-warning-nearly-derailed-moon-mission"
-    },
-    {
-      "category": "AI",
-      "title": "This emulator reimagines Nintendo’s Virtual Boy with a full color display",
-      "source": "Ars Technica - All content",
-      "date": "Thu, 22 Oct 2026 15:59:40 +0000",
-      "summary": "Tile-based color palettes go way beyond the four shades of red on original hardware.",
-      "url": "https://arstechnica.com/gaming/2026/10/this-emulator-reimagines-nintendos-virtual-boy-with-a-full-color-display/"
-    },
-    {
-      "category": "Space",
-      "title": " Australia's bizarre 'Spider Crater' seen from orbit | Space photo of the day for Oct. 22, 2026 ",
-      "source": " Latest from Space.com ",
-      "date": "Thu, 22 Oct 2026 14:00:00 +0000",
-      "summary": "A satellite image of \"Spider Crater\" in Western Australia.",
-      "url": "https://www.space.com/astronomy/earth/australias-bizarre-spider-crater-seen-from-orbit-space-photo-of-the-day-for-oct-22-2026"
     },
     {
       "category": "Science",
@@ -179,28 +203,12 @@
       "url": "https://openai.com/index/forward-deployed-engineering-means"
     },
     {
-      "category": "Space",
-      "title": "APOD: 2026 October 22 – The First Green Star, WD J1330+6435",
-      "source": "NASA",
-      "date": "Thu, 22 Oct 2026 04:05:00 +0000",
-      "summary": "APOD Science APOD APOD: 2026 October 22 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. The First […]",
-      "url": "https://science.nasa.gov/image-article/apod-2026-october-22-the-first-green-star-wd-j13306435/"
-    },
-    {
       "category": "Theology",
       "title": "‘Fjord’ Is the Best Movie of 2026 So Far",
       "source": "The Gospel Coalition",
       "date": "Thu, 22 Oct 2026 04:02:00 +0000",
       "summary": "‘Fjord’ challenges ‘tolerant’ progressives to reflect on their intolerance of conservative evangelical Christians.",
       "url": "https://www.thegospelcoalition.org/article/fjord-christian-movie-review/"
-    },
-    {
-      "category": "Space",
-      "title": "Fires Char New Guinea",
-      "source": "NASA",
-      "date": "Thu, 22 Oct 2026 04:01:00 +0000",
-      "summary": "Emissions on both sides of the island are unusually high as human-set fires spread in a landscape parched by drought.",
-      "url": "https://science.nasa.gov/earth/earth-observatory/fires-char-new-guinea/"
     },
     {
       "category": "Theology",
@@ -227,14 +235,6 @@
       "url": "https://allthingsliberty.com/2026/10/last-call-for-a-dram-seller-on-the-mohawk-river/"
     },
     {
-      "category": "AI",
-      "title": "How AT&T is rethinking in-house legal work with OpenAI",
-      "source": "OpenAI News",
-      "date": "Wed, 21 Oct 2026 17:00:00 GMT",
-      "summary": "AT&T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment.",
-      "url": "https://openai.com/index/att-legal"
-    },
-    {
       "category": "Biblical Studies",
       "title": "Ancient Cyprus in Florida",
       "source": "Biblical Archaeology Society",
@@ -259,36 +259,12 @@
       "url": "https://allthingsliberty.com/2026/10/payback-attack-on-the-delancey-house/"
     },
     {
-      "category": "Theology",
-      "title": "Unclear Evangelism Leads to Unclear (and False) Conversions",
-      "source": "9Marks",
-      "date": "Mon, 19 Oct 2026 19:22:22 +0000",
-      "summary": "When we appeal to people’s carnal desires, we should not be surprised when our “converts” are more in love with the world than with our Savior.\nThe post Unclear Evangelism Leads to Unclear (and False) Conversions appeared first on 9Marks.",
-      "url": "https://www.9marks.org/article/unclear-evangelism-leads-to-unclear-and-false-conversions/?utm_source=rss&utm_medium=rss&utm_campaign=unclear-evangelism-leads-to-unclear-and-false-conversions"
-    },
-    {
       "category": "History",
       "title": "A Dear-Bought Victory: The Battle of Bunker Hill and the Siege of Boston, 1775-1776",
       "source": "Journal of the American Revolution",
       "date": "Mon, 19 Oct 2026 13:06:01 +0000",
       "summary": "BOOK REVIEW: A Dear-Bought Victory: The Battle of Bunker Hill and the Siege of Boston, 1775-1776 by Daniel T. Davis and Phillip S. Greenwalt (Savas Beatie, 2026) $16.95 Paperback Studies of Revolutionary War battles tend to focus disproportionately on only a few of the clashes that occurred during the eight-year-long war. The Battle of Bunker […]\nThe post A Dear-Bought Victory: The Battle of Bunker Hill and the Siege of Boston, 1775-1776 appeared first on Journal of the American Revolution.",
       "url": "https://allthingsliberty.com/2026/10/a-dear-bought-victory-the-battle-of-bunker-hill-and-the-siege-of-boston-1775-1776/"
-    },
-    {
-      "category": "Theology",
-      "title": "What Conversion Looks Like in Messy People (Like Me)",
-      "source": "9Marks",
-      "date": "Tue, 13 Oct 2026 18:51:26 +0000",
-      "summary": "All sinners, regardless of past trauma, messiness of life, socioeconomic background, or educational attainment must be converted the same way—through repentance and faith in Christ alone. \nThe post What Conversion Looks Like in Messy People (Like Me) appeared first on 9Marks.",
-      "url": "https://www.9marks.org/article/what-conversion-looks-like-in-messy-people-like-me/?utm_source=rss&utm_medium=rss&utm_campaign=what-conversion-looks-like-in-messy-people-like-me"
-    },
-    {
-      "category": "Theology",
-      "title": "The Reason for Church: A Review",
-      "source": "9Marks",
-      "date": "Thu, 08 Oct 2026 21:49:22 +0000",
-      "summary": "Rescue us from ourselves? No. Jesus died to rescue us from God’s wrath. \nThe post The Reason for Church: A Review appeared first on 9Marks.",
-      "url": "https://www.9marks.org/review/the-reason-for-church-a-review/?utm_source=rss&utm_medium=rss&utm_campaign=the-reason-for-church-a-review"
     },
     {
       "category": "History",
