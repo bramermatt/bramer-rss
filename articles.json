@@ -1,54 +1,54 @@
 {
-  "lastUpdated": "2026-10-24T18:29:41.418Z",
-  "articleCount": 36,
+  "lastUpdated": "2026-10-24T23:54:00.563Z",
+  "articleCount": 39,
   "articles": [
     {
-      "category": "Science",
-      "title": "How flare ribbons reveal hidden solar explosions on the sun",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sat, 24 Oct 2026 14:00:01 EDT",
-      "summary": "Many topics in astronomy and astrophysics are esoteric. There's not much of a relationship between something like the supermassive black hole at the center of the Milky Way and the life of a regular person going about their business. But the sun is different. Its presence in our lives is inescapable. Its behavior, especially its flaring, has an impact.",
-      "url": "https://phys.org/news/2026-10-flare-ribbons-reveal-hidden-solar.html"
-    },
-    {
-      "category": "Science",
-      "title": "'One-positron cyclotron' could test a key prediction of the Standard Model",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sat, 24 Oct 2026 13:20:02 EDT",
-      "summary": "The positron is the antimatter counterpart of the electron, identical in mass but carrying an equal and opposite electric charge. Like the electron, it also behaves like a tiny bar magnet, and according to a key prediction of the Standard Model of particle physics, its magnetic moment should be exactly equal and opposite to the electron's.",
-      "url": "https://phys.org/news/2026-10-positron-cyclotron-key-standard.html"
+      "category": "AI",
+      "title": "America Has Lost 200k of Jobs in Media, Film and the Arts. How Much Is AI?",
+      "source": "Hacker News: Front Page",
+      "date": "Sat, 24 Oct 2026 23:11:54 +0000",
+      "summary": "Article URL: https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class\nComments URL: https://news.ycombinator.com/item?id=50226419\nPoints: 9\n# Comments: 5",
+      "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class"
     },
     {
       "category": "AI",
-      "title": "The St. Helena 5 pence coin shows Jonathan, a roughly 190 year old tortoise",
+      "title": "Argus – a free, open-source agentic security operations platform – MIT",
       "source": "Hacker News: Front Page",
-      "date": "Sat, 24 Oct 2026 16:41:55 +0000",
-      "summary": "Article URL: https://de.numista.com/9866\nComments URL: https://news.ycombinator.com/item?id=50222927\nPoints: 45\n# Comments: 4",
-      "url": "https://de.numista.com/9866"
+      "date": "Sat, 24 Oct 2026 21:54:16 +0000",
+      "summary": "Article URL: https://thomasunise.com/argus\nComments URL: https://news.ycombinator.com/item?id=50225748\nPoints: 21\n# Comments: 6",
+      "url": "https://thomasunise.com/argus"
     },
     {
       "category": "AI",
-      "title": "Roku developer repositories moved from GitHub to GitLab",
+      "title": "We should be more ambitious with the software we build",
       "source": "Hacker News: Front Page",
-      "date": "Sat, 24 Oct 2026 16:06:26 +0000",
-      "summary": "Article URL: https://blog.roku.com/developer/gitlab-move\nComments URL: https://news.ycombinator.com/item?id=50222622\nPoints: 134\n# Comments: 79",
-      "url": "https://blog.roku.com/developer/gitlab-move"
+      "date": "Sat, 24 Oct 2026 21:47:31 +0000",
+      "summary": "Article URL: https://danluu.com/ambitious/\nComments URL: https://news.ycombinator.com/item?id=50225695\nPoints: 57\n# Comments: 31",
+      "url": "https://danluu.com/ambitious/"
     },
     {
       "category": "Science",
-      "title": "Newly identified protein pathway helps HIV stay hidden despite treatment",
+      "title": "Bell pepper colors reveal differences in sweetness, nutrients and ripeness",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Sat, 24 Oct 2026 12:00:01 EDT",
-      "summary": "Current HIV medicines are effective at suppressing the virus in the blood. However, HIV can remain \"asleep\" or dormant inside certain immune cells and in the brain. These hidden pockets of virus, called HIV reservoirs, are the main reason HIV cannot be cured with today's treatments.",
-      "url": "https://phys.org/news/2026-10-newly-protein-pathway-hiv-stay.html"
+      "date": "Sat, 24 Oct 2026 17:00:07 EDT",
+      "summary": "Raw, grilled, roasted, stuffed—there are many ways to enjoy bell peppers, also called capsicums, sweet peppers or paprika. Bell peppers originated in Central and South America and belong to the nightshade family along with tomatoes and eggplants.",
+      "url": "https://phys.org/news/2026-10-bell-pepper-reveal-differences-sweetness.html"
     },
     {
-      "category": "AI",
-      "title": "Neural chip decodes interactions between brain regions",
-      "source": "Hacker News: Front Page",
-      "date": "Sat, 24 Oct 2026 15:57:17 +0000",
-      "summary": "Article URL: https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/\nComments URL: https://news.ycombinator.com/item?id=50222525\nPoints: 47\n# Comments: 7",
-      "url": "https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/"
+      "category": "Science",
+      "title": "Tests reveal why titanium additions do not fully prevent pitting corrosion in stainless steel",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sat, 24 Oct 2026 17:00:01 EDT",
+      "summary": "Stainless steel is widely used for its corrosion resistance, but it is not invincible. In environments containing chloride ions, such as seawater, pitting corrosion can occur. These pits often start at tiny particles called inclusions embedded in the steel.",
+      "url": "https://phys.org/news/2026-10-reveal-titanium-additions-fully-pitting.html"
+    },
+    {
+      "category": "Science",
+      "title": "Single X-ray pulse reveals plasma nanostructures across scales with one camera",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sat, 24 Oct 2026 15:00:06 EDT",
+      "summary": "Understanding instabilities and turbulence in plasmas is one of the key challenges across a wide range of plasma research fields, including nuclear fusion, astrophysics and laser-plasma physics. In plasmas, slight disturbances can grow due to instabilities, and energy is transferred between structures of various sizes due to turbulence. These phenomena give rise to structures ranging from very small to large, which significantly influence the overall motion and energy flow of the plasma.",
+      "url": "https://phys.org/news/2026-10-ray-pulse-reveals-plasma-nanostructures.html"
     },
     {
       "category": "Space",
@@ -139,6 +139,14 @@
       "url": "https://www.livescience.com/archaeology/why-were-the-nazca-lines-built"
     },
     {
+      "category": "Space",
+      "title": "APOD: 2026 October 24 – Rosetta’s Selfie",
+      "source": "NASA",
+      "date": "Sat, 24 Oct 2026 04:05:00 +0000",
+      "summary": "APOD Science APOD APOD: 2026 October 24 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Rosetta’s Selfie Explanation: […]",
+      "url": "https://science.nasa.gov/image-article/apod-2026-october-24-rosettas-selfie/"
+    },
+    {
       "category": "Theology",
       "title": "What My Grandparents Taught Me About Pastoral Ministry",
       "source": "The Gospel Coalition",
@@ -153,6 +161,22 @@
       "date": "Fri, 23 Oct 2026 22:48:25 +0000",
       "summary": "\"We have the mandate, we have the resources, and the support from our stakeholders.\"",
       "url": "https://arstechnica.com/space/2026/10/nasa-updates-lander-plans-for-moon-landings-finally-solves-long-festering-orion-issue/"
+    },
+    {
+      "category": "Space",
+      "title": "NASA, Partners Accelerate Lander Development for 2028 Moon Missions",
+      "source": "NASA",
+      "date": "Fri, 23 Oct 2026 22:39:39 +0000",
+      "summary": "As NASA returns humans to the lunar surface and establishes a long-term presence on our closest celestial neighbor, the agency and commercial human landing system providers Blue Origin and SpaceX have streamlined the designs and changed both concepts of operations for its future crewed landers. Since NASA established initial contracts with Blue Origin and SpaceX […]",
+      "url": "https://www.nasa.gov/missions/artemis/nasa-partners-accelerate-lander-development-for-2028-moon-missions/"
+    },
+    {
+      "category": "Space",
+      "title": "NASA’s Artemis III Mission to Test Future Moon Lander Operations",
+      "source": "NASA",
+      "date": "Fri, 23 Oct 2026 22:37:53 +0000",
+      "summary": "Before astronauts return to the lunar surface, NASA will first conduct one of the most ambitious and complex test missions in the agency’s history.  Launching in 2027, Artemis III will send NASA astronauts Randy Bresnik, Frank Rubio, Andre Douglas, and ESA (European Space Agency) astronaut Luca Parmitano aboard the Orion spacecraft into low Earth orbit […]",
+      "url": "https://www.nasa.gov/missions/artemis/nasas-artemis-iii-mission-to-test-future-moon-lander-operations/"
     },
     {
       "category": "AI",
