@@ -1,54 +1,110 @@
 {
-  "lastUpdated": "2026-10-24T23:54:00.563Z",
-  "articleCount": 39,
+  "lastUpdated": "2026-10-25T14:02:38.128Z",
+  "articleCount": 36,
   "articles": [
     {
-      "category": "AI",
-      "title": "America Has Lost 200k of Jobs in Media, Film and the Arts. How Much Is AI?",
-      "source": "Hacker News: Front Page",
-      "date": "Sat, 24 Oct 2026 23:11:54 +0000",
-      "summary": "Article URL: https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class\nComments URL: https://news.ycombinator.com/item?id=50226419\nPoints: 9\n# Comments: 5",
-      "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class"
-    },
-    {
-      "category": "AI",
-      "title": "Argus – a free, open-source agentic security operations platform – MIT",
-      "source": "Hacker News: Front Page",
-      "date": "Sat, 24 Oct 2026 21:54:16 +0000",
-      "summary": "Article URL: https://thomasunise.com/argus\nComments URL: https://news.ycombinator.com/item?id=50225748\nPoints: 21\n# Comments: 6",
-      "url": "https://thomasunise.com/argus"
-    },
-    {
-      "category": "AI",
-      "title": "We should be more ambitious with the software we build",
-      "source": "Hacker News: Front Page",
-      "date": "Sat, 24 Oct 2026 21:47:31 +0000",
-      "summary": "Article URL: https://danluu.com/ambitious/\nComments URL: https://news.ycombinator.com/item?id=50225695\nPoints: 57\n# Comments: 31",
-      "url": "https://danluu.com/ambitious/"
+      "category": "Space",
+      "title": " On this day in space! Oct. 25, 1671: Astronomer Giovanni Cassini discovers Iapetus, Saturn's 'yin-yang' moon ",
+      "source": " Latest from Space.com ",
+      "date": "Sun, 25 Oct 2026 13:17:54 +0000",
+      "summary": "On Oct. 25, 1671, the Italian astronomer Giovanni Cassini discovered a new moon at Saturn! Here's why it mattered.",
+      "url": "https://www.space.com/space-exploration/on-this-day-in-space-oct-25-1671-astronomer-giovanni-cassini-discovers-iapetus-saturns-yin-yang-moon"
     },
     {
       "category": "Science",
-      "title": "Bell pepper colors reveal differences in sweetness, nutrients and ripeness",
+      "title": "Microorganisms show promise for reducing emissions from manure",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Sat, 24 Oct 2026 17:00:07 EDT",
-      "summary": "Raw, grilled, roasted, stuffed—there are many ways to enjoy bell peppers, also called capsicums, sweet peppers or paprika. Bell peppers originated in Central and South America and belong to the nightshade family along with tomatoes and eggplants.",
-      "url": "https://phys.org/news/2026-10-bell-pepper-reveal-differences-sweetness.html"
+      "date": "Sun, 25 Oct 2026 09:00:01 EDT",
+      "summary": "Dairy farmers sometimes use additives in their cattle housing to reduce emissions from slurry. Emissions of substances such as ammonia occur when urine and feces mix on the floor of the housing. At the same time, dairy farmers want to increase the fertilizing value of the manure when it is applied to agricultural land.",
+      "url": "https://phys.org/news/2026-10-microorganisms-emissions-manure.html"
     },
     {
       "category": "Science",
-      "title": "Tests reveal why titanium additions do not fully prevent pitting corrosion in stainless steel",
+      "title": "Southern Africa's first known stenciled rock art found hiding in plain sight",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Sat, 24 Oct 2026 17:00:01 EDT",
-      "summary": "Stainless steel is widely used for its corrosion resistance, but it is not invincible. In environments containing chloride ions, such as seawater, pitting corrosion can occur. These pits often start at tiny particles called inclusions embedded in the steel.",
-      "url": "https://phys.org/news/2026-10-reveal-titanium-additions-fully-pitting.html"
+      "date": "Sun, 25 Oct 2026 08:40:02 EDT",
+      "summary": "Southern Africa has one of the most detailed and elaborate bodies of rock art anywhere in the world, from herds of running antelope to dancing men and humanoid beings with wings, hooves and horns. All are painted with fine brushstrokes or fingers. One thing this art lacks is stencils.",
+      "url": "https://phys.org/news/2026-10-southern-africa-stenciled-art-plain.html"
     },
     {
       "category": "Science",
-      "title": "Single X-ray pulse reveals plasma nanostructures across scales with one camera",
+      "title": "Three giant black holes discovered in a galaxy from the dawn of time",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Sun, 25 Oct 2026 08:07:01 EDT",
+      "summary": "Astronomers have discovered three actively feeding black holes inside a single galaxy more than 12.5 billion light-years away, revealing a remarkable scene from the universe’s infancy. Two of the black holes are separated by just 620 light-years and are expected to eventually merge, while a third lurks farther away. One weighs an astonishing 80 million suns, and another is growing faster than conventional theories predict.",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261024222000.htm"
+    },
+    {
+      "category": "Science",
+      "title": "Global underground CO₂ storage hit record 43.6 million metric tons in 2024 alone",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Sat, 24 Oct 2026 15:00:06 EDT",
-      "summary": "Understanding instabilities and turbulence in plasmas is one of the key challenges across a wide range of plasma research fields, including nuclear fusion, astrophysics and laser-plasma physics. In plasmas, slight disturbances can grow due to instabilities, and energy is transferred between structures of various sizes due to turbulence. These phenomena give rise to structures ranging from very small to large, which significantly influence the overall motion and energy flow of the plasma.",
-      "url": "https://phys.org/news/2026-10-ray-pulse-reveals-plasma-nanostructures.html"
+      "date": "Sun, 25 Oct 2026 08:00:01 EDT",
+      "summary": "The most comprehensive record yet of carbon dioxide stored underground through geological carbon dioxide storage has been published today, revealing that 43.6 million metric tons were sequestered in 2024 alone—a new annual record—and that 421.7 million metric tons have now been stored in the past three decades.",
+      "url": "https://phys.org/news/2026-10-global-underground-storage-million-metric.html"
+    },
+    {
+      "category": "Science",
+      "title": "Low-dose aspirin linked to 70% lower dementia risk, but there's a catch",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Sun, 25 Oct 2026 06:21:48 EDT",
+      "summary": "A common, inexpensive medication could hold an unexpected clue to preventing dementia. Researchers found that older adults with a specific genetic profile had a 70% lower relative risk of dementia when taking low-dose aspirin, even though previous studies found no overall protective effect. The discovery suggests that genetics could help explain why some people benefit while others do not.",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261024222026.htm"
+    },
+    {
+      "category": "Science",
+      "title": " Cosmic 'seagull' locks eyes with the Vera C. Rubin Observatory in long-awaited test image ",
+      "source": " Latest from Live Science ",
+      "date": "Sun, 25 Oct 2026 10:00:00 +0000",
+      "summary": "Stare into the transfixing eye of the \"Seagull Nebula\" in this newly-released test image from the visionary Vera C. Rubin Observatory.",
+      "url": "https://www.livescience.com/space/astronomy/cosmic-seagull-locks-eyes-with-the-vera-c-rubin-observatory-in-long-awaited-test-image-space-photo-of-the-week"
+    },
+    {
+      "category": "Science",
+      "title": " How purported tales of consuming vampire blood and organs spread in the 18th century ",
+      "source": " Latest from Live Science ",
+      "date": "Sun, 25 Oct 2026 10:00:00 +0000",
+      "summary": "In this excerpt from \"Killing the Dead,\" author John Blair looks at how the printed press ramped up tales of vampirism, leading to stories of people eating a supposed vampire's organs and drinking their blood in a bid to avoid the same fate.",
+      "url": "https://www.livescience.com/archaeology/drinking-the-corpses-blood-mixed-with-vodka-how-purported-tales-of-consuming-vampire-blood-and-organs-spread-in-the-18th-century"
+    },
+    {
+      "category": "Space",
+      "title": " October's 'Hunter's Moon' stalks into the autumn sky tonight: Here's what you need to know ",
+      "source": " Latest from Space.com ",
+      "date": "Sun, 25 Oct 2026 10:00:00 +0000",
+      "summary": "The October full moon rises on Oct. 25. Here's how to see it, why it's called the \"Hunter's Moon\" and everything else you need to know about the lunar milestone.",
+      "url": "https://www.space.com/stargazing/octobers-hunters-moon-stalks-into-the-autumn-sky-tonight-heres-what-you-need-to-know"
+    },
+    {
+      "category": "Science",
+      "title": " What happened when humans encountered Gigantopithecus? ",
+      "source": " Latest from Live Science ",
+      "date": "Sun, 25 Oct 2026 09:00:00 +0000",
+      "summary": "Gigantopithecus was the largest primate that ever lived. What would have happened when human ancestors encountered it?",
+      "url": "https://www.livescience.com/archaeology/what-happened-when-humans-encountered-gigantopithecus"
+    },
+    {
+      "category": "Space",
+      "title": "APOD: 2026 October 25 – Dark Matter in a Simulated Universe",
+      "source": "NASA",
+      "date": "Sun, 25 Oct 2026 08:19:48 +0000",
+      "summary": "APOD Science APOD APOD: 2026 October 25 – Dark… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Dark Matter […]",
+      "url": "https://science.nasa.gov/image-article/apod-2026-october-25-dark-matter-in-a-simulated-universe/"
+    },
+    {
+      "category": "Science",
+      "title": "This mysterious mushroom makes people see hundreds of tiny humans",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Sun, 25 Oct 2026 02:36:10 EDT",
+      "summary": "For nearly a century, people in distant parts of the world have reported a bizarre experience after eating certain wild mushrooms: seeing dozens or even hundreds of tiny, colorful humans moving through the real world. Now, scientists have identified a mushroom species, Lanmaoa asiatica, responsible for these extraordinary hallucinations in China and the Philippines.",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261024222021.htm"
+    },
+    {
+      "category": "Theology",
+      "title": "Broken Bodies Make Beautiful Temples",
+      "source": "The Gospel Coalition",
+      "date": "Sun, 25 Oct 2026 04:00:00 +0000",
+      "summary": "We must view our foreign-feeling bodies as vessels through which God demonstrates his redeeming strength.",
+      "url": "https://www.thegospelcoalition.org/article/broken-bodies-beautiful-temples/"
     },
     {
       "category": "Space",
@@ -57,54 +113,6 @@
       "date": "Sat, 24 Oct 2026 15:53:21 +0000",
       "summary": "On Episode 233 of This Week In Space, Tariq Malik and Rick Jenet are joined by Dr. Amanda Smith-Hackler, with the Universities Space Research Association, about entering the space workforce.",
       "url": "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-233-the-artemis-generation"
-    },
-    {
-      "category": "Space",
-      "title": " On this day in space! Oct. 24, 1946: V-2 rocket takes 1st photos of Earth from space ",
-      "source": " Latest from Space.com ",
-      "date": "Sat, 24 Oct 2026 15:33:08 +0000",
-      "summary": "On October 24, 1946, a V-2 rocket captured the first-ever photo of Earth from space. Here's why it mattered.",
-      "url": "https://www.space.com/space-exploration/on-this-day-in-space-october-24-2026"
-    },
-    {
-      "category": "Science",
-      "title": "Could lowering high blood pressure be as simple as stimulating your ear?",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Sat, 24 Oct 2026 09:15:00 EDT",
-      "summary": "A small device that gently stimulates nerves through the ear could offer a new way to tackle stubborn high blood pressure. In a clinical trial of 63 patients already taking medication, the treatment proved safe, easy to use at home, and well tolerated. Although it did not significantly outperform a placebo overall, patients with more severe hypertension showed promising reductions in blood pressure.",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261023023732.htm"
-    },
-    {
-      "category": "Science",
-      "title": "A hidden bias in human language challenges 70 years of science",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Sat, 24 Oct 2026 09:01:22 EDT",
-      "summary": "A groundbreaking study challenges 70 years of assumptions about how human language works. By analyzing billions of word uses, scientists discovered that meaning is organized around power, danger, and order rather than emotion alone. Even more surprisingly, human language shows a powerful hidden preference for safety, suggesting that our words may reflect ancient survival instincts.",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261023023738.htm"
-    },
-    {
-      "category": "Science",
-      "title": "NASA’s asteroid Bennu samples reveal a 4.5-billion-year-old secret",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Sat, 24 Oct 2026 08:50:06 EDT",
-      "summary": "Tiny samples from asteroid Bennu are rewriting scientists' understanding of how our Solar System formed. New evidence suggests that Bennu was born where material from the inner and outer Solar System mixed, with Jupiter playing a surprising role in shaping its formation.",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261023023734.htm"
-    },
-    {
-      "category": "Science",
-      "title": " AI giants are one big mistake away from catastrophe. They could learn a lot from the nuclear industry. ",
-      "source": " Latest from Live Science ",
-      "date": "Sat, 24 Oct 2026 12:00:00 +0000",
-      "summary": "AI companies know they are being held hostage by each other, and that they need to take action to self-regulate before they suffer major reputational and legal consequences. There is a blueprint on how they can do it, says associate professor  Akhil Bhardwaj.",
-      "url": "https://www.livescience.com/artificial-intelligence/human-evolution/ai-giants-are-one-big-mistake-away-from-catastrophe-they-could-learn-a-lot-from-the-nuclear-industry-opinion"
-    },
-    {
-      "category": "Space",
-      "title": " 'Star Trek: Strange New Worlds' was afraid to say anything in season of gimmicks ",
-      "source": " Latest from Space.com ",
-      "date": "Sat, 24 Oct 2026 12:00:00 +0000",
-      "summary": "The fourth season of \"Star Trek: Strange New Worlds\" was one giant gimmick: shoving \"Trek\" into as many genres as possible and often directly adapting classic films from those genres.",
-      "url": "https://www.space.com/entertainment/space-movies-shows/star-trek-strange-new-worlds-season-of-gimmicks-was-afraid-to-say-anything"
     },
     {
       "category": "AI",
@@ -121,22 +129,6 @@
       "date": "Sat, 24 Oct 2026 11:00:09 +0000",
       "summary": "The tiny remains of the Laurentide Ice Sheet began getting somewhat less tiny.",
       "url": "https://arstechnica.com/science/2026/10/ice-sheet-expansion-may-have-started-2000-years-go-but-we-canceled-that/"
-    },
-    {
-      "category": "Science",
-      "title": " Watch the full 'Hunter's Moon' rise next to Saturn this weekend ",
-      "source": " Latest from Live Science ",
-      "date": "Sat, 24 Oct 2026 11:00:00 +0000",
-      "summary": "You'll have two chances to see October's full Hunter's Moon rise dramatically this week. Here's when to get the best views.",
-      "url": "https://www.livescience.com/space/the-moon/you-have-2-superb-chances-to-watch-the-hunters-moon-rise-this-week"
-    },
-    {
-      "category": "Science",
-      "title": " Why were the Nazca Lines built? ",
-      "source": " Latest from Live Science ",
-      "date": "Sat, 24 Oct 2026 09:00:00 +0000",
-      "summary": "The Nazca Lines are sprawling geoglyphs that were constructed on Peru's ground and hillsides around 2,000 years ago. But why were they built?",
-      "url": "https://www.livescience.com/archaeology/why-were-the-nazca-lines-built"
     },
     {
       "category": "Space",
@@ -171,14 +163,6 @@
       "url": "https://www.nasa.gov/missions/artemis/nasa-partners-accelerate-lander-development-for-2028-moon-missions/"
     },
     {
-      "category": "Space",
-      "title": "NASA’s Artemis III Mission to Test Future Moon Lander Operations",
-      "source": "NASA",
-      "date": "Fri, 23 Oct 2026 22:37:53 +0000",
-      "summary": "Before astronauts return to the lunar surface, NASA will first conduct one of the most ambitious and complex test missions in the agency’s history.  Launching in 2027, Artemis III will send NASA astronauts Randy Bresnik, Frank Rubio, Andre Douglas, and ESA (European Space Agency) astronaut Luca Parmitano aboard the Orion spacecraft into low Earth orbit […]",
-      "url": "https://www.nasa.gov/missions/artemis/nasas-artemis-iii-mission-to-test-future-moon-lander-operations/"
-    },
-    {
       "category": "AI",
       "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
       "source": "OpenAI News",
@@ -209,14 +193,6 @@
       "date": "Fri, 23 Oct 2026 10:00:00 GMT",
       "summary": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.",
       "url": "https://openai.com/index/securing-our-frontier-model-training-environment"
-    },
-    {
-      "category": "Theology",
-      "title": "What You Should Know About the Hebrew Roots Movement",
-      "source": "The Gospel Coalition",
-      "date": "Fri, 23 Oct 2026 04:02:00 +0000",
-      "summary": "The Hebrew Roots Movement is a modern version of the New Testament Judaizers who were rebuked by Paul.",
-      "url": "https://www.thegospelcoalition.org/article/hebrew-roots-movement-explained/"
     },
     {
       "category": "AI",
