@@ -1,7 +1,55 @@
 {
-  "lastUpdated": "2026-10-25T14:02:38.128Z",
-  "articleCount": 36,
+  "lastUpdated": "2026-10-25T18:38:54.695Z",
+  "articleCount": 39,
   "articles": [
+    {
+      "category": "Science",
+      "title": "Milky Way's disk grew 'upside down,' with younger stars forming in ever-thinner layers",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sun, 25 Oct 2026 14:30:02 EDT",
+      "summary": "The Milky Way is home to hundreds of billions of stars arranged in a glorious spiral pattern. But beyond the obvious spiral, our galaxy has other physical characteristics. It's divided into a galactic bulge, a galactic disk and a galactic halo.",
+      "url": "https://phys.org/news/2026-10-milky-disk-grew-upside-younger.html"
+    },
+    {
+      "category": "AI",
+      "title": "Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop",
+      "source": "Hacker News: Front Page",
+      "date": "Sun, 25 Oct 2026 18:04:11 +0000",
+      "summary": "Article URL: https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/\nComments URL: https://news.ycombinator.com/item?id=50234232\nPoints: 28\n# Comments: 3",
+      "url": "https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/"
+    },
+    {
+      "category": "Science",
+      "title": "How screening tools measure disadvantage may leave rural communities overlooked for public support",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sun, 25 Oct 2026 14:00:02 EDT",
+      "summary": "Whether a community is prioritized for public support can depend on how its needs are measured, according to new research from the University of New Hampshire. The study found significant differences in how government screening tools identify communities, particularly in rural areas where those differences could affect access to funding.",
+      "url": "https://phys.org/news/2026-10-screening-tools-disadvantage-rural-communities.html"
+    },
+    {
+      "category": "AI",
+      "title": "Ask HN: What is the main bottleneck facing Agentic AI today?",
+      "source": "Hacker News: Front Page",
+      "date": "Sun, 25 Oct 2026 17:52:28 +0000",
+      "summary": "Hey guys, today I read a statistic that showed that Agentic traffic surpassed human traffic on the internet and that statistic was very shocking to me.  At the same time I saw another statistic that showed only 10% of agents built, actually get into production. These two statistics seemed ironic to me. So I wondered to myself what is the major bottleneck that is causing a lot of the agents that are being built not get into production and what is the infrastructure missing to make Agentic traffic to thrive even more?\nComments URL: https://news.ycombinator.com/item?id=50234108\nPoints: 3\n# Comments: 5",
+      "url": "https://news.ycombinator.com/item?id=50234108"
+    },
+    {
+      "category": "AI",
+      "title": "I refuse to accept a censored Internet. Join Me at FOSDEM 27",
+      "source": "Hacker News: Front Page",
+      "date": "Sun, 25 Oct 2026 17:30:55 +0000",
+      "summary": "Article URL: https://talkweb.eu/openweb/4558/\nComments URL: https://news.ycombinator.com/item?id=50233929\nPoints: 97\n# Comments: 20",
+      "url": "https://talkweb.eu/openweb/4558/"
+    },
+    {
+      "category": "Science",
+      "title": "Patterns of polar vortices discovered in lead-free superlattices on silicon",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sun, 25 Oct 2026 13:00:01 EDT",
+      "summary": "A team at HZB has, for the first time, reported polar vortices in (BaTiO₃/SrTiO₃)₁₀ superlattices on silicon. These results expand the range of materials and substrates on which polar topological textures can occur and open up new options for incorporating complex ferroelectric states into silicon-based technologies.",
+      "url": "https://phys.org/news/2026-10-patterns-polar-vortices-free-superlattices.html"
+    },
     {
       "category": "Space",
       "title": " On this day in space! Oct. 25, 1671: Astronomer Giovanni Cassini discovers Iapetus, Saturn's 'yin-yang' moon ",
@@ -9,22 +57,6 @@
       "date": "Sun, 25 Oct 2026 13:17:54 +0000",
       "summary": "On Oct. 25, 1671, the Italian astronomer Giovanni Cassini discovered a new moon at Saturn! Here's why it mattered.",
       "url": "https://www.space.com/space-exploration/on-this-day-in-space-oct-25-1671-astronomer-giovanni-cassini-discovers-iapetus-saturns-yin-yang-moon"
-    },
-    {
-      "category": "Science",
-      "title": "Microorganisms show promise for reducing emissions from manure",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sun, 25 Oct 2026 09:00:01 EDT",
-      "summary": "Dairy farmers sometimes use additives in their cattle housing to reduce emissions from slurry. Emissions of substances such as ammonia occur when urine and feces mix on the floor of the housing. At the same time, dairy farmers want to increase the fertilizing value of the manure when it is applied to agricultural land.",
-      "url": "https://phys.org/news/2026-10-microorganisms-emissions-manure.html"
-    },
-    {
-      "category": "Science",
-      "title": "Southern Africa's first known stenciled rock art found hiding in plain sight",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sun, 25 Oct 2026 08:40:02 EDT",
-      "summary": "Southern Africa has one of the most detailed and elaborate bodies of rock art anywhere in the world, from herds of running antelope to dancing men and humanoid beings with wings, hooves and horns. All are painted with fine brushstrokes or fingers. One thing this art lacks is stencils.",
-      "url": "https://phys.org/news/2026-10-southern-africa-stenciled-art-plain.html"
     },
     {
       "category": "Science",
@@ -36,14 +68,6 @@
     },
     {
       "category": "Science",
-      "title": "Global underground CO₂ storage hit record 43.6 million metric tons in 2024 alone",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sun, 25 Oct 2026 08:00:01 EDT",
-      "summary": "The most comprehensive record yet of carbon dioxide stored underground through geological carbon dioxide storage has been published today, revealing that 43.6 million metric tons were sequestered in 2024 alone—a new annual record—and that 421.7 million metric tons have now been stored in the past three decades.",
-      "url": "https://phys.org/news/2026-10-global-underground-storage-million-metric.html"
-    },
-    {
-      "category": "Science",
       "title": "Low-dose aspirin linked to 70% lower dementia risk, but there's a catch",
       "source": "All Top News -- ScienceDaily",
       "date": "Sun, 25 Oct 2026 06:21:48 EDT",
@@ -52,19 +76,19 @@
     },
     {
       "category": "Science",
-      "title": " Cosmic 'seagull' locks eyes with the Vera C. Rubin Observatory in long-awaited test image ",
-      "source": " Latest from Live Science ",
-      "date": "Sun, 25 Oct 2026 10:00:00 +0000",
-      "summary": "Stare into the transfixing eye of the \"Seagull Nebula\" in this newly-released test image from the visionary Vera C. Rubin Observatory.",
-      "url": "https://www.livescience.com/space/astronomy/cosmic-seagull-locks-eyes-with-the-vera-c-rubin-observatory-in-long-awaited-test-image-space-photo-of-the-week"
-    },
-    {
-      "category": "Science",
       "title": " How purported tales of consuming vampire blood and organs spread in the 18th century ",
       "source": " Latest from Live Science ",
       "date": "Sun, 25 Oct 2026 10:00:00 +0000",
       "summary": "In this excerpt from \"Killing the Dead,\" author John Blair looks at how the printed press ramped up tales of vampirism, leading to stories of people eating a supposed vampire's organs and drinking their blood in a bid to avoid the same fate.",
       "url": "https://www.livescience.com/archaeology/drinking-the-corpses-blood-mixed-with-vodka-how-purported-tales-of-consuming-vampire-blood-and-organs-spread-in-the-18th-century"
+    },
+    {
+      "category": "Science",
+      "title": " Cosmic 'seagull' locks eyes with the Vera C. Rubin Observatory in long-awaited test image ",
+      "source": " Latest from Live Science ",
+      "date": "Sun, 25 Oct 2026 10:00:00 +0000",
+      "summary": "Stare into the transfixing eye of the \"Seagull Nebula\" in this newly-released test image from the visionary Vera C. Rubin Observatory.",
+      "url": "https://www.livescience.com/space/astronomy/cosmic-seagull-locks-eyes-with-the-vera-c-rubin-observatory-in-long-awaited-test-image-space-photo-of-the-week"
     },
     {
       "category": "Space",
