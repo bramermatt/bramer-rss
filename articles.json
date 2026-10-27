@@ -1,118 +1,150 @@
 {
-  "lastUpdated": "2026-10-27T15:38:06.474Z",
+  "lastUpdated": "2026-10-27T20:20:01.854Z",
   "articleCount": 39,
   "articles": [
     {
       "category": "Science",
-      "title": " Scientists invent implant that can transform sugar in the blood to treat type 2 diabetes ",
+      "title": " Is AI making you lazier? ",
       "source": " Latest from Live Science ",
-      "date": "Tue, 27 Oct 2026 15:30:00 +0000",
-      "summary": "An experimental medical device uses a tiny amount of electricity to spark a chemical reaction and remove extra sugar from the bloodstream.",
-      "url": "https://www.livescience.com/health/scientists-invent-implant-that-can-transform-sugar-in-the-blood-to-treat-type-2-diabetes"
+      "date": "Tue, 27 Oct 2026 20:13:27 +0000",
+      "summary": "A new study revealed that people who rely on AI for basic tasks like math problems became less motivated over time. In response, Live Science polled its readers to see if they agree with these findings.",
+      "url": "https://www.livescience.com/technology/artificial-intelligence/is-ai-making-you-lazier"
     },
     {
       "category": "Science",
-      "title": "Scientists reveal the staggering number of bat deaths at wind turbines",
+      "title": "What makes us human? Researchers compare brain development in humans and great apes",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Tue, 27 Oct 2026 11:29:50 EDT",
-      "summary": "Bat populations across the United States face numerous threats, and one of the biggest may be the number of collisions with wind turbines. According to the most comprehensive study of the problem to date, published in the journal Proceedings of the National Academy of Sciences, more than 18 million bats may have died at wind energy facilities between 1981 and 2024.",
-      "url": "https://phys.org/news/2026-10-scientists-reveal-staggering-deaths-turbines.html"
+      "date": "Tue, 27 Oct 2026 16:00:05 EDT",
+      "summary": "How did the human brain become so much larger than that of our closest evolutionary relatives? Part of the answer lies not in new genes, but in how humans and non-human apes use the genes they share. Using brain organoids grown from stem cells, an international team led by Prof. Mareike Albert at TUD Dresden University of Technology compared early brain development in humans, chimpanzees, and gorillas.",
+      "url": "https://phys.org/news/2026-10-human-brain-humans-great-apes.html"
     },
     {
       "category": "Science",
-      "title": "Extreme weather drives support for green voting in Europe",
+      "title": "Autonomous rendezvous system overcomes simulated spacecraft failures in lab tests",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Tue, 27 Oct 2026 11:20:20 EDT",
-      "summary": "In representative democracies, it is important that climate change policies are developed through transparent processes and with citizen representation, which in turn requires an understanding of how climate-related events influence public support for such policies.",
-      "url": "https://phys.org/news/2026-10-extreme-weather-green-voting-europe.html"
+      "date": "Tue, 27 Oct 2026 16:00:03 EDT",
+      "summary": "There is a problem in low Earth orbit, and it's growing. According to the European Space Agency, there are about 19,440 satellites on orbit, 3,540 of which are nonfunctioning and/or not emitting a signal to warn other spacecraft of their location. The need to service these sleepwalking satellites in space will only increase as more are launched.",
+      "url": "https://phys.org/news/2026-10-autonomous-rendezvous-simulated-spacecraft-failures.html"
     },
     {
       "category": "Science",
-      "title": "121-million-year-old fossils suggest Longipteryx had no tail feathers",
+      "title": "Cooperation in fish: Study reveals a social complexity seen mainly in birds, mammals",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Tue, 27 Oct 2026 11:20:16 EDT",
-      "summary": "Around 121 million years ago, somewhere in modern northeastern China, an early bird took to the skies. If you drew its silhouette, you'd notice something was missing. Unlike any bird alive today, it had no tail feathers.",
-      "url": "https://phys.org/news/2026-10-million-year-fossils-longipteryx-tail.html"
+      "date": "Tue, 27 Oct 2026 16:00:01 EDT",
+      "summary": "In some group-living animals, individuals other than the parents help care for offspring. This breeding system, known as cooperative breeding, is thought to have evolved from monogamous family groups in which offspring remain in their natal group and engage in various cooperative behaviors, including helping to care for younger siblings. Cooperative breeding has been documented in mammals and birds.",
+      "url": "https://phys.org/news/2026-10-cooperation-fish-reveals-social-complexity.html"
     },
     {
       "category": "AI",
-      "title": "Viral Polls Are Not Representative Polls",
+      "title": "Tailscale SSH: Investigation and remediation update",
       "source": "Hacker News: Front Page",
-      "date": "Tue, 27 Oct 2026 14:49:30 +0000",
-      "summary": "Article URL: https://kevinreuning.com/blog/polling_virality.html\nComments URL: https://news.ycombinator.com/item?id=50260242\nPoints: 17\n# Comments: 7",
-      "url": "https://kevinreuning.com/blog/polling_virality.html"
+      "date": "Tue, 27 Oct 2026 19:55:21 +0000",
+      "summary": "Article URL: https://tailscale.com/ssh-investigation-update\nComments URL: https://news.ycombinator.com/item?id=50264857\nPoints: 14\n# Comments: 0",
+      "url": "https://tailscale.com/ssh-investigation-update"
     },
     {
       "category": "AI",
-      "title": "Apple iPhone Duo review: Two screens, two experiences, two thousand dollars",
-      "source": "Ars Technica - All content",
-      "date": "Tue, 27 Oct 2026 14:20:26 +0000",
-      "summary": "I respect Apple's first crack at a foldable phone, but I'm not sure I like it.",
-      "url": "https://arstechnica.com/gadgets/2026/10/apple-iphone-duo-review-two-screens-two-experiences-two-thousand-dollars/"
-    },
-    {
-      "category": "AI",
-      "title": "The US Government Is Hiding Secret Court Ruling About How It Spies on Americans",
+      "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
       "source": "Hacker News: Front Page",
-      "date": "Tue, 27 Oct 2026 14:06:42 +0000",
-      "summary": "Article URL: https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/\nComments URL: https://news.ycombinator.com/item?id=50259604\nPoints: 162\n# Comments: 30",
-      "url": "https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/"
+      "date": "Tue, 27 Oct 2026 19:55:06 +0000",
+      "summary": "Article URL: https://www.brangus.io/survival-llm\nComments URL: https://news.ycombinator.com/item?id=50264853\nPoints: 5\n# Comments: 0",
+      "url": "https://www.brangus.io/survival-llm"
     },
     {
       "category": "AI",
-      "title": "Some iPhone Duo screens are already failing, Apple says only a \"small number\" are affected",
+      "title": "Google's Android Registered App Stores program launches Dec. 1, applications now open",
       "source": "Ars Technica - All content",
-      "date": "Tue, 27 Oct 2026 14:00:49 +0000",
-      "summary": "Apple's \"precision-engineered\" hinge is apparently damaging some iPhone Duo screens.",
-      "url": "https://arstechnica.com/gadgets/2026/10/some-iphone-duo-screens-are-already-failing/"
+      "date": "Tue, 27 Oct 2026 19:32:07 +0000",
+      "summary": "Easier app installs are coming to third-party stores, pending Google's stamp of approval.",
+      "url": "https://arstechnica.com/gadgets/2026/10/googles-android-registered-app-stores-program-launches-dec-1-applications-now-open/"
     },
     {
       "category": "Space",
-      "title": " On this day in space! Oct. 27, 1961: NASA launches Saturn I rocket on 1st test flight from Florida to set stage for the mighty Saturn V moon rocket ",
-      "source": " Latest from Space.com ",
-      "date": "Tue, 27 Oct 2026 14:00:00 +0000",
-      "summary": "On Oct. 27, 1961, NASA launched the first test flight of its new Saturn I space launch vehicle. Here's why it mattered.",
-      "url": "https://www.space.com/space-exploration/on-this-day-in-space-october-27-2026"
+      "title": "NASA Invites Media to Crew Completion of Yearlong Mars Simulation",
+      "source": "NASA",
+      "date": "Tue, 27 Oct 2026 19:27:22 +0000",
+      "summary": "The four volunteers who lived and worked in a simulated NASA Mars mission for more than a year will exit their habitat on Saturday, Oct. 31, after 378 days of isolation in a facility at the agency’s Johnson Space Center in Houston. Health and performance data collected from the simulation can help NASA develop methods […]",
+      "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-crew-completion-of-yearlong-mars-simulation/"
     },
     {
       "category": "Space",
-      "title": " Mars rover tracks from a historic drive | Space photo of the day for Oct. 27, 2026 ",
+      "title": " Astronomers discover the secrets of 'string of pearls' supernova relic and the zombie star at its heart ",
       "source": " Latest from Space.com ",
-      "date": "Tue, 27 Oct 2026 14:00:00 +0000",
-      "summary": "Rover tracks can be seen on the Martian surface, left behind by NASA's Perseverance Mars rover.",
-      "url": "https://www.space.com/space-exploration/mars-rovers/mars-rover-tracks-from-a-historic-drive-space-photo-of-the-day-for-oct-27-2026"
+      "date": "Tue, 27 Oct 2026 19:00:00 +0000",
+      "summary": "Scientists are still learning about a cosmic 'string of pearls,' a unique celestial relic left by a supernova witnessed by humanity around 850 years ago, which has a zombie star at its heart.",
+      "url": "https://www.space.com/astronomy/stars/astronomers-discover-the-secrets-of-string-of-pearls-supernova-relic-and-the-zombie-star-at-its-heart"
     },
     {
       "category": "AI",
-      "title": "Giving chat feedback gives Anthropic your data",
-      "source": "Hacker News: Front Page",
-      "date": "Tue, 27 Oct 2026 13:56:15 +0000",
-      "summary": "Article URL: https://privacy.claude.com/en/articles/7996868-is-my-data-used-for-model-training\nComments URL: https://news.ycombinator.com/item?id=50259406\nPoints: 85\n# Comments: 43",
-      "url": "https://privacy.claude.com/en/articles/7996868-is-my-data-used-for-model-training"
-    },
-    {
-      "category": "AI",
-      "title": "Sculpture recreates odd optical effects of famed Lycurgus Cup",
+      "title": "Vibe genes? Natural(ish) language comes to protein, genome design software",
       "source": "Ars Technica - All content",
-      "date": "Tue, 27 Oct 2026 13:32:35 +0000",
-      "summary": "University of Sheffield researchers figured out how to recreate the 1600-year-old glass recipe.",
-      "url": "https://arstechnica.com/science/2026/10/scientists-recreate-the-1600-year-old-recipe-of-lycurgus-cup/"
+      "date": "Tue, 27 Oct 2026 18:49:08 +0000",
+      "summary": "You can apparently now tell AI tools what sort of protein you want them to make.",
+      "url": "https://arstechnica.com/science/2026/10/vibe-genes-naturalish-language-comes-to-protein-genome-design-software/"
+    },
+    {
+      "category": "AI",
+      "title": "Discord will soon let anyone find public server messages through Google",
+      "source": "Hacker News: Front Page",
+      "date": "Tue, 27 Oct 2026 18:44:17 +0000",
+      "summary": "Article URL: https://discord.com/blog/making-content-from-discoverable-servers-easier-to-discover\nComments URL: https://news.ycombinator.com/item?id=50263854\nPoints: 72\n# Comments: 42",
+      "url": "https://discord.com/blog/making-content-from-discoverable-servers-easier-to-discover"
+    },
+    {
+      "category": "Theology",
+      "title": "Why the Doctrine of Conversion Matters for Membership Interviews",
+      "source": "9Marks",
+      "date": "Tue, 27 Oct 2026 18:43:40 +0000",
+      "summary": "It’s difficult to discern whether someone has been converted if you’re hazy on what conversion is.\nThe post Why the Doctrine of Conversion Matters for Membership Interviews appeared first on 9Marks.",
+      "url": "https://www.9marks.org/article/why-the-doctrine-of-conversion-matters-for-membership-interviews/?utm_source=rss&utm_medium=rss&utm_campaign=why-the-doctrine-of-conversion-matters-for-membership-interviews"
     },
     {
       "category": "Science",
-      "title": " Twin hurricanes stare out to space as they barrel toward Hawaii ",
+      "title": " Rare tiger behaviors captured on camera show 'we really know nothing about them' ",
       "source": " Latest from Live Science ",
-      "date": "Tue, 27 Oct 2026 12:19:25 +0000",
-      "summary": "A 2016 satellite photo shows Hurricane Madeline and Hurricane Lester heading straight at Hawaii's Big Island. When viewed from above, the twin cyclones and the surrounding clouds look eerily like a giant smiley face.",
-      "url": "https://www.livescience.com/planet-earth/weather/twin-hurricanes-stare-out-to-space-as-they-barrel-toward-hawaii-earth-from-space"
+      "date": "Tue, 27 Oct 2026 18:38:01 +0000",
+      "summary": "The PBS Nature film \"Tiger Island\" captures rare glimpses of tiger behavior, including a mother, father and cubs spending time together ‪—‬ a first for these usually solitary cats.",
+      "url": "https://www.livescience.com/animals/cats/rare-tiger-behaviors-captured-on-camera-show-we-really-know-nothing-about-them"
+    },
+    {
+      "category": "AI",
+      "title": "Warner Bros. drops final trailer for Dune: Part Three",
+      "source": "Ars Technica - All content",
+      "date": "Tue, 27 Oct 2026 18:05:55 +0000",
+      "summary": "\"After years of combat, I've become the oppressor Chani had sworn to fight.\"",
+      "url": "https://arstechnica.com/culture/2026/10/warner-bros-drops-final-trailer-for-dune-part-three/"
     },
     {
       "category": "Space",
-      "title": " 'Star Trek' legend and sci-fi luminary Walter Koenig dies at 90 ",
+      "title": " November full moon 2026: When, where and how to see the Beaver Moon ",
       "source": " Latest from Space.com ",
-      "date": "Tue, 27 Oct 2026 12:15:39 +0000",
-      "summary": "The man who portrayed the U.S.S. Enterprise’s Pavel Chekov has left us after a 60-year stage and screen career",
-      "url": "https://www.space.com/entertainment/star-trek-legend-and-sci-fi-luminary-walter-koenig-dies-at-90"
+      "date": "Tue, 27 Oct 2026 18:00:00 +0000",
+      "summary": "Your guide to November's full Beaver Moon, from peak times to skywatching highlights.",
+      "url": "https://www.space.com/stargazing/november-full-moon-2026-when-where-and-how-to-see-the-beaver-moon"
+    },
+    {
+      "category": "Space",
+      "title": " Cowboy Space unveils 'Big Iron' rocket to launch 20,000 AI data centers ",
+      "source": " Latest from Space.com ",
+      "date": "Tue, 27 Oct 2026 18:00:00 +0000",
+      "summary": "Cowboy Space just gave us our first look at its \"Big Iron\" rocket, which the company will use to build its AI data center constellation. Big Iron's debut is targeted for late 2028.",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/cowboy-space-unveils-big-iron-rocket-to-launch-20-000-ai-data-centers"
+    },
+    {
+      "category": "Space",
+      "title": "NASA’s Neo Surveyor Sunshade",
+      "source": "NASA",
+      "date": "Tue, 27 Oct 2026 17:58:57 +0000",
+      "summary": "A technician inspects the large sunshade of NASA’s Near-Earth Object (NEO) Surveyor mission in this image released on Oct. 26, 2026. The sunshade structure, which stands 20 feet (6 meters) tall and measures 8 feet (2.4 meters) wide at its base, will keep the infrared space telescope cool as it searches for near-Earth asteroids and […]",
+      "url": "https://www.nasa.gov/image-article/nasas-neo-surveyor-sunshade/"
+    },
+    {
+      "category": "Science",
+      "title": " 30,000-year-old bone found in French cave reveals vast genetic connections between people of Eastern and Western Europe during the Stone Age ",
+      "source": " Latest from Live Science ",
+      "date": "Tue, 27 Oct 2026 17:54:39 +0000",
+      "summary": "Scientists sequenced the genome of a woman who lived 30,000 years ago and discovered that she had mixed Eastern and Western European ancestry.",
+      "url": "https://www.livescience.com/archaeology/human-evolution/30-000-year-old-bone-found-in-french-cave-reveals-vast-genetic-connections-between-people-of-eastern-and-western-europe-during-the-stone-age"
     },
     {
       "category": "Science",
@@ -139,14 +171,6 @@
       "url": "https://www.sciencedaily.com/releases/2026/10/261026225600.htm"
     },
     {
-      "category": "Science",
-      "title": " A psychologist explains his theory for why orcas are attacking boats  ",
-      "source": " Latest from Live Science ",
-      "date": "Tue, 27 Oct 2026 09:00:00 +0000",
-      "summary": "Live Science spoke with comparative psychologist Christian Frings to discuss a new theory for why orcas are attacking yachts.",
-      "url": "https://www.livescience.com/animals/orcas/this-psychologist-has-a-new-theory-for-why-orcas-keep-attacking-boats"
-    },
-    {
       "category": "Space",
       "title": "How a Johnson Mentor Shapes the Next Generation of NASA Talent ",
       "source": "NASA",
@@ -155,12 +179,12 @@
       "url": "https://www.nasa.gov/general/how-a-johnson-mentor-shapes-the-next-generation-of-nasa-talent/"
     },
     {
-      "category": "Space",
-      "title": "APOD: 2026 October 27 – Noctilucent Clouds over Sweden",
-      "source": "NASA",
-      "date": "Tue, 27 Oct 2026 04:05:00 +0000",
-      "summary": "APOD Science APOD APOD: 2026 October 27 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Noctilucent Clouds over […]",
-      "url": "https://science.nasa.gov/image-article/apod-2026-october-27-noctilucent-clouds-over-sweden/"
+      "category": "AI",
+      "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+      "source": "OpenAI News",
+      "date": "Tue, 27 Oct 2026 07:00:00 GMT",
+      "summary": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings.",
+      "url": "https://openai.com/index/oracle-apps-in-chatgpt"
     },
     {
       "category": "Theology",
@@ -169,14 +193,6 @@
       "date": "Tue, 27 Oct 2026 04:02:00 +0000",
       "summary": "This volume is an invitation to rediscover that heritage and to find fresh encouragement in the faithfulness of God, who has sustained his church through the centuries.",
       "url": "https://www.thegospelcoalition.org/reviews/westminster-confession-commentary/"
-    },
-    {
-      "category": "Space",
-      "title": "A-81 Reaches South Georgia",
-      "source": "NASA",
-      "date": "Tue, 27 Oct 2026 04:00:00 +0000",
-      "summary": "The Antarctic iceberg made a relatively quick exit from the Weddell Sea, only to slow at the edge of a remote island’s underwater shelf.",
-      "url": "https://science.nasa.gov/earth/earth-observatory/a-81-reaches-south-georgia/"
     },
     {
       "category": "Theology",
@@ -196,19 +212,19 @@
     },
     {
       "category": "AI",
+      "title": "How Check Point accelerates vulnerability research with Daybreak",
+      "source": "OpenAI News",
+      "date": "Tue, 27 Oct 2026 00:00:00 GMT",
+      "summary": "With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster.",
+      "url": "https://openai.com/index/check-point-daybreak"
+    },
+    {
+      "category": "AI",
       "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
       "source": "OpenAI News",
       "date": "Mon, 26 Oct 2026 22:00:00 GMT",
       "summary": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
       "url": "https://openai.com/index/greptile-code-review-codex-astra"
-    },
-    {
-      "category": "AI",
-      "title": "Working with academic communities to build scientific understanding",
-      "source": "OpenAI News",
-      "date": "Mon, 26 Oct 2026 14:30:00 GMT",
-      "summary": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them.",
-      "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities"
     },
     {
       "category": "History",
@@ -217,14 +233,6 @@
       "date": "Mon, 26 Oct 2026 14:04:50 +0000",
       "summary": "BOOK REVIEW: Remembering the Revolution: Little Compton, Rhode Island by Steven Lubar. (Little Compton, RI: Little Compton Historical Society, 2026). $25.00 hardcover. Marjory O’Toole, the Executive Director of the Little Compton Historical Society, explains the value of the Society’s recent publication Remembering the Revolution: Little Compton, Rhode Island in the book’s Foreword: Imagine the thrill […]\nThe post Remembering the Revolution: Little Compton, Rhode Island appeared first on Journal of the American Revolution.",
       "url": "https://allthingsliberty.com/2026/10/remembering-the-revolution-little-compton-rhode-island/"
-    },
-    {
-      "category": "AI",
-      "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
-      "source": "OpenAI News",
-      "date": "Mon, 26 Oct 2026 13:45:00 GMT",
-      "summary": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes.",
-      "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security"
     },
     {
       "category": "Biblical Studies",
@@ -281,14 +289,6 @@
       "date": "Tue, 13 Oct 2026 18:51:26 +0000",
       "summary": "All sinners, regardless of past trauma, messiness of life, socioeconomic background, or educational attainment must be converted the same way—through repentance and faith in Christ alone. \nThe post What Conversion Looks Like in Messy People (Like Me) appeared first on 9Marks.",
       "url": "https://www.9marks.org/article/what-conversion-looks-like-in-messy-people-like-me/?utm_source=rss&utm_medium=rss&utm_campaign=what-conversion-looks-like-in-messy-people-like-me"
-    },
-    {
-      "category": "Theology",
-      "title": "The Reason for Church: A Review",
-      "source": "9Marks",
-      "date": "Thu, 08 Oct 2026 21:49:22 +0000",
-      "summary": "Rescue us from ourselves? No. Jesus died to rescue us from God’s wrath. \nThe post The Reason for Church: A Review appeared first on 9Marks.",
-      "url": "https://www.9marks.org/review/the-reason-for-church-a-review/?utm_source=rss&utm_medium=rss&utm_campaign=the-reason-for-church-a-review"
     },
     {
       "category": "History",
