@@ -1,62 +1,158 @@
 {
-  "lastUpdated": "2026-10-26T16:23:40.518Z",
-  "articleCount": 36,
+  "lastUpdated": "2026-10-27T01:01:32.202Z",
+  "articleCount": 39,
   "articles": [
     {
       "category": "Science",
-      "title": "Britain's 1972 school reform may have lowered dementia diagnoses half a century later",
+      "title": "Students' love-hate relationship with AI",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Mon, 26 Oct 2026 12:20:01 EDT",
-      "summary": "A new study provides perhaps the strongest evidence yet that education can help mitigate long-term dementia risk.",
-      "url": "https://phys.org/news/2026-10-britain-school-reform-lowered-dementia.html"
+      "date": "Mon, 26 Oct 2026 21:00:01 EDT",
+      "summary": "ChatGPT hit like a meteorite in late 2022 and found fertile ground at EPFL, invading the computers and smartphones of tomorrow's engineers. Within two years, generative AI had spread like wildfire among our students owing to their still-malleable learning habits and the growing number of models—and the many improvements to them.",
+      "url": "https://phys.org/news/2026-10-students-relationship-ai.html"
+    },
+    {
+      "category": "History",
+      "title": "The Rise and Fall of Captain John Manley",
+      "source": "Journal of the American Revolution",
+      "date": "Tue, 27 Oct 2026 00:40:36 +0000",
+      "summary": "At the start of the American Revolution, Captain John Manley was a hero. George Washington praised him. Newspapers trumpeted his naval victories, and even his British enemies acknowledged his abilities. When Congress created the Continental Navy, it commissioned him as the second-ranking officer. Today John Manley is largely forgotten, and even his burial place is […]\nThe post The Rise and Fall of Captain John Manley appeared first on Journal of the American Revolution.",
+      "url": "https://allthingsliberty.com/2026/10/the-rise-and-fall-of-captain-john-manley/"
     },
     {
       "category": "Science",
-      "title": "Japan's largest marine DNA study detects 126 fish species farther north than previously recorded",
+      "title": "Zoologist's study of wild Panamanian bats highlights use of metrics to inform bat conservation",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Mon, 26 Oct 2026 12:00:12 EDT",
-      "summary": "As climate change reshapes habitats both on land and at sea, you might go to the beach one day, only to find yourself in a place that looks nothing like you remember, around sea creatures you don't recognize.",
-      "url": "https://phys.org/news/2026-10-japan-largest-marine-dna-fish.html"
+      "date": "Mon, 26 Oct 2026 20:40:02 EDT",
+      "summary": "Bats are not only a marvel of myth and imagination but also of energy use, working at the height of their energetic ceiling to fly the night skies the world over.",
+      "url": "https://phys.org/news/2026-10-zoologist-wild-panamanian-highlights-metrics.html"
     },
     {
       "category": "Science",
-      "title": "Armored amphibian lived entirely at sea 237 million years ago, fossils suggest",
+      "title": "New online tool to help turn food waste into opportunity",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Mon, 26 Oct 2026 12:00:06 EDT",
-      "summary": "Scientists report fossil evidence of the first fully marine amphibian in a study from the University of California, Davis; Peking University; and the Geological Museum of Guizhou. The amphibian is an armored, giant salamander–sized, bottom-dwelling ocean creature that the researchers named Gerrothorax maritimus.",
-      "url": "https://phys.org/news/2026-10-armored-amphibian-sea-million-years.html"
+      "date": "Mon, 26 Oct 2026 20:20:01 EDT",
+      "summary": "Western Australian businesses can now make better-informed decisions about reducing food waste and turning discarded materials into valuable products, thanks to a new online toolkit.",
+      "url": "https://phys.org/news/2026-10-online-tool-food-opportunity.html"
     },
     {
       "category": "Space",
-      "title": " SpaceX ignites giant Super Heavy booster engines ahead of daring Starship launch (video) ",
+      "title": "NASA’s Perseverance Views Dust at Neretva Vallis",
+      "source": "NASA",
+      "date": "Mon, 26 Oct 2026 22:48:12 +0000",
+      "summary": "Description This 360-degree look at Neretva Vallis within Mars’ Jezero Crater was stitched together using 217 images acquired by the rover’s Mastcam-Z on May 20, 2024, the 1,155th Martian day, or sol, of the mission. While it is a wind-swept dusty vista today, billions of years ago it was home to a river channel that fed fresh water into […]",
+      "url": "https://science.nasa.gov/photojournal/nasas-perseverance-views-dust-at-neretva-vallis/"
+    },
+    {
+      "category": "AI",
+      "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
+      "source": "Hacker News: Front Page",
+      "date": "Mon, 26 Oct 2026 22:41:48 +0000",
+      "summary": "Article URL: https://blog.cloudflare.com/kv-cache-exposure-remediation/\nComments URL: https://news.ycombinator.com/item?id=50252159\nPoints: 54\n# Comments: 8",
+      "url": "https://blog.cloudflare.com/kv-cache-exposure-remediation/"
+    },
+    {
+      "category": "AI",
+      "title": "Microsoft offers to buy out a quarter of its workforce",
+      "source": "Ars Technica - All content",
+      "date": "Mon, 26 Oct 2026 22:36:06 +0000",
+      "summary": "Employees in the US, Canada, India, and the UK may receive offers to leave MS today.",
+      "url": "https://arstechnica.com/gadgets/2026/10/microsoft-offers-voluntary-buyouts-to-60000-employees/"
+    },
+    {
+      "category": "AI",
+      "title": "Is PHP Running on Your ColdFusion Server? How to Check, and Remove It",
+      "source": "Hacker News: Front Page",
+      "date": "Mon, 26 Oct 2026 22:27:17 +0000",
+      "summary": "Article URL: https://www.gregoryalexander.com/blog/2026/10/23/is-php-quietly-running-on-your-coldfusion-server-how-to-check-and-remove-it\nComments URL: https://news.ycombinator.com/item?id=50252008\nPoints: 14\n# Comments: 7",
+      "url": "https://www.gregoryalexander.com/blog/2026/10/23/is-php-quietly-running-on-your-coldfusion-server-how-to-check-and-remove-it"
+    },
+    {
+      "category": "AI",
+      "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+      "source": "OpenAI News",
+      "date": "Mon, 26 Oct 2026 22:00:00 GMT",
+      "summary": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
+      "url": "https://openai.com/index/greptile-code-review-codex-astra"
+    },
+    {
+      "category": "AI",
+      "title": "The Exponential Time Hypothesis Is False [pdf]",
+      "source": "Hacker News: Front Page",
+      "date": "Mon, 26 Oct 2026 21:59:15 +0000",
+      "summary": "See also: Announcing three new discoveries in mathematics, computer science, and physics - https://news.ycombinator.com/item?id=50251344\nComments URL: https://news.ycombinator.com/item?id=50251661\nPoints: 215\n# Comments: 92",
+      "url": "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf"
+    },
+    {
+      "category": "Science",
+      "title": " NASA's Swift observatory ends 22-year mission, will crash to Earth 'in the next few weeks' ",
+      "source": " Latest from Live Science ",
+      "date": "Mon, 26 Oct 2026 21:45:22 +0000",
+      "summary": "NASA's Neil Gehrels Swift Observatory has officially ended its mission after more than 20 years, as it approaches a fiery reentry through Earth's atmosphere.",
+      "url": "https://www.livescience.com/space/space-exploration/nasas-swift-observatory-ends-22-year-mission-to-study-the-most-powerful-explosions-since-the-big-bang"
+    },
+    {
+      "category": "Space",
+      "title": "NASA’s Perseverance Offers Clues to Protect Crews From Mars Dust",
+      "source": "NASA",
+      "date": "Mon, 26 Oct 2026 21:07:28 +0000",
+      "summary": "Over 1,645 Martian days, NASA’s Perseverance Mars rover measured the fine and ultrafine Martian dust particles found clinging to samples of spacesuit materials that are carried aboard the rover, including some that are small enough to penetrate the lungs and enter the bloodstream. The findings will be published Tuesday, Oct. 27, in the Proceedings of […]",
+      "url": "https://www.nasa.gov/missions/mars-2020-perseverance/nasas-perseverance-offers-clues-to-protect-crews-from-mars-dust/"
+    },
+    {
+      "category": "Space",
+      "title": " Analog astronauts: How living underwater can prepare humans for space missions ",
       "source": " Latest from Space.com ",
-      "date": "Mon, 26 Oct 2026 16:00:00 +0000",
-      "summary": "SpaceX conducted a static-fire test with its Super Heavy boosters B22 on Sunday (Oct. 25), beginning a test campaign to ready the giant rocket for Starship's Flight Test 15.",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-ignites-giant-super-heavy-booster-engines-ahead-of-daring-starship-launch-video"
+      "date": "Mon, 26 Oct 2026 21:00:00 +0000",
+      "summary": "How living underwater can prepare humans for space missions",
+      "url": "https://www.space.com/space-exploration/missions/analog-astronauts-how-living-underwater-can-prepare-humans-for-space-missions"
+    },
+    {
+      "category": "Space",
+      "title": "NEO Surveyor’s Sunshade Gets Inspected",
+      "source": "NASA",
+      "date": "Mon, 26 Oct 2026 20:53:13 +0000",
+      "summary": "Description The large sunshade of NASA’s Near-Earth Object (NEO) Surveyor is mounted on an assembly ring during inspections in a clean room at BAE Systems Space & Mission Systems in Boulder, Colorado, in July 2026.  The sunshade structure stands 20 feet (6 meters) tall and measures 8 feet (2.4 meters) wide at its base. Its two flat […]",
+      "url": "https://science.nasa.gov/photojournal/neo-surveyors-sunshade-gets-inspected/"
     },
     {
       "category": "AI",
-      "title": "Microsoft offers mass buyouts for roughly a quarter of its workforce",
-      "source": "Hacker News: Front Page",
-      "date": "Mon, 26 Oct 2026 15:35:12 +0000",
-      "summary": "Article URL: https://www.seattletimes.com/business/microsoft/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce/\nComments URL: https://news.ycombinator.com/item?id=50245524\nPoints: 70\n# Comments: 57",
-      "url": "https://www.seattletimes.com/business/microsoft/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce/"
+      "title": "Worms mate in man's eyes, get plucked out right before larvae burst out",
+      "source": "Ars Technica - All content",
+      "date": "Mon, 26 Oct 2026 20:27:00 +0000",
+      "summary": "Case study gives a whole new meaning to \"bedroom eyes.\"",
+      "url": "https://arstechnica.com/health/2026/10/whats-worse-than-having-eye-worms-having-eye-worms-with-babies/"
     },
     {
       "category": "AI",
-      "title": "'It's offensively cheap': Solar power is quietly becoming bigger than nuclear",
-      "source": "Hacker News: Front Page",
-      "date": "Mon, 26 Oct 2026 15:26:17 +0000",
-      "summary": "Article URL: https://www.bbc.com/future/article/20261023-how-solar-became-bigger-than-nuclear\nComments URL: https://news.ycombinator.com/item?id=50245385\nPoints: 70\n# Comments: 91",
-      "url": "https://www.bbc.com/future/article/20261023-how-solar-became-bigger-than-nuclear"
+      "title": "Meet the real-life Scottish surgeon who inspired Sherlock Holmes",
+      "source": "Ars Technica - All content",
+      "date": "Mon, 26 Oct 2026 20:15:07 +0000",
+      "summary": "Lindsey Fitzharris chats with Ars about her new book, Sleuth-Hound: The Case of the Real Sherlock Holmes.",
+      "url": "https://arstechnica.com/science/2026/10/meet-the-real-life-scottish-surgeon-who-inspired-sherlock-holmes/"
     },
     {
-      "category": "AI",
-      "title": "Sebastian Raschka's from-scratch video course on building reasoning models",
-      "source": "Hacker News: Front Page",
-      "date": "Mon, 26 Oct 2026 15:11:59 +0000",
-      "summary": "Article URL: https://magazine.sebastianraschka.com/p/building-reasoning-models\nComments URL: https://news.ycombinator.com/item?id=50245138\nPoints: 68\n# Comments: 3",
-      "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models"
+      "category": "Space",
+      "title": " On this day in space! Oct. 26, 2004: Cassini spacecraft takes 1st-ever closeup photos of Saturn moon Titan ",
+      "source": " Latest from Space.com ",
+      "date": "Mon, 26 Oct 2026 19:47:12 +0000",
+      "summary": "On Oct. 26, 2004, NASA's Cassini spacecraft took the first close-up images of Saturn's largest moon Titan. Here's why it mattered.",
+      "url": "https://www.space.com/space-exploration/on-this-day-in-space-october-26-2026"
+    },
+    {
+      "category": "Space",
+      "title": " Darth Vader wields the Infinity Gauntlet in the first-ever official 'Star Wars' & 'Marvel' crossover ",
+      "source": " Latest from Space.com ",
+      "date": "Mon, 26 Oct 2026 19:00:00 +0000",
+      "summary": "If you only knew the power of the infinity stones!",
+      "url": "https://www.space.com/entertainment/space-books/darth-vader-wields-the-infinity-gauntlet-in-the-first-ever-official-star-wars-and-marvel-crossover"
+    },
+    {
+      "category": "Science",
+      "title": " A neglected particle from the dawn of time could explain why everything in the universe exists ",
+      "source": " Latest from Live Science ",
+      "date": "Mon, 26 Oct 2026 17:50:27 +0000",
+      "summary": "A hypothetical particle could have briefly held more energy than everything else in the infant universe combined, which could help explain how matter won out over antimatter.",
+      "url": "https://www.livescience.com/physics-mathematics/particle-physics/a-neglected-particle-from-the-dawn-of-time-could-explain-why-everything-in-the-universe-exists"
     },
     {
       "category": "Science",
@@ -68,19 +164,11 @@
     },
     {
       "category": "AI",
-      "title": "F1 in Texas: The American race that fans love to attend",
-      "source": "Ars Technica - All content",
-      "date": "Mon, 26 Oct 2026 14:48:24 +0000",
-      "summary": "Ars spends the weekend with the Audi Revolut F1 team at the Circuit of the Americas.",
-      "url": "https://arstechnica.com/cars/2026/10/f1-in-texas-one-more-race-and-well-have-a-new-champion/"
-    },
-    {
-      "category": "AI",
-      "title": "Tesla gave up the EV crown. Now it wants to win the autonomy race",
-      "source": "Ars Technica - All content",
-      "date": "Mon, 26 Oct 2026 14:30:27 +0000",
-      "summary": "Tesla hopes autonomy subscriptions can deliver the margins car sales cannot.",
-      "url": "https://arstechnica.com/cars/2026/10/tesla-wants-ai-and-software-to-be-its-next-profit-engine/"
+      "title": "Working with academic communities to build scientific understanding",
+      "source": "OpenAI News",
+      "date": "Mon, 26 Oct 2026 14:30:00 GMT",
+      "summary": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them.",
+      "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities"
     },
     {
       "category": "History",
@@ -91,28 +179,12 @@
       "url": "https://allthingsliberty.com/2026/10/remembering-the-revolution-little-compton-rhode-island/"
     },
     {
-      "category": "Space",
-      "title": " Glowing 'cauldron' of new stars | Space photo of the day for Oct. 26, 2026 ",
-      "source": " Latest from Space.com ",
-      "date": "Mon, 26 Oct 2026 14:00:00 +0000",
-      "summary": "The James Webb Space Telescope captured a spectacular star-forming region glowing 161,000 light-years from Earth in a satellite galaxy of the Milky Way.",
-      "url": "https://www.space.com/astronomy/glowing-cauldron-of-new-stars-space-photo-of-the-day-for-oct-26-2026"
-    },
-    {
-      "category": "Science",
-      "title": " Colorectal cancer cases in kids have risen sixfold over past 2 decades ‪—‬ researchers are racing to understand why ",
-      "source": " Latest from Live Science ",
-      "date": "Mon, 26 Oct 2026 12:00:00 +0000",
-      "summary": "While rare, colorectal cancer is becoming more common in kids, teens and young adults, and the disease appears particularly aggressive in this age group.",
-      "url": "https://www.livescience.com/health/cancer/colorectal-cancer-cases-in-kids-have-risen-sixfold-over-past-2-decades-researchers-are-racing-to-understand-why"
-    },
-    {
-      "category": "Space",
-      "title": " Rubin telescope should find more of Earth's mysterious 'mini-moons' — including some we can study up close ",
-      "source": " Latest from Space.com ",
-      "date": "Mon, 26 Oct 2026 12:00:00 +0000",
-      "summary": "Earth’s tiny, temporary moons could become some of the easiest asteroid targets for future missions. And we'll likely find more of them soon, thanks to the Rubin telescope.",
-      "url": "https://www.space.com/space-exploration/rubin-telescope-should-find-more-of-earths-mysterious-mini-moons-including-some-we-can-study-up-close"
+      "category": "AI",
+      "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+      "source": "OpenAI News",
+      "date": "Mon, 26 Oct 2026 13:45:00 GMT",
+      "summary": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes.",
+      "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security"
     },
     {
       "category": "Science",
@@ -131,22 +203,6 @@
       "url": "https://www.sciencedaily.com/releases/2026/10/261025073055.htm"
     },
     {
-      "category": "AI",
-      "title": "From impulse purchase to pocket studio: The M-Vave FM-1",
-      "source": "Ars Technica - All content",
-      "date": "Mon, 26 Oct 2026 11:00:15 +0000",
-      "summary": "M-Vave's cheap FM-1 pocket synth has exploded as a community firmware playground.",
-      "url": "https://arstechnica.com/gadgets/2026/10/from-impulse-purchase-to-pocket-studio-the-m-vave-fm-1/"
-    },
-    {
-      "category": "Science",
-      "title": " Rare burial of elite toddler from pre-Inca culture discovered in Peru ",
-      "source": " Latest from Live Science ",
-      "date": "Mon, 26 Oct 2026 11:00:00 +0000",
-      "summary": "Archaeologists have uncovered the 1,500-year-old burial of an elite toddler from the Moche culture in Peru.",
-      "url": "https://www.livescience.com/archaeology/americas/rare-burial-of-elite-toddler-from-pre-inca-culture-discovered-in-peru"
-    },
-    {
       "category": "Biblical Studies",
       "title": "All Roads Lead to Byzantium?",
       "source": "Biblical Archaeology Society",
@@ -161,14 +217,6 @@
       "date": "Mon, 26 Oct 2026 06:06:16 EDT",
       "summary": "Scientists have filmed tiny magnetic vortices called skyrmions melting out of an organized lattice for the first time, revealing new ways to manipulate these unusual structures. The breakthrough could help make brain-like computers a reality, potentially enabling dramatically smaller and more energy-efficient technology.",
       "url": "https://www.sciencedaily.com/releases/2026/10/261025073038.htm"
-    },
-    {
-      "category": "AI",
-      "title": "How Fanatics and OpenAI streamline the fan experience",
-      "source": "OpenAI News",
-      "date": "Mon, 26 Oct 2026 07:00:00 GMT",
-      "summary": "Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly 30,000 MLB products showed 10% higher engagement.",
-      "url": "https://openai.com/index/fanatics-streamline-fan-experience"
     },
     {
       "category": "Theology",
@@ -195,28 +243,12 @@
       "url": "https://www.thegospelcoalition.org/article/motivation-use-time-better/"
     },
     {
-      "category": "AI",
-      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
-      "source": "OpenAI News",
-      "date": "Fri, 23 Oct 2026 17:00:00 GMT",
-      "summary": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
-      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two"
-    },
-    {
       "category": "Biblical Studies",
       "title": "Ramesses the Great—and the Missing Exodus",
       "source": "Biblical Archaeology Society",
       "date": "Fri, 23 Oct 2026 10:45:29 +0000",
       "summary": "Ramses and the Pharaohs’ Gold, now at NEON at Battersea Power Station in London, opened earlier this year. The international exhibition features some 180 ancient […]\nThe post Ramesses the Great—and the Missing Exodus appeared first on Biblical Archaeology Society.",
       "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-egypt/ramesses-great-and-missing-exodus/"
-    },
-    {
-      "category": "AI",
-      "title": "Securing our frontier model training environment",
-      "source": "OpenAI News",
-      "date": "Fri, 23 Oct 2026 10:00:00 GMT",
-      "summary": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.",
-      "url": "https://openai.com/index/securing-our-frontier-model-training-environment"
     },
     {
       "category": "Biblical Studies",
@@ -233,14 +265,6 @@
       "date": "Wed, 21 Oct 2026 22:00:36 +0000",
       "summary": "In the dead of winter, the commandant of the Continental Army’s garrison on the Mohawk River received an unwelcome visitor. A batteau from downriver in the direction of Albany appeared at Fort Schuyler’s landing unannounced and set down a man named Grant Cottle and a shipment of one-hundred-and-eleven gallons of spirituous liquors. In short order, […]\nThe post Last Call for a Dram Seller on the Mohawk River appeared first on Journal of the American Revolution.",
       "url": "https://allthingsliberty.com/2026/10/last-call-for-a-dram-seller-on-the-mohawk-river/"
-    },
-    {
-      "category": "History",
-      "title": "Payback: Attack on the DeLancey House",
-      "source": "Journal of the American Revolution",
-      "date": "Mon, 19 Oct 2026 22:00:13 +0000",
-      "summary": "The night was dark. Clouds blotted out the stars; the waning quarter moon would not rise until nearly dawn. Whaleboats under Capt. John Buchanan slipped silently down the Hudson River from Tarrytown on the ebbing tide. As they approached Manhattan, they glided with muffled oars past His Majesty’s twenty-gun post ship Mercury, lying at anchor […]\nThe post Payback: Attack on the DeLancey House appeared first on Journal of the American Revolution.",
-      "url": "https://allthingsliberty.com/2026/10/payback-attack-on-the-delancey-house/"
     },
     {
       "category": "Theology",
