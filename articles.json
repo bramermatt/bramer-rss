@@ -1,7 +1,87 @@
 {
-  "lastUpdated": "2026-10-27T20:20:01.854Z",
+  "lastUpdated": "2026-10-28T00:51:01.178Z",
   "articleCount": 39,
   "articles": [
+    {
+      "category": "Science",
+      "title": "Report indicates water, food and power at risk by strong El Niño",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Tue, 27 Oct 2026 20:40:01 EDT",
+      "summary": "Rainfall reductions of up to 80% and torrential precipitation leading to severe flooding and landslides are the expected consequences across different areas of Latin America and the Caribbean from the impact of the El Niño phenomenon in 2027, according to a report co-authored by the General Secretariat of the Organization of American States (OAS), which urges member states to strengthen prevention and preparedness during the final months of 2026.",
+      "url": "https://phys.org/news/2026-10-food-power-strong-el-nio.html"
+    },
+    {
+      "category": "Science",
+      "title": "Cost overruns aren't just due to incompetence, bureaucracy and bad faith",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Tue, 27 Oct 2026 20:20:01 EDT",
+      "summary": "Nine out of 10 major transportation projects go over their initial budget. This isn't always because of incompetence.",
+      "url": "https://phys.org/news/2026-10-overruns-due-incompetence-bureaucracy-bad.html"
+    },
+    {
+      "category": "Science",
+      "title": "Punishment alone won't help gang‑involved teens—a former child soldier explains why",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Tue, 27 Oct 2026 20:10:06 EDT",
+      "summary": "When Americans hear of child soldiers, they may imagine tragic images of children wielding rifles on distant battlefields.",
+      "url": "https://phys.org/news/2026-10-wont-ganginvolved-teens-child-soldier.html"
+    },
+    {
+      "category": "AI",
+      "title": "Free daily JSON feed of Shanghai government subsidy notices",
+      "source": "Hacker News: Front Page",
+      "date": "Tue, 27 Oct 2026 23:46:21 +0000",
+      "summary": "Article URL: https://github.com/ZhongGheart/china-policy-data\nComments URL: https://news.ycombinator.com/item?id=50267494\nPoints: 6\n# Comments: 0",
+      "url": "https://github.com/ZhongGheart/china-policy-data"
+    },
+    {
+      "category": "AI",
+      "title": "Apple refreshes the iMac, entry-level MacBook Pro with the M6 chip",
+      "source": "Ars Technica - All content",
+      "date": "Tue, 27 Oct 2026 22:37:30 +0000",
+      "summary": "Additionally, the N1 chip brings Wi-Fi 7 and Bluetooth 6.",
+      "url": "https://arstechnica.com/apple/2026/10/apple-refreshes-the-imac-entry-level-macbook-pro-with-the-m6-chip/"
+    },
+    {
+      "category": "AI",
+      "title": "Reviewers rarely talk about reliability. Owners bring it up twice as often",
+      "source": "Hacker News: Front Page",
+      "date": "Tue, 27 Oct 2026 22:31:15 +0000",
+      "summary": "Article URL: https://www.bettascore.ai/research/reliability-reviewers-vs-owners\nComments URL: https://news.ycombinator.com/item?id=50266780\nPoints: 37\n# Comments: 38",
+      "url": "https://www.bettascore.ai/research/reliability-reviewers-vs-owners"
+    },
+    {
+      "category": "AI",
+      "title": "Expanding our partnership with GSA to bring Claude to all levels of government",
+      "source": "Hacker News: Front Page",
+      "date": "Tue, 27 Oct 2026 22:23:37 +0000",
+      "summary": "Article URL: https://www.anthropic.com/news/expanding-partnership-gsa\nComments URL: https://news.ycombinator.com/item?id=50266701\nPoints: 14\n# Comments: 8",
+      "url": "https://www.anthropic.com/news/expanding-partnership-gsa"
+    },
+    {
+      "category": "AI",
+      "title": "South Carolina's measles outbreak jumped to Washington state 5 times in 2 weeks",
+      "source": "Ars Technica - All content",
+      "date": "Tue, 27 Oct 2026 22:22:32 +0000",
+      "summary": "International travel used to be the main risk of measles cases in the US—not anymore.",
+      "url": "https://arstechnica.com/health/2026/10/domestic-travel-poses-growing-risk-for-measles-and-a-new-challenge-for-states/"
+    },
+    {
+      "category": "AI",
+      "title": "China's top-secret spaceplane can't hide in low-Earth orbit",
+      "source": "Ars Technica - All content",
+      "date": "Tue, 27 Oct 2026 22:04:50 +0000",
+      "summary": "The DIA's threat assessment suggests China may soon place directed energy weapons in space.",
+      "url": "https://arstechnica.com/space/2026/10/chinas-top-secret-spaceplane-cant-hide-in-low-earth-orbit/"
+    },
+    {
+      "category": "Space",
+      "title": " How 'spacewalking' underwater made me feel like I was really in space ",
+      "source": " Latest from Space.com ",
+      "date": "Tue, 27 Oct 2026 21:00:00 +0000",
+      "summary": "Analog Astronaut Commander and Aquanaut Michaela Musilova led underwater simulated “spacewalks” in low visibility to test astronaut safety and communication protocols during simulated space missions.",
+      "url": "https://www.space.com/space-exploration/human-spaceflight/how-spacewalking-underwater-made-me-feel-like-i-was-really-in-space"
+    },
     {
       "category": "Science",
       "title": " Is AI making you lazier? ",
@@ -9,54 +89,6 @@
       "date": "Tue, 27 Oct 2026 20:13:27 +0000",
       "summary": "A new study revealed that people who rely on AI for basic tasks like math problems became less motivated over time. In response, Live Science polled its readers to see if they agree with these findings.",
       "url": "https://www.livescience.com/technology/artificial-intelligence/is-ai-making-you-lazier"
-    },
-    {
-      "category": "Science",
-      "title": "What makes us human? Researchers compare brain development in humans and great apes",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Tue, 27 Oct 2026 16:00:05 EDT",
-      "summary": "How did the human brain become so much larger than that of our closest evolutionary relatives? Part of the answer lies not in new genes, but in how humans and non-human apes use the genes they share. Using brain organoids grown from stem cells, an international team led by Prof. Mareike Albert at TUD Dresden University of Technology compared early brain development in humans, chimpanzees, and gorillas.",
-      "url": "https://phys.org/news/2026-10-human-brain-humans-great-apes.html"
-    },
-    {
-      "category": "Science",
-      "title": "Autonomous rendezvous system overcomes simulated spacecraft failures in lab tests",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Tue, 27 Oct 2026 16:00:03 EDT",
-      "summary": "There is a problem in low Earth orbit, and it's growing. According to the European Space Agency, there are about 19,440 satellites on orbit, 3,540 of which are nonfunctioning and/or not emitting a signal to warn other spacecraft of their location. The need to service these sleepwalking satellites in space will only increase as more are launched.",
-      "url": "https://phys.org/news/2026-10-autonomous-rendezvous-simulated-spacecraft-failures.html"
-    },
-    {
-      "category": "Science",
-      "title": "Cooperation in fish: Study reveals a social complexity seen mainly in birds, mammals",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Tue, 27 Oct 2026 16:00:01 EDT",
-      "summary": "In some group-living animals, individuals other than the parents help care for offspring. This breeding system, known as cooperative breeding, is thought to have evolved from monogamous family groups in which offspring remain in their natal group and engage in various cooperative behaviors, including helping to care for younger siblings. Cooperative breeding has been documented in mammals and birds.",
-      "url": "https://phys.org/news/2026-10-cooperation-fish-reveals-social-complexity.html"
-    },
-    {
-      "category": "AI",
-      "title": "Tailscale SSH: Investigation and remediation update",
-      "source": "Hacker News: Front Page",
-      "date": "Tue, 27 Oct 2026 19:55:21 +0000",
-      "summary": "Article URL: https://tailscale.com/ssh-investigation-update\nComments URL: https://news.ycombinator.com/item?id=50264857\nPoints: 14\n# Comments: 0",
-      "url": "https://tailscale.com/ssh-investigation-update"
-    },
-    {
-      "category": "AI",
-      "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
-      "source": "Hacker News: Front Page",
-      "date": "Tue, 27 Oct 2026 19:55:06 +0000",
-      "summary": "Article URL: https://www.brangus.io/survival-llm\nComments URL: https://news.ycombinator.com/item?id=50264853\nPoints: 5\n# Comments: 0",
-      "url": "https://www.brangus.io/survival-llm"
-    },
-    {
-      "category": "AI",
-      "title": "Google's Android Registered App Stores program launches Dec. 1, applications now open",
-      "source": "Ars Technica - All content",
-      "date": "Tue, 27 Oct 2026 19:32:07 +0000",
-      "summary": "Easier app installs are coming to third-party stores, pending Google's stamp of approval.",
-      "url": "https://arstechnica.com/gadgets/2026/10/googles-android-registered-app-stores-program-launches-dec-1-applications-now-open/"
     },
     {
       "category": "Space",
@@ -75,22 +107,6 @@
       "url": "https://www.space.com/astronomy/stars/astronomers-discover-the-secrets-of-string-of-pearls-supernova-relic-and-the-zombie-star-at-its-heart"
     },
     {
-      "category": "AI",
-      "title": "Vibe genes? Natural(ish) language comes to protein, genome design software",
-      "source": "Ars Technica - All content",
-      "date": "Tue, 27 Oct 2026 18:49:08 +0000",
-      "summary": "You can apparently now tell AI tools what sort of protein you want them to make.",
-      "url": "https://arstechnica.com/science/2026/10/vibe-genes-naturalish-language-comes-to-protein-genome-design-software/"
-    },
-    {
-      "category": "AI",
-      "title": "Discord will soon let anyone find public server messages through Google",
-      "source": "Hacker News: Front Page",
-      "date": "Tue, 27 Oct 2026 18:44:17 +0000",
-      "summary": "Article URL: https://discord.com/blog/making-content-from-discoverable-servers-easier-to-discover\nComments URL: https://news.ycombinator.com/item?id=50263854\nPoints: 72\n# Comments: 42",
-      "url": "https://discord.com/blog/making-content-from-discoverable-servers-easier-to-discover"
-    },
-    {
       "category": "Theology",
       "title": "Why the Doctrine of Conversion Matters for Membership Interviews",
       "source": "9Marks",
@@ -107,28 +123,12 @@
       "url": "https://www.livescience.com/animals/cats/rare-tiger-behaviors-captured-on-camera-show-we-really-know-nothing-about-them"
     },
     {
-      "category": "AI",
-      "title": "Warner Bros. drops final trailer for Dune: Part Three",
-      "source": "Ars Technica - All content",
-      "date": "Tue, 27 Oct 2026 18:05:55 +0000",
-      "summary": "\"After years of combat, I've become the oppressor Chani had sworn to fight.\"",
-      "url": "https://arstechnica.com/culture/2026/10/warner-bros-drops-final-trailer-for-dune-part-three/"
-    },
-    {
       "category": "Space",
       "title": " November full moon 2026: When, where and how to see the Beaver Moon ",
       "source": " Latest from Space.com ",
       "date": "Tue, 27 Oct 2026 18:00:00 +0000",
       "summary": "Your guide to November's full Beaver Moon, from peak times to skywatching highlights.",
       "url": "https://www.space.com/stargazing/november-full-moon-2026-when-where-and-how-to-see-the-beaver-moon"
-    },
-    {
-      "category": "Space",
-      "title": " Cowboy Space unveils 'Big Iron' rocket to launch 20,000 AI data centers ",
-      "source": " Latest from Space.com ",
-      "date": "Tue, 27 Oct 2026 18:00:00 +0000",
-      "summary": "Cowboy Space just gave us our first look at its \"Big Iron\" rocket, which the company will use to build its AI data center constellation. Big Iron's debut is targeted for late 2028.",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/cowboy-space-unveils-big-iron-rocket-to-launch-20-000-ai-data-centers"
     },
     {
       "category": "Space",
@@ -145,6 +145,14 @@
       "date": "Tue, 27 Oct 2026 17:54:39 +0000",
       "summary": "Scientists sequenced the genome of a woman who lived 30,000 years ago and discovered that she had mixed Eastern and Western European ancestry.",
       "url": "https://www.livescience.com/archaeology/human-evolution/30-000-year-old-bone-found-in-french-cave-reveals-vast-genetic-connections-between-people-of-eastern-and-western-europe-during-the-stone-age"
+    },
+    {
+      "category": "AI",
+      "title": "Retell uses OpenAI models to help power 100M monthly calls",
+      "source": "OpenAI News",
+      "date": "Tue, 27 Oct 2026 15:00:00 GMT",
+      "summary": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee.",
+      "url": "https://openai.com/index/retell-ai"
     },
     {
       "category": "Science",
@@ -217,14 +225,6 @@
       "date": "Tue, 27 Oct 2026 00:00:00 GMT",
       "summary": "With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster.",
       "url": "https://openai.com/index/check-point-daybreak"
-    },
-    {
-      "category": "AI",
-      "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
-      "source": "OpenAI News",
-      "date": "Mon, 26 Oct 2026 22:00:00 GMT",
-      "summary": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
-      "url": "https://openai.com/index/greptile-code-review-codex-astra"
     },
     {
       "category": "History",
