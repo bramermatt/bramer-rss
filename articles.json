@@ -1,22 +1,118 @@
 {
-  "lastUpdated": "2026-10-28T16:22:22.254Z",
-  "articleCount": 39,
+  "lastUpdated": "2026-10-29T01:27:39.682Z",
+  "articleCount": 36,
   "articles": [
     {
       "category": "Science",
-      "title": "Discovering Vasari beyond the page",
+      "title": "How the Indian Ocean is linked to Europe's early-winter rain and storms",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Wed, 28 Oct 2026 12:20:14 EDT",
-      "summary": "Most students of Renaissance art encounter Giorgio Vasari through a book. His Lives of the Most Excellent Painters, Sculptors, and Architects, first published in 1550 and expanded in a second edition in 1568, is often considered the first major work of art history, shaping how generations have understood artists such as Michelangelo, Leonardo da Vinci and Raphael. For centuries, Vasari's reputation has rested largely on his role as the artistic biographer of the Renaissance.",
-      "url": "https://phys.org/news/2026-10-vasari-page.html"
+      "date": "Wed, 28 Oct 2026 21:00:06 EDT",
+      "summary": "When we think about Europe's winter weather, the Indian Ocean is probably not the first place we look. We might picture Atlantic storms, cold air arriving from the north or rain sweeping across the Mediterranean. In my research, however, I look at how these familiar weather systems fit into a much larger climate system. My colleagues and I asked whether an ocean thousands of kilometers away could leave a detectable signature on Europe's early winter.",
+      "url": "https://phys.org/news/2026-10-indian-ocean-linked-europe-early.html"
+    },
+    {
+      "category": "AI",
+      "title": "MicroZig to Adopt Strict No LLM / No AI Policy",
+      "source": "Hacker News: Front Page",
+      "date": "Thu, 29 Oct 2026 00:30:37 +0000",
+      "summary": "Article URL: https://github.com/ZigEmbeddedGroup/microzig/blob/main/CODE_OF_CONDUCT.md\nComments URL: https://news.ycombinator.com/item?id=50282865\nPoints: 12\n# Comments: 12",
+      "url": "https://github.com/ZigEmbeddedGroup/microzig/blob/main/CODE_OF_CONDUCT.md"
+    },
+    {
+      "category": "AI",
+      "title": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
+      "source": "Hacker News: Front Page",
+      "date": "Thu, 29 Oct 2026 00:25:45 +0000",
+      "summary": "Article URL: https://divagr.com/blog/qwenputer\nComments URL: https://news.ycombinator.com/item?id=50282838\nPoints: 29\n# Comments: 2",
+      "url": "https://divagr.com/blog/qwenputer"
+    },
+    {
+      "category": "AI",
+      "title": "New York Times adds more AI features to its Cooking app. Users aren't thrilled",
+      "source": "Hacker News: Front Page",
+      "date": "Thu, 29 Oct 2026 00:16:08 +0000",
+      "summary": "Article URL: https://www.niemanlab.org/2026/10/the-new-york-times-is-adding-more-ai-features-to-its-cooking-app-and-users-arent-thrilled/\nComments URL: https://news.ycombinator.com/item?id=50282766\nPoints: 22\n# Comments: 18",
+      "url": "https://www.niemanlab.org/2026/10/the-new-york-times-is-adding-more-ai-features-to-its-cooking-app-and-users-arent-thrilled/"
     },
     {
       "category": "Science",
-      "title": "Extracellular vesicle discovery may shed light on how cancer spreads",
+      "title": "The phantom lighthouse: New research explains one of Australia's strangest illusions",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Wed, 28 Oct 2026 12:20:10 EDT",
-      "summary": "A team from the Research Institute of the McGill University Health Center (The Institute) have discovered a new type of extracellular vesicle released by migrating cancer cells, revealing a previously unknown way in which these cells shed their DNA as they move. Published today in the journal Nature Cell Biology, the findings show that these cells release tiny structures called motile vesicles (MoVes), which carry their genetic material, including cancer-associated mutations. The discovery raises important questions about the role these vesicles may play in cancer progression.",
-      "url": "https://phys.org/news/2026-10-extracellular-vesicle-discovery-cancer.html"
+      "date": "Wed, 28 Oct 2026 19:40:01 EDT",
+      "summary": "There are two lighthouses on Lady Elliot Island, at the southernmost tip of Australia's Great Barrier Reef. The first was built in 1873, but was decommissioned in 1995 when the second took over the job of warning ships off the reef. Visitors to the island, however, regularly report seeing signs of a third lighthouse. At night the beams of a nonexistent phantom lighthouse are seen far off, shining on the horizon.",
+      "url": "https://phys.org/news/2026-10-phantom-lighthouse-australia-strangest-illusions.html"
+    },
+    {
+      "category": "Science",
+      "title": "Ultrathin metal layer boosts spin-related signals, opening a door to ultralow-power electronics",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Wed, 28 Oct 2026 19:20:02 EDT",
+      "summary": "Researchers at Kyushu University have found that an ultrathin layer of iridium manganese (IrMn) can improve two spin-related signals in a structure made of a magnetic insulator and a platinum film. By examining how spin currents are generated and absorbed, the team gained insights into how the intermediate layer improves spin transfer. The findings could inform the development of ultralow-power devices for computing and energy harvesting.",
+      "url": "https://phys.org/news/2026-10-ultrathin-metal-layer-boosts-door.html"
+    },
+    {
+      "category": "Space",
+      "title": " On this day in space! Oct. 28, 1971: Britain launches its 1st satellite Prospero into space on a Black Arrow rocket ",
+      "source": " Latest from Space.com ",
+      "date": "Wed, 28 Oct 2026 23:02:12 +0000",
+      "summary": "On Oct. 28, 1971, the United Kingdom launched its first satellite. Here's why it mattered.",
+      "url": "https://www.space.com/space-exploration/on-this-day-in-space-october-28-2026"
+    },
+    {
+      "category": "AI",
+      "title": "ULA's Vulcan rocket is set to return to flight on Friday the 13th",
+      "source": "Ars Technica - All content",
+      "date": "Wed, 28 Oct 2026 22:51:15 +0000",
+      "summary": "This Vulcan launch will be the first to utilize a full complement of six solid rocket boosters.",
+      "url": "https://arstechnica.com/space/2026/10/ulas-vulcan-rocket-is-set-to-return-to-flight-on-friday-the-13th/"
+    },
+    {
+      "category": "AI",
+      "title": "As US ties fray, Europe plans first undersea cable link to Greenland",
+      "source": "Ars Technica - All content",
+      "date": "Wed, 28 Oct 2026 22:35:50 +0000",
+      "summary": "Europe's Pan-Arctic Cable will bypass US to link Canada, Japan, and South Korea.",
+      "url": "https://arstechnica.com/gadgets/2026/10/as-us-ties-fray-europe-plans-first-undersea-cable-link-to-greenland/"
+    },
+    {
+      "category": "AI",
+      "title": "Peptide peddlers cheer as RFK Jr. unilaterally grants access, overruling FDA",
+      "source": "Ars Technica - All content",
+      "date": "Wed, 28 Oct 2026 22:17:15 +0000",
+      "summary": "Six unproven peptides popular with MAHA now under \"enforcement discretion policy.\"",
+      "url": "https://arstechnica.com/health/2026/10/peptide-peddlers-cheer-as-rfk-jr-unilaterally-grants-access-overruling-fda/"
+    },
+    {
+      "category": "Science",
+      "title": " Bronze Age sword discovered in an Italian lake is still sharp after 3,300 years ",
+      "source": " Latest from Live Science ",
+      "date": "Wed, 28 Oct 2026 21:27:58 +0000",
+      "summary": "Archaeologists found several ancient weapons, intact vases and a bronze razor in the volcanic crater lake.",
+      "url": "https://www.livescience.com/archaeology/bronze-age-sword-discovered-in-an-italian-lake-is-still-sharp-after-3-300-years"
+    },
+    {
+      "category": "Space",
+      "title": " 5 days beneath the waves: What it's like to live in an underwater 'space station' ",
+      "source": " Latest from Space.com ",
+      "date": "Wed, 28 Oct 2026 21:00:00 +0000",
+      "summary": "Confined inside a research station 22 feet (7 meters) underwater, Analog Astronaut Commander Dr. Musilova and her crew performed research and maintenance activities like future astronauts on Mars.",
+      "url": "https://www.space.com/space-exploration/human-spaceflight/5-days-beneath-the-waves-what-its-like-to-live-in-an-underwater-space-station"
+    },
+    {
+      "category": "Space",
+      "title": " ISS astronaut will conduct Canada's 1st spacewalk in 7 years on Oct. 29: Watch it live ",
+      "source": " Latest from Space.com ",
+      "date": "Wed, 28 Oct 2026 20:00:00 +0000",
+      "summary": "Joshua Kutryk will venture outside the International Space Station on Oct. 29, on the first spacewalk by a Canadian astronaut in more than seven years. Here's how to watch it live.",
+      "url": "https://www.space.com/space-exploration/international-space-station/iss-astronaut-will-conduct-canadas-1st-spacewalk-in-7-years-on-oct-29-watch-it-live"
+    },
+    {
+      "category": "Science",
+      "title": " First clear image of China's mysterious 'divine dragon' space plane revealed in US government report ",
+      "source": " Latest from Live Science ",
+      "date": "Wed, 28 Oct 2026 19:04:46 +0000",
+      "summary": "The Defense Intelligence Agency's latest \"Challenges to Security in Space\" report included a declassified satellite photo of China's Shenlong, or \"divine dragon,\" space plane, which has released at least nine mysterious payloads into low Earth orbit since 2022.",
+      "url": "https://www.livescience.com/space/space-exploration/us-intelligence-report-reveals-first-clear-look-at-top-secret-chinese-space-plane-thats-been-dumping-unidentified-objects-above-earth"
     },
     {
       "category": "Science",
@@ -27,76 +123,12 @@
       "url": "https://www.livescience.com/health/immune-system/ibd-may-transform-neurons-in-the-gut-triggering-pain-even-when-inflammation-is-under-control"
     },
     {
-      "category": "Science",
-      "title": "Slow-motion electron camera reveals light-driven quantum jumps in graphene",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Wed, 28 Oct 2026 12:00:28 EDT",
-      "summary": "Using a new slow-motion electron camera, physicists from Regensburg, Marburg and Jülich revealed how intense electric fields drive electrons in graphene, causing them to jump across energy gaps in a seemingly paradoxical manner. This was made possible by a novel combination of laser technology and electron microscopy.",
-      "url": "https://phys.org/news/2026-10-motion-electron-camera-reveals-driven.html"
-    },
-    {
-      "category": "Space",
-      "title": " China's secretive space plane caught on camera in incredible new photo released by US military ",
-      "source": " Latest from Space.com ",
-      "date": "Wed, 28 Oct 2026 15:50:04 +0000",
-      "summary": "A U.S. military intelligence agency has released an incredible new photograph of China's secretive space plane, showing it docked to another spacecraft in orbit.",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/chinas-secretive-space-plane-caught-on-camera-in-incredible-new-photo-released-by-us-military"
-    },
-    {
-      "category": "Space",
-      "title": "Webb Sees Turbulent Star Nursery",
-      "source": "NASA",
-      "date": "Wed, 28 Oct 2026 15:33:10 +0000",
-      "summary": "In this Webb image released on Oct. 22, 2026, we see a turbulent cauldron of star formation filled with dense clumps of gas. This region is named N159 and is located 161,000 light-years away in the Large Magellanic Cloud, one of the satellite galaxies orbiting the Milky Way galaxy. This region has a lower metallicity […]",
-      "url": "https://www.nasa.gov/image-article/webb-sees-turbulent-star-nursery/"
-    },
-    {
       "category": "AI",
-      "title": "26,400 live credentials found scanning 7.25M repos on China's Gitee",
-      "source": "Hacker News: Front Page",
-      "date": "Wed, 28 Oct 2026 15:31:59 +0000",
-      "summary": "Article URL: https://www.mongodb.com/company/blog/technical/scanning-7-point-25-million-public-repositories-chinas-largest-git-platform-for-secrets\nComments URL: https://news.ycombinator.com/item?id=50275375\nPoints: 13\n# Comments: 2",
-      "url": "https://www.mongodb.com/company/blog/technical/scanning-7-point-25-million-public-repositories-chinas-largest-git-platform-for-secrets"
-    },
-    {
-      "category": "AI",
-      "title": "Amazon rainforest cut down to build highway for COP climate summit (2025)",
-      "source": "Hacker News: Front Page",
-      "date": "Wed, 28 Oct 2026 15:24:11 +0000",
-      "summary": "Article URL: https://www.bbc.com/news/articles/c9vy191rgn1o\nComments URL: https://news.ycombinator.com/item?id=50275235\nPoints: 27\n# Comments: 3",
-      "url": "https://www.bbc.com/news/articles/c9vy191rgn1o"
-    },
-    {
-      "category": "Space",
-      "title": " The final ‘Dune: Part Three’ trailer reignites war on Arrakis and leaves us with more questions than answers ",
-      "source": " Latest from Space.com ",
-      "date": "Wed, 28 Oct 2026 15:00:00 +0000",
-      "summary": "The spoilerific final look at Denis Villeneuve's third and final sci-fi epic is loaded with action and drama that set it apart from Dune: Messiah's pages.",
-      "url": "https://www.space.com/entertainment/space-movies-shows/the-final-dune-part-three-trailer-reignites-war-on-arrakis-and-leaves-us-with-more-questions-than-answers"
-    },
-    {
-      "category": "AI",
-      "title": "Tesla Semi catches fire on I-880",
-      "source": "Hacker News: Front Page",
-      "date": "Wed, 28 Oct 2026 14:54:07 +0000",
-      "summary": "Article URL: https://electrek.co/2026/10/28/tesla-semi-fire-i-880-hayward-no-crash/\nComments URL: https://news.ycombinator.com/item?id=50274706\nPoints: 35\n# Comments: 19",
-      "url": "https://electrek.co/2026/10/28/tesla-semi-fire-i-880-hayward-no-crash/"
-    },
-    {
-      "category": "Space",
-      "title": " Satellites watch an escaping Antarctic iceberg | Space photo of the day for Oct. 28, 2026 ",
-      "source": " Latest from Space.com ",
-      "date": "Wed, 28 Oct 2026 14:00:00 +0000",
-      "summary": "Iceberg A-81 escaping the Weddell Sea and drifting near the edge of South Georgia's underwater shelf.",
-      "url": "https://www.space.com/astronomy/earth/satellites-watch-an-escaping-antarctic-iceberg-space-photo-of-the-day-for-oct-28-2026"
-    },
-    {
-      "category": "AI",
-      "title": "A hidden ocean change near Antarctica could have global consequences",
-      "source": "Ars Technica - All content",
-      "date": "Wed, 28 Oct 2026 13:38:53 +0000",
-      "summary": "Antarctic waters are getting saltier as sea-ice loss reshapes ocean circulation.",
-      "url": "https://arstechnica.com/science/2026/10/antarctic-sea-ice-loss-could-reshape-weather-far-beyond-the-pole/"
+      "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+      "source": "OpenAI News",
+      "date": "Wed, 28 Oct 2026 13:15:00 GMT",
+      "summary": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
+      "url": "https://openai.com/index/openai-servicenow-partnership-expansion"
     },
     {
       "category": "Science",
@@ -105,22 +137,6 @@
       "date": "Wed, 28 Oct 2026 08:11:52 EDT",
       "summary": "Researchers have discovered a surprising hidden ability in Europe's familiar black-and-yellow fire salamanders: they glow green and cyan under ultraviolet light. The mysterious fluorescence comes mainly from glands in their skin and their toxic secretions, which can continue glowing for more than 24 hours after being released.",
       "url": "https://www.sciencedaily.com/releases/2026/10/261027063707.htm"
-    },
-    {
-      "category": "AI",
-      "title": "China’s snooping around Pacific undersea cables raises risks for Big Tech",
-      "source": "Ars Technica - All content",
-      "date": "Wed, 28 Oct 2026 11:00:49 +0000",
-      "summary": "US-owned trans-Pacific cables face growing risks from sabotage and China.",
-      "url": "https://arstechnica.com/gadgets/2026/10/google-and-meta-subsea-cables-among-most-at-risk-from-sabotage-in-pacific/"
-    },
-    {
-      "category": "Science",
-      "title": " Our extinct cousins the Denisovans had a 'distinctive' appearance, new analysis reveals ",
-      "source": " Latest from Live Science ",
-      "date": "Wed, 28 Oct 2026 11:00:00 +0000",
-      "summary": "Paleoproteomic analysis of fossils from northern China reveals that Denisovans had a distinctive physical appearance.",
-      "url": "https://www.livescience.com/archaeology/human-evolution/our-extinct-cousins-the-denisovans-had-a-distinctive-appearance-new-analysis-reveals"
     },
     {
       "category": "Biblical Studies",
@@ -155,20 +171,12 @@
       "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-rome/roman-soldiers-buried-in-croatian-well/"
     },
     {
-      "category": "Science",
-      "title": " A woman carried a 'stone baby' in her abdomen for 3 years ",
-      "source": " Latest from Live Science ",
-      "date": "Wed, 28 Oct 2026 10:00:00 +0000",
-      "summary": "A woman's unexplained abdominal pain led doctors to a diagnosis that has only been documented a few hundred times over the past 400 years.",
-      "url": "https://www.livescience.com/health/reproductive-health/diagnostic-dilemma-a-woman-carried-a-stone-baby-in-her-abdomen-for-3-years"
-    },
-    {
       "category": "AI",
-      "title": "Legora is building the agentic operating system for legal work",
+      "title": "The future of the firm",
       "source": "OpenAI News",
-      "date": "Wed, 28 Oct 2026 09:30:00 GMT",
-      "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
-      "url": "https://openai.com/index/legora-agentic-operating-system-for-legal-work"
+      "date": "Wed, 28 Oct 2026 10:00:00 GMT",
+      "summary": "How AI might enter the org chart—beneath, beside, and between us.",
+      "url": "https://openai.com/index/the-future-of-the-firm"
     },
     {
       "category": "AI",
@@ -177,22 +185,6 @@
       "date": "Wed, 28 Oct 2026 09:30:00 GMT",
       "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
       "url": "https://openai.com/index/legora"
-    },
-    {
-      "category": "Space",
-      "title": "Curiosity Blog, Sols 5043-5049: Preparing to Drill at ‘Nazca’",
-      "source": "NASA",
-      "date": "Wed, 28 Oct 2026 05:39:46 +0000",
-      "summary": "Written by Lucy Lim, Planetary Scientist at NASA’s Goddard Space Flight Center Earth planning date: Friday, Oct. 16, 2026 Following the Basque Lakes drill campaign, Curiosity has returned to a spot just a few meters away from the “Chiu Chiu” block to conduct our next drill campaign. “Chiu Chiu” itself wasn’t a good candidate for […]",
-      "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5043-5049-preparing-to-drill-at-nazca/"
-    },
-    {
-      "category": "Space",
-      "title": "APOD: 2026 October 28 – The Mutual Occultation of Ganymede and Io",
-      "source": "NASA",
-      "date": "Wed, 28 Oct 2026 04:05:00 +0000",
-      "summary": "APOD Science APOD APOD: 2026 October 28 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. To view […]",
-      "url": "https://science.nasa.gov/image-article/apod-2026-october-28-the-mutual-occultation-of-ganymede-and-io/"
     },
     {
       "category": "Theology",
@@ -211,28 +203,12 @@
       "url": "https://www.sciencedaily.com/releases/2026/10/261027063824.htm"
     },
     {
-      "category": "AI",
-      "title": "Apple refreshes the iMac, entry-level MacBook Pro with the M6 chip",
-      "source": "Ars Technica - All content",
-      "date": "Tue, 27 Oct 2026 22:37:30 +0000",
-      "summary": "Additionally, the N1 chip brings Wi-Fi 7 and Bluetooth 6.",
-      "url": "https://arstechnica.com/apple/2026/10/apple-refreshes-the-imac-entry-level-macbook-pro-with-the-m6-chip/"
-    },
-    {
       "category": "Theology",
       "title": "Why the Doctrine of Conversion Matters for Membership Interviews",
       "source": "9Marks",
       "date": "Tue, 27 Oct 2026 18:43:40 +0000",
       "summary": "It’s difficult to discern whether someone has been converted if you’re hazy on what conversion is.\nThe post Why the Doctrine of Conversion Matters for Membership Interviews appeared first on 9Marks.",
       "url": "https://www.9marks.org/article/why-the-doctrine-of-conversion-matters-for-membership-interviews/?utm_source=rss&utm_medium=rss&utm_campaign=why-the-doctrine-of-conversion-matters-for-membership-interviews"
-    },
-    {
-      "category": "AI",
-      "title": "Retell uses OpenAI models to help power 100M monthly calls",
-      "source": "OpenAI News",
-      "date": "Tue, 27 Oct 2026 15:00:00 GMT",
-      "summary": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee.",
-      "url": "https://openai.com/index/retell-ai"
     },
     {
       "category": "Theology",
