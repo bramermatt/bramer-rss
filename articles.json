@@ -1,22 +1,118 @@
 {
-  "lastUpdated": "2026-10-30T16:23:28.490Z",
+  "lastUpdated": "2026-10-31T01:18:10.507Z",
   "articleCount": 39,
   "articles": [
     {
       "category": "Science",
-      "title": "How fish schools swim in sync may come down to following one influential neighbor",
+      "title": "Figuring out where cosmic neutrinos come from is tricky—radio telescopes could help find 'ghost particles' origin",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Fri, 30 Oct 2026 12:20:14 EDT",
-      "summary": "Fish schools are a marvel of navigation. They move in concert without any one fish leading the way. Instead, their coordinated movements arise from individual fish continually adjusting their movements based on their neighbors. But how much of this social information each fish processes at once is less well understood.",
-      "url": "https://phys.org/news/2026-10-fish-schools-sync-influential-neighbor.html"
+      "date": "Fri, 30 Oct 2026 20:20:01 EDT",
+      "summary": "Neutrinos are funny little particles that weigh almost nothing, making them one of the universe's most elusive building blocks. They can come from objects as mundane as bananas and as exotic as supernovas—the exploding death throes of massive stars. Most neutrinos stream through space and pass through the Earth without interacting with anything.",
+      "url": "https://phys.org/news/2026-10-figuring-cosmic-neutrinos-tricky-radio.html"
+    },
+    {
+      "category": "AI",
+      "title": "Think you can save the Hubble Space Telescope? NASA wants to know.",
+      "source": "Ars Technica - All content",
+      "date": "Sat, 31 Oct 2026 00:07:22 +0000",
+      "summary": "The space agency solicited ideas for reboosting Hubble four years ago, but they didn't go anywhere.",
+      "url": "https://arstechnica.com/space/2026/10/think-you-can-save-the-hubble-space-telescope-nasa-wants-to-know/"
+    },
+    {
+      "category": "AI",
+      "title": "Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game",
+      "source": "Hacker News: Front Page",
+      "date": "Fri, 30 Oct 2026 23:51:24 +0000",
+      "summary": "Article URL: https://tng.episodle.com/\nComments URL: https://news.ycombinator.com/item?id=50311686\nPoints: 28\n# Comments: 6",
+      "url": "https://tng.episodle.com/"
+    },
+    {
+      "category": "Space",
+      "title": " The world mourns the passing of 'Star Trek's' Patrick Stewart with a galaxy of tearful tributes ",
+      "source": " Latest from Space.com ",
+      "date": "Fri, 30 Oct 2026 23:26:14 +0000",
+      "summary": "\"He wore his heart on his sleeve, which made him a man to rely on, to admire and, in my case, love.\"",
+      "url": "https://www.space.com/entertainment/the-world-mourns-the-passing-of-star-treks-patrick-stewart-with-a-galaxy-of-tearful-tributes"
+    },
+    {
+      "category": "AI",
+      "title": "Anthropic to receive high 'junk' rating from credit agencies following IPO",
+      "source": "Hacker News: Front Page",
+      "date": "Fri, 30 Oct 2026 23:08:12 +0000",
+      "summary": "Article URL: https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/\nComments URL: https://news.ycombinator.com/item?id=50311311\nPoints: 61\n# Comments: 31",
+      "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/"
+    },
+    {
+      "category": "AI",
+      "title": "Flesh-eating screwworms spread to third state and are attacking pets",
+      "source": "Ars Technica - All content",
+      "date": "Fri, 30 Oct 2026 22:36:41 +0000",
+      "summary": "USDA has identified 74 animal cases in US since parasitic flies invaded in June.",
+      "url": "https://arstechnica.com/health/2026/10/flesh-eating-screwworms-are-feasting-on-pets-4-dogs-and-cat-attacked-this-week/"
+    },
+    {
+      "category": "AI",
+      "title": "Oh captain, our captain: Ars staff remembers Patrick Stewart",
+      "source": "Ars Technica - All content",
+      "date": "Fri, 30 Oct 2026 22:21:05 +0000",
+      "summary": "\"For huge numbers of people, I will always be Jean-Luc Picard. ... We created an admirable individual.\"",
+      "url": "https://arstechnica.com/culture/2026/10/oh-captain-our-captain-ars-staff-remembers-patrick-stewart/"
     },
     {
       "category": "Science",
-      "title": "Global change may alter how ocellated lizards move between shelters, food and predators",
+      "title": "Livestock guardian dogs enlisted in efforts to conserve Texas' smallest fox",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Fri, 30 Oct 2026 12:20:06 EDT",
-      "summary": "Global change is also affecting the behavior and mobility of the ocellated lizard, a reptile typical of Mediterranean ecosystems. This species—the largest lizard on the Iberian Peninsula—could experience changes in its ability to move efficiently between shelters and feeding areas, escape predators and interact with its natural environment. This is the conclusion of a paper published in the Journal of Animal Ecology led by researcher Antigoni Kaliontzopoulou, from the Faculty of Biology and the Biodiversity Research Institute (IRBio) at the University of Barcelona.",
-      "url": "https://phys.org/news/2026-10-global-ocellated-lizards-food-predators.html"
+      "date": "Fri, 30 Oct 2026 18:20:04 EDT",
+      "summary": "In the Texas Panhandle, two livestock guardian dogs patrol a herd of cattle grazing the Rita Blanca National Grasslands. Although their singular focus is protecting the herd from would-be predators, their presence may make them wildlife conservation allies.",
+      "url": "https://phys.org/news/2026-10-livestock-guardian-dogs-efforts-texas.html"
+    },
+    {
+      "category": "AI",
+      "title": "Linode Security Incident",
+      "source": "Hacker News: Front Page",
+      "date": "Fri, 30 Oct 2026 21:57:40 +0000",
+      "summary": "Article URL: https://status.linode.com/incidents/nt58zhx3pmgm\nComments URL: https://news.ycombinator.com/item?id=50310687\nPoints: 135\n# Comments: 73",
+      "url": "https://status.linode.com/incidents/nt58zhx3pmgm"
+    },
+    {
+      "category": "Science",
+      "title": "New home for orangutans rescued from Indonesia's burning forests",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Fri, 30 Oct 2026 17:40:01 EDT",
+      "summary": "Deep in a forest in Indonesian Borneo, conservationists open a cage. A female orangutan and her baby waste little time, clambering up the towering trees and disappearing into the canopy, safe at last.",
+      "url": "https://phys.org/news/2026-10-home-orangutans-indonesia-forests.html"
+    },
+    {
+      "category": "Space",
+      "title": " An aquanaut comes home: Returning to Earth from an undersea 'space station' ",
+      "source": " Latest from Space.com ",
+      "date": "Fri, 30 Oct 2026 21:00:00 +0000",
+      "summary": "After five days of living underwater, Analog Astronaut Commander Dr. Musilova and her crew return to terra firma, affected by higher pressures and the team's disconnection from home.",
+      "url": "https://www.space.com/space-exploration/human-spaceflight/an-aquanaut-comes-home-returning-to-earth-from-an-undersea-space-station"
+    },
+    {
+      "category": "Space",
+      "title": " India launches next-gen navigation satellite to orbit (video) ",
+      "source": " Latest from Space.com ",
+      "date": "Fri, 30 Oct 2026 20:29:58 +0000",
+      "summary": "India launched the NVS-03 navigation satellite to orbit today (Oct. 30) atop a GSLV rocket. It was the fourth orbital launch from Indian soil so far this year.",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/india-launches-nvs-03-navigation-satellite-gslv-rocket"
+    },
+    {
+      "category": "Space",
+      "title": "NASA Releases MAX POWER Key Events for Media, Participants",
+      "source": "NASA",
+      "date": "Fri, 30 Oct 2026 19:31:02 +0000",
+      "summary": "America’s newest aerospace expo and air show – MAX POWER – is fast approaching, and NASA has announced key events beginning Friday, Nov. 6, and running through Sunday, Nov. 8, hosted on and near the agency’s Kennedy Space Center in Florida. Through multiple park experiences at MAX POWER, NASA and a variety of external collaborators […]",
+      "url": "https://www.nasa.gov/news-release/nasa-releases-max-power-key-events-for-media-participants/"
+    },
+    {
+      "category": "Science",
+      "title": " Neuroscientists reveal method to train people to have lucid dreams — and it involves virtual reality and meditation ",
+      "source": " Latest from Live Science ",
+      "date": "Fri, 30 Oct 2026 17:30:00 +0000",
+      "summary": "People who had no recollection of a lucid dream over the past three years developed the skill after one month of performing a novel training regimen twice a week, neuroscientists report.",
+      "url": "https://www.livescience.com/health/neuroscience/neuroscientists-reveal-method-to-train-people-to-have-lucid-dreams-and-it-involves-virtual-reality-and-mediation"
     },
     {
       "category": "Science",
@@ -27,44 +123,12 @@
       "url": "https://www.livescience.com/space/astronomy/jupiter-saturn-uranus-and-neptune-will-probably-destroy-each-other-after-the-sun-runs-out-of-fuel-new-simulations-hint"
     },
     {
-      "category": "Science",
-      "title": "Discovery of bromochloropyrene reveals unexpected biological properties",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Fri, 30 Oct 2026 12:00:04 EDT",
-      "summary": "Environmental pollutants containing chlorine or bromine have been widely studied, but compounds containing both elements have remained largely unexplored. Researchers have now detected bromochloropyrene in industrial soils and harbor sediments, investigated its breakdown under simulated sunlight, and measured its activity through a biological receptor linked to toxic effects. The findings reveal distinct environmental and biological properties, highlighting the need to investigate other mixed-halogen pollutants and improve future environmental monitoring and risk assessment.",
-      "url": "https://phys.org/news/2026-10-discovery-bromochloropyrene-reveals-unexpected-biological.html"
-    },
-    {
-      "category": "Space",
-      "title": " The Taurid meteor shower isn't much to look at. That's why I love it ",
-      "source": " Latest from Space.com ",
-      "date": "Fri, 30 Oct 2026 16:00:00 +0000",
-      "summary": "The Taurids produce only a handful of meteors an hour. That sounds disappointing, but I've learned that expecting almost nothing can make this one of the most enjoyable meteor showers of the year.",
-      "url": "https://www.space.com/stargazing/meteor-showers/the-taurid-meteor-shower-isnt-much-to-look-at-thats-why-i-love-it"
-    },
-    {
       "category": "Space",
       "title": "NASA’s James Webb Space Telescope Captures Eerie Cat’s Head",
       "source": "NASA",
       "date": "Fri, 30 Oct 2026 15:56:26 +0000",
       "summary": "Intricate structures within the Cat’s Head Nebula are illuminated in this mid-infrared view from NASA’s James Webb Space Telescope released on Oct. 29, 2026. The distinctive “cat’s head” shape of the nebula was likely sculpted over time by the intense ultraviolet radiation and winds from massive stars in the Carina Nebula. As this stellar feedback […]",
       "url": "https://www.nasa.gov/image-article/nasas-james-webb-space-telescope-captures-eerie-cats-head/"
-    },
-    {
-      "category": "AI",
-      "title": "AI Isn't Replacing SREs. It's Deskilling Them",
-      "source": "Hacker News: Front Page",
-      "date": "Fri, 30 Oct 2026 15:52:18 +0000",
-      "summary": "Article URL: https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling\nComments URL: https://news.ycombinator.com/item?id=50305693\nPoints: 10\n# Comments: 3",
-      "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling"
-    },
-    {
-      "category": "AI",
-      "title": "Geist Serif",
-      "source": "Hacker News: Front Page",
-      "date": "Fri, 30 Oct 2026 15:46:42 +0000",
-      "summary": "Article URL: https://vercel.com/blog/introducing-geist-serif\nComments URL: https://news.ycombinator.com/item?id=50305601\nPoints: 11\n# Comments: 2",
-      "url": "https://vercel.com/blog/introducing-geist-serif"
     },
     {
       "category": "Science",
@@ -75,68 +139,12 @@
       "url": "https://www.livescience.com/technology/artificial-intelligence/it-isnt-under-control-at-all-live-science-readers-respond-to-whether-ai-is-making-them-lazy"
     },
     {
-      "category": "AI",
-      "title": "Blockchain intelligence firms link North Korea to $6.3B hack on Binance",
-      "source": "Hacker News: Front Page",
-      "date": "Fri, 30 Oct 2026 15:39:05 +0000",
-      "summary": "Article URL: https://www.npr.org/2026/10/30/g-s1-150902/blockchain-intelligence-firms-link-north-korea-to-6-3b-hack-on-binance\nComments URL: https://news.ycombinator.com/item?id=50305480\nPoints: 5\n# Comments: 0",
-      "url": "https://www.npr.org/2026/10/30/g-s1-150902/blockchain-intelligence-firms-link-north-korea-to-6-3b-hack-on-binance"
-    },
-    {
-      "category": "Science",
-      "title": " Nearly 30% of US adults admit to lying about or exaggerating their symptoms to get antibiotics from doctors, survey finds ",
-      "source": " Latest from Live Science ",
-      "date": "Fri, 30 Oct 2026 15:00:00 +0000",
-      "summary": "In two new surveys, U.S. adults report lying to their doctors and their children's doctors about symptoms in hopes of being prescribed antibiotics.",
-      "url": "https://www.livescience.com/health/medicine-drugs/nearly-30-percent-of-us-adults-admit-to-lying-about-or-exaggerating-their-symptoms-to-get-antibiotics-from-doctors-survey-finds"
-    },
-    {
-      "category": "Space",
-      "title": " 'Star Trek's' William Shatner and George Takei honor the death of Walter Koenig ",
-      "source": " Latest from Space.com ",
-      "date": "Fri, 30 Oct 2026 15:00:00 +0000",
-      "summary": "'Rest well, my dear friend. Keep navigating a steady course.'",
-      "url": "https://www.space.com/entertainment/star-treks-william-shatner-and-george-takei-honor-the-death-of-walter-koenig"
-    },
-    {
       "category": "Space",
       "title": "NASA Explores Potential Commercial Servicing for Hubble Telescope",
       "source": "NASA",
       "date": "Fri, 30 Oct 2026 14:51:21 +0000",
       "summary": "NASA issued a Request for Information Oct. 29 to learn more about industry capabilities for in-space servicing to support the agency’s Hubble Space Telescope.",
       "url": "https://science.nasa.gov/missions/hubble/nasa-explores-potential-commercial-servicing-for-hubble-telescope/"
-    },
-    {
-      "category": "Space",
-      "title": " On this day in space! Oct. 30, 1964: NASA's weird Lunar Landing Research Vehicle takes 1st test flight to help Apollo astronauts land on the moon ",
-      "source": " Latest from Space.com ",
-      "date": "Fri, 30 Oct 2026 14:46:35 +0000",
-      "summary": "On October 30, 1964, NASA's Lunar Landing Research Vehicle, or LLRV, took to the skies for the first time. Here's why it mattered.",
-      "url": "https://www.space.com/space-exploration/on-this-day-in-space-october-30-2026"
-    },
-    {
-      "category": "AI",
-      "title": "GM to pay $220 million after selling customer Smart Driver data",
-      "source": "Ars Technica - All content",
-      "date": "Fri, 30 Oct 2026 13:53:20 +0000",
-      "summary": "Owners of GM cars found their driving data had been sold to insurance companies.",
-      "url": "https://arstechnica.com/cars/2026/10/gm-to-pay-220-million-after-selling-customer-smart-driver-data/"
-    },
-    {
-      "category": "AI",
-      "title": "Hackers steal $6.3 billion from Binance in record crypto heist",
-      "source": "Ars Technica - All content",
-      "date": "Fri, 30 Oct 2026 13:46:39 +0000",
-      "summary": "Binance scrambles to freeze billions after record-breaking hack linked to North Korea.",
-      "url": "https://arstechnica.com/security/2026/10/hackers-steal-6-3-billion-from-binance-in-record-crypto-heist/"
-    },
-    {
-      "category": "AI",
-      "title": "2027 Nissan Rogue Hybrid: Drives like an EV, but there's no plug involved",
-      "source": "Ars Technica - All content",
-      "date": "Fri, 30 Oct 2026 12:00:18 +0000",
-      "summary": "Nissan’s series hybrid e-Power system has been retuned for American roads.",
-      "url": "https://arstechnica.com/cars/2026/10/2027-nissan-rogue-hybrid-drives-like-an-ev-but-theres-no-plug-involved/"
     },
     {
       "category": "Science",
@@ -155,12 +163,20 @@
       "url": "https://www.biblicalarchaeology.org/daily/biblical-topics/new-testament/public-trials-in-letter-of-james/"
     },
     {
-      "category": "Space",
-      "title": "November’s Night Sky Notes: Light-Day Away",
-      "source": "NASA",
-      "date": "Fri, 30 Oct 2026 10:00:00 +0000",
-      "summary": "Twin Travelers In 1977, NASA launched twin spacecraft Voyager 1 and 2, taking advantage of a once-every-175-year planetary alignment of the four largest planets in our solar system: Jupiter, Saturn, Uranus, and Neptune. Using six gravity assists between them, this Grand Tour gave us up-close views of the gas and ice giants, including several moons. […]",
-      "url": "https://science.nasa.gov/solar-system/skywatching/night-sky-network/novembers-night-sky-notes-light-day-away/"
+      "category": "AI",
+      "title": "Making it easier for websites to express AI training preferences",
+      "source": "OpenAI News",
+      "date": "Fri, 30 Oct 2026 09:30:00 GMT",
+      "summary": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
+      "url": "https://openai.com/index/helping-websites-express-ai-training-preferences"
+    },
+    {
+      "category": "AI",
+      "title": "Community safety report and new protections for teens",
+      "source": "OpenAI News",
+      "date": "Fri, 30 Oct 2026 09:00:00 GMT",
+      "summary": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.",
+      "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens"
     },
     {
       "category": "Science",
@@ -204,11 +220,11 @@
     },
     {
       "category": "AI",
-      "title": "An updated Model Spec for more capable and beneficial AI",
+      "title": "Fair use benefits everyone",
       "source": "OpenAI News",
-      "date": "Thu, 29 Oct 2026 17:00:00 GMT",
-      "summary": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
-      "url": "https://openai.com/index/updated-model-spec"
+      "date": "Fri, 30 Oct 2026 00:00:00 GMT",
+      "summary": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation.",
+      "url": "https://openai.com/index/fair-use-benefits-everyone"
     },
     {
       "category": "History",
@@ -233,22 +249,6 @@
       "date": "Thu, 29 Oct 2026 10:00:43 +0000",
       "summary": "When Moses was on Mt. Sinai, the people asked Aaron to make a god to lead them. He had them make the Golden Calf, then seemingly blatantly lied to Moses. What does this signify\nThe post The Golden Calf appeared first on Biblical Archaeology Society.",
       "url": "https://www.biblicalarchaeology.org/daily/biblical-topics/bible-interpretation/the-golden-calf/"
-    },
-    {
-      "category": "AI",
-      "title": "How we detect frontier model misalignment",
-      "source": "OpenAI News",
-      "date": "Thu, 29 Oct 2026 09:00:00 GMT",
-      "summary": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
-      "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment"
-    },
-    {
-      "category": "AI",
-      "title": "How Ropes & Gray is developing AI for transactional diligence",
-      "source": "OpenAI News",
-      "date": "Thu, 29 Oct 2026 07:00:00 GMT",
-      "summary": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients.",
-      "url": "https://openai.com/index/ropes-gray-ai-diligence"
     },
     {
       "category": "Theology",
