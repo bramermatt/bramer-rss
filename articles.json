@@ -1,54 +1,134 @@
 {
-  "lastUpdated": "2026-11-01T00:35:47.616Z",
-  "articleCount": 33,
+  "lastUpdated": "2026-11-01T16:31:07.586Z",
+  "articleCount": 36,
   "articles": [
     {
-      "category": "Science",
-      "title": "This oddball reflective lava world is challenging to understand",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sat, 31 Oct 2026 20:30:01 EDT",
-      "summary": "Among Kepler and TESS's many surprising exoplanet discoveries are the ultra-short-period (USP) planets. These planets move very quickly and complete an orbit in less than 24 hours. Ancient astronomers thought that Mercury was so fast—it goes around the sun every 88 days—that they named it after the Roman god Mercury, who was the fast-traveling messenger of the gods. They couldn't have known how sluggish Mercury is compared to the USPs.",
-      "url": "https://phys.org/news/2026-10-oddball-lava-world.html"
-    },
-    {
       "category": "AI",
-      "title": "When electric cars were for women",
+      "title": "Show HN: HackerBooks – HackerTube, but for books recommended on HN",
       "source": "Hacker News: Front Page",
-      "date": "Sat, 31 Oct 2026 23:08:12 +0000",
-      "summary": "Article URL: https://spectrum.ieee.org/early-electric-vehicles\nComments URL: https://news.ycombinator.com/item?id=50321130\nPoints: 18\n# Comments: 2",
-      "url": "https://spectrum.ieee.org/early-electric-vehicles"
-    },
-    {
-      "category": "AI",
-      "title": "Altoids Project",
-      "source": "Hacker News: Front Page",
-      "date": "Sat, 31 Oct 2026 22:54:55 +0000",
-      "summary": "Article URL: https://uvdn7.github.io/altoids-project/\nComments URL: https://news.ycombinator.com/item?id=50321048\nPoints: 9\n# Comments: 0",
-      "url": "https://uvdn7.github.io/altoids-project/"
-    },
-    {
-      "category": "AI",
-      "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
-      "source": "Hacker News: Front Page",
-      "date": "Sat, 31 Oct 2026 22:46:12 +0000",
-      "summary": "Article URL: https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve\nComments URL: https://news.ycombinator.com/item?id=50320995\nPoints: 32\n# Comments: 12",
-      "url": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve"
+      "date": "Sun, 01 Nov 2026 15:58:28 +0000",
+      "summary": "Saw Karpathy's HackerTube and wanted the same thing for books. So I had Claude build one (Opus 5.5).\nIt's ~16.5k books that at least two different HN commenters brought up, from 2007 till now. Each book links back to the comments that mentioned it. Data is downloadable from the about page.\nTo be clear: Claude wrote almost all of it, including the data pipeline and the site. I mostly steered and made calls, bought the domain name, etc.\nIt counts mentions, so it's not perfect (praising a book and trashing it both count). If your favourite book is missing or matched to the wrong thing, tell me.\nComments URL: https://news.ycombinator.com/item?id=50326821\nPoints: 8\n# Comments: 2",
+      "url": "https://hackerbooks.org"
     },
     {
       "category": "Science",
-      "title": "Looking for bats after dark can help science—and change how we see them",
+      "title": "How permanent daylight saving time could affect schools",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Sat, 31 Oct 2026 18:30:01 EDT",
-      "summary": "What's that chirping sound coming through the detector? Did you feel something whiz past? Those are just some ways people react when they encounter microbats for the first time. Microbats are small, mostly nocturnal mammals that use ultrasonic sounds to navigate and hunt at night. They do this through echolocation, producing calls and listening to the echoes that bounce back from objects and prey.",
-      "url": "https://phys.org/news/2026-10-dark-science.html"
+      "date": "Sun, 01 Nov 2026 10:30:02 EST",
+      "summary": "Sleep is fundamental to well-being. Decisions to end semiannual clock changes and remain on permanent daylight saving time (DST) in British Columbia, the Northwest Territories, Alberta, Manitoba and northwestern Ontario have consequences for many Canadians due to potential sleep disruption.",
+      "url": "https://phys.org/news/2026-10-permanent-daylight-affect-schools.html"
+    },
+    {
+      "category": "AI",
+      "title": "Enlightenment 0.28.0 Release",
+      "source": "Hacker News: Front Page",
+      "date": "Sun, 01 Nov 2026 15:26:06 +0000",
+      "summary": "Article URL: https://www.enlightenment.org/news/2026-10-31-enlightenment-0.28.0\nComments URL: https://news.ycombinator.com/item?id=50326530\nPoints: 17\n# Comments: 4",
+      "url": "https://www.enlightenment.org/news/2026-10-31-enlightenment-0.28.0"
     },
     {
       "category": "Science",
-      "title": "Giant virus yields potassium channel gene that illuminates complex protein evolution",
+      "title": "Heavy hydrogen in 3I/ATLAS's methane points to a frigid birthplace",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Sat, 31 Oct 2026 17:00:05 EDT",
-      "summary": "Researchers have discovered a gene for a tandem potassium channel in an algal virus. The finding supports the view that giant viruses may have contributed significantly to the evolution of complex proteins. The study is published in the journal Proceedings of the National Academy of Sciences.",
-      "url": "https://phys.org/news/2026-10-giant-virus-yields-potassium-channel.html"
+      "date": "Sun, 01 Nov 2026 10:20:02 EST",
+      "summary": "The interstellar comet 3I/ATLAS carries a chemical clue to conditions in the planetary system of its origin, locked away long before it reached our sun. Its methane signature is unusually rich in heavy hydrogen, suggesting that the comet's frozen ingredients took shape in an intensely cold environment around another star—or in the cloud that preceded it.",
+      "url": "https://phys.org/news/2026-10-heavy-hydrogen-3iatlas-methane-frigid.html"
+    },
+    {
+      "category": "Space",
+      "title": " Planetary defense: How military and civil satellites are watching fireballs to help keep Earth safe from space rocks ",
+      "source": " Latest from Space.com ",
+      "date": "Sun, 01 Nov 2026 15:00:00 +0000",
+      "summary": "Satellites are watching fireballs blaze through Earth's atmosphere, strengthening planetary defense knowhow and helping scientists learn more about space debris impacts.",
+      "url": "https://www.space.com/stargazing/meteor-showers/planetary-defense-how-military-and-civil-satellites-are-watching-fireballs-to-help-keep-earth-safe-from-space-rocks"
+    },
+    {
+      "category": "Space",
+      "title": " On this day in space! Nov. 1, 1962: The Soviet Union Launches Mars 1 spacecraft to Red Planet during the Space Race ",
+      "source": " Latest from Space.com ",
+      "date": "Sun, 01 Nov 2026 14:50:15 +0000",
+      "summary": "On Nov. 1, 1962, the Soviet Union launched the Mars 1 spacecraft on a mission to fly by the Red Planet. Here's why it mattered.",
+      "url": "https://www.space.com/space-exploration/on-this-day-in-space-november-1-2026"
+    },
+    {
+      "category": "AI",
+      "title": "Police chief unplugs Flock cameras after company ignores contract cancellation",
+      "source": "Hacker News: Front Page",
+      "date": "Sun, 01 Nov 2026 14:36:13 +0000",
+      "summary": "Article URL: https://www.tomshardware.com/tech-industry/big-tech/police-chief-physically-unplugs-flock-cameras-after-the-company-ignores-contract-cancellation-city-takes-matters-into-its-own-hands-amid-privacy-controversies\nComments URL: https://news.ycombinator.com/item?id=50326118\nPoints: 75\n# Comments: 12",
+      "url": "https://www.tomshardware.com/tech-industry/big-tech/police-chief-physically-unplugs-flock-cameras-after-the-company-ignores-contract-cancellation-city-takes-matters-into-its-own-hands-amid-privacy-controversies"
+    },
+    {
+      "category": "Science",
+      "title": "2,700-year-old mummy head yields first molecular evidence linking aloe to Egyptian embalming",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sun, 01 Nov 2026 09:00:01 EST",
+      "summary": "What materials did ancient Egyptians use to preserve the dead, and how can their composition still be investigated thousands of years later? An interdisciplinary team at Marburg University has combined modern natural product analysis with Egyptology and the history of pharmacy to investigate these questions.",
+      "url": "https://phys.org/news/2026-10-year-mummy-yields-molecular-evidence.html"
+    },
+    {
+      "category": "Space",
+      "title": " NASA's Swift space telescope is about to crash to Earth. Where will it fall? ",
+      "source": " Latest from Space.com ",
+      "date": "Sun, 01 Nov 2026 13:00:00 +0000",
+      "summary": "It's unclear at the moment exactly when and where the Swift observatory will plunge to Earth. But researchers definitely have their eyes peeled.",
+      "url": "https://www.space.com/space-exploration/missions/nasas-swift-space-telescope-is-about-to-crash-to-earth-where-will-it-fall"
+    },
+    {
+      "category": "Science",
+      "title": "Common pesticide linked to 2.5 times the risk of Parkinson’s disease",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Sun, 01 Nov 2026 07:33:13 EST",
+      "summary": "A UCLA study found that long-term exposure to a common pesticide was linked to more than 2.5 times the risk of Parkinson's disease. Scientists also uncovered how the chemical damages brain cells and identified a promising way to protect them.",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261031013035.htm"
+    },
+    {
+      "category": "Science",
+      "title": " Hubble and Webb spot something ghostly happening in the Cat's Head Nebula ",
+      "source": " Latest from Live Science ",
+      "date": "Sun, 01 Nov 2026 11:00:00 +0000",
+      "summary": "The Cat's Head Nebula shows its ghostly insides and sinister red eye in rival views from the Hubble and James Webb space telescopes.",
+      "url": "https://www.livescience.com/space/astronomy/webb-and-hubble-telescopes-watch-ghostly-objects-appear-in-the-cats-head-nebula-space-photo-of-the-week"
+    },
+    {
+      "category": "Science",
+      "title": "Ancient ape fossil in Egypt could rewrite the story of human origins",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Sun, 01 Nov 2026 05:32:46 EST",
+      "summary": "A 17- to 18-million-year-old ape fossil discovered in Egypt is challenging long-held beliefs about where the ancestors of humans and other modern apes first evolved. Scientists now suspect that North Africa and the Middle East, rather than East Africa, may have been the cradle of modern ape evolution.",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261031011638.htm"
+    },
+    {
+      "category": "Science",
+      "title": " How do summers differ between Earth's hemispheres? ",
+      "source": " Latest from Live Science ",
+      "date": "Sun, 01 Nov 2026 10:00:00 +0000",
+      "summary": "Each of Earth's hemispheres experiences summer, but how do they differ?",
+      "url": "https://www.livescience.com/planet-earth/how-do-summers-differ-between-earths-hemispheres"
+    },
+    {
+      "category": "Science",
+      "title": "Scientists say a forgotten particle may explain why the universe exists",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Sun, 01 Nov 2026 00:33:36 EDT",
+      "summary": "A mysterious particle overlooked for decades may hold the key to why matter survived the Big Bang, allowing stars, planets, and life to exist. Scientists believe this forgotten neutrino reshaped the early universe and may have left detectable gravitational wave signals that could help unlock the cosmos’s deepest mysteries.",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261031221201.htm"
+    },
+    {
+      "category": "Theology",
+      "title": "New Free Playlist: 30 Songs of Gratitude to God",
+      "source": "The Gospel Coalition",
+      "date": "Sun, 01 Nov 2026 04:02:00 +0000",
+      "summary": "Brett McCracken curates a playlist of 30 songs to help you practice gratitude to God—not just on Thanksgiving but every day.",
+      "url": "https://www.thegospelcoalition.org/article/free-playlist-songs-gratitude/"
+    },
+    {
+      "category": "Theology",
+      "title": "The Voice of the Martyrs: Prayers of the Persecuted",
+      "source": "The Gospel Coalition",
+      "date": "Sun, 01 Nov 2026 04:00:00 +0000",
+      "summary": "We pray for justice, but we do so as forgiven sinners.",
+      "url": "https://www.thegospelcoalition.org/article/voice-martyrs-prayers-persecuted/"
     },
     {
       "category": "Science",
@@ -57,46 +137,6 @@
       "date": "Sat, 31 Oct 2026 15:00:00 +0000",
       "summary": "How did the universe transition from an impenetrable fog of hydrogen into the bright and starlit cosmos we see today? Astronomers think they're onto the answer.",
       "url": "https://www.livescience.com/space/astronomy/astronomers-may-have-been-wrong-about-what-ended-the-cosmic-dark-age-new-study-hints"
-    },
-    {
-      "category": "Space",
-      "title": " 9 nightmarish sci-fi spaceships to crawl aboard for Halloween if you dare ",
-      "source": " Latest from Space.com ",
-      "date": "Sat, 31 Oct 2026 15:00:00 +0000",
-      "summary": "Grab your high-lumen flashlight and gargantuan gun to explore these vicious vessels",
-      "url": "https://www.space.com/entertainment/9-nightmarish-sci-fi-spaceships-to-crawl-aboard-for-halloween-if-you-dare"
-    },
-    {
-      "category": "Space",
-      "title": " This Week In Space podcast: Episode 234 — Living in Lunar Caves ",
-      "source": " Latest from Space.com ",
-      "date": "Sat, 31 Oct 2026 13:36:59 +0000",
-      "summary": "On Episode 234 of This Week In Space, Tariq Malik and Mike Wall are joined by Than Putzig of the Planetary Science Institute about a NASA-backed payload bound for the Marius Hills Pit on the moon.",
-      "url": "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-234-living-in-lunar-caves"
-    },
-    {
-      "category": "Space",
-      "title": " On this day in space! Oct. 31, 2015: Creepy skull-shaped Halloween asteroid flies by Earth, NASA names it the 'Great Pumpkin' ",
-      "source": " Latest from Space.com ",
-      "date": "Sat, 31 Oct 2026 13:26:33 +0000",
-      "summary": "On October 31, 2015, an asteroid shaped like a human skull flew by Earth. Here's why it was so creepy.",
-      "url": "https://www.space.com/space-exploration/on-this-day-in-space-october-31-2026"
-    },
-    {
-      "category": "Science",
-      "title": "A mysterious 4,000-year-old wall is rewriting North Africa’s history",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Sat, 31 Oct 2026 09:09:49 EDT",
-      "summary": "A remarkable 4,000-year-old defensive structure discovered in Morocco is rewriting what scientists thought they knew about ancient North African civilizations. The massive fortifications reveal unexpectedly sophisticated prehistoric societies and suggest that the region played a much greater role in Mediterranean history than previously recognized.",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261030003022.htm"
-    },
-    {
-      "category": "Science",
-      "title": " Ghostly statue of 'shrine maiden' discovered at 1,500-year-old burial mound in Japan ",
-      "source": " Latest from Live Science ",
-      "date": "Sat, 31 Oct 2026 13:00:00 +0000",
-      "summary": "Archaeologists have unearthed a human-shaped funeral offering that may represent an ancient Japanese priestess.",
-      "url": "https://www.livescience.com/archaeology/ghostly-statue-of-shrine-maiden-discovered-at-1-500-year-old-burial-mound-in-japan"
     },
     {
       "category": "AI",
@@ -115,28 +155,12 @@
       "url": "https://arstechnica.com/science/2026/10/the-fda-wants-to-pull-its-approval-of-a-drug-its-not-so-easy/"
     },
     {
-      "category": "Science",
-      "title": " How to watch 'Blue Planet III' online: Stream David Attenborough's spectacular new series ",
-      "source": " Latest from Live Science ",
-      "date": "Sat, 31 Oct 2026 11:00:00 +0000",
-      "summary": "How to watch \"Blue Planet III\" online as Sir David Attenborough returns with a brand new six-part series exploring the world's oceans with new camera tech.",
-      "url": "https://www.livescience.com/planet-earth/rivers-oceans/how-to-watch-blue-planet-iii-online-stream-david-attenboroughs-spectacular-new-series"
-    },
-    {
       "category": "Theology",
       "title": "Martin Luther in 5 Latin Phrases",
       "source": "The Gospel Coalition",
       "date": "Sat, 31 Oct 2026 04:00:00 +0000",
       "summary": "Jesus’s perfect life and sacrificial death count for all believers. So God’s righteousness isn’t merely his judgment. It’s also his gift.",
       "url": "https://www.thegospelcoalition.org/article/latin-phrases-martin-luther/"
-    },
-    {
-      "category": "Science",
-      "title": "Scientists smash oxygen nuclei to recreate matter from the Big Bang",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Fri, 30 Oct 2026 22:09:38 EDT",
-      "summary": "Scientists have recreated a primordial state of matter from the dawn of the universe by colliding oxygen nuclei at nearly the speed of light. The surprising results show that this exotic substance can form in smaller, lower-energy collisions than previously demonstrated, challenging the known boundaries of early-universe physics.",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261030002935.htm"
     },
     {
       "category": "AI",
@@ -171,30 +195,6 @@
       "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens"
     },
     {
-      "category": "Science",
-      "title": "Astronauts just gave the International Space Station a powerful upgrade",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Fri, 30 Oct 2026 02:12:55 EDT",
-      "summary": "Two astronauts completed a 7-hour, 11-minute spacewalk to install a new solar array on the International Space Station, bringing NASA one step closer to a major power upgrade. Once the final array is installed on November 5, the station will have up to 30% more available power, supporting critical operations and its eventual controlled deorbit.",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261030002931.htm"
-    },
-    {
-      "category": "Theology",
-      "title": "Ministry and Marriage: How to Be a Healthy Team",
-      "source": "The Gospel Coalition",
-      "date": "Fri, 30 Oct 2026 04:04:00 +0000",
-      "summary": "Marriages with one or both spouses employed in ministry face unique pressures, challenges, and opportunities.",
-      "url": "https://www.thegospelcoalition.org/podcasts/tgc-podcast/ministry-marriage-healthy-team/"
-    },
-    {
-      "category": "Theology",
-      "title": "‘Mosquito Bowl’: Football Stars on the Front Lines",
-      "source": "The Gospel Coalition",
-      "date": "Fri, 30 Oct 2026 04:02:00 +0000",
-      "summary": "Peter Berg’s ‘The Mosquito Bowl’ is essentially ‘Friday Night Lights’ meets ‘Hacksaw Ridge.’",
-      "url": "https://www.thegospelcoalition.org/article/mosquito-bowl-christian-movie-review/"
-    },
-    {
       "category": "AI",
       "title": "Fair use benefits everyone",
       "source": "OpenAI News",
@@ -227,6 +227,14 @@
       "url": "https://www.biblicalarchaeology.org/daily/biblical-topics/bible-interpretation/the-golden-calf/"
     },
     {
+      "category": "Theology",
+      "title": "Why the Doctrine of Conversion Matters for Membership Interviews",
+      "source": "9Marks",
+      "date": "Tue, 27 Oct 2026 18:43:40 +0000",
+      "summary": "It’s difficult to discern whether someone has been converted if you’re hazy on what conversion is.\nThe post Why the Doctrine of Conversion Matters for Membership Interviews appeared first on 9Marks.",
+      "url": "https://www.9marks.org/article/why-the-doctrine-of-conversion-matters-for-membership-interviews/?utm_source=rss&utm_medium=rss&utm_campaign=why-the-doctrine-of-conversion-matters-for-membership-interviews"
+    },
+    {
       "category": "History",
       "title": "The Rise and Fall of Captain John Manley",
       "source": "Journal of the American Revolution",
@@ -241,6 +249,22 @@
       "date": "Mon, 26 Oct 2026 14:04:50 +0000",
       "summary": "BOOK REVIEW: Remembering the Revolution: Little Compton, Rhode Island by Steven Lubar. (Little Compton, RI: Little Compton Historical Society, 2026). $25.00 hardcover. Marjory O’Toole, the Executive Director of the Little Compton Historical Society, explains the value of the Society’s recent publication Remembering the Revolution: Little Compton, Rhode Island in the book’s Foreword: Imagine the thrill […]\nThe post Remembering the Revolution: Little Compton, Rhode Island appeared first on Journal of the American Revolution.",
       "url": "https://allthingsliberty.com/2026/10/remembering-the-revolution-little-compton-rhode-island/"
+    },
+    {
+      "category": "Theology",
+      "title": "Unclear Evangelism Leads to Unclear (and False) Conversions",
+      "source": "9Marks",
+      "date": "Mon, 19 Oct 2026 19:22:22 +0000",
+      "summary": "When we appeal to people’s carnal desires, we should not be surprised when our “converts” are more in love with the world than with our Savior.\nThe post Unclear Evangelism Leads to Unclear (and False) Conversions appeared first on 9Marks.",
+      "url": "https://www.9marks.org/article/unclear-evangelism-leads-to-unclear-and-false-conversions/?utm_source=rss&utm_medium=rss&utm_campaign=unclear-evangelism-leads-to-unclear-and-false-conversions"
+    },
+    {
+      "category": "Theology",
+      "title": "What Conversion Looks Like in Messy People (Like Me)",
+      "source": "9Marks",
+      "date": "Tue, 13 Oct 2026 18:51:26 +0000",
+      "summary": "All sinners, regardless of past trauma, messiness of life, socioeconomic background, or educational attainment must be converted the same way—through repentance and faith in Christ alone. \nThe post What Conversion Looks Like in Messy People (Like Me) appeared first on 9Marks.",
+      "url": "https://www.9marks.org/article/what-conversion-looks-like-in-messy-people-like-me/?utm_source=rss&utm_medium=rss&utm_campaign=what-conversion-looks-like-in-messy-people-like-me"
     },
     {
       "category": "History",
