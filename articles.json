@@ -1,54 +1,54 @@
 {
-  "lastUpdated": "2026-10-31T19:39:06.795Z",
-  "articleCount": 39,
+  "lastUpdated": "2026-11-01T00:35:47.616Z",
+  "articleCount": 33,
   "articles": [
     {
-      "category": "AI",
-      "title": "The Duty of a Scholar",
-      "source": "Hacker News: Front Page",
-      "date": "Sat, 31 Oct 2026 19:07:36 +0000",
-      "summary": "Article URL: https://www.daemonology.net/blog/2026-10-31-The-Duty-of-a-Scholar.html\nComments URL: https://news.ycombinator.com/item?id=50319061\nPoints: 20\n# Comments: 2",
-      "url": "https://www.daemonology.net/blog/2026-10-31-The-Duty-of-a-Scholar.html"
-    },
-    {
       "category": "Science",
-      "title": "Chemists develop AI tool to convert human ingenuity into life-enhancing enzymes",
+      "title": "This oddball reflective lava world is challenging to understand",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Sat, 31 Oct 2026 15:00:01 EDT",
-      "summary": "Many have voiced concerns that artificial intelligence will take jobs away from humans. But assistant professor of chemistry Zhongyue (John) Yang, along with his former doctoral student Qianzhen Shao (now a postdoc at Stanford) and other team members, has created an AI tool that aims to elevate the work that scientists do—not replace them.",
-      "url": "https://phys.org/news/2026-10-chemists-ai-tool-human-ingenuity.html"
+      "date": "Sat, 31 Oct 2026 20:30:01 EDT",
+      "summary": "Among Kepler and TESS's many surprising exoplanet discoveries are the ultra-short-period (USP) planets. These planets move very quickly and complete an orbit in less than 24 hours. Ancient astronomers thought that Mercury was so fast—it goes around the sun every 88 days—that they named it after the Roman god Mercury, who was the fast-traveling messenger of the gods. They couldn't have known how sluggish Mercury is compared to the USPs.",
+      "url": "https://phys.org/news/2026-10-oddball-lava-world.html"
     },
     {
       "category": "AI",
-      "title": "GPT-5.6 Sol can beat Factorio on peaceful mode",
+      "title": "When electric cars were for women",
       "source": "Hacker News: Front Page",
-      "date": "Sat, 31 Oct 2026 18:50:34 +0000",
-      "summary": "Article URL: https://ryanmadden.net/gpt-56-beats-factorio/\nComments URL: https://news.ycombinator.com/item?id=50318871\nPoints: 30\n# Comments: 12",
-      "url": "https://ryanmadden.net/gpt-56-beats-factorio/"
+      "date": "Sat, 31 Oct 2026 23:08:12 +0000",
+      "summary": "Article URL: https://spectrum.ieee.org/early-electric-vehicles\nComments URL: https://news.ycombinator.com/item?id=50321130\nPoints: 18\n# Comments: 2",
+      "url": "https://spectrum.ieee.org/early-electric-vehicles"
     },
     {
       "category": "AI",
-      "title": "It's the Memory Latency, Stupid",
+      "title": "Altoids Project",
       "source": "Hacker News: Front Page",
-      "date": "Sat, 31 Oct 2026 18:38:16 +0000",
-      "summary": "Article URL: https://pivotlake.io/blog/its-the-memory-latency-stupid/\nComments URL: https://news.ycombinator.com/item?id=50318720\nPoints: 12\n# Comments: 0",
-      "url": "https://pivotlake.io/blog/its-the-memory-latency-stupid/"
+      "date": "Sat, 31 Oct 2026 22:54:55 +0000",
+      "summary": "Article URL: https://uvdn7.github.io/altoids-project/\nComments URL: https://news.ycombinator.com/item?id=50321048\nPoints: 9\n# Comments: 0",
+      "url": "https://uvdn7.github.io/altoids-project/"
+    },
+    {
+      "category": "AI",
+      "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
+      "source": "Hacker News: Front Page",
+      "date": "Sat, 31 Oct 2026 22:46:12 +0000",
+      "summary": "Article URL: https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve\nComments URL: https://news.ycombinator.com/item?id=50320995\nPoints: 32\n# Comments: 12",
+      "url": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve"
     },
     {
       "category": "Science",
-      "title": "Calling species 'invasive'—and culling them—isn't done lightly. But it matters to Australia's threatened species",
+      "title": "Looking for bats after dark can help science—and change how we see them",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Sat, 31 Oct 2026 14:00:05 EDT",
-      "summary": "It may sound abstract, but distinctions between \"native,\" \"introduced\" or \"invasive\" species can often be life or death. Species considered invasive in Australia—such as European rabbits and feral pigs—are often culled, while most native animals are generally left alone.",
-      "url": "https://phys.org/news/2026-10-species-invasive-culling-isnt-australia.html"
+      "date": "Sat, 31 Oct 2026 18:30:01 EDT",
+      "summary": "What's that chirping sound coming through the detector? Did you feel something whiz past? Those are just some ways people react when they encounter microbats for the first time. Microbats are small, mostly nocturnal mammals that use ultrasonic sounds to navigate and hunt at night. They do this through echolocation, producing calls and listening to the echoes that bounce back from objects and prey.",
+      "url": "https://phys.org/news/2026-10-dark-science.html"
     },
     {
       "category": "Science",
-      "title": "Ultracold atoms simulate hard-to-observe matter-antimatter pair production",
+      "title": "Giant virus yields potassium channel gene that illuminates complex protein evolution",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Sat, 31 Oct 2026 13:00:01 EDT",
-      "summary": "According to quantum electrodynamics, the theory describing interactions between light and electrically charged particles, a sufficiently strong electric field can, in principle, convert some of its energy into particles and their antimatter partners. A particle's antimatter partner has the same mass and, for electrically charged particles, the opposite electric charge.",
-      "url": "https://phys.org/news/2026-10-ultracold-atoms-simulate-hard-antimatter.html"
+      "date": "Sat, 31 Oct 2026 17:00:05 EDT",
+      "summary": "Researchers have discovered a gene for a tandem potassium channel in an algal virus. The finding supports the view that giant viruses may have contributed significantly to the evolution of complex proteins. The study is published in the journal Proceedings of the National Academy of Sciences.",
+      "url": "https://phys.org/news/2026-10-giant-virus-yields-potassium-channel.html"
     },
     {
       "category": "Science",
@@ -123,14 +123,6 @@
       "url": "https://www.livescience.com/planet-earth/rivers-oceans/how-to-watch-blue-planet-iii-online-stream-david-attenboroughs-spectacular-new-series"
     },
     {
-      "category": "Space",
-      "title": "APOD: 2026 October 31 – Night on a Spooky Planet",
-      "source": "NASA",
-      "date": "Sat, 31 Oct 2026 04:05:00 +0000",
-      "summary": "APOD Science APOD APOD: 2026 October 31 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Night on a […]",
-      "url": "https://science.nasa.gov/image-article/apod-2026-october-31-night-on-a-spooky-planet/"
-    },
-    {
       "category": "Theology",
       "title": "Martin Luther in 5 Latin Phrases",
       "source": "The Gospel Coalition",
@@ -153,22 +145,6 @@
       "date": "Sat, 31 Oct 2026 00:07:22 +0000",
       "summary": "The space agency solicited ideas for reboosting Hubble four years ago, but they didn't go anywhere.",
       "url": "https://arstechnica.com/space/2026/10/think-you-can-save-the-hubble-space-telescope-nasa-wants-to-know/"
-    },
-    {
-      "category": "Space",
-      "title": "NASA Releases MAX POWER Key Events for Media, Participants",
-      "source": "NASA",
-      "date": "Fri, 30 Oct 2026 19:31:02 +0000",
-      "summary": "America’s newest aerospace expo and air show – MAX POWER – is fast approaching, and NASA has announced key events beginning Friday, Nov. 6, and running through Sunday, Nov. 8, hosted on and near the agency’s Kennedy Space Center in Florida. Through multiple park experiences at MAX POWER, NASA and a variety of external collaborators […]",
-      "url": "https://www.nasa.gov/news-release/nasa-releases-max-power-key-events-for-media-participants/"
-    },
-    {
-      "category": "Space",
-      "title": "NASA’s James Webb Space Telescope Captures Eerie Cat’s Head",
-      "source": "NASA",
-      "date": "Fri, 30 Oct 2026 15:56:26 +0000",
-      "summary": "Intricate structures within the Cat’s Head Nebula are illuminated in this mid-infrared view from NASA’s James Webb Space Telescope released on Oct. 29, 2026. The distinctive “cat’s head” shape of the nebula was likely sculpted over time by the intense ultraviolet radiation and winds from massive stars in the Carina Nebula. As this stellar feedback […]",
-      "url": "https://www.nasa.gov/image-article/nasas-james-webb-space-telescope-captures-eerie-cats-head/"
     },
     {
       "category": "Biblical Studies",
@@ -251,14 +227,6 @@
       "url": "https://www.biblicalarchaeology.org/daily/biblical-topics/bible-interpretation/the-golden-calf/"
     },
     {
-      "category": "Theology",
-      "title": "Why the Doctrine of Conversion Matters for Membership Interviews",
-      "source": "9Marks",
-      "date": "Tue, 27 Oct 2026 18:43:40 +0000",
-      "summary": "It’s difficult to discern whether someone has been converted if you’re hazy on what conversion is.\nThe post Why the Doctrine of Conversion Matters for Membership Interviews appeared first on 9Marks.",
-      "url": "https://www.9marks.org/article/why-the-doctrine-of-conversion-matters-for-membership-interviews/?utm_source=rss&utm_medium=rss&utm_campaign=why-the-doctrine-of-conversion-matters-for-membership-interviews"
-    },
-    {
       "category": "History",
       "title": "The Rise and Fall of Captain John Manley",
       "source": "Journal of the American Revolution",
@@ -273,22 +241,6 @@
       "date": "Mon, 26 Oct 2026 14:04:50 +0000",
       "summary": "BOOK REVIEW: Remembering the Revolution: Little Compton, Rhode Island by Steven Lubar. (Little Compton, RI: Little Compton Historical Society, 2026). $25.00 hardcover. Marjory O’Toole, the Executive Director of the Little Compton Historical Society, explains the value of the Society’s recent publication Remembering the Revolution: Little Compton, Rhode Island in the book’s Foreword: Imagine the thrill […]\nThe post Remembering the Revolution: Little Compton, Rhode Island appeared first on Journal of the American Revolution.",
       "url": "https://allthingsliberty.com/2026/10/remembering-the-revolution-little-compton-rhode-island/"
-    },
-    {
-      "category": "Theology",
-      "title": "Unclear Evangelism Leads to Unclear (and False) Conversions",
-      "source": "9Marks",
-      "date": "Mon, 19 Oct 2026 19:22:22 +0000",
-      "summary": "When we appeal to people’s carnal desires, we should not be surprised when our “converts” are more in love with the world than with our Savior.\nThe post Unclear Evangelism Leads to Unclear (and False) Conversions appeared first on 9Marks.",
-      "url": "https://www.9marks.org/article/unclear-evangelism-leads-to-unclear-and-false-conversions/?utm_source=rss&utm_medium=rss&utm_campaign=unclear-evangelism-leads-to-unclear-and-false-conversions"
-    },
-    {
-      "category": "Theology",
-      "title": "What Conversion Looks Like in Messy People (Like Me)",
-      "source": "9Marks",
-      "date": "Tue, 13 Oct 2026 18:51:26 +0000",
-      "summary": "All sinners, regardless of past trauma, messiness of life, socioeconomic background, or educational attainment must be converted the same way—through repentance and faith in Christ alone. \nThe post What Conversion Looks Like in Messy People (Like Me) appeared first on 9Marks.",
-      "url": "https://www.9marks.org/article/what-conversion-looks-like-in-messy-people-like-me/?utm_source=rss&utm_medium=rss&utm_campaign=what-conversion-looks-like-in-messy-people-like-me"
     },
     {
       "category": "History",
