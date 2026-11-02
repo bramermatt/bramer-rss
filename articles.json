@@ -1,38 +1,62 @@
 {
-  "lastUpdated": "2026-11-01T16:31:07.586Z",
-  "articleCount": 36,
+  "lastUpdated": "2026-11-02T01:09:30.803Z",
+  "articleCount": 39,
   "articles": [
     {
       "category": "AI",
-      "title": "Show HN: HackerBooks – HackerTube, but for books recommended on HN",
+      "title": "U.S. workers took home their smallest share of capital since at least 1947",
       "source": "Hacker News: Front Page",
-      "date": "Sun, 01 Nov 2026 15:58:28 +0000",
-      "summary": "Saw Karpathy's HackerTube and wanted the same thing for books. So I had Claude build one (Opus 5.5).\nIt's ~16.5k books that at least two different HN commenters brought up, from 2007 till now. Each book links back to the comments that mentioned it. Data is downloadable from the about page.\nTo be clear: Claude wrote almost all of it, including the data pipeline and the site. I mostly steered and made calls, bought the domain name, etc.\nIt counts mentions, so it's not perfect (praising a book and trashing it both count). If your favourite book is missing or matched to the wrong thing, tell me.\nComments URL: https://news.ycombinator.com/item?id=50326821\nPoints: 8\n# Comments: 2",
-      "url": "https://hackerbooks.org"
-    },
-    {
-      "category": "Science",
-      "title": "How permanent daylight saving time could affect schools",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sun, 01 Nov 2026 10:30:02 EST",
-      "summary": "Sleep is fundamental to well-being. Decisions to end semiannual clock changes and remain on permanent daylight saving time (DST) in British Columbia, the Northwest Territories, Alberta, Manitoba and northwestern Ontario have consequences for many Canadians due to potential sleep disruption.",
-      "url": "https://phys.org/news/2026-10-permanent-daylight-affect-schools.html"
+      "date": "Sun, 01 Nov 2026 23:20:31 +0000",
+      "summary": "Article URL: https://fortune.com/article/why-did-us-workers-just-take-home-smallest-share-of-capital-since-1947-lowest-ever-recorded/\nComments URL: https://news.ycombinator.com/item?id=50330939\nPoints: 177\n# Comments: 74",
+      "url": "https://fortune.com/article/why-did-us-workers-just-take-home-smallest-share-of-capital-since-1947-lowest-ever-recorded/"
     },
     {
       "category": "AI",
-      "title": "Enlightenment 0.28.0 Release",
+      "title": "AI delivers 'zero financial payoff' to most companies, Apollo economist says",
       "source": "Hacker News: Front Page",
-      "date": "Sun, 01 Nov 2026 15:26:06 +0000",
-      "summary": "Article URL: https://www.enlightenment.org/news/2026-10-31-enlightenment-0.28.0\nComments URL: https://news.ycombinator.com/item?id=50326530\nPoints: 17\n# Comments: 4",
-      "url": "https://www.enlightenment.org/news/2026-10-31-enlightenment-0.28.0"
+      "date": "Sun, 01 Nov 2026 22:10:45 +0000",
+      "summary": "Article URL: https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/\nComments URL: https://news.ycombinator.com/item?id=50330456\nPoints: 128\n# Comments: 114",
+      "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/"
     },
     {
       "category": "Science",
-      "title": "Heavy hydrogen in 3I/ATLAS's methane points to a frigid birthplace",
+      "title": "Climate change is killing the plants of Uluṟu‑Kata Tjuṯa: Aṉangu traditional owners are concerned",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Sun, 01 Nov 2026 10:20:02 EST",
-      "summary": "The interstellar comet 3I/ATLAS carries a chemical clue to conditions in the planetary system of its origin, locked away long before it reached our sun. Its methane signature is unusually rich in heavy hydrogen, suggesting that the comet's frozen ingredients took shape in an intensely cold environment around another star—or in the cloud that preceded it.",
-      "url": "https://phys.org/news/2026-10-heavy-hydrogen-3iatlas-methane-frigid.html"
+      "date": "Sun, 01 Nov 2026 17:00:05 EST",
+      "summary": "When we hear that climate change is damaging natural environments, it conjures images of rising seas eroding coastlines, or heat waves bleaching the Great Barrier Reef. But what about deserts?",
+      "url": "https://phys.org/news/2026-10-climate-ulurukata-tjua-anangu-traditional.html"
+    },
+    {
+      "category": "Science",
+      "title": "Collective human metabolism produces 2 billion metric tons of CO₂ a year, global study estimates",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sun, 01 Nov 2026 17:00:01 EST",
+      "summary": "A University of Bath–led study has estimated that the carbon dioxide produced by humans as our bodies turn food into energy rose by 74% between 1985 and 2015, reaching 2.05 billion metric tons a year. Researchers say the findings could help scientists better understand where carbon comes from, where it goes and how human activity fits into the bigger picture.",
+      "url": "https://phys.org/news/2026-10-human-metabolism-billion-metric-tons.html"
+    },
+    {
+      "category": "Science",
+      "title": "Mars dust may be less abrasive than lunar dust, spacesuit samples suggest",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sun, 01 Nov 2026 15:00:01 EST",
+      "summary": "Tucked away among its sensors, cameras and navigation tools, NASA's Mars rover Perseverance is wearing small swatches of spacesuit material. A rover doesn't need a spacesuit, but the swatches—each less than a square inch (6.5 square centimeters) in size—serve an important purpose: They're helping scientists assess the potential damage caused by ubiquitous Martian dust.",
+      "url": "https://phys.org/news/2026-10-mars-abrasive-lunar-spacesuit-samples.html"
+    },
+    {
+      "category": "AI",
+      "title": "Ask HN: Which TV do you recommend for privacy?",
+      "source": "Hacker News: Front Page",
+      "date": "Sun, 01 Nov 2026 19:35:27 +0000",
+      "summary": "I haven’t owned a TV in years and would like one that respects my privacy. Are there any TV’s which do this well? I am looking for something in the 60”to 80”range and would like a 4k display with at least 60hz display. I don’t mind paying a premium.\nI have heard good things about Apple TV as a better alternative to most smart TV native apps. Would some TV’s pair better with this than others for privacy? I don’t want the TV doing anything other than being the display for Apple TV.\nI am curious what success others have had.\nComments URL: https://news.ycombinator.com/item?id=50328896\nPoints: 119\n# Comments: 209",
+      "url": "https://news.ycombinator.com/item?id=50328896"
+    },
+    {
+      "category": "Space",
+      "title": " 'Metroid Prime' needs some 'Resident Evil'-style remakes to rediscover its sci-fi shooter mojo ",
+      "source": " Latest from Space.com ",
+      "date": "Sun, 01 Nov 2026 17:00:00 +0000",
+      "summary": "Nintendo's sci-fi shooter franchise is in dire straits, but we've got the solution to Samus's problems.",
+      "url": "https://www.space.com/entertainment/space-games/metroid-prime-needs-some-resident-evil-style-remakes-to-rediscover-its-sci-fi-shooter-mojo"
     },
     {
       "category": "Space",
@@ -49,30 +73,6 @@
       "date": "Sun, 01 Nov 2026 14:50:15 +0000",
       "summary": "On Nov. 1, 1962, the Soviet Union launched the Mars 1 spacecraft on a mission to fly by the Red Planet. Here's why it mattered.",
       "url": "https://www.space.com/space-exploration/on-this-day-in-space-november-1-2026"
-    },
-    {
-      "category": "AI",
-      "title": "Police chief unplugs Flock cameras after company ignores contract cancellation",
-      "source": "Hacker News: Front Page",
-      "date": "Sun, 01 Nov 2026 14:36:13 +0000",
-      "summary": "Article URL: https://www.tomshardware.com/tech-industry/big-tech/police-chief-physically-unplugs-flock-cameras-after-the-company-ignores-contract-cancellation-city-takes-matters-into-its-own-hands-amid-privacy-controversies\nComments URL: https://news.ycombinator.com/item?id=50326118\nPoints: 75\n# Comments: 12",
-      "url": "https://www.tomshardware.com/tech-industry/big-tech/police-chief-physically-unplugs-flock-cameras-after-the-company-ignores-contract-cancellation-city-takes-matters-into-its-own-hands-amid-privacy-controversies"
-    },
-    {
-      "category": "Science",
-      "title": "2,700-year-old mummy head yields first molecular evidence linking aloe to Egyptian embalming",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sun, 01 Nov 2026 09:00:01 EST",
-      "summary": "What materials did ancient Egyptians use to preserve the dead, and how can their composition still be investigated thousands of years later? An interdisciplinary team at Marburg University has combined modern natural product analysis with Egyptology and the history of pharmacy to investigate these questions.",
-      "url": "https://phys.org/news/2026-10-year-mummy-yields-molecular-evidence.html"
-    },
-    {
-      "category": "Space",
-      "title": " NASA's Swift space telescope is about to crash to Earth. Where will it fall? ",
-      "source": " Latest from Space.com ",
-      "date": "Sun, 01 Nov 2026 13:00:00 +0000",
-      "summary": "It's unclear at the moment exactly when and where the Swift observatory will plunge to Earth. But researchers definitely have their eyes peeled.",
-      "url": "https://www.space.com/space-exploration/missions/nasas-swift-space-telescope-is-about-to-crash-to-earth-where-will-it-fall"
     },
     {
       "category": "Science",
@@ -115,6 +115,14 @@
       "url": "https://www.sciencedaily.com/releases/2026/10/261031221201.htm"
     },
     {
+      "category": "Space",
+      "title": "APOD: 2026 November 1 – Colors of the Moon",
+      "source": "NASA",
+      "date": "Sun, 01 Nov 2026 04:05:00 +0000",
+      "summary": "APOD Science APOD APOD: 2026 November 1 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Colors of the […]",
+      "url": "https://science.nasa.gov/image-article/apod-2026-november-1-colors-of-the-moon/"
+    },
+    {
       "category": "Theology",
       "title": "New Free Playlist: 30 Songs of Gratitude to God",
       "source": "The Gospel Coalition",
@@ -155,6 +163,14 @@
       "url": "https://arstechnica.com/science/2026/10/the-fda-wants-to-pull-its-approval-of-a-drug-its-not-so-easy/"
     },
     {
+      "category": "Space",
+      "title": "APOD: 2026 October 31 – Night on a Spooky Planet",
+      "source": "NASA",
+      "date": "Sat, 31 Oct 2026 04:05:00 +0000",
+      "summary": "APOD Science APOD APOD: 2026 October 31 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Night on a […]",
+      "url": "https://science.nasa.gov/image-article/apod-2026-october-31-night-on-a-spooky-planet/"
+    },
+    {
       "category": "Theology",
       "title": "Martin Luther in 5 Latin Phrases",
       "source": "The Gospel Coalition",
@@ -169,6 +185,14 @@
       "date": "Sat, 31 Oct 2026 00:07:22 +0000",
       "summary": "The space agency solicited ideas for reboosting Hubble four years ago, but they didn't go anywhere.",
       "url": "https://arstechnica.com/space/2026/10/think-you-can-save-the-hubble-space-telescope-nasa-wants-to-know/"
+    },
+    {
+      "category": "Space",
+      "title": "NASA Releases MAX POWER Key Events for Media, Participants",
+      "source": "NASA",
+      "date": "Fri, 30 Oct 2026 19:31:02 +0000",
+      "summary": "America’s newest aerospace expo and air show – MAX POWER – is fast approaching, and NASA has announced key events beginning Friday, Nov. 6, and running through Sunday, Nov. 8, hosted on and near the agency’s Kennedy Space Center in Florida. Through multiple park experiences at MAX POWER, NASA and a variety of external collaborators […]",
+      "url": "https://www.nasa.gov/news-release/nasa-releases-max-power-key-events-for-media-participants/"
     },
     {
       "category": "Biblical Studies",
