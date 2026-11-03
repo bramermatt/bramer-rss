@@ -1,62 +1,222 @@
 {
-  "lastUpdated": "2026-11-03T03:13:53.492Z",
-  "articleCount": 36,
+  "lastUpdated": "2026-11-03T17:27:17.319Z",
+  "articleCount": 39,
   "articles": [
     {
       "category": "Science",
-      "title": "Study dives into lesser-known climate impacts of global reforestation",
+      "title": "Life on the move in a changing Chesapeake Bay",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Mon, 02 Nov 2026 21:40:01 EST",
-      "summary": "Simon Fraser University researchers are zeroing in on how global forestation efforts impact our climate system beyond CO₂ removal in a new study.",
-      "url": "https://phys.org/news/2026-11-lesser-climate-impacts-global-reforestation.html"
+      "date": "Tue, 03 Nov 2026 12:20:14 EST",
+      "summary": "In 2025, a local crabber reached out to professor Romuald Lipcius with some news: He'd been catching stone crabs in the Chesapeake Bay. Native to Florida, the species had reached its northernmost documented occurrence to date. News got out, and William & Mary's VIMS & Batten School were flooded with additional sightings from the public. Some were legitimate; many were mistaken identities.",
+      "url": "https://phys.org/news/2026-11-life-chesapeake-bay.html"
     },
     {
       "category": "Science",
-      "title": "Ceres' water ice can mask massive surface salt deposits",
+      "title": "Plants' immune memory hints at new crop breeding approach",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Mon, 02 Nov 2026 21:20:01 EST",
-      "summary": "The dwarf planet Ceres is arguably one of the most overlooked and underappreciated planetary objects in the solar system. This could be because while Ceres has the same dwarf planet designation as Pluto, Ceres is largely considered an \"asteroid\" since it resides in the main asteroid belt. However, along with being the largest object in the main asteroid belt, Ceres accounts for between 25% and 30% of the belt's total mass.",
-      "url": "https://phys.org/news/2026-11-ceres-ice-mask-massive-surface.html"
+      "date": "Tue, 03 Nov 2026 12:20:01 EST",
+      "summary": "A study published in Nature Communications, led by professor Jurriaan Ton and Dr. Adam Hannan Parker at the University of Sheffield, has identified mechanisms by which plants maintain and reset stress memory from past infections. This immune memory enables plants to defend themselves more effectively against harmful bacteria and mildews, which are increasingly threatening our crop and food production.",
+      "url": "https://phys.org/news/2026-11-immune-memory-hints-crop-approach.html"
     },
     {
       "category": "Science",
-      "title": "Climate change is making the tropics hotter",
+      "title": "A new way to navigate tough land and water use decisions",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Mon, 02 Nov 2026 21:00:01 EST",
-      "summary": "A new study finds that tropical areas often thought to be safe from the effects of climate change are actually experiencing significant changes in rainfall and extreme temperature events. The paper, \"Shifting climate in Caribbean tropical forests: Long-term trends at La Selva (Costa Rica) and El Verde (Puerto Rico),\" is published in PLOS Climate.",
-      "url": "https://phys.org/news/2026-11-climate-tropics-hotter.html"
+      "date": "Tue, 03 Nov 2026 12:10:01 EST",
+      "summary": "An open-source software tool to help find a sweet spot between competing environmental and development demands has been launched by researchers at the University of Queensland.",
+      "url": "https://phys.org/news/2026-11-tough-decisions.html"
     },
     {
       "category": "AI",
-      "title": "Show HN: Hacker Times, a New York Times-Inspired Version Hacker News",
-      "source": "Hacker News: Front Page",
-      "date": "Tue, 03 Nov 2026 01:53:34 +0000",
-      "summary": "I thought it would be fun to browse HN as if it were a newspaper. The site updates once an hour. Enjoy!\nComments URL: https://news.ycombinator.com/item?id=50346981\nPoints: 51\n# Comments: 15",
-      "url": "https://hackertimes.ca/"
-    },
-    {
-      "category": "AI",
-      "title": "DiscImageStudio: burn visible artwork onto CDs, DVDs and Blu-ray discs",
-      "source": "Hacker News: Front Page",
-      "date": "Tue, 03 Nov 2026 01:33:43 +0000",
-      "summary": "Article URL: https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio\nComments URL: https://news.ycombinator.com/item?id=50346849\nPoints: 53\n# Comments: 14",
-      "url": "https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio"
-    },
-    {
-      "category": "AI",
-      "title": "Ask HN: Does anyone have a contact with Cleveland-area Ham club?",
-      "source": "Hacker News: Front Page",
-      "date": "Tue, 03 Nov 2026 00:09:36 +0000",
-      "summary": "I filled out the web form for the Cuyahoga Amateur Radio Club but it's probably been circular-filed...  I gave some info about a large collection of radio gear that needs to be removed from a home or it will be put into a dumpster.  A lot of it brand-new.  If you know anybody at the club, please tell them to check whatever it is that receives their webform input.\nComments URL: https://news.ycombinator.com/item?id=50346164\nPoints: 79\n# Comments: 11",
-      "url": "https://news.ycombinator.com/item?id=50346164"
-    },
-    {
-      "category": "AI",
-      "title": "\"At Home in Space\" opens, caps Air and Space Museum renovation",
+      "title": "Google dismantles botnet secretly running on 1.3 million Android TV boxes",
       "source": "Ars Technica - All content",
-      "date": "Mon, 02 Nov 2026 23:30:16 +0000",
-      "summary": "The Smithsonian's National Air and Space Museum has all of its \"space\" back open.",
-      "url": "https://arstechnica.com/space/2026/11/at-home-in-space-opens-caps-air-and-space-museum-renovation/"
+      "date": "Tue, 03 Nov 2026 17:08:21 +0000",
+      "summary": "Google has cut ties with the company behind the botnet campaign.",
+      "url": "https://arstechnica.com/google/2026/11/google-dismantles-botnet-secretly-running-on-1-3-million-android-tv-boxes/"
+    },
+    {
+      "category": "AI",
+      "title": "Ashby (YC W19) Is Hiring EMs",
+      "source": "Hacker News: Front Page",
+      "date": "Tue, 03 Nov 2026 17:00:53 +0000",
+      "summary": "Article URL: https://www.ashbyhq.com/careers?ashby_jid=695b1ce6-c375-4fad-94ef-61b50a3fbd28&utm_source=hn\nComments URL: https://news.ycombinator.com/item?id=50354582\nPoints: 0\n# Comments: 0",
+      "url": "https://www.ashbyhq.com/careers?ashby_jid=695b1ce6-c375-4fad-94ef-61b50a3fbd28&utm_source=hn"
+    },
+    {
+      "category": "Space",
+      "title": " Hubble Telescope sees cosmic 'cat's tail' that could wrap around Earth and the sun 500 times ",
+      "source": " Latest from Space.com ",
+      "date": "Tue, 03 Nov 2026 17:00:00 +0000",
+      "summary": "Using the Hubble Space Telescope, astronomers have investigated a cosmic cat's tail formed when two Pluto-sized bodies smashed together.",
+      "url": "https://www.space.com/astronomy/hubble-space-telescope/hubble-telescope-sees-cosmic-cats-tail-that-could-wrap-around-the-sun-and-earth-500-times"
+    },
+    {
+      "category": "AI",
+      "title": "This space company is betting its future on a propellant available everywhere",
+      "source": "Ars Technica - All content",
+      "date": "Tue, 03 Nov 2026 16:50:32 +0000",
+      "summary": "Is that water in your spacecraft, or are you just happy to see the delta-V?",
+      "url": "https://arstechnica.com/space/2026/11/this-space-company-is-betting-its-future-on-a-propellant-available-everywhere/"
+    },
+    {
+      "category": "AI",
+      "title": "Gitbook Breached",
+      "source": "Hacker News: Front Page",
+      "date": "Tue, 03 Nov 2026 16:45:49 +0000",
+      "summary": "We opened a ticket with support about Gitbook availability issues and got this in reply. We have yet to see any official customer communication or breach notification. Apologies for the formatting, did the best I could as it's a mobile paste.\nUpdate:\nGitBook security incident update\n Hey ,\n The GitBook app, the GitBook API, and published docs are available again. A few services may still be degraded as we finish restoring everything to full performance.\n*What happened*\n GitBook has been the target of a sophisticated, highly targeted attack using AI agents. \n At 19:00 CET, November 2, the attacker gained unauthorized access to some of our infrastructure credentials. We detected the attack immediately and acted swiftly to block further impact. \n To make sure our infrastructure was fully secure, we then took the GitBook app and authenticated docs sites offline. We kept publicly published content live for as long as possible, using cached data.\n*What we did immediately*\n* Blocked the attacker and closed the vulnerabilities involved\n* Replaced every credential and secret across our infrastructure\n* Brought services back only once we were confident they were secure\n* Invalidated every customer’s API tokens on our platform\n*Your data*\n Our investigation shows that the attacker may have accessed the following:\n* Git Sync secrets.\n* GitBook API tokens.\n* Third-party API tokens used to connect external tools to GitBook.\n* Questions asked to GitBook Assistant by your site visitors.\nAt this stage, we have found no evidence that any of your content in GitBook was modified.\n*What you need to do now*\n* Rotate any existing GitBook API tokens. We revoked all personal API tokens during the incident.\n* Rotate any third-party API tokens or secrets you use to connect other tools to GitBook.\n* If you have published integrations that use secrets, rotate those secrets.\n* If you use the GitBook MCP server, re-authenticate it.\n Please contact your GitBook organization’s admin to assist with this process.\n*What we are doing next*\n* Monitoring the situation in case of further attacks.\n* Introducing further security measures to our platform.\n* Writing a full post mortem that will be published soon with more detailed information about the incident.\n* If you have any further questions, please reach out to your account manager or our support team. You can also check status.gitbook.com for updates\nThank you for your patience, and we apologize again for the disruption\n The GitBook team\nComments URL: https://news.ycombinator.com/item?id=50354336\nPoints: 17\n# Comments: 3",
+      "url": "https://news.ycombinator.com/item?id=50354336"
+    },
+    {
+      "category": "Space",
+      "title": "Astronaut and Earth",
+      "source": "NASA",
+      "date": "Tue, 03 Nov 2026 16:37:42 +0000",
+      "summary": "CSA (Canadian Space Agency) astronaut Joshua Kutryk is pictured during the Oct. 29, 2026, spacewalk. The International Space Station was soaring 267 miles above the South Atlantic Ocean at the time of this photograph. Kutryk and NASA astronaut Anil Menon installed a new roll-out solar array on the space station and performed some get-ahead work […]",
+      "url": "https://www.nasa.gov/image-article/astronaut-and-earth/"
+    },
+    {
+      "category": "AI",
+      "title": "UEFI bootkit infected fully patched Windows machines. Is Microsoft to blame?",
+      "source": "Ars Technica - All content",
+      "date": "Tue, 03 Nov 2026 16:03:13 +0000",
+      "summary": "UEFI bootkit BlackX exploits Microsoft's lack of clarity around Secure Boot protections.",
+      "url": "https://arstechnica.com/security/2026/11/uefi-bootkit-infected-fully-patched-windows-machines-is-microsoft-to-blame/"
+    },
+    {
+      "category": "Space",
+      "title": " The Star Wars Eclipse — Want to see the 2027 total solar eclipse on Tatooine? Head to Tunisia ",
+      "source": " Latest from Space.com ",
+      "date": "Tue, 03 Nov 2026 16:00:00 +0000",
+      "summary": "From Mos Eisley to Mos Espa and the Jundland Wastes, here's where to experience the Aug. 2, 2027 total solar eclipse from Tunisia's Star Wars filming locations.",
+      "url": "https://www.space.com/stargazing/solar-eclipses/the-star-wars-eclipse-want-to-see-the-2027-total-solar-eclipse-on-tatooine-head-to-tunisia"
+    },
+    {
+      "category": "AI",
+      "title": "Quili AI",
+      "source": "Hacker News: Front Page",
+      "date": "Tue, 03 Nov 2026 15:49:02 +0000",
+      "summary": "Article URL: https://www.quili.ai/\nComments URL: https://news.ycombinator.com/item?id=50353475\nPoints: 73\n# Comments: 42",
+      "url": "https://www.quili.ai/"
+    },
+    {
+      "category": "Space",
+      "title": "TB 26-10 Printed Circuit Board Assembly Chip Resistor Body Cracking",
+      "source": "NASA",
+      "date": "Tue, 03 Nov 2026 15:35:14 +0000",
+      "summary": "For more information, contact Joel W. Sills, Langley Research Center, joel.w.sills@nasa.gov. Download PDF here Chip resistors are widely used in NASA projects, yet cases of alumina substrate cracking during environmental testing are rare. Two instances of thick-film chip resistor cracking were observed during thermal cycling after vibration, with fractures occurring across the short axis due […]",
+      "url": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-10-printed-circuit-board-assembly-chip-resistor-body-cracking/"
+    },
+    {
+      "category": "Space",
+      "title": "NASA Astronaut, STEM Creator Connect with Students for STEM Day",
+      "source": "NASA",
+      "date": "Tue, 03 Nov 2026 15:15:50 +0000",
+      "summary": "Students across the country will have the opportunity to connect directly with the International Space Station during a live, interactive in-flight call with NASA astronaut Anil Menon and Mark Rober STEM content creator and founder of ClassCrunchLabs Foundation. The event, hosted by NASA’s Office of STEM Engagement, celebrates National STEM Day by bringing real‑world science, […]",
+      "url": "https://www.nasa.gov/learning-resources/nasa-astronaut-stem-creator-connect-with-students-for-stem-day/"
+    },
+    {
+      "category": "Space",
+      "title": " On this day in space! Nov. 3, 1957: Laika the dog launches with Sputnik 2 ",
+      "source": " Latest from Space.com ",
+      "date": "Tue, 03 Nov 2026 15:00:00 +0000",
+      "summary": "On Nov. 3, 1957, a Soviet space dog named Laika became the first animal to orbit Earth.",
+      "url": "https://www.space.com/space-exploration/on-this-day-in-space-november-3-2026"
+    },
+    {
+      "category": "Science",
+      "title": "A 50-year-old mystery of vanishing frogs reveals a hidden killer",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Tue, 03 Nov 2026 07:51:53 EST",
+      "summary": "A nearly 50-year-old mystery involving disappearing frogs in Brazil may finally be solved, with scientists uncovering evidence that a deadly fungus swept through the region and devastated vulnerable species. Remarkably, many frog populations have since rebounded, suggesting they developed greater tolerance to the disease that once threatened their survival.",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261102202838.htm"
+    },
+    {
+      "category": "Science",
+      "title": " 'Quite a light show': NASA astronaut snaps atmospheric fireball as Russian rocket explodes over West Africa ",
+      "source": " Latest from Live Science ",
+      "date": "Tue, 03 Nov 2026 12:22:11 +0000",
+      "summary": "An American astronaut on board the ISS recently snapped a spectacular \"fireball\" streaking across the nighttime sky over West Africa. The striking \"light show\" shows a Russian rocket being vaporized as it reenters the upper atmosphere.",
+      "url": "https://www.livescience.com/planet-earth/quite-a-light-show-nasa-astronaut-snaps-atmospheric-fireball-as-russian-rocket-explodes-over-west-africa-earth-from-space"
+    },
+    {
+      "category": "Science",
+      "title": "Scientists identify two overlooked skills that predict reading success",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Tue, 03 Nov 2026 07:15:18 EST",
+      "summary": "A massive new study reveals that intelligence plays a surprisingly limited role in children's reading success, while visual processing showed no meaningful connection at all. Instead, the strongest predictors are sound recognition, vocabulary, and background knowledge, offering new clues about how to help struggling readers.",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261102202845.htm"
+    },
+    {
+      "category": "Biblical Studies",
+      "title": "The Quest for the Historical Paul",
+      "source": "Biblical Archaeology Society",
+      "date": "Tue, 03 Nov 2026 12:00:10 +0000",
+      "summary": "What can we reliably know about Paul and how can we know it?  As is the case with Jesus this is not an easy question. \nThe post The Quest for the Historical Paul appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/daily/people-cultures-in-the-bible/people-in-the-bible/the-quest-for-the-historical-paul/"
+    },
+    {
+      "category": "Science",
+      "title": " Mars-bound astronauts could face years of heart scarring, rat study hints ",
+      "source": " Latest from Live Science ",
+      "date": "Tue, 03 Nov 2026 11:40:35 +0000",
+      "summary": "Rats that were exposed to radiation similar to what Mars-bound astronauts might face showed higher levels of scar tissue in their hearts, indicating they were more vulnerable to heart failure.",
+      "url": "https://www.livescience.com/space/space-exploration/cosmic-rays-could-scar-the-heart-raising-risks-for-mars-bound-astronauts-rat-study-hints"
+    },
+    {
+      "category": "Biblical Studies",
+      "title": "Searching for Solomon",
+      "source": "Biblical Archaeology Society",
+      "date": "Tue, 03 Nov 2026 11:00:47 +0000",
+      "summary": "The figure of King Solomon has captivated countless generations of Bible readers. The wise king had already reached legendary status in antiquity, and by the […]\nThe post Searching for Solomon appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-israel/searching-for-solomon/"
+    },
+    {
+      "category": "Science",
+      "title": " 5,300-year-old kidney stone the size of a grape found in Bronze Age man's burial near Black Sea ",
+      "source": " Latest from Live Science ",
+      "date": "Tue, 03 Nov 2026 11:00:00 +0000",
+      "summary": "Researchers identified a 5,300-year-old kidney stone in the burial of a Bronze Age cattle herder in Russia.",
+      "url": "https://www.livescience.com/archaeology/5-300-year-old-kidney-stone-the-size-of-a-grape-found-in-bronze-age-mans-burial-near-black-sea"
+    },
+    {
+      "category": "Science",
+      "title": "NASA smashed into an asteroid. Now Hera is closing in to see what happened",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Tue, 03 Nov 2026 04:46:21 EST",
+      "summary": "Europe’s Hera spacecraft has captured its first clear view of two asteroids involved in NASA’s historic 2022 experiment to redirect a potentially dangerous space rock. Now approaching the pair, Hera will investigate the mysterious aftermath of the collision and uncover why the asteroid shifted far more than scientists predicted.",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261103003154.htm"
+    },
+    {
+      "category": "AI",
+      "title": "Heimstaden is changing residential real estate management with AI",
+      "source": "OpenAI News",
+      "date": "Tue, 03 Nov 2026 08:00:00 GMT",
+      "summary": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.",
+      "url": "https://openai.com/index/heimstaden"
+    },
+    {
+      "category": "Theology",
+      "title": "Does Christianity Make Sense? On God, Evil, and the Ache (with Gavin Ortlund)",
+      "source": "The Gospel Coalition",
+      "date": "Tue, 03 Nov 2026 05:04:09 +0000",
+      "summary": "Gavin Ortlund joins Collin Hansen to discuss apologetics and why Christianity makes sense.",
+      "url": "https://www.thegospelcoalition.org/podcasts/gospelbound/does-christianity-make-sense/"
+    },
+    {
+      "category": "Theology",
+      "title": "I Was a Justice Warrior. I Needed the Whole Gospel. You Do Too.",
+      "source": "The Gospel Coalition",
+      "date": "Tue, 03 Nov 2026 05:02:00 +0000",
+      "summary": "Most Christians today see these two gospel aspects as part of the same biblical pie. But we often fail to see them as necessarily intertwined.",
+      "url": "https://www.thegospelcoalition.org/article/justice-warrior-whole-gospel/"
+    },
+    {
+      "category": "Theology",
+      "title": "Lessons from Lloyd-Jones on Preaching and Politics",
+      "source": "The Gospel Coalition",
+      "date": "Tue, 03 Nov 2026 05:00:00 +0000",
+      "summary": "Here are three lessons we can learn from Martyn Lloyd-Jones’s ministry in a time of political crisis.",
+      "url": "https://www.thegospelcoalition.org/article/lloyd-jones-preaching-politics/"
     },
     {
       "category": "History",
@@ -67,76 +227,12 @@
       "url": "https://allthingsliberty.com/2026/11/george-washington-and-religious-freedom/"
     },
     {
-      "category": "AI",
-      "title": "Why large dogs age faster than small ones, and other October research highlights",
-      "source": "Ars Technica - All content",
-      "date": "Mon, 02 Nov 2026 22:54:35 +0000",
-      "summary": "Plus invisible tattoos, medieval skeleton gets an ID, trapping a single antimatter particle, and more.",
-      "url": "https://arstechnica.com/science/2026/11/research-roundup-6-cool-science-stories-we-almost-missed-7/"
-    },
-    {
       "category": "Theology",
       "title": "Discerning Between Godly and Worldly Grief",
       "source": "9Marks",
       "date": "Mon, 02 Nov 2026 21:45:20 +0000",
       "summary": "Godly grief leads to mourning over sin, not simply its consequences.\nThe post Discerning Between Godly and Worldly Grief appeared first on 9Marks.",
       "url": "https://www.9marks.org/article/discerning-between-godly-and-worldly-grief/?utm_source=rss&utm_medium=rss&utm_campaign=discerning-between-godly-and-worldly-grief"
-    },
-    {
-      "category": "AI",
-      "title": "Third person dies of bird flu since virus started jumping to livestock",
-      "source": "Ars Technica - All content",
-      "date": "Mon, 02 Nov 2026 21:21:43 +0000",
-      "summary": "The threat is still considered to be low, but the virus continues to spread.",
-      "url": "https://arstechnica.com/health/2026/11/third-person-dies-of-bird-flu-since-virus-started-jumping-to-livestock/"
-    },
-    {
-      "category": "Science",
-      "title": " Traces of ancient blood found in 115 million-year-old dinosaur fossil, new study claims ",
-      "source": " Latest from Live Science ",
-      "date": "Mon, 02 Nov 2026 21:01:07 +0000",
-      "summary": "Chemical signatures found in a Brazilian dinosaur bone may be preserved red blood cells, a new study suggests, but not all experts agree.",
-      "url": "https://www.livescience.com/animals/dinosaurs/traces-of-ancient-blood-found-in-115-million-year-old-dinosaur-fossil-new-study-claims"
-    },
-    {
-      "category": "Space",
-      "title": " New 'Star Trek: The Original Voyages' book traces the stellar legacy of the bold sci-fi brand ",
-      "source": " Latest from Space.com ",
-      "date": "Mon, 02 Nov 2026 20:00:00 +0000",
-      "summary": "Keep the 60th anniversary party going with this visual salute to the series that launched a legacy",
-      "url": "https://www.space.com/entertainment/space-books/new-star-trek-the-original-voyages-book-traces-the-stellar-legacy-of-the-bold-sci-fi-brand"
-    },
-    {
-      "category": "Space",
-      "title": " Viltrox AF 35mm f/1.8 II EVO FE (APO) lens review — how good is this budget lens for astrophotography? ",
-      "source": " Latest from Space.com ",
-      "date": "Mon, 02 Nov 2026 19:00:00 +0000",
-      "summary": "The Viltrox AF 35mm f/1.8 II FE (APO) is an inexpensive prime that works well for astrophotography thanks to its focal length and maximum aperture.",
-      "url": "https://www.space.com/stargazing/skywatching-kit/viltrox-af-35mm-f-1-8-ii-evo-fe-apo-lens-review-how-good-is-this-budget-lens-for-astrophotography"
-    },
-    {
-      "category": "AI",
-      "title": "Rewarding defenders with bigger bug bounties",
-      "source": "OpenAI News",
-      "date": "Mon, 02 Nov 2026 18:00:00 GMT",
-      "summary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
-      "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties"
-    },
-    {
-      "category": "Space",
-      "title": " James Webb Space Telescope uncovers new clues about the origins of 'interstellar invader' comet 3I/ATLAS ",
-      "source": " Latest from Space.com ",
-      "date": "Mon, 02 Nov 2026 17:00:00 +0000",
-      "summary": "The findings are another clue towards understanding the origins of 3I/ATLAS and the planet-forming conditions around other stars.",
-      "url": "https://www.space.com/astronomy/asteroids/james-webb-space-telescope-uncovers-new-clues-about-the-origins-of-interstellar-invader-comet-3i-atlas"
-    },
-    {
-      "category": "Science",
-      "title": " Buried for 2,600 years beneath Nile mud, a massive ancient Egyptian complex was just found — from space ",
-      "source": " Latest from Live Science ",
-      "date": "Mon, 02 Nov 2026 16:52:21 +0000",
-      "summary": "Satellite radar and underground electrical scans have revealed a 2,600-year-old structure at Buto, one of ancient Egypt's most sacred cities. The real surprise wasn't the walls — but what was underneath them.",
-      "url": "https://www.livescience.com/archaeology/ancient-egyptians/buried-for-2-600-years-beneath-nile-mud-a-massive-ancient-egyptian-complex-was-just-found-from-space"
     },
     {
       "category": "History",
@@ -163,84 +259,12 @@
       "url": "https://openai.com/index/grid-protectors-program"
     },
     {
-      "category": "Science",
-      "title": "IceCube detects ghost particles with 10 billion times the energy of solar neutrinos",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Mon, 02 Nov 2026 08:42:07 EST",
-      "summary": "Mysterious particles called neutrinos constantly stream through our bodies, and scientists are now detecting incredibly powerful versions arriving from distant cosmic sources using a massive observatory buried in Antarctic ice. These elusive “ghost particles” could hold extraordinary clues about the Big Bang, extreme cosmic events, and some of the universe’s greatest mysteries.",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261101010533.htm"
-    },
-    {
       "category": "Biblical Studies",
       "title": "A Forest Fortress Reopens in Israel",
       "source": "Biblical Archaeology Society",
       "date": "Mon, 02 Nov 2026 11:45:37 +0000",
       "summary": "The Israel Antiquities Authority announced in a press release that the Gal’on Fortress has officially been opened to the public. This mid-12th century BCE structure […]\nThe post A Forest Fortress Reopens in Israel appeared first on Biblical Archaeology Society.",
       "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-israel/a-forest-fortress-reopens-in-israel/"
-    },
-    {
-      "category": "Biblical Studies",
-      "title": "When Sugar Grew in the Holy Land",
-      "source": "Biblical Archaeology Society",
-      "date": "Mon, 02 Nov 2026 11:00:50 +0000",
-      "summary": "When envisioning the agricultural produce of the Holy Land, sugar is not what comes to most people’s minds, but for much of the Middle Ages, […]\nThe post When Sugar Grew in the Holy Land appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-israel/when-sugar-grew-in-the-holy-land/"
-    },
-    {
-      "category": "Science",
-      "title": " 'Now you actually have a blood test': Psychiatry's bible, the DSM, is getting upgraded to include biological markers. A psychiatrist explains what that means for mental health. ",
-      "source": " Latest from Live Science ",
-      "date": "Mon, 02 Nov 2026 11:00:00 +0000",
-      "summary": "The next edition of the \"Diagnostic and Statistical Manual Of Mental Disorders\" will include biological factors like genetics in studying and diagnosing psychiatric conditions, according to psychiatrist  Anand Kumar.",
-      "url": "https://www.livescience.com/health/neuroscience/now-you-actually-have-a-blood-test-psychiatrys-bible-the-dsm-is-getting-upgraded-to-include-biological-markers-a-psychiatrist-explains-what-that-means-for-mental-health"
-    },
-    {
-      "category": "Science",
-      "title": "NASA reveals a haunting skull hidden in Antarctica’s ice",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Mon, 02 Nov 2026 04:50:36 EST",
-      "summary": "NASA satellites have captured an eerie, skull-shaped formation on a remote Antarctic island, but its haunting appearance conceals a troubling warning about melting glaciers. Unusually warm winter temperatures have exposed large areas of dark ice, potentially accelerating future melting and gradually transforming the skull's ghostly features.",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261101010538.htm"
-    },
-    {
-      "category": "Theology",
-      "title": "Develop Healthy Tech Habits with Your Teen",
-      "source": "The Gospel Coalition",
-      "date": "Mon, 02 Nov 2026 05:02:00 +0000",
-      "summary": "‘Scroll Less, Live More’ helps teens and parents develop the tech skills they need to live a life rooted in reality and steeped in wisdom.",
-      "url": "https://www.thegospelcoalition.org/reviews/help-teen-healthy-tech-habits/"
-    },
-    {
-      "category": "Theology",
-      "title": "Effective Altruists and the Spreadsheet Gospel",
-      "source": "The Gospel Coalition",
-      "date": "Mon, 02 Nov 2026 05:00:00 +0000",
-      "summary": "Effective altruism commands us to love our neighbor yet dissolves that neighbor into a statistic. It asks for the fruit of the image of God while denying the root.",
-      "url": "https://www.thegospelcoalition.org/article/effective-altruists-spreadsheet-gospel/"
-    },
-    {
-      "category": "Science",
-      "title": "NASA's Hubble and Webb discover ancient worlds that remember their past",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Sun, 01 Nov 2026 22:07:01 EST",
-      "summary": "NASA’s Hubble and James Webb Space Telescopes have uncovered surprising clues about the solar system’s origins by studying 27 tiny, distant objects beyond Neptune. Scientists discovered that these ancient building blocks of planets have remained remarkably unchanged for billions of years, while their unexpected sizes and numbers challenge existing theories of planet formation.",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261031221209.htm"
-    },
-    {
-      "category": "Biblical Studies",
-      "title": "The Göbekli Tepe Ruins and the Origins of Neolithic Religion",
-      "source": "Biblical Archaeology Society",
-      "date": "Sun, 01 Nov 2026 12:00:29 +0000",
-      "summary": "The massive stone enclosures of the Göbekli Tepe ruins may be the earliest examples of Neolithic religion. \nThe post The Göbekli Tepe Ruins and the Origins of Neolithic Religion appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-near-eastern-world/the-gobekli-tepe-ruins-and-the-origins-of-neolithic-religion/"
-    },
-    {
-      "category": "Theology",
-      "title": "New Free Playlist: 30 Songs of Gratitude to God",
-      "source": "The Gospel Coalition",
-      "date": "Sun, 01 Nov 2026 04:02:00 +0000",
-      "summary": "Brett McCracken curates a playlist of 30 songs to help you practice gratitude to God—not just on Thanksgiving but every day.",
-      "url": "https://www.thegospelcoalition.org/article/free-playlist-songs-gratitude/"
     },
     {
       "category": "History",
