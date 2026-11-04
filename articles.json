@@ -1,174 +1,230 @@
 {
-  "lastUpdated": "2026-11-04T01:46:40.002Z",
-  "articleCount": 36,
+  "lastUpdated": "2026-11-04T17:40:29.451Z",
+  "articleCount": 39,
   "articles": [
     {
       "category": "Science",
-      "title": "Shared data ecosystem could help scientists explore new biological connections",
+      "title": "Satellites leak noise that interferes with telescopes and GPS. Here's how to fix it",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Tue, 03 Nov 2026 20:40:01 EST",
-      "summary": "Scientists generate vast amounts of research data, but connecting information across studies can be difficult. The NIH Common Fund Data Ecosystem is working to change that by making research data sets from 18 NIH programs easier to find, connect and analyze.",
-      "url": "https://phys.org/news/2026-11-ecosystem-scientists-explore-biological.html"
+      "date": "Wed, 04 Nov 2026 12:20:22 EST",
+      "summary": "Less than a decade ago, there were about 2,000 operational satellites orbiting Earth. Today there are more than 15,000. Millions more are planned.",
+      "url": "https://phys.org/news/2026-11-satellites-leak-noise-telescopes-gps.html"
     },
     {
       "category": "Science",
-      "title": "Digitalization front-runners are more vulnerable to cyberattacks",
+      "title": "Nature's looking glass: Crafting mirrors from plants",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Tue, 03 Nov 2026 20:30:01 EST",
-      "summary": "For many business leaders, digitalization is associated with promises of greater efficiency and productivity. However, a new study by professor of accounting Jukka Sihvonen from the University of Vaasa, Finland, suggests that increasing digitalization may also raise a company's risk of falling victim to a successful cyberattack. The study has been published in the journal British Journal of Management.",
-      "url": "https://phys.org/news/2026-11-digitalization-front-runners-vulnerable-cyberattacks.html"
+      "date": "Wed, 04 Nov 2026 12:20:01 EST",
+      "summary": "Natural materials, ranging from butterfly wings to mother-of-pearl, can exhibit an array of optical effects. In trying to reproduce these effects, scientists have found it challenging to use biodegradable, sustainable raw ingredients while also achieving the high levels of reflectivity required for certain applications.",
+      "url": "https://phys.org/news/2026-11-nature-glass-crafting-mirrors.html"
+    },
+    {
+      "category": "AI",
+      "title": "Progress on provable inference for large language models",
+      "source": "Hacker News: Front Page",
+      "date": "Wed, 04 Nov 2026 17:17:46 +0000",
+      "summary": "Article URL: https://www.anthropic.com/research/provable-inference\nComments URL: https://news.ycombinator.com/item?id=50368626\nPoints: 15\n# Comments: 2",
+      "url": "https://www.anthropic.com/research/provable-inference"
+    },
+    {
+      "category": "AI",
+      "title": "An end to buggy web apps",
+      "source": "Hacker News: Front Page",
+      "date": "Wed, 04 Nov 2026 17:01:44 +0000",
+      "summary": "Article URL: https://replay.io/blog/an-end-to-buggy-web-apps\nComments URL: https://news.ycombinator.com/item?id=50368439\nPoints: 17\n# Comments: 5",
+      "url": "https://replay.io/blog/an-end-to-buggy-web-apps"
     },
     {
       "category": "Science",
-      "title": "Study maps Nelore cattle microbiota to reduce methane emissions",
+      "title": "Speaking in a second language may shift your moral compass—but it can't overpower it",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Tue, 03 Nov 2026 20:00:01 EST",
-      "summary": "Researchers at the Brazilian Agricultural Research Corporation (EMBRAPA) are studying the relationship between the genetics of Nelore cattle and the microorganisms in their guts (microbiota). Nelore cattle are the most widely raised beef breed in Brazil. The goal is to develop strategies that reduce emissions of methane—a major greenhouse gas—and improve the animals' feed efficiency.",
-      "url": "https://phys.org/news/2026-11-nelore-cattle-microbiota-methane-emissions.html"
-    },
-    {
-      "category": "AI",
-      "title": "People Against Genocide Smash Military Satellites on Balfour Anniversary",
-      "source": "Hacker News: Front Page",
-      "date": "Wed, 04 Nov 2026 00:25:48 +0000",
-      "summary": "Article URL: https://aftershock.media/military-satellites-balfour/\nComments URL: https://news.ycombinator.com/item?id=50360115\nPoints: 5\n# Comments: 0",
-      "url": "https://aftershock.media/military-satellites-balfour/"
-    },
-    {
-      "category": "AI",
-      "title": "California fights \"preposterous\" Trump admin demand to scrap state broadband laws",
-      "source": "Ars Technica - All content",
-      "date": "Tue, 03 Nov 2026 22:39:37 +0000",
-      "summary": "State tries to obtain broadband funds despite rejecting Trump admin condition.",
-      "url": "https://arstechnica.com/tech-policy/2026/11/california-fights-preposterous-trump-admin-demand-to-scrap-state-broadband-laws/"
+      "date": "Wed, 04 Nov 2026 12:00:17 EST",
+      "summary": "In today's interconnected world, millions of people move between two or more languages every day. They may negotiate at work in one language, speak with family in another and follow news, entertainment and social media across several others.",
+      "url": "https://phys.org/news/2026-11-language-shift-moral-compass-overpower.html"
     },
     {
       "category": "Space",
-      "title": " NASA asks industry for ideas about saving Hubble Space Telescope ",
+      "title": " NASA's Artemis II moon launch tore a hole in Earth's upper atmosphere so huge it disrupted GPS signals ",
       "source": " Latest from Space.com ",
-      "date": "Tue, 03 Nov 2026 22:00:00 +0000",
-      "summary": "The Hubble Space Telescope is healthy but is being pulled down toward Earth by atmospheric drag. NASA is considering options to extend the iconic telescope's work.",
-      "url": "https://www.space.com/astronomy/hubble-space-telescope/nasa-asks-industry-for-ideas-about-saving-hubble-space-telescope"
-    },
-    {
-      "category": "AI",
-      "title": "The Internals of PostgreSQL",
-      "source": "Hacker News: Front Page",
-      "date": "Tue, 03 Nov 2026 21:51:06 +0000",
-      "summary": "Article URL: https://www.interdb.jp/pg/index.html\nComments URL: https://news.ycombinator.com/item?id=50358702\nPoints: 100\n# Comments: 2",
-      "url": "https://www.interdb.jp/pg/index.html"
-    },
-    {
-      "category": "Science",
-      "title": " Would you risk your health to visit Mars? ",
-      "source": " Latest from Live Science ",
-      "date": "Tue, 03 Nov 2026 21:46:50 +0000",
-      "summary": "A recent rat study hinted that cosmic radiation could pose health risks for future Mars explorers. Live Science asks its readers whether they'd take the journey anyway.",
-      "url": "https://www.livescience.com/space/mars/would-you-risk-your-health-to-visit-mars"
-    },
-    {
-      "category": "AI",
-      "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
-      "source": "Hacker News: Front Page",
-      "date": "Tue, 03 Nov 2026 21:40:53 +0000",
-      "summary": "Article URL: https://arxiv.org/abs/2605.29713\nComments URL: https://news.ycombinator.com/item?id=50358582\nPoints: 223\n# Comments: 35",
-      "url": "https://arxiv.org/abs/2605.29713"
+      "date": "Wed, 04 Nov 2026 17:00:00 +0000",
+      "summary": "\"It could have a strong impact not only on self-driving cars but also on drone positioning.\"",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/nasas-artemis-ii-moon-launch-tore-a-hole-in-earths-upper-atmosphere-so-huge-it-disrupted-gps-signals"
     },
     {
       "category": "Space",
-      "title": " Ancient star collisions could explain mysterious Little Red Dots and 'impossible' black holes ",
-      "source": " Latest from Space.com ",
-      "date": "Tue, 03 Nov 2026 21:00:00 +0000",
-      "summary": "Collisions between stars in the early universe were common, and this could explain the growth of supermassive black holes and the existence of strange Little Red Dots seen by the James Webb Space Telescope.",
-      "url": "https://www.space.com/astronomy/stars/ancient-star-collisions-could-explain-mysterious-little-red-dots-and-impossible-black-holes"
-    },
-    {
-      "category": "Space",
-      "title": " Voting in space: NASA astronauts cast ballots from International Space Station ",
-      "source": " Latest from Space.com ",
-      "date": "Tue, 03 Nov 2026 20:46:36 +0000",
-      "summary": "The three Americans currently living off Earth made sure their voices were heard, voting in the midterm election from the International Space Station.",
-      "url": "https://www.space.com/space-exploration/international-space-station/voting-in-space-nasa-astronauts-cast-ballots-from-international-space-station"
-    },
-    {
-      "category": "AI",
-      "title": "Ukraine’s drone strikes spur hasty Russian plans for underground data centers",
-      "source": "Ars Technica - All content",
-      "date": "Tue, 03 Nov 2026 20:39:55 +0000",
-      "summary": "Russia tries to fix exposed digital infrastructure as data center war backfires.",
-      "url": "https://arstechnica.com/ai/2026/11/russia-looks-to-hide-data-centers-underground-as-ukrainian-drones-strike-back/"
-    },
-    {
-      "category": "Science",
-      "title": " A 3,200-pound NASA spacecraft could fall to Earth tonight ",
-      "source": " Latest from Live Science ",
-      "date": "Tue, 03 Nov 2026 18:56:00 +0000",
-      "summary": "NASA's Swift Observatory is about to make a fiery reentry through Earth's atmosphere after a private mission to save it failed. Most of the spacecraft will burn up in orbit.",
-      "url": "https://www.livescience.com/space/space-exploration/nasas-3-200-pound-swift-telescope-could-fall-to-earth-as-soon-as-tonight-agency-says"
-    },
-    {
-      "category": "AI",
-      "title": "NYT demands Brave shut down its paywall blocker and end deals with AI firms",
-      "source": "Ars Technica - All content",
-      "date": "Tue, 03 Nov 2026 18:30:27 +0000",
-      "summary": "Lawsuit calls Brave \"supplier, dealer, and distributor\" of stolen news content.",
-      "url": "https://arstechnica.com/tech-policy/2026/11/nyt-demands-brave-shut-down-its-paywall-blocker-and-end-deals-with-ai-firms/"
-    },
-    {
-      "category": "Space",
-      "title": "Astronaut and Earth",
+      "title": "NASA Navigation Experiment Shows Promise for Planetary Landings",
       "source": "NASA",
-      "date": "Tue, 03 Nov 2026 16:37:42 +0000",
-      "summary": "CSA (Canadian Space Agency) astronaut Joshua Kutryk is pictured during the Oct. 29, 2026, spacewalk. The International Space Station was soaring 267 miles above the South Atlantic Ocean at the time of this photograph. Kutryk and NASA astronaut Anil Menon installed a new roll-out solar array on the space station and performed some get-ahead work […]",
-      "url": "https://www.nasa.gov/image-article/astronaut-and-earth/"
+      "date": "Wed, 04 Nov 2026 16:52:43 +0000",
+      "summary": "NASA successfully demonstrated technology designed to help spacecraft autonomously navigate to safe landing sites on the Moon and on other planets. An Alta-X drone equipped with the agency’s Safe and Precise Landing – Integrated Capabilities Evolution (SPLICE) guidance, navigation, and control payload completed simulated lunar descent and landing maneuvers Aug. 27. The flight took place […]",
+      "url": "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-navigation-experiment-shows-promise-for-planetary-landings/"
     },
     {
       "category": "Space",
-      "title": "TB 26-10 Printed Circuit Board Assembly Chip Resistor Body Cracking",
+      "title": "NASA Space Grant Students Fuel Agency’s Inspiration Tour",
       "source": "NASA",
-      "date": "Tue, 03 Nov 2026 15:35:14 +0000",
-      "summary": "For more information, contact Joel W. Sills, Langley Research Center, joel.w.sills@nasa.gov. Download PDF here Chip resistors are widely used in NASA projects, yet cases of alumina substrate cracking during environmental testing are rare. Two instances of thick-film chip resistor cracking were observed during thermal cycling after vibration, with fractures occurring across the short axis due […]",
-      "url": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-10-printed-circuit-board-assembly-chip-resistor-body-cracking/"
+      "date": "Wed, 04 Nov 2026 16:16:41 +0000",
+      "summary": "NASA’s Inspiration Tour spread the excitement of space exploration and aeronautical innovation by connecting the public, industry, and academia with the people, technologies, and organizations that drive American leadership in space. At nearly every stop across the country, NASA Space Grant has brought students into the heart of the action. In Iowa, NASA Administrator Jared […]",
+      "url": "https://www.nasa.gov/learning-resources/nasa-space-grant-students-fuel-agencys-inspiration-tour/"
+    },
+    {
+      "category": "AI",
+      "title": "Binance says hackers who stole billions in crypto spent months planning heist",
+      "source": "Ars Technica - All content",
+      "date": "Wed, 04 Nov 2026 16:06:03 +0000",
+      "summary": "Techniques included laptop infections, compromised internal tooling, and fake job interviews.",
+      "url": "https://arstechnica.com/information-technology/2026/11/binance-says-hackers-who-stole-billions-in-crypto-spent-months-planning-heist/"
+    },
+    {
+      "category": "Space",
+      "title": "Hubble Reveals Cosmic Mystery",
+      "source": "NASA",
+      "date": "Wed, 04 Nov 2026 15:59:36 +0000",
+      "summary": "This photo released on Nov. 2, 2026, showcases NGC  4449, a dwarf irregular. Researchers using NASA’s Hubble Space Telescope studied 37 nearby dwarf galaxies — small galaxies containing a few thousand to hundreds of millions of stars — including NGC 4449 and found that much of the oxygen they expected to see is missing. Read […]",
+      "url": "https://www.nasa.gov/image-article/hubble-reveals-cosmic-mystery/"
+    },
+    {
+      "category": "AI",
+      "title": "What I learned driving the Slate electric truck prototype",
+      "source": "Ars Technica - All content",
+      "date": "Wed, 04 Nov 2026 15:42:18 +0000",
+      "summary": "After 45 minutes behind the wheel, I am more optimistic about the $25,000 EV.",
+      "url": "https://arstechnica.com/cars/2026/11/what-i-learned-driving-the-slate-electric-truck-prototype/"
+    },
+    {
+      "category": "AI",
+      "title": "AMD expects to outsell Intel in Q4 for the first time in history",
+      "source": "Hacker News: Front Page",
+      "date": "Wed, 04 Nov 2026 15:38:34 +0000",
+      "summary": "Article URL: https://www.tomshardware.com/pc-components/cpus/amd-expects-to-outsell-intel-in-q4-for-the-first-time-in-history-usd17b-guidance-would-exceed-intels-projections\nComments URL: https://news.ycombinator.com/item?id=50367125\nPoints: 129\n# Comments: 39",
+      "url": "https://www.tomshardware.com/pc-components/cpus/amd-expects-to-outsell-intel-in-q4-for-the-first-time-in-history-usd17b-guidance-would-exceed-intels-projections"
+    },
+    {
+      "category": "AI",
+      "title": "The DEA banned a drug some opioid users called a miracle",
+      "source": "Ars Technica - All content",
+      "date": "Wed, 04 Nov 2026 15:08:48 +0000",
+      "summary": "Researchers say the Schedule I ban could kill studies of a promising opioid treatment.",
+      "url": "https://arstechnica.com/health/2026/11/the-dea-banned-a-drug-some-opioid-users-called-a-miracle/"
+    },
+    {
+      "category": "Space",
+      "title": " Students gather to explore Hawaii's glorious night sky | Space photo of the day for Nov. 4, 2026 ",
+      "source": " Latest from Space.com ",
+      "date": "Wed, 04 Nov 2026 15:00:00 +0000",
+      "summary": "Over 1,400 students gathered in Hawaii recently to learn about astronomy as part of the annual Journey Through the Universe program.",
+      "url": "https://www.space.com/stargazing/students-gather-to-explore-hawaiis-glorious-night-sky-space-photo-of-the-day-for-nov-4-2026"
+    },
+    {
+      "category": "AI",
+      "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+      "source": "OpenAI News",
+      "date": "Wed, 04 Nov 2026 14:30:00 GMT",
+      "summary": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.",
+      "url": "https://openai.com/index/openai-to-acquire-pierre"
+    },
+    {
+      "category": "Space",
+      "title": " Drone warfare in space: Swarms of autonomous, laser-shooting cubesats could defend Western satellites in orbit ",
+      "source": " Latest from Space.com ",
+      "date": "Wed, 04 Nov 2026 13:00:00 +0000",
+      "summary": "The U.K. startup Shield Space is racing to apply the lessons of drone warfare in Ukraine to develop swarms of up to 100 autonomous, satellite-defending cubesats.",
+      "url": "https://www.space.com/space-exploration/satellites/drone-warfare-in-space-swarms-of-autonomous-laser-shooting-cubesats-could-defend-western-satellites-in-orbit"
+    },
+    {
+      "category": "Biblical Studies",
+      "title": "Secrets of the Negev Tombs",
+      "source": "Biblical Archaeology Society",
+      "date": "Wed, 04 Nov 2026 12:40:25 +0000",
+      "summary": "South of the land of Israel during the biblical period was a vast, arid expanse known as the Negev. This imposing desert lay between populated […]\nThe post Secrets of the Negev Tombs appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/secrets-of-negev-tombs/"
+    },
+    {
+      "category": "Science",
+      "title": "MIT scientists break a 20-year rule and unlock never-before-seen crystal structures",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Wed, 04 Nov 2026 07:23:36 EST",
+      "summary": "MIT scientists have challenged two decades of conventional thinking by discovering that flexible molecular connections, rather than rigid ones, can unlock entirely new ways to arrange nanoparticles. The breakthrough could lead to a new generation of designer materials with unusual properties and applications in electronics, medicine, and energy.",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261104012248.htm"
+    },
+    {
+      "category": "Science",
+      "title": " Southern Taurid meteor shower could bring fireballs ‪this week —‬ when and where to look ",
+      "source": " Latest from Live Science ",
+      "date": "Wed, 04 Nov 2026 11:30:00 +0000",
+      "summary": "The best time to see meteors during the Southern Taurid meteor shower is coming up soon.",
+      "url": "https://www.livescience.com/space/meteoroids/southern-taurid-meteor-shower-could-bring-fireballs-this-week-when-and-where-to-look"
+    },
+    {
+      "category": "Science",
+      "title": "NASA is racing against time to save the Hubble Space Telescope",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Wed, 04 Nov 2026 06:22:33 EST",
+      "summary": "NASA is exploring a daring plan to save the legendary Hubble Space Telescope from its eventual fiery plunge into Earth's atmosphere. After more than 35 years of groundbreaking discoveries, Hubble is slowly losing altitude, and without intervention, it could fall back to Earth as early as 2033 or 2034. To keep the iconic observatory operating, NASA is asking private space companies to propose innovative ways to boost Hubble into a higher orbit, upgrade its capabilities, or safely dispose of it when its mission finally ends.",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261104012254.htm"
+    },
+    {
+      "category": "Science",
+      "title": " When dinosaurs are sold to the highest bidder, we all lose ",
+      "source": " Latest from Live Science ",
+      "date": "Wed, 04 Nov 2026 11:19:30 +0000",
+      "summary": "The sale of the Nanotyrannus \"Jodi\" for over $47 million shines a stark light on the commodification of Earth's history, say Kristi Curry Rogers and Lindsay Zanno.",
+      "url": "https://www.livescience.com/animals/dinosaurs/when-dinosaurs-are-sold-to-the-highest-bidder-we-all-lose-opinion"
+    },
+    {
+      "category": "Biblical Studies",
+      "title": "Another Bronze Age Temple in Kuwait",
+      "source": "Biblical Archaeology Society",
+      "date": "Wed, 04 Nov 2026 11:00:05 +0000",
+      "summary": "Archaeologists working in Kuwait made a remarkable discovery when they uncovered the remains of a Bronze Age temple on Failaka Island. Only a year earlier, […]\nThe post Another Bronze Age Temple in Kuwait appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/bronze-age-temple-kuwait/"
+    },
+    {
+      "category": "Science",
+      "title": " Mom experienced 'extreme unhappiness' only when she breastfed ",
+      "source": " Latest from Live Science ",
+      "date": "Wed, 04 Nov 2026 11:00:00 +0000",
+      "summary": "A new mom experienced intense feelings of sadness whenever she breastfed.",
+      "url": "https://www.livescience.com/health/diagnostic-dilemma-mom-experienced-extreme-unhappiness-only-when-she-breastfed"
+    },
+    {
+      "category": "Science",
+      "title": "SLAC scientists find conclusive proof of a mysterious third type of magnetism",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Wed, 04 Nov 2026 05:43:44 EST",
+      "summary": "For nearly 90 years, scientists believed magnetism fell into just two categories, but researchers have now confirmed a remarkable third type called altermagnetism. Using specialized X-rays, they uncovered a unique magnetic signature that proves these materials behave differently from conventional magnets. Altermagnets combine stability with the ability to efficiently carry information, potentially overcoming major limitations in today's electronics. The discovery could lead to faster computers, more efficient data centers, and breakthroughs in quantum technology.",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261104012256.htm"
+    },
+    {
+      "category": "AI",
+      "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+      "source": "OpenAI News",
+      "date": "Wed, 04 Nov 2026 07:00:00 GMT",
+      "summary": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.",
+      "url": "https://openai.com/index/daybreak-red-aws-govcloud"
     },
     {
       "category": "Theology",
-      "title": "Your Church May Know Less Bible Than You Think (And What to Do About It)",
+      "title": "Building a Workplace Where People Flourish (with Landon Hobson)",
       "source": "The Gospel Coalition",
-      "date": "Tue, 03 Nov 2026 15:30:00 +0000",
-      "summary": "A new survey indicates Christians have succumbed to the general literacy crisis of the culture. The ‘people of the Book’ don’t read it.",
-      "url": "https://www.thegospelcoalition.org/article/church-know-less-bible-think/"
+      "date": "Wed, 04 Nov 2026 05:03:00 +0000",
+      "summary": "What happens when a seminary-trained economist takes over a pet-products plant? Landon Hobson, CEO of Cosmos Corporation, shares how paid mission days, a book club, and a ‘make the coffee’ ethic help ordinary workers flourish.",
+      "url": "https://www.thegospelcoalition.org/podcasts/your-corner-of-the-world/building-workplace-people-flourish/"
     },
     {
-      "category": "Space",
-      "title": "NASA Astronaut, STEM Creator Connect with Students for STEM Day",
-      "source": "NASA",
-      "date": "Tue, 03 Nov 2026 15:15:50 +0000",
-      "summary": "Students across the country will have the opportunity to connect directly with the International Space Station during a live, interactive in-flight call with NASA astronaut Anil Menon and Mark Rober STEM content creator and founder of ClassCrunchLabs Foundation. The event, hosted by NASA’s Office of STEM Engagement, celebrates National STEM Day by bringing real‑world science, […]",
-      "url": "https://www.nasa.gov/learning-resources/nasa-astronaut-stem-creator-connect-with-students-for-stem-day/"
+      "category": "Theology",
+      "title": "The Missing Piece in John Mark Comer’s Quiet Time",
+      "source": "The Gospel Coalition",
+      "date": "Wed, 04 Nov 2026 05:02:00 +0000",
+      "summary": "‘Into the Quiet’ effectively critiques the ills of our hectic cultural moment, but it also promotes a spirituality that could quickly become disconnected from Scripture.",
+      "url": "https://www.thegospelcoalition.org/reviews/into-quiet-noise/"
     },
     {
-      "category": "Science",
-      "title": "A 50-year-old mystery of vanishing frogs reveals a hidden killer",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Tue, 03 Nov 2026 07:51:53 EST",
-      "summary": "A nearly 50-year-old mystery involving disappearing frogs in Brazil may finally be solved, with scientists uncovering evidence that a deadly fungus swept through the region and devastated vulnerable species. Remarkably, many frog populations have since rebounded, suggesting they developed greater tolerance to the disease that once threatened their survival.",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261102202838.htm"
-    },
-    {
-      "category": "Science",
-      "title": " 'Quite a light show': NASA astronaut snaps atmospheric fireball as Russian rocket explodes over West Africa ",
-      "source": " Latest from Live Science ",
-      "date": "Tue, 03 Nov 2026 12:22:11 +0000",
-      "summary": "An American astronaut on board the ISS recently snapped a spectacular \"fireball\" streaking across the nighttime sky over West Africa. The striking \"light show\" shows a Russian rocket being vaporized as it reenters the upper atmosphere.",
-      "url": "https://www.livescience.com/planet-earth/quite-a-light-show-nasa-astronaut-snaps-atmospheric-fireball-as-russian-rocket-explodes-over-west-africa-earth-from-space"
-    },
-    {
-      "category": "Science",
-      "title": "Scientists identify two overlooked skills that predict reading success",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Tue, 03 Nov 2026 07:15:18 EST",
-      "summary": "A massive new study reveals that intelligence plays a surprisingly limited role in children's reading success, while visual processing showed no meaningful connection at all. Instead, the strongest predictors are sound recognition, vocabulary, and background knowledge, offering new clues about how to help struggling readers.",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261102202845.htm"
+      "category": "Theology",
+      "title": "What Does It Mean to Be Human?: 12 Theses Answer a Pressing Question",
+      "source": "The Gospel Coalition",
+      "date": "Wed, 04 Nov 2026 05:00:00 +0000",
+      "summary": "Learning about a Christian theological anthropology is no mere academic exercise. It gets to the heart of who we are, explains our daily experience, and pushes us toward the love of neighbor and the common good.",
+      "url": "https://www.thegospelcoalition.org/article/twelve-theses-meaning-human/"
     },
     {
       "category": "Biblical Studies",
@@ -187,60 +243,20 @@
       "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world"
     },
     {
-      "category": "Biblical Studies",
-      "title": "Searching for Solomon",
-      "source": "Biblical Archaeology Society",
-      "date": "Tue, 03 Nov 2026 11:00:47 +0000",
-      "summary": "The figure of King Solomon has captivated countless generations of Bible readers. The wise king had already reached legendary status in antiquity, and by the […]\nThe post Searching for Solomon appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-israel/searching-for-solomon/"
-    },
-    {
-      "category": "Science",
-      "title": "NASA smashed into an asteroid. Now Hera is closing in to see what happened",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Tue, 03 Nov 2026 04:46:21 EST",
-      "summary": "Europe’s Hera spacecraft has captured its first clear view of two asteroids involved in NASA’s historic 2022 experiment to redirect a potentially dangerous space rock. Now approaching the pair, Hera will investigate the mysterious aftermath of the collision and uncover why the asteroid shifted far more than scientists predicted.",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261103003154.htm"
-    },
-    {
-      "category": "AI",
-      "title": "How Cisco defends at machine speed with OpenAI",
-      "source": "OpenAI News",
-      "date": "Tue, 03 Nov 2026 08:00:00 GMT",
-      "summary": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses.",
-      "url": "https://openai.com/index/cisco-cyber"
-    },
-    {
-      "category": "AI",
-      "title": "Heimstaden is changing residential real estate management with AI",
-      "source": "OpenAI News",
-      "date": "Tue, 03 Nov 2026 08:00:00 GMT",
-      "summary": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.",
-      "url": "https://openai.com/index/heimstaden"
-    },
-    {
-      "category": "Theology",
-      "title": "Does Christianity Make Sense? On God, Evil, and the Ache (with Gavin Ortlund)",
-      "source": "The Gospel Coalition",
-      "date": "Tue, 03 Nov 2026 05:04:09 +0000",
-      "summary": "Gavin Ortlund joins Collin Hansen to discuss apologetics and why Christianity makes sense.",
-      "url": "https://www.thegospelcoalition.org/podcasts/gospelbound/does-christianity-make-sense/"
-    },
-    {
-      "category": "Theology",
-      "title": "I Was a Justice Warrior. I Needed the Whole Gospel. You Do Too.",
-      "source": "The Gospel Coalition",
-      "date": "Tue, 03 Nov 2026 05:02:00 +0000",
-      "summary": "Most Christians today see these two gospel aspects as part of the same biblical pie. But we often fail to see them as necessarily intertwined.",
-      "url": "https://www.thegospelcoalition.org/article/justice-warrior-whole-gospel/"
-    },
-    {
       "category": "History",
       "title": "George Washington and Religious Freedom",
       "source": "Journal of the American Revolution",
       "date": "Mon, 02 Nov 2026 23:00:53 +0000",
       "summary": "On the eve of George Washington becoming the nation’s First President, Alexander Hamilton and others fretted if he would even accept the position. Hamilton wrote to Washington in September 1788 stating, “it cannot be considered as a compliment to say that on your acceptance of the office of President the success of the new government […]\nThe post George Washington and Religious Freedom appeared first on Journal of the American Revolution.",
       "url": "https://allthingsliberty.com/2026/11/george-washington-and-religious-freedom/"
+    },
+    {
+      "category": "Theology",
+      "title": "Discerning Between Godly and Worldly Grief",
+      "source": "9Marks",
+      "date": "Mon, 02 Nov 2026 21:45:20 +0000",
+      "summary": "Godly grief leads to mourning over sin, not simply its consequences.\nThe post Discerning Between Godly and Worldly Grief appeared first on 9Marks.",
+      "url": "https://www.9marks.org/article/discerning-between-godly-and-worldly-grief/?utm_source=rss&utm_medium=rss&utm_campaign=discerning-between-godly-and-worldly-grief"
     },
     {
       "category": "History",
@@ -251,20 +267,28 @@
       "url": "https://allthingsliberty.com/2026/11/georgias-first-elected-governor-john-adam-treutlen-and-the-american-revolution/"
     },
     {
-      "category": "Biblical Studies",
-      "title": "A Forest Fortress Reopens in Israel",
-      "source": "Biblical Archaeology Society",
-      "date": "Mon, 02 Nov 2026 11:45:37 +0000",
-      "summary": "The Israel Antiquities Authority announced in a press release that the Gal’on Fortress has officially been opened to the public. This mid-12th century BCE structure […]\nThe post A Forest Fortress Reopens in Israel appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-israel/a-forest-fortress-reopens-in-israel/"
-    },
-    {
       "category": "History",
       "title": "Authorship of The Frenchman’s Map of Williamsburg",
       "source": "Journal of the American Revolution",
       "date": "Thu, 29 Oct 2026 13:47:11 +0000",
       "summary": "The Frenchman’s map of Williamsburg, Virginia served as a significant source for the restoration of Colonial Williamsburg. It indicated potential archaeological sites and served as a base for Dr. William Archer Rutherfoord Goodwin’s survey in 1927. The final draft of the map seems to be lost forever but a fine copy (see fig. 1) measuring […]\nThe post Authorship of The Frenchman’s Map of Williamsburg appeared first on Journal of the American Revolution.",
       "url": "https://allthingsliberty.com/2026/10/authorship-of-the-frenchmans-map-of-williamsburg/"
+    },
+    {
+      "category": "Theology",
+      "title": "Why the Doctrine of Conversion Matters for Membership Interviews",
+      "source": "9Marks",
+      "date": "Tue, 27 Oct 2026 18:43:40 +0000",
+      "summary": "It’s difficult to discern whether someone has been converted if you’re hazy on what conversion is.\nThe post Why the Doctrine of Conversion Matters for Membership Interviews appeared first on 9Marks.",
+      "url": "https://www.9marks.org/article/why-the-doctrine-of-conversion-matters-for-membership-interviews/?utm_source=rss&utm_medium=rss&utm_campaign=why-the-doctrine-of-conversion-matters-for-membership-interviews"
+    },
+    {
+      "category": "Theology",
+      "title": "Unclear Evangelism Leads to Unclear (and False) Conversions",
+      "source": "9Marks",
+      "date": "Mon, 19 Oct 2026 19:22:22 +0000",
+      "summary": "When we appeal to people’s carnal desires, we should not be surprised when our “converts” are more in love with the world than with our Savior.\nThe post Unclear Evangelism Leads to Unclear (and False) Conversions appeared first on 9Marks.",
+      "url": "https://www.9marks.org/article/unclear-evangelism-leads-to-unclear-and-false-conversions/?utm_source=rss&utm_medium=rss&utm_campaign=unclear-evangelism-leads-to-unclear-and-false-conversions"
     },
     {
       "category": "History",
