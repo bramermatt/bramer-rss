@@ -1,70 +1,118 @@
 {
-  "lastUpdated": "2026-11-03T17:27:17.319Z",
-  "articleCount": 39,
+  "lastUpdated": "2026-11-04T01:46:40.002Z",
+  "articleCount": 36,
   "articles": [
     {
       "category": "Science",
-      "title": "Life on the move in a changing Chesapeake Bay",
+      "title": "Shared data ecosystem could help scientists explore new biological connections",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Tue, 03 Nov 2026 12:20:14 EST",
-      "summary": "In 2025, a local crabber reached out to professor Romuald Lipcius with some news: He'd been catching stone crabs in the Chesapeake Bay. Native to Florida, the species had reached its northernmost documented occurrence to date. News got out, and William & Mary's VIMS & Batten School were flooded with additional sightings from the public. Some were legitimate; many were mistaken identities.",
-      "url": "https://phys.org/news/2026-11-life-chesapeake-bay.html"
+      "date": "Tue, 03 Nov 2026 20:40:01 EST",
+      "summary": "Scientists generate vast amounts of research data, but connecting information across studies can be difficult. The NIH Common Fund Data Ecosystem is working to change that by making research data sets from 18 NIH programs easier to find, connect and analyze.",
+      "url": "https://phys.org/news/2026-11-ecosystem-scientists-explore-biological.html"
     },
     {
       "category": "Science",
-      "title": "Plants' immune memory hints at new crop breeding approach",
+      "title": "Digitalization front-runners are more vulnerable to cyberattacks",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Tue, 03 Nov 2026 12:20:01 EST",
-      "summary": "A study published in Nature Communications, led by professor Jurriaan Ton and Dr. Adam Hannan Parker at the University of Sheffield, has identified mechanisms by which plants maintain and reset stress memory from past infections. This immune memory enables plants to defend themselves more effectively against harmful bacteria and mildews, which are increasingly threatening our crop and food production.",
-      "url": "https://phys.org/news/2026-11-immune-memory-hints-crop-approach.html"
+      "date": "Tue, 03 Nov 2026 20:30:01 EST",
+      "summary": "For many business leaders, digitalization is associated with promises of greater efficiency and productivity. However, a new study by professor of accounting Jukka Sihvonen from the University of Vaasa, Finland, suggests that increasing digitalization may also raise a company's risk of falling victim to a successful cyberattack. The study has been published in the journal British Journal of Management.",
+      "url": "https://phys.org/news/2026-11-digitalization-front-runners-vulnerable-cyberattacks.html"
     },
     {
       "category": "Science",
-      "title": "A new way to navigate tough land and water use decisions",
+      "title": "Study maps Nelore cattle microbiota to reduce methane emissions",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Tue, 03 Nov 2026 12:10:01 EST",
-      "summary": "An open-source software tool to help find a sweet spot between competing environmental and development demands has been launched by researchers at the University of Queensland.",
-      "url": "https://phys.org/news/2026-11-tough-decisions.html"
+      "date": "Tue, 03 Nov 2026 20:00:01 EST",
+      "summary": "Researchers at the Brazilian Agricultural Research Corporation (EMBRAPA) are studying the relationship between the genetics of Nelore cattle and the microorganisms in their guts (microbiota). Nelore cattle are the most widely raised beef breed in Brazil. The goal is to develop strategies that reduce emissions of methane—a major greenhouse gas—and improve the animals' feed efficiency.",
+      "url": "https://phys.org/news/2026-11-nelore-cattle-microbiota-methane-emissions.html"
     },
     {
       "category": "AI",
-      "title": "Google dismantles botnet secretly running on 1.3 million Android TV boxes",
-      "source": "Ars Technica - All content",
-      "date": "Tue, 03 Nov 2026 17:08:21 +0000",
-      "summary": "Google has cut ties with the company behind the botnet campaign.",
-      "url": "https://arstechnica.com/google/2026/11/google-dismantles-botnet-secretly-running-on-1-3-million-android-tv-boxes/"
-    },
-    {
-      "category": "AI",
-      "title": "Ashby (YC W19) Is Hiring EMs",
+      "title": "People Against Genocide Smash Military Satellites on Balfour Anniversary",
       "source": "Hacker News: Front Page",
-      "date": "Tue, 03 Nov 2026 17:00:53 +0000",
-      "summary": "Article URL: https://www.ashbyhq.com/careers?ashby_jid=695b1ce6-c375-4fad-94ef-61b50a3fbd28&utm_source=hn\nComments URL: https://news.ycombinator.com/item?id=50354582\nPoints: 0\n# Comments: 0",
-      "url": "https://www.ashbyhq.com/careers?ashby_jid=695b1ce6-c375-4fad-94ef-61b50a3fbd28&utm_source=hn"
+      "date": "Wed, 04 Nov 2026 00:25:48 +0000",
+      "summary": "Article URL: https://aftershock.media/military-satellites-balfour/\nComments URL: https://news.ycombinator.com/item?id=50360115\nPoints: 5\n# Comments: 0",
+      "url": "https://aftershock.media/military-satellites-balfour/"
+    },
+    {
+      "category": "AI",
+      "title": "California fights \"preposterous\" Trump admin demand to scrap state broadband laws",
+      "source": "Ars Technica - All content",
+      "date": "Tue, 03 Nov 2026 22:39:37 +0000",
+      "summary": "State tries to obtain broadband funds despite rejecting Trump admin condition.",
+      "url": "https://arstechnica.com/tech-policy/2026/11/california-fights-preposterous-trump-admin-demand-to-scrap-state-broadband-laws/"
     },
     {
       "category": "Space",
-      "title": " Hubble Telescope sees cosmic 'cat's tail' that could wrap around Earth and the sun 500 times ",
+      "title": " NASA asks industry for ideas about saving Hubble Space Telescope ",
       "source": " Latest from Space.com ",
-      "date": "Tue, 03 Nov 2026 17:00:00 +0000",
-      "summary": "Using the Hubble Space Telescope, astronomers have investigated a cosmic cat's tail formed when two Pluto-sized bodies smashed together.",
-      "url": "https://www.space.com/astronomy/hubble-space-telescope/hubble-telescope-sees-cosmic-cats-tail-that-could-wrap-around-the-sun-and-earth-500-times"
+      "date": "Tue, 03 Nov 2026 22:00:00 +0000",
+      "summary": "The Hubble Space Telescope is healthy but is being pulled down toward Earth by atmospheric drag. NASA is considering options to extend the iconic telescope's work.",
+      "url": "https://www.space.com/astronomy/hubble-space-telescope/nasa-asks-industry-for-ideas-about-saving-hubble-space-telescope"
     },
     {
       "category": "AI",
-      "title": "This space company is betting its future on a propellant available everywhere",
-      "source": "Ars Technica - All content",
-      "date": "Tue, 03 Nov 2026 16:50:32 +0000",
-      "summary": "Is that water in your spacecraft, or are you just happy to see the delta-V?",
-      "url": "https://arstechnica.com/space/2026/11/this-space-company-is-betting-its-future-on-a-propellant-available-everywhere/"
-    },
-    {
-      "category": "AI",
-      "title": "Gitbook Breached",
+      "title": "The Internals of PostgreSQL",
       "source": "Hacker News: Front Page",
-      "date": "Tue, 03 Nov 2026 16:45:49 +0000",
-      "summary": "We opened a ticket with support about Gitbook availability issues and got this in reply. We have yet to see any official customer communication or breach notification. Apologies for the formatting, did the best I could as it's a mobile paste.\nUpdate:\nGitBook security incident update\n Hey ,\n The GitBook app, the GitBook API, and published docs are available again. A few services may still be degraded as we finish restoring everything to full performance.\n*What happened*\n GitBook has been the target of a sophisticated, highly targeted attack using AI agents. \n At 19:00 CET, November 2, the attacker gained unauthorized access to some of our infrastructure credentials. We detected the attack immediately and acted swiftly to block further impact. \n To make sure our infrastructure was fully secure, we then took the GitBook app and authenticated docs sites offline. We kept publicly published content live for as long as possible, using cached data.\n*What we did immediately*\n* Blocked the attacker and closed the vulnerabilities involved\n* Replaced every credential and secret across our infrastructure\n* Brought services back only once we were confident they were secure\n* Invalidated every customer’s API tokens on our platform\n*Your data*\n Our investigation shows that the attacker may have accessed the following:\n* Git Sync secrets.\n* GitBook API tokens.\n* Third-party API tokens used to connect external tools to GitBook.\n* Questions asked to GitBook Assistant by your site visitors.\nAt this stage, we have found no evidence that any of your content in GitBook was modified.\n*What you need to do now*\n* Rotate any existing GitBook API tokens. We revoked all personal API tokens during the incident.\n* Rotate any third-party API tokens or secrets you use to connect other tools to GitBook.\n* If you have published integrations that use secrets, rotate those secrets.\n* If you use the GitBook MCP server, re-authenticate it.\n Please contact your GitBook organization’s admin to assist with this process.\n*What we are doing next*\n* Monitoring the situation in case of further attacks.\n* Introducing further security measures to our platform.\n* Writing a full post mortem that will be published soon with more detailed information about the incident.\n* If you have any further questions, please reach out to your account manager or our support team. You can also check status.gitbook.com for updates\nThank you for your patience, and we apologize again for the disruption\n The GitBook team\nComments URL: https://news.ycombinator.com/item?id=50354336\nPoints: 17\n# Comments: 3",
-      "url": "https://news.ycombinator.com/item?id=50354336"
+      "date": "Tue, 03 Nov 2026 21:51:06 +0000",
+      "summary": "Article URL: https://www.interdb.jp/pg/index.html\nComments URL: https://news.ycombinator.com/item?id=50358702\nPoints: 100\n# Comments: 2",
+      "url": "https://www.interdb.jp/pg/index.html"
+    },
+    {
+      "category": "Science",
+      "title": " Would you risk your health to visit Mars? ",
+      "source": " Latest from Live Science ",
+      "date": "Tue, 03 Nov 2026 21:46:50 +0000",
+      "summary": "A recent rat study hinted that cosmic radiation could pose health risks for future Mars explorers. Live Science asks its readers whether they'd take the journey anyway.",
+      "url": "https://www.livescience.com/space/mars/would-you-risk-your-health-to-visit-mars"
+    },
+    {
+      "category": "AI",
+      "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
+      "source": "Hacker News: Front Page",
+      "date": "Tue, 03 Nov 2026 21:40:53 +0000",
+      "summary": "Article URL: https://arxiv.org/abs/2605.29713\nComments URL: https://news.ycombinator.com/item?id=50358582\nPoints: 223\n# Comments: 35",
+      "url": "https://arxiv.org/abs/2605.29713"
+    },
+    {
+      "category": "Space",
+      "title": " Ancient star collisions could explain mysterious Little Red Dots and 'impossible' black holes ",
+      "source": " Latest from Space.com ",
+      "date": "Tue, 03 Nov 2026 21:00:00 +0000",
+      "summary": "Collisions between stars in the early universe were common, and this could explain the growth of supermassive black holes and the existence of strange Little Red Dots seen by the James Webb Space Telescope.",
+      "url": "https://www.space.com/astronomy/stars/ancient-star-collisions-could-explain-mysterious-little-red-dots-and-impossible-black-holes"
+    },
+    {
+      "category": "Space",
+      "title": " Voting in space: NASA astronauts cast ballots from International Space Station ",
+      "source": " Latest from Space.com ",
+      "date": "Tue, 03 Nov 2026 20:46:36 +0000",
+      "summary": "The three Americans currently living off Earth made sure their voices were heard, voting in the midterm election from the International Space Station.",
+      "url": "https://www.space.com/space-exploration/international-space-station/voting-in-space-nasa-astronauts-cast-ballots-from-international-space-station"
+    },
+    {
+      "category": "AI",
+      "title": "Ukraine’s drone strikes spur hasty Russian plans for underground data centers",
+      "source": "Ars Technica - All content",
+      "date": "Tue, 03 Nov 2026 20:39:55 +0000",
+      "summary": "Russia tries to fix exposed digital infrastructure as data center war backfires.",
+      "url": "https://arstechnica.com/ai/2026/11/russia-looks-to-hide-data-centers-underground-as-ukrainian-drones-strike-back/"
+    },
+    {
+      "category": "Science",
+      "title": " A 3,200-pound NASA spacecraft could fall to Earth tonight ",
+      "source": " Latest from Live Science ",
+      "date": "Tue, 03 Nov 2026 18:56:00 +0000",
+      "summary": "NASA's Swift Observatory is about to make a fiery reentry through Earth's atmosphere after a private mission to save it failed. Most of the spacecraft will burn up in orbit.",
+      "url": "https://www.livescience.com/space/space-exploration/nasas-3-200-pound-swift-telescope-could-fall-to-earth-as-soon-as-tonight-agency-says"
+    },
+    {
+      "category": "AI",
+      "title": "NYT demands Brave shut down its paywall blocker and end deals with AI firms",
+      "source": "Ars Technica - All content",
+      "date": "Tue, 03 Nov 2026 18:30:27 +0000",
+      "summary": "Lawsuit calls Brave \"supplier, dealer, and distributor\" of stolen news content.",
+      "url": "https://arstechnica.com/tech-policy/2026/11/nyt-demands-brave-shut-down-its-paywall-blocker-and-end-deals-with-ai-firms/"
     },
     {
       "category": "Space",
@@ -75,30 +123,6 @@
       "url": "https://www.nasa.gov/image-article/astronaut-and-earth/"
     },
     {
-      "category": "AI",
-      "title": "UEFI bootkit infected fully patched Windows machines. Is Microsoft to blame?",
-      "source": "Ars Technica - All content",
-      "date": "Tue, 03 Nov 2026 16:03:13 +0000",
-      "summary": "UEFI bootkit BlackX exploits Microsoft's lack of clarity around Secure Boot protections.",
-      "url": "https://arstechnica.com/security/2026/11/uefi-bootkit-infected-fully-patched-windows-machines-is-microsoft-to-blame/"
-    },
-    {
-      "category": "Space",
-      "title": " The Star Wars Eclipse — Want to see the 2027 total solar eclipse on Tatooine? Head to Tunisia ",
-      "source": " Latest from Space.com ",
-      "date": "Tue, 03 Nov 2026 16:00:00 +0000",
-      "summary": "From Mos Eisley to Mos Espa and the Jundland Wastes, here's where to experience the Aug. 2, 2027 total solar eclipse from Tunisia's Star Wars filming locations.",
-      "url": "https://www.space.com/stargazing/solar-eclipses/the-star-wars-eclipse-want-to-see-the-2027-total-solar-eclipse-on-tatooine-head-to-tunisia"
-    },
-    {
-      "category": "AI",
-      "title": "Quili AI",
-      "source": "Hacker News: Front Page",
-      "date": "Tue, 03 Nov 2026 15:49:02 +0000",
-      "summary": "Article URL: https://www.quili.ai/\nComments URL: https://news.ycombinator.com/item?id=50353475\nPoints: 73\n# Comments: 42",
-      "url": "https://www.quili.ai/"
-    },
-    {
       "category": "Space",
       "title": "TB 26-10 Printed Circuit Board Assembly Chip Resistor Body Cracking",
       "source": "NASA",
@@ -107,20 +131,20 @@
       "url": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-10-printed-circuit-board-assembly-chip-resistor-body-cracking/"
     },
     {
+      "category": "Theology",
+      "title": "Your Church May Know Less Bible Than You Think (And What to Do About It)",
+      "source": "The Gospel Coalition",
+      "date": "Tue, 03 Nov 2026 15:30:00 +0000",
+      "summary": "A new survey indicates Christians have succumbed to the general literacy crisis of the culture. The ‘people of the Book’ don’t read it.",
+      "url": "https://www.thegospelcoalition.org/article/church-know-less-bible-think/"
+    },
+    {
       "category": "Space",
       "title": "NASA Astronaut, STEM Creator Connect with Students for STEM Day",
       "source": "NASA",
       "date": "Tue, 03 Nov 2026 15:15:50 +0000",
       "summary": "Students across the country will have the opportunity to connect directly with the International Space Station during a live, interactive in-flight call with NASA astronaut Anil Menon and Mark Rober STEM content creator and founder of ClassCrunchLabs Foundation. The event, hosted by NASA’s Office of STEM Engagement, celebrates National STEM Day by bringing real‑world science, […]",
       "url": "https://www.nasa.gov/learning-resources/nasa-astronaut-stem-creator-connect-with-students-for-stem-day/"
-    },
-    {
-      "category": "Space",
-      "title": " On this day in space! Nov. 3, 1957: Laika the dog launches with Sputnik 2 ",
-      "source": " Latest from Space.com ",
-      "date": "Tue, 03 Nov 2026 15:00:00 +0000",
-      "summary": "On Nov. 3, 1957, a Soviet space dog named Laika became the first animal to orbit Earth.",
-      "url": "https://www.space.com/space-exploration/on-this-day-in-space-november-3-2026"
     },
     {
       "category": "Science",
@@ -155,12 +179,12 @@
       "url": "https://www.biblicalarchaeology.org/daily/people-cultures-in-the-bible/people-in-the-bible/the-quest-for-the-historical-paul/"
     },
     {
-      "category": "Science",
-      "title": " Mars-bound astronauts could face years of heart scarring, rat study hints ",
-      "source": " Latest from Live Science ",
-      "date": "Tue, 03 Nov 2026 11:40:35 +0000",
-      "summary": "Rats that were exposed to radiation similar to what Mars-bound astronauts might face showed higher levels of scar tissue in their hearts, indicating they were more vulnerable to heart failure.",
-      "url": "https://www.livescience.com/space/space-exploration/cosmic-rays-could-scar-the-heart-raising-risks-for-mars-bound-astronauts-rat-study-hints"
+      "category": "AI",
+      "title": "Accelerating engineering for the physical world",
+      "source": "OpenAI News",
+      "date": "Tue, 03 Nov 2026 12:00:00 GMT",
+      "summary": "Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world.",
+      "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world"
     },
     {
       "category": "Biblical Studies",
@@ -172,19 +196,19 @@
     },
     {
       "category": "Science",
-      "title": " 5,300-year-old kidney stone the size of a grape found in Bronze Age man's burial near Black Sea ",
-      "source": " Latest from Live Science ",
-      "date": "Tue, 03 Nov 2026 11:00:00 +0000",
-      "summary": "Researchers identified a 5,300-year-old kidney stone in the burial of a Bronze Age cattle herder in Russia.",
-      "url": "https://www.livescience.com/archaeology/5-300-year-old-kidney-stone-the-size-of-a-grape-found-in-bronze-age-mans-burial-near-black-sea"
-    },
-    {
-      "category": "Science",
       "title": "NASA smashed into an asteroid. Now Hera is closing in to see what happened",
       "source": "All Top News -- ScienceDaily",
       "date": "Tue, 03 Nov 2026 04:46:21 EST",
       "summary": "Europe’s Hera spacecraft has captured its first clear view of two asteroids involved in NASA’s historic 2022 experiment to redirect a potentially dangerous space rock. Now approaching the pair, Hera will investigate the mysterious aftermath of the collision and uncover why the asteroid shifted far more than scientists predicted.",
       "url": "https://www.sciencedaily.com/releases/2026/11/261103003154.htm"
+    },
+    {
+      "category": "AI",
+      "title": "How Cisco defends at machine speed with OpenAI",
+      "source": "OpenAI News",
+      "date": "Tue, 03 Nov 2026 08:00:00 GMT",
+      "summary": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses.",
+      "url": "https://openai.com/index/cisco-cyber"
     },
     {
       "category": "AI",
@@ -211,14 +235,6 @@
       "url": "https://www.thegospelcoalition.org/article/justice-warrior-whole-gospel/"
     },
     {
-      "category": "Theology",
-      "title": "Lessons from Lloyd-Jones on Preaching and Politics",
-      "source": "The Gospel Coalition",
-      "date": "Tue, 03 Nov 2026 05:00:00 +0000",
-      "summary": "Here are three lessons we can learn from Martyn Lloyd-Jones’s ministry in a time of political crisis.",
-      "url": "https://www.thegospelcoalition.org/article/lloyd-jones-preaching-politics/"
-    },
-    {
       "category": "History",
       "title": "George Washington and Religious Freedom",
       "source": "Journal of the American Revolution",
@@ -227,36 +243,12 @@
       "url": "https://allthingsliberty.com/2026/11/george-washington-and-religious-freedom/"
     },
     {
-      "category": "Theology",
-      "title": "Discerning Between Godly and Worldly Grief",
-      "source": "9Marks",
-      "date": "Mon, 02 Nov 2026 21:45:20 +0000",
-      "summary": "Godly grief leads to mourning over sin, not simply its consequences.\nThe post Discerning Between Godly and Worldly Grief appeared first on 9Marks.",
-      "url": "https://www.9marks.org/article/discerning-between-godly-and-worldly-grief/?utm_source=rss&utm_medium=rss&utm_campaign=discerning-between-godly-and-worldly-grief"
-    },
-    {
       "category": "History",
       "title": "Georgia’s First Elected Governor: John Adam Treutlen and the American Revolution",
       "source": "Journal of the American Revolution",
       "date": "Mon, 02 Nov 2026 16:48:00 +0000",
       "summary": "BOOK REVIEW: Georgia’s First Elected Governor: John Adam Treutlen and the American Revolution by W. Wright Mitchell (Independently Published, 2026) $25.00 paperback. The colonial and Revolutionary War histories of Georgia have received comparatively little historical attention. This is also true for many of Georgia’s Patriot and Loyalist political and military leaders. W. Wright Mitchell’s biography […]\nThe post Georgia’s First Elected Governor: John Adam Treutlen and the American Revolution appeared first on Journal of the American Revolution.",
       "url": "https://allthingsliberty.com/2026/11/georgias-first-elected-governor-john-adam-treutlen-and-the-american-revolution/"
-    },
-    {
-      "category": "AI",
-      "title": "Scaling Git at OpenAI",
-      "source": "OpenAI News",
-      "date": "Mon, 02 Nov 2026 15:30:00 GMT",
-      "summary": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible.",
-      "url": "https://openai.com/index/scaling-git-at-openai"
-    },
-    {
-      "category": "AI",
-      "title": "Introducing the Grid Protectors Program",
-      "source": "OpenAI News",
-      "date": "Mon, 02 Nov 2026 15:00:00 GMT",
-      "summary": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
-      "url": "https://openai.com/index/grid-protectors-program"
     },
     {
       "category": "Biblical Studies",
@@ -273,22 +265,6 @@
       "date": "Thu, 29 Oct 2026 13:47:11 +0000",
       "summary": "The Frenchman’s map of Williamsburg, Virginia served as a significant source for the restoration of Colonial Williamsburg. It indicated potential archaeological sites and served as a base for Dr. William Archer Rutherfoord Goodwin’s survey in 1927. The final draft of the map seems to be lost forever but a fine copy (see fig. 1) measuring […]\nThe post Authorship of The Frenchman’s Map of Williamsburg appeared first on Journal of the American Revolution.",
       "url": "https://allthingsliberty.com/2026/10/authorship-of-the-frenchmans-map-of-williamsburg/"
-    },
-    {
-      "category": "Theology",
-      "title": "Why the Doctrine of Conversion Matters for Membership Interviews",
-      "source": "9Marks",
-      "date": "Tue, 27 Oct 2026 18:43:40 +0000",
-      "summary": "It’s difficult to discern whether someone has been converted if you’re hazy on what conversion is.\nThe post Why the Doctrine of Conversion Matters for Membership Interviews appeared first on 9Marks.",
-      "url": "https://www.9marks.org/article/why-the-doctrine-of-conversion-matters-for-membership-interviews/?utm_source=rss&utm_medium=rss&utm_campaign=why-the-doctrine-of-conversion-matters-for-membership-interviews"
-    },
-    {
-      "category": "Theology",
-      "title": "Unclear Evangelism Leads to Unclear (and False) Conversions",
-      "source": "9Marks",
-      "date": "Mon, 19 Oct 2026 19:22:22 +0000",
-      "summary": "When we appeal to people’s carnal desires, we should not be surprised when our “converts” are more in love with the world than with our Savior.\nThe post Unclear Evangelism Leads to Unclear (and False) Conversions appeared first on 9Marks.",
-      "url": "https://www.9marks.org/article/unclear-evangelism-leads-to-unclear-and-false-conversions/?utm_source=rss&utm_medium=rss&utm_campaign=unclear-evangelism-leads-to-unclear-and-false-conversions"
     },
     {
       "category": "History",
