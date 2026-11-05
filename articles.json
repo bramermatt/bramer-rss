@@ -1,118 +1,134 @@
 {
-  "lastUpdated": "2026-11-04T17:40:29.451Z",
-  "articleCount": 39,
+  "lastUpdated": "2026-11-05T01:55:29.211Z",
+  "articleCount": 36,
   "articles": [
     {
       "category": "Science",
-      "title": "Satellites leak noise that interferes with telescopes and GPS. Here's how to fix it",
+      "title": "Japan's ALS community is ready to become research partners, nationwide survey suggests",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Wed, 04 Nov 2026 12:20:22 EST",
-      "summary": "Less than a decade ago, there were about 2,000 operational satellites orbiting Earth. Today there are more than 15,000. Millions more are planned.",
-      "url": "https://phys.org/news/2026-11-satellites-leak-noise-telescopes-gps.html"
+      "date": "Wed, 04 Nov 2026 20:40:01 EST",
+      "summary": "People living with ALS and their families in Japan are eager to help shape research on the disease, even though most have never heard of patient and public involvement (PPI), according to a study published on Oct. 30, 2026, in Research Involvement and Engagement.",
+      "url": "https://phys.org/news/2026-11-japan-als-community-ready-partners.html"
     },
     {
       "category": "Science",
-      "title": "Nature's looking glass: Crafting mirrors from plants",
+      "title": "A new route to calculating gluon production in proton–nucleus collisions",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Wed, 04 Nov 2026 12:20:01 EST",
-      "summary": "Natural materials, ranging from butterfly wings to mother-of-pearl, can exhibit an array of optical effects. In trying to reproduce these effects, scientists have found it challenging to use biodegradable, sustainable raw ingredients while also achieving the high levels of reflectivity required for certain applications.",
-      "url": "https://phys.org/news/2026-11-nature-glass-crafting-mirrors.html"
-    },
-    {
-      "category": "AI",
-      "title": "Progress on provable inference for large language models",
-      "source": "Hacker News: Front Page",
-      "date": "Wed, 04 Nov 2026 17:17:46 +0000",
-      "summary": "Article URL: https://www.anthropic.com/research/provable-inference\nComments URL: https://news.ycombinator.com/item?id=50368626\nPoints: 15\n# Comments: 2",
-      "url": "https://www.anthropic.com/research/provable-inference"
-    },
-    {
-      "category": "AI",
-      "title": "An end to buggy web apps",
-      "source": "Hacker News: Front Page",
-      "date": "Wed, 04 Nov 2026 17:01:44 +0000",
-      "summary": "Article URL: https://replay.io/blog/an-end-to-buggy-web-apps\nComments URL: https://news.ycombinator.com/item?id=50368439\nPoints: 17\n# Comments: 5",
-      "url": "https://replay.io/blog/an-end-to-buggy-web-apps"
+      "date": "Wed, 04 Nov 2026 20:20:01 EST",
+      "summary": "In the theoretical study of proton-nucleus collisions, the colliding projectiles can be described as streams of color charges moving along their respective trajectories. These color charges couple to gluons, which then produce the particles that are observed in the final state (gluons and quarks, which eventually produce hadrons).",
+      "url": "https://phys.org/news/2026-11-route-gluon-production-protonnucleus-collisions.html"
     },
     {
       "category": "Science",
-      "title": "Speaking in a second language may shift your moral compass—but it can't overpower it",
+      "title": "Earth atmosphere emulators could enable faster and more accurate weather predictions",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Wed, 04 Nov 2026 12:00:17 EST",
-      "summary": "In today's interconnected world, millions of people move between two or more languages every day. They may negotiate at work in one language, speak with family in another and follow news, entertainment and social media across several others.",
-      "url": "https://phys.org/news/2026-11-language-shift-moral-compass-overpower.html"
-    },
-    {
-      "category": "Space",
-      "title": " NASA's Artemis II moon launch tore a hole in Earth's upper atmosphere so huge it disrupted GPS signals ",
-      "source": " Latest from Space.com ",
-      "date": "Wed, 04 Nov 2026 17:00:00 +0000",
-      "summary": "\"It could have a strong impact not only on self-driving cars but also on drone positioning.\"",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/nasas-artemis-ii-moon-launch-tore-a-hole-in-earths-upper-atmosphere-so-huge-it-disrupted-gps-signals"
-    },
-    {
-      "category": "Space",
-      "title": "NASA Navigation Experiment Shows Promise for Planetary Landings",
-      "source": "NASA",
-      "date": "Wed, 04 Nov 2026 16:52:43 +0000",
-      "summary": "NASA successfully demonstrated technology designed to help spacecraft autonomously navigate to safe landing sites on the Moon and on other planets. An Alta-X drone equipped with the agency’s Safe and Precise Landing – Integrated Capabilities Evolution (SPLICE) guidance, navigation, and control payload completed simulated lunar descent and landing maneuvers Aug. 27. The flight took place […]",
-      "url": "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-navigation-experiment-shows-promise-for-planetary-landings/"
-    },
-    {
-      "category": "Space",
-      "title": "NASA Space Grant Students Fuel Agency’s Inspiration Tour",
-      "source": "NASA",
-      "date": "Wed, 04 Nov 2026 16:16:41 +0000",
-      "summary": "NASA’s Inspiration Tour spread the excitement of space exploration and aeronautical innovation by connecting the public, industry, and academia with the people, technologies, and organizations that drive American leadership in space. At nearly every stop across the country, NASA Space Grant has brought students into the heart of the action. In Iowa, NASA Administrator Jared […]",
-      "url": "https://www.nasa.gov/learning-resources/nasa-space-grant-students-fuel-agencys-inspiration-tour/"
+      "date": "Wed, 04 Nov 2026 20:00:01 EST",
+      "summary": "If you partitioned the entire Earth, from just below the surface to the top of the atmosphere, into 1-kilometer-square chunks, there would be billions of them. Now run each of those cells through a series of complex physics equations, and you can see how the entire Earth system interacts and evolves in detail, one step at a time.",
+      "url": "https://phys.org/news/2026-11-earth-atmosphere-emulators-enable-faster.html"
     },
     {
       "category": "AI",
-      "title": "Binance says hackers who stole billions in crypto spent months planning heist",
-      "source": "Ars Technica - All content",
-      "date": "Wed, 04 Nov 2026 16:06:03 +0000",
-      "summary": "Techniques included laptop infections, compromised internal tooling, and fake job interviews.",
-      "url": "https://arstechnica.com/information-technology/2026/11/binance-says-hackers-who-stole-billions-in-crypto-spent-months-planning-heist/"
-    },
-    {
-      "category": "Space",
-      "title": "Hubble Reveals Cosmic Mystery",
-      "source": "NASA",
-      "date": "Wed, 04 Nov 2026 15:59:36 +0000",
-      "summary": "This photo released on Nov. 2, 2026, showcases NGC  4449, a dwarf irregular. Researchers using NASA’s Hubble Space Telescope studied 37 nearby dwarf galaxies — small galaxies containing a few thousand to hundreds of millions of stars — including NGC 4449 and found that much of the oxygen they expected to see is missing. Read […]",
-      "url": "https://www.nasa.gov/image-article/hubble-reveals-cosmic-mystery/"
-    },
-    {
-      "category": "AI",
-      "title": "What I learned driving the Slate electric truck prototype",
-      "source": "Ars Technica - All content",
-      "date": "Wed, 04 Nov 2026 15:42:18 +0000",
-      "summary": "After 45 minutes behind the wheel, I am more optimistic about the $25,000 EV.",
-      "url": "https://arstechnica.com/cars/2026/11/what-i-learned-driving-the-slate-electric-truck-prototype/"
-    },
-    {
-      "category": "AI",
-      "title": "AMD expects to outsell Intel in Q4 for the first time in history",
+      "title": "Starfall – Affordable, routine access to microgravity",
       "source": "Hacker News: Front Page",
-      "date": "Wed, 04 Nov 2026 15:38:34 +0000",
-      "summary": "Article URL: https://www.tomshardware.com/pc-components/cpus/amd-expects-to-outsell-intel-in-q4-for-the-first-time-in-history-usd17b-guidance-would-exceed-intels-projections\nComments URL: https://news.ycombinator.com/item?id=50367125\nPoints: 129\n# Comments: 39",
-      "url": "https://www.tomshardware.com/pc-components/cpus/amd-expects-to-outsell-intel-in-q4-for-the-first-time-in-history-usd17b-guidance-would-exceed-intels-projections"
+      "date": "Thu, 05 Nov 2026 00:18:18 +0000",
+      "summary": "Article URL: https://www.spacex.com/starfall\nComments URL: https://news.ycombinator.com/item?id=50373308\nPoints: 59\n# Comments: 24",
+      "url": "https://www.spacex.com/starfall"
     },
     {
       "category": "AI",
-      "title": "The DEA banned a drug some opioid users called a miracle",
-      "source": "Ars Technica - All content",
-      "date": "Wed, 04 Nov 2026 15:08:48 +0000",
-      "summary": "Researchers say the Schedule I ban could kill studies of a promising opioid treatment.",
-      "url": "https://arstechnica.com/health/2026/11/the-dea-banned-a-drug-some-opioid-users-called-a-miracle/"
+      "title": "You'll need nerves of steel to work with AI agents",
+      "source": "Hacker News: Front Page",
+      "date": "Thu, 05 Nov 2026 00:01:30 +0000",
+      "summary": "Article URL: https://orchidfiles.com/youll-need-nerves-of-steel-to-work-with-ai-agents/\nComments URL: https://news.ycombinator.com/item?id=50373149\nPoints: 20\n# Comments: 12",
+      "url": "https://orchidfiles.com/youll-need-nerves-of-steel-to-work-with-ai-agents/"
+    },
+    {
+      "category": "AI",
+      "title": "Images 2.6",
+      "source": "Hacker News: Front Page",
+      "date": "Wed, 04 Nov 2026 23:35:44 +0000",
+      "summary": "Article URL: https://openai.com/index/introducing-images-2-6/\nComments URL: https://news.ycombinator.com/item?id=50372945\nPoints: 92\n# Comments: 78",
+      "url": "https://openai.com/index/introducing-images-2-6/"
     },
     {
       "category": "Space",
-      "title": " Students gather to explore Hawaii's glorious night sky | Space photo of the day for Nov. 4, 2026 ",
+      "title": " On this day in space! Nov. 4, 2015: A rail-launched Super Strypi rocket carrying 13 baby satellites failed during its debut launch for the US Air Force ",
       "source": " Latest from Space.com ",
-      "date": "Wed, 04 Nov 2026 15:00:00 +0000",
-      "summary": "Over 1,400 students gathered in Hawaii recently to learn about astronomy as part of the annual Journey Through the Universe program.",
-      "url": "https://www.space.com/stargazing/students-gather-to-explore-hawaiis-glorious-night-sky-space-photo-of-the-day-for-nov-4-2026"
+      "date": "Wed, 04 Nov 2026 23:00:36 +0000",
+      "summary": "On Nov. 4, 2015, the United States Air Force launched an experimental Super Strypi rail-launched rocket carrying 13 tiny satellites, but it  failed just after liftoff from Hawaii.",
+      "url": "https://www.space.com/space-exploration/on-this-day-in-space-november-4-2026"
+    },
+    {
+      "category": "History",
+      "title": "How Three Powers Became Three Branches",
+      "source": "Journal of the American Revolution",
+      "date": "Wed, 04 Nov 2026 23:00:26 +0000",
+      "summary": "On May 15, 1776, the Second Continental Congress declared that authority under the British Crown should be suppressed and that the powers of government should instead be exercised under the authority of the people. The resolution came seven weeks before the Declaration of Independence. It transformed an argument about imperial authority into a problem of […]\nThe post How Three Powers Became Three Branches appeared first on Journal of the American Revolution.",
+      "url": "https://allthingsliberty.com/2026/11/how-three-powers-became-three-branches/"
+    },
+    {
+      "category": "AI",
+      "title": "Nintendo's biggest ROM chip supplier is bowing out of the business",
+      "source": "Ars Technica - All content",
+      "date": "Wed, 04 Nov 2026 22:47:51 +0000",
+      "summary": "And what that could mean for physical Switch game costs.",
+      "url": "https://arstechnica.com/gaming/2026/11/the-tech-memory-shortage-comes-for-nintendos-cartridge-supply-chain/"
+    },
+    {
+      "category": "Science",
+      "title": " Swift has fallen: NASA's 22-year-old space telescope burns up over Sumatra ",
+      "source": " Latest from Live Science ",
+      "date": "Wed, 04 Nov 2026 22:33:29 +0000",
+      "summary": "The reentry of NASA's dead Swift space telescope is the end of an era for rapid-response space science.",
+      "url": "https://www.livescience.com/space/astronomy/swift-has-fallen-nasas-22-year-old-space-telescope-burns-up-over-sumatra"
+    },
+    {
+      "category": "AI",
+      "title": "Hackers exploited iOS and Android flaws to infect phones",
+      "source": "Ars Technica - All content",
+      "date": "Wed, 04 Nov 2026 22:26:49 +0000",
+      "summary": "Researchers say group may have been Kremlin-sponsored in search of diplomatic targets.",
+      "url": "https://arstechnica.com/security/2026/11/hackers-exploited-ios-and-android-flaws-to-infect-phones/"
+    },
+    {
+      "category": "Space",
+      "title": " Trump declares 'American space superiority for all eternity' in election night proclamation ",
+      "source": " Latest from Space.com ",
+      "date": "Wed, 04 Nov 2026 22:00:00 +0000",
+      "summary": "President Trump has declared space a frontier for all humanity, asserting America's right to develop and settle the solar system under U.S. law.",
+      "url": "https://www.space.com/space-exploration/trump-declares-american-space-superiority-for-all-eternity-in-new-white-house-proclamation"
+    },
+    {
+      "category": "AI",
+      "title": "Uranium cubes reveal why the German nuclear project failed",
+      "source": "Ars Technica - All content",
+      "date": "Wed, 04 Nov 2026 21:56:29 +0000",
+      "summary": "\"Our calculations suggest Heisenberg significantly underestimated the materials required.\"",
+      "url": "https://arstechnica.com/science/2026/11/uranium-cubes-reveal-why-the-german-nuclear-project-failed/"
+    },
+    {
+      "category": "Science",
+      "title": " Colorful 1,800-year-old belt buckle discovered in a Ukrainian forest may have belonged to a nomadic equestrian warrior ",
+      "source": " Latest from Live Science ",
+      "date": "Wed, 04 Nov 2026 21:28:40 +0000",
+      "summary": "A Roman-era belt buckle discovered in a Ukrainian forest hints at the ancient conflict between the Romans and the Dacians.",
+      "url": "https://www.livescience.com/archaeology/colorful-1-800-year-old-belt-buckle-discovered-in-a-ukrainian-forest-may-have-belonged-to-a-nomadic-equestrian-warrior"
+    },
+    {
+      "category": "Science",
+      "title": " Scientists find the best evidence yet of potentially habitable volcanic vents on Mars ",
+      "source": " Latest from Live Science ",
+      "date": "Wed, 04 Nov 2026 21:14:19 +0000",
+      "summary": "Magma and a possible environment for ancient life might be present on Mars in the region of a large volcano on the Red Planet.",
+      "url": "https://www.livescience.com/space/mars/living-organisms-might-wait-for-us-to-discover-them-mars-may-host-an-environment-similar-to-hydrothermal-vents-on-earth-where-life-first-arose"
+    },
+    {
+      "category": "Space",
+      "title": " Upcoming Marvel movies and TV shows: Avengers: Doomsday, Secret Wars, X-Men & more ",
+      "source": " Latest from Space.com ",
+      "date": "Wed, 04 Nov 2026 21:00:00 +0000",
+      "summary": "The MCU’s Multiverse Saga is nearly over, but there are plenty more Marvel movies and shows on the horizon.",
+      "url": "https://www.space.com/entertainment/space-movies-shows/upcoming-marvel-movies-and-tv-shows"
     },
     {
       "category": "AI",
@@ -121,14 +137,6 @@
       "date": "Wed, 04 Nov 2026 14:30:00 GMT",
       "summary": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.",
       "url": "https://openai.com/index/openai-to-acquire-pierre"
-    },
-    {
-      "category": "Space",
-      "title": " Drone warfare in space: Swarms of autonomous, laser-shooting cubesats could defend Western satellites in orbit ",
-      "source": " Latest from Space.com ",
-      "date": "Wed, 04 Nov 2026 13:00:00 +0000",
-      "summary": "The U.K. startup Shield Space is racing to apply the lessons of drone warfare in Ukraine to develop swarms of up to 100 autonomous, satellite-defending cubesats.",
-      "url": "https://www.space.com/space-exploration/satellites/drone-warfare-in-space-swarms-of-autonomous-laser-shooting-cubesats-could-defend-western-satellites-in-orbit"
     },
     {
       "category": "Biblical Studies",
@@ -148,27 +156,11 @@
     },
     {
       "category": "Science",
-      "title": " Southern Taurid meteor shower could bring fireballs ‪this week —‬ when and where to look ",
-      "source": " Latest from Live Science ",
-      "date": "Wed, 04 Nov 2026 11:30:00 +0000",
-      "summary": "The best time to see meteors during the Southern Taurid meteor shower is coming up soon.",
-      "url": "https://www.livescience.com/space/meteoroids/southern-taurid-meteor-shower-could-bring-fireballs-this-week-when-and-where-to-look"
-    },
-    {
-      "category": "Science",
       "title": "NASA is racing against time to save the Hubble Space Telescope",
       "source": "All Top News -- ScienceDaily",
       "date": "Wed, 04 Nov 2026 06:22:33 EST",
       "summary": "NASA is exploring a daring plan to save the legendary Hubble Space Telescope from its eventual fiery plunge into Earth's atmosphere. After more than 35 years of groundbreaking discoveries, Hubble is slowly losing altitude, and without intervention, it could fall back to Earth as early as 2033 or 2034. To keep the iconic observatory operating, NASA is asking private space companies to propose innovative ways to boost Hubble into a higher orbit, upgrade its capabilities, or safely dispose of it when its mission finally ends.",
       "url": "https://www.sciencedaily.com/releases/2026/11/261104012254.htm"
-    },
-    {
-      "category": "Science",
-      "title": " When dinosaurs are sold to the highest bidder, we all lose ",
-      "source": " Latest from Live Science ",
-      "date": "Wed, 04 Nov 2026 11:19:30 +0000",
-      "summary": "The sale of the Nanotyrannus \"Jodi\" for over $47 million shines a stark light on the commodification of Earth's history, say Kristi Curry Rogers and Lindsay Zanno.",
-      "url": "https://www.livescience.com/animals/dinosaurs/when-dinosaurs-are-sold-to-the-highest-bidder-we-all-lose-opinion"
     },
     {
       "category": "Biblical Studies",
@@ -180,19 +172,19 @@
     },
     {
       "category": "Science",
-      "title": " Mom experienced 'extreme unhappiness' only when she breastfed ",
-      "source": " Latest from Live Science ",
-      "date": "Wed, 04 Nov 2026 11:00:00 +0000",
-      "summary": "A new mom experienced intense feelings of sadness whenever she breastfed.",
-      "url": "https://www.livescience.com/health/diagnostic-dilemma-mom-experienced-extreme-unhappiness-only-when-she-breastfed"
-    },
-    {
-      "category": "Science",
       "title": "SLAC scientists find conclusive proof of a mysterious third type of magnetism",
       "source": "All Top News -- ScienceDaily",
       "date": "Wed, 04 Nov 2026 05:43:44 EST",
       "summary": "For nearly 90 years, scientists believed magnetism fell into just two categories, but researchers have now confirmed a remarkable third type called altermagnetism. Using specialized X-rays, they uncovered a unique magnetic signature that proves these materials behave differently from conventional magnets. Altermagnets combine stability with the ability to efficiently carry information, potentially overcoming major limitations in today's electronics. The discovery could lead to faster computers, more efficient data centers, and breakthroughs in quantum technology.",
       "url": "https://www.sciencedaily.com/releases/2026/11/261104012256.htm"
+    },
+    {
+      "category": "AI",
+      "title": "A thousand fewer paths to root",
+      "source": "OpenAI News",
+      "date": "Wed, 04 Nov 2026 08:00:00 GMT",
+      "summary": "OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel.",
+      "url": "https://openai.com/index/a-thousand-fewer-paths-to-root"
     },
     {
       "category": "AI",
@@ -235,14 +227,6 @@
       "url": "https://www.biblicalarchaeology.org/daily/people-cultures-in-the-bible/people-in-the-bible/the-quest-for-the-historical-paul/"
     },
     {
-      "category": "AI",
-      "title": "Accelerating engineering for the physical world",
-      "source": "OpenAI News",
-      "date": "Tue, 03 Nov 2026 12:00:00 GMT",
-      "summary": "Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world.",
-      "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world"
-    },
-    {
       "category": "History",
       "title": "George Washington and Religious Freedom",
       "source": "Journal of the American Revolution",
@@ -265,14 +249,6 @@
       "date": "Mon, 02 Nov 2026 16:48:00 +0000",
       "summary": "BOOK REVIEW: Georgia’s First Elected Governor: John Adam Treutlen and the American Revolution by W. Wright Mitchell (Independently Published, 2026) $25.00 paperback. The colonial and Revolutionary War histories of Georgia have received comparatively little historical attention. This is also true for many of Georgia’s Patriot and Loyalist political and military leaders. W. Wright Mitchell’s biography […]\nThe post Georgia’s First Elected Governor: John Adam Treutlen and the American Revolution appeared first on Journal of the American Revolution.",
       "url": "https://allthingsliberty.com/2026/11/georgias-first-elected-governor-john-adam-treutlen-and-the-american-revolution/"
-    },
-    {
-      "category": "History",
-      "title": "Authorship of The Frenchman’s Map of Williamsburg",
-      "source": "Journal of the American Revolution",
-      "date": "Thu, 29 Oct 2026 13:47:11 +0000",
-      "summary": "The Frenchman’s map of Williamsburg, Virginia served as a significant source for the restoration of Colonial Williamsburg. It indicated potential archaeological sites and served as a base for Dr. William Archer Rutherfoord Goodwin’s survey in 1927. The final draft of the map seems to be lost forever but a fine copy (see fig. 1) measuring […]\nThe post Authorship of The Frenchman’s Map of Williamsburg appeared first on Journal of the American Revolution.",
-      "url": "https://allthingsliberty.com/2026/10/authorship-of-the-frenchmans-map-of-williamsburg/"
     },
     {
       "category": "Theology",
