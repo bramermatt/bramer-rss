@@ -1,62 +1,190 @@
 {
-  "lastUpdated": "2026-11-05T01:55:29.211Z",
-  "articleCount": 36,
+  "lastUpdated": "2026-11-05T17:46:50.310Z",
+  "articleCount": 39,
   "articles": [
     {
       "category": "Science",
-      "title": "Japan's ALS community is ready to become research partners, nationwide survey suggests",
+      "title": "New European database to support environmental risk assessment of human pharmaceuticals",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Wed, 04 Nov 2026 20:40:01 EST",
-      "summary": "People living with ALS and their families in Japan are eager to help shape research on the disease, even though most have never heard of patient and public involvement (PPI), according to a study published on Oct. 30, 2026, in Research Involvement and Engagement.",
-      "url": "https://phys.org/news/2026-11-japan-als-community-ready-partners.html"
+      "date": "Thu, 05 Nov 2026 12:40:12 EST",
+      "summary": "The PREMIER project, a public-private European consortium of research organizations (like Radboud University) and international pharmaceutical companies, has launched a new database to support the environmental risk assessment (ERA) of human pharmaceuticals. The data is publicly accessible, free of charge. The database was built with key user requirements in mind.",
+      "url": "https://phys.org/news/2026-11-european-database-environmental-human-pharmaceuticals.html"
     },
     {
       "category": "Science",
-      "title": "A new route to calculating gluon production in proton–nucleus collisions",
+      "title": "A sweeter future? AI helps scientists discover new sugar substitutes",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Wed, 04 Nov 2026 20:20:01 EST",
-      "summary": "In the theoretical study of proton-nucleus collisions, the colliding projectiles can be described as streams of color charges moving along their respective trajectories. These color charges couple to gluons, which then produce the particles that are observed in the final state (gluons and quarks, which eventually produce hadrons).",
-      "url": "https://phys.org/news/2026-11-route-gluon-production-protonnucleus-collisions.html"
+      "date": "Thu, 05 Nov 2026 12:40:10 EST",
+      "summary": "Researchers Dr. Shayma El-Atawneh and professor Amiram Goldblum at the Hebrew University of Jerusalem have developed a new computational framework that identified 92 promising candidates for future sugar substitutes from more than 50 million chemical compounds. The study, published in the journal Food Chemistry, demonstrates how artificial intelligence and molecular modeling could accelerate the discovery of new sweeteners while helping overcome one of the industry's persistent challenges: unwanted bitter aftertastes.",
+      "url": "https://phys.org/news/2026-11-sweeter-future-ai-scientists-sugar.html"
     },
     {
       "category": "Science",
-      "title": "Earth atmosphere emulators could enable faster and more accurate weather predictions",
+      "title": "After 40 years of searching, physicists find evidence for an ultrarare particle decay",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Wed, 04 Nov 2026 20:00:01 EST",
-      "summary": "If you partitioned the entire Earth, from just below the surface to the top of the atmosphere, into 1-kilometer-square chunks, there would be billions of them. Now run each of those cells through a series of complex physics equations, and you can see how the entire Earth system interacts and evolves in detail, one step at a time.",
-      "url": "https://phys.org/news/2026-11-earth-atmosphere-emulators-enable-faster.html"
+      "date": "Thu, 05 Nov 2026 12:30:02 EST",
+      "summary": "Physicists at CERN report that they've detected evidence of a rare meson particle decay (B⁰→ µ⁺µ⁻) that occurs when the meson's beauty quark annihilates with a down-type quark. The pair decays into a muon and antimuon, which are particles similar to electrons. Because evidence for this decay helps test theoretical predictions from the Standard Model, physicists have been waiting for it since 1984, when it was first theorized.",
+      "url": "https://phys.org/news/2026-11-years-physicists-evidence-ultrarare-particle.html"
     },
     {
       "category": "AI",
-      "title": "Starfall – Affordable, routine access to microgravity",
+      "title": "Launch HN: Rivet (YC W23) – Scale and Orchestrate Agents on S3",
       "source": "Hacker News: Front Page",
-      "date": "Thu, 05 Nov 2026 00:18:18 +0000",
-      "summary": "Article URL: https://www.spacex.com/starfall\nComments URL: https://news.ycombinator.com/item?id=50373308\nPoints: 59\n# Comments: 24",
-      "url": "https://www.spacex.com/starfall"
+      "date": "Thu, 05 Nov 2026 17:17:42 +0000",
+      "summary": "Hey HN, this is Nathan and Nicholas from Rivet (https://rivet.dev) – a fast, high-density, and scalable orchestrator for agentic workloads using the actor model. Rather than running a heavyweight sandbox per agent, each agent gets a lightweight actor backed by S3.\nActors provide a long-lived process for long agent turns, in-memory state for context, a WebSocket server for multiplayer, durable SQLite storage backed by S3, and hibernation when idle.\nIt's a similar model to Cloudflare Durable Objects, but it’s open source and self-hostable.\nHere’s a video walkthrough: https://www.youtube.com/watch?v=3Ev6I7DOV9c\nWhen we went through YC in 2023, we were building infrastructure for multiplayer games like Diep and Krunker. This involved heavily optimizing high-throughput matchmaking, real-time player messages, and blitz scaling. Through that process, we spent a lot of time on workloads where Postgres couldn't keep up with our throughput. We started out by hacking together Lua scripts on top of Redis, but this became too cumbersome to maintain and upgrade. This led us to extend our game server orchestrator to support what we call Rivet Actors today: many lightweight workers with in-memory state and durable storage. By using actors, we were able to serve tens of millions of monthly active users.\nAs agents grew in popularity, it became clear that running agents in sandboxes is inefficient. Sandboxes are expensive, mostly idle, and slow to start. Developers started using actors because they are far more memory efficient (72 KB baseline for actors vs 512 MB for a minimal sandbox) and fast to start (4.9 ms p99 for actors vs 1.7 s p99 for sandboxes).\nFor example, Amp is using Rivet to orchestrate multiplayer agents. They originally tried to build on Cloudflare Durable Objects, but couldn’t launch because of the platform’s limitations and unresponsive support. They migrated to Rivet Actors in a weekend and deploy on-prem. Rivet’s flexible architecture lets them adapt it to their own use cases without being constrained by a framework or the memory, storage, and runtime limits of Cloudflare Durable Objects.\nUnder the hood, Rivet is backed by S3 while maintaining SSD speeds.\nWhy S3? Previously, Rivet ran on FoundationDB. However, we were surprised to find that companies are storing orders of magnitude more data on Rivet Actors than in Postgres, such as large session transcripts, agent artifacts, and full POSIX filesystems. As their data grew, they had to start paying for SSDs that sat mostly idle with old transcripts. This led us to double down on S3 as our primary storage medium without sacrificing performance. This choice means that data stored on Rivet is 10× cheaper than on EBS gp3 while maintaining SSD speeds.\nIt’s not as simple as writing data straight to S3. Lots of PUTs for tiny blobs of data are slow and expensive. Instead, we use an SSD tier to optimize speed and cost:\nWhen you write data to an actor’s SQLite database, the write is acknowledged once SSDs in 2 of 3 availability zones have it. Then, the data is batched to S3 in the background. This means that S3 is never on the write path, which lowers latency and cost. When reading data or waking an actor, Rivet reads from SSDs if already cached and falls back to S3 if not. SSD caches can be tuned to meet your needs, giving you configurable tiered storage for your actors.\nThis architecture lets Rivet provide 1.07 ms durable writes (3 AZ, p99), 1.36 ms reads (p99), and 138 ms reads from object storage (p99).\nWe’ve spent a lot of time making sure that Rivet can run wherever you need it. Self-hosting requires deploying a single Rust binary with S3 as the only dependency, Rivet Cloud lets you deploy dedicated clusters on AWS or GCP in any region, and BYOC lets us deploy Rivet to your VPC without having to operate it yourself. Rivet also runs identically in local dev as in production, since Rivet is a lightweight binary that runs anywhere\nRivet Actors can be written in TypeScript or Rust. Out of the box, they support agents (Pi Durable), workflows, real-time, multiplayer, running AI-generated code, Durable Streams, and integrations with tools like Vercel’s Eve and Turso. See all of our available guides, or point your agent at them: https://rivet.dev/docs/#guides\nTry it out now, by reading our quickstart guides (https://rivet.dev/docs/) or ask your agent: “Run npx skills add rivet-dev/skills, then build a multiplayer chat agent and run it locally.”\nWe’d love to get feedback on your experience with Rivet! We’re deeply invested in making Rivet an easy-to-self-host, flexible, and efficient way to run agentic workloads.\nGitHub: https://github.com/rivet-dev/rivet\nArchitecture: https://rivet.dev/docs/architecture/\nBenchmarks: https://rivet.dev/docs/benchmarking/\nSelf-hosting: https://rivet.dev/docs/deploy/self-host/\nComments URL: https://news.ycombinator.com/item?id=50381687\nPoints: 13\n# Comments: 2",
+      "url": "https://github.com/rivet-dev/rivet"
     },
     {
       "category": "AI",
-      "title": "You'll need nerves of steel to work with AI agents",
+      "title": "Bild AI (YC W25) Is Hiring Founding Product Engineers",
       "source": "Hacker News: Front Page",
-      "date": "Thu, 05 Nov 2026 00:01:30 +0000",
-      "summary": "Article URL: https://orchidfiles.com/youll-need-nerves-of-steel-to-work-with-ai-agents/\nComments URL: https://news.ycombinator.com/item?id=50373149\nPoints: 20\n# Comments: 12",
-      "url": "https://orchidfiles.com/youll-need-nerves-of-steel-to-work-with-ai-agents/"
-    },
-    {
-      "category": "AI",
-      "title": "Images 2.6",
-      "source": "Hacker News: Front Page",
-      "date": "Wed, 04 Nov 2026 23:35:44 +0000",
-      "summary": "Article URL: https://openai.com/index/introducing-images-2-6/\nComments URL: https://news.ycombinator.com/item?id=50372945\nPoints: 92\n# Comments: 78",
-      "url": "https://openai.com/index/introducing-images-2-6/"
+      "date": "Thu, 05 Nov 2026 17:01:23 +0000",
+      "summary": "Article URL: https://www.ycombinator.com/companies/bild-ai/jobs\nComments URL: https://news.ycombinator.com/item?id=50381512\nPoints: 0\n# Comments: 0",
+      "url": "https://www.ycombinator.com/companies/bild-ai/jobs"
     },
     {
       "category": "Space",
-      "title": " On this day in space! Nov. 4, 2015: A rail-launched Super Strypi rocket carrying 13 baby satellites failed during its debut launch for the US Air Force ",
+      "title": " You don't have to go to the moon to see Earth differently: Artemis II astronaut Victor Glover on what really matters ",
       "source": " Latest from Space.com ",
-      "date": "Wed, 04 Nov 2026 23:00:36 +0000",
-      "summary": "On Nov. 4, 2015, the United States Air Force launched an experimental Super Strypi rail-launched rocket carrying 13 tiny satellites, but it  failed just after liftoff from Hawaii.",
-      "url": "https://www.space.com/space-exploration/on-this-day-in-space-november-4-2026"
+      "date": "Thu, 05 Nov 2026 17:00:00 +0000",
+      "summary": "After a record-breaking journey around the moon, Artemis 2 astronaut Victor Glover explains why you don't need to travel into space to see Earth differently.",
+      "url": "https://www.space.com/space-exploration/artemis/the-greatest-reason-to-go-to-space-artemis-ii-astronaut-victor-glover-reveals-what-he-discovered-on-his-journey-to-the-moon"
+    },
+    {
+      "category": "AI",
+      "title": "Window Sweaters",
+      "source": "Hacker News: Front Page",
+      "date": "Thu, 05 Nov 2026 16:50:14 +0000",
+      "summary": "Article URL: https://github.com/saragordic/window-sweaters\nComments URL: https://news.ycombinator.com/item?id=50381383\nPoints: 16\n# Comments: 1",
+      "url": "https://github.com/saragordic/window-sweaters"
+    },
+    {
+      "category": "Science",
+      "title": " 1,600-year-old burial holds remains of man infected with a 'very rare' strain of leprosy in Germany ",
+      "source": " Latest from Live Science ",
+      "date": "Thu, 05 Nov 2026 16:12:11 +0000",
+      "summary": "A high-status burial surprised archaeologists when they discovered leprosy in a man's bones from the fifth century.",
+      "url": "https://www.livescience.com/archaeology/1-600-year-old-burial-holds-remains-of-man-infected-with-a-very-rare-strain-of-leprosy-in-germany"
+    },
+    {
+      "category": "Science",
+      "title": " 'We’re looking at how a bear sees the world': From forest trails to 'Sims for Bears,' researchers are learning how grizzlies navigate a fragmented wilderness ",
+      "source": " Latest from Live Science ",
+      "date": "Thu, 05 Nov 2026 16:00:00 +0000",
+      "summary": "Scientists in the U.S. and Canada are decoding grizzly bears' behavior to learn how they navigate a human-dominated world. What they find could build a safer future for both species.",
+      "url": "https://www.livescience.com/animals/bears/were-looking-at-how-a-bear-sees-the-world-scientists-are-decoding-grizzly-bears-behavior-to-help-wildlife-and-people-coexist"
+    },
+    {
+      "category": "Science",
+      "title": " 7 stunning Weather Photographer of the Year photos that capture the beauty and power of our planet ",
+      "source": " Latest from Live Science ",
+      "date": "Thu, 05 Nov 2026 15:34:02 +0000",
+      "summary": "From dramatic lightning strikes to foreboding storm clouds, these stunning photographs capture the beauty, power and unpredictability of our planet's weather.",
+      "url": "https://www.livescience.com/planet-earth/weather/7-stunning-weather-photographer-of-the-year-photos-that-capture-the-beauty-and-power-of-our-planet"
+    },
+    {
+      "category": "Space",
+      "title": " NASA's Voyager 1 probe bounces back from communications glitch in interstellar space ",
+      "source": " Latest from Space.com ",
+      "date": "Thu, 05 Nov 2026 15:18:15 +0000",
+      "summary": "NASA's Voyager 1 probe is back in communication after the 49-year-old spacecraft briefly fell silent last month, during its interstellar-space mission.",
+      "url": "https://www.space.com/space-exploration/voyager/nasas-voyager-1-probe-bounces-back-from-communications-glitch-in-interstellar-space"
+    },
+    {
+      "category": "Space",
+      "title": "Midwestern City Lights",
+      "source": "NASA",
+      "date": "Thu, 05 Nov 2026 15:17:19 +0000",
+      "summary": "City lights from the Midwestern United States to the East Coast sparkle across the landscape a couple of hours before sunrise on Oct. 18, 2026. Major urban areas visible in the photograph include Chicago, Illinois; Detroit, Michigan; and the New York metropolitan region. The International Space Station was orbiting 259 miles above Earth when this […]",
+      "url": "https://www.nasa.gov/image-article/midwestern-city-lights/"
+    },
+    {
+      "category": "Space",
+      "title": "NASA Astronauts to Answer Questions from Florida Students",
+      "source": "NASA",
+      "date": "Thu, 05 Nov 2026 15:11:25 +0000",
+      "summary": "Students in Florida will hear from NASA astronauts Jessica Watkins and Luke Delaney as they answer prerecorded STEM questions while aboard the International Space Station. The Earth-to-space call will begin at 10:40 a.m. EST Tuesday, Nov. 10, and will stream live on the agency’s Learn With NASA YouTube channel. This event is hosted by Freedom Crossing Academy in […]",
+      "url": "https://www.nasa.gov/learning-resources/nasa-astronauts-to-answer-questions-from-florida-students-2/"
+    },
+    {
+      "category": "Space",
+      "title": " Earth photobombs spacewalking Canadian astronaut | Space photo of the day for Nov. 5, 2026 ",
+      "source": " Latest from Space.com ",
+      "date": "Thu, 05 Nov 2026 15:00:00 +0000",
+      "summary": "Canadian astronaut Joshua Kutryk poses for a photo mid-spacewalk on Oct. 29, 2026.",
+      "url": "https://www.space.com/space-exploration/human-spaceflight/earth-photobombs-spacewalking-canadian-astronaut-space-photo-of-the-day-for-nov-5-2026"
+    },
+    {
+      "category": "AI",
+      "title": "Motorola's new Signature 27 has it all if you can stomach the $1,600 price tag",
+      "source": "Ars Technica - All content",
+      "date": "Thu, 05 Nov 2026 13:00:56 +0000",
+      "summary": "It has all the bells and whistles (and cameras).",
+      "url": "https://arstechnica.com/gadgets/2026/11/motorolas-new-signature-27-has-it-all-if-you-can-stomach-the-1600-price-tag/"
+    },
+    {
+      "category": "Space",
+      "title": "Hubble Learns Galactic History From Stars",
+      "source": "NASA",
+      "date": "Thu, 05 Nov 2026 12:56:21 +0000",
+      "summary": "This Hubble image features the sparkling collection of stars named Messier 30 (M30), also called NGC 7099.",
+      "url": "https://science.nasa.gov/missions/hubble/hubble-learns-galactic-history-from-stars/"
+    },
+    {
+      "category": "AI",
+      "title": "Agility Robotics' Nasdaq debut invites scrutiny of humanoid robot market",
+      "source": "Ars Technica - All content",
+      "date": "Thu, 05 Nov 2026 12:00:41 +0000",
+      "summary": "US leader in deploying humanoid robots goes public on the Nasdaq stock exchange.",
+      "url": "https://arstechnica.com/ai/2026/11/agility-robotics-nasdaq-debut-invites-scrutiny-of-humanoid-robot-market/"
+    },
+    {
+      "category": "Biblical Studies",
+      "title": "Where Was Mary Magdalene From?",
+      "source": "Biblical Archaeology Society",
+      "date": "Thu, 05 Nov 2026 12:00:37 +0000",
+      "summary": "Where was Mary Magdalene from? According to early Christian tradition, the famous disciple of Jesus was from a town called Magdala, hence her name, Mary […]\nThe post Where Was Mary Magdalene From? appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/daily/biblical-sites-places/biblical-archaeology-sites/where-was-mary-magdalene-from/"
+    },
+    {
+      "category": "Biblical Studies",
+      "title": "How Were Biblical Psalms Originally Performed?",
+      "source": "Biblical Archaeology Society",
+      "date": "Thu, 05 Nov 2026 12:00:29 +0000",
+      "summary": "Biblical psalms have throughout millennia been an important part of traditional Jewish and Christian worship. How were Biblical psalms originally performed?\nThe post How Were Biblical Psalms Originally Performed? appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/daily-life-and-practice/ancient-music-biblical-psalms/"
+    },
+    {
+      "category": "AI",
+      "title": "2026 iPad mini review: Maximizing the mini",
+      "source": "Ars Technica - All content",
+      "date": "Thu, 05 Nov 2026 12:00:01 +0000",
+      "summary": "It's more compelling than ever, but also more expensive.",
+      "url": "https://arstechnica.com/gadgets/2026/11/ipad-mini-2026-review-maximizing-the-mini/"
+    },
+    {
+      "category": "Theology",
+      "title": "To Sustain Inner-City Church Plants, Adopt a Missionary Model",
+      "source": "The Gospel Coalition",
+      "date": "Thu, 05 Nov 2026 05:02:00 +0000",
+      "summary": "To plant churches in these spaces, we need to think like missionaries.",
+      "url": "https://www.thegospelcoalition.org/article/inner-city-church-missionary/"
+    },
+    {
+      "category": "Theology",
+      "title": "Report Cards on Your Actions Won’t Fix Your Heart",
+      "source": "The Gospel Coalition",
+      "date": "Thu, 05 Nov 2026 05:00:00 +0000",
+      "summary": "From GLP-1s to political reposts to mindfulness streaks, we’re all keeping score. Jesus says you can’t know who you are until you look at your heart.",
+      "url": "https://www.thegospelcoalition.org/article/report-cards-fix-heart/"
+    },
+    {
+      "category": "AI",
+      "title": "Setting a new standard for responsible AI infrastructure",
+      "source": "OpenAI News",
+      "date": "Thu, 05 Nov 2026 02:00:00 GMT",
+      "summary": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development.",
+      "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure"
     },
     {
       "category": "History",
@@ -65,70 +193,6 @@
       "date": "Wed, 04 Nov 2026 23:00:26 +0000",
       "summary": "On May 15, 1776, the Second Continental Congress declared that authority under the British Crown should be suppressed and that the powers of government should instead be exercised under the authority of the people. The resolution came seven weeks before the Declaration of Independence. It transformed an argument about imperial authority into a problem of […]\nThe post How Three Powers Became Three Branches appeared first on Journal of the American Revolution.",
       "url": "https://allthingsliberty.com/2026/11/how-three-powers-became-three-branches/"
-    },
-    {
-      "category": "AI",
-      "title": "Nintendo's biggest ROM chip supplier is bowing out of the business",
-      "source": "Ars Technica - All content",
-      "date": "Wed, 04 Nov 2026 22:47:51 +0000",
-      "summary": "And what that could mean for physical Switch game costs.",
-      "url": "https://arstechnica.com/gaming/2026/11/the-tech-memory-shortage-comes-for-nintendos-cartridge-supply-chain/"
-    },
-    {
-      "category": "Science",
-      "title": " Swift has fallen: NASA's 22-year-old space telescope burns up over Sumatra ",
-      "source": " Latest from Live Science ",
-      "date": "Wed, 04 Nov 2026 22:33:29 +0000",
-      "summary": "The reentry of NASA's dead Swift space telescope is the end of an era for rapid-response space science.",
-      "url": "https://www.livescience.com/space/astronomy/swift-has-fallen-nasas-22-year-old-space-telescope-burns-up-over-sumatra"
-    },
-    {
-      "category": "AI",
-      "title": "Hackers exploited iOS and Android flaws to infect phones",
-      "source": "Ars Technica - All content",
-      "date": "Wed, 04 Nov 2026 22:26:49 +0000",
-      "summary": "Researchers say group may have been Kremlin-sponsored in search of diplomatic targets.",
-      "url": "https://arstechnica.com/security/2026/11/hackers-exploited-ios-and-android-flaws-to-infect-phones/"
-    },
-    {
-      "category": "Space",
-      "title": " Trump declares 'American space superiority for all eternity' in election night proclamation ",
-      "source": " Latest from Space.com ",
-      "date": "Wed, 04 Nov 2026 22:00:00 +0000",
-      "summary": "President Trump has declared space a frontier for all humanity, asserting America's right to develop and settle the solar system under U.S. law.",
-      "url": "https://www.space.com/space-exploration/trump-declares-american-space-superiority-for-all-eternity-in-new-white-house-proclamation"
-    },
-    {
-      "category": "AI",
-      "title": "Uranium cubes reveal why the German nuclear project failed",
-      "source": "Ars Technica - All content",
-      "date": "Wed, 04 Nov 2026 21:56:29 +0000",
-      "summary": "\"Our calculations suggest Heisenberg significantly underestimated the materials required.\"",
-      "url": "https://arstechnica.com/science/2026/11/uranium-cubes-reveal-why-the-german-nuclear-project-failed/"
-    },
-    {
-      "category": "Science",
-      "title": " Colorful 1,800-year-old belt buckle discovered in a Ukrainian forest may have belonged to a nomadic equestrian warrior ",
-      "source": " Latest from Live Science ",
-      "date": "Wed, 04 Nov 2026 21:28:40 +0000",
-      "summary": "A Roman-era belt buckle discovered in a Ukrainian forest hints at the ancient conflict between the Romans and the Dacians.",
-      "url": "https://www.livescience.com/archaeology/colorful-1-800-year-old-belt-buckle-discovered-in-a-ukrainian-forest-may-have-belonged-to-a-nomadic-equestrian-warrior"
-    },
-    {
-      "category": "Science",
-      "title": " Scientists find the best evidence yet of potentially habitable volcanic vents on Mars ",
-      "source": " Latest from Live Science ",
-      "date": "Wed, 04 Nov 2026 21:14:19 +0000",
-      "summary": "Magma and a possible environment for ancient life might be present on Mars in the region of a large volcano on the Red Planet.",
-      "url": "https://www.livescience.com/space/mars/living-organisms-might-wait-for-us-to-discover-them-mars-may-host-an-environment-similar-to-hydrothermal-vents-on-earth-where-life-first-arose"
-    },
-    {
-      "category": "Space",
-      "title": " Upcoming Marvel movies and TV shows: Avengers: Doomsday, Secret Wars, X-Men & more ",
-      "source": " Latest from Space.com ",
-      "date": "Wed, 04 Nov 2026 21:00:00 +0000",
-      "summary": "The MCU’s Multiverse Saga is nearly over, but there are plenty more Marvel movies and shows on the horizon.",
-      "url": "https://www.space.com/entertainment/space-movies-shows/upcoming-marvel-movies-and-tv-shows"
     },
     {
       "category": "AI",
@@ -163,28 +227,12 @@
       "url": "https://www.sciencedaily.com/releases/2026/11/261104012254.htm"
     },
     {
-      "category": "Biblical Studies",
-      "title": "Another Bronze Age Temple in Kuwait",
-      "source": "Biblical Archaeology Society",
-      "date": "Wed, 04 Nov 2026 11:00:05 +0000",
-      "summary": "Archaeologists working in Kuwait made a remarkable discovery when they uncovered the remains of a Bronze Age temple on Failaka Island. Only a year earlier, […]\nThe post Another Bronze Age Temple in Kuwait appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/bronze-age-temple-kuwait/"
-    },
-    {
       "category": "Science",
       "title": "SLAC scientists find conclusive proof of a mysterious third type of magnetism",
       "source": "All Top News -- ScienceDaily",
       "date": "Wed, 04 Nov 2026 05:43:44 EST",
       "summary": "For nearly 90 years, scientists believed magnetism fell into just two categories, but researchers have now confirmed a remarkable third type called altermagnetism. Using specialized X-rays, they uncovered a unique magnetic signature that proves these materials behave differently from conventional magnets. Altermagnets combine stability with the ability to efficiently carry information, potentially overcoming major limitations in today's electronics. The discovery could lead to faster computers, more efficient data centers, and breakthroughs in quantum technology.",
       "url": "https://www.sciencedaily.com/releases/2026/11/261104012256.htm"
-    },
-    {
-      "category": "AI",
-      "title": "A thousand fewer paths to root",
-      "source": "OpenAI News",
-      "date": "Wed, 04 Nov 2026 08:00:00 GMT",
-      "summary": "OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel.",
-      "url": "https://openai.com/index/a-thousand-fewer-paths-to-root"
     },
     {
       "category": "AI",
@@ -204,27 +252,11 @@
     },
     {
       "category": "Theology",
-      "title": "The Missing Piece in John Mark Comer’s Quiet Time",
-      "source": "The Gospel Coalition",
-      "date": "Wed, 04 Nov 2026 05:02:00 +0000",
-      "summary": "‘Into the Quiet’ effectively critiques the ills of our hectic cultural moment, but it also promotes a spirituality that could quickly become disconnected from Scripture.",
-      "url": "https://www.thegospelcoalition.org/reviews/into-quiet-noise/"
-    },
-    {
-      "category": "Theology",
-      "title": "What Does It Mean to Be Human?: 12 Theses Answer a Pressing Question",
-      "source": "The Gospel Coalition",
-      "date": "Wed, 04 Nov 2026 05:00:00 +0000",
-      "summary": "Learning about a Christian theological anthropology is no mere academic exercise. It gets to the heart of who we are, explains our daily experience, and pushes us toward the love of neighbor and the common good.",
-      "url": "https://www.thegospelcoalition.org/article/twelve-theses-meaning-human/"
-    },
-    {
-      "category": "Biblical Studies",
-      "title": "The Quest for the Historical Paul",
-      "source": "Biblical Archaeology Society",
-      "date": "Tue, 03 Nov 2026 12:00:10 +0000",
-      "summary": "What can we reliably know about Paul and how can we know it?  As is the case with Jesus this is not an easy question. \nThe post The Quest for the Historical Paul appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/daily/people-cultures-in-the-bible/people-in-the-bible/the-quest-for-the-historical-paul/"
+      "title": "Help for Beginners and Seasoned Preachers: A Review of David Jackman’s From Text to Teaching",
+      "source": "9Marks",
+      "date": "Wed, 04 Nov 2026 04:08:16 +0000",
+      "summary": "Seeing preaching as a science helps us understand that there are tools we can apply to do the work better. Seeing it as an art reminds us that the work requires us to pay attention to the beauty of Bible proclamation.\nThe post Help for Beginners and Seasoned Preachers: A Review of David Jackman’s From Text to Teaching appeared first on 9Marks.",
+      "url": "https://www.9marks.org/review/help-for-beginners-and-seasoned-preachers/?utm_source=rss&utm_medium=rss&utm_campaign=help-for-beginners-and-seasoned-preachers"
     },
     {
       "category": "History",
@@ -257,14 +289,6 @@
       "date": "Tue, 27 Oct 2026 18:43:40 +0000",
       "summary": "It’s difficult to discern whether someone has been converted if you’re hazy on what conversion is.\nThe post Why the Doctrine of Conversion Matters for Membership Interviews appeared first on 9Marks.",
       "url": "https://www.9marks.org/article/why-the-doctrine-of-conversion-matters-for-membership-interviews/?utm_source=rss&utm_medium=rss&utm_campaign=why-the-doctrine-of-conversion-matters-for-membership-interviews"
-    },
-    {
-      "category": "Theology",
-      "title": "Unclear Evangelism Leads to Unclear (and False) Conversions",
-      "source": "9Marks",
-      "date": "Mon, 19 Oct 2026 19:22:22 +0000",
-      "summary": "When we appeal to people’s carnal desires, we should not be surprised when our “converts” are more in love with the world than with our Savior.\nThe post Unclear Evangelism Leads to Unclear (and False) Conversions appeared first on 9Marks.",
-      "url": "https://www.9marks.org/article/unclear-evangelism-leads-to-unclear-and-false-conversions/?utm_source=rss&utm_medium=rss&utm_campaign=unclear-evangelism-leads-to-unclear-and-false-conversions"
     },
     {
       "category": "History",
