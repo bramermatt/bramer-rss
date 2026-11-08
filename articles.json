@@ -1,30 +1,158 @@
 {
-  "lastUpdated": "2026-11-08T00:58:46.121Z",
+  "lastUpdated": "2026-11-08T16:28:00.820Z",
   "articleCount": 39,
   "articles": [
     {
       "category": "Science",
-      "title": "Personalized savings reminders can help boost retirement savings",
+      "title": "New species of ground-dwelling bird, the largest of its kind, identified in same cave as Homo floresiensis",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Sat, 07 Nov 2026 18:30:01 EST",
-      "summary": "Private retirement savings are an increasingly important topic in public debate. One popular idea is to phrase savings reminders in one of two ways: either you emphasize what someone stands to lose if they don't save, or you emphasize what they stand to gain if they do. To date, research into which of the two reminder messages is more effective in terms of influencing people's efforts to save has produced conflicting results.",
-      "url": "https://phys.org/news/2026-11-personalized-boost.html"
+      "date": "Sun, 08 Nov 2026 11:20:01 EST",
+      "summary": "In 2009, researchers working in the Liang Bua cave on Flores Island came across a leg bone. The 190,000–120,000-year-old fossil was identified as a bird bone and set aside. Like many bird bones before it, it was overlooked and left to collect dust.",
+      "url": "https://phys.org/news/2026-11-species-ground-bird-largest-kind.html"
     },
     {
       "category": "AI",
-      "title": "Commodore PET – The Worlds First Personal Computer",
+      "title": "Tesla Hasn't Had a Successful New Product Launch Since JB Straubel Stepped Down",
       "source": "Hacker News: Front Page",
-      "date": "Sat, 07 Nov 2026 23:15:34 +0000",
-      "summary": "Article URL: https://www.commodore.ca/commodore-products/commodore-pet-the-worlds-first-personal-computer/\nComments URL: https://news.ycombinator.com/item?id=50408961\nPoints: 5\n# Comments: 0",
-      "url": "https://www.commodore.ca/commodore-products/commodore-pet-the-worlds-first-personal-computer/"
+      "date": "Sun, 08 Nov 2026 16:07:42 +0000",
+      "summary": "Article URL: https://cleantechnica.com/2026/11/07/tesla-hasnt-had-a-successful-new-product-launch-since-jb-straubel-stepped-down-as-cto/\nComments URL: https://news.ycombinator.com/item?id=50414427\nPoints: 56\n# Comments: 17",
+      "url": "https://cleantechnica.com/2026/11/07/tesla-hasnt-had-a-successful-new-product-launch-since-jb-straubel-stepped-down-as-cto/"
+    },
+    {
+      "category": "Space",
+      "title": " Legendary sci-fi magazine 'Starlog' returns as a yearly release, just in time for its 50th anniversary ",
+      "source": " Latest from Space.com ",
+      "date": "Sun, 08 Nov 2026 16:00:00 +0000",
+      "summary": "Before the rise of online entertainment sites, this is where genre fans got their news",
+      "url": "https://www.space.com/entertainment/legendary-sci-fi-magazine-starlog-returns-as-a-yearly-release-just-in-time-for-its-50th-anniversary"
     },
     {
       "category": "AI",
-      "title": "GitHub New pull request overview page in public preview",
+      "title": "I Have Never Seen a Game Fail Because the Artists Were Too Slow",
       "source": "Hacker News: Front Page",
-      "date": "Sat, 07 Nov 2026 23:09:40 +0000",
-      "summary": "Article URL: https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/\nComments URL: https://news.ycombinator.com/item?id=50408931\nPoints: 40\n# Comments: 26",
-      "url": "https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/"
+      "date": "Sun, 08 Nov 2026 15:44:17 +0000",
+      "summary": "Article URL: https://www.productionalchemist.com/p/inever-seen-a-game-fail-because-artists-too-slow\nComments URL: https://news.ycombinator.com/item?id=50414234\nPoints: 11\n# Comments: 4",
+      "url": "https://www.productionalchemist.com/p/inever-seen-a-game-fail-because-artists-too-slow"
+    },
+    {
+      "category": "AI",
+      "title": "Scrine – Joyscroll books. Read any book one sentence at a time",
+      "source": "Hacker News: Front Page",
+      "date": "Sun, 08 Nov 2026 15:35:50 +0000",
+      "summary": "Article URL: https://scrine.io/\nComments URL: https://news.ycombinator.com/item?id=50414155\nPoints: 4\n# Comments: 2",
+      "url": "https://scrine.io/"
+    },
+    {
+      "category": "Science",
+      "title": "Game theory helps SETI search for alien civilizations",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sun, 08 Nov 2026 10:30:06 EST",
+      "summary": "The search for extraterrestrial intelligence (SETI) is mostly concerned with where to look for technosignatures from another civilization. Between 2012 and 2015, SETI's Project Phoenix targeted about 1,000 sun-like stars for signs of intelligent life. But where to look might not be as important as when to look, according to scientists at SETI.",
+      "url": "https://phys.org/news/2026-11-game-theory-seti-alien-civilizations.html"
+    },
+    {
+      "category": "Space",
+      "title": "NASA Announces $1 Million to Students for Moon Base Challenge",
+      "source": "NASA",
+      "date": "Sun, 08 Nov 2026 15:26:38 +0000",
+      "summary": "On Sunday, NASA announced the opening of its $1 million Moon Base Student Challenge during a MAX POWER event at Kennedy Space Center Visitor Complex in Florida. As part of a Golden Age of Science, the competition invites student teams at U.S. high schools and post-secondary schools to contribute designs for the Moon Base. “We’re […]",
+      "url": "https://www.nasa.gov/news-release/nasa-announces-1-million-to-students-for-moon-base-challenge/"
+    },
+    {
+      "category": "Space",
+      "title": " On this day in space! Nov. 8, 2005: Europe launches Venus Express, its first mission to Venus ",
+      "source": " Latest from Space.com ",
+      "date": "Sun, 08 Nov 2026 15:25:42 +0000",
+      "summary": "On Nov. 8, 2005, Europe launched its first mission to Venus. Here's why Venus Express mattered.",
+      "url": "https://www.space.com/space-exploration/on-this-day-in-space-november-8-2026"
+    },
+    {
+      "category": "Science",
+      "title": "'Stupendously large' primordial black holes ruled out as a dark matter source",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sun, 08 Nov 2026 09:40:01 EST",
+      "summary": "Primordial black holes are hypothetical objects that could have formed directly from dense clumps of matter in the very early universe. If they exist, their dramatic origins would set them apart from the black holes we see today, which form when massive stars collapse. Some theories suggest that \"stupendously large\" primordial black holes could account for a significant share of the universe's elusive dark matter.",
+      "url": "https://phys.org/news/2026-11-stupendously-large-primordial-black-holes.html"
+    },
+    {
+      "category": "Science",
+      "title": " Rare fifth-century burials of Germanic chieftains with dazzling weapons and warhorses discovered in France ",
+      "source": " Latest from Live Science ",
+      "date": "Sun, 08 Nov 2026 13:00:00 +0000",
+      "summary": "Archaeologists found a small cemetery full of high-status burials, two of which may be the graves of Germanic chieftains.",
+      "url": "https://www.livescience.com/archaeology/rare-fifth-century-burials-of-germanic-chieftains-with-dazzling-weapons-and-warhorses-discovered-in-france"
+    },
+    {
+      "category": "Space",
+      "title": " Who is King Ghidorah? The cosmic connections of Godzilla Minus Zero's foe ",
+      "source": " Latest from Space.com ",
+      "date": "Sun, 08 Nov 2026 13:00:00 +0000",
+      "summary": "Godzilla will go toe-to-toe with long-time foe King Ghidorah in Godzilla Minus Zero. This three-headed Kaiju's origins aren't just space-based; one of the largest structures in the universe shares its name.",
+      "url": "https://www.space.com/entertainment/space-movies-shows/who-is-king-ghidorah-the-cosmic-connections-of-godzilla-minus-zeros-foe"
+    },
+    {
+      "category": "AI",
+      "title": "Physicists listened to electrical noise to crack a superconductor mystery",
+      "source": "Ars Technica - All content",
+      "date": "Sun, 08 Nov 2026 12:15:31 +0000",
+      "summary": "Tuning in to electronic noise can tell us whether electrons have paired up or not.",
+      "url": "https://arstechnica.com/science/2026/11/physicists-listened-to-electrical-noise-to-crack-a-superconductor-mystery/"
+    },
+    {
+      "category": "Science",
+      "title": " NASA's destroyed Swift Observatory took one of the best-ever photos of bright Andromeda ",
+      "source": " Latest from Live Science ",
+      "date": "Sun, 08 Nov 2026 11:00:00 +0000",
+      "summary": "NASA's Swift Observatory went out in a blaze of glory this week, but it left behind millions of images of the universe that could fuel discoveries for decades.",
+      "url": "https://www.livescience.com/space/astronomy/nasas-destroyed-swift-observatory-took-one-of-the-best-ever-photos-of-bright-andromeda-space-photo-of-the-week"
+    },
+    {
+      "category": "Science",
+      "title": "A nuclear blast could save Earth from an asteroid, but there's a catch",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Sun, 08 Nov 2026 05:11:25 EST",
+      "summary": "A nuclear explosion might save Earth from a deadly asteroid, but new research suggests that hitting the wrong side could make the difference between success and disaster. Scientists found that an asteroid's irregular shape can dramatically affect how it responds to an X-ray blast, with deflection effectiveness varying nearly fivefold depending on the angle.",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261106174532.htm"
+    },
+    {
+      "category": "Science",
+      "title": " How frequently did Viking women fight in battle? ",
+      "source": " Latest from Live Science ",
+      "date": "Sun, 08 Nov 2026 10:00:00 +0000",
+      "summary": "The Vikings are famous for being warriors, but how frequently did Viking women take part in battles?",
+      "url": "https://www.livescience.com/archaeology/vikings/how-frequently-did-viking-women-fight-in-battle"
+    },
+    {
+      "category": "Science",
+      "title": "Ancient Siberian tomb reveals surprising secrets of cannabis use 2,800 years ago",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Sun, 08 Nov 2026 03:14:23 EST",
+      "summary": "Scientists investigating a 2,800-year-old Siberian tomb discovered roughly 1,000 cannabis seeds and chemical evidence suggesting ancient Scythians used the plant for its intoxicating effects. The remarkable find, surrounded by evidence of elaborate burial rituals and animal sacrifices, offers the oldest directly dated archaeological evidence of psychoactive cannabis use.",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261106174528.htm"
+    },
+    {
+      "category": "Space",
+      "title": "APOD: 2026 November 8 – Major Fireball Meteor",
+      "source": "NASA",
+      "date": "Sun, 08 Nov 2026 05:05:00 +0000",
+      "summary": "APOD Science APOD APOD: 2026 November 8 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Major Fireball Meteor […]",
+      "url": "https://science.nasa.gov/image-article/apod-2026-november-8-major-fireball-meteor/"
+    },
+    {
+      "category": "Theology",
+      "title": "Contend Without Being Contentious",
+      "source": "The Gospel Coalition",
+      "date": "Sun, 08 Nov 2026 05:00:00 +0000",
+      "summary": "In an age marked by theological compromise and unnecessary outrage, we need church leaders who can do more than win arguments.",
+      "url": "https://www.thegospelcoalition.org/article/contend-not-contentious/"
+    },
+    {
+      "category": "Science",
+      "title": "A hidden limit of space and time could unlock electronics 100,000 times faster",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Sat, 07 Nov 2026 18:34:19 EST",
+      "summary": "Scientists have discovered a surprising quantum limit that prevents electrons from being tracked with unlimited precision in both space and time. The breakthrough could pave the way for manipulating chemical reactions and developing electronics hundreds of thousands of times faster than today's technology.",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261106174537.htm"
     },
     {
       "category": "Space",
@@ -33,86 +161,6 @@
       "date": "Sat, 07 Nov 2026 22:47:03 +0000",
       "summary": "NASA announced a suite of awards and mission updates on Saturday to expand the agency’s Moon Base exploration, science, and infrastructure capabilities. The investments will advance commercial robotic deliveries, a nuclear-powered rover named PROMISE, launch and orbital transfer services, and surface infrastructure as the agency works with American industry to establish a sustained presence on […]",
       "url": "https://www.nasa.gov/news-release/nasa-awards-moon-base-transportation-technology-science-projects/"
-    },
-    {
-      "category": "AI",
-      "title": "IRA Velinsky – Commodore's Industrial Designer",
-      "source": "Hacker News: Front Page",
-      "date": "Sat, 07 Nov 2026 22:45:39 +0000",
-      "summary": "Article URL: https://www.commodore.ca/commodore-history/ira-velinsky-commodores-amazing-industrial-designer/\nComments URL: https://news.ycombinator.com/item?id=50408750\nPoints: 8\n# Comments: 0",
-      "url": "https://www.commodore.ca/commodore-history/ira-velinsky-commodores-amazing-industrial-designer/"
-    },
-    {
-      "category": "Science",
-      "title": "Student finds proof of rare wild cat in northern New Mexico",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sat, 07 Nov 2026 17:00:05 EST",
-      "summary": "Armed with dozens of motion-sensing cameras, William Grooms spent this past summer documenting wildlife across Carson National Forest in northern New Mexico. It was his first field season collecting photos for a two-year study to understand how forest structure influences biodiversity in the Southern Rocky Mountains.",
-      "url": "https://phys.org/news/2026-11-student-proof-rare-wild-cat.html"
-    },
-    {
-      "category": "Science",
-      "title": "The hidden ways insects support animal life—from habitat to health—go way beyond being food",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sat, 07 Nov 2026 16:00:01 EST",
-      "summary": "There are at least 14 million insect species on Earth, and they play highly diverse roles in sustaining the natural world. Insects provide many well-known benefits—what scientists often call \"ecosystem services.\" For example, you can thank a bee or a hoverfly for pollinating wildflowers and agricultural crops, or credit dung beetles for decomposing manure and other waste materials.",
-      "url": "https://phys.org/news/2026-11-hidden-ways-insects-animal-life.html"
-    },
-    {
-      "category": "Space",
-      "title": "NASA Seeks Next Generation of Explorers to Join Astronaut Corps",
-      "source": "NASA",
-      "date": "Sat, 07 Nov 2026 18:11:57 +0000",
-      "summary": "NASA is looking for the explorers who will help write the next chapter of human spaceflight. Applications are now open for the agency’s next class of astronauts, who will join NASA as America returns to the Moon, builds the Moon Base, and lays the groundwork for the first crewed missions to Mars. The next generation […]",
-      "url": "https://www.nasa.gov/news-release/nasa-seeks-next-generation-of-explorers-to-join-astronaut-corps/"
-    },
-    {
-      "category": "Science",
-      "title": " The Maya used so much red paint that they poisoned their water with mercury, mud sediments reveal ",
-      "source": " Latest from Live Science ",
-      "date": "Sat, 07 Nov 2026 18:00:00 +0000",
-      "summary": "Researchers found extreme levels of mercury in sediment cores in Mexico ‪—‬ and it’s all because the Maya loved red paint.",
-      "url": "https://www.livescience.com/archaeology/americas/the-maya-used-so-much-red-paint-that-they-poisoned-their-water-with-mercury-mud-sediments-reveal"
-    },
-    {
-      "category": "Space",
-      "title": " This Week In Space podcast: Episode 235 — Robots in Dark and Scary Places ",
-      "source": " Latest from Space.com ",
-      "date": "Sat, 07 Nov 2026 17:10:54 +0000",
-      "summary": "On Episode 235 of This Week In Space, Tariq Malik and Rod Pyle are joined by Dr. Jim Green to talk about the past, present, and future of planetary exploration.",
-      "url": "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-235-robots-in-dark-and-scary-places"
-    },
-    {
-      "category": "Science",
-      "title": " Tectonic forces near Japan helped fuel the formation of the Grand Canyon ",
-      "source": " Latest from Live Science ",
-      "date": "Sat, 07 Nov 2026 17:00:00 +0000",
-      "summary": "A double subduction zone off the coast of Japan caused rifting halfway around the world to accelerate, fueling the formation of some of North America's most iconic features.",
-      "url": "https://www.livescience.com/planet-earth/tectonic-forces-near-japan-helped-fuel-the-formation-of-the-grand-canyon"
-    },
-    {
-      "category": "Space",
-      "title": " On this day in space! Nov. 7, 1992: NASA launches Mars Global Surveyor, its 1st Mars mission in 20 years at the time, to map the Red Planet like never before ",
-      "source": " Latest from Space.com ",
-      "date": "Sat, 07 Nov 2026 16:31:11 +0000",
-      "summary": "On Nov. 7, 1996, NASA launched its Mars Global Surveyor mission, the first Mars mission in 20 years. Here's why it mattered.",
-      "url": "https://www.space.com/space-exploration/on-this-day-in-space-november-7-2026"
-    },
-    {
-      "category": "Science",
-      "title": " Women often get cold more easily than men — a mouse study offers hints why ",
-      "source": " Latest from Live Science ",
-      "date": "Sat, 07 Nov 2026 16:00:00 +0000",
-      "summary": "A new study points to testosterone and proteins in the skin as reasons why males and females experience temperatures differently.",
-      "url": "https://www.livescience.com/health/neuroscience/women-often-get-cold-more-easily-than-men-a-mouse-study-offers-hints-why"
-    },
-    {
-      "category": "Space",
-      "title": " Send your name to Saturn's moon Titan with NASA's upcoming Dragonfly mission ",
-      "source": " Latest from Space.com ",
-      "date": "Sat, 07 Nov 2026 15:00:00 +0000",
-      "summary": "NASA is asking the public to send their names to Titan for an ambitious mission that will see a flying craft explore the Saturn moon in 2034, if all goes according to plan.",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/send-your-name-to-saturns-moon-titan-with-nasas-upcoming-dragonfly-mission"
     },
     {
       "category": "AI",
@@ -131,14 +179,6 @@
       "url": "https://arstechnica.com/security/2026/11/british-soldier-ignored-order-to-pull-his-sim-card-then-got-blackmailed/"
     },
     {
-      "category": "Space",
-      "title": "APOD: 2026 November 7 – De Gerlache-Kocher Massif",
-      "source": "NASA",
-      "date": "Sat, 07 Nov 2026 05:05:00 +0000",
-      "summary": "APOD Science APOD APOD: 2026 November 7 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. De Gerlache-Kocher Massif […]",
-      "url": "https://science.nasa.gov/image-article/apod-2026-november-7-de-gerlache-kocher-massif/"
-    },
-    {
       "category": "Theology",
       "title": "Editor’s Pick: New Children’s Picture Books",
       "source": "The Gospel Coalition",
@@ -153,14 +193,6 @@
       "date": "Sat, 07 Nov 2026 05:00:00 +0000",
       "summary": "In a world where algorithms capture our affections and lure us online via our cravings, one of the most effective resistance strategies we can employ is to study and memorize Scripture—especially the Sermon on the Mount.",
       "url": "https://www.thegospelcoalition.org/article/memorize-sermon-mount-heart/"
-    },
-    {
-      "category": "AI",
-      "title": "Doctors pull knife from man's eye that went through his brain—and he's fine now",
-      "source": "Ars Technica - All content",
-      "date": "Fri, 06 Nov 2026 23:09:45 +0000",
-      "summary": "It's the exact path, not the apparent severity that matters most, doctors say.",
-      "url": "https://arstechnica.com/health/2026/11/man-unexpectedly-recovers-from-a-knife-wound-through-his-eye-and-brain/"
     },
     {
       "category": "Theology",
@@ -179,14 +211,6 @@
       "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-rome/finding-paul-in-damascus/"
     },
     {
-      "category": "Science",
-      "title": "Scientists just found dinosaur blood that survived 115 million years",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Fri, 06 Nov 2026 06:28:01 EST",
-      "summary": "Scientists have discovered chemically confirmed traces of ancient blood inside 115-million-year-old dinosaur bones, challenging assumptions about how long biological molecules can survive. The extraordinary preservation could unlock new clues about dinosaur physiology and even help scientists search for ancient life elsewhere in the universe.",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261105224542.htm"
-    },
-    {
       "category": "Biblical Studies",
       "title": "Lamenting the Fall of Jerusalem",
       "source": "Biblical Archaeology Society",
@@ -195,36 +219,12 @@
       "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-near-eastern-world/lamenting-the-fall-of-jerusalem/"
     },
     {
-      "category": "Science",
-      "title": "Don't miss: Meteor showers, fireballs, and a supermoon light up November's night sky",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Fri, 06 Nov 2026 03:21:08 EST",
-      "summary": "November's night sky is packed with celestial wonders, from bright meteor fireballs and a close pairing of Mars and Jupiter to a spectacular supermoon. Meanwhile, NASA's Voyager 1 is making history by becoming the first spacecraft to reach a distance of one light-day from Earth.",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261105224547.htm"
-    },
-    {
       "category": "AI",
       "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
       "source": "OpenAI News",
       "date": "Fri, 06 Nov 2026 08:00:00 GMT",
       "summary": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
       "url": "https://openai.com/index/partnering-with-hacktron"
-    },
-    {
-      "category": "Science",
-      "title": "NASA’s Swift telescope falls to Earth after nearly 22 years in space",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Fri, 06 Nov 2026 02:12:55 EST",
-      "summary": "After nearly 22 years of exploring the universe’s most violent explosions, NASA’s Swift Observatory has re-entered Earth’s atmosphere over Indonesia. Originally designed to last just two years, the pioneering space telescope transformed our understanding of black holes, exploding stars, and mysterious cosmic outbursts.",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261105224545.htm"
-    },
-    {
-      "category": "Theology",
-      "title": "Who Is the God of the Bible?",
-      "source": "The Gospel Coalition",
-      "date": "Fri, 06 Nov 2026 05:04:00 +0000",
-      "summary": "Contemplating God’s names provides a deeper understanding of his being and attributes and a firmer foundation for our faith and hope.",
-      "url": "https://www.thegospelcoalition.org/podcasts/tgc-podcast/who-god-bible/"
     },
     {
       "category": "AI",
