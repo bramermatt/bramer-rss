@@ -1,22 +1,62 @@
 {
-  "lastUpdated": "2026-11-07T20:02:06.820Z",
+  "lastUpdated": "2026-11-08T00:58:46.121Z",
   "articleCount": 39,
   "articles": [
     {
       "category": "Science",
-      "title": "Different text genres help doctoral students adapt their writing to reach new readers",
+      "title": "Personalized savings reminders can help boost retirement savings",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Sat, 07 Nov 2026 14:00:02 EST",
-      "summary": "An academic abstract, a blog post and a public outreach article all place different demands on the writer. Readers' prior knowledge varies, as does the purpose of the text and what needs explaining. Mastering one kind of text therefore does not automatically mean being able to write another.",
-      "url": "https://phys.org/news/2026-11-text-genres-doctoral-students-readers.html"
+      "date": "Sat, 07 Nov 2026 18:30:01 EST",
+      "summary": "Private retirement savings are an increasingly important topic in public debate. One popular idea is to phrase savings reminders in one of two ways: either you emphasize what someone stands to lose if they don't save, or you emphasize what they stand to gain if they do. To date, research into which of the two reminder messages is more effective in terms of influencing people's efforts to save has produced conflicting results.",
+      "url": "https://phys.org/news/2026-11-personalized-boost.html"
     },
     {
       "category": "AI",
-      "title": "What I run on my $10 USD OpenStick homelab",
+      "title": "Commodore PET – The Worlds First Personal Computer",
       "source": "Hacker News: Front Page",
-      "date": "Sat, 07 Nov 2026 18:12:12 +0000",
-      "summary": "Article URL: https://blog.bosscher.ch/posts/openstick/\nComments URL: https://news.ycombinator.com/item?id=50406670\nPoints: 79\n# Comments: 18",
-      "url": "https://blog.bosscher.ch/posts/openstick/"
+      "date": "Sat, 07 Nov 2026 23:15:34 +0000",
+      "summary": "Article URL: https://www.commodore.ca/commodore-products/commodore-pet-the-worlds-first-personal-computer/\nComments URL: https://news.ycombinator.com/item?id=50408961\nPoints: 5\n# Comments: 0",
+      "url": "https://www.commodore.ca/commodore-products/commodore-pet-the-worlds-first-personal-computer/"
+    },
+    {
+      "category": "AI",
+      "title": "GitHub New pull request overview page in public preview",
+      "source": "Hacker News: Front Page",
+      "date": "Sat, 07 Nov 2026 23:09:40 +0000",
+      "summary": "Article URL: https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/\nComments URL: https://news.ycombinator.com/item?id=50408931\nPoints: 40\n# Comments: 26",
+      "url": "https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/"
+    },
+    {
+      "category": "Space",
+      "title": "NASA Awards Moon Base Transportation, Technology, Science Projects",
+      "source": "NASA",
+      "date": "Sat, 07 Nov 2026 22:47:03 +0000",
+      "summary": "NASA announced a suite of awards and mission updates on Saturday to expand the agency’s Moon Base exploration, science, and infrastructure capabilities. The investments will advance commercial robotic deliveries, a nuclear-powered rover named PROMISE, launch and orbital transfer services, and surface infrastructure as the agency works with American industry to establish a sustained presence on […]",
+      "url": "https://www.nasa.gov/news-release/nasa-awards-moon-base-transportation-technology-science-projects/"
+    },
+    {
+      "category": "AI",
+      "title": "IRA Velinsky – Commodore's Industrial Designer",
+      "source": "Hacker News: Front Page",
+      "date": "Sat, 07 Nov 2026 22:45:39 +0000",
+      "summary": "Article URL: https://www.commodore.ca/commodore-history/ira-velinsky-commodores-amazing-industrial-designer/\nComments URL: https://news.ycombinator.com/item?id=50408750\nPoints: 8\n# Comments: 0",
+      "url": "https://www.commodore.ca/commodore-history/ira-velinsky-commodores-amazing-industrial-designer/"
+    },
+    {
+      "category": "Science",
+      "title": "Student finds proof of rare wild cat in northern New Mexico",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sat, 07 Nov 2026 17:00:05 EST",
+      "summary": "Armed with dozens of motion-sensing cameras, William Grooms spent this past summer documenting wildlife across Carson National Forest in northern New Mexico. It was his first field season collecting photos for a two-year study to understand how forest structure influences biodiversity in the Southern Rocky Mountains.",
+      "url": "https://phys.org/news/2026-11-student-proof-rare-wild-cat.html"
+    },
+    {
+      "category": "Science",
+      "title": "The hidden ways insects support animal life—from habitat to health—go way beyond being food",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sat, 07 Nov 2026 16:00:01 EST",
+      "summary": "There are at least 14 million insect species on Earth, and they play highly diverse roles in sustaining the natural world. Insects provide many well-known benefits—what scientists often call \"ecosystem services.\" For example, you can thank a bee or a hoverfly for pollinating wildflowers and agricultural crops, or credit dung beetles for decomposing manure and other waste materials.",
+      "url": "https://phys.org/news/2026-11-hidden-ways-insects-animal-life.html"
     },
     {
       "category": "Space",
@@ -27,44 +67,12 @@
       "url": "https://www.nasa.gov/news-release/nasa-seeks-next-generation-of-explorers-to-join-astronaut-corps/"
     },
     {
-      "category": "AI",
-      "title": "The end of Microsoft Research's AI Frontiers group",
-      "source": "Hacker News: Front Page",
-      "date": "Sat, 07 Nov 2026 18:02:17 +0000",
-      "summary": "https://archive.is/AaY5O\nhttps://businessexaminer.ca/victoria-articles/item/microsoft...\nComments URL: https://news.ycombinator.com/item?id=50406563\nPoints: 133\n# Comments: 62",
-      "url": "https://hunch.net/?p=13764006"
-    },
-    {
-      "category": "Science",
-      "title": "Two paths, one flux: Trapped ions simulate Aharonov–Bohm interference in a lattice gauge theory",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sat, 07 Nov 2026 13:00:02 EST",
-      "summary": "In a new Nature Physics study, researchers demonstrated the Aharonov-Bohm effect in a quantum simulation of a lattice gauge theory using a hybrid trapped-ion quantum computer.",
-      "url": "https://phys.org/news/2026-11-paths-flux-ions-simulate-aharonovbohm.html"
-    },
-    {
       "category": "Science",
       "title": " The Maya used so much red paint that they poisoned their water with mercury, mud sediments reveal ",
       "source": " Latest from Live Science ",
       "date": "Sat, 07 Nov 2026 18:00:00 +0000",
       "summary": "Researchers found extreme levels of mercury in sediment cores in Mexico ‪—‬ and it’s all because the Maya loved red paint.",
       "url": "https://www.livescience.com/archaeology/americas/the-maya-used-so-much-red-paint-that-they-poisoned-their-water-with-mercury-mud-sediments-reveal"
-    },
-    {
-      "category": "AI",
-      "title": "Five memorable books about programming (2008)",
-      "source": "Hacker News: Front Page",
-      "date": "Sat, 07 Nov 2026 17:30:49 +0000",
-      "summary": "Article URL: https://prog21.dadgum.com/19.html\nComments URL: https://news.ycombinator.com/item?id=50406319\nPoints: 31\n# Comments: 10",
-      "url": "https://prog21.dadgum.com/19.html"
-    },
-    {
-      "category": "Science",
-      "title": "Earth's gravity may have kept the early moon's volcanic heart beating",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sat, 07 Nov 2026 12:30:01 EST",
-      "summary": "We typically think of the moon as a static, floating object that has remained the same for basically its entire lifetime, with an occasional asteroid impact serving as an exception. That understanding is grounded in physics—the moon should have cooled rapidly after forming when a huge protoplanet hit the early Earth around 4.5 billion years ago. But some lunar material returned from the Chang'e-5 mission was notably formed only around 2 billion years ago, yet appeared to be volcanic in origin.",
-      "url": "https://phys.org/news/2026-11-earth-gravity-early-moon-volcanic.html"
     },
     {
       "category": "Space",
@@ -153,14 +161,6 @@
       "date": "Fri, 06 Nov 2026 23:09:45 +0000",
       "summary": "It's the exact path, not the apparent severity that matters most, doctors say.",
       "url": "https://arstechnica.com/health/2026/11/man-unexpectedly-recovers-from-a-knife-wound-through-his-eye-and-brain/"
-    },
-    {
-      "category": "Space",
-      "title": "M30’s Sparkling Stars",
-      "source": "NASA",
-      "date": "Fri, 06 Nov 2026 16:23:41 +0000",
-      "summary": "This NASA/ESA Hubble Space Telescope image released Nov. 5, 2026, provides a lesson in galactic history. The sparkling collection of stars is named Messier 30 (M30) after the French astronomer, Charles Messier, who cataloged M30 and other diffuse objects that might be mistaken for comets in the early telescopes of Messier’s time. M30 lies about […]",
-      "url": "https://www.nasa.gov/image-article/m30s-sparkling-stars/"
     },
     {
       "category": "Theology",
