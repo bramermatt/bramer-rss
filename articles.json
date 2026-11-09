@@ -1,22 +1,62 @@
 {
-  "lastUpdated": "2026-11-08T16:28:00.820Z",
-  "articleCount": 39,
+  "lastUpdated": "2026-11-09T01:20:11.857Z",
+  "articleCount": 36,
   "articles": [
     {
       "category": "Science",
-      "title": "New species of ground-dwelling bird, the largest of its kind, identified in same cave as Homo floresiensis",
+      "title": "Radiocarbon analysis uncovers possible traces of hidden earthquakes off Japan's coast",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Sun, 08 Nov 2026 11:20:01 EST",
-      "summary": "In 2009, researchers working in the Liang Bua cave on Flores Island came across a leg bone. The 190,000–120,000-year-old fossil was identified as a bird bone and set aside. Like many bird bones before it, it was overlooked and left to collect dust.",
-      "url": "https://phys.org/news/2026-11-species-ground-bird-largest-kind.html"
+      "date": "Sun, 08 Nov 2026 20:00:01 EST",
+      "summary": "Researchers at the University of Tokyo have used a new type of radiocarbon analysis to study a sediment core taken from the Kumano Sea off the coast of Japan. This has revealed multiple \"hidden\" traces of previously unknown earthquakes in the Nankai Trough, where the country's next megaquake is expected to occur. Reconstructing a more accurate picture of the past will help predict future geophysical events and prepare for potential disasters. The work is published in Radiocarbon.",
+      "url": "https://phys.org/news/2026-11-radiocarbon-analysis-uncovers-hidden-earthquakes.html"
     },
     {
       "category": "AI",
-      "title": "Tesla Hasn't Had a Successful New Product Launch Since JB Straubel Stepped Down",
+      "title": "Unlocking any car from X brand in most of the world",
       "source": "Hacker News: Front Page",
-      "date": "Sun, 08 Nov 2026 16:07:42 +0000",
-      "summary": "Article URL: https://cleantechnica.com/2026/11/07/tesla-hasnt-had-a-successful-new-product-launch-since-jb-straubel-stepped-down-as-cto/\nComments URL: https://news.ycombinator.com/item?id=50414427\nPoints: 56\n# Comments: 17",
-      "url": "https://cleantechnica.com/2026/11/07/tesla-hasnt-had-a-successful-new-product-launch-since-jb-straubel-stepped-down-as-cto/"
+      "date": "Mon, 09 Nov 2026 00:10:50 +0000",
+      "summary": "Article URL: https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/\nComments URL: https://news.ycombinator.com/item?id=50419215\nPoints: 23\n# Comments: 13",
+      "url": "https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/"
+    },
+    {
+      "category": "Science",
+      "title": "Small histone differences help shape gene regulation during sperm development",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sun, 08 Nov 2026 19:10:01 EST",
+      "summary": "Researchers from Kyushu University have found that H3mm15, a histone H3.3 subvariant, contributes to normal sperm development in mice by helping regulate gene expression during spermatogenesis. The findings show that H3mm15 cannot be interchanged with conventional H3.3; although the proteins differ at only three amino acids, they behave differently in chromatin, the DNA-protein structure that packages genetic material.",
+      "url": "https://phys.org/news/2026-11-small-histone-differences-gene-sperm.html"
+    },
+    {
+      "category": "AI",
+      "title": "Herb Sutter: When a language's creator and its owners strongly disagree [pdf]",
+      "source": "Hacker News: Front Page",
+      "date": "Sun, 08 Nov 2026 23:28:01 +0000",
+      "summary": "Article URL: https://isocpp.org/files/papers/P4454R0.pdf\nComments URL: https://news.ycombinator.com/item?id=50418818\nPoints: 47\n# Comments: 31",
+      "url": "https://isocpp.org/files/papers/P4454R0.pdf"
+    },
+    {
+      "category": "AI",
+      "title": "Chimera Vocal Synth",
+      "source": "Hacker News: Front Page",
+      "date": "Sun, 08 Nov 2026 22:36:03 +0000",
+      "summary": "Article URL: https://chimera-vocal-synth.vercel.app/\nComments URL: https://news.ycombinator.com/item?id=50418182\nPoints: 75\n# Comments: 10",
+      "url": "https://chimera-vocal-synth.vercel.app/"
+    },
+    {
+      "category": "Science",
+      "title": "Liquid-assisted crystal growth cuts perovskite defects for efficient solar cells and LEDs",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sun, 08 Nov 2026 17:00:01 EST",
+      "summary": "A research team led by professor Seong Sik Shin of the SKKU Advanced Institute of Nanotechnology (SAINT) at Sungkyunkwan University (SKKU), in international collaboration with the Korea Research Institute of Chemical Technology (KRICT), the University of California, San Diego, and Princeton University, has developed a next-generation perovskite semiconductor thin film with dramatically reduced defects. Using the same material platform, the researchers demonstrated both high-performance solar cells and LEDs.",
+      "url": "https://phys.org/news/2026-11-liquid-crystal-growth-perovskite-defects.html"
+    },
+    {
+      "category": "Science",
+      "title": " Would you learn to lucid dream if you could? ",
+      "source": " Latest from Live Science ",
+      "date": "Sun, 08 Nov 2026 17:00:00 +0000",
+      "summary": "Neuroscientists say people can be \"trained\" to recognize when they're dreaming — in other words, lucid dreaming may be an acquirable skill.",
+      "url": "https://www.livescience.com/health/sleep/would-you-learn-to-lucid-dream-if-you-could"
     },
     {
       "category": "Space",
@@ -27,52 +67,12 @@
       "url": "https://www.space.com/entertainment/legendary-sci-fi-magazine-starlog-returns-as-a-yearly-release-just-in-time-for-its-50th-anniversary"
     },
     {
-      "category": "AI",
-      "title": "I Have Never Seen a Game Fail Because the Artists Were Too Slow",
-      "source": "Hacker News: Front Page",
-      "date": "Sun, 08 Nov 2026 15:44:17 +0000",
-      "summary": "Article URL: https://www.productionalchemist.com/p/inever-seen-a-game-fail-because-artists-too-slow\nComments URL: https://news.ycombinator.com/item?id=50414234\nPoints: 11\n# Comments: 4",
-      "url": "https://www.productionalchemist.com/p/inever-seen-a-game-fail-because-artists-too-slow"
-    },
-    {
-      "category": "AI",
-      "title": "Scrine – Joyscroll books. Read any book one sentence at a time",
-      "source": "Hacker News: Front Page",
-      "date": "Sun, 08 Nov 2026 15:35:50 +0000",
-      "summary": "Article URL: https://scrine.io/\nComments URL: https://news.ycombinator.com/item?id=50414155\nPoints: 4\n# Comments: 2",
-      "url": "https://scrine.io/"
-    },
-    {
-      "category": "Science",
-      "title": "Game theory helps SETI search for alien civilizations",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sun, 08 Nov 2026 10:30:06 EST",
-      "summary": "The search for extraterrestrial intelligence (SETI) is mostly concerned with where to look for technosignatures from another civilization. Between 2012 and 2015, SETI's Project Phoenix targeted about 1,000 sun-like stars for signs of intelligent life. But where to look might not be as important as when to look, according to scientists at SETI.",
-      "url": "https://phys.org/news/2026-11-game-theory-seti-alien-civilizations.html"
-    },
-    {
-      "category": "Space",
-      "title": "NASA Announces $1 Million to Students for Moon Base Challenge",
-      "source": "NASA",
-      "date": "Sun, 08 Nov 2026 15:26:38 +0000",
-      "summary": "On Sunday, NASA announced the opening of its $1 million Moon Base Student Challenge during a MAX POWER event at Kennedy Space Center Visitor Complex in Florida. As part of a Golden Age of Science, the competition invites student teams at U.S. high schools and post-secondary schools to contribute designs for the Moon Base. “We’re […]",
-      "url": "https://www.nasa.gov/news-release/nasa-announces-1-million-to-students-for-moon-base-challenge/"
-    },
-    {
       "category": "Space",
       "title": " On this day in space! Nov. 8, 2005: Europe launches Venus Express, its first mission to Venus ",
       "source": " Latest from Space.com ",
       "date": "Sun, 08 Nov 2026 15:25:42 +0000",
       "summary": "On Nov. 8, 2005, Europe launched its first mission to Venus. Here's why Venus Express mattered.",
       "url": "https://www.space.com/space-exploration/on-this-day-in-space-november-8-2026"
-    },
-    {
-      "category": "Science",
-      "title": "'Stupendously large' primordial black holes ruled out as a dark matter source",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sun, 08 Nov 2026 09:40:01 EST",
-      "summary": "Primordial black holes are hypothetical objects that could have formed directly from dense clumps of matter in the very early universe. If they exist, their dramatic origins would set them apart from the black holes we see today, which form when massive stars collapse. Some theories suggest that \"stupendously large\" primordial black holes could account for a significant share of the universe's elusive dark matter.",
-      "url": "https://phys.org/news/2026-11-stupendously-large-primordial-black-holes.html"
     },
     {
       "category": "Science",
@@ -116,27 +116,11 @@
     },
     {
       "category": "Science",
-      "title": " How frequently did Viking women fight in battle? ",
-      "source": " Latest from Live Science ",
-      "date": "Sun, 08 Nov 2026 10:00:00 +0000",
-      "summary": "The Vikings are famous for being warriors, but how frequently did Viking women take part in battles?",
-      "url": "https://www.livescience.com/archaeology/vikings/how-frequently-did-viking-women-fight-in-battle"
-    },
-    {
-      "category": "Science",
       "title": "Ancient Siberian tomb reveals surprising secrets of cannabis use 2,800 years ago",
       "source": "All Top News -- ScienceDaily",
       "date": "Sun, 08 Nov 2026 03:14:23 EST",
       "summary": "Scientists investigating a 2,800-year-old Siberian tomb discovered roughly 1,000 cannabis seeds and chemical evidence suggesting ancient Scythians used the plant for its intoxicating effects. The remarkable find, surrounded by evidence of elaborate burial rituals and animal sacrifices, offers the oldest directly dated archaeological evidence of psychoactive cannabis use.",
       "url": "https://www.sciencedaily.com/releases/2026/11/261106174528.htm"
-    },
-    {
-      "category": "Space",
-      "title": "APOD: 2026 November 8 – Major Fireball Meteor",
-      "source": "NASA",
-      "date": "Sun, 08 Nov 2026 05:05:00 +0000",
-      "summary": "APOD Science APOD APOD: 2026 November 8 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Major Fireball Meteor […]",
-      "url": "https://science.nasa.gov/image-article/apod-2026-november-8-major-fireball-meteor/"
     },
     {
       "category": "Theology",
@@ -153,14 +137,6 @@
       "date": "Sat, 07 Nov 2026 18:34:19 EST",
       "summary": "Scientists have discovered a surprising quantum limit that prevents electrons from being tracked with unlimited precision in both space and time. The breakthrough could pave the way for manipulating chemical reactions and developing electronics hundreds of thousands of times faster than today's technology.",
       "url": "https://www.sciencedaily.com/releases/2026/11/261106174537.htm"
-    },
-    {
-      "category": "Space",
-      "title": "NASA Awards Moon Base Transportation, Technology, Science Projects",
-      "source": "NASA",
-      "date": "Sat, 07 Nov 2026 22:47:03 +0000",
-      "summary": "NASA announced a suite of awards and mission updates on Saturday to expand the agency’s Moon Base exploration, science, and infrastructure capabilities. The investments will advance commercial robotic deliveries, a nuclear-powered rover named PROMISE, launch and orbital transfer services, and surface infrastructure as the agency works with American industry to establish a sustained presence on […]",
-      "url": "https://www.nasa.gov/news-release/nasa-awards-moon-base-transportation-technology-science-projects/"
     },
     {
       "category": "AI",
