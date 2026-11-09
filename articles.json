@@ -1,54 +1,214 @@
 {
-  "lastUpdated": "2026-11-09T01:20:11.857Z",
-  "articleCount": 36,
+  "lastUpdated": "2026-11-09T20:19:02.934Z",
+  "articleCount": 39,
   "articles": [
     {
       "category": "Science",
-      "title": "Radiocarbon analysis uncovers possible traces of hidden earthquakes off Japan's coast",
+      "title": "Tiny beetle trapped in 53-million-year-old amber is named after Twenty One Pilots",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Sun, 08 Nov 2026 20:00:01 EST",
-      "summary": "Researchers at the University of Tokyo have used a new type of radiocarbon analysis to study a sediment core taken from the Kumano Sea off the coast of Japan. This has revealed multiple \"hidden\" traces of previously unknown earthquakes in the Nankai Trough, where the country's next megaquake is expected to occur. Reconstructing a more accurate picture of the past will help predict future geophysical events and prepare for potential disasters. The work is published in Radiocarbon.",
-      "url": "https://phys.org/news/2026-11-radiocarbon-analysis-uncovers-hidden-earthquakes.html"
-    },
-    {
-      "category": "AI",
-      "title": "Unlocking any car from X brand in most of the world",
-      "source": "Hacker News: Front Page",
-      "date": "Mon, 09 Nov 2026 00:10:50 +0000",
-      "summary": "Article URL: https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/\nComments URL: https://news.ycombinator.com/item?id=50419215\nPoints: 23\n# Comments: 13",
-      "url": "https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/"
+      "date": "Mon, 09 Nov 2026 15:04:16 EST",
+      "summary": "Preserved in amber for about 53 million years, a beetle has been described as a new species by researchers in Spain and France. Named Cnopus twentyonepilotorum, it is the first puppet beetle (family Aderidae) to be formally described from the Oise amber of northern France. The findings are published in the journal ZooKeys.",
+      "url": "https://phys.org/news/2026-11-tiny-beetle-million-year-amber.html"
     },
     {
       "category": "Science",
-      "title": "Small histone differences help shape gene regulation during sperm development",
+      "title": "Chimpanzees blowing raspberries offer first evidence of learned vocal conventions in great ape communication",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Sun, 08 Nov 2026 19:10:01 EST",
-      "summary": "Researchers from Kyushu University have found that H3mm15, a histone H3.3 subvariant, contributes to normal sperm development in mice by helping regulate gene expression during spermatogenesis. The findings show that H3mm15 cannot be interchanged with conventional H3.3; although the proteins differ at only three amino acids, they behave differently in chromatin, the DNA-protein structure that packages genetic material.",
-      "url": "https://phys.org/news/2026-11-small-histone-differences-gene-sperm.html"
-    },
-    {
-      "category": "AI",
-      "title": "Herb Sutter: When a language's creator and its owners strongly disagree [pdf]",
-      "source": "Hacker News: Front Page",
-      "date": "Sun, 08 Nov 2026 23:28:01 +0000",
-      "summary": "Article URL: https://isocpp.org/files/papers/P4454R0.pdf\nComments URL: https://news.ycombinator.com/item?id=50418818\nPoints: 47\n# Comments: 31",
-      "url": "https://isocpp.org/files/papers/P4454R0.pdf"
-    },
-    {
-      "category": "AI",
-      "title": "Chimera Vocal Synth",
-      "source": "Hacker News: Front Page",
-      "date": "Sun, 08 Nov 2026 22:36:03 +0000",
-      "summary": "Article URL: https://chimera-vocal-synth.vercel.app/\nComments URL: https://news.ycombinator.com/item?id=50418182\nPoints: 75\n# Comments: 10",
-      "url": "https://chimera-vocal-synth.vercel.app/"
+      "date": "Mon, 09 Nov 2026 15:00:10 EST",
+      "summary": "Chimpanzees may learn how to use some of their calls from the adults around them, in a surprising parallel with how human children learn words, finds a study from the CNRS Institute of Cognitive Sciences, University of Warwick and Taï Chimpanzee Project.",
+      "url": "https://phys.org/news/2026-11-chimpanzees-raspberries-evidence-vocal-conventions.html"
     },
     {
       "category": "Science",
-      "title": "Liquid-assisted crystal growth cuts perovskite defects for efficient solar cells and LEDs",
+      "title": "Don't study alone: New research shows how loneliness impacts student health—and how universities can help",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Sun, 08 Nov 2026 17:00:01 EST",
-      "summary": "A research team led by professor Seong Sik Shin of the SKKU Advanced Institute of Nanotechnology (SAINT) at Sungkyunkwan University (SKKU), in international collaboration with the Korea Research Institute of Chemical Technology (KRICT), the University of California, San Diego, and Princeton University, has developed a next-generation perovskite semiconductor thin film with dramatically reduced defects. Using the same material platform, the researchers demonstrated both high-performance solar cells and LEDs.",
-      "url": "https://phys.org/news/2026-11-liquid-crystal-growth-perovskite-defects.html"
+      "date": "Mon, 09 Nov 2026 15:00:05 EST",
+      "summary": "The negative impact of loneliness on health and well-being is well known, but for university students, social interaction can also be key to academic success. A new study by Constructor University professor Dr. Sonia Lippke and colleagues, published in the journal Frontiers in Psychology, analyzes the effects of student loneliness on health and academics and lays out concrete steps that universities can take to mitigate them.",
+      "url": "https://phys.org/news/2026-11-dont-loneliness-impacts-student-health.html"
+    },
+    {
+      "category": "AI",
+      "title": "Vulnerability that lets hackers SSH into Linux devices is under active exploitation",
+      "source": "Ars Technica - All content",
+      "date": "Mon, 09 Nov 2026 19:41:34 +0000",
+      "summary": "\"*sshole\" poses a serious threat to Internet security.",
+      "url": "https://arstechnica.com/security/2026/11/vulnerability-that-lets-hackers-ssh-into-linux-devices-is-under-active-exploitation/"
+    },
+    {
+      "category": "AI",
+      "title": "CUI – Native UI components for C",
+      "source": "Hacker News: Front Page",
+      "date": "Mon, 09 Nov 2026 19:35:16 +0000",
+      "summary": "Article URL: https://yappologistic.github.io/CUI/\nComments URL: https://news.ycombinator.com/item?id=50430621\nPoints: 27\n# Comments: 3",
+      "url": "https://yappologistic.github.io/CUI/"
+    },
+    {
+      "category": "AI",
+      "title": "Iran was behind cyber-attack on French supermarket freezers, Paris says",
+      "source": "Hacker News: Front Page",
+      "date": "Mon, 09 Nov 2026 19:33:09 +0000",
+      "summary": "Article URL: https://www.theguardian.com/world/2026/nov/09/france-blames-irans-revolutionary-guards-for-cyber-attacks-on-supermarket-fridges\nComments URL: https://news.ycombinator.com/item?id=50430585\nPoints: 17\n# Comments: 7",
+      "url": "https://www.theguardian.com/world/2026/nov/09/france-blames-irans-revolutionary-guards-for-cyber-attacks-on-supermarket-fridges"
+    },
+    {
+      "category": "Space",
+      "title": "La NASA busca a la próxima generación de astronautas",
+      "source": "NASA",
+      "date": "Mon, 09 Nov 2026 19:27:20 +0000",
+      "summary": "Read this release in English here.La NASA busca a los exploradores que ayudarán a escribir el próximo capítulo de los vuelos espaciales tripulados. Ya está abierto el plazo de inscripción para la próxima promoción de astronautas de la agencia, que se incorporarán a la NASA en un momento en el que Estados Unidos regresa a […]",
+      "url": "https://www.nasa.gov/news-release/la-nasa-busca-a-la-proxima-generacion-de-astronautas/"
+    },
+    {
+      "category": "AI",
+      "title": "Pentagon mulls placing fleet of military satellites around the Moon",
+      "source": "Ars Technica - All content",
+      "date": "Mon, 09 Nov 2026 19:08:37 +0000",
+      "summary": "\"Please jump on my cislunar bandwagon because I need some more friends here.\"",
+      "url": "https://arstechnica.com/space/2026/11/us-military-notionally-interested-in-satellite-constellation-around-moon/"
+    },
+    {
+      "category": "Space",
+      "title": " NYT bestseller ‘Robopocalypse’ is getting a TV series with Oscar winners Ron Howard and Akiva Goldsman at the helm ",
+      "source": " Latest from Space.com ",
+      "date": "Mon, 09 Nov 2026 19:00:00 +0000",
+      "summary": "Well, this should be a nice distraction from the real AI apocalypse.",
+      "url": "https://www.space.com/entertainment/space-movies-shows/nyt-bestseller-robopocalypse-is-getting-a-tv-series-with-oscar-winners-ron-howard-and-akiva-goldsman-at-the-helm"
+    },
+    {
+      "category": "AI",
+      "title": "ChatGPT Enterprise now available in AWS Marketplace",
+      "source": "OpenAI News",
+      "date": "Mon, 09 Nov 2026 19:00:00 GMT",
+      "summary": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
+      "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace"
+    },
+    {
+      "category": "AI",
+      "title": "Claude Fable 5.2 and Mythos 5.2",
+      "source": "Hacker News: Front Page",
+      "date": "Mon, 09 Nov 2026 18:56:29 +0000",
+      "summary": "Article URL: https://www.anthropic.com/claude-fable-and-mythos-5-2\nComments URL: https://news.ycombinator.com/item?id=50429906\nPoints: 480\n# Comments: 206",
+      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2"
+    },
+    {
+      "category": "Space",
+      "title": "NASA’s Chandra Finds Source of Star’s Mysterious Outbursts",
+      "source": "NASA",
+      "date": "Mon, 09 Nov 2026 18:55:50 +0000",
+      "summary": "Using NASA’s Chandra X-ray Observatory, astronomers have discovered what is triggering repeated outbursts from a giant, unstable star. A new study, published Monday in the latest issue of The Astrophysical Journal, details the discovery of a previously hidden companion object that keeps pulling material away from the massive star every 113 days as they orbit […]",
+      "url": "https://science.nasa.gov/missions/chandra/nasas-chandra-finds-source-of-stars-mysterious-outbursts/"
+    },
+    {
+      "category": "Space",
+      "title": " Starfish Space loses contact with 1st 'Otter' servicing spacecraft, ending NASA tech-demo mission ",
+      "source": " Latest from Space.com ",
+      "date": "Mon, 09 Nov 2026 18:00:00 +0000",
+      "summary": "Starfish Space's first Otter servicing spacecraft suffered a glitch in orbit recently, ending its technology-demonstrating mission for NASA.",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/starfish-space-loses-contact-with-1st-otter-servicing-spacecraft-ending-nasa-tech-demo-mission"
+    },
+    {
+      "category": "Space",
+      "title": "NASA Advanced Mid-Power Electric Rocket Challenge",
+      "source": "NASA",
+      "date": "Mon, 09 Nov 2026 17:42:42 +0000",
+      "summary": "Mid-power (3-7 kW) Hall effect thruster systems have been identified by government and industry stakeholders as critical capabilities for satellite, defense, and exploration missions. Given the need for this capability, NASA is launching the Advanced Mid-Power Electric Rocket (AMPERE) Challenge. The NASA AMPERE Challenge invites U.S. commercial companies to develop and demonstrate mid-power Hall effect […]",
+      "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-advanced-mid-power-electric-rocket-challenge/"
+    },
+    {
+      "category": "AI",
+      "title": "Claude Code is accidentally exposing secrets all over GitHub",
+      "source": "Ars Technica - All content",
+      "date": "Mon, 09 Nov 2026 17:24:26 +0000",
+      "summary": "\"Do not ask again\" prompt leads to passwords, API keys, and more being shared.",
+      "url": "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github/"
+    },
+    {
+      "category": "Space",
+      "title": " NASA just launched a $1 million Moon Base Student Challenge to award cash prizes to students that solve lunar base problems ",
+      "source": " Latest from Space.com ",
+      "date": "Mon, 09 Nov 2026 17:00:00 +0000",
+      "summary": "NASA has officially launched the Moon Base Student Challenge, asking students to help build humanity's future on the moon. And there is $1 million in prizes for the best ideas.",
+      "url": "https://www.space.com/space-exploration/nasa-just-launched-a-usd1-million-moon-base-student-challenge-to-award-cash-prizes-to-students-that-solve-lunar-base-problems"
+    },
+    {
+      "category": "History",
+      "title": "The Country People: An Agricultural History of the American Revolution",
+      "source": "Journal of the American Revolution",
+      "date": "Mon, 09 Nov 2026 13:34:25 +0000",
+      "summary": "BOOK REVIEW: The Country People: An Agricultural History of the American Revolution by R. Douglas Hurt. (Athens, GA: University of Georgia Press, 2026) $32.95 Paperback. When an army reaches a location, be it a camp or a battlefield or a city, the commanders need to figure out how to feed everyone. Did the army quartermaster […]\nThe post The Country People: An Agricultural History of the American Revolution appeared first on Journal of the American Revolution.",
+      "url": "https://allthingsliberty.com/2026/11/the-country-people-an-agricultural-history-of-the-american-revolution/"
+    },
+    {
+      "category": "Biblical Studies",
+      "title": "Citizenship in the Hebrew Bible",
+      "source": "Biblical Archaeology Society",
+      "date": "Mon, 09 Nov 2026 11:45:26 +0000",
+      "summary": "When thinking of the origins of democracy, as many are doing after election day, most point to ancient Greece. Greece indeed formalized processes and ideals […]\nThe post Citizenship in the Hebrew Bible appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-israel/citizenship-in-the-hebrew-bible/"
+    },
+    {
+      "category": "Biblical Studies",
+      "title": "World’s Oldest Cosmogony",
+      "source": "Biblical Archaeology Society",
+      "date": "Mon, 09 Nov 2026 11:00:52 +0000",
+      "summary": "The Ain Samiya goblet has been an enigma since it was first discovered in 1970, near the West Bank city of Nablus. Now, a study […]\nThe post World’s Oldest Cosmogony appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-near-eastern-world/worlds-oldest-cosmogony/"
+    },
+    {
+      "category": "Science",
+      "title": " Terracotta cockerel vase: A 2,600-year-old Etruscan inkwell featuring 26 letters of the undeciphered ancient language ",
+      "source": " Latest from Live Science ",
+      "date": "Mon, 09 Nov 2026 11:00:00 +0000",
+      "summary": "This tiny inkwell contains an alphabetic inscription in ancient Etruscan, a language that has never been fully decoded.",
+      "url": "https://www.livescience.com/archaeology/terracotta-cockerel-vase-a-2-600-year-old-etruscan-inkwell-featuring-26-letters-of-the-undeciphered-ancient-language"
+    },
+    {
+      "category": "Science",
+      "title": "NASA reveals bold new plan to return astronauts to the Moon in 2028",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Mon, 09 Nov 2026 04:13:28 EST",
+      "summary": "NASA has revealed an accelerated plan to land astronauts on the Moon in 2028, with SpaceX and Blue Origin developing competing lunar landers and a crucial orbital test scheduled for 2027. Faster rocket preparations, new lightweight spacesuits, and redesigned missions could help pave the way for a permanent lunar presence and future human exploration of Mars.",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261108233054.htm"
+    },
+    {
+      "category": "AI",
+      "title": "Kuken Industries searches 70 years of drawings in minutes",
+      "source": "OpenAI News",
+      "date": "Mon, 09 Nov 2026 08:00:00 GMT",
+      "summary": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down from nearly an hour.",
+      "url": "https://openai.com/index/kuken"
+    },
+    {
+      "category": "Theology",
+      "title": "Build a Culture of Evangelism",
+      "source": "The Gospel Coalition",
+      "date": "Mon, 09 Nov 2026 05:04:36 +0000",
+      "summary": "Matt Smethurst and Ligon Duncan discuss how pastors can build a culture of evangelism by modeling gospel conversations, equipping church members to share their faith, and making evangelism a natural part of church life.",
+      "url": "https://www.thegospelcoalition.org/podcasts/everyday-pastor/build-culture-evangelism/"
+    },
+    {
+      "category": "Theology",
+      "title": "Train Women to Teach the Bible: A 4-Week Plan",
+      "source": "The Gospel Coalition",
+      "date": "Mon, 09 Nov 2026 05:02:00 +0000",
+      "summary": "Bible studies are the heartbeat of women’s ministries in many churches. But where do we find teachers?",
+      "url": "https://www.thegospelcoalition.org/article/train-women-teach-bible/"
+    },
+    {
+      "category": "Theology",
+      "title": "When Morningness Is Confused with Godliness",
+      "source": "The Gospel Coalition",
+      "date": "Mon, 09 Nov 2026 05:00:00 +0000",
+      "summary": "Could it be possible that our idealizing of morning quiet times is more cultural than biblical?",
+      "url": "https://www.thegospelcoalition.org/article/morningness-confused-godliness/"
+    },
+    {
+      "category": "Science",
+      "title": "DNA on the Shroud of Turin reveals centuries of hidden secrets",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Sun, 08 Nov 2026 21:48:24 EST",
+      "summary": "The Shroud of Turin, one of history's most mysterious religious artifacts, is yielding surprising new clues through DNA analysis. Scientists have uncovered a complex mixture of biological traces that may reveal more about the cloth's past and the environments it encountered. The findings offer a fresh scientific perspective on a centuries-old mystery that continues to spark fascination and debate.",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261108202703.htm"
     },
     {
       "category": "Science",
@@ -59,22 +219,6 @@
       "url": "https://www.livescience.com/health/sleep/would-you-learn-to-lucid-dream-if-you-could"
     },
     {
-      "category": "Space",
-      "title": " Legendary sci-fi magazine 'Starlog' returns as a yearly release, just in time for its 50th anniversary ",
-      "source": " Latest from Space.com ",
-      "date": "Sun, 08 Nov 2026 16:00:00 +0000",
-      "summary": "Before the rise of online entertainment sites, this is where genre fans got their news",
-      "url": "https://www.space.com/entertainment/legendary-sci-fi-magazine-starlog-returns-as-a-yearly-release-just-in-time-for-its-50th-anniversary"
-    },
-    {
-      "category": "Space",
-      "title": " On this day in space! Nov. 8, 2005: Europe launches Venus Express, its first mission to Venus ",
-      "source": " Latest from Space.com ",
-      "date": "Sun, 08 Nov 2026 15:25:42 +0000",
-      "summary": "On Nov. 8, 2005, Europe launched its first mission to Venus. Here's why Venus Express mattered.",
-      "url": "https://www.space.com/space-exploration/on-this-day-in-space-november-8-2026"
-    },
-    {
       "category": "Science",
       "title": " Rare fifth-century burials of Germanic chieftains with dazzling weapons and warhorses discovered in France ",
       "source": " Latest from Live Science ",
@@ -83,52 +227,12 @@
       "url": "https://www.livescience.com/archaeology/rare-fifth-century-burials-of-germanic-chieftains-with-dazzling-weapons-and-warhorses-discovered-in-france"
     },
     {
-      "category": "Space",
-      "title": " Who is King Ghidorah? The cosmic connections of Godzilla Minus Zero's foe ",
-      "source": " Latest from Space.com ",
-      "date": "Sun, 08 Nov 2026 13:00:00 +0000",
-      "summary": "Godzilla will go toe-to-toe with long-time foe King Ghidorah in Godzilla Minus Zero. This three-headed Kaiju's origins aren't just space-based; one of the largest structures in the universe shares its name.",
-      "url": "https://www.space.com/entertainment/space-movies-shows/who-is-king-ghidorah-the-cosmic-connections-of-godzilla-minus-zeros-foe"
-    },
-    {
-      "category": "AI",
-      "title": "Physicists listened to electrical noise to crack a superconductor mystery",
-      "source": "Ars Technica - All content",
-      "date": "Sun, 08 Nov 2026 12:15:31 +0000",
-      "summary": "Tuning in to electronic noise can tell us whether electrons have paired up or not.",
-      "url": "https://arstechnica.com/science/2026/11/physicists-listened-to-electrical-noise-to-crack-a-superconductor-mystery/"
-    },
-    {
-      "category": "Science",
-      "title": " NASA's destroyed Swift Observatory took one of the best-ever photos of bright Andromeda ",
-      "source": " Latest from Live Science ",
-      "date": "Sun, 08 Nov 2026 11:00:00 +0000",
-      "summary": "NASA's Swift Observatory went out in a blaze of glory this week, but it left behind millions of images of the universe that could fuel discoveries for decades.",
-      "url": "https://www.livescience.com/space/astronomy/nasas-destroyed-swift-observatory-took-one-of-the-best-ever-photos-of-bright-andromeda-space-photo-of-the-week"
-    },
-    {
-      "category": "Science",
-      "title": "A nuclear blast could save Earth from an asteroid, but there's a catch",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Sun, 08 Nov 2026 05:11:25 EST",
-      "summary": "A nuclear explosion might save Earth from a deadly asteroid, but new research suggests that hitting the wrong side could make the difference between success and disaster. Scientists found that an asteroid's irregular shape can dramatically affect how it responds to an X-ray blast, with deflection effectiveness varying nearly fivefold depending on the angle.",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261106174532.htm"
-    },
-    {
-      "category": "Science",
-      "title": "Ancient Siberian tomb reveals surprising secrets of cannabis use 2,800 years ago",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Sun, 08 Nov 2026 03:14:23 EST",
-      "summary": "Scientists investigating a 2,800-year-old Siberian tomb discovered roughly 1,000 cannabis seeds and chemical evidence suggesting ancient Scythians used the plant for its intoxicating effects. The remarkable find, surrounded by evidence of elaborate burial rituals and animal sacrifices, offers the oldest directly dated archaeological evidence of psychoactive cannabis use.",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261106174528.htm"
-    },
-    {
-      "category": "Theology",
-      "title": "Contend Without Being Contentious",
-      "source": "The Gospel Coalition",
-      "date": "Sun, 08 Nov 2026 05:00:00 +0000",
-      "summary": "In an age marked by theological compromise and unnecessary outrage, we need church leaders who can do more than win arguments.",
-      "url": "https://www.thegospelcoalition.org/article/contend-not-contentious/"
+      "category": "Biblical Studies",
+      "title": "Widows in the Bible",
+      "source": "Biblical Archaeology Society",
+      "date": "Sun, 08 Nov 2026 12:00:24 +0000",
+      "summary": "In a Biblical Views column, Robin Gallaher Branch presents several examples of how, in the Bible, widows can serve as special textual markers to alert readers that something significant is about to happen.\nThe post Widows in the Bible appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/daily/people-cultures-in-the-bible/people-in-the-bible/widows-in-the-bible/"
     },
     {
       "category": "Science",
@@ -139,38 +243,6 @@
       "url": "https://www.sciencedaily.com/releases/2026/11/261106174537.htm"
     },
     {
-      "category": "AI",
-      "title": "The Bantu expansion changed Africa. Scientists are still tracing how.",
-      "source": "Ars Technica - All content",
-      "date": "Sat, 07 Nov 2026 12:15:55 +0000",
-      "summary": "Genes and archaeology are revealing how Bantu speakers spread across much of Africa.",
-      "url": "https://arstechnica.com/science/2026/11/the-migration-that-transformed-africas-languages-genes-and-cultures/"
-    },
-    {
-      "category": "AI",
-      "title": "British soldier ignored order to pull his SIM card, then got blackmailed",
-      "source": "Ars Technica - All content",
-      "date": "Sat, 07 Nov 2026 11:00:34 +0000",
-      "summary": "Soldier told repeatedly to lock down devices before deploying, got sextorted, court-martialed.",
-      "url": "https://arstechnica.com/security/2026/11/british-soldier-ignored-order-to-pull-his-sim-card-then-got-blackmailed/"
-    },
-    {
-      "category": "Theology",
-      "title": "Editor’s Pick: New Children’s Picture Books",
-      "source": "The Gospel Coalition",
-      "date": "Sat, 07 Nov 2026 05:02:00 +0000",
-      "summary": "Let these stories remind you to enjoy the goodness of the moment and, even as it changes to something new, that God’s goodness is everlasting.",
-      "url": "https://www.thegospelcoalition.org/reviews/picture-books-fall-2026/"
-    },
-    {
-      "category": "Theology",
-      "title": "How Memorizing the Sermon on the Mount Reorders My Heart",
-      "source": "The Gospel Coalition",
-      "date": "Sat, 07 Nov 2026 05:00:00 +0000",
-      "summary": "In a world where algorithms capture our affections and lure us online via our cravings, one of the most effective resistance strategies we can employ is to study and memorize Scripture—especially the Sermon on the Mount.",
-      "url": "https://www.thegospelcoalition.org/article/memorize-sermon-mount-heart/"
-    },
-    {
       "category": "Theology",
       "title": "Salvation Makes You Part of a Family: The Corporate Component of Conversion",
       "source": "9Marks",
@@ -179,52 +251,12 @@
       "url": "https://www.9marks.org/article/salvation-makes-you-part-of-a-family-the-corporate-component-of-conversion/?utm_source=rss&utm_medium=rss&utm_campaign=salvation-makes-you-part-of-a-family-the-corporate-component-of-conversion"
     },
     {
-      "category": "Biblical Studies",
-      "title": "Finding Paul in Damascus",
-      "source": "Biblical Archaeology Society",
-      "date": "Fri, 06 Nov 2026 11:45:56 +0000",
-      "summary": "Enjoying a light breakfast of yogurt, cheese, and local coffee, I opened an email announcing the Summer issue of Biblical Archaeology Review. One story caught […]\nThe post Finding Paul in Damascus appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-rome/finding-paul-in-damascus/"
-    },
-    {
-      "category": "Biblical Studies",
-      "title": "Lamenting the Fall of Jerusalem",
-      "source": "Biblical Archaeology Society",
-      "date": "Fri, 06 Nov 2026 11:00:11 +0000",
-      "summary": "Without a doubt, one of the most significant events within the Hebrew bible is the fall of Jerusalem to the Babylonians in 586 BCE. It […]\nThe post Lamenting the Fall of Jerusalem appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-near-eastern-world/lamenting-the-fall-of-jerusalem/"
-    },
-    {
       "category": "AI",
       "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
       "source": "OpenAI News",
       "date": "Fri, 06 Nov 2026 08:00:00 GMT",
       "summary": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
       "url": "https://openai.com/index/partnering-with-hacktron"
-    },
-    {
-      "category": "AI",
-      "title": "Measuring how AI agents handle everyday wet-lab science",
-      "source": "OpenAI News",
-      "date": "Fri, 06 Nov 2026 00:00:00 GMT",
-      "summary": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
-      "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science"
-    },
-    {
-      "category": "AI",
-      "title": "Australian universities are creating AI-native graduates",
-      "source": "OpenAI News",
-      "date": "Thu, 05 Nov 2026 17:00:00 GMT",
-      "summary": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce.",
-      "url": "https://openai.com/index/australian-universities-ai-native-graduates"
-    },
-    {
-      "category": "Biblical Studies",
-      "title": "Where Was Mary Magdalene From?",
-      "source": "Biblical Archaeology Society",
-      "date": "Thu, 05 Nov 2026 12:00:37 +0000",
-      "summary": "Where was Mary Magdalene from? According to early Christian tradition, the famous disciple of Jesus was from a town called Magdala, hence her name, Mary […]\nThe post Where Was Mary Magdalene From? appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/daily/biblical-sites-places/biblical-archaeology-sites/where-was-mary-magdalene-from/"
     },
     {
       "category": "History",
@@ -257,14 +289,6 @@
       "date": "Mon, 02 Nov 2026 21:45:20 +0000",
       "summary": "Godly grief leads to mourning over sin, not simply its consequences.\nThe post Discerning Between Godly and Worldly Grief appeared first on 9Marks.",
       "url": "https://www.9marks.org/article/discerning-between-godly-and-worldly-grief/?utm_source=rss&utm_medium=rss&utm_campaign=discerning-between-godly-and-worldly-grief"
-    },
-    {
-      "category": "History",
-      "title": "Georgia’s First Elected Governor: John Adam Treutlen and the American Revolution",
-      "source": "Journal of the American Revolution",
-      "date": "Mon, 02 Nov 2026 16:48:00 +0000",
-      "summary": "BOOK REVIEW: Georgia’s First Elected Governor: John Adam Treutlen and the American Revolution by W. Wright Mitchell (Independently Published, 2026) $25.00 paperback. The colonial and Revolutionary War histories of Georgia have received comparatively little historical attention. This is also true for many of Georgia’s Patriot and Loyalist political and military leaders. W. Wright Mitchell’s biography […]\nThe post Georgia’s First Elected Governor: John Adam Treutlen and the American Revolution appeared first on Journal of the American Revolution.",
-      "url": "https://allthingsliberty.com/2026/11/georgias-first-elected-governor-john-adam-treutlen-and-the-american-revolution/"
     },
     {
       "category": "History",
