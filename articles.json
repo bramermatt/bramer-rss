@@ -1,38 +1,230 @@
 {
-  "lastUpdated": "2026-11-10T03:54:41.214Z",
-  "articleCount": 36,
+  "lastUpdated": "2026-11-10T17:24:15.257Z",
+  "articleCount": 39,
   "articles": [
     {
+      "category": "Theology",
+      "title": "Don’t Forget the Great Commission When You Counsel",
+      "source": "9Marks",
+      "date": "Tue, 10 Nov 2026 17:23:25 +0000",
+      "summary": "The Great Commission, then, is for fearful, doubting, weak, disbelieving disciples, who need to be reminded of Jesus’s power and authority.\nThe post Don’t Forget the Great Commission When You Counsel appeared first on 9Marks.",
+      "url": "https://www.9marks.org/article/dont-forget-the-great-commission-when-you-counsel/?utm_source=rss&utm_medium=rss&utm_campaign=dont-forget-the-great-commission-when-you-counsel"
+    },
+    {
       "category": "Science",
-      "title": "Math anxiety may be stopping students from learning useful AI and data skills",
+      "title": "Cool adaptations: How fish survive in the Antarctic Ocean",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Mon, 09 Nov 2026 22:40:07 EST",
-      "summary": "Artificial intelligence is increasingly becoming part of everyday life and work. AI can generate information, summarize evidence and perform calculations. However, it does not remove the need for critical thinking and conceptual understanding.",
-      "url": "https://phys.org/news/2026-11-math-anxiety-students-ai-skills.html"
+      "date": "Tue, 10 Nov 2026 12:20:13 EST",
+      "summary": "With water temperatures as low as -1.9°C (28.6°F), the Southern Ocean is a place of extreme living conditions. A new study led by Senckenberg researchers shows how fish have adapted to Antarctic temperatures. The researchers used the Antarctic spiny plunderfish (Harpagifer antarcticus) as a model organism and, for the first time, analyzed the maternal and paternal copies of its genome separately. This allowed them to uncover mechanisms that contribute to this group of fishes' adaptation to extreme cold.",
+      "url": "https://phys.org/news/2026-11-cool-fish-survive-antarctic-ocean.html"
+    },
+    {
+      "category": "Science",
+      "title": "Q&A: Exploring generative AI's impact on student thinking during programming and debugging",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Tue, 10 Nov 2026 12:20:09 EST",
+      "summary": "The doctoral dissertation of Yazid Albadarin, MSc, entitled \"Capturing the impact of generative AI on higher-order thinking, creativity, and cognitive dynamics during debugging\" will be examined at the Faculty of Science, Forestry and Technology, Joensuu campus.",
+      "url": "https://phys.org/news/2026-11-qa-exploring-generative-ai-impact.html"
     },
     {
       "category": "AI",
-      "title": "CoreWeave bond yield tops 16% as AI credit stress rises",
+      "title": "AMD's Zen 6 Family: Feeding the Beast",
       "source": "Hacker News: Front Page",
-      "date": "Tue, 10 Nov 2026 03:20:06 +0000",
-      "summary": "Article URL: https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html\nComments URL: https://news.ycombinator.com/item?id=50435660\nPoints: 6\n# Comments: 0",
-      "url": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html"
+      "date": "Tue, 10 Nov 2026 17:02:32 +0000",
+      "summary": "Article URL: https://chipsandcheese.com/p/amds-zen-6-family-feeding-the-beast\nComments URL: https://news.ycombinator.com/item?id=50443090\nPoints: 3\n# Comments: 0",
+      "url": "https://chipsandcheese.com/p/amds-zen-6-family-feeding-the-beast"
     },
     {
       "category": "Science",
-      "title": "Light-pulse pairs reveal the femtosecond decay of an inner-shell hole in xenon atoms",
+      "title": "Laser-driven magnetic state defies equilibrium rules",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Mon, 09 Nov 2026 21:20:06 EST",
-      "summary": "Researchers at the UVSOR Synchrotron Facility (Institute for Molecular Science, Japan) and partner institutions have observed the decay of a xenon 4d core hole, an inner-shell vacancy, directly in the time domain. They used pairs of phase-coherent extreme ultraviolet pulses from a synchrotron to make the photoelectron wave packets they released interfere. The contrast of the interference fringes decreased over a few femtoseconds as the delay between the pulses increased. A model using literature core-hole lifetimes of about 6 femtoseconds reproduced this rapid decay of the fringe contrast. The study is published in the journal Physical Review A.",
-      "url": "https://phys.org/news/2026-11-pulse-pairs-reveal-femtosecond-decay.html"
+      "date": "Tue, 10 Nov 2026 12:00:10 EST",
+      "summary": "Researchers at the Department of Energy's (DOE's) Oak Ridge National Laboratory (ORNL) and their collaborators used lasers and neutrons to observe a long-lived quantum state in a magnetic material, opening a new way to study materials systems driven far from their equilibrium. Manipulation of quantum magnets is important for advancing quantum information science and could reduce loss of transported information, improve memory devices and benefit other quantum technologies.",
+      "url": "https://phys.org/news/2026-11-laser-driven-magnetic-state-defies.html"
+    },
+    {
+      "category": "Space",
+      "title": " Were there 'lost cosmonauts' in the early Soviet space program? ",
+      "source": " Latest from Space.com ",
+      "date": "Tue, 10 Nov 2026 17:00:00 +0000",
+      "summary": "At the height of the Cold War, two amateur radio operators alleged they intercepted signals from Soviet cosmonauts who perished during missions that remained secret.",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/were-there-lost-cosmonauts-in-the-early-soviet-space-program"
+    },
+    {
+      "category": "AI",
+      "title": ".name Grandfathered",
+      "source": "Hacker News: Front Page",
+      "date": "Tue, 10 Nov 2026 16:37:44 +0000",
+      "summary": "Article URL: https://neil.fraser.name/news/2026/11/10/\nComments URL: https://news.ycombinator.com/item?id=50442736\nPoints: 83\n# Comments: 7",
+      "url": "https://neil.fraser.name/news/2026/11/10/"
+    },
+    {
+      "category": "AI",
+      "title": "Tailscale's DNS IPv6 spells out \"Tailscale\"",
+      "source": "Hacker News: Front Page",
+      "date": "Tue, 10 Nov 2026 16:34:45 +0000",
+      "summary": "Article URL: https://www.reddit.com/r/Tailscale/comments/1xsr24r/tailscales_dns_ipv6_spells_out_tailscale_easter/\nComments URL: https://news.ycombinator.com/item?id=50442691\nPoints: 31\n# Comments: 14",
+      "url": "https://www.reddit.com/r/Tailscale/comments/1xsr24r/tailscales_dns_ipv6_spells_out_tailscale_easter/"
+    },
+    {
+      "category": "AI",
+      "title": "High oil prices have led to a dip in global carbon emissions",
+      "source": "Ars Technica - All content",
+      "date": "Tue, 10 Nov 2026 16:29:27 +0000",
+      "summary": "Bucking recent trends, fossil fuel emissions look to be down 0.4 percent.",
+      "url": "https://arstechnica.com/science/2026/11/carbon-emissions-are-down-this-year-but-that-probably-wont-last/"
+    },
+    {
+      "category": "AI",
+      "title": "One space station company sues another for copying its work",
+      "source": "Ars Technica - All content",
+      "date": "Tue, 10 Nov 2026 16:17:51 +0000",
+      "summary": "\"NASA advised that Vast’s submission in some locations substituted 'the PAM Provider' for Axiom\"",
+      "url": "https://arstechnica.com/space/2026/11/one-space-station-company-sues-another-for-copying-its-work/"
+    },
+    {
+      "category": "Space",
+      "title": "NASA Scientists Show How Gravitational Waves Can Reveal New Worlds",
+      "source": "NASA",
+      "date": "Tue, 10 Nov 2026 16:00:26 +0000",
+      "summary": "The LISA (Laser Interferometer Space Antenna) observatory, now in development, will detect gravitational waves, the tiny ripples in space-time caused by orbiting masses. Now two studies led by NASA astrophysicists show in new detail how LISA could reveal a new and unique population of exoplanets — worlds beyond our solar system — throughout our galaxy.  […]",
+      "url": "https://science.nasa.gov/missions/lisa/gravitational-waves-can-reveal-new-worlds/"
+    },
+    {
+      "category": "Space",
+      "title": " A robot just built a structure autonomously in space for the 1st time ever ",
+      "source": " Latest from Space.com ",
+      "date": "Tue, 10 Nov 2026 16:00:00 +0000",
+      "summary": "A robot built part of an antenna in orbit recently, showcasing skills that could potentially allow the assembly of space telescopes and other large structures off Earth.",
+      "url": "https://www.space.com/technology/a-robot-just-built-a-structure-autonomously-in-space-for-the-1st-time-ever"
+    },
+    {
+      "category": "AI",
+      "title": "DeepMind reveals Gemini Robotics 2.5 and open safety benchmark \"ASIMOV-jailbreak\"",
+      "source": "Ars Technica - All content",
+      "date": "Tue, 10 Nov 2026 15:00:39 +0000",
+      "summary": "The new model is up to twice as successful at some tasks.",
+      "url": "https://arstechnica.com/google/2026/11/deepmind-reveals-gemini-robotics-2-5-and-open-safety-benchmark-asimov-jailbreak/"
+    },
+    {
+      "category": "Space",
+      "title": " Curiosity Mars rover sizes up new 'Nazca' dig site | Space photo of the day for Nov. 10, 2026 ",
+      "source": " Latest from Space.com ",
+      "date": "Tue, 10 Nov 2026 15:00:00 +0000",
+      "summary": "NASA's Curiosity Mars rover is sizing up its next dig site on the Red Planet. The Curiosity team will characterize the surface composition of \"Nazca\" as thoroughly as possible before drilling.",
+      "url": "https://www.space.com/astronomy/mars/curiosity-mars-rover-sizes-up-new-nazca-dig-site-space-photo-of-the-day-for-nov-10-2026"
+    },
+    {
+      "category": "Space",
+      "title": "CHAPEA Crew Leaves a Mark",
+      "source": "NASA",
+      "date": "Tue, 10 Nov 2026 14:57:55 +0000",
+      "summary": "The Crew Health and Performance Exploration Analog (CHAPEA) Mission 2 crew arranged photos around a boot print in the simulated Martian sand outside their habitat on Aug. 31, 2026. The crew recently exited their habitat on Saturday, Oct. 31, after 378 days of isolation in a facility at the agency’s Johnson Space Center in Houston. Health […]",
+      "url": "https://www.nasa.gov/image-article/chapea-crew-leaves-a-mark/"
     },
     {
       "category": "Science",
-      "title": "AI-assisted atomic models reveal how protective shells regulate aluminum nanoparticle oxidation",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Mon, 09 Nov 2026 21:00:01 EST",
-      "summary": "Building an accurate model of how atoms interact is a complicated process. Researchers must choose new calculations, test successive models and track the mechanisms behind each interaction. But a newly developed AI agent called MLP Copilot has made this process much easier by bridging computational tools and scientific evidence with human supervision.",
-      "url": "https://phys.org/news/2026-11-ai-atomic-reveal-shells-aluminum.html"
+      "title": " ZWO Seestar S30 Plus review ",
+      "source": " Latest from Live Science ",
+      "date": "Tue, 10 Nov 2026 14:00:00 +0000",
+      "summary": "We tested the brand-new ZWO Seestar S30 Plus, an all-in-one smart telescope for beginners and hobbyists that makes astrophotography accessible to everyone.",
+      "url": "https://www.livescience.com/products/optics/zwo-seestar-s30-plus-review"
+    },
+    {
+      "category": "Biblical Studies",
+      "title": "Machaerus: Beyond the Beheading of John the Baptist",
+      "source": "Biblical Archaeology Society",
+      "date": "Tue, 10 Nov 2026 12:00:54 +0000",
+      "summary": "According to the Gospels, Herod Antipas had John the Baptist imprisoned and killed at the request of the beautiful Salome. Josephus locates the event at Machaerus. The archaeological finds paint a clear picture of this magnificent site’s colorful but bloody history.\nThe post Machaerus: Beyond the Beheading of John the Baptist appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/daily/biblical-sites-places/biblical-archaeology-sites/machaerus-beyond-the-beheading-of-john-the-baptist/"
+    },
+    {
+      "category": "Biblical Studies",
+      "title": "A Biblical Spice Rack",
+      "source": "Biblical Archaeology Society",
+      "date": "Tue, 10 Nov 2026 12:00:27 +0000",
+      "summary": "The brevity of life is compared to the delicate bloom of the caper in one of the Bible’s many references to fragrant and edible plants. Enjoy a glimpse of some of these plants. \nThe post A Biblical Spice Rack appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/daily-life-and-practice/bible-herbs-spices/"
+    },
+    {
+      "category": "AI",
+      "title": "Helping caregivers use AI in everyday life",
+      "source": "OpenAI News",
+      "date": "Tue, 10 Nov 2026 12:00:00 GMT",
+      "summary": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
+      "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life"
+    },
+    {
+      "category": "Science",
+      "title": " 'The first species we might be able to communicate with, interact with vocally, might be a bird': An animal researcher explains how she decoded birdsong ",
+      "source": " Latest from Live Science ",
+      "date": "Tue, 10 Nov 2026 11:00:00 +0000",
+      "summary": "Julie Elie, an ethologist at the University of California,  Berkeley, tells Live Science about using AI to decode the vocalizations of zebra finches.",
+      "url": "https://www.livescience.com/animals/birds/the-first-species-we-might-be-able-to-communicate-with-interact-with-vocally-might-be-a-bird-an-animal-researcher-explains-how-she-decoded-birdsong"
+    },
+    {
+      "category": "History",
+      "title": "The British “Experiment” to Use Loyalists in the Southern War",
+      "source": "Journal of the American Revolution",
+      "date": "Tue, 10 Nov 2026 10:00:04 +0000",
+      "summary": "A hallmark of the Revolutionary War in the South was the drive by the British to use Loyalist militia to augment the British army, in combat with the American army and in keeping the peace behind the front lines. The army’s use of Loyalist militiamen in the south arose immediately after the fall of Charlestown […]\nThe post The British “Experiment” to Use Loyalists in the Southern War appeared first on Journal of the American Revolution.",
+      "url": "https://allthingsliberty.com/2026/11/the-british-experiment-to-use-loyalists-in-the-southern-war/"
+    },
+    {
+      "category": "AI",
+      "title": "Closing the AI guidance gap in education",
+      "source": "OpenAI News",
+      "date": "Tue, 10 Nov 2026 09:00:00 GMT",
+      "summary": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.",
+      "url": "https://openai.com/index/closing-ai-guidance-gap-education"
+    },
+    {
+      "category": "Science",
+      "title": " Highly active Russian volcano plays peek-a-boo with an astronaut ",
+      "source": " Latest from Live Science ",
+      "date": "Tue, 10 Nov 2026 08:00:00 +0000",
+      "summary": "A 2019 astronaut photo shows the near-perfect cone of a highly active volcano poking its heavily scarred and partially snow-covered head above a thick bank of low-lying clouds over the Kuril Islands.",
+      "url": "https://www.livescience.com/planet-earth/volcanoes/highly-active-russian-volcano-plays-peek-a-boo-with-an-astronaut-earth-from-space"
+    },
+    {
+      "category": "AI",
+      "title": "Work at the Frontier: AI’s effect on freelance work",
+      "source": "OpenAI News",
+      "date": "Tue, 10 Nov 2026 07:00:00 GMT",
+      "summary": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.",
+      "url": "https://openai.com/index/ai-effect-on-freelance-work"
+    },
+    {
+      "category": "Space",
+      "title": "APOD: 2026 November 10 – Saturn Behind the Moon",
+      "source": "NASA",
+      "date": "Tue, 10 Nov 2026 05:05:00 +0000",
+      "summary": "APOD Science APOD APOD: 2026 November 10 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Saturn Behind the […]",
+      "url": "https://science.nasa.gov/image-article/apod-2026-november-10-saturn-behind-the-moon/"
+    },
+    {
+      "category": "Theology",
+      "title": "On Christmas, God Shook Up the World",
+      "source": "The Gospel Coalition",
+      "date": "Tue, 10 Nov 2026 05:03:00 +0000",
+      "summary": "Advent is waiting for something that not everyone can see. Advent is preparing to receive a gift that not everyone wants.",
+      "url": "https://www.thegospelcoalition.org/article/god-shook-world-christmas/"
+    },
+    {
+      "category": "Theology",
+      "title": "Midlife Is a Crossroads, Not a Crisis",
+      "source": "The Gospel Coalition",
+      "date": "Tue, 10 Nov 2026 05:02:00 +0000",
+      "summary": "In ‘Good News for Midlife,’ Jared Wilson reminds us to embrace our midlife crossroads, find new meaning in service to others, and let this season be an opportunity to discover grace upon grace in Jesus.",
+      "url": "https://www.thegospelcoalition.org/reviews/good-news-midlife/"
+    },
+    {
+      "category": "Theology",
+      "title": "Avoid the Trap of Bitterness",
+      "source": "The Gospel Coalition",
+      "date": "Tue, 10 Nov 2026 05:00:00 +0000",
+      "summary": "Joseph avoids the trap of bitterness. And you can too, if you follow these three steps.",
+      "url": "https://www.thegospelcoalition.org/article/avoid-trap-bitterness/"
     },
     {
       "category": "Science",
@@ -44,107 +236,11 @@
     },
     {
       "category": "Science",
-      "title": " Iran war helps fuel global drop in fossil fuel emissions — but there’s a catch ",
-      "source": " Latest from Live Science ",
-      "date": "Tue, 10 Nov 2026 01:15:00 +0000",
-      "summary": "In the run-up to the COP31 U.N. climate change conference, scientists have revealed that global carbon emissions from fossil fuels are projected to drop by 0.4% this year, driven by growth in installed wind and solar power capacity, as well as oil price hikes caused by the Iran conflict. But climate goals are still unlikely to be met.",
-      "url": "https://www.livescience.com/planet-earth/climate-change/worlds-fossil-fuel-emissions-will-fall-this-year-scientists-say-partly-because-of-the-iran-war"
-    },
-    {
-      "category": "AI",
-      "title": "Locating the source of a mysterious beep",
-      "source": "Hacker News: Front Page",
-      "date": "Tue, 10 Nov 2026 00:10:46 +0000",
-      "summary": "Article URL: https://simonwillison.net/2026/Nov/9/mysterious-beeps/\nComments URL: https://news.ycombinator.com/item?id=50434310\nPoints: 39\n# Comments: 19",
-      "url": "https://simonwillison.net/2026/Nov/9/mysterious-beeps/"
-    },
-    {
-      "category": "AI",
-      "title": "Horible public key tricks",
-      "source": "Hacker News: Front Page",
-      "date": "Tue, 10 Nov 2026 00:07:17 +0000",
-      "summary": "Article URL: https://maurycyz.com/projects/badcert/\nComments URL: https://news.ycombinator.com/item?id=50434264\nPoints: 53\n# Comments: 21",
-      "url": "https://maurycyz.com/projects/badcert/"
-    },
-    {
-      "category": "Science",
-      "title": " Nazca infant had rare, fatal birth defect that left her with one central eye 1,600 years ago ",
-      "source": " Latest from Live Science ",
-      "date": "Mon, 09 Nov 2026 23:40:50 +0000",
-      "summary": "A DNA analysis has confirmed that a Nazca infant who lived in southern Peru 1,600 years ago had a rare congenital condition called trisomy 13.",
-      "url": "https://www.livescience.com/archaeology/americas/nazca-infant-had-rare-fatal-birth-defect-that-left-her-with-one-central-eye-1-600-years-ago"
-    },
-    {
-      "category": "Science",
       "title": "Scientists finally discover why we learn to love bitter coffee",
       "source": "All Top News -- ScienceDaily",
       "date": "Mon, 09 Nov 2026 18:19:35 EST",
       "summary": "Scientists have uncovered a hidden gut-to-brain dopamine pathway that helps explain why bitter coffee and other initially unpleasant flavors can become favorites over time. The discovery reveals how the brain learns to crave certain foods and could eventually lead to new ways of reshaping eating habits and food preferences.",
       "url": "https://www.sciencedaily.com/releases/2026/11/261108233100.htm"
-    },
-    {
-      "category": "Space",
-      "title": " On this day in space! Nov. 9, 1967: NASA launches the Saturn V moon rocket for the first time on Apollo 4, but no astronauts were aboard ",
-      "source": " Latest from Space.com ",
-      "date": "Mon, 09 Nov 2026 22:11:05 +0000",
-      "summary": "On this day in space! Nov. 9, 1967: NASA launches the Saturn V moon rocket for the first time on Apollo 4, but no astronauts were aboard",
-      "url": "https://www.space.com/space-exploration/on-this-day-in-space-november-9-2026"
-    },
-    {
-      "category": "Space",
-      "title": " Jupiter and Mars are set for a breathtaking close approach later this week: Here's how to see it ",
-      "source": " Latest from Space.com ",
-      "date": "Mon, 09 Nov 2026 22:00:00 +0000",
-      "summary": "Jupiter and Mars will appear incredibly close as they shine in the constellation Leo on Nov. 15.",
-      "url": "https://www.space.com/stargazing/jupiter-and-mars-are-set-for-a-breathtaking-close-approach-later-this-week-heres-how-to-see-it"
-    },
-    {
-      "category": "AI",
-      "title": "DCU shake-up: James Gunn and Peter Safran out post-merger",
-      "source": "Ars Technica - All content",
-      "date": "Mon, 09 Nov 2026 21:55:35 +0000",
-      "summary": "Producer and former Kevin Feige protege Jeremy Latcham will replace Gunn and Safran.",
-      "url": "https://arstechnica.com/culture/2026/11/dcu-shake-up-james-gunn-and-peter-safran-out-post-merger/"
-    },
-    {
-      "category": "AI",
-      "title": "Man who lost $308,000 on sports bets sues Kalshi for offering illegal gambling",
-      "source": "Ars Technica - All content",
-      "date": "Mon, 09 Nov 2026 21:13:39 +0000",
-      "summary": "Lawsuit demands Kalshi return losses because online betting is illegal in Washington.",
-      "url": "https://arstechnica.com/tech-policy/2026/11/man-who-lost-308000-on-sports-bets-sues-kalshi-for-offering-illegal-gambling/"
-    },
-    {
-      "category": "Space",
-      "title": " Are the James Webb Space Telescope's mysterious Little Red Dots actually tiny black holes left over from the Big Bang era? ",
-      "source": " Latest from Space.com ",
-      "date": "Mon, 09 Nov 2026 21:00:00 +0000",
-      "summary": "New research suggests that Little Red Dots, which have puzzled astronomers since the JWST began discovering them, could host primordial black holes born during the Big Bang.",
-      "url": "https://www.space.com/astronomy/black-holes/are-the-james-webb-space-telescopes-mysterious-little-red-dots-actually-tiny-black-holes-left-over-from-the-big-bang-era"
-    },
-    {
-      "category": "Science",
-      "title": " Did human sacrifice help lower violence? New research in Peru leaves intriguing question ",
-      "source": " Latest from Live Science ",
-      "date": "Mon, 09 Nov 2026 20:52:27 +0000",
-      "summary": "In a key coastal area of Peru, violence was low despite the practice of human sacrifice.",
-      "url": "https://www.livescience.com/archaeology/americas/did-human-sacrifice-help-lower-violence-new-research-in-peru-leaves-intriguing-question"
-    },
-    {
-      "category": "AI",
-      "title": "A Sam Altman parody offers an amusing lesson in memory management",
-      "source": "Ars Technica - All content",
-      "date": "Mon, 09 Nov 2026 20:49:09 +0000",
-      "summary": "We verified the RAM numbers are real without sending any emails to OpenAI.",
-      "url": "https://arstechnica.com/gadgets/2026/11/a-sam-altman-parody-offers-an-amusing-lesson-in-memory-management/"
-    },
-    {
-      "category": "AI",
-      "title": "ChatGPT Enterprise now available in AWS Marketplace",
-      "source": "OpenAI News",
-      "date": "Mon, 09 Nov 2026 19:00:00 GMT",
-      "summary": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
-      "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace"
     },
     {
       "category": "History",
@@ -155,14 +251,6 @@
       "url": "https://allthingsliberty.com/2026/11/the-country-people-an-agricultural-history-of-the-american-revolution/"
     },
     {
-      "category": "AI",
-      "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
-      "source": "OpenAI News",
-      "date": "Mon, 09 Nov 2026 13:00:00 GMT",
-      "summary": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
-      "url": "https://openai.com/index/control-room"
-    },
-    {
       "category": "Biblical Studies",
       "title": "Citizenship in the Hebrew Bible",
       "source": "Biblical Archaeology Society",
@@ -171,60 +259,12 @@
       "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-israel/citizenship-in-the-hebrew-bible/"
     },
     {
-      "category": "Biblical Studies",
-      "title": "World’s Oldest Cosmogony",
-      "source": "Biblical Archaeology Society",
-      "date": "Mon, 09 Nov 2026 11:00:52 +0000",
-      "summary": "The Ain Samiya goblet has been an enigma since it was first discovered in 1970, near the West Bank city of Nablus. Now, a study […]\nThe post World’s Oldest Cosmogony appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-near-eastern-world/worlds-oldest-cosmogony/"
-    },
-    {
       "category": "Science",
       "title": "NASA reveals bold new plan to return astronauts to the Moon in 2028",
       "source": "All Top News -- ScienceDaily",
       "date": "Mon, 09 Nov 2026 04:13:28 EST",
       "summary": "NASA has revealed an accelerated plan to land astronauts on the Moon in 2028, with SpaceX and Blue Origin developing competing lunar landers and a crucial orbital test scheduled for 2027. Faster rocket preparations, new lightweight spacesuits, and redesigned missions could help pave the way for a permanent lunar presence and future human exploration of Mars.",
       "url": "https://www.sciencedaily.com/releases/2026/11/261108233054.htm"
-    },
-    {
-      "category": "AI",
-      "title": "CodeRabbit scales agentic software development and ships 20x more",
-      "source": "OpenAI News",
-      "date": "Mon, 09 Nov 2026 08:00:00 GMT",
-      "summary": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.",
-      "url": "https://openai.com/index/coderabbit-codex-daybreak"
-    },
-    {
-      "category": "Theology",
-      "title": "Build a Culture of Evangelism",
-      "source": "The Gospel Coalition",
-      "date": "Mon, 09 Nov 2026 05:04:36 +0000",
-      "summary": "Matt Smethurst and Ligon Duncan discuss how pastors can build a culture of evangelism by modeling gospel conversations, equipping church members to share their faith, and making evangelism a natural part of church life.",
-      "url": "https://www.thegospelcoalition.org/podcasts/everyday-pastor/build-culture-evangelism/"
-    },
-    {
-      "category": "Theology",
-      "title": "Train Women to Teach the Bible: A 4-Week Plan",
-      "source": "The Gospel Coalition",
-      "date": "Mon, 09 Nov 2026 05:02:00 +0000",
-      "summary": "Bible studies are the heartbeat of women’s ministries in many churches. But where do we find teachers?",
-      "url": "https://www.thegospelcoalition.org/article/train-women-teach-bible/"
-    },
-    {
-      "category": "Theology",
-      "title": "When Morningness Is Confused with Godliness",
-      "source": "The Gospel Coalition",
-      "date": "Mon, 09 Nov 2026 05:00:00 +0000",
-      "summary": "Could it be possible that our idealizing of morning quiet times is more cultural than biblical?",
-      "url": "https://www.thegospelcoalition.org/article/morningness-confused-godliness/"
-    },
-    {
-      "category": "Biblical Studies",
-      "title": "Widows in the Bible",
-      "source": "Biblical Archaeology Society",
-      "date": "Sun, 08 Nov 2026 12:00:24 +0000",
-      "summary": "In a Biblical Views column, Robin Gallaher Branch presents several examples of how, in the Bible, widows can serve as special textual markers to alert readers that something significant is about to happen.\nThe post Widows in the Bible appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/daily/people-cultures-in-the-bible/people-in-the-bible/widows-in-the-bible/"
     },
     {
       "category": "Theology",
@@ -249,22 +289,6 @@
       "date": "Wed, 04 Nov 2026 04:08:16 +0000",
       "summary": "Seeing preaching as a science helps us understand that there are tools we can apply to do the work better. Seeing it as an art reminds us that the work requires us to pay attention to the beauty of Bible proclamation.\nThe post Help for Beginners and Seasoned Preachers: A Review of David Jackman’s From Text to Teaching appeared first on 9Marks.",
       "url": "https://www.9marks.org/review/help-for-beginners-and-seasoned-preachers/?utm_source=rss&utm_medium=rss&utm_campaign=help-for-beginners-and-seasoned-preachers"
-    },
-    {
-      "category": "History",
-      "title": "George Washington and Religious Freedom",
-      "source": "Journal of the American Revolution",
-      "date": "Mon, 02 Nov 2026 23:00:53 +0000",
-      "summary": "On the eve of George Washington becoming the nation’s First President, Alexander Hamilton and others fretted if he would even accept the position. Hamilton wrote to Washington in September 1788 stating, “it cannot be considered as a compliment to say that on your acceptance of the office of President the success of the new government […]\nThe post George Washington and Religious Freedom appeared first on Journal of the American Revolution.",
-      "url": "https://allthingsliberty.com/2026/11/george-washington-and-religious-freedom/"
-    },
-    {
-      "category": "Theology",
-      "title": "Discerning Between Godly and Worldly Grief",
-      "source": "9Marks",
-      "date": "Mon, 02 Nov 2026 21:45:20 +0000",
-      "summary": "Godly grief leads to mourning over sin, not simply its consequences.\nThe post Discerning Between Godly and Worldly Grief appeared first on 9Marks.",
-      "url": "https://www.9marks.org/article/discerning-between-godly-and-worldly-grief/?utm_source=rss&utm_medium=rss&utm_campaign=discerning-between-godly-and-worldly-grief"
     },
     {
       "category": "History",
