@@ -1,78 +1,142 @@
 {
-  "lastUpdated": "2026-11-09T20:19:02.934Z",
-  "articleCount": 39,
+  "lastUpdated": "2026-11-10T03:54:41.214Z",
+  "articleCount": 36,
   "articles": [
     {
       "category": "Science",
-      "title": "Tiny beetle trapped in 53-million-year-old amber is named after Twenty One Pilots",
+      "title": "Math anxiety may be stopping students from learning useful AI and data skills",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Mon, 09 Nov 2026 15:04:16 EST",
-      "summary": "Preserved in amber for about 53 million years, a beetle has been described as a new species by researchers in Spain and France. Named Cnopus twentyonepilotorum, it is the first puppet beetle (family Aderidae) to be formally described from the Oise amber of northern France. The findings are published in the journal ZooKeys.",
-      "url": "https://phys.org/news/2026-11-tiny-beetle-million-year-amber.html"
+      "date": "Mon, 09 Nov 2026 22:40:07 EST",
+      "summary": "Artificial intelligence is increasingly becoming part of everyday life and work. AI can generate information, summarize evidence and perform calculations. However, it does not remove the need for critical thinking and conceptual understanding.",
+      "url": "https://phys.org/news/2026-11-math-anxiety-students-ai-skills.html"
+    },
+    {
+      "category": "AI",
+      "title": "CoreWeave bond yield tops 16% as AI credit stress rises",
+      "source": "Hacker News: Front Page",
+      "date": "Tue, 10 Nov 2026 03:20:06 +0000",
+      "summary": "Article URL: https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html\nComments URL: https://news.ycombinator.com/item?id=50435660\nPoints: 6\n# Comments: 0",
+      "url": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html"
     },
     {
       "category": "Science",
-      "title": "Chimpanzees blowing raspberries offer first evidence of learned vocal conventions in great ape communication",
+      "title": "Light-pulse pairs reveal the femtosecond decay of an inner-shell hole in xenon atoms",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Mon, 09 Nov 2026 15:00:10 EST",
-      "summary": "Chimpanzees may learn how to use some of their calls from the adults around them, in a surprising parallel with how human children learn words, finds a study from the CNRS Institute of Cognitive Sciences, University of Warwick and Taï Chimpanzee Project.",
-      "url": "https://phys.org/news/2026-11-chimpanzees-raspberries-evidence-vocal-conventions.html"
+      "date": "Mon, 09 Nov 2026 21:20:06 EST",
+      "summary": "Researchers at the UVSOR Synchrotron Facility (Institute for Molecular Science, Japan) and partner institutions have observed the decay of a xenon 4d core hole, an inner-shell vacancy, directly in the time domain. They used pairs of phase-coherent extreme ultraviolet pulses from a synchrotron to make the photoelectron wave packets they released interfere. The contrast of the interference fringes decreased over a few femtoseconds as the delay between the pulses increased. A model using literature core-hole lifetimes of about 6 femtoseconds reproduced this rapid decay of the fringe contrast. The study is published in the journal Physical Review A.",
+      "url": "https://phys.org/news/2026-11-pulse-pairs-reveal-femtosecond-decay.html"
     },
     {
       "category": "Science",
-      "title": "Don't study alone: New research shows how loneliness impacts student health—and how universities can help",
+      "title": "AI-assisted atomic models reveal how protective shells regulate aluminum nanoparticle oxidation",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Mon, 09 Nov 2026 15:00:05 EST",
-      "summary": "The negative impact of loneliness on health and well-being is well known, but for university students, social interaction can also be key to academic success. A new study by Constructor University professor Dr. Sonia Lippke and colleagues, published in the journal Frontiers in Psychology, analyzes the effects of student loneliness on health and academics and lays out concrete steps that universities can take to mitigate them.",
-      "url": "https://phys.org/news/2026-11-dont-loneliness-impacts-student-health.html"
+      "date": "Mon, 09 Nov 2026 21:00:01 EST",
+      "summary": "Building an accurate model of how atoms interact is a complicated process. Researchers must choose new calculations, test successive models and track the mechanisms behind each interaction. But a newly developed AI agent called MLP Copilot has made this process much easier by bridging computational tools and scientific evidence with human supervision.",
+      "url": "https://phys.org/news/2026-11-ai-atomic-reveal-shells-aluminum.html"
+    },
+    {
+      "category": "Science",
+      "title": "Alzheimer’s may have early warning signs outside the brain",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Mon, 09 Nov 2026 20:47:34 EST",
+      "summary": "A surprising discovery suggests that some early signs of Alzheimer’s disease may begin outside the brain. Using miniature laboratory systems made from human cells, scientists found that genetic mutations associated with inherited Alzheimer’s can disrupt nerve-to-muscle connections without any involvement from the brain or spinal cord. This could help explain why some patients experience changes in balance, walking, and coordination long before memory problems develop.",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261108233103.htm"
+    },
+    {
+      "category": "Science",
+      "title": " Iran war helps fuel global drop in fossil fuel emissions — but there’s a catch ",
+      "source": " Latest from Live Science ",
+      "date": "Tue, 10 Nov 2026 01:15:00 +0000",
+      "summary": "In the run-up to the COP31 U.N. climate change conference, scientists have revealed that global carbon emissions from fossil fuels are projected to drop by 0.4% this year, driven by growth in installed wind and solar power capacity, as well as oil price hikes caused by the Iran conflict. But climate goals are still unlikely to be met.",
+      "url": "https://www.livescience.com/planet-earth/climate-change/worlds-fossil-fuel-emissions-will-fall-this-year-scientists-say-partly-because-of-the-iran-war"
     },
     {
       "category": "AI",
-      "title": "Vulnerability that lets hackers SSH into Linux devices is under active exploitation",
-      "source": "Ars Technica - All content",
-      "date": "Mon, 09 Nov 2026 19:41:34 +0000",
-      "summary": "\"*sshole\" poses a serious threat to Internet security.",
-      "url": "https://arstechnica.com/security/2026/11/vulnerability-that-lets-hackers-ssh-into-linux-devices-is-under-active-exploitation/"
-    },
-    {
-      "category": "AI",
-      "title": "CUI – Native UI components for C",
+      "title": "Locating the source of a mysterious beep",
       "source": "Hacker News: Front Page",
-      "date": "Mon, 09 Nov 2026 19:35:16 +0000",
-      "summary": "Article URL: https://yappologistic.github.io/CUI/\nComments URL: https://news.ycombinator.com/item?id=50430621\nPoints: 27\n# Comments: 3",
-      "url": "https://yappologistic.github.io/CUI/"
+      "date": "Tue, 10 Nov 2026 00:10:46 +0000",
+      "summary": "Article URL: https://simonwillison.net/2026/Nov/9/mysterious-beeps/\nComments URL: https://news.ycombinator.com/item?id=50434310\nPoints: 39\n# Comments: 19",
+      "url": "https://simonwillison.net/2026/Nov/9/mysterious-beeps/"
     },
     {
       "category": "AI",
-      "title": "Iran was behind cyber-attack on French supermarket freezers, Paris says",
+      "title": "Horible public key tricks",
       "source": "Hacker News: Front Page",
-      "date": "Mon, 09 Nov 2026 19:33:09 +0000",
-      "summary": "Article URL: https://www.theguardian.com/world/2026/nov/09/france-blames-irans-revolutionary-guards-for-cyber-attacks-on-supermarket-fridges\nComments URL: https://news.ycombinator.com/item?id=50430585\nPoints: 17\n# Comments: 7",
-      "url": "https://www.theguardian.com/world/2026/nov/09/france-blames-irans-revolutionary-guards-for-cyber-attacks-on-supermarket-fridges"
+      "date": "Tue, 10 Nov 2026 00:07:17 +0000",
+      "summary": "Article URL: https://maurycyz.com/projects/badcert/\nComments URL: https://news.ycombinator.com/item?id=50434264\nPoints: 53\n# Comments: 21",
+      "url": "https://maurycyz.com/projects/badcert/"
+    },
+    {
+      "category": "Science",
+      "title": " Nazca infant had rare, fatal birth defect that left her with one central eye 1,600 years ago ",
+      "source": " Latest from Live Science ",
+      "date": "Mon, 09 Nov 2026 23:40:50 +0000",
+      "summary": "A DNA analysis has confirmed that a Nazca infant who lived in southern Peru 1,600 years ago had a rare congenital condition called trisomy 13.",
+      "url": "https://www.livescience.com/archaeology/americas/nazca-infant-had-rare-fatal-birth-defect-that-left-her-with-one-central-eye-1-600-years-ago"
+    },
+    {
+      "category": "Science",
+      "title": "Scientists finally discover why we learn to love bitter coffee",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Mon, 09 Nov 2026 18:19:35 EST",
+      "summary": "Scientists have uncovered a hidden gut-to-brain dopamine pathway that helps explain why bitter coffee and other initially unpleasant flavors can become favorites over time. The discovery reveals how the brain learns to crave certain foods and could eventually lead to new ways of reshaping eating habits and food preferences.",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261108233100.htm"
     },
     {
       "category": "Space",
-      "title": "La NASA busca a la próxima generación de astronautas",
-      "source": "NASA",
-      "date": "Mon, 09 Nov 2026 19:27:20 +0000",
-      "summary": "Read this release in English here.La NASA busca a los exploradores que ayudarán a escribir el próximo capítulo de los vuelos espaciales tripulados. Ya está abierto el plazo de inscripción para la próxima promoción de astronautas de la agencia, que se incorporarán a la NASA en un momento en el que Estados Unidos regresa a […]",
-      "url": "https://www.nasa.gov/news-release/la-nasa-busca-a-la-proxima-generacion-de-astronautas/"
-    },
-    {
-      "category": "AI",
-      "title": "Pentagon mulls placing fleet of military satellites around the Moon",
-      "source": "Ars Technica - All content",
-      "date": "Mon, 09 Nov 2026 19:08:37 +0000",
-      "summary": "\"Please jump on my cislunar bandwagon because I need some more friends here.\"",
-      "url": "https://arstechnica.com/space/2026/11/us-military-notionally-interested-in-satellite-constellation-around-moon/"
-    },
-    {
-      "category": "Space",
-      "title": " NYT bestseller ‘Robopocalypse’ is getting a TV series with Oscar winners Ron Howard and Akiva Goldsman at the helm ",
+      "title": " On this day in space! Nov. 9, 1967: NASA launches the Saturn V moon rocket for the first time on Apollo 4, but no astronauts were aboard ",
       "source": " Latest from Space.com ",
-      "date": "Mon, 09 Nov 2026 19:00:00 +0000",
-      "summary": "Well, this should be a nice distraction from the real AI apocalypse.",
-      "url": "https://www.space.com/entertainment/space-movies-shows/nyt-bestseller-robopocalypse-is-getting-a-tv-series-with-oscar-winners-ron-howard-and-akiva-goldsman-at-the-helm"
+      "date": "Mon, 09 Nov 2026 22:11:05 +0000",
+      "summary": "On this day in space! Nov. 9, 1967: NASA launches the Saturn V moon rocket for the first time on Apollo 4, but no astronauts were aboard",
+      "url": "https://www.space.com/space-exploration/on-this-day-in-space-november-9-2026"
+    },
+    {
+      "category": "Space",
+      "title": " Jupiter and Mars are set for a breathtaking close approach later this week: Here's how to see it ",
+      "source": " Latest from Space.com ",
+      "date": "Mon, 09 Nov 2026 22:00:00 +0000",
+      "summary": "Jupiter and Mars will appear incredibly close as they shine in the constellation Leo on Nov. 15.",
+      "url": "https://www.space.com/stargazing/jupiter-and-mars-are-set-for-a-breathtaking-close-approach-later-this-week-heres-how-to-see-it"
+    },
+    {
+      "category": "AI",
+      "title": "DCU shake-up: James Gunn and Peter Safran out post-merger",
+      "source": "Ars Technica - All content",
+      "date": "Mon, 09 Nov 2026 21:55:35 +0000",
+      "summary": "Producer and former Kevin Feige protege Jeremy Latcham will replace Gunn and Safran.",
+      "url": "https://arstechnica.com/culture/2026/11/dcu-shake-up-james-gunn-and-peter-safran-out-post-merger/"
+    },
+    {
+      "category": "AI",
+      "title": "Man who lost $308,000 on sports bets sues Kalshi for offering illegal gambling",
+      "source": "Ars Technica - All content",
+      "date": "Mon, 09 Nov 2026 21:13:39 +0000",
+      "summary": "Lawsuit demands Kalshi return losses because online betting is illegal in Washington.",
+      "url": "https://arstechnica.com/tech-policy/2026/11/man-who-lost-308000-on-sports-bets-sues-kalshi-for-offering-illegal-gambling/"
+    },
+    {
+      "category": "Space",
+      "title": " Are the James Webb Space Telescope's mysterious Little Red Dots actually tiny black holes left over from the Big Bang era? ",
+      "source": " Latest from Space.com ",
+      "date": "Mon, 09 Nov 2026 21:00:00 +0000",
+      "summary": "New research suggests that Little Red Dots, which have puzzled astronomers since the JWST began discovering them, could host primordial black holes born during the Big Bang.",
+      "url": "https://www.space.com/astronomy/black-holes/are-the-james-webb-space-telescopes-mysterious-little-red-dots-actually-tiny-black-holes-left-over-from-the-big-bang-era"
+    },
+    {
+      "category": "Science",
+      "title": " Did human sacrifice help lower violence? New research in Peru leaves intriguing question ",
+      "source": " Latest from Live Science ",
+      "date": "Mon, 09 Nov 2026 20:52:27 +0000",
+      "summary": "In a key coastal area of Peru, violence was low despite the practice of human sacrifice.",
+      "url": "https://www.livescience.com/archaeology/americas/did-human-sacrifice-help-lower-violence-new-research-in-peru-leaves-intriguing-question"
+    },
+    {
+      "category": "AI",
+      "title": "A Sam Altman parody offers an amusing lesson in memory management",
+      "source": "Ars Technica - All content",
+      "date": "Mon, 09 Nov 2026 20:49:09 +0000",
+      "summary": "We verified the RAM numbers are real without sending any emails to OpenAI.",
+      "url": "https://arstechnica.com/gadgets/2026/11/a-sam-altman-parody-offers-an-amusing-lesson-in-memory-management/"
     },
     {
       "category": "AI",
@@ -83,60 +147,20 @@
       "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace"
     },
     {
-      "category": "AI",
-      "title": "Claude Fable 5.2 and Mythos 5.2",
-      "source": "Hacker News: Front Page",
-      "date": "Mon, 09 Nov 2026 18:56:29 +0000",
-      "summary": "Article URL: https://www.anthropic.com/claude-fable-and-mythos-5-2\nComments URL: https://news.ycombinator.com/item?id=50429906\nPoints: 480\n# Comments: 206",
-      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2"
-    },
-    {
-      "category": "Space",
-      "title": "NASA’s Chandra Finds Source of Star’s Mysterious Outbursts",
-      "source": "NASA",
-      "date": "Mon, 09 Nov 2026 18:55:50 +0000",
-      "summary": "Using NASA’s Chandra X-ray Observatory, astronomers have discovered what is triggering repeated outbursts from a giant, unstable star. A new study, published Monday in the latest issue of The Astrophysical Journal, details the discovery of a previously hidden companion object that keeps pulling material away from the massive star every 113 days as they orbit […]",
-      "url": "https://science.nasa.gov/missions/chandra/nasas-chandra-finds-source-of-stars-mysterious-outbursts/"
-    },
-    {
-      "category": "Space",
-      "title": " Starfish Space loses contact with 1st 'Otter' servicing spacecraft, ending NASA tech-demo mission ",
-      "source": " Latest from Space.com ",
-      "date": "Mon, 09 Nov 2026 18:00:00 +0000",
-      "summary": "Starfish Space's first Otter servicing spacecraft suffered a glitch in orbit recently, ending its technology-demonstrating mission for NASA.",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/starfish-space-loses-contact-with-1st-otter-servicing-spacecraft-ending-nasa-tech-demo-mission"
-    },
-    {
-      "category": "Space",
-      "title": "NASA Advanced Mid-Power Electric Rocket Challenge",
-      "source": "NASA",
-      "date": "Mon, 09 Nov 2026 17:42:42 +0000",
-      "summary": "Mid-power (3-7 kW) Hall effect thruster systems have been identified by government and industry stakeholders as critical capabilities for satellite, defense, and exploration missions. Given the need for this capability, NASA is launching the Advanced Mid-Power Electric Rocket (AMPERE) Challenge. The NASA AMPERE Challenge invites U.S. commercial companies to develop and demonstrate mid-power Hall effect […]",
-      "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-advanced-mid-power-electric-rocket-challenge/"
-    },
-    {
-      "category": "AI",
-      "title": "Claude Code is accidentally exposing secrets all over GitHub",
-      "source": "Ars Technica - All content",
-      "date": "Mon, 09 Nov 2026 17:24:26 +0000",
-      "summary": "\"Do not ask again\" prompt leads to passwords, API keys, and more being shared.",
-      "url": "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github/"
-    },
-    {
-      "category": "Space",
-      "title": " NASA just launched a $1 million Moon Base Student Challenge to award cash prizes to students that solve lunar base problems ",
-      "source": " Latest from Space.com ",
-      "date": "Mon, 09 Nov 2026 17:00:00 +0000",
-      "summary": "NASA has officially launched the Moon Base Student Challenge, asking students to help build humanity's future on the moon. And there is $1 million in prizes for the best ideas.",
-      "url": "https://www.space.com/space-exploration/nasa-just-launched-a-usd1-million-moon-base-student-challenge-to-award-cash-prizes-to-students-that-solve-lunar-base-problems"
-    },
-    {
       "category": "History",
       "title": "The Country People: An Agricultural History of the American Revolution",
       "source": "Journal of the American Revolution",
       "date": "Mon, 09 Nov 2026 13:34:25 +0000",
       "summary": "BOOK REVIEW: The Country People: An Agricultural History of the American Revolution by R. Douglas Hurt. (Athens, GA: University of Georgia Press, 2026) $32.95 Paperback. When an army reaches a location, be it a camp or a battlefield or a city, the commanders need to figure out how to feed everyone. Did the army quartermaster […]\nThe post The Country People: An Agricultural History of the American Revolution appeared first on Journal of the American Revolution.",
       "url": "https://allthingsliberty.com/2026/11/the-country-people-an-agricultural-history-of-the-american-revolution/"
+    },
+    {
+      "category": "AI",
+      "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+      "source": "OpenAI News",
+      "date": "Mon, 09 Nov 2026 13:00:00 GMT",
+      "summary": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
+      "url": "https://openai.com/index/control-room"
     },
     {
       "category": "Biblical Studies",
@@ -156,14 +180,6 @@
     },
     {
       "category": "Science",
-      "title": " Terracotta cockerel vase: A 2,600-year-old Etruscan inkwell featuring 26 letters of the undeciphered ancient language ",
-      "source": " Latest from Live Science ",
-      "date": "Mon, 09 Nov 2026 11:00:00 +0000",
-      "summary": "This tiny inkwell contains an alphabetic inscription in ancient Etruscan, a language that has never been fully decoded.",
-      "url": "https://www.livescience.com/archaeology/terracotta-cockerel-vase-a-2-600-year-old-etruscan-inkwell-featuring-26-letters-of-the-undeciphered-ancient-language"
-    },
-    {
-      "category": "Science",
       "title": "NASA reveals bold new plan to return astronauts to the Moon in 2028",
       "source": "All Top News -- ScienceDaily",
       "date": "Mon, 09 Nov 2026 04:13:28 EST",
@@ -172,11 +188,11 @@
     },
     {
       "category": "AI",
-      "title": "Kuken Industries searches 70 years of drawings in minutes",
+      "title": "CodeRabbit scales agentic software development and ships 20x more",
       "source": "OpenAI News",
       "date": "Mon, 09 Nov 2026 08:00:00 GMT",
-      "summary": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down from nearly an hour.",
-      "url": "https://openai.com/index/kuken"
+      "summary": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.",
+      "url": "https://openai.com/index/coderabbit-codex-daybreak"
     },
     {
       "category": "Theology",
@@ -203,30 +219,6 @@
       "url": "https://www.thegospelcoalition.org/article/morningness-confused-godliness/"
     },
     {
-      "category": "Science",
-      "title": "DNA on the Shroud of Turin reveals centuries of hidden secrets",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Sun, 08 Nov 2026 21:48:24 EST",
-      "summary": "The Shroud of Turin, one of history's most mysterious religious artifacts, is yielding surprising new clues through DNA analysis. Scientists have uncovered a complex mixture of biological traces that may reveal more about the cloth's past and the environments it encountered. The findings offer a fresh scientific perspective on a centuries-old mystery that continues to spark fascination and debate.",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261108202703.htm"
-    },
-    {
-      "category": "Science",
-      "title": " Would you learn to lucid dream if you could? ",
-      "source": " Latest from Live Science ",
-      "date": "Sun, 08 Nov 2026 17:00:00 +0000",
-      "summary": "Neuroscientists say people can be \"trained\" to recognize when they're dreaming — in other words, lucid dreaming may be an acquirable skill.",
-      "url": "https://www.livescience.com/health/sleep/would-you-learn-to-lucid-dream-if-you-could"
-    },
-    {
-      "category": "Science",
-      "title": " Rare fifth-century burials of Germanic chieftains with dazzling weapons and warhorses discovered in France ",
-      "source": " Latest from Live Science ",
-      "date": "Sun, 08 Nov 2026 13:00:00 +0000",
-      "summary": "Archaeologists found a small cemetery full of high-status burials, two of which may be the graves of Germanic chieftains.",
-      "url": "https://www.livescience.com/archaeology/rare-fifth-century-burials-of-germanic-chieftains-with-dazzling-weapons-and-warhorses-discovered-in-france"
-    },
-    {
       "category": "Biblical Studies",
       "title": "Widows in the Bible",
       "source": "Biblical Archaeology Society",
@@ -235,28 +227,12 @@
       "url": "https://www.biblicalarchaeology.org/daily/people-cultures-in-the-bible/people-in-the-bible/widows-in-the-bible/"
     },
     {
-      "category": "Science",
-      "title": "A hidden limit of space and time could unlock electronics 100,000 times faster",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Sat, 07 Nov 2026 18:34:19 EST",
-      "summary": "Scientists have discovered a surprising quantum limit that prevents electrons from being tracked with unlimited precision in both space and time. The breakthrough could pave the way for manipulating chemical reactions and developing electronics hundreds of thousands of times faster than today's technology.",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261106174537.htm"
-    },
-    {
       "category": "Theology",
       "title": "Salvation Makes You Part of a Family: The Corporate Component of Conversion",
       "source": "9Marks",
       "date": "Fri, 06 Nov 2026 16:23:05 +0000",
       "summary": "Our corporate unity in Christ is not just an implication of conversion; it’s part of the very thing. Being reconciled to God’s people is distinct from but inseparable from being reconciled to God.\nThe post Salvation Makes You Part of a Family: The Corporate Component of Conversion appeared first on 9Marks.",
       "url": "https://www.9marks.org/article/salvation-makes-you-part-of-a-family-the-corporate-component-of-conversion/?utm_source=rss&utm_medium=rss&utm_campaign=salvation-makes-you-part-of-a-family-the-corporate-component-of-conversion"
-    },
-    {
-      "category": "AI",
-      "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
-      "source": "OpenAI News",
-      "date": "Fri, 06 Nov 2026 08:00:00 GMT",
-      "summary": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
-      "url": "https://openai.com/index/partnering-with-hacktron"
     },
     {
       "category": "History",
