@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-11T01:37:19.214Z",
+  "lastUpdated": "2026-11-11T17:36:30.125Z",
   "articleCount": 39,
   "articles": [
     {
@@ -12,11 +12,195 @@
     },
     {
       "category": "Science",
-      "title": "A new tool makes biodiversity conservation planning more efficient and reproducible",
+      "title": " Physicists propose new quantum device to measure how Earth twists space-time ",
+      "source": " Latest from Live Science ",
+      "date": "Wed, 11 Nov 2026 17:25:29 +0000",
+      "summary": "A proposed tabletop quantum sensor could match the precision of the best satellite measurements of frame dragging, a subtle effect predicted by Einstein's general relativity.",
+      "url": "https://www.livescience.com/physics-mathematics/particle-physics/physicists-propose-new-quantum-device-to-measure-how-earths-spin-twists-space-time"
+    },
+    {
+      "category": "Science",
+      "title": "Argon on Uranus and Neptune may reveal more about their origins than their interiors",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Tue, 10 Nov 2026 20:20:07 EST",
-      "summary": "ZonationR is a new tool that simplifies the use of Zonation to identify priority areas for biodiversity conservation. It brings all stages of the conservation planning analysis together in one automated and reproducible workflow and helps users systematically explore and compare alternative conservation scenarios.",
-      "url": "https://phys.org/news/2026-11-tool-biodiversity-efficient.html"
+      "date": "Wed, 11 Nov 2026 12:20:05 EST",
+      "summary": "Measurements of an argon isotope could help scientists understand whether the interiors of Uranus and Neptune, our solar system's so-called ice giants, are dominated by ice or rock. New research led by Southwest Research Institute (SwRI) and published in The Planetary Science Journal measured the planets' atmospheric argon-40 to estimate the amount of rock found beneath their surfaces and search for clues about the planets' origins, including where and how they formed.",
+      "url": "https://phys.org/news/2026-11-argon-uranus-neptune-reveal-interiors.html"
+    },
+    {
+      "category": "AI",
+      "title": "Launch HN: Pomerado (YC F26) – Turn any website into an MCP for agents",
+      "source": "Hacker News: Front Page",
+      "date": "Wed, 11 Nov 2026 17:11:56 +0000",
+      "summary": "Hi HN, we’re Alan and Akshay from Pomerado (https://pomerado.ai/). We connect your agents to any website by turning sites into deterministic, self-healing APIs in minutes, fully self-serve.\nAgents are no longer limited by their intelligence, but rather by their ability to interact with systems. Airlines, banks, e-commerce, insurance portals, government sites, and legacy portals all lack APIs or MCPs and are common parts of personal assistant or business workflows. Agents instead rely on browser automation or computer use, which can be slow, expensive, and unreliable. And even if computer use were perfect, most companies have banned it out of security and compliance concerns.\nWe discovered this problem while tinkering with our own personal assistants. When OpenClaw came out, we wanted to “live our lives through our agents” and have them do everything for us. We soon found their usefulness was restricted by what tools they could connect to. For example, when trying to book flights, they fell back on computer use, which failed to checkout. These issues got magnified on repeated workflows, like searching many airlines at once.\nPomerado started off as a project to improve these personal assistant workflows. As we started building, we realized that just-in-time tool creation could have significant applications for AI builders in legacy verticals.\nWe’re ex-McKinsey and Scale AI, where we drove agent deployments in healthcare, professional services, and telecom. Each time, the biggest bottleneck was getting agents to interface well with legacy websites and apps.\nPomerado is what we built. It’s a self-serve platform where devs can create APIs for any website (even those they don’t own), in minutes. Users (or their coding agents) provide a short natural language description, answer a few questions about their workflow, and receive a MCP in less than an hour. Future tool calls use the deterministic MCP, which usually returns results in 5-30 seconds.\nHere’s a walkthrough of our product: https://youtu.be/Bi4jci7rgHo\nIn practice:\n- Our agent opens a browser, explores the website, and performs the requested task once by writing HTTP requests or a Playwright script. This example run establishes how to navigate the website, interact with the relevant controls, and obtain the desired result. If any additional user input is needed (e.g., login, clarification) the agent will ask the user over MCP.\n- Afterwards, the agent uses the example run, along with all of the data it recorded, to create a generalizable and repeatable API. Throughout this process, a separate Guardian model reviews the coding agent’s calls against a set of guardrails. We also run a battery of tests with synthetic inputs to ensure that the API is generalized and not overfit to one input. A final publication agent ensures that the integration publishes a reasonable and generalized input/output schema\n- We also handle sites that require authentication and 2FA. For authentication, we pass off to a deterministic sign-in process to ensure the model and our recorders never read customer credentials. Users can store 2FA TOTP seeds or link their account to a Pomerado phone number for us to autofill 2FA for them as well\n- If future runs fail, a maintenance job is kicked off to repair and improve the tool. The maintenance job can fix broken steps (e.g., a renamed button), add additional functionality (e.g., searching for business class flights in addition to economy), or add new guardrails (e.g., reservation dates must be in the future). We’ve even seen people improve tools by just saying “please make this faster”\nUnlike computer use, our MCPs are deterministic at runtime, which makes them much faster and cheaper. By taking slightly longer to do a task the first time, you reap the benefits much more in the future. It’s a great fit for repeated, high-volume tasks you want your agent to do.\nWe’d love to have you try it! We have both an open-source (MIT) (https://github.com/Pomerado/pomerado) and a free hosted version (https://app.pomerado.ai).\nSo far, users of Pomerado include:\n- A personal trainer using agents to prepare workouts and message clients. Before Pomerado, agents couldn’t login and use the site reliably, so this was all manual\n- Car dealerships connecting their Grok Bots to legacy dealer systems, including marketplaces, CRMs, and ERPs. Dealers switched from computer use, which could take 1hr+\n- Personal assistants using Pomerado to integrate with a broad range of consumer websites\nPlease ask any questions or share any feedback in the comments, thanks!\nComments URL: https://news.ycombinator.com/item?id=50455811\nPoints: 2\n# Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=50455811"
+    },
+    {
+      "category": "Science",
+      "title": "Why some dinosaurs get all the attention and others don't",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Wed, 11 Nov 2026 12:00:17 EST",
+      "summary": "If you ask anyone to name a dinosaur, there's a good chance they'll say Tyrannosaurus rex, that fearsome prehistoric predator with its enormous jaws and razor-sharp teeth. But what about a lesser-known dinosaur such as Iguanodon or Plateosaurus? Probably not.",
+      "url": "https://phys.org/news/2026-11-dinosaurs-attention-dont.html"
+    },
+    {
+      "category": "Space",
+      "title": " Did comets bring building blocks of life to Earth? Scientists aren't so sure anymore ",
+      "source": " Latest from Space.com ",
+      "date": "Wed, 11 Nov 2026 17:00:00 +0000",
+      "summary": "For over a century astronomers have speculated that comets could have delivered organic molecules necessary for life to Earth, but new modeling shows these molecules wouldn't have survived impact.",
+      "url": "https://www.space.com/astronomy/comets/did-comets-bring-building-blocks-of-life-to-earth-scientists-arent-so-sure-anymore"
+    },
+    {
+      "category": "AI",
+      "title": "Faster Retrieval for Better, More Efficient RAG",
+      "source": "Hacker News: Front Page",
+      "date": "Wed, 11 Nov 2026 16:57:45 +0000",
+      "summary": "Article URL: https://machinelearning.apple.com/research/faster-retrieval\nComments URL: https://news.ycombinator.com/item?id=50455633\nPoints: 3\n# Comments: 0",
+      "url": "https://machinelearning.apple.com/research/faster-retrieval"
+    },
+    {
+      "category": "Science",
+      "title": "A gold–copper strategy for building interlocked nitrogen-doped carbon nanohoops",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Wed, 11 Nov 2026 11:40:21 EST",
+      "summary": "Catenanes are molecules in which two or more rings are mechanically interlocked like the links of a chain, without any chemical bonds between them. Since Jean-Pierre Sauvage, who later shared the 2016 Nobel Prize in Chemistry, reported an efficient metal-templated synthesis in 1983, catenanes have attracted attention as fundamental frameworks for molecular machines.",
+      "url": "https://phys.org/news/2026-11-goldcopper-strategy-interlocked-nitrogen-doped.html"
+    },
+    {
+      "category": "AI",
+      "title": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
+      "source": "Hacker News: Front Page",
+      "date": "Wed, 11 Nov 2026 16:38:44 +0000",
+      "summary": "Article URL: https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/\nComments URL: https://news.ycombinator.com/item?id=50455394\nPoints: 60\n# Comments: 24",
+      "url": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/"
+    },
+    {
+      "category": "Science",
+      "title": " Florida's 'dark magic' mushrooms have a deadly combination of chemicals never seen before ",
+      "source": " Latest from Live Science ",
+      "date": "Wed, 11 Nov 2026 16:00:00 +0000",
+      "summary": "Scientists have discovered that a known mushroom, Galerina indica, contains both psychedelic chemicals and deadly toxins.",
+      "url": "https://www.livescience.com/chemistry/floridas-dark-magic-mushrooms-have-a-deadly-combination-of-chemicals-never-seen-before"
+    },
+    {
+      "category": "Science",
+      "title": " More people could count as obese under newly proposed definition — here's what you need to know ",
+      "source": " Latest from Live Science ",
+      "date": "Wed, 11 Nov 2026 16:00:00 +0000",
+      "summary": "A new study supports a more nuanced approach to obesity diagnosis. Here's what to know.",
+      "url": "https://www.livescience.com/health/more-people-could-count-as-obese-under-newly-proposed-definition-heres-what-you-need-to-know"
+    },
+    {
+      "category": "Space",
+      "title": " 'There's tremendous demand': Rocket Lab raises price of Neutron launch from $55 million to $70 million ",
+      "source": " Latest from Space.com ",
+      "date": "Wed, 11 Nov 2026 16:00:00 +0000",
+      "summary": "Rocket Lab has raised the launch cost of its next-gen Neutron rocket by more than 25%, an increase that reflects high demand amid a looming liftoff bottleneck.",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/theres-tremendous-demand-rocket-lab-raises-price-of-neutron-launch-from-usd55-million-to-usd70-million"
+    },
+    {
+      "category": "AI",
+      "title": "Trump wanted little Kei trucks for America, Toyota makes it happen",
+      "source": "Ars Technica - All content",
+      "date": "Wed, 11 Nov 2026 15:25:44 +0000",
+      "summary": "Does this herald the start of a small car revolution, or is it a meaningless distraction?",
+      "url": "https://arstechnica.com/cars/2026/11/toyota-resurrects-scion-with-right-hand-drive-kei-trucks/"
+    },
+    {
+      "category": "Space",
+      "title": " Hubble Space Telescope reveals glittering stars with mysterious origins | Space photo of the day for Nov. 11, 2026 ",
+      "source": " Latest from Space.com ",
+      "date": "Wed, 11 Nov 2026 15:00:00 +0000",
+      "summary": "This dazzling collection of ancient stars could hold clues to the Milky Way's past.",
+      "url": "https://www.space.com/astronomy/hubble-space-telescope/hubble-space-telescope-reveals-glittering-stars-with-mysterious-origins-space-photo-of-the-day-for-nov-11-2026"
+    },
+    {
+      "category": "AI",
+      "title": "Google DeepMind just mathematically verified key parts of Signal",
+      "source": "Ars Technica - All content",
+      "date": "Wed, 11 Nov 2026 14:08:57 +0000",
+      "summary": "The four-week project hints that AI could make formal verification far more practical.",
+      "url": "https://arstechnica.com/ai/2026/11/signals-encryption-just-passed-an-ai-powered-mathematical-checkup/"
+    },
+    {
+      "category": "Science",
+      "title": "NASA reveals Earth's ozone hole has grown to a size not seen in a decade",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Wed, 11 Nov 2026 07:32:48 EST",
+      "summary": "The Antarctic ozone hole expanded to its seventh-largest size on record in 2026, driven by unusual weather conditions that pushed it close to its historic maximum. Scientists say international restrictions on ozone-destroying chemicals prevented even greater damage, and Earth's protective ozone layer is still recovering.",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261110042546.htm"
+    },
+    {
+      "category": "Biblical Studies",
+      "title": "Unpacking Paul’s New Testament Letters",
+      "source": "Biblical Archaeology Society",
+      "date": "Wed, 11 Nov 2026 11:45:26 +0000",
+      "summary": "Seven New Testament letters are undisputed works of the apostle Paul (Romans; 1 Corinthians; 2 Corinthians; Galatians; Philippians; 1 Thessalonians; Philemon). Some scholars think a […]\nThe post Unpacking Paul’s New Testament Letters appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/daily/biblical-topics/bible-interpretation/unpacking-pauls-new-testament-letters/"
+    },
+    {
+      "category": "Biblical Studies",
+      "title": "Finding Jesus at Chorazin",
+      "source": "Biblical Archaeology Society",
+      "date": "Wed, 11 Nov 2026 11:00:40 +0000",
+      "summary": "It seems like almost every year, archaeologists uncover another ancient synagogue in the Holy Land. Although many of these synagogues have become famous for their […]\nThe post Finding Jesus at Chorazin appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-israel/finding-jesus-at-chorazin/"
+    },
+    {
+      "category": "Science",
+      "title": "Where are all the males? Ancient human fossils reveal a startling mystery",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Wed, 11 Nov 2026 04:43:55 EST",
+      "summary": "A remarkable discovery in a South African cave suggests that an extinct human relative may have created an all-female burial site more than 240,000 years ago. Scientists analyzed ancient proteins preserved in Homo naledi teeth and found no male-specific markers among at least 20 individuals, potentially solving a mystery that has puzzled researchers for over a decade.",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261110042558.htm"
+    },
+    {
+      "category": "AI",
+      "title": "ChatGPT Plus for veterans and servicemembers",
+      "source": "OpenAI News",
+      "date": "Wed, 11 Nov 2026 08:00:00 GMT",
+      "summary": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
+      "url": "https://openai.com/index/chatgpt-plus-for-veterans"
+    },
+    {
+      "category": "Space",
+      "title": "APOD: 2026 November 11 – NGC 4449: Small Galaxy, Big Impact",
+      "source": "NASA",
+      "date": "Wed, 11 Nov 2026 05:05:00 +0000",
+      "summary": "APOD Science APOD APOD: 2026 November 11 – NGC… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. NGC 4449: […]",
+      "url": "https://science.nasa.gov/image-article/apod-2026-november-11-ngc-4449-small-galaxy-big-impact/"
+    },
+    {
+      "category": "Theology",
+      "title": "Beyond the Battlefield: Veteran Suicide and the Value of Life",
+      "source": "The Gospel Coalition",
+      "date": "Wed, 11 Nov 2026 05:02:00 +0000",
+      "summary": "On Veterans Day, we celebrate the willingness of those who have served and are serving to sacrifice for our country.",
+      "url": "https://www.thegospelcoalition.org/article/sacrifice-veteran-life/"
+    },
+    {
+      "category": "Space",
+      "title": "Water Surges Into Navajo Reservoir",
+      "source": "NASA",
+      "date": "Wed, 11 Nov 2026 05:01:00 +0000",
+      "summary": "Rounds of heavy rain in the U.S. Southwest flooded rivers and rapidly raised New Mexico’s second-largest reservoir.",
+      "url": "https://science.nasa.gov/earth/earth-observatory/water-surges-into-navajo-reservoir/"
+    },
+    {
+      "category": "Theology",
+      "title": "How We Saw God’s Goodness Through Our Child’s Cancer",
+      "source": "The Gospel Coalition",
+      "date": "Wed, 11 Nov 2026 05:00:00 +0000",
+      "summary": "It was not in the good moments where God’s care was most evident. It was in the dark moments, often at night, when we were unsure if our son would survive.",
+      "url": "https://www.thegospelcoalition.org/article/child-cancer-gods-goodness/"
+    },
+    {
+      "category": "Science",
+      "title": "Scientists discover a giant 66-pound rodent that lived 34 million years ago",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Tue, 10 Nov 2026 20:36:04 EST",
+      "summary": "Scientists have uncovered fossils of a giant rodent that lived in Thailand 34 million years ago, revealing that enormous rodents evolved much earlier than previously thought. Named Yakamys sirindhornae, the ancient animal may have weighed around 66 pounds, roughly twice as much as other known rodents of its time.",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261110042532.htm"
     },
     {
       "category": "History",
@@ -27,92 +211,12 @@
       "url": "https://allthingsliberty.com/2026/11/on-this-weeks-dispatches-emelia-lehmann-on-david-steeles-macabre-medal/"
     },
     {
-      "category": "Science",
-      "title": "Genetic ancestry plays a key role in the migration of Cory's shearwaters",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Tue, 10 Nov 2026 20:00:01 EST",
-      "summary": "To what extent do genes influence the migratory routes of birds? The factors that determine the long-distance migrations of seabirds are not yet fully understood. Now, a study published in the journal Molecular Ecology reveals that, in the case of Cory's shearwater, an individual's genetic ancestry is a more significant factor in their migratory decisions than their social environment in the breeding colony.",
-      "url": "https://phys.org/news/2026-11-genetic-ancestry-plays-key-role.html"
-    },
-    {
-      "category": "Science",
-      "title": "Earliest known compact quasar pair poses a black hole growth puzzle",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Tue, 10 Nov 2026 19:50:02 EST",
-      "summary": "The oldest pair of compact quasars ever observed has been found only 900 million years after the Big Bang. Scientists say there is no theoretical explanation for how the pair of actively feeding black holes grew so massive at such an early time in the history of the universe. The pair of quasars has been given the Hawaiian nickname Nāpōwawāʻenakaulua.",
-      "url": "https://phys.org/news/2026-11-earliest-compact-quasar-pair-poses.html"
-    },
-    {
-      "category": "AI",
-      "title": "The DRAM interface and the PHY (why a DDR3+ interface must be tuned at boot)",
-      "source": "Hacker News: Front Page",
-      "date": "Tue, 10 Nov 2026 23:41:41 +0000",
-      "summary": "Article URL: https://github.com/enjoy-digital/litedram/blob/master/doc/manual/03_dram_interface.md\nComments URL: https://news.ycombinator.com/item?id=50447900\nPoints: 11\n# Comments: 0",
-      "url": "https://github.com/enjoy-digital/litedram/blob/master/doc/manual/03_dram_interface.md"
-    },
-    {
       "category": "AI",
       "title": "Seagate's new hybrid drive raises some old questions",
       "source": "Ars Technica - All content",
       "date": "Tue, 10 Nov 2026 23:30:56 +0000",
       "summary": "The FireCuda Forge revisits an old idea, with some familiar questions.",
       "url": "https://arstechnica.com/gadgets/2026/11/seagate-resurrects-the-ssd-hdd-hybrid-drive/"
-    },
-    {
-      "category": "AI",
-      "title": "The US military seems to be getting nervous about the launch supply crunch",
-      "source": "Ars Technica - All content",
-      "date": "Tue, 10 Nov 2026 23:02:39 +0000",
-      "summary": "\"Launch is extremely constrained and that is exactly the situation we predicted.\"",
-      "url": "https://arstechnica.com/space/2026/11/the-us-military-seems-to-be-getting-nervous-about-the-launch-supply-crunch/"
-    },
-    {
-      "category": "AI",
-      "title": "Ring cameras go mobile as Amazon debuts AI-powered security drone and robot",
-      "source": "Ars Technica - All content",
-      "date": "Tue, 10 Nov 2026 22:35:01 +0000",
-      "summary": "Amazon's roaming Ring Robotics devices will debut in late 2026 and early 2027.",
-      "url": "https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot/"
-    },
-    {
-      "category": "AI",
-      "title": "After 7 months, Glasswing overwelms maintainers with underwhelming findings",
-      "source": "Hacker News: Front Page",
-      "date": "Tue, 10 Nov 2026 22:17:56 +0000",
-      "summary": "Article URL: https://www.vulncheck.com/blog/anthropic-glasswing-november-update\nComments URL: https://news.ycombinator.com/item?id=50447074\nPoints: 184\n# Comments: 75",
-      "url": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update"
-    },
-    {
-      "category": "AI",
-      "title": "$30M Raised to Redo the CPU",
-      "source": "Hacker News: Front Page",
-      "date": "Tue, 10 Nov 2026 22:14:03 +0000",
-      "summary": "Article URL: https://tendrils.co/blog/2026-11-10/30m-raised\nComments URL: https://news.ycombinator.com/item?id=50447036\nPoints: 21\n# Comments: 7",
-      "url": "https://tendrils.co/blog/2026-11-10/30m-raised"
-    },
-    {
-      "category": "Space",
-      "title": " SpaceX moves Starship Flight 15 booster to launch pad for 'squeeze test' ahead of epic double-catch attempt (photos) ",
-      "source": " Latest from Space.com ",
-      "date": "Tue, 10 Nov 2026 22:09:39 +0000",
-      "summary": "SpaceX has moved its Starship Super Heavy booster to the pad to prep for the next test flight of the megarocket, a historic mission scheduled to launch this Friday (Nov. 13).",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-moves-starship-flight-15-booster-to-launch-pad-for-squeeze-test-ahead-of-epic-double-catch-attempt-photos"
-    },
-    {
-      "category": "Space",
-      "title": " Anthony Mackie, Ariana DeBose, and John Leguizamo reveal why they joined Andy Weir's sci-fi audio drama 'Exoplanet' (interview) ",
-      "source": " Latest from Space.com ",
-      "date": "Tue, 10 Nov 2026 22:00:00 +0000",
-      "summary": "We hooked up with Mackie, DeBose, and Lequizamo to learn more about this renaissance of audio dramas and what attracted them to board Weir's sci-fi thriller.",
-      "url": "https://www.space.com/entertainment/anthony-mackie-ariana-debose-and-john-leguizamo-reveal-why-they-joined-andy-weirs-sci-fi-audio-drama-exoplanet-interview"
-    },
-    {
-      "category": "Space",
-      "title": " On this day in space! Nov. 10, 2013: Europe's GOCE satellite, the 'Ferrari of space,' fell out of orbit after mapping Earth's gravity field ",
-      "source": " Latest from Space.com ",
-      "date": "Tue, 10 Nov 2026 21:51:24 +0000",
-      "summary": "On Nov. 10, 2013, Europe's GOCE satellite fell to Earth after four years in orbit mapping the planet's gravitational field. Here's why it mattered.",
-      "url": "https://www.space.com/space-exploration/on-this-day-in-space-november-10-2026"
     },
     {
       "category": "Space",
@@ -123,44 +227,12 @@
       "url": "https://www.nasa.gov/news-release/nasa-invites-media-public-to-join-voyager-1-one-light-day-activities/"
     },
     {
-      "category": "Space",
-      "title": "NASA to Welcome Expedition 74 Astronauts Home at Space Center Houston",
-      "source": "NASA",
-      "date": "Tue, 10 Nov 2026 18:06:33 +0000",
-      "summary": "NASA will welcome home the Expedition 74 crew during a public event at Space Center Houston following their return from a long-duration mission aboard the International Space Station. NASA astronauts Jessica Meir, Jack Hathaway, and Chris Williams; ESA (European Space Agency) astronaut Sophie Adenot; and Roscosmos cosmonauts Sergey Kud‑Sverchkov and Sergei Mikaev will share mission […]",
-      "url": "https://www.nasa.gov/news-release/nasa-to-welcome-expedition-74-astronauts-home-at-space-center-houston/"
-    },
-    {
-      "category": "Science",
-      "title": " Gravity can reconnect like the sun's magnetic field, a fresh look at Einstein's equations reveals ",
-      "source": " Latest from Live Science ",
-      "date": "Tue, 10 Nov 2026 17:57:19 +0000",
-      "summary": "A fresh look at Einstein's equations suggests that gravity can sometimes snap and reconnect, similar to magnetic field lines on the sun. The findings hint at a new way that gravity and matter can trade energy.",
-      "url": "https://www.livescience.com/physics-mathematics/hidden-sheets-of-gravity-can-tear-and-reconnect-like-the-suns-magnetic-field-does-fresh-look-at-einsteins-equations-suggests"
-    },
-    {
       "category": "Theology",
       "title": "Don’t Forget the Great Commission When You Counsel",
       "source": "9Marks",
       "date": "Tue, 10 Nov 2026 17:23:25 +0000",
       "summary": "The Great Commission, then, is for fearful, doubting, weak, disbelieving disciples, who need to be reminded of Jesus’s power and authority.\nThe post Don’t Forget the Great Commission When You Counsel appeared first on 9Marks.",
       "url": "https://www.9marks.org/article/dont-forget-the-great-commission-when-you-counsel/?utm_source=rss&utm_medium=rss&utm_campaign=dont-forget-the-great-commission-when-you-counsel"
-    },
-    {
-      "category": "Space",
-      "title": "NASA Scientists Show How Gravitational Waves Can Reveal New Worlds",
-      "source": "NASA",
-      "date": "Tue, 10 Nov 2026 16:00:26 +0000",
-      "summary": "The LISA (Laser Interferometer Space Antenna) observatory, now in development, will detect gravitational waves, the tiny ripples in space-time caused by orbiting masses. Now two studies led by NASA astrophysicists show in new detail how LISA could reveal a new and unique population of exoplanets — worlds beyond our solar system — throughout our galaxy.  […]",
-      "url": "https://science.nasa.gov/missions/lisa/gravitational-waves-can-reveal-new-worlds/"
-    },
-    {
-      "category": "Science",
-      "title": " ZWO Seestar S30 Plus review ",
-      "source": " Latest from Live Science ",
-      "date": "Tue, 10 Nov 2026 14:00:00 +0000",
-      "summary": "We tested the brand-new ZWO Seestar S30 Plus, an all-in-one smart telescope for beginners and hobbyists that makes astrophotography accessible to everyone.",
-      "url": "https://www.livescience.com/products/optics/zwo-seestar-s30-plus-review"
     },
     {
       "category": "Biblical Studies",
@@ -171,28 +243,12 @@
       "url": "https://www.biblicalarchaeology.org/daily/biblical-sites-places/biblical-archaeology-sites/machaerus-beyond-the-beheading-of-john-the-baptist/"
     },
     {
-      "category": "Biblical Studies",
-      "title": "A Biblical Spice Rack",
-      "source": "Biblical Archaeology Society",
-      "date": "Tue, 10 Nov 2026 12:00:27 +0000",
-      "summary": "The brevity of life is compared to the delicate bloom of the caper in one of the Bible’s many references to fragrant and edible plants. Enjoy a glimpse of some of these plants. \nThe post A Biblical Spice Rack appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/daily-life-and-practice/bible-herbs-spices/"
-    },
-    {
       "category": "AI",
       "title": "Helping caregivers use AI in everyday life",
       "source": "OpenAI News",
       "date": "Tue, 10 Nov 2026 12:00:00 GMT",
       "summary": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
       "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life"
-    },
-    {
-      "category": "Science",
-      "title": " 'The first species we might be able to communicate with, interact with vocally, might be a bird': An animal researcher explains how she decoded birdsong ",
-      "source": " Latest from Live Science ",
-      "date": "Tue, 10 Nov 2026 11:00:00 +0000",
-      "summary": "Julie Elie, an ethologist at the University of California,  Berkeley, tells Live Science about using AI to decode the vocalizations of zebra finches.",
-      "url": "https://www.livescience.com/animals/birds/the-first-species-we-might-be-able-to-communicate-with-interact-with-vocally-might-be-a-bird-an-animal-researcher-explains-how-she-decoded-birdsong"
     },
     {
       "category": "History",
@@ -203,14 +259,6 @@
       "url": "https://allthingsliberty.com/2026/11/the-british-experiment-to-use-loyalists-in-the-southern-war/"
     },
     {
-      "category": "AI",
-      "title": "Introducing Businesses in ChatGPT",
-      "source": "OpenAI News",
-      "date": "Tue, 10 Nov 2026 10:00:00 GMT",
-      "summary": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
-      "url": "https://openai.com/index/introducing-businesses-chatgpt"
-    },
-    {
       "category": "Theology",
       "title": "On Christmas, God Shook Up the World",
       "source": "The Gospel Coalition",
@@ -219,60 +267,12 @@
       "url": "https://www.thegospelcoalition.org/article/god-shook-world-christmas/"
     },
     {
-      "category": "Theology",
-      "title": "Midlife Is a Crossroads, Not a Crisis",
-      "source": "The Gospel Coalition",
-      "date": "Tue, 10 Nov 2026 05:02:00 +0000",
-      "summary": "In ‘Good News for Midlife,’ Jared Wilson reminds us to embrace our midlife crossroads, find new meaning in service to others, and let this season be an opportunity to discover grace upon grace in Jesus.",
-      "url": "https://www.thegospelcoalition.org/reviews/good-news-midlife/"
-    },
-    {
-      "category": "Theology",
-      "title": "Avoid the Trap of Bitterness",
-      "source": "The Gospel Coalition",
-      "date": "Tue, 10 Nov 2026 05:00:00 +0000",
-      "summary": "Joseph avoids the trap of bitterness. And you can too, if you follow these three steps.",
-      "url": "https://www.thegospelcoalition.org/article/avoid-trap-bitterness/"
-    },
-    {
-      "category": "Science",
-      "title": "Alzheimer’s may have early warning signs outside the brain",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Mon, 09 Nov 2026 20:47:34 EST",
-      "summary": "A surprising discovery suggests that some early signs of Alzheimer’s disease may begin outside the brain. Using miniature laboratory systems made from human cells, scientists found that genetic mutations associated with inherited Alzheimer’s can disrupt nerve-to-muscle connections without any involvement from the brain or spinal cord. This could help explain why some patients experience changes in balance, walking, and coordination long before memory problems develop.",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261108233103.htm"
-    },
-    {
-      "category": "Science",
-      "title": "Scientists finally discover why we learn to love bitter coffee",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Mon, 09 Nov 2026 18:19:35 EST",
-      "summary": "Scientists have uncovered a hidden gut-to-brain dopamine pathway that helps explain why bitter coffee and other initially unpleasant flavors can become favorites over time. The discovery reveals how the brain learns to crave certain foods and could eventually lead to new ways of reshaping eating habits and food preferences.",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261108233100.htm"
-    },
-    {
       "category": "History",
       "title": "The Country People: An Agricultural History of the American Revolution",
       "source": "Journal of the American Revolution",
       "date": "Mon, 09 Nov 2026 13:34:25 +0000",
       "summary": "BOOK REVIEW: The Country People: An Agricultural History of the American Revolution by R. Douglas Hurt. (Athens, GA: University of Georgia Press, 2026) $32.95 Paperback. When an army reaches a location, be it a camp or a battlefield or a city, the commanders need to figure out how to feed everyone. Did the army quartermaster […]\nThe post The Country People: An Agricultural History of the American Revolution appeared first on Journal of the American Revolution.",
       "url": "https://allthingsliberty.com/2026/11/the-country-people-an-agricultural-history-of-the-american-revolution/"
-    },
-    {
-      "category": "Biblical Studies",
-      "title": "Citizenship in the Hebrew Bible",
-      "source": "Biblical Archaeology Society",
-      "date": "Mon, 09 Nov 2026 11:45:26 +0000",
-      "summary": "When thinking of the origins of democracy, as many are doing after election day, most point to ancient Greece. Greece indeed formalized processes and ideals […]\nThe post Citizenship in the Hebrew Bible appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-israel/citizenship-in-the-hebrew-bible/"
-    },
-    {
-      "category": "Science",
-      "title": "NASA reveals bold new plan to return astronauts to the Moon in 2028",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Mon, 09 Nov 2026 04:13:28 EST",
-      "summary": "NASA has revealed an accelerated plan to land astronauts on the Moon in 2028, with SpaceX and Blue Origin developing competing lunar landers and a crucial orbital test scheduled for 2027. Faster rocket preparations, new lightweight spacesuits, and redesigned missions could help pave the way for a permanent lunar presence and future human exploration of Mars.",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261108233054.htm"
     },
     {
       "category": "Theology",
