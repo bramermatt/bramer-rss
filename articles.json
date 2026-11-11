@@ -1,7 +1,143 @@
 {
-  "lastUpdated": "2026-11-10T17:24:15.257Z",
+  "lastUpdated": "2026-11-11T01:37:19.214Z",
   "articleCount": 39,
   "articles": [
+    {
+      "category": "AI",
+      "title": "Gilbert + Tobin rethinks the business of law with AI",
+      "source": "OpenAI News",
+      "date": "Thu, 12 Nov 2026 00:00:00 GMT",
+      "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
+      "url": "https://openai.com/index/gilbert-tobin-sam-nickless"
+    },
+    {
+      "category": "Science",
+      "title": "A new tool makes biodiversity conservation planning more efficient and reproducible",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Tue, 10 Nov 2026 20:20:07 EST",
+      "summary": "ZonationR is a new tool that simplifies the use of Zonation to identify priority areas for biodiversity conservation. It brings all stages of the conservation planning analysis together in one automated and reproducible workflow and helps users systematically explore and compare alternative conservation scenarios.",
+      "url": "https://phys.org/news/2026-11-tool-biodiversity-efficient.html"
+    },
+    {
+      "category": "History",
+      "title": "On This Week’s Dispatches: Emelia Lehmann on David Steele’s Macabre “Medal”",
+      "source": "Journal of the American Revolution",
+      "date": "Wed, 11 Nov 2026 01:00:37 +0000",
+      "summary": "On this week’s Dispatches, host Brady Crytzer interviews JAR contributor Emelia Lehmann about Virginia militiaman David Steele who carried a piece of his broken skull as a “medal” for his role in the battle of Guilford Courhouse. New episodes of Dispatches are available for free every Sunday evening(Eastern United States Time), first on iTunes, Stitcher, […]\nThe post On This Week’s Dispatches: Emelia Lehmann on David Steele’s Macabre “Medal” appeared first on Journal of the American Revolution.",
+      "url": "https://allthingsliberty.com/2026/11/on-this-weeks-dispatches-emelia-lehmann-on-david-steeles-macabre-medal/"
+    },
+    {
+      "category": "Science",
+      "title": "Genetic ancestry plays a key role in the migration of Cory's shearwaters",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Tue, 10 Nov 2026 20:00:01 EST",
+      "summary": "To what extent do genes influence the migratory routes of birds? The factors that determine the long-distance migrations of seabirds are not yet fully understood. Now, a study published in the journal Molecular Ecology reveals that, in the case of Cory's shearwater, an individual's genetic ancestry is a more significant factor in their migratory decisions than their social environment in the breeding colony.",
+      "url": "https://phys.org/news/2026-11-genetic-ancestry-plays-key-role.html"
+    },
+    {
+      "category": "Science",
+      "title": "Earliest known compact quasar pair poses a black hole growth puzzle",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Tue, 10 Nov 2026 19:50:02 EST",
+      "summary": "The oldest pair of compact quasars ever observed has been found only 900 million years after the Big Bang. Scientists say there is no theoretical explanation for how the pair of actively feeding black holes grew so massive at such an early time in the history of the universe. The pair of quasars has been given the Hawaiian nickname Nāpōwawāʻenakaulua.",
+      "url": "https://phys.org/news/2026-11-earliest-compact-quasar-pair-poses.html"
+    },
+    {
+      "category": "AI",
+      "title": "The DRAM interface and the PHY (why a DDR3+ interface must be tuned at boot)",
+      "source": "Hacker News: Front Page",
+      "date": "Tue, 10 Nov 2026 23:41:41 +0000",
+      "summary": "Article URL: https://github.com/enjoy-digital/litedram/blob/master/doc/manual/03_dram_interface.md\nComments URL: https://news.ycombinator.com/item?id=50447900\nPoints: 11\n# Comments: 0",
+      "url": "https://github.com/enjoy-digital/litedram/blob/master/doc/manual/03_dram_interface.md"
+    },
+    {
+      "category": "AI",
+      "title": "Seagate's new hybrid drive raises some old questions",
+      "source": "Ars Technica - All content",
+      "date": "Tue, 10 Nov 2026 23:30:56 +0000",
+      "summary": "The FireCuda Forge revisits an old idea, with some familiar questions.",
+      "url": "https://arstechnica.com/gadgets/2026/11/seagate-resurrects-the-ssd-hdd-hybrid-drive/"
+    },
+    {
+      "category": "AI",
+      "title": "The US military seems to be getting nervous about the launch supply crunch",
+      "source": "Ars Technica - All content",
+      "date": "Tue, 10 Nov 2026 23:02:39 +0000",
+      "summary": "\"Launch is extremely constrained and that is exactly the situation we predicted.\"",
+      "url": "https://arstechnica.com/space/2026/11/the-us-military-seems-to-be-getting-nervous-about-the-launch-supply-crunch/"
+    },
+    {
+      "category": "AI",
+      "title": "Ring cameras go mobile as Amazon debuts AI-powered security drone and robot",
+      "source": "Ars Technica - All content",
+      "date": "Tue, 10 Nov 2026 22:35:01 +0000",
+      "summary": "Amazon's roaming Ring Robotics devices will debut in late 2026 and early 2027.",
+      "url": "https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot/"
+    },
+    {
+      "category": "AI",
+      "title": "After 7 months, Glasswing overwelms maintainers with underwhelming findings",
+      "source": "Hacker News: Front Page",
+      "date": "Tue, 10 Nov 2026 22:17:56 +0000",
+      "summary": "Article URL: https://www.vulncheck.com/blog/anthropic-glasswing-november-update\nComments URL: https://news.ycombinator.com/item?id=50447074\nPoints: 184\n# Comments: 75",
+      "url": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update"
+    },
+    {
+      "category": "AI",
+      "title": "$30M Raised to Redo the CPU",
+      "source": "Hacker News: Front Page",
+      "date": "Tue, 10 Nov 2026 22:14:03 +0000",
+      "summary": "Article URL: https://tendrils.co/blog/2026-11-10/30m-raised\nComments URL: https://news.ycombinator.com/item?id=50447036\nPoints: 21\n# Comments: 7",
+      "url": "https://tendrils.co/blog/2026-11-10/30m-raised"
+    },
+    {
+      "category": "Space",
+      "title": " SpaceX moves Starship Flight 15 booster to launch pad for 'squeeze test' ahead of epic double-catch attempt (photos) ",
+      "source": " Latest from Space.com ",
+      "date": "Tue, 10 Nov 2026 22:09:39 +0000",
+      "summary": "SpaceX has moved its Starship Super Heavy booster to the pad to prep for the next test flight of the megarocket, a historic mission scheduled to launch this Friday (Nov. 13).",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-moves-starship-flight-15-booster-to-launch-pad-for-squeeze-test-ahead-of-epic-double-catch-attempt-photos"
+    },
+    {
+      "category": "Space",
+      "title": " Anthony Mackie, Ariana DeBose, and John Leguizamo reveal why they joined Andy Weir's sci-fi audio drama 'Exoplanet' (interview) ",
+      "source": " Latest from Space.com ",
+      "date": "Tue, 10 Nov 2026 22:00:00 +0000",
+      "summary": "We hooked up with Mackie, DeBose, and Lequizamo to learn more about this renaissance of audio dramas and what attracted them to board Weir's sci-fi thriller.",
+      "url": "https://www.space.com/entertainment/anthony-mackie-ariana-debose-and-john-leguizamo-reveal-why-they-joined-andy-weirs-sci-fi-audio-drama-exoplanet-interview"
+    },
+    {
+      "category": "Space",
+      "title": " On this day in space! Nov. 10, 2013: Europe's GOCE satellite, the 'Ferrari of space,' fell out of orbit after mapping Earth's gravity field ",
+      "source": " Latest from Space.com ",
+      "date": "Tue, 10 Nov 2026 21:51:24 +0000",
+      "summary": "On Nov. 10, 2013, Europe's GOCE satellite fell to Earth after four years in orbit mapping the planet's gravitational field. Here's why it mattered.",
+      "url": "https://www.space.com/space-exploration/on-this-day-in-space-november-10-2026"
+    },
+    {
+      "category": "Space",
+      "title": "NASA Invites Media, Public to Join Voyager 1 One-Light Day Activities",
+      "source": "NASA",
+      "date": "Tue, 10 Nov 2026 19:22:45 +0000",
+      "summary": "Launched nearly 50 years ago in 1977, NASA’s Voyager 1 on Wednesday, Nov. 18 will have traveled one light-day from Earth, which is more than 16 billion miles (25.9 billion kilometers). Voyager 1 is the most distant human-made object, and any light from Earth would take 24 hours to reach the spacecraft. NASA will highlight […]",
+      "url": "https://www.nasa.gov/news-release/nasa-invites-media-public-to-join-voyager-1-one-light-day-activities/"
+    },
+    {
+      "category": "Space",
+      "title": "NASA to Welcome Expedition 74 Astronauts Home at Space Center Houston",
+      "source": "NASA",
+      "date": "Tue, 10 Nov 2026 18:06:33 +0000",
+      "summary": "NASA will welcome home the Expedition 74 crew during a public event at Space Center Houston following their return from a long-duration mission aboard the International Space Station. NASA astronauts Jessica Meir, Jack Hathaway, and Chris Williams; ESA (European Space Agency) astronaut Sophie Adenot; and Roscosmos cosmonauts Sergey Kud‑Sverchkov and Sergei Mikaev will share mission […]",
+      "url": "https://www.nasa.gov/news-release/nasa-to-welcome-expedition-74-astronauts-home-at-space-center-houston/"
+    },
+    {
+      "category": "Science",
+      "title": " Gravity can reconnect like the sun's magnetic field, a fresh look at Einstein's equations reveals ",
+      "source": " Latest from Live Science ",
+      "date": "Tue, 10 Nov 2026 17:57:19 +0000",
+      "summary": "A fresh look at Einstein's equations suggests that gravity can sometimes snap and reconnect, similar to magnetic field lines on the sun. The findings hint at a new way that gravity and matter can trade energy.",
+      "url": "https://www.livescience.com/physics-mathematics/hidden-sheets-of-gravity-can-tear-and-reconnect-like-the-suns-magnetic-field-does-fresh-look-at-einsteins-equations-suggests"
+    },
     {
       "category": "Theology",
       "title": "Don’t Forget the Great Commission When You Counsel",
@@ -11,116 +147,12 @@
       "url": "https://www.9marks.org/article/dont-forget-the-great-commission-when-you-counsel/?utm_source=rss&utm_medium=rss&utm_campaign=dont-forget-the-great-commission-when-you-counsel"
     },
     {
-      "category": "Science",
-      "title": "Cool adaptations: How fish survive in the Antarctic Ocean",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Tue, 10 Nov 2026 12:20:13 EST",
-      "summary": "With water temperatures as low as -1.9°C (28.6°F), the Southern Ocean is a place of extreme living conditions. A new study led by Senckenberg researchers shows how fish have adapted to Antarctic temperatures. The researchers used the Antarctic spiny plunderfish (Harpagifer antarcticus) as a model organism and, for the first time, analyzed the maternal and paternal copies of its genome separately. This allowed them to uncover mechanisms that contribute to this group of fishes' adaptation to extreme cold.",
-      "url": "https://phys.org/news/2026-11-cool-fish-survive-antarctic-ocean.html"
-    },
-    {
-      "category": "Science",
-      "title": "Q&A: Exploring generative AI's impact on student thinking during programming and debugging",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Tue, 10 Nov 2026 12:20:09 EST",
-      "summary": "The doctoral dissertation of Yazid Albadarin, MSc, entitled \"Capturing the impact of generative AI on higher-order thinking, creativity, and cognitive dynamics during debugging\" will be examined at the Faculty of Science, Forestry and Technology, Joensuu campus.",
-      "url": "https://phys.org/news/2026-11-qa-exploring-generative-ai-impact.html"
-    },
-    {
-      "category": "AI",
-      "title": "AMD's Zen 6 Family: Feeding the Beast",
-      "source": "Hacker News: Front Page",
-      "date": "Tue, 10 Nov 2026 17:02:32 +0000",
-      "summary": "Article URL: https://chipsandcheese.com/p/amds-zen-6-family-feeding-the-beast\nComments URL: https://news.ycombinator.com/item?id=50443090\nPoints: 3\n# Comments: 0",
-      "url": "https://chipsandcheese.com/p/amds-zen-6-family-feeding-the-beast"
-    },
-    {
-      "category": "Science",
-      "title": "Laser-driven magnetic state defies equilibrium rules",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Tue, 10 Nov 2026 12:00:10 EST",
-      "summary": "Researchers at the Department of Energy's (DOE's) Oak Ridge National Laboratory (ORNL) and their collaborators used lasers and neutrons to observe a long-lived quantum state in a magnetic material, opening a new way to study materials systems driven far from their equilibrium. Manipulation of quantum magnets is important for advancing quantum information science and could reduce loss of transported information, improve memory devices and benefit other quantum technologies.",
-      "url": "https://phys.org/news/2026-11-laser-driven-magnetic-state-defies.html"
-    },
-    {
-      "category": "Space",
-      "title": " Were there 'lost cosmonauts' in the early Soviet space program? ",
-      "source": " Latest from Space.com ",
-      "date": "Tue, 10 Nov 2026 17:00:00 +0000",
-      "summary": "At the height of the Cold War, two amateur radio operators alleged they intercepted signals from Soviet cosmonauts who perished during missions that remained secret.",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/were-there-lost-cosmonauts-in-the-early-soviet-space-program"
-    },
-    {
-      "category": "AI",
-      "title": ".name Grandfathered",
-      "source": "Hacker News: Front Page",
-      "date": "Tue, 10 Nov 2026 16:37:44 +0000",
-      "summary": "Article URL: https://neil.fraser.name/news/2026/11/10/\nComments URL: https://news.ycombinator.com/item?id=50442736\nPoints: 83\n# Comments: 7",
-      "url": "https://neil.fraser.name/news/2026/11/10/"
-    },
-    {
-      "category": "AI",
-      "title": "Tailscale's DNS IPv6 spells out \"Tailscale\"",
-      "source": "Hacker News: Front Page",
-      "date": "Tue, 10 Nov 2026 16:34:45 +0000",
-      "summary": "Article URL: https://www.reddit.com/r/Tailscale/comments/1xsr24r/tailscales_dns_ipv6_spells_out_tailscale_easter/\nComments URL: https://news.ycombinator.com/item?id=50442691\nPoints: 31\n# Comments: 14",
-      "url": "https://www.reddit.com/r/Tailscale/comments/1xsr24r/tailscales_dns_ipv6_spells_out_tailscale_easter/"
-    },
-    {
-      "category": "AI",
-      "title": "High oil prices have led to a dip in global carbon emissions",
-      "source": "Ars Technica - All content",
-      "date": "Tue, 10 Nov 2026 16:29:27 +0000",
-      "summary": "Bucking recent trends, fossil fuel emissions look to be down 0.4 percent.",
-      "url": "https://arstechnica.com/science/2026/11/carbon-emissions-are-down-this-year-but-that-probably-wont-last/"
-    },
-    {
-      "category": "AI",
-      "title": "One space station company sues another for copying its work",
-      "source": "Ars Technica - All content",
-      "date": "Tue, 10 Nov 2026 16:17:51 +0000",
-      "summary": "\"NASA advised that Vast’s submission in some locations substituted 'the PAM Provider' for Axiom\"",
-      "url": "https://arstechnica.com/space/2026/11/one-space-station-company-sues-another-for-copying-its-work/"
-    },
-    {
       "category": "Space",
       "title": "NASA Scientists Show How Gravitational Waves Can Reveal New Worlds",
       "source": "NASA",
       "date": "Tue, 10 Nov 2026 16:00:26 +0000",
       "summary": "The LISA (Laser Interferometer Space Antenna) observatory, now in development, will detect gravitational waves, the tiny ripples in space-time caused by orbiting masses. Now two studies led by NASA astrophysicists show in new detail how LISA could reveal a new and unique population of exoplanets — worlds beyond our solar system — throughout our galaxy.  […]",
       "url": "https://science.nasa.gov/missions/lisa/gravitational-waves-can-reveal-new-worlds/"
-    },
-    {
-      "category": "Space",
-      "title": " A robot just built a structure autonomously in space for the 1st time ever ",
-      "source": " Latest from Space.com ",
-      "date": "Tue, 10 Nov 2026 16:00:00 +0000",
-      "summary": "A robot built part of an antenna in orbit recently, showcasing skills that could potentially allow the assembly of space telescopes and other large structures off Earth.",
-      "url": "https://www.space.com/technology/a-robot-just-built-a-structure-autonomously-in-space-for-the-1st-time-ever"
-    },
-    {
-      "category": "AI",
-      "title": "DeepMind reveals Gemini Robotics 2.5 and open safety benchmark \"ASIMOV-jailbreak\"",
-      "source": "Ars Technica - All content",
-      "date": "Tue, 10 Nov 2026 15:00:39 +0000",
-      "summary": "The new model is up to twice as successful at some tasks.",
-      "url": "https://arstechnica.com/google/2026/11/deepmind-reveals-gemini-robotics-2-5-and-open-safety-benchmark-asimov-jailbreak/"
-    },
-    {
-      "category": "Space",
-      "title": " Curiosity Mars rover sizes up new 'Nazca' dig site | Space photo of the day for Nov. 10, 2026 ",
-      "source": " Latest from Space.com ",
-      "date": "Tue, 10 Nov 2026 15:00:00 +0000",
-      "summary": "NASA's Curiosity Mars rover is sizing up its next dig site on the Red Planet. The Curiosity team will characterize the surface composition of \"Nazca\" as thoroughly as possible before drilling.",
-      "url": "https://www.space.com/astronomy/mars/curiosity-mars-rover-sizes-up-new-nazca-dig-site-space-photo-of-the-day-for-nov-10-2026"
-    },
-    {
-      "category": "Space",
-      "title": "CHAPEA Crew Leaves a Mark",
-      "source": "NASA",
-      "date": "Tue, 10 Nov 2026 14:57:55 +0000",
-      "summary": "The Crew Health and Performance Exploration Analog (CHAPEA) Mission 2 crew arranged photos around a boot print in the simulated Martian sand outside their habitat on Aug. 31, 2026. The crew recently exited their habitat on Saturday, Oct. 31, after 378 days of isolation in a facility at the agency’s Johnson Space Center in Houston. Health […]",
-      "url": "https://www.nasa.gov/image-article/chapea-crew-leaves-a-mark/"
     },
     {
       "category": "Science",
@@ -172,35 +204,11 @@
     },
     {
       "category": "AI",
-      "title": "Closing the AI guidance gap in education",
+      "title": "Introducing Businesses in ChatGPT",
       "source": "OpenAI News",
-      "date": "Tue, 10 Nov 2026 09:00:00 GMT",
-      "summary": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.",
-      "url": "https://openai.com/index/closing-ai-guidance-gap-education"
-    },
-    {
-      "category": "Science",
-      "title": " Highly active Russian volcano plays peek-a-boo with an astronaut ",
-      "source": " Latest from Live Science ",
-      "date": "Tue, 10 Nov 2026 08:00:00 +0000",
-      "summary": "A 2019 astronaut photo shows the near-perfect cone of a highly active volcano poking its heavily scarred and partially snow-covered head above a thick bank of low-lying clouds over the Kuril Islands.",
-      "url": "https://www.livescience.com/planet-earth/volcanoes/highly-active-russian-volcano-plays-peek-a-boo-with-an-astronaut-earth-from-space"
-    },
-    {
-      "category": "AI",
-      "title": "Work at the Frontier: AI’s effect on freelance work",
-      "source": "OpenAI News",
-      "date": "Tue, 10 Nov 2026 07:00:00 GMT",
-      "summary": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.",
-      "url": "https://openai.com/index/ai-effect-on-freelance-work"
-    },
-    {
-      "category": "Space",
-      "title": "APOD: 2026 November 10 – Saturn Behind the Moon",
-      "source": "NASA",
-      "date": "Tue, 10 Nov 2026 05:05:00 +0000",
-      "summary": "APOD Science APOD APOD: 2026 November 10 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Saturn Behind the […]",
-      "url": "https://science.nasa.gov/image-article/apod-2026-november-10-saturn-behind-the-moon/"
+      "date": "Tue, 10 Nov 2026 10:00:00 GMT",
+      "summary": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
+      "url": "https://openai.com/index/introducing-businesses-chatgpt"
     },
     {
       "category": "Theology",
@@ -273,14 +281,6 @@
       "date": "Fri, 06 Nov 2026 16:23:05 +0000",
       "summary": "Our corporate unity in Christ is not just an implication of conversion; it’s part of the very thing. Being reconciled to God’s people is distinct from but inseparable from being reconciled to God.\nThe post Salvation Makes You Part of a Family: The Corporate Component of Conversion appeared first on 9Marks.",
       "url": "https://www.9marks.org/article/salvation-makes-you-part-of-a-family-the-corporate-component-of-conversion/?utm_source=rss&utm_medium=rss&utm_campaign=salvation-makes-you-part-of-a-family-the-corporate-component-of-conversion"
-    },
-    {
-      "category": "History",
-      "title": "How Three Powers Became Three Branches",
-      "source": "Journal of the American Revolution",
-      "date": "Wed, 04 Nov 2026 23:00:26 +0000",
-      "summary": "On May 15, 1776, the Second Continental Congress declared that authority under the British Crown should be suppressed and that the powers of government should instead be exercised under the authority of the people. The resolution came seven weeks before the Declaration of Independence. It transformed an argument about imperial authority into a problem of […]\nThe post How Three Powers Became Three Branches appeared first on Journal of the American Revolution.",
-      "url": "https://allthingsliberty.com/2026/11/how-three-powers-became-three-branches/"
     },
     {
       "category": "Theology",
