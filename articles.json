@@ -1,54 +1,182 @@
 {
-  "lastUpdated": "2026-11-13T02:18:24.689Z",
-  "articleCount": 39,
+  "lastUpdated": "2026-11-13T17:27:26.298Z",
+  "articleCount": 36,
   "articles": [
     {
-      "category": "Science",
-      "title": "How populist leaders dismantle intelligence agencies from within: New study reveals the 'intelligence cyclone'",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Thu, 12 Nov 2026 21:00:01 EST",
-      "summary": "A new joint study from Ben-Gurion University of the Negev (BGU) and The Hebrew University of Jerusalem reveals how populist leaderships systematically undermine, discredit and ultimately capture intelligence agencies, transforming vital national security bodies into political echo chambers. The research, published in Contemporary Security Policy, warns that when populist politicians treat secret services as \"deep state\" adversaries, they disrupt objective threat analysis and leave democracies blind to catastrophic surprise attacks.",
-      "url": "https://phys.org/news/2026-11-populist-leaders-dismantle-intelligence-agencies.html"
-    },
-    {
-      "category": "Science",
-      "title": "Climate change has different consequences for the health of women and men",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Thu, 12 Nov 2026 20:40:01 EST",
-      "summary": "The health risks men and women are exposed to and the illnesses they develop vary widely across lifetimes and places. Yet climate policy and health services often overlook these differences.",
-      "url": "https://phys.org/news/2026-11-climate-consequences-health-women-men.html"
-    },
-    {
-      "category": "Science",
-      "title": "Black rhinos are mostly loners, but not always: Why this matters for saving the species",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Thu, 12 Nov 2026 20:30:01 EST",
-      "summary": "Black rhinos are notoriously aggressive, not just to humans but also to their fellow black rhinos. Aggression is so prevalent that injuries sustained after fighting with another black rhino are a common cause of death. Because of this aggression and their solitary nature, black rhino social behavior has been largely unexplored. Yet it may be key to conservation of this critically endangered African icon.",
-      "url": "https://phys.org/news/2026-11-black-rhinos-loners-species.html"
-    },
-    {
       "category": "AI",
-      "title": "Chicago schools to Google – we'd rather lose Search than be forced to accept AI",
-      "source": "Hacker News: Front Page",
-      "date": "Fri, 13 Nov 2026 00:38:41 +0000",
-      "summary": "Article URL: https://www.techspot.com/news/114532-chicago-schools-tell-google-they-can-live-without.html\nComments URL: https://news.ycombinator.com/item?id=50476586\nPoints: 37\n# Comments: 11",
-      "url": "https://www.techspot.com/news/114532-chicago-schools-tell-google-they-can-live-without.html"
-    },
-    {
-      "category": "AI",
-      "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
-      "source": "Hacker News: Front Page",
-      "date": "Thu, 12 Nov 2026 23:06:17 +0000",
-      "summary": "Article URL: https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer\nComments URL: https://news.ycombinator.com/item?id=50475713\nPoints: 55\n# Comments: 16",
-      "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer"
-    },
-    {
-      "category": "AI",
-      "title": "In reversal, American Cancer Society urges prostate cancer tests for all men",
+      "title": "AI is \"the most likely reason\" you'll die, OpenAI board member warns",
       "source": "Ars Technica",
-      "date": "Thu, 12 Nov 2026 22:59:51 +0000",
-      "summary": "Men aged 50–69 and at average risk should get PSA screening every two years.",
-      "url": "https://arstechnica.com/health/2026/11/in-reversal-american-cancer-society-urges-prostate-cancer-tests-for-all-men/"
+      "date": "Fri, 13 Nov 2026 17:25:45 +0000",
+      "summary": "Researcher traces a path from AI reward hacking to potential human extinction.",
+      "url": "https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/"
+    },
+    {
+      "category": "Science",
+      "title": "Colorful fish reveal how species stay distinct despite interbreeding",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Fri, 13 Nov 2026 12:20:06 EST",
+      "summary": "Vividly colored fish dwelling at the bottom of shallow Midwestern streams may help biologists understand the evolutionary mechanisms by which species remain distinct despite their similarities and overlapping ranges. Orangethroat and rainbow darters regularly interbreed where their ranges overlap, yet—millions of years after they first diverged—they remain separate species.",
+      "url": "https://phys.org/news/2026-11-fish-reveal-species-stay-distinct.html"
+    },
+    {
+      "category": "Science",
+      "title": "Rh₃ clusters balance activity and butene selectivity in butane dehydrogenation",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Fri, 13 Nov 2026 12:20:01 EST",
+      "summary": "Scientists from the Institute of Metal Research (IMR) of the Chinese Academy of Sciences, in collaboration with researchers from Peking University and Chongqing University, have demonstrated how the geometry and electronic properties of subnanometer rhodium (Rh) active sites shape C–H activation, product desorption and C–C bond cleavage during butane dehydrogenation.",
+      "url": "https://phys.org/news/2026-11-rh-clusters-butene-butane-dehydrogenation.html"
+    },
+    {
+      "category": "Science",
+      "title": "Heat drives electron orbital currents, revealing first experimental evidence of orbital Nernst effect",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Fri, 13 Nov 2026 12:00:12 EST",
+      "summary": "Researchers at National Taiwan University (NTU) have reported the first experimental evidence of heat-current-driven transverse accumulation of electrons' orbital angular momentum, a phenomenon known as the orbital Nernst effect. The study was recently published in Nature Communications.",
+      "url": "https://phys.org/news/2026-11-electron-orbital-currents-revealing-experimental.html"
+    },
+    {
+      "category": "Space",
+      "title": " Astronomers trace mystery radio signals back to cosmic odd couple of white dwarf and sun-like star ",
+      "source": " Latest from Space.com ",
+      "date": "Fri, 13 Nov 2026 17:00:00 +0000",
+      "summary": "\"It’s amazing that by using radio wavelengths, we can detect the storms on a star over 5,000 light-years away.\"",
+      "url": "https://www.space.com/astronomy/stars/astronomers-trace-mystery-radio-signals-back-to-cosmic-odd-couple-of-white-dwarf-and-sun-like-star"
+    },
+    {
+      "category": "Space",
+      "title": "Outbursts from a Massive Star",
+      "source": "NASA",
+      "date": "Fri, 13 Nov 2026 16:39:33 +0000",
+      "summary": "Using NASA’s Chandra X-ray Observatory, astronomers have discovered what is triggering repeated outbursts from a giant, unstable star located in the galaxy shown in this image released on Nov. 9, 2026. The volatile star, known as AT 2016blu, is in the spiral galaxy NGC 4559, located about 30 million light-years from Earth. Astronomers estimate the […]",
+      "url": "https://www.nasa.gov/image-article/outbursts-from-a-massive-star/"
+    },
+    {
+      "category": "AI",
+      "title": "Windows 0-day dropped by disgruntled researcher hands hackers System rights",
+      "source": "Ars Technica",
+      "date": "Fri, 13 Nov 2026 16:26:32 +0000",
+      "summary": "\"SignDrop\" exploit lets local users gain all-powerful System rights.",
+      "url": "https://arstechnica.com/security/2026/11/windows-0-day-dropped-by-disgruntled-researcher-hands-hackers-system-rights/"
+    },
+    {
+      "category": "Space",
+      "title": "Gemini Astronaut Photos Inspired Early Earth Observation Program",
+      "source": "NASA",
+      "date": "Fri, 13 Nov 2026 16:05:54 +0000",
+      "summary": "Astronauts James A. Lovell Jr. and Edwin E. “Buzz” Aldrin Jr. orbited Earth from November 11 to 15, 1966, on Gemini XII, the final mission of NASA’s Gemini program. In addition to successfully completing rendezvous maneuvers and spacewalks, procedures vital to sending American astronauts to the Moon, the crew was also spurring the development of […]",
+      "url": "https://www.nasa.gov/image-article/gemini-astronaut-photos-inspired-early-earth-observation-program/"
+    },
+    {
+      "category": "Space",
+      "title": " Netflix’s ‘Ray Gunn’ gets 2nd trailer, and we're hyped for this animated sci-fi noir from ‘Incredibles’ director Brad Bird ",
+      "source": " Latest from Space.com ",
+      "date": "Fri, 13 Nov 2026 16:00:00 +0000",
+      "summary": "'This city has corruption, secrets and murder. It's my job to discover the truth'",
+      "url": "https://www.space.com/entertainment/space-movies-shows/netflixs-ray-gunn-gets-2nd-trailer-and-were-hyped-for-this-animated-sci-fi-noir-from-incredibles-director-brad-bird"
+    },
+    {
+      "category": "AI",
+      "title": "Microsoft’s global outage may be worse than Amazon's or CrowdStrike's, expert says",
+      "source": "Ars Technica",
+      "date": "Fri, 13 Nov 2026 15:26:53 +0000",
+      "summary": "Governments, hospitals, courts scrambled by global Microsoft outage.",
+      "url": "https://arstechnica.com/tech-policy/2026/11/microsoft-blames-failed-server-health-checks-not-hackers-for-global-outage/"
+    },
+    {
+      "category": "Space",
+      "title": " Astronaut Suni Williams rides through NYC as Grand Marshal of the Veterans Day Parade | Space photo of the day for Nov. 13, 2026 ",
+      "source": " Latest from Space.com ",
+      "date": "Fri, 13 Nov 2026 15:00:00 +0000",
+      "summary": "NASA astronaut Suni Williams rides through New York City as the Grand Marshal of the Veterans Day Parade on Nov. 11, 2026.",
+      "url": "https://www.space.com/space-exploration/human-spaceflight/astronaut-suni-williams-rides-through-nyc-as-grand-marshal-of-the-veterans-day-parade-space-photo-of-the-day-for-nov-13-2026"
+    },
+    {
+      "category": "AI",
+      "title": "Introducing ChatGPT Wallet",
+      "source": "OpenAI News",
+      "date": "Fri, 13 Nov 2026 15:00:00 GMT",
+      "summary": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
+      "url": "https://openai.com/index/introducing-chatgpt-wallet"
+    },
+    {
+      "category": "Science",
+      "title": "Scientists discover a hidden danger of viral infections that vaccines may prevent",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Fri, 13 Nov 2026 07:55:11 EST",
+      "summary": "A new study reveals that viral infections may leave behind hidden damage to the immune system long after symptoms disappear. Researchers found that mice recovering from an acute infection experienced lasting changes to their spleens and weakened immune responses, potentially leaving them more vulnerable to future threats. Surprisingly, prior vaccination completely prevented these harmful changes in the mouse model.",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261112025531.htm"
+    },
+    {
+      "category": "Science",
+      "title": "Superheated magma could fuel towering lava fountains",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Fri, 13 Nov 2026 06:56:39 EST",
+      "summary": "Why do some volcanoes erupt with spectacular lava fountains while others release lava more quietly? Scientists have discovered that a hidden effect of extreme heat inside magma may help explain the difference. Experiments revealed that superheated magma can delay crystal formation for more than eight hours, compared with just 20 minutes in magma that has not been superheated.",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261111221811.htm"
+    },
+    {
+      "category": "Biblical Studies",
+      "title": "American Student Finds Cobra Seal at Gezer",
+      "source": "Biblical Archaeology Society",
+      "date": "Fri, 13 Nov 2026 11:45:55 +0000",
+      "summary": "A few days after arriving in Israel, while on a study tour of Tel Gezer, 17-year-old American high school student Shiloh Attoun saw an object […]\nThe post American Student Finds Cobra Seal at Gezer appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-egypt/american-student-finds-cobra-seal-at-gezer/"
+    },
+    {
+      "category": "Science",
+      "title": " Romans carefully dismantled statue of emperor when they withdrew from Scotland 1,800 years ago, leaving only his foot behind ",
+      "source": " Latest from Live Science ",
+      "date": "Fri, 13 Nov 2026 11:00:00 +0000",
+      "summary": "A mysterious bronze foot found in a bog was likely once part of a monumental statue of the Roman emperor Antoninus Pius, who tried to conquer Scotland.",
+      "url": "https://www.livescience.com/archaeology/romans/romans-carefully-dismantled-statue-of-emperor-when-they-withdrew-from-scotland-1-800-years-ago-leaving-only-his-foot-behind"
+    },
+    {
+      "category": "Science",
+      "title": " Astronomers confirm a tiny new moon is orbiting Earth, and it'll stick around for the holidays ",
+      "source": " Latest from Live Science ",
+      "date": "Fri, 13 Nov 2026 10:30:00 +0000",
+      "summary": "A tiny asteroid entered Earth's orbit in April and is expected to leave in January. Meet the minimoon 2026 QQ8.",
+      "url": "https://www.livescience.com/space/meteoroids/astronomers-confirm-a-tiny-new-moon-is-orbiting-earth-and-itll-stick-around-for-the-holidays"
+    },
+    {
+      "category": "Science",
+      "title": " This AI finds patterns in visual brain activity and turns them into pictures ",
+      "source": " Latest from Live Science ",
+      "date": "Fri, 13 Nov 2026 10:00:00 +0000",
+      "summary": "A new AI model, called Brain-IT, can transform brain scans into images and reverse the process, turning images into what they'd look like as brain activity.",
+      "url": "https://www.livescience.com/technology/artificial-intelligence/this-ai-finds-patterns-in-visual-brain-activity-and-turns-them-into-pictures"
+    },
+    {
+      "category": "Space",
+      "title": "APOD: 2026 November 13 – NGC 206 and the Star Clouds of Andromeda",
+      "source": "NASA",
+      "date": "Fri, 13 Nov 2026 05:05:00 +0000",
+      "summary": "APOD Science APOD APOD: 2026 November 13 – NGC… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. NGC 206 […]",
+      "url": "https://science.nasa.gov/image-article/apod-2026-november-13-ngc-206-and-the-star-clouds-of-andromeda/"
+    },
+    {
+      "category": "Theology",
+      "title": "Is Jesus the God of the Bible?",
+      "source": "The Gospel Coalition",
+      "date": "Fri, 13 Nov 2026 05:04:00 +0000",
+      "summary": "Historical sources indicate that the full divinity of Jesus wasn’t the creation of a fourth-century church council but a fundamental belief of Christians from the beginning.",
+      "url": "https://www.thegospelcoalition.org/podcasts/tgc-podcast/is-jesus-god-bible/"
+    },
+    {
+      "category": "Theology",
+      "title": "Mordecai: Joseph 2.0",
+      "source": "The Gospel Coalition",
+      "date": "Fri, 13 Nov 2026 05:02:00 +0000",
+      "summary": "Joseph’s life and service to the kingdom of God in the book of Genesis serve as a foreshadowing type of Mordecai’s life and service.",
+      "url": "https://www.thegospelcoalition.org/article/mordecai-joseph/"
+    },
+    {
+      "category": "Theology",
+      "title": "‘I Was a Child of War’: How to Help Abuse Survivors Understand the Past",
+      "source": "The Gospel Coalition",
+      "date": "Fri, 13 Nov 2026 05:00:00 +0000",
+      "summary": "Yes, we were weak, but we were warriors, not victims.",
+      "url": "https://www.thegospelcoalition.org/article/child-war-abuse-survivors/"
     },
     {
       "category": "Theology",
@@ -60,107 +188,11 @@
     },
     {
       "category": "AI",
-      "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
-      "source": "Ars Technica",
-      "date": "Thu, 12 Nov 2026 22:28:47 +0000",
-      "summary": "Airlines praised the AI tool, but the air traffic controllers’ union wasn’t involved.",
-      "url": "https://arstechnica.com/ai/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/"
-    },
-    {
-      "category": "Space",
-      "title": " 'Man of Tomorrow': Release date, plot, cast & everything we know about the 'Superman' sequel ",
-      "source": " Latest from Space.com ",
-      "date": "Thu, 12 Nov 2026 22:00:00 +0000",
-      "summary": "James Gunn's new DC universe might be done, but the follow-up to 2025's Superman is still on the way.",
-      "url": "https://www.space.com/entertainment/space-movies-shows/man-of-tomorrow-release-date-plot-cast-and-everything-we-know-about-the-superman-sequel"
-    },
-    {
-      "category": "AI",
-      "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
-      "source": "Hacker News: Front Page",
-      "date": "Thu, 12 Nov 2026 21:56:11 +0000",
-      "summary": "Article URL: https://unemploymentlabs.com/checkpoint-forensics\nComments URL: https://news.ycombinator.com/item?id=50474883\nPoints: 174\n# Comments: 48",
-      "url": "https://unemploymentlabs.com/checkpoint-forensics"
-    },
-    {
-      "category": "Science",
-      "title": " 'Like writing and directing your own movie': Live Science readers share whether they'd learn to lucid dream if they could ",
-      "source": " Latest from Live Science ",
-      "date": "Thu, 12 Nov 2026 21:18:14 +0000",
-      "summary": "Over 300 Live Science readers responded to a recent poll about whether they'd train themselves to lucid dream if they could.",
-      "url": "https://www.livescience.com/health/sleep/like-writing-and-directing-your-own-movie-live-science-readers-share-whether-theyd-learn-to-lucid-dream-if-they-could"
-    },
-    {
-      "category": "Space",
-      "title": " This supernova impostor baffled astronomers for 15 years — until they found a hidden black hole feeding on an unstable star ",
-      "source": " Latest from Space.com ",
-      "date": "Thu, 12 Nov 2026 21:00:00 +0000",
-      "summary": "A hidden black hole or neutron star companion to an unstable massive star is causing the system to erupt in light that mimics a supernova explosion.",
-      "url": "https://www.space.com/astronomy/black-holes/this-supernova-impostor-baffled-astronomers-for-15-years-until-they-found-a-hidden-black-hole-feeding-on-an-unstable-star"
-    },
-    {
-      "category": "Space",
-      "title": " On this day in space! Nov. 12, 2014: European Philae probe lands on Comet 67P, bounced twice and then got lost for nearly 2 years ",
-      "source": " Latest from Space.com ",
-      "date": "Thu, 12 Nov 2026 20:19:49 +0000",
-      "summary": "On Nov. 12, 2014, a European spacecraft named Philae landed on Comet 67P, then bounced twice and got lost. Here's why it mattered.",
-      "url": "https://www.space.com/space-exploration/on-this-day-in-space-november-12-2026"
-    },
-    {
-      "category": "Space",
-      "title": "I Am Artemis Katie Spicer",
-      "source": "NASA",
-      "date": "Thu, 12 Nov 2026 20:10:02 +0000",
-      "summary": "For Katie Spicer, embracing opportunity and challenge has led to giant leaps during her time at NASA. Now as the NASA lander integration lead for Blue Origin’s Blue Moon Mark 2 lander, one of the commercially provided human landing systems for NASA’s Artemis program, Spicer will have her handprint on history. Spicer works in the […]",
-      "url": "https://www.nasa.gov/missions/artemis/i-am-artemis-katie-spicer/"
-    },
-    {
-      "category": "AI",
       "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
       "source": "OpenAI News",
       "date": "Thu, 12 Nov 2026 20:00:00 GMT",
       "summary": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
       "url": "https://openai.com/business/customer-stories/amplitude"
-    },
-    {
-      "category": "AI",
-      "title": "Ars Live: What drone attacks on data centers mean for modern life in the cloud",
-      "source": "Ars Technica",
-      "date": "Thu, 12 Nov 2026 19:59:59 +0000",
-      "summary": "A livestream Ars discussion is happening on November 17 at 1 pm Eastern Time.",
-      "url": "https://arstechnica.com/gadgets/2026/11/ars-live-can-the-cloud-survive-drone-strikes-on-data-centers/"
-    },
-    {
-      "category": "Science",
-      "title": " Chinese scientists cool atoms to near absolute zero in record-breaking experiment ",
-      "source": " Latest from Live Science ",
-      "date": "Thu, 12 Nov 2026 19:30:00 +0000",
-      "summary": "Scientists on China's Tiangong space station used a laser trap to cool a clump of atoms to just above absolute zero, setting a new record.",
-      "url": "https://www.livescience.com/physics-mathematics/particle-physics/chinese-scientists-cool-atoms-to-near-absolute-zero-in-record-breaking-space-experiment"
-    },
-    {
-      "category": "Space",
-      "title": "Heart in the Sky at NASA Kennedy",
-      "source": "NASA",
-      "date": "Thu, 12 Nov 2026 19:12:49 +0000",
-      "summary": "The U.S. Air Force Thunderbirds create a heart-shaped smoke trail during a flight maneuver near NASA’s Vehicle Assembly Building during the agency’s MAX POWER expo and air show on Sunday, Nov. 8, 2026, at NASA’s Kennedy Space Center in Florida. NASA’s MAX POWER is an aerospace festival celebrating the past, present, and future of flight […]",
-      "url": "https://www.nasa.gov/image-article/heart-in-the-sky-at-nasa-kennedy/"
-    },
-    {
-      "category": "Science",
-      "title": " A widely used antibiotic for acne and infections is linked to risk of pregnancy loss, new study finds ",
-      "source": " Latest from Live Science ",
-      "date": "Thu, 12 Nov 2026 19:00:00 +0000",
-      "summary": "A common antibiotic may be linked to a higher risk of miscarriage and stillbirth when used early in pregnancy, a new study suggests.",
-      "url": "https://www.livescience.com/health/reproductive-health/a-widely-used-antibiotic-for-acne-and-infections-is-linked-to-risk-of-pregnancy-loss-new-study-finds"
-    },
-    {
-      "category": "Space",
-      "title": "NASA Ames Stars of the Month: November 2026",
-      "source": "NASA",
-      "date": "Thu, 12 Nov 2026 17:54:32 +0000",
-      "summary": "The NASA Ames Science Directorate recognizes the outstanding contributions of (pictured left to right) Alyssa Villanueva, Steve Howell, and Samuel LeBlanc. Their commitment to the NASA mission represents the entrepreneurial spirit, technical expertise, and collaborative disposition needed to explore this world and beyond. Space Biosciences Star: Alyssa Villanueva Alyssa Villaneuva is an engineer at Blue […]",
-      "url": "https://www.nasa.gov/general/nasa-ames-stars-of-the-month-november-2026/"
     },
     {
       "category": "History",
@@ -195,68 +227,12 @@
       "url": "https://openai.com/business/customer-stories/gondola"
     },
     {
-      "category": "AI",
-      "title": "Holiday Extras is rethinking what it can build with Codex",
-      "source": "OpenAI News",
-      "date": "Thu, 12 Nov 2026 09:30:00 GMT",
-      "summary": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.",
-      "url": "https://openai.com/business/customer-stories/holidays-extras-codex"
-    },
-    {
       "category": "Science",
-      "title": "Earth's fiery birth may have created hundreds of oceans' worth of water",
+      "title": "A new treasure map reveals where Earth's lost prehistoric life may be hiding",
       "source": "All Top News -- ScienceDaily",
-      "date": "Thu, 12 Nov 2026 03:38:42 EST",
-      "summary": "Earth's water may have been born in the planet's fiery atmosphere rather than delivered by icy comets or asteroids. Scientists discovered that rocky pebbles reacting with hydrogen under extreme heat can produce water in minutes, potentially generating hundreds of oceans' worth during Earth's formation. The findings suggest that water may be a natural part of how rocky planets form, rather than something that must arrive from space.",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261110042549.htm"
-    },
-    {
-      "category": "Theology",
-      "title": "Caring Well at Both Ends of Life (with Jen Wilkin)",
-      "source": "The Gospel Coalition",
-      "date": "Thu, 12 Nov 2026 05:04:56 +0000",
-      "summary": "Melissa and Courtney talk with Jen Wilkin about how seeing the parallels between the beginning of life and its end can help us care for aging loved ones with compassion and honor.",
-      "url": "https://www.thegospelcoalition.org/podcasts/deep-dish/caring-well-both-ends-life/"
-    },
-    {
-      "category": "Theology",
-      "title": "Lessons from Ezra on Leading a Story You Didn’t Start",
-      "source": "The Gospel Coalition",
-      "date": "Thu, 12 Nov 2026 05:02:00 +0000",
-      "summary": "Ezra entered a story God had already begun. Ezra teaches leaders how to continue God’s work in the lives of his people.",
-      "url": "https://www.thegospelcoalition.org/article/lessons-ezra-leading-story/"
-    },
-    {
-      "category": "Theology",
-      "title": "When Families Sit Together in Church: The Missional Opportunity",
-      "source": "The Gospel Coalition",
-      "date": "Wed, 11 Nov 2026 21:10:20 +0000",
-      "summary": "The Bible doesn’t command families to divide in worship as a picture of Christian unity.",
-      "url": "https://www.thegospelcoalition.org/article/sit-family-church-missional/"
-    },
-    {
-      "category": "Science",
-      "title": "NASA reveals Earth's ozone hole has grown to a size not seen in a decade",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Wed, 11 Nov 2026 07:32:48 EST",
-      "summary": "The Antarctic ozone hole expanded to its seventh-largest size on record in 2026, driven by unusual weather conditions that pushed it close to its historic maximum. Scientists say international restrictions on ozone-destroying chemicals prevented even greater damage, and Earth's protective ozone layer is still recovering.",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261110042546.htm"
-    },
-    {
-      "category": "Biblical Studies",
-      "title": "Unpacking Paul’s New Testament Letters",
-      "source": "Biblical Archaeology Society",
-      "date": "Wed, 11 Nov 2026 11:45:26 +0000",
-      "summary": "Seven New Testament letters are undisputed works of the apostle Paul (Romans; 1 Corinthians; 2 Corinthians; Galatians; Philippians; 1 Thessalonians; Philemon). Some scholars think a […]\nThe post Unpacking Paul’s New Testament Letters appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/daily/biblical-topics/bible-interpretation/unpacking-pauls-new-testament-letters/"
-    },
-    {
-      "category": "Science",
-      "title": "Where are all the males? Ancient human fossils reveal a startling mystery",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Wed, 11 Nov 2026 04:43:55 EST",
-      "summary": "A remarkable discovery in a South African cave suggests that an extinct human relative may have created an all-female burial site more than 240,000 years ago. Scientists analyzed ancient proteins preserved in Homo naledi teeth and found no male-specific markers among at least 20 individuals, potentially solving a mystery that has puzzled researchers for over a decade.",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261110042558.htm"
+      "date": "Thu, 12 Nov 2026 06:24:47 EST",
+      "summary": "A sweeping analysis of 540 million years of marine fossils has revealed surprising gaps in our understanding of Earth's ancient life. Scientists discovered that some of the greatest opportunities for finding previously unknown species lie in relatively recent geological periods, rather than the distant past. By mapping unexplored fossil-rich regions around the world, researchers have created a powerful tool to guide future excavations.",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261112025529.htm"
     },
     {
       "category": "History",
