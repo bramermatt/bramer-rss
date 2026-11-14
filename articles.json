@@ -1,46 +1,126 @@
 {
-  "lastUpdated": "2026-11-13T17:27:26.298Z",
-  "articleCount": 36,
+  "lastUpdated": "2026-11-14T01:55:10.575Z",
+  "articleCount": 39,
   "articles": [
     {
       "category": "AI",
-      "title": "AI is \"the most likely reason\" you'll die, OpenAI board member warns",
+      "title": "FAA lifted National Ground Stop at 0119Z",
+      "source": "Hacker News: Front Page",
+      "date": "Sat, 14 Nov 2026 01:30:01 +0000",
+      "summary": "Article URL: https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11142026&advn=5\nComments URL: https://news.ycombinator.com/item?id=50492601\nPoints: 34\n# Comments: 5",
+      "url": "https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11142026&advn=5"
+    },
+    {
+      "category": "Science",
+      "title": "Heavier-than-expected electron behavior may explain slower electrical flow in alpha-gallium oxide",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Fri, 13 Nov 2026 20:20:01 EST",
+      "summary": "Power electronic devices help control the flow of electricity and convert it into forms needed by different machines, such as electric vehicles, renewable energy systems and industrial equipment. Some electrical energy is lost as heat during this process, reducing efficiency and potentially affecting the device's performance. Semiconductor materials that can withstand high voltages, carry electricity efficiently and release heat effectively would make these devices more efficient and reliable.",
+      "url": "https://phys.org/news/2026-11-heavier-electron-behavior-slower-electrical.html"
+    },
+    {
+      "category": "AI",
+      "title": "Ukraine knocks out 36% of Russia's oil refining capacity in under two weeks",
+      "source": "Hacker News: Front Page",
+      "date": "Sat, 14 Nov 2026 01:10:22 +0000",
+      "summary": "Article URL: https://english.nv.ua/nation/thirteen-day-drone-blitz-paralyzes-36-of-moscow-s-oil-50658616.html\nComments URL: https://news.ycombinator.com/item?id=50492456\nPoints: 61\n# Comments: 10",
+      "url": "https://english.nv.ua/nation/thirteen-day-drone-blitz-paralyzes-36-of-moscow-s-oil-50658616.html"
+    },
+    {
+      "category": "AI",
+      "title": "Amtrak booking system experiencing major issues amid nationwide FAA ground stop",
+      "source": "Hacker News: Front Page",
+      "date": "Sat, 14 Nov 2026 00:52:29 +0000",
+      "summary": "Article URL: https://www.fox5dc.com/news/amtrak-outage-ticket-booking-faa-ground-stop-november-13-2026\nComments URL: https://news.ycombinator.com/item?id=50492315\nPoints: 94\n# Comments: 26",
+      "url": "https://www.fox5dc.com/news/amtrak-outage-ticket-booking-faa-ground-stop-november-13-2026"
+    },
+    {
+      "category": "AI",
+      "title": "Starship flight 15 powers to orbit—setting up a possible catch on Saturday",
       "source": "Ars Technica",
-      "date": "Fri, 13 Nov 2026 17:25:45 +0000",
-      "summary": "Researcher traces a path from AI reward hacking to potential human extinction.",
-      "url": "https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/"
+      "date": "Sat, 14 Nov 2026 00:49:13 +0000",
+      "summary": "One way or another, the company will get some more data on Saturday.",
+      "url": "https://arstechnica.com/space/2026/11/starship-flight-15-powers-to-orbit-setting-up-a-possible-catch-on-saturday/"
     },
     {
       "category": "Science",
-      "title": "Colorful fish reveal how species stay distinct despite interbreeding",
+      "title": "Fiji petrel eludes 10-day search as communities aim to protect bird's habitat",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Fri, 13 Nov 2026 12:20:06 EST",
-      "summary": "Vividly colored fish dwelling at the bottom of shallow Midwestern streams may help biologists understand the evolutionary mechanisms by which species remain distinct despite their similarities and overlapping ranges. Orangethroat and rainbow darters regularly interbreed where their ranges overlap, yet—millions of years after they first diverged—they remain separate species.",
-      "url": "https://phys.org/news/2026-11-fish-reveal-species-stay-distinct.html"
-    },
-    {
-      "category": "Science",
-      "title": "Rh₃ clusters balance activity and butene selectivity in butane dehydrogenation",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Fri, 13 Nov 2026 12:20:01 EST",
-      "summary": "Scientists from the Institute of Metal Research (IMR) of the Chinese Academy of Sciences, in collaboration with researchers from Peking University and Chongqing University, have demonstrated how the geometry and electronic properties of subnanometer rhodium (Rh) active sites shape C–H activation, product desorption and C–C bond cleavage during butane dehydrogenation.",
-      "url": "https://phys.org/news/2026-11-rh-clusters-butene-butane-dehydrogenation.html"
-    },
-    {
-      "category": "Science",
-      "title": "Heat drives electron orbital currents, revealing first experimental evidence of orbital Nernst effect",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Fri, 13 Nov 2026 12:00:12 EST",
-      "summary": "Researchers at National Taiwan University (NTU) have reported the first experimental evidence of heat-current-driven transverse accumulation of electrons' orbital angular momentum, a phenomenon known as the orbital Nernst effect. The study was recently published in Nature Communications.",
-      "url": "https://phys.org/news/2026-11-electron-orbital-currents-revealing-experimental.html"
+      "date": "Fri, 13 Nov 2026 18:40:01 EST",
+      "summary": "A new study details scientists' search for one of the planet's rarest birds in the waters off Fiji's Gau Island. Spanning 10 days, the expedition yielded no verified sightings of the critically endangered Fiji petrel, one of the world's most elusive birds. Fewer than 50 individuals are believed to remain on Earth.",
+      "url": "https://phys.org/news/2026-11-fiji-petrel-eludes-day-communities.html"
     },
     {
       "category": "Space",
-      "title": " Astronomers trace mystery radio signals back to cosmic odd couple of white dwarf and sun-like star ",
+      "title": " SpaceX launches Starship on ambitious 22-hour Flight 15 test, but aborts booster 'chopsticks' catch (video) ",
       "source": " Latest from Space.com ",
-      "date": "Fri, 13 Nov 2026 17:00:00 +0000",
-      "summary": "\"It’s amazing that by using radio wavelengths, we can detect the storms on a star over 5,000 light-years away.\"",
-      "url": "https://www.space.com/astronomy/stars/astronomers-trace-mystery-radio-signals-back-to-cosmic-odd-couple-of-white-dwarf-and-sun-like-star"
+      "date": "Fri, 13 Nov 2026 23:20:03 +0000",
+      "summary": "SpaceX's Starship megarocket reached orbit today (Nov. 13) during its 15th test flight, but the company scrapped a plan to catch the vehicle's massive booster back at the launch site.",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-flight-15-chopsticks-double-catch-super-heavy-ship"
+    },
+    {
+      "category": "Science",
+      "title": "Unstable plasma heats itself with waves it generates, experiments reveal",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Fri, 13 Nov 2026 18:20:02 EST",
+      "summary": "Fusion power is expected to be a sustainable energy source that emits no carbon dioxide during electricity generation. To achieve this, research is underway worldwide to confine high-temperature plasma using magnetic fields. To initiate a fusion reaction, high-energy particles or waves must be injected from outside to heat the plasma to extremely high temperatures.",
+      "url": "https://phys.org/news/2026-11-unstable-plasma-generates-reveal.html"
+    },
+    {
+      "category": "AI",
+      "title": "FAA orders third nationwide ground stop in its history",
+      "source": "Ars Technica",
+      "date": "Fri, 13 Nov 2026 23:17:38 +0000",
+      "summary": "Rare nationwide ground stop could go on for awhile as FAA troubleshoots.",
+      "url": "https://arstechnica.com/tech-policy/2026/11/faa-orders-third-nationwide-ground-stop-in-its-history/"
+    },
+    {
+      "category": "AI",
+      "title": "Millions of Americans are not taking their GLP-1 drugs as prescribed",
+      "source": "Ars Technica",
+      "date": "Fri, 13 Nov 2026 21:59:01 +0000",
+      "summary": "Cost and access barriers are pushing people to modified use and unapproved versions.",
+      "url": "https://arstechnica.com/health/2026/11/millions-in-us-use-unapproved-glp-1s-and-use-them-in-unapproved-ways/"
+    },
+    {
+      "category": "Space",
+      "title": " On this day in space! Nov. 13, 1971: NASA's Mariner 9 becomes 1st spacecraft to orbit Mars, revealing close looks at the Martian surface ",
+      "source": " Latest from Space.com ",
+      "date": "Fri, 13 Nov 2026 21:25:55 +0000",
+      "summary": "On Nov. 13, 1971, Mariner 9 became the first spacecraft to orbit Mars.  Here's why it mattered.",
+      "url": "https://www.space.com/space-exploration/on-this-day-in-space-november-13-2026"
+    },
+    {
+      "category": "Space",
+      "title": " 60 years ago the Leonid meteor shower produced 144,000 meteors per hour. Could it happen again? ",
+      "source": " Latest from Space.com ",
+      "date": "Fri, 13 Nov 2026 21:00:00 +0000",
+      "summary": "60 years ago, the Leonid meteor shower unleashed one of the most spectacular meteor storms in recorded history. As the 2026 peak approaches, here's what skywatchers can expect.",
+      "url": "https://www.space.com/stargazing/meteor-showers/60-years-ago-the-leonid-meteor-shower-produced-144-000-meteors-per-hour-could-it-happen-again"
+    },
+    {
+      "category": "Theology",
+      "title": "Not the Book on the Church You Were Expecting",
+      "source": "9Marks",
+      "date": "Fri, 13 Nov 2026 18:46:25 +0000",
+      "summary": "Brad East’s book The Church is a guide God’s people need, even if it is not the one they are expecting.\nThe post Not the Book on the Church You Were Expecting appeared first on 9Marks.",
+      "url": "https://www.9marks.org/review/not-the-book-on-the-church-you-were-expecting/?utm_source=rss&utm_medium=rss&utm_campaign=not-the-book-on-the-church-you-were-expecting"
+    },
+    {
+      "category": "Science",
+      "title": " Scientists discover two adorable species of howler monkey in the Amazon — and they're already endangered ",
+      "source": " Latest from Live Science ",
+      "date": "Fri, 13 Nov 2026 18:31:31 +0000",
+      "summary": "A genetic analysis has identified two previously unrecognized species of howler monkey that change these primates' evolutionary tree.",
+      "url": "https://www.livescience.com/animals/primates/scientists-discover-two-adorable-species-of-howler-monkey-in-the-amazon-and-theyre-already-endangered"
+    },
+    {
+      "category": "Science",
+      "title": " 'Godless' founder of utilitarianism had severe dental problems and was in 'excruciating pain,' CT scans of his severed head reveal ",
+      "source": " Latest from Live Science ",
+      "date": "Fri, 13 Nov 2026 17:39:59 +0000",
+      "summary": "Jeremy Bentham, the \"godless\" philosopher who founded modern utilitarianism, had severe dental and jaw problems, a CT scan of his skull reveals.",
+      "url": "https://www.livescience.com/archaeology/godless-founder-of-utilitarianism-had-severe-dental-problems-and-was-in-excruciating-pain-ct-scans-of-his-severed-head-reveal"
     },
     {
       "category": "Space",
@@ -51,44 +131,12 @@
       "url": "https://www.nasa.gov/image-article/outbursts-from-a-massive-star/"
     },
     {
-      "category": "AI",
-      "title": "Windows 0-day dropped by disgruntled researcher hands hackers System rights",
-      "source": "Ars Technica",
-      "date": "Fri, 13 Nov 2026 16:26:32 +0000",
-      "summary": "\"SignDrop\" exploit lets local users gain all-powerful System rights.",
-      "url": "https://arstechnica.com/security/2026/11/windows-0-day-dropped-by-disgruntled-researcher-hands-hackers-system-rights/"
-    },
-    {
       "category": "Space",
       "title": "Gemini Astronaut Photos Inspired Early Earth Observation Program",
       "source": "NASA",
       "date": "Fri, 13 Nov 2026 16:05:54 +0000",
       "summary": "Astronauts James A. Lovell Jr. and Edwin E. “Buzz” Aldrin Jr. orbited Earth from November 11 to 15, 1966, on Gemini XII, the final mission of NASA’s Gemini program. In addition to successfully completing rendezvous maneuvers and spacewalks, procedures vital to sending American astronauts to the Moon, the crew was also spurring the development of […]",
       "url": "https://www.nasa.gov/image-article/gemini-astronaut-photos-inspired-early-earth-observation-program/"
-    },
-    {
-      "category": "Space",
-      "title": " Netflix’s ‘Ray Gunn’ gets 2nd trailer, and we're hyped for this animated sci-fi noir from ‘Incredibles’ director Brad Bird ",
-      "source": " Latest from Space.com ",
-      "date": "Fri, 13 Nov 2026 16:00:00 +0000",
-      "summary": "'This city has corruption, secrets and murder. It's my job to discover the truth'",
-      "url": "https://www.space.com/entertainment/space-movies-shows/netflixs-ray-gunn-gets-2nd-trailer-and-were-hyped-for-this-animated-sci-fi-noir-from-incredibles-director-brad-bird"
-    },
-    {
-      "category": "AI",
-      "title": "Microsoft’s global outage may be worse than Amazon's or CrowdStrike's, expert says",
-      "source": "Ars Technica",
-      "date": "Fri, 13 Nov 2026 15:26:53 +0000",
-      "summary": "Governments, hospitals, courts scrambled by global Microsoft outage.",
-      "url": "https://arstechnica.com/tech-policy/2026/11/microsoft-blames-failed-server-health-checks-not-hackers-for-global-outage/"
-    },
-    {
-      "category": "Space",
-      "title": " Astronaut Suni Williams rides through NYC as Grand Marshal of the Veterans Day Parade | Space photo of the day for Nov. 13, 2026 ",
-      "source": " Latest from Space.com ",
-      "date": "Fri, 13 Nov 2026 15:00:00 +0000",
-      "summary": "NASA astronaut Suni Williams rides through New York City as the Grand Marshal of the Veterans Day Parade on Nov. 11, 2026.",
-      "url": "https://www.space.com/space-exploration/human-spaceflight/astronaut-suni-williams-rides-through-nyc-as-grand-marshal-of-the-veterans-day-parade-space-photo-of-the-day-for-nov-13-2026"
     },
     {
       "category": "AI",
@@ -131,20 +179,12 @@
       "url": "https://www.livescience.com/archaeology/romans/romans-carefully-dismantled-statue-of-emperor-when-they-withdrew-from-scotland-1-800-years-ago-leaving-only-his-foot-behind"
     },
     {
-      "category": "Science",
-      "title": " Astronomers confirm a tiny new moon is orbiting Earth, and it'll stick around for the holidays ",
-      "source": " Latest from Live Science ",
-      "date": "Fri, 13 Nov 2026 10:30:00 +0000",
-      "summary": "A tiny asteroid entered Earth's orbit in April and is expected to leave in January. Meet the minimoon 2026 QQ8.",
-      "url": "https://www.livescience.com/space/meteoroids/astronomers-confirm-a-tiny-new-moon-is-orbiting-earth-and-itll-stick-around-for-the-holidays"
-    },
-    {
-      "category": "Science",
-      "title": " This AI finds patterns in visual brain activity and turns them into pictures ",
-      "source": " Latest from Live Science ",
-      "date": "Fri, 13 Nov 2026 10:00:00 +0000",
-      "summary": "A new AI model, called Brain-IT, can transform brain scans into images and reverse the process, turning images into what they'd look like as brain activity.",
-      "url": "https://www.livescience.com/technology/artificial-intelligence/this-ai-finds-patterns-in-visual-brain-activity-and-turns-them-into-pictures"
+      "category": "AI",
+      "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+      "source": "OpenAI News",
+      "date": "Fri, 13 Nov 2026 08:00:00 GMT",
+      "summary": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
+      "url": "https://openai.com/business/customer-stories/shield"
     },
     {
       "category": "Space",
@@ -219,14 +259,6 @@
       "url": "https://www.biblicalarchaeology.org/daily/biblical-artifacts/artifacts-and-the-bible/is-the-brother-of-jesus-inscription-on-the-james-ossuary-a-forgery/"
     },
     {
-      "category": "AI",
-      "title": "Gondola doubles revenue as its team builds more with Codex",
-      "source": "OpenAI News",
-      "date": "Thu, 12 Nov 2026 12:00:00 GMT",
-      "summary": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.",
-      "url": "https://openai.com/business/customer-stories/gondola"
-    },
-    {
       "category": "Science",
       "title": "A new treasure map reveals where Earth's lost prehistoric life may be hiding",
       "source": "All Top News -- ScienceDaily",
@@ -257,14 +289,6 @@
       "date": "Tue, 10 Nov 2026 10:00:04 +0000",
       "summary": "A hallmark of the Revolutionary War in the South was the drive by the British to use Loyalist militia to augment the British army, in combat with the American army and in keeping the peace behind the front lines. The army’s use of Loyalist militiamen in the south arose immediately after the fall of Charlestown […]\nThe post The British “Experiment” to Use Loyalists in the Southern War appeared first on Journal of the American Revolution.",
       "url": "https://allthingsliberty.com/2026/11/the-british-experiment-to-use-loyalists-in-the-southern-war/"
-    },
-    {
-      "category": "Theology",
-      "title": "Salvation Makes You Part of a Family: The Corporate Component of Conversion",
-      "source": "9Marks",
-      "date": "Fri, 06 Nov 2026 16:23:05 +0000",
-      "summary": "Our corporate unity in Christ is not just an implication of conversion; it’s part of the very thing. Being reconciled to God’s people is distinct from but inseparable from being reconciled to God.\nThe post Salvation Makes You Part of a Family: The Corporate Component of Conversion appeared first on 9Marks.",
-      "url": "https://www.9marks.org/article/salvation-makes-you-part-of-a-family-the-corporate-component-of-conversion/?utm_source=rss&utm_medium=rss&utm_campaign=salvation-makes-you-part-of-a-family-the-corporate-component-of-conversion"
     },
     {
       "category": "History",
