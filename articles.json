@@ -1,38 +1,158 @@
 {
-  "lastUpdated": "2026-11-14T01:55:10.575Z",
+  "lastUpdated": "2026-11-14T16:16:24.978Z",
   "articleCount": 39,
   "articles": [
     {
+      "category": "Space",
+      "title": " This Week In Space podcast: Episode 236 — Alienspotting ",
+      "source": " Latest from Space.com ",
+      "date": "Sat, 14 Nov 2026 15:56:33 +0000",
+      "summary": "On Episode 236 of This Week In Space, Tariq Malik and Rod Pyle are joined by Mikhail Tikhonov to talk about how life can take more unusual forms, ones we might not even recognize.",
+      "url": "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-236-alienspotting"
+    },
+    {
       "category": "AI",
-      "title": "FAA lifted National Ground Stop at 0119Z",
+      "title": "PyPI's redesigned project pages with clearer security signals are now live",
       "source": "Hacker News: Front Page",
-      "date": "Sat, 14 Nov 2026 01:30:01 +0000",
-      "summary": "Article URL: https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11142026&advn=5\nComments URL: https://news.ycombinator.com/item?id=50492601\nPoints: 34\n# Comments: 5",
-      "url": "https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11142026&advn=5"
+      "date": "Sat, 14 Nov 2026 15:40:52 +0000",
+      "summary": "Article URL: https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/\nComments URL: https://news.ycombinator.com/item?id=50497892\nPoints: 12\n# Comments: 0",
+      "url": "https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/"
     },
     {
       "category": "Science",
-      "title": "Heavier-than-expected electron behavior may explain slower electrical flow in alpha-gallium oxide",
+      "title": "World's largest freshwater lake is recovering after decades of decline",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Fri, 13 Nov 2026 20:20:01 EST",
-      "summary": "Power electronic devices help control the flow of electricity and convert it into forms needed by different machines, such as electric vehicles, renewable energy systems and industrial equipment. Some electrical energy is lost as heat during this process, reducing efficiency and potentially affecting the device's performance. Semiconductor materials that can withstand high voltages, carry electricity efficiently and release heat effectively would make these devices more efficient and reliable.",
-      "url": "https://phys.org/news/2026-11-heavier-electron-behavior-slower-electrical.html"
+      "date": "Sat, 14 Nov 2026 10:40:01 EST",
+      "summary": "Lake Baikal in Siberia holds around 20% of the world's surface freshwater, making it the most voluminous freshwater lake (Lake Superior on the United States–Canada border is the largest by surface area). This makes the lake one of the most important environments for biodiversity—in fact, it was designated a UNESCO World Heritage site in 1996 because of this. Yet it has shown considerable decline over the last century, with aridification spreading across East Asia.",
+      "url": "https://phys.org/news/2026-11-world-largest-freshwater-lake-recovering.html"
+    },
+    {
+      "category": "Space",
+      "title": " 'Alien: Fireteam Elite 2' is a good old-fashioned bug hunt, ironically plagued by bugs ",
+      "source": " Latest from Space.com ",
+      "date": "Sat, 14 Nov 2026 15:00:00 +0000",
+      "summary": "We're scared of the Xenomorphs again, but Aliens: Fireteam Elite 2 knows old-fashioned bug hunts shouldn't be a thing of the past.",
+      "url": "https://www.space.com/entertainment/space-games/alien-fireteam-elite-2-is-a-good-old-fashioned-bug-hunt-ironically-plagued-by-bugs"
+    },
+    {
+      "category": "Space",
+      "title": " SpaceX says Starship Flight 15 booster aborted 'chopsticks' landing catch after launch due to guidance issue (video) ",
+      "source": " Latest from Space.com ",
+      "date": "Sat, 14 Nov 2026 14:53:00 +0000",
+      "summary": "SpaceX has an idea why its latest Starship megarocket test flight missed the first of two planned landings on Friday (Nov. 13) during the Starship Flight 15 test.",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-says-starship-flight-15-booster-aborted-chopsticks-landing-catch-after-launch-due-to-guidance-issue-video"
     },
     {
       "category": "AI",
-      "title": "Ukraine knocks out 36% of Russia's oil refining capacity in under two weeks",
+      "title": "Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
       "source": "Hacker News: Front Page",
-      "date": "Sat, 14 Nov 2026 01:10:22 +0000",
-      "summary": "Article URL: https://english.nv.ua/nation/thirteen-day-drone-blitz-paralyzes-36-of-moscow-s-oil-50658616.html\nComments URL: https://news.ycombinator.com/item?id=50492456\nPoints: 61\n# Comments: 10",
-      "url": "https://english.nv.ua/nation/thirteen-day-drone-blitz-paralyzes-36-of-moscow-s-oil-50658616.html"
+      "date": "Sat, 14 Nov 2026 14:09:25 +0000",
+      "summary": "Article URL: https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/\nComments URL: https://news.ycombinator.com/item?id=50497155\nPoints: 56\n# Comments: 32",
+      "url": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/"
     },
     {
       "category": "AI",
-      "title": "Amtrak booking system experiencing major issues amid nationwide FAA ground stop",
+      "title": "Show HN: Agweb – a browser for agents that stays out of your way",
       "source": "Hacker News: Front Page",
-      "date": "Sat, 14 Nov 2026 00:52:29 +0000",
-      "summary": "Article URL: https://www.fox5dc.com/news/amtrak-outage-ticket-booking-faa-ground-stop-november-13-2026\nComments URL: https://news.ycombinator.com/item?id=50492315\nPoints: 94\n# Comments: 26",
-      "url": "https://www.fox5dc.com/news/amtrak-outage-ticket-booking-faa-ground-stop-november-13-2026"
+      "date": "Sat, 14 Nov 2026 14:08:12 +0000",
+      "summary": "Article URL: https://github.com/paul-nameless/agweb\nComments URL: https://news.ycombinator.com/item?id=50497147\nPoints: 27\n# Comments: 6",
+      "url": "https://github.com/paul-nameless/agweb"
+    },
+    {
+      "category": "Science",
+      "title": "Archaeologists shed new light on wealth and status among Europe's early herders",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sat, 14 Nov 2026 09:00:01 EST",
+      "summary": "How unequal were prehistoric societies? And how can archaeologists measure wealth in cultures that left behind no written records, no tax registers and no census data?",
+      "url": "https://phys.org/news/2026-11-archaeologists-wealth-status-europe-early.html"
+    },
+    {
+      "category": "Science",
+      "title": "A common food emulsifier could solve one of rocketry's oldest fuel problems",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sat, 14 Nov 2026 08:00:06 EST",
+      "summary": "In propulsion system design, engineers have long faced a trade-off between solid and liquid rocket fuels. Each has advantages and disadvantages, and in an effort to try to min/max the efficacy of different types of fuel, researchers have long placed an emphasis on a hybrid between solids and liquids—in other words, they've been working with gels. Unfortunately, gels have their own sets of problems to deal with.",
+      "url": "https://phys.org/news/2026-11-common-food-emulsifier-rocketry-oldest.html"
+    },
+    {
+      "category": "Science",
+      "title": "Scientists find a simple daily routine linked to less pain and depression",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Sat, 14 Nov 2026 07:48:01 EST",
+      "summary": "A simple change to your daily routine could make a surprising difference in how you feel, both physically and mentally. University of Missouri researchers found that older adults who followed consistent daily schedules reported less physical pain and fewer symptoms of depression, even when they struggled with insomnia. Keeping regular times for sleeping, eating, and other activities may help regulate the body's internal clock, which influences mood, sleep, and overall health.",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261113231624.htm"
+    },
+    {
+      "category": "Science",
+      "title": "Stanford scientists discover hidden brain signals that predict Alzheimer’s years before symptoms",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Sat, 14 Nov 2026 07:25:05 EST",
+      "summary": "Stanford researchers have discovered that hidden patterns of brain activity can predict Alzheimer’s risk years before memory problems appear, potentially offering an earlier warning than traditional biomarkers. The same patterns also reveal which brains are unusually resistant to aging, raising hopes for future treatments that could help protect memory.",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261112230444.htm"
+    },
+    {
+      "category": "AI",
+      "title": "James Webb telescope finds ice older than the star it orbits",
+      "source": "Ars Technica",
+      "date": "Sat, 14 Nov 2026 12:15:48 +0000",
+      "summary": "Radiation and collisions reshape the planetary building materials.",
+      "url": "https://arstechnica.com/science/2026/11/james-webb-telescope-finds-ice-older-than-the-star-it-orbits/"
+    },
+    {
+      "category": "AI",
+      "title": "Winemakers are learning that conservation can be good for business",
+      "source": "Ars Technica",
+      "date": "Sat, 14 Nov 2026 12:05:51 +0000",
+      "summary": "Healthy soils, native plants, and fewer chemicals are helping vineyards adapt.",
+      "url": "https://arstechnica.com/science/2026/11/winemakers-are-learning-that-conservation-can-be-good-for-business/"
+    },
+    {
+      "category": "Science",
+      "title": "A giant icy world hiding beyond Pluto could be our sixth dwarf planet",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Sat, 14 Nov 2026 06:58:42 EST",
+      "summary": "Astronomers have uncovered a potentially enormous new dwarf planet beyond Pluto, hidden for years in one of the most crowded regions of the night sky. The discovery of 2026 ED138 could expand the solar system's official dwarf planet family and hints that more mysterious worlds may be lurking far beyond Neptune.",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261112230447.htm"
+    },
+    {
+      "category": "Science",
+      "title": " 'Flames soon engulfed us': Artemis II astronaut Jeremy Hansen describes his mission's riskiest moment ",
+      "source": " Latest from Live Science ",
+      "date": "Sat, 14 Nov 2026 11:30:00 +0000",
+      "summary": "After nine days in space, the Artemis II crewmembers faced their final and riskiest challenge: splashdown. In this excerpt from the book \"Earthrise: Inside Artemis II, the Groundbreaking Human Mission into Deep Space,\" astronaut Jeremy Hansen describes the moment from his chair.",
+      "url": "https://www.livescience.com/space/space-exploration/flames-soon-engulfed-us-artemis-ii-astronaut-jeremy-hansen-describes-what-splashdown-felt-like-from-inside-the-orion-capsule"
+    },
+    {
+      "category": "Science",
+      "title": " Which animal farts the most? ",
+      "source": " Latest from Live Science ",
+      "date": "Sat, 14 Nov 2026 10:00:00 +0000",
+      "summary": "Think that cows are the king of flatulence? There's another animal that likely blows the competition away.",
+      "url": "https://www.livescience.com/animals/which-animal-farts-the-most"
+    },
+    {
+      "category": "Science",
+      "title": " 'Links with the British royal family would eventually prove crucial': How DNA solved the 70-year mystery of what happened to the executed members of the last Russian imperial family ",
+      "source": " Latest from Live Science ",
+      "date": "Sat, 14 Nov 2026 09:00:00 +0000",
+      "summary": "In this excerpt from \"The Secrets of our DNA,\" geneticist Turi King examines how DNA was used to reveal the ultimate fate of the last members of the House of Romanov.",
+      "url": "https://www.livescience.com/health/genetics/links-with-the-british-royal-family-would-eventually-prove-crucial-how-dna-solved-the-70-year-mystery-of-what-happened-to-the-executed-members-of-the-last-russian-imperial-family"
+    },
+    {
+      "category": "Theology",
+      "title": "The Festive Attire We Really Need",
+      "source": "The Gospel Coalition",
+      "date": "Sat, 14 Nov 2026 05:03:00 +0000",
+      "summary": "Even in our finest clothes we can still be dirty on the inside. Advent reminds us that Jesus dresses us in his righteousness.",
+      "url": "https://www.thegospelcoalition.org/article/festive-attire-we-need/"
+    },
+    {
+      "category": "Theology",
+      "title": "Don’t Be Afraid of the Alien Question",
+      "source": "The Gospel Coalition",
+      "date": "Sat, 14 Nov 2026 05:00:00 +0000",
+      "summary": "‘Faith in Space’ shows that many Americans throughout history have already taken the question of extraterrestrial life seriously, but they’ve done so from outside an orthodox Christian framework.",
+      "url": "https://www.thegospelcoalition.org/reviews/faith-in-space-extraterrestrial/"
     },
     {
       "category": "AI",
@@ -43,84 +163,12 @@
       "url": "https://arstechnica.com/space/2026/11/starship-flight-15-powers-to-orbit-setting-up-a-possible-catch-on-saturday/"
     },
     {
-      "category": "Science",
-      "title": "Fiji petrel eludes 10-day search as communities aim to protect bird's habitat",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Fri, 13 Nov 2026 18:40:01 EST",
-      "summary": "A new study details scientists' search for one of the planet's rarest birds in the waters off Fiji's Gau Island. Spanning 10 days, the expedition yielded no verified sightings of the critically endangered Fiji petrel, one of the world's most elusive birds. Fewer than 50 individuals are believed to remain on Earth.",
-      "url": "https://phys.org/news/2026-11-fiji-petrel-eludes-day-communities.html"
-    },
-    {
-      "category": "Space",
-      "title": " SpaceX launches Starship on ambitious 22-hour Flight 15 test, but aborts booster 'chopsticks' catch (video) ",
-      "source": " Latest from Space.com ",
-      "date": "Fri, 13 Nov 2026 23:20:03 +0000",
-      "summary": "SpaceX's Starship megarocket reached orbit today (Nov. 13) during its 15th test flight, but the company scrapped a plan to catch the vehicle's massive booster back at the launch site.",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-flight-15-chopsticks-double-catch-super-heavy-ship"
-    },
-    {
-      "category": "Science",
-      "title": "Unstable plasma heats itself with waves it generates, experiments reveal",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Fri, 13 Nov 2026 18:20:02 EST",
-      "summary": "Fusion power is expected to be a sustainable energy source that emits no carbon dioxide during electricity generation. To achieve this, research is underway worldwide to confine high-temperature plasma using magnetic fields. To initiate a fusion reaction, high-energy particles or waves must be injected from outside to heat the plasma to extremely high temperatures.",
-      "url": "https://phys.org/news/2026-11-unstable-plasma-generates-reveal.html"
-    },
-    {
-      "category": "AI",
-      "title": "FAA orders third nationwide ground stop in its history",
-      "source": "Ars Technica",
-      "date": "Fri, 13 Nov 2026 23:17:38 +0000",
-      "summary": "Rare nationwide ground stop could go on for awhile as FAA troubleshoots.",
-      "url": "https://arstechnica.com/tech-policy/2026/11/faa-orders-third-nationwide-ground-stop-in-its-history/"
-    },
-    {
-      "category": "AI",
-      "title": "Millions of Americans are not taking their GLP-1 drugs as prescribed",
-      "source": "Ars Technica",
-      "date": "Fri, 13 Nov 2026 21:59:01 +0000",
-      "summary": "Cost and access barriers are pushing people to modified use and unapproved versions.",
-      "url": "https://arstechnica.com/health/2026/11/millions-in-us-use-unapproved-glp-1s-and-use-them-in-unapproved-ways/"
-    },
-    {
-      "category": "Space",
-      "title": " On this day in space! Nov. 13, 1971: NASA's Mariner 9 becomes 1st spacecraft to orbit Mars, revealing close looks at the Martian surface ",
-      "source": " Latest from Space.com ",
-      "date": "Fri, 13 Nov 2026 21:25:55 +0000",
-      "summary": "On Nov. 13, 1971, Mariner 9 became the first spacecraft to orbit Mars.  Here's why it mattered.",
-      "url": "https://www.space.com/space-exploration/on-this-day-in-space-november-13-2026"
-    },
-    {
-      "category": "Space",
-      "title": " 60 years ago the Leonid meteor shower produced 144,000 meteors per hour. Could it happen again? ",
-      "source": " Latest from Space.com ",
-      "date": "Fri, 13 Nov 2026 21:00:00 +0000",
-      "summary": "60 years ago, the Leonid meteor shower unleashed one of the most spectacular meteor storms in recorded history. As the 2026 peak approaches, here's what skywatchers can expect.",
-      "url": "https://www.space.com/stargazing/meteor-showers/60-years-ago-the-leonid-meteor-shower-produced-144-000-meteors-per-hour-could-it-happen-again"
-    },
-    {
       "category": "Theology",
       "title": "Not the Book on the Church You Were Expecting",
       "source": "9Marks",
       "date": "Fri, 13 Nov 2026 18:46:25 +0000",
       "summary": "Brad East’s book The Church is a guide God’s people need, even if it is not the one they are expecting.\nThe post Not the Book on the Church You Were Expecting appeared first on 9Marks.",
       "url": "https://www.9marks.org/review/not-the-book-on-the-church-you-were-expecting/?utm_source=rss&utm_medium=rss&utm_campaign=not-the-book-on-the-church-you-were-expecting"
-    },
-    {
-      "category": "Science",
-      "title": " Scientists discover two adorable species of howler monkey in the Amazon — and they're already endangered ",
-      "source": " Latest from Live Science ",
-      "date": "Fri, 13 Nov 2026 18:31:31 +0000",
-      "summary": "A genetic analysis has identified two previously unrecognized species of howler monkey that change these primates' evolutionary tree.",
-      "url": "https://www.livescience.com/animals/primates/scientists-discover-two-adorable-species-of-howler-monkey-in-the-amazon-and-theyre-already-endangered"
-    },
-    {
-      "category": "Science",
-      "title": " 'Godless' founder of utilitarianism had severe dental problems and was in 'excruciating pain,' CT scans of his severed head reveal ",
-      "source": " Latest from Live Science ",
-      "date": "Fri, 13 Nov 2026 17:39:59 +0000",
-      "summary": "Jeremy Bentham, the \"godless\" philosopher who founded modern utilitarianism, had severe dental and jaw problems, a CT scan of his skull reveals.",
-      "url": "https://www.livescience.com/archaeology/godless-founder-of-utilitarianism-had-severe-dental-problems-and-was-in-excruciating-pain-ct-scans-of-his-severed-head-reveal"
     },
     {
       "category": "Space",
@@ -147,36 +195,12 @@
       "url": "https://openai.com/index/introducing-chatgpt-wallet"
     },
     {
-      "category": "Science",
-      "title": "Scientists discover a hidden danger of viral infections that vaccines may prevent",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Fri, 13 Nov 2026 07:55:11 EST",
-      "summary": "A new study reveals that viral infections may leave behind hidden damage to the immune system long after symptoms disappear. Researchers found that mice recovering from an acute infection experienced lasting changes to their spleens and weakened immune responses, potentially leaving them more vulnerable to future threats. Surprisingly, prior vaccination completely prevented these harmful changes in the mouse model.",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261112025531.htm"
-    },
-    {
-      "category": "Science",
-      "title": "Superheated magma could fuel towering lava fountains",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Fri, 13 Nov 2026 06:56:39 EST",
-      "summary": "Why do some volcanoes erupt with spectacular lava fountains while others release lava more quietly? Scientists have discovered that a hidden effect of extreme heat inside magma may help explain the difference. Experiments revealed that superheated magma can delay crystal formation for more than eight hours, compared with just 20 minutes in magma that has not been superheated.",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261111221811.htm"
-    },
-    {
       "category": "Biblical Studies",
       "title": "American Student Finds Cobra Seal at Gezer",
       "source": "Biblical Archaeology Society",
       "date": "Fri, 13 Nov 2026 11:45:55 +0000",
       "summary": "A few days after arriving in Israel, while on a study tour of Tel Gezer, 17-year-old American high school student Shiloh Attoun saw an object […]\nThe post American Student Finds Cobra Seal at Gezer appeared first on Biblical Archaeology Society.",
       "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-egypt/american-student-finds-cobra-seal-at-gezer/"
-    },
-    {
-      "category": "Science",
-      "title": " Romans carefully dismantled statue of emperor when they withdrew from Scotland 1,800 years ago, leaving only his foot behind ",
-      "source": " Latest from Live Science ",
-      "date": "Fri, 13 Nov 2026 11:00:00 +0000",
-      "summary": "A mysterious bronze foot found in a bog was likely once part of a monumental statue of the Roman emperor Antoninus Pius, who tried to conquer Scotland.",
-      "url": "https://www.livescience.com/archaeology/romans/romans-carefully-dismantled-statue-of-emperor-when-they-withdrew-from-scotland-1-800-years-ago-leaving-only-his-foot-behind"
     },
     {
       "category": "AI",
@@ -201,22 +225,6 @@
       "date": "Fri, 13 Nov 2026 05:04:00 +0000",
       "summary": "Historical sources indicate that the full divinity of Jesus wasn’t the creation of a fourth-century church council but a fundamental belief of Christians from the beginning.",
       "url": "https://www.thegospelcoalition.org/podcasts/tgc-podcast/is-jesus-god-bible/"
-    },
-    {
-      "category": "Theology",
-      "title": "Mordecai: Joseph 2.0",
-      "source": "The Gospel Coalition",
-      "date": "Fri, 13 Nov 2026 05:02:00 +0000",
-      "summary": "Joseph’s life and service to the kingdom of God in the book of Genesis serve as a foreshadowing type of Mordecai’s life and service.",
-      "url": "https://www.thegospelcoalition.org/article/mordecai-joseph/"
-    },
-    {
-      "category": "Theology",
-      "title": "‘I Was a Child of War’: How to Help Abuse Survivors Understand the Past",
-      "source": "The Gospel Coalition",
-      "date": "Fri, 13 Nov 2026 05:00:00 +0000",
-      "summary": "Yes, we were weak, but we were warriors, not victims.",
-      "url": "https://www.thegospelcoalition.org/article/child-war-abuse-survivors/"
     },
     {
       "category": "Theology",
@@ -257,14 +265,6 @@
       "date": "Thu, 12 Nov 2026 12:00:04 +0000",
       "summary": "Although the famous “brother of Jesus” inscription on the so-called James Ossuary has been authenticated by two world-class paleographers, not everyone is convinced that the inscription is authentic.\nThe post Is the “Brother of Jesus” Inscription on the James Ossuary a Forgery? appeared first on Biblical Archaeology Society.",
       "url": "https://www.biblicalarchaeology.org/daily/biblical-artifacts/artifacts-and-the-bible/is-the-brother-of-jesus-inscription-on-the-james-ossuary-a-forgery/"
-    },
-    {
-      "category": "Science",
-      "title": "A new treasure map reveals where Earth's lost prehistoric life may be hiding",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Thu, 12 Nov 2026 06:24:47 EST",
-      "summary": "A sweeping analysis of 540 million years of marine fossils has revealed surprising gaps in our understanding of Earth's ancient life. Scientists discovered that some of the greatest opportunities for finding previously unknown species lie in relatively recent geological periods, rather than the distant past. By mapping unexplored fossil-rich regions around the world, researchers have created a powerful tool to guide future excavations.",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261112025529.htm"
     },
     {
       "category": "History",
