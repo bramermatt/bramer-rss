@@ -1,7 +1,135 @@
 {
-  "lastUpdated": "2026-11-15T01:27:41.753Z",
+  "lastUpdated": "2026-11-15T16:43:39.421Z",
   "articleCount": 39,
   "articles": [
+    {
+      "category": "Science",
+      "title": "Tangled quantum whirlpools caught unraveling in an ultracold gas",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sun, 15 Nov 2026 11:40:01 EST",
+      "summary": "When a cloud of atoms is cooled close to absolute zero, its atoms can merge into a Bose–Einstein condensate (BEC): an exotic fluid in which atoms across the whole cloud share a single quantum state. Current theories predict that as a disordered quantum gas settles into this ordered state, a tangle of tiny vortices should form and gradually unravel.",
+      "url": "https://phys.org/news/2026-11-tangled-quantum-whirlpools-caught-unraveling.html"
+    },
+    {
+      "category": "AI",
+      "title": "Show HN: A tiny macOS app that turns off the MacBook display [free license]",
+      "source": "Hacker News: Front Page",
+      "date": "Sun, 15 Nov 2026 15:37:52 +0000",
+      "summary": "Hi, I made a tiny app that lets you turn off the MacBook screen when you work on external monitors.\nIt does NOT just dim the brightness to zero, the screen is actually turned off via the Apple hardware API, the according desktop is removed, so you have a clean \"one big monitor\" setup.\n- Safe fallback if you turn off the external monitor(s), unplug the monitor cable(s), the app crashes or anything else happens. \n- Keyboard, touchpad and TouchID still work fine.\n- Automatic restart. 2 Megabyte size.\n- Totally niche, I know, but it helps me to concentrate.\nThe app is commercial ($9 once), but everybody who DMs me here gets a *FREE* lifetime license, and everybody who uses in the feedback form (to report if the apps works on your setup) gets a free lifetime license too.\nThanks ;)\nhttps://blackoutapp.io\nComments URL: https://news.ycombinator.com/item?id=50507722\nPoints: 3\n# Comments: 0",
+      "url": "https://blackoutapp.io/"
+    },
+    {
+      "category": "Space",
+      "title": " On this day in space! Nov. 15, 1988: The 300-foot Green Bank Telescope collapses suddenly, leaving a huge pile of wreckage in West Virginia ",
+      "source": " Latest from Space.com ",
+      "date": "Sun, 15 Nov 2026 15:34:00 +0000",
+      "summary": "On Nov. 15, 1988, a 300-foot radio telescope in Green Bank, West Virginia suddenly collapsed. Here's why it mattered.",
+      "url": "https://www.space.com/space-exploration/on-this-day-in-space-november-15-2026"
+    },
+    {
+      "category": "Science",
+      "title": "Climate response: Why previous warming makes all the difference",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sun, 15 Nov 2026 10:30:01 EST",
+      "summary": "Global temperatures may continue to rise even after human CO₂ emissions stop. The temperature change that follows is known as the zero emissions commitment (ZEC), and it is often assumed to be close to zero. A study led by the Met Office Hadley Center, with co-authors from several institutions including the University of Liverpool, found that the temperature response depends on how much warming has already occurred.",
+      "url": "https://phys.org/news/2026-11-climate-response-previous-difference.html"
+    },
+    {
+      "category": "AI",
+      "title": "Emacs Is My Browser",
+      "source": "Hacker News: Front Page",
+      "date": "Sun, 15 Nov 2026 15:21:21 +0000",
+      "summary": "Article URL: https://joshblais.com/blog/emacs-as-my-browser/\nComments URL: https://news.ycombinator.com/item?id=50507553\nPoints: 21\n# Comments: 1",
+      "url": "https://joshblais.com/blog/emacs-as-my-browser/"
+    },
+    {
+      "category": "Science",
+      "title": "Giant, prehistoric rodent fossils discovered in southern Thailand",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sun, 15 Nov 2026 10:00:01 EST",
+      "summary": "An international team of paleontologists, including researchers from McGill University, has discovered \"remarkably large\" rodent fossils in the pit of a mine in southern Thailand. The finding, published in Scientific Reports, provides a new perspective on the early manifestation of rodent gigantism—the process by which animals evolve to become larger—demonstrating that the evolutionary history of large-bodied rodents is considerably older and more geographically widespread than previously recognized, the researchers said.",
+      "url": "https://phys.org/news/2026-11-giant-prehistoric-rodent-fossils-southern.html"
+    },
+    {
+      "category": "Space",
+      "title": " Why hasn't the 'Blaze Star' exploded yet? Astronomers weigh in on what to expect ",
+      "source": " Latest from Space.com ",
+      "date": "Sun, 15 Nov 2026 15:00:00 +0000",
+      "summary": "\"T CrB *will* erupt sometime soon. Everyone is very confident on this.\"",
+      "url": "https://www.space.com/stargazing/why-hasnt-the-blaze-star-exploded-yet-astronomers-weigh-in-on-what-to-expect"
+    },
+    {
+      "category": "AI",
+      "title": "All AI-generated code should be Open Source",
+      "source": "Hacker News: Front Page",
+      "date": "Sun, 15 Nov 2026 14:46:58 +0000",
+      "summary": "Article URL: https://jakub.jankiewicz.org/blog/ai-code-open-source/\nComments URL: https://news.ycombinator.com/item?id=50507303\nPoints: 250\n# Comments: 158",
+      "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/"
+    },
+    {
+      "category": "Science",
+      "title": "Vitamin C could help block cancer-linked chemicals in your stomach, study finds",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Sun, 15 Nov 2026 09:13:18 EST",
+      "summary": "Scientists have discovered that vitamin C may help prevent potentially cancer-causing chemicals from forming in the stomach after eating foods containing nitrates and nitrites. A new mathematical model suggests that taking vitamin C after meals could reduce these harmful reactions, offering a possible new strategy for lowering cancer risk.",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261114202236.htm"
+    },
+    {
+      "category": "Science",
+      "title": "Uranus and Neptune’s bizarre magnetic fields may finally be explained",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Sun, 15 Nov 2026 08:43:22 EST",
+      "summary": "The strange, wildly tilted magnetic fields of Uranus and Neptune have puzzled scientists since NASA's Voyager 2 spacecraft explored the planets in the 1980s. New simulations suggest that extreme conditions deep inside these icy giants create unusual electrical properties that could explain their magnetic fields. Remarkably, the models indicate that their magnetic poles could shift by tens of degrees within just a few decades, far faster than Earth's.",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261114202204.htm"
+    },
+    {
+      "category": "Science",
+      "title": "Astronomers discover a dead star spinning every 8 minutes and sending mysterious radio pulses",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Sun, 15 Nov 2026 08:04:09 EST",
+      "summary": "Scientists have discovered a strange stellar pair more than 5,000 light-years away, where a dead star spinning every eight minutes produces mysterious radio pulses while orbiting a Sun-like star. The breakthrough also revealed massive magnetic storms on the companion star, offering fresh clues to one of astronomy's emerging mysteries.",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261114202136.htm"
+    },
+    {
+      "category": "Space",
+      "title": " How escaping gases ripped apart a comet and caused it to become thousands of times brighter ",
+      "source": " Latest from Space.com ",
+      "date": "Sun, 15 Nov 2026 13:00:00 +0000",
+      "summary": "This summer, comet 220P/McNaught burst into life out of nowhere to become one of the year’s highlights for amateur astronomers.",
+      "url": "https://www.space.com/astronomy/comets/how-escaping-gases-ripped-apart-a-comet-and-caused-it-to-become-thousands-of-times-brighter"
+    },
+    {
+      "category": "AI",
+      "title": "How the world’s fires changed while humanity hit pause",
+      "source": "Ars Technica",
+      "date": "Sun, 15 Nov 2026 12:07:34 +0000",
+      "summary": "COVID-19 lockdowns cut global fire activity by 12.3 percent.",
+      "url": "https://arstechnica.com/science/2026/11/how-the-worlds-fires-changed-while-humanity-hit-pause/"
+    },
+    {
+      "category": "Science",
+      "title": " NASA's Voyager 1 mission forever changed our view of Jupiter  ",
+      "source": " Latest from Live Science ",
+      "date": "Sun, 15 Nov 2026 11:00:00 +0000",
+      "summary": "As NASA's Voyager 1 probe reaches one light-day from Earth, we look back at its legendary photos of Jupiter that changed our view of the solar system.",
+      "url": "https://www.livescience.com/space/space-exploration/voyager-1-forever-changed-our-view-of-jupiter-space-photo-of-the-week"
+    },
+    {
+      "category": "Science",
+      "title": " How did Cleopatra really die? ",
+      "source": " Latest from Live Science ",
+      "date": "Sun, 15 Nov 2026 10:00:00 +0000",
+      "summary": "Ancient writers couldn't agree on how Egypt's last queen took her own life, and the famous snakebite story may owe more to her enemies than to the facts.",
+      "url": "https://www.livescience.com/archaeology/ancient-egyptians/how-did-cleopatra-really-die"
+    },
+    {
+      "category": "Theology",
+      "title": "Young Adults Are Hungry. Here Are 3 Ways to Feed Them.",
+      "source": "The Gospel Coalition",
+      "date": "Sun, 15 Nov 2026 05:00:00 +0000",
+      "summary": "Gen Z’s hunger for food, people, and the Word gives the church a magnificent opportunity in this moment.",
+      "url": "https://www.thegospelcoalition.org/article/young-adults-hungry-feed/"
+    },
     {
       "category": "AI",
       "title": "SpaceX returned its Starship rocket on Saturday—but there's a catch",
@@ -12,115 +140,11 @@
     },
     {
       "category": "AI",
-      "title": "L3Harris statement on the Nov. 13 ground stop",
-      "source": "Hacker News: Front Page",
-      "date": "Sat, 14 Nov 2026 22:51:44 +0000",
-      "summary": "Article URL: https://www.l3harris.com/newsroom/press-release/2026/11/l3harris-statement-nov-13-ground-stop\nComments URL: https://news.ycombinator.com/item?id=50501844\nPoints: 58\n# Comments: 30",
-      "url": "https://www.l3harris.com/newsroom/press-release/2026/11/l3harris-statement-nov-13-ground-stop"
-    },
-    {
-      "category": "AI",
-      "title": "Nvidia deliberately kept GPU prices high through circular financing deals",
-      "source": "Hacker News: Front Page",
-      "date": "Sat, 14 Nov 2026 22:26:30 +0000",
-      "summary": "Article URL: https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html\nComments URL: https://news.ycombinator.com/item?id=50501631\nPoints: 152\n# Comments: 82",
-      "url": "https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html"
-    },
-    {
-      "category": "AI",
-      "title": "How did Woz write the Apple 1 BASIC before building the computer?",
-      "source": "Hacker News: Front Page",
-      "date": "Sat, 14 Nov 2026 22:22:49 +0000",
-      "summary": "Article URL: https://retrocomputing.stackexchange.com/questions/17957\nComments URL: https://news.ycombinator.com/item?id=50501594\nPoints: 81\n# Comments: 25",
-      "url": "https://retrocomputing.stackexchange.com/questions/17957"
-    },
-    {
-      "category": "Science",
-      "title": "Urban expansion causes ecological collapse in streams in the São Paulo Metropolitan Area",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sat, 14 Nov 2026 17:00:01 EST",
-      "summary": "The advance of urbanization in the São Paulo Metropolitan Area in Brazil is causing the collapse of food webs in local streams. A study published in August in the journal Nature Cities reveals that the impact of the metropolis goes far beyond a simple reduction in species. Degradation selectively eliminates organisms based on their size and simplifies ecological interactions. Networks of 190 connections plummet to just three.",
-      "url": "https://phys.org/news/2026-11-urban-expansion-ecological-collapse-streams.html"
-    },
-    {
-      "category": "Science",
-      "title": "A dead star is flashing radio waves every 8 minutes, and its partner looks a lot like the sun",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sat, 14 Nov 2026 16:00:01 EST",
-      "summary": "Since 2022, astronomers have been puzzling over a new kind of cosmic object called long-period radio transients. These are objects that emit bright flashes of radio waves into space every few minutes to every few hours. Some have been traced back to binary systems consisting of a small, dim, cool star called a red dwarf in orbit with a stellar remnant called a white dwarf.",
-      "url": "https://phys.org/news/2026-11-dead-star-radio-minutes-partner.html"
-    },
-    {
-      "category": "Science",
-      "title": "Does your culture shape how you look at art? What an eye‑tracking study in Sudan revealed",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sat, 14 Nov 2026 14:00:01 EST",
-      "summary": "Today, Old Dongola is an abandoned settlement on the banks of the Nile in northern Sudan. Hundreds of years ago, however, this place looked very different.",
-      "url": "https://phys.org/news/2026-11-culture-art-eyetracking-sudan-revealed.html"
-    },
-    {
-      "category": "Space",
-      "title": " This Week In Space podcast: Episode 236 — Alienspotting ",
-      "source": " Latest from Space.com ",
-      "date": "Sat, 14 Nov 2026 15:56:33 +0000",
-      "summary": "On Episode 236 of This Week In Space, Tariq Malik and Rod Pyle are joined by Mikhail Tikhonov to talk about how life can take more unusual forms, ones we might not even recognize.",
-      "url": "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-236-alienspotting"
-    },
-    {
-      "category": "Space",
-      "title": " 'Alien: Fireteam Elite 2' is a good old-fashioned bug hunt, ironically plagued by bugs ",
-      "source": " Latest from Space.com ",
-      "date": "Sat, 14 Nov 2026 15:00:00 +0000",
-      "summary": "We're scared of the Xenomorphs again, but Aliens: Fireteam Elite 2 knows old-fashioned bug hunts shouldn't be a thing of the past.",
-      "url": "https://www.space.com/entertainment/space-games/alien-fireteam-elite-2-is-a-good-old-fashioned-bug-hunt-ironically-plagued-by-bugs"
-    },
-    {
-      "category": "Space",
-      "title": " Why did Starship Flight 15 booster abort 'chopsticks' landing catch? SpaceX still investigating (video) ",
-      "source": " Latest from Space.com ",
-      "date": "Sat, 14 Nov 2026 14:53:00 +0000",
-      "summary": "SpaceX is looking into why its latest Starship megarocket test flight missed the first of two planned landings on Friday (Nov. 13) during the Starship Flight 15 test.",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-says-starship-flight-15-booster-aborted-chopsticks-landing-catch-after-launch-due-to-guidance-issue-video"
-    },
-    {
-      "category": "Science",
-      "title": "Scientists find a simple daily routine linked to less pain and depression",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Sat, 14 Nov 2026 07:48:01 EST",
-      "summary": "A simple change to your daily routine could make a surprising difference in how you feel, both physically and mentally. University of Missouri researchers found that older adults who followed consistent daily schedules reported less physical pain and fewer symptoms of depression, even when they struggled with insomnia. Keeping regular times for sleeping, eating, and other activities may help regulate the body's internal clock, which influences mood, sleep, and overall health.",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261113231624.htm"
-    },
-    {
-      "category": "Science",
-      "title": "Stanford scientists discover hidden brain signals that predict Alzheimer’s years before symptoms",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Sat, 14 Nov 2026 07:25:05 EST",
-      "summary": "Stanford researchers have discovered that hidden patterns of brain activity can predict Alzheimer’s risk years before memory problems appear, potentially offering an earlier warning than traditional biomarkers. The same patterns also reveal which brains are unusually resistant to aging, raising hopes for future treatments that could help protect memory.",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261112230444.htm"
-    },
-    {
-      "category": "AI",
       "title": "James Webb telescope finds ice older than the star it orbits",
       "source": "Ars Technica",
       "date": "Sat, 14 Nov 2026 12:15:48 +0000",
       "summary": "Radiation and collisions reshape the planetary building materials.",
       "url": "https://arstechnica.com/science/2026/11/james-webb-telescope-finds-ice-older-than-the-star-it-orbits/"
-    },
-    {
-      "category": "AI",
-      "title": "Winemakers are learning that conservation can be good for business",
-      "source": "Ars Technica",
-      "date": "Sat, 14 Nov 2026 12:05:51 +0000",
-      "summary": "Healthy soils, native plants, and fewer chemicals are helping vineyards adapt.",
-      "url": "https://arstechnica.com/science/2026/11/winemakers-are-learning-that-conservation-can-be-good-for-business/"
-    },
-    {
-      "category": "Science",
-      "title": "A giant icy world hiding beyond Pluto could be our sixth dwarf planet",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Sat, 14 Nov 2026 06:58:42 EST",
-      "summary": "Astronomers have uncovered a potentially enormous new dwarf planet beyond Pluto, hidden for years in one of the most crowded regions of the night sky. The discovery of 2026 ED138 could expand the solar system's official dwarf planet family and hints that more mysterious worlds may be lurking far beyond Neptune.",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261112230447.htm"
     },
     {
       "category": "Science",
@@ -129,22 +153,6 @@
       "date": "Sat, 14 Nov 2026 11:30:00 +0000",
       "summary": "After nine days in space, the Artemis II crewmembers faced their final and riskiest challenge: splashdown. In this excerpt from the book \"Earthrise: Inside Artemis II, the Groundbreaking Human Mission into Deep Space,\" astronaut Jeremy Hansen describes the moment from his chair.",
       "url": "https://www.livescience.com/space/space-exploration/flames-soon-engulfed-us-artemis-ii-astronaut-jeremy-hansen-describes-what-splashdown-felt-like-from-inside-the-orion-capsule"
-    },
-    {
-      "category": "Science",
-      "title": " Which animal farts the most? ",
-      "source": " Latest from Live Science ",
-      "date": "Sat, 14 Nov 2026 10:00:00 +0000",
-      "summary": "Think that cows are the king of flatulence? There's another animal that likely blows the competition away.",
-      "url": "https://www.livescience.com/animals/which-animal-farts-the-most"
-    },
-    {
-      "category": "Science",
-      "title": " 'Links with the British royal family would eventually prove crucial': How DNA solved the 70-year mystery of what happened to the executed members of the last Russian imperial family ",
-      "source": " Latest from Live Science ",
-      "date": "Sat, 14 Nov 2026 09:00:00 +0000",
-      "summary": "In this excerpt from \"The Secrets of our DNA,\" geneticist Turi King examines how DNA was used to reveal the ultimate fate of the last members of the House of Romanov.",
-      "url": "https://www.livescience.com/health/genetics/links-with-the-british-royal-family-would-eventually-prove-crucial-how-dna-solved-the-70-year-mystery-of-what-happened-to-the-executed-members-of-the-last-russian-imperial-family"
     },
     {
       "category": "Theology",
@@ -217,14 +225,6 @@
       "date": "Fri, 13 Nov 2026 05:05:00 +0000",
       "summary": "APOD Science APOD APOD: 2026 November 13 – NGC… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. NGC 206 […]",
       "url": "https://science.nasa.gov/image-article/apod-2026-november-13-ngc-206-and-the-star-clouds-of-andromeda/"
-    },
-    {
-      "category": "Theology",
-      "title": "Is Jesus the God of the Bible?",
-      "source": "The Gospel Coalition",
-      "date": "Fri, 13 Nov 2026 05:04:00 +0000",
-      "summary": "Historical sources indicate that the full divinity of Jesus wasn’t the creation of a fourth-century church council but a fundamental belief of Christians from the beginning.",
-      "url": "https://www.thegospelcoalition.org/podcasts/tgc-podcast/is-jesus-god-bible/"
     },
     {
       "category": "Theology",
