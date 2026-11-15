@@ -1,7 +1,63 @@
 {
-  "lastUpdated": "2026-11-14T16:16:24.978Z",
+  "lastUpdated": "2026-11-15T01:27:41.753Z",
   "articleCount": 39,
   "articles": [
+    {
+      "category": "AI",
+      "title": "SpaceX returned its Starship rocket on Saturday—but there's a catch",
+      "source": "Ars Technica",
+      "date": "Sun, 15 Nov 2026 00:40:59 +0000",
+      "summary": "It felt like stepping into the future.",
+      "url": "https://arstechnica.com/space/2026/11/with-starship-catch-spacex-still-shows-it-can-dazzle-the-world/"
+    },
+    {
+      "category": "AI",
+      "title": "L3Harris statement on the Nov. 13 ground stop",
+      "source": "Hacker News: Front Page",
+      "date": "Sat, 14 Nov 2026 22:51:44 +0000",
+      "summary": "Article URL: https://www.l3harris.com/newsroom/press-release/2026/11/l3harris-statement-nov-13-ground-stop\nComments URL: https://news.ycombinator.com/item?id=50501844\nPoints: 58\n# Comments: 30",
+      "url": "https://www.l3harris.com/newsroom/press-release/2026/11/l3harris-statement-nov-13-ground-stop"
+    },
+    {
+      "category": "AI",
+      "title": "Nvidia deliberately kept GPU prices high through circular financing deals",
+      "source": "Hacker News: Front Page",
+      "date": "Sat, 14 Nov 2026 22:26:30 +0000",
+      "summary": "Article URL: https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html\nComments URL: https://news.ycombinator.com/item?id=50501631\nPoints: 152\n# Comments: 82",
+      "url": "https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html"
+    },
+    {
+      "category": "AI",
+      "title": "How did Woz write the Apple 1 BASIC before building the computer?",
+      "source": "Hacker News: Front Page",
+      "date": "Sat, 14 Nov 2026 22:22:49 +0000",
+      "summary": "Article URL: https://retrocomputing.stackexchange.com/questions/17957\nComments URL: https://news.ycombinator.com/item?id=50501594\nPoints: 81\n# Comments: 25",
+      "url": "https://retrocomputing.stackexchange.com/questions/17957"
+    },
+    {
+      "category": "Science",
+      "title": "Urban expansion causes ecological collapse in streams in the São Paulo Metropolitan Area",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sat, 14 Nov 2026 17:00:01 EST",
+      "summary": "The advance of urbanization in the São Paulo Metropolitan Area in Brazil is causing the collapse of food webs in local streams. A study published in August in the journal Nature Cities reveals that the impact of the metropolis goes far beyond a simple reduction in species. Degradation selectively eliminates organisms based on their size and simplifies ecological interactions. Networks of 190 connections plummet to just three.",
+      "url": "https://phys.org/news/2026-11-urban-expansion-ecological-collapse-streams.html"
+    },
+    {
+      "category": "Science",
+      "title": "A dead star is flashing radio waves every 8 minutes, and its partner looks a lot like the sun",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sat, 14 Nov 2026 16:00:01 EST",
+      "summary": "Since 2022, astronomers have been puzzling over a new kind of cosmic object called long-period radio transients. These are objects that emit bright flashes of radio waves into space every few minutes to every few hours. Some have been traced back to binary systems consisting of a small, dim, cool star called a red dwarf in orbit with a stellar remnant called a white dwarf.",
+      "url": "https://phys.org/news/2026-11-dead-star-radio-minutes-partner.html"
+    },
+    {
+      "category": "Science",
+      "title": "Does your culture shape how you look at art? What an eye‑tracking study in Sudan revealed",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sat, 14 Nov 2026 14:00:01 EST",
+      "summary": "Today, Old Dongola is an abandoned settlement on the banks of the Nile in northern Sudan. Hundreds of years ago, however, this place looked very different.",
+      "url": "https://phys.org/news/2026-11-culture-art-eyetracking-sudan-revealed.html"
+    },
     {
       "category": "Space",
       "title": " This Week In Space podcast: Episode 236 — Alienspotting ",
@@ -9,22 +65,6 @@
       "date": "Sat, 14 Nov 2026 15:56:33 +0000",
       "summary": "On Episode 236 of This Week In Space, Tariq Malik and Rod Pyle are joined by Mikhail Tikhonov to talk about how life can take more unusual forms, ones we might not even recognize.",
       "url": "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-236-alienspotting"
-    },
-    {
-      "category": "AI",
-      "title": "PyPI's redesigned project pages with clearer security signals are now live",
-      "source": "Hacker News: Front Page",
-      "date": "Sat, 14 Nov 2026 15:40:52 +0000",
-      "summary": "Article URL: https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/\nComments URL: https://news.ycombinator.com/item?id=50497892\nPoints: 12\n# Comments: 0",
-      "url": "https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/"
-    },
-    {
-      "category": "Science",
-      "title": "World's largest freshwater lake is recovering after decades of decline",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sat, 14 Nov 2026 10:40:01 EST",
-      "summary": "Lake Baikal in Siberia holds around 20% of the world's surface freshwater, making it the most voluminous freshwater lake (Lake Superior on the United States–Canada border is the largest by surface area). This makes the lake one of the most important environments for biodiversity—in fact, it was designated a UNESCO World Heritage site in 1996 because of this. Yet it has shown considerable decline over the last century, with aridification spreading across East Asia.",
-      "url": "https://phys.org/news/2026-11-world-largest-freshwater-lake-recovering.html"
     },
     {
       "category": "Space",
@@ -36,43 +76,11 @@
     },
     {
       "category": "Space",
-      "title": " SpaceX says Starship Flight 15 booster aborted 'chopsticks' landing catch after launch due to guidance issue (video) ",
+      "title": " Why did Starship Flight 15 booster abort 'chopsticks' landing catch? SpaceX still investigating (video) ",
       "source": " Latest from Space.com ",
       "date": "Sat, 14 Nov 2026 14:53:00 +0000",
-      "summary": "SpaceX has an idea why its latest Starship megarocket test flight missed the first of two planned landings on Friday (Nov. 13) during the Starship Flight 15 test.",
+      "summary": "SpaceX is looking into why its latest Starship megarocket test flight missed the first of two planned landings on Friday (Nov. 13) during the Starship Flight 15 test.",
       "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-says-starship-flight-15-booster-aborted-chopsticks-landing-catch-after-launch-due-to-guidance-issue-video"
-    },
-    {
-      "category": "AI",
-      "title": "Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
-      "source": "Hacker News: Front Page",
-      "date": "Sat, 14 Nov 2026 14:09:25 +0000",
-      "summary": "Article URL: https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/\nComments URL: https://news.ycombinator.com/item?id=50497155\nPoints: 56\n# Comments: 32",
-      "url": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/"
-    },
-    {
-      "category": "AI",
-      "title": "Show HN: Agweb – a browser for agents that stays out of your way",
-      "source": "Hacker News: Front Page",
-      "date": "Sat, 14 Nov 2026 14:08:12 +0000",
-      "summary": "Article URL: https://github.com/paul-nameless/agweb\nComments URL: https://news.ycombinator.com/item?id=50497147\nPoints: 27\n# Comments: 6",
-      "url": "https://github.com/paul-nameless/agweb"
-    },
-    {
-      "category": "Science",
-      "title": "Archaeologists shed new light on wealth and status among Europe's early herders",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sat, 14 Nov 2026 09:00:01 EST",
-      "summary": "How unequal were prehistoric societies? And how can archaeologists measure wealth in cultures that left behind no written records, no tax registers and no census data?",
-      "url": "https://phys.org/news/2026-11-archaeologists-wealth-status-europe-early.html"
-    },
-    {
-      "category": "Science",
-      "title": "A common food emulsifier could solve one of rocketry's oldest fuel problems",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sat, 14 Nov 2026 08:00:06 EST",
-      "summary": "In propulsion system design, engineers have long faced a trade-off between solid and liquid rocket fuels. Each has advantages and disadvantages, and in an effort to try to min/max the efficacy of different types of fuel, researchers have long placed an emphasis on a hybrid between solids and liquids—in other words, they've been working with gels. Unfortunately, gels have their own sets of problems to deal with.",
-      "url": "https://phys.org/news/2026-11-common-food-emulsifier-rocketry-oldest.html"
     },
     {
       "category": "Science",
@@ -153,14 +161,6 @@
       "date": "Sat, 14 Nov 2026 05:00:00 +0000",
       "summary": "‘Faith in Space’ shows that many Americans throughout history have already taken the question of extraterrestrial life seriously, but they’ve done so from outside an orthodox Christian framework.",
       "url": "https://www.thegospelcoalition.org/reviews/faith-in-space-extraterrestrial/"
-    },
-    {
-      "category": "AI",
-      "title": "Starship flight 15 powers to orbit—setting up a possible catch on Saturday",
-      "source": "Ars Technica",
-      "date": "Sat, 14 Nov 2026 00:49:13 +0000",
-      "summary": "One way or another, the company will get some more data on Saturday.",
-      "url": "https://arstechnica.com/space/2026/11/starship-flight-15-powers-to-orbit-setting-up-a-possible-catch-on-saturday/"
     },
     {
       "category": "Theology",
