@@ -1,22 +1,102 @@
 {
-  "lastUpdated": "2026-11-15T16:43:39.421Z",
+  "lastUpdated": "2026-11-16T01:29:38.199Z",
   "articleCount": 39,
   "articles": [
     {
+      "category": "AI",
+      "title": "Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack",
+      "source": "Hacker News: Front Page",
+      "date": "Mon, 16 Nov 2026 00:21:54 +0000",
+      "summary": "Article URL: https://forum.torproject.org/t/security-release-0-4-9-17/22454\nComments URL: https://news.ycombinator.com/item?id=50512441\nPoints: 3\n# Comments: 0",
+      "url": "https://forum.torproject.org/t/security-release-0-4-9-17/22454"
+    },
+    {
       "category": "Science",
-      "title": "Tangled quantum whirlpools caught unraveling in an ultracold gas",
+      "title": "Milk and wine used in Menorcan funerary rituals over 2,000 years ago",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Sun, 15 Nov 2026 11:40:01 EST",
-      "summary": "When a cloud of atoms is cooled close to absolute zero, its atoms can merge into a Bose–Einstein condensate (BEC): an exotic fluid in which atoms across the whole cloud share a single quantum state. Current theories predict that as a disordered quantum gas settles into this ordered state, a tangle of tiny vortices should form and gradually unravel.",
-      "url": "https://phys.org/news/2026-11-tangled-quantum-whirlpools-caught-unraveling.html"
+      "date": "Sun, 15 Nov 2026 19:10:04 EST",
+      "summary": "In the Late Iron Age, or post-Talayotic period, over 2,000 years ago, Menorca and the other Balearic Islands experienced increasing connectivity with the wider Mediterranean. However, they also maintained distinctive local funerary traditions, such as burying their loved ones in rock-cut tombs, or artificial caves. Some of these caves contained external courtyards located in front of the burial chambers where animal offerings might have been made. Archaeologists even suspect that perishable foods or liquids were offered in characteristic island containers, such as high-bottomed vessels. Until now, however, the contents of these ceramic containers had never been identified.",
+      "url": "https://phys.org/news/2026-11-wine-menorcan-funerary-rituals-years.html"
+    },
+    {
+      "category": "Science",
+      "title": "School environment plays key role in shaping parents' educational hopes for their children, suggests study",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sun, 15 Nov 2026 19:10:01 EST",
+      "summary": "Where segregation is high, the school a child attends is closely linked to how many years of education parents expect their child to go on to complete.",
+      "url": "https://phys.org/news/2026-11-school-environment-plays-key-role.html"
+    },
+    {
+      "category": "Science",
+      "title": "Archaeologists uncover a witness to the Neolithic revolution",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sun, 15 Nov 2026 19:00:01 EST",
+      "summary": "Radiocarbon dating and isotope analysis of an immaculately preserved skeleton from Mesolithic Denmark indicate that the individual lived through the introduction of agriculture and adapted his diet to the change, providing a unique \"eyewitness account\" of one of humanity's most significant technological revolutions.",
+      "url": "https://phys.org/news/2026-11-archaeologists-uncover-witness-neolithic-revolution.html"
     },
     {
       "category": "AI",
-      "title": "Show HN: A tiny macOS app that turns off the MacBook display [free license]",
+      "title": "What's Next for Nvidia?",
       "source": "Hacker News: Front Page",
-      "date": "Sun, 15 Nov 2026 15:37:52 +0000",
-      "summary": "Hi, I made a tiny app that lets you turn off the MacBook screen when you work on external monitors.\nIt does NOT just dim the brightness to zero, the screen is actually turned off via the Apple hardware API, the according desktop is removed, so you have a clean \"one big monitor\" setup.\n- Safe fallback if you turn off the external monitor(s), unplug the monitor cable(s), the app crashes or anything else happens. \n- Keyboard, touchpad and TouchID still work fine.\n- Automatic restart. 2 Megabyte size.\n- Totally niche, I know, but it helps me to concentrate.\nThe app is commercial ($9 once), but everybody who DMs me here gets a *FREE* lifetime license, and everybody who uses in the feedback form (to report if the apps works on your setup) gets a free lifetime license too.\nThanks ;)\nhttps://blackoutapp.io\nComments URL: https://news.ycombinator.com/item?id=50507722\nPoints: 3\n# Comments: 0",
-      "url": "https://blackoutapp.io/"
+      "date": "Sun, 15 Nov 2026 23:55:55 +0000",
+      "summary": "Article URL: https://steveblank.com/2026/11/15/whats-next-for-nvidia/\nComments URL: https://news.ycombinator.com/item?id=50512235\nPoints: 34\n# Comments: 19",
+      "url": "https://steveblank.com/2026/11/15/whats-next-for-nvidia/"
+    },
+    {
+      "category": "AI",
+      "title": "Mini.nvim Is Now on Tangled",
+      "source": "Hacker News: Front Page",
+      "date": "Sun, 15 Nov 2026 23:55:41 +0000",
+      "summary": "Article URL: https://tangled.org/nvim-mini.org/mini.nvim\nComments URL: https://news.ycombinator.com/item?id=50512231\nPoints: 26\n# Comments: 7",
+      "url": "https://tangled.org/nvim-mini.org/mini.nvim"
+    },
+    {
+      "category": "AI",
+      "title": "Vulcan rocket fails during launch, dealing major blow to SpaceX competitors",
+      "source": "Ars Technica",
+      "date": "Sun, 15 Nov 2026 23:11:54 +0000",
+      "summary": "This was the first total mission failure in United Launch Alliance's 20-year history.",
+      "url": "https://arstechnica.com/space/2026/11/vulcan-rocket-fails-during-launch-dealing-major-blow-to-spacex-competitors/"
+    },
+    {
+      "category": "AI",
+      "title": "A step toward defining the Standard Model on a lattice",
+      "source": "OpenAI News",
+      "date": "Sun, 15 Nov 2026 22:00:01 GMT",
+      "summary": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
+      "url": "https://openai.com/index/step-toward-defining-the-standard-model"
+    },
+    {
+      "category": "AI",
+      "title": "Our new blog for science",
+      "source": "OpenAI News",
+      "date": "Sun, 15 Nov 2026 22:00:00 GMT",
+      "summary": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.",
+      "url": "https://openai.com/index/our-new-blog-for-science"
+    },
+    {
+      "category": "Science",
+      "title": " 'Out there, moving into the unknown': As Voyager 1 reaches one light-day from Earth, scientists reflect on its past — and its future ",
+      "source": " Latest from Live Science ",
+      "date": "Sun, 15 Nov 2026 20:00:00 +0000",
+      "summary": "Nearly 50 years after launch, NASA's Voyager 1 probe will pass the one light-day mark on Nov. 18, a symbolic milestone for the agency's longest-running mission. Scientists reflect on the Voyager program's legacy and what comes next.",
+      "url": "https://www.livescience.com/space/space-exploration/out-there-moving-into-the-unknown-as-voyager-1-reaches-one-light-day-from-earth-scientists-reflect-on-its-past-and-its-future"
+    },
+    {
+      "category": "Science",
+      "title": " Which animal would you most want to talk to, if you could? ",
+      "source": " Latest from Live Science ",
+      "date": "Sun, 15 Nov 2026 18:00:00 +0000",
+      "summary": "Recently, researchers used AI to \"decode\" segments of birdsong. In the wake of this, Live Science asks its readers which animal they'd want to communicate with.",
+      "url": "https://www.livescience.com/animals/which-animal-would-you-most-want-to-talk-to-if-you-could"
+    },
+    {
+      "category": "Space",
+      "title": " 30 years ago, 'Space Jam' proposed the best way to resolve interplanetary disputes ",
+      "source": " Latest from Space.com ",
+      "date": "Sun, 15 Nov 2026 17:00:00 +0000",
+      "summary": "Sufferin' succotash! The Monstars and Tune Squad interplanetary slam arrived 30 years ago, and it's still a clinic in interplanetary conflict resolution.",
+      "url": "https://www.space.com/entertainment/space-movies-shows/30-years-ago-space-jam-proposed-the-best-way-to-resolve-interplanetary-disputes"
     },
     {
       "category": "Space",
@@ -27,44 +107,12 @@
       "url": "https://www.space.com/space-exploration/on-this-day-in-space-november-15-2026"
     },
     {
-      "category": "Science",
-      "title": "Climate response: Why previous warming makes all the difference",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sun, 15 Nov 2026 10:30:01 EST",
-      "summary": "Global temperatures may continue to rise even after human CO₂ emissions stop. The temperature change that follows is known as the zero emissions commitment (ZEC), and it is often assumed to be close to zero. A study led by the Met Office Hadley Center, with co-authors from several institutions including the University of Liverpool, found that the temperature response depends on how much warming has already occurred.",
-      "url": "https://phys.org/news/2026-11-climate-response-previous-difference.html"
-    },
-    {
-      "category": "AI",
-      "title": "Emacs Is My Browser",
-      "source": "Hacker News: Front Page",
-      "date": "Sun, 15 Nov 2026 15:21:21 +0000",
-      "summary": "Article URL: https://joshblais.com/blog/emacs-as-my-browser/\nComments URL: https://news.ycombinator.com/item?id=50507553\nPoints: 21\n# Comments: 1",
-      "url": "https://joshblais.com/blog/emacs-as-my-browser/"
-    },
-    {
-      "category": "Science",
-      "title": "Giant, prehistoric rodent fossils discovered in southern Thailand",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sun, 15 Nov 2026 10:00:01 EST",
-      "summary": "An international team of paleontologists, including researchers from McGill University, has discovered \"remarkably large\" rodent fossils in the pit of a mine in southern Thailand. The finding, published in Scientific Reports, provides a new perspective on the early manifestation of rodent gigantism—the process by which animals evolve to become larger—demonstrating that the evolutionary history of large-bodied rodents is considerably older and more geographically widespread than previously recognized, the researchers said.",
-      "url": "https://phys.org/news/2026-11-giant-prehistoric-rodent-fossils-southern.html"
-    },
-    {
       "category": "Space",
       "title": " Why hasn't the 'Blaze Star' exploded yet? Astronomers weigh in on what to expect ",
       "source": " Latest from Space.com ",
       "date": "Sun, 15 Nov 2026 15:00:00 +0000",
       "summary": "\"T CrB *will* erupt sometime soon. Everyone is very confident on this.\"",
       "url": "https://www.space.com/stargazing/why-hasnt-the-blaze-star-exploded-yet-astronomers-weigh-in-on-what-to-expect"
-    },
-    {
-      "category": "AI",
-      "title": "All AI-generated code should be Open Source",
-      "source": "Hacker News: Front Page",
-      "date": "Sun, 15 Nov 2026 14:46:58 +0000",
-      "summary": "Article URL: https://jakub.jankiewicz.org/blog/ai-code-open-source/\nComments URL: https://news.ycombinator.com/item?id=50507303\nPoints: 250\n# Comments: 158",
-      "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/"
     },
     {
       "category": "Science",
@@ -91,14 +139,6 @@
       "url": "https://www.sciencedaily.com/releases/2026/11/261114202136.htm"
     },
     {
-      "category": "Space",
-      "title": " How escaping gases ripped apart a comet and caused it to become thousands of times brighter ",
-      "source": " Latest from Space.com ",
-      "date": "Sun, 15 Nov 2026 13:00:00 +0000",
-      "summary": "This summer, comet 220P/McNaught burst into life out of nowhere to become one of the year’s highlights for amateur astronomers.",
-      "url": "https://www.space.com/astronomy/comets/how-escaping-gases-ripped-apart-a-comet-and-caused-it-to-become-thousands-of-times-brighter"
-    },
-    {
       "category": "AI",
       "title": "How the world’s fires changed while humanity hit pause",
       "source": "Ars Technica",
@@ -115,14 +155,6 @@
       "url": "https://www.livescience.com/space/space-exploration/voyager-1-forever-changed-our-view-of-jupiter-space-photo-of-the-week"
     },
     {
-      "category": "Science",
-      "title": " How did Cleopatra really die? ",
-      "source": " Latest from Live Science ",
-      "date": "Sun, 15 Nov 2026 10:00:00 +0000",
-      "summary": "Ancient writers couldn't agree on how Egypt's last queen took her own life, and the famous snakebite story may owe more to her enemies than to the facts.",
-      "url": "https://www.livescience.com/archaeology/ancient-egyptians/how-did-cleopatra-really-die"
-    },
-    {
       "category": "Theology",
       "title": "Young Adults Are Hungry. Here Are 3 Ways to Feed Them.",
       "source": "The Gospel Coalition",
@@ -137,22 +169,6 @@
       "date": "Sun, 15 Nov 2026 00:40:59 +0000",
       "summary": "It felt like stepping into the future.",
       "url": "https://arstechnica.com/space/2026/11/with-starship-catch-spacex-still-shows-it-can-dazzle-the-world/"
-    },
-    {
-      "category": "AI",
-      "title": "James Webb telescope finds ice older than the star it orbits",
-      "source": "Ars Technica",
-      "date": "Sat, 14 Nov 2026 12:15:48 +0000",
-      "summary": "Radiation and collisions reshape the planetary building materials.",
-      "url": "https://arstechnica.com/science/2026/11/james-webb-telescope-finds-ice-older-than-the-star-it-orbits/"
-    },
-    {
-      "category": "Science",
-      "title": " 'Flames soon engulfed us': Artemis II astronaut Jeremy Hansen describes his mission's riskiest moment ",
-      "source": " Latest from Live Science ",
-      "date": "Sat, 14 Nov 2026 11:30:00 +0000",
-      "summary": "After nine days in space, the Artemis II crewmembers faced their final and riskiest challenge: splashdown. In this excerpt from the book \"Earthrise: Inside Artemis II, the Groundbreaking Human Mission into Deep Space,\" astronaut Jeremy Hansen describes the moment from his chair.",
-      "url": "https://www.livescience.com/space/space-exploration/flames-soon-engulfed-us-artemis-ii-astronaut-jeremy-hansen-describes-what-splashdown-felt-like-from-inside-the-orion-capsule"
     },
     {
       "category": "Theology",
@@ -211,14 +227,6 @@
       "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-egypt/american-student-finds-cobra-seal-at-gezer/"
     },
     {
-      "category": "AI",
-      "title": "Shield helps technicians hand off legacy portal work with OpenAI",
-      "source": "OpenAI News",
-      "date": "Fri, 13 Nov 2026 08:00:00 GMT",
-      "summary": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
-      "url": "https://openai.com/business/customer-stories/shield"
-    },
-    {
       "category": "Space",
       "title": "APOD: 2026 November 13 – NGC 206 and the Star Clouds of Andromeda",
       "source": "NASA",
@@ -233,14 +241,6 @@
       "date": "Thu, 12 Nov 2026 22:32:15 +0000",
       "summary": "The gathered church, then, isn’t just important at the start of the Christian life; it remains essential to our ongoing discipleship. Week by week, our earthly gatherings reflect the heavenly reality we’re being prepared for.\nThe post The Importance of the Gathering for Our Discipleship appeared first on 9Marks.",
       "url": "https://www.9marks.org/article/the-importance-of-the-gathering-for-our-discipleship/?utm_source=rss&utm_medium=rss&utm_campaign=the-importance-of-the-gathering-for-our-discipleship"
-    },
-    {
-      "category": "AI",
-      "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
-      "source": "OpenAI News",
-      "date": "Thu, 12 Nov 2026 20:00:00 GMT",
-      "summary": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
-      "url": "https://openai.com/business/customer-stories/amplitude"
     },
     {
       "category": "History",
