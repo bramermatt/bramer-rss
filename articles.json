@@ -1,158 +1,246 @@
 {
-  "lastUpdated": "2026-11-16T01:29:38.199Z",
+  "lastUpdated": "2026-11-16T19:56:55.725Z",
   "articleCount": 39,
   "articles": [
     {
       "category": "AI",
-      "title": "Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack",
-      "source": "Hacker News: Front Page",
-      "date": "Mon, 16 Nov 2026 00:21:54 +0000",
-      "summary": "Article URL: https://forum.torproject.org/t/security-release-0-4-9-17/22454\nComments URL: https://news.ycombinator.com/item?id=50512441\nPoints: 3\n# Comments: 0",
-      "url": "https://forum.torproject.org/t/security-release-0-4-9-17/22454"
-    },
-    {
-      "category": "Science",
-      "title": "Milk and wine used in Menorcan funerary rituals over 2,000 years ago",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sun, 15 Nov 2026 19:10:04 EST",
-      "summary": "In the Late Iron Age, or post-Talayotic period, over 2,000 years ago, Menorca and the other Balearic Islands experienced increasing connectivity with the wider Mediterranean. However, they also maintained distinctive local funerary traditions, such as burying their loved ones in rock-cut tombs, or artificial caves. Some of these caves contained external courtyards located in front of the burial chambers where animal offerings might have been made. Archaeologists even suspect that perishable foods or liquids were offered in characteristic island containers, such as high-bottomed vessels. Until now, however, the contents of these ceramic containers had never been identified.",
-      "url": "https://phys.org/news/2026-11-wine-menorcan-funerary-rituals-years.html"
-    },
-    {
-      "category": "Science",
-      "title": "School environment plays key role in shaping parents' educational hopes for their children, suggests study",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sun, 15 Nov 2026 19:10:01 EST",
-      "summary": "Where segregation is high, the school a child attends is closely linked to how many years of education parents expect their child to go on to complete.",
-      "url": "https://phys.org/news/2026-11-school-environment-plays-key-role.html"
-    },
-    {
-      "category": "Science",
-      "title": "Archaeologists uncover a witness to the Neolithic revolution",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sun, 15 Nov 2026 19:00:01 EST",
-      "summary": "Radiocarbon dating and isotope analysis of an immaculately preserved skeleton from Mesolithic Denmark indicate that the individual lived through the introduction of agriculture and adapted his diet to the change, providing a unique \"eyewitness account\" of one of humanity's most significant technological revolutions.",
-      "url": "https://phys.org/news/2026-11-archaeologists-uncover-witness-neolithic-revolution.html"
-    },
-    {
-      "category": "AI",
-      "title": "What's Next for Nvidia?",
-      "source": "Hacker News: Front Page",
-      "date": "Sun, 15 Nov 2026 23:55:55 +0000",
-      "summary": "Article URL: https://steveblank.com/2026/11/15/whats-next-for-nvidia/\nComments URL: https://news.ycombinator.com/item?id=50512235\nPoints: 34\n# Comments: 19",
-      "url": "https://steveblank.com/2026/11/15/whats-next-for-nvidia/"
-    },
-    {
-      "category": "AI",
-      "title": "Mini.nvim Is Now on Tangled",
-      "source": "Hacker News: Front Page",
-      "date": "Sun, 15 Nov 2026 23:55:41 +0000",
-      "summary": "Article URL: https://tangled.org/nvim-mini.org/mini.nvim\nComments URL: https://news.ycombinator.com/item?id=50512231\nPoints: 26\n# Comments: 7",
-      "url": "https://tangled.org/nvim-mini.org/mini.nvim"
-    },
-    {
-      "category": "AI",
-      "title": "Vulcan rocket fails during launch, dealing major blow to SpaceX competitors",
+      "title": "Supreme Court keeps injunction against DEI grant defunding in place",
       "source": "Ars Technica",
-      "date": "Sun, 15 Nov 2026 23:11:54 +0000",
-      "summary": "This was the first total mission failure in United Launch Alliance's 20-year history.",
-      "url": "https://arstechnica.com/space/2026/11/vulcan-rocket-fails-during-launch-dealing-major-blow-to-spacex-competitors/"
+      "date": "Mon, 16 Nov 2026 19:54:21 +0000",
+      "summary": "Appeals court ruling rejected grant cancellations on First Amendment grounds.",
+      "url": "https://arstechnica.com/science/2026/11/supreme-court-keeps-injunction-against-dei-grant-defunding-in-place/"
     },
     {
       "category": "AI",
-      "title": "A step toward defining the Standard Model on a lattice",
-      "source": "OpenAI News",
-      "date": "Sun, 15 Nov 2026 22:00:01 GMT",
-      "summary": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
-      "url": "https://openai.com/index/step-toward-defining-the-standard-model"
-    },
-    {
-      "category": "AI",
-      "title": "Our new blog for science",
-      "source": "OpenAI News",
-      "date": "Sun, 15 Nov 2026 22:00:00 GMT",
-      "summary": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.",
-      "url": "https://openai.com/index/our-new-blog-for-science"
-    },
-    {
-      "category": "Science",
-      "title": " 'Out there, moving into the unknown': As Voyager 1 reaches one light-day from Earth, scientists reflect on its past — and its future ",
-      "source": " Latest from Live Science ",
-      "date": "Sun, 15 Nov 2026 20:00:00 +0000",
-      "summary": "Nearly 50 years after launch, NASA's Voyager 1 probe will pass the one light-day mark on Nov. 18, a symbolic milestone for the agency's longest-running mission. Scientists reflect on the Voyager program's legacy and what comes next.",
-      "url": "https://www.livescience.com/space/space-exploration/out-there-moving-into-the-unknown-as-voyager-1-reaches-one-light-day-from-earth-scientists-reflect-on-its-past-and-its-future"
-    },
-    {
-      "category": "Science",
-      "title": " Which animal would you most want to talk to, if you could? ",
-      "source": " Latest from Live Science ",
-      "date": "Sun, 15 Nov 2026 18:00:00 +0000",
-      "summary": "Recently, researchers used AI to \"decode\" segments of birdsong. In the wake of this, Live Science asks its readers which animal they'd want to communicate with.",
-      "url": "https://www.livescience.com/animals/which-animal-would-you-most-want-to-talk-to-if-you-could"
-    },
-    {
-      "category": "Space",
-      "title": " 30 years ago, 'Space Jam' proposed the best way to resolve interplanetary disputes ",
-      "source": " Latest from Space.com ",
-      "date": "Sun, 15 Nov 2026 17:00:00 +0000",
-      "summary": "Sufferin' succotash! The Monstars and Tune Squad interplanetary slam arrived 30 years ago, and it's still a clinic in interplanetary conflict resolution.",
-      "url": "https://www.space.com/entertainment/space-movies-shows/30-years-ago-space-jam-proposed-the-best-way-to-resolve-interplanetary-disputes"
-    },
-    {
-      "category": "Space",
-      "title": " On this day in space! Nov. 15, 1988: The 300-foot Green Bank Telescope collapses suddenly, leaving a huge pile of wreckage in West Virginia ",
-      "source": " Latest from Space.com ",
-      "date": "Sun, 15 Nov 2026 15:34:00 +0000",
-      "summary": "On Nov. 15, 1988, a 300-foot radio telescope in Green Bank, West Virginia suddenly collapsed. Here's why it mattered.",
-      "url": "https://www.space.com/space-exploration/on-this-day-in-space-november-15-2026"
-    },
-    {
-      "category": "Space",
-      "title": " Why hasn't the 'Blaze Star' exploded yet? Astronomers weigh in on what to expect ",
-      "source": " Latest from Space.com ",
-      "date": "Sun, 15 Nov 2026 15:00:00 +0000",
-      "summary": "\"T CrB *will* erupt sometime soon. Everyone is very confident on this.\"",
-      "url": "https://www.space.com/stargazing/why-hasnt-the-blaze-star-exploded-yet-astronomers-weigh-in-on-what-to-expect"
-    },
-    {
-      "category": "Science",
-      "title": "Vitamin C could help block cancer-linked chemicals in your stomach, study finds",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Sun, 15 Nov 2026 09:13:18 EST",
-      "summary": "Scientists have discovered that vitamin C may help prevent potentially cancer-causing chemicals from forming in the stomach after eating foods containing nitrates and nitrites. A new mathematical model suggests that taking vitamin C after meals could reduce these harmful reactions, offering a possible new strategy for lowering cancer risk.",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261114202236.htm"
-    },
-    {
-      "category": "Science",
-      "title": "Uranus and Neptune’s bizarre magnetic fields may finally be explained",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Sun, 15 Nov 2026 08:43:22 EST",
-      "summary": "The strange, wildly tilted magnetic fields of Uranus and Neptune have puzzled scientists since NASA's Voyager 2 spacecraft explored the planets in the 1980s. New simulations suggest that extreme conditions deep inside these icy giants create unusual electrical properties that could explain their magnetic fields. Remarkably, the models indicate that their magnetic poles could shift by tens of degrees within just a few decades, far faster than Earth's.",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261114202204.htm"
-    },
-    {
-      "category": "Science",
-      "title": "Astronomers discover a dead star spinning every 8 minutes and sending mysterious radio pulses",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Sun, 15 Nov 2026 08:04:09 EST",
-      "summary": "Scientists have discovered a strange stellar pair more than 5,000 light-years away, where a dead star spinning every eight minutes produces mysterious radio pulses while orbiting a Sun-like star. The breakthrough also revealed massive magnetic storms on the companion star, offering fresh clues to one of astronomy's emerging mysteries.",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261114202136.htm"
-    },
-    {
-      "category": "AI",
-      "title": "How the world’s fires changed while humanity hit pause",
+      "title": "When will humans actually fly on Starship?",
       "source": "Ars Technica",
-      "date": "Sun, 15 Nov 2026 12:07:34 +0000",
-      "summary": "COVID-19 lockdowns cut global fire activity by 12.3 percent.",
-      "url": "https://arstechnica.com/science/2026/11/how-the-worlds-fires-changed-while-humanity-hit-pause/"
+      "date": "Mon, 16 Nov 2026 19:46:08 +0000",
+      "summary": "All estimates of human spaceflight on Starship should be taken with a gigantic grain of salt.",
+      "url": "https://arstechnica.com/space/2026/11/when-will-humans-actually-fly-on-starship/"
     },
     {
       "category": "Science",
-      "title": " NASA's Voyager 1 mission forever changed our view of Jupiter  ",
+      "title": "New study reveals immune cells' ability to engulf and destroy amoebae",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Mon, 16 Nov 2026 14:40:16 EST",
+      "summary": "More than 100 million severe infections are believed to be caused worldwide each year by various species of amoebae, single-celled organisms typically found in freshwater and saltwater and moist environments. While treatment with antibiotics for these infections is often effective, scientists have long believed the body's own immune cells were unable to defend against amoebae.",
+      "url": "https://phys.org/news/2026-11-reveals-immune-cells-ability-engulf.html"
+    },
+    {
+      "category": "Science",
+      "title": "AI and experiments reveal impurities hindering waste plastic pyrolysis oil recycling",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Mon, 16 Nov 2026 14:40:07 EST",
+      "summary": "A Korean research team has identified how impurities interfere with the use of waste plastic pyrolysis oil as a petrochemical feedstock through catalytic experiments and artificial intelligence (AI)-based computational chemistry. The findings, published in the journal ACS Catalysis, provide a scientific basis for predicting potential declines in catalytic performance according to the types and concentrations of impurities present.",
+      "url": "https://phys.org/news/2026-11-ai-reveal-impurities-hindering-plastic.html"
+    },
+    {
+      "category": "AI",
+      "title": "Meet the new James Bond: Robert Pattinson",
+      "source": "Ars Technica",
+      "date": "Mon, 16 Nov 2026 19:36:25 +0000",
+      "summary": "Producers cite \"his fearlessness as an actor, his self-deprecating wit\" and continual reinvention as factors.",
+      "url": "https://arstechnica.com/culture/2026/11/meet-the-new-james-bond-robert-pattinson/"
+    },
+    {
+      "category": "Science",
+      "title": "'Forced fighters' are being lured into Ukraine war under false pretenses",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Mon, 16 Nov 2026 14:20:10 EST",
+      "summary": "Ukraine recently captured its first Indonesian prisoner of war. According to the Ukrainian state-run I Want to Live project, the 49-year-old man from Java had been promised work in Russia's construction industry only to realize he had been recruited into the army while being transported to Donetsk.",
+      "url": "https://phys.org/news/2026-11-fighters-lured-ukraine-war-false.html"
+    },
+    {
+      "category": "AI",
+      "title": "Adobe flash editor libre alternative",
+      "source": "Hacker News: Front Page",
+      "date": "Mon, 16 Nov 2026 19:13:13 +0000",
+      "summary": "Article URL: https://www.q0id.com/downloads\nComments URL: https://news.ycombinator.com/item?id=50521644\nPoints: 3\n# Comments: 1",
+      "url": "https://www.q0id.com/downloads"
+    },
+    {
+      "category": "Science",
+      "title": " The Leonid meteor shower peaks tonight: How to see more than a dozen 'shooting stars' per hour ",
       "source": " Latest from Live Science ",
-      "date": "Sun, 15 Nov 2026 11:00:00 +0000",
-      "summary": "As NASA's Voyager 1 probe reaches one light-day from Earth, we look back at its legendary photos of Jupiter that changed our view of the solar system.",
-      "url": "https://www.livescience.com/space/space-exploration/voyager-1-forever-changed-our-view-of-jupiter-space-photo-of-the-week"
+      "date": "Mon, 16 Nov 2026 19:06:03 +0000",
+      "summary": "Up to 15 shooting stars per hour may be visible as the Leonids peak under dark skies tonight (Nov. 16 - 17), with the moon setting before the best viewing hours.",
+      "url": "https://www.livescience.com/space/meteoroids/the-leonid-meteor-shower-peaks-tonight-how-to-see-more-than-a-dozen-shooting-stars-per-hour"
+    },
+    {
+      "category": "Space",
+      "title": " What exactly is a light-day? Here's what Voyager 1's latest milestone means for the interstellar probe ",
+      "source": " Latest from Space.com ",
+      "date": "Mon, 16 Nov 2026 19:00:00 +0000",
+      "summary": "Voyager 1 is approaching a distance of one light-day from Earth, a milestone that highlights the enormous distances involved in deep-space exploration.",
+      "url": "https://www.space.com/space-exploration/voyager/what-exactly-is-a-light-day-heres-what-voyager-1s-latest-milestone-means-for-the-interstellar-probe"
+    },
+    {
+      "category": "Space",
+      "title": "Sentinel-6B in Orbit Around Earth",
+      "source": "NASA",
+      "date": "Mon, 16 Nov 2026 18:52:32 +0000",
+      "summary": "Description This artist’s concept shows the Sentinel-6B satellite, which will become the reference satellite for other missions studying sea surface height.",
+      "url": "https://science.nasa.gov/photojournal/sentinel-6b-in-orbit-around-earth/"
+    },
+    {
+      "category": "History",
+      "title": "The Intelligence War for Vermont",
+      "source": "Journal of the American Revolution",
+      "date": "Mon, 16 Nov 2026 18:48:09 +0000",
+      "summary": "Capt. Justus Sherwood, a Vermont Loyalist, arrived at a Vermont frontier post in western Vermont on October 28, 1780, as a representative of the British under a flag of truce, and was brought before Col. Samuel Herrick. With him, he carried dispatches and instructions relative to a proposed exchange of prisoners. The next day, Sherwood […]\nThe post The Intelligence War for Vermont appeared first on Journal of the American Revolution.",
+      "url": "https://allthingsliberty.com/2026/11/the-intelligence-war-for-vermont/"
+    },
+    {
+      "category": "Space",
+      "title": "Thunderbirds in Formation",
+      "source": "NASA",
+      "date": "Mon, 16 Nov 2026 18:34:47 +0000",
+      "summary": "U.S. Air Force Thunderbirds fighter jets pass overhead during the agency’s MAX POWER expo and air show on Saturday, Nov. 7, 2026, at NASA’s Kennedy Space Center in Florida. NASA’s inaugural MAX POWER was an aerospace festival celebrating the past, present, and future of flight and space exploration in honor of America’s 250th anniversary. Image […]",
+      "url": "https://www.nasa.gov/image-article/thunderbirds-in-formation/"
+    },
+    {
+      "category": "AI",
+      "title": "Outages reported at Bank of America, Chase, U.S. Bank, Wells Fargo and Zelle",
+      "source": "Hacker News: Front Page",
+      "date": "Mon, 16 Nov 2026 18:31:30 +0000",
+      "summary": "Article URL: https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda\nComments URL: https://news.ycombinator.com/item?id=50521045\nPoints: 202\n# Comments: 97",
+      "url": "https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda"
+    },
+    {
+      "category": "AI",
+      "title": "Software is breaking down at a systemic level",
+      "source": "Hacker News: Front Page",
+      "date": "Mon, 16 Nov 2026 18:17:17 +0000",
+      "summary": "Article URL: https://www.breck-mckye.com/blog/2026/11/software-is-breaking-down-at-a-systemic-level/\nComments URL: https://news.ycombinator.com/item?id=50520866\nPoints: 111\n# Comments: 86",
+      "url": "https://www.breck-mckye.com/blog/2026/11/software-is-breaking-down-at-a-systemic-level/"
+    },
+    {
+      "category": "Space",
+      "title": " 'Maybe the scariest thing I've heard in my life': Artemis II astronaut Victor Glover reveals his toughest challenge before flying to the moon ",
+      "source": " Latest from Space.com ",
+      "date": "Mon, 16 Nov 2026 18:00:00 +0000",
+      "summary": "For Artemis II astronaut Victor Glover, one of the hardest parts of traveling to the moon happened before he even left Earth.",
+      "url": "https://www.space.com/space-exploration/artemis/maybe-the-scariest-thing-ive-heard-in-my-life-artemis-ii-astronaut-victor-glover-reveals-his-toughest-challenge-before-flying-to-the-moon"
+    },
+    {
+      "category": "Space",
+      "title": " The Leonid meteor shower peaks Nov. 17-18! Here's what you need to know ",
+      "source": " Latest from Space.com ",
+      "date": "Mon, 16 Nov 2026 17:00:00 +0000",
+      "summary": "The Leonid meteor shower peaks overnight on Nov. 17-18, sending shooting stars racing across the night sky from the direction of the constellation Leo.",
+      "url": "https://www.space.com/stargazing/meteor-showers/the-leonid-meteor-shower-peaks-nov-17-18-heres-what-you-need-to-know"
+    },
+    {
+      "category": "AI",
+      "title": "Broadening access to AI for scientists",
+      "source": "OpenAI News",
+      "date": "Mon, 16 Nov 2026 17:00:00 GMT",
+      "summary": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.",
+      "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers"
+    },
+    {
+      "category": "AI",
+      "title": "Strengthening the fight against online child sexual abuse with new tools and support",
+      "source": "OpenAI News",
+      "date": "Mon, 16 Nov 2026 17:00:00 GMT",
+      "summary": "New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse.",
+      "url": "https://openai.com/index/strengthening-online-child-safety"
+    },
+    {
+      "category": "Science",
+      "title": " Tiny robots can tumble through blood vessels to help dissolve blood clots, early test shows ",
+      "source": " Latest from Live Science ",
+      "date": "Mon, 16 Nov 2026 16:00:00 +0000",
+      "summary": "In recent animal tests, tiny robots released into the bloodstream showed promise for treating blood clots.",
+      "url": "https://www.livescience.com/health/heart-circulation/tiny-robots-can-tumble-through-blood-vessels-to-help-dissolve-blood-clots-early-test-shows"
+    },
+    {
+      "category": "Space",
+      "title": "Contractor to Civil Servant: NASA Welcomes Jim Mirandy",
+      "source": "NASA",
+      "date": "Mon, 16 Nov 2026 15:22:09 +0000",
+      "summary": "The rumble of a rocket engine might be considered a soundtrack for Jim Mirandy’s life. Mirandy has grown up with NASA as a constant presence, and his path to becoming a civil servant at NASA’s Stennis Space Center near Bay St. Louis, Mississippi, has been decades in the making. Hired under the agency’s workforce directive […]",
+      "url": "https://www.nasa.gov/centers-and-facilities/stennis/contractor-to-civil-servant-jim-mirandy/"
+    },
+    {
+      "category": "Science",
+      "title": "NASA is offering $1 million for bold ideas to help build a Moon base",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Mon, 16 Nov 2026 09:02:10 EST",
+      "summary": "NASA is offering $1 million in its new Moon Base Challenge, inviting U.S. students to develop innovative solutions for building humanity’s first permanent lunar outpost. From power systems to astronaut safety, their ideas could help make long-term life on the Moon possible and pave the way to Mars.",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261115085542.htm"
+    },
+    {
+      "category": "Science",
+      "title": "NASA smashed into an asteroid. Now Hera has revealed a strange new world",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Mon, 16 Nov 2026 08:40:11 EST",
+      "summary": "A European spacecraft has revealed a mysterious, crater-covered side of the asteroid Didymos as it prepares to investigate the aftermath of NASA’s historic 2022 asteroid impact. The mission could uncover new clues about the collision and help turn asteroid deflection into a powerful defense against future threats to Earth.",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261116023351.htm"
+    },
+    {
+      "category": "AI",
+      "title": "Science at the Frontier: How scientists use ChatGPT",
+      "source": "OpenAI News",
+      "date": "Mon, 16 Nov 2026 12:00:00 GMT",
+      "summary": "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery.",
+      "url": "https://openai.com/index/science-at-the-frontier"
+    },
+    {
+      "category": "Biblical Studies",
+      "title": "Bethlehem’s Ancient Pipe Organ Sounds Again",
+      "source": "Biblical Archaeology Society",
+      "date": "Mon, 16 Nov 2026 11:00:50 +0000",
+      "summary": "David Catalunya (right) and Koos van de Linde inspect pipes from Bethlehem’s medieval organ. Click on the image to hear what the organ may have […]\nThe post Bethlehem’s Ancient Pipe Organ Sounds Again appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/daily/biblical-topics/post-biblical-period/bethlehems-ancient-pipe-organ-sounds-again/"
+    },
+    {
+      "category": "Biblical Studies",
+      "title": "Canaanite Folk Worship at Megiddo",
+      "source": "Biblical Archaeology Society",
+      "date": "Mon, 16 Nov 2026 11:00:25 +0000",
+      "summary": "Conducting salvage excavations at the ancient site of Megiddo—famously known as Armageddon in the New Testament’s Book of Revelation—archaeologists with the Israel Antiquities Authority (IAA) […]\nThe post Canaanite Folk Worship at Megiddo appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-israel/canaanite-folk-worship-at-megiddo/"
+    },
+    {
+      "category": "Science",
+      "title": " Thinkers of Cernavodă: Mysterious Stone Age figurines discovered in a 7,000-year-old grave in Romania ",
+      "source": " Latest from Live Science ",
+      "date": "Mon, 16 Nov 2026 11:00:00 +0000",
+      "summary": "An unusual pair of seated figurines was discovered in a Stone Age grave in Romania in the 1950s.",
+      "url": "https://www.livescience.com/archaeology/thinkers-of-cernavoda-mysterious-stone-age-figurines-discovered-in-a-7-000-year-old-grave-in-romania"
+    },
+    {
+      "category": "Biblical Studies",
+      "title": "Summer 2026 Caption Contest Winners",
+      "source": "Biblical Archaeology Society",
+      "date": "Mon, 16 Nov 2026 10:00:56 +0000",
+      "summary": "“Why am I on his left? I’m the GOAT!” Jim Schmutz, Central, South Carolina Thank you to all those who submitted caption entries for our […]\nThe post Summer 2026 Caption Contest Winners appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/cartoon-captions/caption-contest-winners/summer-2026-2/"
+    },
+    {
+      "category": "Theology",
+      "title": "When You Need a Christmas Miracle",
+      "source": "The Gospel Coalition",
+      "date": "Mon, 16 Nov 2026 05:03:00 +0000",
+      "summary": "We won’t find all our struggles tied up with a neat bow like the gifts under our trees. But God, our Immanuel, will be with us through it all.",
+      "url": "https://www.thegospelcoalition.org/article/need-christmas-miracle/"
+    },
+    {
+      "category": "Theology",
+      "title": "What Roman History Can (and Can’t) Explain About Christianity",
+      "source": "The Gospel Coalition",
+      "date": "Mon, 16 Nov 2026 05:00:00 +0000",
+      "summary": "‘Rome’s Age of Revolution’ is a tightly argued book that makes a number of important connections between the Greco-Roman world and the formation of the early church.",
+      "url": "https://www.thegospelcoalition.org/reviews/romes-age-of-revolution/"
+    },
+    {
+      "category": "Science",
+      "title": "The secret to building Moon bases may be hiding in emergency blankets",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Sun, 15 Nov 2026 22:51:01 EST",
+      "summary": "Scientists have turned the thin plastic used in emergency blankets into remarkably strong insulation that could help astronauts survive the Moon's extreme temperatures. Built from hundreds of stacked layers, the material withstands crushing pressure without losing its thermal protection, potentially paving the way for tougher, longer-lasting lunar habitats.",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261115085549.htm"
     },
     {
       "category": "Theology",
@@ -163,76 +251,12 @@
       "url": "https://www.thegospelcoalition.org/article/young-adults-hungry-feed/"
     },
     {
-      "category": "AI",
-      "title": "SpaceX returned its Starship rocket on Saturday—but there's a catch",
-      "source": "Ars Technica",
-      "date": "Sun, 15 Nov 2026 00:40:59 +0000",
-      "summary": "It felt like stepping into the future.",
-      "url": "https://arstechnica.com/space/2026/11/with-starship-catch-spacex-still-shows-it-can-dazzle-the-world/"
-    },
-    {
-      "category": "Theology",
-      "title": "The Festive Attire We Really Need",
-      "source": "The Gospel Coalition",
-      "date": "Sat, 14 Nov 2026 05:03:00 +0000",
-      "summary": "Even in our finest clothes we can still be dirty on the inside. Advent reminds us that Jesus dresses us in his righteousness.",
-      "url": "https://www.thegospelcoalition.org/article/festive-attire-we-need/"
-    },
-    {
-      "category": "Theology",
-      "title": "Don’t Be Afraid of the Alien Question",
-      "source": "The Gospel Coalition",
-      "date": "Sat, 14 Nov 2026 05:00:00 +0000",
-      "summary": "‘Faith in Space’ shows that many Americans throughout history have already taken the question of extraterrestrial life seriously, but they’ve done so from outside an orthodox Christian framework.",
-      "url": "https://www.thegospelcoalition.org/reviews/faith-in-space-extraterrestrial/"
-    },
-    {
       "category": "Theology",
       "title": "Not the Book on the Church You Were Expecting",
       "source": "9Marks",
       "date": "Fri, 13 Nov 2026 18:46:25 +0000",
       "summary": "Brad East’s book The Church is a guide God’s people need, even if it is not the one they are expecting.\nThe post Not the Book on the Church You Were Expecting appeared first on 9Marks.",
       "url": "https://www.9marks.org/review/not-the-book-on-the-church-you-were-expecting/?utm_source=rss&utm_medium=rss&utm_campaign=not-the-book-on-the-church-you-were-expecting"
-    },
-    {
-      "category": "Space",
-      "title": "Outbursts from a Massive Star",
-      "source": "NASA",
-      "date": "Fri, 13 Nov 2026 16:39:33 +0000",
-      "summary": "Using NASA’s Chandra X-ray Observatory, astronomers have discovered what is triggering repeated outbursts from a giant, unstable star located in the galaxy shown in this image released on Nov. 9, 2026. The volatile star, known as AT 2016blu, is in the spiral galaxy NGC 4559, located about 30 million light-years from Earth. Astronomers estimate the […]",
-      "url": "https://www.nasa.gov/image-article/outbursts-from-a-massive-star/"
-    },
-    {
-      "category": "Space",
-      "title": "Gemini Astronaut Photos Inspired Early Earth Observation Program",
-      "source": "NASA",
-      "date": "Fri, 13 Nov 2026 16:05:54 +0000",
-      "summary": "Astronauts James A. Lovell Jr. and Edwin E. “Buzz” Aldrin Jr. orbited Earth from November 11 to 15, 1966, on Gemini XII, the final mission of NASA’s Gemini program. In addition to successfully completing rendezvous maneuvers and spacewalks, procedures vital to sending American astronauts to the Moon, the crew was also spurring the development of […]",
-      "url": "https://www.nasa.gov/image-article/gemini-astronaut-photos-inspired-early-earth-observation-program/"
-    },
-    {
-      "category": "AI",
-      "title": "Introducing ChatGPT Wallet",
-      "source": "OpenAI News",
-      "date": "Fri, 13 Nov 2026 15:00:00 GMT",
-      "summary": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
-      "url": "https://openai.com/index/introducing-chatgpt-wallet"
-    },
-    {
-      "category": "Biblical Studies",
-      "title": "American Student Finds Cobra Seal at Gezer",
-      "source": "Biblical Archaeology Society",
-      "date": "Fri, 13 Nov 2026 11:45:55 +0000",
-      "summary": "A few days after arriving in Israel, while on a study tour of Tel Gezer, 17-year-old American high school student Shiloh Attoun saw an object […]\nThe post American Student Finds Cobra Seal at Gezer appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-egypt/american-student-finds-cobra-seal-at-gezer/"
-    },
-    {
-      "category": "Space",
-      "title": "APOD: 2026 November 13 – NGC 206 and the Star Clouds of Andromeda",
-      "source": "NASA",
-      "date": "Fri, 13 Nov 2026 05:05:00 +0000",
-      "summary": "APOD Science APOD APOD: 2026 November 13 – NGC… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. NGC 206 […]",
-      "url": "https://science.nasa.gov/image-article/apod-2026-november-13-ngc-206-and-the-star-clouds-of-andromeda/"
     },
     {
       "category": "Theology",
@@ -251,22 +275,6 @@
       "url": "https://allthingsliberty.com/2026/11/the-dames-of-philipse-manor-hall-revolutionary-women-and-illicit-dutch-tea/"
     },
     {
-      "category": "Biblical Studies",
-      "title": "What Was the Star of Bethlehem?",
-      "source": "Biblical Archaeology Society",
-      "date": "Thu, 12 Nov 2026 12:00:21 +0000",
-      "summary": "For the past 2,000 years, people have wondered about the identity and nature of the Star of Bethlehem. And for hundreds of years, some of […]\nThe post What Was the Star of Bethlehem? appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/daily/what-was-the-star-of-bethlehem/"
-    },
-    {
-      "category": "Biblical Studies",
-      "title": "Is the “Brother of Jesus” Inscription on the James Ossuary a Forgery?",
-      "source": "Biblical Archaeology Society",
-      "date": "Thu, 12 Nov 2026 12:00:04 +0000",
-      "summary": "Although the famous “brother of Jesus” inscription on the so-called James Ossuary has been authenticated by two world-class paleographers, not everyone is convinced that the inscription is authentic.\nThe post Is the “Brother of Jesus” Inscription on the James Ossuary a Forgery? appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/daily/biblical-artifacts/artifacts-and-the-bible/is-the-brother-of-jesus-inscription-on-the-james-ossuary-a-forgery/"
-    },
-    {
       "category": "History",
       "title": "On This Week’s Dispatches: Emelia Lehmann on David Steele’s Macabre “Medal”",
       "source": "Journal of the American Revolution",
@@ -281,14 +289,6 @@
       "date": "Tue, 10 Nov 2026 17:23:25 +0000",
       "summary": "The Great Commission, then, is for fearful, doubting, weak, disbelieving disciples, who need to be reminded of Jesus’s power and authority.\nThe post Don’t Forget the Great Commission When You Counsel appeared first on 9Marks.",
       "url": "https://www.9marks.org/article/dont-forget-the-great-commission-when-you-counsel/?utm_source=rss&utm_medium=rss&utm_campaign=dont-forget-the-great-commission-when-you-counsel"
-    },
-    {
-      "category": "History",
-      "title": "The British “Experiment” to Use Loyalists in the Southern War",
-      "source": "Journal of the American Revolution",
-      "date": "Tue, 10 Nov 2026 10:00:04 +0000",
-      "summary": "A hallmark of the Revolutionary War in the South was the drive by the British to use Loyalist militia to augment the British army, in combat with the American army and in keeping the peace behind the front lines. The army’s use of Loyalist militiamen in the south arose immediately after the fall of Charlestown […]\nThe post The British “Experiment” to Use Loyalists in the Southern War appeared first on Journal of the American Revolution.",
-      "url": "https://allthingsliberty.com/2026/11/the-british-experiment-to-use-loyalists-in-the-southern-war/"
     },
     {
       "category": "History",
