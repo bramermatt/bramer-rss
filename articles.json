@@ -1,62 +1,102 @@
 {
-  "lastUpdated": "2026-11-16T19:56:55.725Z",
-  "articleCount": 39,
+  "lastUpdated": "2026-11-17T04:15:42.349Z",
+  "articleCount": 36,
   "articles": [
     {
-      "category": "AI",
-      "title": "Supreme Court keeps injunction against DEI grant defunding in place",
-      "source": "Ars Technica",
-      "date": "Mon, 16 Nov 2026 19:54:21 +0000",
-      "summary": "Appeals court ruling rejected grant cancellations on First Amendment grounds.",
-      "url": "https://arstechnica.com/science/2026/11/supreme-court-keeps-injunction-against-dei-grant-defunding-in-place/"
-    },
-    {
-      "category": "AI",
-      "title": "When will humans actually fly on Starship?",
-      "source": "Ars Technica",
-      "date": "Mon, 16 Nov 2026 19:46:08 +0000",
-      "summary": "All estimates of human spaceflight on Starship should be taken with a gigantic grain of salt.",
-      "url": "https://arstechnica.com/space/2026/11/when-will-humans-actually-fly-on-starship/"
+      "category": "Science",
+      "title": "Report finds consistent pandemic learning loss and gaps between grades and test scores across Canada",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Mon, 16 Nov 2026 22:20:01 EST",
+      "summary": "A new national report identifies declines in student performance in every province and territory examined in Canada, with grade inflation obscuring the extent of setbacks during the COVID-19 pandemic.",
+      "url": "https://phys.org/news/2026-11-pandemic-loss-gaps-grades-scores.html"
     },
     {
       "category": "Science",
-      "title": "New study reveals immune cells' ability to engulf and destroy amoebae",
+      "title": "Mourning Notcho: What one whale's death teaches us about ecological grief",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Mon, 16 Nov 2026 14:40:16 EST",
-      "summary": "More than 100 million severe infections are believed to be caused worldwide each year by various species of amoebae, single-celled organisms typically found in freshwater and saltwater and moist environments. While treatment with antibiotics for these infections is often effective, scientists have long believed the body's own immune cells were unable to defend against amoebae.",
-      "url": "https://phys.org/news/2026-11-reveals-immune-cells-ability-engulf.html"
+      "date": "Mon, 16 Nov 2026 22:00:01 EST",
+      "summary": "Sighting a humpback whale from a boat can be awe-inspiring. For some BC Ferries passengers, that experience became disturbing when their ferry struck and fatally injured a humpback whale on Oct. 18.",
+      "url": "https://phys.org/news/2026-11-notcho-whale-death-ecological-grief.html"
     },
     {
       "category": "Science",
-      "title": "AI and experiments reveal impurities hindering waste plastic pyrolysis oil recycling",
+      "title": "How enhanced rock weathering can speed up carbon capture",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Mon, 16 Nov 2026 14:40:07 EST",
-      "summary": "A Korean research team has identified how impurities interfere with the use of waste plastic pyrolysis oil as a petrochemical feedstock through catalytic experiments and artificial intelligence (AI)-based computational chemistry. The findings, published in the journal ACS Catalysis, provide a scientific basis for predicting potential declines in catalytic performance according to the types and concentrations of impurities present.",
-      "url": "https://phys.org/news/2026-11-ai-reveal-impurities-hindering-plastic.html"
+      "date": "Mon, 16 Nov 2026 21:20:01 EST",
+      "summary": "Water flooded the pasture, spilling from an irrigation pipe tucked alongside a hill at the Sierra Foothill Research and Extension Center, a University of California research facility located about 20 miles (32 kilometers) east of Yuba City. For more than three hours, starting at 6 a.m. this summer day, the water had seeped into the soils beneath the yellow-green grass, spreading to various depths while flowing downslope toward its destination.",
+      "url": "https://phys.org/news/2026-11-weathering-carbon-capture.html"
     },
     {
       "category": "AI",
-      "title": "Meet the new James Bond: Robert Pattinson",
-      "source": "Ars Technica",
-      "date": "Mon, 16 Nov 2026 19:36:25 +0000",
-      "summary": "Producers cite \"his fearlessness as an actor, his self-deprecating wit\" and continual reinvention as factors.",
-      "url": "https://arstechnica.com/culture/2026/11/meet-the-new-james-bond-robert-pattinson/"
-    },
-    {
-      "category": "Science",
-      "title": "'Forced fighters' are being lured into Ukraine war under false pretenses",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Mon, 16 Nov 2026 14:20:10 EST",
-      "summary": "Ukraine recently captured its first Indonesian prisoner of war. According to the Ukrainian state-run I Want to Live project, the 49-year-old man from Java had been promised work in Russia's construction industry only to realize he had been recruited into the army while being transported to Donetsk.",
-      "url": "https://phys.org/news/2026-11-fighters-lured-ukraine-war-false.html"
-    },
-    {
-      "category": "AI",
-      "title": "Adobe flash editor libre alternative",
+      "title": "If an App Asks for Full Disk Access or System and App Protection Override",
       "source": "Hacker News: Front Page",
-      "date": "Mon, 16 Nov 2026 19:13:13 +0000",
-      "summary": "Article URL: https://www.q0id.com/downloads\nComments URL: https://news.ycombinator.com/item?id=50521644\nPoints: 3\n# Comments: 1",
-      "url": "https://www.q0id.com/downloads"
+      "date": "Tue, 17 Nov 2026 02:17:04 +0000",
+      "summary": "Article URL: https://support.apple.com/en-us/149699\nComments URL: https://news.ycombinator.com/item?id=50526560\nPoints: 33\n# Comments: 15",
+      "url": "https://support.apple.com/en-us/149699"
+    },
+    {
+      "category": "AI",
+      "title": "Mem Is Shutting Down",
+      "source": "Hacker News: Front Page",
+      "date": "Tue, 17 Nov 2026 02:13:41 +0000",
+      "summary": "Article URL: https://get.mem.ai/blog/mem-is-shutting-down\nComments URL: https://news.ycombinator.com/item?id=50526537\nPoints: 23\n# Comments: 23",
+      "url": "https://get.mem.ai/blog/mem-is-shutting-down"
+    },
+    {
+      "category": "AI",
+      "title": "Running coding agents without handing them my credentials",
+      "source": "Hacker News: Front Page",
+      "date": "Tue, 17 Nov 2026 01:18:56 +0000",
+      "summary": "Article URL: https://blog.antonio.cx/running-agents-with-lend\nComments URL: https://news.ycombinator.com/item?id=50526152\nPoints: 54\n# Comments: 20",
+      "url": "https://blog.antonio.cx/running-agents-with-lend"
+    },
+    {
+      "category": "AI",
+      "title": "Robo-soldier startup backed by Eric Trump misses payroll, may collapse",
+      "source": "Ars Technica",
+      "date": "Mon, 16 Nov 2026 22:58:27 +0000",
+      "summary": "Robotics startup misses payroll a year after CEO used funds for luxury home.",
+      "url": "https://arstechnica.com/ai/2026/11/robo-soldier-startup-backed-by-eric-trump-misses-payroll-may-collapse/"
+    },
+    {
+      "category": "AI",
+      "title": "Three small failures combined to take down Microsoft 365",
+      "source": "Ars Technica",
+      "date": "Mon, 16 Nov 2026 21:56:39 +0000",
+      "summary": "A hidden bug, shifting traffic, and reduced capacity led to cascading failures.",
+      "url": "https://arstechnica.com/gadgets/2026/11/microsoft-details-how-three-problems-combined-for-a-global-outage/"
+    },
+    {
+      "category": "Space",
+      "title": " On this day in space! Nov. 16, 1974: The giant Arecibo Observatory in Puerto Rico broadcasts humanity's 1st interstellar message ",
+      "source": " Latest from Space.com ",
+      "date": "Mon, 16 Nov 2026 21:34:36 +0000",
+      "summary": "On this day in space! Nov. 16, 1974: The giant Arecibo Observatory in Puerto Rico broadcasts humanity's 1st interstellar message",
+      "url": "https://www.space.com/space-exploration/on-this-day-in-space-november-16-2026"
+    },
+    {
+      "category": "Space",
+      "title": " Relive Starship’s historic Flight 15 with our best photos from launch and ‘Mechazilla’ tower catch ",
+      "source": " Latest from Space.com ",
+      "date": "Mon, 16 Nov 2026 21:26:29 +0000",
+      "summary": "See the most epic photos from SpaceX's Starship Flight 15 test flight and historic launch tower catch.",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/relive-starships-historic-flight-15-with-our-best-photos-from-launch-and-mechazilla-tower-catch"
+    },
+    {
+      "category": "AI",
+      "title": "Hyperscale data centers use 2% of US electricity",
+      "source": "Ars Technica",
+      "date": "Mon, 16 Nov 2026 20:52:10 +0000",
+      "summary": "Study attempts to tally hyperscalers’ energy use and emissions.",
+      "url": "https://arstechnica.com/science/2026/11/hyperscale-data-centers-use-2-of-us-electricity/"
+    },
+    {
+      "category": "Space",
+      "title": " Elon Musk says SpaceX’s Starship, already the largest rocket on Earth, will get even bigger with next-gen V4 model ",
+      "source": " Latest from Space.com ",
+      "date": "Mon, 16 Nov 2026 20:04:22 +0000",
+      "summary": "Just a day after SpaceX caught the upper stage of its Starship megarocket back at the launch pad for the first time ever, Elon Musk told us that the spacecraft will get even bigger.",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/elon-musk-says-spacexs-starship-already-the-largest-rocket-on-earth-will-get-even-bigger-with-next-gen-v4-model"
     },
     {
       "category": "Science",
@@ -67,68 +107,12 @@
       "url": "https://www.livescience.com/space/meteoroids/the-leonid-meteor-shower-peaks-tonight-how-to-see-more-than-a-dozen-shooting-stars-per-hour"
     },
     {
-      "category": "Space",
-      "title": " What exactly is a light-day? Here's what Voyager 1's latest milestone means for the interstellar probe ",
-      "source": " Latest from Space.com ",
-      "date": "Mon, 16 Nov 2026 19:00:00 +0000",
-      "summary": "Voyager 1 is approaching a distance of one light-day from Earth, a milestone that highlights the enormous distances involved in deep-space exploration.",
-      "url": "https://www.space.com/space-exploration/voyager/what-exactly-is-a-light-day-heres-what-voyager-1s-latest-milestone-means-for-the-interstellar-probe"
-    },
-    {
-      "category": "Space",
-      "title": "Sentinel-6B in Orbit Around Earth",
-      "source": "NASA",
-      "date": "Mon, 16 Nov 2026 18:52:32 +0000",
-      "summary": "Description This artist’s concept shows the Sentinel-6B satellite, which will become the reference satellite for other missions studying sea surface height.",
-      "url": "https://science.nasa.gov/photojournal/sentinel-6b-in-orbit-around-earth/"
-    },
-    {
       "category": "History",
       "title": "The Intelligence War for Vermont",
       "source": "Journal of the American Revolution",
       "date": "Mon, 16 Nov 2026 18:48:09 +0000",
       "summary": "Capt. Justus Sherwood, a Vermont Loyalist, arrived at a Vermont frontier post in western Vermont on October 28, 1780, as a representative of the British under a flag of truce, and was brought before Col. Samuel Herrick. With him, he carried dispatches and instructions relative to a proposed exchange of prisoners. The next day, Sherwood […]\nThe post The Intelligence War for Vermont appeared first on Journal of the American Revolution.",
       "url": "https://allthingsliberty.com/2026/11/the-intelligence-war-for-vermont/"
-    },
-    {
-      "category": "Space",
-      "title": "Thunderbirds in Formation",
-      "source": "NASA",
-      "date": "Mon, 16 Nov 2026 18:34:47 +0000",
-      "summary": "U.S. Air Force Thunderbirds fighter jets pass overhead during the agency’s MAX POWER expo and air show on Saturday, Nov. 7, 2026, at NASA’s Kennedy Space Center in Florida. NASA’s inaugural MAX POWER was an aerospace festival celebrating the past, present, and future of flight and space exploration in honor of America’s 250th anniversary. Image […]",
-      "url": "https://www.nasa.gov/image-article/thunderbirds-in-formation/"
-    },
-    {
-      "category": "AI",
-      "title": "Outages reported at Bank of America, Chase, U.S. Bank, Wells Fargo and Zelle",
-      "source": "Hacker News: Front Page",
-      "date": "Mon, 16 Nov 2026 18:31:30 +0000",
-      "summary": "Article URL: https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda\nComments URL: https://news.ycombinator.com/item?id=50521045\nPoints: 202\n# Comments: 97",
-      "url": "https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda"
-    },
-    {
-      "category": "AI",
-      "title": "Software is breaking down at a systemic level",
-      "source": "Hacker News: Front Page",
-      "date": "Mon, 16 Nov 2026 18:17:17 +0000",
-      "summary": "Article URL: https://www.breck-mckye.com/blog/2026/11/software-is-breaking-down-at-a-systemic-level/\nComments URL: https://news.ycombinator.com/item?id=50520866\nPoints: 111\n# Comments: 86",
-      "url": "https://www.breck-mckye.com/blog/2026/11/software-is-breaking-down-at-a-systemic-level/"
-    },
-    {
-      "category": "Space",
-      "title": " 'Maybe the scariest thing I've heard in my life': Artemis II astronaut Victor Glover reveals his toughest challenge before flying to the moon ",
-      "source": " Latest from Space.com ",
-      "date": "Mon, 16 Nov 2026 18:00:00 +0000",
-      "summary": "For Artemis II astronaut Victor Glover, one of the hardest parts of traveling to the moon happened before he even left Earth.",
-      "url": "https://www.space.com/space-exploration/artemis/maybe-the-scariest-thing-ive-heard-in-my-life-artemis-ii-astronaut-victor-glover-reveals-his-toughest-challenge-before-flying-to-the-moon"
-    },
-    {
-      "category": "Space",
-      "title": " The Leonid meteor shower peaks Nov. 17-18! Here's what you need to know ",
-      "source": " Latest from Space.com ",
-      "date": "Mon, 16 Nov 2026 17:00:00 +0000",
-      "summary": "The Leonid meteor shower peaks overnight on Nov. 17-18, sending shooting stars racing across the night sky from the direction of the constellation Leo.",
-      "url": "https://www.space.com/stargazing/meteor-showers/the-leonid-meteor-shower-peaks-nov-17-18-heres-what-you-need-to-know"
     },
     {
       "category": "AI",
@@ -153,14 +137,6 @@
       "date": "Mon, 16 Nov 2026 16:00:00 +0000",
       "summary": "In recent animal tests, tiny robots released into the bloodstream showed promise for treating blood clots.",
       "url": "https://www.livescience.com/health/heart-circulation/tiny-robots-can-tumble-through-blood-vessels-to-help-dissolve-blood-clots-early-test-shows"
-    },
-    {
-      "category": "Space",
-      "title": "Contractor to Civil Servant: NASA Welcomes Jim Mirandy",
-      "source": "NASA",
-      "date": "Mon, 16 Nov 2026 15:22:09 +0000",
-      "summary": "The rumble of a rocket engine might be considered a soundtrack for Jim Mirandy’s life. Mirandy has grown up with NASA as a constant presence, and his path to becoming a civil servant at NASA’s Stennis Space Center near Bay St. Louis, Mississippi, has been decades in the making. Hired under the agency’s workforce directive […]",
-      "url": "https://www.nasa.gov/centers-and-facilities/stennis/contractor-to-civil-servant-jim-mirandy/"
     },
     {
       "category": "Science",
@@ -244,6 +220,14 @@
     },
     {
       "category": "Theology",
+      "title": "You Can’t Make It Happen: The Spirit and the Doctrine of Conversion",
+      "source": "9Marks",
+      "date": "Mon, 16 Nov 2026 02:56:20 +0000",
+      "summary": "The divine aid necessary to overcome this stubborn hostility to divine grace comes from the Holy Spirit: he prompts repentance.\nThe post You Can’t Make It Happen: The Spirit and the Doctrine of Conversion appeared first on 9Marks.",
+      "url": "https://www.9marks.org/article/you-cant-make-it-happen-the-spirit-and-the-doctrine-of-conversion/?utm_source=rss&utm_medium=rss&utm_campaign=you-cant-make-it-happen-the-spirit-and-the-doctrine-of-conversion"
+    },
+    {
+      "category": "Theology",
       "title": "Young Adults Are Hungry. Here Are 3 Ways to Feed Them.",
       "source": "The Gospel Coalition",
       "date": "Sun, 15 Nov 2026 05:00:00 +0000",
@@ -255,7 +239,7 @@
       "title": "Not the Book on the Church You Were Expecting",
       "source": "9Marks",
       "date": "Fri, 13 Nov 2026 18:46:25 +0000",
-      "summary": "Brad East’s book The Church is a guide God’s people need, even if it is not the one they are expecting.\nThe post Not the Book on the Church You Were Expecting appeared first on 9Marks.",
+      "summary": "A work that is characterized more by meaty biblical-theological meditations on the church than by a systematic theological treatment of the topic.\nThe post Not the Book on the Church You Were Expecting appeared first on 9Marks.",
       "url": "https://www.9marks.org/review/not-the-book-on-the-church-you-were-expecting/?utm_source=rss&utm_medium=rss&utm_campaign=not-the-book-on-the-church-you-were-expecting"
     },
     {
@@ -281,14 +265,6 @@
       "date": "Wed, 11 Nov 2026 01:00:37 +0000",
       "summary": "On this week’s Dispatches, host Brady Crytzer interviews JAR contributor Emelia Lehmann about Virginia militiaman David Steele who carried a piece of his broken skull as a “medal” for his role in the battle of Guilford Courhouse. New episodes of Dispatches are available for free every Sunday evening(Eastern United States Time), first on iTunes, Stitcher, […]\nThe post On This Week’s Dispatches: Emelia Lehmann on David Steele’s Macabre “Medal” appeared first on Journal of the American Revolution.",
       "url": "https://allthingsliberty.com/2026/11/on-this-weeks-dispatches-emelia-lehmann-on-david-steeles-macabre-medal/"
-    },
-    {
-      "category": "Theology",
-      "title": "Don’t Forget the Great Commission When You Counsel",
-      "source": "9Marks",
-      "date": "Tue, 10 Nov 2026 17:23:25 +0000",
-      "summary": "The Great Commission, then, is for fearful, doubting, weak, disbelieving disciples, who need to be reminded of Jesus’s power and authority.\nThe post Don’t Forget the Great Commission When You Counsel appeared first on 9Marks.",
-      "url": "https://www.9marks.org/article/dont-forget-the-great-commission-when-you-counsel/?utm_source=rss&utm_medium=rss&utm_campaign=dont-forget-the-great-commission-when-you-counsel"
     },
     {
       "category": "History",
