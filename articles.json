@@ -1,110 +1,230 @@
 {
-  "lastUpdated": "2026-11-17T04:15:42.349Z",
-  "articleCount": 36,
+  "lastUpdated": "2026-11-17T18:53:17.108Z",
+  "articleCount": 39,
   "articles": [
     {
-      "category": "Science",
-      "title": "Report finds consistent pandemic learning loss and gaps between grades and test scores across Canada",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Mon, 16 Nov 2026 22:20:01 EST",
-      "summary": "A new national report identifies declines in student performance in every province and territory examined in Canada, with grade inflation obscuring the extent of setbacks during the COVID-19 pandemic.",
-      "url": "https://phys.org/news/2026-11-pandemic-loss-gaps-grades-scores.html"
+      "category": "Space",
+      "title": " ULA lost a Vulcan Centaur rocket carrying 40 Amazon satellites 10 minutes after launch — but the failure began just after liftoff ",
+      "source": " Latest from Space.com ",
+      "date": "Tue, 17 Nov 2026 18:48:18 +0000",
+      "summary": "United Launch Alliance's Vulcan Centaur rocket failed during its launch on Sunday (Nov. 15) because of an issue with its first-stage booster, according to the company.",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/ula-lost-a-vulcan-centaur-rocket-carrying-40-amazon-satellites-10-minutes-after-launch-but-the-failure-began-just-after-liftoff"
     },
     {
       "category": "Science",
-      "title": "Mourning Notcho: What one whale's death teaches us about ecological grief",
+      "title": "We know which young people are most likely to end up NEET in England—but not why",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Mon, 16 Nov 2026 22:00:01 EST",
-      "summary": "Sighting a humpback whale from a boat can be awe-inspiring. For some BC Ferries passengers, that experience became disturbing when their ferry struck and fatally injured a humpback whale on Oct. 18.",
-      "url": "https://phys.org/news/2026-11-notcho-whale-death-ecological-grief.html"
+      "date": "Tue, 17 Nov 2026 13:40:05 EST",
+      "summary": "In response to Alan Milburn's landmark review of England's NEET crisis—nearly 1 million young people ages 16–24 in the U.K. are not in education, employment or training—Prime Minister Andy Burnham has promised a \"whole-childhood approach.\"",
+      "url": "https://phys.org/news/2026-11-young-people-neet-england.html"
     },
     {
       "category": "Science",
-      "title": "How enhanced rock weathering can speed up carbon capture",
+      "title": "Liming soil could help protect crops during extreme heat waves",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Mon, 16 Nov 2026 21:20:01 EST",
-      "summary": "Water flooded the pasture, spilling from an irrigation pipe tucked alongside a hill at the Sierra Foothill Research and Extension Center, a University of California research facility located about 20 miles (32 kilometers) east of Yuba City. For more than three hours, starting at 6 a.m. this summer day, the water had seeped into the soils beneath the yellow-green grass, spreading to various depths while flowing downslope toward its destination.",
-      "url": "https://phys.org/news/2026-11-weathering-carbon-capture.html"
+      "date": "Tue, 17 Nov 2026 13:40:01 EST",
+      "summary": "New research has shown that liming soil to improve its pH buffering capacity could help plant roots survive heat waves and maintain crop productivity under high temperatures.",
+      "url": "https://phys.org/news/2026-11-liming-soil-crops-extreme.html"
+    },
+    {
+      "category": "Science",
+      "title": "Building children's numeracy foundations involves more than 1, 2, 3",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Tue, 17 Nov 2026 13:30:01 EST",
+      "summary": "As adults, we may take for granted what we know about numbers and how we arrived at this knowledge—for example, when comparing item prices to get the best deals or getting to appointments on time.",
+      "url": "https://phys.org/news/2026-11-children-numeracy-foundations-involves.html"
     },
     {
       "category": "AI",
-      "title": "If an App Asks for Full Disk Access or System and App Protection Override",
-      "source": "Hacker News: Front Page",
-      "date": "Tue, 17 Nov 2026 02:17:04 +0000",
-      "summary": "Article URL: https://support.apple.com/en-us/149699\nComments URL: https://news.ycombinator.com/item?id=50526560\nPoints: 33\n# Comments: 15",
-      "url": "https://support.apple.com/en-us/149699"
-    },
-    {
-      "category": "AI",
-      "title": "Mem Is Shutting Down",
-      "source": "Hacker News: Front Page",
-      "date": "Tue, 17 Nov 2026 02:13:41 +0000",
-      "summary": "Article URL: https://get.mem.ai/blog/mem-is-shutting-down\nComments URL: https://news.ycombinator.com/item?id=50526537\nPoints: 23\n# Comments: 23",
-      "url": "https://get.mem.ai/blog/mem-is-shutting-down"
-    },
-    {
-      "category": "AI",
-      "title": "Running coding agents without handing them my credentials",
-      "source": "Hacker News: Front Page",
-      "date": "Tue, 17 Nov 2026 01:18:56 +0000",
-      "summary": "Article URL: https://blog.antonio.cx/running-agents-with-lend\nComments URL: https://news.ycombinator.com/item?id=50526152\nPoints: 54\n# Comments: 20",
-      "url": "https://blog.antonio.cx/running-agents-with-lend"
-    },
-    {
-      "category": "AI",
-      "title": "Robo-soldier startup backed by Eric Trump misses payroll, may collapse",
+      "title": "Humanity braces for an alien invasion in 3 Body Problem S2 teaser",
       "source": "Ars Technica",
-      "date": "Mon, 16 Nov 2026 22:58:27 +0000",
-      "summary": "Robotics startup misses payroll a year after CEO used funds for luxury home.",
-      "url": "https://arstechnica.com/ai/2026/11/robo-soldier-startup-backed-by-eric-trump-misses-payroll-may-collapse/"
-    },
-    {
-      "category": "AI",
-      "title": "Three small failures combined to take down Microsoft 365",
-      "source": "Ars Technica",
-      "date": "Mon, 16 Nov 2026 21:56:39 +0000",
-      "summary": "A hidden bug, shifting traffic, and reduced capacity led to cascading failures.",
-      "url": "https://arstechnica.com/gadgets/2026/11/microsoft-details-how-three-problems-combined-for-a-global-outage/"
+      "date": "Tue, 17 Nov 2026 18:26:26 +0000",
+      "summary": "“Wake up! They haven’t come 24 trillion miles to negotiate. They are coming to exterminate us.”",
+      "url": "https://arstechnica.com/culture/2026/11/humanity-braces-for-an-alien-invasion-in-3-body-problem-s2-teaser/"
     },
     {
       "category": "Space",
-      "title": " On this day in space! Nov. 16, 1974: The giant Arecibo Observatory in Puerto Rico broadcasts humanity's 1st interstellar message ",
+      "title": " On this day in space! Nov. 17, 1967: NASA's Surveyor 6 moon probe makes 1st-ever successful launch and hop from the lunar surface ",
       "source": " Latest from Space.com ",
-      "date": "Mon, 16 Nov 2026 21:34:36 +0000",
-      "summary": "On this day in space! Nov. 16, 1974: The giant Arecibo Observatory in Puerto Rico broadcasts humanity's 1st interstellar message",
-      "url": "https://www.space.com/space-exploration/on-this-day-in-space-november-16-2026"
+      "date": "Tue, 17 Nov 2026 18:19:03 +0000",
+      "summary": "On Nov. 17, 1967, NASA's Surveyor 6 spacecraft made the first liftoff from the lunar surface. Here's how it helped Apollo astronauts.",
+      "url": "https://www.space.com/space-exploration/on-this-day-in-space-november-17-2026"
     },
     {
       "category": "Space",
-      "title": " Relive Starship’s historic Flight 15 with our best photos from launch and ‘Mechazilla’ tower catch ",
-      "source": " Latest from Space.com ",
-      "date": "Mon, 16 Nov 2026 21:26:29 +0000",
-      "summary": "See the most epic photos from SpaceX's Starship Flight 15 test flight and historic launch tower catch.",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/relive-starships-historic-flight-15-with-our-best-photos-from-launch-and-mechazilla-tower-catch"
+      "title": "NICER Status Updates",
+      "source": "NASA",
+      "date": "Tue, 17 Nov 2026 18:18:16 +0000",
+      "summary": "November 17, 2026 NASA’s NICER Telescope Ends Science Operations After studying the universe for six and a half years beyond its initial mission, NASA’s NICER (Neutron star Interior Composition Explorer) telescope on the International Space Station has ended science operations.  The mission and space station teams are now focused on plans to finalize NICER’s 8-year […]",
+      "url": "https://www.nasa.gov/missions/station/nicer-status-updates/"
     },
     {
       "category": "AI",
-      "title": "Hyperscale data centers use 2% of US electricity",
+      "title": "OpenAI sued by California after admitting to 80 loss-of-control incidents",
       "source": "Ars Technica",
-      "date": "Mon, 16 Nov 2026 20:52:10 +0000",
-      "summary": "Study attempts to tally hyperscalers’ energy use and emissions.",
-      "url": "https://arstechnica.com/science/2026/11/hyperscale-data-centers-use-2-of-us-electricity/"
-    },
-    {
-      "category": "Space",
-      "title": " Elon Musk says SpaceX’s Starship, already the largest rocket on Earth, will get even bigger with next-gen V4 model ",
-      "source": " Latest from Space.com ",
-      "date": "Mon, 16 Nov 2026 20:04:22 +0000",
-      "summary": "Just a day after SpaceX caught the upper stage of its Starship megarocket back at the launch pad for the first time ever, Elon Musk told us that the spacecraft will get even bigger.",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/elon-musk-says-spacexs-starship-already-the-largest-rocket-on-earth-will-get-even-bigger-with-next-gen-v4-model"
+      "date": "Tue, 17 Nov 2026 18:13:34 +0000",
+      "summary": "AG: OpenAI tested dangerous AI without proper oversight and misled public about it.",
+      "url": "https://arstechnica.com/tech-policy/2026/11/california-sues-openai-to-stop-public-nuisance-of-out-of-control-ai-agents/"
     },
     {
       "category": "Science",
-      "title": " The Leonid meteor shower peaks tonight: How to see more than a dozen 'shooting stars' per hour ",
+      "title": " CERN physicists measure the universe at the smallest scale ever: enter the 'zeptoverse' ",
       "source": " Latest from Live Science ",
-      "date": "Mon, 16 Nov 2026 19:06:03 +0000",
-      "summary": "Up to 15 shooting stars per hour may be visible as the Leonids peak under dark skies tonight (Nov. 16 - 17), with the moon setting before the best viewing hours.",
-      "url": "https://www.livescience.com/space/meteoroids/the-leonid-meteor-shower-peaks-tonight-how-to-see-more-than-a-dozen-shooting-stars-per-hour"
+      "date": "Tue, 17 Nov 2026 18:09:22 +0000",
+      "summary": "Physicists at the Large Hadron Collider have detected a rare, 1-in-10-billion particle interaction that opens a view into the 'zeptoverse,' the smallest distance scale ever measured.",
+      "url": "https://www.livescience.com/physics-mathematics/particle-physics/cern-physicists-measure-the-universe-at-the-smallest-scale-ever-opening-best-chance-of-finding-new-physics"
+    },
+    {
+      "category": "AI",
+      "title": "The data is very preliminary, but Vulcan failure may not be due to BE-4 engines",
+      "source": "Ars Technica",
+      "date": "Tue, 17 Nov 2026 18:00:51 +0000",
+      "summary": "Information about the Vulcan failure is being closely held by ULA and Blue Origin.",
+      "url": "https://arstechnica.com/features/2026/11/sources-vulcan-launch-anomaly-investigation-is-complex/"
+    },
+    {
+      "category": "AI",
+      "title": "iCloud, App Store, and other Apple services hit by ongoing outage",
+      "source": "Hacker News: Front Page",
+      "date": "Tue, 17 Nov 2026 17:49:01 +0000",
+      "summary": "Article URL: https://9to5mac.com/2026/11/17/icloud-app-store-and-other-apple-services-hit-by-ongoing-outage/\nComments URL: https://news.ycombinator.com/item?id=50535268\nPoints: 28\n# Comments: 7",
+      "url": "https://9to5mac.com/2026/11/17/icloud-app-store-and-other-apple-services-hit-by-ongoing-outage/"
+    },
+    {
+      "category": "AI",
+      "title": "Apple Services Down",
+      "source": "Hacker News: Front Page",
+      "date": "Tue, 17 Nov 2026 17:47:14 +0000",
+      "summary": "Article URL: https://downdetector.com/status/apple-support/\nComments URL: https://news.ycombinator.com/item?id=50535238\nPoints: 106\n# Comments: 43",
+      "url": "https://downdetector.com/status/apple-support/"
+    },
+    {
+      "category": "AI",
+      "title": "GPT‑6.2 Astra and Sol",
+      "source": "Hacker News: Front Page",
+      "date": "Tue, 17 Nov 2026 17:46:43 +0000",
+      "summary": "Article URL: https://openai.com/index/introducing-gpt-6-2-astra-sol/\nComments URL: https://news.ycombinator.com/item?id=50535230\nPoints: 402\n# Comments: 206",
+      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/"
+    },
+    {
+      "category": "AI",
+      "title": "Introducing GPT-6.2 Astra and Sol",
+      "source": "OpenAI News",
+      "date": "Tue, 17 Nov 2026 17:45:00 GMT",
+      "summary": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
+      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol"
+    },
+    {
+      "category": "Space",
+      "title": "NASA to Conduct Low-Altitude Flights Over Texas Farmland",
+      "source": "NASA",
+      "date": "Tue, 17 Nov 2026 17:12:20 +0000",
+      "summary": "Editor’s Note: This article was originally published on Oct. 15, 2026, and has been updated to correct the location and update the duration of the flight deployment. A NASA Dynamic Aviation A200 aircraft will conduct low-flying research flights over farmland near Amarillo, Texas, from Thursday, Oct. 22, through Monday, Nov. 2. These flights will measure […]",
+      "url": "https://www.nasa.gov/general/nasa-to-conduct-low-altitude-flights-over-texas-farmland/"
+    },
+    {
+      "category": "Space",
+      "title": "Curiosity Blog, Sols 5072-5076: The Return of the Polygons",
+      "source": "NASA",
+      "date": "Tue, 17 Nov 2026 17:06:07 +0000",
+      "summary": "Written by Abigail Fraeman, Deputy Project Scientist, Jet Propulsion Laboratory, California Institute of Technology Earth planning date: Friday, Nov. 13, 2026 Curiosity’s past several weeks have been very focused on drilling and analysis of the “Basque Lakes” and “Nazca” samples. We learned a lot from those drilled samples, but it’s time to hit the Martian […]",
+      "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5072-5076-the-return-of-the-polygons/"
+    },
+    {
+      "category": "Space",
+      "title": " NASA wants you to 'shine bright' today for Voyager 1's light-day milestone. Here's how ",
+      "source": " Latest from Space.com ",
+      "date": "Tue, 17 Nov 2026 17:00:00 +0000",
+      "summary": "NASA invites the public to shine lights in Morse code after sunset today (Nov. 17) to celebrate Voyager 1 reaching a historic distance of one light-day from Earth.",
+      "url": "https://www.space.com/space-exploration/voyager/nasa-wants-you-to-shine-bright-today-for-voyager-1s-light-day-milestone-heres-how"
+    },
+    {
+      "category": "Science",
+      "title": "A mysterious twist in the universe’s oldest light could reveal new physics",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Tue, 17 Nov 2026 07:14:04 EST",
+      "summary": "Scientists have spotted hints of a mysterious rotation in the universe’s oldest light that could reveal new physics and shed light on dark matter and dark energy. A new technique developed at UC San Diego could help rule out misleading telescope errors, bringing researchers closer to determining whether the strange signal is real.",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261116023348.htm"
+    },
+    {
+      "category": "Biblical Studies",
+      "title": "When Did Monotheism Emerge in Ancient Israel?",
+      "source": "Biblical Archaeology Society",
+      "date": "Tue, 17 Nov 2026 12:00:38 +0000",
+      "summary": "When did the Israelites first begin to worship YHWH, refusing to worship or even recognize the existence of other deities? Was monotheism part of Israelite […]\nThe post When Did Monotheism Emerge in Ancient Israel? appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/daily/biblical-topics/bible-interpretation/when-did-monotheism-emerge-in-ancient-israel/"
+    },
+    {
+      "category": "Biblical Studies",
+      "title": "Where Noah Landed",
+      "source": "Biblical Archaeology Society",
+      "date": "Tue, 17 Nov 2026 12:00:05 +0000",
+      "summary": "Still another group is looking for Mt. Ararat, where the Bible says Noah landed after the flood. This group is looking to confirm the tradition that nearby Mt. Cudi (Judi Dagh) is really Mt. Ararat, as recorded in the Quran, Sura 11.44. \nThe post Where Noah Landed appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/daily/biblical-sites-places/biblical-archaeology-sites/where-noah-landed/"
+    },
+    {
+      "category": "Science",
+      "title": "The hidden language of psychopathy is not what scientists expected",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Tue, 17 Nov 2026 06:51:35 EST",
+      "summary": "Scientists have discovered that psychopathic traits are associated with surprisingly different patterns of language, with some individuals using more positive words and others expressing greater negativity or less anxiety. The findings challenge familiar stereotypes about psychopathy and suggest that the stories people tell about their lives may offer important clues about their personalities.",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261116023346.htm"
+    },
+    {
+      "category": "Science",
+      "title": " Grizzlies could thrive in California — so why aren’t we reintroducing them? ",
+      "source": " Latest from Live Science ",
+      "date": "Tue, 17 Nov 2026 11:11:52 +0000",
+      "summary": "In this excerpt from \"Start With a Bear,\" author and environmental historian Peter S. Alagona looks at the models used to develop the U.S. grizzly bear recovery program, and how California could make an ideal home for a new population.",
+      "url": "https://www.livescience.com/animals/bears/grizzlies-could-thrive-in-california-so-why-arent-we-reintroducing-them"
+    },
+    {
+      "category": "Science",
+      "title": " Giant cloud of fish sperm glows green along Canadian island’s coast ",
+      "source": " Latest from Live Science ",
+      "date": "Tue, 17 Nov 2026 08:00:00 +0000",
+      "summary": "A recent satellite photo captured an underwater cloud of fish sperm, or milt, appearing to glow green during a Pacific herring spawning event at a reproductive \"sweet spot\" along the coast of Canada's Vancouver Island.",
+      "url": "https://www.livescience.com/planet-earth/rivers-oceans/giant-cloud-of-fish-sperm-glows-green-along-canadian-islands-coast-earth-from-space"
+    },
+    {
+      "category": "Theology",
+      "title": "Where Our Criminal Justice System Breaks Down (with Matt Martens)",
+      "source": "The Gospel Coalition",
+      "date": "Tue, 17 Nov 2026 05:04:21 +0000",
+      "summary": "Matt Martens joins Collin Hansen to discuss justice, citizenship, and Christian responsibility.",
+      "url": "https://www.thegospelcoalition.org/podcasts/gospelbound/criminal-justice-system-breaks-down/"
+    },
+    {
+      "category": "Theology",
+      "title": "The Cumulative Effect of Thousands of Family Bible Times",
+      "source": "The Gospel Coalition",
+      "date": "Tue, 17 Nov 2026 05:02:00 +0000",
+      "summary": "When your kids are inattentive or disruptive, don’t be overly discouraged. If the milk spills, if a fight erupts, all is not lost.",
+      "url": "https://www.thegospelcoalition.org/article/thousands-family-bible-times/"
+    },
+    {
+      "category": "Theology",
+      "title": "Would God Ever Say, ‘I Will Save You No More’?",
+      "source": "The Gospel Coalition",
+      "date": "Tue, 17 Nov 2026 05:00:00 +0000",
+      "summary": "Our hope doesn’t rest on the sincerity of our repentance, as important as that is. Our hope ultimately rests on the compassion of our God.",
+      "url": "https://www.thegospelcoalition.org/article/save-no-more/"
+    },
+    {
+      "category": "AI",
+      "title": "Strengthening NATO and allied cyber defenses with AI",
+      "source": "OpenAI News",
+      "date": "Tue, 17 Nov 2026 00:00:00 GMT",
+      "summary": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
+      "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai"
+    },
+    {
+      "category": "AI",
+      "title": "Introducing OpenAI for Chile",
+      "source": "OpenAI News",
+      "date": "Tue, 17 Nov 2026 00:00:00 GMT",
+      "summary": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
+      "url": "https://openai.com/index/introducing-openai-for-chile"
     },
     {
       "category": "History",
@@ -115,52 +235,12 @@
       "url": "https://allthingsliberty.com/2026/11/the-intelligence-war-for-vermont/"
     },
     {
-      "category": "AI",
-      "title": "Broadening access to AI for scientists",
-      "source": "OpenAI News",
-      "date": "Mon, 16 Nov 2026 17:00:00 GMT",
-      "summary": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.",
-      "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers"
-    },
-    {
-      "category": "AI",
-      "title": "Strengthening the fight against online child sexual abuse with new tools and support",
-      "source": "OpenAI News",
-      "date": "Mon, 16 Nov 2026 17:00:00 GMT",
-      "summary": "New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse.",
-      "url": "https://openai.com/index/strengthening-online-child-safety"
-    },
-    {
-      "category": "Science",
-      "title": " Tiny robots can tumble through blood vessels to help dissolve blood clots, early test shows ",
-      "source": " Latest from Live Science ",
-      "date": "Mon, 16 Nov 2026 16:00:00 +0000",
-      "summary": "In recent animal tests, tiny robots released into the bloodstream showed promise for treating blood clots.",
-      "url": "https://www.livescience.com/health/heart-circulation/tiny-robots-can-tumble-through-blood-vessels-to-help-dissolve-blood-clots-early-test-shows"
-    },
-    {
-      "category": "Science",
-      "title": "NASA is offering $1 million for bold ideas to help build a Moon base",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Mon, 16 Nov 2026 09:02:10 EST",
-      "summary": "NASA is offering $1 million in its new Moon Base Challenge, inviting U.S. students to develop innovative solutions for building humanity’s first permanent lunar outpost. From power systems to astronaut safety, their ideas could help make long-term life on the Moon possible and pave the way to Mars.",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261115085542.htm"
-    },
-    {
       "category": "Science",
       "title": "NASA smashed into an asteroid. Now Hera has revealed a strange new world",
       "source": "All Top News -- ScienceDaily",
       "date": "Mon, 16 Nov 2026 08:40:11 EST",
       "summary": "A European spacecraft has revealed a mysterious, crater-covered side of the asteroid Didymos as it prepares to investigate the aftermath of NASA’s historic 2022 asteroid impact. The mission could uncover new clues about the collision and help turn asteroid deflection into a powerful defense against future threats to Earth.",
       "url": "https://www.sciencedaily.com/releases/2026/11/261116023351.htm"
-    },
-    {
-      "category": "AI",
-      "title": "Science at the Frontier: How scientists use ChatGPT",
-      "source": "OpenAI News",
-      "date": "Mon, 16 Nov 2026 12:00:00 GMT",
-      "summary": "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery.",
-      "url": "https://openai.com/index/science-at-the-frontier"
     },
     {
       "category": "Biblical Studies",
@@ -171,68 +251,12 @@
       "url": "https://www.biblicalarchaeology.org/daily/biblical-topics/post-biblical-period/bethlehems-ancient-pipe-organ-sounds-again/"
     },
     {
-      "category": "Biblical Studies",
-      "title": "Canaanite Folk Worship at Megiddo",
-      "source": "Biblical Archaeology Society",
-      "date": "Mon, 16 Nov 2026 11:00:25 +0000",
-      "summary": "Conducting salvage excavations at the ancient site of Megiddo—famously known as Armageddon in the New Testament’s Book of Revelation—archaeologists with the Israel Antiquities Authority (IAA) […]\nThe post Canaanite Folk Worship at Megiddo appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-israel/canaanite-folk-worship-at-megiddo/"
-    },
-    {
-      "category": "Science",
-      "title": " Thinkers of Cernavodă: Mysterious Stone Age figurines discovered in a 7,000-year-old grave in Romania ",
-      "source": " Latest from Live Science ",
-      "date": "Mon, 16 Nov 2026 11:00:00 +0000",
-      "summary": "An unusual pair of seated figurines was discovered in a Stone Age grave in Romania in the 1950s.",
-      "url": "https://www.livescience.com/archaeology/thinkers-of-cernavoda-mysterious-stone-age-figurines-discovered-in-a-7-000-year-old-grave-in-romania"
-    },
-    {
-      "category": "Biblical Studies",
-      "title": "Summer 2026 Caption Contest Winners",
-      "source": "Biblical Archaeology Society",
-      "date": "Mon, 16 Nov 2026 10:00:56 +0000",
-      "summary": "“Why am I on his left? I’m the GOAT!” Jim Schmutz, Central, South Carolina Thank you to all those who submitted caption entries for our […]\nThe post Summer 2026 Caption Contest Winners appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/cartoon-captions/caption-contest-winners/summer-2026-2/"
-    },
-    {
-      "category": "Theology",
-      "title": "When You Need a Christmas Miracle",
-      "source": "The Gospel Coalition",
-      "date": "Mon, 16 Nov 2026 05:03:00 +0000",
-      "summary": "We won’t find all our struggles tied up with a neat bow like the gifts under our trees. But God, our Immanuel, will be with us through it all.",
-      "url": "https://www.thegospelcoalition.org/article/need-christmas-miracle/"
-    },
-    {
-      "category": "Theology",
-      "title": "What Roman History Can (and Can’t) Explain About Christianity",
-      "source": "The Gospel Coalition",
-      "date": "Mon, 16 Nov 2026 05:00:00 +0000",
-      "summary": "‘Rome’s Age of Revolution’ is a tightly argued book that makes a number of important connections between the Greco-Roman world and the formation of the early church.",
-      "url": "https://www.thegospelcoalition.org/reviews/romes-age-of-revolution/"
-    },
-    {
-      "category": "Science",
-      "title": "The secret to building Moon bases may be hiding in emergency blankets",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Sun, 15 Nov 2026 22:51:01 EST",
-      "summary": "Scientists have turned the thin plastic used in emergency blankets into remarkably strong insulation that could help astronauts survive the Moon's extreme temperatures. Built from hundreds of stacked layers, the material withstands crushing pressure without losing its thermal protection, potentially paving the way for tougher, longer-lasting lunar habitats.",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261115085549.htm"
-    },
-    {
       "category": "Theology",
       "title": "You Can’t Make It Happen: The Spirit and the Doctrine of Conversion",
       "source": "9Marks",
       "date": "Mon, 16 Nov 2026 02:56:20 +0000",
       "summary": "The divine aid necessary to overcome this stubborn hostility to divine grace comes from the Holy Spirit: he prompts repentance.\nThe post You Can’t Make It Happen: The Spirit and the Doctrine of Conversion appeared first on 9Marks.",
       "url": "https://www.9marks.org/article/you-cant-make-it-happen-the-spirit-and-the-doctrine-of-conversion/?utm_source=rss&utm_medium=rss&utm_campaign=you-cant-make-it-happen-the-spirit-and-the-doctrine-of-conversion"
-    },
-    {
-      "category": "Theology",
-      "title": "Young Adults Are Hungry. Here Are 3 Ways to Feed Them.",
-      "source": "The Gospel Coalition",
-      "date": "Sun, 15 Nov 2026 05:00:00 +0000",
-      "summary": "Gen Z’s hunger for food, people, and the Word gives the church a magnificent opportunity in this moment.",
-      "url": "https://www.thegospelcoalition.org/article/young-adults-hungry-feed/"
     },
     {
       "category": "Theology",
