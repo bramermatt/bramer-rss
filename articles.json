@@ -1,150 +1,238 @@
 {
-  "lastUpdated": "2026-11-18T03:15:32.077Z",
+  "lastUpdated": "2026-11-18T18:31:45.523Z",
   "articleCount": 39,
   "articles": [
     {
       "category": "Science",
-      "title": "An atlas of vanished places: How climate change is rewriting the books on our shelves",
+      "title": "Strange radio signals from space could come from a dead star",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Tue, 17 Nov 2026 22:00:06 EST",
-      "summary": "On Aug. 26, 2026, a huge mass of rock and ice broke away at an altitude of around 5,200 meters (17,100 feet) in the Himalayas. Within minutes, it became an avalanche of debris and water that hurtled down toward the Nepal-Tibet border, with such force that the seismic signals were initially mistaken for an earthquake.",
-      "url": "https://phys.org/news/2026-11-atlas-climate-rewriting-shelves.html"
+      "date": "Wed, 18 Nov 2026 13:24:12 EST",
+      "summary": "The night sky is as good a place as any for a mystery. Back in 2002, astronomer Scott Hyman and his colleagues detected five mysterious bursts of radio waves coming from near the center of our galaxy, spaced roughly 77 minutes apart. The signals were detected again in 2003 and 2004, but then disappeared. Despite years of searching, there was no sign of their return.",
+      "url": "https://phys.org/news/2026-11-strange-radio-space-dead-star.html"
     },
     {
       "category": "Science",
-      "title": "New research finds AI adoption is associated with more managers—and different managerial skills",
+      "title": "Researchers review isotope methods for tracing and quantifying gaseous nitrogen production in soils",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Tue, 17 Nov 2026 21:40:06 EST",
-      "summary": "A Strategic Management Journal study challenges the assumption that AI adoption automatically reduces demand for managers. Liudmila Alekseeva, José Azar, Mireia Giné and Sampsa Samila analyze U.S. job postings from 2010 to 2022, linking firm-level AI adoption with managerial vacancies and skill requirements.",
-      "url": "https://phys.org/news/2026-11-ai-managerial-skills.html"
+      "date": "Wed, 18 Nov 2026 13:20:10 EST",
+      "summary": "Researchers from the Institute of Applied Ecology (IAE) of the Chinese Academy of Sciences have reviewed stable nitrogen isotope techniques for tracing the sources and quantifying the production of gaseous nitrogen in soils. The review examines four approaches for distinguishing microbial pathways that produce nitrous oxide (N₂O), nitric oxide (NO) and dinitrogen (N₂).",
+      "url": "https://phys.org/news/2026-11-isotope-methods-quantifying-gaseous-nitrogen.html"
     },
     {
       "category": "Science",
-      "title": "Invasive plants show limited spread in Andalusia's mountains",
+      "title": "Stem cell–derived nanoparticles modulate immune cells and help delay type 1 diabetes in mice",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Tue, 17 Nov 2026 21:20:01 EST",
-      "summary": "A study by the University of Córdoba (UCO) departments of Forest Engineering and of Botany, Ecology and Plant Physiology reveals that the presence of invasive plants in Sierra Nevada and the Sierra de los Filabres—two mountain ecosystems in Andalusia that are especially vulnerable to climate change and home to unique plant species—is currently low. Specifically, invasive plants are most common in the areas closest to the edges of roads, and their presence declines at the highest points of the mountains.",
-      "url": "https://phys.org/news/2026-11-invasive-limited-andalusia-mountains.html"
-    },
-    {
-      "category": "AI",
-      "title": "Cerebras Disaggregated Inference",
-      "source": "Hacker News: Front Page",
-      "date": "Wed, 18 Nov 2026 00:56:23 +0000",
-      "summary": "Article URL: https://www.cerebras.ai/blog/cerebras-launches-disaggregated-inference\nComments URL: https://news.ycombinator.com/item?id=50540472\nPoints: 29\n# Comments: 9",
-      "url": "https://www.cerebras.ai/blog/cerebras-launches-disaggregated-inference"
-    },
-    {
-      "category": "AI",
-      "title": "ID.me terms required for IRS sign-in",
-      "source": "Hacker News: Front Page",
-      "date": "Wed, 18 Nov 2026 00:51:45 +0000",
-      "summary": "Article URL: https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in\nComments URL: https://news.ycombinator.com/item?id=50540437\nPoints: 142\n# Comments: 52",
-      "url": "https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in"
-    },
-    {
-      "category": "AI",
-      "title": "Copilot is \"the new OS for work,\" and now Office runs inside of it",
-      "source": "Ars Technica",
-      "date": "Wed, 18 Nov 2026 00:27:29 +0000",
-      "summary": "Word, Excel, and PowerPoint now live inside Copilot; always-on agents are next.",
-      "url": "https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/"
-    },
-    {
-      "category": "AI",
-      "title": "Google's AI answers reducing search traffic by 40%",
-      "source": "Hacker News: Front Page",
-      "date": "Wed, 18 Nov 2026 00:17:58 +0000",
-      "summary": "Article URL: https://revscope.co/blog/search-seo-geo-2026/\nComments URL: https://news.ycombinator.com/item?id=50540178\nPoints: 133\n# Comments: 89",
-      "url": "https://revscope.co/blog/search-seo-geo-2026/"
-    },
-    {
-      "category": "AI",
-      "title": "San Diego dumps both Flock cameras and smart streetlights",
-      "source": "Ars Technica",
-      "date": "Tue, 17 Nov 2026 23:09:09 +0000",
-      "summary": "500+ cameras will go dark just 3 years after mayor urged approval.",
-      "url": "https://arstechnica.com/tech-policy/2026/11/san-diego-dumps-both-flock-cameras-and-smart-streetlights/"
-    },
-    {
-      "category": "AI",
-      "title": "Yet another satellite company is jockeying for a rocket—but this one makes sense",
-      "source": "Ars Technica",
-      "date": "Tue, 17 Nov 2026 22:44:46 +0000",
-      "summary": "\"Governments need control of their critical space infrastructure, and Europe needs it most.\"",
-      "url": "https://arstechnica.com/space/2026/11/yet-another-satellite-company-is-jockeying-for-a-rocket-but-this-one-makes-sense/"
+      "date": "Wed, 18 Nov 2026 13:20:01 EST",
+      "summary": "In people with type 1 diabetes, the immune system mistakenly identifies insulin-producing cells in the pancreas as foreign and attacks them, leaving the body unable to properly regulate blood sugar. While insulin therapy helps manage the disease, it does not stop the underlying immune attack.",
+      "url": "https://phys.org/news/2026-11-stem-cellderived-nanoparticles-modulate-immune.html"
     },
     {
       "category": "Space",
-      "title": "NASA Launches Nuclear Power Systems Student Contest",
+      "title": "NASA Announces Mid-Power Electric Rocket Challenge for US Companies",
       "source": "NASA",
-      "date": "Tue, 17 Nov 2026 22:02:48 +0000",
-      "summary": "NASA’s Power to Explore Student Challenge kicked off Tuesday, Nov. 17. The science, engineering, technology, and mathematics (STEM) challenge invites kindergarten through 12th grade students in the United States to learn about space nuclear power systems and illustrate how these nuclear “batteries” could help power their lunar exploration vision. Students are also invited to write […]",
-      "url": "https://science.nasa.gov/centers-and-facilities/glenn/nasa-launches-nuclear-power-systems-student-contest/"
+      "date": "Wed, 18 Nov 2026 18:12:32 +0000",
+      "summary": "NASA launched a new competition inviting U.S. companies to produce prototypes of mid-power Hall effect thrusters – a type of electric propulsion system considered crucial for future space operations and exploration. Hall effect thrusters use an electric field to accelerate a propellant gas, producing efficient thrust for long-duration missions. Used for propelling satellites and deep […]",
+      "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/nasa-announces-mid-power-electric-rocket-challenge-for-us-companies/"
+    },
+    {
+      "category": "AI",
+      "title": "Will Wright's next simulation will use AI to mine content from your memories",
+      "source": "Ars Technica",
+      "date": "Wed, 18 Nov 2026 18:10:33 +0000",
+      "summary": "With MyMems, Wright says he wants to \"turn the simulation inward.\"",
+      "url": "https://arstechnica.com/gaming/2026/11/will-wrights-next-simulation-will-use-ai-to-mine-content-from-your-memories/"
+    },
+    {
+      "category": "AI",
+      "title": "Who made the strawberry? 14 days of logs building a procedural fruit with agents",
+      "source": "Hacker News: Front Page",
+      "date": "Wed, 18 Nov 2026 18:00:18 +0000",
+      "summary": "Article URL: https://strawberry-methodology.pages.dev\nComments URL: https://news.ycombinator.com/item?id=50549711\nPoints: 3\n# Comments: 1",
+      "url": "https://strawberry-methodology.pages.dev"
     },
     {
       "category": "Space",
-      "title": " NASA's Voyager 1 launched second, so how did it beat Voyager 2 to a light-day by nearly a decade? ",
+      "title": " ULA traces Vulcan Centaur rocket failure to 'inadequate fuel supply' to 1st-stage engines ",
       "source": " Latest from Space.com ",
-      "date": "Tue, 17 Nov 2026 22:00:00 +0000",
-      "summary": "Voyager 1 just reached a light-day in space, but Voyager 2 won't do the same until 2035, due to speed choices made throughout their 50-year missions.",
-      "url": "https://www.space.com/space-exploration/voyager/nasas-voyager-1-launched-second-so-how-did-it-beat-voyager-2-to-a-light-day-by-nearly-a-decade"
+      "date": "Wed, 18 Nov 2026 18:00:00 +0000",
+      "summary": "United Launch Alliance has traced the Nov. 15 failure of its Vulcan Centaur rocket to an inadequate supply of propellant to the vehicle's first-stage engines.",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/ula-traces-vulcan-centaur-rocket-failure-to-inadequate-fuel-supply-to-1st-stage-engines"
+    },
+    {
+      "category": "AI",
+      "title": "We asked AI the same 210 buying questions 2 days in a row,84% of answers changed",
+      "source": "Hacker News: Front Page",
+      "date": "Wed, 18 Nov 2026 17:58:00 +0000",
+      "summary": "Article URL: https://supercite.ai/blog/ai-answers-change-every-day\nComments URL: https://news.ycombinator.com/item?id=50549677\nPoints: 10\n# Comments: 9",
+      "url": "https://supercite.ai/blog/ai-answers-change-every-day"
+    },
+    {
+      "category": "AI",
+      "title": "It shouldn’t be this easy to pedal 25 mph: Specialized’s Turbo Vado 3 Evo",
+      "source": "Ars Technica",
+      "date": "Wed, 18 Nov 2026 17:53:59 +0000",
+      "summary": "This commuter bike will have you blazing through streets without any range anxiety.",
+      "url": "https://arstechnica.com/gadgets/2026/11/it-shouldnt-be-this-easy-to-pedal-25-mph-specializeds-turbo-vado-3-evo/"
     },
     {
       "category": "Space",
-      "title": "NASA Space Apps Challenge Breaks Global Hackathon Records  ",
+      "title": "Empire State Building Goes Gold for Voyager",
       "source": "NASA",
-      "date": "Tue, 17 Nov 2026 21:50:34 +0000",
-      "summary": "On Nov. 14 and 15, NASA held the annual Space Apps Challenge with a record-breaking 181,835 registered participants taking part in 593 events around the world. The annual hackathon invites participants to use NASA’s open data to address one of 14 challenges focused on space exploration or Earth science. This year, the hackathon drew 59% […]",
-      "url": "https://science.nasa.gov/open-science/nasa-space-apps-challenge-breaks-global-hackathon-records/"
+      "date": "Wed, 18 Nov 2026 17:50:26 +0000",
+      "summary": "The Empire State Building is seen illuminated in gold to celebrate NASA’s Voyager 1 spacecraft as it was about to pass one light-day away from Earth, a distance reached by no other human-made object, Nov. 17, 2026. The color gold represents the gold-plated copper phonograph record that is flying on Voyager; the Golden Record contains […]",
+      "url": "https://www.nasa.gov/image-article/empire-state-building-goes-gold-for-voyager/"
+    },
+    {
+      "category": "AI",
+      "title": "Forking TuxGuitar into a 17-EDO tab editor",
+      "source": "Hacker News: Front Page",
+      "date": "Wed, 18 Nov 2026 17:41:57 +0000",
+      "summary": "Article URL: https://frogwizard.bearblog.dev/tuxguitar-17edo/\nComments URL: https://news.ycombinator.com/item?id=50549441\nPoints: 3\n# Comments: 0",
+      "url": "https://frogwizard.bearblog.dev/tuxguitar-17edo/"
     },
     {
       "category": "Space",
-      "title": " Space is filling up with junk. Could laser-reflecting mirrors help humanity clean things up? ",
-      "source": " Latest from Space.com ",
-      "date": "Tue, 17 Nov 2026 21:00:00 +0000",
-      "summary": "The British company Foundational thinks its laser-reflecting tech can help humanity fight the space-junk problem — and it just proved out a demo version in an orbital test.",
-      "url": "https://www.space.com/space-exploration/satellites/space-is-filling-up-with-junk-could-laser-reflecting-mirrors-help-humanity-clean-things-up"
-    },
-    {
-      "category": "Space",
-      "title": "BPS Digital AVATAR Challenge",
+      "title": "What Is the Moon Base?",
       "source": "NASA",
-      "date": "Tue, 17 Nov 2026 20:39:38 +0000",
-      "summary": "The NASA Space Biology Program within the Biological and Physical Sciences (BPS) Division investigates how living systems respond across the full spectrum of biological organization to advance understanding of how living systems respond to the unique stressors of space exploration—including microgravity, ionizing radiation, low magnetic fields, and elevated CO₂. As NASA prepares for long-duration deep […]",
-      "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/bps-digital-avatar-challenge/"
+      "date": "Wed, 18 Nov 2026 17:36:03 +0000",
+      "summary": "This article is for students. NASA is returning astronauts to the Moon – and this time they will spend more time on the lunar surface. The Moon Base is humanity’s first lunar outpost. It will be a place where astronauts live, work, and explore. ______________________________________________________________________ Words to Know outpost: a station or base located in […]",
+      "url": "https://www.nasa.gov/learning-resources/for-kids-and-students/what-is-the-moon-base/"
     },
     {
       "category": "Space",
-      "title": " 'Neuromancer:' Release date, cast & everything we know about Apple TV's new cyberpunk series ",
+      "title": " 'A shotgun marriage': Why are NASA's SkyFall Mars helicopters riding on a nuclear rocket? ",
       "source": " Latest from Space.com ",
-      "date": "Tue, 17 Nov 2026 20:00:00 +0000",
-      "summary": "Hack into our handy guide to this electrifying adaptation of William Gibson’s cult ‘80s novel.",
-      "url": "https://www.space.com/entertainment/space-movies-shows/neuromancer-release-date-cast-and-everything-we-know-about-apple-tvs-new-cyberpunk-series"
+      "date": "Wed, 18 Nov 2026 17:00:00 +0000",
+      "summary": "NASA's SkyFall helicopters are set to be transported to Mars on the agency's first nuclear rocket, but some experts are questioning why NASA is combining two such high-profile missions into one.",
+      "url": "https://www.space.com/astronomy/mars/a-shotgun-marriage-why-are-nasas-skyfall-mars-helicopters-riding-on-a-nuclear-rocket"
+    },
+    {
+      "category": "AI",
+      "title": "Vulcan failure caused by inadequate fuel supply to engines, ULA says",
+      "source": "Ars Technica",
+      "date": "Wed, 18 Nov 2026 16:58:32 +0000",
+      "summary": "\"ULA is a valued partner, and we look forward to Vulcan's return to flight.\"",
+      "url": "https://arstechnica.com/space/2026/11/vulcan-failure-caused-by-inadequate-fuel-supply-to-engines-ula-says/"
+    },
+    {
+      "category": "Space",
+      "title": " 'Project Hail Mary' is heading back to theaters this December ",
+      "source": " Latest from Space.com ",
+      "date": "Wed, 18 Nov 2026 16:24:34 +0000",
+      "summary": "Fist my bump, everyone, because box office smash hit \"Project Hail Mary\" is heading back to theaters.",
+      "url": "https://www.space.com/entertainment/space-movies-shows/project-hail-mary-is-heading-back-to-theaters-this-december"
+    },
+    {
+      "category": "History",
+      "title": "On This Week’s Dispatches: Ryan L. Cole on Lafayette’s Triumphant Return to the United States",
+      "source": "Journal of the American Revolution",
+      "date": "Wed, 18 Nov 2026 16:13:26 +0000",
+      "summary": "On this week’s Dispatches, host Brady Crytzer interviews author Ryan L. Cole on his new book, The Last Adieu: Lafayette’s Triumphant Return, the Echoes of Revolution, and the Gratitude of the Republic. New episodes of Dispatches are available for free every Sunday evening(Eastern United States Time), first on iTunes, Stitcher, Google Play, Amazon Music, and […]\nThe post On This Week’s Dispatches: Ryan L. Cole on Lafayette’s Triumphant Return to the United States appeared first on Journal of the American Revolution.",
+      "url": "https://allthingsliberty.com/2026/11/on-this-weeks-dispatches-ryan-l-cole-on-lafayettes-triumphant-return-to-the-united-states/"
     },
     {
       "category": "Science",
-      "title": " CERN physicists measure the universe at the smallest scale ever: enter the 'zeptoverse' ",
+      "title": " ​​Homo erectus and Denisovans may have lived alongside each other in China, study suggests ",
       "source": " Latest from Live Science ",
-      "date": "Tue, 17 Nov 2026 18:09:22 +0000",
-      "summary": "Physicists at the Large Hadron Collider have detected a rare, 1-in-10-billion particle interaction that opens a view into the 'zeptoverse,' the smallest distance scale ever measured.",
-      "url": "https://www.livescience.com/physics-mathematics/particle-physics/cern-physicists-measure-the-universe-at-the-smallest-scale-ever-opening-best-chance-of-finding-new-physics"
-    },
-    {
-      "category": "AI",
-      "title": "Introducing GPT-6.2 Astra and Sol",
-      "source": "OpenAI News",
-      "date": "Tue, 17 Nov 2026 17:45:00 GMT",
-      "summary": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
-      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol"
+      "date": "Wed, 18 Nov 2026 16:04:37 +0000",
+      "summary": "Fossil teeth from two caves in southern China are revealing that at least two lineages of early humans were present in the region around 184,000 years ago.",
+      "url": "https://www.livescience.com/human-behavior/homo-erectus-and-denisovans-may-have-lived-alongside-each-other-in-china-study-suggests"
     },
     {
       "category": "Science",
-      "title": "A mysterious twist in the universe’s oldest light could reveal new physics",
+      "title": " Striking photo shows tardigrade laying egg in its discarded skin — 'incredibly beautiful and unexpected' ",
+      "source": " Latest from Live Science ",
+      "date": "Wed, 18 Nov 2026 15:59:07 +0000",
+      "summary": "Biologist Gonzalo Quiroga-Artigas lifts the lid on the secret life of tardigrades in stunning detail for the Nikon Small World photography awards.",
+      "url": "https://www.livescience.com/animals/striking-photo-shows-tardigrade-laying-egg-in-its-discarded-skin-incredibly-beautiful-and-unexpected"
+    },
+    {
+      "category": "Science",
+      "title": "New discovery reveals what may be holding back room-temperature superconductors",
       "source": "All Top News -- ScienceDaily",
-      "date": "Tue, 17 Nov 2026 07:14:04 EST",
-      "summary": "Scientists have spotted hints of a mysterious rotation in the universe’s oldest light that could reveal new physics and shed light on dark matter and dark energy. A new technique developed at UC San Diego could help rule out misleading telescope errors, bringing researchers closer to determining whether the strange signal is real.",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261116023348.htm"
+      "date": "Wed, 18 Nov 2026 07:16:46 EST",
+      "summary": "A major breakthrough in superconductivity research has revealed that one of the essential ingredients for electricity to flow without resistance can exist at room temperature. Scientists discovered that electrons can form stable pairs at much higher temperatures than previously understood, suggesting that a different obstacle may be preventing room-temperature superconductivity.",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261116023358.htm"
+    },
+    {
+      "category": "Biblical Studies",
+      "title": "Mesopotamia’s Primeval Waters",
+      "source": "Biblical Archaeology Society",
+      "date": "Wed, 18 Nov 2026 11:45:06 +0000",
+      "summary": "Through March 15, 2027 Musée du Louvre Paris, France louvre.fr An exhibition currently on view at the Louvre is dedicated to ancient Mesopotamia’s critical relationship […]\nThe post Mesopotamia’s Primeval Waters appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/exhibits-events/mesopotamias-primeval-waters/"
+    },
+    {
+      "category": "Science",
+      "title": " 2,000-year-old tomb of an elite nomad in Mongolia contained a Roman glass cup and Han-dynasty-inspired jade decorations ",
+      "source": " Latest from Live Science ",
+      "date": "Wed, 18 Nov 2026 11:30:00 +0000",
+      "summary": "A 2,000-year-old tomb was discovered in an elite burial ground of the Xiongnu, some of whom were the ancestors of the Huns.",
+      "url": "https://www.livescience.com/archaeology/2-000-year-old-tomb-of-an-elite-nomad-in-mongolia-contained-a-roman-glass-cup-and-han-dynasty-inspired-jade-decorations"
+    },
+    {
+      "category": "Biblical Studies",
+      "title": "The Woman and the Goose",
+      "source": "Biblical Archaeology Society",
+      "date": "Wed, 18 Nov 2026 11:00:48 +0000",
+      "summary": "Carrying out excavations at a prehistoric village overlooking the Sea of Galilee, archaeologists from the Hebrew University of Jerusalem uncovered a small clay figurine unlike […]\nThe post The Woman and the Goose appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-israel/the-woman-and-the-goose/"
+    },
+    {
+      "category": "Science",
+      "title": "More than a billion years of Earth's history vanished. Scientists may finally know why",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Wed, 18 Nov 2026 03:27:56 EST",
+      "summary": "Scientists may have finally explained why up to more than a billion years of Earth's geological history are missing from rocks around the world. New research suggests that powerful currents deep inside the planet slowly raised and lowered entire continents, allowing erosion to erase vast stretches of geological history before they were buried and preserved.",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261116023403.htm"
+    },
+    {
+      "category": "AI",
+      "title": "Inside the Codex sandbox",
+      "source": "OpenAI News",
+      "date": "Wed, 18 Nov 2026 08:00:00 GMT",
+      "summary": "See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows.",
+      "url": "https://openai.com/index/inside-the-codex-sandbox"
+    },
+    {
+      "category": "Theology",
+      "title": "Using Exercise to Help Us Through the Dark Times (with Lindsey Bomgren)",
+      "source": "The Gospel Coalition",
+      "date": "Wed, 18 Nov 2026 05:04:28 +0000",
+      "summary": "Fitness can be a vain, selfie-driven world. Lindsey Bomgren, founder of Nourish Move Love, shares how she found her calling there: helping women get ‘strong for their tasks’ through difficult seasons and circumstances.",
+      "url": "https://www.thegospelcoalition.org/podcasts/your-corner-of-the-world/exercise-help-dark-lindsey-bomgren/"
+    },
+    {
+      "category": "Theology",
+      "title": "Small-Church Elders, Here’s How to Give Your Pastor a Sabbatical",
+      "source": "The Gospel Coalition",
+      "date": "Wed, 18 Nov 2026 05:00:00 +0000",
+      "summary": "Our church has 74 members and two lay elders. Here’s how we raised up five men to preach seven expository sermons and give our pastor a summer sabbatical.",
+      "url": "https://www.thegospelcoalition.org/article/small-church-sabbatical/"
+    },
+    {
+      "category": "Science",
+      "title": "Bizarre deep-sea fish with a see-through head captured in stunning 4K",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Tue, 17 Nov 2026 23:30:31 EST",
+      "summary": "Deep-sea researchers have captured stunning new footage of an extraordinarily rare fish with a transparent head and rotating eyes nearly 2,000 feet beneath the ocean's surface. Known as the barreleye fish, this bizarre creature uses its upward-pointing eyes to spot prey before rotating them forward to track its next meal, all while a transparent dome protects them.",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261117033917.htm"
+    },
+    {
+      "category": "AI",
+      "title": "The Silent Consensus",
+      "source": "OpenAI News",
+      "date": "Wed, 18 Nov 2026 00:00:00 GMT",
+      "summary": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
+      "url": "https://openai.com/index/the-silent-consensus"
+    },
+    {
+      "category": "AI",
+      "title": "Advancing chip design with OpenAI models",
+      "source": "OpenAI News",
+      "date": "Wed, 18 Nov 2026 00:00:00 GMT",
+      "summary": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.",
+      "url": "https://openai.com/index/advancing-chip-design-with-our-models"
     },
     {
       "category": "Biblical Studies",
@@ -155,46 +243,6 @@
       "url": "https://www.biblicalarchaeology.org/daily/biblical-topics/bible-interpretation/when-did-monotheism-emerge-in-ancient-israel/"
     },
     {
-      "category": "Biblical Studies",
-      "title": "Where Noah Landed",
-      "source": "Biblical Archaeology Society",
-      "date": "Tue, 17 Nov 2026 12:00:05 +0000",
-      "summary": "Still another group is looking for Mt. Ararat, where the Bible says Noah landed after the flood. This group is looking to confirm the tradition that nearby Mt. Cudi (Judi Dagh) is really Mt. Ararat, as recorded in the Quran, Sura 11.44. \nThe post Where Noah Landed appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/daily/biblical-sites-places/biblical-archaeology-sites/where-noah-landed/"
-    },
-    {
-      "category": "Science",
-      "title": "The hidden language of psychopathy is not what scientists expected",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Tue, 17 Nov 2026 06:51:35 EST",
-      "summary": "Scientists have discovered that psychopathic traits are associated with surprisingly different patterns of language, with some individuals using more positive words and others expressing greater negativity or less anxiety. The findings challenge familiar stereotypes about psychopathy and suggest that the stories people tell about their lives may offer important clues about their personalities.",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261116023346.htm"
-    },
-    {
-      "category": "Science",
-      "title": " Grizzlies could thrive in California — so why aren’t we reintroducing them? ",
-      "source": " Latest from Live Science ",
-      "date": "Tue, 17 Nov 2026 11:11:52 +0000",
-      "summary": "In this excerpt from \"Start With a Bear,\" author and environmental historian Peter S. Alagona looks at the models used to develop the U.S. grizzly bear recovery program, and how California could make an ideal home for a new population.",
-      "url": "https://www.livescience.com/animals/bears/grizzlies-could-thrive-in-california-so-why-arent-we-reintroducing-them"
-    },
-    {
-      "category": "Science",
-      "title": " Giant cloud of fish sperm glows green along Canadian island’s coast ",
-      "source": " Latest from Live Science ",
-      "date": "Tue, 17 Nov 2026 08:00:00 +0000",
-      "summary": "A recent satellite photo captured an underwater cloud of fish sperm, or milt, appearing to glow green during a Pacific herring spawning event at a reproductive \"sweet spot\" along the coast of Canada's Vancouver Island.",
-      "url": "https://www.livescience.com/planet-earth/rivers-oceans/giant-cloud-of-fish-sperm-glows-green-along-canadian-islands-coast-earth-from-space"
-    },
-    {
-      "category": "AI",
-      "title": "Introducing ChatGPT for Sales",
-      "source": "OpenAI News",
-      "date": "Tue, 17 Nov 2026 08:00:00 GMT",
-      "summary": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward.",
-      "url": "https://openai.com/index/introducing-chatgpt-for-sales"
-    },
-    {
       "category": "Theology",
       "title": "Where Our Criminal Justice System Breaks Down (with Matt Martens)",
       "source": "The Gospel Coalition",
@@ -203,52 +251,12 @@
       "url": "https://www.thegospelcoalition.org/podcasts/gospelbound/criminal-justice-system-breaks-down/"
     },
     {
-      "category": "Theology",
-      "title": "The Cumulative Effect of Thousands of Family Bible Times",
-      "source": "The Gospel Coalition",
-      "date": "Tue, 17 Nov 2026 05:02:00 +0000",
-      "summary": "When your kids are inattentive or disruptive, don’t be overly discouraged. If the milk spills, if a fight erupts, all is not lost.",
-      "url": "https://www.thegospelcoalition.org/article/thousands-family-bible-times/"
-    },
-    {
-      "category": "Theology",
-      "title": "Would God Ever Say, ‘I Will Save You No More’?",
-      "source": "The Gospel Coalition",
-      "date": "Tue, 17 Nov 2026 05:00:00 +0000",
-      "summary": "Our hope doesn’t rest on the sincerity of our repentance, as important as that is. Our hope ultimately rests on the compassion of our God.",
-      "url": "https://www.thegospelcoalition.org/article/save-no-more/"
-    },
-    {
-      "category": "AI",
-      "title": "Strengthening NATO and allied cyber defenses with AI",
-      "source": "OpenAI News",
-      "date": "Tue, 17 Nov 2026 00:00:00 GMT",
-      "summary": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
-      "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai"
-    },
-    {
       "category": "History",
       "title": "The Intelligence War for Vermont",
       "source": "Journal of the American Revolution",
       "date": "Mon, 16 Nov 2026 18:48:09 +0000",
       "summary": "Capt. Justus Sherwood, a Vermont Loyalist, arrived at a Vermont frontier post in western Vermont on October 28, 1780, as a representative of the British under a flag of truce, and was brought before Col. Samuel Herrick. With him, he carried dispatches and instructions relative to a proposed exchange of prisoners. The next day, Sherwood […]\nThe post The Intelligence War for Vermont appeared first on Journal of the American Revolution.",
       "url": "https://allthingsliberty.com/2026/11/the-intelligence-war-for-vermont/"
-    },
-    {
-      "category": "Science",
-      "title": "NASA smashed into an asteroid. Now Hera has revealed a strange new world",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Mon, 16 Nov 2026 08:40:11 EST",
-      "summary": "A European spacecraft has revealed a mysterious, crater-covered side of the asteroid Didymos as it prepares to investigate the aftermath of NASA’s historic 2022 asteroid impact. The mission could uncover new clues about the collision and help turn asteroid deflection into a powerful defense against future threats to Earth.",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261116023351.htm"
-    },
-    {
-      "category": "Biblical Studies",
-      "title": "Bethlehem’s Ancient Pipe Organ Sounds Again",
-      "source": "Biblical Archaeology Society",
-      "date": "Mon, 16 Nov 2026 11:00:50 +0000",
-      "summary": "David Catalunya (right) and Koos van de Linde inspect pipes from Bethlehem’s medieval organ. Click on the image to hear what the organ may have […]\nThe post Bethlehem’s Ancient Pipe Organ Sounds Again appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/daily/biblical-topics/post-biblical-period/bethlehems-ancient-pipe-organ-sounds-again/"
     },
     {
       "category": "Theology",
@@ -281,14 +289,6 @@
       "date": "Thu, 12 Nov 2026 12:45:41 +0000",
       "summary": "In the late summer of 1776, a New York grocer named John Arthur encountered an unusual mounted party on a Westchester road. Roughly thirty women from Sing Sing, Tarrytown, and Wicker’s Creek were riding toward his house near New Castle. Alerted to his presence and wares, the women sought to extract the Bohea stores he […]\nThe post The Dames of Philipse Manor Hall: Revolutionary Women and Illicit Dutch Tea appeared first on Journal of the American Revolution.",
       "url": "https://allthingsliberty.com/2026/11/the-dames-of-philipse-manor-hall-revolutionary-women-and-illicit-dutch-tea/"
-    },
-    {
-      "category": "History",
-      "title": "On This Week’s Dispatches: Emelia Lehmann on David Steele’s Macabre “Medal”",
-      "source": "Journal of the American Revolution",
-      "date": "Wed, 11 Nov 2026 01:00:37 +0000",
-      "summary": "On this week’s Dispatches, host Brady Crytzer interviews JAR contributor Emelia Lehmann about Virginia militiaman David Steele who carried a piece of his broken skull as a “medal” for his role in the battle of Guilford Courhouse. New episodes of Dispatches are available for free every Sunday evening(Eastern United States Time), first on iTunes, Stitcher, […]\nThe post On This Week’s Dispatches: Emelia Lehmann on David Steele’s Macabre “Medal” appeared first on Journal of the American Revolution.",
-      "url": "https://allthingsliberty.com/2026/11/on-this-weeks-dispatches-emelia-lehmann-on-david-steeles-macabre-medal/"
     },
     {
       "category": "History",
