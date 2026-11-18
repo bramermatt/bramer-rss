@@ -1,70 +1,126 @@
 {
-  "lastUpdated": "2026-11-17T18:53:17.108Z",
+  "lastUpdated": "2026-11-18T03:15:32.077Z",
   "articleCount": 39,
   "articles": [
     {
-      "category": "Space",
-      "title": " ULA lost a Vulcan Centaur rocket carrying 40 Amazon satellites 10 minutes after launch — but the failure began just after liftoff ",
-      "source": " Latest from Space.com ",
-      "date": "Tue, 17 Nov 2026 18:48:18 +0000",
-      "summary": "United Launch Alliance's Vulcan Centaur rocket failed during its launch on Sunday (Nov. 15) because of an issue with its first-stage booster, according to the company.",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/ula-lost-a-vulcan-centaur-rocket-carrying-40-amazon-satellites-10-minutes-after-launch-but-the-failure-began-just-after-liftoff"
+      "category": "Science",
+      "title": "An atlas of vanished places: How climate change is rewriting the books on our shelves",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Tue, 17 Nov 2026 22:00:06 EST",
+      "summary": "On Aug. 26, 2026, a huge mass of rock and ice broke away at an altitude of around 5,200 meters (17,100 feet) in the Himalayas. Within minutes, it became an avalanche of debris and water that hurtled down toward the Nepal-Tibet border, with such force that the seismic signals were initially mistaken for an earthquake.",
+      "url": "https://phys.org/news/2026-11-atlas-climate-rewriting-shelves.html"
     },
     {
       "category": "Science",
-      "title": "We know which young people are most likely to end up NEET in England—but not why",
+      "title": "New research finds AI adoption is associated with more managers—and different managerial skills",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Tue, 17 Nov 2026 13:40:05 EST",
-      "summary": "In response to Alan Milburn's landmark review of England's NEET crisis—nearly 1 million young people ages 16–24 in the U.K. are not in education, employment or training—Prime Minister Andy Burnham has promised a \"whole-childhood approach.\"",
-      "url": "https://phys.org/news/2026-11-young-people-neet-england.html"
+      "date": "Tue, 17 Nov 2026 21:40:06 EST",
+      "summary": "A Strategic Management Journal study challenges the assumption that AI adoption automatically reduces demand for managers. Liudmila Alekseeva, José Azar, Mireia Giné and Sampsa Samila analyze U.S. job postings from 2010 to 2022, linking firm-level AI adoption with managerial vacancies and skill requirements.",
+      "url": "https://phys.org/news/2026-11-ai-managerial-skills.html"
     },
     {
       "category": "Science",
-      "title": "Liming soil could help protect crops during extreme heat waves",
+      "title": "Invasive plants show limited spread in Andalusia's mountains",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Tue, 17 Nov 2026 13:40:01 EST",
-      "summary": "New research has shown that liming soil to improve its pH buffering capacity could help plant roots survive heat waves and maintain crop productivity under high temperatures.",
-      "url": "https://phys.org/news/2026-11-liming-soil-crops-extreme.html"
-    },
-    {
-      "category": "Science",
-      "title": "Building children's numeracy foundations involves more than 1, 2, 3",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Tue, 17 Nov 2026 13:30:01 EST",
-      "summary": "As adults, we may take for granted what we know about numbers and how we arrived at this knowledge—for example, when comparing item prices to get the best deals or getting to appointments on time.",
-      "url": "https://phys.org/news/2026-11-children-numeracy-foundations-involves.html"
+      "date": "Tue, 17 Nov 2026 21:20:01 EST",
+      "summary": "A study by the University of Córdoba (UCO) departments of Forest Engineering and of Botany, Ecology and Plant Physiology reveals that the presence of invasive plants in Sierra Nevada and the Sierra de los Filabres—two mountain ecosystems in Andalusia that are especially vulnerable to climate change and home to unique plant species—is currently low. Specifically, invasive plants are most common in the areas closest to the edges of roads, and their presence declines at the highest points of the mountains.",
+      "url": "https://phys.org/news/2026-11-invasive-limited-andalusia-mountains.html"
     },
     {
       "category": "AI",
-      "title": "Humanity braces for an alien invasion in 3 Body Problem S2 teaser",
+      "title": "Cerebras Disaggregated Inference",
+      "source": "Hacker News: Front Page",
+      "date": "Wed, 18 Nov 2026 00:56:23 +0000",
+      "summary": "Article URL: https://www.cerebras.ai/blog/cerebras-launches-disaggregated-inference\nComments URL: https://news.ycombinator.com/item?id=50540472\nPoints: 29\n# Comments: 9",
+      "url": "https://www.cerebras.ai/blog/cerebras-launches-disaggregated-inference"
+    },
+    {
+      "category": "AI",
+      "title": "ID.me terms required for IRS sign-in",
+      "source": "Hacker News: Front Page",
+      "date": "Wed, 18 Nov 2026 00:51:45 +0000",
+      "summary": "Article URL: https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in\nComments URL: https://news.ycombinator.com/item?id=50540437\nPoints: 142\n# Comments: 52",
+      "url": "https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in"
+    },
+    {
+      "category": "AI",
+      "title": "Copilot is \"the new OS for work,\" and now Office runs inside of it",
       "source": "Ars Technica",
-      "date": "Tue, 17 Nov 2026 18:26:26 +0000",
-      "summary": "“Wake up! They haven’t come 24 trillion miles to negotiate. They are coming to exterminate us.”",
-      "url": "https://arstechnica.com/culture/2026/11/humanity-braces-for-an-alien-invasion-in-3-body-problem-s2-teaser/"
+      "date": "Wed, 18 Nov 2026 00:27:29 +0000",
+      "summary": "Word, Excel, and PowerPoint now live inside Copilot; always-on agents are next.",
+      "url": "https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/"
+    },
+    {
+      "category": "AI",
+      "title": "Google's AI answers reducing search traffic by 40%",
+      "source": "Hacker News: Front Page",
+      "date": "Wed, 18 Nov 2026 00:17:58 +0000",
+      "summary": "Article URL: https://revscope.co/blog/search-seo-geo-2026/\nComments URL: https://news.ycombinator.com/item?id=50540178\nPoints: 133\n# Comments: 89",
+      "url": "https://revscope.co/blog/search-seo-geo-2026/"
+    },
+    {
+      "category": "AI",
+      "title": "San Diego dumps both Flock cameras and smart streetlights",
+      "source": "Ars Technica",
+      "date": "Tue, 17 Nov 2026 23:09:09 +0000",
+      "summary": "500+ cameras will go dark just 3 years after mayor urged approval.",
+      "url": "https://arstechnica.com/tech-policy/2026/11/san-diego-dumps-both-flock-cameras-and-smart-streetlights/"
+    },
+    {
+      "category": "AI",
+      "title": "Yet another satellite company is jockeying for a rocket—but this one makes sense",
+      "source": "Ars Technica",
+      "date": "Tue, 17 Nov 2026 22:44:46 +0000",
+      "summary": "\"Governments need control of their critical space infrastructure, and Europe needs it most.\"",
+      "url": "https://arstechnica.com/space/2026/11/yet-another-satellite-company-is-jockeying-for-a-rocket-but-this-one-makes-sense/"
     },
     {
       "category": "Space",
-      "title": " On this day in space! Nov. 17, 1967: NASA's Surveyor 6 moon probe makes 1st-ever successful launch and hop from the lunar surface ",
-      "source": " Latest from Space.com ",
-      "date": "Tue, 17 Nov 2026 18:19:03 +0000",
-      "summary": "On Nov. 17, 1967, NASA's Surveyor 6 spacecraft made the first liftoff from the lunar surface. Here's how it helped Apollo astronauts.",
-      "url": "https://www.space.com/space-exploration/on-this-day-in-space-november-17-2026"
-    },
-    {
-      "category": "Space",
-      "title": "NICER Status Updates",
+      "title": "NASA Launches Nuclear Power Systems Student Contest",
       "source": "NASA",
-      "date": "Tue, 17 Nov 2026 18:18:16 +0000",
-      "summary": "November 17, 2026 NASA’s NICER Telescope Ends Science Operations After studying the universe for six and a half years beyond its initial mission, NASA’s NICER (Neutron star Interior Composition Explorer) telescope on the International Space Station has ended science operations.  The mission and space station teams are now focused on plans to finalize NICER’s 8-year […]",
-      "url": "https://www.nasa.gov/missions/station/nicer-status-updates/"
+      "date": "Tue, 17 Nov 2026 22:02:48 +0000",
+      "summary": "NASA’s Power to Explore Student Challenge kicked off Tuesday, Nov. 17. The science, engineering, technology, and mathematics (STEM) challenge invites kindergarten through 12th grade students in the United States to learn about space nuclear power systems and illustrate how these nuclear “batteries” could help power their lunar exploration vision. Students are also invited to write […]",
+      "url": "https://science.nasa.gov/centers-and-facilities/glenn/nasa-launches-nuclear-power-systems-student-contest/"
     },
     {
-      "category": "AI",
-      "title": "OpenAI sued by California after admitting to 80 loss-of-control incidents",
-      "source": "Ars Technica",
-      "date": "Tue, 17 Nov 2026 18:13:34 +0000",
-      "summary": "AG: OpenAI tested dangerous AI without proper oversight and misled public about it.",
-      "url": "https://arstechnica.com/tech-policy/2026/11/california-sues-openai-to-stop-public-nuisance-of-out-of-control-ai-agents/"
+      "category": "Space",
+      "title": " NASA's Voyager 1 launched second, so how did it beat Voyager 2 to a light-day by nearly a decade? ",
+      "source": " Latest from Space.com ",
+      "date": "Tue, 17 Nov 2026 22:00:00 +0000",
+      "summary": "Voyager 1 just reached a light-day in space, but Voyager 2 won't do the same until 2035, due to speed choices made throughout their 50-year missions.",
+      "url": "https://www.space.com/space-exploration/voyager/nasas-voyager-1-launched-second-so-how-did-it-beat-voyager-2-to-a-light-day-by-nearly-a-decade"
+    },
+    {
+      "category": "Space",
+      "title": "NASA Space Apps Challenge Breaks Global Hackathon Records  ",
+      "source": "NASA",
+      "date": "Tue, 17 Nov 2026 21:50:34 +0000",
+      "summary": "On Nov. 14 and 15, NASA held the annual Space Apps Challenge with a record-breaking 181,835 registered participants taking part in 593 events around the world. The annual hackathon invites participants to use NASA’s open data to address one of 14 challenges focused on space exploration or Earth science. This year, the hackathon drew 59% […]",
+      "url": "https://science.nasa.gov/open-science/nasa-space-apps-challenge-breaks-global-hackathon-records/"
+    },
+    {
+      "category": "Space",
+      "title": " Space is filling up with junk. Could laser-reflecting mirrors help humanity clean things up? ",
+      "source": " Latest from Space.com ",
+      "date": "Tue, 17 Nov 2026 21:00:00 +0000",
+      "summary": "The British company Foundational thinks its laser-reflecting tech can help humanity fight the space-junk problem — and it just proved out a demo version in an orbital test.",
+      "url": "https://www.space.com/space-exploration/satellites/space-is-filling-up-with-junk-could-laser-reflecting-mirrors-help-humanity-clean-things-up"
+    },
+    {
+      "category": "Space",
+      "title": "BPS Digital AVATAR Challenge",
+      "source": "NASA",
+      "date": "Tue, 17 Nov 2026 20:39:38 +0000",
+      "summary": "The NASA Space Biology Program within the Biological and Physical Sciences (BPS) Division investigates how living systems respond across the full spectrum of biological organization to advance understanding of how living systems respond to the unique stressors of space exploration—including microgravity, ionizing radiation, low magnetic fields, and elevated CO₂. As NASA prepares for long-duration deep […]",
+      "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/bps-digital-avatar-challenge/"
+    },
+    {
+      "category": "Space",
+      "title": " 'Neuromancer:' Release date, cast & everything we know about Apple TV's new cyberpunk series ",
+      "source": " Latest from Space.com ",
+      "date": "Tue, 17 Nov 2026 20:00:00 +0000",
+      "summary": "Hack into our handy guide to this electrifying adaptation of William Gibson’s cult ‘80s novel.",
+      "url": "https://www.space.com/entertainment/space-movies-shows/neuromancer-release-date-cast-and-everything-we-know-about-apple-tvs-new-cyberpunk-series"
     },
     {
       "category": "Science",
@@ -76,67 +132,11 @@
     },
     {
       "category": "AI",
-      "title": "The data is very preliminary, but Vulcan failure may not be due to BE-4 engines",
-      "source": "Ars Technica",
-      "date": "Tue, 17 Nov 2026 18:00:51 +0000",
-      "summary": "Information about the Vulcan failure is being closely held by ULA and Blue Origin.",
-      "url": "https://arstechnica.com/features/2026/11/sources-vulcan-launch-anomaly-investigation-is-complex/"
-    },
-    {
-      "category": "AI",
-      "title": "iCloud, App Store, and other Apple services hit by ongoing outage",
-      "source": "Hacker News: Front Page",
-      "date": "Tue, 17 Nov 2026 17:49:01 +0000",
-      "summary": "Article URL: https://9to5mac.com/2026/11/17/icloud-app-store-and-other-apple-services-hit-by-ongoing-outage/\nComments URL: https://news.ycombinator.com/item?id=50535268\nPoints: 28\n# Comments: 7",
-      "url": "https://9to5mac.com/2026/11/17/icloud-app-store-and-other-apple-services-hit-by-ongoing-outage/"
-    },
-    {
-      "category": "AI",
-      "title": "Apple Services Down",
-      "source": "Hacker News: Front Page",
-      "date": "Tue, 17 Nov 2026 17:47:14 +0000",
-      "summary": "Article URL: https://downdetector.com/status/apple-support/\nComments URL: https://news.ycombinator.com/item?id=50535238\nPoints: 106\n# Comments: 43",
-      "url": "https://downdetector.com/status/apple-support/"
-    },
-    {
-      "category": "AI",
-      "title": "GPT‑6.2 Astra and Sol",
-      "source": "Hacker News: Front Page",
-      "date": "Tue, 17 Nov 2026 17:46:43 +0000",
-      "summary": "Article URL: https://openai.com/index/introducing-gpt-6-2-astra-sol/\nComments URL: https://news.ycombinator.com/item?id=50535230\nPoints: 402\n# Comments: 206",
-      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/"
-    },
-    {
-      "category": "AI",
       "title": "Introducing GPT-6.2 Astra and Sol",
       "source": "OpenAI News",
       "date": "Tue, 17 Nov 2026 17:45:00 GMT",
       "summary": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
       "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol"
-    },
-    {
-      "category": "Space",
-      "title": "NASA to Conduct Low-Altitude Flights Over Texas Farmland",
-      "source": "NASA",
-      "date": "Tue, 17 Nov 2026 17:12:20 +0000",
-      "summary": "Editor’s Note: This article was originally published on Oct. 15, 2026, and has been updated to correct the location and update the duration of the flight deployment. A NASA Dynamic Aviation A200 aircraft will conduct low-flying research flights over farmland near Amarillo, Texas, from Thursday, Oct. 22, through Monday, Nov. 2. These flights will measure […]",
-      "url": "https://www.nasa.gov/general/nasa-to-conduct-low-altitude-flights-over-texas-farmland/"
-    },
-    {
-      "category": "Space",
-      "title": "Curiosity Blog, Sols 5072-5076: The Return of the Polygons",
-      "source": "NASA",
-      "date": "Tue, 17 Nov 2026 17:06:07 +0000",
-      "summary": "Written by Abigail Fraeman, Deputy Project Scientist, Jet Propulsion Laboratory, California Institute of Technology Earth planning date: Friday, Nov. 13, 2026 Curiosity’s past several weeks have been very focused on drilling and analysis of the “Basque Lakes” and “Nazca” samples. We learned a lot from those drilled samples, but it’s time to hit the Martian […]",
-      "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5072-5076-the-return-of-the-polygons/"
-    },
-    {
-      "category": "Space",
-      "title": " NASA wants you to 'shine bright' today for Voyager 1's light-day milestone. Here's how ",
-      "source": " Latest from Space.com ",
-      "date": "Tue, 17 Nov 2026 17:00:00 +0000",
-      "summary": "NASA invites the public to shine lights in Morse code after sunset today (Nov. 17) to celebrate Voyager 1 reaching a historic distance of one light-day from Earth.",
-      "url": "https://www.space.com/space-exploration/voyager/nasa-wants-you-to-shine-bright-today-for-voyager-1s-light-day-milestone-heres-how"
     },
     {
       "category": "Science",
@@ -187,6 +187,14 @@
       "url": "https://www.livescience.com/planet-earth/rivers-oceans/giant-cloud-of-fish-sperm-glows-green-along-canadian-islands-coast-earth-from-space"
     },
     {
+      "category": "AI",
+      "title": "Introducing ChatGPT for Sales",
+      "source": "OpenAI News",
+      "date": "Tue, 17 Nov 2026 08:00:00 GMT",
+      "summary": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward.",
+      "url": "https://openai.com/index/introducing-chatgpt-for-sales"
+    },
+    {
       "category": "Theology",
       "title": "Where Our Criminal Justice System Breaks Down (with Matt Martens)",
       "source": "The Gospel Coalition",
@@ -217,14 +225,6 @@
       "date": "Tue, 17 Nov 2026 00:00:00 GMT",
       "summary": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
       "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai"
-    },
-    {
-      "category": "AI",
-      "title": "Introducing OpenAI for Chile",
-      "source": "OpenAI News",
-      "date": "Tue, 17 Nov 2026 00:00:00 GMT",
-      "summary": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
-      "url": "https://openai.com/index/introducing-openai-for-chile"
     },
     {
       "category": "History",
