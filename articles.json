@@ -1,54 +1,214 @@
 {
-  "lastUpdated": "2026-11-19T02:53:53.399Z",
+  "lastUpdated": "2026-11-19T18:45:20.554Z",
   "articleCount": 39,
   "articles": [
     {
-      "category": "Science",
-      "title": "Exquisite X-rays and dynamic compression initiate a new era of physics experiments on plutonium",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Wed, 18 Nov 2026 21:40:01 EST",
-      "summary": "Scientists at Lawrence Livermore National Laboratory (LLNL), Argonne National Laboratory (ANL) and Washington State University (WSU) have conducted the first dynamic compression experiments on plutonium at a national light source facility, the Dynamic Compression Sector (DCS).",
-      "url": "https://phys.org/news/2026-11-exquisite-rays-dynamic-compression-era.html"
-    },
-    {
-      "category": "Science",
-      "title": "Policy changes in Canada had little effect on sales of antibiotics for animals, study finds",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Wed, 18 Nov 2026 21:20:01 EST",
-      "summary": "Sales of antibiotics for use in food-producing animals have fallen by 11% in Canada since 2018, but not because of federal policy changes.",
-      "url": "https://phys.org/news/2026-11-policy-canada-effect-sales-antibiotics.html"
+      "category": "AI",
+      "title": "LLMs will provide accurate climate info, except when they won’t",
+      "source": "Ars Technica",
+      "date": "Thu, 19 Nov 2026 18:44:39 +0000",
+      "summary": "Some models fare better, but all fail in similar ways.",
+      "url": "https://arstechnica.com/science/2026/11/llms-will-provide-accurate-climate-info-except-when-they-wont/"
     },
     {
       "category": "Science",
-      "title": "Ancient minerals reveal a missing chapter in Türkiye's mountain-building history",
+      "title": "Why using a chatbot as your lawyer is a risky move—and ties up our court system",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Wed, 18 Nov 2026 21:00:02 EST",
-      "summary": "A mountain range can bear the marks of events from tens of millions of years ago. The challenge lies in determining when each mark was created. In southern Türkiye's Central Taurides, scientists have developed a method to date some of these ancient movements by examining tiny calcite deposits that formed as faults shifted. This new timeline alters the region's geological history. Researchers discovered a previously unrecognized period during which parts of the crust slid laterally, between the Early Eocene and Early Miocene. They also found that the region's later extension began around 25 million years ago, earlier than previously believed.",
-      "url": "https://phys.org/news/2026-11-ancient-minerals-reveal-chapter-trkiye.html"
+      "date": "Thu, 19 Nov 2026 13:40:24 EST",
+      "summary": "In the Federal Court of Australia, applications by self-represented litigants, many using artificial intelligence to research and draft their claims, have skyrocketed.",
+      "url": "https://phys.org/news/2026-11-chatbot-lawyer-risky-court.html"
+    },
+    {
+      "category": "Science",
+      "title": "Weight-loss drugs could reduce deaths and ease pressure on agricultural land by 2050",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Thu, 19 Nov 2026 13:40:15 EST",
+      "summary": "New research from the University of Aberdeen suggests weight-loss medications could deliver a double benefit, improving people's health while also helping the environment.",
+      "url": "https://phys.org/news/2026-11-weight-loss-drugs-deaths-ease.html"
+    },
+    {
+      "category": "Science",
+      "title": "Cincinnati Zoo hopes a little shake will help Fiona the hippo pass a swallowed hat",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Thu, 19 Nov 2026 13:34:31 EST",
+      "summary": "The Cincinnati Zoo's animal care team has been working for days to help its beloved hippo Fiona safely digest and pass a knit cap she swallowed.",
+      "url": "https://phys.org/news/2026-11-cincinnati-zoo-fiona-hippo-swallowed.html"
+    },
+    {
+      "category": "Science",
+      "title": " Rare swarm of asteroids from the solar system’s youth found trailing Neptune around the sun ",
+      "source": " Latest from Live Science ",
+      "date": "Thu, 19 Nov 2026 18:27:15 +0000",
+      "summary": "Astronomers have found two rare asteroids trailing Neptune in Vera C. Rubin Observatory data. The rocks, called Neptune's L5 Trojans, could illuminate the conditions of the infant solar system.",
+      "url": "https://www.livescience.com/space/asteroids/rubin-observatory-finds-ultra-rare-asteroids-from-the-solar-systems-youth-trailing-neptune-around-the-sun"
     },
     {
       "category": "AI",
-      "title": "AI Will Not Make You Rich (2025)",
+      "title": "Chile: UFO Sightings by 18th Century Jesuits",
       "source": "Hacker News: Front Page",
-      "date": "Thu, 19 Nov 2026 01:51:28 +0000",
-      "summary": "Article URL: https://colossus.com/article/ai-will-not-make-you-rich/\nComments URL: https://news.ycombinator.com/item?id=50555093\nPoints: 40\n# Comments: 20",
-      "url": "https://colossus.com/article/ai-will-not-make-you-rich/"
+      "date": "Thu, 19 Nov 2026 18:26:28 +0000",
+      "summary": "Article URL: https://inexplicata.blogspot.com/2026/08/chile-ufo-sightings-by-18th-century.html\nComments URL: https://news.ycombinator.com/item?id=50564004\nPoints: 4\n# Comments: 0",
+      "url": "https://inexplicata.blogspot.com/2026/08/chile-ufo-sightings-by-18th-century.html"
     },
     {
       "category": "AI",
-      "title": "Show HN: ADE Index – a sourced and ranked index of 975 agentic coding tools",
-      "source": "Hacker News: Front Page",
-      "date": "Thu, 19 Nov 2026 01:33:52 +0000",
-      "summary": "Article URL: https://adeindex.com\nComments URL: https://news.ycombinator.com/item?id=50554973\nPoints: 7\n# Comments: 2",
-      "url": "https://adeindex.com"
+      "title": "Google will launch Android app verification requirement globally in January 2027",
+      "source": "Ars Technica",
+      "date": "Thu, 19 Nov 2026 18:00:33 +0000",
+      "summary": "Google says almost all developers have already gotten on board with verification.",
+      "url": "https://arstechnica.com/gadgets/2026/11/google-will-launch-android-app-verification-requirement-globally-in-january-2027/"
+    },
+    {
+      "category": "Science",
+      "title": " Dinosaur quiz: Can you name these 12 dinosaurs? ",
+      "source": " Latest from Live Science ",
+      "date": "Thu, 19 Nov 2026 17:57:11 +0000",
+      "summary": "Can you name all 12 dinosaurs in this science quiz?",
+      "url": "https://www.livescience.com/animals/dinosaurs/dinosaur-quiz-can-you-name-these-12-dinosaurs"
     },
     {
       "category": "AI",
-      "title": "FailTrace – Reproduce a failed GitHub Actions run locally from its URL",
+      "title": "Claude Fable 5.2 solves two open problems in the physics of black holes",
       "source": "Hacker News: Front Page",
-      "date": "Thu, 19 Nov 2026 01:30:43 +0000",
-      "summary": "Article URL: https://github.com/Ri4dH/failtrace\nComments URL: https://news.ycombinator.com/item?id=50554941\nPoints: 9\n# Comments: 0",
-      "url": "https://github.com/Ri4dH/failtrace"
+      "date": "Thu, 19 Nov 2026 17:30:44 +0000",
+      "summary": "Article URL: https://www.anthropic.com/research/claude-black-hole-physics\nComments URL: https://news.ycombinator.com/item?id=50563148\nPoints: 100\n# Comments: 17",
+      "url": "https://www.anthropic.com/research/claude-black-hole-physics"
+    },
+    {
+      "category": "Space",
+      "title": " Get $400 off the first Vaonis Vespera Pro model ahead of Black Friday — only eight left in stock ",
+      "source": " Latest from Space.com ",
+      "date": "Thu, 19 Nov 2026 17:08:25 +0000",
+      "summary": "Amazon is selling the Vaonis Vespera Pro for $2,549, ahead of Black Friday on Nov. 27. It's a great model for professional astrophotography with high-quality imagery of deep space objects.",
+      "url": "https://www.space.com/stargazing/skywatching-kit/get-400-off-the-first-vaonis-vespera-pro-model-ahead-of-black-friday-2026"
+    },
+    {
+      "category": "AI",
+      "title": "Anthropic hits $2T in Nasdaq debut",
+      "source": "Hacker News: Front Page",
+      "date": "Thu, 19 Nov 2026 17:02:40 +0000",
+      "summary": "Article URL: https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/\nComments URL: https://news.ycombinator.com/item?id=50562754\nPoints: 221\n# Comments: 301",
+      "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/"
+    },
+    {
+      "category": "Science",
+      "title": " What if space and time don’t exist? Physicists are chasing hints that our reality emerges from something deeper ",
+      "source": " Latest from Live Science ",
+      "date": "Thu, 19 Nov 2026 17:00:00 +0000",
+      "summary": "Space and time seem like the bedrock of reality. But startling clues are leading physicists toward the possibility that something stranger lies beneath.",
+      "url": "https://www.livescience.com/physics-mathematics/what-if-space-and-time-dont-exist-physicists-are-chasing-hints-that-our-reality-emerges-from-something-deeper"
+    },
+    {
+      "category": "Space",
+      "title": " Don't miss Saturn shine close to the moon on Nov. 20 ",
+      "source": " Latest from Space.com ",
+      "date": "Thu, 19 Nov 2026 17:00:00 +0000",
+      "summary": "The moon shines with Saturn in the constellation Pisces after sunset on Nov. 20",
+      "url": "https://www.space.com/stargazing/dont-miss-saturn-shine-close-to-the-moon-on-nov-20"
+    },
+    {
+      "category": "Space",
+      "title": " Netflix's '3 Body Problem' season 2 trailer gives us a release date and a chilling warning: 'They are coming to exterminate us' ",
+      "source": " Latest from Space.com ",
+      "date": "Thu, 19 Nov 2026 16:00:00 +0000",
+      "summary": "'They haven’t traveled 24 trillion miles to negotiate. They are coming to exterminate us.'",
+      "url": "https://www.space.com/entertainment/space-movies-shows/netflixs-3-body-problem-season-2-trailer-gives-us-a-release-date-and-a-chilling-warning-they-are-coming-to-exterminate-us"
+    },
+    {
+      "category": "Space",
+      "title": "NASA Science Data Powers New Method to Discover Hard-to-Find Pulsars",
+      "source": "NASA",
+      "date": "Thu, 19 Nov 2026 15:33:55 +0000",
+      "summary": "Open data from NASA’s Fermi mission helped an international team of scientists develop a method for finding pulsars about a million times faster than before.",
+      "url": "https://science.nasa.gov/open-science/fermi-data-pulsar-discovery/"
+    },
+    {
+      "category": "Space",
+      "title": "Lake Pelku",
+      "source": "NASA",
+      "date": "Thu, 19 Nov 2026 15:32:39 +0000",
+      "summary": "An astronaut on the International Space Station captured this photograph of Lake Pelku (near center) as the station orbited above Asia. The International Space Station serves as a unique platform for observing Earth with both hands-on and automated equipment. Station crew members have produced hundreds of thousands of images. These images record phenomena in real […]",
+      "url": "https://www.nasa.gov/image-article/lake-pelku/"
+    },
+    {
+      "category": "Space",
+      "title": "NASA Conducts Latest RS-25 Engine Test in Support of Future Artemis Missions",
+      "source": "NASA",
+      "date": "Thu, 19 Nov 2026 14:44:39 +0000",
+      "summary": "NASA tested RS-25 engine No. 10001 on Nov. 18 on the Fred Haise Test Stand at NASA’s Stennis Space Center near Bay St. Louis, Mississippi. Test teams fired the developmental engine for the planned duration of three minutes and 20 seconds (200 seconds). While this developmental engine will not be used in flight, the hot […]",
+      "url": "https://www.nasa.gov/image-article/latest-rs-25-engine-test-in-support-of-future-artemis-missions/"
+    },
+    {
+      "category": "AI",
+      "title": "Mouse fight club might explain why we like to watch violent things",
+      "source": "Ars Technica",
+      "date": "Thu, 19 Nov 2026 14:04:38 +0000",
+      "summary": "Watching fights wasn't as good as practical experience, but it got the mice halfway there.",
+      "url": "https://arstechnica.com/science/2026/11/watching-mouse-fight-club-teaches-the-critters-how-to-fight/"
+    },
+    {
+      "category": "Biblical Studies",
+      "title": "Who Is Balaam Son of Beor? Part One",
+      "source": "Biblical Archaeology Society",
+      "date": "Thu, 19 Nov 2026 12:00:57 +0000",
+      "summary": "Balaam son of Beor is one of the most enigmatic figures in the Hebrew Bible, and one of the earliest to be referenced outside the […]\nThe post Who Is Balaam Son of Beor? Part One appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/daily/biblical-topics/hebrew-bible/balaam-part-one/"
+    },
+    {
+      "category": "Biblical Studies",
+      "title": "Who Is the Queen of Sheba in the Bible?",
+      "source": "Biblical Archaeology Society",
+      "date": "Thu, 19 Nov 2026 12:00:29 +0000",
+      "summary": "The meeting of King Solomon and the Queen of Sheba is described in the Bible. Bringing exquisite gifts, the Queen of Sheba came from an exotic land—but where exactly?\nThe post Who Is the Queen of Sheba in the Bible? appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-near-eastern-world/who-is-the-queen-of-sheba-in-the-bible/"
+    },
+    {
+      "category": "Science",
+      "title": "Scientists tested 212 plant-based foods. Every single one contained fungal toxins",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Thu, 19 Nov 2026 06:13:29 EST",
+      "summary": "A new study has uncovered a surprising concern hiding in popular plant-based foods and drinks. Researchers tested 212 vegan and vegetarian products sold in the UK, including meat alternatives, oat milk, almond milk, and soy milk, and found that every single one contained at least one potentially harmful fungal toxin. Known as mycotoxins, these naturally occurring compounds can contaminate grains, legumes, and seeds during farming and storage.",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261118073749.htm"
+    },
+    {
+      "category": "Science",
+      "title": "This 6-million-year-old whale may have had the most crooked face in mammal history",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Thu, 19 Nov 2026 05:59:55 EST",
+      "summary": "A bizarre whale that lived roughly 6 million years ago had a face so dramatically crooked that scientists believe it may have been the most asymmetrical of any mammal. Discovered in Peru, the extinct pygmy sperm whale Scaphokogia huachafo had an enormous downward-curving snout and a skull so distorted that researchers initially thought it had been damaged after death. Instead, its strange anatomy appears to have been an extraordinary evolutionary adaptation for hunting along the seafloor.",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261118065528.htm"
+    },
+    {
+      "category": "AI",
+      "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+      "source": "OpenAI News",
+      "date": "Thu, 19 Nov 2026 08:00:00 GMT",
+      "summary": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
+      "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast"
+    },
+    {
+      "category": "Theology",
+      "title": "40 Great Films for Christian Parents to Watch With Their Kids",
+      "source": "The Gospel Coalition",
+      "date": "Thu, 19 Nov 2026 05:02:00 +0000",
+      "summary": "These excellent movies are enjoyable for families to watch together, but they’re also rich with values Christian parents can get behind.",
+      "url": "https://www.thegospelcoalition.org/article/40-films-christian-parents-kids/"
+    },
+    {
+      "category": "Theology",
+      "title": "Why Christianity Explains Our Deepest Longings",
+      "source": "The Gospel Coalition",
+      "date": "Thu, 19 Nov 2026 05:00:00 +0000",
+      "summary": "‘Why Christianity Makes Sense’ offers a compelling argument that Christianity explains the condition of both the world and the human heart.",
+      "url": "https://www.thegospelcoalition.org/reviews/christianity-makes-sense/"
+    },
+    {
+      "category": "Science",
+      "title": "Is free will an illusion? New brain research reveals a surprising twist",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Wed, 18 Nov 2026 20:21:35 EST",
+      "summary": "New research reveals that the brain makes free choices and forced decisions using surprisingly similar neural processes, with activity building toward a decision before we act. The discovery challenges assumptions about free will while suggesting that our personal preferences and experiences still shape what we choose.",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261118065524.htm"
     },
     {
       "category": "History",
@@ -59,100 +219,12 @@
       "url": "https://allthingsliberty.com/2026/11/the-americans-who-reached-mobile-too-late/"
     },
     {
-      "category": "Space",
-      "title": " Whether you want Star Trek: Strange New Worlds or the pure nostalgia of The Original Series, this limited-time $2.99 Paramount+ streaming deal gets you both ",
-      "source": " Latest from Space.com ",
-      "date": "Thu, 19 Nov 2026 00:00:00 +0000",
-      "summary": "Paramount+ memberships are now only $2.99 per month for the first two months for Black Friday 2026. This gets you access to almost every season of Star Trek and a host of great movies. The offer ends Nov. 30.",
-      "url": "https://www.space.com/entertainment/space-movies-shows/whether-you-want-star-trek-strange-new-worlds-or-the-pure-nostalgia-of-the-original-series-this-limited-time-usd2-99-paramount-streaming-deal-gets-you-both"
-    },
-    {
-      "category": "AI",
-      "title": "Ted Cruz-led committee approves Trump FCC nominee 15-0 as Democrats boycott vote",
-      "source": "Ars Technica",
-      "date": "Wed, 18 Nov 2026 23:25:04 +0000",
-      "summary": "Democrats try to prevent quorum, say Thumann lied about not working on media issues.",
-      "url": "https://arstechnica.com/tech-policy/2026/11/ted-cruz-led-committee-approves-trump-fcc-nominee-15-0-as-democrats-boycott-vote/"
-    },
-    {
-      "category": "AI",
-      "title": "Ukraine blew up Putin’s bridge using relay drones to bypass Starlink limits",
-      "source": "Ars Technica",
-      "date": "Wed, 18 Nov 2026 23:10:39 +0000",
-      "summary": "Ukraine's strike used homegrown tech while adapting battlefield lessons from its adversary.",
-      "url": "https://arstechnica.com/gadgets/2026/11/ukraine-blew-up-putins-bridge-using-relay-drones-to-bypass-starlink-limits/"
-    },
-    {
-      "category": "Space",
-      "title": "NASA Sets Coverage for Northrop Grumman CRS-25 Launch, Prelaunch",
-      "source": "NASA",
-      "date": "Wed, 18 Nov 2026 22:19:17 +0000",
-      "summary": "NASA, Northrop Grumman, and SpaceX are targeting no earlier than 10:47 a.m. EST, Sunday, Nov. 29, for the next launch delivering science investigations, supplies, and equipment to the International Space Station. The agency also will hold a prelaunch media teleconference on Monday, Nov. 23. Filled with approximately 11,000 pounds of cargo, the Northrop Grumman Cygnus […]",
-      "url": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-northrop-grumman-crs-25-launch-prelaunch/"
-    },
-    {
-      "category": "AI",
-      "title": "Trump abandons his FDA nominee, and Senate scraps vote on his NSF pick",
-      "source": "Ars Technica",
-      "date": "Wed, 18 Nov 2026 22:08:57 +0000",
-      "summary": "\"This time requires leadership and fortitude,\" Senator Bill Cassidy said.",
-      "url": "https://arstechnica.com/health/2026/11/trump-abandons-his-fda-nominee-and-senate-scraps-vote-on-his-nsf-pick/"
-    },
-    {
-      "category": "Space",
-      "title": " Astronomers witness a star eating its companion in 1st-of-its-kind observation ",
-      "source": " Latest from Space.com ",
-      "date": "Wed, 18 Nov 2026 22:00:00 +0000",
-      "summary": "Astronomers may have, for the first time ever, directly witnessed a star engulfing its stellar companion.",
-      "url": "https://www.space.com/astronomy/stars/astronomers-witness-a-star-eating-its-companion-in-1st-of-its-kind-observation"
-    },
-    {
-      "category": "Science",
-      "title": " Voyager 1's light-day milestone: See the photos behind the discoveries ",
-      "source": " Latest from Live Science ",
-      "date": "Wed, 18 Nov 2026 21:31:24 +0000",
-      "summary": "On Wednesday (Nov. 18), NASA's Voyager 1 spacecraft became the first human-made object to reach one light-day from Earth. Here, we look back at its most important discoveries, seen through groundbreaking space photos.",
-      "url": "https://www.livescience.com/space/space-exploration/voyager-1s-light-day-milestone-50-years-of-amazing-solar-system-discoveries-in-photos"
-    },
-    {
-      "category": "Science",
-      "title": " Neanderthal genes linked to lower risk of schizophrenia in modern humans ",
-      "source": " Latest from Live Science ",
-      "date": "Wed, 18 Nov 2026 21:21:48 +0000",
-      "summary": "Researchers have zeroed in on a genetic variant in the human brain that came from Neanderthals, and it might protect us from schizophrenia.",
-      "url": "https://www.livescience.com/archaeology/neanderthals/neanderthal-genes-linked-to-lower-risk-of-schizophrenia-in-modern-humans"
-    },
-    {
-      "category": "Space",
-      "title": " On this day in space! Nov. 18, 2013: NASA launches MAVEN spacecraft to Mars to find out how the Red Planet lost its water ",
-      "source": " Latest from Space.com ",
-      "date": "Wed, 18 Nov 2026 21:10:52 +0000",
-      "summary": "On Nov. 18, 2013, NASA launched the MAVEN spacecraft to Mars to investigate the planet's missing water. Here's why it mattered.",
-      "url": "https://www.space.com/space-exploration/on-this-day-in-space-november-18-2026"
-    },
-    {
       "category": "Theology",
       "title": "The Word Creates the People: A Biblical Theology of God’s Word for the Life of the Church",
       "source": "9Marks",
       "date": "Wed, 18 Nov 2026 19:49:58 +0000",
       "summary": "The gathered church, then, isn’t just important at the start of the Christian life; it remains essential to our ongoing discipleship. Week by week, our earthly gatherings reflect the heavenly reality we’re being prepared for.\nThe post The Word Creates the People: A Biblical Theology of God’s Word for the Life of the Church appeared first on 9Marks.",
       "url": "https://www.9marks.org/article/the-word-creates-the-people-a-biblical-theology-of-gods-word-for-the-life-of-the-church/?utm_source=rss&utm_medium=rss&utm_campaign=the-word-creates-the-people-a-biblical-theology-of-gods-word-for-the-life-of-the-church"
-    },
-    {
-      "category": "Space",
-      "title": "MAF EAP – Holidays – How to manage the BAH HUMBUG that tries to sneak in",
-      "source": "NASA",
-      "date": "Wed, 18 Nov 2026 18:58:27 +0000",
-      "summary": "Holidays are often a fun break during a busy year – a long weekend here and there is an event many of us can get behind.  However, when a short holiday break turns into a full holiday season, we know that this is a different “ball game”. Everyone has stress about something – some people […]",
-      "url": "https://www.nasa.gov/centers-and-facilities/michoud/maf-eap/maf-eap-holidays-how-to-manage-the-bah-humbug-that-tries-to-sneak-in/"
-    },
-    {
-      "category": "Space",
-      "title": "NASA Announces Mid-Power Electric Rocket Challenge for US Companies",
-      "source": "NASA",
-      "date": "Wed, 18 Nov 2026 18:12:32 +0000",
-      "summary": "NASA launched a new competition inviting U.S. companies to produce prototypes of mid-power Hall effect thrusters – a type of electric propulsion system considered crucial for future space operations and exploration. Hall effect thrusters use an electric field to accelerate a propellant gas, producing efficient thrust for long-duration missions. Used for propelling satellites and deep […]",
-      "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/nasa-announces-mid-power-electric-rocket-challenge-for-us-companies/"
     },
     {
       "category": "History",
@@ -163,22 +235,6 @@
       "url": "https://allthingsliberty.com/2026/11/on-this-weeks-dispatches-ryan-l-cole-on-lafayettes-triumphant-return-to-the-united-states/"
     },
     {
-      "category": "Science",
-      "title": " ​​Homo erectus and Denisovans may have lived alongside each other in China, study suggests ",
-      "source": " Latest from Live Science ",
-      "date": "Wed, 18 Nov 2026 16:04:37 +0000",
-      "summary": "Fossil teeth from two caves in southern China are revealing that at least two lineages of early humans were present in the region around 184,000 years ago.",
-      "url": "https://www.livescience.com/human-behavior/homo-erectus-and-denisovans-may-have-lived-alongside-each-other-in-china-study-suggests"
-    },
-    {
-      "category": "Science",
-      "title": "New discovery reveals what may be holding back room-temperature superconductors",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Wed, 18 Nov 2026 07:16:46 EST",
-      "summary": "A major breakthrough in superconductivity research has revealed that one of the essential ingredients for electricity to flow without resistance can exist at room temperature. Scientists discovered that electrons can form stable pairs at much higher temperatures than previously understood, suggesting that a different obstacle may be preventing room-temperature superconductivity.",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261116023358.htm"
-    },
-    {
       "category": "Biblical Studies",
       "title": "Mesopotamia’s Primeval Waters",
       "source": "Biblical Archaeology Society",
@@ -187,36 +243,12 @@
       "url": "https://www.biblicalarchaeology.org/exhibits-events/mesopotamias-primeval-waters/"
     },
     {
-      "category": "Biblical Studies",
-      "title": "The Woman and the Goose",
-      "source": "Biblical Archaeology Society",
-      "date": "Wed, 18 Nov 2026 11:00:48 +0000",
-      "summary": "Carrying out excavations at a prehistoric village overlooking the Sea of Galilee, archaeologists from the Hebrew University of Jerusalem uncovered a small clay figurine unlike […]\nThe post The Woman and the Goose appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-israel/the-woman-and-the-goose/"
-    },
-    {
       "category": "AI",
       "title": "The Silent Consensus",
       "source": "OpenAI News",
       "date": "Wed, 18 Nov 2026 10:00:00 GMT",
       "summary": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
       "url": "https://openai.com/index/the-silent-consensus"
-    },
-    {
-      "category": "Science",
-      "title": "More than a billion years of Earth's history vanished. Scientists may finally know why",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Wed, 18 Nov 2026 03:27:56 EST",
-      "summary": "Scientists may have finally explained why up to more than a billion years of Earth's geological history are missing from rocks around the world. New research suggests that powerful currents deep inside the planet slowly raised and lowered entire continents, allowing erosion to erase vast stretches of geological history before they were buried and preserved.",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261116023403.htm"
-    },
-    {
-      "category": "AI",
-      "title": "Research acceleration: The jagged frontier",
-      "source": "OpenAI News",
-      "date": "Wed, 18 Nov 2026 08:00:00 GMT",
-      "summary": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
-      "url": "https://openai.com/index/research-acceleration-jagged-frontier"
     },
     {
       "category": "AI",
@@ -233,38 +265,6 @@
       "date": "Wed, 18 Nov 2026 05:04:28 +0000",
       "summary": "Fitness can be a vain, selfie-driven world. Lindsey Bomgren, founder of Nourish Move Love, shares how she found her calling there: helping women get ‘strong for their tasks’ through difficult seasons and circumstances.",
       "url": "https://www.thegospelcoalition.org/podcasts/your-corner-of-the-world/exercise-help-dark-lindsey-bomgren/"
-    },
-    {
-      "category": "Theology",
-      "title": "Small-Church Elders, Here’s How to Give Your Pastor a Sabbatical",
-      "source": "The Gospel Coalition",
-      "date": "Wed, 18 Nov 2026 05:00:00 +0000",
-      "summary": "Our church has 74 members and two lay elders. Here’s how we raised up five men to preach seven expository sermons and give our pastor a summer sabbatical.",
-      "url": "https://www.thegospelcoalition.org/article/small-church-sabbatical/"
-    },
-    {
-      "category": "Science",
-      "title": "Bizarre deep-sea fish with a see-through head captured in stunning 4K",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Tue, 17 Nov 2026 23:30:31 EST",
-      "summary": "Deep-sea researchers have captured stunning new footage of an extraordinarily rare fish with a transparent head and rotating eyes nearly 2,000 feet beneath the ocean's surface. Known as the barreleye fish, this bizarre creature uses its upward-pointing eyes to spot prey before rotating them forward to track its next meal, all while a transparent dome protects them.",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261117033917.htm"
-    },
-    {
-      "category": "Biblical Studies",
-      "title": "When Did Monotheism Emerge in Ancient Israel?",
-      "source": "Biblical Archaeology Society",
-      "date": "Tue, 17 Nov 2026 12:00:38 +0000",
-      "summary": "When did the Israelites first begin to worship YHWH, refusing to worship or even recognize the existence of other deities? Was monotheism part of Israelite […]\nThe post When Did Monotheism Emerge in Ancient Israel? appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/daily/biblical-topics/bible-interpretation/when-did-monotheism-emerge-in-ancient-israel/"
-    },
-    {
-      "category": "Theology",
-      "title": "Where Our Criminal Justice System Breaks Down (with Matt Martens)",
-      "source": "The Gospel Coalition",
-      "date": "Tue, 17 Nov 2026 05:04:21 +0000",
-      "summary": "Matt Martens joins Collin Hansen to discuss justice, citizenship, and Christian responsibility.",
-      "url": "https://www.thegospelcoalition.org/podcasts/gospelbound/criminal-justice-system-breaks-down/"
     },
     {
       "category": "History",
