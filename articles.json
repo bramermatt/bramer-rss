@@ -1,158 +1,214 @@
 {
-  "lastUpdated": "2026-11-20T02:46:31.609Z",
+  "lastUpdated": "2026-11-20T18:11:44.636Z",
   "articleCount": 39,
   "articles": [
     {
       "category": "Science",
-      "title": "Building structured-light systems in three dimensions",
+      "title": "Witnessing generosity from low-income donors more likely to elicit giving from observers, research finds",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Thu, 19 Nov 2026 21:40:01 EST",
-      "summary": "Structured light has become an important tool across modern optics. By shaping properties such as amplitude, phase, polarization and spatial mode, researchers can create light fields with capabilities beyond those of conventional laser beams. These engineered light fields are finding applications in communications, imaging, sensing, optical computing and quantum photonics. However, many structured-light systems still rely on multiple discrete optical components that require careful alignment and occupy significant space.",
-      "url": "https://phys.org/news/2026-11-dimensions.html"
+      "date": "Fri, 20 Nov 2026 13:10:01 EST",
+      "summary": "Billionaire Warren Buffett announced this month he will donate $5.47 billion to four foundations associated with his family ahead of Thanksgiving. Similarly, various students in club organizations throughout Kansas are collecting food items to give to hungry families for the holiday.",
+      "url": "https://phys.org/news/2026-11-witnessing-generosity-income-donors-elicit.html"
     },
     {
       "category": "Science",
-      "title": "Innovative technology offers a bold new vision for monitoring ocean health",
+      "title": "Spiders, beetles and one garage alligator: Largest study to date reveals wildlife sharing our indoor spaces",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Thu, 19 Nov 2026 21:20:06 EST",
-      "summary": "On an early October morning, as MBARI's research vessel Paragon left Moss Landing with three robots loaded on its deck, Monterey Bay was showing off.",
-      "url": "https://phys.org/news/2026-11-technology-bold-vision-ocean-health.html"
+      "date": "Fri, 20 Nov 2026 13:00:06 EST",
+      "summary": "An international team of researchers is revealing the largest study to date detailing the wide range of insects, arachnids and other organisms that live in homes and other indoor environments across the United States and Canada. The researchers have compiled a database with more than 20,000 entries spanning more than 2,000 species found in these indoor ecosystems.",
+      "url": "https://phys.org/news/2026-11-spiders-beetles-garage-alligator-largest.html"
     },
     {
-      "category": "AI",
-      "title": "OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)",
-      "source": "Hacker News: Front Page",
-      "date": "Fri, 20 Nov 2026 02:01:09 +0000",
-      "summary": "Article URL: https://github.com/openssl/openssl/pull/33652\nComments URL: https://news.ycombinator.com/item?id=50569226\nPoints: 9\n# Comments: 0",
-      "url": "https://github.com/openssl/openssl/pull/33652"
+      "category": "Space",
+      "title": " Could an ancient solar eclipse rewrite Egyptian history? ",
+      "source": " Latest from Space.com ",
+      "date": "Fri, 20 Nov 2026 18:00:00 +0000",
+      "summary": "A biblical mystery, an ancient Egyptian inscription and a \"ring of fire\" solar eclipse 3,200 years ago hold clues to when Ramesses the Great ruled.",
+      "url": "https://www.space.com/stargazing/solar-eclipses/could-an-ancient-solar-eclipse-rewrite-egyptian-history"
     },
     {
       "category": "Science",
-      "title": "New mondo grass species found in Yunnan",
+      "title": "Deep Venture: A new class of ocean exploration vehicle developed",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Thu, 19 Nov 2026 21:00:06 EST",
-      "summary": "Botanists have described a new Ophiopogon species from the Yunnan Wenshan National Nature Reserve in southeastern China. They named it Ophiopogon longiscapus for its unusually long flowering stalk, or scape.",
-      "url": "https://phys.org/news/2026-11-mondo-grass-species-yunnan.html"
+      "date": "Fri, 20 Nov 2026 12:50:03 EST",
+      "summary": "Researchers have a new capability for exploring some of the least understood regions of the ocean. Developed by Woods Hole Oceanographic Institution (WHOI) in collaboration with NASA's Jet Propulsion Laboratory (JPL) in Southern California, Deep Venture is a next-generation autonomous underwater vehicle (AUV) for deep-ocean research, capable of supporting a wide range of scientific missions, from shallow coastal waters to the deepest places on Earth. It can withstand extreme pressure, rated for depths of up to 11,000 meters (about 6.83 mi), or full ocean depth.",
+      "url": "https://phys.org/news/2026-11-deep-venture-class-ocean-exploration.html"
     },
     {
       "category": "AI",
-      "title": "Vint Cerf on why TCP/IP was never patented",
+      "title": "Anthropic shares tank after IPO as the Nasdaq erases 2026 gains",
       "source": "Hacker News: Front Page",
-      "date": "Fri, 20 Nov 2026 01:06:12 +0000",
-      "summary": "Article URL: https://seremot.com/p/vint-cerf-on-why-tcpip-was-never\nComments URL: https://news.ycombinator.com/item?id=50568861\nPoints: 11\n# Comments: 3",
-      "url": "https://seremot.com/p/vint-cerf-on-why-tcpip-was-never"
+      "date": "Fri, 20 Nov 2026 17:44:01 +0000",
+      "summary": "Article URL: https://www.nbcnews.com/business/markets/anthropic-shares-markets-selloff-nasdaq-rcna610394\nComments URL: https://news.ycombinator.com/item?id=50578794\nPoints: 12\n# Comments: 2",
+      "url": "https://www.nbcnews.com/business/markets/anthropic-shares-markets-selloff-nasdaq-rcna610394"
     },
     {
       "category": "AI",
-      "title": "Postgres 19 is out, and it's available on Neon and Databricks Lakebase",
+      "title": "Running two PSP emulators on one Switch 2 and sharing one via GameShare",
       "source": "Hacker News: Front Page",
-      "date": "Fri, 20 Nov 2026 00:37:31 +0000",
-      "summary": "Article URL: https://www.databricks.com/blog/postgresql-19-available-lakebase\nComments URL: https://news.ycombinator.com/item?id=50568643\nPoints: 5\n# Comments: 3",
-      "url": "https://www.databricks.com/blog/postgresql-19-available-lakebase"
+      "date": "Fri, 20 Nov 2026 17:14:03 +0000",
+      "summary": "Article URL: https://github.com/XITRIX/ppsspp-nx2/blob/master/SWITCH2-GAMESHARE.md\nComments URL: https://news.ycombinator.com/item?id=50578233\nPoints: 12\n# Comments: 0",
+      "url": "https://github.com/XITRIX/ppsspp-nx2/blob/master/SWITCH2-GAMESHARE.md"
     },
     {
       "category": "Science",
-      "title": "Experimental compound burns fat without sacrificing muscle",
+      "title": " James Webb telescope spots giant star swallowing its companion in first-ever observations of a stellar merger ",
+      "source": " Latest from Live Science ",
+      "date": "Fri, 20 Nov 2026 17:12:24 +0000",
+      "summary": "Astronomers using the James Webb Space Telescope followed up on years-old observations to confirm the first recorded act of a giant star swallowing its companion. The stellar cannibalism occurred just next door, in the Andromeda galaxy.",
+      "url": "https://www.livescience.com/space/astronomers-spot-giant-star-swallowing-its-companion-in-first-ever-observations-of-a-stellar-merger"
+    },
+    {
+      "category": "AI",
+      "title": "PostgreSQL 19: A hands-on tour with runnable browser examples",
+      "source": "Hacker News: Front Page",
+      "date": "Fri, 20 Nov 2026 17:08:56 +0000",
+      "summary": "Article URL: https://certuvia.com/blog/postgres-19\nComments URL: https://news.ycombinator.com/item?id=50578117\nPoints: 13\n# Comments: 1",
+      "url": "https://certuvia.com/blog/postgres-19"
+    },
+    {
+      "category": "Space",
+      "title": " Russia is developing a nuclear space weapon, US intelligence report finds ",
+      "source": " Latest from Space.com ",
+      "date": "Fri, 20 Nov 2026 17:00:00 +0000",
+      "summary": "A new report by the the U.S. Defense Intelligence Agency discusses the threats posed by the nation's adversaries in space — including Russia, which is developing a nuke-carrying satellite.",
+      "url": "https://www.space.com/space-exploration/satellites/russia-is-developing-a-nuclear-space-weapon-us-intelligence-report-finds"
+    },
+    {
+      "category": "Science",
+      "title": " An Anthropic mathematician claims to have proven the Riemann hypothesis. We have to rethink how we reward expertise. ",
+      "source": " Latest from Live Science ",
+      "date": "Fri, 20 Nov 2026 16:52:18 +0000",
+      "summary": "AI has upended the math community with a flood of results. We have to rethink how we assess which questions and answers matter — putting humans back at the center.",
+      "url": "https://www.livescience.com/physics-mathematics/mathematics/ai-is-forcing-us-to-rethink-what-mathematical-expertise-means-opinion"
+    },
+    {
+      "category": "Space",
+      "title": "NASA Honor Awards Ceremony Recognizes Employees at Stennis Space Center ",
+      "source": "NASA",
+      "date": "Fri, 20 Nov 2026 16:27:46 +0000",
+      "summary": "Employees contributing to NASA’s mission at the agency’s Stennis Space Center near Bay St. Louis, Mississippi, were recognized during the center’s Honor Awards ceremony on Nov. 18.   Presenting the awards were Christine Powell, NASA Stennis center director, and Jeremy Parsons, the agency’s Artemis program manager responsible for management and oversight of NASA’s initiative to return […]",
+      "url": "https://www.nasa.gov/centers-and-facilities/stennis/honor-awards-ceremony-at-stennis/"
+    },
+    {
+      "category": "AI",
+      "title": "Valve says it might have to raise the price of supply-limited Steam Machines",
+      "source": "Ars Technica",
+      "date": "Fri, 20 Nov 2026 16:11:21 +0000",
+      "summary": "\"We don't yet know the number we are able to make, and at what price...\"",
+      "url": "https://arstechnica.com/gaming/2026/11/valve-says-it-might-have-to-raise-the-price-of-supply-limited-steam-machines/"
+    },
+    {
+      "category": "Space",
+      "title": "NASA’s Curiosity Mars Rover Collects Samples",
+      "source": "NASA",
+      "date": "Fri, 20 Nov 2026 15:53:24 +0000",
+      "summary": "This Nov. 16 collage shows 49 drill holes captured by NASA’s Curiosity Mars rover as of November 2026. Each hole represents a sample collected from rocks on the Martian surface; Curiosity’s drill, located on the end of its robotic arm, drops pulverized rock samples into instruments in its belly that analyze their composition. Learn more […]",
+      "url": "https://www.nasa.gov/image-article/nasas-curiosity-mars-rover-collects-samples/"
+    },
+    {
+      "category": "Space",
+      "title": " ISS astronauts look down on the snow-capped Himalayas | Space photo of the day for Nov. 20, 2026 ",
+      "source": " Latest from Space.com ",
+      "date": "Fri, 20 Nov 2026 15:00:00 +0000",
+      "summary": "The Himalayas tower below the clouds, capped in icy snow in new snapshots captured from aboard the International Space Station.",
+      "url": "https://www.space.com/astronomy/earth/iss-astronauts-look-down-on-the-snow-capped-himalayas-space-photo-of-the-day-for-nov-20-2026"
+    },
+    {
+      "category": "AI",
+      "title": "US will soon announce root cause behind FAA nationwide ground stop",
+      "source": "Ars Technica",
+      "date": "Fri, 20 Nov 2026 14:52:51 +0000",
+      "summary": "Former FAA insider on reducing the risks of upgrading a decades-old network.",
+      "url": "https://arstechnica.com/gadgets/2026/11/how-faa-can-modernize-us-national-airspace-system-without-emergency-ground-stops/"
+    },
+    {
+      "category": "AI",
+      "title": "SpaceX lenders don’t want Elon Musk launching their collateral into space",
+      "source": "Ars Technica",
+      "date": "Fri, 20 Nov 2026 14:15:21 +0000",
+      "summary": "Bondholders want SpaceX’s valuable chip collateral kept on Earth and within reach.",
+      "url": "https://arstechnica.com/space/2026/11/spacex-lenders-dont-want-elon-musk-launching-their-collateral-into-space/"
+    },
+    {
+      "category": "Science",
+      "title": "Scientists turn Moon dust into LEGO-like bricks for future lunar bases",
       "source": "All Top News -- ScienceDaily",
-      "date": "Thu, 19 Nov 2026 19:19:49 EST",
-      "summary": "Researchers at UC Berkeley have identified a compound that could transform weight-loss treatment by helping the body burn more energy instead of suppressing appetite like Ozempic and Wegovy. In mice, the compound boosted energy expenditure by up to 18%, improved blood sugar control, reduced liver fat, and promoted weight loss without significant muscle loss. Even more promising, combining it with existing GLP-1 medications produced greater benefits than either treatment alone.",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261118073918.htm"
-    },
-    {
-      "category": "Space",
-      "title": " Voyager 1 team, unbowed by communications glitch, celebrates epic 1-light-day distance milestone ",
-      "source": " Latest from Space.com ",
-      "date": "Thu, 19 Nov 2026 23:42:03 +0000",
-      "summary": "The Voyager 1 team celebrated the probe's big distance milestone on Thursday (Nov. 19), even while dealing with a communication anomaly that recently cropped up on the probe.",
-      "url": "https://www.space.com/space-exploration/voyager/voyager-1-team-unbowed-by-communications-glitch-celebrates-epic-1-light-day-distance-milestone"
-    },
-    {
-      "category": "Space",
-      "title": " On this day in space! Nov. 19, 2005: Japan's Hayabusa spacecraft makes 1st-ever liftoff from surface of an asteroid ",
-      "source": " Latest from Space.com ",
-      "date": "Thu, 19 Nov 2026 22:53:16 +0000",
-      "summary": "On Nov. 19, 2005, the Japanese Hayabusa spacecraft made the first liftoff from an asteroid. Here's why it mattered.",
-      "url": "https://www.space.com/space-exploration/on-this-day-in-space-november-19-2005"
-    },
-    {
-      "category": "AI",
-      "title": "Amazon fights the Delivery Protection Act with homepage banner, in-app pop-up",
-      "source": "Ars Technica",
-      "date": "Thu, 19 Nov 2026 22:16:37 +0000",
-      "summary": "Amazon now uses its shopping platform for political purposes.",
-      "url": "https://arstechnica.com/tech-policy/2026/11/amazon-takes-its-fight-against-nyc-delivery-bill-to-shoppers-with-in-app-pop-up/"
+      "date": "Fri, 20 Nov 2026 07:34:56 EST",
+      "summary": "Scientists have found a way to 3D-print Moon dust into LEGO-like bricks, raising the possibility of building lunar bases using materials already on the Moon. The experimental blocks still need to be strengthened, but the technology could transform how humans construct permanent settlements beyond Earth.",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261119194525.htm"
     },
     {
       "category": "Science",
-      "title": " 'I would want to know my horse's backstory': Live Science readers share which animals they'd want to speak with ",
-      "source": " Latest from Live Science ",
-      "date": "Thu, 19 Nov 2026 22:03:04 +0000",
-      "summary": "Recently, Live Science asked its readers which animal they'd want to communicate with, based on a new study that leveraged AI to decode different vocalizations of zebra finches.",
-      "url": "https://www.livescience.com/animals/i-would-want-to-know-my-horses-backstory-live-science-readers-share-which-animals-theyd-want-to-speak-with"
-    },
-    {
-      "category": "Space",
-      "title": " The view from the tower: Watch Starship come in for chopsticks catch in epic slo-mo video ",
-      "source": " Latest from Space.com ",
-      "date": "Thu, 19 Nov 2026 22:00:00 +0000",
-      "summary": "A new set of slo-mo videos gives us a tower's-eye view of the first-ever catch of a Starship upper stage, a milestone SpaceX achieved last weekend.",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/the-view-from-the-tower-watch-starship-come-in-for-chopsticks-catch-in-epic-slo-mo-video"
+      "title": "CERN scientists finally find evidence of a particle decay so rare it took 40 years to detect",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Fri, 20 Nov 2026 07:23:23 EST",
+      "summary": "Scientists at CERN have found the first evidence of an incredibly rare particle decay after more than 40 years of searching, detecting a process expected to occur just once in every 10 billion beauty particles. The breakthrough could help physicists explore a mysterious microscopic realm where unknown particles and forces may be hiding.",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261119194530.htm"
     },
     {
       "category": "Science",
-      "title": " Voyager 1 stops sending science data ahead of its light-day milestone — but NASA has a plan ",
+      "title": " Ghostly 'sand body' double burial unearthed at Sutton Hoo ",
       "source": " Latest from Live Science ",
-      "date": "Thu, 19 Nov 2026 21:49:56 +0000",
-      "summary": "NASA's Voyager 1 spacecraft just reached 1 light-day from our planet, but a newfound glitch in the probe's onboard computer is preventing it from sharing science data with Earth.",
-      "url": "https://www.livescience.com/space/space-exploration/computer-glitch-prevents-voyager-1-from-sharing-science-data-on-its-light-day-milestone"
+      "date": "Fri, 20 Nov 2026 12:00:00 +0000",
+      "summary": "During a month-long excavation with the documentary series \"Time Team,\" archaeologists unearthed another mysterious \"sand body\" at Sutton Hoo.",
+      "url": "https://www.livescience.com/archaeology/ghostly-sand-body-double-burial-unearthed-at-sutton-hoo"
     },
     {
-      "category": "AI",
-      "title": "MAHA PAC spent more on steak, luxury club than candidates, report shows",
-      "source": "Ars Technica",
-      "date": "Thu, 19 Nov 2026 21:19:12 +0000",
-      "summary": "Expert called MAHA's spending \"pretty unusual\" for a PAC.",
-      "url": "https://arstechnica.com/health/2026/11/maha-pac-spent-more-on-steak-luxury-club-than-candidates-report-shows/"
+      "category": "Biblical Studies",
+      "title": "Colossal Ramesses II Statues Surface",
+      "source": "Biblical Archaeology Society",
+      "date": "Fri, 20 Nov 2026 11:45:54 +0000",
+      "summary": "In the village of Behbeit al-Higara in Egypt’s Nile Delta, a local man reported finding an inscribed stone block on his property. Egypt’s Supreme Council […]\nThe post Colossal Ramesses II Statues Surface appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-egypt/colossal-ramesses-ii-statues-surface/"
     },
     {
-      "category": "AI",
-      "title": "Man hired by Russia spied on Silicon Valley tech and defense company, feds say",
-      "source": "Ars Technica",
-      "date": "Thu, 19 Nov 2026 20:29:46 +0000",
-      "summary": "25-year-old accused of stalking employees at coffee shop and in an \"aggressive\" car pursuit.",
-      "url": "https://arstechnica.com/security/2026/11/man-charged-with-spying-on-silicon-valley-tech-and-defense-company-for-russia/"
+      "category": "Biblical Studies",
+      "title": "Church of St. Stephen’s Mosaic Masterpiece",
+      "source": "Biblical Archaeology Society",
+      "date": "Fri, 20 Nov 2026 11:00:25 +0000",
+      "summary": "Visitors to Southern Israel can now admire one of the most elaborate Byzantine mosaics ever discovered in the country. Soon after it was unearthed in […]\nThe post Church of St. Stephen’s Mosaic Masterpiece appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/daily/biblical-sites-places/biblical-archaeology-sites/church-saint-stephen-mosaic-masterpiece/"
     },
     {
       "category": "Science",
-      "title": " New study rewrites the role of a major speech hub in the brain ",
-      "source": " Latest from Live Science ",
-      "date": "Thu, 19 Nov 2026 20:24:33 +0000",
-      "summary": "Wernicke's area was thought to be mostly linked to understanding speech. A landmark new study has something more to say.",
-      "url": "https://www.livescience.com/health/neuroscience/new-study-rewrites-the-role-of-a-major-speech-hub-in-the-brain"
+      "title": "Two massive stars may be secretly feeding the Milky Way’s supermassive black hole",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Fri, 20 Nov 2026 00:41:16 EST",
+      "summary": "Astronomers have traced mysterious gas clouds near the Milky Way's central supermassive black hole to a massive pair of stars whose colliding winds appear to create dense clumps of material. These clouds may eventually feed the black hole, revealing a surprising connection between stellar activity and the growth of cosmic giants.",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261119194605.htm"
     },
     {
       "category": "Space",
-      "title": "Challenge: Public Input on Life and the World in 2075",
+      "title": "APOD: 2026 November 20 – V-G-R",
       "source": "NASA",
-      "date": "Thu, 19 Nov 2026 19:34:20 +0000",
-      "summary": "NASA’s Transformational Tools and Technologies (TTT) is gathering public perspectives on life today and how the world may change by 2075. This challenge asks for conceptual ideas about life in 2075 across four challenge topics. Ideas should explore how future aviation or aerospace systems could: Ideas should be conceptual rather than technical. Award: $20,000 in […]",
-      "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/challenge-public-input-on-life-and-the-world-in-2075/"
+      "date": "Fri, 20 Nov 2026 05:05:00 +0000",
+      "summary": "APODScienceAPODAPOD: 2026 November…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss  APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. V-G-R Explanation: On November 17, fans of interstellar spaceflight around planet Earth were invited to shine a message into […]",
+      "url": "https://science.nasa.gov/image-article/apod-2026-november-20-v-g-r/"
     },
     {
-      "category": "Space",
-      "title": "NASA Science Data Powers New Method to Discover Hard-to-Find Pulsars",
-      "source": "NASA",
-      "date": "Thu, 19 Nov 2026 15:33:55 +0000",
-      "summary": "Open data from NASA’s Fermi mission helped an international team of scientists develop a method for finding pulsars about a million times faster than before.",
-      "url": "https://science.nasa.gov/open-science/fermi-data-pulsar-discovery/"
+      "category": "Theology",
+      "title": "Discipling the Next Generation in an LGBT+ World",
+      "source": "The Gospel Coalition",
+      "date": "Fri, 20 Nov 2026 05:04:00 +0000",
+      "summary": "In a culture filled with competing messages, how can we faithfully teach children the truth while also modeling love and compassion toward those who have rejected it?",
+      "url": "https://www.thegospelcoalition.org/podcasts/tgc-podcast/discipling-next-generation-lgbt-world/"
     },
     {
-      "category": "Space",
-      "title": "Lake Pelku",
-      "source": "NASA",
-      "date": "Thu, 19 Nov 2026 15:32:39 +0000",
-      "summary": "An astronaut on the International Space Station captured this photograph of Lake Pelku (near center) as the station orbited above Asia. The International Space Station serves as a unique platform for observing Earth with both hands-on and automated equipment. Station crew members have produced hundreds of thousands of images. These images record phenomena in real […]",
-      "url": "https://www.nasa.gov/image-article/lake-pelku/"
+      "category": "Theology",
+      "title": "How to Fire Someone at a Christian Organization",
+      "source": "The Gospel Coalition",
+      "date": "Fri, 20 Nov 2026 05:02:00 +0000",
+      "summary": "If managers do their jobs well, believe that God is sovereign, and bring the love of Christ even into hard conversations, everyone will be better off.",
+      "url": "https://www.thegospelcoalition.org/article/fire-christian-organization/"
+    },
+    {
+      "category": "Theology",
+      "title": "Modernity Is Seeking a Hypergood. It’s Making Us Miserable.",
+      "source": "The Gospel Coalition",
+      "date": "Fri, 20 Nov 2026 05:00:00 +0000",
+      "summary": "Why does modernity feel unlivable? Because secularism has its own versions of monotheism and polytheism.",
+      "url": "https://www.thegospelcoalition.org/article/seeking-hypergood-miserable/"
     },
     {
       "category": "Biblical Studies",
@@ -163,52 +219,12 @@
       "url": "https://www.biblicalarchaeology.org/daily/biblical-topics/hebrew-bible/balaam-part-one/"
     },
     {
-      "category": "Biblical Studies",
-      "title": "Who Is the Queen of Sheba in the Bible?",
-      "source": "Biblical Archaeology Society",
-      "date": "Thu, 19 Nov 2026 12:00:29 +0000",
-      "summary": "The meeting of King Solomon and the Queen of Sheba is described in the Bible. Bringing exquisite gifts, the Queen of Sheba came from an exotic land—but where exactly?\nThe post Who Is the Queen of Sheba in the Bible? appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-near-eastern-world/who-is-the-queen-of-sheba-in-the-bible/"
-    },
-    {
-      "category": "Science",
-      "title": "Scientists tested 212 plant-based foods. Every single one contained fungal toxins",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Thu, 19 Nov 2026 06:13:29 EST",
-      "summary": "A new study has uncovered a surprising concern hiding in popular plant-based foods and drinks. Researchers tested 212 vegan and vegetarian products sold in the UK, including meat alternatives, oat milk, almond milk, and soy milk, and found that every single one contained at least one potentially harmful fungal toxin. Known as mycotoxins, these naturally occurring compounds can contaminate grains, legumes, and seeds during farming and storage.",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261118073749.htm"
-    },
-    {
-      "category": "Science",
-      "title": "This 6-million-year-old whale may have had the most crooked face in mammal history",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Thu, 19 Nov 2026 05:59:55 EST",
-      "summary": "A bizarre whale that lived roughly 6 million years ago had a face so dramatically crooked that scientists believe it may have been the most asymmetrical of any mammal. Discovered in Peru, the extinct pygmy sperm whale Scaphokogia huachafo had an enormous downward-curving snout and a skull so distorted that researchers initially thought it had been damaged after death. Instead, its strange anatomy appears to have been an extraordinary evolutionary adaptation for hunting along the seafloor.",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261118065528.htm"
-    },
-    {
       "category": "AI",
       "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
       "source": "OpenAI News",
       "date": "Thu, 19 Nov 2026 08:00:00 GMT",
       "summary": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
       "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast"
-    },
-    {
-      "category": "Theology",
-      "title": "40 Great Films for Christian Parents to Watch With Their Kids",
-      "source": "The Gospel Coalition",
-      "date": "Thu, 19 Nov 2026 05:02:00 +0000",
-      "summary": "These excellent movies are enjoyable for families to watch together, but they’re also rich with values Christian parents can get behind.",
-      "url": "https://www.thegospelcoalition.org/article/40-films-christian-parents-kids/"
-    },
-    {
-      "category": "Theology",
-      "title": "Why Christianity Explains Our Deepest Longings",
-      "source": "The Gospel Coalition",
-      "date": "Thu, 19 Nov 2026 05:00:00 +0000",
-      "summary": "‘Why Christianity Makes Sense’ offers a compelling argument that Christianity explains the condition of both the world and the human heart.",
-      "url": "https://www.thegospelcoalition.org/reviews/christianity-makes-sense/"
     },
     {
       "category": "History",
@@ -249,22 +265,6 @@
       "date": "Wed, 18 Nov 2026 16:13:26 +0000",
       "summary": "On this week’s Dispatches, host Brady Crytzer interviews author Ryan L. Cole on his new book, The Last Adieu: Lafayette’s Triumphant Return, the Echoes of Revolution, and the Gratitude of the Republic. New episodes of Dispatches are available for free every Sunday evening(Eastern United States Time), first on iTunes, Stitcher, Google Play, Amazon Music, and […]\nThe post On This Week’s Dispatches: Ryan L. Cole on Lafayette’s Triumphant Return to the United States appeared first on Journal of the American Revolution.",
       "url": "https://allthingsliberty.com/2026/11/on-this-weeks-dispatches-ryan-l-cole-on-lafayettes-triumphant-return-to-the-united-states/"
-    },
-    {
-      "category": "Biblical Studies",
-      "title": "Mesopotamia’s Primeval Waters",
-      "source": "Biblical Archaeology Society",
-      "date": "Wed, 18 Nov 2026 11:45:06 +0000",
-      "summary": "Through March 15, 2027 Musée du Louvre Paris, France louvre.fr An exhibition currently on view at the Louvre is dedicated to ancient Mesopotamia’s critical relationship […]\nThe post Mesopotamia’s Primeval Waters appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/exhibits-events/mesopotamias-primeval-waters/"
-    },
-    {
-      "category": "Theology",
-      "title": "Using Exercise to Help Us Through the Dark Times (with Lindsey Bomgren)",
-      "source": "The Gospel Coalition",
-      "date": "Wed, 18 Nov 2026 05:04:28 +0000",
-      "summary": "Fitness can be a vain, selfie-driven world. Lindsey Bomgren, founder of Nourish Move Love, shares how she found her calling there: helping women get ‘strong for their tasks’ through difficult seasons and circumstances.",
-      "url": "https://www.thegospelcoalition.org/podcasts/your-corner-of-the-world/exercise-help-dark-lindsey-bomgren/"
     },
     {
       "category": "History",
