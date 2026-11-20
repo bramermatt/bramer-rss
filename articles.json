@@ -1,118 +1,142 @@
 {
-  "lastUpdated": "2026-11-19T18:45:20.554Z",
+  "lastUpdated": "2026-11-20T02:46:31.609Z",
   "articleCount": 39,
   "articles": [
     {
+      "category": "Science",
+      "title": "Building structured-light systems in three dimensions",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Thu, 19 Nov 2026 21:40:01 EST",
+      "summary": "Structured light has become an important tool across modern optics. By shaping properties such as amplitude, phase, polarization and spatial mode, researchers can create light fields with capabilities beyond those of conventional laser beams. These engineered light fields are finding applications in communications, imaging, sensing, optical computing and quantum photonics. However, many structured-light systems still rely on multiple discrete optical components that require careful alignment and occupy significant space.",
+      "url": "https://phys.org/news/2026-11-dimensions.html"
+    },
+    {
+      "category": "Science",
+      "title": "Innovative technology offers a bold new vision for monitoring ocean health",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Thu, 19 Nov 2026 21:20:06 EST",
+      "summary": "On an early October morning, as MBARI's research vessel Paragon left Moss Landing with three robots loaded on its deck, Monterey Bay was showing off.",
+      "url": "https://phys.org/news/2026-11-technology-bold-vision-ocean-health.html"
+    },
+    {
       "category": "AI",
-      "title": "LLMs will provide accurate climate info, except when they won’t",
+      "title": "OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)",
+      "source": "Hacker News: Front Page",
+      "date": "Fri, 20 Nov 2026 02:01:09 +0000",
+      "summary": "Article URL: https://github.com/openssl/openssl/pull/33652\nComments URL: https://news.ycombinator.com/item?id=50569226\nPoints: 9\n# Comments: 0",
+      "url": "https://github.com/openssl/openssl/pull/33652"
+    },
+    {
+      "category": "Science",
+      "title": "New mondo grass species found in Yunnan",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Thu, 19 Nov 2026 21:00:06 EST",
+      "summary": "Botanists have described a new Ophiopogon species from the Yunnan Wenshan National Nature Reserve in southeastern China. They named it Ophiopogon longiscapus for its unusually long flowering stalk, or scape.",
+      "url": "https://phys.org/news/2026-11-mondo-grass-species-yunnan.html"
+    },
+    {
+      "category": "AI",
+      "title": "Vint Cerf on why TCP/IP was never patented",
+      "source": "Hacker News: Front Page",
+      "date": "Fri, 20 Nov 2026 01:06:12 +0000",
+      "summary": "Article URL: https://seremot.com/p/vint-cerf-on-why-tcpip-was-never\nComments URL: https://news.ycombinator.com/item?id=50568861\nPoints: 11\n# Comments: 3",
+      "url": "https://seremot.com/p/vint-cerf-on-why-tcpip-was-never"
+    },
+    {
+      "category": "AI",
+      "title": "Postgres 19 is out, and it's available on Neon and Databricks Lakebase",
+      "source": "Hacker News: Front Page",
+      "date": "Fri, 20 Nov 2026 00:37:31 +0000",
+      "summary": "Article URL: https://www.databricks.com/blog/postgresql-19-available-lakebase\nComments URL: https://news.ycombinator.com/item?id=50568643\nPoints: 5\n# Comments: 3",
+      "url": "https://www.databricks.com/blog/postgresql-19-available-lakebase"
+    },
+    {
+      "category": "Science",
+      "title": "Experimental compound burns fat without sacrificing muscle",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Thu, 19 Nov 2026 19:19:49 EST",
+      "summary": "Researchers at UC Berkeley have identified a compound that could transform weight-loss treatment by helping the body burn more energy instead of suppressing appetite like Ozempic and Wegovy. In mice, the compound boosted energy expenditure by up to 18%, improved blood sugar control, reduced liver fat, and promoted weight loss without significant muscle loss. Even more promising, combining it with existing GLP-1 medications produced greater benefits than either treatment alone.",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261118073918.htm"
+    },
+    {
+      "category": "Space",
+      "title": " Voyager 1 team, unbowed by communications glitch, celebrates epic 1-light-day distance milestone ",
+      "source": " Latest from Space.com ",
+      "date": "Thu, 19 Nov 2026 23:42:03 +0000",
+      "summary": "The Voyager 1 team celebrated the probe's big distance milestone on Thursday (Nov. 19), even while dealing with a communication anomaly that recently cropped up on the probe.",
+      "url": "https://www.space.com/space-exploration/voyager/voyager-1-team-unbowed-by-communications-glitch-celebrates-epic-1-light-day-distance-milestone"
+    },
+    {
+      "category": "Space",
+      "title": " On this day in space! Nov. 19, 2005: Japan's Hayabusa spacecraft makes 1st-ever liftoff from surface of an asteroid ",
+      "source": " Latest from Space.com ",
+      "date": "Thu, 19 Nov 2026 22:53:16 +0000",
+      "summary": "On Nov. 19, 2005, the Japanese Hayabusa spacecraft made the first liftoff from an asteroid. Here's why it mattered.",
+      "url": "https://www.space.com/space-exploration/on-this-day-in-space-november-19-2005"
+    },
+    {
+      "category": "AI",
+      "title": "Amazon fights the Delivery Protection Act with homepage banner, in-app pop-up",
       "source": "Ars Technica",
-      "date": "Thu, 19 Nov 2026 18:44:39 +0000",
-      "summary": "Some models fare better, but all fail in similar ways.",
-      "url": "https://arstechnica.com/science/2026/11/llms-will-provide-accurate-climate-info-except-when-they-wont/"
+      "date": "Thu, 19 Nov 2026 22:16:37 +0000",
+      "summary": "Amazon now uses its shopping platform for political purposes.",
+      "url": "https://arstechnica.com/tech-policy/2026/11/amazon-takes-its-fight-against-nyc-delivery-bill-to-shoppers-with-in-app-pop-up/"
     },
     {
       "category": "Science",
-      "title": "Why using a chatbot as your lawyer is a risky move—and ties up our court system",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Thu, 19 Nov 2026 13:40:24 EST",
-      "summary": "In the Federal Court of Australia, applications by self-represented litigants, many using artificial intelligence to research and draft their claims, have skyrocketed.",
-      "url": "https://phys.org/news/2026-11-chatbot-lawyer-risky-court.html"
-    },
-    {
-      "category": "Science",
-      "title": "Weight-loss drugs could reduce deaths and ease pressure on agricultural land by 2050",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Thu, 19 Nov 2026 13:40:15 EST",
-      "summary": "New research from the University of Aberdeen suggests weight-loss medications could deliver a double benefit, improving people's health while also helping the environment.",
-      "url": "https://phys.org/news/2026-11-weight-loss-drugs-deaths-ease.html"
-    },
-    {
-      "category": "Science",
-      "title": "Cincinnati Zoo hopes a little shake will help Fiona the hippo pass a swallowed hat",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Thu, 19 Nov 2026 13:34:31 EST",
-      "summary": "The Cincinnati Zoo's animal care team has been working for days to help its beloved hippo Fiona safely digest and pass a knit cap she swallowed.",
-      "url": "https://phys.org/news/2026-11-cincinnati-zoo-fiona-hippo-swallowed.html"
-    },
-    {
-      "category": "Science",
-      "title": " Rare swarm of asteroids from the solar system’s youth found trailing Neptune around the sun ",
+      "title": " 'I would want to know my horse's backstory': Live Science readers share which animals they'd want to speak with ",
       "source": " Latest from Live Science ",
-      "date": "Thu, 19 Nov 2026 18:27:15 +0000",
-      "summary": "Astronomers have found two rare asteroids trailing Neptune in Vera C. Rubin Observatory data. The rocks, called Neptune's L5 Trojans, could illuminate the conditions of the infant solar system.",
-      "url": "https://www.livescience.com/space/asteroids/rubin-observatory-finds-ultra-rare-asteroids-from-the-solar-systems-youth-trailing-neptune-around-the-sun"
+      "date": "Thu, 19 Nov 2026 22:03:04 +0000",
+      "summary": "Recently, Live Science asked its readers which animal they'd want to communicate with, based on a new study that leveraged AI to decode different vocalizations of zebra finches.",
+      "url": "https://www.livescience.com/animals/i-would-want-to-know-my-horses-backstory-live-science-readers-share-which-animals-theyd-want-to-speak-with"
+    },
+    {
+      "category": "Space",
+      "title": " The view from the tower: Watch Starship come in for chopsticks catch in epic slo-mo video ",
+      "source": " Latest from Space.com ",
+      "date": "Thu, 19 Nov 2026 22:00:00 +0000",
+      "summary": "A new set of slo-mo videos gives us a tower's-eye view of the first-ever catch of a Starship upper stage, a milestone SpaceX achieved last weekend.",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/the-view-from-the-tower-watch-starship-come-in-for-chopsticks-catch-in-epic-slo-mo-video"
+    },
+    {
+      "category": "Science",
+      "title": " Voyager 1 stops sending science data ahead of its light-day milestone — but NASA has a plan ",
+      "source": " Latest from Live Science ",
+      "date": "Thu, 19 Nov 2026 21:49:56 +0000",
+      "summary": "NASA's Voyager 1 spacecraft just reached 1 light-day from our planet, but a newfound glitch in the probe's onboard computer is preventing it from sharing science data with Earth.",
+      "url": "https://www.livescience.com/space/space-exploration/computer-glitch-prevents-voyager-1-from-sharing-science-data-on-its-light-day-milestone"
     },
     {
       "category": "AI",
-      "title": "Chile: UFO Sightings by 18th Century Jesuits",
-      "source": "Hacker News: Front Page",
-      "date": "Thu, 19 Nov 2026 18:26:28 +0000",
-      "summary": "Article URL: https://inexplicata.blogspot.com/2026/08/chile-ufo-sightings-by-18th-century.html\nComments URL: https://news.ycombinator.com/item?id=50564004\nPoints: 4\n# Comments: 0",
-      "url": "https://inexplicata.blogspot.com/2026/08/chile-ufo-sightings-by-18th-century.html"
-    },
-    {
-      "category": "AI",
-      "title": "Google will launch Android app verification requirement globally in January 2027",
+      "title": "MAHA PAC spent more on steak, luxury club than candidates, report shows",
       "source": "Ars Technica",
-      "date": "Thu, 19 Nov 2026 18:00:33 +0000",
-      "summary": "Google says almost all developers have already gotten on board with verification.",
-      "url": "https://arstechnica.com/gadgets/2026/11/google-will-launch-android-app-verification-requirement-globally-in-january-2027/"
-    },
-    {
-      "category": "Science",
-      "title": " Dinosaur quiz: Can you name these 12 dinosaurs? ",
-      "source": " Latest from Live Science ",
-      "date": "Thu, 19 Nov 2026 17:57:11 +0000",
-      "summary": "Can you name all 12 dinosaurs in this science quiz?",
-      "url": "https://www.livescience.com/animals/dinosaurs/dinosaur-quiz-can-you-name-these-12-dinosaurs"
+      "date": "Thu, 19 Nov 2026 21:19:12 +0000",
+      "summary": "Expert called MAHA's spending \"pretty unusual\" for a PAC.",
+      "url": "https://arstechnica.com/health/2026/11/maha-pac-spent-more-on-steak-luxury-club-than-candidates-report-shows/"
     },
     {
       "category": "AI",
-      "title": "Claude Fable 5.2 solves two open problems in the physics of black holes",
-      "source": "Hacker News: Front Page",
-      "date": "Thu, 19 Nov 2026 17:30:44 +0000",
-      "summary": "Article URL: https://www.anthropic.com/research/claude-black-hole-physics\nComments URL: https://news.ycombinator.com/item?id=50563148\nPoints: 100\n# Comments: 17",
-      "url": "https://www.anthropic.com/research/claude-black-hole-physics"
-    },
-    {
-      "category": "Space",
-      "title": " Get $400 off the first Vaonis Vespera Pro model ahead of Black Friday — only eight left in stock ",
-      "source": " Latest from Space.com ",
-      "date": "Thu, 19 Nov 2026 17:08:25 +0000",
-      "summary": "Amazon is selling the Vaonis Vespera Pro for $2,549, ahead of Black Friday on Nov. 27. It's a great model for professional astrophotography with high-quality imagery of deep space objects.",
-      "url": "https://www.space.com/stargazing/skywatching-kit/get-400-off-the-first-vaonis-vespera-pro-model-ahead-of-black-friday-2026"
-    },
-    {
-      "category": "AI",
-      "title": "Anthropic hits $2T in Nasdaq debut",
-      "source": "Hacker News: Front Page",
-      "date": "Thu, 19 Nov 2026 17:02:40 +0000",
-      "summary": "Article URL: https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/\nComments URL: https://news.ycombinator.com/item?id=50562754\nPoints: 221\n# Comments: 301",
-      "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/"
+      "title": "Man hired by Russia spied on Silicon Valley tech and defense company, feds say",
+      "source": "Ars Technica",
+      "date": "Thu, 19 Nov 2026 20:29:46 +0000",
+      "summary": "25-year-old accused of stalking employees at coffee shop and in an \"aggressive\" car pursuit.",
+      "url": "https://arstechnica.com/security/2026/11/man-charged-with-spying-on-silicon-valley-tech-and-defense-company-for-russia/"
     },
     {
       "category": "Science",
-      "title": " What if space and time don’t exist? Physicists are chasing hints that our reality emerges from something deeper ",
+      "title": " New study rewrites the role of a major speech hub in the brain ",
       "source": " Latest from Live Science ",
-      "date": "Thu, 19 Nov 2026 17:00:00 +0000",
-      "summary": "Space and time seem like the bedrock of reality. But startling clues are leading physicists toward the possibility that something stranger lies beneath.",
-      "url": "https://www.livescience.com/physics-mathematics/what-if-space-and-time-dont-exist-physicists-are-chasing-hints-that-our-reality-emerges-from-something-deeper"
+      "date": "Thu, 19 Nov 2026 20:24:33 +0000",
+      "summary": "Wernicke's area was thought to be mostly linked to understanding speech. A landmark new study has something more to say.",
+      "url": "https://www.livescience.com/health/neuroscience/new-study-rewrites-the-role-of-a-major-speech-hub-in-the-brain"
     },
     {
       "category": "Space",
-      "title": " Don't miss Saturn shine close to the moon on Nov. 20 ",
-      "source": " Latest from Space.com ",
-      "date": "Thu, 19 Nov 2026 17:00:00 +0000",
-      "summary": "The moon shines with Saturn in the constellation Pisces after sunset on Nov. 20",
-      "url": "https://www.space.com/stargazing/dont-miss-saturn-shine-close-to-the-moon-on-nov-20"
-    },
-    {
-      "category": "Space",
-      "title": " Netflix's '3 Body Problem' season 2 trailer gives us a release date and a chilling warning: 'They are coming to exterminate us' ",
-      "source": " Latest from Space.com ",
-      "date": "Thu, 19 Nov 2026 16:00:00 +0000",
-      "summary": "'They haven’t traveled 24 trillion miles to negotiate. They are coming to exterminate us.'",
-      "url": "https://www.space.com/entertainment/space-movies-shows/netflixs-3-body-problem-season-2-trailer-gives-us-a-release-date-and-a-chilling-warning-they-are-coming-to-exterminate-us"
+      "title": "Challenge: Public Input on Life and the World in 2075",
+      "source": "NASA",
+      "date": "Thu, 19 Nov 2026 19:34:20 +0000",
+      "summary": "NASA’s Transformational Tools and Technologies (TTT) is gathering public perspectives on life today and how the world may change by 2075. This challenge asks for conceptual ideas about life in 2075 across four challenge topics. Ideas should explore how future aviation or aerospace systems could: Ideas should be conceptual rather than technical. Award: $20,000 in […]",
+      "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/challenge-public-input-on-life-and-the-world-in-2075/"
     },
     {
       "category": "Space",
@@ -129,22 +153,6 @@
       "date": "Thu, 19 Nov 2026 15:32:39 +0000",
       "summary": "An astronaut on the International Space Station captured this photograph of Lake Pelku (near center) as the station orbited above Asia. The International Space Station serves as a unique platform for observing Earth with both hands-on and automated equipment. Station crew members have produced hundreds of thousands of images. These images record phenomena in real […]",
       "url": "https://www.nasa.gov/image-article/lake-pelku/"
-    },
-    {
-      "category": "Space",
-      "title": "NASA Conducts Latest RS-25 Engine Test in Support of Future Artemis Missions",
-      "source": "NASA",
-      "date": "Thu, 19 Nov 2026 14:44:39 +0000",
-      "summary": "NASA tested RS-25 engine No. 10001 on Nov. 18 on the Fred Haise Test Stand at NASA’s Stennis Space Center near Bay St. Louis, Mississippi. Test teams fired the developmental engine for the planned duration of three minutes and 20 seconds (200 seconds). While this developmental engine will not be used in flight, the hot […]",
-      "url": "https://www.nasa.gov/image-article/latest-rs-25-engine-test-in-support-of-future-artemis-missions/"
-    },
-    {
-      "category": "AI",
-      "title": "Mouse fight club might explain why we like to watch violent things",
-      "source": "Ars Technica",
-      "date": "Thu, 19 Nov 2026 14:04:38 +0000",
-      "summary": "Watching fights wasn't as good as practical experience, but it got the mice halfway there.",
-      "url": "https://arstechnica.com/science/2026/11/watching-mouse-fight-club-teaches-the-critters-how-to-fight/"
     },
     {
       "category": "Biblical Studies",
@@ -203,20 +211,28 @@
       "url": "https://www.thegospelcoalition.org/reviews/christianity-makes-sense/"
     },
     {
-      "category": "Science",
-      "title": "Is free will an illusion? New brain research reveals a surprising twist",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Wed, 18 Nov 2026 20:21:35 EST",
-      "summary": "New research reveals that the brain makes free choices and forced decisions using surprisingly similar neural processes, with activity building toward a decision before we act. The discovery challenges assumptions about free will while suggesting that our personal preferences and experiences still shape what we choose.",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261118065524.htm"
-    },
-    {
       "category": "History",
       "title": "The Americans Who Reached Mobile Too Late",
       "source": "Journal of the American Revolution",
       "date": "Thu, 19 Nov 2026 01:00:42 +0000",
       "summary": "At ten o’clock on the morning of March 14, 1780, the British garrison of Fort Charlotte marched out with drums beating and surrendered Mobile to Spain. Bernardo de Gálvez, the governor of Spanish Louisiana, led his troops into the fort, raised Spanish colors and began the inventories that turned conquest into possession. Only then did […]\nThe post The Americans Who Reached Mobile Too Late appeared first on Journal of the American Revolution.",
       "url": "https://allthingsliberty.com/2026/11/the-americans-who-reached-mobile-too-late/"
+    },
+    {
+      "category": "AI",
+      "title": "Deploying Daybreak Red",
+      "source": "OpenAI News",
+      "date": "Thu, 19 Nov 2026 00:00:00 GMT",
+      "summary": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
+      "url": "https://openai.com/business/learn/deploying-daybreak-red"
+    },
+    {
+      "category": "AI",
+      "title": "See PR scans in action",
+      "source": "OpenAI News",
+      "date": "Thu, 19 Nov 2026 00:00:00 GMT",
+      "summary": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.",
+      "url": "https://openai.com/business/learn/pr-scans-demo"
     },
     {
       "category": "Theology",
@@ -241,22 +257,6 @@
       "date": "Wed, 18 Nov 2026 11:45:06 +0000",
       "summary": "Through March 15, 2027 Musée du Louvre Paris, France louvre.fr An exhibition currently on view at the Louvre is dedicated to ancient Mesopotamia’s critical relationship […]\nThe post Mesopotamia’s Primeval Waters appeared first on Biblical Archaeology Society.",
       "url": "https://www.biblicalarchaeology.org/exhibits-events/mesopotamias-primeval-waters/"
-    },
-    {
-      "category": "AI",
-      "title": "The Silent Consensus",
-      "source": "OpenAI News",
-      "date": "Wed, 18 Nov 2026 10:00:00 GMT",
-      "summary": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
-      "url": "https://openai.com/index/the-silent-consensus"
-    },
-    {
-      "category": "AI",
-      "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
-      "source": "OpenAI News",
-      "date": "Wed, 18 Nov 2026 08:00:00 GMT",
-      "summary": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
-      "url": "https://openai.com/business/customer-stories/sumitomo-life"
     },
     {
       "category": "Theology",
