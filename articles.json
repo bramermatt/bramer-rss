@@ -1,70 +1,142 @@
 {
-  "lastUpdated": "2026-11-21T02:56:22.486Z",
-  "articleCount": 39,
+  "lastUpdated": "2026-11-21T17:01:30.719Z",
+  "articleCount": 36,
   "articles": [
     {
+      "category": "Space",
+      "title": " On this day in space! Nov. 21, 1676: Danish astronomer discovers speed of light — by accident — while observing Jupiter's moon Io ",
+      "source": " Latest from Space.com ",
+      "date": "Sat, 21 Nov 2026 16:20:37 +0000",
+      "summary": "On Nov. 21, 1676, the Danish astronomer Ole Rømer discovered the speed of lightwhile observing Jupiter and its moon volcanic moon Io. Here's why it mattered.",
+      "url": "https://www.space.com/space-exploration/on-this-day-in-space-november-21-2026"
+    },
+    {
       "category": "Science",
-      "title": "NASA’s Voyager 1 is now so far away that light takes 24 hours to reach it",
+      "title": " 'Like walking the plank': For 3,000 years, Indigenous people herded bison off a unique cliff in Texas, study reveals ",
+      "source": " Latest from Live Science ",
+      "date": "Sat, 21 Nov 2026 16:00:00 +0000",
+      "summary": "At a cliff site in Texas, archaeologists discovered hundreds of bison bones, stone tools and arrowheads, suggesting Indigenous people used \"bison jumps\" to hunt.",
+      "url": "https://www.livescience.com/archaeology/americas/like-walking-the-plank-for-3-000-years-indigenous-people-herded-bison-off-a-unique-cliff-in-texas-study-reveals"
+    },
+    {
+      "category": "Science",
+      "title": "Babies in ancient Greek colony started solid food at 3 months but nursed for nearly 4 years, chemical signatures suggest",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sat, 21 Nov 2026 10:40:02 EST",
+      "summary": "Over 2,500 years ago, Himera was a Greek colony inhabited by local Sicilians, Phoenicians and Greeks. Despite their diverse cultural backgrounds, they all shared one thing: they began weaning their babies early and continued for a long time.",
+      "url": "https://phys.org/news/2026-11-babies-ancient-greek-colony-solid.html"
+    },
+    {
+      "category": "AI",
+      "title": "Show HN: Zero C#, Power of C# without any GC",
+      "source": "Hacker News: Front Page",
+      "date": "Sat, 21 Nov 2026 15:39:09 +0000",
+      "summary": "Article URL: https://onurgumus.github.io/zero-csharp/index.html\nComments URL: https://news.ycombinator.com/item?id=50590279\nPoints: 27\n# Comments: 18",
+      "url": "https://onurgumus.github.io/zero-csharp/index.html"
+    },
+    {
+      "category": "Space",
+      "title": " This Week In Space podcast: Episode 237 — A Fond Farewell ",
+      "source": " Latest from Space.com ",
+      "date": "Sat, 21 Nov 2026 15:15:26 +0000",
+      "summary": "On Episode 237 of This Week In Space, Tariq Malik and Rod Pyle sign off — temporarily — with a look at space news, a bushel of space jokes, and a recap of some of our funniest moments.",
+      "url": "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-237-a-fond-farewell"
+    },
+    {
+      "category": "Science",
+      "title": "Time may be far stranger than we realize. Scientists have a way to test it",
       "source": "All Top News -- ScienceDaily",
-      "date": "Fri, 20 Nov 2026 21:24:22 EST",
-      "summary": "NASA’s Voyager 1 has reached an extraordinary milestone, traveling 16.1 billion miles from Earth to become the first spacecraft so distant that its signals take a full day to reach us. Nearly 50 years after launch, the aging probe continues its historic journey through interstellar space, pushing the limits of human exploration despite dwindling power and technical challenges.",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261120075554.htm"
+      "date": "Sat, 21 Nov 2026 10:09:46 EST",
+      "summary": "Time may be far stranger than we realize, and scientists have proposed a way to detect clocks experiencing multiple flows of time simultaneously. Using atomic clocks with dramatically enhanced sensitivity, researchers hope to reveal a never-before-observed quantum effect that could transform our understanding of time and gravity.",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261120075558.htm"
     },
     {
       "category": "Science",
-      "title": "After 8 years in space, a groundbreaking X-ray telescope finally opens its eyes",
+      "title": " Winter stargazing 2026: The best skywatching sights this winter (and how to see them) ",
+      "source": " Latest from Live Science ",
+      "date": "Sat, 21 Nov 2026 15:00:00 +0000",
+      "summary": "All the must-see supermoons, meteor showers, star clusters, constellations and deep sky objects this winter — and the gear you need to see them.",
+      "url": "https://www.livescience.com/space/winter-stargazing-the-best-skywatching-sights-this-winter-and-how-to-see-them"
+    },
+    {
+      "category": "Space",
+      "title": " 'Star Trek: First Contact' at 30: Resistance is futile when it comes to the 'Next Generation' crew's greatest big-screen adventure ",
+      "source": " Latest from Space.com ",
+      "date": "Sat, 21 Nov 2026 15:00:00 +0000",
+      "summary": "Assimilate this! How cyber-zombies and the \"birth of 'Star Trek'\" gave Jean-Luc Picard one of his finest hours.",
+      "url": "https://www.space.com/entertainment/space-movies-shows/star-trek-first-contact-at-30-resistance-is-futile-when-it-comes-to-the-next-generation-crews-greatest-big-screen-adventure"
+    },
+    {
+      "category": "Science",
+      "title": "A giant star swallowed another star. James Webb reveals the aftermath",
       "source": "All Top News -- ScienceDaily",
-      "date": "Fri, 20 Nov 2026 21:11:14 EST",
-      "summary": "After eight years and 10 billion kilometers in space, a groundbreaking X-ray telescope heading to Mercury has captured its first cosmic observations and is performing even better than scientists expected. The instrument could soon reveal Mercury's hidden chemical secrets and transform our understanding of how the solar system's smallest planet formed.",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261120075547.htm"
-    },
-    {
-      "category": "Science",
-      "title": "The call of the seamount: Two new armored tardigrades described in the Atlantic",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Fri, 20 Nov 2026 21:00:01 EST",
-      "summary": "An international team led by researchers from Senckenberg am Meer in Wilhelmshaven has described two new species of marine tardigrades. The tiny marine organisms were discovered in the sediment of the Senghor Seamount off the coast of Cape Verde. According to the researchers, the discovery underscores the role of undersea mountains as oases of biodiversity. The study, which includes comprehensive taxonomic descriptions of the new species, has been published in the journal \"ZooKeys.\"",
-      "url": "https://phys.org/news/2026-11-seamount-armored-tardigrades-atlantic.html"
+      "date": "Sat, 21 Nov 2026 09:53:40 EST",
+      "summary": "Astronomers have witnessed a spectacular cosmic collision in the Andromeda galaxy, where a small star spiraled into a giant star 18,000 times brighter than the Sun, triggering a violent eruption. NASA’s James Webb Space Telescope captured the aftermath just 47 days later, revealing new details about how two stars can merge into one.",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261120075556.htm"
     },
     {
       "category": "AI",
-      "title": "Integrals of Polynomials with Galois Group S_p",
+      "title": "Lean Verification of the Riemann Hypothesis - Joint statement by...",
       "source": "Hacker News: Front Page",
-      "date": "Sat, 21 Nov 2026 01:17:05 +0000",
-      "summary": "Article URL: https://m-slee.netlify.app/posts/integrals-galois-polynomials\nComments URL: https://news.ycombinator.com/item?id=50584776\nPoints: 6\n# Comments: 1",
-      "url": "https://m-slee.netlify.app/posts/integrals-galois-polynomials"
+      "date": "Sat, 21 Nov 2026 14:36:45 +0000",
+      "summary": "Article URL: https://leanprover-community.github.io/blog/posts/riemann-hypothesis/\nComments URL: https://news.ycombinator.com/item?id=50589618\nPoints: 271\n# Comments: 200",
+      "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/"
     },
     {
       "category": "Science",
-      "title": "Broadening the role of RNA: A messenger, a mediator and now a condensate coordinator",
+      "title": "An ancient failed rift is reawakening inside one of Africa's oldest landmasses",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Fri, 20 Nov 2026 19:40:01 EST",
-      "summary": "New research about condensates—cellular compartments that act as hubs for facilitating biological reactions—continues to reveal novel insights into how cells function. Among those continuing to push the field forward are members of the Marine Biological Laboratory's condensate consortium, including Amy Gladfelter, a professor at Duke University and current co-director of the MBL physiology course, and former MBL physiology course student and past MBL Whitman fellow Dragomir Milovanovic, a professor at the Charité Berlin University Institute of Biochemistry.",
-      "url": "https://phys.org/news/2026-11-broadening-role-rna-messenger-condensate.html"
-    },
-    {
-      "category": "AI",
-      "title": "Re: Riemann",
-      "source": "Hacker News: Front Page",
-      "date": "Fri, 20 Nov 2026 23:42:44 +0000",
-      "summary": "Article URL: https://borretti.me/article/re-riemann\nComments URL: https://news.ycombinator.com/item?id=50583982\nPoints: 144\n# Comments: 129",
-      "url": "https://borretti.me/article/re-riemann"
-    },
-    {
-      "category": "AI",
-      "title": "Serious cyberattack thought backed by wealthy operators",
-      "source": "Hacker News: Front Page",
-      "date": "Fri, 20 Nov 2026 23:29:30 +0000",
-      "summary": "Article URL: https://www.ruv.is/english/2026-11-20-serious-cyberattack-thought-backed-by-wealthy-operators-493411\nComments URL: https://news.ycombinator.com/item?id=50583856\nPoints: 23\n# Comments: 8",
-      "url": "https://www.ruv.is/english/2026-11-20-serious-cyberattack-thought-backed-by-wealthy-operators-493411"
+      "date": "Sat, 21 Nov 2026 09:00:06 EST",
+      "summary": "In April 2017, a magnitude 6.5 earthquake shook southern Africa from an unlikely place: the middle of the Kalahari Craton in eastern Botswana. Cratons are the ancient cores of continents, and this one is built from blocks of crust up to 3.7 billion years old. Geologists have long considered such regions too cold, too thick and too rigid to tear apart.",
+      "url": "https://phys.org/news/2026-11-ancient-rift-reawakening-africa-oldest.html"
     },
     {
       "category": "Science",
-      "title": "'Forever' chemicals? Don't be so sure, says engineer",
+      "title": " Meet the science adviser behind Netflix's hit series 'Below' ",
+      "source": " Latest from Live Science ",
+      "date": "Sat, 21 Nov 2026 14:00:00 +0000",
+      "summary": "Live Science spoke with marine biologist Annie Mercier about her role as a science adviser for Netflix's show \"Below.\"",
+      "url": "https://www.livescience.com/animals/aquatic-animals/meet-the-science-adviser-behind-netflixs-hit-series-below"
+    },
+    {
+      "category": "AI",
+      "title": "Derek Lowe: Detonating a Pile of Lead Azide",
+      "source": "Hacker News: Front Page",
+      "date": "Sat, 21 Nov 2026 13:23:14 +0000",
+      "summary": "Article URL: https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really\nComments URL: https://news.ycombinator.com/item?id=50588982\nPoints: 261\n# Comments: 143",
+      "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really"
+    },
+    {
+      "category": "Science",
+      "title": "Fermi's 14-year all-sky map bridges astronomy's elusive 'MeV gap'",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Fri, 20 Nov 2026 17:40:02 EST",
-      "summary": "Inside the disinfection room of Baltimore's Ashburton water filtration plant, 14 University of Maryland students clad in hard hats peered up at six towering vats of bleach used to treat water that flows from the distant Liberty Reservoir into the facility, killing bacteria and other pathogens before it's routed to the region's kitchen sinks.",
-      "url": "https://phys.org/news/2026-11-chemicals-dont.html"
+      "date": "Sat, 21 Nov 2026 08:00:10 EST",
+      "summary": "Gamma rays, the most high-energy type of electromagnetic radiation in the universe, have always had a blind spot. We've always had trouble measuring them in the \"megaelectronvolt\" (MeV) energy range, which astronomers have taken to calling the \"MeV gap.\" But a new paper from an international group of scientists working with the Fermi Large Area Telescope (LAT) Collaboration, recently published in The Astrophysical Journal Supplement Series, takes a stab at closing that gap by identifying 450 cosmic sources in the 20–200 MeV range, providing the clearest view of low-energy gamma rays ever.",
+      "url": "https://phys.org/news/2026-11-fermi-year-sky-bridges-astronomy.html"
+    },
+    {
+      "category": "AI",
+      "title": "“Race realism” isn’t realistic—and it isn’t good science",
+      "source": "Ars Technica",
+      "date": "Sat, 21 Nov 2026 12:01:13 +0000",
+      "summary": "Modern genetics does not support claims of innate racial differences in intelligence.",
+      "url": "https://arstechnica.com/science/2026/11/race-realism-isnt-realistic-and-it-isnt-good-science/"
+    },
+    {
+      "category": "Theology",
+      "title": "In the Darkness, Christmas Shines a Light",
+      "source": "The Gospel Coalition",
+      "date": "Sat, 21 Nov 2026 05:02:00 +0000",
+      "summary": "The general revelation of God’s created order—darkness and light, night and day—primes every created thing to know they need light, a salvation from outside themselves.",
+      "url": "https://www.thegospelcoalition.org/article/darkness-christmas-light/"
+    },
+    {
+      "category": "Theology",
+      "title": "Editor’s Pick: Middle-Grade Books",
+      "source": "The Gospel Coalition",
+      "date": "Sat, 21 Nov 2026 05:00:00 +0000",
+      "summary": "The best children’s literature does more than preach to us; it draws us into the story while pointing toward truth, goodness, and beauty.",
+      "url": "https://www.thegospelcoalition.org/reviews/editors-pick-middle-grade-books/"
     },
     {
       "category": "AI",
@@ -75,14 +147,6 @@
       "url": "https://arstechnica.com/tech-policy/2026/11/fcc-orders-california-to-stop-enforcing-phone-service-rules-against-att/"
     },
     {
-      "category": "Space",
-      "title": "Curiosity Spots Drifting Twilight Clouds",
-      "source": "NASA",
-      "date": "Fri, 20 Nov 2026 22:27:05 +0000",
-      "summary": "Description NASA’s Curiosity Mars rover captured these drifting clouds on Oct. 31, 2026, the 5,061st Martian day, or sol, of the mission. The rover uses its navigation cameras to capture post-sunset clouds, called twilight clouds, which appear for only a short time each fall over Gale Crater, which it has been exploring for more than […]",
-      "url": "https://science.nasa.gov/photojournal/curiosity-spots-drifting-twilight-clouds/"
-    },
-    {
       "category": "AI",
       "title": "SpaceX's Starshield troubles in Ukraine could threaten its broader military business",
       "source": "Ars Technica",
@@ -91,76 +155,12 @@
       "url": "https://arstechnica.com/space/2026/11/incoming-house-chair-threatens-spacex-funding-over-ukraine-controversy/"
     },
     {
-      "category": "AI",
-      "title": "Google rolls out new search homepage with AI chat history and no search button",
-      "source": "Ars Technica",
-      "date": "Fri, 20 Nov 2026 21:58:29 +0000",
-      "summary": "Google search is making it even easier to access AI tools on the search page.",
-      "url": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/"
-    },
-    {
       "category": "Science",
-      "title": " Brains of people with PTSD have unique epigenetic marks, study finds ",
-      "source": " Latest from Live Science ",
-      "date": "Fri, 20 Nov 2026 21:50:00 +0000",
-      "summary": "The brains of people with PTSD bear molecular changes that differ from those in people with other conditions, like depression, a new study finds.",
-      "url": "https://www.livescience.com/health/genetics/brains-of-people-with-ptsd-have-unique-epigenetic-marks-study-finds"
-    },
-    {
-      "category": "Space",
-      "title": " On this day in space! Nov. 20, 1998:  Russia launches 1st module of International Space Station as construction begins on the largest human-built structure in orbit ",
-      "source": " Latest from Space.com ",
-      "date": "Fri, 20 Nov 2026 21:19:33 +0000",
-      "summary": "On Nov. 20, 1998, the first piece of the International Space Station launched into orbit. It was just one piece, but the foundation of something much larger.",
-      "url": "https://www.space.com/space-exploration/on-this-day-in-space-november-20-2026"
-    },
-    {
-      "category": "Space",
-      "title": " Don't turn the moon into the Wild West, scientists warn ",
-      "source": " Latest from Space.com ",
-      "date": "Fri, 20 Nov 2026 21:00:00 +0000",
-      "summary": "Researchers are calling for a moratorium on industrial exploitation of the moon, fearing the lunar environment may suffer irreversible damage if things move too fast.",
-      "url": "https://www.space.com/astronomy/moon/dont-turn-the-moon-into-the-wild-west-scientists-warn"
-    },
-    {
-      "category": "Space",
-      "title": "New NASA Seed Funding Primes Small Businesses for Innovation",
-      "source": "NASA",
-      "date": "Fri, 20 Nov 2026 20:46:14 +0000",
-      "summary": "Awards to small businesses around the country are addressing some of NASA’s most crucial technology needs for exploration of the Moon and Mars while fueling the U.S. space economy. NASA’s Small Business Innovation Research/Small Business Technology Transfer (SBIR/STTR) program recently selected 302 innovative projects, for a total investment of up to $171 million in seed […]",
-      "url": "https://www.nasa.gov/directorates/rtmd/new-nasa-seed-funding-primes-small-businesses-for-innovation/"
-    },
-    {
-      "category": "Science",
-      "title": " Waterfall of fog spills over Mallorca cliffs in stunning winning image for Weather Photographer of the Year 2026 ",
-      "source": " Latest from Live Science ",
-      "date": "Fri, 20 Nov 2026 20:32:11 +0000",
-      "summary": "A spectacular sea of fog, a perfectly formed rainbow and dramatic lightning strikes feature among this year's winning photographs for Weather Photographer of the Year 2026.",
-      "url": "https://www.livescience.com/planet-earth/weather/waterfall-of-fog-spills-over-mallorca-cliffs-in-stunning-winning-image-for-weather-photographer-of-the-year-2026"
-    },
-    {
-      "category": "Space",
-      "title": " GTA hasn't gone to space (yet), but these sci-fi games can offer you a life of crime among the stars ",
-      "source": " Latest from Space.com ",
-      "date": "Fri, 20 Nov 2026 20:00:00 +0000",
-      "summary": "Grand Theft Auto 6 is finally out, but if you're a sci-fi aficionado looking for similar experiences set in outer space, there are several alternatives.",
-      "url": "https://www.space.com/entertainment/space-games/gta-hasnt-gone-to-space-yet-but-these-sci-fi-games-can-offer-you-a-life-of-crime-among-the-stars"
-    },
-    {
-      "category": "Science",
-      "title": " James Webb telescope spots giant star swallowing its companion in first-ever observations of a stellar merger ",
-      "source": " Latest from Live Science ",
-      "date": "Fri, 20 Nov 2026 17:12:24 +0000",
-      "summary": "Astronomers using the James Webb Space Telescope followed up on years-old observations to confirm the first recorded act of a giant star swallowing its companion. The stellar cannibalism occurred just next door, in the Andromeda galaxy.",
-      "url": "https://www.livescience.com/space/astronomers-spot-giant-star-swallowing-its-companion-in-first-ever-observations-of-a-stellar-merger"
-    },
-    {
-      "category": "Space",
-      "title": "NASA Honor Awards Ceremony Recognizes Employees at Stennis Space Center ",
-      "source": "NASA",
-      "date": "Fri, 20 Nov 2026 16:27:46 +0000",
-      "summary": "Employees contributing to NASA’s mission at the agency’s Stennis Space Center near Bay St. Louis, Mississippi, were recognized during the center’s Honor Awards ceremony on Nov. 18.   Presenting the awards were Christine Powell, NASA Stennis center director, and Jeremy Parsons, the agency’s Artemis program manager responsible for management and oversight of NASA’s initiative to return […]",
-      "url": "https://www.nasa.gov/centers-and-facilities/stennis/honor-awards-ceremony-at-stennis/"
+      "title": "NASA’s Voyager 1 is now so far away that light takes 24 hours to reach it",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Fri, 20 Nov 2026 07:55:54 EST",
+      "summary": "NASA’s Voyager 1 has reached an extraordinary milestone, traveling 16.1 billion miles from Earth to become the first spacecraft so distant that its signals take a full day to reach us. Nearly 50 years after launch, the aging probe continues its historic journey through interstellar space, pushing the limits of human exploration despite dwindling power and technical challenges.",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261120075554.htm"
     },
     {
       "category": "Biblical Studies",
@@ -187,36 +187,12 @@
       "url": "https://openai.com/index/combatting-adversarial-distillation"
     },
     {
-      "category": "Science",
-      "title": "Two massive stars may be secretly feeding the Milky Way’s supermassive black hole",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Fri, 20 Nov 2026 00:41:16 EST",
-      "summary": "Astronomers have traced mysterious gas clouds near the Milky Way's central supermassive black hole to a massive pair of stars whose colliding winds appear to create dense clumps of material. These clouds may eventually feed the black hole, revealing a surprising connection between stellar activity and the growth of cosmic giants.",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261119194605.htm"
-    },
-    {
       "category": "Theology",
       "title": "Discipling the Next Generation in an LGBT+ World",
       "source": "The Gospel Coalition",
       "date": "Fri, 20 Nov 2026 05:04:00 +0000",
       "summary": "In a culture filled with competing messages, how can we faithfully teach children the truth while also modeling love and compassion toward those who have rejected it?",
       "url": "https://www.thegospelcoalition.org/podcasts/tgc-podcast/discipling-next-generation-lgbt-world/"
-    },
-    {
-      "category": "Theology",
-      "title": "How to Fire Someone at a Christian Organization",
-      "source": "The Gospel Coalition",
-      "date": "Fri, 20 Nov 2026 05:02:00 +0000",
-      "summary": "If managers do their jobs well, believe that God is sovereign, and bring the love of Christ even into hard conversations, everyone will be better off.",
-      "url": "https://www.thegospelcoalition.org/article/fire-christian-organization/"
-    },
-    {
-      "category": "Theology",
-      "title": "Modernity Is Seeking a Hypergood. It’s Making Us Miserable.",
-      "source": "The Gospel Coalition",
-      "date": "Fri, 20 Nov 2026 05:00:00 +0000",
-      "summary": "Why does modernity feel unlivable? Because secularism has its own versions of monotheism and polytheism.",
-      "url": "https://www.thegospelcoalition.org/article/seeking-hypergood-miserable/"
     },
     {
       "category": "AI",
