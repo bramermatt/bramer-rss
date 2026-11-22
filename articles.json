@@ -1,7 +1,63 @@
 {
-  "lastUpdated": "2026-11-21T17:01:30.719Z",
-  "articleCount": 36,
+  "lastUpdated": "2026-11-22T01:50:23.241Z",
+  "articleCount": 39,
   "articles": [
+    {
+      "category": "Science",
+      "title": "Single feathers may reveal whether eastern black rails stay in Texas or migrate north",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sat, 21 Nov 2026 20:00:01 EST",
+      "summary": "High-stepping like you're in a marching band while dragging a rope through a wetland at night can make you wonder about your life choices. Several plastic bottles, each filled with two or three noisy cat toys, are attached to the rope. It's pitch black, and all I can hear are the cat toys jingling, the mosquitoes buzzing in my ears and the wetland grasses bouncing in the wind.",
+      "url": "https://phys.org/news/2026-11-feathers-reveal-eastern-black-rails.html"
+    },
+    {
+      "category": "AI",
+      "title": "Sandwich Simulator",
+      "source": "Hacker News: Front Page",
+      "date": "Sun, 22 Nov 2026 00:07:59 +0000",
+      "summary": "Article URL: https://stulle.app/\nComments URL: https://news.ycombinator.com/item?id=50594911\nPoints: 12\n# Comments: 2",
+      "url": "https://stulle.app/"
+    },
+    {
+      "category": "AI",
+      "title": "International UN talks on controlling use of autonomous weapons collapse",
+      "source": "Hacker News: Front Page",
+      "date": "Sat, 21 Nov 2026 23:10:21 +0000",
+      "summary": "Article URL: https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse\nComments URL: https://news.ycombinator.com/item?id=50594564\nPoints: 36\n# Comments: 10",
+      "url": "https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse"
+    },
+    {
+      "category": "AI",
+      "title": "Review: Godzilla Minus Zero joins the list of truly stellar sequels",
+      "source": "Ars Technica",
+      "date": "Sat, 21 Nov 2026 22:12:41 +0000",
+      "summary": "Director Takashi Yamazaki ups the ante by pitting Godzilla against one of the monster's greatest foes",
+      "url": "https://arstechnica.com/culture/2026/11/review-godzilla-minus-zero-is-everything-we-could-want-in-a-sequel/"
+    },
+    {
+      "category": "AI",
+      "title": "PcapAnalyzer – self-hosted pcap analyzer with 27 problem detectors",
+      "source": "Hacker News: Front Page",
+      "date": "Sat, 21 Nov 2026 22:09:58 +0000",
+      "summary": "Article URL: https://github.com/sebaandrada-cell/PcapAnalyzer\nComments URL: https://news.ycombinator.com/item?id=50594132\nPoints: 54\n# Comments: 5",
+      "url": "https://github.com/sebaandrada-cell/PcapAnalyzer"
+    },
+    {
+      "category": "Science",
+      "title": "The avian champions of long-distance migration keep surprising scientists",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sat, 21 Nov 2026 17:00:01 EST",
+      "summary": "\"The whole story began with an extinct bird from Hispaniola,\" said Min Zhao, a former postdoctoral associate at the Florida Museum of Natural History (now a postdoctoral researcher at Uppsala University).",
+      "url": "https://phys.org/news/2026-11-avian-champions-distance-migration-scientists.html"
+    },
+    {
+      "category": "Science",
+      "title": "Repeated bending strengthens sugar-based hydrogel instead of wearing it down",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sat, 21 Nov 2026 15:00:05 EST",
+      "summary": "Most materials get weaker with use. But a team led by Chenfeng Ke, a professor of chemistry in Arts & Sciences at Washington University in St. Louis, has created a polymer that defies the usual laws of wear and tear.",
+      "url": "https://phys.org/news/2026-11-sugar-based-hydrogel.html"
+    },
     {
       "category": "Space",
       "title": " On this day in space! Nov. 21, 1676: Danish astronomer discovers speed of light — by accident — while observing Jupiter's moon Io ",
@@ -17,22 +73,6 @@
       "date": "Sat, 21 Nov 2026 16:00:00 +0000",
       "summary": "At a cliff site in Texas, archaeologists discovered hundreds of bison bones, stone tools and arrowheads, suggesting Indigenous people used \"bison jumps\" to hunt.",
       "url": "https://www.livescience.com/archaeology/americas/like-walking-the-plank-for-3-000-years-indigenous-people-herded-bison-off-a-unique-cliff-in-texas-study-reveals"
-    },
-    {
-      "category": "Science",
-      "title": "Babies in ancient Greek colony started solid food at 3 months but nursed for nearly 4 years, chemical signatures suggest",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sat, 21 Nov 2026 10:40:02 EST",
-      "summary": "Over 2,500 years ago, Himera was a Greek colony inhabited by local Sicilians, Phoenicians and Greeks. Despite their diverse cultural backgrounds, they all shared one thing: they began weaning their babies early and continued for a long time.",
-      "url": "https://phys.org/news/2026-11-babies-ancient-greek-colony-solid.html"
-    },
-    {
-      "category": "AI",
-      "title": "Show HN: Zero C#, Power of C# without any GC",
-      "source": "Hacker News: Front Page",
-      "date": "Sat, 21 Nov 2026 15:39:09 +0000",
-      "summary": "Article URL: https://onurgumus.github.io/zero-csharp/index.html\nComments URL: https://news.ycombinator.com/item?id=50590279\nPoints: 27\n# Comments: 18",
-      "url": "https://onurgumus.github.io/zero-csharp/index.html"
     },
     {
       "category": "Space",
@@ -75,22 +115,6 @@
       "url": "https://www.sciencedaily.com/releases/2026/11/261120075556.htm"
     },
     {
-      "category": "AI",
-      "title": "Lean Verification of the Riemann Hypothesis - Joint statement by...",
-      "source": "Hacker News: Front Page",
-      "date": "Sat, 21 Nov 2026 14:36:45 +0000",
-      "summary": "Article URL: https://leanprover-community.github.io/blog/posts/riemann-hypothesis/\nComments URL: https://news.ycombinator.com/item?id=50589618\nPoints: 271\n# Comments: 200",
-      "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/"
-    },
-    {
-      "category": "Science",
-      "title": "An ancient failed rift is reawakening inside one of Africa's oldest landmasses",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sat, 21 Nov 2026 09:00:06 EST",
-      "summary": "In April 2017, a magnitude 6.5 earthquake shook southern Africa from an unlikely place: the middle of the Kalahari Craton in eastern Botswana. Cratons are the ancient cores of continents, and this one is built from blocks of crust up to 3.7 billion years old. Geologists have long considered such regions too cold, too thick and too rigid to tear apart.",
-      "url": "https://phys.org/news/2026-11-ancient-rift-reawakening-africa-oldest.html"
-    },
-    {
       "category": "Science",
       "title": " Meet the science adviser behind Netflix's hit series 'Below' ",
       "source": " Latest from Live Science ",
@@ -100,27 +124,19 @@
     },
     {
       "category": "AI",
-      "title": "Derek Lowe: Detonating a Pile of Lead Azide",
-      "source": "Hacker News: Front Page",
-      "date": "Sat, 21 Nov 2026 13:23:14 +0000",
-      "summary": "Article URL: https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really\nComments URL: https://news.ycombinator.com/item?id=50588982\nPoints: 261\n# Comments: 143",
-      "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really"
-    },
-    {
-      "category": "Science",
-      "title": "Fermi's 14-year all-sky map bridges astronomy's elusive 'MeV gap'",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sat, 21 Nov 2026 08:00:10 EST",
-      "summary": "Gamma rays, the most high-energy type of electromagnetic radiation in the universe, have always had a blind spot. We've always had trouble measuring them in the \"megaelectronvolt\" (MeV) energy range, which astronomers have taken to calling the \"MeV gap.\" But a new paper from an international group of scientists working with the Fermi Large Area Telescope (LAT) Collaboration, recently published in The Astrophysical Journal Supplement Series, takes a stab at closing that gap by identifying 450 cosmic sources in the 20–200 MeV range, providing the clearest view of low-energy gamma rays ever.",
-      "url": "https://phys.org/news/2026-11-fermi-year-sky-bridges-astronomy.html"
-    },
-    {
-      "category": "AI",
       "title": "“Race realism” isn’t realistic—and it isn’t good science",
       "source": "Ars Technica",
       "date": "Sat, 21 Nov 2026 12:01:13 +0000",
       "summary": "Modern genetics does not support claims of innate racial differences in intelligence.",
       "url": "https://arstechnica.com/science/2026/11/race-realism-isnt-realistic-and-it-isnt-good-science/"
+    },
+    {
+      "category": "Space",
+      "title": "APOD: 2026 November 21 – Voyager’s Neptune",
+      "source": "NASA",
+      "date": "Sat, 21 Nov 2026 05:05:00 +0000",
+      "summary": "APOD Science APOD APOD: 2026 November 21 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Voyager’s Neptune Explanation: […]",
+      "url": "https://science.nasa.gov/image-article/apod-2026-november-21-voyagers-neptune/"
     },
     {
       "category": "Theology",
@@ -147,12 +163,20 @@
       "url": "https://arstechnica.com/tech-policy/2026/11/fcc-orders-california-to-stop-enforcing-phone-service-rules-against-att/"
     },
     {
-      "category": "AI",
-      "title": "SpaceX's Starshield troubles in Ukraine could threaten its broader military business",
-      "source": "Ars Technica",
-      "date": "Fri, 20 Nov 2026 22:16:51 +0000",
-      "summary": "\"Explain the changes that were made to the Starshield service in October 2026.\"",
-      "url": "https://arstechnica.com/space/2026/11/incoming-house-chair-threatens-spacex-funding-over-ukraine-controversy/"
+      "category": "Space",
+      "title": "Curiosity Spots Drifting Twilight Clouds",
+      "source": "NASA",
+      "date": "Fri, 20 Nov 2026 22:27:05 +0000",
+      "summary": "Description NASA’s Curiosity Mars rover captured these drifting clouds on Oct. 31, 2026, the 5,061st Martian day, or sol, of the mission. The rover uses its navigation cameras to capture post-sunset clouds, called twilight clouds, which appear for only a short time each fall over Gale Crater, which it has been exploring for more than […]",
+      "url": "https://science.nasa.gov/photojournal/curiosity-spots-drifting-twilight-clouds/"
+    },
+    {
+      "category": "Space",
+      "title": "New NASA Seed Funding Primes Small Businesses for Innovation",
+      "source": "NASA",
+      "date": "Fri, 20 Nov 2026 20:46:14 +0000",
+      "summary": "Awards to small businesses around the country are addressing some of NASA’s most crucial technology needs for exploration of the Moon and Mars while fueling the U.S. space economy. NASA’s Small Business Innovation Research/Small Business Technology Transfer (SBIR/STTR) program recently selected 302 innovative projects, for a total investment of up to $171 million in seed […]",
+      "url": "https://www.nasa.gov/directorates/rtmd/new-nasa-seed-funding-primes-small-businesses-for-innovation/"
     },
     {
       "category": "Science",
