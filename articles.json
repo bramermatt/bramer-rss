@@ -1,14 +1,62 @@
 {
-  "lastUpdated": "2026-11-22T17:31:31.572Z",
-  "articleCount": 39,
+  "lastUpdated": "2026-11-23T02:05:42.038Z",
+  "articleCount": 36,
   "articles": [
     {
+      "category": "AI",
+      "title": "Free alternative TV network built from the Internet Archive's forgotten videos",
+      "source": "Hacker News: Front Page",
+      "date": "Mon, 23 Nov 2026 01:13:51 +0000",
+      "summary": "Article URL: https://spelunkr.tv\nComments URL: https://news.ycombinator.com/item?id=50606192\nPoints: 13\n# Comments: 1",
+      "url": "https://spelunkr.tv"
+    },
+    {
+      "category": "AI",
+      "title": "What we learned operating auth for 1k APIs",
+      "source": "Hacker News: Front Page",
+      "date": "Mon, 23 Nov 2026 01:01:11 +0000",
+      "summary": "Article URL: https://nango.dev/blog/lessons-from-operating-api-auth-for-900-apis/\nComments URL: https://news.ycombinator.com/item?id=50606072\nPoints: 3\n# Comments: 1",
+      "url": "https://nango.dev/blog/lessons-from-operating-api-auth-for-900-apis/"
+    },
+    {
       "category": "Science",
-      "title": "JWST finds a possible black hole that grew faster than its host galaxy in the early universe",
+      "title": "Reliance on technology is eroding trust in one another and ability to tell what is even real, expert warns",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Sun, 22 Nov 2026 11:40:01 EST",
-      "summary": "How the first massive black holes formed in the universe remains an open question in astronomy. Black holes weighing about a billion solar masses within the first billion years of the universe require extraordinary origin stories.",
-      "url": "https://phys.org/news/2026-11-jwst-black-hole-grew-faster.html"
+      "date": "Sun, 22 Nov 2026 19:00:01 EST",
+      "summary": "The danger of generative AI is not some distant algorithmic failure; it is the slow erosion of our ability to tell what's real, to trust our institutions and to think for ourselves at all. These are the warnings of Mateusz Łabuz in his new book, The End of Reality.",
+      "url": "https://phys.org/news/2026-11-reliance-technology-eroding-ability-real.html"
+    },
+    {
+      "category": "AI",
+      "title": "Nespresso's project to reduce grams of coffee per capsule",
+      "source": "Hacker News: Front Page",
+      "date": "Sun, 22 Nov 2026 23:57:45 +0000",
+      "summary": "Article URL: https://alvinbunk.wordpress.com/2026/11/01/nespresso-project-olympus/\nComments URL: https://news.ycombinator.com/item?id=50605479\nPoints: 89\n# Comments: 82",
+      "url": "https://alvinbunk.wordpress.com/2026/11/01/nespresso-project-olympus/"
+    },
+    {
+      "category": "Space",
+      "title": " Watch live on Nov. 23: Amazon launching 1st batch of internet satellites since Vulcan Centaur failure ",
+      "source": " Latest from Space.com ",
+      "date": "Sun, 22 Nov 2026 22:00:00 +0000",
+      "summary": "An Ariane 6 rocket will launch 36 Amazon broadband satellites to orbit early on Nov. 23, just eight days after a ULA Vulcan Centaur failed during its mission for Amazon. Watch it live here.",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/arianespace-ariane-6-amazon-leo-internet-satellite-launch"
+    },
+    {
+      "category": "Science",
+      "title": "Silver briefly forms a rare crystal structure seen in radioactive polonium",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sun, 22 Nov 2026 15:00:01 EST",
+      "summary": "How atoms are arranged in a material shapes many of its properties. The same carbon atoms, for example, can form diamond and graphite depending on how they are arranged, giving rise to materials with vastly different chemical and physical properties. Now, researchers at Hokkaido University have discovered a new crystal structure of silver with unusually high chemical reactivity. The findings, published in Nano Letters, could open new avenues for exploring materials with desirable properties.",
+      "url": "https://phys.org/news/2026-11-silver-briefly-rare-crystal-radioactive.html"
+    },
+    {
+      "category": "Science",
+      "title": "Atmospheric organic nitrogen emerges as a major nutrient source for global oceans",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Sun, 22 Nov 2026 13:00:01 EST",
+      "summary": "A research team has quantified an important component of the global nitrogen cycle.",
+      "url": "https://phys.org/news/2026-11-atmospheric-nitrogen-emerges-major-nutrient.html"
     },
     {
       "category": "Space",
@@ -19,60 +67,12 @@
       "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-spy-satellite-launch-nrol-136-proliferated-architecture"
     },
     {
-      "category": "AI",
-      "title": "Ask HN: Are the trades a safe career transition?",
-      "source": "Hacker News: Front Page",
-      "date": "Sun, 22 Nov 2026 15:52:33 +0000",
-      "summary": "I am a software guy. Engineering degree but not PEng. Im thinking of jumping ship because i dont see much of a future in the career. Ai has me a little discouraged\nI need a few decades of at least mild security to get to retirement...\nAre the trades safe?\nIm worried about homeowners and companies ending up with robots that do all those tasks. Not next year obviously, but it could happen before the career change fully pays off\nAnd if not the trades, then what is a better bet?\nComments URL: https://news.ycombinator.com/item?id=50600771\nPoints: 16\n# Comments: 17",
-      "url": "https://news.ycombinator.com/item?id=50600771"
-    },
-    {
-      "category": "AI",
-      "title": "Europe weakens chemical rules as science links them to 'lifestyle diseases'",
-      "source": "Hacker News: Front Page",
-      "date": "Sun, 22 Nov 2026 15:42:40 +0000",
-      "summary": "Article URL: https://www.lemonde.fr/en/opinion/article/2026/11/22/as-science-increasingly-shows-the-role-chemical-substances-play-in-lifestyle-diseases-europe-weakens-its-regulations_6786595_23.html\nComments URL: https://news.ycombinator.com/item?id=50600677\nPoints: 63\n# Comments: 26",
-      "url": "https://www.lemonde.fr/en/opinion/article/2026/11/22/as-science-increasingly-shows-the-role-chemical-substances-play-in-lifestyle-diseases-europe-weakens-its-regulations_6786595_23.html"
-    },
-    {
-      "category": "AI",
-      "title": "I joined the NTP Pool, but not with my Stratum 1 Pi",
-      "source": "Hacker News: Front Page",
-      "date": "Sun, 22 Nov 2026 15:35:24 +0000",
-      "summary": "Article URL: https://www.jeffgeerling.com/blog/2026/i-joined-the-ntp-pool/\nComments URL: https://news.ycombinator.com/item?id=50600622\nPoints: 14\n# Comments: 0",
-      "url": "https://www.jeffgeerling.com/blog/2026/i-joined-the-ntp-pool/"
-    },
-    {
-      "category": "Science",
-      "title": "Mercury gets its first visitor in years as a pair of spacecraft loop into orbit",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sun, 22 Nov 2026 10:20:01 EST",
-      "summary": "A pair of spacecraft slipped into orbit around Mercury on Saturday after an eight-year cruise through the inner solar system to unravel our littlest planet's mountain of mysteries.",
-      "url": "https://phys.org/news/2026-11-mercury-visitor-years-pair-spacecraft.html"
-    },
-    {
-      "category": "Science",
-      "title": "COP31 fails to agree on climate deal in chaotic finale",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sun, 22 Nov 2026 10:07:54 EST",
-      "summary": "The COP31 climate talks headed for a historic defeat Sunday after the EU and other countries refused to endorse a pact that omitted fossil fuels as the summit lurched into record overtime in Turkey.",
-      "url": "https://phys.org/news/2026-11-cop31-climate-chaotic.html"
-    },
-    {
       "category": "Space",
       "title": " This viral star projector has been hyped to Mars and back, but we hunted down the best version you can buy ",
       "source": " Latest from Space.com ",
       "date": "Sun, 22 Nov 2026 15:00:00 +0000",
       "summary": "The AI adverts for the Zanbix 2 in 1 Galaxy Projector Night Light are downright bizarre — we cut through the hype to bring you a version that actually delivers",
       "url": "https://www.space.com/stargazing/skywatching-kit/this-viral-star-projector-has-been-hyped-to-mars-and-back-but-we-hunted-down-the-best-version-you-can-buy"
-    },
-    {
-      "category": "Space",
-      "title": " As 'Star Trek: First Contact' turns 30, Director Jonathan Frakes reflects on his triumphant time-travel blockbuster (interview) ",
-      "source": " Latest from Space.com ",
-      "date": "Sun, 22 Nov 2026 14:30:00 +0000",
-      "summary": "\"What’s not to love? It's bulletproof!\"",
-      "url": "https://www.space.com/entertainment/space-movies-shows/star-trek-first-contact-at-30-director-jonathan-frakes-reflects-on-his-triumphant-time-travel-blockbuster-interview"
     },
     {
       "category": "Science",
@@ -107,12 +107,28 @@
       "url": "https://www.livescience.com/space/black-holes/black-holes-can-split-apart-like-pants-if-they-spin-too-fast-astrophysics-study-hints"
     },
     {
-      "category": "Space",
-      "title": "APOD: 2026 November 22 – Swirls and Colors on Jupiter from Juno",
-      "source": "NASA",
-      "date": "Sun, 22 Nov 2026 05:05:00 +0000",
-      "summary": "APOD Science APOD APOD: 2026 November 22 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Swirls and Colors […]",
-      "url": "https://science.nasa.gov/image-article/apod-2026-november-22-swirls-and-colors-on-jupiter-from-juno/"
+      "category": "Science",
+      "title": "A mysterious gap hints at black holes born from stars that never exploded",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Sun, 22 Nov 2026 06:46:42 EST",
+      "summary": "Massive stars may be quietly collapsing into black holes without ever producing the spectacular supernova explosions scientists typically expect. A surprising pattern in 257 black hole mergers suggests these mysterious stellar disappearances could explain the origins of a large population of black holes throughout the universe.",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261121221126.htm"
+    },
+    {
+      "category": "Science",
+      "title": "DNA’s secret sunscreen may have helped life survive on early Earth",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Sun, 22 Nov 2026 06:31:14 EST",
+      "summary": "Scientists have uncovered a surprising reason why early life may have survived Earth's intense ultraviolet radiation: a key component of DNA appears to turn potentially destructive damage into something easier to repair. The discovery could help solve a decades-old evolutionary mystery and reveal how life endured the harsh conditions of our planet's earliest days.",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261121221128.htm"
+    },
+    {
+      "category": "Science",
+      "title": "A 194-year-old tortoise has a remarkable anti-aging secret hidden in its DNA",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Sun, 22 Nov 2026 06:04:06 EST",
+      "summary": "At an astonishing 194 years old, Jonathan the giant tortoise is the world's oldest living land animal, and scientists may have finally uncovered the secrets behind his extraordinary lifespan. Researchers identified 287 unique genetic variants linked to processes that help repair damaged DNA, control inflammation, regulate insulin, and suppress cancer.",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261121221130.htm"
     },
     {
       "category": "Theology",
@@ -124,27 +140,19 @@
     },
     {
       "category": "AI",
+      "title": "Perplexity and Intelligence",
+      "source": "OpenAI News",
+      "date": "Sun, 22 Nov 2026 00:00:00 GMT",
+      "summary": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
+      "url": "https://openai.com/index/perplexity-and-intelligence"
+    },
+    {
+      "category": "AI",
       "title": "Review: Godzilla Minus Zero joins the list of truly stellar sequels",
       "source": "Ars Technica",
       "date": "Sat, 21 Nov 2026 22:12:41 +0000",
       "summary": "Director Takashi Yamazaki ups the ante by pitting Godzilla against one of the monster's greatest foes",
       "url": "https://arstechnica.com/culture/2026/11/review-godzilla-minus-zero-is-everything-we-could-want-in-a-sequel/"
-    },
-    {
-      "category": "Science",
-      "title": "Time may be far stranger than we realize. Scientists have a way to test it",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Sat, 21 Nov 2026 10:09:46 EST",
-      "summary": "Time may be far stranger than we realize, and scientists have proposed a way to detect clocks experiencing multiple flows of time simultaneously. Using atomic clocks with dramatically enhanced sensitivity, researchers hope to reveal a never-before-observed quantum effect that could transform our understanding of time and gravity.",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261120075558.htm"
-    },
-    {
-      "category": "Science",
-      "title": "A giant star swallowed another star. James Webb reveals the aftermath",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Sat, 21 Nov 2026 09:53:40 EST",
-      "summary": "Astronomers have witnessed a spectacular cosmic collision in the Andromeda galaxy, where a small star spiraled into a giant star 18,000 times brighter than the Sun, triggering a violent eruption. NASA’s James Webb Space Telescope captured the aftermath just 47 days later, revealing new details about how two stars can merge into one.",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261120075556.htm"
     },
     {
       "category": "AI",
@@ -153,14 +161,6 @@
       "date": "Sat, 21 Nov 2026 12:01:13 +0000",
       "summary": "Modern genetics does not support claims of innate racial differences in intelligence.",
       "url": "https://arstechnica.com/science/2026/11/race-realism-isnt-realistic-and-it-isnt-good-science/"
-    },
-    {
-      "category": "Space",
-      "title": "APOD: 2026 November 21 – Voyager’s Neptune",
-      "source": "NASA",
-      "date": "Sat, 21 Nov 2026 05:05:00 +0000",
-      "summary": "APOD Science APOD APOD: 2026 November 21 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Voyager’s Neptune Explanation: […]",
-      "url": "https://science.nasa.gov/image-article/apod-2026-november-21-voyagers-neptune/"
     },
     {
       "category": "Theology",
@@ -177,22 +177,6 @@
       "date": "Sat, 21 Nov 2026 05:00:00 +0000",
       "summary": "The best children’s literature does more than preach to us; it draws us into the story while pointing toward truth, goodness, and beauty.",
       "url": "https://www.thegospelcoalition.org/reviews/editors-pick-middle-grade-books/"
-    },
-    {
-      "category": "Space",
-      "title": "Curiosity Spots Drifting Twilight Clouds",
-      "source": "NASA",
-      "date": "Fri, 20 Nov 2026 22:27:05 +0000",
-      "summary": "Description NASA’s Curiosity Mars rover captured these drifting clouds on Oct. 31, 2026, the 5,061st Martian day, or sol, of the mission. The rover uses its navigation cameras to capture post-sunset clouds, called twilight clouds, which appear for only a short time each fall over Gale Crater, which it has been exploring for more than […]",
-      "url": "https://science.nasa.gov/photojournal/curiosity-spots-drifting-twilight-clouds/"
-    },
-    {
-      "category": "Science",
-      "title": "NASA’s Voyager 1 is now so far away that light takes 24 hours to reach it",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Fri, 20 Nov 2026 07:55:54 EST",
-      "summary": "NASA’s Voyager 1 has reached an extraordinary milestone, traveling 16.1 billion miles from Earth to become the first spacecraft so distant that its signals take a full day to reach us. Nearly 50 years after launch, the aging probe continues its historic journey through interstellar space, pushing the limits of human exploration despite dwindling power and technical challenges.",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261120075554.htm"
     },
     {
       "category": "Biblical Studies",
@@ -225,14 +209,6 @@
       "date": "Fri, 20 Nov 2026 00:00:00 GMT",
       "summary": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
       "url": "https://openai.com/business/customer-stories/hebbia"
-    },
-    {
-      "category": "AI",
-      "title": "Can AI help scientists identify promising drug candidates?",
-      "source": "OpenAI News",
-      "date": "Fri, 20 Nov 2026 00:00:00 GMT",
-      "summary": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.",
-      "url": "https://openai.com/index/introducing-medchembench"
     },
     {
       "category": "Biblical Studies",
