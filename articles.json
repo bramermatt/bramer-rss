@@ -1,142 +1,246 @@
 {
-  "lastUpdated": "2026-11-23T02:05:42.038Z",
-  "articleCount": 36,
+  "lastUpdated": "2026-11-23T21:50:46.005Z",
+  "articleCount": 39,
   "articles": [
     {
-      "category": "AI",
-      "title": "Free alternative TV network built from the Internet Archive's forgotten videos",
-      "source": "Hacker News: Front Page",
-      "date": "Mon, 23 Nov 2026 01:13:51 +0000",
-      "summary": "Article URL: https://spelunkr.tv\nComments URL: https://news.ycombinator.com/item?id=50606192\nPoints: 13\n# Comments: 1",
-      "url": "https://spelunkr.tv"
-    },
-    {
-      "category": "AI",
-      "title": "What we learned operating auth for 1k APIs",
-      "source": "Hacker News: Front Page",
-      "date": "Mon, 23 Nov 2026 01:01:11 +0000",
-      "summary": "Article URL: https://nango.dev/blog/lessons-from-operating-api-auth-for-900-apis/\nComments URL: https://news.ycombinator.com/item?id=50606072\nPoints: 3\n# Comments: 1",
-      "url": "https://nango.dev/blog/lessons-from-operating-api-auth-for-900-apis/"
-    },
-    {
       "category": "Science",
-      "title": "Reliance on technology is eroding trust in one another and ability to tell what is even real, expert warns",
+      "title": "Data center policy review reveals 'chaotic' patchwork of rules across all 50 states",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Sun, 22 Nov 2026 19:00:01 EST",
-      "summary": "The danger of generative AI is not some distant algorithmic failure; it is the slow erosion of our ability to tell what's real, to trust our institutions and to think for ourselves at all. These are the warnings of Mateusz Łabuz in his new book, The End of Reality.",
-      "url": "https://phys.org/news/2026-11-reliance-technology-eroding-ability-real.html"
+      "date": "Mon, 23 Nov 2026 16:50:01 EST",
+      "summary": "The artificial intelligence boom has brought with it debates about where the data centers that run the technology will be located, how big they will be and how to ensure communities benefit from them. Underlying these debates is the question of whether state and local governments should ban them outright, welcome them with open arms or choose something in between.",
+      "url": "https://phys.org/news/2026-11-center-policy-reveals-chaotic-patchwork.html"
+    },
+    {
+      "category": "Science",
+      "title": "Satellite observations show how rain breaks up Earth's natural sunshades",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Mon, 23 Nov 2026 16:40:06 EST",
+      "summary": "Delivering on its promise, the European Space Agency's EarthCARE satellite is already yielding new insights into the role that clouds play in regulating Earth's climate. The latest findings shed light on one of the processes that leads to the breakup of vast, bright cloud formations that help keep our planet cool—with rain emerging as a key driver.",
+      "url": "https://phys.org/news/2026-11-satellite-earth-natural-sunshades.html"
+    },
+    {
+      "category": "Science",
+      "title": "Some people claim to speak many languages. But what does it really mean to be a polyglot?",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Mon, 23 Nov 2026 16:40:01 EST",
+      "summary": "Roughly half of the world's population speaks more than one language. But speaking two or three languages is very different from claiming proficiency in five, 10 or more.",
+      "url": "https://phys.org/news/2026-11-people-languages-polyglot.html"
     },
     {
       "category": "AI",
-      "title": "Nespresso's project to reduce grams of coffee per capsule",
-      "source": "Hacker News: Front Page",
-      "date": "Sun, 22 Nov 2026 23:57:45 +0000",
-      "summary": "Article URL: https://alvinbunk.wordpress.com/2026/11/01/nespresso-project-olympus/\nComments URL: https://news.ycombinator.com/item?id=50605479\nPoints: 89\n# Comments: 82",
-      "url": "https://alvinbunk.wordpress.com/2026/11/01/nespresso-project-olympus/"
-    },
-    {
-      "category": "Space",
-      "title": " Watch live on Nov. 23: Amazon launching 1st batch of internet satellites since Vulcan Centaur failure ",
-      "source": " Latest from Space.com ",
-      "date": "Sun, 22 Nov 2026 22:00:00 +0000",
-      "summary": "An Ariane 6 rocket will launch 36 Amazon broadband satellites to orbit early on Nov. 23, just eight days after a ULA Vulcan Centaur failed during its mission for Amazon. Watch it live here.",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/arianespace-ariane-6-amazon-leo-internet-satellite-launch"
-    },
-    {
-      "category": "Science",
-      "title": "Silver briefly forms a rare crystal structure seen in radioactive polonium",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sun, 22 Nov 2026 15:00:01 EST",
-      "summary": "How atoms are arranged in a material shapes many of its properties. The same carbon atoms, for example, can form diamond and graphite depending on how they are arranged, giving rise to materials with vastly different chemical and physical properties. Now, researchers at Hokkaido University have discovered a new crystal structure of silver with unusually high chemical reactivity. The findings, published in Nano Letters, could open new avenues for exploring materials with desirable properties.",
-      "url": "https://phys.org/news/2026-11-silver-briefly-rare-crystal-radioactive.html"
-    },
-    {
-      "category": "Science",
-      "title": "Atmospheric organic nitrogen emerges as a major nutrient source for global oceans",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Sun, 22 Nov 2026 13:00:01 EST",
-      "summary": "A research team has quantified an important component of the global nitrogen cycle.",
-      "url": "https://phys.org/news/2026-11-atmospheric-nitrogen-emerges-major-nutrient.html"
-    },
-    {
-      "category": "Space",
-      "title": " SpaceX sends classified US spy satellites to orbit in early-morning launch from California coast (video) ",
-      "source": " Latest from Space.com ",
-      "date": "Sun, 22 Nov 2026 16:05:33 +0000",
-      "summary": "SpaceX launched a batch of classified spy satellites for the U.S. government's National Reconnaissance Office early on Sunday morning (Nov. 22).",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-spy-satellite-launch-nrol-136-proliferated-architecture"
-    },
-    {
-      "category": "Space",
-      "title": " This viral star projector has been hyped to Mars and back, but we hunted down the best version you can buy ",
-      "source": " Latest from Space.com ",
-      "date": "Sun, 22 Nov 2026 15:00:00 +0000",
-      "summary": "The AI adverts for the Zanbix 2 in 1 Galaxy Projector Night Light are downright bizarre — we cut through the hype to bring you a version that actually delivers",
-      "url": "https://www.space.com/stargazing/skywatching-kit/this-viral-star-projector-has-been-hyped-to-mars-and-back-but-we-hunted-down-the-best-version-you-can-buy"
-    },
-    {
-      "category": "Science",
-      "title": " Beaver Moon 2026: When to see a full 'supermoon' rise this week, and another on Christmas Eve ",
-      "source": " Latest from Live Science ",
-      "date": "Sun, 22 Nov 2026 14:00:00 +0000",
-      "summary": "November's full Beaver Moon rises on Tuesday, Nov. 24, giving us a preview of the spectacular Christmas Eve supermoon coming next month.",
-      "url": "https://www.livescience.com/space/the-moon/beaver-moon-2026-when-to-see-a-full-supermoon-rise-this-week-and-another-on-christmas-eve"
-    },
-    {
-      "category": "Science",
-      "title": " 2,200-year-old Celtic silver coin hoard unearthed at construction site in Hungary ",
-      "source": " Latest from Live Science ",
-      "date": "Sun, 22 Nov 2026 13:00:00 +0000",
-      "summary": "Archaeologists discovered a stash of Celtic coins ahead of a construction project for an electrical substation in Hungary.",
-      "url": "https://www.livescience.com/archaeology/2-200-year-old-celtic-silver-coin-hoard-unearthed-at-construction-site-in-hungary"
-    },
-    {
-      "category": "AI",
-      "title": "GLP-1 drugs could have a surprisingly large environmental payoff",
+      "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
       "source": "Ars Technica",
-      "date": "Sun, 22 Nov 2026 12:07:41 +0000",
-      "summary": "GLP-1 drugs could cut food demand enough to free farmland larger than Italy.",
-      "url": "https://arstechnica.com/health/2026/11/glp-1-drugs-could-have-a-surprisingly-large-environmental-payoff/"
+      "date": "Mon, 23 Nov 2026 21:30:44 +0000",
+      "summary": "X says every Grok output is screened, but state AGs say Grok is still making CSAM.",
+      "url": "https://arstechnica.com/tech-policy/2026/11/states-sue-spacex-to-stop-grok-from-generating-child-sex-images-revenge-porn/"
+    },
+    {
+      "category": "Space",
+      "title": " Join our free Space.com membership giveaway for a chance to win this Dwarflab mini smart telescope worth $419! ",
+      "source": " Latest from Space.com ",
+      "date": "Mon, 23 Nov 2026 21:21:13 +0000",
+      "summary": "Our Space.com Community team just launched a new giveaway exclusively for our Space+ members. Join free now for a chance to win a Dwarflab Mini smart telescope.",
+      "url": "https://www.space.com/stargazing/skywatching-kit/join-our-free-space-com-membership-giveaway-for-a-chance-to-win-this-dwarflab-mini-smart-telescope-worth-usd419"
+    },
+    {
+      "category": "Space",
+      "title": "NASA Awards Contract for NOAA’s Near Earth Orbit Network Program",
+      "source": "NASA",
+      "date": "Mon, 23 Nov 2026 21:10:03 +0000",
+      "summary": "NASA, on behalf of the National Oceanic and Atmospheric Administration (NOAA), has awarded a contract to Northrop Grumman Systems Corporation for the Sounder for Microwave-Based Applications (SMBA) instruments on NOAA’s Near Earth Orbit Network (NEON) satellites. The cost-plus-fixed-fee, firm-fixed-price, and time-and-materials hybrid contract has a value of $290.6 million. The period of performance runs from […]",
+      "url": "https://www.nasa.gov/news-release/nasa-awards-contract-for-noaas-near-earth-orbit-network-program/"
+    },
+    {
+      "category": "AI",
+      "title": "Bored.com: Fun, interesting and cool websites to explore when bored",
+      "source": "Hacker News: Front Page",
+      "date": "Mon, 23 Nov 2026 21:01:16 +0000",
+      "summary": "Article URL: https://www.bored.com/\nComments URL: https://news.ycombinator.com/item?id=50619207\nPoints: 6\n# Comments: 0",
+      "url": "https://www.bored.com/"
+    },
+    {
+      "category": "AI",
+      "title": "The horse made the state",
+      "source": "Hacker News: Front Page",
+      "date": "Mon, 23 Nov 2026 20:59:12 +0000",
+      "summary": "Article URL: https://aeon.co/essays/the-origins-of-the-state-are-not-agrarian-but-pastoralist\nComments URL: https://news.ycombinator.com/item?id=50619186\nPoints: 15\n# Comments: 16",
+      "url": "https://aeon.co/essays/the-origins-of-the-state-are-not-agrarian-but-pastoralist"
+    },
+    {
+      "category": "AI",
+      "title": "Russia will launch a routine ISS supply mission tomorrow—apparently, it's a big secret",
+      "source": "Ars Technica",
+      "date": "Mon, 23 Nov 2026 20:34:51 +0000",
+      "summary": "\"I would ask you to please reach out to Roscosmos directly.\"",
+      "url": "https://arstechnica.com/space/2026/11/russia-will-launch-a-routine-iss-supply-mission-tomorrow-apparently-its-a-big-secret/"
+    },
+    {
+      "category": "AI",
+      "title": "Surveillance pricing uses our personal data to make us pay more",
+      "source": "Ars Technica",
+      "date": "Mon, 23 Nov 2026 20:11:43 +0000",
+      "summary": "Personalized pricing can mean unfair, and even biased, prices.",
+      "url": "https://arstechnica.com/tech-policy/2026/11/surveillance-pricing-uses-our-personal-data-to-make-us-pay-more/"
+    },
+    {
+      "category": "AI",
+      "title": "Per Arm's request, this site will be discontinued on 4 December 2026 :(",
+      "source": "Hacker News: Front Page",
+      "date": "Mon, 23 Nov 2026 19:17:55 +0000",
+      "summary": "Article URL: https://arm.jonpalmisc.com/\nComments URL: https://news.ycombinator.com/item?id=50617499\nPoints: 597\n# Comments: 119",
+      "url": "https://arm.jonpalmisc.com/"
+    },
+    {
+      "category": "Space",
+      "title": " How sci‑fi imagines sports in microgravity, and how zero‑g sports might actually work ",
+      "source": " Latest from Space.com ",
+      "date": "Mon, 23 Nov 2026 19:00:00 +0000",
+      "summary": "How realistic are the zero-g sports we see in sci-fi? We talk to Les Johnson, former Chief Technologist for NASA, to find out.",
+      "url": "https://www.space.com/entertainment/how-sci-fi-imagines-sports-in-microgravity-and-how-zero-g-sports-might-actually-work"
+    },
+    {
+      "category": "Space",
+      "title": " On this day in space! Nov. 23, 2015: Blue Origin sticks 1st-ever rocket landing from space with its suborbital New Shepard rocket ",
+      "source": " Latest from Space.com ",
+      "date": "Mon, 23 Nov 2026 18:10:48 +0000",
+      "summary": "On Nov. 23, 2015, a Blue Origin rocket made a historic landing after launching into suborbital space. Here's why it mattered.",
+      "url": "https://www.space.com/space-exploration/on-this-day-in-space-november-23-2026"
+    },
+    {
+      "category": "Space",
+      "title": "Studying Cancer Cells in Microgravity",
+      "source": "NASA",
+      "date": "Mon, 23 Nov 2026 17:28:37 +0000",
+      "summary": "This Nov. 19, 2026, image shows gastric microtumors grown within an Encapsulates biochip. The Encapsulate-1 investigation studies patient-derived tumor samples aboard the International Space Station to better understand how cancer cells move and interact in microgravity. The results could help researchers develop further testing to predict a patient’s risk of metastasis and support more personalized […]",
+      "url": "https://www.nasa.gov/image-article/studying-cancer-cells-in-microgravity/"
+    },
+    {
+      "category": "Space",
+      "title": "NASA Seeks Partners to Design First Nuclear Reactor for the Moon ",
+      "source": "NASA",
+      "date": "Mon, 23 Nov 2026 17:23:50 +0000",
+      "summary": "NASA is seeking industry partners to develop and test the first nuclear reactor designed to provide electricity on the Moon, a major step toward establishing a sustained human presence on the lunar surface.  Lunar Reactor-1 (LR-1) will be a small fission power system that will generate 20 kilowatts of electricity, enough to power approximately 16 […]",
+      "url": "https://www.nasa.gov/directorates/rtmd/nasa-seeks-partners-to-design-first-nuclear-reactor-for-the-moon/"
+    },
+    {
+      "category": "History",
+      "title": "John Adams, Thomas Jefferson, and the Founding of America",
+      "source": "Journal of the American Revolution",
+      "date": "Mon, 23 Nov 2026 15:04:49 +0000",
+      "summary": "BOOK REVIEW: John Adams, Thomas Jefferson, and the Founding of America edited by Lee Ward and Michael P. Zuckert (University Press of Kansas, 2026) The 250th anniversary of America’s independence has brought forth a slew of books covering various angles of the Declaration of Independence and the Revolution’s earliest days, along with a resurgence of […]\nThe post John Adams, Thomas Jefferson, and the Founding of America appeared first on Journal of the American Revolution.",
+      "url": "https://allthingsliberty.com/2026/11/john-adams-thomas-jefferson-and-the-founding-of-america/"
+    },
+    {
+      "category": "Biblical Studies",
+      "title": "Lighthouse of Alexandria Ring Rises from the Depths",
+      "source": "Biblical Archaeology Society",
+      "date": "Mon, 23 Nov 2026 11:45:20 +0000",
+      "summary": "The Lighthouse of Alexandria—also known as “Pharos,” the island on which it was constructed—was one of the most extraordinary engineering achievements of the ancient world. […]\nThe post Lighthouse of Alexandria Ring Rises from the Depths appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-egypt/lighthouse-of-alexandria-ring-rises-from-the-depths/"
     },
     {
       "category": "Science",
-      "title": " Black holes can split apart 'like pants' if they spin too fast, study hints ",
+      "title": " Live Science crossword puzzle #70: The 'A' in AC/DC — 10 across ",
       "source": " Latest from Live Science ",
-      "date": "Sun, 22 Nov 2026 12:00:00 +0000",
-      "summary": "Astrophysicists have dared to ask a cosmological question never asked before: Do black holes \"wear pants\"? New research shows how fast-spinning black holes may split apart.",
-      "url": "https://www.livescience.com/space/black-holes/black-holes-can-split-apart-like-pants-if-they-spin-too-fast-astrophysics-study-hints"
+      "date": "Mon, 23 Nov 2026 11:21:08 +0000",
+      "summary": "Test your knowledge on all things science with our weekly, free crossword puzzle!",
+      "url": "https://www.livescience.com/human-behavior/arts-entertainment/live-science-crossword-puzzle-70-the-a-in-ac-dc-10-across"
     },
     {
       "category": "Science",
-      "title": "A mysterious gap hints at black holes born from stars that never exploded",
+      "title": "Two monster black holes from the dawn of time defy explanation",
       "source": "All Top News -- ScienceDaily",
-      "date": "Sun, 22 Nov 2026 06:46:42 EST",
-      "summary": "Massive stars may be quietly collapsing into black holes without ever producing the spectacular supernova explosions scientists typically expect. A surprising pattern in 257 black hole mergers suggests these mysterious stellar disappearances could explain the origins of a large population of black holes throughout the universe.",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261121221126.htm"
+      "date": "Mon, 23 Nov 2026 06:21:06 EST",
+      "summary": "Astronomers have discovered the oldest known compact pair of quasars, powered by two enormous black holes that existed just 900 million years after the Big Bang. Weighing an astonishing 1.5 billion and 400 million times the mass of the Sun, these cosmic giants somehow grew to incredible sizes far earlier than current theories can explain.",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261122060342.htm"
+    },
+    {
+      "category": "Biblical Studies",
+      "title": "Is Sheshonq Buried at Tanis?",
+      "source": "Biblical Archaeology Society",
+      "date": "Mon, 23 Nov 2026 11:00:48 +0000",
+      "summary": "While carrying out conservation work within the tomb of Pharaoh Osorkon II (r. 872–837 BCE), a French archaeology team was shocked to discover a trove […]\nThe post Is Sheshonq Buried at Tanis? appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-egypt/is-sheshonq-buried-at-tanis/"
     },
     {
       "category": "Science",
-      "title": "DNA’s secret sunscreen may have helped life survive on early Earth",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Sun, 22 Nov 2026 06:31:14 EST",
-      "summary": "Scientists have uncovered a surprising reason why early life may have survived Earth's intense ultraviolet radiation: a key component of DNA appears to turn potentially destructive damage into something easier to repair. The discovery could help solve a decades-old evolutionary mystery and reveal how life endured the harsh conditions of our planet's earliest days.",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261121221128.htm"
+      "title": " Hoxne 'Empress' pepper pot: A 1,600-year-old silver and gold pepper shaker that a UK farmer unearthed while looking for his hammer ",
+      "source": " Latest from Live Science ",
+      "date": "Mon, 23 Nov 2026 11:00:00 +0000",
+      "summary": "This silver pepper shaker reveals the Romans' love of the spice and the lengths they would go to procure it.",
+      "url": "https://www.livescience.com/archaeology/romans/hoxne-empress-pepper-pot-a-1-600-year-old-silver-and-gold-pepper-shaker-that-a-uk-farmer-unearthed-while-looking-for-his-hammer"
+    },
+    {
+      "category": "AI",
+      "title": "Connected intelligence for in-house legal",
+      "source": "OpenAI News",
+      "date": "Mon, 23 Nov 2026 08:00:00 GMT",
+      "summary": "Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Cooley’s Richard Segal explore how AI can help in-house legal teams connect business context, build reusable workflows and get more from outside counsel.",
+      "url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal"
+    },
+    {
+      "category": "AI",
+      "title": "Richpanel helps companies automate 50% of support in 30 days",
+      "source": "OpenAI News",
+      "date": "Mon, 23 Nov 2026 08:00:00 GMT",
+      "summary": "Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna for their conversations.",
+      "url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support"
     },
     {
       "category": "Science",
-      "title": "A 194-year-old tortoise has a remarkable anti-aging secret hidden in its DNA",
+      "title": "Archaeologists reveal a powerful Iron Age king may have been a woman",
       "source": "All Top News -- ScienceDaily",
-      "date": "Sun, 22 Nov 2026 06:04:06 EST",
-      "summary": "At an astonishing 194 years old, Jonathan the giant tortoise is the world's oldest living land animal, and scientists may have finally uncovered the secrets behind his extraordinary lifespan. Researchers identified 287 unique genetic variants linked to processes that help repair damaged DNA, control inflammation, regulate insulin, and suppress cancer.",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261121221130.htm"
+      "date": "Mon, 23 Nov 2026 00:30:23 EST",
+      "summary": "Archaeologists have uncovered evidence that Verica, the Iron Age ruler whose exile helped trigger Rome’s invasion of Britain in AD 43, was actually a woman. The discovery challenges centuries of historical assumptions and suggests that a largely forgotten female leader may have changed the course of British history.",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261122060338.htm"
     },
     {
       "category": "Theology",
-      "title": "Evening Worship’s Culture-Shaping Power",
+      "title": "Leverage Church History for Ministry",
       "source": "The Gospel Coalition",
-      "date": "Sun, 22 Nov 2026 05:00:00 +0000",
-      "summary": "Don’t wait for the perfect time. Trust the Lord, open the doors, and watch him bless his people.",
-      "url": "https://www.thegospelcoalition.org/article/evening-worship-culture-shaping/"
+      "date": "Mon, 23 Nov 2026 05:04:00 +0000",
+      "summary": "Matt Smethurst and Ligon Duncan discuss how pastors can use church history to strengthen their preaching, encourage their congregations, understand historic Christian beliefs, and learn from believers who have gone before us.",
+      "url": "https://www.thegospelcoalition.org/podcasts/everyday-pastor/leverage-church-history-ministry/"
+    },
+    {
+      "category": "Theology",
+      "title": "How to Preach to Workers",
+      "source": "The Gospel Coalition",
+      "date": "Mon, 23 Nov 2026 05:02:00 +0000",
+      "summary": "The New Testament offers two paradigms for how preachers can consider workers in their teaching.",
+      "url": "https://www.thegospelcoalition.org/article/how-preach-workers/"
+    },
+    {
+      "category": "Science",
+      "title": " Impossible volcanic eruption spotted in deepest part of the ocean, perplexing scientists ",
+      "source": " Latest from Live Science ",
+      "date": "Mon, 23 Nov 2026 05:00:00 +0000",
+      "summary": "Scientists are perplexed at discovering the world's deepest explosive volcanic eruption at Challenger Deep in the Mariana Trench.",
+      "url": "https://www.livescience.com/planet-earth/impossible-volcanic-eruption-spotted-in-deepest-part-of-the-ocean-perplexing-scientists"
+    },
+    {
+      "category": "Theology",
+      "title": "The Gospel Coalition 2026 Book Awards",
+      "source": "The Gospel Coalition",
+      "date": "Mon, 23 Nov 2026 05:00:00 +0000",
+      "summary": "The Gospel Coalition selects the best Christian books published in 2026 in our annual TGC Book Awards.",
+      "url": "https://www.thegospelcoalition.org/article/tgc-book-awards-2026/"
+    },
+    {
+      "category": "Science",
+      "title": "This tiny spider named after Stephen Colbert has a genome 50% larger than a human’s",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Sun, 22 Nov 2026 22:54:27 EST",
+      "summary": "A tiny California trapdoor spider named after Stephen Colbert has a genome roughly 50% larger than a human's, despite being only about the size of a quarter. Scientists discovered that its enormous genome contains 4.6 billion DNA base pairs and 52 chromosomes, revealing surprising clues about spider evolution.",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261122060343.htm"
+    },
+    {
+      "category": "Biblical Studies",
+      "title": "What Is Aramaic?",
+      "source": "Biblical Archaeology Society",
+      "date": "Sun, 22 Nov 2026 11:00:55 +0000",
+      "summary": "The Aramaic language constitutes the eastern branch of the Northwest Semitic language family. Its closest relatives are the Canaanite dialects in the western branch of […]\nThe post What Is Aramaic? appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-near-eastern-world/what-is-aramaic/"
     },
     {
       "category": "AI",
@@ -145,78 +249,6 @@
       "date": "Sun, 22 Nov 2026 00:00:00 GMT",
       "summary": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
       "url": "https://openai.com/index/perplexity-and-intelligence"
-    },
-    {
-      "category": "AI",
-      "title": "Review: Godzilla Minus Zero joins the list of truly stellar sequels",
-      "source": "Ars Technica",
-      "date": "Sat, 21 Nov 2026 22:12:41 +0000",
-      "summary": "Director Takashi Yamazaki ups the ante by pitting Godzilla against one of the monster's greatest foes",
-      "url": "https://arstechnica.com/culture/2026/11/review-godzilla-minus-zero-is-everything-we-could-want-in-a-sequel/"
-    },
-    {
-      "category": "AI",
-      "title": "“Race realism” isn’t realistic—and it isn’t good science",
-      "source": "Ars Technica",
-      "date": "Sat, 21 Nov 2026 12:01:13 +0000",
-      "summary": "Modern genetics does not support claims of innate racial differences in intelligence.",
-      "url": "https://arstechnica.com/science/2026/11/race-realism-isnt-realistic-and-it-isnt-good-science/"
-    },
-    {
-      "category": "Theology",
-      "title": "In the Darkness, Christmas Shines a Light",
-      "source": "The Gospel Coalition",
-      "date": "Sat, 21 Nov 2026 05:02:00 +0000",
-      "summary": "The general revelation of God’s created order—darkness and light, night and day—primes every created thing to know they need light, a salvation from outside themselves.",
-      "url": "https://www.thegospelcoalition.org/article/darkness-christmas-light/"
-    },
-    {
-      "category": "Theology",
-      "title": "Editor’s Pick: Middle-Grade Books",
-      "source": "The Gospel Coalition",
-      "date": "Sat, 21 Nov 2026 05:00:00 +0000",
-      "summary": "The best children’s literature does more than preach to us; it draws us into the story while pointing toward truth, goodness, and beauty.",
-      "url": "https://www.thegospelcoalition.org/reviews/editors-pick-middle-grade-books/"
-    },
-    {
-      "category": "Biblical Studies",
-      "title": "Colossal Ramesses II Statues Surface",
-      "source": "Biblical Archaeology Society",
-      "date": "Fri, 20 Nov 2026 11:45:54 +0000",
-      "summary": "In the village of Behbeit al-Higara in Egypt’s Nile Delta, a local man reported finding an inscribed stone block on his property. Egypt’s Supreme Council […]\nThe post Colossal Ramesses II Statues Surface appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-egypt/colossal-ramesses-ii-statues-surface/"
-    },
-    {
-      "category": "Biblical Studies",
-      "title": "Church of St. Stephen’s Mosaic Masterpiece",
-      "source": "Biblical Archaeology Society",
-      "date": "Fri, 20 Nov 2026 11:00:25 +0000",
-      "summary": "Visitors to Southern Israel can now admire one of the most elaborate Byzantine mosaics ever discovered in the country. Soon after it was unearthed in […]\nThe post Church of St. Stephen’s Mosaic Masterpiece appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/daily/biblical-sites-places/biblical-archaeology-sites/church-saint-stephen-mosaic-masterpiece/"
-    },
-    {
-      "category": "AI",
-      "title": "Combatting adversarial distillation",
-      "source": "OpenAI News",
-      "date": "Fri, 20 Nov 2026 10:00:00 GMT",
-      "summary": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
-      "url": "https://openai.com/index/combatting-adversarial-distillation"
-    },
-    {
-      "category": "AI",
-      "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
-      "source": "OpenAI News",
-      "date": "Fri, 20 Nov 2026 00:00:00 GMT",
-      "summary": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
-      "url": "https://openai.com/business/customer-stories/hebbia"
-    },
-    {
-      "category": "Biblical Studies",
-      "title": "Who Is Balaam Son of Beor? Part One",
-      "source": "Biblical Archaeology Society",
-      "date": "Thu, 19 Nov 2026 12:00:57 +0000",
-      "summary": "Balaam son of Beor is one of the most enigmatic figures in the Hebrew Bible, and one of the earliest to be referenced outside the […]\nThe post Who Is Balaam Son of Beor? Part One appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/daily/biblical-topics/hebrew-bible/balaam-part-one/"
     },
     {
       "category": "History",
@@ -241,14 +273,6 @@
       "date": "Wed, 18 Nov 2026 16:13:26 +0000",
       "summary": "On this week’s Dispatches, host Brady Crytzer interviews author Ryan L. Cole on his new book, The Last Adieu: Lafayette’s Triumphant Return, the Echoes of Revolution, and the Gratitude of the Republic. New episodes of Dispatches are available for free every Sunday evening(Eastern United States Time), first on iTunes, Stitcher, Google Play, Amazon Music, and […]\nThe post On This Week’s Dispatches: Ryan L. Cole on Lafayette’s Triumphant Return to the United States appeared first on Journal of the American Revolution.",
       "url": "https://allthingsliberty.com/2026/11/on-this-weeks-dispatches-ryan-l-cole-on-lafayettes-triumphant-return-to-the-united-states/"
-    },
-    {
-      "category": "History",
-      "title": "The Intelligence War for Vermont",
-      "source": "Journal of the American Revolution",
-      "date": "Mon, 16 Nov 2026 18:48:09 +0000",
-      "summary": "Capt. Justus Sherwood, a Vermont Loyalist, arrived at a Vermont frontier post in western Vermont on October 28, 1780, as a representative of the British under a flag of truce, and was brought before Col. Samuel Herrick. With him, he carried dispatches and instructions relative to a proposed exchange of prisoners. The next day, Sherwood […]\nThe post The Intelligence War for Vermont appeared first on Journal of the American Revolution.",
-      "url": "https://allthingsliberty.com/2026/11/the-intelligence-war-for-vermont/"
     },
     {
       "category": "Theology",
