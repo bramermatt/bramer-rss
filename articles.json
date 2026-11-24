@@ -1,30 +1,86 @@
 {
-  "lastUpdated": "2026-11-23T21:50:46.005Z",
+  "lastUpdated": "2026-11-24T05:41:29.802Z",
   "articleCount": 39,
   "articles": [
     {
       "category": "Science",
-      "title": "Data center policy review reveals 'chaotic' patchwork of rules across all 50 states",
+      "title": "Funding must work better for SMEs to tackle energy challenges, finds research",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Mon, 23 Nov 2026 16:50:01 EST",
-      "summary": "The artificial intelligence boom has brought with it debates about where the data centers that run the technology will be located, how big they will be and how to ensure communities benefit from them. Underlying these debates is the question of whether state and local governments should ban them outright, welcome them with open arms or choose something in between.",
-      "url": "https://phys.org/news/2026-11-center-policy-reveals-chaotic-patchwork.html"
+      "date": "Mon, 23 Nov 2026 23:20:02 EST",
+      "summary": "Scotland's small food and drink businesses face significant financial and operational barriers that could see them frozen out of vital funding to cut emissions from keeping produce cold, according to research from Heriot-Watt University.",
+      "url": "https://phys.org/news/2026-11-funding-smes-tackle-energy.html"
+    },
+    {
+      "category": "AI",
+      "title": "Drone Maps of Salvage Yards",
+      "source": "Hacker News: Front Page",
+      "date": "Tue, 24 Nov 2026 04:00:28 +0000",
+      "summary": "Article URL: https://salvageyarddrone.wordpress.com/\nComments URL: https://news.ycombinator.com/item?id=50623515\nPoints: 25\n# Comments: 8",
+      "url": "https://salvageyarddrone.wordpress.com/"
     },
     {
       "category": "Science",
-      "title": "Satellite observations show how rain breaks up Earth's natural sunshades",
+      "title": "Workplace absenteeism: Why temporary disability is a right, not an expense",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Mon, 23 Nov 2026 16:40:06 EST",
-      "summary": "Delivering on its promise, the European Space Agency's EarthCARE satellite is already yielding new insights into the role that clouds play in regulating Earth's climate. The latest findings shed light on one of the processes that leads to the breakup of vast, bright cloud formations that help keep our planet cool—with rain emerging as a key driver.",
-      "url": "https://phys.org/news/2026-11-satellite-earth-natural-sunshades.html"
+      "date": "Mon, 23 Nov 2026 22:40:01 EST",
+      "summary": "Temporary disability is a cornerstone of the public Social Security system. It is a right for all workers who fall ill and a social security benefit designed primarily to protect those who are sick, enabling them to receive medical treatment and recover or improve their condition while ensuring they have sufficient income during periods in which they are unable to work.",
+      "url": "https://phys.org/news/2026-11-workplace-absenteeism-temporary-disability-expense.html"
     },
     {
       "category": "Science",
-      "title": "Some people claim to speak many languages. But what does it really mean to be a polyglot?",
+      "title": "New light-conversion tool could help speed up quantum computing",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Mon, 23 Nov 2026 16:40:01 EST",
-      "summary": "Roughly half of the world's population speaks more than one language. But speaking two or three languages is very different from claiming proficiency in five, 10 or more.",
-      "url": "https://phys.org/news/2026-11-people-languages-polyglot.html"
+      "date": "Mon, 23 Nov 2026 22:20:01 EST",
+      "summary": "Want to break down some basics in the world of quantum research over dinner? Researchers at the Cockrell School of Engineering have you covered.",
+      "url": "https://phys.org/news/2026-11-conversion-tool-quantum.html"
+    },
+    {
+      "category": "AI",
+      "title": "Show HN: Juncts, one DM inbox for five apps that Claude and ChatGPT can work in",
+      "source": "Hacker News: Front Page",
+      "date": "Tue, 24 Nov 2026 03:16:58 +0000",
+      "summary": "Article URL: https://juncts.com/app?demo=1&utm_source=hackernews&utm_medium=launch&utm_campaign=launch-nov26\nComments URL: https://news.ycombinator.com/item?id=50623175\nPoints: 7\n# Comments: 0",
+      "url": "https://juncts.com/app?demo=1&utm_source=hackernews&utm_medium=launch&utm_campaign=launch-nov26"
+    },
+    {
+      "category": "AI",
+      "title": "Hacking radiators",
+      "source": "Hacker News: Front Page",
+      "date": "Tue, 24 Nov 2026 02:56:41 +0000",
+      "summary": "Article URL: https://qsantos.fr/2026/11/20/hacking-radiators-for-fun-and-no-profit/\nComments URL: https://news.ycombinator.com/item?id=50623020\nPoints: 10\n# Comments: 3",
+      "url": "https://qsantos.fr/2026/11/20/hacking-radiators-for-fun-and-no-profit/"
+    },
+    {
+      "category": "Science",
+      "title": " BepiColombo ends 8-year interplanetary journey to Mercury. What's next for the ambitious spacecraft? ",
+      "source": " Latest from Live Science ",
+      "date": "Mon, 23 Nov 2026 22:48:15 +0000",
+      "summary": "The BepiColombo spacecraft has overcome a last-minute computer glitch to enter orbit around Mercury — the 2nd craft in history to orbit the closest planet to the sun.",
+      "url": "https://www.livescience.com/space/bepicolombo-spacecraft-becomes-2nd-ever-mission-to-orbit-mercury-ending-8-year-interplanetary-journey"
+    },
+    {
+      "category": "Science",
+      "title": " Gold, weapons or a 'Rosetta stone': Which archaeological treasure would you most like to discover? ",
+      "source": " Latest from Live Science ",
+      "date": "Mon, 23 Nov 2026 22:20:38 +0000",
+      "summary": "From ancient coins to long-lost texts, archaeologists uncovered  countless artifacts for centuries. Live Science asks its readers which one they'd want to discover themselves.",
+      "url": "https://www.livescience.com/archaeology/gold-weapons-or-a-rosetta-stone-which-archaeological-treasure-would-you-most-like-to-discover"
+    },
+    {
+      "category": "Space",
+      "title": " Will astronauts farm on the moon? Scientists successfully grow potatoes in simulated lunar dust ",
+      "source": " Latest from Space.com ",
+      "date": "Mon, 23 Nov 2026 22:00:00 +0000",
+      "summary": "Researchers have successfully grown potatoes in simulated lunar regolith, possibly opening the door for farming on future moon bases.",
+      "url": "https://www.space.com/astronomy/moon/will-astronauts-farm-on-the-moon-scientists-successfully-grow-potatoes-in-simulated-lunar-dust"
+    },
+    {
+      "category": "AI",
+      "title": "Trump halts Iowa detonation, says new governor to blame if it blows accidentally",
+      "source": "Ars Technica",
+      "date": "Mon, 23 Nov 2026 21:58:34 +0000",
+      "summary": "The Army said on Sunday that it would carry out the detonation on Wednesday.",
+      "url": "https://arstechnica.com/health/2026/11/trump-halts-iowa-detonation-says-new-governor-to-blame-if-it-blows-accidentally/"
     },
     {
       "category": "AI",
@@ -43,28 +99,20 @@
       "url": "https://www.space.com/stargazing/skywatching-kit/join-our-free-space-com-membership-giveaway-for-a-chance-to-win-this-dwarflab-mini-smart-telescope-worth-usd419"
     },
     {
+      "category": "AI",
+      "title": "OpenAI and Cisco introduce Shirudo",
+      "source": "OpenAI News",
+      "date": "Mon, 23 Nov 2026 21:20:00 GMT",
+      "summary": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.",
+      "url": "https://openai.com/index/introducing-shirudo"
+    },
+    {
       "category": "Space",
       "title": "NASA Awards Contract for NOAA’s Near Earth Orbit Network Program",
       "source": "NASA",
       "date": "Mon, 23 Nov 2026 21:10:03 +0000",
       "summary": "NASA, on behalf of the National Oceanic and Atmospheric Administration (NOAA), has awarded a contract to Northrop Grumman Systems Corporation for the Sounder for Microwave-Based Applications (SMBA) instruments on NOAA’s Near Earth Orbit Network (NEON) satellites. The cost-plus-fixed-fee, firm-fixed-price, and time-and-materials hybrid contract has a value of $290.6 million. The period of performance runs from […]",
       "url": "https://www.nasa.gov/news-release/nasa-awards-contract-for-noaas-near-earth-orbit-network-program/"
-    },
-    {
-      "category": "AI",
-      "title": "Bored.com: Fun, interesting and cool websites to explore when bored",
-      "source": "Hacker News: Front Page",
-      "date": "Mon, 23 Nov 2026 21:01:16 +0000",
-      "summary": "Article URL: https://www.bored.com/\nComments URL: https://news.ycombinator.com/item?id=50619207\nPoints: 6\n# Comments: 0",
-      "url": "https://www.bored.com/"
-    },
-    {
-      "category": "AI",
-      "title": "The horse made the state",
-      "source": "Hacker News: Front Page",
-      "date": "Mon, 23 Nov 2026 20:59:12 +0000",
-      "summary": "Article URL: https://aeon.co/essays/the-origins-of-the-state-are-not-agrarian-but-pastoralist\nComments URL: https://news.ycombinator.com/item?id=50619186\nPoints: 15\n# Comments: 16",
-      "url": "https://aeon.co/essays/the-origins-of-the-state-are-not-agrarian-but-pastoralist"
     },
     {
       "category": "AI",
@@ -75,36 +123,12 @@
       "url": "https://arstechnica.com/space/2026/11/russia-will-launch-a-routine-iss-supply-mission-tomorrow-apparently-its-a-big-secret/"
     },
     {
-      "category": "AI",
-      "title": "Surveillance pricing uses our personal data to make us pay more",
-      "source": "Ars Technica",
-      "date": "Mon, 23 Nov 2026 20:11:43 +0000",
-      "summary": "Personalized pricing can mean unfair, and even biased, prices.",
-      "url": "https://arstechnica.com/tech-policy/2026/11/surveillance-pricing-uses-our-personal-data-to-make-us-pay-more/"
-    },
-    {
-      "category": "AI",
-      "title": "Per Arm's request, this site will be discontinued on 4 December 2026 :(",
-      "source": "Hacker News: Front Page",
-      "date": "Mon, 23 Nov 2026 19:17:55 +0000",
-      "summary": "Article URL: https://arm.jonpalmisc.com/\nComments URL: https://news.ycombinator.com/item?id=50617499\nPoints: 597\n# Comments: 119",
-      "url": "https://arm.jonpalmisc.com/"
-    },
-    {
       "category": "Space",
       "title": " How sci‑fi imagines sports in microgravity, and how zero‑g sports might actually work ",
       "source": " Latest from Space.com ",
       "date": "Mon, 23 Nov 2026 19:00:00 +0000",
       "summary": "How realistic are the zero-g sports we see in sci-fi? We talk to Les Johnson, former Chief Technologist for NASA, to find out.",
       "url": "https://www.space.com/entertainment/how-sci-fi-imagines-sports-in-microgravity-and-how-zero-g-sports-might-actually-work"
-    },
-    {
-      "category": "Space",
-      "title": " On this day in space! Nov. 23, 2015: Blue Origin sticks 1st-ever rocket landing from space with its suborbital New Shepard rocket ",
-      "source": " Latest from Space.com ",
-      "date": "Mon, 23 Nov 2026 18:10:48 +0000",
-      "summary": "On Nov. 23, 2015, a Blue Origin rocket made a historic landing after launching into suborbital space. Here's why it mattered.",
-      "url": "https://www.space.com/space-exploration/on-this-day-in-space-november-23-2026"
     },
     {
       "category": "Space",
@@ -163,14 +187,6 @@
       "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-egypt/is-sheshonq-buried-at-tanis/"
     },
     {
-      "category": "Science",
-      "title": " Hoxne 'Empress' pepper pot: A 1,600-year-old silver and gold pepper shaker that a UK farmer unearthed while looking for his hammer ",
-      "source": " Latest from Live Science ",
-      "date": "Mon, 23 Nov 2026 11:00:00 +0000",
-      "summary": "This silver pepper shaker reveals the Romans' love of the spice and the lengths they would go to procure it.",
-      "url": "https://www.livescience.com/archaeology/romans/hoxne-empress-pepper-pot-a-1-600-year-old-silver-and-gold-pepper-shaker-that-a-uk-farmer-unearthed-while-looking-for-his-hammer"
-    },
-    {
       "category": "AI",
       "title": "Connected intelligence for in-house legal",
       "source": "OpenAI News",
@@ -211,14 +227,6 @@
       "url": "https://www.thegospelcoalition.org/article/how-preach-workers/"
     },
     {
-      "category": "Science",
-      "title": " Impossible volcanic eruption spotted in deepest part of the ocean, perplexing scientists ",
-      "source": " Latest from Live Science ",
-      "date": "Mon, 23 Nov 2026 05:00:00 +0000",
-      "summary": "Scientists are perplexed at discovering the world's deepest explosive volcanic eruption at Challenger Deep in the Mariana Trench.",
-      "url": "https://www.livescience.com/planet-earth/impossible-volcanic-eruption-spotted-in-deepest-part-of-the-ocean-perplexing-scientists"
-    },
-    {
       "category": "Theology",
       "title": "The Gospel Coalition 2026 Book Awards",
       "source": "The Gospel Coalition",
@@ -241,14 +249,6 @@
       "date": "Sun, 22 Nov 2026 11:00:55 +0000",
       "summary": "The Aramaic language constitutes the eastern branch of the Northwest Semitic language family. Its closest relatives are the Canaanite dialects in the western branch of […]\nThe post What Is Aramaic? appeared first on Biblical Archaeology Society.",
       "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-near-eastern-world/what-is-aramaic/"
-    },
-    {
-      "category": "AI",
-      "title": "Perplexity and Intelligence",
-      "source": "OpenAI News",
-      "date": "Sun, 22 Nov 2026 00:00:00 GMT",
-      "summary": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
-      "url": "https://openai.com/index/perplexity-and-intelligence"
     },
     {
       "category": "History",
