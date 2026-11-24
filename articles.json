@@ -1,150 +1,238 @@
 {
-  "lastUpdated": "2026-11-24T05:41:29.802Z",
+  "lastUpdated": "2026-11-24T20:26:44.359Z",
   "articleCount": 39,
   "articles": [
     {
       "category": "Science",
-      "title": "Funding must work better for SMEs to tackle energy challenges, finds research",
+      "title": "Visible light powers new catalyst to turn carbon dioxide into industrial raw material",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Mon, 23 Nov 2026 23:20:02 EST",
-      "summary": "Scotland's small food and drink businesses face significant financial and operational barriers that could see them frozen out of vital funding to cut emissions from keeping produce cold, according to research from Heriot-Watt University.",
-      "url": "https://phys.org/news/2026-11-funding-smes-tackle-energy.html"
+      "date": "Tue, 24 Nov 2026 15:20:17 EST",
+      "summary": "Rice University researchers have demonstrated a way to split carbon dioxide using visible light without external heating, overcoming a major energy obstacle in sustainable chemical manufacturing.",
+      "url": "https://phys.org/news/2026-11-visible-powers-catalyst-carbon-dioxide.html"
+    },
+    {
+      "category": "Science",
+      "title": "California raised minimum wages for fast‑food workers—here's how it played out 2 years later",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Tue, 24 Nov 2026 15:20:06 EST",
+      "summary": "Even before the 2026 midterm elections delivered a clear message about cost-of-living concerns, many states had been raising their minimum wage on their own as one way to increase workers' purchasing power. And some have taken a more targeted approach, setting wage floors for specific industries.",
+      "url": "https://phys.org/news/2026-11-california-minimum-wages-fastfood-workers.html"
     },
     {
       "category": "AI",
-      "title": "Drone Maps of Salvage Yards",
-      "source": "Hacker News: Front Page",
-      "date": "Tue, 24 Nov 2026 04:00:28 +0000",
-      "summary": "Article URL: https://salvageyarddrone.wordpress.com/\nComments URL: https://news.ycombinator.com/item?id=50623515\nPoints: 25\n# Comments: 8",
-      "url": "https://salvageyarddrone.wordpress.com/"
+      "title": "Back-to-back measles deaths is our new reality; US tally now at 14",
+      "source": "Ars Technica",
+      "date": "Tue, 24 Nov 2026 20:00:18 +0000",
+      "summary": "Wisconsin reports 3rd measles death today; Pennsylvania reported its 9th yesterday.",
+      "url": "https://arstechnica.com/health/2026/11/measles-death-toll-rises-to-14-as-national-case-tally-nears-6000/"
     },
     {
       "category": "Science",
-      "title": "Workplace absenteeism: Why temporary disability is a right, not an expense",
+      "title": "Planktonic hyperiidean amphipod confirmed in the Aegean Sea, and a new study shows how to identify subadult males",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Mon, 23 Nov 2026 22:40:01 EST",
-      "summary": "Temporary disability is a cornerstone of the public Social Security system. It is a right for all workers who fall ill and a social security benefit designed primarily to protect those who are sick, enabling them to receive medical treatment and recover or improve their condition while ensuring they have sufficient income during periods in which they are unable to work.",
-      "url": "https://phys.org/news/2026-11-workplace-absenteeism-temporary-disability-expense.html"
-    },
-    {
-      "category": "Science",
-      "title": "New light-conversion tool could help speed up quantum computing",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Mon, 23 Nov 2026 22:20:01 EST",
-      "summary": "Want to break down some basics in the world of quantum research over dinner? Researchers at the Cockrell School of Engineering have you covered.",
-      "url": "https://phys.org/news/2026-11-conversion-tool-quantum.html"
+      "date": "Tue, 24 Nov 2026 15:00:14 EST",
+      "summary": "Amphipods change in size and shape each time they molt. When a species is told apart from its relatives by small anatomical details, this creates a practical problem: a trait that identifies an adult may be absent or different in the younger animal. A recently published study in Biodiversity Data Journal tests this problem on Phronima atlantica, a planktonic amphipod of the open ocean, and identifies which of its features stay reliable in males from the subadult to the adult stage.",
+      "url": "https://phys.org/news/2026-11-planktonic-hyperiidean-amphipod-aegean-sea.html"
     },
     {
       "category": "AI",
-      "title": "Show HN: Juncts, one DM inbox for five apps that Claude and ChatGPT can work in",
+      "title": "From CUDA and Jax to TorchTPU: Lessons from a Cayley Graph Solver",
       "source": "Hacker News: Front Page",
-      "date": "Tue, 24 Nov 2026 03:16:58 +0000",
-      "summary": "Article URL: https://juncts.com/app?demo=1&utm_source=hackernews&utm_medium=launch&utm_campaign=launch-nov26\nComments URL: https://news.ycombinator.com/item?id=50623175\nPoints: 7\n# Comments: 0",
-      "url": "https://juncts.com/app?demo=1&utm_source=hackernews&utm_medium=launch&utm_campaign=launch-nov26"
+      "date": "Tue, 24 Nov 2026 19:40:43 +0000",
+      "summary": "Article URL: https://andlukyane.com/blog/cayley-graphs-and-torchtpu\nComments URL: https://news.ycombinator.com/item?id=50633424\nPoints: 6\n# Comments: 0",
+      "url": "https://andlukyane.com/blog/cayley-graphs-and-torchtpu"
     },
     {
       "category": "AI",
-      "title": "Hacking radiators",
+      "title": "Grafana 12.4.16, 13.0.14, 13.1.11, 13.2.7 and 13.3.2 (multiple CVEs)",
       "source": "Hacker News: Front Page",
-      "date": "Tue, 24 Nov 2026 02:56:41 +0000",
-      "summary": "Article URL: https://qsantos.fr/2026/11/20/hacking-radiators-for-fun-and-no-profit/\nComments URL: https://news.ycombinator.com/item?id=50623020\nPoints: 10\n# Comments: 3",
-      "url": "https://qsantos.fr/2026/11/20/hacking-radiators-for-fun-and-no-profit/"
-    },
-    {
-      "category": "Science",
-      "title": " BepiColombo ends 8-year interplanetary journey to Mercury. What's next for the ambitious spacecraft? ",
-      "source": " Latest from Live Science ",
-      "date": "Mon, 23 Nov 2026 22:48:15 +0000",
-      "summary": "The BepiColombo spacecraft has overcome a last-minute computer glitch to enter orbit around Mercury — the 2nd craft in history to orbit the closest planet to the sun.",
-      "url": "https://www.livescience.com/space/bepicolombo-spacecraft-becomes-2nd-ever-mission-to-orbit-mercury-ending-8-year-interplanetary-journey"
-    },
-    {
-      "category": "Science",
-      "title": " Gold, weapons or a 'Rosetta stone': Which archaeological treasure would you most like to discover? ",
-      "source": " Latest from Live Science ",
-      "date": "Mon, 23 Nov 2026 22:20:38 +0000",
-      "summary": "From ancient coins to long-lost texts, archaeologists uncovered  countless artifacts for centuries. Live Science asks its readers which one they'd want to discover themselves.",
-      "url": "https://www.livescience.com/archaeology/gold-weapons-or-a-rosetta-stone-which-archaeological-treasure-would-you-most-like-to-discover"
+      "date": "Tue, 24 Nov 2026 19:23:44 +0000",
+      "summary": "Article URL: https://grafana.com/grafana/download\nComments URL: https://news.ycombinator.com/item?id=50633159\nPoints: 51\n# Comments: 11",
+      "url": "https://grafana.com/grafana/download"
     },
     {
       "category": "Space",
-      "title": " Will astronauts farm on the moon? Scientists successfully grow potatoes in simulated lunar dust ",
-      "source": " Latest from Space.com ",
-      "date": "Mon, 23 Nov 2026 22:00:00 +0000",
-      "summary": "Researchers have successfully grown potatoes in simulated lunar regolith, possibly opening the door for farming on future moon bases.",
-      "url": "https://www.space.com/astronomy/moon/will-astronauts-farm-on-the-moon-scientists-successfully-grow-potatoes-in-simulated-lunar-dust"
+      "title": "Amateur Astronomer? Be a Kilonova Catcher!",
+      "source": "NASA",
+      "date": "Tue, 24 Nov 2026 19:19:52 +0000",
+      "summary": "Neutron stars are the ultra-dense, city-sized leftovers of dead stars. When they collide, they can release a brief flash of light called a kilonova. These immensely powerful events forge much of the universe’s gold, platinum and other heavy elements. Since a kilonova fades within days, astronomers have to find it fast, and no single observatory […]",
+      "url": "https://science.nasa.gov/get-involved/citizen-science/amateur-astronomer-be-a-kilonova-catcher/"
     },
     {
       "category": "AI",
-      "title": "Trump halts Iowa detonation, says new governor to blame if it blows accidentally",
-      "source": "Ars Technica",
-      "date": "Mon, 23 Nov 2026 21:58:34 +0000",
-      "summary": "The Army said on Sunday that it would carry out the detonation on Wednesday.",
-      "url": "https://arstechnica.com/health/2026/11/trump-halts-iowa-detonation-says-new-governor-to-blame-if-it-blows-accidentally/"
-    },
-    {
-      "category": "AI",
-      "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
-      "source": "Ars Technica",
-      "date": "Mon, 23 Nov 2026 21:30:44 +0000",
-      "summary": "X says every Grok output is screened, but state AGs say Grok is still making CSAM.",
-      "url": "https://arstechnica.com/tech-policy/2026/11/states-sue-spacex-to-stop-grok-from-generating-child-sex-images-revenge-porn/"
+      "title": "Compiling Web Applications into Verified Operations for AI Agents",
+      "source": "Hacker News: Front Page",
+      "date": "Tue, 24 Nov 2026 19:12:02 +0000",
+      "summary": "Article URL: https://protocolis.co/paper/\nComments URL: https://news.ycombinator.com/item?id=50632998\nPoints: 14\n# Comments: 0",
+      "url": "https://protocolis.co/paper/"
     },
     {
       "category": "Space",
-      "title": " Join our free Space.com membership giveaway for a chance to win this Dwarflab mini smart telescope worth $419! ",
+      "title": "NASA’s Northrop Grumman CRS-25 Mission Overview ",
+      "source": "NASA",
+      "date": "Tue, 24 Nov 2026 19:09:16 +0000",
+      "summary": "NASA’s Northrop Grumman Commercial Resupply Services 25 mission, or Northrop Grumman CRS-25, will deliver about 11,000 pounds of science and supplies to the International Space Station. The mission will be the third flight of the company’s Cygnus XL, the larger, more cargo-capable version of the company’s solar-powered spacecraft. The Cygnus XL will launch aboard a […]",
+      "url": "https://www.nasa.gov/missions/station/nasas-northrop-grumman-crs-25-mission-overview/"
+    },
+    {
+      "category": "Space",
+      "title": " 1st-ever detection of a dying star's 'final nuclear heartbeat' challenges what we know about our sun's eventual death ",
       "source": " Latest from Space.com ",
-      "date": "Mon, 23 Nov 2026 21:21:13 +0000",
-      "summary": "Our Space.com Community team just launched a new giveaway exclusively for our Space+ members. Join free now for a chance to win a Dwarflab Mini smart telescope.",
-      "url": "https://www.space.com/stargazing/skywatching-kit/join-our-free-space-com-membership-giveaway-for-a-chance-to-win-this-dwarflab-mini-smart-telescope-worth-usd419"
+      "date": "Tue, 24 Nov 2026 19:00:00 +0000",
+      "summary": "Astronomers have caught a rare transitional phase at the end of a star's life, a fossilized remnant of stellar death throes, that could change our picture of the sun's final days.",
+      "url": "https://www.space.com/astronomy/stars/1st-ever-detection-of-a-dying-stars-final-nuclear-heartbeat-challenges-what-we-know-about-our-suns-eventual-death"
+    },
+    {
+      "category": "Space",
+      "title": "AGU Hyperwall Schedule",
+      "source": "NASA",
+      "date": "Tue, 24 Nov 2026 18:55:42 +0000",
+      "summary": "American Geophysical Union (AGU) 2026 Join NASA in the Exhibit Hall (Booth #525) for Hyperwall Storytelling by NASA experts. Full Hyperwall Agenda below. TUESDAY, NOVEMBER 17 10:30 AMHigh Resolution Hydrology Simulations and Agentic Super Intelligence Interfaces for Mapping Water Availability and ExtremesSujay Kumar11:00 AMScale-Resolving CFD Methods for Predicting Aircraft “Edge of the Flight Envelope” PerformanceJared […]",
+      "url": "https://science.nasa.gov/earth/agu-hyperwall-schedule/"
     },
     {
       "category": "AI",
-      "title": "OpenAI and Cisco introduce Shirudo",
+      "title": "Amazon drone crashes on garage after delivering shampoo, draws FAA probe",
+      "source": "Ars Technica",
+      "date": "Tue, 24 Nov 2026 18:47:57 +0000",
+      "summary": "Amazon says Prime Air drones made “hundreds of thousands” of deliveries in 2026.",
+      "url": "https://arstechnica.com/gadgets/2026/11/faa-opens-probe-after-amazon-delivery-drone-clips-cable-crashes-into-garage/"
+    },
+    {
+      "category": "AI",
+      "title": "Amazon discovers Falcon 9 and Ariane 6 can deliver when nobody else can",
+      "source": "Ars Technica",
+      "date": "Tue, 24 Nov 2026 18:30:36 +0000",
+      "summary": "Amazon has hundreds of satellites in storage waiting for rides to space.",
+      "url": "https://arstechnica.com/space/2026/11/amazon-surges-launches-with-rival-spacex-after-ula-fails-to-deliver/"
+    },
+    {
+      "category": "Science",
+      "title": " 'The worry was that I was totally out of my league': How Francis Halzen bet his career on 'ghost particles' beneath the South Pole — and won the 2026 Nobel Prize in Physics ",
+      "source": " Latest from Live Science ",
+      "date": "Tue, 24 Nov 2026 18:27:32 +0000",
+      "summary": "Live Science spoke with Nobel laureate Francis Halzen on how he got into physics \"by accident\" and built a neutrino detector that changed it forever.",
+      "url": "https://www.livescience.com/physics-mathematics/particle-physics/the-worry-was-that-i-was-totally-out-of-my-league-how-francis-halzen-bet-his-career-on-ghost-particles-beneath-the-south-pole-and-won-the-2026-nobel-prize-in-physics"
+    },
+    {
+      "category": "Science",
+      "title": " It's time to look at Uranus: How to see the solar system's strangest planet at its best this week ",
+      "source": " Latest from Live Science ",
+      "date": "Tue, 24 Nov 2026 18:12:55 +0000",
+      "summary": "On Wednesday (Nov. 25), the distant ice giant Uranus will be at its best and brightest. Here's when, where and how to look for the seventh planet.",
+      "url": "https://www.livescience.com/space/uranus/uranus-reaches-opposition-how-to-see-the-solar-systems-strangest-planet-at-its-best-this-week"
+    },
+    {
+      "category": "Science",
+      "title": " 'A new record in quantum error correction': Scientists say breakthrough brings powerful, fault-tolerant quantum computers closer to reality ",
+      "source": " Latest from Live Science ",
+      "date": "Tue, 24 Nov 2026 16:00:00 +0000",
+      "summary": "Quantinuum's Helios processor achieved a record-low failure rate of just 0.0005%, suggesting fault-tolerant quantum systems may need far fewer qubits than previously thought.",
+      "url": "https://www.livescience.com/technology/quantum/a-new-record-in-quantum-error-correction-scientists-say-breakthrough-brings-powerful-fault-tolerant-quantum-computers-closer-to-reality"
+    },
+    {
+      "category": "Space",
+      "title": " YunLone Galaxy star projector review — a sub-$30 customizable night light ",
+      "source": " Latest from Space.com ",
+      "date": "Tue, 24 Nov 2026 15:00:00 +0000",
+      "summary": "The YunLone Galaxy Projector is inexpensive but competent and offers a surprising amount of customization.",
+      "url": "https://www.space.com/technology/yunlone-galaxy-star-projector-review"
+    },
+    {
+      "category": "Space",
+      "title": " Double asteroid solar eclipse caught on camera | Space photo of the day for Nov. 24, 2026 ",
+      "source": " Latest from Space.com ",
+      "date": "Tue, 24 Nov 2026 15:00:00 +0000",
+      "summary": "A spacecraft far from Earth beamed home a rare sight: a solar eclipse caused by one asteroid casting its shadow on another.",
+      "url": "https://www.space.com/astronomy/asteroids/double-asteroid-solar-eclipse-caught-on-camera-space-photo-of-the-day-for-nov-24-2026"
+    },
+    {
+      "category": "Biblical Studies",
+      "title": "10 Things to Know About the Assyrian Empire",
+      "source": "Biblical Archaeology Society",
+      "date": "Tue, 24 Nov 2026 12:00:46 +0000",
+      "summary": "The Assyrians referenced in the Hebrew Bible were a mighty force that exerted power over much of the Near East, including Israel and Judah, in the ninth through seventh centuries B.C.E.\nThe post 10 Things to Know About the Assyrian Empire appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-near-eastern-world/10-things-to-know-about-the-assyrian-empire/"
+    },
+    {
+      "category": "Biblical Studies",
+      "title": "The Egyptian Journey of Jeremiah in the Bible",
+      "source": "Biblical Archaeology Society",
+      "date": "Tue, 24 Nov 2026 12:00:40 +0000",
+      "summary": "When the biblical prophet Jeremiah decided to leave Judah and spend the rest of his life in Egyptian exile (Jeremiah 43), it must have been […]\nThe post The Egyptian Journey of Jeremiah in the Bible appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-egypt/the-egyptian-journey-of-jeremiah-in-the-bible/"
+    },
+    {
+      "category": "Science",
+      "title": "2,200-year-old Roman shipwreck reveals an ingenious waterproofing trick",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Tue, 24 Nov 2026 06:09:06 EST",
+      "summary": "A 2,200-year-old Roman shipwreck has revealed sophisticated waterproofing techniques involving pine tar and beeswax. Microscopic pollen grains trapped in the ancient coatings are now helping scientists reconstruct where the vessel may have traveled and undergone repairs more than two millennia ago.",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261123232342.htm"
+    },
+    {
+      "category": "AI",
+      "title": "Searching for distant planets with Astra",
       "source": "OpenAI News",
-      "date": "Mon, 23 Nov 2026 21:20:00 GMT",
-      "summary": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.",
-      "url": "https://openai.com/index/introducing-shirudo"
+      "date": "Tue, 24 Nov 2026 11:00:00 GMT",
+      "summary": "See how two amateur astronomers used Codex and Astra to find potential exoplanets in public data from NASA’s Kepler and TESS space telescopes.",
+      "url": "https://openai.com/index/searching-for-distant-planets-with-astra"
     },
     {
-      "category": "Space",
-      "title": "NASA Awards Contract for NOAA’s Near Earth Orbit Network Program",
-      "source": "NASA",
-      "date": "Mon, 23 Nov 2026 21:10:03 +0000",
-      "summary": "NASA, on behalf of the National Oceanic and Atmospheric Administration (NOAA), has awarded a contract to Northrop Grumman Systems Corporation for the Sounder for Microwave-Based Applications (SMBA) instruments on NOAA’s Near Earth Orbit Network (NEON) satellites. The cost-plus-fixed-fee, firm-fixed-price, and time-and-materials hybrid contract has a value of $290.6 million. The period of performance runs from […]",
-      "url": "https://www.nasa.gov/news-release/nasa-awards-contract-for-noaas-near-earth-orbit-network-program/"
+      "category": "Science",
+      "title": "Earth's next ice age may have already begun. Global warming stopped it",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Tue, 24 Nov 2026 04:29:15 EST",
+      "summary": "Scientists have uncovered surprising evidence that Earth’s next ice age may have already begun, only to be stopped by global warming. By studying ancient plants preserved beneath the Barnes Ice Cap in the Canadian Arctic, researchers discovered that the remnants of a massive ice sheet began expanding again about 2,000 years ago, signaling the possible start of a new glacial period. But by the 1960s, rising temperatures had reversed that growth, causing the ice to shrink instead.",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261123005350.htm"
+    },
+    {
+      "category": "History",
+      "title": "Richard Oswald—War Advisor and Treaty Negotiator",
+      "source": "Journal of the American Revolution",
+      "date": "Tue, 24 Nov 2026 09:00:24 +0000",
+      "summary": "By 1782, the American Revolution was reaching the point where negotiations needed to begin between the weary combatants. To this end, the Americans assembled their A-Team. They started with Benjamin Franklin and shortly thereafter added John Jay and John Adams, with Henry Laurens, recently released from imprisonment in the Tower of London, arriving the day […]\nThe post Richard Oswald—War Advisor and Treaty Negotiator appeared first on Journal of the American Revolution.",
+      "url": "https://allthingsliberty.com/2026/11/richard-oswald-war-advisor-and-treaty-negotiator/"
+    },
+    {
+      "category": "Theology",
+      "title": "The Church Needs to Know Its History",
+      "source": "The Gospel Coalition",
+      "date": "Tue, 24 Nov 2026 05:05:00 +0000",
+      "summary": "Readers of this first volume of ‘Church History for Everyone’ won’t get a complete understanding of church history, but DeYoung provides a doorway through which  ordinary Christians can learn to explore primary sources and more comprehensive surveys on their own.",
+      "url": "https://www.thegospelcoalition.org/reviews/church-know-its-history/"
+    },
+    {
+      "category": "Theology",
+      "title": "Help! My Bible Reading Feels Dead.",
+      "source": "The Gospel Coalition",
+      "date": "Tue, 24 Nov 2026 05:02:00 +0000",
+      "summary": "Every passage takes its place in a larger drama. At the center of that drama stands a Person.",
+      "url": "https://www.thegospelcoalition.org/article/bible-reading-feels-dead/"
+    },
+    {
+      "category": "Theology",
+      "title": "5 Reasons Why It’s Hard to Discuss Our AI Fears",
+      "source": "The Gospel Coalition",
+      "date": "Tue, 24 Nov 2026 05:00:00 +0000",
+      "summary": "Christians aren’t remotely ready for the age of AI. Learn more about it and be ready to draw the line.",
+      "url": "https://www.thegospelcoalition.org/article/hard-discuss-ai-fears/"
     },
     {
       "category": "AI",
-      "title": "Russia will launch a routine ISS supply mission tomorrow—apparently, it's a big secret",
-      "source": "Ars Technica",
-      "date": "Mon, 23 Nov 2026 20:34:51 +0000",
-      "summary": "\"I would ask you to please reach out to Roscosmos directly.\"",
-      "url": "https://arstechnica.com/space/2026/11/russia-will-launch-a-routine-iss-supply-mission-tomorrow-apparently-its-a-big-secret/"
+      "title": "How Intentful uses dots to make more time for growth",
+      "source": "OpenAI News",
+      "date": "Tue, 24 Nov 2026 00:00:00 GMT",
+      "summary": "Marina Petrova’s dot Aria helps research websites and build proposals, while proactively flagging messages and resolving issues.",
+      "url": "https://openai.com/business/customer-stories/intentful-dots"
     },
     {
-      "category": "Space",
-      "title": " How sci‑fi imagines sports in microgravity, and how zero‑g sports might actually work ",
-      "source": " Latest from Space.com ",
-      "date": "Mon, 23 Nov 2026 19:00:00 +0000",
-      "summary": "How realistic are the zero-g sports we see in sci-fi? We talk to Les Johnson, former Chief Technologist for NASA, to find out.",
-      "url": "https://www.space.com/entertainment/how-sci-fi-imagines-sports-in-microgravity-and-how-zero-g-sports-might-actually-work"
-    },
-    {
-      "category": "Space",
-      "title": "Studying Cancer Cells in Microgravity",
-      "source": "NASA",
-      "date": "Mon, 23 Nov 2026 17:28:37 +0000",
-      "summary": "This Nov. 19, 2026, image shows gastric microtumors grown within an Encapsulates biochip. The Encapsulate-1 investigation studies patient-derived tumor samples aboard the International Space Station to better understand how cancer cells move and interact in microgravity. The results could help researchers develop further testing to predict a patient’s risk of metastasis and support more personalized […]",
-      "url": "https://www.nasa.gov/image-article/studying-cancer-cells-in-microgravity/"
-    },
-    {
-      "category": "Space",
-      "title": "NASA Seeks Partners to Design First Nuclear Reactor for the Moon ",
-      "source": "NASA",
-      "date": "Mon, 23 Nov 2026 17:23:50 +0000",
-      "summary": "NASA is seeking industry partners to develop and test the first nuclear reactor designed to provide electricity on the Moon, a major step toward establishing a sustained human presence on the lunar surface.  Lunar Reactor-1 (LR-1) will be a small fission power system that will generate 20 kilowatts of electricity, enough to power approximately 16 […]",
-      "url": "https://www.nasa.gov/directorates/rtmd/nasa-seeks-partners-to-design-first-nuclear-reactor-for-the-moon/"
+      "category": "AI",
+      "title": "How iFood scales coding agents across 15,000 repositories",
+      "source": "OpenAI News",
+      "date": "Tue, 24 Nov 2026 00:00:00 GMT",
+      "summary": "",
+      "url": "https://openai.com/business/customer-stories/ifood"
     },
     {
       "category": "History",
@@ -164,91 +252,11 @@
     },
     {
       "category": "Science",
-      "title": " Live Science crossword puzzle #70: The 'A' in AC/DC — 10 across ",
-      "source": " Latest from Live Science ",
-      "date": "Mon, 23 Nov 2026 11:21:08 +0000",
-      "summary": "Test your knowledge on all things science with our weekly, free crossword puzzle!",
-      "url": "https://www.livescience.com/human-behavior/arts-entertainment/live-science-crossword-puzzle-70-the-a-in-ac-dc-10-across"
-    },
-    {
-      "category": "Science",
-      "title": "Two monster black holes from the dawn of time defy explanation",
+      "title": "Earth's core may be leaking a 4.5-billion-year-old secret",
       "source": "All Top News -- ScienceDaily",
-      "date": "Mon, 23 Nov 2026 06:21:06 EST",
-      "summary": "Astronomers have discovered the oldest known compact pair of quasars, powered by two enormous black holes that existed just 900 million years after the Big Bang. Weighing an astonishing 1.5 billion and 400 million times the mass of the Sun, these cosmic giants somehow grew to incredible sizes far earlier than current theories can explain.",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261122060342.htm"
-    },
-    {
-      "category": "Biblical Studies",
-      "title": "Is Sheshonq Buried at Tanis?",
-      "source": "Biblical Archaeology Society",
-      "date": "Mon, 23 Nov 2026 11:00:48 +0000",
-      "summary": "While carrying out conservation work within the tomb of Pharaoh Osorkon II (r. 872–837 BCE), a French archaeology team was shocked to discover a trove […]\nThe post Is Sheshonq Buried at Tanis? appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-egypt/is-sheshonq-buried-at-tanis/"
-    },
-    {
-      "category": "AI",
-      "title": "Connected intelligence for in-house legal",
-      "source": "OpenAI News",
-      "date": "Mon, 23 Nov 2026 08:00:00 GMT",
-      "summary": "Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Cooley’s Richard Segal explore how AI can help in-house legal teams connect business context, build reusable workflows and get more from outside counsel.",
-      "url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal"
-    },
-    {
-      "category": "AI",
-      "title": "Richpanel helps companies automate 50% of support in 30 days",
-      "source": "OpenAI News",
-      "date": "Mon, 23 Nov 2026 08:00:00 GMT",
-      "summary": "Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna for their conversations.",
-      "url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support"
-    },
-    {
-      "category": "Science",
-      "title": "Archaeologists reveal a powerful Iron Age king may have been a woman",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Mon, 23 Nov 2026 00:30:23 EST",
-      "summary": "Archaeologists have uncovered evidence that Verica, the Iron Age ruler whose exile helped trigger Rome’s invasion of Britain in AD 43, was actually a woman. The discovery challenges centuries of historical assumptions and suggests that a largely forgotten female leader may have changed the course of British history.",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261122060338.htm"
-    },
-    {
-      "category": "Theology",
-      "title": "Leverage Church History for Ministry",
-      "source": "The Gospel Coalition",
-      "date": "Mon, 23 Nov 2026 05:04:00 +0000",
-      "summary": "Matt Smethurst and Ligon Duncan discuss how pastors can use church history to strengthen their preaching, encourage their congregations, understand historic Christian beliefs, and learn from believers who have gone before us.",
-      "url": "https://www.thegospelcoalition.org/podcasts/everyday-pastor/leverage-church-history-ministry/"
-    },
-    {
-      "category": "Theology",
-      "title": "How to Preach to Workers",
-      "source": "The Gospel Coalition",
-      "date": "Mon, 23 Nov 2026 05:02:00 +0000",
-      "summary": "The New Testament offers two paradigms for how preachers can consider workers in their teaching.",
-      "url": "https://www.thegospelcoalition.org/article/how-preach-workers/"
-    },
-    {
-      "category": "Theology",
-      "title": "The Gospel Coalition 2026 Book Awards",
-      "source": "The Gospel Coalition",
-      "date": "Mon, 23 Nov 2026 05:00:00 +0000",
-      "summary": "The Gospel Coalition selects the best Christian books published in 2026 in our annual TGC Book Awards.",
-      "url": "https://www.thegospelcoalition.org/article/tgc-book-awards-2026/"
-    },
-    {
-      "category": "Science",
-      "title": "This tiny spider named after Stephen Colbert has a genome 50% larger than a human’s",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Sun, 22 Nov 2026 22:54:27 EST",
-      "summary": "A tiny California trapdoor spider named after Stephen Colbert has a genome roughly 50% larger than a human's, despite being only about the size of a quarter. Scientists discovered that its enormous genome contains 4.6 billion DNA base pairs and 52 chromosomes, revealing surprising clues about spider evolution.",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261122060343.htm"
-    },
-    {
-      "category": "Biblical Studies",
-      "title": "What Is Aramaic?",
-      "source": "Biblical Archaeology Society",
-      "date": "Sun, 22 Nov 2026 11:00:55 +0000",
-      "summary": "The Aramaic language constitutes the eastern branch of the Northwest Semitic language family. Its closest relatives are the Canaanite dialects in the western branch of […]\nThe post What Is Aramaic? appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-near-eastern-world/what-is-aramaic/"
+      "date": "Mon, 23 Nov 2026 00:53:36 EST",
+      "summary": "Scientists have discovered an unusual carbon signature in Hawaiian volcanic rocks that suggests some of Earth's carbon originated in ancient meteorites and later escaped from deep within the planet's core. The discovery raises an astonishing possibility: Carbon essential to life may have traveled from space to Earth's depths before emerging through volcanoes billions of years later.",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261123005336.htm"
     },
     {
       "category": "History",
@@ -265,14 +273,6 @@
       "date": "Wed, 18 Nov 2026 19:49:58 +0000",
       "summary": "The gathered church, then, isn’t just important at the start of the Christian life; it remains essential to our ongoing discipleship. Week by week, our earthly gatherings reflect the heavenly reality we’re being prepared for.\nThe post The Word Creates the People: A Biblical Theology of God’s Word for the Life of the Church appeared first on 9Marks.",
       "url": "https://www.9marks.org/article/the-word-creates-the-people-a-biblical-theology-of-gods-word-for-the-life-of-the-church/?utm_source=rss&utm_medium=rss&utm_campaign=the-word-creates-the-people-a-biblical-theology-of-gods-word-for-the-life-of-the-church"
-    },
-    {
-      "category": "History",
-      "title": "On This Week’s Dispatches: Ryan L. Cole on Lafayette’s Triumphant Return to the United States",
-      "source": "Journal of the American Revolution",
-      "date": "Wed, 18 Nov 2026 16:13:26 +0000",
-      "summary": "On this week’s Dispatches, host Brady Crytzer interviews author Ryan L. Cole on his new book, The Last Adieu: Lafayette’s Triumphant Return, the Echoes of Revolution, and the Gratitude of the Republic. New episodes of Dispatches are available for free every Sunday evening(Eastern United States Time), first on iTunes, Stitcher, Google Play, Amazon Music, and […]\nThe post On This Week’s Dispatches: Ryan L. Cole on Lafayette’s Triumphant Return to the United States appeared first on Journal of the American Revolution.",
-      "url": "https://allthingsliberty.com/2026/11/on-this-weeks-dispatches-ryan-l-cole-on-lafayettes-triumphant-return-to-the-united-states/"
     },
     {
       "category": "Theology",
