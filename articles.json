@@ -1,158 +1,222 @@
 {
-  "lastUpdated": "2026-11-25T04:43:37.527Z",
+  "lastUpdated": "2026-11-25T19:41:06.937Z",
   "articleCount": 39,
   "articles": [
     {
-      "category": "Science",
-      "title": "New EU Bureaucracy Index: EU law has more than doubled since 2010",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Tue, 24 Nov 2026 23:40:01 EST",
-      "summary": "The new EU Bureaucracy Index measures the volume of EU law in force, and it shows a record high: At the end of 2025, the EU regulations and directives in force comprised around 47,600 standard pages, 118% more than in 2010. The volume of EU law has thus more than doubled in 15 years, and it continued to grow in 2025. The main drivers are sanctions regulations and new sets of rules in environmental, consumer and health law.",
-      "url": "https://phys.org/news/2026-11-eu-bureaucracy-index-law.html"
-    },
-    {
-      "category": "AI",
-      "title": "Show HN: U.S. Interstate Weather",
-      "source": "Hacker News: Front Page",
-      "date": "Wed, 25 Nov 2026 04:35:32 +0000",
-      "summary": "In case you're going on a road trip this week in the lower 48 (Thanksgiving is a big U.S holiday on Thursday).\nComments URL: https://news.ycombinator.com/item?id=50638523\nPoints: 3\n# Comments: 1",
-      "url": "https://www.interstateweather.com/"
+      "category": "Theology",
+      "title": "The Word Made Flesh: New 75-Song Advent Playlist",
+      "source": "The Gospel Coalition",
+      "date": "Sat, 28 Nov 2026 05:02:00 +0000",
+      "summary": "Brett McCracken curates a low-key collection of songs meant to draw you into doctrinal reflection this Advent.",
+      "url": "https://www.thegospelcoalition.org/article/advent-playlist-2026/"
     },
     {
       "category": "Science",
-      "title": "Queensland keeps learning disaster lessons. So why do we keep forgetting them?",
+      "title": "Simulations reveal how a solar vortex and reconnecting magnetic fields can launch a rotating jet",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Tue, 24 Nov 2026 23:00:02 EST",
-      "summary": "After an early start to Queensland's storm season, with severe storms and flooding already affecting communities across the state, attention is once again turning to disaster preparedness and response.",
-      "url": "https://phys.org/news/2026-11-queensland-disaster-lessons.html"
-    },
-    {
-      "category": "AI",
-      "title": "Marginalia Search, Money, C++, Rust, AI, Stuff",
-      "source": "Hacker News: Front Page",
-      "date": "Wed, 25 Nov 2026 03:47:42 +0000",
-      "summary": "Article URL: https://www.marginalia.nu/log/a_141_marginalia_update/\nComments URL: https://news.ycombinator.com/item?id=50638220\nPoints: 21\n# Comments: 2",
-      "url": "https://www.marginalia.nu/log/a_141_marginalia_update/"
-    },
-    {
-      "category": "AI",
-      "title": "A faster algorithm for extracting hexadecimal digits of π",
-      "source": "Hacker News: Front Page",
-      "date": "Wed, 25 Nov 2026 03:28:42 +0000",
-      "summary": "Article URL: https://www.stylewarning.com/posts/faster-digit-extraction/\nComments URL: https://news.ycombinator.com/item?id=50638075\nPoints: 6\n# Comments: 0",
-      "url": "https://www.stylewarning.com/posts/faster-digit-extraction/"
+      "date": "Wed, 25 Nov 2026 14:40:10 EST",
+      "summary": "Solar spicules are slender jets commonly found in the chromosphere. They lift relatively cool plasma from the lower solar atmosphere, carry energy upward, and in some cases rotate as they evolve. Small-scale vortices also occur frequently between convection-driven granules in the photosphere. Two questions remain incompletely answered: how these photospheric vortices help form spicules, and how much mass and energy the rising jets carry into the corona.",
+      "url": "https://phys.org/news/2026-11-simulations-reveal-solar-vortex-reconnecting.html"
     },
     {
       "category": "Science",
-      "title": "A star's 'obliquity' likely has little impact on a given planet's habitability",
+      "title": "Without marine life, atmospheric CO₂ would shoot up by up to 65% by the end of the century",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Tue, 24 Nov 2026 22:20:01 EST",
-      "summary": "A star's axial tilt as it relates to the circumstellar disk that surrounds it is known as stellar obliquity. Over space and time, there are a myriad of solar-type stars with all sorts of obliquities. But the question heretofore has always been what effect a given star's initial obliquity has on the planetary system that forms around it.",
-      "url": "https://phys.org/news/2026-11-star-obliquity-impact-planet-habitability.html"
+      "date": "Wed, 25 Nov 2026 14:30:01 EST",
+      "summary": "Without marine organisms transporting carbon into the deep ocean, the accumulation of carbon dioxide in the atmosphere would be drastically higher in the year 2100, reaching levels between 35% and 65% higher than projected. This is one of the main conclusions of the new policy brief developed within the framework of the European OceanICU project, which was presented at the United Nations Climate Change Conference (COP31) in Türkiye.",
+      "url": "https://phys.org/news/2026-11-marine-life-atmospheric-century.html"
+    },
+    {
+      "category": "Science",
+      "title": "Structural agility of 2D crystals enables digital doping of graphene superlattices",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Wed, 25 Nov 2026 14:20:06 EST",
+      "summary": "A study published in Nature has demonstrated that applying an electric field can switch the atomic arrangement in a stack of two-dimensional (2D) crystals, accompanied by an unusual charge behavior. This provides a new experimental platform for exploring how the structural and electronic properties of atomically thin materials interact.",
+      "url": "https://phys.org/news/2026-11-agility-2d-crystals-enables-digital.html"
+    },
+    {
+      "category": "AI",
+      "title": "Holy Shit Holy Shit Holy Shit Holy Shit [Algorithmic Complexity Lower Bounds]",
+      "source": "Hacker News: Front Page",
+      "date": "Wed, 25 Nov 2026 19:11:27 +0000",
+      "summary": "Article URL: https://scottaaronson.blog/?p=10379\nComments URL: https://news.ycombinator.com/item?id=50646108\nPoints: 35\n# Comments: 9",
+      "url": "https://scottaaronson.blog/?p=10379"
     },
     {
       "category": "Space",
-      "title": " How to watch 'Blade Runner 2099' online — stream the sci-fi sequel series from anywhere ",
-      "source": " Latest from Space.com ",
-      "date": "Wed, 25 Nov 2026 01:00:00 +0000",
-      "summary": "How to watch \"Blade Runner 2099\", the cyberpunk spinoff starring Hunter Schafer and Michelle Yeoh. Cheapest options, where to watch in US, UK, Canada, Australia and beyond.",
-      "url": "https://www.space.com/entertainment/space-movies-shows/how-to-watch-blade-runner-2099-online-stream-the-sci-fi-sequel-series-from-anywhere"
+      "title": "NASA Enhances Supplier Program, Announces Mentor-Protégé Agreement",
+      "source": "NASA",
+      "date": "Wed, 25 Nov 2026 19:06:56 +0000",
+      "summary": "How NASA works with small businesses is evolving, and as a result, the agency is strengthening the domestic aerospace industrial base to support future exploration missions through its recently renamed Small Business Supplier Development Program. As part of the program, NASA announced its latest Mentor-Protégé Agreement, this one signed between The Boeing Company and GRACE […]",
+      "url": "https://www.nasa.gov/organizations/osbp/nasa-enhances-supplier-program-announces-mentor-protege-agreement/"
     },
     {
       "category": "Science",
-      "title": "New nose drops restore youthful memory and fight Alzheimer’s in aging mice",
+      "title": " 'Like designing a new key to open a defective lock': AI-designed protein tricks defective insulin receptors into working ",
+      "source": " Latest from Live Science ",
+      "date": "Wed, 25 Nov 2026 19:00:00 +0000",
+      "summary": "Scientists reported that an AI-designed protein can activate broken insulin receptors in lab mice, hinting at a potential new treatment for some forms of severe insulin resistance.",
+      "url": "https://www.livescience.com/health/medicine-drugs/like-designing-a-new-key-to-open-a-defective-lock-ai-designed-protein-tricks-defective-insulin-receptors-into-working"
+    },
+    {
+      "category": "Space",
+      "title": " SpaceX Starship debris becomes art in Ashley Zelinskie's 'The Weight of Space' (video, photos) ",
+      "source": " Latest from Space.com ",
+      "date": "Wed, 25 Nov 2026 19:00:00 +0000",
+      "summary": "Explore Ashley Zelinskie's 'The Weight of Space' Monuments in marble, Ejecta prints, Launch Sequence sculptures and interactive Crowded Sky at Heft Gallery in New York City.",
+      "url": "https://www.space.com/entertainment/spacex-starship-debris-becomes-art-in-ashley-zelinskies-the-weight-of-space-video-photos"
+    },
+    {
+      "category": "AI",
+      "title": "SpaceX wins FCC approval to deploy 1M orbital data center satellites",
+      "source": "Hacker News: Front Page",
+      "date": "Wed, 25 Nov 2026 18:59:43 +0000",
+      "summary": "Article URL: https://www.cnbc.com/2026/11/25/spacex-fcc-satellite-approval.html\nComments URL: https://news.ycombinator.com/item?id=50645978\nPoints: 25\n# Comments: 19",
+      "url": "https://www.cnbc.com/2026/11/25/spacex-fcc-satellite-approval.html"
+    },
+    {
+      "category": "Space",
+      "title": " Green light for Starmind: SpaceX gets approval to deploy 1 million AI satellites ",
+      "source": " Latest from Space.com ",
+      "date": "Wed, 25 Nov 2026 18:49:15 +0000",
+      "summary": "The FCC has given SpaceX approval to deploy one million of its Starmind AI data-center satellites in orbit, a move that could transform the landscape of the final frontier.",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/green-light-for-starmind-spacex-gets-approval-to-deploy-1-million-ai-satellites"
+    },
+    {
+      "category": "AI",
+      "title": "Backblaze explains why it's sharing customer information with advertisers",
+      "source": "Ars Technica",
+      "date": "Wed, 25 Nov 2026 18:38:29 +0000",
+      "summary": "Backblaze tells Ars it won't share users' backup, storage files with advertisers.",
+      "url": "https://arstechnica.com/information-technology/2026/11/backblaze-explains-why-its-sharing-customer-information-with-advertisers/"
+    },
+    {
+      "category": "AI",
+      "title": "The FCC has authorized SpaceX to deploy 1 million satellites",
+      "source": "Ars Technica",
+      "date": "Wed, 25 Nov 2026 18:22:38 +0000",
+      "summary": "This constellation would increase the number of satellites in orbit by roughly 50-fold.",
+      "url": "https://arstechnica.com/space/2026/11/the-fcc-has-authorized-spacex-to-deploy-1-million-satellites/"
+    },
+    {
+      "category": "Space",
+      "title": " ‘Blade Runner 2099’ cast praise the incredible set designs that brought the sci-fi universe to life: ‘it was all so well-realized’ (interview) ",
+      "source": " Latest from Space.com ",
+      "date": "Wed, 25 Nov 2026 18:00:00 +0000",
+      "summary": "'Throwing myself into that, especially after how well Silka crafted the story and script, was something I was totally ready for.'",
+      "url": "https://www.space.com/entertainment/space-movies-shows/blade-runner-2099-cast-praise-the-incredible-set-designs-that-brought-the-sci-fi-universe-to-life-it-was-all-so-well-realized-interview"
+    },
+    {
+      "category": "Space",
+      "title": "NASA Eyes Crop Candidates for Future Menus",
+      "source": "NASA",
+      "date": "Wed, 25 Nov 2026 17:53:42 +0000",
+      "summary": "As NASA prepares for future missions to the Moon and Mars, researchers are studying crops that could provide astronauts with fresh food, nutrition, and variety far from Earth. Such crop variety can help with menus in deep space, something top of mind this week as the nation celebrates Thanksgiving.    Recent testing points to strawberries, […]",
+      "url": "https://science.nasa.gov/directorates/smd/nasa-eyes-crop-candidates-for-future-menus/"
+    },
+    {
+      "category": "Science",
+      "title": " California braces for triple flooding threat as 'king tides' overlap with 'super' El Niño ",
+      "source": " Latest from Live Science ",
+      "date": "Wed, 25 Nov 2026 17:52:45 +0000",
+      "summary": "Exceptionally high tides, El Niño-fueled conditions and abnormally warm water are converging on California's coast, with authorities urging residents to limit unnecessary travel this Thanksgiving.",
+      "url": "https://www.livescience.com/planet-earth/rivers-oceans/california-braces-for-triple-flooding-threat-as-king-tides-overlap-with-super-el-nino"
+    },
+    {
+      "category": "AI",
+      "title": "Britain's ghost stations",
+      "source": "Hacker News: Front Page",
+      "date": "Wed, 25 Nov 2026 17:43:46 +0000",
+      "summary": "https://archive.ph/pfVdX\nComments URL: https://news.ycombinator.com/item?id=50645074\nPoints: 26\n# Comments: 3",
+      "url": "https://spectator.com/article/britains-ghost-stations-are-fascinating/"
+    },
+    {
+      "category": "AI",
+      "title": "Ladybird browser's first downloadable alpha is surprisingly capable",
+      "source": "Ars Technica",
+      "date": "Wed, 25 Nov 2026 17:33:30 +0000",
+      "summary": "An independent browser engine arrives on Linux and macOS, and we've tried it.",
+      "url": "https://arstechnica.com/gadgets/2026/11/ladybirds-new-alpha-shows-theres-life-beyond-chromium/"
+    },
+    {
+      "category": "Space",
+      "title": "Childhood, Career Come Full Circle for Budget Analyst at NASA Goddard",
+      "source": "NASA",
+      "date": "Wed, 25 Nov 2026 16:47:29 +0000",
+      "summary": "Conversations about NASA were the norm around the dinner table during Ashley Knight’s childhood. Her parents worked at NASA’s Goddard Space Flight Center in Greenbelt, Maryland, and discussions about happenings at the agency continued even when they came home from the office. “I remember a poignant dialogue we had after the space shuttle Challenger disaster,” […]",
+      "url": "https://www.nasa.gov/centers-and-facilities/goddard/childhood-career-come-full-circle-for-budget-analyst-at-nasa-goddard/"
+    },
+    {
+      "category": "Science",
+      "title": " Scientists may have discovered new branch on the human family tree, 100,000-year-old tooth in China suggests ",
+      "source": " Latest from Live Science ",
+      "date": "Wed, 25 Nov 2026 16:00:00 +0000",
+      "summary": "One tooth from a cave in southern China may upend how we think about early human origins in Asia.",
+      "url": "https://www.livescience.com/archaeology/human-evolution/scientists-may-have-discovered-new-branch-on-the-human-family-tree-100-000-year-old-tooth-in-china-suggests"
+    },
+    {
+      "category": "Biblical Studies",
+      "title": "Almond-Stuffed Laughs",
+      "source": "Biblical Archaeology Society",
+      "date": "Wed, 25 Nov 2026 11:45:20 +0000",
+      "summary": "The ability to laugh and find humor in most any situation is something that has connected people across time, including the Romans, who often played […]\nThe post Almond-Stuffed Laughs appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/daily-life-and-practice/bar-test-kitchen/almond-stuffed-laughs/"
+    },
+    {
+      "category": "Biblical Studies",
+      "title": "Rediscovering the Dead Sea Scrolls",
+      "source": "Biblical Archaeology Society",
+      "date": "Wed, 25 Nov 2026 11:00:17 +0000",
+      "summary": "Lost Words and Forgotten Worlds: Rediscovering the Dead Sea Scrolls By Andrew Perrin (Bellingham: Lexham Press, 2025), 348 pp., 66 figs. (color & b/w photos, […]\nThe post Rediscovering the Dead Sea Scrolls appeared first on Biblical Archaeology Society.",
+      "url": "https://www.biblicalarchaeology.org/reviews/rediscovering-the-dead-sea-scrolls/"
+    },
+    {
+      "category": "Science",
+      "title": "A space telescope hunting for dark matter just discovered something unexpected",
       "source": "All Top News -- ScienceDaily",
-      "date": "Tue, 24 Nov 2026 18:31:52 EST",
-      "summary": "A revolutionary new nasal treatment has restored youthful learning and memory performance in aging mice while preventing severe cognitive decline in mice with Alzheimer’s-like disease. Developed using technology similar to COVID-19 mRNA vaccines, the nose drops stimulate production of a brain-protecting protein that strengthens neurons and supports memory. Remarkably, the treatment preserved brain function without removing Alzheimer’s-associated plaques, suggesting a completely different way to combat cognitive decline.",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261123005337.htm"
-    },
-    {
-      "category": "AI",
-      "title": "Half of NASA's aging Mars fleet knocked offline by technical issues",
-      "source": "Ars Technica",
-      "date": "Tue, 24 Nov 2026 22:50:11 +0000",
-      "summary": "Perseverance is having trouble transmitting to Earth. Odyssey is rapidly burning through its waning fuel supply.",
-      "url": "https://arstechnica.com/space/2026/11/half-of-nasas-aging-mars-fleet-knocked-offline-by-technical-issues/"
-    },
-    {
-      "category": "Space",
-      "title": " SpaceX launches secretive spy satellites from California for US Space Force (video) ",
-      "source": " Latest from Space.com ",
-      "date": "Tue, 24 Nov 2026 22:37:19 +0000",
-      "summary": "SpaceX launched its fifth classified mission for U.S. national security this month  today (Nov. 24), from Vandenberg Space Force Base in California.",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-secretive-spy-satellites-from-california-for-us-space-force-video"
-    },
-    {
-      "category": "AI",
-      "title": "Microsoft's historic cloud outage exposed an engineering “fog of war”",
-      "source": "Ars Technica",
-      "date": "Tue, 24 Nov 2026 22:36:28 +0000",
-      "summary": "Internal memos reveal a “Code Red” overhaul and ambitious one-hour recovery goals.",
-      "url": "https://arstechnica.com/gadgets/2026/11/microsofts-historic-cloud-outage-exposed-an-engineering-fog-of-war/"
-    },
-    {
-      "category": "Space",
-      "title": " On this day in space! Nov. 24, 1947: The US Navy launches the 1st Aerobee sounding rocket, but it didn't reach space ",
-      "source": " Latest from Space.com ",
-      "date": "Tue, 24 Nov 2026 21:47:34 +0000",
-      "summary": "On Nov. 24, 1947, the U.S. Navy launched the first Aerobee rocket into the sky, but it never reached space. Here's why it mattered.",
-      "url": "https://www.space.com/space-exploration/on-this-day-in-space-november-24-2026"
-    },
-    {
-      "category": "Space",
-      "title": "NASA+ Content Coming to Big Screen at Greenbelt, Maryland Cinema",
-      "source": "NASA",
-      "date": "Tue, 24 Nov 2026 21:14:36 +0000",
-      "summary": "NASA announced Monday that NASA+ content has found its first theatrical home at The Greenbelt Cinema in Greenbelt, Maryland, expanding the agency’s reach across major viewing platforms and bringing space even closer to home. “The National Aeronautics and Space Act of 1958 calls us to share our story of space exploration with the broadest possible […]",
-      "url": "https://www.nasa.gov/nasa/nasa-content-coming-to-big-screen-at-greenbelt-maryland-cinema/"
-    },
-    {
-      "category": "Space",
-      "title": "Teams Lock in Mission Architecture for NASA’s SR-1 Freedom",
-      "source": "NASA",
-      "date": "Tue, 24 Nov 2026 21:04:32 +0000",
-      "summary": "NASA completed a major review for Space Reactor-1 (SR-1) Freedom and locked in key elements of the spacecraft, which is targeted to launch in 2028 and demonstrate nuclear electric propulsion in deep space for the first time.   Experts from across the agency, the U.S. Department of Energy (DOE), and industry met at NASA’s Glenn Research […]",
-      "url": "https://www.nasa.gov/general/nasa-locks-in-sr1-freedom-mission-architecture/"
+      "date": "Wed, 25 Nov 2026 05:35:04 EST",
+      "summary": "ESA’s Euclid space telescope has discovered its first previously unknown comet, despite being designed to study distant galaxies and the mysteries of the dark Universe. The icy object is approximately 1.3 billion kilometers from Earth and follows an unusual orbit that takes thousands of years to complete.",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261124055852.htm"
     },
     {
       "category": "Science",
-      "title": " Medieval chain mail discovered during underwater excavation of 15th-century 'floating castle' that sank off Sweden ",
-      "source": " Latest from Live Science ",
-      "date": "Tue, 24 Nov 2026 20:45:12 +0000",
-      "summary": "A 15th-century shipwreck is yielding clues to the medieval tragedy that destroyed Griffin, King Hans's \"floating castle.\"",
-      "url": "https://www.livescience.com/archaeology/medieval-chain-mail-discovered-during-underwater-excavation-of-15th-century-floating-castle-that-sank-off-sweden"
-    },
-    {
-      "category": "AI",
-      "title": "What's going on with the Riemann hypothesis?",
-      "source": "Ars Technica",
-      "date": "Tue, 24 Nov 2026 20:34:53 +0000",
-      "summary": "A new AI-assisted proof seems to be solid, but we're not sure what it tells us.",
-      "url": "https://arstechnica.com/ai/2026/11/whats-going-on-with-the-riemann-hypothesis/"
-    },
-    {
-      "category": "Space",
-      "title": "Amateur Astronomer? Be a Kilonova Catcher!",
-      "source": "NASA",
-      "date": "Tue, 24 Nov 2026 19:19:52 +0000",
-      "summary": "Neutron stars are the ultra-dense, city-sized leftovers of dead stars. When they collide, they can release a brief flash of light called a kilonova. These immensely powerful events forge much of the universe’s gold, platinum and other heavy elements. Since a kilonova fades within days, astronomers have to find it fast, and no single observatory […]",
-      "url": "https://science.nasa.gov/get-involved/citizen-science/amateur-astronomer-be-a-kilonova-catcher/"
+      "title": "Physicists trap antimatter in a breakthrough that could explain why the universe exists",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Wed, 25 Nov 2026 05:06:22 EST",
+      "summary": "Positrons are the antimatter counterpart of an electron. Physicists trapped a positron and cooled it to temperatures near absolute zero. Positron is suspended in a wall-free trap, safely separated from ordinary matter. Team will conduct most precise comparison yet between matter and antimatter. Any difference between the electron and positron could expose cracks in the Standard Model of particle physics.",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261124055849.htm"
     },
     {
       "category": "Science",
-      "title": " Why Nobel physics prize winner Francis Halzen staked his career on an 'almost non-existent piece of reality' ",
-      "source": " Latest from Live Science ",
-      "date": "Tue, 24 Nov 2026 18:27:32 +0000",
-      "summary": "Live Science spoke with Nobel laureate Francis Halzen on how he got into physics \"by accident\" and built a neutrino detector that changed it forever.",
-      "url": "https://www.livescience.com/physics-mathematics/particle-physics/the-worry-was-that-i-was-totally-out-of-my-league-how-francis-halzen-bet-his-career-on-ghost-particles-beneath-the-south-pole-and-won-the-2026-nobel-prize-in-physics"
+      "title": "What is a thought made of? Why human consciousness may be beyond AI’s reach",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Wed, 25 Nov 2026 04:30:54 EST",
+      "summary": "A new theory suggests that the brain may chemically encode and retrieve memories rather than relying solely on electrical signals. Researchers propose that interactions between brain cells and their molecular surroundings could help explain the intimate connection between memory, emotion, and thought. Their findings challenge the assumption that increasingly powerful computers could eventually develop human-like consciousness.",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261124055712.htm"
     },
     {
-      "category": "Science",
-      "title": " It's time to look at Uranus: How to see the solar system's strangest planet at its best this week ",
-      "source": " Latest from Live Science ",
-      "date": "Tue, 24 Nov 2026 18:12:55 +0000",
-      "summary": "On Wednesday (Nov. 25), the distant ice giant Uranus will be at its best and brightest. Here's when, where and how to look for the seventh planet.",
-      "url": "https://www.livescience.com/space/uranus/uranus-reaches-opposition-how-to-see-the-solar-systems-strangest-planet-at-its-best-this-week"
+      "category": "Theology",
+      "title": "Does Your Preaching Have the Tincture of Christ in It?",
+      "source": "9Marks",
+      "date": "Wed, 25 Nov 2026 06:15:52 +0000",
+      "summary": "We want the tincture of Jesus Christ to diffuse throughout the whole of our preaching.\nThe post Does Your Preaching Have the Tincture of Christ in It? appeared first on 9Marks.",
+      "url": "https://www.9marks.org/article/does-your-preaching-have-the-tincture-of-christ-in-it/?utm_source=rss&utm_medium=rss&utm_campaign=does-your-preaching-have-the-tincture-of-christ-in-it"
+    },
+    {
+      "category": "Theology",
+      "title": "Christmas Is Good News for the Headline Weary",
+      "source": "The Gospel Coalition",
+      "date": "Wed, 25 Nov 2026 05:06:00 +0000",
+      "summary": "There’s no better news than the gospel—the message that God sent his Son to die on a cross for our sins and open a way for us to be reconciled to him.",
+      "url": "https://www.thegospelcoalition.org/article/christmas-good-news-weary/"
+    },
+    {
+      "category": "Theology",
+      "title": "‘Confession’ and ‘Ebenezer’: Moral Clarity in Murky Times",
+      "source": "The Gospel Coalition",
+      "date": "Wed, 25 Nov 2026 05:02:00 +0000",
+      "summary": "New movies ‘Confession’ and ‘Ebenezer’ unmask the ugliness of secular ‘values.’ They celebrate Christian virtue and the way grace transforms a life.",
+      "url": "https://www.thegospelcoalition.org/article/confession-ebenezer-moral-clarity/"
     },
     {
       "category": "AI",
@@ -171,22 +235,6 @@
       "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-near-eastern-world/10-things-to-know-about-the-assyrian-empire/"
     },
     {
-      "category": "Biblical Studies",
-      "title": "The Egyptian Journey of Jeremiah in the Bible",
-      "source": "Biblical Archaeology Society",
-      "date": "Tue, 24 Nov 2026 12:00:40 +0000",
-      "summary": "When the biblical prophet Jeremiah decided to leave Judah and spend the rest of his life in Egyptian exile (Jeremiah 43), it must have been […]\nThe post The Egyptian Journey of Jeremiah in the Bible appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-egypt/the-egyptian-journey-of-jeremiah-in-the-bible/"
-    },
-    {
-      "category": "Science",
-      "title": "2,200-year-old Roman shipwreck reveals an ingenious waterproofing trick",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Tue, 24 Nov 2026 06:09:06 EST",
-      "summary": "A 2,200-year-old Roman shipwreck has revealed sophisticated waterproofing techniques involving pine tar and beeswax. Microscopic pollen grains trapped in the ancient coatings are now helping scientists reconstruct where the vessel may have traveled and undergone repairs more than two millennia ago.",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261123232342.htm"
-    },
-    {
       "category": "AI",
       "title": "Searching for distant planets with Astra",
       "source": "OpenAI News",
@@ -195,44 +243,12 @@
       "url": "https://openai.com/index/searching-for-distant-planets-with-astra"
     },
     {
-      "category": "Science",
-      "title": "Earth's next ice age may have already begun. Global warming stopped it",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Tue, 24 Nov 2026 04:29:15 EST",
-      "summary": "Scientists have uncovered surprising evidence that Earth’s next ice age may have already begun, only to be stopped by global warming. By studying ancient plants preserved beneath the Barnes Ice Cap in the Canadian Arctic, researchers discovered that the remnants of a massive ice sheet began expanding again about 2,000 years ago, signaling the possible start of a new glacial period. But by the 1960s, rising temperatures had reversed that growth, causing the ice to shrink instead.",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261123005350.htm"
-    },
-    {
       "category": "History",
       "title": "Richard Oswald—War Advisor and Treaty Negotiator",
       "source": "Journal of the American Revolution",
       "date": "Tue, 24 Nov 2026 09:00:24 +0000",
       "summary": "By 1782, the American Revolution was reaching the point where negotiations needed to begin between the weary combatants. To this end, the Americans assembled their A-Team. They started with Benjamin Franklin and shortly thereafter added John Jay and John Adams, with Henry Laurens, recently released from imprisonment in the Tower of London, arriving the day […]\nThe post Richard Oswald—War Advisor and Treaty Negotiator appeared first on Journal of the American Revolution.",
       "url": "https://allthingsliberty.com/2026/11/richard-oswald-war-advisor-and-treaty-negotiator/"
-    },
-    {
-      "category": "Theology",
-      "title": "The Church Needs to Know Its History",
-      "source": "The Gospel Coalition",
-      "date": "Tue, 24 Nov 2026 05:05:00 +0000",
-      "summary": "Readers of this first volume of ‘Church History for Everyone’ won’t get a complete understanding of church history, but DeYoung provides a doorway through which  ordinary Christians can learn to explore primary sources and more comprehensive surveys on their own.",
-      "url": "https://www.thegospelcoalition.org/reviews/church-know-its-history/"
-    },
-    {
-      "category": "Theology",
-      "title": "Help! My Bible Reading Feels Dead.",
-      "source": "The Gospel Coalition",
-      "date": "Tue, 24 Nov 2026 05:02:00 +0000",
-      "summary": "Every passage takes its place in a larger drama. At the center of that drama stands a Person.",
-      "url": "https://www.thegospelcoalition.org/article/bible-reading-feels-dead/"
-    },
-    {
-      "category": "Theology",
-      "title": "5 Reasons Why It’s Hard to Discuss Our AI Fears",
-      "source": "The Gospel Coalition",
-      "date": "Tue, 24 Nov 2026 05:00:00 +0000",
-      "summary": "Christians aren’t remotely ready for the age of AI. Learn more about it and be ready to draw the line.",
-      "url": "https://www.thegospelcoalition.org/article/hard-discuss-ai-fears/"
     },
     {
       "category": "AI",
@@ -249,14 +265,6 @@
       "date": "Mon, 23 Nov 2026 15:04:49 +0000",
       "summary": "BOOK REVIEW: John Adams, Thomas Jefferson, and the Founding of America edited by Lee Ward and Michael P. Zuckert (University Press of Kansas, 2026) The 250th anniversary of America’s independence has brought forth a slew of books covering various angles of the Declaration of Independence and the Revolution’s earliest days, along with a resurgence of […]\nThe post John Adams, Thomas Jefferson, and the Founding of America appeared first on Journal of the American Revolution.",
       "url": "https://allthingsliberty.com/2026/11/john-adams-thomas-jefferson-and-the-founding-of-america/"
-    },
-    {
-      "category": "Biblical Studies",
-      "title": "Lighthouse of Alexandria Ring Rises from the Depths",
-      "source": "Biblical Archaeology Society",
-      "date": "Mon, 23 Nov 2026 11:45:20 +0000",
-      "summary": "The Lighthouse of Alexandria—also known as “Pharos,” the island on which it was constructed—was one of the most extraordinary engineering achievements of the ancient world. […]\nThe post Lighthouse of Alexandria Ring Rises from the Depths appeared first on Biblical Archaeology Society.",
-      "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-egypt/lighthouse-of-alexandria-ring-rises-from-the-depths/"
     },
     {
       "category": "History",
@@ -281,14 +289,6 @@
       "date": "Mon, 16 Nov 2026 02:56:20 +0000",
       "summary": "The divine aid necessary to overcome this stubborn hostility to divine grace comes from the Holy Spirit: he prompts repentance.\nThe post You Can’t Make It Happen: The Spirit and the Doctrine of Conversion appeared first on 9Marks.",
       "url": "https://www.9marks.org/article/you-cant-make-it-happen-the-spirit-and-the-doctrine-of-conversion/?utm_source=rss&utm_medium=rss&utm_campaign=you-cant-make-it-happen-the-spirit-and-the-doctrine-of-conversion"
-    },
-    {
-      "category": "Theology",
-      "title": "Not the Book on the Church You Were Expecting",
-      "source": "9Marks",
-      "date": "Fri, 13 Nov 2026 18:46:25 +0000",
-      "summary": "A work that is characterized more by meaty biblical-theological meditations on the church than by a systematic theological treatment of the topic.\nThe post Not the Book on the Church You Were Expecting appeared first on 9Marks.",
-      "url": "https://www.9marks.org/review/not-the-book-on-the-church-you-were-expecting/?utm_source=rss&utm_medium=rss&utm_campaign=not-the-book-on-the-church-you-were-expecting"
     },
     {
       "category": "History",
