@@ -1,54 +1,134 @@
 {
-  "lastUpdated": "2026-11-24T20:26:44.359Z",
+  "lastUpdated": "2026-11-25T04:43:37.527Z",
   "articleCount": 39,
   "articles": [
     {
       "category": "Science",
-      "title": "Visible light powers new catalyst to turn carbon dioxide into industrial raw material",
+      "title": "New EU Bureaucracy Index: EU law has more than doubled since 2010",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Tue, 24 Nov 2026 15:20:17 EST",
-      "summary": "Rice University researchers have demonstrated a way to split carbon dioxide using visible light without external heating, overcoming a major energy obstacle in sustainable chemical manufacturing.",
-      "url": "https://phys.org/news/2026-11-visible-powers-catalyst-carbon-dioxide.html"
-    },
-    {
-      "category": "Science",
-      "title": "California raised minimum wages for fast‑food workers—here's how it played out 2 years later",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Tue, 24 Nov 2026 15:20:06 EST",
-      "summary": "Even before the 2026 midterm elections delivered a clear message about cost-of-living concerns, many states had been raising their minimum wage on their own as one way to increase workers' purchasing power. And some have taken a more targeted approach, setting wage floors for specific industries.",
-      "url": "https://phys.org/news/2026-11-california-minimum-wages-fastfood-workers.html"
+      "date": "Tue, 24 Nov 2026 23:40:01 EST",
+      "summary": "The new EU Bureaucracy Index measures the volume of EU law in force, and it shows a record high: At the end of 2025, the EU regulations and directives in force comprised around 47,600 standard pages, 118% more than in 2010. The volume of EU law has thus more than doubled in 15 years, and it continued to grow in 2025. The main drivers are sanctions regulations and new sets of rules in environmental, consumer and health law.",
+      "url": "https://phys.org/news/2026-11-eu-bureaucracy-index-law.html"
     },
     {
       "category": "AI",
-      "title": "Back-to-back measles deaths is our new reality; US tally now at 14",
+      "title": "Show HN: U.S. Interstate Weather",
+      "source": "Hacker News: Front Page",
+      "date": "Wed, 25 Nov 2026 04:35:32 +0000",
+      "summary": "In case you're going on a road trip this week in the lower 48 (Thanksgiving is a big U.S holiday on Thursday).\nComments URL: https://news.ycombinator.com/item?id=50638523\nPoints: 3\n# Comments: 1",
+      "url": "https://www.interstateweather.com/"
+    },
+    {
+      "category": "Science",
+      "title": "Queensland keeps learning disaster lessons. So why do we keep forgetting them?",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Tue, 24 Nov 2026 23:00:02 EST",
+      "summary": "After an early start to Queensland's storm season, with severe storms and flooding already affecting communities across the state, attention is once again turning to disaster preparedness and response.",
+      "url": "https://phys.org/news/2026-11-queensland-disaster-lessons.html"
+    },
+    {
+      "category": "AI",
+      "title": "Marginalia Search, Money, C++, Rust, AI, Stuff",
+      "source": "Hacker News: Front Page",
+      "date": "Wed, 25 Nov 2026 03:47:42 +0000",
+      "summary": "Article URL: https://www.marginalia.nu/log/a_141_marginalia_update/\nComments URL: https://news.ycombinator.com/item?id=50638220\nPoints: 21\n# Comments: 2",
+      "url": "https://www.marginalia.nu/log/a_141_marginalia_update/"
+    },
+    {
+      "category": "AI",
+      "title": "A faster algorithm for extracting hexadecimal digits of π",
+      "source": "Hacker News: Front Page",
+      "date": "Wed, 25 Nov 2026 03:28:42 +0000",
+      "summary": "Article URL: https://www.stylewarning.com/posts/faster-digit-extraction/\nComments URL: https://news.ycombinator.com/item?id=50638075\nPoints: 6\n# Comments: 0",
+      "url": "https://www.stylewarning.com/posts/faster-digit-extraction/"
+    },
+    {
+      "category": "Science",
+      "title": "A star's 'obliquity' likely has little impact on a given planet's habitability",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Tue, 24 Nov 2026 22:20:01 EST",
+      "summary": "A star's axial tilt as it relates to the circumstellar disk that surrounds it is known as stellar obliquity. Over space and time, there are a myriad of solar-type stars with all sorts of obliquities. But the question heretofore has always been what effect a given star's initial obliquity has on the planetary system that forms around it.",
+      "url": "https://phys.org/news/2026-11-star-obliquity-impact-planet-habitability.html"
+    },
+    {
+      "category": "Space",
+      "title": " How to watch 'Blade Runner 2099' online — stream the sci-fi sequel series from anywhere ",
+      "source": " Latest from Space.com ",
+      "date": "Wed, 25 Nov 2026 01:00:00 +0000",
+      "summary": "How to watch \"Blade Runner 2099\", the cyberpunk spinoff starring Hunter Schafer and Michelle Yeoh. Cheapest options, where to watch in US, UK, Canada, Australia and beyond.",
+      "url": "https://www.space.com/entertainment/space-movies-shows/how-to-watch-blade-runner-2099-online-stream-the-sci-fi-sequel-series-from-anywhere"
+    },
+    {
+      "category": "Science",
+      "title": "New nose drops restore youthful memory and fight Alzheimer’s in aging mice",
+      "source": "All Top News -- ScienceDaily",
+      "date": "Tue, 24 Nov 2026 18:31:52 EST",
+      "summary": "A revolutionary new nasal treatment has restored youthful learning and memory performance in aging mice while preventing severe cognitive decline in mice with Alzheimer’s-like disease. Developed using technology similar to COVID-19 mRNA vaccines, the nose drops stimulate production of a brain-protecting protein that strengthens neurons and supports memory. Remarkably, the treatment preserved brain function without removing Alzheimer’s-associated plaques, suggesting a completely different way to combat cognitive decline.",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261123005337.htm"
+    },
+    {
+      "category": "AI",
+      "title": "Half of NASA's aging Mars fleet knocked offline by technical issues",
       "source": "Ars Technica",
-      "date": "Tue, 24 Nov 2026 20:00:18 +0000",
-      "summary": "Wisconsin reports 3rd measles death today; Pennsylvania reported its 9th yesterday.",
-      "url": "https://arstechnica.com/health/2026/11/measles-death-toll-rises-to-14-as-national-case-tally-nears-6000/"
+      "date": "Tue, 24 Nov 2026 22:50:11 +0000",
+      "summary": "Perseverance is having trouble transmitting to Earth. Odyssey is rapidly burning through its waning fuel supply.",
+      "url": "https://arstechnica.com/space/2026/11/half-of-nasas-aging-mars-fleet-knocked-offline-by-technical-issues/"
+    },
+    {
+      "category": "Space",
+      "title": " SpaceX launches secretive spy satellites from California for US Space Force (video) ",
+      "source": " Latest from Space.com ",
+      "date": "Tue, 24 Nov 2026 22:37:19 +0000",
+      "summary": "SpaceX launched its fifth classified mission for U.S. national security this month  today (Nov. 24), from Vandenberg Space Force Base in California.",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-secretive-spy-satellites-from-california-for-us-space-force-video"
+    },
+    {
+      "category": "AI",
+      "title": "Microsoft's historic cloud outage exposed an engineering “fog of war”",
+      "source": "Ars Technica",
+      "date": "Tue, 24 Nov 2026 22:36:28 +0000",
+      "summary": "Internal memos reveal a “Code Red” overhaul and ambitious one-hour recovery goals.",
+      "url": "https://arstechnica.com/gadgets/2026/11/microsofts-historic-cloud-outage-exposed-an-engineering-fog-of-war/"
+    },
+    {
+      "category": "Space",
+      "title": " On this day in space! Nov. 24, 1947: The US Navy launches the 1st Aerobee sounding rocket, but it didn't reach space ",
+      "source": " Latest from Space.com ",
+      "date": "Tue, 24 Nov 2026 21:47:34 +0000",
+      "summary": "On Nov. 24, 1947, the U.S. Navy launched the first Aerobee rocket into the sky, but it never reached space. Here's why it mattered.",
+      "url": "https://www.space.com/space-exploration/on-this-day-in-space-november-24-2026"
+    },
+    {
+      "category": "Space",
+      "title": "NASA+ Content Coming to Big Screen at Greenbelt, Maryland Cinema",
+      "source": "NASA",
+      "date": "Tue, 24 Nov 2026 21:14:36 +0000",
+      "summary": "NASA announced Monday that NASA+ content has found its first theatrical home at The Greenbelt Cinema in Greenbelt, Maryland, expanding the agency’s reach across major viewing platforms and bringing space even closer to home. “The National Aeronautics and Space Act of 1958 calls us to share our story of space exploration with the broadest possible […]",
+      "url": "https://www.nasa.gov/nasa/nasa-content-coming-to-big-screen-at-greenbelt-maryland-cinema/"
+    },
+    {
+      "category": "Space",
+      "title": "Teams Lock in Mission Architecture for NASA’s SR-1 Freedom",
+      "source": "NASA",
+      "date": "Tue, 24 Nov 2026 21:04:32 +0000",
+      "summary": "NASA completed a major review for Space Reactor-1 (SR-1) Freedom and locked in key elements of the spacecraft, which is targeted to launch in 2028 and demonstrate nuclear electric propulsion in deep space for the first time.   Experts from across the agency, the U.S. Department of Energy (DOE), and industry met at NASA’s Glenn Research […]",
+      "url": "https://www.nasa.gov/general/nasa-locks-in-sr1-freedom-mission-architecture/"
     },
     {
       "category": "Science",
-      "title": "Planktonic hyperiidean amphipod confirmed in the Aegean Sea, and a new study shows how to identify subadult males",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Tue, 24 Nov 2026 15:00:14 EST",
-      "summary": "Amphipods change in size and shape each time they molt. When a species is told apart from its relatives by small anatomical details, this creates a practical problem: a trait that identifies an adult may be absent or different in the younger animal. A recently published study in Biodiversity Data Journal tests this problem on Phronima atlantica, a planktonic amphipod of the open ocean, and identifies which of its features stay reliable in males from the subadult to the adult stage.",
-      "url": "https://phys.org/news/2026-11-planktonic-hyperiidean-amphipod-aegean-sea.html"
+      "title": " Medieval chain mail discovered during underwater excavation of 15th-century 'floating castle' that sank off Sweden ",
+      "source": " Latest from Live Science ",
+      "date": "Tue, 24 Nov 2026 20:45:12 +0000",
+      "summary": "A 15th-century shipwreck is yielding clues to the medieval tragedy that destroyed Griffin, King Hans's \"floating castle.\"",
+      "url": "https://www.livescience.com/archaeology/medieval-chain-mail-discovered-during-underwater-excavation-of-15th-century-floating-castle-that-sank-off-sweden"
     },
     {
       "category": "AI",
-      "title": "From CUDA and Jax to TorchTPU: Lessons from a Cayley Graph Solver",
-      "source": "Hacker News: Front Page",
-      "date": "Tue, 24 Nov 2026 19:40:43 +0000",
-      "summary": "Article URL: https://andlukyane.com/blog/cayley-graphs-and-torchtpu\nComments URL: https://news.ycombinator.com/item?id=50633424\nPoints: 6\n# Comments: 0",
-      "url": "https://andlukyane.com/blog/cayley-graphs-and-torchtpu"
-    },
-    {
-      "category": "AI",
-      "title": "Grafana 12.4.16, 13.0.14, 13.1.11, 13.2.7 and 13.3.2 (multiple CVEs)",
-      "source": "Hacker News: Front Page",
-      "date": "Tue, 24 Nov 2026 19:23:44 +0000",
-      "summary": "Article URL: https://grafana.com/grafana/download\nComments URL: https://news.ycombinator.com/item?id=50633159\nPoints: 51\n# Comments: 11",
-      "url": "https://grafana.com/grafana/download"
+      "title": "What's going on with the Riemann hypothesis?",
+      "source": "Ars Technica",
+      "date": "Tue, 24 Nov 2026 20:34:53 +0000",
+      "summary": "A new AI-assisted proof seems to be solid, but we're not sure what it tells us.",
+      "url": "https://arstechnica.com/ai/2026/11/whats-going-on-with-the-riemann-hypothesis/"
     },
     {
       "category": "Space",
@@ -59,56 +139,8 @@
       "url": "https://science.nasa.gov/get-involved/citizen-science/amateur-astronomer-be-a-kilonova-catcher/"
     },
     {
-      "category": "AI",
-      "title": "Compiling Web Applications into Verified Operations for AI Agents",
-      "source": "Hacker News: Front Page",
-      "date": "Tue, 24 Nov 2026 19:12:02 +0000",
-      "summary": "Article URL: https://protocolis.co/paper/\nComments URL: https://news.ycombinator.com/item?id=50632998\nPoints: 14\n# Comments: 0",
-      "url": "https://protocolis.co/paper/"
-    },
-    {
-      "category": "Space",
-      "title": "NASA’s Northrop Grumman CRS-25 Mission Overview ",
-      "source": "NASA",
-      "date": "Tue, 24 Nov 2026 19:09:16 +0000",
-      "summary": "NASA’s Northrop Grumman Commercial Resupply Services 25 mission, or Northrop Grumman CRS-25, will deliver about 11,000 pounds of science and supplies to the International Space Station. The mission will be the third flight of the company’s Cygnus XL, the larger, more cargo-capable version of the company’s solar-powered spacecraft. The Cygnus XL will launch aboard a […]",
-      "url": "https://www.nasa.gov/missions/station/nasas-northrop-grumman-crs-25-mission-overview/"
-    },
-    {
-      "category": "Space",
-      "title": " 1st-ever detection of a dying star's 'final nuclear heartbeat' challenges what we know about our sun's eventual death ",
-      "source": " Latest from Space.com ",
-      "date": "Tue, 24 Nov 2026 19:00:00 +0000",
-      "summary": "Astronomers have caught a rare transitional phase at the end of a star's life, a fossilized remnant of stellar death throes, that could change our picture of the sun's final days.",
-      "url": "https://www.space.com/astronomy/stars/1st-ever-detection-of-a-dying-stars-final-nuclear-heartbeat-challenges-what-we-know-about-our-suns-eventual-death"
-    },
-    {
-      "category": "Space",
-      "title": "AGU Hyperwall Schedule",
-      "source": "NASA",
-      "date": "Tue, 24 Nov 2026 18:55:42 +0000",
-      "summary": "American Geophysical Union (AGU) 2026 Join NASA in the Exhibit Hall (Booth #525) for Hyperwall Storytelling by NASA experts. Full Hyperwall Agenda below. TUESDAY, NOVEMBER 17 10:30 AMHigh Resolution Hydrology Simulations and Agentic Super Intelligence Interfaces for Mapping Water Availability and ExtremesSujay Kumar11:00 AMScale-Resolving CFD Methods for Predicting Aircraft “Edge of the Flight Envelope” PerformanceJared […]",
-      "url": "https://science.nasa.gov/earth/agu-hyperwall-schedule/"
-    },
-    {
-      "category": "AI",
-      "title": "Amazon drone crashes on garage after delivering shampoo, draws FAA probe",
-      "source": "Ars Technica",
-      "date": "Tue, 24 Nov 2026 18:47:57 +0000",
-      "summary": "Amazon says Prime Air drones made “hundreds of thousands” of deliveries in 2026.",
-      "url": "https://arstechnica.com/gadgets/2026/11/faa-opens-probe-after-amazon-delivery-drone-clips-cable-crashes-into-garage/"
-    },
-    {
-      "category": "AI",
-      "title": "Amazon discovers Falcon 9 and Ariane 6 can deliver when nobody else can",
-      "source": "Ars Technica",
-      "date": "Tue, 24 Nov 2026 18:30:36 +0000",
-      "summary": "Amazon has hundreds of satellites in storage waiting for rides to space.",
-      "url": "https://arstechnica.com/space/2026/11/amazon-surges-launches-with-rival-spacex-after-ula-fails-to-deliver/"
-    },
-    {
       "category": "Science",
-      "title": " 'The worry was that I was totally out of my league': How Francis Halzen bet his career on 'ghost particles' beneath the South Pole — and won the 2026 Nobel Prize in Physics ",
+      "title": " Why Nobel physics prize winner Francis Halzen staked his career on an 'almost non-existent piece of reality' ",
       "source": " Latest from Live Science ",
       "date": "Tue, 24 Nov 2026 18:27:32 +0000",
       "summary": "Live Science spoke with Nobel laureate Francis Halzen on how he got into physics \"by accident\" and built a neutrino detector that changed it forever.",
@@ -123,28 +155,12 @@
       "url": "https://www.livescience.com/space/uranus/uranus-reaches-opposition-how-to-see-the-solar-systems-strangest-planet-at-its-best-this-week"
     },
     {
-      "category": "Science",
-      "title": " 'A new record in quantum error correction': Scientists say breakthrough brings powerful, fault-tolerant quantum computers closer to reality ",
-      "source": " Latest from Live Science ",
-      "date": "Tue, 24 Nov 2026 16:00:00 +0000",
-      "summary": "Quantinuum's Helios processor achieved a record-low failure rate of just 0.0005%, suggesting fault-tolerant quantum systems may need far fewer qubits than previously thought.",
-      "url": "https://www.livescience.com/technology/quantum/a-new-record-in-quantum-error-correction-scientists-say-breakthrough-brings-powerful-fault-tolerant-quantum-computers-closer-to-reality"
-    },
-    {
-      "category": "Space",
-      "title": " YunLone Galaxy star projector review — a sub-$30 customizable night light ",
-      "source": " Latest from Space.com ",
-      "date": "Tue, 24 Nov 2026 15:00:00 +0000",
-      "summary": "The YunLone Galaxy Projector is inexpensive but competent and offers a surprising amount of customization.",
-      "url": "https://www.space.com/technology/yunlone-galaxy-star-projector-review"
-    },
-    {
-      "category": "Space",
-      "title": " Double asteroid solar eclipse caught on camera | Space photo of the day for Nov. 24, 2026 ",
-      "source": " Latest from Space.com ",
-      "date": "Tue, 24 Nov 2026 15:00:00 +0000",
-      "summary": "A spacecraft far from Earth beamed home a rare sight: a solar eclipse caused by one asteroid casting its shadow on another.",
-      "url": "https://www.space.com/astronomy/asteroids/double-asteroid-solar-eclipse-caught-on-camera-space-photo-of-the-day-for-nov-24-2026"
+      "category": "AI",
+      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+      "source": "OpenAI News",
+      "date": "Tue, 24 Nov 2026 13:00:00 GMT",
+      "summary": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets.",
+      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities"
     },
     {
       "category": "Biblical Studies",
@@ -227,14 +243,6 @@
       "url": "https://openai.com/business/customer-stories/intentful-dots"
     },
     {
-      "category": "AI",
-      "title": "How iFood scales coding agents across 15,000 repositories",
-      "source": "OpenAI News",
-      "date": "Tue, 24 Nov 2026 00:00:00 GMT",
-      "summary": "",
-      "url": "https://openai.com/business/customer-stories/ifood"
-    },
-    {
       "category": "History",
       "title": "John Adams, Thomas Jefferson, and the Founding of America",
       "source": "Journal of the American Revolution",
@@ -249,14 +257,6 @@
       "date": "Mon, 23 Nov 2026 11:45:20 +0000",
       "summary": "The Lighthouse of Alexandria—also known as “Pharos,” the island on which it was constructed—was one of the most extraordinary engineering achievements of the ancient world. […]\nThe post Lighthouse of Alexandria Ring Rises from the Depths appeared first on Biblical Archaeology Society.",
       "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-egypt/lighthouse-of-alexandria-ring-rises-from-the-depths/"
-    },
-    {
-      "category": "Science",
-      "title": "Earth's core may be leaking a 4.5-billion-year-old secret",
-      "source": "All Top News -- ScienceDaily",
-      "date": "Mon, 23 Nov 2026 00:53:36 EST",
-      "summary": "Scientists have discovered an unusual carbon signature in Hawaiian volcanic rocks that suggests some of Earth's carbon originated in ancient meteorites and later escaped from deep within the planet's core. The discovery raises an astonishing possibility: Carbon essential to life may have traveled from space to Earth's depths before emerging through volcanoes billions of years later.",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261123005336.htm"
     },
     {
       "category": "History",
