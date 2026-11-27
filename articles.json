@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-26T19:21:48.606Z",
+  "lastUpdated": "2026-11-27T03:53:11.745Z",
   "articleCount": 39,
   "articles": [
     {
@@ -11,12 +11,60 @@
       "url": "https://www.thegospelcoalition.org/article/advent-playlist-2026/"
     },
     {
+      "category": "AI",
+      "title": "Google will show solo Android developers' phone numbers and addresses",
+      "source": "Hacker News: Front Page",
+      "date": "Fri, 27 Nov 2026 03:11:41 +0000",
+      "summary": "Article URL: https://support.google.com/googleplay/android-developer/answer/17594752?hl=en\nComments URL: https://news.ycombinator.com/item?id=50662322\nPoints: 13\n# Comments: 4",
+      "url": "https://support.google.com/googleplay/android-developer/answer/17594752?hl=en"
+    },
+    {
+      "category": "AI",
+      "title": "Hard Drive pricing has gotten bad",
+      "source": "Hacker News: Front Page",
+      "date": "Fri, 27 Nov 2026 01:13:49 +0000",
+      "summary": "Article URL: https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/\nComments URL: https://news.ycombinator.com/item?id=50661646\nPoints: 97\n# Comments: 41",
+      "url": "https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/"
+    },
+    {
       "category": "Science",
-      "title": "Wave-like displays in animal groups may have evolved to deceive predators",
+      "title": "Digital access to early music",
       "source": "Phys.org - latest science and technology news stories",
-      "date": "Thu, 26 Nov 2026 14:00:15 EST",
-      "summary": "Some of the most striking patterns in collective behavior emerge in the face of danger. When a predator approaches, some animal groups morph into a vision of pulsing waves. These patterns might be more than a side effect of group living; they could have evolved as a form of deception, argue Dr. Eduardo Sampaio and professor Iain Couzin of the Max Planck Institute of Animal Behavior (MPI-AB) and the University of Konstanz in a Perspectives piece published in Science.",
-      "url": "https://phys.org/news/2026-11-displays-animal-groups-evolved-predators.html"
+      "date": "Thu, 26 Nov 2026 20:00:01 EST",
+      "summary": "What may look to modern readers like a form of secret code in fact opens the door to a fascinating world of historical music: German lute tablature. Developed specifically for the Renaissance lute, this rich notational tradition preserves dances, songs and other musical works that were immensely popular some 500 years ago. As part of an interdisciplinary team of experts, researchers at the University of Bayreuth are now making these sources readable and audible once again through a digital scholarly edition platform.",
+      "url": "https://phys.org/news/2026-11-digital-access-early-music.html"
+    },
+    {
+      "category": "AI",
+      "title": "AI agents now control part of DeepMind's compute for Gemini experiments",
+      "source": "Hacker News: Front Page",
+      "date": "Fri, 27 Nov 2026 00:03:18 +0000",
+      "summary": "Article URL: https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/\nComments URL: https://news.ycombinator.com/item?id=50661218\nPoints: 39\n# Comments: 19",
+      "url": "https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/"
+    },
+    {
+      "category": "Science",
+      "title": "Why molecular cage catalysts show enormous differences in performance",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Thu, 26 Nov 2026 18:20:02 EST",
+      "summary": "Chemistry researchers have developed a new way to identify and understand highly effective artificial enzyme-like catalysts using powerful \"molecular cages\" that mimic the behavior of nature's enzymes. These tiny, hollow molecular structures act like miniature reaction chambers to trap molecules and accelerate chemical reactions. The cages showed enormous differences in performance, with the best catalysts more than 10,000 times more active than the least effective ones.",
+      "url": "https://phys.org/news/2026-11-molecular-cage-catalysts-enormous-differences.html"
+    },
+    {
+      "category": "Science",
+      "title": "DESTINY model tracks molecular chemistry on uneven, ice-covered grains in interstellar space",
+      "source": "Phys.org - latest science and technology news stories",
+      "date": "Thu, 26 Nov 2026 16:40:01 EST",
+      "summary": "Interstellar space is the scene of active chemical processes: molecules form there in the gas, but also on the surface of tiny dust grains covered in ice. To better represent what happens on these surfaces, astrophysicists at the University of Liège are proposing a deterministic approach based on Markov chains with absorbing states, a mathematical tool that had not yet been utilized in astrochemistry. The paper is published in the journal Astronomy & Astrophysics.",
+      "url": "https://phys.org/news/2026-11-destiny-tracks-molecular-chemistry-uneven.html"
+    },
+    {
+      "category": "Space",
+      "title": " Every smart telescope we've reviewed and highly rate that is cheaper for Black Friday — full list ",
+      "source": " Latest from Space.com ",
+      "date": "Thu, 26 Nov 2026 21:08:45 +0000",
+      "summary": "Black Friday has seen the price of smart telescopes slashed, with great beginner models available from Unistellar, ZWO, Vaonis and Dwarflab.",
+      "url": "https://www.space.com/stargazing/skywatching-kit/every-smart-telescope-weve-reviewed-and-highly-rate-that-is-cheaper-for-black-friday-full-list"
     },
     {
       "category": "Space",
@@ -28,27 +76,11 @@
     },
     {
       "category": "Science",
-      "title": "Runaway pulsar escapes the remnant of its own supernova",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Thu, 26 Nov 2026 13:50:02 EST",
-      "summary": "A team of astronomers has spotted a rare example of a pulsar that has escaped the cloud of debris left by the supernova explosion in which it formed. Led by Rohit Dokara, formerly at the Max Planck Institute for Radio Astronomy, the team made the discovery by chance, adding to just a handful of similar known cases.",
-      "url": "https://phys.org/news/2026-11-runaway-pulsar-remnant-supernova.html"
-    },
-    {
-      "category": "Science",
       "title": " Oldest male orca on record may have been identified thanks to historical atomic bomb testing ",
       "source": " Latest from Live Science ",
       "date": "Thu, 26 Nov 2026 18:20:31 +0000",
       "summary": "Researchers might have identified the oldest male orca ever recorded after testing for radioactive traces of atomic bombs in the teeth of whales stranded in Scotland.",
       "url": "https://www.livescience.com/animals/orcas/oldest-male-orca-on-record-may-have-been-identified-thanks-to-historical-atomic-bomb-testing"
-    },
-    {
-      "category": "AI",
-      "title": "George Whitesides, 1939-2026",
-      "source": "Hacker News: Front Page",
-      "date": "Thu, 26 Nov 2026 18:13:07 +0000",
-      "summary": "Article URL: https://www.science.org/content/blog-post/george-whitesides-1939-2026\nComments URL: https://news.ycombinator.com/item?id=50657936\nPoints: 4\n# Comments: 1",
-      "url": "https://www.science.org/content/blog-post/george-whitesides-1939-2026"
     },
     {
       "category": "AI",
@@ -65,38 +97,6 @@
       "date": "Thu, 26 Nov 2026 18:00:00 +0000",
       "summary": "Colorful metaphors, a near-miss with Eddie Murphy and humpback whales in 20th-century California.",
       "url": "https://www.space.com/entertainment/space-movies-shows/star-trek-iv-the-voyage-home-at-40-trek-has-never-been-as-joyous-or-fun-as-in-the-one-with-the-whales"
-    },
-    {
-      "category": "AI",
-      "title": "CTO of 'RansomwareHelp' Indicted for Wire Fraud",
-      "source": "Hacker News: Front Page",
-      "date": "Thu, 26 Nov 2026 17:47:45 +0000",
-      "summary": "Article URL: https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/\nComments URL: https://news.ycombinator.com/item?id=50657645\nPoints: 57\n# Comments: 15",
-      "url": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/"
-    },
-    {
-      "category": "Science",
-      "title": "5G interference can alter high-impact weather forecasts",
-      "source": "Phys.org - latest science and technology news stories",
-      "date": "Thu, 26 Nov 2026 12:40:01 EST",
-      "summary": "Could leaks from future 5G networks interfere with satellite weather measurements and potentially alter forecasts? That's the concern of a group of researchers from the U.S. states of New Jersey and Maryland, with lead author Behzad Golparvar from Rutgers University in New Jersey.",
-      "url": "https://phys.org/news/2026-11-5g-high-impact-weather.html"
-    },
-    {
-      "category": "AI",
-      "title": "YouTube Ad Punisher – Bypass anti-adblock",
-      "source": "Hacker News: Front Page",
-      "date": "Thu, 26 Nov 2026 17:36:47 +0000",
-      "summary": "Article URL: https://github.com/antonpictures/youtube-punisher\nComments URL: https://news.ycombinator.com/item?id=50657530\nPoints: 53\n# Comments: 60",
-      "url": "https://github.com/antonpictures/youtube-punisher"
-    },
-    {
-      "category": "Space",
-      "title": " Can't wait for Dune: Part 3? Catch up on the sandy sci-fi saga with this half-price HBO Max Black Friday deal ",
-      "source": " Latest from Space.com ",
-      "date": "Thu, 26 Nov 2026 17:30:00 +0000",
-      "summary": "Whether you want to bring yourself up to speed on Dune or binge-watch HBO's vast catalogue of sci-fi and superheroes, this HBO Max Prime Video add-on deal offers some serious streaming savings.",
-      "url": "https://www.space.com/entertainment/space-movies-shows/cant-wait-for-dune-part-3-catch-up-on-the-sandy-sci-fi-saga-with-this-half-price-hbo-max-black-friday-deal"
     },
     {
       "category": "Science",
